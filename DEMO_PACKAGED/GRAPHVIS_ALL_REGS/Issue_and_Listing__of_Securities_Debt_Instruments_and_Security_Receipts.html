@@ -1,0 +1,131 @@
+<html>
+<head>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" rel="stylesheet" type="text/css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js" type="text/javascript"> </script>
+</head><body><center>
+<h1>Issue and Listing  of Securities Debt Instruments and Security Receipts</h1>
+</center>
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 750px;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+        #config {
+            float: left;
+            width: 400px;
+            height: 600px;
+        }
+        
+
+        
+</style>
+<div id="mynetwork"></div>
+<div id="config"></div>
+<script type="text/javascript"> 
+ 
+     // initialize global variables.
+     var edges;
+     var nodes;
+     var network; 
+     var container;
+     var options, data;
+ 
+     
+     // This method is responsible for drawing the graph, returns the drawn network
+     function drawGraph() {
+         var container = document.getElementById('mynetwork');
+         
+         
+ 
+         // parsing and collecting nodes and edges from the python
+         nodes = new vis.DataSet([{"color": "blue", "id": "Apr17_2020.html", "label": "Apr17_2020.html", "shape": "dot", "title": "Apr17_2020.html", "url": "../ALL_REGULATIONS_HTML/Issue_and_Listing__of_Securities_Debt_Instruments_and_Security_Receipts/standalone/Apr17_2020.html"}, {"color": "blue", "id": "Dec01_2015.html", "label": "Dec01_2015.html", "shape": "dot", "title": "Dec01_2015.html", "url": "../ALL_REGULATIONS_HTML/Issue_and_Listing__of_Securities_Debt_Instruments_and_Security_Receipts/standalone/Dec01_2015.html"}, {"color": "#dd4b39", "id": "Comments_Apr17_2020.html", "label": "Comments_Apr17_2020.html", "shape": "dot", "title": "Comments_Apr17_2020.html", "url": "../ALL_REGULATIONS_HTML/Issue_and_Listing__of_Securities_Debt_Instruments_and_Security_Receipts/comments/Comments_Apr17_2020.html"}, {"color": "#dd4b39", "id": "Comments_Dec01_2015.html", "label": "Comments_Dec01_2015.html", "shape": "dot", "title": "Comments_Dec01_2015.html", "url": "../ALL_REGULATIONS_HTML/Issue_and_Listing__of_Securities_Debt_Instruments_and_Security_Receipts/comments/Comments_Dec01_2015.html"}]);
+         edges = new vis.DataSet([{"color": "#000000", "from": "Apr17_2020.html", "to": "Dec01_2015.html", "url": "../ALL_REGULATIONS_HTML/Issue_and_Listing__of_Securities_Debt_Instruments_and_Security_Receipts/comparision/Dec01_2015vsApr17_2020.html", "value": 5}, {"color": "#000000", "from": "Apr17_2020.html", "to": "Comments_Apr17_2020.html", "value": 5}, {"color": "#000000", "from": "Dec01_2015.html", "to": "Comments_Dec01_2015.html", "value": 5}]);
+ 
+         // adding nodes and edges to the graph
+         data = {nodes: nodes, edges: edges};
+ 
+         var options = {
+     "configure": {
+         "enabled": true
+     },
+     "edges": {
+         "color": {
+             "inherit": true
+         },
+         "smooth": {
+             "enabled": false,
+             "type": "continuous"
+         }
+     },
+     "interaction": {
+         "dragNodes": true,
+         "hideEdgesOnDrag": false,
+         "hideNodesOnDrag": false
+     },
+     "physics": {
+         "enabled": true,
+         "hierarchicalRepulsion": {
+             "centralGravity": 0.0,
+             "damping": 0.09,
+             "nodeDistance": 120,
+             "springConstant": 0.01,
+             "springLength": 100
+         },
+         "solver": "hierarchicalRepulsion",
+         "stabilization": {
+             "enabled": true,
+             "fit": true,
+             "iterations": 1000,
+             "onlyDynamicEdges": false,
+             "updateInterval": 50
+         }
+     }
+ };
+         
+         
+ 
+         
+         // if this network requires displaying the configure window,
+         // put it in its div
+         options.configure["container"] = document.getElementById("config");
+         
+ 
+         network = new vis.Network(container, data, options);
+ 
+         
+ 
+ 
+         
+ 
+ network.on("selectEdge", function (params) {
+        if (params.edges.length === 1) {
+            var edge = edges.get(params.edges[0]);
+            window.open(edge.url, '_tab');
+        }
+    });
+    
+network.on("selectNode", function (params) {
+        if (params.nodes.length === 1) {
+            var node = nodes.get(params.nodes[0]);
+            window.open(node.url, '_tab');
+        }
+    });
+         return network;
+ 
+     }
+ 
+     drawGraph();
+ 
+</script>
+</body></html>
