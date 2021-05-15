@@ -1,0 +1,1571 @@
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+(1 [PROHIBITION OF] INSIDER TRADING) 
+
+REGULATIONS, 1992 
+
+  
+In exercise of the powers conferred by section 30 of the Securities and Exchange Board of India 
+Act, 1992 (15 of 1992), the Board with the previous approval of the Central Government, hereby 
+makes the following regulations, namely :— 
+
+ 
+
+CHAPTER I 
+
+PRELIMINARY 
+
+Short title and commencement. 
+1. (1) These regulations may be called the Securities and Exchange Board of India (2[Prohibition of] 
+Insider Trading) Regulations, 1992. 
+(2) These regulations shall come into force on the date of their publication in the Official 3Gazette. 
+ 
+Definitions. 
+2. In these regulations, unless the context otherwise requires :— 
+  (a)  “Act” means the Securities and Exchange Board of India Act, 1992 (15 of 1992); 
+ (b)  “body corporate” means a body corporate as defined in section 2 of the Companies Act, 1956 
+
+(1 of 1956) ; 
+
+  (c)  “connected person” means any person who— 
+
+  (i)  is  a  director,  as  defined  in  clause  (13)  of  section  2  of  the  Companies  Act,  1956  (1  of 
+1956), of a company, or is deemed to be a director of that company by virtue of sub-clause 
+(10) of section 307 of that Act or 
+
+ (ii)  occupies  the  position  as  an  officer  or  an  employee  of  the  company  or  holds  a  position 
+involving  a  professional  or  business  relationship  between  himself  and  the  company 
+4[whether  temporary  or  permanent]  and  who  may  reasonably  be  expected  to  have  an 
+access to unpublished price sensitive information in relation to that company: 
+  5[Explanation  :—For  the  purpose  of  clause  (c),  the  words  “connected  person”  shall 
+6[mean]  any  person  who  is  a  connected  person  six  months  prior  to  an  act  of  insider 
+trading;] 
+
+ 
+
+ (d)  “dealing  in  securities”  means  an  act  of  7[subscribing,]  buying,  selling  or  agreeing  to 
+
+8[subscribe,] buy, sell or deal in any securities by any person either as principal or agent; 
+
+                                                 
+1 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002,w.e.f. 20-02-2002.  
+2 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002,w.e.f. 20-02-2002.  
+3 19-11-1992. 
+4 Inserted by the SEBI (Trading) (Amendment) Regulations, 2002,w.e.f. 20-02-2002. 
+5 Inserted by  the SEBI (Trading) (Amendment) Regulations, 2002, w.e.f. 20-02-2002.  
+6 Substituted for “include” by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 29-11-2002. 
+7 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002, w.e.f. 20-2-2002. 
+8 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002, w.e.f. 20-2-2002.  
+
+Page 1 of 22 
+
+ 
+
+9[(e) “insider” means any person who,  
+ 
+
+  (i)    is  or  was  connected  with  the  company  or  is  deemed  to  have  been  connected  with  the 
+company  and  is  reasonably  expected  to  have  access  10[***]  to  unpublished  price  sensitive 
+information in respect of securities of 11[a] company, or  
+
+       (ii) has received or has had access to such unpublished price sensitive information ;] 
+  (f)  “investigating authority” means any officer of the Board or any other person, not being a firm, 
+body corporate or an association of persons, having experience in dealing with the problems 
+relating to the securities market and who is authorised by the Board under Chapter III ; 
+
+ (g)  “officer  of  a  company”  means  any  person  as  defined  in  clause  (30)  of  section  2  of  the 
+
+Companies Act, 1956 (1 of 1956) including an auditor of the company; 
+
+ (h)  “person is deemed to be a connected person”, if such person— 
+
+  (i)  is a company under the same management or group, or any subsidiary company thereof 
+within the meaning of sub-section (1B) of section 370, or sub-section (11) of section 372, 
+of the Companies Act, 1956 (1 of 1956) or sub-clause (g) of section 2 of the Monopolies 
+and Restrictive Trade Practices Act, 1969 (54 of 1969) as the case may be; or 
+
+12 [(ii) is an intermediary as specified in section 12 of the Act, Investment company, Trustee 
+Company, Asset Management Company or an employee or director thereof or an official 
+of a stock exchange or of clearing house or corporation;] 
+
+(iii)  is a merchant banker, share transfer agent, registrar to an issue, debenture trustee, broker, 
+portfolio manager, Investment Advisor, sub-broker, Investment Company or an employee 
+thereof, or is member of the Board of Trustees of a mutual fund or a member of the Board 
+of  Directors  of  the  Asset  Management  Company  of  a  mutual  fund  or  is  an  employee 
+thereof who have a fiduciary relationship with the company;  
+
+ (iv)  is a Member of the Board of Directors or an employee of a public financial institution as 
+
+defined in section 4A of the Companies Act, 1956; or 
+
+ (v)  is an official or an employee of a Self-regulatory Organisation recognised or authorised by 
+
+the Board of a regulatory body; or 
+
+ (vi)  is a relative of any of the aforementioned persons; 
+(vii) is a banker of the company. 
+13 [(viii) relatives of the connected person; or 
+14 [(ix) is a concern, firm, trust, Hindu undivided family, company or association of persons 
+wherein  any  of  the  connected  persons  mentioned in  sub-clause  (i)  of clause  (c),  of  this 
+
+                                                 
+9 Inserted by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2008 w.e.f. 19-11-2008. 
+10 The words “by virtue of such connection,” omitted by the SEBI Insider Trading) (Amendment) Regulations, 2002, 
+w.e.f. 20-2-2002.   
+ 
+11 Substituted for the word “the” by the Insider Trading) (Amendment) Regulations, 2002, w.e.f. 20-2-2002.  
+  
+12 Substituted by the SEBI (Insider Trading) (Amendment) Regulations, 2002, w.e.f. 20-2-2002.  Prior to its substitution, 
+sub-clause (ii) read as under:- 
+“is an official or a member of a stock exchange or of a clearing house of that stock exchange, or a dealer in securities 
+within the meaning of clause (c) of section 2 , and section 17 of the Securities Contracts (Regulation) Act, 1956 (42 of 
+1956), respectively, or any employee or such member or dealer of a stock exchange.” 
+ 
+13 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002, w.e.f. 20-2-2002.  
+
+Page 2 of 22 
+
+ 
+
+regulation or any of the persons mentioned in sub-clause (vi), (vii) or (viii) of this clause 
+have more than 10 per cent of the holding or interest;]] 
+
+ 
+
+15 [(ha) “price sensitive information” means any information which relates directly or indirectly 
+to a company and which if published is likely to materially affect the price of securities of 
+company. 
+  Explanation.—The following shall be deemed to be price sensitive information :— 
+  (i)  periodical financial results of the company; 
+ (ii)  intended declaration of dividends (both interim and final); 
+(iii)  issue of securities or buy-back of securities; 
+ (iv)  any major expansion plans or execution of new projects. 
+ (v)  amalgamation, mergers or takeovers; 
+ (vi)  disposal of the whole or substantial part of the undertaking;  
+(vii) and significant changes in policies, plans or operations of the company;]  
+
+  (i)  “relative” means a person, as defined in section 6 of the Companies Act, 1956 (1 of 1956); 
+  (j)  “stock exchange” means a stock exchange which is recognised by the Central Government 
+16[or  Securities  and  Exchange  Board  of  India]  under  section  4  of  Securities  Contracts 
+(Regulation) Act, 1956 (42 of 1956); 
+
+17 [(k) “unpublished” means information which is not published by the company or its agents 
+
+and is not specific in nature. 
+  Explanation.—Speculative reports in print or electronic media shall not be considered as 
+published information.] 
+
+ 
+
+ 
+18[(l) “working day” shall mean the working day when the regular trading is permitted on the 
+
+concerned stock exchange where the securities of the company are listed] 
+
+                                                                                                                                                                   
+14 Substituted by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 29-11-2002. Earlier it 
+was inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002, w.e.f. 20-02-2002. Prior to its substitution, 
+sub-clause (ix) read as under:- 
+“a concern, firm, trust, Hindu undivided family, company, association of persons wherein the relatives of persons 
+mentioned in sub-clauses (vi) , (vii) and (viii) has more than 10 per cent of the holding or interest. ” 
+15 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002, w.e.f. 20-2-2002.  
+16 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002, w.e.f. 20-2-2002.  
+17 Substituted by the SEBI (Insider Trading) (Amendment) Regulations, 2002, w.e.f. 20-2-2002. Prior to its substitution, 
+clause (k) read as under:- 
+“(k) Unpublished price sensitive information   means any information which related to the following matters or is of 
+concern, directly or indirectly, to a company, and is not generally known or published by such company” for general 
+information , but which if published or known, is likely to materially affect the price of securities of that company in the 
+market – 
+
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+
+financial results (both half-yearly and annual) of the company; 
+intended declaration of dividend (both interim/final); 
+issue of shares by way of public rights, bonus etc.; 
+any major expansion plans or execution of new projects; 
+amalgamations, mergers and takeovers; 
+disposal of the whole or substantially the whole of the undertaking; 
+such other information as may affect the earnings of the company. 
+
+18 Inserted by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2008 w.e.f. 19-11-2008. 
+
+Page 3 of 22 
+
+ 
+
+  
+
+CHAPTER II 
+
+PROHIBITION ON DEALING, COMMUNICATING OR COUNSELLING 
+
+ 
+Prohibition on dealing, communicating or counselling on matters relating to insider trading. 
+3. No insider shall— 
+  (i)  either on his own behalf or on behalf of any other person, deal in securities of a company listed 
+on any stock exchange 19[when in possession of] any unpublished price sensitive information; 
+or 
+
+20 [(ii)  communicate 21[or] counsel or procure directly or indirectly any unpublished price sensitive 
+information  to  any  person  who  while  in  possession  of  such  unpublished  price  sensitive 
+information shall not deal in securities : 
+  Provided that nothing contained above shall be applicable to any communication required in 
+the ordinary course of business 22[or profession or employment] or under any law.] 
+
+ 
+
+23 [***] 
+24  [3A.  No  company  shall  deal  in  the  securities  of  another  company  or  associate  of  that  other 
+
+company while in possession of any unpublished price sensitive information.] 
+
+ 
+ 
+ 
+25 [Regulation 3A not to apply in certain cases. 
+3B. (1) In a proceeding against a company in respect of regulation 3A, it shall be a defence to prove 
+that it entered into a transaction in the securities of a listed company when the unpublished price 
+sensitive information was in the possession of an officer or employee of the company, if : 
+ (a)  the decision to enter into the transaction or agreement was taken on its behalf by a person or 
+
+persons other than that officer or employee; and 
+
+ (b)  such company has put in place such systems and procedures which demarcate the activities of 
+the company in such a way that the person who enters into transaction in securities on behalf of 
+the  company  cannot  have  access  to  information  which  is  in  possession  of  other  officer  or 
+employee of the company; and 
+
+                                                 
+19 Substituted for “on the basis of” by the SEBI (Insider Trading) (Amendment) Regulations, 2002, w.e.f. 20-02-2002. 
+20 Substituted by the SEBI (Insider Trading) (Amendment) Regulations, 2002, w.e.f. 20-02-2002. Prior to its substitution 
+clause (ii) read as under:- 
+“(ii) communicate any unpublished price sensitive information to any person, with or without his request for such 
+information, except as required in the ordinary course of business or under any law; or” 
+21 Inserted by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2008 w.e.f. 19-11-2008. 
+22 Inserted by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 2002, w.e.f. 29-11-2002. 
+23 Omitted by t the SEBI (Insider Trading) (Amendment) Regulations, 2002, w.e.f. 20-2-2002. Prior to its omission 
+clause (iii) read as under:- 
+“(iii) counsel or procure any other person to deal in securities of any company on the basis of unpublished price 
+sensitive information.” 
+24 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002. 
+25 Inserted by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 2002 w.e.f. 29-11-2002. 
+
+Page 4 of 22 
+
+ 
+
+  (c)  it had in operation at that time, arrangements that could reasonably be expected to ensure that 
+the information was not communicated to the person or persons who made the decision and 
+that no advice with respect to the transactions or agreement was given to that person or any of 
+those persons by that officer or employee; and 
+
+ (d)  the information was not so communicated and no such advice was so given. 
+(2)  In  a  proceeding  against  a  company  in  respect  of  regulation  3A  which  is  in  possession  of 
+unpublished price sensitive information, it shall be defence to prove that acquisition of shares of a 
+listed company was as per the Securities and Exchange Board of India (Substantial Acquisition of 
+Shares and Takeovers) Regulations, 1997.] 
+ 
+Violation of provisions relating to insider trading. 
+4. Any insider who deals in securities 26[***] in contravention of the provisions of regulation 3 27[or 
+3A] shall be guilty of insider trading. 
+
+  
+
+CHAPTER III 
+
+INVESTIGATION 
+
+28 [Power to make inquiries and inspection. 
+4A. (1) If the Board suspects that any person has violated any provision of these regulations, it may 
+make inquiries with such persons or any other person as mentioned in clause (i) of sub-section (2) of 
+section 11 as deemed fit, to form a prima facie opinion as to whether there is any violation of these 
+regulations. 
+(2) The Board may appoint one or more officers to inspect the books and records of insider(s) or any 
+other  persons  as  mentioned  in  clause  (i)  of  sub-section  (2)  of  section  11  for  the  purpose  of  sub-
+regulation (1).] 
+ 
+Board’s right to investigate. 
+5. (1) Where the Board, 29[is of prima facie opinion] that it is necessary to investigate and inspect 
+the books of account, either records and documents of an insider 30[or any other person mentioned in 
+clause  (i)  of  sub-section  (1)  of  section  11  of  the  Act]  for  any  of  the  purposes  specified  in  sub-
+regulation (2), it may appoint an investigating authority for the said purpose. 
+(2) The purpose referred to in sub-regulation (1) may be as follows: 
+ (a)  to investigate into the complaints received from investors, intermediaries or any other person 
+
+on any matter having a bearing on the allegations of insider trading; and 
+
+ (b)  to investigate suo-motu upon its own knowledge or information in its possession to protect the 
+
+interest of investors in securities against breach of these regulations. 
+
+ 
+                                                 
+26 The words “or communicates any information or counsels any person dealing in securities” omitted by the SEBI 
+(Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002. 
+27 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002. 
+28 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002.  
+29 Substituted for “on the basis of written information in its possession, is of the opinion” by the SEBI (Insider Trading) 
+(Amendment) Regulations, 2002 w.e.f. 20-02-2002.  
+30 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002.  
+
+Page 5 of 22 
+
+ 
+
+Procedure for investigation. 
+6. (1) Before undertaking any investigation under regulation 5, the Board shall give a reasonable 
+notice to insider for that purpose. 
+(2) Notwithstanding anything contained in sub-regulation (1), where the Board is satisfied that in the 
+interest  of  investors  or  in  public  interest  no  such  notice  should  be  given,  it  may  by  an  order  in 
+writing direct that the investigation be taken up without such notice. 
+(3) On being empowered by the Board, the investigation authority shall undertake the investigation 
+and inspection of books of account and the insider against whom an investigation is being carried 
+out 31[an insider or any other person mentioned in clause (i) of sub-section (1) of section 11 of the 
+Act] shall be bound to discharge his obligations as provided in regulation 7. 
+ 
+Obligations of insider on investigation by the Board. 
+7.  (1)  It  shall  be  the  duty  of  every  insider,  who  is  being  investigated  32[or  any  other  person 
+mentioned in clause (i) of sub-section (1) of section 11 of the Act], to produce to the investigating 
+authority  such  books,  accounts  and  other  documents  in  his  custody  or  control  and  furnish  the 
+authority with the statements and information relating to the transactions in securities market within 
+such time as the said authority may require. 
+(2) The insider 33[or any other person mentioned 34[in] clause (i) of sub-section (2) of section 11 of 
+the Act] shall allow the investigating authority to have reasonable access to the premises occupied 
+by such insider and also extend reasonable facility for examining any books, records, documents and 
+computer data in the possession of the stock-broker or any other person and also provide copies of 
+documents or other materials which in the opinion of the investigating authority are relevant. 
+(3) The investigating authority, in the course of investigation, shall be entitled to examine or record 
+statements of any member, director, partner, proprietor and employee of the insider 35[or any other 
+person mentioned in clause (i) of sub-section (2) of section 11 of the Act]. 
+(4) It shall be the duty of every director, proprietor, partner, officer and employee of the insider to 
+give  to  the  investigating  authority  all  assistance  in  connection  with  the  investigation,  which  the 
+insider  36[or any other person mentioned in clause (i) of sub-section (2) of section 11 of the Act] 
+may be reasonably expected to give. 
+ 
+Submission of Report to the Board. 
+8. The investigating authority shall, within 37[reasonable time] of the conclusion of the investigation, 
+submit an investigation report to the Board. 
+ 
+Communications of findings, etc. 
+
+                                                 
+31 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002.  
+32 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002.  
+33 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002.  
+34 Inserted by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 2002, w.e.f. 29-11-2002.  
+35 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002. 
+36 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002.   
+37 Substituted for the words “one month” by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-
+2002.  
+
+Page 6 of 22 
+
+ 
+
+9. 38[(1) The Board shall, after consideration of the investigation report communicate the findings to 
+the person suspected to be involved in insider trading or violation of these regulations. 
+(2) The person to whom such findings has been communicated shall reply to the same within 21 
+days; and 
+(3) On receipt of such a reply or explanation, if any, from such person, the Board may take such 
+measures as it deems fit to protect the interests of the investors and in the interests of the securities 
+market and for the due compliance of the 39[provisions] of the Act, the regulations made thereunder 
+including the issue of directions under regulation 11.] 
+ 
+ 
+ 
+Appointment of Auditor. 
+10.  Notwithstanding  anything  contained  in  40[regulation  4A  and]  regulation  5,  the  Board  may 
+appoint a qualified auditor to investigate into the books of account or the affairs of the insider 41[or 
+any other person mentioned in clause (i) of sub-section (1) of section 11 of the Act] : 
+Provided that, the auditor so appointed shall have the same powers of the inspecting authority as 
+stated in regulation 5 and the insider shall have the obligations specified in regulation 7. 
+ 
+42 [Directions by the Board. 
+11. The Board may without prejudice to its right to initiate criminal prosecution under section 24 or 
+any action under Chapter VIA of the Act, to protect the interests of investor and in the interests of 
+the  securities  market  and  for  due  compliance  with  the  provisions  of  the  Act,  regulation  made 
+thereunder issue any or all of the following order, namely : 
+
+                                                 
+38 Substituted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002. Prior to their 
+substitution, sub-regulations (1) and (2) read as under:- 
+   “(1) The Board shall after consideration of the investigation report communicate the findings to the insider and he 
+shall be given an opportunity of being heard before any action is taken by the Board on the findings of the investigating 
+authority. 
+    (2) On receipt of the explanation, if any, from the insider, the Board may call upon the insider to take such measures 
+as the Board may deem fit to protect the interest of the securities market and for due compliance with the provisions of 
+the Ac, rules made thereunder and these regulations.” 
+ 
+39 Substituted for “province” by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 2002, 
+w.e.f. 29-11-2002. 
+40 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002. 
+41 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002. 
+42 Substituted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002. Prior to its substitution 
+regulation 11 read as under:- 
+“11. Directions by the Board – On receipt of the explanation, if any, from the insider under sub-regulation (2) of 
+regulation (9) , the Board may without prejudice to its right to initiate criminal prosecution under section 24 of the Act, 
+give such directions to protect the interest of investors and in the interest of the securities market and for due compliance 
+with the provisions of the Act, rules made thereunder and these regulations, as it deems fit for all or any of the following 
+purposes, namely:-  
+
+(a)  directing the insider not to deal in securities in any particular manner; 
+(b)  prohibiting the insider from disposing of any of the securities acquired in violation of these regulations; 
+(c)  restraining the insider to communicate or counsel any person to deal in securities.”  
+(d)   
+
+ 
+
+Page 7 of 22 
+
+ (a)  directing the insider or such person as mentioned in clause (i) of sub-section (2) of section 11 
+
+of the Act not to deal in securities in any particular manner; 
+
+ (b)  prohibiting the insider or such person as mentioned in clause (i) of sub-section (2) of section 11 
+
+of the Act from disposing of any of the securities acquired in violation of these regulations; 
+
+  (c)  restraining the insider to communicate or counsel any person to deal in securities; 
+ (d)  declaring the transaction(s) in securities as null and void; 
+  (e)  directing the person who acquired the securities in violation of these regulations to deliver the 
+
+securities back to the seller : 
+  Provided that in case the buyer is not in a position to deliver such securities, the market price 
+prevailing at the time of issuing of such directions or at the time of transactions whichever is 
+higher, shall be paid to the seller; 
+
+ 
+
+(f)  directing the person who has dealt in securities in violation of these regulations to transfer an 
+amount  or  proceeds  equivalent  to  the  cost  price  or  market  price  of  securities,  whichever  is 
+higher to the investor protection fund of a recognised stock exchange.] 
+
+ 
+ 
+43 [Manner of service of summons and notice issued by the Board. 
+11A. A summons or notice issued by the Board under these regulations may be served in the manner 
+provided in regulation 22 of the Securities and Exchange Board of India (Procedure for Holding 
+Enquiry by Enquiry Officer and Imposing Penalty) Regulations, 2002.] 
+
+ 
+  
+
+44 [CHAPTER IV 
+
+POLICY ON DISCLOSURES AND INTERNAL PROCEDURE  
+
+FOR PREVENTION OF INSIDER TRADING 
+
+  
+
+Code of internal procedures and conduct for listed companies and other entities. 
+12. (1) All listed companies and organisations associated with securities markets including : 
+ (a)  the  intermediaries  as  mentioned  in  section  12  of  the  Act,  asset  management  company  and 
+
+trustees of mutual funds ; 
+
+ (b)  the self-regulatory organisations recognised or authorised by the Board; 
+  (c)  the recognised stock exchanges and clearing house or corporations; 
+ (d)  the public financial institutions as defined in section 4A of the Companies Act, 1956; and 
+(e)  the  professional  firms  such  as  auditors,  accountancy  firms,  law  firms,  analysts,  consultants, 
+
+etc., assisting or advising listed companies, 
+
+                                                 
+43 Inserted by the SEBI (Manner of Service of Summons and Notices by the Board) (Amendment) Regulations, 2007, w.e.f. 23-
+04-2007.  
+44 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002. 
+ 
+
+Page 8 of 22 
+
+ 
+
+shall frame a code of internal procedures and conduct as near thereto the Model Code specified in 
+Schedule I of these Regulations 45[without diluting it in any manner and ensure compliance of the 
+same]. 
+(2) The entities mentioned in sub-regulation (1), shall abide by the code of Corporate Disclosure 
+Practices as specified in Schedule II of these Regulations. 
+(3) All entities mentioned in sub-regulation (1), shall adopt appropriate mechanisms and procedures 
+to enforce the codes specified under sub-regulations (1) and (2). 
+(4) Action taken by the entities mentioned in sub-regulation (1) against any person for violation of 
+the  code  under  sub-regulation  (3)  shall  not  preclude  the  Board  from  initiating  proceedings  for 
+violation of these Regulations. 
+ 
+Disclosure of interest or holding by directors and officers and substantial shareholders in a 
+listed companies - Initial Disclosure. 
+13. (1) Any person who holds more than 5% shares or voting rights in any listed company shall 
+disclose to the company 46[in Form A], the number of shares or voting rights held by such person, 
+on becoming such holder, within 47[2 working days] of :— 
+ (a)  the receipt of intimation of allotment of shares; or 
+ (b)  the acquisition of shares or voting rights, as the case may be. 
+(2) 48[Any person who is a director or officer of a listed company shall disclose to the company in 
+Form B the number of shares or voting rights held and positions taken in derivatives by such person 
+and his dependents (as defined by the company), within two working days of becoming a director or 
+officer of the company.]  
+Continual disclosure. 
+(3)  Any  person  who  holds  more  than  5%  shares  for  voting  rights  in  any  listed  company  shall 
+disclose to the company  49[in Form C] the number of shares or voting rights held and change in 
+shareholding or voting rights, even if such change results in shareholding falling below 5%, if there 
+has been change in such holdings from the last disclosure made under sub-regulation (1) or under 
+this  sub-regulation;  and  such  change  exceeds  2%  of  total  shareholding  or  voting  rights  in  the 
+company. 
+50[(4)  Any  person  who  is  a  director  or  officer  of  a  listed  company,  shall  disclose  to  the 
+
+                                                 
+45 Inserted by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2008 w.e.f. 19-11-2008.  
+46 Inserted by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2003 w.e.f. 11-07-2003. 
+47 Substituted for the figure and words “4 working days” by the SEBI (Prohibition of Insider Trading) (Amendment) 
+Regulations, 2008 w.e.f. 19-11-2008.  
+48 Substituted by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2008 w.e.f. 19-11-2008. Prior to 
+substitution sub-regulation (2) read as under:- 
+“(2) Any person who is a director or officer of a listed company, shall disclose to the company in Form B, the number of 
+shares or voting rights held by such person, within 4 working days of becoming a director or officer of the company.” 
+49 Inserted by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2003 w.e.f. 11-07-2003.  
+50 Substituted by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2008 w.e.f. 19-11-2008. Prior to 
+its substitution sub-regulation (4) read as under:- 
+“(4) Any person who is a director or officer of a listed company, shall disclose to the company in Form D, the total 
+number of shares or voting rights held and change in shareholding or voting rights, if there has been a change in such 
+holdings from the last disclosure made under sub-regulation (2) or under this sub-regulation, and the change exceeds Rs. 
+5 lakh in value or 25,000 shares or 1% of total shareholding or voting rights, whichever is lower.” 
+
+ 
+
+Page 9 of 22 
+
+company  and  the  stock  exchange  where  the  securities    are    listed    in    Form    D,    the    total  
+number  of  shares  or voting rights held and change in shareholding  or voting rights, if there 
+has  been  a  change  in  such  holdings  of  such  person  and  his  dependents  (as  defined  by  the 
+company)  from  the  last  disclosure  made  under  sub-regulation    (2)  or  under  this  sub-
+regulation,    and  the  change  exceeds  Rs.  5  lakh  in  value  or  25,000  shares  or  1%  of  total 
+shareholding or voting rights, whichever is lower.] 
+ (5) The disclosure mentioned in sub-regulations (3) and (4) shall be made within 51[two] working 
+days of : 
+ (a)  the receipts of intimation of allotment of shares, or 
+ (b)  the acquisition or sale of shares or voting rights, as the case may be. 
+Disclosure by company to stock exchanges. 
+(6)  Every  listed  company,  52[within  two  working  days]  of  receipt,  shall  disclose  to  all  stock 
+exchanges on which the company is listed, the information received under sub-regulations (1), (2), 
+(3) and (4) 53[in the respective formats specified in Schedule III.] 
+54[E-filing. 
+(7)  The  disclosures  required  under  this  regulation  may  also  be made  through  electronic  
+filing  in  accordance  with  the  system devised by the stock exchange.] 
+ 
+55[Action in case of default. 
+14.  Without  prejudice  to  the  directions  under  regulation  11,  if  any person violates provisions 
+of these  regulations,  he shall  be liable  for appropriate   action   under  Sections   11,  11B,  11D,  
+Chapter  VIA  and Section 24 of the Act.] 
+ 
+56 [Appeal to the 57[Securities Appellate Tribunal]. 
+58 [15.] Any person aggrieved by an order of the Board under these regulations may prefer an appeal 
+to the Securities Appellate Tribunal.] 
+                                                 
+51 Substituted for the number “4” by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2008 w.e.f. 
+19-11-2008.  
+52 Substituted for the words “within five days” by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 
+2008 w.e.f. 19-11-2008.  
+53 Inserted by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2002, w.e.f. 11-07-2003. 
+54 Inserted by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2008 w.e.f. 19-11-2008.  
+55 Substituted by the . Prior to its substitution regulation 14 read as under:- 
+“Violation of provision relating to disclosure. 
+14.  (1)  A  person  who  violates  provisions  of  regulation  12  shall  be  liable  for  action  under  section  11  or  11B  and/or 
+section 24 of the Act. 
+(2) A person who violates provisions of regulation 13 shall be liable for action as specified in regulation 11 or sections 
+11, 11B or action under Chapter VIA or section 24 of the Act.” 
+ 
+56 Substituted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002. Prior to its substitution 
+it was substituted by the SEBI (Appeal to the Securities Appellate Tribunal ) (Amendment) Regulations, 2000, w.e.f. 28-
+03-2000, which read as under:- 
+“12. Appeal to the Central Government - Any person aggrieved by an order of the Board made on and after the 
+commencement of the Securities Laws (Second Amendment) Act, 1999,(i.e., after 16th December, 1999), under these 
+regulations may prefer an appeal to a Securities Appellate Tribunal having jurisdiction in the matter.” 
+57 Substituted for “Central Government” by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2008 
+w.e.f. 19-11-2008.  
+
+Page 10 of 22 
+
+ 
+
+ 
+
+59 [SCHEDULE I 
+
+[Under regulation 12(1)] 
+
+  
+
+PART A 
+
+MODEL CODE OF CONDUCT FOR PREVENTION OF  
+
+INSIDER TRADING FOR LISTED COMPANIES 
+
+1.0 Compliance Officer 
+1.1 The listed company has appointed a Compliance Officer senior level employee who shall report 
+to the Managing Director/Chief Executive Officer. 
+1.2  The  compliance  officer  shall  be  responsible  for setting  forth  policies,  procedures,  monitoring 
+adherence  to  the  rules  for  the  preservation  of  “Price  Sensitive  Information”,  pre-clearing;  of 
+designated employees’ and their dependents’ trades (directly or through respective department heads 
+as decided by the company), monitoring of trades and the implementation of the code of conduct 
+under the overall supervision of the Board of the listed company. 
+Explanation : For the purpose of this Schedule, the term ‘designated employee’ shall include :— 
+  (i)  officers comprising the top three tiers of the company management 60[***]; 
+ (ii)  the  employees  designated  by  the  company  to  whom  these  trading  restrictions  shall  be 
+
+applicable, keeping in mind the objectives of this code of conduct. 
+
+1.3 The compliance officer shall maintain a record of the designated employees and any changes 
+made in the list of designated employees. 
+1.4 The compliance officer shall assist all the employees in addressing any clarifications regarding 
+the Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 1992 and 
+the company’s code of conduct. 
+2.0 Preservation of “Price Sensitive Information” 
+2.1  Employees/directors  shall  maintain  the  confidentiality  of  all  Price  Sensitive  Information. 
+Employees/Directors shall 61[not] pass on such information to any person directly or indirectly by 
+way of making a recommendation for the purchase or sale of securities. 
+2.2 Need to know 
+2.2-1 Price Sensitive Information is to be handled on a “need to know” basis, i.e., Price Sensitive 
+Information  should  be  disclosed  only  to  those  within  the  company  who  need  the  information  to 
+discharge their duty. 
+2.3 Limited access to confidential information 
+2.3.1  Files  containing  confidential  information  shall  be  kept  secure.  Computer  files  must  have 
+adequate security of login and password etc. 
+                                                                                                                                                                   
+58 Regulation 12 renumbered as regulation 15 by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-
+02-2002. 
+59 Inserted by the SEBI (Insider Trading) (Amendment) Regulations, 2002 w.e.f. 20-02-2002.  
+60 The words “and all employees in the finance department” omitted by the SEBI (Prohibition of Insider Trading) 
+(Second Amendment) Regulations, 2002, w.e.f. 29-11-2002. 
+61 Substituted for “no” by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 2002, w.e.f. 29-
+11-2002. 
+
+Page 11 of 22 
+
+ 
+
+3.0 Prevention of misuse of “Price Sensitive Information” 
+3.1  All  directors/officers  and  designated  employees  of  the  company  shall  be  subject  to  trading 
+restrictions as enumerated below. 
+3.2 Trading window 
+3.2.1 The company shall specify a trading period, to be called “trading window”, for trading in the 
+company’s securities. The trading window shall be closed during the time the information referred 
+to in para 3.2.3 is unpublished. 
+3.2.2 When the trading window is closed, the employees/directors shall not trade in the company’s 
+securities in such period. 
+3.2.3 The trading window shall be, inter alia, closed at the time :— 
+ (a)  Declaration of financial results (quarterly, half-yearly and annually). 
+ (b)  Declaration of dividends (interim and final). 
+  (c)  Issue of securities by way of public/rights/bonus etc. 
+ (d)  Any major expansion plans or execution of new projects. 
+  (e)  Amalgamation, mergers, takeovers and buy-back. 
+  (f)  Disposal of whole or substantially whole of the undertaking. 
+ (g)  Any changes in policies, plans or operations of the company. 
+62  [3.2.3A  The  time  for  commencement  of  closing  of  trading  window  shall  be  decided  by  the 
+company.] 
+3.2-4 The trading window shall be opened 24 hours after the information referred to in para 3.2.3 is 
+made public. 
+3.2-5 All directors/officers/designated employees of the company shall conduct all their dealings in 
+the securities of the Company only in a valid trading window and shall not deal in any transaction 
+involving the purchase or sale of the company’s securities during the periods when trading window 
+is closed, as referred to in para 3.2.3 or during any other period as may be specified by the Company 
+from time to time. 
+3.2-6 In case of ESOPs, exercise of option may be allowed in the period when the trading window is 
+closed. However, sale of shares allotted on exercise of ESOPs shall 63[not] be allowed when trading 
+window is closed. 
+3.3 Pre-clearance of trades 
+3.3.1 All directors/officers/designated employees of the company 64[and their dependents as defined 
+by the company] who intend to deal in the securities of the company (above a minimum threshold 
+limit  to  be  decided  by  the  company)  should  pre-clear  the  transaction  as  per  the  pre-dealing 
+procedure as described hereunder. 
+3.3.2 An application may be made in such form as the company may notify in this regard, to the 
+Compliance  Officer 
+the  designated 
+employee/officer/director  intends  to  deal  in,  the  details  as  to  the  depository  with  which  he  has  a 
+security account, the details as to the securities in such depository mode and such other details as 
+may be required by any rule made by the company in this behalf. 
+                                                 
+62 Insider by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 2002, w.e.f. 29-11-2002. 
+63 Substituted for “no” by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2002, w.e.f. 29-11-2002. 
+64 Inserted by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2008 w.e.f. 19-11-2008.  
+
+the  estimated  number  of  securities 
+
+Page 12 of 22 
+
+indicating 
+
+that 
+
+ 
+
+3.3.3  An  undertaking  shall  be  executed  in  favour  of  the  company  by  such  designated 
+employee/director/officer incorporating, inter alia, the following clauses, as may be applicable : 
+ (a)  That  the  employee/director/officer  does  not  have  any  access  or  has  not  received  “Price 
+
+Sensitive Information” upto the time of signing the undertaking. 
+
+ (b)  That  in  case  the  employee/director/officer  has  access  to  or  receives  “Price  Sensitive 
+Information” after the signing of the undertaking but before the execution of the transaction 
+he/she shall inform the Compliance Officer of the change in his position and that he/she would 
+completely refrain from dealing in the securities of the company till the time such information 
+becomes public. 
+
+  (c)  That  he/she  has  not  contravened  the  code  of  conduct  for  prevention  of  insider  trading  as 
+
+notified by the company from time to time. 
+
+ (d)  That he/she has made a full and true disclosure in the matter. 
+4.0 Other restrictions 
+4.1  All  directors/officers/designated  employees  65[and  their  dependents  (as  defined  by  the 
+company)] shall execute their order in respect of securities of the company within one week after the 
+approval of pre-clearance is given. If the order is not executed within one week after the approval is 
+given, the employee/director must pre-clear the transaction again. 
+66[4.2 All  directors/  officers/  designated  employees  who  buy  or sell any number of shares of the 
+company shall not enter into an opposite transaction i.e. sell or  buy  any  number  of  shares during 
+the next six months  following  the prior transaction.  All directors/  officers/  designated  employees 
+shall also not take positions   in   derivative   transactions   in   the   shares   of   the company at any 
+time. 
+In the case of subscription in the primary market (initial public offers),  
+ 
+period would commence   when t h e  s e c u r i t i e s    are a c t u a l l y  allotted.] 
+4.3 In case the sale of securities is necessitated by personal emergency, the holding period may be 
+waived by the compliance officer after recording in writing his/her reasons in this regard. 
+5.0 Reporting Requirements for transactions in securities 
+5.1 All directors/officers/designated employees of the listed company shall be required to forward 
+following  details  of  their  securities  transactions  including  the  statement  of  dependent  family 
+members (as defined by the company) to the Compliance Officer: 
+ (a)  all  holdings  in  securities  of  that  company  by  directors/officers/designated  employees  at  the 
+
+above  mentioned 
+their  investments  for  a  minimum  period  of  30  days.    The  holding 
+
+entities  shall   hold  
+
+the  
+
+time of joining the company; 
+
+ (b)  periodic statement of any transactions in securities (the periodicity of reporting may be defined 
+by the company. The company may also be free to decide whether reporting is required for 
+trades where pre-clearance is also required); and 
+
+                                                 
+65 Inserted by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2008 w.e.f. 19-11-2008. 
+66 Inserted by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2008 w.e.f. 19-11-2008. Prior to its 
+substitution clause 4.2 read as under:- 
+ 
+“4.2. All directors/officers/designated employees shall hold their investments in securities for a minimum period of 30 
+days in order to be considered as being held for investment purposes. The holding period shall also apply to subscription 
+in the primary market (IPOs). In the case of IPOs, the holding period would commence when the securities are actually 
+allotted.” 
+
+Page 13 of 22 
+
+ 
+
+  (c)  annual statement of all holdings in securities. 
+5.2 The Compliance Officer shall maintain records of all the declarations in the appropriate form 
+given by the directors/officers/designated employees for a minimum period of three years. 
+5.3 The Compliance Officer shall place before the Managing Director/Chief Executive Officer or a 
+committee  specified  by  the  company,  on  a  monthly  basis  all  the  details  of  the  dealing  in  the 
+securities by employees/director/officer of the company and the accompanying documents that such 
+persons had executed under the pre-dealing procedure as envisaged in this code. 
+6.0 Penalty for contravention of code of conduct 
+6.1  Any  employee/officer/director  who  trades  in  securities  or  communicates  any  information  for 
+trading in securities in contravention of the code of conduct may be penalised and appropriate action 
+may be taken by the company. 
+6.2  Employees/officers/directors  of  the  company  who  violate  the  code  of  conduct  shall  also  be 
+subject  to  disciplinary  action  by  the  company,  which  may  include  wage  freeze,  suspension, 
+67[ineligible] for future participation in employee stock option 68[plans], etc. 
+6.3 The action by the company shall not preclude SEBI from taking any action in case of violation 
+of SEBI (Prohibition of Insider Trading) Regulations, 1992. 
+7.0  Information  to  SEBI  in  case  of  violation  of  SEBI  (Prohibition  of  Insider  Trading) 
+Regulations, 1992 
+7.1  In  case  it  is  observed  by  the  company/Compliance  Officer  that  there  has  been  a  violation  of 
+SEBI (Prohibition of Insider Trading) Regulations, 1992. SEBI shall be informed by the company. 
+
+  
+
+PART B 
+
+MODEL CODE OF CONDUCT FOR PREVENTION OF  
+
+INSIDER TRADING FOR OTHER ENTITIES 
+
+1.0 Compliance Officer 
+1.1  The  organisation/firm  has  a  Compliance  Officer  (senior  level  employee)  reporting  to  the 
+Managing Partner/Chief Executive Officer. 
+1.2  The  Compliance  Officer  shall  be  responsible  for  setting  forth  policies  and  procedures  and 
+monitoring adherence to the rules for the preservation of “Price Sensitive Information”, pre-clearing 
+of all designated employees and their dependents trades (directly or through respective department 
+heads as decided by the organisation/firm), monitoring of trades and the implementation of the code 
+of conduct under the overall supervision of the partners/proprietors. 
+1.3 The Compliance Officer shall also assist all the employees/directors/partners in addressing any 
+clarifications  regarding  SEBI  (Prohibition  of  Insider  Trading)  Regulations,  1992  and  the 
+organisation/firm’s code of conduct. 
+1.4 The Compliance Officer shall maintain a record of the designated employees and any changes 
+made in the list of designated employees. 
+2.0 Preservation of “Price Sensitive Information” 
+                                                 
+67 Substituted for “intelligibility” by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 2002, 
+w.e.f. 29-11-2002. 
+68 Substituted for “plants” by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 2002, w.e.f. 
+29-11-2002. 
+
+Page 14 of 22 
+
+ 
+
+information,  considered  “inside  areas”  from 
+
+2.1 Employees/directors/partners shall maintain the confidentiality of all Price Sensitive Information 
+69[.] Employees/directors/partners must not pass on such information directly or indirectly by way of 
+making a recommendation for the purchase 70[or] sale of securities. 
+2.2 Need to know 
+2.2.1 Price Sensitive Information is to be handled on a “need to know” basis, i.e., Price Sensitive 
+Information should be disclosed only to those within the organisation/firm who need the information 
+to discharge their duty and whose possession of such information will not give rise to a conflict of 
+interest or appearance of misuse of the information. 
+2.3 Limited access to confidential information 
+2.3-1  Files  containing  confidential  information  shall  be  kept  secure.  Computer  files  must  have 
+adequate security of login and password etc. 
+2.4 Chinese Wall 
+2.4.1 To prevent the misuse of confidential information the organisation/firm shall adopt a “Chinese 
+Wall” policy which separates those areas of the organisation/firm which routinely have access to 
+confidential 
+those  areas  which  deal  with 
+sale/marketing/investment  advise  or  other  departments  providing  support  services,  considered 
+“public areas”. 
+2.4.2 The employees in the inside area shall not communicate any Price Sensitive Information to 
+any one in public area. 
+2.4.3 The employees in inside area may be physically segregated from employees in public area. 
+2.4.4  Demarcation  of  the  various  departments  as  inside  area  may  be  implemented  by  the 
+organisation/firm. 
+2.4.5 In exceptional circumstances employees from the public areas may be brought “over the wall” 
+and given confidential information on the basis of “need to know” criteria, under intimation to the 
+compliance officer. 
+3.0 Prevention of misuse of Price Sensitive Information 
+3.1 Employees/directors/partners shall not use Price Sensitive Information to buy or sell securities of 
+any sort, whether for their own account, their relative’s account, organisation/firm’s account or a 
+client’s account. The following trading restrictions shall apply for trading in securities. 
+3.2 Pre-clearance of trades 
+3.2.1 All directors/officers/designated employees of the organisation/firm who intend to deal in the 
+securities  of  the  client  company  (above  a  minimum  threshold  limit  to  be  determined  by  the 
+organisation/firm)  shall  pre-clear  the  transactions  as  per  the  pre-dealing  procedure  as  described 
+hereunder. 
+3.2.2  An  application  may  be  made  in  such  form  as  the  organisation/firm  may  specify  in  71[this] 
+regard, to the Compliance Officer indicating the name and estimated number of securities that the 
+designated employees/director/partner intends to deal in, the details as to the depository with which 
+
+                                                 
+69 Inserted by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 2002, w.e.f. 29-11-2002. 
+70 Substituted for “of” by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 2002, w.e.f. 29-
+11-2002.  
+ 
+71 Inserted by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 2002, w.e.f. 29-11-2002.  
+
+Page 15 of 22 
+
+ 
+
+he  has  a  security  account the  details  as  to  the  securities  in such  depository  mode  and  such  other 
+details as may be required by any rule made by the organisation/firm in this behalf. 
+3.2.3  An  undertaking  shall  be  executed  in  favour  of  the  organisation/firm  by  such  designated 
+employee/partners/directors incorporating, inter alia, the following clauses, as may be applicable: 
+  (i)  That the designated employee/director/partner does not have any access or has not received any 
+
+“Price Sensitive Information” upto the time of signing the undertaking. 
+
+ (ii)  That in case the designated employee/director/partner has access to or receives “Price Sensitive 
+Information” after the signing of the undertaking but before the execution of the transaction 
+he/she shall inform the Compliance Officer of the change in his position and that he/she would 
+completely  refrain  from  dealing  in  the  securities  of  the  client  company  till  the  time  such 
+information becomes public. 
+
+(iii)  That  he/she  has  not  contravened  the  code  of  conduct  for  prevention  of  insider  trading  as 
+
+specified by the organisation/firm from time to time. 
+
+ (iv)  That he/she has made a full and true disclosure in the matter. 
+4.0 Restricted/Grey list  
+4.1  In  order  to  monitor  chinese  wall  procedures  and  trading  in  client  securities  based  on  inside 
+information, the organisation/firm shall restrict trading in certain securities and designate such list as 
+restricted/grey list. 
+4.2 Security of a listed company shall be put on the restricted/grey list if the organisation/firm is 
+handling any assignment for the listed company or is preparing appraisal report or is handling credit 
+rating assignment and is privy to Price Sensitive Information. 
+4.3 Any security which is being purchased or sold or is being considered for purchase or sale by the 
+organisation/firm  on  behalf  of  its  clients/schemes  of  mutual  funds,  etc.  shall  be  put  on  the 
+restricted/grey list. 
+4.4  As  the  restricted  list  itself  is  a  highly  confidential  information  it  shall  not  be  communicated 
+directly,  or  indirectly  to  anyone  outside  the  organisation/firm.  The  Restricted  List  shall  be 
+maintained by Compliance Officer. 
+4.5  When  any  securities  are  on  the  Restricted  List-trading  in  these  securities  by  designated 
+employees/directors/partners may 72[be] blocked or may be disallowed at the time of pre-clearance. 
+5.0 Other restrictions  
+5.1 All directors/designated employees/partners shall execute their order within one week after the 
+approval of pre-clearance is given. If the order is not executed within one week after approval is 
+given the employee/director/partners must 73[pre] clear the transaction again. 
+5.2 All directors/officers/designated employees/partners shall hold their investments for a minimum 
+period of 30 days in order to be considered as being held for investment purposes. 
+5.3 The holding period shall also apply to purchases in the primary market (IPOs). In the case of 
+IPOs, the holding period would commence when the securities are actually allotted. 
+5.4 In case the sale of securities is necessitated by personal emergency, the holding period may be 
+waived by the Compliance Officer after recording in writing his/her reasons in this regard. 
+
+                                                 
+72 Inserted by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 2002, w.e.f. 29-11-2002. 
+73 Substituted for “are” by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 2002, w.e.f. 29-
+11-2002.  
+
+Page 16 of 22 
+
+ 
+
+5.5  Analysts,  if  any,  employed  with  the  organisation/firm  while  preparing  research  reports  of  a 
+client company(s) shall disclose their shareholdings/interest in such company(s) to the Compliance 
+Officer. 
+5.6 Analysts who prepare research report of a listed company shall not trade in securities of that 
+company for thirty days from preparation of such report. 
+6.0 Reporting Requirements for transactions in securities  
+6.1 All directors/designated employees/partners of the organisation/firm shall be required to forward 
+following  details  of  their  securities  transactions  including  the  statement  of  dependent  family 
+members (as defined by the organisation/firm) to the Compliance Officer:— 
+ (a)  all  holdings  in  securities  by  directors/officers/designated  employees/partners  at  the  time  of 
+
+joining the organisation; 
+
+ (b)  periodic statement of any transactions in securities (the periodicity of reporting may be defined 
+by the firm or organisation. The organisation/firm may also be free to decide whether reporting 
+is required for trades where pre-clearance is also required; 
+
+  (c)  annual statement of all holdings in securities. 
+6.2  The  Compliance  Officer  shall  maintain  records  of  all  the  declarations  given  by  the 
+directors/designated  employees/partners  in  the  appropriate  form  for  a  minimum  period  of  three 
+years. 
+6.3 The Compliance Officer shall place before the Chief Executive Officer/Partner or a committee 
+notified by the organisation/firm, on a monthly basis all the details of the dealing in the securities by 
+designated employees/directors/partners of the organisation/firm and the accompanying documents 
+that such persons had executed under the pre-dealing procedure as envisaged in this code. 
+7.0 Penalty for contravention of code of conduct  
+7.1  Any  employee/partner/director  who  trades  in  securities  or  communicates  any  information  or 
+counsels any person trading in securities, in contravention of the code of conduct may be penalised 
+and appropriate action may be taken by the organisation/firm. 
+7.2 Employees/partners/directors of the organisation/firm who violate the code of conduct may also 
+be subject to disciplinary action by the company, which may include wage freeze, suspension, etc. 
+7.3 The action by the organisation/firm shall not preclude SEBI from taking any action in case of 
+violation of SEBI (Prohibition of Insider Trading) Regulations, 1992. 
+8.0  Information  to  SEBI  in  case  of  violation  of  SEBI  (Prohibition  of  Insider  Trading) 
+Regulations  
+8.1 In case it is observed by the organisation/firm/compliance officer that there has been a violation 
+of these Regulations, SEBI shall be informed by the organisation/firm. 
+9.0 Listed intermediaries to comply with both Parts A and B of Schedule I 
+9.1  The  intermediaries  such  as  credit  rating  agencies,  Asset  Management  Companies,  or  broking 
+companies etc. whose securities are listed in recognised stock exchange shall comply with both Part 
+A and Part B of this Schedule in respect of its own securities and client’s securities. 
+
+  
+
+SCHEDULE II 
+
+[See under regulation 12(2)] 
+
+CODE OF CORPORATE DISCLOSURE PRACTICES FOR  
+
+Page 17 of 22 
+
+ 
+
+PREVENTION OF INSIDER TRADING 
+
+1.0 Corporate Disclosure Policy  
+1.1 To ensure timely and adequate disclosure of price sensitive information, the following norms 
+shall be followed by listed companies:— 
+2.0 Prompt disclosure of price sensitive information 
+2.1  Price  sensitive  information  shall  be  given  by  listed  companies  to  stock  exchanges  and 
+disseminated on a continuous and immediate basis. 
+2.2  Listed  companies  may  also  consider  ways  of  supplementing  information  released  to  stock 
+exchanges by improving Investor access to their public announcements. 
+3.0 Overseeing and co-ordinating disclosure 
+3.1  Listed  companies  shall  designate  a  senior  official  (such  as  compliance  officer)  to  oversee 
+corporate disclosure. 
+3.2  This  official  shall  be  responsible  for  ensuring  that  the  company  complies  with  continuous 
+disclosure requirements. Overseeing and co-ordinating disclosure of price sensitive information to 
+stock  exchanges,  analysts,  shareholders  and  media  and  educating  staff  on  disclosure  policies  and 
+procedure. 
+3.3  Information  disclosure/dissemination  may  normally  be  approved  in  advance  by  the  official 
+designated for the purpose. 
+3.4  If  information  is  accidentally  disclosed  without  prior  approval,  the  person  responsible  may 
+inform the designated officer immediately, even if the information is not considered price sensitive. 
+4.0 Responding to market rumours 
+4.1  Listed  companies  shall  have  clearly  laid  down  procedures  for  responding  to  any  queries  or 
+requests for verification of market rumours by exchanges. 
+4.2  The  official  designated  for  corporate  disclosure  shall  be  responsible  for  deciding  whether  a 
+public announcement is necessary for verifying or denying rumours and then making the disclosure. 
+5.0 Timely Reporting of shareholdings/ownership and changes in ownership 
+5.1  Disclosure  of  shareholdings/ownership  by  major  shareholders  and  disclosure  of  changes  in 
+ownership as provided under any Regulations made under the Act and the listing agreement shall be 
+made in a timely and adequate manner. 
+Disclosure/dissemination  of  Price  Sensitive  Information  with  special  reference  to  Analysts, 
+Institutional Investors 
+6.0 Listed companies should follow the guidelines given hereunder while dealing with analysts and 
+institutional investors:— 
+  (i)  Only  Public  information  to  be  provided  -  Listed  companies  shall  provide  only  public 
+information to the analyst/research persons/large investors like institutions  74[.] Alternatively, 
+the information given to the analyst should be simultaneously made public at the earliest. 
+
+ (ii)  Recording of discussion - In order to avoid misquoting or misrepresentation, it is desirable that 
+at  least  two  company  representative  be  present  at  meetings  with  Analysts,  brokers  or 
+Institutional Investors and discussion should preferably be recorded. 
+
+                                                 
+74 Inserted by the SEBI (Prohibition of Insider Trading) (Second Amendment) Regulations, 2002, w.e.f. 29-11-2002.  
+
+Page 18 of 22 
+
+ 
+
+(iii)  Handling of unanticipated questions - A listed company should be careful when dealing with 
+analysts’  questions  that  raise  issues  outside  the  intended  scope  of  discussion.  Unanticipated 
+questions may be taken on notice and a considered response given later. If the answer includes 
+price sensitive information, a public announcement should be made before responding. 
+
+ (iv)  Simultaneous release of Information - When a company organises meetings with analysts, the 
+company shall make a press release or post relevant information on its website after every such 
+meet. The company may also consider live webcasting of analyst meets. 
+
+7.0 Medium of disclosure/dissemination 
+  (i)  Disclosure/dissemination of information may be done through various media so as to achieve 
+
+maximum reach and quick dissemination. 
+
+ (ii)  Corporates shall ensure that disclosure to stock exchanges is made promptly. 
+(iii)  Corporates may also facilitate disclosure through the use of their dedicated Internet website. 
+ (iv)  Company websites may provide a means of giving investors a direct access to analyst briefing 
+
+material, significant background information and questions and answers. 
+
+  (v)  The information filed by corporates with exchanges under continuous disclosure requirement 
+
+may be made available on the company website. 
+
+8.0 Dissemination by stock exchanges 
+  (i)  The disclosures made to stock exchanges may be disseminated by the exchanges to investors in 
+a  quick  and  efficient  manner  through  the  stock  exchange  network  as  well  as  through  stock 
+exchange websites. 
+
+ (ii)  Information furnished by the companies under continuous disclosure requirements, should be 
+
+published on the website of the exchange instantly. 
+
+(iii)  Stock exchanges should make immediate arrangement for display of the information furnished 
+
+by the companies instantly on the stock exchange website. 
+
+ 
+ 
+  
+
+75 [SCHEDULE III 
+
+FORMS  
+
+FORM A 
+
+Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 1992 
+
+[Regulation 13(1) and (6)] 
+
+Regulation 13(1) - Details of acquisition of 5% or more shares in a listed company 
+
+ 
+
+                                                 
+75 Substituted by the SEBI (Prohibition of Insider Trading) (Amendment) Regulations, 2008 w.e.f. 19-11-2008.  
+
+Page 19 of 22 
+
+ 
+
+Name, PAN 
+No.  & 
+address of 
+shareholder 
+with 
+telephone 
+number 
+
+Sharehold- 
+ing prior 
+to 
+acquisition 
+
+Date of 
+intimati- 
+on to 
+Company
+
+No. and 
+percent- 
+age of 
+shares/ 
+voting 
+rights 
+acquired 
+
+Date of 
+receipt of 
+allotment/ 
+advice. 
+Date of 
+acquisition
+(specify) 
+
+Sharehold-
+ing 
+subsequent
+to acquisi- 
+tion 
+
+Mode of 
+acquisition 
+(market 
+purchase/ 
+public/rights/
+preferential 
+offer etc.) 
+
+Buy 
+value 
+
+Buy 
+quan-
+tity 
+
+Exchange 
+on which 
+the trade 
+was 
+executed 
+
+Trading
+member 
+through 
+whom 
+the 
+trade 
+was 
+executed
+with 
+SEBI 
+Regis- 
+tration 
+No. of 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+the TM 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 1992 
+
+[Regulation 13(2) and (6)] 
+
+FORM B 
+
+Note: The above table shall be applicable with suitable modifications to disclosures for position taken 
+in derivatives also. 
+
+FORM C 
+
+Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 1992 
+
+[Regulation 13(3) and (6)] 
+
+Regulation 13(3) — Details of change in shareholding in respect of persons holding more than 
+5% shares in a listed company 
+
+Page 20 of 22 
+
+Regulation 13(2)—Details of shares held or positions taken in derivatives by Director or Officer 
+of a listed company and his dependents 
+Date of 
+intimation 
+to 
+company 
+
+Buy 
+quantity 
+
+Buy value 
+
+Name, PAN No. & 
+Address of Director/ 
+Officer 
+
+Exchange 
+on which 
+the trade 
+was 
+executed 
+
+Date of 
+assuming 
+office of 
+Director/ 
+Officer 
+
+No. & % of 
+shares/voting 
+rights held at 
+the time of 
+becoming 
+Director/ 
+Officer 
+
+Mode of 
+acquisition 
+(market 
+purchase/ 
+public/ 
+rights/ 
+preferential 
+offer etc.) 
+
+Trading 
+member 
+through 
+whom  the 
+trade  was 
+executed 
+with SEBI 
+Registration 
+No. of the 
+TM 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Buy 
+quantity 
+
+Buy 
+value 
+
+Sell 
+quantity
+
+Sell 
+value
+
+Exch-
+ange 
+on 
+which 
+the 
+trade 
+was 
+exec- 
+uted 
+
+Trading
+member 
+through 
+whom 
+the 
+trade 
+was 
+executed
+with 
+SEBI 
+Regis- 
+tration 
+No.  of 
+the TM 
+
+ 
+
+Name, 
+PAN 
+No.  & 
+address 
+of 
+share- 
+holders 
+
+Share- 
+holding 
+prior to 
+acquisition/ 
+sale 
+
+No. & % 
+of shares/ 
+voting 
+rights 
+acquired/ 
+sold 
+
+Receipt of 
+allotment 
+advice/ 
+acquisition 
+of shares/ 
+sale of 
+shares 
+specify 
+
+Date 
+of 
+intim- 
+ation 
+to 
+comp-
+any 
+
+Mode of 
+acquisition 
+(market 
+purchase/ 
+public/ 
+rights/ 
+preferential 
+offer etc.) 
+
+No. & % of
+shares/ 
+voting 
+rights post-
+acquisition/
+sale 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Page 21 of 22 
+
+FORM D 
+
+Securities and Exchange Board of India (Prohibition of Insider Trading) 
+
+Regulations, 1992 
+
+[Regulation 
+13(4) and (6)] 
+
+Regulation 13(4) — Details of change in shareholding by Director or Officer of a 
+listed company and his dependents 
+
+Name, PAN 
+No.  & 
+Address of 
+Director/ 
+Officer 
+
+No. & %
+of shares/ 
+voting 
+rights 
+held by 
+the 
+Director/ 
+Officer 
+
+Date of 
+receipt of 
+allotment 
+advice/ 
+acquisition/ 
+sale of 
+shares/ 
+voting 
+rights 
+
+Date 
+of 
+intima-
+tion to 
+comp- 
+any 
+
+Mode of 
+acquisition 
+(market 
+purchase/ 
+public/rights/ 
+preferential 
+offer etc.) 
+
+No. & % of
+shares/ post 
+acquisition/ 
+voting 
+rights sale 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+” 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trading 
+member 
+through 
+whom 
+the trade 
+was 
+executed 
+with 
+SEBI 
+Registra-
+tion No. 
+of the 
+TM 
+ 
+
+Buy 
+quan- 
+tity 
+
+Buy 
+value 
+
+Sell 
+quan-
+tity 
+
+Sell 
+value 
+
+Exch- 
+ange 
+on 
+which 
+the 
+trade 
+was 
+execu- 
+ted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+C. B. BHAVE  
+CHAIRMAN 
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+Page 22 of 22 
+
+

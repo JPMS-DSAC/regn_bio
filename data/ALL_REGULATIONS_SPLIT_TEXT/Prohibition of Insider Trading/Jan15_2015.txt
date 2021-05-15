@@ -1,0 +1,939 @@
+THE GAZETTE OF INDIA 
+
+EXTRAORDINARY 
+
+PART – III – SECTION 4 
+
+PUBLISHED BY AUTHORITY 
+
+NEW DELHI,  JANUARY 15, 2015 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+NOTIFICATION 
+
+Mumbai, the 15th January, 2015 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+(PROHIBITION OF INSIDER TRADING) REGULATIONS, 2015 
+
+No. LAD-NRO/GN/2014-15/21/85.- In exercise of the powers conferred by section 30 read with 
+clause (g) of sub-section (2) of section 11 and clause (d) and clause (e) of section 12A of the 
+Securities and Exchange Board of India Act, 1992 (15 of 1992), the Board hereby makes the 
+following regulations, to put in place a framework for prohibition of insider trading in securities 
+and to strengthen the legal framework thereof, namely:— 
+ 
+
+CHAPTER – I 
+
+PRELIMINARY 
+
+ 
+
+ 
+
+(1) 
+
+Short title and commencement. 
+1. 
+Regulations, 2015. 
+ 
+(2) 
+date of its publication in the Official Gazette. 
+ 
+
+These  regulations  may  be  called  the  SEBI  (Prohibition  of  Insider  Trading) 
+
+These regulations shall come into force on the one hundred and twentieth day from the 
+
+Definitions. 
+2. 
+expressions and derivations therefrom shall have the meanings assigned to them as under:–  
+
+In these regulations, unless the context otherwise requires, the following words, 
+
+(1) 
+
+“Board” means the Securities and Exchange Board of India; 
+
+“Act” means the Securities and Exchange Board of India Act, 1992 (15 of 1992); 
+
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ “compliance officer” means any senior officer, designated so and reporting to the 
+board  of  directors  or  head  of  the  organization  in  case  board  is  not  there,  who  is 
+financially literate and is capable of appreciating requirements for legal and regulatory 
+compliance  under  these  regulations  and  who  shall  be  responsible  for  compliance  of 
+policies, procedures, maintenance of records, monitoring adherence to the rules for the 
+preservation  of  unpublished  price  sensitive  information,  monitoring  of  trades  and  the 
+implementation of the codes specified in these regulations under the overall supervision 
+of the board of directors of the listed company or the head of an organization, as the case 
+may be; 
+ 
+(d) "connected person" means,- 
+
+(i) any person who is or has during the six months prior to the concerned act been 
+associated  with  a  company,  directly  or  indirectly,  in  any  capacity  including  by 
+reason of frequent communication with its officers or by being in any contractual, 
+fiduciary  or  employment  relationship  or  by  being  a  director,  officer  or  an 
+employee  of  the  company  or  holds  any  position  including  a  professional  or 
+business  relationship  between  himself  and  the  company whether  temporary  or 
+permanent, that allows such person, directly or indirectly, access to unpublished 
+price sensitive information or is reasonably expected to allow such access.  
+
+(ii) Without prejudice to the generality of the foregoing, the persons falling within 
+the  following  categories  shall  be  deemed  to  be  connected  persons  unless  the 
+contrary is established, -  
+
+ 
+
+(a). 
+(b). 
+(c). 
+
+(d). 
+
+(e). 
+(f). 
+
+(g). 
+
+(h). 
+
+(i). 
+(j). 
+
+an immediate relative of connected persons specified in clause (i); or  
+a holding company or associate company or subsidiary company; or 
+an intermediary as specified in section 12 of the Act or an employee or 
+director thereof; or  
+an investment company, trustee company, asset management company or 
+an employee or director thereof; or  
+an official of a stock exchange or of clearing house or corporation; or 
+a member of board of trustees of a mutual fund or a member of the board 
+of directors of the asset management company of a mutual fund or is an 
+employee thereof; or  
+a member of the board of directors or an employee, of a public financial 
+institution as defined in section 2 (72) of the Companies Act, 2013; or 
+an official or an employee of a self-regulatory organization recognised or 
+authorized by the Board; or 
+a banker of the company; or 
+a concern, firm, trust, Hindu undivided family, company or association of 
+persons  wherein  a  director  of  a  company  or  his  immediate  relative  or 
+banker  of  the  company,  has  more  than  ten  per  cent.  of  the  holding  or 
+interest; 
+
+ 
+NOTE:  It  is  intended  that  a  connected  person  is  one  who  has  a  connection  with  the  company  that  is 
+expected to put him in possession of unpublished price sensitive information. Immediate relatives and other 
+categories of persons specified above are also presumed to be connected persons but such a presumption is 
+a deeming legal fiction and is rebuttable. This definition is also intended to bring into its ambit persons 
+who may not seemingly occupy any position in a company but are in regular touch with the company and 
+its officers and are involved in the know of  the company’s operations. It is intended to bring within its 
+ambit those who would have access to or could access unpublished price sensitive information about any 
+company  or  class  of  companies  by  virtue  of  any  connection  that  would  put  them  in  possession  of 
+unpublished price sensitive information.  
+ 
+(e) 
+public on a non-discriminatory basis; 
+ 
+
+"generally  available  information"  means  information  that  is  accessible  to  the 
+
+NOTE:  It  is  intended  to  define  what  constitutes  generally  available  information  so  that  it  is  easier  to 
+crystallize and appreciate what unpublished price sensitive information is.  Information published on the 
+website of a stock exchange, would ordinarily be considered generally available.   
+ 
+(f)  
+“immediate relative” means a spouse of a person, and includes parent, sibling, and 
+child of such person or of the spouse, any of whom is either dependent financially on 
+such person, or consults such person in taking decisions relating to trading in securities; 
+ 
+NOTE:   It is intended that the immediate relatives of a “connected person” too become connected persons 
+for purposes of these regulations. Indeed, this is a rebuttable presumption. 
+ 
+(g) 
+
+a connected person; or  
+
+"insider" means any person who is: 
+ 
+i)  
+ 
+ii)  
+information;  
+
+in  possession  of or  having  access 
+
+to  unpublished  price  sensitive 
+
+ 
+NOTE:  Since “generally available information” is defined, it is intended that anyone in possession of or 
+having access to unpublished price sensitive information should be considered an “insider” regardless of 
+how one came in possession of or had access to such information. Various circumstances are provided for 
+such  a  person  to  demonstrate  that  he  has  not  indulged  in  insider  trading.  Therefore,  this  definition  is 
+intended  to  bring  within  its  reach  any  person  who  is  in  receipt  of  or  has  access  to  unpublished  price 
+sensitive  information.  The onus  of  showing  that a  certain person  was in  possession of  or  had access  to 
+unpublished price sensitive information at the time of trading would, therefore, be on the person leveling 
+the charge after which the person who has traded when in possession of or having access to unpublished 
+price sensitive information may demonstrate that he was not in such possession or that he has not traded or 
+or he could not access or that his trading when in possession of such information was squarely covered by 
+the exonerating circumstances.   
+
+(h) 
+"promoter"  shall  have  the  meaning  assigned  to  it  under  the  Securities  and 
+Exchange  Board  of  India  (Issue  of  Capital  and  Disclosure  Requirements)  Regulations, 
+2009 or any modification thereof; 
+ 
+
+ 
+
+"specified" means specified by the Board in writing; 
+
+"trading" means and includes subscribing, buying, selling, dealing, or agreeing to 
+
+(i) 
+"securities" shall have the meaning assigned to it under the Securities Contracts 
+(Regulation) Act, 1956 (42 of 1956) or any modification thereof except units of a mutual 
+fund;  
+ 
+(j) 
+ 
+(k) 
+“takeover  regulations”  means  the  Securities  and  Exchange  Board  of  India 
+(Substantial  Acquisition  of  Shares  and  Takeovers)  Regulations,  2011  and  any 
+amendments thereto; 
+ 
+(l) 
+subscribe, buy, sell, deal in any securities, and "trade" shall be construed accordingly ; 
+ 
+NOTE:  Under the parliamentary mandate, since the Section 12A (e) and Section 15G of the Act employs 
+the term 'dealing in securities', it is intended to widely define the term “trading” to include dealing. Such a 
+construction is intended to curb the activities based on unpublished price sensitive information which are 
+strictly not buying, selling or subscribing, such as pledging etc when in possession of unpublished price 
+sensitive information.   
+ 
+(m) 
+trading; 
+ 
+"unpublished  price  sensitive  information"  means  any  information,  relating  to  a 
+(n) 
+company or its securities, directly or indirectly, that is not generally available which upon 
+becoming generally available, is likely to materially affect the price of the securities and 
+shall, ordinarily including but not restricted to, information relating to the following: – 
+ 
+(i) 
+ 
+(ii) 
+ 
+(iii) 
+
+“trading day” means a day on which the recognized stock exchanges are open for 
+
+financial results; 
+
+dividends; 
+
+change in capital structure;  
+
+ 
+(iv)  mergers, de-mergers, acquisitions, delistings, disposals and expansion of business 
+
+and such other transactions;  
+
+changes in key managerial personnel; and 
+
+ 
+(v) 
+ 
+(vi)   material events in accordance with the listing agreement.  
+ 
+NOTE:  It is intended that information relating to a company or securities, that is not generally available 
+would be unpublished price sensitive information if it is likely to materially affect the price upon coming 
+into the public domain. The types of matters that would ordinarily give rise to unpublished price sensitive 
+information have been listed above to give illustrative guidance of unpublished price sensitive information.  
+ 
+
+(2)  Words  and  expressions  used  and  not  defined  in  these  regulations  but  defined  in  the 
+Securities  and  Exchange  Board  of  India  Act,  1992  (15  of  1992),  the  Securities  Contracts 
+(Regulation) Act, 1956 (42 of 1956), the Depositories Act, 1996 (22 of 1996) or the Companies 
+Act,  2013  (18  of  2013)  and  rules  and  regulations  made  thereunder  shall  have  the  meanings 
+respectively assigned to them in those legislation. 
+ 
+
+CHAPTER – II  
+
+ 
+
+RESTRICTIONS ON COMMUNICATION AND TRADING BY INSIDERS 
+
+(1) 
+
+ 
+Communication or procurement of unpublished price sensitive information. 
+3. 
+No insider shall communicate, provide, or allow access to any unpublished price 
+sensitive information, relating to a company or securities listed or proposed to be listed, to any 
+person including other insiders except where such communication is in furtherance of legitimate 
+purposes, performance of duties or discharge of legal obligations.  
+ 
+NOTE:  This provision is intended to cast an obligation on all insiders who are essentially persons in possession of 
+unpublished price sensitive information to handle such information with care and to deal with the information with 
+them when transacting their business strictly on a need-to-know basis.  It is also intended to lead to organisations 
+developing practices based on need-to-know principles for treatment of information in their possession. 
+
+ 
+(2) 
+No person shall procure from or cause the communication by any insider of unpublished 
+price sensitive information, relating to a company or securities listed or proposed to be listed, 
+except  in  furtherance  of  legitimate  purposes,  performance  of  duties  or  discharge  of  legal 
+obligations. 
+ 
+NOTE:  This provision is intended to impose a prohibition on unlawfully procuring possession of unpublished price 
+sensitive information.  Inducement and procurement of unpublished price sensitive information not in furtherance of 
+one’s legitimate duties and discharge of obligations would be illegal under this provision. 
+  
+Notwithstanding  anything  contained  in  this  regulation,  an  unpublished  price  sensitive 
+(3) 
+information may be communicated, provided, allowed access to or procured, in connection with 
+a transaction that would:– 
+
+ 
+(i) 
+entail an obligation to make an open offer under the takeover regulations where 
+the  board  of  directors  of  the  company  is  of  informed  opinion  that  the  proposed 
+transaction is in the best interests of the company; 
+ 
+NOTE:  It is intended to acknowledge the necessity of communicating, providing, allowing access to or 
+procuring UPSI for substantial transactions such as takeovers, mergers and acquisitions involving trading 
+in securities and change of control to assess a potential investment.  In an open offer under the takeover 
+regulations, not only would the same price be made available to all shareholders of the company but also 
+all  information  necessary  to  enable  an  informed  divestment  or  retention  decision  by  the  public 
+shareholders  is  required  to  be  made  available  to  all  shareholders  in  the  letter  of  offer  under  those 
+regulations.   
+ 
+(ii) 
+not attract the obligation to make an open offer under the takeover regulations but 
+where  the  board  of  directors  of  the  company  is  of  informed  opinion  that  the  proposed 
+transaction  is  in  the  best  interests  of  the  company  and  the  information  that  constitute 
+unpublished price sensitive information is disseminated to be made generally available at 
+least two trading days prior to the proposed transaction being effected in such form as the 
+board of directors may determine. 
+ 
+
+NOTE:  It is intended to permit communicating, providing, allowing access to or procuring UPSI also in 
+transactions that do not entail an open offer obligation under the takeover regulations if it is in the best 
+interests  of  the  company.  The  board  of  directors,  however,  would  cause  public  disclosures  of  such  
+unpublished price sensitive information well before the proposed transaction to rule out any information  
+asymmetry in the market. 
+
+ 
+(4) 
+For  purposes  of  sub-regulation  (3),  the  board  of  directors  shall  require  the  parties  to 
+execute agreements to contract confidentiality and non-disclosure obligations on the part of such 
+parties and such parties shall keep information so received confidential, except for the purpose of 
+sub-regulation (3), and shall not otherwise trade in securities of the company when in possession 
+of unpublished price sensitive information. 
+ 
+Trading when in possession of unpublished price sensitive information. 
+4. 
+stock exchange when in possession of unpublished price sensitive information: 
+ 
+including the following : – 
+ 
+
+Provided that the insider may prove his innocence by demonstrating the circumstances 
+
+(1) 
+
+No  insider  shall  trade  in  securities  that  are  listed  or  proposed  to  be  listed  on  a 
+
+(i)  the  transaction  is  an  off-market  inter-se  transfer  between  promoters  who  were  in 
+possession of the same unpublished price sensitive information without being in breach 
+of regulation 3 and both parties had made a conscious and informed trade decision; 
+ 
+(ii) 
+
+in the case of non-individual insiders: –  
+ 
+(a)  
+the individuals who were in possession of such unpublished price sensitive 
+information were different from the individuals taking trading decisions and such 
+decision-making  individuals  were  not  in  possession  of  such  unpublished  price 
+sensitive information when they took the decision to trade; and 
+ 
+(b) 
+appropriate and adequate arrangements were in place to ensure that these 
+regulations are not violated and no unpublished price sensitive information was 
+communicated  by  the  individuals  possessing  the  information  to  the  individuals 
+
+taking  trading  decisions  and  there  is  no  evidence  of  such  arrangements  having 
+been breached; 
+
+the trades were pursuant to a trading plan set up in accordance with regulation 5. 
+
+ 
+(iii) 
+ 
+NOTE: When a person who has traded in securities has been in possession of unpublished price sensitive 
+information, his trades would be presumed to have been motivated by the knowledge and awareness of such 
+information in his possession. The reasons for which he trades or the purposes to which he applies the 
+proceeds of the transactions are not intended to be relevant for determining whether a person has violated 
+the regulation. He traded when in possession of unpublished price sensitive information is what would need 
+to be demonstrated at the outset to bring a charge. Once this is established, it would be open to the insider 
+to  prove  his  innocence  by  demonstrating  the  circumstances  mentioned  in  the  proviso,  failing  which  he 
+would have violated the prohibition. 
+ 
+(2)  
+In the case of connected persons the onus of establishing, that they were not in possession 
+of  unpublished  price  sensitive  information,  shall  be  on  such  connected  persons  and  in  other 
+cases, the onus would be on the Board.  
+ 
+(3) 
+deem necessary for the purpose of these regulations. 
+ 
+
+The Board may specify such standards and requirements, from time to time, as it may 
+
+Trading Plans. 
+
+(1) 
+
+5. 
+An  insider  shall  be  entitled  to  formulate  a  trading  plan  and  present  it  to  the 
+compliance officer for approval and public disclosure pursuant to which trades may be carried 
+out on his behalf in accordance with such plan.  
+ 
+NOTE:  This provision intends to give an option to persons who may be perpetually in possession of unpublished 
+price sensitive information and enabling them to trade in securities in a compliant manner.  This provision would 
+enable the formulation of a trading plan by an insider to enable him to plan for trades to be executed in future.  By 
+doing so, the possession of unpublished price sensitive information when a trade under a trading plan is actually 
+executed would not prohibit the execution of such trades that he had pre-decided even before the unpublished price 
+sensitive information came into being.  
+ 
+
+(2) 
+
+not  entail  commencement  of  trading  on  behalf  of  the  insider  earlier  than  six 
+
+Such trading plan shall:–  
+ 
+(i) 
+months from the public disclosure of the plan; 
+ 
+NOTE:  It is intended that to get the benefit of a trading plan, a cool-off period of six months is necessary. 
+Such  a  period  is  considered  reasonably  long  for  unpublished  price  sensitive  information  that  is  in 
+possession  of  the  insider  when  formulating  the  trading  plan,  to  become  generally  available.    It  is  also 
+considered to be a reasonable period for a time lag in which new unpublished price sensitive information 
+may come into being without adversely affecting the trading plan formulated earlier. In any case, it should 
+be remembered that this is only a statutory cool-off period and would not grant immunity from action if the 
+insider were to be in possession of the same unpublished price sensitive information both at the time of 
+formulation of the plan and implementation of the same.  
+  
+(ii) 
+not entail trading for the period between the twentieth trading day prior to the last 
+day of any financial period for which results are required to be announced by the issuer of 
+the securities and the second trading day after the disclosure of such financial results; 
+ 
+NOTE:  Since the trading plan is envisaged to be an exception to the general rule prohibiting trading by 
+insiders when in possession of unpublished price sensitive information, it is important that the trading plan 
+does not entail trading for a reasonable period around the declaration of financial results as that would 
+generate unpublished price sensitive information.  
+ 
+(iii) 
+ 
+NOTE:  It is intended that it would be undesirable to have frequent announcements of trading plans for 
+short periods of time rendering meaningless the defence of a reasonable time gap between the decision to 
+trade and the actual trade.  Hence it is felt that a reasonable time would be twelve months.  
+ 
+(iv) 
+existence;  
+ 
+NOTE:  It  is  intended  that  it  would  be  undesirable  to  have  multiple  trading  plans  operating  during  the 
+same time period.  Since it would be possible for an insider to time the publication of the unpublished price 
+
+entail trading for a period of not less than twelve months; 
+
+not  entail  overlap  of  any  period  for  which  another  trading  plan  is  already  in 
+
+sensitive information to make it generally available instead of timing the trades, it is important not to have 
+the ability to initiate more than one plan covering the same time period.  
+ 
+(v) 
+set out either the value of trades to be effected or the number of securities to be 
+traded  along  with  the  nature  of  the  trade  and  the  intervals  at,  or  dates  on  which  such 
+trades shall be effected; and  
+ 
+NOTE:  It is intended that while regulations should not be too prescriptive and rigid about what a trading 
+plan should entail, they should stipulate certain basic parameters that a trading plan should conform to 
+and within which, the plan may be formulated with full flexibility.  The nature of the trades entailed in the 
+trading  plan  i.e.  acquisition  or  disposal  should  be  set  out.  The  trading  plan  may  set  out  the  value  of 
+securities or the number of securities to be invested or divested.  Specific dates or specific time intervals 
+may be set out in the plan.  
+ 
+(vi)  
+ 
+NOTE:  Trading  on  the  basis  of  such  a  trading  plan  would  not  grant  absolute  immunity  from  bringing 
+proceedings  for  market  abuse.  For  instance,  in  the  event  of  manipulative  timing  of  the  release  of 
+unpublished price sensitive information to ensure that trading under a trading plan becomes lucrative in 
+circumvention of regulation 4 being detected, it would be open to initiate proceedings for alleged breach of 
+SEBI  (Prohibition  of  Fraudulent  and  Unfair  Trade  Practices  Relating  to  the  Securities  Market) 
+Regulations, 2003. 
+
+not entail trading in securities for market abuse. 
+
+  
+(3) 
+The compliance officer shall review the trading plan to assess whether the plan would 
+have any potential for violation of these regulations and shall be entitled to seek such express 
+undertakings  as  may  be  necessary  to  enable  such  assessment  and  to  approve  and  monitor  the 
+implementation of the plan.     
+ 
+NOTE:  It is intended that the compliance officer would have to review and approve the plan.  For doing so, he may 
+need the insider to declare that he is not in possession of unpublished price sensitive information or that he would 
+ensure  that  any  unpublished price  sensitive  information  in  his possession becomes generally  available before  he 
+commences executing his trades.  Once satisfied, he may approve the trading plan, which would then have to be 
+implemented in accordance with these regulations.  
+ 
+
+(4) 
+The  trading  plan  once  approved  shall  be  irrevocable  and  the  insider  shall  mandatorily 
+have to implement the plan, without being entitled to either deviate from it or to execute any 
+trade in the securities outside the scope of the trading plan.  
+ 
+Provided that the implementation of the trading plan shall not be commenced if any unpublished 
+price sensitive information in possession of the insider at the time of formulation of the plan has 
+not become generally available at the time of the commencement of implementation and in such 
+event  the  compliance  officer  shall  confirm  that  the  commencement  ought  to  be  deferred  until 
+such unpublished price sensitive information becomes generally available information so as to 
+avoid a violation of sub-regulation (1) of regulation 4. 
+ 
+NOTE:  It is intended that since the trading plan is an exception to the general rule that an insider should not trade 
+when in possession of unpublished price sensitive information, changing the plan or trading outside the same would 
+negate the intent behind the exception.  Other investors in the market, too, would factor the impact of the trading 
+plan  on  their  own  trading  decisions  and  in  price  discovery.    Therefore,  it  is  not  fair  or  desirable  to  permit  the 
+insider  to  deviate  from  the  trading  plan  based  on  which  others  in  the  market  have  assessed  their  views  on  the 
+securities.  
+ 
+The  proviso  is  intended  to  address  the  prospect  that  despite  the  six-month  gap  between  the  formulation  of  the 
+trading plan and its commencement, the unpublished price sensitive information in possession of the insider is still 
+not generally available.  In such a situation, commencement of the plan would conflict with the over-riding principle 
+that  trades  should  not  be  executed  when  in  possession  of  such  information.  If  the  very  same  unpublished  price 
+sensitive information is still in the insider’s possession, the commencement of execution of the trading plan ought to 
+be deferred.  
+ 
+(5) 
+stock exchanges on which the securities are listed.     
+ 
+NOTE:  It is intended that given the material exception to the prohibitory rule in regulation 4, a trading plan is 
+required to be publicly disseminated.  Investors in the market at large would also factor the potential pointers in the 
+trading  plan  in  their  own  assessment  of  the  securities  and  price  discovery  for  them  on  the  premise  of  how  the 
+insiders perceive the prospects or approach the securities in their trading plan.  
+ 
+
+Upon  approval  of  the  trading  plan,  the  compliance  officer  shall  notify  the  plan  to  the 
+
+ 
+ 
+
+CHAPTER – III 
+
+ 
+
+DISCLOSURES OF TRADING BY INSIDERS 
+
+Every public disclosure under this Chapter shall be made in such form as may be 
+
+ 
+General provisions. 
+6. 
+(1) 
+specified. 
+ 
+The disclosures to be made by any person under this Chapter shall include those relating 
+(2) 
+to trading by such person’s immediate relatives, and by any other person for whom such person 
+takes trading decisions. 
+ 
+NOTE:  It is intended that disclosure of trades would need to be of not only those executed by the person concerned 
+but also by the immediate relatives and of other persons for whom the person concerned takes trading decisions.  
+These  regulations  are  primarily  aimed  at  preventing  abuse  by  trading  when  in  possession  of  unpublished  price 
+sensitive information and therefore, what matters is whether the person who takes trading decisions is in possession 
+of such information rather than whether the person who has title to the trades is in such possession. 
+ 
+(3) 
+The  disclosures  of  trading  in  securities  shall  also  include  trading  in  derivatives  of 
+securities and the traded value of the derivatives shall be taken into account for purposes of this 
+Chapter: 
+ 
+being in force.  
+ 
+(4) 
+minimum period of five years, in such form as may be specified.  
+ 
+Disclosures by certain persons. 
+7. (1)  Initial Disclosures.  
+
+Provided  that  trading  in  derivatives  of  securities  is  permitted  by  any  law  for  the  time 
+
+The  disclosures  made  under  this  Chapter  shall  be  maintained  by  the  company,  for  a 
+
+(a).  Every  promoter,  key  managerial  personnel  and  director  of  every  company  whose 
+securities are listed on any recognised stock exchange shall disclose his holding of 
+securities  of  the  company  as  on  the  date  of  these  regulations  taking  effect,  to  the 
+company within thirty days of these regulations taking effect; 
+
+ 
+
+(b).  Every  person  on  appointment  as  a  key  managerial  personnel  or  a  director  of  the 
+company or upon becoming a promoter shall disclose his holding of securities of the 
+company  as  on  the  date  of  appointment  or  becoming  a  promoter,  to  the  company 
+within seven days of such appointment or becoming a promoter. 
+ 
+
+ (2) Continual Disclosures.  
+
+(a). 
+
+Every  promoter,  employee  and  director  of  every  company  shall  disclose  to  the 
+company the number of such securities acquired or disposed of within two trading 
+days  of  such  transaction  if  the  value  of  the  securities  traded,  whether  in  one 
+transaction  or  a  series  of  transactions  over  any  calendar  quarter,  aggregates  to  a 
+traded value in excess of ten lakh rupees or such other value as may be specified; 
+
+ 
+
+(b). 
+
+Every company shall notify the particulars of such trading to the stock exchange on 
+which the securities are listed within two trading days of receipt of the disclosure or 
+from becoming aware of such information. 
+Explanation. — It is clarified for the avoidance of doubts that the disclosure of the 
+incremental transactions after any disclosure under this sub-regulation, shall be made 
+when the transactions effected after the prior disclosure cross the threshold specified 
+in clause (a) of sub-regulation (2).  
+
+ 
+Disclosures by other connected persons. 
+(3) 
+Any  company  whose  securities  are  listed  on  a  stock  exchange  may,  at  its  discretion 
+require any other connected person or class of connected persons to make disclosures of holdings 
+and  trading  in  securities  of  the  company  in  such  form  and  at  such  frequency  as  may  be 
+determined by the company in order to monitor compliance with these regulations. 
+ 
+NOTE: This is an enabling provision for listed companies to seek information from those to whom it has to provide 
+unpublished price sensitive information. This provision confers discretion on any company to seek such information. 
+For example, a listed company may ask that a management consultant who would advise it on corporate strategy 
+and  would  need  to  review  unpublished  price  sensitive  information,  should  make  disclosures  of  his  trades  to  the 
+company.  
+
+ 
+
+CHAPTER – IV 
+
+ 
+
+CODES OF FAIR DISCLOSURE AND CONDUCT 
+
+(1) 
+
+ 
+Code of Fair Disclosure.  
+The board of directors of every company, whose securities are listed on a stock 
+8. 
+exchange, shall formulate and publish on its official website, a code of practices and procedures 
+for  fair  disclosure  of  unpublished  price  sensitive  information  that  it  would  follow  in  order  to 
+adhere to each of the principles set out in Schedule A to these regulations, without diluting the 
+provisions of these regulations in any manner. 
+ 
+NOTE:  This  provision  intends  to  require  every  company  whose  securities  are  listed  on  stock  exchanges  to 
+formulate  a  stated  framework  and  policy  for  fair  disclosure  of  events  and  occurrences  that  could  impact  price 
+discovery  in  the  market  for  its  securities.  Principles  such  as,  equality  of  access  to  information,  publication  of 
+policies  such  as  those  on  dividend,  inorganic  growth  pursuits,  calls  and  meetings  with  analysts,  publication  of 
+transcripts of such calls and meetings, and the like are set out in the schedule. 
+ 
+(2) 
+Every  such  code  of  practices  and  procedures  for  fair  disclosure  of  unpublished  price 
+sensitive  information  and  every  amendment  thereto  shall  be  promptly  intimated  to  the  stock 
+exchanges where the securities are listed.  
+ 
+NOTE:  This provision is aimed at requiring transparent disclosure of the policy formulated in sub-regulation (1). 
+ 
+Code of Conduct. 
+9. 
+The  board  of  directors  of  every  listed  company  and  market  intermediary  shall 
+formulate a code of conduct to regulate, monitor and report trading by its employees and other 
+connected persons towards achieving compliance with these regulations, adopting the minimum 
+standards  set  out  in  Schedule  B  to  these  regulations,  without  diluting  the  provisions  of  these 
+regulations in any manner. 
+ 
+NOTE:  It  is  intended  that  every  company  whose  securities  are  listed  on  stock  exchanges  and  every  market 
+intermediary registered with SEBI is mandatorily required to formulate a code of conduct governing trading by its 
+employees.  The standards set out in the schedule are required to be addressed by such code of conduct. 
+
+(1) 
+
+ 
+(2) 
+Every other person who is required to handle unpublished price sensitive information in 
+the  course  of  business  operations  shall  formulate  a  code  of  conduct  to  regulate,  monitor  and 
+report  trading  by  employees  and  other  connected  persons  towards  achieving  compliance  with 
+these regulations, adopting the minimum standards set out in Schedule B to these regulations, 
+without diluting the provisions of these regulations in any manner. 
+ 
+NOTE: This provision is intended to mandate persons other than listed companies and market intermediaries that 
+are required to handle unpublished price sensitive information to formulate a code of conduct governing trading in 
+securities  by  their  employees.  These  entities  include  professional  firms  such  as  auditors,  accountancy  firms,  law 
+firms,  analysts,  consultants  etc.,  assisting  or  advising  listed  companies,  market  intermediaries  and  other  capital 
+market participants. Even entities that normally operate outside the capital market may handle unpublished price 
+sensitive information. This provision would mandate all of them to formulate a code of conduct.   
+ 
+(3) 
+Every  listed  company,  market  intermediary  and  other  persons  formulating  a  code  of 
+conduct shall identify and designate a compliance officer to administer the code of conduct and 
+other requirements under these regulations. 
+ 
+NOTE: This provision is intended to designate a senior officer as the compliance officer with the responsibility to 
+administer the code of conduct and monitor compliance with these regulations. 
+ 
+
+CHAPTER – V 
+
+ 
+
+MISCELLANEOUS 
+
+Any contravention of these regulations shall be dealt with by the Board in accordance 
+
+ 
+Sanction for violations. 
+10. 
+with the Act. 
+ 
+Power to remove difficulties. 
+11. 
+In order to remove any difficulties in the interpretation or application of the provisions of 
+these regulations, the Board shall have the power to issue directions through guidance notes or 
+circulars:                                               
+
+The  Securities  and  Exchange  Board  of  India  (Prohibition  of  Insider  Trading) 
+
+ 
+Provided that where any direction is issued by the Board in a specific case relating to 
+interpretation  or  application  of  any  provision  of  these  regulations,  it  shall  be  done  only  after 
+affording a reasonable opportunity of being heard to the concerned persons and after recording 
+reasons for the direction. 
+ 
+Repeal and Savings. 
+12. 
+Regulations, 1992 are hereby repealed. 
+ 
+(2)   Notwithstanding such repeal,— 
+ 
+(a)  
+the  previous  operation  of  the  repealed  regulations  or  anything  duly  done  or  suffered 
+thereunder,  any  right,  privilege,  obligation  or  liability  acquired,  accrued  or  incurred  under  the 
+repealed  regulations,  any  penalty,  forfeiture  or  punishment  incurred  in  respect  of  any  offence 
+committed against the repealed regulations, or any investigation, legal proceeding or remedy in 
+respect  of  any  such  right,  privilege,  obligation,  liability,  penalty,  forfeiture  or  punishment  as 
+aforesaid, shall remain unaffected as if the repealed regulations had never been repealed; and  
+ 
+(b) 
+anything done or any action taken or purported to have been done or taken including any 
+adjudication,  enquiry  or  investigation  commenced  or  show-cause  notice  issued  under  the 
+repealed regulations prior to such repeal, shall be deemed to have been done or taken under the 
+corresponding provisions of these regulations; 
+ 
+(3)   After  the  repeal  of  Securities  and  Exchange  Board  of  India  (Prohibition  of  Insider 
+Trading) Regulations, 1992, any reference thereto in any other regulations made, guidelines or 
+circulars issued thereunder by the Board shall be deemed to be a reference to the corresponding 
+provisions of these regulations. 
+ 
+
+(1) 
+
+ 
+ 
+ 
+ 
+ 
+
+SCHEDULE A 
+
+[See sub-regulation (1) of regulation 8] 
+
+Principles of Fair Disclosure for purposes of Code of Practices and Procedures for Fair 
+
+Disclosure of Unpublished Price Sensitive Information 
+
+Uniform  and  universal  dissemination  of  unpublished  price  sensitive  unpublished  price 
+
+Designation  of  a  senior  officer  as  a  chief  investor  relations  officer  to  deal  with 
+
+Prompt  dissemination  of  unpublished  price  sensitive  information  that  gets  disclosed 
+
+Prompt  public  disclosure  of  unpublished  price  sensitive  information  that  would  impact 
+1. 
+price discovery no sooner than credible and concrete information comes into being in order to 
+make such information generally available. 
+ 
+2. 
+sensitive information to avoid selective disclosure. 
+ 
+3. 
+dissemination of information and disclosure of unpublished price sensitive information. 
+ 
+4. 
+selectively, inadvertently or otherwise to make such information generally available.  
+ 
+5. 
+market rumours by regulatory authorities. 
+ 
+6. 
+price sensitive information. 
+ 
+Developing best practices to make transcripts or records of proceedings of meetings with 
+7. 
+analysts  and  other  investor  relations  conferences  on  the  official  website  to  ensure  official 
+confirmation and documentation of disclosures made. 
+ 
+8. 
+ 
+
+Appropriate and fair response to queries on news reports and requests for verification of 
+
+Ensuring that information shared with analysts and research personnel is not unpublished 
+
+Handling of all unpublished price sensitive information on a need-to-know basis. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+SCHEDULE B 
+
+ 
+
+[See sub-regulation (1) and sub-regulation (2) of regulation 9] 
+
+ 
+
+Minimum Standards for Code of Conduct to Regulate, Monitor and Report Trading 
+
+by Insiders 
+
+ 
+The  compliance  officer  shall  report  to  the  board  of  directors  and  in  particular,  shall 
+1. 
+provide reports to the Chairman of the Audit Committee, if any, or to the Chairman of the board 
+of directors at such frequency as may be stipulated by the board of directors. 
+ 
+2. 
+All information shall be handled within the organisation on a need-to-know basis and no 
+unpublished  price  sensitive  information  shall  be  communicated  to  any  person  except  in 
+furtherance of the insider’s legitimate purposes, performance of duties or discharge of his legal 
+obligations. The code of conduct shall contain norms for appropriate Chinese Walls procedures, 
+and processes for permitting any designated person to “cross the wall”. 
+ 
+3. 
+Employees  and  connected  persons  designated  on  the  basis  of  their  functional  role 
+(“designated  persons”)  in  the  organisation  shall  be  governed  by  an  internal  code  of  conduct 
+governing dealing in securities.  The board of directors shall in consultation with the compliance 
+officer specify the designated persons to be covered by such code on the basis of their role and 
+function in the organisation. Due regard shall be had to the access that such role and function 
+would  provide  to  unpublished  price  sensitive  information  in  addition  to  seniority  and 
+professional designation. 
+ 
+4. 
+Designated  persons  may  execute  trades  subject  to  compliance  with  these  regulations.  
+Towards this end, a notional trading window shall be used as an instrument of monitoring trading 
+by  the  designated  persons.  The  trading  window  shall  be  closed  when  the  compliance  officer 
+determines that a designated person or class of designated persons can reasonably be expected to 
+have  possession  of  unpublished  price  sensitive  information.  Such  closure  shall  be  imposed  in 
+relation  to  such  securities  to  which  such  unpublished  price  sensitive  information  relates.  
+Designated persons and their immediate relatives shall not trade in securities when the trading 
+window is closed.   
+
+ 
+5. 
+The timing for re-opening of the trading window shall be determined by the compliance 
+officer taking into account various factors including the unpublished price sensitive information 
+in question becoming generally available and being capable of assimilation by the market, which 
+in any event shall not be earlier than forty-eight hours after the information becomes generally 
+available.  The  trading  window  shall  also  be  applicable  to  any  person  having  contractual  or 
+fiduciary  relation  with  the  company,  such  as  auditors,  accountancy  firms,  law  firms,  analysts, 
+consultants etc., assisting or advising the company.   
+ 
+ When the trading window is open, trading by designated persons shall be subject to pre-
+6. 
+clearance by the compliance officer, if the value of the proposed trades is above such thresholds 
+as the board of directors may stipulate.  No designated person shall apply for pre-clearance of 
+any  proposed  trade  if  such  designated  person  is  in  possession  of  unpublished  price  sensitive 
+information even if the trading window is not closed.   
+ 
+7. 
+The  compliance  officer  shall  confidentially  maintain  a  list  of  such  securities  as  a 
+“restricted list” which shall be used as the basis for approving or rejecting applications for pre-
+clearance of trades. 
+ 
+Prior to approving any trades, the compliance officer shall be entitled to seek declarations 
+8. 
+to the effect that the applicant for pre-clearance is not in possession of any unpublished price 
+sensitive information. He shall also have regard to whether any such declaration is reasonably 
+capable of being rendered inaccurate. 
+ 
+The code of conduct shall specify any reasonable timeframe, which in any event shall not 
+9. 
+be  more  than  seven  trading  days,  within  which  trades  that  have  been  pre-cleared  have  to  be 
+executed by the designated person, failing which fresh pre-clearance would be needed for the 
+trades to be executed. 
+ 
+10. 
+The code of conduct shall specify the period, which in any event shall not be less than six 
+months, within which a designated person who is permitted to trade shall not execute a contra 
+
+trade.  The compliance officer may be empowered to grant relaxation from strict application of 
+such  restriction  for  reasons  to  be  recorded  in  writing  provided  that  such  relaxation  does  not 
+violate  these  regulations.  Should  a  contra  trade  be  executed,  inadvertently  or  otherwise,  in 
+violation  of  such  a  restriction,  the  profits  from  such  trade  shall  be  liable  to  be  disgorged  for 
+remittance to the Board for credit to the Investor Protection and Education Fund administered by 
+the Board under the Act. 
+ 
+The  code  of  conduct  shall  stipulate  such  formats  as  the  board  of  directors  deems 
+11. 
+necessary for making applications for pre-clearance, reporting of trades executed, reporting of 
+decisions not to trade after securing pre-clearance, recording of reasons for such decisions and 
+for  reporting  level  of  holdings  in  securities  at  such  intervals  as  may  be  determined  as  being 
+necessary to monitor compliance with these regulations.  
+ 
+12.   Without  prejudice  to  the  power  of  the  Board  under  the  Act,  the  code  of  conduct  shall 
+stipulate the sanctions and disciplinary actions, including wage freeze, suspension etc., that may 
+be imposed, by the persons required to formulate a code of conduct under sub-regulation (1) and 
+sub-regulation (2) of regulation 9, for the contravention of the code of conduct. 
+ 
+13. 
+The code of conduct shall specify that in case it is observed by the persons required to 
+formulate a code of conduct under sub-regulation (1) and sub-regulation (2) of regulation 9, that 
+there has been a violation of these regulations, they shall inform the Board promptly.  
+ 
+ 
+ 
+
+U. K. SINHA 
+CHAIRMAN 
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+ 
+ 
+
+
