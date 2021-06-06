@@ -1,0 +1,3846 @@
+COMMITTEE ON REVIEW OF ELIGIBILITY NORMS (CORE) 
+
+ 
+
+ 
+
+The “Committee on Review of Eligibility Norms” (“CORE”) was constituted by SEBI to re-
+visit the eligibility norms and other functional aspects prescribed for various intermediaries. 
+The  CORE,  sub  divided  itself  into  four  Sub-Groups  comprising  of  domain  experts.  The 
+Sub-Groups have since submitted their recommendations on the eligibility requirements for 
+various  market  intermediaries.    Written  comments  are  invited  on  the  recommendations, 
+including suggestions on appropriate net worth for various intermediaries. The comments 
+may  quote  the  relevant  section  /  paragraph  to  which  they  pertain  and  be  mailed  at  the 
+following respective e-mail addresses by June 14, 2010: 
+ 
+
+On recommendations related to 
+
+Comments may be mailed at 
+
+Asset Management Companies 
+Broker and Sub brokers 
+Portfolio Managers 
+Custodians 
+Other Intermediaries 
+ 
+
+yogeshe@sebi.gov.in 
+amitk@sebi.gov.in 
+sksingh@sebi.gov.in 
+mandeeps@sebi.gov.in 
+sanjayg@sebi.gov.in 
+
+ 
+
+REPORT OF SUB GROUP I 
+
+ 
+1) BACKGROUND 
+ 
+This report is written as part of a review of eligibility norms for various categories 
+of market intermediaries. SEBI has set up the Committee on Review of Eligibility 
+Norms (CORE), various sub-groups of which are reviewing eligibility norms with 
+respect to specific market intermediaries. This report is the result of deliberations 
+of the sub-group – I that is looking at eligibility norms for Credit Rating Agencies, 
+Debenture Trustees and Asset management companies (AMCs). 
+ 
+The sub-group is headed by Ms Roopa Kudva, MD & CEO, Crisil. The other 
+members of the sub group are:  
+
+1.  Shri Mrs. Chitra Ramakrishan, DMD, NSE 
+2.  Shri S. H. Bhojani, Sr. Partner, Amarchand Mangaldas 
+3.  Shri Paresh Sukthankar, ED, HDFC Bank 
+4.  Shri A. Balasubramanian, CIO, Birla Sun Life AMC Ltd. 
+5.  Shri Sanjay Shah, MD, Morgan Stanley India Securities Pvt. Ltd. 
+6.  Shri Milind Barve, MD, HDFC AMC Ltd. 
+7.  Shri Nilesh Shah, DMD, ICICI Prudential AMC Limited 
+
+ 
+The sub-group met on June 03, 2008. The basic categories of issues that were 
+examined by the sub-group are: 
+
+1.  Is  there  a  need  to  review  the  minimum  net  worth  that  a  CRA  and  DT 
+
+should have? If so where should the minimum net worth be set? 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 1 of 55 
+
+ 
+
+ 
+
+2.  Are  there  specific  infrastructure  requirements  with  respect  to  manpower 
+that should be put in place for a CRA and DT to be eligible for initial and 
+ongoing registration? 
+
+3.  Any  other  recommendations  that  can  strengthen  and  smoothen  the 
+
+functioning of these intermediaries.  
+
+ 
+Subsequently, on June 09, 2008 the mandate for review of eligibility norms for 
+AMC’s was also given to the sub group-I. The sub-group met on December 8, 
+2008 and March 17, 2009 to examine the issues pertaining to the AMC’s.   
+
+2 Debenture trustees 
+
+2.1 Background 
+ 
+The  recent  increase  in  volumes  of  securitisation  issuances  creates  a  rapidly 
+growing  role  for  debenture  trustees  (DTs)  in  these  instruments,  given  the  vital 
+role  that  DTs  play  in  securitised  issues.  However  their  role  in  public  issues  of 
+debt has diminished considerably, as there is little market for these issues.  
+ 
+Problems that DTs face today include: 
+
+– Very low fee structure, sometimes as low as a few thousand rupees, for 
+thousands  of  crores  of  rupees  of  debenture  issues.  This  makes  the 
+business unremunerative  
+– Lack of information from issuers 
+– No recourse to SARFAESI provisions and DRT for recoveries – unlike a 
+lending  institution  the  DT  has  to  go  to  court,  a  time-consuming  and 
+uncertain process 
+– In addition, all proceedings for enforcement of security and recovery have 
+to be undertaken initially at DT's own cost (which can be recovered only 
+from realisation), a further disincentive to act in a situation where fees are 
+minuscule and recovery can take years 
+
+ 
+In this situation, it is important to note that revised criteria that are too stringent 
+might  disincentivise  good  players  by  driving  the  costs  of  compliance  up  to 
+onerous levels.  
+ 
+Since  the  meeting  of  the  sub-group,  the  SEBI  (Issue  and  Listing  of  Debt 
+Securities)  Regulations,  2008,  have  brought  about  some  clarity  as  regards  the 
+role  and  rights  of  DTs  in  publicly  issued  and  privately  placed  but  listed  debt 
+securities. 
+ 
+Other noteworthy points: 
+
+– A DT's officials have no personal liability in case the DT does not perform 
+its functions 
+– Under the current structure, the DT is no better placed than an investor to 
+enforce recovery 
+– DTs often hesitate to act where governments are involved 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 2 of 55 
+
+ 
+
+– There  is  a  need  to  define  what  kind  of  securities  DTs  are  required  for 
+(public issues of debt, privately placed paper that is subsequently listed, 
+structured  transactions  including  securitisation,  etc).  To  an  extent,  such 
+definition will involve a broadening of SEBI's role since there will be some 
+degree of overlap with the relevant provisions of the Companies Act. 
+
+ 
+
+ 
+
+2.2 Current Debenture Trustee regulations 
+ 
+Eligibility criteria: 
+ 
+The DT applicant should be: 
+ 
+(a) A scheduled bank carrying on commercial activity  
+(b)  A  public  financial  institution  within  the  meaning  of  Section  4A  of  the 
+Companies Act 
+(c) An insurance company 
+(d) A body corporate 
+ 
+Other criteria presently applicable for applicants:  
+infrastructure 
+
+like  adequate  office  space, 
+
+-  Should  have  necessary 
+
+equipment, and manpower to effectively discharge their activities 
+
+-  Should have experience as a debenture trustee or have in employment at 
+least two persons who have experience in matters that are relevant to a 
+debenture trustee 
+
+-  The  applicant  or  any  person  directly  or  indirectly  connected  with  the 
+applicant  should  not  have  been  granted  registration  by  the  Board  under 
+the Act 
+
+-  Should  have  in  employment  at  least  one  person  who  possesses  a 
+the 
+
+professional  qualification 
+Government in finance, accountancy, law or business management 
+
+recognised  by 
+
+-  Any director or principal officer should not be and should not have been at 
+any  time  been  convicted  for  any  offence  involving  moral  turpitude,  or 
+found guilty of any economic offence 
+
+from  an 
+
+institution 
+
+ 
+Role of debenture trustees: 
+
+ 
+-  Act  as  investors’  representatives  in  the  debenture  issue  process  after 
+
+entering into specific written agreement for each issue 
+
+-  Ensure that charge is created on assets offered as security by the issuer 
+-  Ensure that debenture certificates, interest warrants, redemption amounts 
+
+etc are sent to debenture holders on time 
+
+-  Monitor issuers’ assets to ensure that they are sufficient to cover liabilities 
+
+to debenture holders 
+Inspect any books of records etc to ensure that the above requirements 
+are met 
+
+- 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 3 of 55 
+
+ 
+
+ 
+
+-  Act immediately if there is a breach of the trust deed  
+-  Call a meeting of the debenture holders when there is a need for such a 
+meeting expressed by a minimum number of debenture holders, or when 
+there  is  a  default  or  any  other  event  that  affects  the  interest  of  the 
+debenture holders 
+
+-  When required, take possession of trust property in accordance with the 
+provisions  of  the  trust  deed,  enforce  security  in  the  interest  of  the 
+debenture holders, and carry out any actions that are necessary 
+In case of guaranteed or structured instruments, ensure that all necessary 
+documents are executed and that the structure functions as expected  
+
+-  Any  other  actions  that  may  be  necessary  to  ensure  that  statutory 
+obligations  with  respect  to  debentures  (such  as  creation  of  redemption 
+reserve)  have  been  carried  out  and  debenture  holders’  interests  are 
+protected 
+
+- 
+
+2.3 Recommendations:  
+Net Worth 
+
+– The committee believes that a reasonable level of net worth is required; 
+net worth stipulation should be for the entity and can allow net worth to be 
+used  across  other  fee-based  businesses  as  well.    This  will  allow 
+participants to earn reasonable return on equity, and not burden them with 
+large  equity  without  corresponding 
+returns.  However,  adequate 
+safeguards are needed to ensure that the trustees’ role is not diluted 
+– With  this  relaxation,  the  minimum  net  worth  can  be  increased  from  the 
+current Rs. 1 crore to Rs. 2 crores to account for inflation. But beyond this 
+amount, the returns may not justify higher capitalisation  
+– The  committee  also  suggests  that  SEBI  consider  a  two-level  cut-off:  a 
+small net worth for the DT, and a much larger net worth for the promoter, 
+akin  to  current  regulations  for  Credit  Rating  Agencies  (in  turn  this  will 
+require a commitment from the promoter to stay invested and involved in 
+the  DT).  With  this  in  place,  serious  commitment  to  this  trustee  business 
+can be ensured through 'minimum promoter net worth' of Rs. 100 crores 
+
+ 
+Conflicts of interest 
+
+ 
+Funding the recovery process 
+
+– There should be no conflicts of interest for a debenture trustee. This issue 
+is already taken care of in the existing regulations 
+
+– The committee recommends an investor protection fund (IPF)-like corpus 
+for DTs to dip into, for meeting expenses like calling investors for meetings 
+and  carrying  out  legal  proceedings.  The  corpus  can  be  funded  out  of  a 
+small  cess  of  a  few  basis  points  on  debt  issues.  The  fund  can  be 
+replenished once recoveries occur 
+– As an alternative to the corpus, the committee recommends performance 
+guarantees and bank guarantees for issuers. A bank guarantee for some 
+amount (Rs.5 lakh or Rs.10 lakh) can be provided by the issuer to fund the 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 4 of 55 
+
+ 
+
+  
+
+ 
+
+DT in calling for a meeting of investors and initiating legal proceedings for 
+recovery in case the issuer defaults. Although banks will typically not be 
+willing  to  offer  guarantees  with  tenures  matching  those  of  all  long-term 
+instruments (especially in a situation where the issuer’s creditworthiness is 
+under increasing strain), some roll-over arrangement can be worked out 
+– Another alternative is  that a lump sum fee can be charged to the issuer 
+which  if  unused  can  be  refunded  to  the  issuer  without  any  interest  after 
+maturity  of  the  debentures.  The  interest  will  become  income  for  the 
+trustee.  This  will  be  an  incentive  for  the  trustee  to  continue  its  activity. 
+Also, the issuer can allow investors the choice of trustees out of a shortlist. 
+The  majority  of  investors  (say  75%)  can  chose  their  trustee  among  the 
+choices offered. This way, the most effective trustees will stand the best 
+chance of being chosen and will thus have an incentive to work better   
+
+– Empowering DTs to carry out recoveries 
+– The  committee  recommends 
+the  possibility  of  extending 
+to  SEBI 
+SARFAESI/DRT  mechanism  to  DTs.  SEBI  in  turn  can  recommend  the 
+same to Ministry of Finance to make necessary amendments to the Act 
+–  This  inclusion  is  key  to  orderly  development  of  the  corporate  bond 
+market.  Capital  market 
+investors’  previous  experience  was  not 
+encouraging in terms of recovery by DTs through bankruptcy proceedings; 
+this led many investors to shun mid-rated corporate bonds. 
+– The right to recover through CLB is currently available only to debenture 
+holders,  the  same  may  be  extended  to  DTs  as  well  (under  Section 
+117C(4) of the Companies Act 1956) 
+
+– It  was  proposed  that  there  be  a  penalty  on  the  issuer,  not  crippling  but 
+significant enough for management to notice, if it fails to regularly provide 
+information 
+
+– The  committee  feels  that  it  is  desirable  for  DTs  to  disclose  their 
+performance  with  regard  to  timely  creation  of  security,  invocation  of 
+guarantee when required, etc. Such disclosure can be carried on the DT’s 
+website  (such  website  therefore  has  to  necessarily  exist),  and  in  filings 
+with SEBI 
+
+ 
+Information inadequacy 
+
+ 
+Disclosure by DTs 
+
+ 
+Information sharing by DTs 
+
+ 
+
+Renewal of License 
+
+– In  case  security  is  not  created  in  a  timely  manner,  or  any  other  event 
+occurs  that  might  adversely  affect  debenture  holders,  the  concerned  DT 
+should compulsorily inform related entities of this lapse 
+
+– Licenses  can  be  renewed  subject 
+track  record 
+discharging duties with regard to diligent follow-up and timely reporting 
+
+to  satisfactory 
+
+in 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 5 of 55 
+
+ 
+
+ 
+The market perceives trustees as variable in the quality of their work and 
+the interest they take 
+
+– It is desirable to set timelines or standard operating procedures governing 
+specific activities of debenture trustees, such as: 
+
+ 
+
+one month of default 
+
+Initiation of recovery proceedings within six months of default 
+
+o 
+o  Appointment of nominee director in terms of DT regulations within 
+o  Exercise  of  powers  conferred  u/s  117B(4)  of  the  Companies  Act 
+o 
+
+1956, within three months of  shortfall in security cover 
+Initiating  of  actions  related  to  exercise  of  rights  of  debenture 
+holders, on a timely basis  
+
+ 
+It  is  suggested  that  all  these  recommendations  be  re-examined  in  light  of  the 
+relevant  provisions  in  the  new  draft  of  the  Companies  Act  that  is  pending 
+introduction in Parliament. This will be a separate exercise. 
+ 
+ 
+3 CREDIT RATING AGENCIES 
+
+3.1 Background 
+Few jurisdictions globally regulate CRAs. Among all Indian intermediaries, SEBI 
+guidelines for CRAs are the most detailed, possibly because these were among 
+the last sets of guidelines to be issued. 
+ 
+Globally  there  are  three  large  CRAs:  Standard  &  Poor’s,  Moody’s,  and  Fitch 
+Ratings.  In  addition,  there  are  a  number  of  CRAs  with  a  national  or  regional 
+footprint, some of them being affiliated to one of the three large global CRAs. In 
+India there are four major CRAs that are registered with SEBI and operational; a 
+fifth registration has recently been granted. 
+ 
+The globally prevalent ‘issuer-pays’ rating agency model has a structural conflict 
+of interest, since the entity that commissions and pays for the rating exercise is 
+also  being  rated.  Rating  agencies  have  to  manage  this  conflict  and  prevent  it 
+from influencing rating decisions. Both regulations and internal procedures have 
+to be designed towards this end. 
+ 
+It is important to have adequately strong eligibility criteria to keep inappropriate 
+players  out,  but  this  has  to  be  supplemented  with  a  strong  disclosure  regime. 
+Adequate  disclosure  and  dissemination  is  necessary  for  investors  to  know 
+whether a CRA has acted in time in taking its rating actions. In addition, it will 
+ensure that investors are alerted in time on possible rating changes.  
+
+3.2 Current CRA regulations 
+ 
+Eligibility criteria: 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 6 of 55 
+
+ 
+
+ 
+
+ 
+The applicant  
+(a) Should be a company under the Companies Act, 1956 
+(b)  Should  specify  rating  as  one  of  the  main  objects  in  Memorandum  of 
+Association 
+(c) Should have a minimum net worth of rupees five crores  
+(d) Should have adequate infrastructure to provide rating services  
+(e)  The  applicant  and  its  promoters  should  have  professional  competence, 
+financial soundness and general reputation of fairness and integrity in business 
+transactions, to the satisfaction of the Board 
+(f) Neither the applicant, nor its promoter, nor any director of the applicant or its 
+promoter,  should  be  involved  in  any  legal  proceeding  connected  with  the 
+securities market, which may have an adverse impact on investors’ interests  
+(g)  Neither  the  applicant,  nor  its  promoters,  nor  any  director  of  its  promoter 
+should  have  been  convicted  of  any  offence  involving  moral  turpitude,  or  any 
+economic offence; 
+(h)  The  applicant  should  have,  in  its  employment,  persons  having  adequate 
+professional and other relevant experience to the satisfaction of the Board; 
+(i) Neither the applicant, nor any person directly or indirectly connected with the 
+applicant should in the past have been – 
+
+(i) refused by the Board a certificate under these regulations or 
+(ii) subjected to any proceedings for a contravention of the Act or of any 
+rules or regulations made under the Act. 
+
+(j) The applicant should be a fit and proper person for the grant of a certificate; 
+(k) Grant of certificate to the applicant should be in the interest of investors and 
+the securities market. 
+(l) The provisions of the Securities and Exchange Board of India (Criteria for Fit 
+and  Proper  Person)  Regulations,  2004  shall,  as  far  as  may  be,  apply  to  all 
+applicants or the credit rating agencies under these regulations. 
+ 
+Promoter  
+Promoter should be one of the following: 
+(a) A public financial institution 
+(b) A scheduled commercial bank  
+(c) A foreign bank operating in India with RBI approval  
+(d)  A  foreign  credit  rating  agency  recognised  law  in  the  country  of  its 
+incorporation, having at least five years experience in rating securities; 
+(e) Any company or a body corporate, having continuous net worth of minimum 
+rupees 100 crores for the previous five years  
+ 
+Validity of registration: 
+The registration remains valid if: 
+(a) the CRA complies with the provisions of the Act, and all relevant regulations, 
+guidelines, etc issued by the Board on the subject of credit rating. 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 7 of 55 
+
+ 
+
+ 
+
+(b) information or particulars furnished to the Board by the CRA are not found to 
+be false or misleading, and do not change subsequent to their being furnished at 
+the time of the application without immediate information to the Board. 
+ 
+A CRA registration is valid for three years. 
+ 
+General obligations: 
+The following are some of the General Obligations that have been specified:  
+
+Internal procedures to be framed by the CRA 
+
+-  Compliance with Code of Conduct stipulated by SEBI 
+-  Agreement with the client  
+-  Monitoring of ratings  
+-  Procedure for review of rating  
+- 
+-  Disclosure of Rating Definitions and Rationale by the CRA 
+-  Submission of information to SEBI 
+-  Compliance with circulars etc., issued by SEBI 
+-  Appointment of Compliance Officer  
+-  Maintenance of Books of Accounts records, etc.  
+-  Steps on auditor’s report  
+-  Confidentiality  
+-  Rating process  
+
+Several  other  protective  provisions  exist  like  the  regulator’s  right  to  inspect  a 
+CRA, prohibition of a CRA from rating its promoters and associates, etc. 
+
+3.3 Recommendations 
+ 
+Ownership  
+
+– It  is  recommended  that  all  registered  agencies  be  required  to  disclose 
+publicly on their websites their shareholding pattern and the names of the 
+owners 
+– It is also recommended that the question of promoters and their continuing 
+involvement  in  CRAs  that  they  promote  be  re-examined.  Under  the 
+regulations  as  they  stand  today  it  is  possible  to  ‘borrow’  an  established 
+company’s  balance  sheet  simply  to  meet  the  continuous  net  worth 
+criterion for gaining registration 
+
+ 
+Disclosure of rating performance 
+
+– It  is  recommended  that  every  CRA  be  required  to  publish,  every  six 
+months, a list of its publicly outstanding ratings that have moved by more 
+than one notch over the preceding six months (along with the number of 
+notches  moved).  The  entire  period  should  be  considered;  therefore  if  a 
+rating been downgraded twice by one notch each, it should feature on the 
+list as a movement of two notches  
+– It  is  recommended  that  every  CRA  be  required  to  publish  one-year  and 
+three-year  default  rates,  category-wise  (eg.  for  ‘AAA’,  ‘AA’,  ‘A’,  etc, 
+separately) covering the entire history of its ratings 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 8 of 55 
+
+ 
+
+ 
+
+immediately  prior 
+
+– It  is  recommended  that  every  CRA  be  required  to  publish,  every  six 
+months, a list of defaults over the preceding six months on debt that it has 
+rated. Alongside the defaulted rating the CRA should mention the publicly 
+outstanding  rating 
+the  publicly 
+outstanding rating on the date six months before the day of default 
+– It  is  recommended  that  detailed  disclosures  should  be  made  by  rating 
+agencies while rating PTCs in its rating rationales including names of the 
+underlying assets in cases of CDOs 
+– Rating  outlooks  should  be  made  disclosed    for  all  long-term  ratings  on 
+plain vanilla instruments and facilities 
+
+to  default,  and 
+
+ 
+Discouraging ‘rating shopping’ 
+
+– Mandatory publication of unaccepted ratings if the rated security is listed 
+within—say—1  year  of  the  rating  being  assigned  could  be  considered. 
+However,  any 
+ratings  can  easily  be 
+circumvented;  the  issue  of  'rating  shopping'  should  ideally  be  left  to  the 
+market to decide 
+– RBI  has  allowed  banks  to  use  only  accepted  ratings,  and  the  SEBI 
+regulation could be aligned to the same 
+
+regulations  on  unaccepted 
+
+ 
+Preventing conflicts of interest 
+
+– It  is  recommended  that  a  deadline  be  set  for  CRAs  to  separate  their 
+analytical and business development teams 
+
+ 
+ 
+4 ASSET MANAGEMENT COMPANIES 
+ 
+4.1 Background 
+ 
+This report is written as part of a review of eligibility norms for various categories 
+of market intermediaries. SEBI has set up the Committee on Review of Eligibility 
+Norms (CORE), various sub-groups of which are reviewing eligibility norms with 
+respect to specific market intermediaries. This report is the result of deliberations 
+of  the  sub-group  that  is  looking  at  eligibility  norms  for  asset  management 
+companies (AMCs). 
+ 
+The basic categories of issues that are being examined are: 
+
+4.  Is  there  a  need  to  review  the  minimum  net  worth  that  an  AMC  should 
+
+have? If so, at what level should the minimum net worth be set? 
+
+5.  Is there a need to re-look at the criteria for eligible sponsors to promote an 
+
+AMC? If so what parameters should be used? 
+
+6.  Are there specific infrastructure requirements that should be put in place 
+
+for an AMC to be eligible for initial and ongoing registration? 
+
+7.  Any  other  recommendations  that  can  strengthen  and  smoothen  the 
+
+functioning of the sector 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 9 of 55 
+
+ 
+
+ 
+
+ 
+
+The  liquidity  squeeze  in  the  market  in  the  last  quarter  of  2008,  resulting  in 
+redemptions from a number of debt schemes, the difficulties that they faced and 
+the subsequent change of ownership of some AMCs, have brought these issues 
+into immediate focus.  
+ 
+4.2  Current Regulations 
+ 
+Eligibility criteria: 
+ 
+The promoter (sponsor): 
+
+(a) Should  hold  at  least  40%  in  AMC  (any  entity  holding  40%  or  more  is 
+
+deemed a sponsor) 
+
+(b) Be in financial services for five years or more 
+(c) Have had positive net worth for the preceding five years 
+(d) The net worth in the immediately preceding year should have been more 
+
+than the capital contribution of the sponsor in the AMC 
+
+(e) Should have had profits after depreciation, interest and tax in three of the 
+
+preceding five years, including the fifth year 
+
+These  are  abbreviated  requirements;  the  full  requirements  are  spelt  out  in  the 
+SEBI (Mutual Funds) Regulations, 1996 
+ 
+The AMC: 
+ 
+
+(a) Should  be  a  company  formed  and  registered  under  the  Companies  Act, 
+
+1956  
+
+(b) (If  it  is  an  existing  asset  management  company)  should  have  a  sound 
+track  record  (in  terms  of  net  worth  and  profitability),  general  reputation, 
+and fairness in transactions 
+
+(c) Should be a fit and proper person 
+(d) Directors  should  have  adequate  professional  experience  in  finance/ 
+
+financial services-related fields,  
+
+(e) Directors and key personnel should not have been found guilty of moral 
+
+turpitude or economic offence/ violation of securities laws 
+
+(f)  Key personnel should not have worked for any AMC / other intermediary 
+during the period when its registration has been suspended or cancelled 
+by SEBI 
+
+(g) Board of directors should have at least 50% independent directors 
+(h) Chairman should not be trustee of any mutual fund 
+(i)  AMC  should  have  a  net  worth  of  not  less  than  Rs.10  crores  (paid-up 
+capital  plus  free  reserves,  less  miscellaneous  expenses  not  written  off, 
+deferred revenue expenditure, intangible assets) – certain relaxations for 
+AMCs that were already in existence when the regulations came into force 
+
+ 
+
+Terms and conditions: 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 10 of 55 
+
+ 
+
+ 
+
+(a) Any director in an AMC can take up directorship in another AMC only if he 
+or she is an independent director, and has taken approval from the board 
+of the AMC 
+
+(b) Appointment of any director to be approved by trustees 
+(c) No change in controlling interest of AMC without prior approval of trustees 
+and  board,  written  communication  to  unitholders  and  advertisement  in 
+newspaper, option to unitholders to exit without load 
+
+(a) AMC shall not act as trustee of any mutual fund 
+(b) AMC  shall  not  undertake  any  other  business  that  is  not  in  a  limited  and 
+clearly-defined set of related activities (and even these can be undertaken 
+only after meeting requirements for Chinese walls and capitalisation) 
+
+(c) AMC shall not invest in its own schemes without full advance disclosure 
+
+(and cannot charge fees on its investments in its own schemes) 
+
+Restrictions: 
+
+ 
+Validity of registration: 
+Not specified in regulation 
+ 
+Validity of AMC’s appointment: 
+
+quarters of unit-holders,  
+
+unit-holders 
+
+(a) Appointment  can  be  terminated  by  majority  of  trustees,  or  by  three-
+
+(b) Change  in  appointment  of  AMC  subject  of  prior  approval  of  board  and 
+
+ 
+4.3  Recommendations 
+ 
+1. Minimum Net Worth requirement for an AMC 
+ 
+The sub-group was of the opinion that the present minimum net worth of Rs.10 
+crore was too low. Although the operations of AMCs are in the nature of a pass-
+through, a larger net worth is required for the following reasons: 
+
+1.  To  build  up  the  minimum  infrastructure  that  is  sufficient  to  service 
+
+investors 
+
+2.  To signal the company’s seriousness of intent in setting up the business 
+and  inspire  confidence,  given  that  AMCs  manage  people’s  money  in  a 
+fiduciary capacity 
+
+3.  To  ensure  continuity  for  the  AMC,  and  therefore  provide  reassurance  to 
+investors,  in  the  event  of  the  sponsor  facing  problems  (this  is  especially 
+relevant for foreign sponsors) 
+
+4.  To bear the AMC’s initial losses without facing serious financial strain 
+5.  To  provide  adequate  cushion  to  meet  the  requirements  of  growth  in 
+
+operations of the AMC for a reasonable time frame 
+
+6.  To enable AMCs to be better placed to obtain liquidity lines from banks, if 
+necessary,  to  provide  some  protection  to  investors  from  market-driven 
+stress 
+
+ 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 11 of 55 
+
+ 
+
+ 
+
+A survey of global norms for AMC capitalisation reveals the following: 
+
+– In the US a new fund that is offering shares to the public has to have seed 
+capital of at least USD100,000 (for each fund) 
+– In  EU  and  the  UK,  regulations  for  UCITS  (Undertakings  for  Collective 
+Investments in Transferable Securities) link the capital to be maintained to 
+the assets under management, with a floor (UK regulations also link it to 
+the fund’s annual fixed expense levels1). The base capital is EUR125000 
+for  AUM  up  to  EUR250  million  (a  coverage  of  0.05  per  cent),  with 
+additional  capital  at  .02  per  cent  of  AUM  in  excess  of  EUR250  million. 
+Notwithstanding  this,  the  total  of  the  initial  capital  and  the  additional 
+amount  required  to  be  held  by  the  company  shall  not  be  required  to 
+exceed EUR10,000,000.  
+– In  Singapore,  there  are  base  capital  requirements  of  SGD1  million 
+(Rs.3.25 crore), SGD500,000, and SGD250,000, for various categories of 
+fund  managers  (categorised  by  function,  not  AUM).  However  fund 
+managers  additionally  need  to  take  professional  indemnity  insurance 
+linked to AUM. 
+– Japanese  regulations  do  not  specify  any  minimum  capital  for  fund 
+managers. 
+
+ 
+After examining global practices and benchmarks, the sub-group believes 
+that it is desirable to increase the minimum net worth requirement to Rs.50 
+crore. At this level, for an AMC with an AUM that is close to the system average 
+of  around  Rs.15,000  crore,  the  coverage  will  be  at  a  high  (when  compared  to 
+global norms) level of 0.33 per cent, while for smaller funds it will obviously be 
+higher;  however,  the  number  is  not  prohibitively  high  to  an  extent  that  it  would 
+deter  serious  players  or  be  anti-competitive.  In  addition,  given  that  the  present 
+effort is to build up a durable regulatory framework that will stand the test of time, 
+it  is  desirable  to  specify  a  net  worth  requirement  that  will  support  much  larger 
+AUMs.  In  other  words  the  net  worth  coverage  of  AUM  not  only  needs  to  be 
+looked  at  from  the  point  of  view  of  the  current  situation,  but  also  as  one  that 
+would  factor  in  growth  over  the  next  few  years,  especially  given  the  low 
+penetration  level  of  mutual  funds  in  India  today:  mutual  fund  AUM  as  a 
+percentage of total AUM in India is around 10%, whereas the ratio for Brazil is 
+around  40%;  levels  in  developed  economies  like  the  US  and  Hong  Kong  are 
+higher).  
+ 
+It is also recommended that existing AMCs be given an appropriate period 
+by SEBI to build up their net worth to this level. 
+ 
+The following can be considered while deciding on the phasing in of the increase 
+in net worth to Rs. 50 crore: 
+
+1.  A  gradual  increase  in  minimum  net  worth  can  be  stipulated,  for 
+instance starting at Rs.20 crore at the end of one year, and moving 
+to Rs.50 crore by the end of three years 
+
+                                                 
+1 http://fsahandbook.info/FSA/html/handbook/UPRU/2/1 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 12 of 55 
+
+ 
+
+ 
+
+2.  Distinctions  can  be  made  by  product  types  offered  by  AMCs  if 
+found  practical;  for  instance  an  AMC  focusing  only  on  exchange-
+traded  funds  need  not  have  a  large  distribution  network  and  the 
+infrastructure  requirements  that  go  with  it.  Hence,  an  exemption 
+from the net worth requirements can be explored  
+
+3.  AMCs  that  have  genuine  reasons  for  not  being  able  to  meet  the 
+minimum  requirements  can  apply  to  SEBI  stating  their  case  well 
+ahead  of  the  deadlines,  and  SEBI  can  then  take  a  case-by-case 
+view for providing exceptions  
+
+ 
+With  regard  to  the  definition  of  net  worth,  the  sub-group  felt  that  funds 
+invested/lent  back  to  group  companies  other  than  AMC  subsidiaries  should  be 
+reduced from the networth computations. 
+ 
+2. Sponsor criteria 
+ 
+Despite the pass-through nature of AMC operations, it is important for AMCs to 
+have strong and serious sponsors. A strong sponsor would find it easier to attract 
+–  or  provide  –  quality  fund  management  personnel  to  an  AMC.  Also,  the 
+knowledge that a strong sponsor was backing a fund has been seen to provide 
+comfort to investors even in times of turbulence.  
+ 
+One of the proposals examined was whether to restrict eligibility as sponsors to 
+entities that are active in  the financial services; it was also explored whether it 
+would  be  feasible  to  define  a  list  of  financial  services  which  a  sponsor  would 
+have  to  operate  in  to  be  eligible.  As  a  reference  point,  the  Reserve  Bank  of 
+India’s 2001 guidelines for entry into  banking were also studied, to understand 
+the provisions preventing large industrial groups from promoting banks.  
+ 
+A  key  principle  followed  by  RBI  is  to  attempt  to  prevent  the  concentration  of 
+shareholding of a private sector bank in the hands of a few investors. The reason 
+for this as articulated by RBI is that banks are “special” as they not only accept 
+and  deploy  large  amounts  of  uncollateralised  public  funds,  but  also  leverage 
+such funds through credit creation. They are also very important for the smooth 
+functioning of the payment system. However, once this criterion of shareholder 
+concentration  is  met,  corporate  bodies  can  also  be  shareholders  in  a  private 
+bank. 
+ 
+Given this “special” status of banks, and  to avoid concentration of control, RBI 
+has  also  looked  at  ultimate  shareholder  concentration  rather  than  immediate 
+shareholder  concentration.  This  is  especially  applicable  in  the  event  the 
+immediate shareholder of the bank is a financial sector entity where the objective 
+is to ensure that it is a widely held entity, publicly listed, and a well established 
+regulated  financial  entity  in  good  standing  in  the  financial  community.  At  the 
+same  time  where  ownership  is  that  of  a  corporate  entity,  where  typically  the 
+shareholding  is  not  as  widespread,  the  objective  is  to  ensure  that  no  single 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 13 of 55 
+
+ 
+
+individual/entity has ownership and control in excess of 10 per cent of that entity.  
+This approach is instructive in drawing up norms for promoters of AMCs. 
+Keeping  in  mind  this  background,  and  after  considering  several  options  on  the 
+above lines, it was finally decided that: 
+ 
+
+ 
+
+1.  The  Board  could  consider  stipulating  that  only  an  entity  that  is 
+regulated  in  some  jurisdiction  –  as  deemed  appropriate  by  the 
+Board  –  will  be  allowed  to  sponsor  an  AMC.  In  addition,  while 
+allowing an entity that is regulated in a jurisdiction outside India to 
+sponsor an AMC, undertakings to provide any information that the 
+Board asks for, to allow any inspection that the Board may wish to 
+carry out, and to adhere to applicable Indian securities regulations, 
+may  be  taken  from  the  entity,  besides  compliance  with  any  other 
+requirements  that  the  Board  believes  are  necessary  to  ensure 
+reciprocity. 
+  
+The sub-group also felt that the issue of reciprocity could be 
+explored in greater detail by the group dealing with functional 
+issues of market participants (the General Principles Group). 
+
+ 
+2.  Besides  the  existing  criterion  for  recognition  of  an  entity  as  a 
+sponsor,  entities  whose  names  are  part  of  the  AMC’s  name  or 
+brand,  or  are  being  used  to  promote  the  AMC’s  fund  offerings, 
+should only be allowed to do so if they are sponsors.  
+
+ 
+3.  The present definition of a sponsor as a 40% shareholder, coupled 
+with the present requirement that a change in controlling stake of 
+AMC  shareholding  requires  a  notice  to  all  unit-holders  allowing 
+them to sell without exit load, creates an anomalous situation. If this 
+controlling stake is defined as 10%, a holding of 76% going to 87%, 
+which  has  no  material  impact  on  control,  requires  such  a  notice, 
+whereas a holding of 49% going to 51%, which implies assumption 
+of control, does not require a notice.  This situation may be rectified 
+by defining control for the purpose of this requirement as a stake of 
+less than 50% going to more than 50%.  
+
+ 
+4.  Similarly, dilution of AMC equity through IPO or ESOPs should not 
+
+be looked at as a change in controlling stake. 
+
+ 
+5.  The  sub-group  understands  that  the  ‘fit  and  proper  person’ 
+criteria  are  being  re-examined  by  the  Board,  and  therefore 
+does  not  comment  on  the  existing  criteria.  However,  it  is 
+suggested  that  in  case  exclusion  from  the  capital  markets  is 
+being  considered  as  a  deterrent  for  wrongdoing,  a  stepwise 
+structure for the period of exclusion can be considered, with 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 14 of 55 
+
+ 
+
+the  more  serious  offences  attracting  a  longer  period  of 
+exclusion. 
+
+ 
+
+ 
+3. Infrastructure requirements for AMCs   
+ 
+Compulsory items in bold 
+Sr.
+No  Department 
+
+online 
+
+Rationale and Action point 
+research 
+The 
+databases 
+provide 
+extensive data and analysis 
+on  every  Industry,  Sector 
+and 
+listed  as  well  as 
+unlisted  companies.  Such 
+databases  help  in  creating 
+historical  profile  of 
+the 
+companies 
+to  understand 
+their  business  environment, 
+industry 
+and 
+company 
+specific 
+fundamental  data  including 
+financial 
+statements. 
+Investment  research  that  is 
+to  be 
+carried  out  needs 
+implemented 
+through 
+trading  room.    Therefore, 
+the  investment  needs  to  be 
+equipped 
+basic 
+infrastructure  that  supports 
+the  investment  activities  on 
+a day to day to activities.   
+
+dynamics 
+
+with 
+
+through 
+
+Investment  in  Fixed  income 
+securities  is  done  through 
+trading platform provided by 
+RBI  and  CCIL.      It  can  be 
+done 
+the  NSE 
+WDM as well, however, this 
+needs to be settled through 
+NDS / CCIL screen.  AMCs 
+will  have 
+the 
+necessary 
+connectivity 
+before launching any fund. 
+
+to  obtain 
+
+Infrastructure sources 
+
+to 
+
+funds 
+/ 
+
+three,  one 
+
+(ICRA  Online 
+
+Capitaline  or  Prowess  or 
+CMIE software  
+ 
+Dealing System 
+Recording System 
+Bloomberg  or  Reuters  or 
+News  Wire.    There  will  have 
+to be at least two terminals of 
+the  above 
+in 
+dealing  room  and  investment 
+function 
+ 
+Subscription 
+research 
+CRISIL FundServices) 
+Industry research (CRIS Infac 
+Industry Information)  
+CRISIL, Fitch Ratings, CARE, 
+ICRA rating reports  
+Economic 
+Services 
+ 
+NDS (OM)  
+CCIL CBLO License  
+ 
+Dealing  Room  should  be 
+equipped with Dealing system 
+with fool-proof voice recording 
+machine  
+Bloomberg  or  Reuter  or  any 
+other dealing system 
+Direct  Market  Access  (DMA) 
+for  equities  and  derivatives 
+for 
+segment 
+maximum 
+limit 
+through DMA.  
+‘View-only’  stock  exchange 
+
+trades;  need 
+
+Intelligence 
+
+trading 
+
+1 
+
+Investment 
+Department 
+
+2 
+
+Investment 
+Dealing 
+Function 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 15 of 55 
+
+ 
+
+ 
+
+trade 
+
+for  viewing 
+
+trades, 
+screen 
+confirmations, 
+margins, 
+settlement  obligations,  and 
+transferring 
+data 
+seamlessly to back office. 
+Application  for  monitoring 
+compliance 
+of 
+Insider 
+Trading norms    
+ 
+Full  accessibility  to  trading 
+system  to  Compliance  for 
+limits monitoring 
+ 
+Risk  Management  software 
+such 
+as  CRISIL  Risk 
+Software,  MSCI  Barra  or 
+other  such  service  providers 
+in  carrying  our 
+investment 
+related  risk  exercise.    This  is 
+a  must 
+to  comply  with 
+regulation  as  well  as  to  have 
+the best practice. 
+ 
+should 
+Risk  Management 
+equipped  with 
+also 
+be 
+Intelligence 
+Business 
+Software in analysing the risk 
+arising  out  of  client  profile, 
+client 
+concentration, 
+segmentwise  concentration, 
+branchwise concentration etc.  
+ 
+ 
+Branches  to  have  separate 
+server room with no access to 
+any other employees. 
+Time Stamping Machines at 
+each Official Point of Sales. 
+ 
+DRT  &  BCP  infrastructure 
+with 
+physical 
+document storage facility.   
+ 
+Strong middle office structure 
+is  suggested  in  carrying  out 
+the 
+related 
+
+investment 
+
+fireproof 
+
+the 
+
+ 
+
+part 
+
+across 
+
+is  an 
+Risk  Management 
+integral 
+of  AMC 
+activities  in  terms  of  taking 
+interest  of 
+care  of 
+all 
+investors 
+Risk 
+functions. 
+Management  while 
+it 
+is 
+more investment centric, the 
+function  looks  at  other  risk 
+factors  in  doing analysis on 
+client concentration risk etc.  
+Therefore,  there  is  a  need 
+to  have  minimum  support 
+both  in  the  form  of  people 
+in 
+as  well  as  software 
+carrying  out 
+function 
+smoothly 
+
+this 
+
+all 
+
+out 
+
+sales 
+
+function 
+
+Operation acts as a conduit 
+investment  department 
+to 
+in 
+and 
+the 
+carrying 
+transactions 
+viz. 
+redemptions, 
+subscription, 
+investment 
+trades, 
+verification  of  trades  from 
+both external / internal limits 
+point  of  view,  ensuring 
+
+3 
+
+Risk 
+Management 
+/ Compliance 
+
+4  Operation 
+Department 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 16 of 55 
+
+ 
+
+ 
+
+intranet 
+
+in  knowing 
+movements 
+
+function.    Online  system  with 
+all  branches  as  well  as 
+the 
+Registrar 
+online 
+of 
+subscription/redemptions. 
+ 
+Own 
+including 
+browser  based  applications 
+for  immediate  communication 
+in  respect  of  collection  and 
+redemptions across branches 
+with HO 
+ 
+Basic infrastructure to capture 
+operational  loss  data,  as  is 
+available in banking. 
+ 
+ 
+Tie-ups  with  banks,  CAMs, 
+to 
+custodians  and  brokers 
+carry 
+settlement 
+/ 
+redemptions / funding in case 
+of  any  disaster  situation. 
+Basic  Location  and  basic 
+manpower  back-up  to  carry 
+out  functionalities  in  case  of 
+disaster. 
+
+out 
+
+of 
+
+Talisma or any other software 
+that  provides  the  log  of  all 
+transactions 
+clients, 
+transaction  of 
+commercial 
+clients.  
+ 
+Training room with necessary 
+facilities  
+
+proper documentation etc 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In  case  of  any  disaster 
+situations/disaster recovery 
+
+5  Customer 
+
+Service 
+
+for 
+
+Customer  Service  is  key  to 
+success 
+the  Fund 
+Industry  in  the  form  of  post 
+sales  service.    Therefore, 
+AMC 
+equip 
+themselves  with  necessary 
+support  function  /  service 
+before  the  launch  of  any 
+schemes 
+
+should 
+
+6 
+
+Training 
+Needs 
+
+ 
+
+ 
+4. Other recommendations 
+ 
+In terms of other recommendations, essentially what was discussed were steps 
+that  could  be  taken  to  enhance  the  transparency  and  disclosure  levels  in  the 
+industry  which  should  lead  to  greater  investor  confidence  and  more  robust 
+operational dynamics. Some steps which could be taken are as follows: 
+
+o  Make it mandatory to disclose all holdings of all schemes on website 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 17 of 55 
+
+ 
+
+case of PTCs) 
+
+o  Specify  details  of  all  investments  (including  underlying  exposure    in 
+o  Monetary penalties on AMCs whose disclosure is inadequate 
+o  Some reporting requirement should be there to indicate adherence to 
+
+ 
+
+investment objective by schemes. 
+
+ 
+
+ 
+
+********* 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 18 of 55 
+
+ 
+
+ 
+
+ 
+
+REPORT OF SUB GROUP II 
+
+ 
+A.  Preface  
+ 
+1.  It  is  almost  a  truism  that  the  adequacy,  availability  and  quality  of 
+intermediaries  will  determine  the  shape  and  growth  of  Capital  Market 
+and Economy in India. 
+
+2.  Some of the eligibility norms, registration process were prescribed in the 
+early  years  of  setting  up  of  a  new  regulatory  environment.  With 
+substantial passing of time, change in the size and nature of the capital 
+markets  and  expectations  from  the  Regulator,  there  is  a  need  felt  to 
+review the requirements with the objective of achieving safety, security 
+and orderly development of the Capital Market in India. 
+
+3.  Accordingly,  considering  the  importance  of  the  role  played  by  the 
+intermediaries in extending the regulatory objectives and with a view to 
+ensure  that  the  ground  rules  are  transparent,  clear  to  encourage  self 
+regulation and the competition , SEBI had set up a committee to review 
+eligibility norms of all the intermediaries.(should be the language put up 
+by SEBI) 
+
+4.  Each of the intermediaries require distinct requirements relating to skill 
+sets depending on its role in the capital market. Accordingly with a view 
+to  ensure  that  the  diversity  of  the  requirements  are  adequately 
+reflected  in  the  final  recommendations,  the  main  Committee  set  up 
+various Sub-Committees to examine the issues in light of the experience 
+of the respective intermediaries 
+
+5.  This Sub-Committee’s membership is given in Annexure 1 and the terms 
+
+of the reference are as follows:  
+a. Review  of  eligibility  norms  for  registration  of  Merchant  Bankers, 
+Registrars and Bankers to the Issue in order to improve the quality of 
+intermediation (should be the language put up by SEBI) 
+
+b. Review  of  the  standards  of  conduct  and  international  practices  for 
+the above and suggest improvement (should be the language put up 
+by SEBI) 
+
+6.  The members of the sub group are as follows:-  
+
+a.  Sh Vallabh Bhansali, Managing Director, Enam Securities P Ltd. & 
+
+Head of the sub group 
+
+b.  Sh Motilal Oswal, Chairman & MD, Motilal Oswal Financial Services 
+
+Ltd.  
+
+c.  Ms Dipti Neelakantan, MD & COO, J M Financial Consultants P Ltd. 
+d.  Sh V Shankar, MD, Computer Age Management Services P Ltd.  
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 19 of 55 
+
+ 
+
+ 
+
+e.  Sh K K Mistry, MD, HDFC Bank 
+f.  Sh Somashekhar, MD, J Sagar & Associates 
+g.  Ms Preeti Malhotra, Past President, ICSI 
+
+ 
+B.  Approach of the Sub-group 
+
+The  sub-group  deliberated  on  the  principles  which  must  determine  its 
+recommendations. Some of the principles are as under:- 
+
+•  The  recommendations  must  be  aligned  more  closely  to  reflect  the 
+
+nature of each intermediary’s business operations; 
+
+•  The  recommendations  must  be  principle  centered  and  must  address 
+the  individual  key  risks  each  of  the  intermediary  faces  and 
+collectively the system faces; 
+
+•  The  recommendations  must  be  objective,  easy  to  understand  and 
+
+•  The  recommendations  must  lead  to  a  path  of  self  regulation  over  a 
+
+easy to implement 
+
+period of time 
+
+C.  Eligibility norms for registration 
+
+a.  Net Worth: 
+
+Sub-Committee  noted  the  existing  definition  of  net  worth  provided  in 
+various  Regulations  of  SEBI.  Presently  except  for  Brokers  where  net 
+worth  is  defined  differently,  most  of  the  Regulations  of  SEBI  for 
+intermediaries has defined net worth as “Paid up capital+ free reserves- 
+miscellaneous expenses to the extent not written off” 
+ 
+The  Sub-Committee  had  the  benefit  of  experience  from  the  operating 
+team  at  SEBI  on  areas  where  the  current  definition  has  been  found 
+inadequate to judge the  prudential quality of the application. Some of 
+the difficulties which are observed are as under: 
+a.  The  above  definition  does  not  address  the  issue  relating  to 
+
+deployment of the net worth  
+
+b.  The net worth definition does not clarify the inclusion of preference 
+
+shares as part of the net worth 
+
+c.  The present definition is not aligned to the risk which intermediaries 
+take and does not address the issue relating to quality, adequacy etc 
+
+ 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 20 of 55 
+
+ 
+
+ 
+
+The Sub-Committee noted the issues relating to deployment opportunity, 
+need  for  capital  in  the  business,  need  to  provide  for  liquidity  to  meet 
+emergency  scenario  and  all  other  relevant  issues  before  arriving  at  a 
+consensus 
+ 
+Committee after considerable deliberations, recommends the following:- 
+a.  Net worth requirement should be specified in two categories- one as 
+part  of  Core  capital  which  is  available  at  all  times  with  the 
+intermediaries  and  which  is  used  solely  for  the  purpose  of  creating 
+infrastructure to service the Market. 
+
+b.  Risk  Capital:  similar  to  Broking,  each  intermediary  to  have  a  “risk 
+capital” which will be available to them for business risks exposure. 
+E.g. Merchant Bankers are permitted to underwrite 20 times of their 
+net worth. For the purpose of calculation of the 20 times, only risk 
+capital will be considered and not the Core Capital 
+
+ 
+In  respect  of  the  intermediaries  under  the  terms  of  reference  of  the 
+Committee, the committee noted the following:- 
+a.  Present requirements of Net worth in respect of Merchant Bankers is 
+
+Rs 5 crores 
+
+b.  For Registrars and Transfer Agents – the current requirements are to 
+
+the extent of Rs.6 lakhs and Rs. 3 lakhs respectively 
+
+ 
+The  Committee  considering  all  the  representations  and  deliberations 
+recommends the following: 
+a.  For  Merchant  Banking  business,  the  Committee  recommends  a  Core 
+
+capital of Rs.10 crore  
+
+b.  Risk  Capital  will  be  commercially  determined  which  will  give  the 
+
+ability to underwrite 
+
+c.  In  respect  of  Registrar  to  the  Issue  and  Transfer  Agents,  the 
+Committee  recommends  a  core  capital  of  Rs.  one  Crore  and  Rs  50 
+lakh respectively 
+
+d.  For  Bankers  to  the  Issue,  since  Basel  II  already  provides  for  capital 
+adequacy  requirements,  the  Committee  felt  that  segregation  of  the 
+net  worth  from  the  overall  net  worth  will  not  achieve  any  greater 
+purpose  and  hence  decided  against  recommending  any  specific  net 
+worth for the same. 
+
+ 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 21 of 55 
+
+ 
+
+ 
+
+The  Committee  believes  that  SEBI  will  give  time  and  enhance  the 
+requirements gradually to help most of the players to cope up with the 
+requirements. 
+
+Committee recommends the following additional inputs for the purpose 
+
+of  calculation of core and risk capital:- 
+
+a.  Core  capital  computation  will  consist  of  Paid  up  capital  +  Free 
+Reserve-  (  Miscellaneous  Expenses  to  the  extent  not  written  off  + 
+Inter  Corporate  Loans  and  Investments).  Other  deductions  as  provided 
+for calculation of networth for CDS for brokers may also be considered.  
+
+b.  Preference  shares  if  the  redemption  exceeds  more  than  5  years 
+
+should be included for the purpose of the calculation otherwise not 
+
+c.  The  Risk  capital  will  be  determined  as  =  Paid  up  capital+  free 
+reserve- (Core capital+ Mis.exp). The treatment of preference capital 
+will continue to be the same 
+
+Most of the global regulators require a monthly prudential self filing on 
+compliance. With the desired level of experience, the Committee feels 
+that  quarterly  filing  will  be  sufficient  in  this  regard.  The  onus  of 
+monitoring  the  capital  adequacy  and  certifying  internally  to  the 
+Management must be left to the Chief Financial Officer of the Company. 
+
+b.  The  Concept  of  Authorized  (use  globally  “authorized”  or 
+
+“notified” or “registered”) person: 
+
+The  basic  focus  of  the  existing  registration  requirements  is  on  the 
+entities since it is the entity (use “firm” or “entity” globally)  carrying 
+regulated  activity  which  is  required  to  obtain  registration.  However, 
+regulatory regimes have long recognized that a regulated entity’s ability 
+to meet and maintain proper standards depends crucially on the quality 
+of its individuals, especially those in key positions. 
+
+Globally  it  will  help  to  cite  actual  instances,  individuals  who  perform 
+significant  influence  functions  are  required  to  be  approved  or  regd?  by 
+the  Regulator  before  they  can  function  in  that  capacity.  Most  of  the 
+Global Regulations define certain standards of conduct expected out of 
+approved persons in their individual capacity over and above the conduct 
+expected  from  the  firm.  Typically,  such  approved  persons  are  required 
+to adhere to certain principles over and above that to be adhered by the 
+registered  firms.  Failure  to  comply  with  the  principle  will  in  most 
+Regulatory regime be construed as an act of misconduct which may give 
+rise  to  disciplinary  or  other  enforcement  consequences  for  the 
+individual.  
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 22 of 55 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Significant  influence  person  requiring  approval  are  further  broadly 
+classified under four different categories- Governing functions- basically 
+covering  the  persons  responsible  for  directing  the  business,  Required 
+functions-  which  basically  relates  to  apportionment  and  oversight 
+functions;  Systems  and  controlled  functions-  covering  finance,  risk, 
+internal  audit  etc  and  Significant  Management  function-  persons  who 
+have  been  entrusted  with  senior  management  responsibility  to  run  the 
+businesses 
+
+Approved  persons  are  required  to  generally  adhere  to  the  following 
+principles over and above those imposed on the firms: 
+
+(a) To act with integrity  
+(b) To act with due skill, care and attention 
+(c) To observe proper standards of market conduct 
+(d) To deal with the Regulator in an open and transparent manner 
+(e) Take reasonable care to ensure that the regulated business for 
+which  they  are  responsible  is  organized  so  that  it  can  be 
+controlled effectively 
+
+(f) Take  reasonable  steps  to  ensure  that  the  business  complies 
+
+with any relevant regulatory requirements and standards 
+
+The  disciplinary  action  will,  be  brought  against  an  approved  person 
+where there is personal culpability. Culpability will arise if the person’s 
+standard  of  behavior  falls  below  that  which  would  be  reasonable  in  all 
+circumstances.  In  case  of  breach,  the  decision  to  initiate  appropriate 
+disciplinary action either against the firm or against the approved person 
+are normally taken by the Regulator depending on the extent of personal 
+culpability 
+
+In Indian context, most of the Regulations requires for 2 key employees 
+who  are  qualified  and  have  relevant  experience  for  conduct  of  the 
+business. 
+
+ 
+
+The following difficulties are generally noticed in this regard:- 
+
+a.  There is no employee data/ employee form filed with SEBI resulting 
+in non standardized form of information without any ability to track 
+the movements 
+
+b.  Fit and proper criteria are not employed on the key employees; the 
+fit  and  proper  criteria  definition  is  more  focused  on  the  applicant 
+than the persons behind or persons managing the intermediaries. 
+
+c.  The personnel risk and resultant risk to the Regulatory regime is an 
+area completely unfocused. For every failure, the firm goes through 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 23 of 55 
+
+ 
+
+ 
+
+the disciplinary proceedings and there is no effort made to segregate 
+the failure of the senior person and that of the firm 
+
+d.  Most  of  the  Regulations  prescribes  Code  for  the  firm;  the  need  for 
+the  supervisory  persons  and  separate  additional  Code  for  them  are 
+not envisaged 
+
+The  Committee  deliberated  the  concept  of  Authorized  persons  and 
+resultant purpose it proposes to achieve. As a North Star ??? position, the 
+Committee firmly believes that in alignment with the global regulatory 
+regime, Indian Regulation should also move towards recognizing persons 
+behind the firm instead of only the firm, as being responsible for all the 
+acts, omissions and commissions. 
+
+Some  members  of  the  Committee  felt  that  such  an  approval  process 
+should  not  result  in  regulating  employment  or  movement  of  personnel. 
+Taking  into  account  all  the  inputs  received  from  various  members 
+relating to quantum of people needs to go through the process, approach 
+to  be  adopted  etc,  the  broad  recommendations  in  this  regard  are  as 
+under:- 
+
+a.  Initial step would be to define the core functions which will require a 
+notification to SEBI. There are some position within the Intermediary 
+which are crucial to manage the firm in a more appropriate manner 
+and some other positions which are critical for the intermediaries self 
+regulation.  As  far  as  possible,  these  requirements  must  be 
+standardized  and  specified  in  the  Regulations.  Some  functions  like 
+person responsible for supervision, business head, compliance, must 
+be necessarily included in the above notification process 
+
+b.  Secondly efforts be made to standardize the notification requirement 
+and put the same in public domain for the capital market community 
+as a whole. In today’s context there are facilities which are available 
+for any person to verify the willful defaulters etc. 
+
+c.  The information which is displayed and available to the market may 
+be in a specified format which must contain the basic fit and proper 
+criteria declarations from each of the designated employees; 
+
+d.  SEBI  should  prescribe  certain  specific  principles  for  such  authorised 
+
+persons   
+
+e.  While  arriving  at  conclusions  regarding  the  disciplinary  proceedings, 
+SEBI as far as possible must classify – whether the same is on account 
+of the failure of the person to do his/her role correctly or on account 
+of the firm. If the conclusion arrived at establishes clearly that the 
+same is on account of mis conduct of the person, SEBI must initiate 
+action against the person rather than against the firm 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 24 of 55 
+
+ 
+
+c.  Manpower 
+
+ 
+
+The  committee  recommends  that  requirement  of  Key  Management 
+Personnel  for Merchant banker, RTI/STA and Bankers to an Issue may be 
+increased to four, who may consists of ; 
+•  CEO – For the company as a whole 
+•  Compliance  Officer  (can  be  common  among  different  nature  of 
+
+ 
+
+intermediaries) 
+
+compliance officer) 
+
+•  Principal  Officer  under  PMLA  (can  be  the  same  person  as  the 
+
+•  Head  –  Merchant  Banking  with  professional  qualification  from  an 
+institution recognized by the Government in finance, law or business 
+management  OR  an  experience  of  at  least  ten  years  in  related 
+activities in the securities market 
+
+•  An  Officer  exclusively  for  Merchant  Banking  or  as  the  case  may  be 
+with professional qualification from an institution recognized by the 
+Government  in  finance,  law  or  business  management  OR  an 
+experience of at least five years in related activities in the securities 
+market.  
+
+d.  Infrastructure 
+
+Most of the regulations prescribe that entity should have adequate / 
+necessary  infrastructure  for  effective  discharge  of  duties  assigned 
+under  the  regulations  and  in  most  cases,  prescribed  infrastructure 
+requirements  are  anachronous  and  are  not  commensurate  with  the 
+nature of work handled by them. 
+
+IOSCO standard requires the following:- 
+
+•  “Market  intermediaries  should  be  required  to  comply  with 
+standards  for  internal  organization  and  operational  conduct  that 
+aim to protect the interests of clients, ensure proper management 
+of risk and under which management of the intermediary accepts 
+primary responsibility for these matters. 
+
+ 
+Taking  the  standard  as  base  and  with  a  view  to  address  key 
+challenges  in  this  regard  faced  by  the  various  intermediaries,  the 
+Committee arrived at the following broad conclusions: 
+ 
+a.  Committee  after  considerable  deliberations  on  the  matter  felt 
+that the financial services industry is a knowledge driven industry 
+which must rely more and more on soft infrastructure to develop 
+its  activities  and  contribute  to  the  orderly  development  of  the 
+market. Committee recommends as a principle to emphasis more 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 25 of 55 
+
+ 
+
+on the soft infrastructure of the intermediaries to address the key 
+risks  arising  out  of  its  failure.  In  this  regard,  the  following 
+suggestions were made: 
+
+ 
+
+ 
+
+-  Each 
+
+intermediary  should  evolve 
+
+its  own  supervision 
+mechanism and Governance mechanism and submit a copy 
+of the same to SEBI for records; 
+
+ 
+-  Each  intermediary  should  prescribe  its  risk  mitigation 
+measures  and  document  the  same  for  reference  and 
+clarity; 
+
+-  Each  intermediary  should  look  into  the  area  of  Business 
+Continuity  and  specify  suitable  norms  in  accordance  with 
+the requirements relating to that business; 
+
+ 
+-  System  Audit  should  be  made  compulsorily  for  the 
+intermediaries  which  rely  heavily  on  technology  like 
+Registrar and Transfer Agents 
+
+b.  The Committee felt that most of the intermediaries are restricted 
+from doing fund based activities at present. Given the nature of 
+the  function  and  services  provided,  most  of  the  risk  relates  to 
+operational risks, errors and omissions etc. With the opening up of 
+the Insurance Sector and availability of various types of insurance 
+to  mitigate  the  risks,  the  Committee  recommends  mandatory 
+Insurance  Covers  like  Professional  Indemnity  Insurance  Cover, 
+Fiduciary Risk Insurance cover, should be prescribed as part of the 
+requirement  according  to  the  nature  of  risks  the  intermediary  is 
+open to 
+
+ 
+c.  With a view to ensure that investors are not put into difficulties in 
+case of emergency and the intermediary is up and able to provide 
+desired level of service to the market in case of any emergency, 
+the Committee specially recommended that the Regulation should 
+provide  for  a  mandatory  requirement  to  provide  for  disaster 
+recovery plan. The Committee also desired that Regulation should 
+prescribe  the  minimum  requirements  in  this  regard  leaving  the 
+commercial  considerations  to  develop  and  establish  a  strong 
+recovery mechanism 
+
+d.  The Committee also felt that the present requirement relating to 
+record keeping, safety of the records , provision for keeping the 
+records  in  electronic  form  should be more specifically addressed 
+in the Regulation 
+
+ 
+
+ 
+
+ 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 26 of 55 
+
+ 
+
+ 
+
+ 
+
+D.  CORPORATE RESTRUCTURING: 
+
+In an era where the necessity to continuously restructure to adjust itself to 
+the market condition is a realty, there is a more and more need felt to have 
+a  complete  clarity  on  how  the  same  would  be  viewed  by  the  Regulators. 
+While  some  Regulations  provides  for  seeking  prior  approval,  most  of  the 
+dynamics  of  Corporate  restructuring  process  are  not  presently  adequately 
+covered in the Regulation resulting into operational lack of clarity and also 
+varied practices in this regard 
+ 
+SEBI while granting registration focus more on the applicant, persons behind 
+the applicant and fit and proper criteria of these persons to ensure that the 
+market is safe and is developing in an orderly manner 
+ 
+Continuing  the  theme,  the  Committee  felt  that  as  long  as  the  underlying 
+persons on whom the fit and proper criteria has been applied continues, the 
+same should be treated as reorganization of the business and no additional 
+requirement should be made compulsory 
+ 
+However, if on account of restructuring, there is a change in control which 
+necessitates  fit  and  proper  criteria  to  be  applied  on  different  persons 
+behind the entity, the corporate restructuring should require prior approval 
+and also a fresh registration process  
+ 
+To ensure that what would construe to be a change in control and not, the 
+Committee  recommends  aligning  the  definition  of  control  to  that  of  SEBI 
+(Substantial Acquisition of Shares and Takeovers) Regulations, 1997.  
+
+E.  OTHER SITUATIONS: 
+
+Various  operational  difficulties  faced  in  implementing  the  Regulation 
+were  brought  to  the  attention  of  the  Committee  from  time  to  time. 
+Some  of  the  issues  and  the  recommendations  of  the  Committee  are 
+under: 
+
+a.  Eligible  categories  for  carrying  capital  Market  activities  and 
+whether  they  can  hold  simultaneous  Registration  with  other 
+financial regulator 
+ 
+
+ 
+
+ 
+
+Considering  the  governance  requirements,  the  Committee  strongly 
+recommends  a  body  corporate  as  the  only  permissible  legal  entity  for 
+making an application.  
+ 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 27 of 55 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+As  regards  the  question  as  to  whether  the  applicant  may  also  perform 
+other activities requiring registration with the other financial regulators 
+is concerned, the Committee feel that the restrictions has worked well 
+and  reasonable.  The  markets  have  got  adjusted  to  this mechanism and 
+hence  the  need  for  a  review  in  this  regard  is  not  felt.  As  long  as  the 
+Regulatory  purview  is  not  unified,  the  Committee  strongly  feels  that 
+independent  regulation  is  the  safest  process  to  achieve  investor’s 
+protection and financial stability 
+ 
+b.  Submission of renewal application before 3 months:  
+ 
+The  Committee  noted  the  recently  introduced  SEBI  (Intermediaries 
+Regulations)  which  provides  for  one  time  registration.  Considering  the 
+fact  that  SEBI  has  already  moved  into  the  direction  of  one  time 
+registration concept, no recommendations are made in this regard 
+ 
+c.  Investment by Intermediaries 
+ 
+Committee considered the question relating to permitting Intermediaries 
+to invest in other businesses. Committee noted all the pros and cons and 
+incremental risks which it poses to the intermediary and the system and 
+recommends the following:- 
+ 
+(cid:131) 
+
+Investments  in  other  business  is  possible  as  long  as  the  liability  in 
+respect of such instrument/ investments are capped 
+
+(cid:131)  For the purpose of Prudential Norms, all strategic illiquid investments 
+
+should be excluded 
+
+related 
+
+(cid:131)  The investment should not pose any hurdle nor put the intermediary 
+in  a  conflicting  situation  visa  vie  the  ability  to  carry  on  certain 
+authorized function  
+Investors interest are not compromised  
+
+(cid:131) 
+ 
+Subject to the above, all intermediaries should be permitted to invest in 
+related  and  non 
+investments  as  per  the  commercial 
+requirements. 
+ 
+d.  Outsourcing of certain activities 
+ 
+The Committee noted the trend of outsourcing activities and economics 
+involved  therein.  The  Committee  after  considerable  deliberations  felt 
+that  as  long  as  the  Intermediary  is  responsible  for  the  activity  the 
+manner  of  doing  the  work  should  be  left  to  the  intermediary.  In  the 
+event  if  the  work  is  proposed  to  be  outsourced,  Intermediary  should 
+establish  its  credentials  in  managing  the  key  output  and  satisfy  the 
+Regulatory Authorities in this regard.  
+ 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 28 of 55 
+
+ 
+
+ 
+
+e.  Online data bases of various intermediaries 
+ 
+SEBI  has  progressively  moved  into  e-filing  of  various  half  yearly  and 
+yearly  reports.  On  the  same  lines  and  furthering  the  process,  the 
+Committee recommends complete on line data base  
+ 
+f.  Removing  the  restrictions  on  entities  in  the  same  group  to  hold 
+
+registration of same intermediary 
+
+ 
+SEBI has been following a process of permitting more than one entity in 
+a group to carry a similar line of business as long as none of them have 
+been  rejected.  The  Committee  recommends  continuation  of  approach 
+and  feels  that  such  decision  should  be  left  best  to  the  commercial 
+considerations. 
+ 
+g.  Restrictions on carrying on activities post issuance of show cause 
+ 
+The Committee believes that as long as the final outcome is pronounced, 
+no  body  should  be  made  to  suffer.  The  SEBI  Act  provides  for  a 
+comprehensive mechanism of dealing with various violations and unless 
+the  process  is  completed  natural  justice  would  argue  against  any 
+temporary  restrictions.  Committee  is  not  in  favor  of  restricting  any 
+activities of the intermediary post issuance of the show cause notice. 
+ 
+h.  Surrender of registration 
+ 
+As  this  has  already  been 
+Regulations, 2008, Committee does not have any comments to offer.  
+
+in  SEBI  (Intermediaries) 
+
+incorporated 
+
+i.  Some other general issues: 
+
+(cid:131)  Some  other  terms  like  “associates”,  “promoters”  are  varying  in 
+different  Regulations-  sub  committee  may  define  the  term 
+“associates” and “Promoters” uniform across the Regulations. 
+
+(cid:131)  Regarding  recommendations  for  Registrar  to  Issues  and  Share 
+Transfer  Agents,  comments  may  also  be  obtained  from  Registrars 
+Association of India (RAIN). 
+
+ 
+The  Committee  wish  to  place  on  record  sincere  and  very  insightful 
+contributions  made  by  SEBI  operating  team  more  specifically  Shri.Manoj 
+Kumar, General Manager, Intermediaries Division and Mr. Avarjeet Singh for 
+fantastic  support  provided  to  the  Committee 
+its 
+recommendations. The Committee also wishes to place on record significant 
+contributions  made  in  the  deliberations  by  all  the  members  and  invitees 
+from time to time. 
+
+in  arriving  at 
+
+ 
+
+ 
+
+********** 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 29 of 55 
+
+ 
+
+ 
+
+REPORT OF SUB GROUP III 
+
+ 
+
+ 
+1 BACKGROUND: 
+ 
+This report is written as part of a review of eligibility norms for various categories 
+of market intermediaries. SEBI has set up the Committee on Review of Eligibility 
+Norms (CORE), various sub-groups of which are reviewing eligibility norms with 
+respect to specific market intermediaries. This report is the result of deliberations 
+of  the  sub-group  –III  that  is  looking  at  eligibility  norms  for  Brokers  (B),  Sub 
+brokers  (SB),  Depository  Participant  (DP)  and  Portfolio  management  Services 
+(PMS). 
+ 
+The  sub-group  is  headed  by  Ms  Deena  Asit  Mehta,  MD,  Asit  C  Mehta 
+Invetsment  Intermediaries  Limited.  The  other  members  of  the  sub  group 
+are:  
+
+1.  Shri Ravi Narain, MD, NSE 
+2.  Shri Rajnikant Patel, MD & CEO, BSE (replaced by Shri M. L. Soneji) 
+3.  Shri Gagan Rai, MD & CEO, NSDL 
+4.  Shri V. V. Raut, MD & CEO, CDSL 
+5.  Ms  Manisha  Girotra,  Chairperson,  UBS  Securities  India  Private 
+
+ 
+The sub-group met on May 27, 2008. The basic categories of issues that were 
+examined by the sub-group are: 
+
+1.  Is  there  a  need  to  review  the  minimum  net  worth  that  a  B,  SB,  DP  and 
+
+PMS should have? If so where should the minimum net worth be set? 
+
+2.  Are  there  specific  infrastructure  requirements  with  respect  to  manpower 
+that  should  be  put  in  place  for  a  B,  SB,  DP  and  PMS  to  be  eligible  for 
+initial and ongoing registration? 
+
+3.  Any  other  recommendations  that  can  strengthen  and  smoothen  the 
+
+Limited 
+
+functioning of these intermediaries.  
+
+ 
+Subsequently, on June 09, 2008 the mandate for review of eligibility norms for 
+Custodians  was  also  give  to  the  sub  group-III.  Accordingly,  the  following  2 
+members were additionally nominated to the sub-group.  
+ 
+
+1.  Shri G. Subramanyam – Senior Vice President, HDFC Bank and  
+2.  Shri Ashish Bajaj, MD, Citibank N.A. 
+
+2) Stock Broker  
+2.1) Background  
+ 
+ “Stock Broker” means a member of a stock exchange as provided under Regn 2 
+(gb) of SEBI (Stock Brokers & Sub Brokers) Regulations, 1992. “Member” means 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 30 of 55 
+
+ 
+
+ 
+
+a member of a recognized stock exchange (RSE) as defined under section 2 (c) 
+of Securities Contract Regulation Act, 1956 [SCRA].  
+An  individual or corporate body can become a member of a Recognized Stock 
+Exchange  (RSE).  The  eligibility  criteria  for  being  a  member  of  a  RSE  are 
+specified in Rule 8 of Securities Contract Regulation Rules, 1957 [SCRR]. The 
+application  for  broker  has  to  be  forwarded  through  the  respective  stock 
+exchange.  
+ 
+2.2 Current Regulations 
+ 
+Definition of Networth: 
+
+The capital of a member shall be computed as follows:-  
+
+•  Capital + Free Reserves  
+
+•  Less non-allowable assets viz. a. Fixed Assets, b. Pledged Securities, c. 
+Member’s card d. Non-allowable Securities, e. Bad Deliveries, f. Doubtful 
+Debts and Advances (more than three months or given to Associates), g. 
+Prepaid Expenses, h. Intangible Assets, i. 30% of Marketable securities 
+
+Apart from this there are certain margin requirements which are monitored by the 
+Stock exchange so as to ensure that the working capital of the members is not 
+unduly locked up.  
+
+Current  Capital  Adequacy  Norms:  The  Capital  Adequacy  specifies  that  the 
+stock  broker  /  member  shall  maintain  the  Base  Minimum  Capital  (BMC).  The 
+BMC  is  Rs  5  lakhs  (Rs  30  lakhs  for  corporate  brokers)  for  Bombay,  NSE  and 
+Calcutta Stock Exchanges, Rs 3.5 lakhs (Rs 20 lakhs for corporate brokers) for 
+Delhi  and  Ahmedabad  Stock  Exchanges  and  Rs  2  lakhs  (Rs  10  lakhs  for 
+corporate  brokers)  excluding  Madras  Stock  Exchange) 
+for  other  stock 
+exchanges,  in  case  of  Madras  Stock  Exchange  Rs  20  lakhs  for  corporate 
+brokers.  This  BMC  is  to  be  maintained  in  the  form  of  cash  with  the  Exchange 
+(25%), long term (3 years or more) fixed deposit with the bank and the remaining 
+shall be maintained in the form of securities with a 30% margin.  
+
+The stock broker / member shall maintain additional capital related to the volume 
+of business. The additional or optional capital required of a member shall at any 
+point of time be such that together with the base minimum capital it is not less 
+than 8% of the gross outstanding business in the exchange at any point of time 
+during the current settlement. The "gross outstanding" business of a member at 
+any point of time shall not exceed 12.5 times of his base and additional capital 
+requirements.  
+
+ 
+
+ 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 31 of 55 
+
+ 
+
+2.3 Recommendations 
+Net Worth 
+The sub group mentioned that intermediaries should be classified on the basis of 
+risk business and agency business and that risk based business should be linked 
+to capital adequacy. The sub group opined that that in respect of stock brokers, 
+NSE  presently  had  a  fairly  well  defined  definition  which  was  aligned  to  the 
+definition  as  per  the  JR  Verma  Committee  Report.  Since  as  per  the  NSE 
+definition the value of assets and exposure to other stock exchanges are to be 
+deducted hence the same may be acceptable definition and could be accepted 
+and standardized.  
+ 
+The sub-group was of the view that the stock broker’s net worth be increased to 
+Rs.  1  crore  for  corporate  and  Rs.75  lakhs  for  other  than  corporate.  The 
+committee considered the problems faced by the stock brokers of the Regional 
+Stock  Exchanges  and  the  present  state  of  the  regional  stock  exchanges  and 
+opined that the Net worth requirement could be relaxed for them initially. It was 
+also expressed that the net worth requirement should be raised gradually to Rs.3 
+crore by year 2012 for the two big Stock exchanges viz., BSE and NSE and to 
+Rs.1 crore by 2012 for RSE and that the same could be relaxed by 50% in case 
+the stock broker is engaged in pro-trading only.  
+ 
+In summary, the following proposition was made: 
+Amt in Rs. Crores 
+
+By Year 2010 
+
+By year 2012 
+
+Net  Worth 
+Requirement 
+ 
+
+Corporate  Other than 
+Corporate 
+0.75 
+
+1.00 
+
+Corporate  Other 
+
+than 
+
+Corporate 
+3.00 
+
+3.00 
+
+Stock 
+
+BSE  &  NSE 
+Stock 
+Brokers* 
+RSE 
+Brokers 
+Broker DPs 
+ 
+* Networth requirement to be relaxed by 50% in case the stock broker 
+declares  that  it  would  be  engaged  in  pro-trading  only.  The  Stock 
+Exchange  would  facilitate  preventing  of  client  trades  being  fed  and 
+executed. 
+
+1.50
+
+0.50
+
+1.00
+
+2.50
+
+ 
+It  was  also  felt  that  as  existing  in  the  F&O  segment,  in  cash  segment  too  the 
+concept  of  professional  clearing  members  should  be  introduced  and  the  stock 
+brokers be encouraged to have separate clearing members who could indulge in 
+clearing trades.   
+ 
+In  India,  Custodians  are  required  to  confirm  the  trade  on  behalf  of  their 
+institutional clients and take over the settlement obligation. It was also felt that for 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 32 of 55 
+
+ 
+
+ 
+
+Investors  which  mandatorily  need  to  appoint  custodians,  the  custodian  should 
+continue  to  be  their  clearing  member  and  for  other  investors,  professional 
+clearing members should be permitted who will add depth and expertise to the 
+market.   
+ 
+A concern was raised with regard to the business activity by the intermediaries 
+and requirement of networth. It was contended that if the intermediary/entity was 
+merely engaged in an agency business, the moot thing would be risk taken on its 
+own  Balance  Sheet  by  intermediary.  In  case  the  same  is  not  in  affirmative  the 
+concern should be more about compliance, infrastructure, etc. However, certain 
+members stressed that in today’s regime wherein the Power of Attorney is quite 
+common  the  business  is  obviously  exposed  to  operational  risk  as  the  terms  of 
+PoA itself at times are questioned in the event of any dispute. In this context a 
+view  was  expressed  that  wherever  the  intermediary  was  expected  to  deal  with 
+public/public money eventually only body corporate be allowed to operate in the 
+market.  
+ 
+
+3. Trading Members and Clearing Members of the Derivatives Segment and 
+Currency Derivatives. 
+As  per  Regulation  2(gd)  `trading  member’  means  a  member  of  the  derivatives 
+exchange or derivatives segment of a stock exchange and who settles the trade 
+in the clearing corporation or clearing house through a clearing member.  
+ 
+As  per  Regulation  2(ae)  ‘clearing  member’  means  a  member  of  a  clearing 
+corporation or clearing house of the derivatives exchange or derivatives segment 
+of an exchange, who may clear and settle transactions in securities. 
+ 
+Currently  the  minimum  networth  required  for  Trading  Member  and  Clearing 
+Member is given below: 
+ 
+ 
+
+Currency Derivatives 
+
+Derivatives Segment 
+
+Trading  
+Member 
+
+Rs. 300 Lacs 
+
+And min deposit of Rs. 50 
+
+lacs* 
+
+Rs 100 lacs 
+
+Clearing 
+
+Rs. 100 Lacs 
+
+Rs 1000 lacs 
+
+And min deposit of Rs. 50 
+
+And min deposit of Rs. 50 
+
+lacs* 
+
+lacs** 
+
+ 
+*  Deposit  with  the  clearing  corporation  or  clearing  house  of  the  derivatives 
+exchange or 
+derivatives segment in the form specified from time to time. 
+**  Deposit  with  the  clearing  corporation  or  clearing  house  of  the  Currency 
+derivatives segment in the form specified from time to time. 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 33 of 55 
+
+ 
+
+ 
+
+Recommendations: 
+ 
+The  sub  group  noted  that  the  regulations  for  trading  member  and  clearing 
+member have been recently introduced and was of the opinion that a review of 
+minimum networth is not required at this stage.   
+ 
+4. Sub Broker 
+ 
+As  regards  sub-brokers  the  sub-group  felt  that  having  regard  to  the  existing 
+scenario wherein the sub-brokers right to deal directly in funds and securities has 
+been  withdrawn  there  should  not  be  much  concern  about  the  net  worth 
+requirement  for  a  sub-broker.  A  concern  was  raised  about  the  need  of  having 
+sub-brokers in view of extant scenario wherein a sub-broker more or less acted 
+as a branch of the broker, having no right to deal directly in funds and securities.  
+ 
+The sub-group was of the view that the sub-broker as an intermediary should be 
+discontinued  and  in  view  thereof  there  may  not  be  a  relevance  of  any  further 
+deliberation with regard to related aspects with regard to sub-broker as an entity. 
+The sub-group recommended disbanding of sub-brokers. 
+ 
+5. Depository Participant 
+
+5.1 Current Eligibility Criteria pertaining to networth is given below: 
+ 
+The  application  for  DP  has  to  be  forwarded  to  SEBI  through  the  respective 
+Depository. The applicant should be any one of the following categories: 
+ 
+(i) a public financial institution, (ii) a bank, (iii) a foreign bank operating in India 
+with the approval of the Reserve Bank of India; (iv) a state financial corporation, 
+(v) an institution engaged in providing financial services, promoted by any of the 
+institutions  mentioned  in  sub  clause  (i),  (ii),  (iii),  (iv)  jointly  or  severally;  (vi)  a 
+custodian of securities (vii) a clearing corporation or a clearing house of a stock 
+exchange;  (viii)  a  stock  broker,  (ix)  a  non-banking  finance  company,  (x)  a 
+registrar to an issue or share transfer agent  
+ 
+The minimum net worth required is given below:  
+ 
+Category 
+For categories mentioned at sr. no (i) to 
+(vii) above   
+Stock Broker  
+
+Minimum Networth 
+NA 
+
+Rs 50 lakhs and the aggregate value of 
+the 
+the  portfolio  of  securities  of 
+beneficial 
+in 
+dematerialised  form  in  a  depository 
+through  him,  shall  not  exceed 100 
+times  of  the  net  worth  of  the  stock 
+
+owners 
+
+held 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 34 of 55 
+
+ 
+
+ 
+
+to 
+
+broker  (if  NW  is  Rs  10  Cr  aggregate 
+value not applicable) 
+
+in  addition 
+
+the 
+Rs.  50  crores 
+networth  specified  by  any  other 
+authority. 
+Rs 10 Crore 
+Rs 10 Crore 
+
+Non-banking finance company (NBFC)  Rs 50 lakhs  
+NBFC acting as a participant on behalf 
+of any other person 
+
+Registrar to an issue                   
+Share transfer agent 
+ 
+
+5.2 Recommendation: 
+ 
+The sub-group noted that with regard to broker the minimum requirement as per 
+SEBI  Regulation  was  Rs.50Lakhs  which  has  been  raised  by  the  Depositories, 
+with NSDL to Rs.300 lakhs and CDSL upto Rs.150 lakhs. The sub-group felt that 
+the  net  worth  requirement  should  be  increased  to  align  with  existing  market 
+conditions  since  the  condition  of  minimum  net  worth  of  Rs.50  lakhs  was 
+stipulated  initially  when  the  Depository  Act  and  DP  Regulations  were  notified 
+during 1996. However, it was also expressed that the requirement need not be 
+increased  abruptly.  It  was  expressed  that  the  net  worth  should  be  linked  to 
+particular activity.  
+ 
+6. Portfolio Management Services 
+
+6.1 Current Eligibility Criteria pertaining to networth and key personnel are 
+given below: 
+
+(a) The capital adequacy requirement shall not be less than the networth of Rs 
+200  lacs  (Earlier  the  NW  was  Rs  50  lacs  which  was  increased  to  Rs  200  lacs 
+vide amendment dated August 11, 2008). This was to be increased in two stages 
+– upto Rs 100 lacs within 6 months from commencement of the amendment and 
+Rs 200 lacs in the next 6 months.   
+
+(b)  the  principal  officer  of  the  applicant  has  the  professional  qualifications  in 
+finance, 
+institution 
+recognised by the Government; 
+
+law,  accountancy  or  business  management 
+
+from  an 
+
+(c) the applicant has in its employment minimum of two persons who, between 
+them, have atleast five years experience as portfolio manager or stock broker or 
+investment manager or in the areas related to fund management;  
+
+For the purposes of this regulation, "networth" means the aggregate value of paid 
+up  equity  capital  plus  free  reserves  (excluding  reserves  created  out  of 
+revaluation) reduced by the aggregate value of accumulated losses and deferred 
+expenditure not written off, including miscellaneous expenses not written off. 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 35 of 55 
+
+ 
+
+ 
+
+6.2 Recommendation: 
+ 
+The  sub-group  noted  that  with  regard  to  PMS  the  net  worth  requirement  had 
+recently been raised from Rs. 50 lakhs to 2.0 crores and therefore there may not 
+be  much  to  be  deliberated  as  regards  net  worth  requirement  for  a  PMS. 
+However, concern was raised about the absence of any concept of discretionary 
+and non-discretionary PMS as was prevalent in certain overseas jurisdictions. It 
+was felt by the committee that with regard to PMS, the concept of asset under 
+management may be relevant to be introduced and the net wroth may be pegged 
+to the underlying assets under management. Accordingly, it was felt that the Net 
+Worth in case of PMS may be 50 times of assets under management subject to 
+minimum of Rs.2.0 crores.  
+ 
+It was felt that the custodians of PMS providers should also be permitted to rely 
+on the KYC procedures performed by the PMS to improve investor convenience 
+and this will also be in line with RBI regulations as well. 
+ 
+ 
+7. CUSTODIAN OF SECURITIES 
+
+7.1 Background 
+
+ 
+
+ 
+
+ 
+
+With  the  SEBI  Act  in  1992  and  other  regulations  being  put  in  place.  An 
+intermediary  –  custodian  of  securities  continued  to  service  mutual  funds  and 
+Foreign  Institutional  Investors  (FIIs).  As  there  was  no  requirement  under  the 
+SEBI Act for SEBI to register any custodian, SEBI was approving custodians as a 
+part of the registration process of mutual fund and Foreign Institutional Investors 
+(FIIs).  SEBI  notified  the  Custodian  of  Securities  regulations  in  1996.  Until  then 
+SEBI approved 10 entities to act as Custodians, of which seven were banks and 
+three had been set up by non-banking institutions. 
+
+While  framing  the  custodian  regulations  in  1996,  information  was  sought  from 
+already  existing  custodians  on  their  operations. SEBI did not come across any 
+jurisdiction  which  had  regulations  for  custodian  services.  A  questionnaire  was 
+sent  out  to  several  member  countries  of  International  Organization  -  IOSCO  to 
+ascertain  their  regulatory  standards  for  custody  services.  Responses  received 
+from US, Hong Kong and UK indicated that custodian services are not regulated 
+because they are not market intermediaries but service providers to the market. 
+In the US for example, custodial services are mostly provided by banks and as 
+such are governed by the requirements and regulations of the Federal Reserve. 
+However,  regulations  for  market  intermediaries  cast  an  obligation  on  them  to 
+ensure  safe  keeping  of  the  assets  of  their  clients.  SEBI  had  also  circulated  a 
+consultative paper vide press release dt. 29.9.95 inviting comments on the draft 
+regulations  for  custodian  services.  On  the  basis  of  the  comments  received,  a 
+memorandum was placed before the Board, in its meeting held on 31.10.1995. 
+Subsequently, the Regulations were notified on    May 16, 1996. 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 36 of 55 
+
+ 
+
+ 
+
+ 
+A) Present Scenario: 
+ 
+
+ 
+
+ 
+
+1.  As  on  date,  there  are  16  custodians.  Thirteen  of  these  are  banks,  and 
+other three are in the others category. On December 2005, SEBI received 
+the first custodian application in the category of “Others” (non-bank entity) 
+after the notification of Custodian Regulations.  
+
+ 
+2.  It was decided in May 2008 that all applications to be processed as per 
+existing regulations and any review if required shall be done separately.  
+Pursuant to this, the first registration in the “others” category was granted 
+to M/s. Orbis Financial Corporation Ltd. on June 17, 2008 and in-principle 
+approval was granted to DSP Merrill Lynch Limited on October 22, 2008. 
+Further, as on date four custodian applications in the category of “others” are 
+in various stages of approval.  
+
+3.  In view of the above, it is proposed to review all significant aspects like the 
+eligibility  norms,  networth,  kinds  of  services  provided  to  the  clients’ 
+incidental thereto etc.  
+
+4.  With the benefit of hindsight it can be stated that the custodian regulations 
+were not detailed on account of most of the then existing custodians being 
+Banks/Financial  institutions/entities  promoted  by  financial  institutions.  In 
+addition, SEBI probably derived comfort from the fact that Banks are also 
+regulated by RBI and hence would have dual supervision and thus result 
+into better regulation. 
+
+ 
+A  consultative  note  on  Custodian  was  circulated  to  all  the  members  of  the 
+subgroup.  
+ 
+B)  ROLES AND RESPONSIBILITIES OF A CUSTODIAN: 
+ 
+The  role  of  the  Custodian  can  be  defined  as  a)  those  expected  as  per  the 
+Custodian  Regulations  and  b) 
+that  are  performed  by  custodians 
+additionally, whether by themselves or in association with a bank. 
+ 
+
+those 
+
+Role as defined under the Custodian Regulations 
+Typically, a custodian performs the following activities on behalf of clients: 
+•  Trade  clearing  and  settlements:  This  includes  electronic  trade  matching, 
+confirmation  on  the  exchanges,  performing  the  settlements  of  cash  and 
+securities with the exchange clearing house etc.   
+
+•  Safekeeping  of  Assets:  Custodians  safe-keep  a  variety  of  assets  including 
+shares,  cash,  derivatives,  government  debt  securities,  corporate  bonds, 
+structured  product  assets,  physical  securities  etc.  They  have  to  ensure 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 37 of 55 
+
+ 
+
+ 
+
+complete  segregation  and  full  control  over  all  client  assets.  For  funds,  all 
+assets that go into the composition of NAV are safe kept with custodians.  
+
+•  Asset Servicing and corporate actions including 
+
+–  Processing both voluntary (e.g., Tender offers, buy backs, rights etc) and 
+
+involuntary Corporate action (Bonus, Stock Split, Dividend etc).  
+
+–  Each  of  these  events  have  a  unique  process  attached  to  them,  and 
+
+custodians have to be able to support these in an automated fashion. 
+
+–  Automated  notification  process,  adhering  to  proprietary  electronic  and 
+
+SWIFT standards.  
+
+–  Follow-up of pre-advised voluntary corporate actions 
+–  Provide  proxy  voting  services  for  clients  –  arranging  for  casting  votes 
+
+across locations, sending details to investors 
+
+–  Tracking, collecting and posting any income due to clients 
+
+•  Providing  Cash  settlement  services  as  part  of  settlement  functions  – 
+managing  funds  in  their  bank  account,  providing  cash  projection  reports  to 
+ensure timely funding, managing funds flow etc 
+
+ 
+
+Additional services provided by the Custodians 
+ 
+The below activities are being performed by almost all the registered custodians, 
+as a value add to the customers: 
+ 
+•  Providing market information and updates to investors which impact them 
+•  Fund Accounting and Administration  
+•  Providing automated and STP reports and triggers to clients 
+•  Providing support on tax payments and processing  
+ 
+7.2 Current Practice for granting Custodian Registration: 
+
+1.  Regulation  6  of  Custodian  Regulations  states  the  eligibility  criteria  for 
+granting  the  registration  to  custodians.  An  applicant  needs  to  fulfill  the 
+following :- 
+
+ 
+   
+
+   
+
+   
+
+(a)  the  capital  requirement  of  Rs  50  cr.  exclusively  for  custodian 
+operations 
+(b)necessary  infrastructure,  including  adequate  office  space,  vaults  for 
+safe  custody  of  securities  and  computer  systems  capability,  required  to 
+effectively discharge his activities as custodian of securities; 
+(c)the applicant has in his employment adequate and competent persons 
+who have the experience, capacity and ability of managing the business of 
+the custodian of securities; 
+
+  (d)the  applicant  has  prepared  a  complete  manual  setting  out  the  systems 
+and  procedures  to  be  followed  by  him  for  the  effective  and  efficient 
+discharge  of  his  functions  and  the  arms  length  relationships  to  be 
+maintained with the other businesses, if any, of the applicant; 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 38 of 55 
+
+ 
+
+ 
+
+   
+
+   
+
+  (e)the applicant is a person who has been refused a certificate by the Board 
+
+or whose certificate has been cancelled by the Board; 
+(f) the applicant, his director, his principal officer or any of his employees 
+is involved in any litigation connected with the securities market; 
+(g) the applicant, his director, his principal officer or any of his employees 
+has at any time been convicted of any offence involving moral turpitude or 
+of any economic offence;  
+
+(h) the grant of certificate is in the interest of investors. 
+
+    2[(gg) the applicant is a fit and proper person;] and 
+   
+(2) Notwithstanding anything contained in sub-regulation (1) the Board shall 
+not consider an application made under regulation 3 unless the applicant 
+is a body corporate. 
+
+      3[Criteria for fit and proper person. 
+6A. For the purpose of determining whether an applicant or the custodian of 
+securities is a fit and proper person the Board may take into account the 
+criteria specified in Schedule II of the Securities and Exchange Board of 
+India (Intermediaries) Regulations, 2008. 
+
+2.  Apart  from  the  above,  the  applicant  also  need  to  fulfill  the  following 
+
+requirements and furnish the same in the application form A: 
+
+•  details regarding their infrastructure,  
+•  Vault security and access control systems 
+•  Systems for tracking securities 
+•  Risk control and operations manual 
+•  Details of independent internal control mechanisms for monitoring, 
+evaluation  and  review  of  accounting  safekeeping  and  reporting 
+systems and procedures. 
+
+•  Details  of  hardware,  software  and  communications  systems,  their 
+
+capability, function and location; 
+
+•  Details  of  data  storage  and  back  up  procedures  and  sites,  their 
+
+capability, function and location 
+
+•  Details of disaster recovery systems and procedures. 
+
+3.  Some  of  the  requirements  as  mentioned  above  like  setting  up  of 
+infrastructure, hardware, software  etc. which the applicant need to fulfill at 
+the  time  of  filing  an  application  require  huge  investments  without  having 
+any assurance that they would be getting the registration after scrutiny of 
+their  application.  Therefore,  based  on  the  submission  made  by  some  of 
+the  applicant,  the  division  had  decided  to  process  the  custodian 
+application in following two phases: 
+
+ 
+
+  
+
+ in-principle approval  
+
+• 
+•  Final approval 
+ 
+
+4.  In the first phase the applicant has to provide all the relevant information 
+and  documents  along  with  the  application  form  A  without  making  any 
+investment  on  infrastructure  and  systems.  They  only  require  providing 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 39 of 55 
+
+ 
+
+ 
+
+their proposed infrastructure and systems set up and should comply with 
+other eligibility criteria as prescribed in Regulation 6. 
+
+ 
+5.  Based  on  their  submission  the  division  scrutinize  their  application  and  if 
+complies  with  the  eligibility  criteria  as  prescribed  under  Regulation  6  of  
+Custodian Regulations, we grant an in-principle approval to go ahead in 
+setting up all other requirements like infrastructure, systems requirements 
+and  hiring  competent  persons  for  custodian  business  within  12  months 
+from the date of in-principle approval. 
+
+6.  On  completion  of  setting  up  of  systems  requirements,  the  applicant  is 
+required to undergo a system audit prior to commencement of operations. 
+The scope of the work is confirmed in consultation with SEBI. 
+
+7.  Once  the  applicant  fulfills  the  in-principle  conditions,  it  needs  to  file 
+documents  evidencing  presence  of  necessary  infrastructure  set  up  to 
+support  custody  operations,  confirm  the  presence  of  adequate  and 
+competent  persons  to  effectively  discharge  of  activities  as  custodian  of 
+securities. 
+
+8.  Once  the  above  documents  are  filed  by  the  applicant  along  with  the 
+
+system audit report, a field visit is made to verify the followings: 
+
+•  Location / address 
+•  Manpower & experience, qualification of the key personnel. 
+• 
+
+Infrastructure  (Office  space,  Communication  facilities,  Security 
+systems,  Insurance  cover,  Hardware  &  Software,  Back  up  and 
+disaster recovery etc) 
+
+•  Compliance, operations and risk management mechanism. 
+
+9.  Pursuant  to  the  submission  of  the  field  visit  report  and  based  on  the 
+observations made the final approval for the commencement of custodian 
+operations is granted. 
+
+7.3 Issue which were deliberated: 
+
+ 
+
+ 
+
+For  deciding  the  kind  of  entities  which  should  be  permitted  to  offer  custodial 
+services and the eligibility criteria, the following points were considered: 
+
+ 
+1.  Eligible  Category:  The  Custodian  Regulations  do  not  specify  who  can 
+apply  for  a  Custodian  registration,  i.e.  does  not  spell  out  the  eligible 
+categories  of  persons.  However,  the  application  form  requires  the 
+applicants to indicate their category, as one of the following: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i. 
+ii. 
+iii. 
+iv. 
+
+Bank  
+Foreign Bank 
+Financial Institution 
+Others 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 40 of 55 
+
+ 
+
+The  intent  of  the  including  these  categories  in  the  application  form  was 
+perhaps  to  capture  the  nature/  category  of  the  applicants.  It  was  by  no 
+means a restrictive list of categories of persons eligible to apply. As there 
+are no restrictions in the custodian regulations, a restriction cannot find its 
+way into the framework through the application form.  
+ 
+Further it may be noted that at the time the regulations came into being, 
+some  of  the  custodians  were  already  providing  services  to  the  market 
+place, an attempts thus appears to have been made to capture the nature/ 
+category of the existing custodians while drafting the application form. The 
+“other” field was kept open to accommodate, custodians who did not fit in 
+the three categories of Bank, Foreign Bank and Financial Institution. 
+  
+In the past four years SEBI received applications in the “others” category, 
+who  are  mainly  Brokers,  NBFCs  or  Corporates.  While  all  these  entities 
+meet the primary requirements of the Regulations and are hence eligible 
+for grant of registration.  
+We  cannot  stand  in  judgement  of  SEBI  decisions  to  give  or  not  give 
+Registration to Any class of entities.   
+ 
+
+2.  Capital  Requirement:  As  per  the  extant  regulations,  the  custodian 
+applicant  has  to  fulfill  the  capital  requirement  of  rupees  fifty  crores.  This 
+capital  requirement  has  never  been  reviewed  since  1996.    A  need  was 
+thus felt to review networth requirements.  
+ 
+As  per  the  Custodian  Regulation,  networth  is  defined  as  paid-up  capital 
+and the free reserves as on the date of the application. One of the Core 
+Committee  Sub-Group  viz  Sub-Group  – 
+II,  after  considerable 
+deliberations,  recommended  that  the  Net  worth  requirement  should  be 
+specified in two categories: 
+
+a.  Core Capital: which is available at all times with the intermediaries 
+and which is used solely for the purpose of creating infrastructure to 
+service the market.  
+
+b.  Risk Capital: Similar to broking, each intermediary to have a “risk 
+capital” which will be available to them for business risks exposure.  
+
+ 
+The following additional inputs for the purpose of calculation of core and 
+risk capital: 
+a.  Core capital computation will consist of paid up capital + Free Reserve 
+–  (Miscellaneous  Expenses  to  the  extent  not  written  off  +  inter 
+corporate loans and investments) 
+
+b.  Preference shares if the redemption exceeds more than 5 years should 
+
+be included for the purpose of the calculation otherwise not. 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 41 of 55 
+
+ 
+
+ 
+
+ 
+
+c.  The risk capital will be determined as + Paid up capital + free reserve – 
+(core  capital  _  mis.  Exp).  The  treatment  of  preference  capital  will 
+continue to be the same. 
+
+ 
+As risk capital is not applicable in case of custodians, the committee may 
+deliberate  whether  we  may  replace  the  “networth”  with  “core  capital”  as 
+defined above. 
+
+3.  Providing  services  to  the  clients  incidental  thereto:  Most  of  the 
+custodian banks are providing Fund Administration Services thought it is 
+not  includes  in  the  regulation.  It  is  observed  that  some  of  the  custodian 
+banks have taken a specific approval from RBI for doing this. In the past, 
+we had also granted to do fund administration services to SHCIL on their 
+request. Therefore, we need to include the fund administration services in 
+the  regulation  with  certain  conditions  like  who  can  do  the  Fund 
+Administration  Services  especially  when  we  allow  brokers,  NBFC  and 
+corporate to enter in custodian business.  
+
+4.  Requirement for a vault: The dematerialization of physical securities in 
+theory  eliminates  the  need  for  having  a  vault.  However,  as  per  the 
+regulation,  the  applicant  necessarily  needs  to  have  a  vault  for  safe 
+custody of securities.  
+
+The  committee  would  like  to  deliberate  whether  the  custodian  applicant 
+shall continue setting up a vault as required in the regulation. 
+
+5.  Provision  for  in-principle  approval:  As  per  the  existing  Regulations, 
+there is no provision for In-Principle approval to applicants. However, we 
+had received many applications before the applicant put their systems and 
+personnel  and  other  requirements  in  place.  The  Division  with  the 
+concurrence  of  the  CoED,  has  granted  in-Principle  approval  to  two 
+applicants  out  of  that  one  applicant  was  granted  final  registration  once 
+they complied with all other eligibility criteria.    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The  committee  would  like  to  deliberate  on  granting  of  Custodian 
+registration in  two phase (in-principle approval & final approval).  
+
+6.  Arms length relationship with other businesses: 
+
+ 
+As  per  the  Custodian  regulation  the  custodian  of  securities  shall  ensure 
+that an arms length relationship is maintained, both in terms of staff and 
+systems, from his other businesses. 
+
+ 
+7.4 RECOMMENDATIONS 
+ 
+7.4.1 Eligible Category: 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 42 of 55 
+
+ 
+
+ 
+
+ 
+The role of a Custodian needs to be performed in a highly automated and secure 
+manner by reputed parties. The eligibility criteria should include: 
+•  Entity’s  prior  experience  in  safekeeping  and  servicing  clients’  assets 
+(including  tracking,  providing  alerts  and  managing  corporate  action)  in  any 
+form,  viz.  Cash,  Securities.  The  Custodians  role  involves  taking  on  a  high 
+degree of operational risk, and entities should have the capability to manage 
+the same, e,g., to manage a  
+–  Ability to manage financial assets on behalf of end investors.  
+–  Well  versed  with  the  functioning  of  the  exchanges  in  India  including  risk 
+trade  process, 
+
+management,  settlement  process,  margining, 
+settlement guarantee fund etc.. 
+
+–  Active  on  going  asset  servicing  with  system  solutions  to  track  and 
+
+fail 
+
+reconcile. 
+
+–  Hence  imperative  to  have  a  proven  track  record  of  managing  financial 
+
+assets on behalf of clients and capital markets experience. 
+
+• 
+
+Infrastructure Requirements: 
+–  Seamless  transaction  processing  between  exchange  systems,  trading 
+
+platforms, the Custodian’s systems etc 
+
+–  Seamless  integration  between  the  cash  and  securities  systems,.  with 
+
+consolidated statement of assets across cash and securities. 
+
+–  Proprietary electronic and SWIFT messaging capabilities  
+–  System  capability  to  ensure  end  to  end  STP,  which  is  critical  given  the 
+
+value and volume of financial transactions managed by custodians. 
+
+–  Automated  systems  to  process  both  voluntary  and  involuntary  corporate 
+
+action events. 
+
+ 
+7.4.2 Capital Requirement: 
+ 
+The  sub  Group  felt  that  the  "networth"  should  be  replaced  with  “core  capital  ". 
+The core capital can be set at Rs. 100 Crores.  
+ 
+7.4.3 Providing services to the clients incidental thereto: 
+ 
+The subgroup observed that the fund accounting services provided by custodians 
+is  governed  by  the  contractual  agreement  with  the  client,  e.g.  mutual  fund  or 
+insurance  company.  Each  activity,  including  valuation  policy,  is  determined  by 
+the client. The sub group recommend a process for approving Fund Accounting 
+services, while keeping minimum regulations around the same. 
+ 
+7.4.4 Requirement for a vault:  
+ 
+The  subgroup  observed  that  physical  securities  are  still  prevalent  in  India, 
+especially  in  cases  like  investments  in  unlisted  companies,  old  physical 
+securities,  debt  investments  etc.  Both  domestic  and  foreign  investors  invest  in 
+such securities, and will require their custodians to be able to support the same. 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 43 of 55 
+
+ 
+
+ 
+
+Hence Custodians need to have the ability to manage such physical securities on 
+behalf  of  client  and  ensure  their  safe  custody.  Custodians  should  be  able  to 
+ensure full physical safety of such securities, and also track & reconcile these for 
+purpose  of  ongoing  asset  servicing.    Custodians  should  implement  strong 
+safeguard  measures  for  such  securities  including  vault  safety,  physical  & 
+premises security, controls against fire and other hazards etc. Hence it was felt 
+that the requirement of setting up of a vault should continue, however in view of 
+the current dematerialization scenario the specifications for a vault area can be 
+reviewed and changed.  
+ 
+7.4.5 Provision for in-principle approval: 
+ 
+The sub group felt that the in-principle approval should be reviewed considering 
+the  back  ground  of  the  entity  making  the  application  and  the  preparatory  work 
+done by the said entity for the setting up  of the Custodial shop. Subsequently, 
+their  infrastructure,  the  system  capabilities  and  the  trained  /  experienced 
+resources should thoroughly be reviewed before the final approval. The system 
+should  be  compatible  to  handle  security  settlements,  fund  settlements,  holding 
+report  generations,  corporate  benefit  accruals 
+the  necessary 
+reconciliations  in  all  these  fronts  along     with  the  reconciliation  of  the 
+Depository and  Custody  holdings.  The  system  should  also  be  compatible  to 
+handle settlement in all segments namely Equity Cash / Equity F & O / Debt. 
+ 
+7.4.6  Arms length relationship with other businesses: 
+ 
+The  subgroup  agreed  to  the  current  regulation  and  felt  that  the  arms  length 
+relationship should be covered during internal and external audit. The criteria for 
+“arms  length”  should  be  explicitly  defined  for  different  types  of  entities  like 
+broking, portfolio managers etc. 
+ 
+7.5. Other Points for consideration: 
+ 
+7.5.1  Following  Issues  pertaining  to  Non-Bank  Custodian  were  placed  for 
+consideration: 
+
+/  receipts, 
+
+A) It would not be possible to deny registration on the basis of the fact that 
+the  applicant  is  a  broking  entity  and  thus  subject  to  conflict  issues,  as  they 
+would  in  all  likelihood,  establish  a  separate  subsidiary  which  would  handle 
+only  custody  business  and  apply  for  registration.  In  any  case,  many  of  our 
+established custodians also have broking registrations, directly as a bank or 
+through group/subsidiaries.  
+Eligibility  criteria  are  necessary  to  prevent  any  frivolous  entrant  and 
+mushrooming  of  custodians.  Also,  as  the  custodial  services  are  a  capital 
+intensive  and  technology  driven  business  and  the  custodian  must  have  to 
+must  continuously  adapt  their  technology  because  of  the  dynamic  market 
+practice and, we don’t want any fake entity to become custodian and want the 
+genuine players in the market.  
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 44 of 55 
+
+ 
+
+ 
+
+ 
+
+B) Issues pertaining to brokers granting Custodian registration: Per se    there 
+is no heightened risk by allowing brokers to act as custodians. As the market 
+has  largely  moved  to  dematerialized  form,  presence  of  DPs  (who  act  on 
+instructions of beneficial owners), risk, if any, posed by custodians have gone 
+down. 
+
+•  Though  it  may  not  be  applicable  to  reputed  corporate  brokers  (like 
+Morgan,  Goldman  etc)  have  their  proprietary  trading  as  well,  seeing 
+the  past  practices  of  brokers  in  India  of  utilizing  clients'  securities  / 
+funds  for  proprietary  trading,  there  is  a  risk  that  brokers,  if  acting  as 
+custodian,  may  use  clients'  securities  for  settling  their  proprietary 
+obligations. This risk may be even more if broker is acting as custodian 
+and DP both. 
+
+•  Custodians have sensitive information about clients' portfolio. There is 
+risk  of  breach  of  confidentiality  of  client  information  if  broker  act  as 
+custodian.  Broker  can  use  clients'  portfolio  information  for  its  own 
+purposes.  Above  risks  can  be  mitigated  by  enforcing  brokers  to 
+segregate their custody function from trading function. Also, custodian 
+function  of  broker  should  be  obliged  to  honour  confidentiality  of 
+information regarding clients. That is, custody dept of broker should not 
+share  clients'  information,  unless  there  is  explicit  consent  from  the 
+client,  with  its  trading  dept  unless  such  information  is  required  to  be 
+shared for normal clearing and settlement function. 
+
+•  We  have  already  registered  several  brokers  as  DPs,  who  in  the 
+dematerialized  environment  are  not  materially  different 
+from 
+custodians. In terms of FII and Mutual fund regulations, these entities 
+necessarily  need  to  appoint  a  SEBI  registered  custodian  for  their 
+activities in India. If the custodian services will be with broker and there 
+would  be  no  Chinese  wall  between  the  broker  activities  and  the 
+custodian  activities,  the  broker  may  use  the  investment  strategy 
+adopted by mutual fund and FIIs for their own proprietary investment 
+and influence the market. Hence, there arises a conflict of interest. 
+
+•  However,  if  we  directly  deny  giving  registration  to  brokers,  there  are 
+possibility  that  they  will  incorporate  a  wholly  own  entity  and  seek 
+custodian registration.  
+
+C)  In  terms  of  FII  and  Mutual  fund  regulations,  these  entities  necessarily 
+need to appoint a SEBI registered custodian for their activities in India. It 
+appears  that  in  view  of  the  increased  assets  being  managed  by  the 
+existing custodians, the custodial services is being looked at as a possible 
+revenue  source  by  many  entities,  especially  considering  the  volume  of 
+business being transacted by FIIs and Mutual Funds. Accordingly, SEBI is 
+likely to receive more applications under the “others” category. 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 45 of 55 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+7.5.2 The subgroup felt that the following points may be considered:  
+ 
+
+•  As  also  explained  in  the  beginning  of  this  document  (functions  of  a 
+custodians),  there  are  very  significant  differences  between  DPs  and 
+Custodians.  Custodians  perform  a  variety  of  functions  over  and  above 
+what  a  pure  DP  does,  and  take  on  significantly  more  operational  risk. 
+Hence  regulations  have  to  keep  all  these  factors  in  mind  while  granting 
+approvals  to  entities  to  act  as  Custodians.  Some  of  these  functions  are 
+outlined below: 
+–  Check  for  compliance  with  a  number  of  regulations  for  client  trades, 
+using  automated  systems  and  processes.  These  activities  are  not 
+performed  by  DPs,  who  cater  to  inherently  retail  requirements  vs. 
+institutional  as  managed  by  custodians.  E.g.,  monitoring  against 
+various  investment  limits  (like  FII  limits,  PIT,  SAST  etc),  RBI  FEMA, 
+SEBI Short sale regulations, FDI reportings (FCGPR and FCTRS) etc.  
+–  Custodians  also  do  ongoing  asset  servicing  and  track  corporate 
+actions  which  DPs  do  not  perform.  This  requires  sophisticated 
+technology and use of global messaging protocols to ensure there are 
+no errors in the process. 
+o  Automated  processing  of  both  voluntary  (e.g.,  Tender  offers, 
+buy backs, rights etc) and involuntary Corporate action (Bonus, 
+Stock Split, Dividend, Stock consolidation etc).  
+o  Automated  notification  process,  adhering 
+o  Follow-up of pre-advised voluntary corporate actions 
+o  Provide proxy voting services for clients – arranging for casting 
+o  Tracking, collecting and posting any income due to clients 
+
+votes across locations, sending details to investors 
+
+electronic and SWIFT standards.  
+
+to  proprietary 
+
+–  Custodians  take  on  the  exchange  obligations  when  they  confirm  the 
+
+trades on behalf of their institutional clients. 
+
+ 
+8. Manpower: 
+ 
+As  regards  other  aspects,  the  sub-group  was  of  the  view  that  there  should  be 
+certain emphasis towards capacity building and towards this importance need to 
+be given to qualified manpower and defining the role of compliance officer.  
+ 
+As  regards  manpower  and  competence  it  was  felt  by  the  committee  that  as 
+existing  in  certain  foreign  jurisdictions  the  concept  of  certifications  be  adopted. 
+While already there were certain certifications mandated presently e.g. as in the 
+F&O  Segment,  it  was  felt  by  the  committee  that  in  view  of  NISM  having  been 
+established, by year 2010 it would be desirable to mandate certification for every 
+person dealing in capital market ought to be qualified in his/her area of operation. 
+It was also felt that a relaxation could be allowed for those intermediaries who 
+were  not  expected  to  deal  with  public  say  a  broker  engaging  in  proprietary 
+trading.  
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 46 of 55 
+
+ 
+
+ 
+
+ 
+Regarding,  the  compliance  officer  the  committee  was  of  the  opinion  that  while 
+presently the regulations required a compliance officer be appointed, the role and 
+compliance  officer  was  not  expressly  defined.  This  assumed  importance 
+especially  for  intermediaries  which  were  concurrently  engaged  in  various 
+capacities in the capital market and held various certificate of registration under 
+the same entity. The committee was of the view that there was need to define the 
+role and duties of compliance officer.  
+ 
+It  was  also  felt  by  the  committee  that  there  were  several  complexities  in  the 
+present  environment  wherein  an  intermediary  was  expected  to  seek  separate 
+approvals  for  every  registration  for  same  type  of  change.  Similarly  there  was 
+simultaneous  compliance  of  minimum  eligibility  criteria.  The  committee  was  of 
+the opinion that the registration and commencement of activity could be de-linked 
+as akin to the listing and trading permission in case of listing of securities on a 
+Stock Exchange.  
+
+************* 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 47 of 55 
+
+ 
+
+ 
+
+REPORT OF SUB GROUP –IV 
+
+ 
+1 Background 
+ 
+In the first meeting of the Committee on Review of Eligibility Norms (CORE) on 
+January 31, 2008, Committee decided to form a sub-group to be headed by Shri 
+Uday  Kotak  (Chairman-  Kotak  Securities  Limited)  to  examine  the  functional 
+issues relating to various market participants.  
+ 
+The other members of the sub-group were  
+
+1.  Shri R. S. Loona, Managing Partner, Alliance Corporate Lawyers 
+2.  Ms Roopa Kudva, MD & CEO, CRISIL 
+3.  Ms  Deena  Asit  Mehta,  MD,  Asit  C  Mehta  Invetsment  Intermediaries 
+
+Limited 
+
+Limited 
+
+4.  Ms  Manisha  Girotra,  Chairperson,  UBS  Securities  India  Private 
+
+5.  Dr. M. T. Raju,  In-charge, Indian Institute of Capital Markets 
+
+ 
+The Group met twice on May 13, 2008 and September 16, 2008 to discuss the 
+issue. The Group deliberated on the need  for identification of functional issues 
+related  to  market  intermediaries  keeping  in  mind  not  only  the  existing  market 
+structure but also the market structure few year down the line so as to visualize 
+the role to be played by each intermediary. This futuristic roadmap for the market 
+would  help  in  providing  direction  to  the  intermediaries  in  terms  of  capacity 
+building. 
+ 
+The  Group  felt  that  intermediaries  could  be  classified  on  the  basis  of  risk 
+business and agency business and that risk based business should be linked to 
+capital adequacy. Net worth should be related to risk exposure depending upon 
+the  role  performed  by  the  intermediary.  There  is  a  need  to  review  regulatory 
+requirements  to  enable  intermediaries  to  set  up  branches/subsidiaries  abroad. 
+There  is  a  need  to  address  issues  in  the  areas  of  governance,  infrastructure, 
+manpower, data security, outsourcing in line with current development and future 
+of the market. 
+ 
+In this regard, IOSCO principles (21 to 24) which deal with market intermediaries 
+serve as a guide on prescribing entry and other norms to various intermediaries. 
+They are given below: 
+ 
+
+(cid:214)  Regulation  should  provide  for  minimum  entry  standards  for  market 
+
+intermediaries. 
+
+(cid:214)  There  should  be  initial  and  on-going  capital  and  other  prudential 
+requirements  for  market  intermediaries  that  reflect  the  risks  that  the 
+intermediaries undertake. 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 48 of 55 
+
+ 
+
+ 
+
+(cid:214)  Market intermediaries should be required to comply with standards for 
+internal  organization  and  operational  conduct  that  aim  to  protect  the 
+interests  of  clients,  ensure  proper  management  of  risk  and  under 
+which  management  of  intermediary  accepts  primary  responsibility  for 
+these matters. 
+
+(cid:214)  There  should  be  a  procedure  for  dealing  with  the  failure  of  a  market 
+intermediary in order to minimize damage and loss to investors and to 
+contain systemic risk. 
+
+to 
+
+In  addition 
+
+ 
+The  minimum  capital  requirement  for  registration  of  each  type  of  intermediary 
+was discussed in detail. It is desirable that “capital adequacy” in relation to the 
+volume  of  business  done  is  stipulated  for  all  types  of  intermediaries.  Capital 
+adequacy,  thus,  will  consist  of  minimum  capital  required  and  risk  capital.  The 
+capital  adequacy  should  be  defined  in  terms  of  Net  Worth  (Balance  Sheet 
+Capital). 
+the  minimum  capital  required,  additional  capital 
+requirement  (risk  capital)  may  be  prescribed  for  each  type  of  intermediary 
+depending upon whether the intermediary performs agency type of business or 
+otherwise. 
+ 
+The Group felt that SEBI may consider permitting Tier I capital and Tier II capital 
+structure  where  Tier  I  consists  of  equity  (owners’  funds)  and  Tier  II  consist  of 
+Long  Term  borrowings,  if  the  market  expresses  difficulty  in  rising  the  required 
+capital in equity form. 
+ 
+Vision Statement: The vision statement adopted by the Group is  
+“Indian  financial  services  industry  shall  gear  up  itself  to  serve  multiple  markets 
+offering the whole range of intermediary services to the total satisfaction of client 
+using robust, scalable, fail proof technology employing globally competent human 
+resources strengthened by market/product/process research and innovation in a 
+manner  that  it  is  able  to  withstand  and  better  the  competition  from  global 
+organizations in this space.” 
+ 
+2 Recommendations:  
+ 
+2.1 Net worth 
+ 
+The  Group  recommended  the  following  capital  requirement  structure  for  each 
+type  of  intermediary  after  discussing  the  risk  of  carried  by  each  type  of 
+intermediary.   
+ 
+
+Type of 
+
+intermediary 
+
+Additional capital 
+(Risk based capital)
+
+Remarks 
+
+Capital 
+adequacy 
+(minimum 
+
+capital 
+required) 
+Rupees in 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 49 of 55 
+
+ 
+
+Stock Broker 
+
+Crore 
+
+5 
+
+Portfolio 
+Manager 
+(PMS) 
+Depository 
+Participant 
+Registrar 
+and  Transfer 
+Agent 
+Merchant 
+Banking 
+
+Underwriter 
+
+Asset 
+Management 
+Company 
+Trustee 
+
+2 
+
+3 
+
+5 
+
+5 
+
+5 
+
+10 
+
+1 
+
+ 
+
+In  order 
+
+1. 
+to  ensure 
+intermediaries are able to 
+withstand 
+the  market 
+risks,  it  is  necessary  that 
+adequately 
+they 
+are 
+capitalized. 
+  Therefore, 
+the  capital  should  not  be 
+less  than  12%  to  15%  of 
+the  Risk  Assets  net  of 
+margins received. Writing 
+options  is  a  Risk  Asset. 
+Similarly,  all  other  assets 
+that 
+to 
+variations  in  their  value 
+due 
+like 
+deterioration  of  value  of 
+underlying assets, market 
+price 
+fluctuations, 
+doubtful 
+recovery,  etc. 
+are Risk Assets. 
+2.  SEBI  may  consider 
+prescribing a time line for 
+existing  brokerage  firms 
+to  capitalize  themselves 
+as per the new norm. 
+ 
+
+prone 
+
+are 
+
+to 
+
+factors 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(net 
+
+12%  to  15%  of  net 
+position 
+of 
+margin  received).  If 
+stocks are received 
+in  margin,  30%  to 
+50%  haircut  shall 
+be  applied  on  the 
+mark 
+to  market 
+value  of  the  stocks 
+for 
+in  margin 
+arriving 
+at 
+net 
+position. 
+
+ 
+
+ 
+
+ 
+
+The 
+underwriting 
+limit  shall  be  20 
+times  the  net  worth 
+of the firm 
+The 
+underwriting 
+limit  shall  be  20 
+times  the  net  worth 
+of the firm 
+ 
+
+ 
+
+At  present  no  minimum 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 50 of 55 
+
+ 
+
+to 
+
+if 
+
+ 
+
+fund 
+
+net worth is prescribed for 
+trustee  company  of  a 
+mutual  fund.  The  trustee 
+company  shall  have  a 
+corpus  of  its  own  to  be 
+able 
+some 
+services it may like to hire 
+independent  of  AMC  like 
+seeking 
+legal  opinion, 
+causing  special  audits, 
+etc.  However, 
+the 
+trustee  is  in  the  form  of 
+Board  of  Trustees  (not 
+being  a  corporate  body), 
+the  corpus  of  such  board 
+shall not be less than Rs 
+one  crore  deposited  in  a 
+separate, 
+clearly 
+identifiable bank account. 
+The  sponsors  of 
+the 
+credit 
+agency 
+collectively  shall  have  a 
+capital  adequacy  of  not 
+less than Rs 100 Crore.  
+The 
+capital  adequacy 
+shall  be  in  accordance 
+with the capital adequacy 
+for  a  bank  as  stipulated 
+by  RBI.    No  additional 
+capital 
+is 
+necessary. 
+the 
+The  sponsors  of 
+trusee 
+debenture 
+collectively  shall  have  a 
+capital  adequacy  of  not 
+less than Rs 100 Crore. 
+ 
+ 
+
+adequacy 
+
+rating 
+
+Company  to 
+a 
+Mutual 
+Fund 
+
+Credit Rating  
+Agency 
+
+Bankers 
+the Issue 
+
+to 
+
+Debenture 
+Trustees 
+
+5 
+
+ 
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+100 
+50 
+
+Depository 
+Custodian 
+ 
+2.2 Multiple Activities:  
+ 
+If  any  entity  is  desirous  of  entering  into  multiple  intermediary  businesses,  the 
+capital adequacy shall be cumulative. For example, if a broker wants to set up a 
+depository participant business, the capital adequacy shall be Rs 5 Crore plus Rs 
+3 Crore. If a broker wants to enter into PMS business, the capital adequacy shall 
+be Rs 5 Crore plus Rs 2 Crore.  
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 51 of 55 
+
+ 
+
+ 
+
+ 
+ 
+2.3 Registrar and Transfer Agents:  
+ 
+The  group  felt  that  it  is  necessary  to  stipulate  a  higher  capital  requirement 
+adequacy for registrar and transfer agents. There is a shortage of good quality 
+registrars in the country and existing registrars are not adequately capitalized to 
+be  able  to  provide  quality  service.  The  low  capitalization  leads  to  low  recovery 
+from  services  and  low  recovery  results  in  lower  standard  of  service  and  this 
+vicious cycle can be broken only when the registrars are adequately capitalized. 
+The positions on the proprietary book also shall be considered for arriving at the 
+capital adequacy.   
+ 
+2.4 Requirement of registration of sub-broker:  
+ 
+The  group  felt  that  sub-broker  need  not  be  registered  unless  such  sub-broker 
+issues contract note on its name. As the broker is wholly responsible for the acts 
+of the sub-broker (authorized person in case of futures trading), SEBI may leave 
+the responsibility of regulating/monitoring the sub-broker to the broker and may 
+not be involved in registration. If sub-brokers are allowed to write contract notes 
+on  their  name,  or  SEBI  is  of  the  view  that  Sub-broker  registrations  cannot  be 
+dispensed  with  immediately  for  any  reason  like  need  to  change  the  legislation, 
+etc,  a  new  category  of  agents/franchisee  may  be  introduced  with  an  explicit 
+provision that such agents/franchisees need not be registered with SEBI. 
+ 
+2.5 Setting up of branch/subsidiary abroad:  
+ 
+The  group  briefly  discussed  about  the  need  to  set  up  a  policy  for  permitting 
+intermediaries to set up branch/subsidiary abroad and recommended that SEBI 
+may  set  up  a  suitable  policy.    An  outline  of  the  policy  can  be  on  the  following 
+lines: 
+ 
+2.5.1  Expansion for serving eligible investors residing in foreign country 
+
+who want to operate in the Indian market: 
+
+a.  Such  business  can  be  done  by  a  branch  or  subsidiary  of  the  Indian 
+intermediary  depending  up  on  the  requirements  of  regulations  in  the 
+foreign land. 
+
+b.  All local permissions will have to be taken. 
+c.  Such business should extend services only to such clients who are eligible 
+
+to invest/operate in India. 
+
+d.  The 
+
+Indian 
+
+intermediary  shall  submit  an  undertaking 
+
+the 
+branch/subsidiary shall be subjected to annual internal audit focusing on 
+both operational and compliance audit and that regulator has a right to call 
+for a copy of the internal audit report. This audit report shall be separately 
+reported to the Audit committee.  
+
+that 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 52 of 55 
+
+ 
+
+ 
+
+e.  The  clients  shall  be  given 
+
+the  same  protection  as  per 
+
+Indian 
+
+f. 
+
+laws/regulations as if the transactions were conducted in India.  
+If  the  regulator  elects  to  inspect  the  branch  functioning  in  the  foreign 
+country, all the necessary expenses of such inspection shall be borne by 
+the  intermediary.  (The  expenses  shall  include  travel  and  hospitality 
+applicable to any employee of the intermediary). 
+
+ 
+
+2.5.2  Expansion of business in a foreign country to conduct business in 
+
+the foreign country:  
+a.  Such business can be done by a subsidiary of the Indian entity and not 
+
+b.  The  subsidiary  may  acquire  necessary  licenses  and  permissions 
+
+by the Indian entity directly. 
+
+required for the same. 
+
+c.  Investments in such subsidiary by the Indian entity will be reckoned as 
+
+a valid deployment of net worth of Indian entity. 
+
+d.  None  of  the  key  personnel  (other  than  directors)  of  the  Indian  entity 
+may  assume  any  position  in  the  subsidiary  that  may  attract  any 
+personal liability/disqualification/regulatory focus. 
+
+e.  There shall not be any sharing of any asset/resource that will have an 
+effect of impairing local business capability if there is an action on the 
+subsidiary by a foreign regulator.  
+
+ 
+2.6 Code of Conduct for Key Employees:  
+ 
+The  group  felt  that  there  is  a  need  for  prescribing  code  of  conduct  for  key 
+employees  employed  by  the  intermediaries  to  regulate  employee  conduct.  The 
+intermediaries  are  increasingly  facing  menaces  like  data  tampering,  data 
+stealing,  fraud  on  the  clients,  absconding  from  job  without  notice  and  getting 
+employed  elsewhere,  etc.  However,  it  is  imperative  that  the  criteria  for 
+defining/categorizing a defaulter need to be identified clearly. Every intermediary 
+shall have a code of conduct for employees. SEBI may consider issuing broad 
+guidelines  on  the  contents  of  the  code  of  conduct.  SEBI,  in  its  inspection  may 
+check whether the code of conduct is put in place and the status of implementing 
+the same.  
+ 
+2.7 Reference database of defaulter clients:  
+ 
+The group discussed the need for setting up a reference database (like CIBIL) to 
+identify the defaulter clients.  At present, there is no database or industry wide 
+mechanism that can help intermediaries in identifying the defaulting clients. SEBI 
+may  consider  mandating  that  every  intermediary  shall  subscribe  to  such 
+database and update the database with the details of defaulting clients such that 
+other  intermediaries  may  refer  to  the  database  before  entering  into  any 
+relationship with a new client.  Use of PAN as client identity proof is very helpful 
+in setting up such a facility. SEBI may consider discussing with CIBIL for creation 
+of such facility in the interest of intermediaries. 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 53 of 55 
+
+ 
+
+ 
+
+ 
+2.8   In addition to the minimum capital requirements, intermediaries shall build in 
+strengths in the area of governance of their businesses, technology, internal 
+control, risk management and human resource management. The following 
+road map for the development of these competencies may be considered: 
+
+2.8.1  The form of organization shall be a corporate form (company form) 
+clearly segregating ownership rights and functional responsibilities. 
+Functional  responsibility  shall  be  left  to  competent  individual 
+specialists in the areas like like compliance, technology, operations, 
+funds management, risk and finance. Person so appointed shall be 
+registered  with 
+the 
+shareholders, board of directors and the regulator. If the entity is in 
+to  multiple  businesses,  each  business  should  have  a  principal 
+officer  who  shall  be  accountable  to  the  shareholders,  board, 
+regulator  and  clients.  The  board  of  directors  should  have 
+appropriate representation of independent and executive directors.  
+
+regulator  and  be  accountable 
+
+the 
+
+to 
+
+ 
+2.8.2  Capital  Market  Intermediaries  are  increasingly  depending  up  on 
+Technology  for  delivery  of  quality  service.    Technology  should  be 
+given  a  legal  status  and  receive  appropriate  level  of  regulatory 
+focus. Use of technology in discharge of regulatory obligations like 
+disclosures  to  the  investors,  regulators,  etc  by      communication 
+through website; emails; delivery of services using electronic forms 
+transaction  processing,    use  of  non-human  forms  of    point  of 
+service  like  kiosk,  internet  facility,  etc  should  be  recognized  and 
+well 
+the  business  entities  can  avoid 
+investments in paper based processes. 
+
+regulated  such 
+
+that 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+2.8.3  Every  intermediary  shall  set  up  operational  and  compliance 
+manuals  for  each  line  of  activity;  set  up  operations  and  internal 
+audit  processes  with  a  focus  on  risk  management  and  risk 
+mitigation.  The  persons  in  charge  of  these  functions  shall  be 
+adequately senior in the hierarchy and shall be answerable for their 
+functions to the board of directors and regulator. 
+
+2.8.4  All  those  employees  who  are  named  as  key  or  accountable  to 
+regulator and shareholders shall be qualified in some form and be 
+under  the  regulatory  jurisdiction.  It  may  be  in  the  form  of 
+certification  or  registration  with  regulator.  This  will  help  regulator 
+and intermediary to expect a minimum standard of competence for 
+the 
+  SEBI  may  evolve  appropriate 
+qualification/registration norms for the same. 
+
+line  of  activity. 
+
+ 
+
+******************** 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 54 of 55 
+
+ 
+
+ 
+
+ 
+
+CORE COMMITTEE SUBGROUPS REPORTS                                                                     Page 55 of 55 
+
+

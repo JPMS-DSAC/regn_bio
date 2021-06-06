@@ -1,0 +1,165 @@
+
+ 
+Jul 28, 2011
+
+PR No.:  
+119/2011
+
+
+The Board met today in Mumbai and took the following major decisions:
+ (I)     Proposed new Takeover Regulations based on recommendations of Takeover Regulations Advisory Committee
+ 
+The Board considered the Report of the Takeover Regulations Advisory Committee (TRAC) and accepted most of the recommendations of TRAC. Major among them include the following:
+ a)     Initial trigger threshold increased to 25 % from the existing 15 %.
+b)     There shall be no separate provision for non-compete fees and all shareholders shall be given exit at the same price.
+c)      In cases of competitive offers, the successful bidder can acquire shares of other bidder(s) after the offer period without attracting open offer obligations.
+d)     Voluntary offers have been introduced subject to certain conditions.
+e)     A recommendation on the offer by the Board of Target Company has been made mandatory.
+As regards definition of control and offer size, the Board decided as under:
+f)        Existing definition of control shall be retained as it is.
+ g)     The minimum offer size shall be increased from the existing 20 % of the total issued capital to 26 % of the total issued capital.
+ 
+The Board did not accept the recommendation of TRAC to provide for delisting pursuant to an offer and proportionate acceptance.
+ 
+(II) Review of certain policies relating to mutual funds – Amendment to SEBI (Mutual Funds) Regulations, 1996
+ 
+a)     Transaction charges
+ 
+In order to help Mutual Funds penetrate into retail segment in smaller towns, the distributor would be allowed to charge Rs. 100 as transaction charge per subscription. No charge can be made for investments below Rs. 10,000. An additional amount of Rs. 50 can be charged to first time Mutual Fund investor.  However, there would be no transaction charge on (a) transactions other than purchases/ subscriptions relating to new inflows, and (b) direct transactions with the Mutual Fund. For SIPs, the transaction charges can be recovered in 3 or 4 instalments. The transaction charges are in addition to the existing eligible commissions permissible to the distributors.
+b)     Permissible activities that can be carried out by Asset Management Companies (AMCs)
+ 
+AMCs to manage and advise pooled assets such as offshore funds and pension funds etc. that are broad based, provided there is no conflict of interest due to differential fee structure .AMCs will continue to deal with Portfolio Management Services (PMS) under the current arrangements.
+ 
+c)      Transparency of information
+Guidelines for advertisements will be suitably modified to include point to point return on a standard investment of Rs. 10,000 and other performance related disclosures. More granular disclosure of Assets Under Management (AUM) figures giving break up of debt/equity/balanced and also geography wise disclosures. Besides, the scheme performance will have to be disclosed against Sensex or Nifty or Government of India debt paper in addition to scheme benchmark. Performance of fund manager across all schemes managed by the same fund manager will have to be disclosed.
+d)     Distributors of Mutual Fund Products
+As a first step towards regulating distributors of Mutual Funds, selected distributors will be regulated through Asset Management Companies (AMCs) by putting in place the due diligence process to be conducted by AMCs. The due diligence process may be initially applicable for those distributors satisfying one or more of the following criteria:
+
+Multiple point presence in more than 20 locations
+AUM raised over Rs.100 crore across industry in the non institutional category but including high networth individuals (HNIs)  
+Commission received of over Rs. 1 crore p.a. across industry
+Commission received of over Rs. 50 lakh from a single mutual fund
+
+It is estimated that this measure will cover distributors handling about half of the total AUM in the industry.
+AMCs shall disclose the commissions paid to the distributors meeting one or more of the above criteria and AMFI will disclose the aggregate amount of commissions paid to such distributors by the MF industry.
+e)     Common Account Statement
+ 
+One common account statement will be dispatched every month for investors who have transacted in any of his folios across the mutual funds. The statement shall also contain the disclosure related to the transaction charge paid to the distributor. One common account statement will be dispatched to the investor every half year for all non-transacted folios.
+f)        Green initiative and cost effective measures
+In case of unit holders whose email ids are registered for receiving Annual Reports by email, the scheme annual reports would be sent by email. In case of unit holders whose email ids are not registered with the Mutual Fund and the investors who request for hard copies notwithstanding their registration of email ids, the AMCs shall continue to send hard copies of scheme annual reports.
+ 
+g)     All the Operations of a Mutual Fund to be located in India
+ 
+All the operations of a Mutual Fund including trading desks, unit holder servicing, and investment operations shall be based in India. Mutual Funds having any of their operations abroad, will be required to immediately confirm that they shall wind up the same and bring them onshore within a period of one year from the notification amending the Regulations. The period is extendable by another one year on SEBI’s discretion.
+ 
+h)      Infrastructure Debt Fund Schemes
+ 
+
+The SEBI Board approved a framework for setting up of Infrastructure Debt Funds (IDFs) through amendment of SEBI (Mutual Funds) Regulations, 1996 by inserting Chapter VI-B, on Infrastructure Debt Fund Schemes.  
+
+ 
+
+ The IDFs can be set up by any existing mutual fund. Applications from companies which have been carrying on activities or business in infrastructure financing sector for a period of not less than five years and fulfill the eligibility criteria provided in Regulation 7 of Mutual Fund Regulations will also be considered for setting up Mutual Funds exclusively for the purpose of launching IDF Scheme. Salient features of the IDF Scheme are:
+
+ 
+a)  The IDF would invest 90 per cent of its assets in the debt securities of infrastructure companies or SPVs across all infrastructure sectors. Minimum investment into IDF would be Rs. 1 crore with Rs. 10 lakh as minimum size of the unit. The credit risks associated with underlying securities will be borne by the investors and not by IDF.
+b) A firm commitment from strategic investors to the extent of Rs. 25 crore.
+c)   An infrastructure debt fund scheme shall be launched either as close-ended scheme maturing after more than five years or Interval scheme with lock-in of five years.
+d)  Fully paid up units of infrastructure debt fund schemes shall be listed on a recognized stock exchange.
+e)  An Infrastructure debt fund shall have minimum 5 investors and no single investor shall hold more than 50% of net assets of the scheme
+f)     Mutual Funds may disclose indicative portfolio of infrastructure debt fund scheme to its potential investors disclosing the type of assets the mutual fund will be investing. Mutual Funds launching Infrastructure debt fund scheme may issue partly paid units to the investors.
+(III)       Harmonization and Rationalization of KYC in Securities Market
+                                                                                       
+Currently, Know Your Client (KYC) is done by each SEBI regulated intermediary viz. Broker, Depository Participant (DP), Mutual Fund, Portfolio Manager etc. This results in duplication of work, wastage of recordkeeping space and is a burden on the intermediaries and even more so to the client seeking to make investments. Towards the purpose of ensuring that the initial KYC including the identification of beneficial ownership should be undertaken only once and the client should not be made to repeatedly fill up forms and submit documents when it wishes to open an account with another intermediary registered with SEBI, the SEBI Board has passed a proposal of setting up a mechanism wherein one or more SEBI regulated KYC Registration Agency (hereinafter referred to as “KRA”) will undertake KYC at the stage of account opening for all clients in the securities market through SEBI Regulated Points of Service (PoS). The change in methodology of KYC process does not compromise PML Rules and FATF Standards; rather the proposed change will strengthen the uniformity of the conduct of KYC process.
+The Unique Identification Document or Aadhaar number will be included in the eligible documents that can be presented as an identification of the customer, as part of the KYC process.
+KRAs between them would have provision of inter-connectivity and secure data transmission link with each intermediary that relies upon its data. All other intermediaries can electronically rely upon KYC data of the KRA during the course of opening the account of their client while bearing full responsibility for the KYC process as per PML Rules. The reliance upon services of a KRA performing elements of the KYC function will be determined by each intermediary, i.e. whether to opt for a tie up with the KRA and avail of the benefits of the KRA process or not. 
+ 
+The benefits of a KRA system include the execution of a single and uniform KYC procedure across the securities market, saving of record keeping space, centralized storage and dissemination of data and saving the time and burden of procedure for clients by undertaking this procedure of identification only once, subject to periodic update. SEBI will frame appropriate Regulations to give effect to the proposal approved by the SEBI Board.
+ 
+(IV) Amendment to SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2009
+ 
+a)     Review of Bid-cum-Application Form and Abridged Prospectus
+ 
+In order to ensure that materially important information is provided in a structured, logical  and user-friendly manner to aid the investor in making his investment decision, SEBI has revised the structure, design, format, contents and order of information of Bid-cum-Application Form and Abridged Prospectus. This has been done based on recommendations of group constituted by SEBI, comprising cross section of market participants. The revised Abridged Prospectus shall contain company/ project specific information and highlight materially relevant disclosures such as peer comparison of important financial ratios and risk factors.
+ 
+Information which is of generic nature and not specific to the issuer shall now be brought out in the form of a General Information Document (GID) in English and Hindi or Regional Language(s) and circulated along with the Application form.
+Upon implementation, the following benefits accrue:
+ 
+
+Ease of handling the application/ abridged prospectus as it is booklet form of A4 size
+Approximately 50% reduction in number of pages 
+Rationalisation and logical sequencing of information to make it more readable and investor friendly, highlighting material disclosures and availability of information regarding price
+Standardisation of form and single form for ASBA/ Non-ASBA
+100% increase in space for key data fields in the application form, facilitating easier form filling
+Track record of BRLMs
+
+ 
+b)     Eligibility criteria for companies coming out with IPOs through the ‘profitability track record’
+ 
+In case of a pure ‘Offer for Sale’, the requirement that not more than 50% of the ‘net tangible assets’ shall be held as ‘monetary assets’, shall not be applicable.
+The requirement of track record of distributable profits for at least three out of immediately preceding five years shall be complied with both on stand-alone as well as consolidated basis.
+ 
+c)      Disclosure of voting results by listed entities
+ 
+In order to ensure wider dissemination of information regarding voting patterns which gives a better picture of how the meetings are conducted and how the different categories of investors have voted on a resolution, listed entities shall disclose in a prescribed format, voting results/ patterns on their websites and to the exchanges within 48 hours from the conclusion of the concerned shareholders’ meeting. To start with, it will be applicable to top 500 listed companies and based on experience gained to be extended to all listed companies after a period of one year.
+ 
+d)     Mode of supplying Annual Reports by listed entities to shareholders
+As part of green initiative to contain the environmental cost incurred by listed entities in supplying hard copies of full annual reports to all shareholders, it has been decided that listed entities shall supply:
+
+soft copies of full annual reports to all those shareholders who have registered for the same
+hard copy of abridged annual reports to others
+   hard copies of full annual reports to those shareholders who request for the same 
+
+ 
+e)     Disclosure of quarterly financial results by listed companies
+ 
+In order to give a better comparative picture of the quarterly financial results, listed companies shall disclose figures in respect of immediately preceding quarter as well in addition to the existing requirements.
+ 
+Companies which opt to submit audited annual results within 60 days of end of financial year in lieu of last quarter results shall also submit the last quarter results along with the audited annual results.
+ 
+(V) Simplifying and rationalizing Trading Account Opening Process
+                               
+Board has approved the simplification and rationalization of trading account opening process with stock brokers.
+SEBI has been getting feedback from the investors that the present procedure is very cumbersome and requires a very large number of signatures on different documents.  The client has to enter into a number of agreements depending on his trading preferences.
+ 
+Salient features of simplification are as follows:
+a)     All client-broker agreements shall be replaced with the ‘Rights and Obligations’ documents, which shall be mandatory and binding on all parties.
+b)     The number of client signatures will reduce substantially. In most of the cases, signatures will be required only on one document i.e.  Account Opening Form. .
+c)      The cost of compliance for both clients and brokers will come down.
+ 
+Further, investor will get additional information from the stock broker at the time of account opening process, as under:
+ 
+a)     The stock broker will give a tariff sheet specifying various charges, including brokerage, payable by the clients.
+b)     A list of ‘Do’s & Don’ts’ while trading in the market as prescribed by SEBI.
+c)      Information on point of contact for investors within the stock broking firm, including contact details of senior officials and information related to arbitration procedures.
+ 
+Necessary amendments to the SEBI (Stock Brokers and Sub Brokers) Regulations, 1992 have been approved by the Board to implement the new procedures.
+ 
+(VI) Due diligence records to be maintained by merchant bankers
+ 
+The merchant bankers are required to exercise due diligence in the pre-issue and post-issue activities of issue management, takeover, buyback and delisting of securities. At present, they are not required to maintain any records as to how they exercised due diligence. As a result, the merchant bankers follow different standards of compliance and the level of due diligence cannot be checked during inspection of merchant bankers by SEBI.
+ 
+Board approved amendment to SEBI (Merchant Bankers) Regulations, 1992, requiring merchant bankers to maintain records and documents pertaining to due diligence exercised in pre-issue and post-issue activities of issue management, takeover, buyback and delisting of securities.
+ 
+ 
+(VII) Review of net worth for Registrars to an Issue and Share Transfer Agents
+ 
+The net worth prescribed for Registrars to an Issue and Share Transfer Agents (RTAs) has not been reviewed since 1993. Considering the present day capital needs for setting up a RTA business with adequate infrastructure, it has become necessary to increase the requirement of net worth. Accordingly, the Board approved amendments to SEBI (Registrars to an Issue and Share Transfer Agents) Regulations, 1993 stipulating the net worth requirement of RTAs as follows:
+ 
+           (i) Category I RTAs - Rs. 50 lakh
+           (ii) Category II RTAs - Rs. 25 lakh
+ 
+Board also approved to grant a time period of three years to existing RTAs to increase their net worth.
+ 
+(VIII) Amendment to the SEBI (Prohibition of Insider Trading) Regulations, 1992
+The Board approved amendment to the SEBI (Prohibition of Insider Trading) Regulations, 1992 mandating certain disclosures to be made by promoters and persons who are part of promoter group of a listed company. The amendment relates to initial disclosures relating to their shareholding at the time of becoming promoter or part of promoter group; and also continuous disclosures whenever there is a change in their holdings exceeding Rs. 5 lakh in value or 25,000 shares or 1% of total shareholding or voting rights, whichever is lower.
+Presently, similar disclosures are required to be made by the directors and officers of the company.
+ (IX) Decentralisation of work to Regional Offices and opening of Local Offices
+ 
+The Board approved the proposal relating to strengthening of Regional Offices (ROs) and opening of new Local Offices (LOs) at state capitals in phased manner. Head Office will continue to deal with policy and important operational issues. Additional operational work will be delegated to Regional Offices. It is proposed to open new Western Regional Office I at Mumbai while the Western Regional Office at Ahmedabad will be renamed as Western Regional Office II. It has been decided to open three local offices at Hyderabad, Guwahati and Lucknow in phase I. The work relating to investor grievances, investor assistance and education shall be important focus area of ROs and LOs. On matters of registration / supervision of intermediaries, redressing investor grievance, investor assistance and education and clearance of offer documents etc. enhanced responsibility and powers would be delegated to ROs.
+ 
+(X) NSDL Matter
+ 
+Pursuant to the order dated May 09, 2011 of the Hon'ble Supreme Court, the Board decided to release the orders of the Two member Committee, in the matter of IPO irregularities and DSQ software, to NSDL for compliance. 
+ 
+

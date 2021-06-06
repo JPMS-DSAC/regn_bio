@@ -1,0 +1,185 @@
+Guidance Note on SEBI (Prohibition of Insider Trading) Regulations, 2015. 
+
+ 
+[August 24th, 2015] 
+
+ 
+SEBI  (Prohibition  of  Insider  Trading)  Regulations,  2015  ("the  Regulations")  were 
+notified vide notification dated 15th January, 2015. The regulations came into effect from 
+May  15th,  2015.  Subsequently  SEBI  received  certain  queries  from  the  market 
+participants seeking guidance on the interpretation of some provisions of the Regulations. 
+Under  regulation  11  of  the  Regulations,  SEBI  may  provide  guidance  to  the  market  to 
+remove  any  difficulties  in  the  interpretation  or  application  of  the  provisions  of  these 
+regulations.  The  queries  received  and  the  guidance  sought  is  detailed  below  for  the 
+guidance of market participants:- 
+ 
+ESOPS: 
+ 
+1.  
+Does the contra trade restriction (for a period not less than six months) under 
+clause 10 of Schedule B of the Regulations also apply to the exercise of ESOPs and the 
+sale of shares so acquired? 
+ 
+Guidance:  Exercise  of  ESOPs  shall  not  be  considered  to  be  “trading”  except  for 
+thepurposes  of  Chapter  III  of 
+the  Regulations.  However,  other  provisions  of 
+theRegulations shall apply to the sale of shares so acquired. 
+ 
+For Example: 
+ 
+(i)  If  a  designated  person  has  sold/  purchased  shares,  he  can  subscribe  and  exercise 
+ESOPs at any time after such sale/purchase, without attracting contra trade restrictions.  
+ 
+(ii)  Where  a  designated  person  acquires  shares  under  an  ESOP  and  subsequently 
+sells/pledges those shares, such sale shall not be considered as contra trade, with respect 
+to exercise of ESOPs. 
+ 
+(iii)  Where  a  designated  person  purchases  some  shares  (say  on  August  01,  2015), 
+acquires  shares  later  under  an  ESOP  (say  on  September  01,  2015)  and  subsequently 
+sells/pledges (say on October 01, 2015) shares so acquired under ESOP, the sale will not 
+be a contra trade but will be subject other provisions of the Regulations, however, he will 
+not  be  able  to  sell  the  shares  purchased  on  August  01,  2015  during  the  period  of  six 
+months from August 01, 2015.  
+ 
+(iv)  Where  a  designated  person  sells  shares (say  on  August  01,  2015),  acquires  shares 
+later under an ESOP (say on September 01, 2015) the acquisition under ESOP shall not 
+be  a  contra  trade.  Further,  he  can  sell/pledge  shares  so  acquired  at  anytimethereafter 
+without  attracting  contra  trade  restrictions.  He,  however,  will  not  be  able  to  purchase 
+
+ Whether contra trade is allowed within the duration of the trading plan? 
+
+further shares during the period of six months from August 01, 2015 whenhe had sold 
+shares. 
+ 
+CONTRA TRADE: 
+ 
+2.  
+In  case  an  employee  or  a  director  enters  into  Future  &  Option  contract  of 
+Near/Mid/Far month contract, on expiry will it tantamount to contra trade? If the scrip 
+of the company is part of any Index, does the exposure to that index of the employee or 
+director also needs to be reported?  
+ 
+Guidance: Any derivative contract that is cash settled on expiry shall be considered to be 
+a contra trade. Trading in index futures or such other derivatives where the scrip is part of 
+such derivatives, need not be reported.  
+ 
+3. 
+ 
+Guidance: Any trading opted by a person under Trading Plan can be done only to the 
+extent and in the manner disclosed in the plan, save and except for pledging of securities 
+(Refer question 6). 
+ 
+4.   Whether the restriction on execution of contra trade in securities isapplicable in 
+case of buy back offers, open offers, rights issues FPOs etc by listedcompanies? 
+ 
+Guidance:Buy back offers, open offers, rights issues, FPOs, bonus, 1[exit offers]etc. of a 
+listed company are available to designated persons also, and restriction of ‘contra-trade’ 
+shall not apply in respect of such matters.  
+ 
+5.   Whether restriction on execution of contra trade is applicable only todesignated 
+persons of a listed company or whether it would also apply to thedesignated employees 
+of  market  intermediaries  and  other  persons  who  are  requiredto  handle  UPSI  in  the 
+course of business operations? 
+ 
+Guidance: The code prescribed by the Regulations is same for listed companies, market 
+intermediaries  and  other  persons  who  are  required  to  handle  UPSI  in  the  course  of 
+business  operations.  Therefore,  restrictions  with  regard  to  contra  trade  forming  part  of 
+clause 10 of code of conduct shall apply to all according to the Regulations. 
+ 
+ 
+
+ 
+
+                                                            
+1 Inserted by Press note No. 77/2016 dated 12.04.2016w.e.f. 17.02.2016. 
+
+(a)  Whether  SEBI's  intent  is  to  prohibit  creation  of  pledge  or  invocation  of 
+
+PLEDGE: 
+ 
+6.  
+pledge for enforcement of security while in possession of UPSI? 
+(b)  Whether  creation  of  pledge  or  invocation  of  pledge  is  allowed  when  trading 
+window is closed? 
+ 
+Guidance:  Yes.  However,  the  pledgor  or  pledgee  may  demonstrate  that  the  creationof 
+pledge or invocation of pledge was bona fide and prove their innocence underproviso to 
+sub-regulation (1) of regulation 4 of the Regulations. 
+ 
+7.   What should be the value of the pledge / revoke transaction for the purpose of 
+disclosure? Is it the market value on date of the pledge / revoke transaction or is it the 
+value at which the transaction has been carried out between the pledgor and pledgee? 
+For  instance,  if  the  pledgor  has  availed  a  loan  of  Rs  10  Lacs  against  which  he  has 
+pledged shares worth Rs 15 Lacs, would the transaction value be Rs 10 Lacs or Rs 15 
+Lacs. 
+ 
+Guidance: For the purpose of calculation of threshold for disclosures relating topledge 
+under  Chapter  III  of  the  Regulations,  the  market  value  on  the  date  ofpledge/revoke 
+transaction should be considered. In the above illustration, the value oftransaction would 
+be considered as fifteen lakh rupees. 
+ 
+MISCELLANEOUS: 
+ 
+8.   Who will be approving authority for trades done by the Compliance Officer or 
+his immediate relatives, as Insiders?  
+ 
+Guidance: The board of directors of the company shall be the approving authority insuch 
+cases and may stipulate such procedures as are deemed necessary to ensurecompliance 
+with these regulations. 
+ 
+9.   Whether separate code of conduct can be adopted for listed company and each 
+of intermediaries in a group? 
+ 
+Guidance: In case of a group, separate code may be adopted for listed company andeach 
+of intermediaries, as applicable to the concerned entity. 
+ 
+10.   Whether  Chief  investor  relations  officer  will  also  be  responsible  along  with 
+compliance officer for not disseminating information or non-disclosure of UPSI?  
+ 
+Guidance:  Regulation  2  (c)  clearly  provides  the  functions  and  responsibilities  of 
+thecompliance  officer.  Specific  responsibilities 
+to  deal  with  dissemination  of 
+
+information and disclosure of unpublished price sensitive information are given to Chief 
+Investor Relations Officer (CIRO) under clause 3 of Schedule A.  
+
+It is company’s discretion to designate two separate persons as CIRO and Compliance 
+Officer, respectively for fulfilling specified responsibilities. In cases where both CIRO 
+and  CO  have  been  designated  for  overlapping  functions,  they  shall  be  jointly  and 
+severally responsible.  
+
+11.  If a spouse is financially independent and does not consult an insider while taking 
+trading decisions, is that spouse exempted from the definition of ‘immediate relative’?  
+
+Guidance: A spouse is presumed to be an ‘immediate relative’, unless rebutted so. 
+
+2[12.  Whether  the  requirement  to  maintain  Structured  Digital  Database  under 
+Regulation 3(5) is applicable on intermediaries and fiduciaries 
+
+Guidance : The requirement to maintain structured digital database under Regulation 
+3(5), containing the names of such persons  or entities with whom  UPSI is shared, is 
+applicable to listed companies, and intermediaries and fiduciaries who handle UPSI of 
+a listed company in the course of business operations. 
+
+Investment Company  
+
+13. What is the scope of the term ‘investment company’ as mentioned in Regulation 
+9(4) (iii)? 
+
+Guidance  :  The  regulation  9  (4)  (iii)  intends  to  include  only  those  non-individual 
+corporate promoters of intermediaries or fiduciaries as designated person, whose main 
+object or principal activity, is investing in securities  of other companies. For e.g. if the 
+promoter  of  a  broking  entity  is  a  Bank,  then  such  promoter  shall  not  be  specified  as 
+designated person to be covered by the code of conduct of the intermediary. However, 
+if the promoter of a broking entity is an investment company which holds investments 
+in various companies, then such an entity shall be specified as designated person to be 
+covered by the code of conduct of the intermediary.] 
+
+ 
+
+********** 
+
+                                                           
+2 Inserted on 5th July, 2019. 
+
+

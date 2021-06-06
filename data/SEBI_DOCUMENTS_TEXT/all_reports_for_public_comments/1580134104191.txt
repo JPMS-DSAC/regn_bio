@@ -1,0 +1,4967 @@
+ 
+
+ 
+
+Report of the Working Group on Related Party Transactions  
+
+Background 
+
+SEBI constituted a Working Group in November 2019 to review the policy space pertaining to 
+related  party  transactions  under  the  Chairmanship  of  Mr.  Ramesh  Srinivasan,  Managing 
+Director & CEO, Kotak Mahindra Capital Company Limited. The Working Group comprised of 
+members  from  PMAC  including  persons  from  the  Industry,  Intermediaries,  Proxy  Advisors, 
+Stock Exchanges, Lawyers, Professional bodies etc. 
+
+The terms of reference of the Working Group were to make recommendations to SEBI on the 
+following issues: 
+
+Review the policy space relating to related party transactions, including the following: 
+(a) 
+(b) 
+(c) 
+
+Definition of “related party” and “related party transactions”; 
+Thresholds for classification of “related party transactions” as material; and 
+Process followed by Audit Committee for approval of related party transactions. 
+
+Review  the  provisions  relating  to  related  party  transactions  in  the  SEBI  (Listing 
+Obligations  and  Disclosure  Requirements)  Regulations,  2015  vis-à-vis  the  Indian 
+Accounting Standards and the Companies Act, 2013. 
+
+Specify a format for periodic disclosure of related party transactions by listed entities.  
+
+Recommendations  for  strengthening  the  monitoring  and  enforcement  of  regulatory 
+norms related to related party transactions. 
+ 
+Any  other  matter,  as  the  Working  Group  deems  fit  pertaining  to  related  party 
+transactions. 
+
+ 
+
+ 
+
+ 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+ 
+
+The Working group has submitted its report on January 22, 2020.  
+
+Public Comments: 
+
+In order to take into consideration the views of various stakeholders, comments are sought 
+from the public on the aforesaid report placed alongside in the following format: 
+
+Name of the person/entity 
+Sr. No. 
+
+Recommendation   
+in      the report to 
+which 
+the 
+comment 
+pertains 
+
+Comment 
+
+Rationale  for 
+the comment 
+
+ 
+
+ 
+
+ 
+
+ 
+
+any 
+
+Revisions to    the 
+recommendations, 
+if 
+(Please 
+provide  revisions 
+to amendments as 
+well, if possible) 
+ 
+
+Comments  may  be  sent  by  email 
+to  Shri  Pradeep  Ramakrishnan,  GM  at 
+pradeepr@sebi.gov.in,  Ms.Ishita  Sharma,  Manager  at  ishitas@sebi.gov.in  and  Ms.  Sonal 
+Pednekar, Manager at sonalp@sebi.gov.in no later than February 26, 2020.  
+
+Issued on: January 27, 2020 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+REPORT OF THE WORKING GROUP 
+
+ON 
+
+RELATED PARTY TRANSACTIONS 
+
+ 
+
+JANUARY 22, 2020 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table of Contents  
+
+ 
+
+Preface ................................................................................................................................. 1 
+
+Acknowledgements ............................................................................................................ 2 
+
+Chapter 1: Introduction ...................................................................................................... 3 
+
+A. 
+
+I. 
+
+II. 
+
+III. 
+
+B. 
+
+I. 
+
+II. 
+
+C. 
+
+The Working Group on Related Party Transactions ............................................. 3 
+
+Composition of the Working Group ....................................................................... 3 
+
+Terms of Reference of the Working Group ............................................................ 3 
+
+Approach ................................................................................................................. 4 
+
+Related Party Transactions- Regulatory Framework ............................................ 4 
+
+Legislative History ................................................................................................... 5 
+
+Need for Review of RPT Regulatory Framework ................................................... 8 
+
+Recommendations of the Working Group ............................................................. 8 
+
+Chapter 2: Definitions ....................................................................................................... 10 
+
+I. 
+
+II. 
+
+‘Related Party’ ....................................................................................................... 10 
+
+‘Relative’ ................................................................................................................ 13 
+
+III. 
+
+‘Related Party Transaction’ .................................................................................. 13 
+
+Chapter 3: Approval Requirements and Materiality Thresholds .................................... 15 
+
+I. 
+
+II. 
+
+Approval Mechanism for RPTs under the LODR and Companies Act ............... 15 
+
+Materiality Thresholds with respect to Prior Approvals for RPTs...................... 24 
+
+III. 
+
+Process followed by the Audit Committee for Approval of RPTs ...................... 27 
+
+Chapter 4: Disclosure Requirements............................................................................... 33 
+
+I. 
+
+II. 
+
+Information to be provided to Shareholders for consideration of RPTs ........... 33 
+
+Format for Reporting of RPTs to the Stock Exchanges ...................................... 36 
+
+Chapter 5: Strengthening the Monitoring and Enforcement of Regulatory Norms relating 
+to Related Party Transactions .......................................................................................... 40 
+
+Annexure A ........................................................................................................................ 42 
+
+1. 
+
+2. 
+
+3. 
+
+Definition of ‘Related Party’ .................................................................................. 42 
+
+Section 188 of the Companies Act ....................................................................... 43 
+
+Definition of ‘promoter’ and ‘promoter group’ under the ICDR .......................... 45 
+
+Appendix – I : Consolidated List of Recommendations ................................................. 48 
+
+Appendix – II: Prescribed Disclosure Format ................................................................. 58 
+
+ 
+
+ 
+
+ 
+
+Preface  
+
+ 
+
+I am grateful to the SEBI Chairman, Mr. Ajay Tyagi, for entrusting the Working Group 
+with  this  responsibility  and  to  the  SEBI  team  led  by  Mr.  Amarjeet  Singh,  Executive 
+Director, for his valuable direction and input. The completion of this Working Group’s 
+deliberations and this report in a short span of approximately six weeks was possible 
+due  to  the  active  participation  and  wholehearted  support  of  all  the  members  of  the 
+Working  Group.  I  also  take  this  opportunity  to  express  my  gratitude  to  my  fellow 
+Working  Group  members  for  their  valuable  time,  input  and  contribution to  many 
+deliberations over the past few weeks.   
+ 
+I would like to thank representatives from corporates and institutional investors who 
+have  shared  their  experience,  perspective  and  suggestions  with  respect  to  related 
+party transactions. 
+ 
+India has a strong capital market with high standards of governance. Over the last few 
+years, India has enjoyed increasing comfort with global investors both from a growth 
+perspective as well as from a governance perspective. 
+ 
+The corporate governance standards have continuously been strengthened and there 
+is increasing focus on the quality of disclosures being made by listed entities.  While it 
+is recognised that related party transactions can per se have sound economic rationale 
+and can be value enhancing, there have been concerns about some such transactions 
+being questionable or against the interest of minority shareholders or even bordering 
+on  fraud  or  ill-intent,  particularly  in  the  recent  past.    There  have  also  been  cases 
+observed  where  an  entity  has  complied  with  the  letter  of  the  law,  while  ignoring  its 
+spirit. The prevalent use of complex group structures and subsidiaries for related party 
+transactions,  particularly  with  unlisted  entities,  has  increased  concerns  such  as 
+siphoning of funds, money laundering and round tripping. 
+ 
+It  is  with  this  background  that  SEBI  set  up  a  Working  Group  on  Related  Party 
+Transactions.  The  Working  Group  has  taken  a  comprehensive  look  at  the  current 
+requirements  pertaining  to  related  parties  and  related  party  transactions  by  listed 
+entities and made its recommendations inter-alia taking into account the following:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ramesh Srinivasan 
+Chairman, Working Group on Related Party Transactions 
+January 22, 2020 
+
+enhancing transparency;   
+improving quality of information that investors have access to;   
+better approval processes by listed entities; and  
+more robust enforcement mechanism.  
+
+ 
+
+1 
+
+ 
+
+ 
+
+Acknowledgements 
+
+The Working Group expresses its gratitude to Mr. G. Mahalingam, Mr. Amarjeet Singh, 
+Ms. Barnali Mukherjee, Mr. Pradeep Ramakrishnan, Ms. Ishita Sharma and Ms. Sonal 
+Pednekar from SEBI.   
+ 
+Special thanks are due to the S&R Associates team  including Ms. Tanya Aggarwal, 
+Ms. Aditi Agarwal and Ms. Raveena Dhawan for their assistance with the report. 
+ 
+Special thanks are also due to Ms. Gesu Kaushal and Mr. Lohit Sharma from Kotak 
+Mahindra Capital Company Limited, Mr. Avishkar Naik, Mr. Lokesh Bhandari and Mr. 
+Ketul Jain from the National Stock Exchange of India Limited, Ms. Aditi Chandani and 
+Mr.  Varun  Krishnan  from  Stakeholders  Empowerment  Services  and  Mr.  Sivananth 
+Ramachandran from the CFA Institute, for providing their valuable input. 
+ 
+ 
+
+ 
+
+2 
+
+ 
+
+ 
+
+A. 
+ 
+
+I. 
+
+Chapter 1: Introduction 
+
+The Working Group on Related Party Transactions 
+
+Composition of the Working Group  
+ 
+
+The  Working  Group  to  discuss  related  party  transactions  (“Working  Group”)  was 
+constituted on November 4, 2019, with the following members:  
+
+ 
+
+S. 
+No. 
+
+Member Name 
+
+Organisation and designation 
+
+Capacity 
+
+ 
+
+ 
+
+ 
+1.    Mr. Ramesh 
+
+Srinivasan 
+
+2.    Mr. Amarjeet Singh 
+
+3.    Mr. Dolphy D’Souza 
+4.    Mr. J. N. Gupta 
+
+5.    Dr. Sridhar 
+
+Jayaraman* 
+
+Managing Director & CEO, Kotak 
+Mahindra Capital Company Limited 
+Executive Director, Securities and 
+Exchange Board of India 
+Partner, SRBC & Co. LLP 
+Co- Founder & Managing Director, 
+Stakeholders Empowerment Services 
+Confederation of Indian Industry  
+
+6.    Mr. Sandip Bhagat 
+7.    Mr. Khushro Bulsara*  BSE Limited  
+8.    Ms. Priya 
+
+Partner, S&R Associates 
+
+Subbaraman* 
+
+9.    Mr. Vidhu Shekhar 
+
+National Stock Exchange of India 
+Limited  
+Country Head (India), CFA Institute 
+
+ 
+
+Chairman 
+
+Member 
+
+Member 
+Member 
+
+Member 
+
+Member 
+Member 
+Member 
+
+Member 
+
+Terms of Reference of the Working Group  
+
+* As nominated by the respective organisation / industry body. 
+ 
+II. 
+ 
+With the aim of strengthening regulatory norms in relation to related party transactions 
+undertaken  by  listed  entities  in  India,  the  Working  Group  was  requested  to  make 
+recommendations on the following issues: 
+
+6. 
+
+7. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Review  the  policy  space  relating  to  related  party  transactions,  including  the 
+following: 
+
+(d) 
+ 
+(e) 
+
+ 
+(f) 
+
+Definition of “related party” and “related party transactions”; 
+
+Thresholds for classification of “related party transactions” as material; 
+and 
+
+Process  followed  by  Audit  Committee  for  approval  of  related  party 
+transactions. 
+
+Review the provisions relating to related party transactions in the SEBI (Listing 
+Obligations  and  Disclosure  Requirements)  Regulations,  2015  vis-à-vis  the 
+Indian Accounting Standards and the Companies Act, 2013. 
+
+3 
+
+ 
+
+8. 
+
+ 
+
+9. 
+
+Specify a format for periodic disclosure of related party transactions by  listed 
+entities.  
+
+Recommendations  for  strengthening  the  monitoring  and  enforcement  of 
+regulatory norms related to related party transactions. 
+ 
+
+10.  Any other matter, as the Working Group deems fit pertaining to related party 
+
+transactions. 
+
+Approach 
+
+ 
+The Working Group was requested to provide its recommendations in the context of 
+equity listed entities. 
+ 
+III. 
+ 
+The Working Group had five meetings over a period of one month with the first meeting 
+held on November 14, 2019 and the last on December 11, 2019. The Working Group 
+deliberated on each of the terms of reference in detail.  
+ 
+The Working Group reviewed case studies and empirical evidence wherever possible, 
+including international practices and feedback from stakeholders to reach a conclusion 
+on  the  various  issues  considered  by  it.    The  Working  Group  also  conducted  two 
+meetings  with  company  secretaries  and  institutional  investors  to  solicit  views  and 
+different perspectives from persons and organisations who deal with issues pertaining 
+to related party transactions.  The Report of the Working Group was placed before the 
+Primary Market Advisory Committee (“PMAC”) of SEBI in its meeting held on January 
+17,  2020  and  the  suggestions  made  by  the  PMAC  have  been  incorporated  in  this 
+Report. 
+ 
+This report (“Report”) sets out recommendations of the Working Group which include, 
+inter  alia,  amendments  to  certain  provisions  of  the  SEBI  (Listing  Obligations  and 
+Disclosure Requirements) Regulations, 2015 (“LODR”).  The Working Group  kept in 
+mind  the  objectives  of  investor  protection  as  well  as  ease  of  doing  business  while 
+setting  out  these  recommendations.  The  consolidated  draft  of  the  proposed 
+amendments to the LODR recommended by the Working Group is set out in Appendix-
+I to this Report. 
+
+ 
+
+B. 
+ 
+
+Related Party Transactions- Regulatory Framework 
+
+A related party transaction (“RPT”) is a transfer of resources, services or obligations 
+between two parties, irrespective of whether a price is charged or not.  With respect 
+to a corporate entity, related parties would broadly consist of its executives, directors 
+or promoters, who are responsible for making decisions for the corporate entity.  RPTs 
+are prone to abuse by persons in control of the decision making of the corporate entity 
+for personal gains and are therefore, strictly regulated under most regimes. RPTs, if 
+misused, will cause significant loss of value of the corporate entity entering into the 
+RPT. In India, where the existence of promoter driven and closely held companies is 
+prevalent, the risk of abuse by way of RPTs is relatively high.    
+ 
+
+4 
+
+ 
+
+RPTs have always been prevalent and have also contributed to the growth of business 
+for  entities  around  the  world.  Hence,  in  spite  of  the  possibility  of  misuse,  most 
+jurisdictions  have  permitted  RPTs,  albeit  with  certain  safeguards.  Therefore,  the 
+Working Group also recognised that there is no need to prohibit RPTs, although the 
+regulatory framework should be fortified to mitigate the possibility of abuse. 
+ 
+An  ideal  regulatory  framework  for  RPTs  should  encourage  value  enhancing  RPTs 
+while  penalizing  undesirable  RPTs.    In  his  article  on  ‘RPTs  and  Intragroup 
+Transactions’,  Jens  Damman  discusses1  three  strategies  that  legal  systems  may 
+adopt to deal with RPTs within corporate groups.  First, legal systems may use tax 
+and  other  incentives  to  induce  ownership  structures  which  reduce  the  costs  of 
+intragroup self-dealing. Secondly, legal systems may provide various protective rights 
+to  minority  shareholders  in  order  to  ensure  that  they  avoid  being  subject  to  an 
+exploitative controlling shareholder or promoter in the first place.  And thirdly, “once a 
+corporate group has emerged, individual transactions can be policed to ensure that 
+they do not enrich controlling shareholders at the expense of the minority.”  The last 
+two suggestions are within this Working Group’s scope and therefore the discussions 
+of the Working Group and this Report are focused around the same.       
+ 
+RPTs can be regulated either by way of a substantive review or a procedural review2.  
+Substantive review of RPTs would involve examining the terms of the transaction and 
+evaluating the fairness of the transaction.  Procedural review of RPTs would involve 
+judging the fairness of the transaction on the basis of the procedure through which the 
+RPT  was  executed.  For  this  purpose,  the  regulator  would  have  to  specify  the 
+procedure  for  obtaining  approvals  of  persons  considered  to  be  best  placed  to 
+objectively judge the RPT.  The Working Group recognised that ideally, review of RPTs 
+would need to be a combination of both, substantive and procedural review. 
+ 
+I. 
+ 
+The legal regime in India relating to RPTs has evolved over the years after taking into 
+consideration  recommendations  made  by  a  number  of  committees  such  as  the 
+Narayana Murthy Committee on Corporate Governance (2003), J.J. Irani Committee 
+on  Company  Law  (2005),  the  Company  Law  Committee  (2016)  and  the  Kotak 
+Committee on Corporate Governance (2017). 
+ 
+Requirements in relation to RPTs under the erstwhile listing agreement: 
+ 
+Several disclosure requirements with respect to RPTs were mandated under Clause 
+49  of  the  erstwhile  listing  agreement.  This  listing  agreement  referred  to  Accounting 
+Standard 18 for the definition of the term ‘related party transactions’.   
+ 
+
+Legislative History  
+
+                                                           
+1  
+
+Jens  Dammann,  ‘Related  Party  Transaction  and  Intragroup  Transactions’,  The  Law  and  Finance  of 
+Related Party Transactions edited by Luca Enriques and Tobias H. Troger (Cambridge University Press 
+2019)  
+
+ 
+2  
+
+Alessio  M.  Pacces,  ‘Procedural  and  Substantive  Review  of  Related  Party  Transactions’,  The  Law  and 
+Finance  of  Related  Party  Transactions  edited  by  Luca  Enriques  and  Tobias  H.  Troger  (Cambridge 
+University Press 2019) where the author compares the efficacy of a procedural review based regime with 
+a  substantive  review  based  regime  and  ultimately  makes  a  case  for  appointment  of  ‘non-controlling 
+shareholder dependent directors’ to better regulate related party transactions.   
+
+5 
+
+ 
+
+Under  the  erstwhile  listing  agreement,  the  audit  committee  of  a  listed  entity  was 
+required to review the disclosure of related party transactions in the annual financial 
+statements  with  the  management  of  the  entity  before  submission  to  the  board  of 
+directors  for  their  approval.  The  audit  committee  was  also  required  to  review  a 
+statement of significant RPTs submitted to it by the management. The erstwhile listing 
+agreement required a disclosure of materially significant RPTs that may have potential 
+conflict  with  the  interest  of  the  company  in  the  annual  report.  Pursuant  to  the 
+recommendations of the Narayana Murthy Committee on Corporate Governance, the 
+following disclosures in the quarterly compliance reports on corporate governance in 
+relation to RPTs were mandated in clause 49 of the erstwhile listing agreement:  
+ 
+“(A)  Basis of related party transactions 
+
+(i) 
+
+(ii) 
+
+A statement in summary form of transactions with related parties in the 
+ordinary course of business shall be placed periodically before the audit 
+committee. 
+Details of material individual transactions with related parties which are 
+not  in  the  normal  course  of  business  shall  be  placed  before  the  audit 
+committee. 
+
+(iii)  Details of material individual transactions with related parties or others, 
+which are not on an arm’s length basis should be placed before the audit 
+committee, together with Management’s justification for the same.” 
+
+ 
+Regulation of RPTs under the Companies Act, 1956: 
+ 
+The concept of related party transactions was not explicitly defined in the Companies 
+Act,  1956  (“1956  Act”).  However,  restrictions  were  imposed  on  certain  kinds  of 
+transactions with certain related parties by way of Sections 294, 294A, 294AA, 297 
+and 314 of the 1956 Act.     
+ 
+(i) 
+
+Under  the  1956  Act,  directors  of  companies  and  certain  other  persons  were 
+prohibited, without the consent of the board of directors, from entering into a 
+contract or arrangement for: 
+(a) 
+(b) 
+
+sale, purchase or supply of any goods, materials or services; or 
+underwriting  the  subscription  of  any  shares  in,  or  debentures  of,  the 
+company.  
+
+(ii) 
+
+(iii) 
+
+ 
+The  prohibition  in  (i)  above  applied  to  a  contract  entered  by  the  director,  his 
+relatives, a firm in which such director or the director’s relative is a partner, any 
+partner of such firm, or a private company of which the director is a member or 
+a director.   
+ 
+If  the  paid-up  share  capital  of  the  company  exceeded  Rs.1  crore,  the  prior 
+approval  of  the  Central  Government  was  also  required  in  addition  to  board 
+approval, prior to entering into such transactions.   
+ 
+
+(iv)  An  exemption  from  the  requirement  of  such  prior  approvals  was  granted  for 
+cash transactions at prevailing market prices, transactions undertaken regularly 
+by  the  company  and  in  case  of  a  banking  or  insurance  company  for  any 
+transaction in the ordinary course of business with any director, relative, firm, 
+partner or private company as described above.   
+
+6 
+
+ 
+
+(v) 
+
+ 
+Further, Section 314 of the 1956 Act prohibited the director of a company from 
+holding any office or place of profit under the company or any subsidiary of the 
+company (unless the remuneration received from such subsidiary in respect of 
+such  office  or  place  of  profit  was  paid  over  to  the  company  or  its  holding 
+company), without the consent of the shareholders of the company by way of a 
+special resolution.   
+ 
+
+(vi)  Additionally,  no  partner  or  relative  of  such  director,  no  firm  in  which  such 
+director, or a relative of such director, is a partner, no private company of which 
+such director  is a  director  or member,  and  no  director  or manager of  such a 
+private company was allowed to hold any office or place of profit carrying a total 
+monthly remuneration above a prescribed limit.  
+ 
+
+(vii)  A monetary threshold was prescribed for the monthly remuneration of the office 
+or  place of  profit  in  the  company,  above  which,  prior  approval  of  the  Central 
+Government was also required.  
+ 
+
+(viii)  Sections  294,  294A,  294AA  of  the  1956  Act  dealt  with  appointment  of  sole 
+selling  agents  and  prohibition  of  payment  of  compensation  to  sole  selling 
+agents for loss of office in certain cases. 
+
+ 
+Suggestions of the J.J. Irani Committee:  
+ 
+In 2005, the report of the J.J. Irani Committee on Company Law stated that it would 
+be appropriate to have a ‘shareholder approval and disclosure-based regime’ in India 
+for  regulating  transactions  in  which  directors  or  their  relatives  are  interested  as 
+opposed to the ‘government approval based regime’ as existing in 1956 Act.  The J.J. 
+Irani Committee further suggested that transactions between a company and director 
+or persons connected with the director with regard to the sale or purchase of goods, 
+materials or services above a certain materiality threshold should require mandatory 
+shareholders’ approval by way of a special resolution.  These recommendations were 
+later reflected in the Companies Act, 2013 (“Companies Act”).     
+ 
+Suggestions of the Kotak committee on corporate governance: 
+ 
+More  recently,  the  committee  on  corporate  governance  chaired  by  Mr.  Uday  Kotak 
+also dealt with the approval mechanisms and disclosure requirements in relation to 
+RPTs. Some of the suggestions of the committee that were accepted and incorporated 
+into the LODR are mentioned below:  
+
+Expanding the scope of the definition of ‘related party’ to include any person or 
+entity belonging to the promoter or promoter group of listed entity and holding 
+20% or more of the shareholding in the listed entity.  
+
+Requiring the policy on RPTs of the listed entity to include clear threshold limits, 
+as approved by the board of directors and for such policy to be reviewed and 
+updated every three years.  
+
+(i) 
+
+ 
+(ii) 
+
+ 
+
+7 
+
+ 
+
+(iii) 
+
+Introduction of a lower materiality threshold for transactions involving payments 
+made to related parties with respect to brand usage or royalty.  
+
+ 
+(iv)  Permitting  related  parties  of  the  listed  entity  to  cast  a  negative  vote  on 
+
+resolutions seeking approval for RPTs. 
+
+ 
+(v) 
+
+Requiring the listed entity to disclose its RPTs on a consolidated basis, for each 
+half-year,  in  accordance  with  the  formats  prescribed  under  the  relevant 
+accounting standards for annual results.  
+
+ 
+(vi)  Requiring disclosure of transactions of the listed entity with any person or entity 
+its  promoter/promoter  group  and  holding  10%  or  more 
+
+to 
+
+belonging 
+shareholding in the listed entity.       
+ 
+
+II.  Need for Review of RPT Regulatory Framework 
+
+ 
+
+Based on the above recommendations and inputs, the current framework of RPTs has 
+evolved.  However,  as  the  corporate  eco-system  evolves,  the  area  of  corporate 
+governance including that of Related Party Transactions requires periodic review. 
+ 
+While taking note of some of the recent issues in relation to RPTs, the Working Group 
+observed that one commonality in major corporate wrongdoings was that they were 
+allegedly  carried  out  by  persons  with  the  ability  to  influence  the  decisions  of  the 
+company.  Shell or apparently unrelated companies, controlled directly or indirectly, 
+by such persons were purportedly used to siphon off large sums of money through the 
+use of certain innovative structures, thereby circumventing the regulatory framework 
+of RPT.    
+ 
+Apart  from  use  of  circular  transactions,  companies  appear  to  have  diluted  or 
+circumvented the requirements under their policy on RPTs by procuring approvals for 
+continuous lending to group companies.   
+ 
+The  Working  Group  reviewed  the  approval  mechanisms  for  RPTs  and  revisited 
+disclosure  requirements  relating  to  information  relevant  for  the  persons  (including 
+shareholders,  where 
+the  approval  mechanism.  The 
+recommendations of the Working Group aim to strengthen the approval and disclosure 
+processes to assist the audit committee and shareholders in informed decision making 
+with respect to RPTs.   
+ 
+
+required) 
+
+involved 
+
+in 
+
+C. 
+
+Recommendations of the Working Group 
+ 
+
+The Working Group, based on its deliberations and the terms of reference, has made 
+recommendations as set out in the following chapters: 
+ 
+Chapter 2:    Definitions  
+ 
+Chapter 3:   Approval Requirements and Materiality Thresholds 
+ 
+
+8 
+
+ 
+
+Chapter 4:   Disclosure  Requirements  (including  information  to  be  provided  to 
+shareholders while seeking approval and periodic disclosure to the stock 
+exchanges)  
+
+ 
+Chapter 5:   Strengthening  the  Monitoring  and  Enforcement  of  Regulatory  Norms 
+
+relating to Related Party Transactions  
+
+ 
+
+ 
+
+ 
+
+9 
+
+ 
+
+ 
+
+Chapter 2: Definitions 
+
+‘Related Party’ 
+
+This chapter of the Report examines the present regulatory framework for identification 
+of  related  parties,  related party  transactions and associated terms and  sets  out  the 
+recommendations of the Working Group. 
+ 
+I. 
+ 
+The  definition  of  “related  party”  as  per  the  LODR3  includes  related  parties  defined 
+under both the Companies Act and the applicable accounting standards4.  The LODR 
+further deems any person or entity belonging to the promoter or promoter group of the 
+listed entity and holding 20% or more of the shareholding of the listed entity, to be a 
+related party.  
+ 
+Working Group deliberations and recommendations 
+ 
+The  Working  Group  deliberated  and  was  of  the  view  that  all  persons  or  entities 
+belonging to the ‘promoter’ or ‘promoter group’5, irrespective of their shareholding in 
+the listed entity, should be deemed to be related parties for the following reasons: 
+
+ 
+
+(i) 
+
+ 
+
+(ii) 
+
+ 
+(iii) 
+
+The Securities and Exchange Board of India (Issue of Capital and Disclosure 
+Requirements) Regulations, 2018 (“ICDR”) inter-alia defines a “promoter” as a 
+person  who  has  control  over  the  affairs  of  the  issuer,  directly  or  indirectly 
+whether as a shareholder, director or otherwise or in accordance with whose 
+advice,  directions  or  instructions  the  board  of  directors  of  the  issuer  is 
+accustomed  to  act.    Thus,  a  promoter  may  exercise  control  over  a  company 
+irrespective of the extent of shareholding.  
+
+The Working  Group  observed  that  the  definition  of  “related  party”  as  per  the 
+accounting  standards  includes,  inter-alia,  any  person  who  has  control  or 
+significant influence over an entity; however, the accounting standards define 
+these terms in a subjective manner.  Hence, there is a possibility that owing to 
+the subjectivity of the definition, certain promoters/promoter group entities with 
+less  than  20%  shareholding  in  the  listed  entity  may  not  get  categorised  as 
+related  parties.    Therefore,  transactions  with  such  persons  may  not  get 
+categorised as RPTs under the LODR.  
+
+The Working Group noted that control over a listed entity does not depend only 
+on  shareholding.  Further,  a  significant  percentage  of  Indian  businesses  are 
+structured as intrinsically linked group entities that operate as a single economic 
+unit, with the promoters exercising influence over the entire group. The Working 
+Group  observed  that  it  is  thus  not  uncommon  for  group  entities  to  regularly 
+engage  in  related  party  transactions  such  as  inter  corporate  loans,  cross 
+collateralization and significant influence arrangements; such inter-linkages in 
+
+                                                           
+3  
+ 
+4  
+
+Refer Annexure A for definitions of ‘related party’ under the Companies Act and Ind AS 24. 
+
+The applicable accounting standard for Indian companies complying with Indian Accounting Standards 
+(Ind AS) under Section 133 of the Companies Act is Ind AS 24. 
+
+ 
+5  
+
+Refer Annexure A for definitions of ‘promoter’ and ‘promoter group’ under the ICDR.  
+
+10 
+
+ 
+
+business,  operations  and  management  can  raise  concerns  relating  to  RPTs. 
+Considering  that  promoters  may  exercise  control  on  promoter  group  entities 
+and  consequently,  influence  decision  making  on  the  group  as  a  whole,  the 
+Working  Group  recommended  that  promoter  group  members  may  also  be 
+included  under  the  definition  of  a  related  party,  irrespective  of  their 
+shareholding. 
+ 
+
+The  Working  Group  also  deliberated  on  the  compliance  burden  of  subjecting 
+transactions with persons or entities belonging to the promoter or promoter group  to 
+the regulations governing RPTs.  In this respect, the Working Group was of the view 
+that  the  benefits  of  this  measure  would  outweigh  the  additional  compliance  burden 
+and  that  legitimate  RPTs  would  still  be  approved  if  they  are  in  the  interest  of  the 
+company.  
+ 
+Further, the Working Group  discussed whether certain significant shareholders in  a 
+listed entity who do not form part of the ‘promoter’ or ‘promoter group’ should also be 
+included  within  the  purview  of  ‘related  parties’.    The  Working  Group  noted  that  in 
+several  jurisdictions  such  as  the  United  Kingdom  (“U.K.”),  Italy  and  Korea, 
+shareholders with a holding above certain thresholds are deemed to be related parties 
+of such company. In such jurisdictions, the rationale for such inclusion is that a person 
+with significant shareholding could influence the decisions of a company. The Working 
+Group deliberated that in the Indian context also, there may be a shareholder who is 
+not classified as a promoter, but may exercise influence over the decisions of the listed 
+entity  by  virtue  of  shareholding.  The Working  Group  was  therefore  of  the  view  that 
+shareholders above a certain threshold of holding in a company should be classified 
+as a related party.   
+ 
+The Working Group deliberated on the threshold for determining shareholding above 
+which a person not forming part of the promoter/promoter group would get classified 
+as a related party and determined that a 20% threshold would be appropriate for the 
+following reasons:  
+
+ 
+
+(i) 
+
+(ii) 
+
+The Working Group noted that the term ‘significant influence’ is defined in the 
+Companies Act under the definition of ‘associate company’ to mean “control of 
+at  least  20%  of  the  total  voting  power,  or  control  or  participation  in  business 
+decisions under an agreement”.   
+ 
+The  Indian  Accounting  Standard  on  ‘Investments  in  Associates  and  Joint 
+Ventures’ (Ind AS 28) also states that: “If an entity holds, directly or indirectly 
+(e.g. through subsidiaries), 20% or more of the voting power of the investee, it 
+is  presumed  that  the  entity  has  significant  influence,  unless  it  can  be  clearly 
+demonstrated that this is not the case”.   
+
+ 
+Thus,  a  shareholding  of  20%  is  considered  sufficient  to  confer  a  shareholder  with 
+significant influence over the company.    
+ 
+The Working Group further determined that a deeming provision may be created for 
+aggregation  of  direct  and  indirect  shareholding  of  individual  shareholders  and  their 
+relatives as defined under the Companies Act, for the purposes of calculating the 20% 
+threshold.  
+
+11 
+
+ 
+
+ 
+Lastly, the Working Group also discussed if the concept of reciprocity in recognition of 
+related  parties  should  be  made  mandatory  by  including  such  a  condition  in  the 
+definition of related parties. Certain instances were discussed by the Working Group 
+where    Company  ‘A’  identified  Company  ‘B’  in  its  financial  statements  as  a  related 
+party but Company ‘B’ did not identify Company ‘A’ as a related party. The Working 
+Group debated if this could be changed by making reciprocal recognition of related 
+parties mandatory.  
+ 
+The Working Group considered such cases and concluded that specific circumstances 
+could  arise  when  Company  ‘A’  recognises  Company  ‘B’  as  a  related  party,  but  the 
+converse may not be true. This is because related parties for Company ‘A’ would be 
+identified  in  relation  to  Company  ‘A’  itself.  For  instance,  there  could  be  a  situation 
+where, say a director in Company ‘A’ is a director in Company ‘B’ and holds more than 
+2% of paid-up share capital of Company ‘B’; thus making Company ‘B’ a related party 
+of Company ‘A’; however if such director does not have any shareholding in Company 
+‘A’, Company ‘A’ would not be classified as related party of Company ‘B’. Accordingly, 
+the Working Group did not recommend making such reciprocal recognition mandatory 
+by law.   
+ 
+The Working Group therefore recommended the following changes to the LODR: 
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2(zb) “related party” means a related 
+party  as  defined  under  sub-section 
+(76)  of  section  2  of  the  Companies 
+Act,  2013  or  under  the  applicable 
+accounting standards: 
+ 
+Provided  that  any  person  or  entity 
+belonging to the promoter or promoter 
+group of the listed entity and holding 
+20%  or  more  of  shareholding  in  the 
+listed entity shall be deemed to be a 
+related party. 
+ 
+
+Provided  further  that  this  definition 
+shall  not  be  applicable  for  the  units 
+issued  by  mutual  funds  which  are 
+listed  on  a 
+stock 
+exchange(s); 
+
+recognised 
+
+the 
+
+applicable 
+
+2(zb) “related party” means a related party 
+as  defined  under  sub-section  (76)  of 
+section  2  of  the  Companies  Act,  2013  or 
+under 
+accounting 
+standards: 
+ 
+Provided that:  
+(i)  any  person  or  entity  belonging  to  the 
+promoter  or  promoter  group  of  the  listed 
+entity  and    holding    20%    or    more    of  
+shareholding  in  the  listed entity shall be 
+deemed to be a related party; or  
+ 
+(ii)  any  person  or  any  entity,  directly  or 
+indirectly  (including  with  their  relatives), 
+holding  20%  or  more  of 
+the  equity 
+shareholding in the listed entity,  
+ 
+shall be deemed to be a related party. 
+
+Provided  further  that  this  definition  shall 
+not  be  applicable  for  the  units  issued by 
+mutual 
+listed  on  a 
+recognised stock exchange(s); 
+ 
+
+funds  which  are 
+
+12 
+
+ 
+
+ 
+‘Relative’ 
+
+II. 
+ 
+The LODR currently draws reference from Section 2(77) of the Companies Act for the 
+term ‘relative’ which, with reference to a person, includes members of his/her Hindu 
+undivided family, husband or wife (as applicable), father (including step-father), mother 
+(including  step-mother),  son  (including  step-son),  son’s  wife,  daughter,  daughter’s 
+husband, brother (including step-brother) and sister (including step-sister).  
+ 
+Working Group deliberations and recommendations 
+ 
+One concern raised in the discussions of the Working Group was that directors, key 
+management  personnel  and  promoters  may  execute  RPTs  through  relatives  not 
+covered within the definition under the Companies Act. The Working Group reviewed 
+the definition of ‘relative’ under the 1956 Act and the Companies Act, and noted that 
+the  scope  of  this  definition  was  narrowed  under  the  Companies  Act.  After 
+deliberations, the Working Group concluded that no change needs to be made to the 
+definition of ‘relative’ under the LODR since persons intending to carry out fraudulent 
+transactions may anyway do so  through a relative not covered within the definition. 
+Further,  other  SEBI  Regulations  such  as  SEBI  (Issue  of  Capital  and  Disclosure 
+Requirements)  Regulations,  2018 also  define  “relative”  to  mean  relatives  under  the 
+Companies Act; hence there is a need to maintain consistency. The Working Group 
+thought  it  prudent  to  regulate  RPTs  by  implementing  other  checks  and  balances 
+instead.   
+
+ 
+‘Related Party Transaction’  
+
+III. 
+ 
+The LODR currently defines ‘related party transaction’ as any transfer of resources, 
+services  or  obligations  between  a  listed  entity  and  a  related  party  regardless  of 
+whether  a  price  is  charged  or  not  and  a  “transaction”  with  a  related  party  shall  be 
+construed to include a single transaction or a group of transactions.  
+ 
+Under Section 1886 of the Companies Act, ‘related party transaction’ has been defined 
+to include certain types of transactions such as the sale, purchase or supply of goods 
+or materials, or selling or otherwise disposing of, or buying property of any kind.  
+ 
+Working Group deliberations and recommendations 
+ 
+The Working Group observed that recently, certain  innovative structures have been 
+used  to  avoid  classification  of  transactions  as  RPTs  and  thus  avoid  the  associated 
+
+                                                           
+6  
+
+Refer to Annexure A for section 188 of the Companies Act. 
+
+13 
+
+ 
+
+regulatory  compliance  and  disclosure  requirements.  Some  such  instances  are 
+mentioned below: 
+ 
+ 
+ 
+
+use of complex structures; 
+transactions  undertaken  by  a  listed  entity  with  seemingly  unrelated  parties, 
+however intended to benefit related parties; and 
+instances of loans being given to an unrelated party which in turn gives such 
+loan to a related party. 
+
+ 
+
+ 
+Accordingly, the Working Group examined the definition of RPTs from the perspective 
+of  strengthening  it  and  recommended  broadening  the  definition  of  RPTs  to  include 
+transactions which are undertaken, whether directly or indirectly, with the intention of 
+benefitting  related  parties.  This  concept  is  also  captured  in  the  legislation  of  other 
+jurisdictions, such as the U.K.   
+ 
+Separately,  the Working  Group  also  considered excluding  certain  corporate  actions 
+which, by their very nature treat all shareholders equally, such as payment of dividend, 
+sub-division  or  consolidation  of  securities,  buy-back,  rights  and  bonus  issue  of 
+securities. Further, corporate actions which are subject to procedures specifically laid 
+down by SEBI in its other regulations, such as preferential allotment, should also fall 
+outside the purview of RPTs.  
+ 
+The Working Group therefore recommended changes to this definition which, together 
+with proposed changes to this regulation to include transactions involving subsidiaries, 
+are set out in Chapter 3 below.   
+ 
+ 
+
+ 
+
+14 
+
+ 
+
+ 
+
+Chapter 3: Approval Requirements and Materiality Thresholds 
+
+the  present 
+
+regulatory 
+
+framework  and  sets  out 
+
+This  chapter  examines 
+recommendations of the Working Group in the following areas:  
+ 
+(1) 
+(2) 
+(3) 
+ 
+I. 
+
+the approval mechanism for RPTs under the LODR and the Companies Act;  
+the materiality thresholds adopted under the approval process; and  
+the process followed by the audit committee while considering an RPT.  
+
+Approval Mechanism for Related Party Transactions under the LODR 
+and Companies Act 
+
+ 
+The  existing  provisions  of  the  LODR  and  the  Companies  Act  provide  the  following 
+approval mechanism for RPTs: 
+
+(i) 
+
+(ii) 
+
+ 
+Approval  of  the  audit  committee  of  the  entity  is  required  for  all  RPTs  under 
+Regulation 23(2) of the LODR (for exemptions under the LODR see paragraph 
+(iii)  below).    There  is  no  exception  for  transactions  in  the  ordinary  course  of 
+business  or  at  arm’s  length,  as  per  the  LODR.  Under  Section  188(1)  of  the 
+Companies Act, approval of the board of directors of the company is required 
+for a transaction between the company and its related parties if the transaction 
+is one of the types mentioned therein, with an exemption for transactions in the 
+ordinary course of business and on arm’s length basis. 
+ 
+Approval of the shareholders is required:  
+ 
+(a) 
+
+under Regulation 23(4) of the LODR, for material RPTs as defined under 
+Regulation 23(1) and 23(1A) of the LODR; and  
+
+ 
+(b) 
+
+ 
+
+for  transactions  listed  in  Section  188(1)  of  the  Companies  Act  which 
+exceed  a  prescribed  threshold  linked  to  certain  parameters,  with  an 
+exemption  for  transactions  in  the  ordinary  course  of  business  and  on 
+arm’s length basis.  
+
+(iii)  Under  Regulation  23(5)  of  the  LODR,  transactions  between  the  following 
+entities are exempt from the requirement of audit committee and shareholder 
+approval:  
+ 
+(a) 
+
+between a listed entity and its wholly-owned subsidiary whose accounts 
+are  consolidated  with  such  listed  entity  and  placed  before  the 
+shareholders at a general meeting for approval; and 
+
+  
+
+(b) 
+
+between two government companies.  
+
+ 
+
+The  Companies  Act  also  specifies  that  the  aforementioned  transactions  are 
+exempt from the requirement of shareholder approval.   
+
+15 
+
+ 
+
+RPTs covered by the Companies Act:  
+ 
+The types of transactions specified in Section 188 of the Companies Act are described 
+below.  The  threshold  (to  be  taken  individually  or  together  with  the  previous 
+transactions  during  a  financial  year  for  points  (i)  to  (iv)  below)  above  which  the 
+requirement  for  shareholder  approval  is  triggered  under  the  Companies  Act  is  also 
+described below: 
+ 
+(i) 
+
+sale, purchase or supply of any goods or materials amounting to 10% or more 
+of  the  turnover  of  the  company,  whether  such  sale,  purchase  or  supply  is 
+carried out directly or through appointment of agent;  
+
+ 
+(ii) 
+
+ 
+(iii) 
+
+ 
+(iv) 
+
+ 
+(v) 
+
+ 
+(vi) 
+
+selling or otherwise disposing of, or buying, property of any kind amounting to 
+10% or more of the net worth of the company, whether such sale or disposal is 
+carried out directly or through appointment of agent; 
+
+leasing of property of any kind amounting to 10% or more of the turnover of the 
+company; 
+
+availing or rendering of any services amounting to 10% or more of the turnover 
+of the company, whether such service is availed or rendered directly or through 
+appointment of agent; 
+
+such related party’s appointment to any office or place of profit in the company, 
+its subsidiary company or associate company where the monthly remuneration 
+exceeds Rs.2,50,000; and 
+
+underwriting  the  subscription  of  any  securities  or  derivatives  thereof,  of  the 
+company exceeding 1% of the net worth of the company. 
+ 
+
+Regulation of RPTs by the listed entity at the subsidiary level:  
+ 
+At present, the approval requirements in respect of RPTs under the  Companies Act 
+apply to each company in respect of transactions entered into by the relevant company 
+with  its  own  related  parties.  The  Companies  Act  also  covers  a  transaction  at  the 
+holding company level relating to the appointment of a related party to any office or 
+place  of  profit  in  the  subsidiary.  The  LODR  contains  certain  provisions  relating  to 
+transactions indirectly undertaken by the listed entity through unlisted subsidiaries, as 
+specified below.  However, neither the LODR (except for sale, disposal or leasing of 
+20% or more of the assets of a material subsidiary) nor the Companies Act specifically 
+requires approvals at the listed entity level in respect of transactions undertaken by an 
+unlisted  subsidiary  with  any  related  party  of  the  consolidated  entity  (i.e.,  the  listed 
+entity and/or its subsidiaries).  
+ 
+Currently  under  Regulation  23(5)  of  the  LODR,  audit  committee  or  shareholder 
+approval is not required for transactions between a listed entity and its wholly-owned 
+subsidiary whose accounts are consolidated with such listed entity and placed before 
+the shareholders at a general meeting for approval.  
+ 
+
+16 
+
+ 
+
+A  summary  of  the  obligations  of  the  listed  entity  with  respect  to  the  other  entities 
+forming part of the consolidated entity under the LODR and the Companies Act is set 
+out below:  
+
+ 
+
+(i)  With  respect  to  material  subsidiaries  (material  subsidiaries  are  defined  as 
+subsidiaries of the listed entity whose income or net worth exceeds 10% of the 
+consolidated  income  or  net  worth  respectively,  of  the  listed  entity  and  its 
+subsidiaries  in  the  immediately  preceding  accounting  year),  the  following 
+requirements apply: 
+ 
+(a) 
+
+Pursuant to Regulation 24(1) of the LODR, at least one (1) independent 
+director of the listed entity is required to be a director on the board of an 
+unlisted  material  subsidiary  (with  respect  to  this  provision,  material 
+subsidiary has been defined with a threshold of 20% of the consolidated 
+income or net worth). 
+
+ 
+(b) 
+
+ 
+(c) 
+
+ 
+
+Pursuant to Regulation 24(6) of the LODR, the sale or disposal or leasing 
+of  assets  amounting  to  more  than  20%  of  the  assets  of  a  material 
+subsidiary  (on  an  aggregate  basis  during  a  financial  year),  subject  to 
+certain  exceptions,  requires  prior  approval  of  the  shareholders  of  the 
+listed holding company by way of a special resolution.  
+
+Pursuant  to  Regulation  24A  of  the  LODR,  all  listed  entities  and  their 
+Indian  unlisted  material  subsidiaries  are  required  to  undertake  a 
+secretarial audit and annex such reports to the annual report of the listed 
+entity.  
+
+(ii)  With  respect  to  unlisted  subsidiaries  of  the  listed  entity,  the  following 
+
+requirements apply:  
+
+ 
+
+(a) 
+
+(b) 
+
+ 
+
+(c) 
+
+ 
+
+(d) 
+
+Pursuant  to  Regulation  24(2)  of  the  LODR,  the  audit  committee  of  a 
+listed holding company is required to review the financial statements, in 
+particular the investments made by all its unlisted subsidiaries.  
+ 
+Pursuant to Regulation 24(3) of the LODR, the board of the listed entity 
+is  required  to  review  the  minutes  of  the  boards  of  such  unlisted 
+subsidiaries.  
+
+Pursuant  to  Regulation  24(4)  of  the  LODR,  the  management  of  an 
+unlisted subsidiary of a listed entity is required to periodically bring to the 
+notice  of  the  board  of  the  listed  entity  a  statement  of  all  ‘significant 
+transactions and arrangements’ undertaken by the unlisted subsidiary. 
+‘Significant  transaction  or  arrangement’  has  been  defined  as  any 
+individual transaction or arrangement that exceeds or is likely to exceed 
+10%  of  the  total  revenues  or  total  expenses  or  total  assets  or  total 
+liabilities  of  the  unlisted  subsidiary  for  the  immediately  preceding 
+accounting year. 
+
+Pursuant  to  Regulation  18(3)  read  with  Part  C  of  Schedule  II  of  the 
+LODR,  the  role  of  the  audit  committee  includes  reviewing  at  periodic 
+
+17 
+
+ 
+
+(iii) 
+
+ 
+(iv) 
+
+(v) 
+
+intervals the statement of significant related party transactions submitted 
+by the management.  The audit committee has been given the discretion 
+to  define  the  term  ‘significant  related  party  transactions’  under  the 
+regulations.  
+ 
+
+Pursuant to Regulation 18(3) read with Part C of Schedule II of the LODR, the 
+audit committee of the listed entity is also required to: 
+ 
+(a) 
+
+scrutinise all inter-corporate loans and investments of the listed entity; 
+and  
+ 
+review the utilisation of loans and/or advances from/investment by the 
+holding company in the subsidiary exceeding Rs.100 crore or 10% of the 
+asset  size  of  the  subsidiary,  whichever  is  lower,  including  existing 
+loans/advances/investments as on April 1, 2019.  
+
+(b) 
+
+Listed  entities  are  also  required  to  disclose  to  the  stock  exchanges  any 
+agreements, including loan agreements (as a borrower), which are binding on 
+the  listed  entity  and  not  in  the  normal  course  of  business.  Subsequent 
+amendments made to such agreements or termination of such agreements are 
+also required to be disclosed. The above-mentioned disclosures shall however, 
+be subject to the materiality guidelines under Regulation 30(4) of the LODR.   
+ 
+Under Regulation 33(8) of the LODR, the statutory auditor of the listed entity is 
+required  to  undertake  a  limited  review  of  the  audit  of  all  entities/companies 
+whose accounts are consolidated with the listed entity.  
+ 
+
+(vi)  Pursuant to Regulation 4 of the LODR, one of the key functions of the board of 
+listed  entities  is  “monitoring  and  managing  potential  conflicts  of  interest  of 
+management, members of the board of directors and shareholders, including 
+misuse of corporate assets and abuse in related party transactions”.  
+ 
+
+(vii)  The  code  for  independent  directors  under  the  Companies  Act  requires 
+independent  directors  to  “pay  sufficient  attention  and  ensure  that  adequate 
+deliberations are held before approving related party transactions and assure 
+themselves that the same are in the interest of the company.”   
+
+ 
+Separately, the following disclosures are also required to be made by the listed entity 
+which relates to the consolidated entity: 
+ 
+(i) 
+
+Pursuant  to  Regulation  23(9)  of  the  LODR,  the  listed  entity  is  required  to 
+disclose  related  party  transactions  on  a  consolidated  basis  in  a  prescribed 
+format  within  30  days  from  the  date  of  publication  of  its  standalone  and 
+consolidated financial results for the half year.  
+
+ 
+
+(ii) 
+
+The listed entity is required to make related party disclosures in its annual report 
+in  accordance  with  the  format  provided  in  Schedule  V  of  the  LODR.    Such 
+format states that the disclosure requirements for the listed holding company 
+would also apply to each of the subsidiaries. This disclosure requirement is not 
+applicable to listed banks. 
+
+18 
+
+ 
+
+(iii) 
+
+ 
+All  transactions  of  the  listed  entity  with  any  person  or  entity  belonging  to  its 
+promoter/promoter group and holding 10% or more shareholding in the listed 
+entity are required to be disclosed in the annual report of the listed entity.  This 
+disclosure requirement is not applicable to listed banks. 
+ 
+
+(iv)  Schedule V of the LODR also requires the corporate governance report forming 
+part of the annual report of the listed entity to include “disclosures on materially 
+significant related party transactions that may have potential conflict with the 
+interest of the listed entity at large”.  
+
+ 
+Working Group deliberations and recommendations 
+ 
+The  Working  Group  noted  that  the  current  RPT  regulatory  framework  may  be 
+insufficient to cover transactions where the listed entity could transfer its assets/value 
+to a subsidiary, whether in India or overseas, and such entity could then transact with 
+the related parties of the listed entity to move the assets out of the consolidated entity.  
+ 
+Transactions  undertaken  by  an  unlisted  subsidiary  with  related  parties  of  the  listed 
+entity would not require prior approval of the audit committee or shareholders of the 
+listed  entity  (except  for  sale,  disposal  or  leasing  of  20%  or  more of  the assets of  a 
+material subsidiary which require prior approval of the shareholders of the listed entity 
+by way of special resolution under Regulation 24(6) of the LODR) and thus, may be 
+used as a conduit for moving out from the consolidated entity the value/assets which 
+rightfully belongs to the shareholders of the listed entity. 
+ 
+In  light  of  the  above,  the  Working  Group  felt  the  need  to  strengthen  the  laws  for 
+regulation and oversight of RPTs undertaken by a subsidiary with the related parties 
+of the listed entity or its subsidiaries. It is of significance that the need to regulate the 
+consolidated  entity  as  a  whole  was  also  recognised  specifically  in  the  report  of  the 
+Kotak  committee  on  corporate  governance  dated  October  5,  2017  in  the  following 
+terms–  “The  Committee  notes  that  several  listed entities  in  India  operate  through a 
+network of entities– where some companies have over 200 subsidiaries, step-down 
+subsidiaries, associates, and joint ventures.  While investors hold direct equity only in 
+the listed holding company, they have valued the entire business structure at the time 
+of investment. Therefore,  it is important for boards to ensure that good governance 
+trickles down to the entire structure.”  
+ 
+The  Working  Group  deliberated  on  the  present  regulatory  framework  governing 
+transactions of subsidiaries of a listed entity and recommended that prior approval of 
+the audit committee of the listed entity should be mandatory for transactions carried 
+out between: 
+ 
+(i) 
+
+the listed entity or any of its subsidiaries on the one hand and a related party of 
+the listed entity or any of its subsidiaries on the other hand; or 
+
+ 
+
+(ii) 
+
+ 
+
+the listed entity or any of its subsidiaries on the one hand and any other person 
+or entity on the other hand, the purpose and effect of which is to benefit a related 
+party of the listed entity or any of its subsidiaries.  
+
+19 
+
+ 
+
+The  Working  Group  also  deliberated  that  an  exception  from  taking  approval  of  the 
+audit  committee  and  shareholders  of  the  parent  listed  entity  (subject  to  materiality 
+thresholds)  should  be  given  for  listed  subsidiaries,  since  they  are  independently 
+subject to the LODR framework on RPTs. In addition, in line with the exemption given 
+to transactions between a holding company and its wholly owned subsidiary from the 
+requirements of  audit committee  and  shareholder  approval,  it  is  recommended  that 
+transactions  between  two  wholly  owned  subsidiaries  of  the  listed  holding  company 
+should  be  similarly  exempt  from  such  requirements.  Further,  the  Working  Group 
+determined  that  an  explanation  be  added  to  clarify  that  for  RPTs  of  unlisted 
+subsidiaries  of  a  listed  subsidiary,  the  prior  approval  of  the  audit  committee  or 
+shareholders, as applicable, of the listed subsidiary would suffice. 
+ 
+Further,  the  Working  Group  was  cognisant  that  this  provision  may  increase  the 
+compliance  burden  for  the  listed  entity  and  the  members  of  the  audit  committee. 
+Accordingly, the Working Group discussed the possibility of exempting transactions 
+which are below a specified monetary threshold of the subsidiary.  
+ 
+After deliberations, the Working Group determined that the related party transactions 
+relating  to  subsidiaries  of  the  listed  entity  should  require  prior  approval  of  the  audit 
+committee subject to their value exceeding 10% of the total revenues, total assets or 
+net  worth  of  the  subsidiary,  on  a  standalone  basis,  for  the  immediately  preceding 
+financial year, whichever is lower, provided that the criterion relating to net worth shall 
+not be applicable if the net worth of the subsidiary is negative . Further, it was also 
+decided  that  at  this  stage,  associate  companies  and  joint  ventures  need  not  be 
+included under such additional prior approval requirements.  
+ 
+The Working Group was of the view that the RPT provisions of the LODR relating to 
+disclosure  requirements  in  the  notice  to  the  shareholders  and  requirement  of  prior 
+shareholder approval should also apply to subsidiaries of the listed entity, subject to 
+materiality thresholds of the listed entity on a consolidated basis.  
+ 
+As a general matter, while the LODR specifically requires prior approval of the audit 
+committee, the word “prior” is not used for shareholder approval.  In order to maintain 
+consistency, the Working Group recommended that the word “prior” may be added for 
+shareholder approval as well.  
+ 
+The Working Group also sought to clarify that subsequent  material modifications of 
+RPTs require prior audit committee approval and, if applicable, shareholder approval. 
+It  was  noted  that,  under  the  Companies  Act,  approval  of  the  audit  committee  is 
+required for subsequent modifications for transactions with related parties. 
+ 
+The Working Group therefore recommended the following changes to the LODR:  
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“related  party 
+
+2(zc) 
+transaction” 
+means  a 
+resources, 
+services  or  obligations  between  a 
+listed  entity  and  a  related  party, 
+
+transfer  of 
+
+2(zc)  “related  party  transaction”  means  a 
+transaction 
+transfer  of 
+resources, services or obligations between 
+a listed entity and a related party:  
+
+involving  a 
+
+20 
+
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regardless  of  whether  a  price  is 
+charged  and  a  “transaction”  with  a 
+related  party  shall  be  construed  to 
+include  a  single  transaction  or  a 
+group of transactions in a contract: 
+ 
+Provided that this definition shall not 
+be applicable for the units issued by 
+mutual  funds  which  are  listed  on  a 
+recognised stock exchange(s); 
+ 
+
+ 
+(i)  the listed entity or any of its subsidiaries 
+on the one hand and a related party of 
+the listed entity or any of its subsidiaries 
+on the other hand; or  
+
+ 
+(ii)  the listed entity or any of its subsidiaries 
+on the one hand, and any other person 
+or entity on the other hand, the purpose 
+and effect of which is to benefit a related 
+party  of  the  listed  entity  or  any  of  its 
+subsidiaries,  
+
+ 
+
+regardless of whether a price is charged or 
+not and a. Such “transaction” with a related 
+party shall be construed to include a single 
+transaction or a group of transactions.in a 
+contract: 
+ 
+Provided  that  the  following  shall  not  be 
+treated as related party transactions: 
+ 
+(a) 
+
+Capital 
+
+and 
+
+to 
+
+basis, 
+
+subject 
+
+the issue of specified securities on a 
+preferential 
+to 
+requirements  under  the  Securities 
+and Exchange Board of India (Issue 
+of 
+Disclosure 
+Requirements)  Regulations,  2018 
+being complied with; and    
+     
+the  following  corporate  actions  by 
+the  listed  entity  which  are  uniformly 
+applicable/offered 
+all 
+shareholders  in  proportion  to  their 
+shareholding: 
+ 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+payment of dividend;  
+ 
+subdivision  or  consolidation 
+of securities; 
+ 
+issuance of securities by way 
+of  a  rights  issue  or  a  bonus 
+issue; and  
+ 
+buy-back of securities.  
+
+(b) 
+
+ 
+
+21 
+
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+23(2)  All  related  party  transactions 
+shall  require  prior  approval  of  the 
+audit committee. 
+
+23(4)  All  material 
+related  party 
+transactions shall require approval of 
+the  shareholders  through  resolution 
+and  no  related  party  shall  vote  to 
+approve such resolutions whether the 
+
+Provided further that this definition shall not 
+be applicable for the units issued by mutual 
+funds  which  are  listed  on  a  recognised 
+stock exchange(s); 
+ 
+23(2)  All  related  party  transactions  and 
+subsequent  material  modifications  shall 
+require  prior  approval  of 
+the  audit 
+committee of the listed entity. 
+ 
+Provided that a related party transaction to 
+which  the  subsidiary  of  a  listed  entity  is  a 
+party but the listed entity is not a party, shall 
+require  prior  approval  of 
+the  audit 
+committee  of  the  listed  entity  only  if  the 
+value of such transaction (whether entered 
+into  individually  or  taken  together  with 
+previous  transactions  during  a  financial 
+year)  exceeds  10%  of  the  annual  total 
+revenues,  total  assets  or  net  worth  of  the 
+subsidiary,  on  a  standalone  basis,  for  the 
+immediately  preceding 
+financial  year, 
+whichever  is  lower,  provided  that  the 
+criterion  relating  to  net  worth  shall  not  be 
+applicable if the net worth of the subsidiary 
+is negative.   
+ 
+Provided  further  that  prior  approval  of  the 
+audit committee of the listed entity shall not 
+be required for  a related party transaction 
+to which the listed subsidiary is a party but 
+the listed entity is not a party, if such listed 
+subsidiary is not exempt from regulation 23 
+and 
+the  other  corporate  governance 
+provisions of these regulations specified in 
+regulation 15(2). 
+  
+Explanation:  for  related  party  transactions 
+listed 
+of  unlisted  subsidiaries  of  a 
+subsidiary  specified  above, 
+the  prior 
+approval of the audit committee of the listed 
+subsidiary would suffice. 
+23(4) All material related party transactions 
+and  subsequent  material  modifications, 
+shall 
+the 
+shareholders  through  resolution  and  no 
+related  party  shall  vote  to  approve  such 
+
+require  prior  approval  of 
+
+22 
+
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to 
+
+the 
+
+the 
+
+that 
+
+is  a  related  party 
+entity 
+particular transaction or not: 
+ 
+Provided 
+requirements 
+specified  under  this  sub-regulation 
+shall  not  apply 
+in  respect  of  a 
+resolution  plan  approved  under 
+section  31  of  the  Insolvency  Code, 
+subject  to  the  event  being  disclosed 
+to  the  recognized  stock  exchanges 
+within one day of the resolution plan 
+being approved; 
+ 
+
+23(5)  The  provisions  of  sub-
+regulations  (2),  (3)  and  (4)  shall  not 
+be applicable in the following cases: 
+ 
+(a)  transactions 
+
+entered 
+
+into 
+government 
+
+between 
+companies;  
+
+two 
+
+ 
+(b)  transactions 
+
+entered 
+
+into 
+between a holding company and 
+its  wholly  owned  subsidiary 
+whose accounts are consolidated 
+with  such  holding  company  and 
+placed before the shareholders at 
+the general meeting for approval; 
+
+that  prior  approval  of 
+
+resolutions  whether  the  entity  is  a  related 
+party to the particular transaction or not: 
+ 
+Provided 
+the 
+shareholders of a listed entity shall not be 
+required  for  a  related  party  transaction  to 
+which the listed subsidiary is a party but the 
+listed  entity  is  not  a  party,  if  such  listed 
+subsidiary is not exempt from regulation 23 
+and 
+the  other  corporate  governance 
+provisions of these regulations specified in 
+regulation 15(2). 
+ 
+Explanation:  for  related  party  transactions 
+of  unlisted  subsidiaries  of  a 
+listed 
+subsidiary  specified  above, 
+the  prior 
+approval  of  the  shareholders  of  the  listed 
+subsidiary would suffice. 
+ 
+Provided  further  that  the  requirements 
+specified under this sub-regulation shall not 
+apply  in  respect  of  a  resolution  plan 
+approved  under  section  31  of 
+the 
+Insolvency  Code,  subject  to  the  event 
+being  disclosed  to  the  recognized  stock 
+exchanges within one day of the resolution 
+plan being approved; 
+ 
+23(5) The provisions of sub-regulations (2), 
+(3)  and  (4)  shall  not  be  applicable  in  the 
+following cases: 
+ 
+(a)  transactions entered into between two 
+
+government companies;  
+ 
+
+(b)  transactions  entered  into  between  a 
+holding company and its wholly owned 
+subsidiary  whose 
+are 
+holding 
+consolidated  with 
+company  and  placed  before 
+the 
+shareholders at the general meeting for 
+approval; 
+
+accounts 
+such 
+
+ 
+
+ 
+Explanation.  -  For  the  purpose  of 
+clause 
+"government 
+company(ies)"  means  Government 
+
+(a), 
+
+(c)  transactions entered into between two 
+wholly-owned subsidiaries of the listed 
+holding company, whose accounts are 
+consolidated  with 
+holding 
+
+such 
+
+23 
+
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+company  as  defined  in  sub-section 
+(45)  of  section  2  of  the  Companies 
+Act, 2013. 
+ 
+
+the 
+company  and  placed  before 
+shareholders at the general meeting for 
+approval. 
+
+ 
+Explanation.  -  For  the  purpose  of  clause 
+(a),  "government  company(ies)"  means 
+Government  company  as  defined  in  sub-
+section (45) of section 2 of the Companies 
+Act, 2013. 
+ 
+
+ 
+Voting by interested shareholders under the Companies Act and the LODR: 
+ 
+Pursuant to Section 188(1) of the Companies Act, shareholders of the company that 
+are related parties in the context of the transaction for which shareholder approval is 
+sought,  cannot  vote  to  approve  such  RPT.  However,  such  restriction  on  voting  by 
+shareholders does not apply under the Companies Act in the case of a company where 
+90%  or  more  of  the  shareholders  are  relatives  of  promoters  or  related  parties. 
+Regulation 23(7) of the LODR adopts a stricter approach and states that no related 
+party of the listed entity, irrespective of whether the related party is interested in that 
+particular RPT, can vote to approve an RPT.  
+ 
+Working Group deliberations and recommendations 
+ 
+The  Working  Group  discussed  whether  the  LODR  should  be  amended  to  make  it 
+consistent with the Companies Act and allow shareholders who are related parties of 
+the  listed  entity  but  not  concerned  with  a  particular  RPT  to  vote  in  respect  of  that 
+particular  RPT.  Members  of  the  Working  Group  discussed  that  due  to  the  existing 
+provisions of the LODR, even parties that are neither interested nor connected with 
+the RPT cannot vote on such transactions, except negatively. However, after detailed 
+discussions, the Working Group decided not to change the current position under the 
+LODR for the following reasons:  
+ 
+(i) 
+
+Determining whether a particular promoter or promoter group is  interested or 
+not in an RPT could lead to subjectivity and differing interpretations. 
+
+ 
+
+(ii) 
+
+Even  if  a  particular  promoter/promoter  group  is  not  interested  in  a  particular 
+RPT, factions of various promoter groups may intentionally collude with each 
+other to influence the vote on an RPT.  
+
+Materiality Thresholds with respect to Prior Approvals for RPTs 
+
+ 
+ 
+II. 
+ 
+Materiality threshold with respect to prior shareholder approval for RPTs:  
+ 
+Under  Regulation  23(1)  of  the  LODR,  RPTs  undertaken  by  a  listed  entity  taken 
+individually or together with the previous transactions during that financial year, which 
+
+24 
+
+ 
+
+exceed 10% of the annual consolidated turnover of the listed entity in accordance with 
+the last audited financial statements of the listed entity, are considered to be material 
+RPTs. Such  material  RPTs  require  approval  of  the  shareholders  of  the  listed  entity 
+under Regulation 23(4) of the LODR.  
+  
+Regulation  23(1)  of  the  LODR  requires  each  listed  entity  to  formulate  a  policy  on 
+materiality of RPTs which should be approved by the board of directors.  Such policy 
+should also be reviewed by the board of directors of the company every three years 
+and updated accordingly.  
+  
+Regulation 23(1A) of the LODR states that, transaction(s) of a listed entity (entered 
+into individually or taken together with previous transactions during a financial year) 
+involving  payments  to  related  parties  with  respect  to  brand  usage  or  royalty  are 
+considered to be material RPTs if their value exceeds 5% of the annual consolidated 
+turnover of the listed entity in accordance with the last audited financial statements of 
+the listed entity. 
+ 
+Working Group deliberations and recommendations 
+ 
+The Working Group noted that although under the Companies Act, RPTs carried out 
+in the ordinary course of business and which are on arm’s length, do not require prior 
+shareholder approval, the LODR does not provide such distinction for an RPT. Further, 
+under the current provisions of the LODR, those RPTs which are above a threshold of 
+10% of annual consolidated turnover require approval from shareholders.   
+ 
+The Working Group reviewed the data for transactions for the top 500 listed entities 
+which involved shareholder resolutions in the past five years, the details of which are 
+given below: 
+ 
+
+Number of listed 
+
+Total number of 
+
+Time period 
+
+entities 
+
+January 2019 through September 2019 
+January 2018 through December 2018 
+January 2017 through December 2017 
+January 2016 through December 2016 
+January 2015 through December 2015 
+
+  
+53 
+58 
+58 
+59 
+73 
+
+shareholders’ 
+
+resolutions 
+
+71 
+70 
+72 
+74 
+91 
+
+Source: Stakeholders Empowerment Services 
+ 
+As  may  be  seen  from  the  above,  the  number  of  resolutions  seeking  shareholder 
+approval for the top 500 listed entities is not high. No absolute numerical threshold is 
+prescribed  at  present.  Accordingly,  the  Working  Group  deliberated  on  the  need  to 
+revisit the current threshold. 
+ 
+Members  of  the  Working  Group  were  of  the  view  that  considering  the  data,  the 
+threshold of 10% of the consolidated turnover appears to be high. Further, particularly 
+in case of listed entities with a high turnover, several RPTs may not be placed before 
+the shareholders for approval. To illustrate, an RPT of Rs.1,000 crore by a listed entity 
+with  a  turnover  of  above  Rs.10,000  crore  does  not  need  to  be  brought  to  the 
+shareholders for approval, even though in absolute terms such transaction of Rs.1,000 
+
+25 
+
+ 
+
+crore is a high value transaction. In order to address this issue, the Working Group felt 
+the  need  to  reduce  the  percentage  threshold  for  materiality  and  also  introduce  a 
+numerical threshold for seeking shareholder approval for RPTs. 
+ 
+The Working Group noted that in the U.K., transactions above a 5% threshold (based 
+on gross assets, profits, consideration and gross capital) require shareholder approval, 
+with transactions in the ordinary course of business being exempt. Other jurisdictions 
+such as Singapore and Malaysia also have a 5% threshold. 
+ 
+It  was  also  noted  that  in  international  jurisdictions,  benchmarks  other  than  turnover 
+such  as  assets  have  been  used  to  define  the  materiality  threshold.  Further,  the 
+Working  Group  discussed  that  in  case  of  entities  with  a  high  revenue  and  low  net-
+worth; an RPT may be a significant proportion of the net-worth, however may form a 
+low  proportion  of  revenue  and  thus,  may  not  need  to  be  subject  to  shareholder 
+approval.  Accordingly,  the  Working  Group  recommended  that  the  benchmarks  for 
+determining materiality may be expanded to include net worth and total assets. 
+ 
+In light of the above, the Working Group concluded that the materiality threshold in 
+Regulation 23(1) may be amended to 5% of the annual total revenues, total assets or 
+net worth of the listed entity on a consolidated basis or Rs.1,000 crore, whichever is 
+lower.  The Working Group also concluded that the net worth criterion would not apply 
+to  companies  with  negative  net  worth.   Further,  companies  can  specify  a  lower 
+materiality threshold as per their RPT policies. 
+ 
+The Working Group therefore recommended the following changes to the LODR: 
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+23(1) The listed entity shall formulate 
+a policy on materiality of related party 
+transactions  and  on  dealing  with 
+related  party  transactions  including 
+clear  threshold  limits  duly  approved 
+by  the  board  of  directors  and  such 
+policy shall be reviewed by the board 
+of directors at least once every three 
+years and updated accordingly: 
+ 
+Explanation.-  A  transaction  with  a 
+related  party  shall  be  considered 
+material  if  the  transaction(s)  to  be 
+entered 
+taken 
+together  with  previous  transactions 
+during  a  financial  year,  exceeds  ten 
+percent  of  the  annual  consolidated 
+turnover of the listed entity as per the 
+last  audited  financial  statements  of 
+the listed entity. 
+
+individually  or 
+
+into 
+
+three 
+
+and 
+
+years 
+
+23(1)  The  listed  entity  shall  formulate  a 
+policy  on  materiality  of  related  party 
+transactions  and  on  dealing  with  related 
+party transactions including clear threshold 
+limits  duly  approved  by  the  board  of 
+directors and such policy shall be reviewed 
+by  the  board  of  directors  at  least  once 
+every 
+updated 
+accordingly: 
+ 
+Explanation.-  A  transaction  with  a  related 
+party 
+transaction  shall  be  considered 
+material if the transaction(s) to be entered 
+into  individually  or  taken  together  with 
+previous  transactions  during  a  financial 
+year,  exceeds  ten  Rs.1,000  crore  or  five 
+percent  of 
+the  annual  consolidated 
+turnover total revenues, total assets or net 
+worth of the listed entity on a consolidated 
+basis  as  per  the  last  audited  financial 
+statements of the listed entity., whichever 
+
+26 
+
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is lower, provided that the criterion relating 
+to  net  worth  shall  not  be  applicable  if  the 
+net worth of the listed entity is negative.   
+  
+
+Process followed by the Audit Committee for Approval of RPTs 
+
+ 
+III. 
+ 
+Regulation 18 of the LODR requires all listed entities to constitute an audit committee.  
+The audit committee is required to consist of a minimum of three directors.  Two-thirds 
+of the audit committee of a listed entity is required to comprise independent directors, 
+unless  the  listed  entity  has  outstanding  equity  shares  with  superior  voting  rights,  in 
+which case the audit committee is required to comprise only independent directors.  
+The chairperson of the audit committee is required to be an independent director.  All 
+members of the audit committee must be able to read and understand basic financial 
+statements.  
+ 
+Section 177(1) of the Companies Act mandates constituting an audit committee for: 
+ 
+(i) 
+
+listed companies; and  
+
+ 
+
+(ii) 
+
+unlisted public companies having: 
+(a) 
+(b) 
+(c) 
+
+paid-up share capital of Rs.10 crore or more; 
+turnover of Rs.100 crore or more; or 
+outstanding loans, debentures and deposits aggregating to Rs.50 crore 
+or more. 
+
+ 
+The terms of reference of the Working Group included examining the approval process 
+followed by the audit committee for RPTs.  Accordingly, the Working Group reviewed 
+matters such as the composition of the audit committee,  right of audit committee to 
+seek  outside  legal  or  other  professional  advice,  frequency  of  meetings  and  the 
+information to be provided to the audit committee for review.   
+ 
+Under the LODR, minutes of meetings of the audit committee are required to be placed 
+before the board of directors of the listed entity.  The board of directors is also required 
+to evaluate the independent directors on the basis of their performance, fulfilment of 
+the  prescribed  criteria  of 
+the 
+management.  Separately, the board of directors of listed entity is required to disclose 
+a confirmation regarding independence of the independent directors, in the corporate 
+governance report.  In the event that an independent director resigns before the expiry 
+of his tenure, detailed reasons for such resignation along with a confirmation that there 
+are  no  other  material  reasons,  is  also  required  to  be  provided  in  the  corporate 
+governance  report.    Therefore,  the  LODR  emphasizes  on  the  independence  of  the 
+members of the audit committee.   
+ 
+While the responsibility of approving RPTs is placed on the audit committee which has 
+a  majority  of  independent  directors,  at  present,  however,  there  is  no  specific 
+
+independence  and 
+
+their 
+
+independence 
+
+from 
+
+27 
+
+ 
+
+requirement  on  the  minimum  information  that  should  be  provided  to  the  audit 
+committee while seeking approval for a proposed related party transaction.  
+ 
+Working Group deliberations and recommendations 
+ 
+The  Working  Group  was  of  the  view  that,  while  company  management  would  be 
+expected to provide all relevant information regarding an RPT to the audit committee 
+to  evaluate  the  same,  it  would  be  prudent  to  specify  in  the  LODR,  the  minimum 
+information  to  be  provided  to  the  audit  committee  in  relation  to  any  RPT  for  which 
+approval is sought. 
+ 
+After deliberations, the Working Group determined that the management of the listed 
+entity should mandatorily provide the following information to the audit committee for 
+approval of a proposed RPT: 
+ 
+(i) 
+
+Type, material terms and particulars of the related party transaction;  
+ 
+Name  of  the  related  party  and  its  relationship  with  the  listed  entity  or  its 
+subsidiary, including nature of its concern or interest (financial or otherwise);  
+ 
+Tenure of the transaction;  
+ 
+
+(ii) 
+
+(iii) 
+
+(iv)  Value of the transaction;  
+
+(v) 
+
+ 
+The percentage of the listed entity’s annual total revenues, total assets and net 
+worth, on a consolidated basis, that is represented by the value of the proposed 
+RPT (and for a related party transaction involving a subsidiary, such percentage 
+calculated  on  the  basis  of  the  subsidiary’s  annual  total  revenues  on  a 
+standalone basis);  
+ 
+
+(vi)  Where the transaction relates to any loans, inter-corporate deposits, advances 
+
+or investments made or given by the listed entity or its subsidiary:  
+ 
+(a) 
+
+details of the source of funds in connection with the proposed RPT; 
+
+ 
+
+ 
+
+(b) 
+
+(c) 
+
+ 
+(d) 
+
+where  any  financial  indebtedness  is  incurred  to  make  or  give  loans, 
+inter-corporate  deposits,  advances  or  investments,  (i)  nature  of 
+indebtedness; (ii) cost of funds; and (iii) tenure; 
+
+applicable  terms,  including  covenants,  tenure,  interest  rate  and 
+repayment schedule, whether secured or unsecured and if secured, the 
+nature of security; and  
+
+the  purpose  for  which  the  funds  will  be  utilised  by  the  ultimate 
+beneficiary of such funds pursuant to the RPT.  
+
+(vii) 
+
+ 
+Justification as to why the RPT is in the interest of the listed entity;  
+ 
+
+(viii)  A  copy  of  the  valuation  or  other  external  party  report,  if  any  such  report  has 
+
+been relied upon; and 
+
+28 
+
+ 
+
+ 
+
+ 
+
+(ix)  Any other information that may be relevant. 
+ 
+With respect to the type, material terms and particulars of the related party transaction, 
+the Working Group was of the view that brief details, such as whether the proposed 
+RPT is a sale or purchase of goods or services or whether it involves a loan, inter-
+corporate deposit, advance or investment should be mentioned.  Further, each type of 
+RPT  with  a  single  party  should  be  disclosed  separately  and  there  should  be  no 
+clubbing or netting of transactions of the same type. However, RPTs with the same 
+counterparty and of the same type may be aggregated. Details of sale and purchase 
+transactions or loans advanced to and received from the same counterparty should be 
+provided separately, without any netting off. 
+ 
+The Working Group was of the view that the tenure of the RPT should be a finite period 
+and not open-ended.  Further, if the proposed RPT is a recurring transaction, the time 
+period within which such multiple transactions are expected to be completed should 
+be  clearly  specified.  The  Working  Group  also  determined  that  the  audit  committee 
+should undertake an annual review of the status of long-term (more than one year) or 
+recurring RPTs.  
+ 
+In respect of the value of the transaction, the Working Group was of the view that an 
+upper limit should be provided.  Further, if the proposed RPT is a recurring transaction, 
+then the aggregate value and the time period within which such limit will be exhausted 
+should be mentioned.   
+ 
+The Working Group felt that it would be necessary for the audit committee to be aware 
+of  the  value  of  a  proposed  RPT  as  a  proportion  of  the  annual  total  revenues,  total 
+assets and net worth of the consolidated entity. Further, for a related party transaction 
+involving a subsidiary of the listed entity such percentage calculated on the basis of 
+the subsidiary’s annual total revenues on a standalone basis should also be provided.   
+ 
+Further, justification for each individual transaction must be provided, unless there are 
+a series of transactions interdependent on each other, in which case the justification 
+for the entire series of transactions may be given. As justification, the management 
+could for instance, provide the prices at which transactions of a similar nature as the 
+proposed RPT have been undertaken with unrelated parties; or comparative quotes 
+and  if  the  entity  is  not  able  to  source  comparative  quotes  externally,  the  reasons 
+thereof  should  be  provided  to  the  audit  committee.  The  audit  committee  may  also 
+request management for an analysis of the RPT specifying, for example, the deviation 
+from market prices and standard commercial terms.  
+ 
+The  Working  Group  was  of  the  view  that  since  considerable  information  is  being 
+provided to the audit committee for approval of a RPT and it has also prescribed an 
+extensive  format  for  public  disclosure  of  RPTs,  the  need  to  place,  before  the  audit 
+committee, a separate statement of significant related party transactions may not be 
+required.  
+ 
+The Working Group also deliberated that there have been cases in the past, where 
+the listed entity gives a large contract to a related party which does not otherwise have 
+much business (apart from that given by the listed entity). The Working Group thus felt 
+
+29 
+
+ 
+
+that it would be desirable for the audit committee, before taking a decision on a RPT, 
+to know the percentage of the counter-party’s annual total revenues, total assets and 
+net  worth,  that  is  represented  by  the  value  of  the  proposed  RPT.  It  was  further 
+deliberated whether making such disclosure mandatory will make it onerous for listed 
+entities; hence, to start with, the Working Group felt that such disclosure can be on a 
+voluntary basis. 
+ 
+The Working Group therefore recommended the following changes to the LODR: 
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Part C of Schedule II of the LODR 
+ 
+B.  The  audit  committee  shall 
+mandatorily 
+following 
+information: 
+…. 
+ 
+
+review 
+
+the 
+
+Modification of paragraph (2) and insertion 
+of new paragraph (7) in Part B of Schedule 
+II of the LODR 
+ 
+B.  The  audit  committee  shall  mandatorily 
+review the following information: 
+…. 
+ 
+(2)  statement  of  significant  related  party 
+transactions  (as  defined  by 
+the  audit 
+committee), submitted by management; 
+ 
+with  respect  to  approval  of  a  related  party 
+transaction,  the  following  information  as 
+provided  by  the  management  of  the  listed 
+entity: 
+
+(a)  Type,  material  terms  and  particulars 
+
+of the proposed transaction;  
+
+ 
+(b)  Name  of  the  related  party  and  its 
+relationship with the listed entity or its 
+subsidiary,  including  nature  of  its 
+concern  or 
+(financial  or 
+otherwise);  
+ 
+
+interest 
+
+(c)  Tenure of the proposed transaction;  
+
+ 
+Explanation.-  The  transaction  should 
+have  a  particular  tenure  or  term  and 
+should  not  be  indefinite  or  open-
+ended. 
+ 
+
+(d)  Value of the proposed transaction;  
+
+ 
+Explanation.- An upper limit should be 
+provided and in case of a recurring or 
+
+30 
+
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+continuous transaction, the aggregate 
+value and the time period within which 
+such limit will be exhausted.  
+ 
+
+(e)  The  percentage  of  the  listed  entity’s 
+annual  total  revenues,  total  assets 
+and  net  worth,  on  a  consolidated 
+basis,  for  the  immediately  preceding 
+financial  year,  that  is  represented  by 
+the value of the proposed transaction, 
+provided  that,  for  a  related  party 
+transaction involving a subsidiary, the 
+value of the proposed transaction as 
+the  subsidiary’s 
+a  percentage  of 
+a 
+annual 
+standalone 
+be 
+additionally provided;  
+ 
+If the transaction relates to any loans, 
+inter-corporate deposits, advances or 
+investments  made  or  given  by  the 
+listed entity or its subsidiary:  
+
+revenues 
+
+should 
+
+on 
+
+total 
+
+basis 
+
+(f) 
+
+ 
+details  of  the  source  of  funds  in 
+connection  with 
+the  proposed 
+related party transaction;  
+
+where any financial indebtedness 
+is incurred to make or give loans, 
+inter-corporate 
+deposits, 
+advances or investments, 
+
+  nature of indebtedness; 
+  cost of funds; and  
+ 
+
+tenure;  
+
+terms, 
+
+ 
+applicable 
+including 
+covenants,  tenure,  interest  rate 
+and 
+schedule, 
+whether  secured  or  unsecured 
+and  if  secured,  the  nature  of 
+security; and  
+
+repayment 
+
+the  purpose  for  which  the  funds 
+will  be  utilised  by  the  ultimate 
+beneficiary 
+funds 
+pursuant  to  the  related  party 
+transaction; 
+
+such 
+
+of 
+
+i. 
+
+ii. 
+
+ 
+
+iii. 
+
+ 
+
+iv. 
+
+31 
+
+ 
+
+ 
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g) 
+
+Justification  as  to  why  the  related 
+party  transaction  is  in  the  interest  of 
+the listed entity;  
+ 
+
+(h)  A  copy  of  the  valuation  or  other 
+external report, if any such report has 
+been relied upon;  
+ 
+Percentage  of 
+the  counter-party’s 
+annual  total  revenues,  total  assets 
+and net worth, that is represented by 
+the  value  of  the  proposed  related 
+party transaction: 
+ 
+Provided 
+information 
+mentioned in this sub-clause may be 
+placed before the audit committee on 
+a voluntary basis; and 
+
+that 
+
+(i) 
+
+the 
+
+ 
+(j) 
+
+Any  other  information  that  may  be 
+relevant. 
+
+………. 
+
+7. status of long-term (more than one year) 
+or recurring related party transactions on 
+an annual basis. 
+ 
+
+ 
+
+32 
+
+ 
+
+Chapter 4: Disclosure Requirements 
+
+ 
+
+This chapter of the Report discusses the existing legal provisions relating to disclosure 
+obligations  of  listed  entities  in  relation  to  RPTs  and  the  Working  Group’s 
+recommendations  in  respect  thereof.    The  Working  Group’s  aim  was  to  strike  a 
+balance  between  the  additional  disclosure  requirements  recommended  on  the  one 
+hand and the compliance burden on the other.  
+ 
+This chapter of the Report has been divided into two parts:  
+(1)  minimum  information  to  be  provided  to  the  shareholders  for  consideration  of 
+
+(2) 
+
+RPTs; and  
+formats for disclosures to be made by the listed entity to the stock exchanges 
+in respect of RPTs.   
+
+ 
+Information to be provided to Shareholders for consideration of RPTs 
+
+ 
+The  disclosure  requirements  to  the  audit  committee  of  the  listed  entity  have  been 
+covered in Chapter 3. 
+  
+I. 
+ 
+Pursuant to existing requirements under the Companies Act, the notice issued to the 
+shareholders in respect of a general meeting is required to contain a statement of the 
+business  proposed  to  be  transacted  at  such  meeting.    Additionally,  an  explanatory 
+statement  is  required  to  be  annexed  to  such  notice  setting  out  certain  prescribed 
+information in respect of any proposed RPT.  The explanatory statement is required 
+to contain the following details:  
+ 
+(i) 
+
+Name of the related party; 
+ 
+Name of the director or key managerial personnel who is related, if any;  
+ 
+
+(ii) 
+
+(iii)  Nature of the relationship;  
+
+(iv) 
+
+(v) 
+
+ 
+Type,  material  terms,  monetary  value  and  particulars  of  the  contract  or 
+arrangement;  
+ 
+Nature of concern or interest (financial or otherwise) of every director, manager 
+(if any) and key managerial personnel and their relatives in the RPT;  
+ 
+
+(vi)  Where the related party is a corporate entity, the extent of shareholding interest 
+of every promoter, director, manager, if any, and of every other key managerial 
+personnel of the entity in such related party, if the extent of such shareholding 
+exceeds 2% of the paid-up share capital of the related party;  
+ 
+If any document has been referred to in the proposed resolution and it is to be 
+considered  at  the  meeting,  then  a  statement  specifying  the  place  and  time 
+where such document can be inspected;7 
+
+(vii) 
+
+                                                           
+7  
+
+The secretarial standard on general meetings states that such documents should be made available for 
+inspection in physical or in electronic form during specified business hours at the registered office of the 
+
+33 
+
+ 
+
+ 
+
+(viii)  Any other information or facts that may enable shareholders to understand the 
+meaning,  scope  and  implications  of  the  RPT  and  to  take  a  decision  on  the 
+proposed resolution.  
+ 
+
+Further, under Regulation 17(11) of the LODR, the recommendation of the board of 
+directors of the listed entity on each item of special business is required to be disclosed 
+in the statement to be annexed to the notice to the shareholders.  
+ 
+Working Group deliberations and recommendations 
+ 
+The  Working  Group  noted  that  the  level  of  minority  shareholder  voting  in  India  is 
+currently low and due to the requirement of a majority vote of non-related shareholders 
+for RPTs, there is a need to maximize informed shareholder participation.   
+ 
+The Working Group was of the view that the information required to be disclosed to 
+the audit committee in Chapter 3 above should also be provided to the shareholders 
+in  a  brief  and  comprehensible  manner.  In  addition,  the  Working  Group  after 
+deliberations determined that it may be relevant for the shareholders to know whether 
+the approval for the RPT was given unanimously by the audit committee. 
+ 
+Further, the Working Group also discussed whether a copy of the valuation report or 
+any other external report relied upon by the management of the company should be 
+annexed  to  the  notice  to  the  shareholders.  Members  of  the  Working  Group 
+acknowledged that such reports could provide useful insights on the RPT. However, 
+the Working Group also recognised the fact that such reports may be voluminous and 
+technical.    Accordingly,  the  Working  Group  concluded  that  such  reports  would  be 
+available for inspection at the registered office of the listed entity.  
+ 
+The Working Group therefore recommended the following changes to the LODR: 
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+36.  Documents  & 
+shareholders  
+ 
+…. 
+
+Information 
+
+to 
+
+ 
+
+sent 
+
+Insertion of new sub-regulation 36(6) 
+ 
+36(6).  The  notice  being 
+to 
+shareholders  seeking  approval  for  any 
+proposed related party transaction shall, in 
+addition  to  the  requirements  under  the 
+Companies Act, 2013, include the following 
+information  as  a  part  of  the  explanatory 
+statement:  
+ 
+(1)  A  summary  of 
+
+information 
+provided  by  the  management  of  the 
+
+the 
+
+                                                           
+
+company and copies thereof shall also be made available for inspection in physical or electronic form at 
+the head office and corporate offices of the company. Further, copies of such documents should also be 
+made available at the meeting itself. 
+
+34 
+
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+listed  entity  to  the  audit  committee 
+pursuant to paragraph B(2) of Part C 
+of Schedule II;  
+
+ 
+
+(2)  The  recommendation  of  the  audit 
+committee in respect of the proposed 
+transaction,  specifying 
+justification 
+for  why  the  transaction  is  in  the 
+interest of the listed entity;  
+
+ 
+
+inter-corporate 
+
+(3)  Where the transaction relates to any 
+deposits, 
+loans, 
+advances  or  investments  made  or 
+given  by  the  listed  entity  or  its 
+subsidiary, 
+the  details  specified 
+under paragraph B (2) (f) of Part C of 
+Schedule II;  
+ 
+
+(4)  Whether  the  approval  of  the  related 
+the  audit 
+
+transaction  by 
+
+party 
+committee was unanimous;  
+ 
+
+(5)  A  statement  that  the  valuation  or 
+other  external  report,  if  any,  relied 
+upon by the listed entity in relation to 
+transaction  will  be 
+the  proposed 
+available 
+for 
+inspection  at 
+the 
+registered office of the listed entity; 
+ 
+
+(6)  Percentage  of  the  counter-party’s 
+annual  total  revenues,  total  assets 
+and net worth, that is represented by 
+the  value  of  the  proposed  related 
+party transaction: 
+ 
+Provided 
+information 
+mentioned in this sub-clause may be 
+placed 
+to 
+shareholders on voluntary basis; and 
+ 
+
+the  notice  sent 
+
+that 
+
+the 
+
+in 
+
+(7)  Any  other  information  that  may  be 
+
+relevant. 
+
+ 
+
+35 
+
+ 
+
+ 
+Format for Reporting of RPTs to the Stock Exchanges   
+
+II. 
+ 
+One of the terms of reference of the Working Group was to  discuss formats for the 
+periodic disclosures of RPTs by listed entities to the stock exchanges.  The Working 
+Group commenced its deliberations with an objective to ensure that the format in which 
+data  is  received  from  the  listed  entities  is  easily  readable  by  investors  as  well  as 
+regulatory authorities for monitoring. 
+ 
+The existing requirements governing the disclosure of RPTs by a listed entity under 
+the LODR and the Companies Act are set out below: 
+ 
+(i) 
+
+The  listed  entity  is  required  to  disclose  its  related  party  transactions  on  a 
+consolidated  basis  in  a  format  prescribed  under  the  relevant  accounting 
+standard for  annual  results.  Such disclosure  should  be  made  within  30  days 
+from the date of publication of its standalone and consolidated financial results 
+for the half-year. 
+
+(ii) 
+
+(iii) 
+
+(iv) 
+
+(v) 
+
+ 
+
+The listed entity is required to disclose RPTs in its annual report in the format 
+specified under Schedule V of the LODR.  The annual report is also required to 
+contain  disclosure  of  all  transactions  with  persons/entities  belonging  to  the 
+promoter/promoter group holding 10% or more of the shareholding in the listed 
+entity.  These disclosure requirements are not applicable to listed banks.   
+
+ 
+
+The corporate governance report forming part of the annual report of the listed 
+entity is required to include “disclosures on materially significant related party 
+transactions that may have potential conflict with the interest of the listed entity 
+at large”.  
+
+ 
+
+The ‘details of all material transactions with related parties’ are required to be 
+disclosed  in  the  quarterly  compliance  report  on  corporate  governance  to  be 
+submitted by listed entities to the stock exchanges within 15 days from the end 
+of the quarter.  
+
+ 
+
+Listed  entities  are  also  required  to  disclose  to  the  stock  exchanges  any 
+agreements, including loan agreements (as a borrower) which are binding on 
+the  listed  entity  and  not  in  the  normal  course  of  business.  Subsequent 
+amendments made to such agreements or termination of such agreements are 
+also required to be disclosed. The above mentioned disclosures are however, 
+be subject to the materiality guidelines under Regulation 30(4) of the LODR.   
+ 
+
+(vi)  Every company is required to attach to its financial statements,  
+
+the auditor’s report; and 
+particulars of contracts or arrangements with related parties referred to 
+in Section 188 of the Companies Act in Form AOC-28.    
+
+(a) 
+(b) 
+
+ 
+
+                                                           
+8  
+
+Form AOC-2 requires disclosure of (i) related party transactions entered into by the company which are 
+not at arm’s length basis and (ii) material related party transactions which are entered into on arm’s length 
+basis. 
+
+36 
+
+ 
+
+(vii)  Details of RPTs in which directors are interested are required to be entered into 
+
+the register of contracts or arrangements. 
+
+ 
+Working Group deliberations and recommendations  
+ 
+The Working Group discussed the format of the half yearly disclosures (i.e., in respect 
+of the two six-monthly periods of a financial year).  Based on the existing regulation 
+23(9) of the LODR, it was observed that there was no consistency in such disclosures 
+across listed entities, more so since there is no specific format prescribed in the Ind 
+AS. Thus, there is asymmetry in information due to varied reporting formats and the 
+Working Group felt the need to standardize the same through a prescribed format. 
+ 
+While  developing  the  format,  the  Working  Group  first  examined  the  existing 
+disclosures as per  Ind  AS  such as  value  of transactions,  outstanding  balances  and 
+their  terms  and  conditions  including  whether  they  are  secured,  details  of  any 
+guarantees given or received, among others. Further, the Working Group noted that 
+Ind AS requires these disclosures only at an aggregate level with a specific category 
+of related party such as parent, subsidiary etc. In this respect, the Working Group was 
+of  the  opinion  that  disclosure  of  aggregate  level  information  does  not  provide 
+substantive information and a breakup of the same should be given such that RPTs 
+with different counter-parties should be separately disclosed. Further, considering that 
+significant  misuse  of  RPTs  has  been  happening  by  way  of  loans/advances/inter-
+corporate  deposits  to related  parties,  the Working  Group  was  of the  view  that  such 
+transactions need more detailed disclosures. Taking into consideration the above, the 
+Working Group has built upon the existing disclosures and codified the same into a 
+standardized format as provided in Appendix-II of this Report. 
+ 
+Separately, the Working Group also discussed whether the listed entity can make the 
+prescribed  RPT  disclosures  simultaneously  with  the  publication  of  financial  results.  
+Currently, the listed entity is required to make such RPT disclosures within 30 days 
+from the date of publication of its standalone and consolidated financial statements. 
+The Working Group considered that the details of all RPTs would already be available 
+with the listed entity when the financial results are announced; accordingly, the listed 
+entity should be able to disclose details of RPTs in the prescribed format on the same 
+day.   
+ 
+While the LODR mandates certain disclosures relating to loans and advances under 
+Schedule V in the Annual Report of the listed entity, the format recommended by the 
+Working Group covers such disclosures except with respect to “loans and advances 
+in the nature of loans to firms/companies in which directors are interested by name 
+and amount”. Accordingly, in order to avoid duplicity in disclosures, the Working Group 
+recommended  that  these  disclosure  requirements  under  Schedule  V  in  the  Annual 
+Report should be applicable only to companies with listed debt securities.  Disclosures 
+with respect to ‘loans and advances in the nature of loans to firms/companies in which 
+directors are interested by name and amount’ may be included as part of the corporate 
+governance disclosures to be made in the Annual Report of the listed entity as per the 
+LODR.  
+ 
+The Working Group therefore recommended the following changes to the LODR: 
+ 
+
+37 
+
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+23(9)  The  listed  entity  shall  submit 
+within  30  days  from  the  date  of 
+publication  of 
+its  standalone  and 
+consolidated  financial  results  for  the 
+half year, disclosures of related party 
+transactions on a consolidated basis, 
+in the format specified in the relevant 
+accounting  standards 
+for  annual 
+results  to  the  stock  exchanges  and 
+publish the same on its website. 
+
+SCHEDULE V: ANNUAL REPORT 
+ 
+The  annual  report  shall  contain  the 
+following additional disclosures: 
+ 
+A.  Related Party Disclosure: 
+…. 
+ 
+
+2.  The  disclosure  requirements  shall 
+be as follows: 
+…. 
+ 
+
+C. Corporate Governance Report: 
+ 
+……. 
+ 
+(10) Other Disclosures: 
+ 
+(a)…. 
+ 
+ 
+
+format  specified 
+
+in 
+
+the 
+
+23(9)  The  listed  entity  shall  submit  within 
+30 days from the date of publication of its 
+standalone  and  consolidated 
+financial 
+results  for  the  half  year,  to  the  stock 
+exchanges  disclosures  of  related  party 
+transactions    on  a  consolidated  basis,  in 
+the 
+relevant 
+accounting standards for annual results to 
+the  stock  exchanges  prescribed  by  SEBI 
+and publish the same on its website. 
+ 
+listed  entity  shall  make  such 
+The 
+disclosures  every  six  months  on  the  date 
+of  publication  of 
+its  standalone  and 
+consolidated financial results. 
+ 
+Modification  of  paragraph  A.(2.)  and 
+insertion  of  new  paragraph  (m)  in  (C)(10) 
+of Schedule V of the LODR 
+ 
+SCHEDULE V: ANNUAL REPORT 
+ 
+The  annual 
+following additional disclosures: 
+ 
+A. Related Party Disclosure: 
+…. 
+ 
+
+report  shall  contain 
+
+the 
+
+2. The disclosure requirements shall be as 
+follows:  disclosures  under  A.(2.)  and 
+A.(2A.)  of  Schedule  V  below,  shall  be 
+applicable  only  to  entities  with  listed  debt 
+securities. 
+ 
+…. 
+ 
+C. Corporate Governance Report: 
+….. 
+ 
+(10) Other Disclosures: 
+ 
+(a)…. 
+ 
+(m) disclosure of ‘Loans and advances in 
+the  nature  of  loans  to  firms/companies  in 
+which directors are interested by name and 
+
+38 
+
+ 
+
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+listed  entity  and 
+
+its 
+
+for  a 
+
+amount’ 
+subsidiaries.  
+ 
+
+39 
+
+ 
+
+ 
+
+Chapter 5: Strengthening the Monitoring and Enforcement of 
+
+Regulatory Norms relating to Related Party Transactions 
+
+Introduction  
+
+This  chapter  of  the  Report  sets  out  certain  other  recommendations  of  the Working 
+Group in respect of strengthening the monitoring and enforcement of regulatory norms 
+relating to RPTs. 
+ 
+I. 
+ 
+The  monitoring  and  enforcement  of  regulatory  norms  prescribed  under  the  LODR, 
+including in relation to RPTs is four tiered: 
+ 
+(i) 
+
+exercise of due diligence by, and active involvement of, the persons identified 
+by the regulatory mechanism to review and consider RPTs.  The directors on 
+the audit committee of the listed entity are the first gatekeepers to review the 
+proposed  RPT,  conduct  due  diligence  and  seek  external  or  expert  opinions 
+where necessary.   
+ 
+second  level  of  check  is  provided  by  the  shareholders  of  the  listed  entity 
+(whether for matters that come up for shareholder approval or otherwise when 
+the RPTs are disclosed periodically).  
+ 
+independent professionals such as statutory auditors and secretarial auditors 
+also provide third tier of check on RPTs.  
+ 
+The final  level of monitoring and enforcement of regulatory norms relating to 
+RPTs is by the relevant regulatory authority. 
+
+(ii) 
+
+(iii) 
+
+(iv) 
+
+ 
+Under the current regulatory framework, a director is disqualified from being appointed 
+as a director of any company, if he/she has been convicted of any offence relating to 
+RPTs under Section 188 of the Companies Act, in the last five years. Depending on 
+the nature of the violation, SEBI can also initiate action against a listed entity and other 
+concerned persons for violation of any provision of LODR relating to RPTs including 
+caution, warning, adjudication (levy of penalty), and/or debarment, depending on the 
+gravity of the violation. 
+ 
+Further,  in  respect  of  any  contract  or  arrangement  entered  into  by  a  listed  entity  in 
+violation of Section 188 of the Companies Act, the concerned director or employee of 
+the company is liable to a fine ranging from Rs.25,000 to Rs.5 lakh or imprisonment 
+for up to one year or both.  The company may also proceed against a director or any 
+other employee who had entered into such contract or arrangement in contravention 
+of Section 188 of the Companies Act for recovery of any loss sustained by it as a result 
+of such contract or arrangement.   
+ 
+Working Group Deliberations and Recommendations 
+ 
+The  Working  Group  considered  improvements  in  monitoring  and  enforcements  in 
+three main areas:  
+ 
+
+40 
+
+ 
+
+(i) 
+(ii) 
+(iii) 
+
+the use of structured data (iXBRL) to augment enforcement;  
+the use of standardised identifiers to identify RPTs; and  
+capacity  building,  both  human  and  technological,  at  SEBI  and  the  stock 
+exchanges. 
+
+Use of Structured Data  
+
+ 
+(i) 
+ 
+At present, LODR mandates that the disclosures made by a listed entity to the stock 
+exchanges shall be in XBRL format, unless there is a statutory requirement to make 
+such disclosures in formats which may not be searchable, such as copies of scanned 
+documents. This provides users, including investors with better quality, reliability and 
+enables  deeper  analysis  of  financial  information  and  allows  other  parties  such  as 
+auditors  to  use  audit  data  analytics  to  make  the  audit  more  efficient.  It  also  allows 
+regulators to use data analytics to identify violations of regulatory norms. 
+ 
+While SEBI has already mandated the XBRL format for reporting, the Working Group 
+recommended that there should be one filing format, which could be based on inline 
+XBRL  (iXBRL),  an  open  standard  that  enables  a  single  document  to  provide  both 
+human-readable and structured, machine-readable data. Further, SEBI and the stock 
+exchanges could consider enhancing their technological capabilities to leverage the 
+benefits of developments in structured reporting.  
+ 
+(ii) 
+ 
+To  ensure  better  monitoring  of  RPTs  in  view  of  concerns  such  as  mismatch  in 
+reporting,  routing  through  multiple  entities,  etc.,  there  is  a  need  for  standardised 
+identification  of  related  parties.    In  the  section  on  disclosure  formats,  one  of  the 
+recommendations  made  by  the  Working  Group  is  the  use  of  Permanent  Account 
+Number (“PAN”) of the parties involved in related party transactions.  
+
+Introduction of Standardised Identifiers  
+
+ 
+
+(iii)  Capacity building at the SEBI and the Stock Exchanges 
+ 
+The Working  Group  also  notes  and  reiterates  the  following  recommendation  of  the 
+Kotak  committee  on  corporate  governance,  as  regards  capacity  building  at  SEBI 
+(which the Working Group noted could also apply to the stock exchanges): 
+ 
+The  staff  strength  at  SEBI  needs  to  be  increased  to  strengthen  its  monitoring  and 
+enforcement functions.  Successful enforcement actions by SEBI can have the twin 
+effect  of penalising  the  guilty, on the one  hand, and  creating  a  significant  deterrent 
+effect on the other hand. However, for such deterrent effects to be felt in India, SEBI 
+must equip itself so that it can adroitly gather evidence with the objective of “investigate 
+to  litigate.”  SEBI  needs  to  develop  teams  comprising  data  scientists,  accountants, 
+lawyers specialised in corporate law, software engineers. The members need to have 
+depth  of  knowledge  within  their  respective  areas  as  also  possess  broad  expertise 
+across functional areas.  In addition, SEBI should build its market intelligence through 
+regular review of market research. 
+ 
+ 
+
+ 
+
+41 
+
+ 
+
+Annexure A 
+
+ 
+ 
+
+1. 
+
+Definition of ‘Related Party’  
+ 
+
+ 
+
+Companies Act 
+
+ 
+
+2. (76) “related party”, with reference to a 
+company, means—  
+ 
+(i) 
+
+a director or his relative;  
+ 
+a key managerial personnel or his 
+relative;  
+ 
+ a 
+in  which  a  director, 
+manager or his relative is a partner; 
+ 
+
+firm, 
+
+(ii) 
+
+(iii) 
+
+(v) 
+
+(iv)  a  private  company  in  which  a 
+director or manager  or his relative 
+is a member or director;  
+ 
+a  public  company 
+in  which  a 
+director  or  manager  is  a  director 
+and  holds along with his relatives, 
+more than two per cent of its paid-
+up share capital;  
+ 
+
+(vi)  any  body  corporate  whose  Board 
+of  Directors,  managing  director  or 
+manager  is  accustomed  to  act  in 
+accordance  with 
+the  advice, 
+directions  or 
+instructions  of  a 
+director or manager;  
+ 
+
+(vii)  any  person  on  whose  advice, 
+directions or instructions a director 
+or manager is accustomed to act:  
+ 
+Provided 
+in  sub-
+clauses (vi) and (vii) shall apply to 
+the 
+or 
+instructions given in a professional 
+capacity;  
+ 
+
+that  nothing 
+
+directions 
+
+advice, 
+
+ 
+
+Ind AS 24 
+
+ 
+
+A related party is a person or entity that 
+is  related  to  the  entity  that  is  preparing 
+its financial statements (in this Standard 
+referred to as the ‘reporting entity’).   
+
+ 
+
+(a) A person or a close member of that 
+to  a 
+
+family 
+
+related 
+person’s 
+reporting entity if that person: 
+ 
+
+is 
+
+(i)  has  control  or  joint  control  of  the 
+
+reporting entity; 
+
+ 
+
+(ii)  has  significant  influence  over  the 
+
+reporting entity; or 
+
+ 
+
+(iii) 
+
+key 
+is  a  member  of 
+management  personnel  of 
+the 
+reporting entity or of a parent of the 
+reporting entity.   
+
+the 
+
+ 
+
+(b) An  entity  is  related  to  a  reporting 
+following 
+
+if  any  of 
+
+the 
+
+entity 
+conditions applies: 
+ 
+
+(i)  The entity and the reporting entity are 
+members  of  the  same  group  (which 
+means  that  each  parent,  subsidiary 
+and fellow subsidiary is related to the 
+others).   
+
+ 
+
+(ii)  One entity is an associate or joint 
+venture  of  the  other  entity  (or  an 
+associate  or  joint  venture  of  a 
+member  of  a  group  of  which  the 
+other entity is a member).   
+ 
+
+(iii)  Both  entities  are  joint  ventures  of 
+
+the same third party.   
+
+(viii)  any body corporate which is—  
+
+ 
+
+(A)  a  holding,  subsidiary  or  an 
+associate  company  of  such 
+company; or  
+
+(iv)  One  entity  is  a  joint  venture  of  a 
+third  entity  and  the  other  entity  is 
+an associate of the third entity.   
+
+42 
+
+ 
+
+ 
+
+Companies Act 
+
+ 
+
+ 
+
+Ind AS 24 
+
+ 
+
+ 
+
+(v)  The  entity  is  a  post-employment 
+benefit  plan  for  the  benefit  of 
+employees  of  either  the  reporting 
+entity  or  an  entity  related  to  the 
+reporting  entity.  If  the  reporting 
+entity  is  itself  such  a  plan,  the 
+sponsoring  employers  are  also 
+related to the reporting entity.   
+ 
+
+(vi)  The  entity  is  controlled  or  jointly 
+controlled by a person identified in 
+(a).   
+ 
+
+(vii)  A  person  identified  in  (a)(i)  has 
+significant influence over the entity 
+the  key 
+or 
+management  personnel  of 
+the 
+entity (or of a parent of the entity) 
+ 
+
+is  a  member  of 
+
+(viii)  The  entity,  or  any  member  of  a 
+group of which it is a part, provides 
+key  management 
+personnel 
+services to the reporting entity or to 
+the parent of the reporting entity.   
+
+(B)  a  subsidiary  of  a  holding 
+company  to  which  it  is  also  a 
+subsidiary; or 
+(C)  an  investing  company  or  the 
+venture of the company. 
+ 
+Explanation.-For  the  purpose  of 
+this 
+investing 
+company  or  the  venturer  of  a 
+company”  means 
+body 
+corporate whose investment in the 
+company  would  result 
+the 
+company  becoming  an  associate 
+company of the body corporate.  
+ 
+
+clause, 
+
+“the 
+
+a 
+
+in 
+
+(ix)  such  other  person  as  may  be 
+
+prescribed*; 
+ 
+
+ 
+*Rule 3 of the Companies (Specification 
+of  Definitions  Details)  Rules,  2014 
+prescribes that a director (other than an 
+independent director) or key managerial 
+personnel of the holding company or his 
+relative  with  reference  to  a  company, 
+shall be deemed to be a related party.   
+ 
+
+2. 
+
+ 
+Section 188 of the Companies Act 
+ 
+188.  Related party transactions. 
+
+ 
+
+1. 
+
+ 
+
+Except with the consent of the Board of Directors given by a resolution 
+at  a  meeting  of  the  Board  and  subject  to  such  conditions  as  may  be 
+prescribed,  no  company  shall  enter  into  any  contract  or  arrangement 
+with a related party with respect to–  
+
+(a) 
+(b) 
+(c) 
+(d) 
+(e) 
+
+(f) 
+
+(g) 
+
+sale, purchase or supply of any goods or materials; 
+selling or otherwise disposing of, or buying, property of any kind; 
+leasing of property of any kind; 
+availing or rendering of any services; 
+appointment  of  any  agent  for  purchase  or  sale  of  goods, 
+materials, services or property; 
+such related party's appointment to any office or place of profit in 
+the company, its subsidiary company or associate company; and 
+underwriting  the  subscription  of  any  securities  or  derivatives 
+thereof, of the company: 
+
+43 
+
+ 
+
+ 
+Provided that no contract or arrangement, in the case of a company having a 
+paid-up share capital of not less than such amount, or transactions exceeding 
+such sums, as may be prescribed, shall be entered into except with the prior 
+approval of the company by a resolution: 
+
+ 
+
+Provided further that no member of the company shall vote on such resolution, 
+to  approve  any  contract  or  arrangement  which  may  be  entered  into  by  the 
+company, if such member is a related party: 
+ 
+Provided  also  that  nothing  contained  in  the  second  proviso  shall  apply  to  a 
+company in which ninety per cent or more members, in number, are relatives 
+of promoters or are related parties:  
+ 
+Provided  also that  nothing  in  this  sub-section  shall apply to any transactions 
+entered  into  by  the  company  in  its  ordinary  course  of  business  other  than 
+transactions which are not on an arm‘s length basis: 
+ 
+Provided also that the requirement of passing the resolution under first proviso 
+shall not be applicable for transactions entered into between a holding company 
+and  its  wholly  owned  subsidiary  whose  accounts  are  consolidated  with  such 
+holding company and placed before the shareholders at the general meeting 
+for approval.   
+ 
+Explanation.  In this sub-section, 
+ 
+(a) 
+
+the expression “office or place of profit” means any office or place – 
+
+ 
+
+(i) 
+
+ 
+(ii) 
+
+where  such  office  or  place  is  held  by  a  director,  if  the  director 
+holding  it  receives  from  the  company  anything  by  way  of 
+remuneration  over  and  above  the  remuneration  to  which  he  is 
+entitled  as  director,  by  way  of  salary, 
+fee,  commission, 
+perquisites, any rent-free accommodation, or otherwise; 
+
+where such office or place is held by an individual other than a 
+director or by any firm, private company or other body corporate, 
+if the individual, firm, private company or body corporate holding 
+it receives from the company anything by way of remuneration, 
+salary, 
+commission, 
+rent-free 
+accommodation, or otherwise; 
+
+perquisites, 
+
+fee, 
+
+any 
+
+ 
+the expression “arm‘s length transaction” means a transaction between 
+two related parties that is conducted as if they were unrelated, so that 
+there is no conflict of interest.   
+
+Every contract or arrangement entered into under sub-section (1) shall 
+be referred to in the Board‘s report to the shareholders along with the 
+justification for entering into such contract or arrangement.   
+
+(b) 
+
+2. 
+
+ 
+
+ 
+
+44 
+
+ 
+
+3. 
+
+ 
+
+4. 
+
+ 
+5. 
+
+Where any contract or arrangement is entered into by a director or any 
+other employee, without obtaining the consent of the Board or approval 
+by a resolution in the general meeting under sub-section (1) and if it is 
+not ratified by the Board or, as the case may be, by the shareholders at 
+a meeting within three months from the date on which such contract or 
+arrangement  was  entered  into,  such  contract  or  arrangement  shall  be 
+voidable  at  the  option  of  the  Board  or,  as  the  case  may  be,  of  the 
+shareholders and if the contract or arrangement is with a related party to 
+any  director,  or  is  authorised  by  any  other  director,  the  directors 
+concerned shall indemnify the company against any loss incurred by it.   
+
+Without  prejudice  to  anything  contained  in  sub-section  (3),  it  shall  be 
+open  to  the  company  to  proceed  against  a  director  or  any  other 
+employee  who  had  entered  into  such  contract  or  arrangement  in 
+contravention of the provisions of this section for recovery of any loss 
+sustained by it as a result of such contract or arrangement.   
+
+Any director or any other employee of a company, who had entered into 
+or authorised the contract or arrangement in violation of the provisions 
+of this section shall,– 
+
+ 
+
+(i) 
+
+ 
+(ii) 
+
+in case of listed company, be punishable with imprisonment for a 
+term which may extend to one year or with fine which shall not be 
+less than twenty-five thousand rupees but which may extend to 
+five lakh rupees, or with both; and 
+
+in case of any other company, be punishable with fine which shall 
+not  be  less  than  twenty-five  thousand  rupees  but  which  may 
+extend to five lakh rupees.   
+
+Definition of ‘promoter’ and ‘promoter group’ under the ICDR 
+
+ 
+3. 
+ 
+2(1)(oo). “promoter” shall include a person:  
+
+who has been named as such in a draft offer document or offer document or 
+is identified by the issuer in the annual return referred to in section 92 of the 
+Companies Act, 2013; or  
+
+who has control over the affairs of the issuer, directly or indirectly whether as 
+a shareholder, director or otherwise; or  
+
+in  accordance  with  whose  advice,  directions  or  instructions  the  board  of 
+directors of the issuer is accustomed to act:  
+
+i) 
+
+ 
+
+ 
+
+ii) 
+
+iii) 
+
+ 
+
+Provided that nothing in sub-clause (iii) shall apply to a person who is acting merely in 
+a professional capacity;  
+
+Provided  further  that  a  financial  institution,  scheduled  commercial  bank,  foreign 
+portfolio  investor  other  than  individuals,  corporate bodies and  family  offices,  mutual 
+fund, venture capital fund, alternative investment fund, foreign venture capital investor, 
+
+45 
+
+ 
+
+insurance  company  registered  with  the  Insurance  Regulatory  and  Development 
+Authority of India or any other category as specified by the Board from time to time, 
+shall not be deemed to be a promoter merely by virtue of the fact that twenty per cent 
+or more of the equity share capital of the issuer is held by such person unless such 
+person satisfy other requirements prescribed under these regulations; 
+
+2(1)(pp) “promoter group” includes:  
+
+the promoter;  
+
+an immediate relative of the promoter (i.e., any spouse of that person, or any 
+parent, brother, sister or child of the person or of the spouse); and  
+
+i) 
+
+ii) 
+
+ 
+
+ 
+
+iii) 
+
+in case promoter is a body corporate: 
+
+ 
+A) 
+ 
+B) 
+
+ 
+C) 
+
+a subsidiary or holding company of such body corporate;  
+
+any body corporate in which the promoter holds twenty per cent or more 
+of the equity share capital; and/or any body corporate which holds twenty 
+per cent or more of the equity share capital of the promoter;  
+
+any  body  corporate  in  which  a  group  of  individuals  or  companies  or 
+combinations  thereof  acting  in  concert,  which  hold  twenty  per  cent  or 
+more of the equity share capital in that body corporate and such group 
+of  individuals  or  companies or  combinations  thereof  also  holds  twenty 
+per cent or more of the equity share capital of the issuer and are also 
+acting in concert; and  
+
+iv) 
+
+ 
+in case the promoter is an individual:  
+ 
+A) 
+
+any body corporate in which twenty per cent or more of the equity share 
+capital is held by the promoter or an immediate relative of the promoter 
+or a firm or Hindu Undivided Family in which the promoter or any one or 
+more of their relative is a member;  
+
+ 
+B) 
+
+ 
+C) 
+
+any body corporate in which a body corporate as provided in (A) above 
+holds twenty per cent or more, of the equity share capital; and  
+
+any Hindu Undivided Family or firm in which the aggregate share of the 
+promoter and their relatives is equal to or more than twenty per cent of 
+the total capital;  
+
+v) 
+
+ 
+all persons whose shareholding is aggregated under the heading “shareholding 
+of the promoter group”: 
+
+Provided  that  a  financial  institution,  scheduled  bank,  foreign  portfolio  investor  other 
+than individuals, corporate bodies and family offices, mutual fund, venture capital fund, 
+alternative  investment  fund,  foreign  venture  capital  investor,  insurance  company 
+registered with the Insurance Regulatory and Development Authority of India or any 
+other category as specified by the Board from time to time, shall not be deemed to be 
+
+46 
+
+ 
+
+promoter group merely by virtue of the fact that twenty per cent or more of the equity 
+share capital of the promoter is held by such person or entity: 
+
+Provided  further  that  such  financial  institution,  scheduled  bank,  foreign  portfolio 
+investor  other  than  individuals,  corporate  bodies  and  family  offices,  mutual  fund, 
+venture capital fund, alternative investment fund and foreign venture capital investor 
+insurance  company  registered  with  the  Insurance  Regulatory  and  Development 
+Authority of India or any other category as specified by the Board from time to time 
+shall  be  treated  as  promoter  group  for  the  subsidiaries  or  companies  promoted  by 
+them or for the mutual fund sponsored by them; 
+
+47 
+
+ 
+
+Appendix – I : Consolidated List of Recommendations 
+
+ 
+
+Current Provision in the LODR 
+
+Proposed Changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Definition of “related party”– Refer to paragraph I of Chapter 2 (page 10) for the 
+rationale for the proposed amendment  
+
+ 
+2(zb) “related party” means a related 
+party  as  defined  under  sub-section 
+(76)  of  section  2  of  the  Companies 
+Act,  2013  or  under  the  applicable 
+accounting standards: 
+ 
+Provided  that  any  person  or  entity 
+belonging to the promoter or promoter 
+group of the listed entity and holding 
+20%  or  more  of  shareholding  in  the 
+listed entity shall be deemed to be a 
+related party. 
+ 
+
+Provided  further  that  this  definition 
+shall not be applicable for  the  units 
+issued  by  mutual  funds  which  are 
+listed  on  a 
+stock 
+exchange(s); 
+
+recognised 
+
+ 
+2(zb) “related party” means a related party 
+as defined under sub-section (76) of section 
+2 of the Companies Act, 2013 or under the 
+applicable accounting standards: 
+ 
+Provided that:  
+(i)  any  person  or  entity  belonging  to  the 
+promoter  or  promoter  group  of  the  listed 
+entity  and    holding    20%    or    more    of  
+shareholding    in    the    listed  entity  shall  be 
+deemed to be a related party; or  
+ 
+(ii)  any  person  or  any  entity,  directly  or 
+indirectly  (including  with  their  relatives), 
+holding  20%  or  more  of 
+the  equity 
+shareholding in the listed entity,  
+ 
+shall be deemed to be a related party. 
+
+Provided  further  that  this  definition  shall 
+not  be  applicable  for  the  units  issued  by 
+mutual 
+listed  on  a 
+recognised stock exchange(s); 
+ 
+
+funds  which  are 
+
+“related  party 
+
+ 
+Definition  of  “related  party  transaction”-  Refer  to  paragraph  III  of  Chapter  2 
+(page 13) and paragraph I of Chapter 3 (page 15) for the rationale for the proposed 
+amendment 
+ 
+ 
+transaction” 
+2(zc) 
+means  a 
+resources, 
+services  or  obligations  between  a 
+listed  entity  and  a  related  party, 
+regardless  of  whether  a  price  is 
+charged  and  a  “transaction”  with  a 
+related  party  shall  be  construed  to 
+include a single transaction or a group 
+of transactions in a contract: 
+ 
+
+ 
+2(zc)  “related  party  transaction”  means  a 
+transaction 
+of 
+resources, services or obligations between 
+a listed entity and a related party:  
+ 
+(i)  the listed entity or any of its subsidiaries 
+on  the one hand and a  related  party  of 
+the listed entity or any of its subsidiaries 
+on the other hand; or  
+
+transfer  of 
+
+involving 
+
+a 
+
+transfer 
+
+ 
+
+48 
+
+ 
+
+Provided  that  this definition  shall  not 
+be  applicable for  the units  issued  by 
+mutual  funds  which  are  listed  on  a 
+recognised stock exchange(s); 
+ 
+
+(ii)  the listed entity or any of its subsidiaries 
+on the one hand, and any other person 
+or entity on the other hand, the purpose 
+and effect of which is to benefit a related 
+party  of  the  listed  entity  or  any  of  its 
+subsidiaries,  
+
+ 
+
+regardless of whether a price is charged or 
+not and a. Such “transaction” with a related 
+party shall be construed to include a single 
+transaction  or  a  group  of  transactions.in  a 
+contract: 
+ 
+Provided  that  the  following  shall  not  be 
+treated as related party transactions: 
+ 
+(a) 
+
+basis, 
+
+subject 
+
+the issue of specified securities on a 
+preferential 
+to 
+requirements  under  the  Securities 
+and  Exchange  Board  of  India  (Issue 
+of 
+Disclosure 
+Requirements)  Regulations,  2018 
+being complied with; and    
+     
+the following corporate actions by the 
+listed  entity  which  are  uniformly 
+applicable/offered to all shareholders 
+in proportion to their shareholding: 
+ 
+
+Capital 
+
+and 
+
+(b) 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+payment of dividend;  
+ 
+subdivision or consolidation of 
+securities; 
+ 
+issuance  of  securities  by  way 
+of  a  rights  issue  or  a  bonus 
+issue; and  
+ 
+buy-back of securities. 
+
+ 
+Provided further that this definition shall not 
+be applicable for the units issued by mutual 
+funds which are listed on a recognised stock 
+exchange(s); 
+
+Regulation 18(3).  Audit Committee  – Refer  to paragraph III of Chapter  3 (page 
+27) for the rationale for the proposed amendment 
+
+ 
+
+ 
+
+49 
+
+ 
+
+role  of 
+
+the  audit 
+18(3)  –The 
+committee  and  the  information  to  be 
+reviewed by the audit committee shall 
+be as specified in Part C of Schedule 
+II. 
+
+18(3) –The role of the audit committee and 
+the information to be reviewed by the audit 
+committee, 
+including  while  considering 
+related  party  transactions,  shall  be  as 
+specified in Part C of Schedule II. 
+ 
+
+Regulation 23(1). Related party transactions– Refer to paragraph II of Chapter 3 
+(page 25) for the rationale for the proposed amendment 
+
+ 
+23(1) The listed entity shall formulate 
+a policy on materiality of related party 
+transactions  and  on  dealing  with 
+related  party  transactions  including 
+clear  threshold  limits  duly  approved 
+by  the  board  of  directors  and  such 
+policy shall be reviewed by the board 
+of directors at least once every three 
+years and updated accordingly: 
+ 
+Explanation.-  A  transaction  with  a 
+related  party  shall  be  considered 
+material  if  the  transaction(s)  to  be 
+entered  into  individually  or  taken 
+together  with  previous  transactions 
+during  a  financial  year,  exceeds  ten 
+percent  of  the  annual  consolidated 
+turnover of the listed entity as per the 
+last  audited  financial  statements  of 
+the listed entity. 
+
+ 
+23(1)  The  listed  entity  shall  formulate  a 
+policy  on  materiality  of 
+related  party 
+transactions  and  on  dealing  with  related 
+party transactions including clear threshold 
+limits  duly  approved  by 
+the  board  of 
+directors and such policy shall be reviewed 
+by the board of directors at least once every 
+three years and updated accordingly: 
+ 
+Explanation.-  A  transaction  with  a  related 
+party 
+transaction  shall  be  considered 
+material  if  the  transaction(s)  to  be  entered 
+into  individually  or  taken  together  with 
+previous  transactions  during  a  financial 
+year,  exceeds  ten  Rs.1,000  crore  or  five 
+percent of the annual consolidated turnover 
+total  revenues, total  assets  or net  worth  of 
+the listed entity on a consolidated basis as 
+per the last audited financial statements of 
+the 
+lower, 
+provided  that  the  criterion  relating  to  net 
+worth shall not be applicable if the net worth 
+of the listed entity is negative.   
+ 
+
+listed  entity.,  whichever 
+
+is 
+
+Regulation 23(2). Related party transactions– Refer to paragraph I of Chapter 3 
+(page 15) for the rationale for the proposed amendment 
+
+ 
+23(2)  All  related  party  transactions 
+shall  require  prior  approval  of  the 
+audit committee. 
+
+ 
+23(2)  All  related  party  transactions  and 
+subsequent  material  modifications  shall 
+require prior approval of the audit committee 
+of the listed entity. 
+ 
+Provided that a related party transaction to 
+which  the  subsidiary  of  a  listed  entity  is  a 
+party but the listed entity is not a party, shall 
+require prior approval of the audit committee 
+of the listed entity only if the value of such 
+
+50 
+
+ 
+
+entered 
+
+(whether 
+
+into 
+transaction 
+individually or taken together with previous 
+transactions  during  a 
+financial  year) 
+exceeds 10% of the annual total revenues, 
+total  assets  or  net  worth  of  the  subsidiary, 
+on a standalone basis, for the immediately 
+preceding financial year, whichever is lower, 
+provided  that  the  criterion  relating  to  net 
+worth shall not be applicable if the net worth 
+of the subsidiary is negative.   
+ 
+Provided  further  that  prior  approval  of  the 
+audit committee of the listed entity shall not 
+be required for a related party transaction to 
+which the listed subsidiary is a party but the 
+listed  entity  is  not  a  party,  if  such  listed 
+subsidiary is not exempt from regulation 23 
+and 
+the  other  corporate  governance 
+provisions of these regulations specified in 
+regulation 15(2). 
+ 
+Explanation: for related party transactions of 
+unlisted  subsidiaries  of  a  listed  subsidiary 
+specified  above,  the  prior  approval  of  the 
+audit  committee  of  the  listed  subsidiary 
+would suffice. 
+ 
+
+Regulation 23(4). Related party transactions– Refer to paragraph I of Chapter 3 
+(page 15) for the rationale for the proposed amendment 
+
+to 
+
+the 
+
+ 
+23(4)  All  material 
+related  party 
+transactions shall require approval of 
+the  shareholders  through  resolution 
+and  no  related  party  shall  vote  to 
+approve such resolutions whether the 
+entity 
+the 
+is  a  related  party 
+particular transaction or not: 
+ 
+requirements 
+Provided 
+specified  under  this  sub-regulation 
+shall  not  apply 
+in  respect  of  a 
+resolution  plan  approved  under 
+section  31  of  the  Insolvency  Code, 
+subject  to  the  event  being  disclosed 
+to  the  recognized  stock  exchanges 
+within one day of the resolution plan 
+being approved; 
+ 
+
+that 
+
+require  prior  approval  of 
+
+ 
+23(4) All material related party transactions 
+and  subsequent  material  modifications, 
+shall 
+the 
+shareholders  through  resolution  and  no 
+related  party  shall  vote  to  approve  such 
+resolutions  whether  the  entity  is  a  related 
+party to the particular transaction or not: 
+ 
+the 
+Provided 
+shareholders  of  a  listed  entity  shall  not  be 
+required  for  a  related  party  transaction  to 
+which the listed subsidiary is a party but the 
+listed  entity  is  not  a  party,  if  such  listed 
+subsidiary is not exempt from regulation 23 
+and 
+the  other  corporate  governance 
+provisions of these regulations specified in 
+regulation 15(2). 
+ 
+
+that  prior  approval  of 
+
+51 
+
+ 
+
+that 
+
+further 
+
+Explanation: for related party transactions of 
+unlisted  subsidiaries  of  a  listed  subsidiary 
+specified  above,  the  prior  approval  of  the 
+shareholders of the listed subsidiary would 
+suffice. 
+ 
+Provided 
+the  requirements 
+specified under this sub-regulation shall not 
+apply 
+in  respect  of  a  resolution  plan 
+approved under section 31 of the Insolvency 
+Code, subject to the event being disclosed 
+to  the  recognized  stock  exchanges  within 
+one  day  of 
+the  resolution  plan  being 
+approved; 
+ 
+ 
+
+ 
+Regulation 23(5). Related party transactions– Refer to paragraph I of Chapter 3 
+(page 15) for the rationale for the proposed amendment 
+ 
+ 
+23(5)  The  provisions  of 
+sub-
+regulations  (2),  (3)  and  (4)  shall  not 
+be applicable in the following cases: 
+ 
+(a)  transactions entered into between 
+
+ 
+23(5) The provisions of sub-regulations (2), 
+(3)  and  (4)  shall  not  be  applicable  in  the 
+following cases: 
+ 
+(a)  transactions  entered  into  between  two 
+
+two government companies;  
+
+ 
+(b)  transactions entered into between 
+a holding company and its wholly 
+owned 
+whose 
+accounts  are  consolidated  with 
+such  holding  company  and 
+placed before the shareholders at 
+the general meeting for approval; 
+
+subsidiary 
+
+(a), 
+
+ 
+Explanation.  -  For  the  purpose  of 
+clause 
+"government 
+company(ies)"  means  Government 
+company  as  defined  in  sub-section 
+(45)  of  section  2  of  the  Companies 
+Act, 2013. 
+ 
+
+government companies;  
+ 
+
+(b)  transactions  entered  into  between  a 
+holding  company  and its  wholly  owned 
+subsidiary  whose 
+are 
+holding 
+consolidated  with 
+company  and  placed  before 
+the 
+shareholders at the general meeting for 
+approval; 
+
+accounts 
+such 
+
+ 
+
+(c)  transactions  entered  into  between  two 
+wholly-owned  subsidiaries  of  the  listed 
+holding  company,  whose  accounts  are 
+consolidated  with 
+holding 
+company  and  placed  before 
+the 
+shareholders at the general meeting for 
+approval. 
+
+such 
+
+ 
+Explanation. - For the purpose of clause (a), 
+"government 
+means 
+Government  company  as  defined  in  sub-
+section (45) of section 2 of the Companies 
+Act, 2013. 
+ 
+
+company(ies)" 
+
+52 
+
+ 
+
+Regulation 23(9). Related party transactions– Refer to paragraph II of Chapter 
+4 (page 36) for the rationale for the proposed amendment 
+
+ 
+23(9)  The  listed  entity  shall  submit 
+within  30  days  from  the  date  of 
+publication  of 
+its  standalone  and 
+consolidated  financial  results  for  the 
+half year, disclosures of related party 
+transactions on a consolidated basis, 
+in the format specified in the relevant 
+accounting  standards 
+for  annual 
+results  to  the  stock  exchanges  and 
+publish the same on its website. 
+
+ 
+23(9) The listed entity shall submit within 30 
+days  from  the  date  of  publication  of  its 
+standalone  and  consolidated 
+financial 
+results  for  the  half  year,  to  the  stock 
+exchanges  disclosures  of  related  party 
+transactions on a consolidated basis, in the 
+format  specified  in  the  relevant  accounting 
+standards  for  annual  results  to  the  stock 
+exchanges prescribed by SEBI and publish 
+the same on its website. 
+ 
+The 
+listed  entity  shall  make  such 
+disclosures every six months on the date of 
+publication 
+and 
+consolidated financial results. 
+ 
+
+standalone 
+
+its 
+
+of 
+
+Regulation 36. Documents & Information to shareholders– Refer to paragraph 
+I of Chapter 4 (page 33) for the rationale for the proposed amendment 
+
+ 
+36.  Documents  & 
+shareholders  
+ 
+…. 
+
+Information 
+
+to 
+
+ 
+Insertion of new sub-regulation 36(6) 
+ 
+36(6). The notice being sent to shareholders 
+seeking  approval  for  any  proposed  related 
+party  transaction  shall,  in  addition  to  the 
+requirements  under  the  Companies  Act, 
+2013, include the following information as a 
+part of the explanatory statement:  
+ 
+(1)  A  summary  of 
+
+information 
+provided  by  the  management  of  the 
+listed  entity  to  the  audit  committee 
+pursuant to paragraph B(2) of Part C 
+of Schedule II;  
+
+the 
+
+ 
+
+(2)  The  recommendation  of  the  audit 
+committee in respect of the proposed 
+transaction, specifying justification for 
+why the transaction is in the interest of 
+the listed entity;  
+
+ 
+
+(3)  Where  the  transaction  relates  to  any 
+loans, 
+deposits, 
+advances  or  investments  made  or 
+
+inter-corporate 
+
+53 
+
+ 
+
+the 
+
+listed  entity  or 
+
+its 
+given  by 
+subsidiary, the details specified under 
+paragraph  B  (2)  (f)  of  Part  C  of 
+Schedule II;  
+ 
+
+(4)  Whether  the  approval  of  the  related 
+the  audit 
+
+transaction  by 
+
+party 
+committee was unanimous;  
+ 
+
+(5)  A statement that the valuation or other 
+external report, if any, relied upon by 
+the  listed  entity  in  relation  to  the 
+proposed transaction will be available 
+for  inspection  at  the  registered  office 
+of the listed entity; 
+ 
+
+(6)  Percentage  of 
+
+the  counter-party’s 
+annual  total  revenues,  total  assets 
+and net worth, that is represented by 
+the value of the proposed related party 
+transaction: 
+ 
+Provided 
+information 
+mentioned  in this  sub-clause  may  be 
+placed 
+to 
+shareholders on voluntary basis; and 
+ 
+
+the  notice  sent 
+
+that 
+
+the 
+
+in 
+
+(7)  Any  other  information  that  may  be 
+
+relevant. 
+
+ 
+
+Modification of paragraph (2) and insertion of new paragraph (7) in Part B of 
+Schedule II – Refer to paragraph III of Chapter 3 (page 27) for the rationale for the 
+proposed amendment 
+
+ 
+Part C of Schedule II of the LODR 
+ 
+B.  The  audit  committee  shall 
+mandatorily 
+following 
+information: 
+…. 
+ 
+
+review 
+
+the 
+
+ 
+Modification of paragraph (2) and insertion 
+of new paragraph (7) in Part B of Schedule 
+II of the LODR 
+ 
+B.  The  audit  committee  shall  mandatorily 
+review the following information: 
+…. 
+ 
+(2)  statement  of  significant  related  party 
+transactions  (as  defined  by 
+the  audit 
+committee), submitted by management; 
+ 
+with  respect  to  approval  of  a  related  party 
+transaction,  the  following  information  as 
+
+54 
+
+ 
+
+provided  by  the  management  of  the  listed 
+entity: 
+
+ 
+(a)  Type,  material  terms  and  particulars 
+
+of the proposed transaction;  
+
+ 
+(b)  Name  of  the  related  party  and  its 
+relationship with the listed entity or its 
+subsidiary,  including  nature  of  its 
+concern  or 
+(financial  or 
+otherwise);  
+ 
+
+interest 
+
+(c)  Tenure of the proposed transaction;  
+
+ 
+Explanation.-  The  transaction  should 
+have  a  particular  tenure  or  term  and 
+should  not  be  indefinite  or  open-
+ended. 
+
+(d)  Value of the proposed transaction;  
+
+ 
+Explanation.- An upper limit should be 
+provided and in case of a recurring or 
+continuous transaction, the aggregate 
+value and the time period within which 
+such limit will be exhausted.  
+ 
+
+(e)  The  percentage  of  the  listed  entity’s 
+annual  total  revenues,  total  assets 
+and  net  worth,  on  a  consolidated 
+basis,  for  the  immediately  preceding 
+financial  year,  that  is  represented  by 
+the value of the proposed transaction, 
+provided  that,  for  a  related  party 
+transaction involving a subsidiary, the 
+value of the proposed transaction as a 
+percentage of the subsidiary’s annual 
+total revenues on a standalone basis 
+should be additionally provided;  
+ 
+If the transaction relates to any loans, 
+inter-corporate deposits, advances or 
+investments  made  or  given  by  the 
+listed entity or its subsidiary:  
+
+(f) 
+
+i. 
+
+ 
+details  of  the  source  of  funds  in 
+connection  with 
+the  proposed 
+related party transaction;  
+
+ 
+
+55 
+
+ 
+
+ii. 
+
+where any financial indebtedness 
+is incurred to make or give loans, 
+inter-corporate 
+deposits, 
+advances or investments, 
+
+  nature of indebtedness; 
+  cost of funds; and  
+ 
+
+tenure;  
+
+iii. 
+
+ 
+
+iv. 
+
+terms, 
+
+ 
+applicable 
+including 
+covenants,  tenure,  interest  rate 
+and 
+schedule, 
+whether  secured  or  unsecured 
+and  if  secured,  the  nature  of 
+security; and  
+
+repayment 
+
+the  purpose  for  which  the  funds 
+will  be  utilised  by  the  ultimate 
+of 
+beneficiary 
+funds 
+pursuant 
+the  related  party 
+to 
+transaction; 
+ 
+
+such 
+
+(g) 
+
+Justification  as  to  why  the  related 
+party  transaction  is  in  the  interest  of 
+the listed entity;  
+ 
+
+(i) 
+
+(h)  A  copy  of  the  valuation  or  other 
+external report, if any such report has 
+been relied upon;  
+ 
+Percentage  of 
+the  counter-party’s 
+annual  total  revenues,  total  assets 
+and net worth, that is represented by 
+the value of the proposed related party 
+transaction: 
+ 
+Provided 
+information 
+mentioned  in this  sub-clause  may  be 
+placed before the audit committee on 
+a voluntary basis; and 
+
+that 
+
+the 
+
+ 
+(j) 
+
+Any  other  information  that  may  be 
+relevant. 
+
+………. 
+
+7. status of long-term (more than one year) 
+or recurring related party transactions on 
+an annual basis. 
+ 
+ 
+
+56 
+
+ 
+
+Modification of paragraph A.(2.) and insertion of new paragraph (m) in (C)(10) 
+of Schedule V – Refer to paragraph II of Chapter 4 (page 36) for the rationale for 
+the proposed amendment  
+
+SCHEDULE V: ANNUAL REPORT 
+ 
+The  annual  report  shall  contain  the 
+following additional disclosures: 
+ 
+A.  Related Party Disclosure: 
+…. 
+ 
+
+2.  The  disclosure  requirements  shall 
+be as follows: 
+…. 
+ 
+
+Modification  of  paragraph  A.(2.)  and 
+insertion of new paragraph (m) in (C)(10) of 
+Schedule V of the LODR 
+ 
+SCHEDULE V: ANNUAL REPORT 
+ 
+The annual report shall contain the following 
+additional disclosures: 
+ 
+A. Related Party Disclosure: 
+…. 
+ 
+
+C. Corporate Governance Report: 
+ 
+……. 
+ 
+(10) Other Disclosures: 
+ 
+(a)…. 
+ 
+ 
+
+2. The disclosure requirements shall be as 
+follows: disclosures under A.(2.) and A.(2A.) 
+of  Schedule  V  below,  shall  be  applicable 
+only to entities with listed debt securities. 
+ 
+… 
+ 
+C. Corporate Governance Report: 
+….. 
+ 
+(10) Other Disclosures: 
+ 
+(a)…. 
+ 
+(m)  disclosure  of  ‘Loans  and  advances  in 
+the  nature  of  loans  to  firms/companies  in 
+which directors are interested by name and 
+amount’ 
+its 
+subsidiaries. 
+  
+
+listed  entity  and 
+
+for  a 
+
+57 
+
+ 
+
+Appendix – II: Prescribed Disclosure Format 
+
+Details of related party transactions  
+ 
+A.  Name of listed entity  
+
+ 
+
+ 
+
+B.  Annual consolidated total revenue, total assets and net worth of the listed entity 
+for  the  preceding  financial  year  (and  if  there  are  related  party  transactions 
+involving  a  subsidiary,  the  relevant  subsidiary’s  annual  total  revenues  on  a 
+standalone basis) 
+ 
+
+C.  Format  for  disclosure  of  related  party  transactions  every  six  months  –  Refer 
+
+Attachment 
+
+ 
+ 
+
+58 
+
+

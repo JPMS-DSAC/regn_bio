@@ -1,0 +1,1462 @@
+Concept Paper on the proposed  
+
+SEBI ( Delisting of Securities) Regulations, 2006. 
+
+ 
+Brief History:  The Evolution of Delisting Guidelines: 
+ 
+SEBI in the year 2002 constituted a committee on delisting of shares to inter-alia examine 
+and review the conditions  for delisting of securities of companies listed on recognized 
+stock exchanges and suggest norms and procedures in connection therewith. The report 
+of the committee was considered and accepted by SEBI Board. Pursuant to the same, 
+SEBI vide Circular SMD/Policy/CIR – 7/ 2003 dated February 17, 2003 issued the SEBI ( 
+Delisting of Securities) Guidelines, 2003 (Guidelines).  
+ 
+The Current Guidelines: The current Guidelines came into force on February 17, 2003. 
+The salient features of these guidelines are brought out below: 
+
+1.  An exit option to the public shareholders is mandated if the company or its 
+promoters wish to delist its securities from all the stock exchanges in which 
+they are listed. 
+
+2.  No  exit  opportunity  to  be  given  in  case  of  securities  to  be  delisted  from 
+exchanges  other  than  exchanges  having  nationwide  trading  terminal 
+(BSE/NSE) if these securities continue to be listed on stock exchanges having 
+Nationwide trading terminals . 
+
+3.  Price  discovery  by  a  method  of  book  building  in  which  the  price  is 
+
+determined at the rate at which maximum number of shares are tendered. 
+
+4.  Eligibility to participate in the book building process extended only to demat 
+
+5.  Option available to the promoters to accept or reject the price determined by 
+
+shareholders. 
+
+the book building process. 
+
+mechanism. 
+
+acceptance of the offer. 
+
+6.  Settlement  of  shares  after  the  offer  through  the  stock  exchange  clearing 
+
+7.  The  exit  option  to  be  open  for  a  period  of  6  months  after  the  closure  and 
+
+ 
+Operational issues  
+ 
+Exit offers were brought out under the provisions of these guidelines, with the first offer 
+being made in January 2004. Many representations and views have been received on the 
+guidelines.  Based on such representations from market participants, stock exchanges, 
+industry representatives and common shareholders, it was proposed to look into and 
+suggest changes in the guidelines.  
+ 
+Initial  changes  proposing  more  systemic  clarity  were  put  up  for  public  comments  in 
+April 2004.  Comments were received from various quarters and opinions were raised 
+on crucial provisions. In the meantime, some more offers for delisting were made under 
+the Guidelines also bringing along further comments from market participants. 
+ 
+ 
+ 
+
+Proposed changes 
+ 
+In an endeavor to provide a level playing field to the participants in the securities 
+market while not compromising on the protection of investor interests, it has been 
+decided to bring about certain changes in the Guidelines that are felt necessary. The 
+following  paragraphs  elucidate  the  nature  of  changes  proposed  and  the  rationale 
+behind the proposed changes: 
+ 
+
+1.  Conversion  of  guidelines  into  Regulations:    The  provisions  governing 
+Delisting of Securities were initially envisaged only as a guiding framework 
+to provide for an exit option at a determined price with the Stock Exchange 
+overseeing  the  compliance.  Consistent  with  the  need  to  have  appropriate 
+instrumentalities,  it  has  been  decided  to  convert  the  Guidelines  into 
+Regulations. 
+
+ 
+2.  Book Building Process:  The following was noticed in the scrutiny of the 
+
+current process of price discovery through book building: 
+
+a.  Disproportionate  Powers  with  public  share  holders  holding  major 
+
+chunk 
+
+b.  Possibility of frivolous Bids to destabilize the delisting offer 
+c.  Freedom to promoters to reject the price discovered. 
+d.  Revision of bids leading to cartelization in the discovery of price. 
+ 
+It was increasingly felt that the book building process, which was to aid 
+in the determination of a fair exit value for the shareholders, was not fully 
+achieving the said objective and the perceived investor friendliness of the 
+price discovery mechanism was not necessarily translating into genuine 
+discovery of price. 
+ 
+Thus emanated a need to look for an alternate pricing mechanism and 
+hence the current proposal which is as under: 
+ 
+It is proposed that the price would be the higher of –  
+a)  The fixed price which would be the floor price plus a  premium of 
+25%. The floor price would be determined in terms of Regulation 20 
+of  SEBI 
+(Substantial  Acquisition  of  Shares  and  Takeover) 
+Regulations.  
+
+b)  Fair  value  determined  by  an  accredited  rating  agency  plus  a 
+
+premium of 25%.  
+The  relevant  provision  is  annexed  at  Regulation  14(4)  of  the 
+proposed draft Regulations. 
+
+ 
+Further, the reference date for calculating the floor price is the date of 
+Public  Announcement  currently.  This  was  felt  to  be  resulting  in 
+fluctuation in price from the time the decision to delist is taken by the 
+Board and the Public Announcement. In order to correct this anomaly, it 
+is proposed that the reference date for calculation of floor price would be 
+
+the date on which the stock exchanges are notified of the Board meeting 
+in which the delisting proposal was considered. This is in line with the 
+provisions of the Takeover Regulations. 
+
+ 
+
+3.  Absence of Minimum Subscription:  The success of the exit offer under the 
+current  provisions  of  the  Guidelines  is  linked  to  the  crossing  of  the 
+continuous  listing  requirement.  This  gave  rise  to  a  situation  that  securities 
+were bound to get delisted if the public shareholding reduced from the levels 
+required to be maintained for the purpose of continuous listing.  
+
+While  the  rationale  of  mandating  levels  for  continuous  listing  is  based  on 
+good  corporate  governance,  providing  the  same  levels  as  eligibility  for 
+delisting was resulting in delisting of securities even while a huge residue of 
+public shareholding remains, which is primarily against investor interest. 
+ 
+World  over,  in  matters  of  delisting,  it  is  a  known  fact  that  a  10%  level  of 
+public shareholding was considered as a prudent level for squeeze out option 
+to the promoters whenever companies wanted to delist.  
+ 
+Thus as a measure to arrive at  plausible levels of public shareholding, below 
+which companies wishing to delist  their securities could do so, it is proposed 
+to  introduce  a  level  of    10%  of  public  shareholding  (in  consonance  with 
+international  practices)  as  the  breach  percentage  level  for  eligibility  for 
+delisting. The relevant proposal is as under : 
+
+ 
+Minimum subscription to be introduced: Success of the offer depends 
+on  a  minimum  subscription  resulting  in  the  public  shareholding 
+reducing below 10% or 4%. Thus, the promoter holding should breach 
+the  90%  level  or  96%  level  as  the  case  may  be  depending  on  the 
+categorization of the company under Clause 40A. 
+
+ 
+
+4.  The  exit  offer  to  be  available  for  all  shares  :   With  the  dispensing  of  the 
+book  building  mechanism  which  was  available  only  for  shares  in  demat 
+mode,  the  anomaly  arising  therein  has  been  addressed.  Now  shareholders 
+holding shares in both physical and demat mode can participate in the offer. 
+
+5.  Settlement procedure:  In order to simplify the settlement system, it is now 
+proposed  that  the  settlement  would  be  made  separately  through  the 
+Merchant Bankers and Registrars as is being currently done in open offers 
+under SEBI (SAST) Regulations. 
+
+6.  Time Lines for various activities: Current guidelines give only the skeletal 
+framework  for  delisting  the  securities.  It  was  felt  that  many  procedural 
+aspects  needed  clarification.  Hence,  in  order  to  bring  about  clarity  and 
+provide for a structured framework, certain time lines have been proposed in 
+the Regulations.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.  Reporting Requirements:  The extant Guidelines do not prescribe any kind 
+of  reporting  by  the  Stock  Exchanges.  Though  it  is  intended  to  keep  the 
+monitoring aspect purely with the Stock Exchange, certain overall reporting 
+requirements are being prescribed which were felt necessary for the smooth 
+working of these Regulations. 
+
+ 
+The above points highlight the major changes that are being proposed in the proposed 
+Delisting Regulations. The above is an attempt to provide the basic reasoning behind the 
+proposed changes. Though a consultative process has been adopted and the views of 
+market  participants  have  been  considered  in  preparing  the  Draft  Regulations,  the 
+revised draft regulations and the rationale for revising them are once again placed in 
+public domain for comments and suggestions.  
+ 
+The  full  text  of  the  proposed  Regulations  is  annexed  herewith  for  Public  Comments. 
+Comments may be sent on or before 14th December 2006 to the address mentioned below 
+AND through email to harinib@sebi.gov.in and amitk@sebi.gov.in . 
+ 
+Division of Corporate Restructuring 
+SEBI Bhavan, 3rd Floor, B- wing, 
+Plot NO C – 4A, G Block, 
+Bandra Kurla Complex, 
+Mumbai 400 051. 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+******** 
+
+ 
+
+ 
+ 
+ANNEXURE 
+ 
+ 
+ 
+
+ 
+
+THE GAZETTE OF INDIA 
+
+EXTRAORDINARY 
+
+PART –II – SECTION 3 – SUB SECTION (ii) 
+
+PUBLISHED BY AUTHORITY 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+NOTIFICATION 
+
+Mumbai, the   
+
+December, 2006 
+
+ 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+(DELISTING OF SECURITIES) REGULATIONS, 2006 
+
+ 
+
+S.O. No. 
+   (E). In exercise of the powers conferred by section 30, read 
+with  sub-section  (1)  of  section  11  and  sub-section  (2)  of  section  11A,  of  the 
+Securities and Exchange Board of India Act, 1992 (15 of 1992) and section 
+31  of  the  Securities  Contracts  (Regulation)  Act,  1956  the  Board  hereby 
+makes the following Regulations, namely: -  
+
+ 
+
+CHAPTER I 
+
+PRELIMINARY 
+
+ 
+
+Short title and 
+commencement. 
+ 
+
+1 
+ 
+
+(1) These  Regulations  may  be  called  the  Securities  and 
+Exchange  Board      of  India      (Delisting  of  Securities) 
+Regulations, 2006. 
+
+(2) They  shall  come  into  force  on  the  date  of  their 
+
+publication in the Official Gazette. 
+
+ 
+
+Definitions. 
+
+2  (1)  In  these  Regulations,  unless  the  context  otherwise 
+
+requires, - 
+(a) ‘Act’  means the Securities and Exchange Board of India 
+
+Act, 1992 (15 of 1992); 
+
+(b) ‘Board’  means  the  Securities  and  Exchange  Board  of 
+
+India established under section 3 of the Act; 
+
+(c) ‘company’  means  a  company  registered  under  the 
+
+Companies Act, 1956 (1 of 1956) and includes a body 
+corporate  or  corporation  established  under  a  Central 
+Act,  State  Act  or  Provincial  Act  for  the  time  being  in 
+force, whose securities are listed on a recognized stock 
+exchange; 
+
+(d) ‘compulsory delisting’  means delisting of securities of a 
+
+company by a stock exchange under Chapter V of these 
+regulations;  
+
+(e) ‘public  holders  of  securities’  means  the  holders  of  the 
+
+relevant securities, who are not promoters; 
+
+(f)  ‘stock exchange’  means any stock exchange which has 
+
+been  granted  recognition  under  section  4  of 
+Securities Contracts (Regulation) Act, 1956; 
+
+the 
+
+(g) ‘Schedule’  means  a  Schedule  appended  to  these 
+
+Regulations; 
+
+(h) ‘voluntary  delisting’  means  delisting  of  securities  of  a 
+
+company  voluntarily  under  Chapter 
+regulations; 
+
+III  of 
+
+these 
+
+(i)  ‘working  days’  shall  mean  the  working  days  of  the 
+
+Board. 
+
+respectively  assigned 
+
+to 
+
+them  under 
+
+the 
+
+in  concert’, 
+shall  have 
+
+(2)  The  words  ‘control’,  ‘person  acting 
+‘promoter’  and  ‘public  shareholding’ 
+the 
+meanings 
+Securities  and  Exchange  Board  of  India  (Substantial 
+Acquisition of Shares and Takeovers) Regulations, 1997 as 
+amended from time to time. 
+(3)  Words  and  expressions  not  defined 
+these 
+Regulations,  but  defined  in  or  under  the  Act  or  the 
+Securities  Contracts 
+the 
+Companies  Act,  1956,  or  any  statutory  modification  or  re-
+enactment  thereof,  shall  have  the  same  meaning  as  have 
+been assigned to them by or under those enactments.  
+ 
+
+(Regulation)  Act,  1956  or 
+
+in 
+
+ 
+
+Applicability. 
+
+3 
+
+CHAPTER II 
+
+DELISTING OF SECURITIES 
+
+ 
+
+(1) These  Regulations  shall  apply  to  delisting  of  securities 
+of  a  company  from  the  stock  exchange  or  stock 
+exchanges where such securities are listed. 
+
+(2) Nothing in these regulations shall apply to any delisting 
+made pursuant to a scheme sanctioned by the Board for 
+Industrial  and  Financial  Reconstruction  under  the  Sick 
+Industrial  Companies  (Special  Provisions)  Act,  1985  or 
+
+4 
+
+Delisting not 
+permissible  in 
+certain 
+circumstances 
+and conditions 
+for delisting.  
+
+by  the  National  Company  Law  Tribunal  under  section 
+424D of the Companies Act, 1956, if such scheme – 
+(a) gives specific exemption from compliance with these 
+
+regulations; or 
+
+(b) lays  down    any  specific  procedure  to  complete  the 
+
+delisting; or 
+
+(c) provides an exit option to the existing public holders 
+
+of securities at a specified rate. 
+
+ 
+(1) No company shall apply for and no stock exchange shall 
+grant delisting of securities of a company, pursuant to a 
+buyback of securities by the company or pursuant to a 
+preferential allotment made by the company. 
+
+(2) No company shall apply for and no stock exchange shall 
+grant  delisting  of  any  class  of  securities  of  a  company 
+unless  a  period  of  three  years  has  elapsed  since  the 
+listing of that class of securities on any stock exchange. 
+(3) No company shall apply for and no stock exchange shall 
+grant  delisting  of  securities  where  any  instruments 
+issued  by  the  company,  which  are  convertible  into  the 
+same class of securities that are sought to be delisted, 
+are outstanding.  
+
+(4) Nothing  contained  in  sub-regulations  (2)  and  (3)  shall 
+apply to delisting of securities falling under clause (a) of 
+regulation 6.   
+
+(5) No company shall apply for and no stock exchange shall 
+
+grant delisting of convertible securities. 
+
+(6) Notwithstanding delisting of any class of securities of a 
+company, any other class of its securities may continue 
+to be listed on the stock exchange. 
+
+(7) Delisting  of  securities  shall  also  be  subject  to  the 
+
+ 
+
+ 
+
+Delisting from 
+all stock 
+exchanges. 
+
+Delisting from 
+only some of 
+the stock 
+exchanges. 
+
+Securities Contracts (Regulation) Rules, 1957. 
+
+ 
+
+CHAPTER III 
+
+VOLUNTARY DELISTING 
+
+5  Subject to the provisions of these regulations the securities 
+of a company may be delisted from all the stock exchanges 
+where  they  are  listed  or  from  the    stock  exchange  where 
+they are listed: 
+Provided  that  all  public  holders  of  the  securities  which  are 
+sought  to  be  delisted  are  given  an  exit  opportunity  in 
+accordance with Chapter IV. 
+ 
+
+6  The  securities  of  a  company  may  be  delisted  from  one  or 
+more stock exchanges where those are listed and continue 
+to  remain  listed  on  one  or  more  other  stock  exchanges 
+subject to the provisions of these Regulations and subject to 
+the following - 
+
+(a)  if after the proposed delisting from any one or more 
+stock exchanges, the securities of a company would 
+remain  listed  on  any  stock  exchange  which  has 
+nationwide  trading  terminals,  no  exit  opportunity 
+needs to be given to the shareholders; and,  
+
+(b)  if  after  the  proposed  delisting,  the  securities  of  a 
+company  would  not  remain  listed  on  any  stock 
+exchange having nation wide trading terminals, exit 
+opportunity shall be given to all the public holders of 
+the  securities  sought  to  be  delisted  in  accordance 
+with Chapter IV.  
+
+Explanation:  For  the  purposes  of  this  regulation,  ‘stock 
+
+Procedure for 
+delisting where 
+no exit 
+opportunity is 
+required. 
+
+exchange  having  nation  wide  trading  terminals’  means  the 
+Stock  Exchange,  Mumbai,  the  National  Stock  Exchange  or 
+any  other  stock  exchange  which  may  be  specified  by  the 
+Board in this regard. 
+ 
+(1) In a case falling under clause (a) of regulation 6 –  
+
+7 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+the  proposed  delisting  shall  be  approved  by  a 
+resolution of the Board of Directors of the company 
+in its meeting;  
+the  company  shall  give  a  public  notice  of  the 
+proposed  delisting  in  at  least  one  English  national 
+daily  with  wide  circulation,  one  Hindi  national  daily 
+with  wide  circulation  and  one  regional  language 
+newspaper of the region where the concerned stock 
+exchanges are located;  
+the  company  shall  make  an  application  to  the 
+concerned  stock  exchange 
+its 
+securities; and, 
+the  fact  of  delisting  shall  be  disclosed  in  the  first 
+annual report prepared after the delisting. 
+
+for  delisting 
+
+(2) The  public  notice  made  under  clause  (b)  of  sub-
+regulation  (1)  shall  mention  the  names  of  the  stock 
+exchange from which the securities of the company are 
+intended  to  be  delisted,  the  reasons  for  such  delisting 
+and  the  fact  of  continuation  of  listing  of  securities  on 
+stock exchange having nation wide trading terminals. 
+
+(3) Every application for delisting made under clause (c) of 
+sub-regulation  (1)  shall  be  accompanied  by  an  audit 
+report as required under regulation 55A of the Securities 
+and  Exchange  Board  of 
+(Depositories  and 
+Participants) Regulations, 1996 covering a period of six 
+
+India 
+
+Conditions and 
+procedure for 
+delisting where 
+exit 
+opportunity is 
+required. 
+
+months prior to the date of the application. 
+
+(4)  An  application  for  delisting  made  under  clause  (c)  of 
+sub-regulation  (1)  shall  be  disposed  of  by  the  stock 
+exchange within a period not exceeding thirty days from 
+the  receipt  by  it  of  such  application  complete  in  all 
+respects. 
+
+(5) If any application for delisting is not disposed of within the 
+period stipulated under sub-regulation (4) the concerned 
+stock exchange shall report it to the Board with reasons 
+for such delay. 
+
+8  (1)    Any  company  desirous  of  delisting  its  securities  under 
+the  provisions  of  Chapter  III  shall,  except  in  a  case 
+falling under clause (a) of regulation 6 - 
+
+(a) obtain the prior approval of the Board of Directors 
+
+of the company in its meeting; 
+
+(b) obtain  the  prior  approval  of  shareholders  or 
+the  company  by  special 
+
+security  holders  of 
+resolution passed through postal ballot;  
+
+(c) make  an  application  to  the  concerned  stock 
+exchange for in-principle approval of the proposed 
+delisting  in  the  form  specified  by  the  stock 
+exchange; and 
+
+(d) within  one  year  of  passing  the  special  resolution, 
+make the final application to the concerned stock 
+exchange  in  the  form  specified  by  the  stock 
+exchange: 
+
+that  any  special 
+
+resolution  authorizing 
+Provided 
+voluntary delisting passed before the commencement of 
+these  Regulations  shall  be  deemed  to  be  valid  for  a 
+period of one year from the date of its passing or for a 
+period of six months from the commencement of these 
+
+regulations, whichever is later. 
+
+(2)  No delisting shall, except in a case falling under clause 
+
+(a) of regulation 6, be made – 
+(a) unless the company whose securities are sought to 
+be  delisted  complies  with 
+the  minimum  public 
+shareholding  requirements  of  twenty  five  percent  or 
+ten  percent,  as  the  case  may  be,  applicable  to  it 
+under the listing agreement; or 
+
+(b) if  successful  completion  of  the  exit  opportunity  may 
+result in change in control over the company whose 
+securities are sought to be delisted: 
+
+(3)  Nothing  contained  in  clause  (a)  of  sub-regulation  (2) 
+shall  apply  to  a  case  where  the  company  was  not  in 
+compliance 
+shareholding 
+requirements as specified in the listing agreement as on 
+the first day of May, 2006 and either – 
+(a) its paid up capital was less than one crore rupees as 
+
+the  minimum 
+
+with 
+
+on that date; or 
+
+(b) its paid up capital was more than one crore rupees 
+but less than three crore rupees as on that date and 
+the number of its shareholders was three hundred or 
+less as on that date. 
+
+(c)  of  sub-regulation 
+
+(4)  An application seeking in-principle approval for delisting 
+under  clause 
+(1)  shall  be 
+accompanied  by  an  audit  report  as  required  under 
+regulation 55A of the Securities and Exchange Board of 
+India (Depositories and Participants) Regulations, 1996 
+in  respect  of  the  securities  sought  to  be  delisted 
+covering a period of six months prior to the date of the 
+application. 
+
+(5)  An application seeking in-principle approval for delisting 
+
+shall  be  disposed  of  by  the  stock  exchange  within  a 
+period not exceeding thirty days from the receipt by it of 
+such application complete in all respects. 
+
+(6)  While  considering  an  application  seeking  in-principle 
+approval  for  delisting,  the  stock  exchange  shall  not 
+unfairly  withhold  such  application,  but  may  require  the 
+company to satisfy it as to - 
+
+(a) the  resolution  of 
+
+investor  grievances  by 
+
+the 
+
+company; 
+
+(b) payment of listing fees to that stock exchange; 
+(c) the  compliance  with  any  condition  of    the  listing 
+agreement  with  that  stock  exchange  having  a 
+material  bearing  on  the  interests  of  its  securities 
+holders; 
+
+(d) any 
+
+litigation  or  action  pending  against 
+
+the 
+company pertaining to its activities in the securities 
+market  or  any  other  matter  having  a  material 
+bearing on the interests of its securities holders. 
+
+(7)  If  any  application  seeking  in-principle  approval  for 
+delisting  is  not  disposed  of  within  the  period  stipulated 
+under sub-regulation (5), the concerned stock exchange 
+shall report it to the Board with reasons for such delay. 
+
+(8)  A final application for delisting made under clause (d) of 
+sub-regulation  (1)  shall  be  accompanied  with  a  true 
+copy of the special resolution passed under clause (a) of 
+sub-regulation  (1)  and  with  such  proof  of  having  given 
+the exit opportunity in accordance with the provisions of 
+Chapter IV, as the stock exchange may require. 
+
+ 
+
+ 
+ 
+
+Applicability of 
+Chapter IV. 
+
+9 
+
+Public 
+announcement . 
+
+10 
+
+ 
+
+CHAPTER IV 
+
+EXIT OPPORTUNITY 
+
+ 
+
+The provisions of this Chapter shall apply to any delisting 
+sought to be made under regulation 5 or under clause (b) 
+of regulation 6. 
+ 
+(1)  The promoters of the company shall upon receipt of 
+in-principle  approval  for  delisting,  make  a  public 
+announcement  in  at  least  one  English  national  daily 
+with  wide  circulation,  one  Hindi  national  daily  with 
+wide  circulation  and  one 
+language 
+newspaper of the region where the concerned stock 
+exchanges  are located.  
+
+regional 
+
+(2)  The  public  announcement  shall  contain  all  material 
+information including  the  information  specified  in  the 
+Schedule  and  shall  not  contain  any 
+false  or 
+misleading statement. 
+
+(3)  The  public  announcement  shall  also  specify  a  date, 
+being a day not later than thirty days from the date of 
+the  public  announcement,  which  shall  be 
+the 
+‘specified  date’ 
+shareholders to whom the letter of offer shall be sent. 
+the 
+promoter shall appoint a merchant banker registered 
+with the Board and such other intermediaries as are 
+considered necessary. 
+
+the  public  announcement, 
+
+(4)  Before  making 
+
+for  determining 
+
+the  names  of 
+
+(5)  It shall be the responsibility of the promoter and the 
+merchant  banker  to  ensure  compliance  with  the 
+provisions of this Chapter. 
+
+(6)  No promoter shall appoint any person as a merchant 
+banker under sub-regulation (4) if such a person is an 
+associate of the promoter. 
+
+ 
+(1) The  promoter  shall  open  an  escrow  account  before 
+making the public announcement under regulation 10 
+and  deposit  therein  the  total  offer  price  payable, 
+assuming  full  acceptance  of  the  offer  by  public 
+holders.  
+
+(2) The  escrow  account  shall  consist  of  either  cash 
+deposited  with  a  scheduled  commercial  bank,  or  a 
+bank guarantee in favour of the merchant banker, or 
+a combination of both. 
+
+(3) Where the escrow account consists of deposit with a 
+scheduled commercial bank, the promoter shall, while 
+opening the account, empower the merchant banker 
+to  instruct  the  bank  to  issue  a  banker’s  cheque  or 
+demand draft for the amount lying to the credit of the 
+escrow account, for the purposes mentioned in these 
+regulations  and  the  amount  in  such  deposit,  if  any, 
+remaining  after  full  payment  of  consideration  for 
+securities  tendered  in  the  offer  and  those  tendered 
+under  sub-regulation  (1)  of  regulation  19  shall  be 
+released  to  the  company  after  expiry  of  the  period 
+referred to in that sub-regulation. 
+
+(4) Where  the  escrow  account  consists  of  a  bank 
+guarantee,  such  bank  guarantee  shall  be  valid  till 
+expiry of the period referred to in sub-regulation (1) of 
+regulation 19.  
+
+ 
+(1) The promoter shall despatch the letter of offer to the 
+
+Escrow account.  11 
+
+Letter of offer. 
+
+12 
+
+public  holders  of  securities,  not  later  than  forty  five 
+days from the date of the public announcement, so as 
+to reach them at least five days before the opening of 
+the offer period. 
+
+(2) The letter of offer shall be sent under sub-regulation 
+(1) to all public holders of securities of the company 
+whose names appear on the register of the company 
+or  depository  as  on  the  specified  date  fixed  under 
+sub-regulation (3) of regulation 10. 
+
+(3)  The  letter  of  offer  shall  contain  all  the  disclosures 
+made  in  the  public  announcement  and  such  other 
+disclosures  as  may  be  necessary  for  the  security 
+holders to take an informed decision. 
+
+ 
+(1) The date of opening of the offer shall not be later than 
+the  fifty  five  days  from  the  date  of  the  public 
+announcement.  
+
+(2) The  offer  shall  remain  open  for  a  period  of  twenty 
+days,  during  which  the  public  holders  of  securities 
+may tender their securities. 
+
+Offer period. 
+
+13 
+
+Offer price. 
+
+14 
+
+ 
+(1) The floor price shall not be less than, - 
+
+(a) where  the  securities  are  frequently  traded  in  all 
+the  stock  exchanges  where  they  are  listed,  the 
+average of the weekly high and low of the closing 
+prices of the securities of the company as quoted 
+on the stock exchange, where the securities of the 
+company  are  most  frequently  traded,  during  the 
+twenty six weeks or two weeks preceding the date 
+on which the stock exchanges were notified of the 
+Board meeting in which the delisting proposal was 
+
+considered, whichever is higher;  
+
+(b) where 
+
+the  securities  of 
+
+the  company  are 
+infrequently  traded  in  all  the  stock  exchanges 
+where they are listed, the floor price determined in 
+accordance  with  the  provisions  of  sub-regulation 
+(2); or, 
+
+(c) where the securities are frequently traded in some 
+stock exchanges and infrequently traded in some 
+other stock exchanges where they are listed, the 
+highest of the prices arrived at in accordance with 
+clauses (a) and (b) above. 
+
+Explanation: For the purposes of this sub-regulation, 
+securities shall be deemed to be infrequently traded, 
+if  on  the  stock  exchange,  the  annualized  trading 
+turnover  in  that  security  during  the  preceding  six 
+calendar  months  prior  to  month  in  which  the  stock 
+exchanges  were  notified  of  the  Board  meeting  in 
+which  the  delisting  proposal  was  considered,  is  less 
+than five percent (by number of securities) of the total 
+listed securities of that class and the  term ‘frequently 
+traded’  shall be construed accordingly. 
+
+(2) For the purposes of clause (b) of sub-regulation (1), 
+the  floor  price  shall  be  determined  by  the  promoter 
+and  the  merchant  banker  taking  into  account  the 
+following factors: 
+(a) the  highest  price  paid  by 
+
+the  promoter  for 
+acquisitions  including  by  way  of  allotment  in  a 
+public  or  rights  issue  or  preferential  allotment,  if 
+any,  during  the  twenty  six  weeks  period  prior  to 
+the  date  on  which  the  stock  exchanges  were 
+notified of the Board meeting in which the delisting 
+
+proposal was considered and upto the date of the 
+public announcement; and, 
+
+(b) other  parameters  including  return  on  net  worth, 
+book value of the shares of the company, earning 
+per  share,  price  earning  multiple  vis-à-vis  the 
+industry average. 
+
+(3) Notwithstanding 
+
+anything 
+
+in 
+
+contained 
+
+sub-
+regulations (1) and (2), where the securities proposed 
+to  be  delisted  are  debt  instruments,  the  floor  price 
+shall not be less than the aggregate of the face value 
+and interest accrued thereon. 
+
+(4) The offer price shall be not less than the higher of the 
+
+following – 
+(a) the  floor  price  determined  under  sub-regulation 
+(1), as increased by a premium of twenty five per 
+cent thereof;  
+
+(b) the  fair  value  of  the  securities  determined  by  a 
+registered credit rating agency, as increased by a 
+premium of twenty five per cent thereof. 
+
+ 
+(1) Before opening of the offer, the merchant banker shall 
+open  a  special  depositories  account  with  a 
+depository. 
+
+(2) Where  securities  tendered  by  a  public  holder  are  in 
+
+dematerialized form – 
+(a) they shall be deposited by the merchant banker in 
+
+the special depositories account; and 
+
+(b) they  shall  not  be  transferred  to  the  promoter 
+unless the offer is found to be successful in terms 
+of  regulation  16  and  the  full  consideration  in 
+respect  thereof  is  paid  to  the  public  holders  in 
+
+15 
+
+Special 
+depositories 
+account and 
+handling of 
+securities 
+tendered. 
+
+compliance with regulation 18. 
+
+(3) Where  securities  tendered  by  a  public  holder  are  in 
+
+physical form – 
+(a) they  shall  be  forwarded  to  the  share  transfer 
+agents of the company to verify the genuineness 
+of  the  security  certificate  and  transfer  deed  and 
+where  they  are  found  to  be  not  genuine,  a 
+communication  of  rejection  shall  be  sent  to  the 
+public holder within ten working days of closure of 
+the offer; and 
+
+(b) the  securities  which  are  verified  to  be  genuine 
+shall  be  in  the  custody  of  the  merchant  banker 
+and  shall  not  be  registered  in  the  name  of  the 
+promoter,  unless 
+to  be 
+successful  in  terms  of  regulation  16  and  the  full 
+consideration  in  respect  thereof  is  paid  to  the 
+public holders in compliance with regulation 18. 
+
+the  offer 
+
+is 
+
+found 
+
+16 
+
+Minimum 
+number of 
+securities to be 
+acquired. 
+
+ 
+(1) Where  the  offer  results  in  acceptance  of  a  fewer 
+number of securities than the total securities for which 
+the  offer  was  made  and  the  promoters  shareholding 
+(together  with  holdings  of  persons  acting  in  concert 
+with him) is not likely to exceed ninety per cent of the 
+total  outstanding  shares  of  that  class,  the  offer  shall 
+fail  and  no  securities  shall  be  acquired  pursuant  to 
+such offer: 
+Provided  that  in  a  case  where  the  company  whose 
+shares are proposed to be delisted has an applicable 
+minimum  public  shareholding  level  of  ten  per  cent 
+under  the  listing  agreement,  sub-regulation  (1)  shall 
+apply as if for the words “ninety per cent”  the words 
+
+“ninety six per cent”  were substituted. 
+
+(2) Where the offer fails – 
+
+(a) the  securities  tendered  by  a  holder  shall  be 
+returned to the holder within seven days of closure 
+of the offer period; 
+
+(b) no final application shall be made to the exchange 
+
+for delisting of the securities; and 
+
+(c) the  escrow  account  opened  under  regulation  11 
+
+shall be closed. 
+
+ 
+(1) Within  seven  days  of  closure  of  the  offer,  the 
+promoter  and  the  merchant  banker  shall  make  a 
+public  announcement  in  the  same  newspapers  in 
+which the public announcement under sub-regulation 
+(1)  of  regulation  10  was  made,  as  to  whether  the 
+minimum number of securities required for success of 
+the offer under regulation 16 were tendered. 
+
+(2) Where  the  offer  succeeds  in  terms  of  regulation  16, 
+the  securities  tendered  shall  be  deemed  to  be 
+acquired by the promoter unless a communication of 
+rejection, upon verification of the securities tendered 
+(in respect of securities in the physical form), is made 
+within ten working days of closure of the offer and the 
+promoter  shall  be  liable  to  pay  the  consideration  for 
+such securities. 
+
+ 
+(1) The  promoter  shall 
+
+immediately  on  ascertaining 
+success  of  the  offer,  open  a  special  account  with  a 
+banker  to  an  issue  registered  with  the  Board  and 
+transfer  thereto,  the  entire  amount  due  and  payable 
+as  consideration  in  respect  of  securities  tendered  in 
+
+Procedure after 
+closure of offer. 
+
+17 
+
+Payment of 
+consideration. 
+
+18 
+
+19 
+
+Right of 
+remaining 
+security-holders 
+to tender 
+securities. 
+
+the offer, from the escrow account.  
+
+(2) All  the  security  holders  whose  securities  are  verified 
+to be genuine shall be paid the final price stated in the 
+public  announcement  within  ten  working  days  from 
+the closure of the offer. 
+
+ 
+(1) Where, pursuant to acceptance of securities tendered 
+in  terms  of  these  regulations,  the  securities  are 
+delisted,  any 
+remaining  public  holder  of  such 
+securities  may  tender  his  securities  to  the  promoter 
+upto a period of six months from the date of delisting 
+and,  in  such  a  case,  the  promoter  shall  accept  the 
+securities  tendered  at  the  same  final  price  at  which 
+the earlier acceptance of securities was made. 
+
+(2) The payment of consideration for securities accepted 
+under  sub-regulation  (1)  shall  be  made  out  of  the 
+balance amount lying in the escrow account. 
+
+(3) The  amount  in  the  escrow  account  or  the  bank 
+guarantee  shall  not  be  released  to  the  promoter 
+unless all payments are made in respect of securities 
+tendered under sub-regulation (1). 
+
+ 
+
+ 
+
+CHAPTER V 
+
+COMPULSORY DELISTING 
+
+ 
+
+20 
+
+Compulsory 
+delisting by a 
+stock  exchange. 
+
+(1)  A  stock  exchange  may,  by  order,  delist  any 
+securities of a company on any ground prescribed in 
+the  rules  made  under  section  21A  of  the  Securities 
+Contracts (Regulation) Act, 1956 (42 of 1956): 
+Provided that no order shall be made under this sub-
+
+regulation unless the company concerned has been 
+given a reasonable opportunity of being heard. 
+
+(2)  The decision regarding compulsory delisting shall be 
+taken  by  a  panel  to  be  constituted  by  the  stock 
+exchange consisting of –  
+(a) two  directors  of  the  stock  exchange  (one  of 
+
+whom shall be a public representative); 
+
+(b) one director nominated by the Board; and 
+(c) the Executive Director or Secretary of the stock 
+
+exchange. 
+
+the  region  where 
+located,  of 
+
+(3)  Before making an order under sub-regulation (1), the 
+stock  exchange  shall  give  a  notice  in  one  English 
+national  daily  with  wide  circulation  and  one  regional 
+the 
+language  newspaper  of 
+concerned  stock  exchange 
+the 
+proposed  delisting,  giving  a  time  period  of  not  less 
+than  fifteen  days  from  the  notice,  within  which 
+representations may be made to the stock exchange 
+by  any  person  who  may  be  aggrieved  by  the 
+proposed delisting and shall also display such notice 
+on its trading systems and website. 
+
+is 
+
+sub-regulation 
+
+(4)  The  stock  exchange  shall  while  passing  any  order 
+under 
+the 
+representations,  if  any,  made  by  the  company  as 
+also any representations received in response to the 
+notice given under sub-regulation (3).  
+
+(1), 
+
+consider 
+
+(5)  The provisions of Chapter IV shall not be applicable 
+to a compulsory delisting made by a stock exchange 
+under this Chapter. 
+
+(6)  Where  the  stock  exchange  passes  an  order  under 
+sub-regulation  (1),  it  shall  forthwith  publish  a  notice 
+
+in one English national daily with wide circulation and 
+one  regional  language  newspaper  of  the  region 
+where  the  concerned  stock  exchange  is  located,  of 
+the fact of such delisting, disclosing therein the name 
+and  address  of  the  company,  the  fair  value  of  the 
+delisted  securities  determined  under  sub-regulation 
+(1) of regulation 21 and names and addresses of the 
+promoters of the company who would be liable under 
+sub-regulation (3) of regulation 21. 
+
+(7)  A  listed  company  or  any  investor  aggrieved  by  an 
+order  passed  under  sub-regulation  (1),  may  file  an 
+appeal  against  the  order  before  the  Securities 
+Appellate  Tribunal  under  sub-section  (2)  of  section 
+21A  of  the  Securities  Contracts  (Regulation)  Act, 
+1956  (42  of  1956),  in  accordance  with  that  Act  and 
+the rules made thereunder. 
+
+ 
+(1)Where securities of a company are delisted by a stock 
+exchange  under  this  Chapter,  the  stock  exchange 
+shall  appoint  an  independent  valuer  or  valuers  who 
+shall  determine 
+the  delisted 
+securities.  
+
+fair  value  of 
+
+the 
+
+(2)The  stock  exchange  shall  form  a  panel  of  expert 
+valuers  from  whom  the  valuer  or  valuers  shall  be 
+appointed for purposes of sub-regulation (1). 
+
+(3)The  promoter  of  the  company  shall  acquire  delisted 
+securities  of  the  public  holders  by  paying  them  the 
+value determined by the valuer, subject to the option 
+of  the  public  holders  of  the  securities  to  retain  the 
+securities. 
+Explanation: For the purposes of sub-regulation (1), - 
+
+21 
+
+Rights of public 
+holders of 
+securities in 
+case of a 
+compulsory 
+delisting 
+
+(a) ‘valuer’  means  a  Chartered  Accountant  or 
+
+merchant banker appointed to determine the value 
+of the delisted securities; 
+
+(b) value of the delisted securities shall be determined 
+factors 
+
+the  valuer  having  regard 
+
+the 
+
+to 
+
+by 
+mentioned in regulation 14; 
+
+ 
+Power of the 
+Board to issue 
+clarifications. 
+
+Directions by the 
+Board. 
+
+ 
+
+ 
+
+CHAPTER VI 
+
+POWERS OF THE BOARD 
+
+22 
+
+In  order  to  remove  any  difficulties  in  the  application  or 
+interpretation of these regulations, the Board may issue 
+clarifications and guidelines in the form of circulars. 
+ 
+
+23  Without  prejudice  to  provisions  of  the  Act  and  those  of 
+the  Securities  Contracts  (Regulation)  Act,  1956  (42  of 
+1956),  the  Board  may  in  case  of  any  violation  of  these 
+regulations and in the interests of the investors and the 
+securities  market  give  such  directions  as  it  deems  fit 
+including -  
+(a) suspending 
+exchange; 
+
+trading  of  any  security 
+
+in  an 
+
+the 
+
+(b) restraining  persons  from  accessing  the  securities 
+market  and  prohibiting  any  person  associated  with 
+securities  market  from  buying,  selling  or  dealing  in 
+securities;  
+
+(c)  directing  the  Board  of  Directors  or  promoters  of  a 
+company  whose  securities  are  delisted  consequent 
+upon  withdrawal  of  recognition  or  non-renewal  of 
+recognition granted to a stock exchange, for getting 
+
+  
+
+Listing of 
+delisted 
+securities 
+
+its  securities  listed  on  any  such  stock  exchange  as 
+may be specified by the Board; or 
+
+(d) directing a stock exchange to delist any securities of 
+
+any company: 
+
+Provided  that  the  Board  shall,  either  before  or  after 
+passing  such  orders,  give  an  opportunity  of  hearing  to 
+the company or other concerned person. 
+ 
+
+CHAPTER VIII 
+
+MISCELLANEOUS 
+
+ 
+
+24  (1) No  application  for  listing  shall  be  made  in  respect  of 
+any securities which have been delisted under these 
+regulations or under any other law for the time being 
+in force for a period of seven years from the delisting. 
+(2) While  considering  an  application  for  listing  of  any 
+the  stock 
+facts  and 
+
+securities  which  had  been  delisted, 
+exchange  shall  have  due  regard 
+to 
+circumstances under which delisting was made. 
+
+(3) Except to the extent provided in sub-regulation (2), an 
+application  for  listing  made  under  sub-regulation  (1) 
+shall be deemed to be an application for fresh listing 
+of such securities.  
+
+(4) Nothing  in  this  regulation  shall  apply  to  a  listing  of 
+delisted  securities  pursuant  to  orders  of  a  court  or 
+tribunal. 
+
+ 
+
+Stock exchanges 
+to monitor 
+compliance with 
+
+25  The  respective  stock  exchanges  shall  comply  with  and 
+monitor  compliance  with 
+these 
+Regulations and shall report to the Board any instance 
+
+the  provisions  of 
+
+Regulations. 
+
+Repeal and 
+savings 
+
+of non-compliance which comes to their notice. 
+ 
+
+26  (1) The Securities and Exchange Board of India (Delisting 
+of Securities) Guidelines, 2003 shall stand rescinded 
+upon the commencement of these regulations: 
+Provided  that  such  rescission  shall  not  affect  the 
+previous operation of the said guidelines or anything 
+done or omitted to be done or suffered therein or any 
+right,  privilege,  obligation  or  liability  acquired  or 
+accrued or incurred thereunder. 
+
+(2) Notwithstanding such rescission -  
+
+(a) any application for delisting made by any company 
+and pending with any stock exchange prior to such 
+rescission  shall  be  deemed  to  have  been  made 
+under 
+these 
+regulations; 
+
+the  corresponding  provisions  of 
+
+(b) any exit opportunity already completed, or initiated 
+and  pending  completion,  under  the  Guidelines, 
+prior to such rescission shall be completed and the 
+application  for  delisting  made  pursuant  thereto 
+shall be dealt with as if those Guidelines were not 
+rescinded.  
+ 
+
+ 
+
+SCHEDULE 
+
+[See regulation 9(2)] 
+
+CONTENTS OF THE PUBLIC ANNOUNCEMENT 
+
+ 
+
+1.  The floor price and the offer price and how they were reached. 
+2.  The dates of opening and closing of the offer. 
+3.  The  name  of  the  exchange  or  exchanges  from  which  the  securities  are 
+
+sought to be delisted. 
+
+4.  The manner in which the offer can be accepted by the security holder. 
+5.  Disclosure regarding the minimum acceptance condition for success of the 
+
+offer. 
+
+6.  The name of the merchant banker and other intermediaries together with 
+
+the helpline number for the security holders. 
+
+7.  The specified date fixed as per sub-regulation (3) of regulation 9.  
+8.  The object of the proposed delisting. 
+9.  The  proposed  time  table  from  opening  of  the  offer  till  the  payment  of 
+
+consideration / return of securities. 
+
+10. Details of the escrow account and the amount deposited therein. 
+11. Listing details and stock market data: 
+
+(a) high,  low  and  average  market  prices  of  the  securities  of  the 
+
+company during the preceding three years; 
+
+(b) monthly high and low prices for the six months preceding the date 
+
+of the public announcement; and, 
+
+(c) the volume of securities traded in each month during the six months 
+
+preceding the date of public announcement. 
+12. Present capital structure and shareholding pattern. 
+13. The likely post-delisting shareholding pattern. 
+14. The aggregate shareholding of the promoter together with persons acting 
+in  concert  and  of  the  directors  of  the  promoter  where  the  promoter  is  a 
+company and of persons who are in control of the company. 
+
+15. Name of compliance officer of the company. 
+
+16. It should be signed and dated by the promoter. Where the promoter is a 
+company, the public announcement shall be dated and signed on behalf of 
+the Board of Directors of the company by its manager or secretary, if any, 
+and by not less than two directors of the company, one of whom shall be a 
+managing director where there is one. 
+
+ 
+
+ 
+
+F.No. SEBI/LAD/DOP/30/  
+
+ /2006 
+ 
+ 
+ 
+M. DAMODARAN 
+CHAIRMAN 
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+

@@ -1,0 +1,588 @@
+ 
+Consultation paper for amendments to the SEBI (Infrastructure Investment Trusts) 
+Regulations, 2014 
+ 
+
+ 
+
+A.  Background:  
+
+ 
+
+1)  SEBI  (Infrastructure  Investment  Trusts)  Regulations,  2014  (InvIT  regulations)  were 
+notified  on  26th  September,  2014,  thereby  providing  a  regulatory  framework  for 
+registration  and  regulation  of  InvITs  in  India.  The  regulations,  inter  alia,  prescribe 
+conditions  for  making  a  public  offer  and  private  placement,  initial  and  continuous 
+disclosures,  investment  conditions,  unit-holder  approval  requirements,  related  party 
+disclosures, etc.  
+ 
+
+2)  Pursuant  to  the  notification  of  InvIT  regulations,  representations  and  suggestions  were 
+received  from  various  market  participants  for  making  changes  to  the  said  regulations.  
+Based on the recommendations received, a consultation paper proposing amendments to 
+InvIT  regulations  was  issued  seeking  public  comments  on  August  20,  2015.  The 
+aforesaid  paper  dealt  with  certain  issues  which  have  been  taken  up  again  in  this 
+consultation  paper  to  insert  certain  additional  conditions,  based  on  feedback  received 
+from  all  stakeholders  viz.  government,  market  participants,  industry  associations, 
+regulatory bodies, etc. 
+
+ 
+
+3)  Apart from the above, based on the feedback  received from  the aforesaid stakeholders, 
+
+the paper also proposes certain other amendments. 
+ 
+B.  The issues and the proposals for amendment are as under: 
+
+I.  Removing  the  restriction  on  the  SPV  (only  in  case  of  such  SPV  being  a 
+
+Holding Company) to invest in other SPVs holding the assets. 
+
+a)  Current  regulatory  requirement:  Regulation  2(1)(zy)  of  InvIT  Regulations,  inter  alia 
+states that a SPV is a company or LLP, which holds not less than ninety  per cent of its 
+assets directly in infrastructure projects and does not invest in other SPVs. 
+
+b)  Request  for  change:  It  has  been  represented  that  infrastructure  assets  in  India  are 
+usually held through different Special Purpose Vehicles (SPVs), where the promoters of 
+such SPVs create separate holding companies (HoldCo) which in turn hold stake in the 
+multiple SPVs which have infrastructure projects under them. Thus, it has been 
+
+ 
+
+Page 1 of 11 
+
+ 
+
+ 
+
+requested that InvITs be allowed to invest in infrastructure projects through  such SPVs 
+(HoldCo) which hold stake in other SPVs having infrastructure assets. 
+
+The rationale for necessitating such change are as under:  
+
+i. 
+
+In  Infrastructure  sector,  specifically  for  PPP  projects,  certain  concession 
+agreements  do  not  allow  for  direct  change  in  control  in  SPVs  which  holds  the 
+assets, thereby making it possible to transfer shares at holding company level only. 
+ii.  Certain  contracts,  for  example,  power  purchase  agreements  in  power  sector 
+require consents for direct change of control which may be time consuming and 
+not efficient.  
+
+iii.  A large proportion  of  the infrastructure  projects  in  India  are  financed  by Indian 
+financial institutions on a project finance basis where lenders require a pledge on 
+the shares of the SPV. In such cases, if the SPV is held directly by the InvIT, the 
+lenders would seek pledge of the SPV shares held by the InvIT. This might not be 
+attractive for the InvIT investors.  
+
+iv.  There are also concerns of tax inefficiencies, lender considerations, difficulties in 
+
+exit for financial investors, etc. if investment in the HoldCo is not allowed. 
+
+ 
+Further,  feedback  has  also been received  that  removing  the restriction  of  SPV  to invest  in 
+other SPVs may not be advisable because of the following concerns: 
+ 
+
+i.  Listing  of  units  of  InvITs  is  mandatory,  thus  reasonable  exit  option  is  already 
+available under the current regulation. Also having a HoldCo does not improvise the 
+exit option for a unit-holder.  
+In  the  event  of  an  infrastructure  project  failing  or  leading  to  losses,  such  additional 
+layers  will  only  make  it  difficult  to  identify  the  ultimate  beneficiary  who  should 
+bear/indemnify the losses. 
+
+ii. 
+
+iii.  A multi  layered  structure increases  governance  and  compliance  risk  for  the  Trustee, 
+which  further  requires  more  oversight.  Also,  such  oversight  and  monitoring  will 
+become  extremely  difficult  as  one  HoldCo  would  hold  controlling  interest  in  many 
+SPVs each of which, in turn, holds projects, making the structure more complex and 
+difficult to monitor. 
+ 
+ 
+
+ 
+
+Page 2 of 11 
+
+ 
+
+ 
+
+The  government  in  the  Union  Budget  2016-17,  has  provided  that  the    SPV  distributing 
+dividend  to  the  business  trust  will  be  exempt  from  paying  DDT.  Provided  the  business 
+trust  holds  100%  of  the  SPV  or  holds  all  of  the  share  capital  (unless  otherwise)  by 
+direction  of  any  Government/  requirement  of  any  law  /  where  such  SPV  is  held  by 
+Government  or  Government  bodies.)  Further,  the  dividend  income  is  exempt  in  the 
+hands  of the business  trust. Also, the  dividend component of  the income distributed by 
+the business trust is exempt in the hands of the unit holders. 
+
+Hence, in view of the above, if the structure is changed from the single layer SPV to the 
+multiple layer, then there would be tax implications.  
+
+c)  Proposals:  In  view  of  the  feedbacks  received  from  the  market  participants,  the 
+
+following options are proposed: 
+
+Option I: To retain the exiting provision  i.e single layer SPV or; 
+
+Option  II:  To  amend  regulation  2(1)(zy)  and  other  related  regulations  for  allowing 
+investments by InvIT in two level SPV structure i.e. removing the restriction on the 
+SPV  to  invest  in  other  SPVs,  and  thereby  allowing  InvIT  to  invest  in  a  Holding 
+Company  (HoldCo)  which  subsequently  holds  stake  in  SPV(s),  subject  to  following 
+conditions: 
+
+i.  No other shareholder or partner of the underlying SPV(s) shall have any rights 
+that  prevent  the  InvIT  and  HoldCo  from  complying  with  the  provisions  of 
+these regulations; 
+
+ii.  The  investment  manager,  in  consultation  with  the  Trustee,  shall  ensure  that 
+atleast one authorized representative of the HoldCo or the InvIT is appointed 
+on the Board of directors or governing board of the underlying SPV(s);  
+
+iii.  The  investment  manager  shall  ensure  that  in  every  meeting  including  annual 
+general  meeting  of  the  underlying  SPV(s),  the  HoldCo  participates  in  the 
+voting process. 
+
+iv.  All  requirements  related  to  the  related  party  transactions,  etc.  shall  also  be 
+applicable  at  the  underlying  SPV  level  in  addition  to  the  HoldCo,  as  may  be 
+specified by SEBI. 
+
+ 
+
+Page 3 of 11 
+
+ 
+
+ 
+
+v.  All responsibilities  of the investment manager with  respect to the SPVs  shall 
+
+apply at both the levels.  
+
+vi.  All  investment  conditions  and  leverage  requirements  will  apply  at  the 
+
+consolidated level. 
+
+vii.  The  requirement  of  mandatory  distribution  of  at  least  90%  of  the  net 
+distributable cash flows shall apply to the underlying SPVs. Further, 100% of 
+the net distributable cash flows of the HoldCo shall be distributed. 
+
+viii.  All  financial  statements  of  the  InvIT  shall  be  consolidated  with  both  the 
+
+SPVs.  
+
+ix.  The HoldCo shall not be engaged in any other activity other than holding of 
+
+the underlying SPV(s).   
+
+x.  Any other conditions as SEBI may deem necessary. 
+
+II.  Mandatory sponsor holding in InvIT  
+
+a)  Current regulatory requirement: Regulation 12(3) of the InvIT regulations requires 
+the  sponsor(s)  of  the  InvIT  to  hold,  on  a  collective  basis,  not  less  than  twenty  five 
+per cent of the total units of the InvIT on a post-issue basis for a period of not less 
+than 3 years from the date of the listing of such units. 
+
+b)  Need for change: It has been represented that the road assets in India are operated 
+under a separate concession with NHAI or the state. There is a separate SPV for each 
+concession. The project lender(s) typically fund up to 80% of the project cost in the 
+SPV's while the balance 20% is the sponsor's equity contribution in the SPV. InvITs 
+are  considered  to  be  investment  vehicles,  for  providing  stable  cash  flows  to  the 
+investors. The distributable cash flow received by the InvIT, in the form of dividends 
+from assets and servicing of debt instruments subscribed by the InvIT in the assets, 
+are utilized towards meeting the yield requirements of investors.  
+
+InvIT  investors  would  typically 
+include  institutional  investors  like  insurance 
+companies,  pension  funds,  mutual  funds,  etc.  looking  for  a  stable  and  predictable 
+yield. Thus, a capital structure with no or low leverage would  ensure that the amount  
+
+ 
+
+Page 4 of 11 
+
+ 
+
+ 
+
+of interest which would have otherwise been paid to lenders is available for payment 
+of yield to investors.   
+
+For such cash flows to be made available to the investors at InvIT level, a significant 
+portion  of  the  existing  debt  of  the  SPV  has  to  be  retired.  In  a  scenario  where  a 
+substantial  portion  of  the  existing  debt  at  the  assets  is  replaced  through  primary 
+issuance at InvIT, the value of the InvIT units  on a post-issue basis would reflect a 
+value equivalent to the sum of the market value of the equity capital of the assets and 
+the retired debt at the assets.   
+
+Thus,  the  requirement  for  sponsor  to  hold  25%  of  units  at  InvIT  on  a  post-issue 
+basis,  may  limit  the  monetization  for  sponsors,  reduce  release  of  capital  for  such 
+sponsors  and  may  also  not  be  feasible  for  the  existing  set  of  sponsors.  Further,  in 
+certain circumstances this may lead to sponsor putting money, out of its own pocket, 
+in the InvIT so as to maintain the required 25% stake. Thus depriving the sponsor of 
+the  opportunity  to  monetize  the  asset  and  be  able  to  infuse  capital  into  new 
+infrastructure projects. 
+
+c)  Proposals:    In  view  of  the  representations  received  from  market  participants,  it  is 
+proposed  to  provide  options  to  sponsor(s)  to  continue  with  the  existing  criteria  i.e. 
+sponsor to hold not less than twenty five per cent of the total units of the InvIT after 
+initial offer of units, on a post-issue basis for a period of not less than 3 years from 
+the  date  of  the  listing  of  such  units  or  sponsor  would  be  provided  with  one  of  the 
+following options:-  
+
+Option  1:  Sponsor(s)  of  the  InvIT  would  hold  not  less  than  10%  of  the  total 
+units of the InvIT on a post-issue basis subject to following conditions:  
+
+i. 
+
+10%  of  the  total  units  of  the  InvIT  held  by  the  sponsor(s)  on  a  post-issue 
+basis  shall  be  locked  in  for  a  period  of  atleast  3  years  from  the  date  of  the 
+listing of such units.  
+
+ii.  Any holding by the sponsor(s) exceeding 10%, on a post issue basis, would be 
+
+locked in for a period of 1 year from the date of the listing of such units.  
+
+iii. 
+
+Sponsor(s)would additionally be made responsible for all acts, omissions and 
+representations/ covenants of the InvIT related to formation of InvIT, sale/   
+
+ 
+
+Page 5 of 11 
+
+ 
+
+ 
+
+iv. 
+
+transfer of assets/ SPV to the InvIT and operations of the InvIT carried out 
+by Project Manager and Investment Manager. 
+
+v.  The  InvIT/  the  Trustee  shall  have  first  recourse  against  the  Sponsor  and  its 
+
+associates for any breach in this regard. 
+
+vi.  Project  Manager  of  the  InvIT  shall  be  the  sponsor  or  an  associate  of  the 
+sponsor and shall continue to act in such capacity during the life  cycle of the 
+InvIT  unless  suitable  replacement  is  appointed  by  the  unit-holders  through 
+the Trustee. 
+
+vii.  Other procedural requirements as deemed necessary by SEBI. 
+
+Option  2:  The  sponsor  would  divest  upto  85%  subject  to  the  terms  of  the 
+concession agreement under following arrangements: 
+
+i. 
+
+Sponsor  would  retain  current  equity  for  the  first  year  (with  given  condition 
+that the sponsor must hold a minimum of 15% of the units of InvIT on post 
+issue basis) 
+
+ii.  After the first year, the sponsor would be allowed to dilute the equity upto the 
+minimum  recommended  floor  of  15%  (with  stipulation  as  given  in  option  1 
+(iv) above) and hold 15% equity during the year 2&3. 
+
+III. 
+
+Increase the number of sponsors from 3 to 5 
+
+a)  Current  regulatory  requirement:  Regulation  4(2)(d)(i)  and  12(3)  of  InvIT  regulations 
+mandates that the InvIT can have maximum of 3 sponsors, which shall collectively hold 
+25% of the units of InvIT on post issue basis.  
+
+b)  Need  for  change:  It  has  been  represented  that  there  are  various  cases  in  which  a 
+number  of  group  companies/associates  of  the  sponsor,  are  stakeholder  in  the  SPVs 
+executing  the  project.  Therefore,  capping  the  number  of  sponsors  at  three  may  prove 
+restrictive.  However,  it  has  also  been  out  pointed  out  that  the  parallel  dilution  i.e.  as 
+suggested  in  paragraph  II  above  would  tantamount  to  reduction  in  minimum  sponsor 
+holding.  
+
+ 
+
+ 
+
+Page 6 of 11 
+
+ 
+
+ 
+
+c)  Proposal: In order to address the contradictory opinions in the matter,  the following is 
+
+proposed 
+
+It  is  proposed  that  in  proposal  at  paragraph  II  above,  the  consultation  paper  suggests 
+two options i.e. the existing criteria or the sponsor holding 10% or divesting 85% subject 
+to the compliance with conditions as has been laid out in paragraph II above. In view of 
+the same, following is proposed: 
+
+a.  If the sponsor holds not less than 25% of the total units of the InvIT after initial 
+offer of units, on a post-issue basis for a period of not less than 3 years from the 
+date of the listing, then the number of sponsors may be increased from 3 to 5.  
+
+b.  However  if  the  sponsor  (s)  chooses  not  to  hold  25%  of  the  total  units  of  the 
+InvIT  after  initial  offer  of  units,  on  a  post-issue  basis  (i.e.  either  of  the  options 
+finalized at para II above) then the maximum number of sponsors shall remain at 
+3. 
+
+IV.  Approval of related party transactions by the unit holders 
+
+a)  Current regulatory requirement: 
+
+i.  Regulation  22(3)  and  22(4)  of  the  InvIT  regulations  requires  the  approval  of 
+60%  of  the  unit  holders,  apart  from  related  parties,  for  passing  related  party 
+transactions that are  procedural in nature. 
+
+ii.  Regulation  22(5)  requires  approval  of  75%  of  the  unit  holders,  apart  from 
+related parties, for passing of special resolutions such as change in investment 
+manager, investment strategy, delisting of units, etc. 
+
+b)  Need for change: Representations have been received that the requirement of 60% 
+and  75%  of  investor  approval  may  not  be  feasible,  especially  when  related  parties 
+have to abstain from voting. Further, it has been represented that the requirement of 
+unit  holder  approval,  in  case  of  related  party  transactions  (RPTs)  should  be  in  line 
+with the approval requirement under the Companies Act, 2013. 
+
+c)  Proposal:  Section  188  of  the  Companies  Act,  2013  lists  out  the  related  party 
+transactions  which  require  approval  from  the  board  of  directors  and/or  the 
+shareholders. The section inter-alia states that if such RPTs meet the prescribed  
+
+ 
+
+Page 7 of 11 
+
+ 
+
+ 
+
+thresholds  then  approval  is required  from the  shareholders by way  of  passing  of  an 
+ordinary resolution. The section also requires that the directors who are related to the 
+transaction  under  discussion,  in  the  meeting,  shall  not  be  present  at  the  meeting 
+during  the  discussion  and  the  directors  who  are  related  parties  to  such  contract  or 
+agreement  cannot  vote  for  the  same.  Given  the  nature  of  the  InvIT,  a  complete 
+alignment  with  the  Companies  Act  cannot  be  made.  It  has  been  indicated  that  it 
+would not be possible to achieve the current level of thresholds as prescribed in the 
+InvIT regulations. Accordingly, the following thresholds are proposed: 
+
+i.  For  the purpose of  regulation  22(3)  and  22(4),  the  matter  shall  be  approved  if 
+the votes cast by the unit holders in favor of the proposal shall be more than the 
+number of votes cast by the unit holders against it.  
+
+ii.  For  the  purpose  of  regulation  22(5),  the  matter  shall  be  approved  if  the  votes 
+cast  by  the  unit  holders  in  favor  of  the  proposal  shall  be  at  least  one  and  half 
+times more than the number of votes cast by the unit holders against it.  
+
+iii.  Further,  in  both  the  above  cases,  the  voting  by  any  person,  who  is  a  related 
+party  in  such  transaction,  as  well  as  associates  of  such  person(s)  shall  not  be 
+taken into account.  
+
+V.  Aligning minimum public holding requirement with SCRR 
+
+a)  Current  regulatory  requirement:  Regulation  14(4)(d)  and  16(6)  of  InvIT  regulations, 
+inter-alia  requires  that  the  units  proposed  to  be  offered  to  the  public  shall  not  be  less 
+than  twenty  five  per  cent  of  the  total  outstanding  units.    Further,  the  minimum  public 
+holding for the units of the publicly offered InvIT after listing shall be 25%  of the total 
+number  of  outstanding  units,  at  all  times,  failing  which  action  may  be  taken  as  may  be 
+specified by the Board and by the designated stock exchanges including delisting of units. 
+
+b)  Need for change: Infrastructure assets are usually large and the value of InvIT in which 
+such assets are parked would be very high. Therefore, for an issuer to market and sell an 
+issue size of 25% of the value of such huge InvITs may not be plausible as the product is 
+new and the market may not have the appetite for such big issues. 
+
+c)  Proposal:  A  proposal  has  been  received  to  align  the  same  with  the  requirements  as 
+under Securities Contracts (Regulation) Rules,  1957 (SCRR). Therefore the requirement 
+of minimum offer to public and minimum public holding, of the outstanding units, shall   
+
+ 
+
+Page 8 of 11 
+
+ 
+
+ 
+
+be  linked  with  the  requirement  of  public  offer  of  25%/10%,  as  specified  under  Rule 
+19(2)(b)and 19A of the Securities Contracts (Regulation) Rules, 1957. 
+
+VI.  Eligibility Criteria for Investment Manager: 
+
+a)  Current regulatory requirement: Regulation 4(2)(e)(ii) of the InvIT regulations requires 
+the investment manager to have not less than five years experience in fund management 
+or advisory services or development in the infrastructure sector.  
+
+b)  Need for Change: It has been represented that for each InvIT, an investment manager 
+will need to be incorporated. While the key managerial personnel of investment manager 
+and  sponsor  will  have  domain  expertise,  the  investment  manager  may  be  a  newly 
+incorporated company  and  may not  be able to  meet  the five year  experience  criteria.  It 
+has  been  suggested  that  if  the  investment  manager  is  promoted  by  a  sponsor  who  has 
+prior experience then the investment manager may be exempted from the requirement of 
+having atleast 5 years prior experience. 
+
+c)  Proposal  :  Those  Investment  Managers,  which  do  not  have  atleast  5  years  prior 
+experience, would be allowed subject to the condition that sponsors have at least 5 years 
+of  experience  in  fund  management  or  advisory  services  or  development  in  the 
+infrastructure  sector  (similar  to  what  has  been  allowed  for  sponsor)  subject  to  the 
+condition  that  sponsor  is  an  associate  of  investment  manager.  The  other  conditions  as 
+prescribed in regulation 4(2)(e) shall remain unchanged.  
+
+VII.  Responsibilities of the Trustee and its associate : 
+
+ 
+
+a)  Current  regulatory  requirement  :  Regulation  2(zv)  of  the  InvIT  regulations  provides 
+that  “related  parties"  of  InvIT  shall  include:  (i)  parties  to  the  InvIT;(ii)  any  unit  holder 
+holding, more than 20% of the units  of the InvIT; (iii) associates, promoters, directors, 
+and  partners  of  the  persons  mentioned  in  (i)  and  (ii).  Regulation  9(19)  of  the  InvIT 
+regulations  provides  that  the  Trustee  or  its  associates  shall  not  invest  in  units  of  the 
+InvIT in which it is designated as Trustee.  Also, schedule III-13(c)and Schedule IV-(17) 
+of  the  InvIT  regulations  requires  brief  description  of  the  material  litigations  and 
+regulatory  actions,  whether  completed  or  pending,  against  the  InvIT,  sponsor(s), 
+Investment Manager, Trustee, or any of their associates, if any in the last 5 years. 
+
+ 
+ 
+
+ 
+
+Page 9 of 11 
+
+ 
+
+ 
+
+b)  Need  for  change:  It  has  been  represented  that  the  Trustee  is  an  independent  entity, 
+which is a Debenture Trustee registered with SEBI.  Further, the Trustee does not have 
+any  financial  interest  in  the InvIT,  except  the  fee  for  its  services  as a  Trustee.  Also the 
+assets of the InvIT are independent of the assets and liabilities of the  Trustee company 
+and are even protected against insolvency of the Trustee. Hence, disclosure of associates 
+of  Trustee  is  not  material  for  any  investors  in  the  InvIT.  Therefore  certain  disclosures 
+need not extend to Trustee. 
+ 
+
+c)  Proposal  :  In  view  of  the  above,  the  following  changes  may  be  made  to  the  InvIT 
+
+regulations: 
+
+ 
+
+i.      Associates of the Trustees would not form a part of the parties to the InvIT. 
+ii.     Associates of Trustees would be allowed to invest in units of the InvIT in which it 
+is designated as Trustee, subject to such transactions being conducted at an arm’s 
+length basis. 
+
+iii.     The  disclosure  of  litigations  of  associates  of  Trustee  as  per  Schedule  III  and 
+
+Schedule IV of the InvIT regulations, may not be required. 
+
+ 
+
+VIII.  Allowing InvIT to lend to the underlying SPVs 
+
+a)  Current  regulatory  requirement:  Regulation  18(10)  of  the  InvIT  regulations  doesn't 
+
+allow the InvIT to undertake lending to any person.  
+
+b)  Need  for  change:  It  has  been  represented  that  since  infrastructure  projects  have  long 
+gestation period and are  normally financed by a mix of equity and debt (loan) from the 
+financial institutions, hence, in case of transfer of such assets from sponsor to an InvIT, 
+such transaction may require financing/ retiring the debt (loan) of such projects.  
+
+c)  Proposal:   InvIT regulations may be amended to allow lending. However, the same may 
+be  restricted  to  only  the  SPVs  in  which  the  InvIT  has  invested,  subject  to  other 
+conditions as deemed necessary. 
+
+IX.  Operational aspects 
+ 
+
+i.  Filing of Project Management Agreement at the time of filing the offer document 
+
+SEBI  has  received representations  that  as  the  infrastructure  assets  identified  at  the  time of 
+registration of InvIT may change at the time of filing of offer document. Therefore, entering  
+
+ 
+
+Page 10 of 11 
+
+ 
+
+ 
+
+into  the  Project  Implementation  Agreement  at  the  time of  application for  registration  may 
+not be feasible. 
+
+Proposal:  Accordingly, the InvIT regulations  may be amended to clarity that only Project 
+Management Agreement may be required to be filed at the time of filing of offer document 
+with SEBI. 
+
+ 
+
+ii.  Liability of the unit holders: 
+
+As per the InvIT regulations, the liability of the unit holders is limited to the extent of the 
+units  held  by  them.  However,  SEBI  has  received  representations  that  in  the  InvIT 
+regulations there is no  explicit provision with respect to liability of unit holders and hence, 
+more  clarity  may  be  provided  before  entities  such  as  insurance  companies,  (who  invest  on 
+behalf of their investors), are allowed to invest in InvITs.  
+ 
+Proposal:  It  is  proposed  to  clarify  that  the  unit-holder  is  an  investor  and  his  rights  and 
+obligations are limited to the amount of his investment in the units of InvITs. 
+
+ 
+
+C.  Public Comments: 
+
+  
+
+i. 
+
+In  light  of  the  above,  public  comments  are  invited  on  the  proposals  contained  in  the 
+consultation paper. Comments/ suggestions may be provided in the format given below:  
+ 
+
+Name of entity / person / intermediary/ Organization 
+
+ 
+
+ 
+
+ 
+
+Sr. 
+No.  
+
+ 
+
+Pertains 
+No. 
+
+to  Point 
+
+Suggestions 
+
+Rationale 
+
+ii.  Further, comments may also be forwarded by email to invit@sebi.gov.in or may be sent 
+
+by post to the following address latest by June 28, 2016. 
+Investment Management Department,  
+Division of Funds I  
+ Securities and Exchange Board of India  
+SEBI Bhavan   
+C4-A, G Block  
+Bandra Kurla Complex  
+Mumbai - 400 021 
+
+  
+Issued on:  June 01, 2016 
+
+ 
+
+Page 11 of 11 
+
+

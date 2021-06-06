@@ -1,0 +1,740 @@
+ 
+
+CIRCULAR 
+
+ 
+
+ 
+
+SEBI/HO/DDHS/DDHS/CIR/P/2020/123        
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+       July 17, 2020 
+
+To,  
+
+ 
+All Real Estate Investment Trusts (“REITs”)  
+All Parties to REITs 
+All Recognised Stock Exchanges 
+All Merchant Bankers 
+
+Dear Sir/ Madam,  
+
+Sub:  Manner  and  mechanism  of  providing  exit  option  to  dissenting  unit  holders 
+pursuant to Regulation 22(6A) and  Regulation 22(8) of SEBI Real Estate Investment 
+Trusts Regulations, 2014 (“SEBI (REIT) Regulations”) 
+  
+
+1.  Regulation  22  (6A)  and  Regulation  22  (8)  of  SEBI  (REIT)  Regulations  provide  for  exit 
+
+option to be given to dissenting unit holders. 
+  
+
+2.  This circular details the guidelines in respect of conditions, manner and mechanism of 
+exit option to be provided to dissenting unit holders. The detailed guidelines have been 
+provided in Annexure - I. 
+
+ 
+
+3.  An acquirer providing exit option to dissenting unitholders in terms of this circular shall 
+appoint one or more merchant bankers, registered with the Board, as lead manager(s) 
+for the exit option/offer, who shall ensure compliance with the provisions of SEBI (REIT) 
+Regulations and this circular. Lead manager(s) shall send the Letter of Offer (LoF) to all 
+dissenting unit holders and shall also file the same along with the due diligence certificate, 
+in line with format specified in Form A in Annexure-I of SEBI circular IMD/DF/136/2016 
+dated December 19, 2016, with the Exchange(s). The broad contents of LoF are indicated 
+in Annexure-II of this circular. 
+
+ 
+
+4.  Upon  completion  of  exit  option  process,  a  due  diligence  certificate  in  line  with  format 
+specified  in  the  Form  D  in  Annexure-I  of  SEBI  circular  no.  IMD/DF/136/2016  dated 
+December  19,  2016,  shall  be  filed  by  the  lead  manager(s)  with  the  Board  within  two 
+working days of payment of consideration by the acquirer.  
+
+ 
+
+Page 1 of 11 
+
+ 
+
+ 
+
+ 
+
+5.  This circular is being issued in exercise of powers conferred under Section 11(1) of the 
+Securities and Exchange Board of India Act, 1992 and Regulation 33 of the SEBI (REIT) 
+Regulations. 
+
+ 
+
+6.  This circular is available on the website of the Securities and Exchange Board of India at 
+
+www.sebi.gov.in under the sub-category “Circulars” under the category “Legal”.  
+
+  
+
+ 
+
+Yours faithfully, 
+
+ 
+Richa G. Agarwal  
+Deputy General Manager   
+Department of Debt and Hybrid Securities  
+Email id: richag@sebi.gov.in  
+Phone: +91-22-26449596 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 2 of 11 
+
+ 
+
+ 
+
+Annexure - I 
+
+1.  Definitions 
+
+For the purpose of this circular: 
+
+ 
+
+1.1 “Acquirer” means, 
+
+ 
+(a)  a person who, along with persons acting in concert, intends to acquire units 
+
+of a listed REIT; or 
+
+(b)  a  person  who  intends  to  be  an  inducted  sponsor  as  defined  under 
+
+Regulation 2(qaa) of SEBI (REIT) Regulations; or 
+
+(c)  a sponsor being subject to a change in control, 
+
+and  required  to  provide  an  exit  option  in  terms  of  Regulation  22(6A)  or 
+Regulation 22(8) of the SEBI (REIT) Regulations, as the case may be; 
+
+ 
+
+1.2 “persons acting in concert” means,— 
+
+(1) persons who, with a common objective or purpose of acquisition of units of the 
+REIT, pursuant to an agreement or understanding, formal or informal, directly or 
+indirectly co-operate for acquisition of units of the REIT. 
+ 
+(2) Without prejudice to the generality of the foregoing, the persons falling within 
+the following categories shall be deemed to be persons acting in concert with other 
+persons within the same category, unless the contrary is established,— 
+ 
+
+i) 
+
+ii) 
+
+iii) 
+
+iv) 
+v) 
+
+vi) 
+
+vii) 
+viii) 
+ix) 
+
+a  company,  its  holding  company,  subsidiary  company  and  any  company 
+under the same management or control; 
+a company, its directors, and any person entrusted with the management 
+of the company; 
+directors of companies referred to in item i) and ii) of this sub-clause and 
+associates of such directors; 
+immediate relatives; 
+an  institutional  investor  and  wherever  applicable  its  sponsor,  trustees, 
+trustee company, asset management company; 
+a collective investment scheme and its collective investment management 
+company, trustees and trustee company;  
+a merchant banker and its client, who is an Acquirer; 
+a portfolio manager and its client, who is an Acquirer; 
+banks,  financial  advisors  and  stock  brokers  of  the  Acquirer,  or  of  any 
+company  which  is  a  holding  company  or  subsidiary  of  the  Acquirer,  and 
+
+Page 3 of 11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x) 
+
+where  the  Acquirer  is  an  individual,  of  the  immediate  relative  of  such 
+individual: 
+Provided that this sub-clause shall not apply to a bank whose sole role is 
+that of providing normal commercial banking services or activities in relation 
+to an acquisition/exit option under SEBI (REIT) Regulations; 
+an investment company or fund and any person who has an interest in such 
+investment company or fund as a shareholder or unit holder having not less 
+than 10 per cent of the paid-up capital of the investment company or unit 
+capital of the fund, and any other investment company or fund in which such 
+person or his associate holds not less than 10 per cent of the paid-up capital 
+of that investment company or unit capital of that fund: 
+
+Provided that nothing contained in this sub-clause shall apply to holding of 
+units of mutual funds registered with the Board; 
+
+Explanation—For the purposes of this clause “associate” of a person means any 
+person as defined under Regulation 2(1)(b) of SEBI (REIT) Regulations and shall 
+also include- 
+  
+
+i) 
+ii) 
+
+trusts of which such person or his immediate relative is a trustee; 
+partnership  firm in which such person or his immediate relative is a partner; 
+and 
+
+iii)  members of Hindu undivided families of which such person is a coparcener 
+
+ 
+
+1.3 “Cut-off  date” means a date not more than three working days before the date 
+
+of meeting for determining the eligibility to vote; 
+ 
+
+1.4 “Dissenting unit holders” means unit holders as on the cut-off date who have 
+not voted in favour of the resolution proposed in terms of Regulation 22(6A) or 
+Regulation  22(8)  of  the  SEBI  (REIT)  Regulations,  irrespective  of  whether 
+present or not; 
+ 
+
+1.5 “Frequently traded units” shall have the same meaning as assigned to it in SEBI 
+
+circular SEBI/HO/DDHS/DDHS/CIR/P/2019/142 dated November 27, 2019; 
+
+ 
+1.6 “Relevant date” means the last day of voting for resolution  under  Regulation 
+
+22(6A) or Regulation 22(8) of the SEBI (REIT) Regulations. 
+
+ 
+ 
+ 
+
+Page 4 of 11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.  Manner and mechanism of exit option: 
+
+ 
+
+2.1  The Acquirer shall facilitate tendering of units by the unit holders and settlement of 
+the  same  through  the  stock  exchange  mechanism  as  specified  by  SEBI  for  the 
+purpose of takeover, buy-back and delisting in case of equity listed companies. 
+ 
+
+2.2  Manager shall be entitled to receive from the Acquirer all expenses incurred and 
+payable  to  external  agencies  related  to  the  exit  offer  process  prescribed  in  this 
+circular.  
+ 
+
+2.3  Units tendered in exit option shall be in multiples of the trading lot as applicable to 
+the units of the same class of the REIT, under the existing provisions of the SEBI 
+(REIT) Regulations and circulars issued thereunder. 
+ 
+
+2.4  Dissenting Unitholders who are unitholders on the cut-off date for the purpose of 
+voting shall be eligible to avail the exit option/offer only in respect of such number 
+of units held by such Dissenting Unitholders on the cut-off date. 
+ 
+
+2.5  A summary of activities pertaining to exit option is indicated below along with the 
+
+prescribed timelines: 
+
+Activity Description 
+
+Acquirer shall give notice to the Manager for the 
+purpose of obtaining approval of the unit holders 
+under Regulation 22(6A) or Regulation 22(8) of 
+SEBI  (REIT)  Regulations.  Further,  a  person 
+being 
+inducted  as  a  sponsor  shall  give 
+declaration to Manager with regard to satisfying 
+the eligibility conditions prescribed for a sponsor 
+under SEBI (REIT) Regulations. 
+On  receipt  of  notice,  Manager  shall  intimate  to 
+stock exchange(s) 
+
+Manager shall convene a meeting of unit holders 
+for voting 
+ 
+
+Intimation  of  outcome  of  the  unit  holders’ 
+meeting  by  the  Manager  to  Acquirer  and  stock 
+exchange(s)  along  with 
+the  number  of  
+dissenting unit holders and total number of units 
+
+Page 5 of 11 
+
+Timelines 
+
+- 
+
+Immediately but not later than 
+twenty  four  hours  from  the 
+receipt of such notice 
+
+Voting  to  be  completed  not 
+later than three working days 
+from  the  cut-off  date  and 
+within  twenty  one  days  from 
+the  date  of  receipt  of  notice 
+from the acquirer 
+Within forty eight hours of the 
+last day of voting 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+held by them as of the cut-off date, as certified 
+by its compliance officer.  
+ 
+The day of aforesaid intimation by Manager shall 
+be construed as “Date of Intimation”. 
+Acquirer through the Lead Manager shall give a 
+public notice to stock exchange(s) and Manager 
+regarding his intention of providing exit option to 
+dissenting unit holders 
+Upon  receipt  of  public  notice  from  the  Lead 
+Manager,  Manager  shall  provide  the  list  of 
+dissenting unit holders to the Lead Manager(s). 
+
+Acquirer  through  the  Lead  Manager(s)  shall 
+send  the  Letter  of  Offer  (LoF)  to  all  dissenting 
+unit holders and file a copy of the same with the 
+stock  exchange(s).  Lead  Manager(s)  shall 
+exercise  due  diligence  with  regard 
+to  all 
+information  and  disclosures  contained  in  the 
+LoF. 
+ 
+The  stock  exchange(s)  shall  disseminate  the 
+LoF  on  its  website  as  soon  as  it  receives  the 
+same. 
+Acquirer shall create an escrow account wherein 
+the aggregate amount of consideration based on 
+the list of dissenting unit holders provided by the 
+Manager  to Lead Manager  would be deposited 
+in the manner specified at para 2.6 below.   
+Tender  date  and  tender  period  for  tendering 
+units in exit option 
+
+Payment  of  consideration  to  dissenting  unit 
+holders by the Acquirer 
+
+ 
+
+ 
+
+Within  twenty  four  hours  of 
+the Date of Intimation 
+
+Immediately but not later than 
+twenty  four  hours  from  the 
+receipt  of  public  notice  from 
+the Acquirer 
+Within  three  working  days 
+from the date of public notice 
+by the Acquirer regarding exit 
+option/offer 
+
+At  least  two  working  days 
+prior 
+the 
+tendering period. 
+
+to  opening  of 
+
+Seventh working day from the 
+“Date of Intimation”  
+ 
+Tender  period  shall  be  five 
+working days. 
+Within  a  period  of 
+three 
+working  days  from  the  last 
+date of the tendering period 
+
+Page 6 of 11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Within two working days from 
+the  date  of  payment  of 
+consideration 
+
+Lead Manager shall submit a report to Manager 
+that the payment has been duly made to all the 
+dissenting  unit  holders  whose  units  have  been 
+accepted in the exit option. 
+Based  on  the  information  received  from  Lead 
+Manager,  Manager  shall  update  aggregate 
+number of units tendered, accepted, payment of 
+the  consideration  and  the  post-exit  option  unit 
+holding  pattern  of 
+the  REIT  with  stock 
+exchange(s).  
+
+2.6  The escrow account referred to in aforesaid table may be in the form of —  
+
+(a) cash deposited with any scheduled commercial bank; and/or 
+(b) bank guarantee issued in favour of the  Lead Manager to the exit option/offer 
+by any  scheduled commercial bank; 
+
+2.6.1  In  the  event  of  the  escrow  account  being  created  by  way  of  a  bank 
+guarantee, the Acquirer shall also ensure that at least one per cent of the 
+total  consideration  payable  is  deposited  in  cash  with  a  scheduled 
+commercial bank as a part of the escrow account.  
+ 
+
+2.6.2  For such part of the escrow account as is in the form of a cash deposit with 
+a scheduled commercial bank, the acquirer shall while opening the account, 
+empower the lead manager to the  exit option/offer to instruct the  bank to 
+issue  a  banker’s  cheque  or  demand  draft  or  to  make  payment  of  the 
+amounts lying to the credit of the escrow account. 
+
+ 
+2.6.3  For such part of the escrow account as is in the form of a bank guarantee, 
+such  bank  guarantee  shall  be  in  favour  of  the  lead  manager  to  the  exit 
+option/offer and shall be kept valid throughout the period of exit option/offer 
+and  for  an  additional  period  of  thirty  days  after  completion  of  payment  of 
+consideration to unit holders who have tendered their units in acceptance 
+of the exit option/offer. 
+
+3.  Exit Price 
+
+3.1 The  exit  price  payable  to  the  dissenting  unit  holders  shall  be  highest  of  the 
+
+following: 
+
+3.1.1  the highest negotiated price per unit of the REIT for any acquisition under 
+
+the agreement attracting the obligation of exit option; 
+
+Page 7 of 11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.1.2  the  volume-weighted  average  price  paid  or  payable  for  acquisitions, 
+whether by the proposed Acquirer or any person acting in concert with them, 
+during the fifty-two weeks immediately preceding the relevant date; 
+
+ 
+3.1.3  the  highest  price  paid  or  payable  for  any  acquisition,  whether  by  the 
+proposed  Acquirer  or  any  person  acting  in  concert  with  them,  during  the 
+twenty-six weeks immediately preceding the relevant date; 
+
+ 
+3.1.4  the volume-weighted average market price of such units for a period of sixty 
+trading days immediately preceding the relevant date as traded on the stock 
+exchange where the maximum volume of trading  in the units of the REIT 
+are recorded during such period, provided such units are frequently traded; 
+
+ 
+3.1.5  Where the units of the REIT are not frequently traded, the price determined 
+by  the  Acquirer  and  the  lead  manager  to  the  exit  option/offer  taking  into 
+account valuation parameters including the NAV of the REIT based on a full 
+valuation  of  all  existing  REIT  assets  conducted  in  terms  of  SEBI  (REIT) 
+Regulations,  book  value,  comparable  trading  multiples,  and  such  other 
+parameters as are customary for valuation of units of such REITs. 
+
+3.2 Where  the  Acquirer  has  acquired  or  agreed  to  acquire  whether  by  himself  or 
+through or with persons acting in concert with him any units of the REIT between 
+the  relevant  date  and  the  date  of  payment  of  consideration  to  dissenting  unit 
+holders, whether by subscription or purchase, at a price higher than the exit option 
+price, the exit option price shall stand revised to the highest price paid or payable 
+for any such acquisition:  
+
+Provided that no such acquisition shall be made after the third working day 
+prior  to  the  commencement  of  the  tendering  period  and  until  the  expiry  of  the 
+tendering period. 
+
+ 
+
+3.3 Where  the  Acquirer  or  persons  acting  in  concert  with  him  acquires  units  of  the 
+REIT during the period of twenty-six weeks after the tendering period at a price 
+higher than the exit option price, the Acquirer and persons acting in concert shall 
+pay the difference between the highest acquisition price and the exit option price, 
+to  all  the  unit  holders  whose  units  were  accepted  in  the  exit  option/offer,  within 
+sixty days from the date of such acquisition:  
+
+Provided  that  this  provision  shall  not  be  applicable  to  acquisitions  under 
+another exit option/offer under SEBI (REIT) Regulations or open market purchases 
+made  in  the  ordinary  course  on  the  stock  exchanges,  not  being  negotiated 
+
+Page 8 of 11 
+
+ 
+
+ 
+
+acquisition of units of the REIT whether by way of bulk deals, block deals or in any 
+other form. 
+
+ 
+
+ 
+
+4.    Maintenance of minimum public unitholding  
+
+If the units tendered in exit option are such that, if accepted may result in public 
+unit holding below the minimum public unit holding norm prescribed under SEBI  
+(REIT)  Regulations,  in  such  scenario,  tendered  units  shall  be  accepted  on 
+proportionate  basis  so  as  to  maintain  the  minimum  public  unit  holding  post 
+completion of exit option process.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 9 of 11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annexure - II 
+
+Contents of letter of offer (LoF) and certificate by the Merchant Banker: 
+
+1.  The  disclosures  prescribed  herein  are  the  minimum  disclosure  requirements  to  be 
+contained in the LoF for an exit option/offer. The lead manager/Acquirer is free to add 
+any other disclosure(s) which in his opinion is material for the unit holders, provided 
+such  disclosure(s)  is  not  presented  in  an  incomplete,  inaccurate  or  misleading 
+manner. 
+ 
+1.1. All the requisite disclosures/statements in respect of the  Acquirer, persons who 
+are acting in concert (PAC) with the Acquirer for the purpose of the exit option/offer 
+shall be made in the LoF. 
+ 
+
+1.2. Lead  manager  shall  ensure  that  the  timelines  specified  for  tendering  period, 
+payment of consideration to unit holders, etc. are as per the timelines specified in 
+this circular.  
+ 
+
+1.3. The source from which data / information is obtained should be mentioned in the 
+
+relevant pages of LoF. 
+ 
+
+1.4. The LoF shall, inter alia, shall include the following: 
+
+ 
+
+1.4.1. Details  of  the  Acquirer  (including  PAC,  if  any)  including  its  background, 
+experience, areas of operation, relationship between  Acquirers, pre and post 
+exit offer unit holding etc. financial position (financial statements/net worth, as 
+applicable) etc. In case of financial statements, audited Profit & Loss statement, 
+Balance  Sheet  and  Cash  Flow    statement    for    last    three    years  along  with 
+latest available financial statements. Latest financials should not be older than 
+six months from the date of LoF. 
+ 
+
+1.4.2. Details of the exit option/offer, statutory approvals and detailed timelines with 
+regard  to  exit  option  process  including  operational  terms  and  conditions  etc. 
+subject to which Acquirer(s) would accept the offer. 
+
+ 
+
+1.4.3. Details  of  exit  price  including  total  amount  of  funds  required  to  make  the 
+payment of consideration to unit holders, details of escrow account and bank 
+guarantee, as the case may be. It shall also be disclosed that the lead manager 
+has been empowered by Acquirer to realise the value of such escrow account.  
+
+ 
+
+ 
+
+Page 10 of 11 
+
+ 
+
+ 
+
+ 
+
+1.4.4. Procedure  for  accepting  the  offer  including  disclosure  of  relevant  provisions 
+
+pertaining to acceptance of units.  
+
+ 
+
+1.4.5. In  case  there  is  any  agreement,  mention  important  features  of  the 
+agreement(s), acquisition price per unit, number and percentage of units to be 
+acquired under the agreement, name of the seller(s), names of parties to the 
+agreement, date of agreement, manner of payment of consideration including 
+salient  features  of  the  agreement,  if  any,  entered  between  the  Acquirer  and 
+PAC with regard to the offer/ acquisition of units. 
+
+ 
+
+1.4.6. Due  diligence  certificate  of  Lead  Manager  &  Declaration  by  the  Acquirer 
+(including  PAC,  if  any)  including  statements  regarding  the  Acquirer’s 
+responsibility for the information contained in the LoF and a statement to the 
+effect  that  the  Acquirer  (including  PAC,  if  any)  would  be  responsible  for 
+ensuring compliance with this circular shall be incorporated in the LoF. 
+
+ 
+
+2.  The due diligence certificate to be filed with exchange(s) along with the LoF shall inter-
+alia  undertake  that  lead  manager(s)  have  examined  all  relevant  information  and 
+documents pertaining to this exit option/offer. Certificate shall also include that letter 
+of offer filed with the exchange(s) is in conformity with the documents, materials and 
+papers relevant to the exit option/offer. The lead manager(s) shall be responsible for 
+ensuring compliance with SEBI rules, regulation and the provisions of this circular and 
+lead manager(s) shall continue  to  be  responsible  until completion of the  exit option 
+process and for any related matter thereafter. 
+ 
+
+3.  Any act of omission or commission on the part of any of the intermediaries noticed by 
+
+the lead manager(s) shall be duly reported by them to the Board. 
+
+ 
+
+4.  In the due diligence certificate to be submitted to SEBI upon completion of exit option 
+process,  the  lead  manager(s)  shall  confirm  compliance  with  all  provisions  of  this 
+circular by the Acquirer and the certificate shall also mention that information disclosed 
+in the LoF was true and correct to the best of his knowledge and was obtained after 
+exercising proper due diligence.   
+
+********** 
+
+Page 11 of 11 
+
+ 
+
+

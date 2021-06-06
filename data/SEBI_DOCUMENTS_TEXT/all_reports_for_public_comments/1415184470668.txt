@@ -1,0 +1,267 @@
+CONSULTATIVE PAPER ON AMENDMENTS TO FVCI REGULATIONS FOR PUBLIC 
+
+COMMENTS 
+
+ 
+
+1.  BACKGROUND  
+
+a.  SEBI  registers  Foreign  Venture  Capital  Investors  (FVCIs)  and  regulates 
+investments  by  FVCIs  in  India  under  SEBI  (Foreign  Venture  Capital 
+Investors)  Regulations,  2000  ("FVCI  Regulations").  FVCIs  are  investors 
+incorporated  and  established  outside  India  investing  primarily  in  venture 
+capital  undertakings  in  India  either  directly  or  through  venture  capital 
+fund(s)/alternative investment funds.  
+
+b.  RBI through Schedule 6 of the Foreign Exchange Management (Transfer 
+or  Issue  of  Security  by  a  Person  Resident  outside  India)  Regulations, 
+2000, also regulates the flow of money through FVCI route. Infrastructure 
+is  one  of  the  sectors  in  which  RBI  has  permitted  investment  under  the 
+FVCI route.  
+
+c.  As on September 30, 2014, there are 197 FVCIs registered with SEBI with 
+
+a cumulative net investment of Rs. 42,776 crore1.  
+
+d.  Further,  FVCI  investment  in  infrastructure  sector  as  on  September  30, 
+2014 amounted to more than Rs. 20,000 crore i.e. more than half of the 
+total  cumulative  net  investment  by  FVCIs  in  India.  Major  investment  by 
+FVCIs  in  the  infrastructure  sector  is  in  power,  telecom,  roads,  bridges, 
+urban infrastructure, etc.   
+
+ 
+
+2.  BACKGROUND ON CORE INVESTMENT COMPANIES (CICs) 
+
+a.  The Reserve Bank of India is entrusted with the responsibility of regulating 
+and  supervising  the  Non-Banking  Financial  Companies  by  virtue  of 
+powers vested in Chapter III B of the Reserve Bank of India Act, 1934.  
+
+b.  As on date, RBI classifies various NBFCs as under: 
+
+i.  Asset Finance Company (AFC)  
+ii.  Investment Company (IC) 
+iii.  Loan Company (LC) 
+iv.  Infrastructure Finance Company (IFC) (Introduced in Feb 2010) 
+
+                                                 
+1 As per latest quarterly data received by SEBI from FVCIs  
+
+v.  Systemically  Important  Core  Investment  Company  (CIC-ND-SI) 
+
+(Introduced in August 2010) 
+
+vi.  Infrastructure  Debt  Fund  (IDF-NBFC)  (Introduced  in  November 
+
+vii.  Micro  Finance  Institution  (NBFC-MFI)  (Introduced  in  December 
+
+2011) 
+
+2011) 
+
+viii.  Factors (NBFC-Factors) (introduced in July 2012) 
+
+c.  As seen above, over last few years, RBI has carved out some specialized 
+NBFCs  like  Core  Investment  Companies  (CICs),  NBFC-  Infrastructure 
+Finance  Companies  (IFCs),  Infrastructure  Debt  Fund-  NBFCs,  NBFC-
+MFIs and NBFC-Factors being the most recent one. 
+
+d.  Of  the  various  types  of  NBFCs,  the  matter  under  discussion  pertains  to 
+
+Core Investment Companies (CICs).  
+
+e.  As per RBI2: 
+
+i.  Core Investment Companies or CICs are companies which have their 
+assets  predominantly  as  investments  in  shares  for  holding  stake  in 
+group  companies  but  not  for  trading,  and  also  do  not  carry  on  any 
+other financial activity. 
+
+ii.  A  CIC-ND-SI  is  a  Non-Banking  Financial  Company  carrying  on  the 
+business  of  acquisition  of  shares  and  securities  which  satisfies  the 
+following conditions:- 
+
+(a)  it  holds  not  less  than  90%  of  its  Total  Assets  in  the  form  of 
+investment in equity shares, preference shares, debt or loans in 
+group companies; 
+
+(b)  its  investments  in  the  equity  shares  (including  instruments 
+compulsorily  convertible  into  equity  shares  within  a  period  not 
+exceeding 10 years from the date of issue) in group companies 
+constitutes not less than 60% of its Total Assets; 
+
+                                                 
+2 DNBS (PD) CC.No. 197/03.10.001/2010-11 dated August 12, 2010 
+DNBS.(PD) 220/CGM(US)-2011 dated January 5, 2011    
+http://www.rbi.org.in/commonman/english/scripts/FAQs.aspx?Id=836 
+
+ 
+ 
+
+(c)  it  does  not  trade  in  its  investments  in  shares,  debt  or  loans  in 
+group  companies  except  through  block  sale  for  the  purpose  of 
+dilution or disinvestment; 
+
+(d)  it  does  not  carry  on  any  other  financial  activity  referred  to  in 
+Section 45I(c) and 45I(f) of the RBI act, 1934 except investment in 
+bank deposits, money market instruments, government securities, 
+loans to and investments in debt issuances of group companies 
+or guarantees issued on behalf of group companies. 
+
+(e)  Its asset size is Rs 100 crore or above and 
+
+(f)  It accepts public funds 
+
+iii.  Existing CICs which were exempted from registration in the past and 
+have  an  asset  size  of  less  than  Rs  100  crore  are  exempted  from 
+registration from RBI in terms of section 45NC of the RBI Act 1934, as 
+stated in RBI's Notification No. DNBS.(PD) 220/CGM(US)-2011 dated 
+January 5, 2011.  
+
+iv.  From  the  above,  it  is  understood  that  while  CICs  are  classified  as 
+NBFCs, they are essentially holding companies and do not engage in 
+financing activity similar to other NBFCs. CICs, as per their definition, 
+hold majority of their assets as investments in group companies and 
+do  not  engage 
+that  of 
+investments/guarantees/loans mainly relating to its group companies.  
+
+financing  activity  other 
+
+in 
+
+than 
+
+v. 
+
+the 
+
+infrastructure  sector,  due 
+
+to  various  covenants  under 
+In 
+concession  agreements  and  current 
+format  of  public-private 
+partnerships  (PPPs),  separate  legal  entities  in  the  nature  of  Special 
+Purpose Vehicles are usually formed to undertake projects. Therefore, 
+it  is  observed  that  holding  company  model  is  suitable  for  the 
+infrastructure sector and several major companies in the infrastructure 
+sector are classified as CICs.  
+
+vi.  RBI  also,  in  order  to  strengthen  the  flow  of  resources  into  the 
+infrastructure sector, vide its A.P. (DIR Series) Circular No. 78 dated 
+December  3,  2013  allowed  CICs  to  raise  external  commercial 
+borrowing (ECB) for project use in special purpose vehicles.  
+
+ 
+
+ 
+
+3.  PROPOSAL 
+
+a.  Currently, SEBI (Foreign Venture Capital Investors) Regulations, 2000 do 
+not permit FVCIs to invest in Non-Banking Financial Services (with certain 
+exceptions).  Therefore,  FVCIs  are  not  permitted  to  invest  in  CICs  under 
+the FVCI Regulations since CICs are classified as NBFCs by RBI.  
+
+b.  It  is  observed  that  the  companies  investing  in  infrastructure  sector 
+classified  as  CICs  are  not  able  to  attract  funds  from  FVCIs  due  to  the 
+aforesaid restriction under the FVCI Regulations.  
+
+c.  Infrastructure  is  the  backbone  for  the  development  of  the  country. 
+According  to  the  12th  Five  Year  Plan,  India  requires  an  investment  in 
+Infrastructure  sector  of  around  Rs.  65  lakh  crores  over  the  duration  of 
+2012-2017.  A  significant  boost  is  required  to  the  infrastructure  sector  in 
+the country to help India achieve its target for the 12th Five Year Plan.  
+
+d.  As the capital market regulator, SEBI actively encourages setting of varied 
+frameworks  for  investment  in  infrastructure  sector  so  that  lack  of 
+structures  for  financing  of  infrastructure  is  not  an  impediment  for  the 
+development  of  the  sector.  Specifically  towards  this  end,  SEBI  recently 
+notified  SEBI  (Infrastructure  Investment  Trusts)  Regulations,  2014  to 
+attract more funds in a transparent manner into the infrastructure sector.  
+
+e.  Other  steps  taken  by  SEBI  in  the  recent  past  towards  this  end  include 
+providing  framework  for  various  structures  such  as,  Infrastructure  Debt 
+Fund (IDF-MF) under SEBI (Mutual Funds) Regulations, 1996, Category I 
+AIF  –  Infrastructure  Fund  under  SEBI  (Alternative  Investment  Funds) 
+Regulations, 2012, etc.  
+
+f. 
+
+In  addition,  SEBI  has  provided  special  concessions  for  companies  in 
+infrastructure sector for the purpose of issue and listing of securities under 
+SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2009.  
+SEBI has also simplified the procedure for public issue of bonds which has 
+facilitated bond offerings of several infrastructure companies. Additionally, 
+SEBI also has a framework for public offer and listing of securitised debt 
+instruments  under  SEBI  (Public  Offer  and  Listing  of  Securitised  Debt 
+Instruments) Regulations, 2008.  
+
+g.  For  removing  any  hindrance  for  investment  in  the  infrastructure  sector 
+through  the  FVCI  route  and  to  boost  the  infrastructure  sector  in  the 
+
+country,  it  is  proposed  that  FVCIs  may  be  allowed  to  invest  in  CICs 
+investing in the infrastructure companies.  
+
+h.  The proposal also is based on the fact that CICs are essentially holding 
+companies and do not engage in financing activity similar to other NBFCs 
+and therefore do not go against the intent of the FVCI Regulations of not 
+allowing FVCI investment in non-banking financial services.  
+
+i.  The  proposal  is  expected  to  infuse  funds  into  the  infrastructure  sector 
+which  is  crucial  for  development  of  the  country  and  has  vast  positive 
+spillover effects over various other sectors and the entire economy. 
+
+j.  This  proposal  to  allow  investment  by  FVCIs  in  CICs  investing  in 
+infrastructure  companies  has  also  been  endorsed  by  the Government of 
+India  and  Reserve  Bank  of 
+the 
+recommendations of High Level Committee on Financing of Infrastructure.  
+
+India.  The  proposal 
+
+is  one  of 
+
+k.  In addition to the above, in line with reclassification of NBFCs by RBI over 
+the last decade, it is proposed that the negative list under Schedule III of 
+the  FVCI  Regulations  is  suitably  modified  to  replace  'equipment  leasing 
+and  hire  purchase  companies'  with  'Asset  Finance  Companies  and 
+Infrastructure Finance Companies'.  
+
+ 
+
+4.  PUBLIC COMMENTS 
+
+ 
+In the light of the above, SEBI proposes to make suitable amendments as may 
+be  required  for  FVCI  Regulations.  Comments  are    invited  on  the  above  
+proposals  along  with  rationale  for  the  same.  Comments  may  be  forwarded  by 
+email to Ms. Nila Salil Khanolkar, Assistant General Manager at nila@sebi.gov.in 
+or  to  Mr.  Aditya  Sarda,  Assistant  Manager  at  adityas@sebi.gov.in  latest  by 
+November 15, 2014 in the following format: 
+ 
+Name and organization:  
+Sr. No  Pertains to  
+ 
+ 
+ 
+ 
+
+Recommendation 
+ 
+ 
+ 
+
+Rationale 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Issued on: November 05, 2014 
+
+

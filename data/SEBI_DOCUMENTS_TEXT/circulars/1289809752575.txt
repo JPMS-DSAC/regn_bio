@@ -1,0 +1,70 @@
+ 
+Deputy General Manager 
+Market Regulation Department-Division of Policy 
+E-mail: harinib@sebi.gov.in 
+
+MRD/DoP/SE/Cir-08/2009 
+July 27, 2009 
+
+ 
+The Executive Directors/Managing Directors 
+of all Stock Exchanges 
+  
+Dear Sir / Madam, 
+ 
+Sub: Comprehensive Risk Management Framework for the cash market 
+
+ 
+
+1.  SEBI  vide  circular  no.  MRD/DoP/SE/Cir-07/2005  dated  February  23,  2005  has 
+
+specified the risk management framework for the cash market.  
+ 
+
+2.  Pursuant  to  the  recommendations  made  by  the  Secondary  Market  Advisory 
+Committee of SEBI at its meeting held on June 30, 2009, it has been decided that in 
+case of a buy transaction in cash market, VaR margins, Extreme loss margins and 
+mark  to  market  losses  together  shall  not  exceed  the  purchase  value  of  the 
+transaction.  Further,  in  case  of  a  sale  transaction  in  cash  market,  the  existing 
+practice  shall  continue  viz.,  VaR  margins  and  Extreme  loss  margins  together  shall 
+not exceed the sale value of the transaction and mark to market losses shall also be 
+levied. 
+
+ 
+3.  The Stock Exchanges are also advised to:  
+
+a.  make necessary amendments to the relevant bye-laws, rules and regulations for 
+
+the implementation of the above decision.  
+
+b.  bring the provisions of this circular to the notice of the member brokers/clearing 
+
+members of the Exchange and also to disseminate the same on the website.  
+
+c.  Make  software  changes,  test  the  software  and  remove  any  glitches  in  its 
+operation well before the commencement date to avoid any problems in the live 
+environment.  
+
+d.  communicate to SEBI, the status of the implementation of the provisions of this 
+
+circular in the Monthly Development Report.  
+
+ 
+
+4.  This circular is being issued in exercise of powers conferred under Section 11 (1) of 
+the  Securities  and  Exchange  Board  of  India  Act,  1992  to  protect  the  interests  of 
+investors  in  securities  and  to  promote  the  development  of,  and  to  regulate  the 
+securities market. 
+ 
+
+5.  This circular shall come into force from August 17, 2009. 
+
+ 
+ 
+Yours faithfully, 
+ 
+ 
+
+Harini Balaji 
+
+

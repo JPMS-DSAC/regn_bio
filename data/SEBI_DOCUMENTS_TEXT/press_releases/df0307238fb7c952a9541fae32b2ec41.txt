@@ -1,0 +1,35 @@
+
+ 
+Feb 14, 2011
+
+Press Releases 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PR No.28/2011
+
+
+
+
+Launch of Data Ware Housing and Business Intelligence System at SEBI 
+ 
+SEBI has launched the implementation of a Data Warehouse today.  The primary objective of Data Ware Housing and Business Intelligence System (DWBIS) is to significantly enhance the capability of the investigation and surveillance functions of SEBI.  The Data Warehousing tool will allow SEBI to exploit the power of modern technology in terms of computation and speed of data analysis.
+SEBI has signed a contract for this project designed and to be delivered by TCS, as the system integrator. The platform chosen is of Netezza and SAP Business Objects.  The roll-out of the project took place today with Chairman Shri. C. B. Bhave receiving the first set of reports from the system.  
+DWBIS will also allow SEBI, along with the similar tools available with the exchanges and depositories, to expedite the investigation and completion of its quasi judicial orders arising from cases of violations pertaining to the securities market. 
+Over the next one year, the DW Platform will also host pattern recognition algorithms that will monitor the trade and order data received by SEBI, in order to identify networked clients who possibly collectively indulge in violations of securities laws.  Several modules will address crimes like insider trading, front running etc. 
+The databases across departments of SEBI will get linked with the DW such that the benefits of stored data can be efficiently utilized in pursuance of SEBI’s mandate of investor protection and regulations of markets.
+ 
+Mumbai
+February 14, 2011
+
+

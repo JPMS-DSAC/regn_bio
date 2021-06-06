@@ -1,0 +1,2531 @@
+CONTENTS
+
+Page  No.
+
+List  of  Tables ......................................................................................................
+
+List  of  Charts .....................................................................................................
+
+List  of  Boxes .......................................................................................................
+
+Abbreviations .....................................................................................................
+
+vi
+
+ix
+
+x
+
+xi
+
+CHRONOLOGY  OF  MAJOR  INITIATIVES  BY  SEBI .....................
+
+xiv
+
+PART  ONE:
+
+POLICIES  AND  PROGRAMMES
+
+1. GENERAL  MACRO-ECONOMIC  ENVIRONMENT ..............
+
+5
+
+2. REVIEW  OF  POLICIES  AND  PROGRAMMES .......................
+
+I. Primary  Securities  Market .......................................................
+
+II. Secondary  Securities  Market ...................................................
+
+III. Mutual  Funds ..............................................................................
+
+IV. Foreign  Institutional  Investors .................................................
+
+V. Custodians ....................................................................................
+
+VI.
+
+Investor  Assistance  and  Investor  Education.........................
+
+VII. Retrospect  and  Prospects ..........................................................
+
+PART  TWO:
+
+REVIEW  OF  TRENDS  AND  OPERATIONS
+
+1.
+
+PRIMARY  SECURITIES  MARKET ...............................................
+
+I. Resource  Mobilisation ...............................................................
+
+II. Sector-wise  Resource  Mobilisation .........................................
+
+III. Size-wise  Resource  Mobilisation .............................................
+
+IV.
+
+Industry-wise  Resource  Mobilisation ....................................
+
+2.
+
+SECONDARY  SECURITIES  MARKET .........................................
+
+I. Equity  Market  in  India:  An  Overview ..................................
+
+II. Performance  of  Sectoral  Indices .............................................
+
+III. Turnover  in  the  Indian  Stock  Market ...................................
+
+IV. Market  Capitalisation.................................................................
+
+i
+
+10
+
+10
+
+14
+
+18
+
+20
+
+22
+
+22
+
+25
+
+31
+
+31
+
+32
+
+33
+
+35
+
+35
+
+35
+
+38
+
+39
+
+42
+
+CONTENTS
+
+Page  No.
+
+V. Stock  Market  Indicators ...........................................................
+
+VI. Volatility  in  Stock  Markets.......................................................
+
+VII. Trading  Frequency......................................................................
+
+VIII. Activities  of  the  Regional  Stock  Exchanges .........................
+
+IX. Dematerialisation ........................................................................
+
+X. Derivatives  Market  in  India .....................................................
+
+44
+
+47
+
+48
+
+49
+
+52
+
+55
+
+3. MUTUAL  FUNDS ...............................................................................
+
+60
+
+4.
+
+FOREIGN  INSTITUTIONAL  INVESTMENT ...........................
+
+66
+
+5. DEVELOPMENTS  IN  THE  BOND  MARKET ............................
+
+I. Private  Placement .......................................................................
+
+II.
+
+Indian  Wholesale  Debt  Market ...............................................
+
+70
+
+70
+
+71
+
+PART  THREE: REGULATION  OF  SECURITIES  MARKET
+
+1.
+
+2.
+
+PRIMARY  SECURITIES  MARKET ................................................
+
+74
+
+SECONDARY  SECURITIES  MARKET .........................................
+
+I. Registration  of  Stock  Brokers ..................................................
+
+II. Registration  of  Sub-brokers .....................................................
+
+III. Recognition  of  Stock  Exchanges .............................................
+
+IV. Corporate  Restructuring:  Substantial  Acquisition  of  Shares
+
+and  Takeovers ..............................................................................
+
+V. Registration  of  Foreign  Institutional  Investors ....................
+
+VI. Registration  of  Custodians  of  Securities ...............................
+
+VII. Registration  of  Collective  Investment  Schemes ..................
+
+VIII. Registration  of  Mutual  Funds ..................................................
+
+IX. Registration  of  Venture  Capital  Funds ..................................
+
+X. Fees  and  Other  Charges ............................................................
+
+74
+
+74
+
+78
+
+78
+
+79
+
+80
+
+80
+
+80
+
+80
+
+81
+
+81
+
+i i
+
+CONTENTS
+
+Page  No.
+
+3.
+
+SUPERVISION ......................................................................................
+
+I.
+
+Inspection  of  Market  Intermediaries .....................................
+
+II.
+
+Inspection  of  Stock  Exchanges ................................................
+
+III.
+
+Inspection  of  Subsidiaries  of  Stock  Exchanges ...................
+
+IV.
+
+Inspection  of  Depositories ........................................................
+
+V. System  Audit................................................................................
+
+VI. Show  Cause  Notices  Issued .....................................................
+
+4.
+
+SURVEILLANCE ....................................................................................
+
+I. Mechanism  of  Market  Surveillance .......................................
+
+II. Surveillance  Actions ...................................................................
+
+III. Surveillance  Measures ...............................................................
+
+IV. Enforcement .................................................................................
+
+V.
+
+Integrated  Market  Surveillance  System  (IMSS) .................
+
+VI. RBI-SEBI  Joint  Group  on  Integrated  System  of  Alerts ......
+
+81
+
+81
+
+83
+
+83
+
+83
+
+83
+
+84
+
+84
+
+84
+
+84
+
+84
+
+86
+
+89
+
+90
+
+VII. Workshops  and  Trainings  Conducted  by  Integrated
+
+Surveillance  Department ..........................................................
+
+91
+
+5.
+
+INVESTIGATION ...............................................................................
+
+I. Trends  in  Investigation  Cases ..................................................
+
+II. Regulatory  Action .......................................................................
+
+6.
+
+ENFORCEMENT  OF  REGULATIONS ...........................................
+
+I. Enquiry  and  Adjudication ........................................................
+
+II. Market  Intermediaries ...............................................................
+
+III. Regulatory  Actions  against  Stock  Exchanges  under
+
+Delegated  Powers  and  Functions ............................................
+
+IV. Regulatory  Actions  against  Mutual  Funds ...........................
+
+V. Regulatory  Actions  under  SEBI  (Substantial  Acquisition
+of  Shares  and  Takeovers)  Regulations,  1997 .......................
+
+91
+
+91
+
+93
+
+93
+
+94
+
+94
+
+94
+
+95
+
+96
+
+iii
+
+CONTENTS
+
+Page  No.
+
+7.
+
+PROSECUTION .....................................................................................
+
+I. Trends  in  Prosecution ................................................................
+
+II. Nature  of  Prosecution ................................................................
+
+III. Disposal  of  Prosecution  Cases .................................................
+
+IV. Litigations,  Appeals  and  Court  Pronouncements ...............
+
+96
+
+96
+
+96
+
+98
+
+98
+
+8. RESEARCH  ACTIVITIES ...................................................................
+
+99
+
+PART  FOUR: REGULATORY  CHANGES
+
+1. REGULATORY  DEVELOPMENTS ..................................................
+
+100
+
+I. Rules/Amendment  Rules ..........................................................
+
+100
+
+II. New  Regulations .........................................................................
+
+100
+
+III. Amendments  to  Existing  Regulations ...................................
+
+102
+
+IV. Other  Notifications .....................................................................
+
+113
+
+V. General  Orders ............................................................................
+
+114
+
+2.
+
+SIGNIFICANT  COURT  PRONOUNCEMENTS:  2006-07 ........
+
+115
+
+I. Supreme  Court ...........................................................................
+
+115
+
+II. High  Court ...................................................................................
+
+116
+
+III. Securities  Appellate  Tribunal ...................................................
+
+121
+
+PART  FIVE:
+
+ORGANISATIONAL  MATTERS
+
+1.
+
+SEBI  BOARD .........................................................................................
+
+125
+
+2. HUMAN  RESOURCES .......................................................................
+
+125
+
+I. Staff  Strength,  Recruitment  and  Deputation ......................
+
+125
+
+II. Training..........................................................................................
+
+125
+
+III. Vigilance  Week ............................................................................
+
+126
+
+IV. Promotions ...................................................................................
+
+126
+
+V. Revision  of  Staff  Pay,  Allowances  and  Benefits ...................
+
+126
+
+i v
+
+CONTENTS
+
+3.
+
+PROMOTION  OF  OFFICIAL  LANGUAGE ..............................
+
+126
+
+Page  No.
+
+4.
+
+INFORMATION  TECHNOLOGY .................................................
+
+127
+
+I.
+
+IP  Telephony ................................................................................
+
+127
+
+II.
+
+Information  Security ..................................................................
+
+127
+
+III. Wireless  Local  Area  Network  (WLAN) .................................
+
+128
+
+5.
+
+PHYSICAL  INFRASTRUCTURE .....................................................
+
+128
+
+I. Head  Office  Building  at  Mumbai ...........................................
+
+128
+
+II. Regional  Offices...........................................................................
+
+128
+
+III. Residential  Accommodation  for  Employees ........................
+
+129
+
+6.
+
+INTERNATIONAL  CO-OPERATION ............................................
+
+129
+
+I.
+
+International  Organisation  of  Securities
+Commissions  (IOSCO) ..............................................................
+
+129
+
+II. South  Asian  Securities  Regulatory  Forum ...........................
+
+129
+
+III. Bilateral  Memorandum  of  Understanding ...........................
+
+129
+
+IV. Visits  by  Overseas  Regulators ..................................................
+
+130
+
+7.
+
+PARLIAMENT  QUESTIONS ...........................................................
+
+130
+
+8. RIGHT  TO  INFORMATION  ACT ................................................
+
+130
+
+v
+
+LIST OF TABLES
+
+Table  No.
+
+Title
+
+Page  No.
+
+1.1
+
+1.2
+
+1.3
+
+1.4
+
+2.1.A
+
+2.1.B
+
+2.2
+
+2.3
+
+2.4
+
+2.5
+
+2.6
+
+2.7
+
+2.8
+
+2.9
+
+2.10
+
+2.11
+
+2.12
+
+2.13
+
+2.14
+
+2.15
+
+2.16
+
+2.17
+
+2.18
+
+2.19
+
+2.20
+
+2.21
+
+2.22
+
+2.23
+
+2.24
+
+National  Income  (at  1999-00  prices) .........................................................................
+
+GDP  (at  Factor  Cost)  by  Economic  Activity  (at  1999-00  prices) .......................
+
+Gross  Domestic  Savings  and  Investment.................................................................
+
+Redressal  of  Investors’  Grievances ..............................................................................
+
+Resource  Mobilisation  through  Public  and  Rights  Issues ....................................
+
+Resource  Mobilisation  through  Qualified  Institutions’  Placement ....................
+
+Sector-wise  Resource  Mobilisation ............................................................................
+
+Size-wise  Resource  Mobilisation .................................................................................
+
+Mega  Issues  in  2006-07 ................................................................................................
+
+Industry-wise  Resource  Mobilisation ........................................................................
+
+Resource  Mobilisation  by  Banks  and  Financial  Institutions  in  2006-07 ..........
+
+Major  Indicators  of  Indian  Stock  Markets ..............................................................
+
+Major  Stock  Indices  and  their  Returns ....................................................................
+
+Sectoral  Stock  Indices  and  their  Returns.................................................................
+
+Exchange-wise  Cash  Segment  Turnover ..................................................................
+
+Turnover  at  BSE  and  NSE:  Cash  Segment ..............................................................
+
+City-wise  Turnover  of  Top  10  Cities  in  Cash  Segment:
+BSE  and  NSE  Combined .............................................................................................
+
+Market  Capitalisation  at  BSE ......................................................................................
+
+Market  Capitalisation  at  NSE ......................................................................................
+
+Select  Ratios  Relating  to  Stock  Market ....................................................................
+
+Price-Earnings  Ratio .......................................................................................................
+
+Price  to  Book-Value  Ratio .............................................................................................
+
+Average  Daily  Volatility  of  Benchmark  Indices ......................................................
+
+Trends  in  Average  Daily  and  Annualised  Volatility  of  International  Stock
+Market  Indices  during  2006-07 ..................................................................................
+
+P/E  Ratio,  Return  and  Annualised  Volatility  of  Select  International
+Indices  during  2006-07 .................................................................................................
+
+Trading  Frequency  of  Listed  Stocks ..........................................................................
+
+Trading  Statistics  of  Stock  Exchanges ......................................................................
+
+Turnover  of  Subsidiaries  of  Stock  Exchanges ........................................................
+
+Status  of  Stock  Brokers  with  Stock  Exchanges .....................................................
+
+2.25.A Depository  Statistics:  Equity  Shares ..........................................................................
+
+2.25.B
+
+Depository  Statistics:  Debentures/Bonds  and  Commercial  Papers ...................
+
+2.26
+
+Depositories:  Geographical  Spread ............................................................................
+
+6
+
+6
+
+8
+
+24
+
+31
+
+32
+
+33
+
+33
+
+34
+
+35
+
+36
+
+38
+
+40
+
+40
+
+41
+
+42
+
+43
+
+44
+
+44
+
+45
+
+46
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+53
+
+54
+
+54
+
+55
+
+v i
+
+LIST OF TABLES
+
+Table  No.
+
+Title
+
+Page  No.
+
+2.27
+
+2.28
+
+2.29
+
+2.30
+
+2.31
+
+2.32
+
+2.33
+
+2.34
+
+2.35
+
+2.36
+
+2.37
+
+2.38
+
+2.39
+
+2.40
+
+2.41
+
+2.42
+
+2.43
+
+2.44
+
+2.45
+
+2.46
+
+3.1
+
+3.2
+
+3.3
+
+3.4
+
+3.5
+
+3.6
+
+3.7
+
+3.8
+
+3.9
+
+Trends  in  Turnover  and  Open  Interest  in  Derivatives  at  NSE  and  BSE ..........
+
+Product-wise  Derivatives  Turnover  at  NSE .............................................................
+
+Trends  in  Index  Futures  at  NSE  and  BSE ...............................................................
+
+Trends  in  Single  Stock  Futures  at  NSE  and  BSE ...................................................
+
+Trends  in  Index  Options  at  NSE  and  BSE ...............................................................
+
+Trends  in  Stock  Options  at  NSE  and  BSE ...............................................................
+
+Category  of  Members  in  Derivatives  Segment  of  NSE  and  BSE ......................
+
+Various  Classes  of  Traders/Investors  in  F&O  Turnover  at  NSE .........................
+
+Mobilisation  of  Resources  by  Mutual  Funds ..........................................................
+
+Sector-wise  Resource  Mobilisation  by  Mutual  Funds  during  2006-07 ............
+
+Scheme-wise  Resource  Mobilisation  and  Assets  under
+Management  of  Mutual  Funds  during  2006-07 .....................................................
+
+Number  of  Schemes  by  Investment  Objectives ....................................................
+
+Trends  in  Transactions  on  Stock  Exchanges  by  Mutual  Funds .........................
+
+Investment  by  Foreign  Institutional  Investors ........................................................
+
+Investments  by  Mutual  Funds  and  Foreign  Institutional  Investors ..................
+
+Notional  Value  of  Open  Interest  of  Foreign  Institutional  Investors  in
+Derivatives ........................................................................................................................
+
+Private  Placement  Reported  to  BSE  and  NSE ........................................................
+
+Business  Growth  on  the  Wholesale  Debt  Market  Segment  of  NSE .................
+
+Instrument-wise  Share  of  Securities  Traded  in  the  Wholesale  Debt
+Market  Segment  of  NSE ..............................................................................................
+
+Share  of  Participants  in  Turnover  of  Wholesale  Debt  Market  Segment
+of  NSE ...............................................................................................................................
+
+Registered  Intermediaries .............................................................................................
+
+Registered  Stock  Brokers .............................................................................................
+
+Exchange-wise  Stock  Brokers  Registered  with  SEBI.............................................
+
+Classification  of  Stock  Brokers  on  the  Basis  of  Ownership ................................
+
+Registered  Sub-brokers ................................................................................................
+
+Renewal  of  Recognition  Granted  to  Stock  Exchanges  during  2006-07 ...........
+
+Status  of  Recognition  Granted  to  Other  Stock  Exchanges ..................................
+
+Open  Offers  and  Exemptions .....................................................................................
+
+Mutual  Funds  Registered  with  SEBI .........................................................................
+
+3.10
+
+Registration  of  Venture  Capital  Funds......................................................................
+
+56
+
+57
+
+58
+
+58
+
+59
+
+59
+
+60
+
+61
+
+61
+
+63
+
+63
+
+65
+
+65
+
+66
+
+68
+
+69
+
+70
+
+71
+
+72
+
+73
+
+74
+
+75
+
+75
+
+76
+
+78
+
+79
+
+80
+
+80
+
+81
+
+81
+
+vii
+
+LIST OF TABLES
+
+Table  No.
+
+Title
+
+Page  No.
+
+3.11
+
+3.12
+
+3.13
+
+3.14
+
+3.15
+
+3.16
+
+3.17
+
+3.18
+
+3.19
+
+3.20
+
+3.21
+
+3.22
+
+3.23
+
+3.24
+
+3.25
+
+3.26
+
+3.27
+
+3.28
+
+4.1
+
+4.2
+
+4.3.A
+
+4.3.B
+
+4.4
+
+4.5
+
+5.1
+
+5.2
+
+5.3
+
+Fees  and  Other  Charges ...............................................................................................
+
+Inspection  of  Stock  Brokers/Sub-brokers ................................................................
+
+Surveillance  Actions .......................................................................................................
+
+Investigations  by  SEBI ..................................................................................................
+
+Nature  of  Investigations  taken  up  and  completed  by  SEBI ................................
+
+Type  of  Regulatory  Actions  Taken .............................................................................
+
+Enquiry  and  Adjudication  during  2006-07 .............................................................
+
+Enquiry  and  Adjudication  Proceedings  against  Stock  Brokers/Sub-brokers
+
+Enquiry  and  Adjudication  Proceedings  against  Other  Intermediaries .............
+
+Supersession  of  Governing  Boards  of  Stock  Exchanges  during  2006-07 ........
+
+Interest  Paid  by  Mutual  Funds  to  the  Investors  for  Delayed
+Redemptions  /  Repurchases ........................................................................................
+
+Prosecutions  Launched .................................................................................................
+
+Region-wise  Data  on  Prosecution  Cases ...................................................................
+
+Nature  of  Prosecutions  Launched ..............................................................................
+
+Number  of  Cases  Decided  by  the  Courts ...............................................................
+
+Court  Cases  where  SEBI  was  a  Party  during  2006-07 .........................................
+
+Appeals  before  the  Securities  Appellate  Tribunal  during  2006-07 ....................
+
+Appeals  under  Section  15Z  of  the  SEBI  Act  against  the  Orders  of
+Securities  Appellate  Tribunal  during  2006-07 ........................................................
+
+82
+
+83
+
+84
+
+91
+
+92
+
+93
+
+94
+
+94
+
+95
+
+96
+
+97
+
+98
+
+98
+
+98
+
+98
+
+99
+
+99
+
+99
+
+Regulatory  Fee  Payable  by  Stock  Exchanges ..........................................................
+
+101
+
+Fee  Structure  for  Stock  Brokers  in  Cash  Segment ...............................................
+
+103
+
+Revised  Filing  Fee  Structure  (for  Draft  Offer  Documents  submitted
+between  May  3,  2006  and  May  2,  2007) .................................................................
+
+Revised  Filing  Fee  Structure  (for  Draft  Offer  Documents  submitted  on  or
+after  May  3,  2007) ..........................................................................................................
+
+Revised  Fee  Structure  for  Filing  Draft  Letter  of  Offer  (Substantial
+Acquisition  of  Shares  and  Takeovers) .......................................................................
+
+104
+
+104
+
+112
+
+Revised  Fee  Structure  for  Buy-back  of  Securities..................................................
+
+112
+
+Board  Meetings  during  2006-07 .................................................................................
+
+125
+
+Promotions  during  2006-07 .........................................................................................
+
+126
+
+Bilateral  Memorandum  of  Understanding  (MoU)  Signed ..................................
+
+129
+
+viii
+
+LIST OF CHARTS
+
+Chart  No.
+
+Title
+
+Page  No.
+
+1.1
+
+1.2
+
+2.1
+
+2.2
+
+2.3
+
+2.4
+
+2.5
+
+2.6
+
+2.7
+
+2.8
+
+2.9
+
+2.10
+
+2.11
+
+2.12
+
+2.13
+
+2.14
+
+3.1
+
+3.2
+
+3.3
+
+3.4
+
+Share  of  Components  of  GDP  (at  Factor  Cost) ......................................................
+
+Share  of  Types  of  Savings  in  Financial  Savings  of  the  Household  Sector ......
+
+Share  of  Broad  Categories  of  Issues  in  Total  Resources  Mobilised ...................
+
+Sectoral  Share  in  Total  Resource  Mobilisation .......................................................
+
+Movement  of  Benchmark  Stock  Market  Indices  (2006-07) ...............................
+
+Year-on-Year  Returns:  International  Indices  (2006-07) .........................................
+
+Movement  of  Sectoral  and  Other  Indices  of  BSE  (2006-07) ...............................
+
+P/E  Ratio  of  International  Indices  (2006-07) ...........................................................
+
+Annualised  Volatility  of  International  Indices  (2006-07) ......................................
+
+Derivatives  Turnover  vis-à-vis  Cash  Market  Turnover  (2006-07) ......................
+
+Product-wise  Share  in  Turnover  (2006-07) .............................................................
+
+Sector-wise  Share  in  the  Gross  Mobilisation  of  Resources  by  Mutual  Funds
+
+Sector-wise  Share  of  Resources  Mobilised/Redeemed  under
+Open-ended  and  Close-ended  Schemes ...................................................................
+
+Foreign  Institutional  Investment  in  India ................................................................
+
+Trends  in  Foreign  Institutional  Investment .............................................................
+
+Monthly  Institutional  Investment  (Net)  and  Monthly  Average  Sensex
+Values  (2006-07) .............................................................................................................
+
+Number  of  Stock  Brokers  (by  Ownership)  (as  on  March  31,  2007) ................
+
+Percentage  Share  of  Stock  Brokers  (by  Ownership)  (as  on  March  31,  2007)
+
+Investigation  Cases .........................................................................................................
+
+Type  of  Regulatory  Actions  Taken .............................................................................
+
+7
+
+9
+
+32
+
+33
+
+36
+
+39
+
+41
+
+45
+
+50
+
+56
+
+60
+
+62
+
+64
+
+67
+
+68
+
+69
+
+77
+
+77
+
+92
+
+93
+
+i x
+
+LIST OF BOXES
+
+Box  No.
+
+Title
+
+Page  No.
+
+1.1 Major  Initiatives  and  Developments  in  the  Securities  Market ...........................
+
+1.2 Qualified  Institutions’  Placement................................................................................
+
+1.3 Real  Estate  Investment  Schemes  for  Mutual  Funds  in  India..............................
+
+1.4
+
+Self  Regulatory  Organisations .....................................................................................
+
+1.5 Future  of  Regional  Stock  Exchanges:  Post  De-mutualisation .............................
+
+1
+
+12
+
+21
+
+26
+
+29
+
+5.1 Role  of  Regional  Offices ................................................................................................
+
+128
+
+This  Report  can  also  be  accessed  on  internet  –  http://www.sebi.gov.in
+
+Conventions  used  in  this  Report
+
+Rs.
+
+:
+
+Rupees
+
+Lakh
+
+: Hundred  Thousand
+
+Crore
+
+:
+
+Ten  Million
+
+Million :
+
+Ten  Lakh
+
+Billion :
+
+Thousand  Million / Hundred  Crore
+
+NA
+
+Na
+
+p.a.
+
+: Not Available
+
+: Not  Applicable
+
+:
+
+Per  Annum
+
+Differences  in  total  are  due  to  rounding  off  and  sometimes  they  may  not  exactly  add  up  to
+hundred  per  cent.
+
+x
+
+ABBREVIATIONS
+
+ADB
+
+: Asian  Development  Bank
+
+CPIOs
+
+: Central  Public  Information
+
+ADRs
+
+: American  Depository  Receipts
+
+ALM : Asset  Liability  Management
+
+AMBI
+
+: Association  of  Merchant
+
+Bankers  of  India
+
+AMC
+
+: Asset  Management  Company
+
+AMFI
+
+: Association  of  Mutual  Funds  in
+
+India
+
+ANMI
+
+: Association  of  NSE  Members  of
+
+India
+
+APRC : Asia  Pacific  Regional
+
+Committee
+
+ASE
+
+ASR
+
+ATR
+
+: Ahmedabad  Stock  Exchange
+
+: Annual  Statistical  Report
+
+: Action  Taken  Report
+
+AUM : Assets  Under  Management
+
+BgSE
+
+BhSE
+
+BIFR
+
+: Bangalore  Stock  Exchange
+
+: Bhubaneswar  Stock  Exchange
+
+: Board  for  Industrial  and
+Financial  Reconstruction
+
+BIS
+
+: Bank  for  International
+
+Settlements
+
+BO
+
+: Beneficiary  Owner
+
+BOLTS : BSE  Online  Trading  System
+
+BSE
+
+: Bombay  Stock  Exchange  Ltd.
+
+C&D
+
+: Corporatisation  and
+
+Demutualisation
+
+CCIL
+
+: Clearing  Corporation  of  India
+
+Limited
+
+CCP
+
+CDR
+
+: Central  Counter  Party
+
+: Corporate  Debt  Restructuring
+
+CDSL : Central  Depository  Services
+
+CEO
+
+CFO
+
+CIC
+
+(India)  Limited
+
+: Chief  Executive  Officer
+
+: Chief  Financial  Officer
+
+: Central  Information
+
+Commission
+
+CIS
+
+: Collective  Investment  Scheme
+
+CoSE
+
+: Cochin  Stock  Exchange
+
+CPF
+
+: Customer  Protection  Fund
+
+x i
+
+Officers
+
+CPSS
+
+: Committee  on  Payment  and
+
+CRR
+
+CSE
+
+CSO
+
+CSX
+
+DFIs
+
+Settlement  Systems
+
+: Cash  Reserve  Ratio
+
+: Calcutta  Stock  Exchange
+
+: Central  Statistical  Organisation
+
+: Coimbatore  Stock  Exchange
+
+: Development  Financial
+
+Institutions
+
+DIP
+
+: Disclosure  and  Investor
+
+Protection
+
+DIS
+
+DPs
+
+DSE
+
+DvP
+
+: Delivery  Instruction  Slip
+
+: Depository  Participants
+
+: Delhi  Stock  Exchange
+
+: Delivery  versus  Payment
+
+ECBs
+
+: External  Commercial
+
+Borrowings
+
+ECNs
+
+: Electronic  Contract  Notes
+
+ECS
+
+: Electronic  Clearing  Service
+
+EDIFAR : Electronic  Data  Information
+
+Filing  and  Retrieval
+
+EGM : Extraordinary  General  Meeting
+
+ELSS
+
+EMC
+
+ETF
+
+F&O
+
+: Equity  Linked  Saving  Scheme
+
+: Emerging  Markets  Committee
+
+: Exchange  Traded  Fund
+
+: Futures  and  Options
+
+FAQs
+
+: Frequently  Asked  Questions
+
+FII
+
+FIIs
+
+: Foreign  Institutional  Investment
+
+: Foreign  Institutional  Investors
+
+FIPB
+
+: Foreign  Investment  Promotion
+
+Board
+
+FIs
+
+: Financial  Institutions
+
+FMCG : Fast  Moving  Consumer  Goods
+
+FPOs
+
+: Further  Public  Offerings
+
+FRBM : Fiscal  Responsibility  and
+Budget  Management  Act
+
+FSA
+
+: Financial  Services  Authority,
+
+UK
+
+FSAP
+
+: Financial  Sector  Assessment
+
+Programme
+
+ABBREVIATIONS
+
+LSE
+
+: Ludhiana  Stock  Exchange
+
+MAPIN : Central  Database  for  Market
+
+Participants  and  Investors
+
+MBs
+
+: Merchant  Bankers
+
+MCR
+
+: Monthly  Cumulative  Report
+
+MFs
+
+: Mutual  Funds
+
+MIDC : Maharashtra  Industrial
+
+Development  Corporation
+
+MoF
+
+MoU
+
+: Ministry  of  Finance
+
+: Memorandum  of  Understanding
+
+MPSE : Madhya  Pradesh  Stock
+
+Exchange
+
+MSEA : Magadh  Stock  Exchange
+
+Association
+
+MWPL : Market  Wide  Position  Limit
+
+NAV
+
+: Net Asset  Value
+
+NBFC : Non-Banking  Financial
+
+Company
+
+NCAER : National  Council  of Applied
+
+Economic  Research
+
+: Net  Domestic  Product
+
+: Negotiated  Dealing  System
+
+NDP
+
+NDS
+
+NEFT
+
+: National  Electronic  Funds
+
+Transfer
+
+NISM : National  Institute  of  Securities
+
+Markets
+
+NNP
+
+NRI
+
+: Net  National  Product
+
+: Non-Resident  Indian
+
+NSDL : National  Securities  Depository
+
+Limited
+
+NSE
+
+: National  Stock  Exchange  of
+
+India  Limited
+
+OECD : Organisation  for  Economic
+
+Co-operation  and  Development
+
+: Foreign  Venture  Capital  Investor
+
+FVCI
+GDCF : Gross  Domestic  Capital
+
+Formation
+
+: Gross  Domestic  Product
+: Global  Depository  Receipts
+: Gross  Domestic  Savings
+: Gold  Exchange  Traded  Fund
+: Gross  National  Product
+: Gauhati  Stock  Exchange
+: Government  Securities
+
+GDP
+GDRs
+GDS
+GETF
+GNP
+GSE
+G-Sec
+HRMS : Human  Resources  Management
+
+System
+
+:
+:
+
+: Hyderabad  Stock  Exchange
+Infrastructure  Development
+:
+Finance  Company  Limited
+Indian  Depository  Receipts
+International  Financial  Reporting
+System
+India  Millennium  Deposit
+International  Monetary  Fund
+Integrated  Market  Surveillance
+System
+International  Organisation  of
+Securities  Commissions
+Internet  Protocol  Telephony
+
+:
+:
+:
+
+HSE
+IDFC
+
+IDRs
+IFRS
+
+IMD
+IMF
+IMSS
+
+IOSCO :
+
+IP  Tele- :
+phony
+
+ISE
+
+ISIN
+
+IT
+
+JPC
+
+JSE
+
+:
+
+:
+
+:
+
+:
+
+:
+
+IPF
+
+IPO
+
+:
+
+:
+
+IRDA :
+
+Investor  Protection  Fund
+
+Initial  Public  Offering
+
+Insurance  Regulatory  and
+Development  Authority
+
+Interconnected  Stock  Exchange
+
+International  Securities
+Identification  Number
+
+Information  Technology
+
+Joint  Parliamentary  Committee
+
+OIAE
+
+: Office  of  Investor  Assistance  and
+
+Jaipur  Stock  Exchange
+
+Education
+
+KIM : Key  Information  Memorandum
+
+KYC
+
+: Know  Your  Client
+
+LBMA : London  Bullion  Market
+
+Association
+
+Lol
+
+: Letter  of  Intent
+
+OTCEI
+
+: Over  the  Counter  Exchange  of
+
+India
+
+P/B  ratio: Price  to  Book-Value  ratio
+
+P/E  ratio: Price-Earnings  ratio
+
+PAN
+
+: Permanent  Account  Number
+
+xii
+
+ABBREVIATIONS
+
+PFRDA : Provident  Fund  Regulatory  and
+
+SIP
+
+: Systematic  Investment  Plan
+
+Development  Authority
+
+PIL
+
+: Public  Interest  Litigation
+
+SKSE
+
+: Saurashtra  Kutch  Stock
+
+Exchange
+
+PIOs
+
+: Public  Information  Officers  /
+
+SLR
+
+: Statutory  Liquidity  Ratio
+
+Persons  of  Indian  Origin
+
+PMAC : Primary  Market  Advisory
+
+Committee
+
+PMLA : Prevention  of  Money
+
+Laundering
+
+PSEs
+
+: Public  Sector  Enterprises
+
+PSU
+
+PTC
+
+: Public  Sector  Undertaking
+
+: Pass  Through  Certificate
+
+PQ  Cell : Parliament  Question  Cell
+
+QIB
+
+QIP
+
+: Qualified  Institutional  Buyer
+
+: Qualified  Institutions’
+
+Placement
+
+RAIN : Registrars Association  of  India
+
+SMAC
+
+: Secondary  Market  Advisory
+
+Committee  /  Securities
+Market  Awareness  Campaign
+
+SMARTS : Securities  Markets  Automated,
+
+Research,  Training  and
+Surveillance
+
+: Special  Purpose  Vehicles
+
+: Self  Regulatory  Organisation
+
+: Share  Transfer  Agent
+
+: Straight  Through  Processing  /
+
+Systematic  Transfer  Plan
+
+: Securities  Transaction  Tax
+
+: Systematic  Withdrawal  Plan
+
+SPVs
+
+SRO
+
+STA
+
+STP
+
+STT
+
+SWP
+
+RBI
+
+: Reserve  Bank  of  India
+
+T-Bills
+
+: Treasury  Bills
+
+REIT
+
+: Real  Estate  Investment  Trust
+
+TDS
+
+: Tax  Deduction  at  Source
+
+REMF : Real  Estate  Mutual  Fund
+
+TFCG
+
+: Task  Force  on  Corporate
+
+RoC
+
+RSEs
+
+: Registrar  of  Companies
+
+: Regional  Stock  Exchanges
+
+RTGS
+
+: Real  Time  Gross  Settlement
+
+System
+
+RTI
+
+: Registrar  to  an  Issue  /  Right  to
+
+Information
+
+SAARC : South  Asian  Association  for
+
+Regional  Co-operation
+
+SAT
+
+: Securities  Appellate  Tribunal
+
+SC(R)A : Securities  Contracts
+
+(Regulation)  Act
+
+SC(R)R : Securities  Contracts
+
+(Regulation)  Rules
+
+SCN
+
+: Show  Cause  Notice
+
+SCOD : SEBI  Committee  on  Disclosures
+
+SCODA : SEBI  Committee  on  Disclosures
+
+and  Accounting  Standards
+
+SEBI
+
+: Securities  and  Exchange  Board
+
+of  India
+
+SFC
+
+: Securities  and  Futures
+
+Commission,  Hong  Kong
+
+Governance
+
+: Trading  Member
+
+: Unique  Client  Code
+
+: Unique  Identification  Number
+
+: Uttar  Pradesh  Stock  Exchange
+
+: United  States  of  America
+
+TM
+
+UCC
+
+UIN
+
+UPSE
+
+USA
+
+USAID : United  States  Agency  for
+
+-  FIRE
+
+: International  Development  –
+Financial  Institutions  Reforms
+and  Expansion
+
+USSEC : United  States  Securities  and
+
+Exchange  Commission
+
+UTI
+
+VaR
+
+VCF
+
+VSE
+
+: Unit  Trust  of  India
+
+: Value  at  Risk
+
+: Venture  Capital  Fund
+
+: Vadodara  Stock  Exchange
+
+WDM
+
+: Wholesale  Debt  Market
+
+WPI
+
+XBRL
+
+: Wholesale  Price  Index
+
+: Extensible  Business  Reporting
+
+Language
+
+xiii
+
+CHRONOLOGY OF MAJOR INITIATIVES BY SEBI
+
+Date
+
+2006
+
+April  03
+
+April  03
+
+April  04
+
+April  05
+
+April  13
+
+Announcements
+
+ SEBI  drafted  a  model  Listing  Agreement  for  companies  seeking
+permission  under  Rule  5  (i)  of  the  Indian  Depository  Receipts  (IDRs)
+Rules.
+
+ A  new  Chapter  VI  A  containing  the  Guidelines  to  be  followed  by
+an  issuer  for  coming  out  with  an  IDR  issue  added  in  the  SEBI  DIP
+Guidelines,  2000.
+
+ Initial  issue  expenses  rationalised  and  guidelines  issued  to  introduce
+uniform  practices  for  dividend  distribution  procedure  by  mutual
+funds  and  for  development  of  mutual  fund  industry.
+
+ Cumulative  debt  investment  limits  of  USD  2  billion  and  USD  1.5
+billion  for  FII/sub-account  in  Government  securities  and  corporate
+debt  respectively  were  allocated  as  USD  1.75  billion  in  G-sec/T-Bills
+and  USD  1.35  billion  for  100  per  cent  debt.  For  general  70:30  FIIs/
+sub-accounts  the  allocation  to  be  USD  0.25  billion  in  G-sec/T-Bills
+and  USD  0.15  billion  in  corporate  debt.
+
+ Clause  40A  and  Clause  35  of  Equity  Listing  Agreement  amended
+to  ensure  availability  of  floating  stock  of  a  listed  company  on  a
+continuous  basis  and  to  bring  about  greater  transparency  in  respect
+of  disclosure  of  shareholding  pattern  of  companies.
+
+April  21
+
+ Guidelines  about  dividend  distribution  procedure  of  mutual  funds
+
+clarified.
+
+April  21
+
+ Guidelines  on  valuation  of  gold  in  Gold  Exchange  Traded  Funds
+issued.  NAV  of  units  under  the  scheme  to  be  calculated  on  the
+basis  of  market  or  fair  value  of  scheme’s  investments  along  with
+the  current  assets  (deducting  current  liabilities  and  provisions)
+divided  by  number  of  outstanding  units  under  the  scheme  on  the
+valuation  date.
+
+April  24
+
+ SEBI  (Disclosure  and  Investor  Protection)  Guidelines,  2000  amended
+
+to  provide  for  inclusion  of  clauses  regarding  grading  of  IPOs.
+
+May  08
+
+May  22
+
+ SEBI  (Disclosure  and  Investor  Protection)  Guidelines,  2000  amended
+to  introduce  an  additional  mode  for  listed  companies  to  raise  funds
+from  domestic  market  in  the  form  of  Qualified  Institutions’
+Placement.
+
+ SEBI  (Mutual  Fund)  Regulations,  1996  amended  directing  close-
+ended  schemes  not  to  charge  entry  load.  Further,  initial  expenses
+of  launching  a  close-ended  scheme  not  to  exceed  six  per  cent  of
+initial  resources  raised  under  that  scheme.
+
+June  16
+
+ Risk  arrays  to  be  updated  intra-day  in  the  cash  market  similar  to
+the  derivatives  market  to  ensure  market  safety  and  to  further  align
+
+Contd.
+
+xiv
+
+CHRONOLOGY OF MAJOR INITIATIVES BY SEBI
+
+Date
+
+Announcements
+
+June  26
+
+June  28
+
+the  risk  management  framework  across  the  cash  and  derivative
+markets.  Applicable  VaR  margin  rates  to  be  updated  at  least  five
+times  in  a  day.
+
+ Validity  period  of  the  certificate  of  FIIs  and  subsequent  renewals
+reduced  to  three  years.  FIIs  allowed  to  invest  in  security  receipts
+but  not  on  behalf  of  sub-accounts.  Fees  for  FIIs/sub-account
+registration  revised.
+
+ Clause  inserted  by  portfolio  managers  stating  that  the  decision  of
+portfolio  manager  is  final  and  can  never  be  called  in  question  or  be
+open  to  review  at  any  time  during  the  currency  of  the  agreement
+or  at  any  time  thereafter,  in  the  disclosure  documents/agreements/
+Power  of  Attorney  with  clients  modified.
+
+June  30
+
+ An  Undertaking/Certification  from  the  trustees  of  the  AMC
+
+July  05
+
+July  13
+
+July  20
+
+July  20
+
+August  02
+
+introduced  for  new  scheme  offer  document.
+
+ SEBI  (Portfolio  Manager)  Regulations,  1993  amended  for  inserting
+a  clause  relating  to  the  appointment  of  a  custodian.  These
+Regulations  will  not  be  applicable  for  portfolio  managers  with  total
+assets  under  management  less  than  Rs. 500  crore  or  who  perform
+only  advisory  functions.
+
+ Permanent  Account  Number  (PAN)  was  made  mandatory  for  all
+the  entities/persons  who  are  transacting  in  the  cash  market  with
+effect  from  October  1,  2006  to  further  strengthen  the  Know  Your
+Client  norms.
+
+ Formats  of  Monthly  Cumulative  Report  and  Annual  Statistical
+Report  submitted  by  mutual  funds  revised  to  incorporate  data  on
+unit  capital.
+
+ Certain  operational  issues  with  reference  to  the  mandatory
+requirement  of  PAN  were  clarified.  All  entities  registered  with  SEBI
+and  having  some  difficulty  in  producing  PAN  card  at  the  time  of
+opening  of  Beneficiary  Owner  (BO)  account  were  permitted  to  open
+BO  account  without  producing  the  PAN  card  and  the  deadline  for
+obtaining  the  PAN  card  was  extended  up  to  September  30,  2006.
+
+ Aggregate  ceiling  to  invest  in  ADRs/GDRs/foreign  securities  issued
+by  Indian  companies,  equity  of  overseas  companies  listed  on
+recognised  stock  exchanges,  overseas  and  rated  debt  securities,  by
+mutual  funds  raised  from  USD  one  billion  to  USD  two  billion  with
+a  sub-ceiling  for  individual  mutual  fund  at  10  per  cent  of  the  net
+assets  managed  by  it  as  on  March  31  of  the  relevant  year,  subject
+to  a  maximum  of  USD  100  million  per  mutual  fund.
+
+August  03
+
+ Disclosure  that  the  scheme  offered  is  “oriented  towards  protection
+of  capital”  and  “not  with  guaranteed  returns”  made  mandatory  for
+
+Contd.
+
+x v
+
+CHRONOLOGY OF MAJOR INITIATIVES BY SEBI
+
+Date
+
+Announcements
+
+funds 
+
+in 
+
+the  offer  document,  Key 
+
+mutual 
+Information
+Memorandum  and  in  the  advertisement  in  case  of  Capital  Protection
+Oriented  Scheme.  Filing  fees  revised  and  made  applicable  to  those
+schemes  whose  offer  documents  filed  with  SEBI  on  or  after  August
+3,  2006.
+
+August  21
+
+September  07
+
+September  15
+
+ SEBI  (Foreign  Institutional  Investor)  Regulations  amended  to  include
+insurance  and  reinsurance  company,  international  or  multilateral
+organisation,  foreign  governmental  agency  and  foreign  central  bank
+in  the  eligible  criteria.
+
+ Merchant  bankers  acting  as  portfolio  managers  immediately  before
+the  commencement  of  SEBI  (Portfolio  Managers)  (Second
+Amendment)  Regulations,  2006,  allowed  to  continue  to  do  so  for  a
+period  of  six  months  from  such  commencement  or  if  the  application
+for  registration  has  been  made  under  these  regulations  within  the
+said  period  of  six  months,  till  the  disposal  of  such  application.  Fee
+structure  for  registration  as  portfolio  manager  revised.
+
+ The  investment  limit  of  USD  500  million  by  FIIs  in  Upper  Tier  II
+instruments  should  be  allocated  as  USD  390  million  in  100  per
+cent  debt  and  USD  110  million  in  general  70:30  FIIs/sub  accounts.
+
+September  22
+
+ Procedure  for  re-introduction  of  derivative  contracts  and  modified
+
+position  limits  revised.
+
+September  25
+
+ SEBI  (Stock  Brokers  and  Sub-brokers)  Regulations,  1992  amended
+
+-  Schedule  III-A  inserted  and  Schedule  IV  amended.
+
+September  26
+
+ Operational  issues  related  to  the  mandatory  requirement  of  PAN
+clarified.  Last  date  for  adhering  to  the  same  extended  up  to
+December  31,  2006.
+
+September  28
+
+ Guidelines  for  uniform  cut-off  timings  for  applicability  of  Net  Asset
+
+Value  (NAV)  of  mutual  fund  schemes/plans  issued.
+
+September  28
+
+ Stock  exchanges  instructed  to  report  all  instances  of  hanging/
+slowdown/breakdown  of  computer  systems  to  the  Standing
+Committee  for  Computerised  Trading  System.  In  case  the  stoppage
+is  for  more  than  five  minutes,  the  stock  exchanges  directed  to
+explain  and  report  the  incident  to  SEBI,  as  well  as  the  remedial
+measures  taken  and  also  to  issue  a  press  release  for  the  same.
+
+October  11
+
+ Guidelines  for  the  uniform  cut-off  timings  for  applicability  of  NAV
+
+of  mutual  fund  schemes/plans  modified.
+
+October  16
+
+ SEBI  (Disclosure  and  Investor  Protection)  Guidelines  amended  to
+adopt  the  policy  of  lock-in  on  pre-IPO  shares  held  by  Venture
+Capital  Funds  and  Foreign  Venture  Capital  lnvestors,  before  Initial
+Public  Offering  (IPO).
+
+Contd.
+
+xvi
+
+CHRONOLOGY OF MAJOR INITIATIVES BY SEBI
+
+Date
+
+October  18
+
+Announcements
+
+ Guidelines  issued  that  no  key  personnel  of  a  mutual  fund  shall  be
+on  the  board  of  AMC/Investment  Manager/Investment  Advisor/
+Investment  Company  of  a  venture  capital  fund.
+
+October  18
+
+ SEBI  (DIP)  Guidelines  amended  to  regulate  pre-issue  publicity  by
+
+companies  proposing  to  make  a  public  or  rights  issue.
+
+October  27
+
+ Facility  of  opening  a  limited  purpose  BO  account  by  NRI/PIOs/
+
+foreign  nationals  without  PAN  withdrawn.
+
+October  31
+
+ SEBI (Custodian of Securities) Regulations, 1996 amended to provide
+
+for  periodic  renewal  of  registration.
+
+November  13
+
+November  20
+
+ Securities  Contracts  (Regulation)  (Manner  of  Increasing  and
+Maintaining  Public  Shareholding  in  Recognised  Stock  Exchanges)
+2006  notified.
+
+ Mutual  funds  directed  to  dispatch  the  statement  of  accounts  to  the
+unit  holders  under  SIP/STP/SWP  once  every  quarter  within  10
+working  days  of  the  end  of  the  respective  quarter.  First  statement
+of  accounts  to  be  issued  within  10  working  days  of  the  initial
+investment.  Mutual  funds  directed  to  provide  the  statement  of
+accounts  to  those  unit  holders  also  who  have  not  transacted  during
+the  last  six  months  prior  to  the  date  of  generation  of  statement  of
+accounts.
+
+November  30
+
+ SEBI  permitted  portfolio  managers  to  manage  portfolios  of  SEBI
+
+registered  FIIs  and  sub-accounts.
+
+December  11
+
+December  12
+
+December  14
+
+ DPs  directed  to  submit  tariff/charge  structure  to  respective
+depositories,  every  year  latest  by  April  30  and  also  to  inform  the
+depository  about  change  in  tariff/charge  structure  as  and  when  they
+are  affected.
+
+ SEBI  decided  to  create  a  unified  platform  for  trading  of  corporate
+bonds  in  three  phases.  Bombay  Stock  Exchange  directed  to  set  up
+and  maintain  a  corporate  bond  reporting  platform.
+
+ After  reviewing  the  utilisation  versus  allocation,  the  earlier
+mentioned  investment  limits  allocated  to  100  per  cent  debt  and
+70:30  FIIs/sub-accounts  in  debt  securities  revised.
+
+December  14
+
+ Clause  24  of  comprehensive  IPF/CPF  guidelines  clarified.
+
+December  18
+
+ All  the  Stock  Exchanges/registered  Stock  Brokers/registered  Sub-
+brokers/listed  Companies/Depositories/registered  Depository
+Participants  advised  to  designate  an  e-mail  ID  of  the  grievance
+redressal  division/compliance  officer  exclusively  for  investor
+complaints.
+
+December  20
+
+ Methodology  for  valuation  of  gold  held  by  Gold  Exchange  Traded
+
+Fund  scheme  revised.
+
+Contd.
+
+xvii
+
+CHRONOLOGY OF MAJOR INITIATIVES BY SEBI
+
+Date
+
+December  21
+
+December  22
+
+2007
+
+January  04
+
+Announcements
+
+ Directions  issued  that  neither  AMC  nor  directors  (including
+independent  directors),  officers  or  employee  of  an  AMC,  nor  an
+appointed  trustee  of  a  mutual  fund  are  eligible  to  be  appointed  as
+a  trustee  of  any  mutual  fund.
+
+ Foreign  investment  up  to  49  per  cent  allowed  in  infrastructure
+companies  with  a  separate  foreign  direct  investment  cap  of  26  per
+cent  and  foreign  institutional  investment  cap  of  23  per  cent.
+Investment  in  respect  of  recognised  stock  exchange  subject  to  a
+limit  of  five  per  cent  shareholding  by  any  person,  directly  or
+indirectly  as  prescribed  under  SC(R)  (Manner  of  Increasing  and
+Maintaining  Public  Shareholding  in  Recognised  Stock  Exchanges)
+Regulations,  2006.
+
+ Mutual  funds  permitted  to  invest  in  ADRs/GDRs/foreign  securities
+within  the  overall  limit  of  USD  3  billion  along  with  a  sub-ceiling  of
+10  per  cent  of  the  net  assets  managed  for  individual  mutual  funds
+as  on  March  31  of  each  relevant  year  and  subject  to  a  maximum
+of  USD  150  million  per  mutual  fund.
+
+January  08
+
+ SEBI  (Foreign  Institutional  Investors)  Regulations,  1995  amended
+
+to  revoke  the  ‘deemed  FIIs’  provision.
+
+January  19
+
+January  22
+
+ Limit  of  FII  investment  in  debt  securities  was  further  enhanced  to
+USD  2.6  billion.  Incremental  limit  of  USD  0.6  billion  was  added  to
+the  existing  headroom  of  USD  55  million  available  for  investment
+by  100  per  cent  debt  FII  in  Government  Securities/T-  Bills.
+
+ All  registered  entities  viz.  Merchant  Bankers,  Registrars  to  an  Issue/
+Share  Transfer  Agents,  Debenture  Trustees,  Bankers  to  an  Issue  and
+Underwriters  advised  to  designate  an  e-mail  ID  exclusively  for
+investor  complaints.
+
+February  13
+
+ Safeguards  to  address  the  concerns  of  investors  on  the  transfer  of
+
+securities  in  dematerialised  mode  issued.
+
+February  22
+
+ Mutual  funds  directed  to  provide  an  additional  report  on  overseas
+investment  in  ADRs/GDRs/foreign  securities  and  overseas  Exchange
+Traded  Funds.
+
+March  01
+
+ National  Stock  Exchange  was  directed  to  set  up  and  maintain  a
+
+reporting  platform  for  corporate  bonds.
+
+March  20
+
+ Provision  of  continuous  disclosures  made  by  issuers  who  have  listed
+their  debt  securities  and  not  their  equity  shares  rationalised.
+Submission  of  un-audited  financial  results  with  a  limited  review  by
+listed  companies  reviewed.  Model  Listing Agreement  for  debentures
+modified.
+
+xviii
+
+

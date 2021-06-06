@@ -1,0 +1,754 @@
+ 
+
+ 
+
+Consultation paper for amendments to the SEBI (Real Estate Investment 
+
+Trusts) Regulations, 2014 
+
+I.  Objective:  
+
+1.  To  solicit  the  comments/views  from  public  on  suggestions  pertaining  to  making 
+amendments  /  providing  clarifications  to  the  SEBI  (Real  Estate  Investment  Trusts) 
+Regulations, 2014 (hereinafter referred as "REIT Regulations"). 
+
+II.  Background:  
+
+2.  SEBI REIT Regulations were notified on 26th September, 2014, thereby providing a 
+regulatory framework for registration and regulation of REITs in India. The regulations, 
+inter  alia,  prescribe  conditions  for  making  a  public  offer,  initial  and  continuous 
+disclosures,  investment  conditions, unit-holder  approval  requirements,  related  party 
+disclosures, etc.  
+
+3.  Pursuant  to  the  notification  of  REIT  regulations,  various  representations  and 
+suggestions  have been received from industry bodies and market participants. The 
+representations received have requested changes/clarification to certain provisions of 
+the REIT regulations. Accordingly, certain amendments/clarifications are proposed for 
+the REIT Regulations which are as under. 
+
+III.  Proposals for consultation: 
+
+4.  Removing the restriction on the SPV (only in case of such SPV being a Holding 
+
+Company) to invest in other SPVs holding the assets. 
+
+4.1. Current regulatory requirement: 
+
+Regulation 2(1)(zs) of the REIT Regulations, inter alia, defines a SPV as a company 
+or LLP which holds not less than eighty per cent of its assets directly in properties and 
+does not invest in other special purpose vehicles. 
+
+4.2. Request for change:  
+
+Allowing  the  REITs  to  invest  in  the  Holding  Companies  (Holdcos)  which  have 
+investments in other SPVs, which subsequently hold the real estate assets. 
+
+ 
+
+ 
+
+Page 1 of 14 
+
+4.3. Rationale for the change 
+
+ 
+
+a)  Real Estate assets are usually held through multiple layers of investments as each 
+asset/project  may  come  with  its  own  set  of  investors,  land  owners,  joint 
+development  partners  and 
+real  estate 
+assets/projects are also held through multilevel holding structures for reasons of 
+consolidation, ease of unbundling and itemized scalability and future potential to 
+list the holding companies for fund-raising. 
+
+requirements.  Further, 
+
+related 
+
+b)  Therefore the requirement of having all assets under one vehicle or under multiple 
+vehicles  at  the  same  horizontal  level  for  listing  through  a  REIT  would  involve 
+significant restructuring  of existing holdings. Further, such restructuring of assets 
+to single level SPV may involve significant costs in terms of stamp duty on asset 
+transfer. 
+
+c)  Asset 
+
+transfers  may  also  result 
+
+in 
+
+issues  relating 
+
+to 
+
+tax  on  dividend 
+
+distribution/buyback. 
+
+d)  Further,  section  186  (1)  of  the  Companies  Act,  2013  also  allows  a  company  to 
+
+invest through two layers of investment companies. 
+
+4.4. Proposal: 
+
+To amend the Regulation 2 (zs) of the REIT Regulations so as to permit investment 
+by REIT in a SPV which have investments in other  SPVs, which subsequently hold 
+real estate assets, subject to following conditions: 
+
+a)  The REIT shall hold controlling interest and not less than fifty per cent of the equity 
+share capital or interest in the HoldCo or any other higher level of holding based 
+upon the feedback received. The Holdco shall in turn hold controlling interest and 
+not  less  than  fifty  per  cent  of  the  equity  share  capital  or  interest  in  underlying 
+SPV(s) or any other higher level of holding based upon the feedback received. 
+
+b)  Once Holdco’s share and control are transferred to REITs, any agreement(s) with 
+the shareholder(s), other than those whose shareholding is folding into the REIT, 
+both at the Holdco and the SPV level shall be amended so that any special rights 
+to such non-participating shareholders at the SPV and/or Holdco level such as veto 
+rights, restriction on transfer of shares, inspection rights etc. are terminated so that 
+it doesn’t prevents REIT, Holdco and SPV(s) from complying with the provisions 
+of REIT regulations. 
+
+ 
+
+Page 2 of 14 
+
+c)  The investment manager, in consultation with the Trustee, shall ensure that the 
+REIT  or  HoldCo  appoints  the  majority  of  the  board/  governing  body  of  the 
+underlying SPV(s);  
+
+ 
+
+d)  The  investment  manager  shall  ensure  that  in  every  meeting  including  annual 
+general  meeting  of  the  underlying  SPV(s),  the  HoldCo  participates  in  the  voting 
+process. 
+
+e)  All  requirements  related  to  the  related  party  transactions,  etc.  shall  also  be 
+applicable  at  the  underlying  SPV  level  in  addition  to  the  HoldCo,  as  may  be 
+specified by SEBI. 
+
+f)  All responsibilities of the investment manager with respect to the SPVs shall apply 
+
+at both the levels.  
+
+g)  All 
+
+investment  conditions  and 
+
+leverage  requirements  shall  apply  at 
+
+the 
+
+consolidated level i.e. including REIT, Holdco and the SPV(s). 
+
+h)  The requirement of mandatory distribution of at least 90% of the net distributable 
+cash flows shall apply to the underlying SPVs. The Holdco would be required to 
+distribute the entire cash flows it receives from underlying SPVs to the REIT. 
+
+i)  All financial statements of the REIT shall be consolidated with both the SPVs.  
+
+j)  The  HoldCo  shall  not  be  engaged  in  any  activity  other  than  holding  of  the 
+
+underlying SPV(s) and any other activity incidental to such holding. 
+
+k)  Any other conditions as SEBI may deem necessary. 
+
+5.  Clarifying the definition of  “associates” in the regulations 
+
+5.1. Current Regulatory Requirement 
+
+Regulation 2(1)(b) of the REIT Regulations defines the associates as  
+
+“associate” of any person includes,-  
+
+(i) any person controlled, directly or indirectly, by the said person;  
+(ii) any person who controls, directly or indirectly, the said person;  
+(iii) where the said person is a company or a body corporate, any person(s) who is 
+designated  as  promoter(s)  of  the  company  or  body  corporate  and  any  other 
+company or body corporate with the same promoter(s);  
+
+(iv) where the said person is an individual, any relative of the individual;  
+
+ 
+
+Page 3 of 14 
+
+(v)  where  the  said  person  is  a  company  or  a  body  corporate  or  an  LLP,  its  group 
+
+ 
+
+companies;  
+
+(vi) companies or LLPs under the same management;  
+(vii) where the said person is a REIT, related parties to the REIT;  
+(viii) any company or LLP or body corporate in which the person or its director(s) or 
+partner(s) hold(s), either individually or collectively, more than fifteen percent of its 
+paid-up equity share capital or partnership interest, as the case may be; 
+
+5.2. Request for clarification:  
+
+To  rationalize  the  ambit  of  the  definition of  associates  so  that  entities  that  have  no 
+connection to the investment manager/sponsor doesn't get included in the definition 
+of associates. 
+
+5.3. Rationale for change: 
+
+a)  The REIT Regulations prescribe disclosure requirements on “associates” of the 
+sponsor,  manager  and  trustee.  The  term  “associates”  has  been  very  broadly 
+defined  which  ends  up  including  entities  that  have  no  connection  to  the 
+investment manager/sponsor, as applicable. This puts an onerous obligation on 
+all parties to the REIT.  
+
+b)  The parties to the REIT may neither have any subsisting business relationships 
+with entities, as covered under the definition of associates, nor have any relation 
+with the REIT or its operations, which may adversely affect the business and 
+operations  of  the  REIT.  Therefore  they  may  have  no  relevance  especially  in 
+respect of the disclosures to be included in the offer document. 
+
+c)  Also,  obtaining  relevant  certifications  and  confirmations from entities  where a 
+‘control’ relationship does not exist, is challenging since such entities may refuse 
+to provide the requisite information.  
+
+5.4. Proposal:  
+
+a)  To  introduce  the  concept  of  associates  which  are  material,  where  the  test  of 
+
+materiality shall be as determined by the REIT in the offer document. 
+
+b)  To  replace  the  term  "associate(s)"  with  the  ”material  associate(s)"  in  the 
+Regulation 2(zo), 4(2)(d)(iii), 4(2)(e)(ii), 9(5), Schedule I- clause 1(c), 4(f), 5(e), 
+Schedule III Clause 13(b) and Schedule IV Clause 15. 
+
+ 
+
+ 
+
+Page 4 of 14 
+
+6.  Clarifying the definition of  “real estate property” in the regulations 
+
+ 
+
+6.1. Current Regulatory Requirement 
+
+Regulation  2(zi)  of  the  REIT  Regulations  defines  the  “real  estate”  or  “property”  as 
+under: 
+
+“real estate” or “property” means land and any permanently attached improvements 
+to it, whether leasehold or freehold and includes buildings, sheds, garages, fences, 
+fittings, fixtures, warehouses,  car  parks,  etc. and any other  assets  incidental  to  the 
+ownership of real estate but does not include mortgage:  
+
+Provided  that  any  asset  falling  under  the  purview  of  'infrastructure'  as  defined  vide 
+Notification of Ministry of Finance dated October 07, 2013 including any amendments 
+or additions made thereof shall not be considered as 'real estate' or 'property' for the 
+purpose of these regulations; 
+
+6.2. Request for clarification:  
+
+Assets such as hotels, hospitals or other sub-sectors which are included  under the 
+definition of Infrastructure as per Ministry of Finance Notification should be included 
+within the scope of real estate or property, so long as they qualify as completed rent 
+generating properties. 
+
+6.3. Rationale for change: 
+
+a)  The current definition of “real estate” or “property” under the REIT Regulations 
+excludes all assets falling under the purview of “infrastructure” as defined under 
+the notification of Ministry of Finance dated October 7, 2013 (the “Infrastructure 
+Notification”).  Sub-sectors  such  as  hotels,  hospitals,  convention  centers,  etc. 
+are  excluded  from  the  definition  of  ‘real  estate  property’  by  virtue  of  the 
+Infrastructure Notification.  
+
+b)  Large townships and commercial projects often offer business parks, hospitals, 
+hotels etc. as part of the project, each of which are rent generating completed 
+assets. Therefore such assets should fall within the definition of “real estate” or 
+“property” under REITs. 
+
+c)  Further,  the  intent  of  the  REIT  Regulations  is  to  include  rent  generating 
+properties  within  the  REIT  asset  profile  and  therefore  so  long  as  an  asset  is 
+completed and rent generating, the same should be allowed to form part of the 
+REIT, regardless of the asset class it belongs to. 
+
+ 
+
+Page 5 of 14 
+
+6.4. Proposal:  
+
+ 
+
+To amend the proviso to the definition of ‘real estate’ or ‘property’ in Regulation 2(zi) 
+of the REIT Regulations so as to allow rent generating properties captured within the 
+definition of Infrastructure by Ministry of Finance, under REITs as well.  
+
+7.  Increasing the number of sponsors  
+
+7.1. Current regulatory requirement: 
+
+Regulation 4(2)(d)(i) of REIT Regulations mandate that the REIT can have maximum 
+of 3 sponsors. 
+
+7.2. Request for change:  
+
+To introduce the concept of ‘sponsor’ groups and to allow the maximum number of 
+sponsors from 3 (three) to 5 (five) . 
+
+7.3. Rationale for the change 
+
+a)  In real estate sector the assets are usually held by the developer either by itself or 
+through its group companies/individuals. Similarly, a private equity fund holds the 
+asset(s) through investments by multiple schemes of the same private equity fund 
+or different funds under common control.  Also, a sizeable number of assets are 
+owned on a joint venture/ joint development basis by developers and private equity 
+fund(s). 
+
+b)  Thus, the real estate assets which are to be transferred to the REIT may be held 
+with various companies/funds which may be under common control of a particular 
+developer or a private equity fund, respectively.  
+
+c)  Therefore,  to  ensure  that  various  parties  in  a  holding  structure  (joint  venture 
+partners,  developers  and  multiple  schemes/funds  of  private  equity  fund)  may 
+participate  in  the  REIT  and  are  collectively  identified  as  sponsors,  it  has  been 
+represented  that  the number of  sponsors be  increased from the  current  level  of 
+maximum 3. Further, it has been represented that the concept of sponsor group 
+be  introduced,  where such  “sponsor  group" may  comprise  of multiple  schemes/ 
+funds/affiliates which are under common ‘control’.  
+
+ 
+
+ 
+
+ 
+
+Page 6 of 14 
+
+7.4. Proposal 
+
+ 
+
+It is proposed to amend the REIT Regulations to provide the following options, where 
+the REIT may choose between either of the two options: 
+
+a)  If  the  holding  in  REIT  is  only  by  the  sponsor(s)  then  the  maximum  number  of 
+
+sponsors shall be 5 (increase from the current limit of 3 sponsors). 
+
+b)  The holdings in the REIT may be held by sponsor and other group companies or 
+associates of the sponsor. In such cases the sponsor and its group companies or 
+associates may be collectively identified as sponsor group.   In such a case, the 
+maximum number of sponsor group would be 1 (one) and would require to comply 
+with all conditions specified in the REIT Regulation as for the sponsors.  
+
+8.  Rationalization of compliance with respect to Related Party Transactions (RPTs) 
+
+requirements 
+
+8.1. Current regulatory Requirement: 
+
+a)  Regulations 22(4) and 22(5) of the REIT Regulations require the approval of 60% 
+of  the  unit  holders,  apart  from  related  parties,  for  passing  a  related  party 
+transaction which is procedural in nature. 
+
+b)  Further Regulation 22(6) requires approval of 75% of the unit holders, apart from 
+related  parties, for  passing  of  special  resolutions  such  as  change in  investment 
+manager, investment strategy, delisting of units etc. 
+
+8.2. Request for change:  
+
+The requirement of unit holder approval for the related party transactions should be 
+brought in line with the Companies Act, 2013. 
+
+8.3. Rationale for the change 
+
+Representations have been received that the requirement of 60% and 75% majority 
+may  not  be  feasible,  especially  when  related  parties  have  to  abstain  from  voting. 
+Further, it has been represented that the requirement of unit holder approval, in case 
+of related party transactions (RPTs), should be in line with the approval requirement 
+under the Companies Act, 2013 
+
+ 
+
+ 
+
+ 
+
+Page 7 of 14 
+
+8.4. Proposal 
+
+ 
+
+Given the nature of the REIT, a complete alignment with the Companies Act cannot 
+be made. It is also felt that it is not possible to achieve the current level of thresholds 
+as prescribed in the REIT Regulations. In the light of the above it is proposed that the 
+requirement of unit holder approval for RPT may be amended as under: 
+
+a)  For RPTs which requires approval as referred in 7.1(a) above, it is proposed that 
+the number of votes cast by the unit holders in favor of the proposal shall be more 
+than the number of votes cast by the unit holders against it.  
+
+b)  For RPTs which requires approval as referred in 7.1(b) above, it is proposed that 
+the number of votes cast by  the unit holders in favor of the proposal shall be at 
+least one and half times more than the number of votes cast by the unit holders 
+against it.  
+
+c)  Further in both the above cases, the voting by any person, who is a related party 
+in such transactions, as well as associates of such person(s) shall not be taken in 
+to account. 
+
+9.  Aligning  minimum  public  holding  requirement  with  Securities  Contracts 
+
+(Regulation) Rules, 1957 (SCRR) 
+
+9.1. Current regulatory requirement 
+
+a)  Regulations14(2)(c) and 16(7) of REIT Regulations, inter-alia, require that the units 
+proposed to be offered to the public shall not be less than twenty five per cent of 
+the total of the outstanding units and the number of unit holders forming part of 
+public is required to be 200 at all times. 
+
+b)  Further, the minimum public holding for the units of the publicly offered REIT after 
+listing shall be 25% of the total number of outstanding units and the number of unit 
+holders of the REIT forming part of the public shall be two hundred at all times, 
+failing which action may be taken as may be specified by the Board and by the 
+designated stock exchanges including delisting of units. 
+
+9.2. Request for change:  
+
+Alignment of minimum public holding requirements in line with the SCRR and requiring 
+the test of minimum no. of public unit holders only at the time of initial offer. 
+
+ 
+
+ 
+
+Page 8 of 14 
+
+9.3. Rationale for Change 
+
+ 
+
+a)  Representations  have  been  received  that  the  in  case  of  REITs,  where  large 
+commercial  rent  generating  real  estate  assets  would  be  parked,  the  underlying 
+value in the REIT would be very high. Further, given the nature of such REITs and 
+the asset base involved, marketing and selling an issue size of 25% (twenty five 
+per  cent)  at  one  instance,  may  not  be  plausible,  given  the  product  being  at  a 
+conception stage, novelty of the product, the appetite of the market for large issues 
+of this kind and the specific pool of investors the product caters to. 
+
+b)  Therefore  the  proposal  has  been  received  to  align  the  requirement  of  minimum 
+offer to public in case of a REIT with the requirements of minimum public offer as 
+under Securities Contracts (Regulation) Rules, 1957 (SCRR). 
+
+c)  Further, it has been requested that the requirement of maintaining the minimum 
+public holding of 200 at all times may not be feasible, since the REIT would be 
+unable to control the inter-se transfer of units among the public and therefore may 
+not be able ensure the minimum number of public unit holders to 200 at all times.  
+
+9.4. Proposal 
+
+a)  The  requirement of minimum  offer  to  public and minimum  public  holding,  of  the 
+outstanding units, shall be linked with the requirement of public offer of 25%/10%, 
+as specified under Securities Contracts (Regulation) Rules, 1957. 
+
+b)  Further  the  requirement  of  the  minimum  number  of  public  unit  holders  may  be 
+amended to allow minimum of 200 public investors at the time of initial offer only. 
+
+c)  It is proposed that Regulations 14(4)(c), 16(7) and 22(8)(c) of REIT Regulations 
+
+be amended for the same. 
+
+10. Allowing REITs to invest up to 20%, in under construction assets 
+
+10.1. Current regulatory requirement 
+
+a)  Regulation 18(4) of REIT Regulations, inter-alia, requires that not less than eighty 
+per cent of value of the REIT assets shall be invested, proportionate to the holding 
+of the REITs, in completed and rent generating properties. 
+
+b)  Further, as per Regulation 18(5)(a) of the REIT Regulations, of the remaining 20% 
+of value of the REIT assets, not more than ten per cent of value of the REIT assets, 
+
+ 
+
+Page 9 of 14 
+
+shall  be  invested  in  under  construction  properties  and  completed  and  non-  rent 
+generating properties. 
+
+ 
+
+10.2. Request for change:  
+
+Remove  the  sub-limit  of  maximum  of  10%  investment  in  under-construction  or 
+completed  but  not  rent  generating  assets,  and  make  it  fungible  with  the  limit  for 
+investment in other securities/liquid instruments under the limit of 20%  
+
+10.3. Rationale for proposal 
+
+a)  The  proposed  move  will  provide  greater  flexibility  to  the  REIT  manager  in 
+determining the composition of REIT and also help widen the portfolio and thereby 
+the size of the REIT by adding projects which are at various stages of construction. 
+
+b)  REITs are also intended to be a means of revitalizing the cash-strapped market 
+for real estate assets, especially under-construction properties. However, such a 
+move  would  have  to  be  offset  against  the  intent  of  the  REIT  Regulations  of 
+exposing retail investors to minimal  risk. Therefore, it may be worth considering 
+modifying  the  existing  thresholds  by  making  the  20%  (twenty  per  cent)  bracket 
+more fungible, while keeping the 80% (eighty per cent) criteria sacrosanct. 
+
+c)  Most of the international REIT Regulations either do not cap the level of investment 
+in  under-construction  assets  or  permit  a  higher  level  of  investment  in  under-
+construction real estate assets. 
+
+10.4. Proposal 
+
+a)  REIT may be permitted to invest up to 20%, of value of the REIT assets in under 
+construction  assets,  securities  of  companies  or  body  corporate  in  real  estate 
+sector, government securities, money market instruments etc. Further, the current 
+requirement  of  at-least  80%  investment  in  completed  and  rent  generating 
+properties shall continue as it is. 
+
+b)  It is proposed that Regulation 18(5)(a) of REIT Regulations be amended for the 
+
+same. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 10 of 14 
+
+11. Responsibilities of trustee and its associates 
+
+11.1. Current regulatory requirement 
+
+ 
+
+Regulation 2(zo) of the REIT regulations provides that “related parties" of REIT shall 
+include: 
+
+(i) parties to the REIT; 
+(ii) any unit holder holding directly or indirectly, more than 20% of the units of the REIT; 
+(iii) associates, sponsors, directors, and partners of the persons mentioned in (i) and 
+(ii).  
+
+Regulation 9(15) of the REIT regulations provides that “The Trustee or its associates 
+shall not invest in units of the REIT in which it is designated as Trustee.  Also, point 
+13 (b) of Schedule III and point 15 of Schedule IV of the REIT Regulations requires 
+brief description of the material litigations and regulatory actions, whether completed 
+or  pending,  against  the  REIT,  sponsor(s),  Investment  Manager,  Trustee,  or  any  of 
+their associates, if any in the last 5 years. 
+
+11.2. Rationale for proposal 
+
+It has been represented that the trustee is an independent entity, which is a Debenture 
+Trustee registered with SEBI.  Further, the trustee does not have any financial interest 
+in the REIT, except the fee for its services as a Trustee. Also the assets of the REIT 
+are  independent  of  the  assets  and  liabilities  of  the  trustee  company  and  are  even 
+protected against insolvency of trustee. Hence, disclosure of associates of Trustee is 
+not  material  for  any  investors  in  the  REIT.  Therefore,  certain  disclosures  need  not 
+extend to Trustee. 
+
+11.3. Proposal 
+
+In view of the above it is proposed that the following amendment may be made to the 
+REIT Regulations: 
+
+a)  Associates of the trustees would not form a part of the parties to the REIT. 
+
+b)  Associates of Trustees would be allowed to invest in units of the REIT in which it 
+is designated as Trustee, subject to such transactions being conducted at an arm’s 
+length basis. 
+
+c)  The disclosure of litigations related to associates of trustee would not be required 
+
+to be given as per Schedule III and Schedule IV of the REIT Regulations. 
+
+ 
+
+Page 11 of 14 
+
+12. Operational aspects:  
+
+12.1. Liability of the unit holders 
+
+ 
+
+A.  Current regulatory requirement 
+
+ 
+
+As per the REIT Regulations, the liability of the unit holders is limited to the extent of 
+the units held by them. However, representations have been received that the REIT 
+Regulations explicitly doesn't provide for the clause on the liability of unit holders. 
+
+B.  Proposal  
+
+It is proposed to clarify that the unit-holder is an investor and its rights and obligations 
+are limited to the amount of its investment in the units of REITs. 
+
+ 
+
+12.2. Rationalizing the experience of the associate of the sponsor 
+
+ 
+
+A.  Current regulatory requirement 
+
+Regulation  4(2)(d)(iii)  of  the  REIT  Regulations  provide  that  the  sponsor  or  its 
+associate(s)shall have not less than five year experience in development of real estate 
+or fund management in the real estate industry, provided that where the sponsor is a 
+developer, at least two projects of the sponsor should have been completed.  
+
+B.  Proposal 
+
+In order to provide operational freedom to the sponsor, it is proposed that where the 
+sponsor is a developer, at least two projects of the sponsor or its associates should 
+have been completed. 
+
+12.3. Obtaining confirmation or a fairness opinion from a chartered Accountant / 
+
+Valuer 
+
+ 
+
+A.  Current regulatory requirement 
+
+Regulation  9(5)  of  the  REIT  Regulations provides  that  the Trustee  shall  review  the 
+transactions  carried  out  between  the  manager  and  its  associates  and  where  the 
+manager  has  advised  that  there  may  be  a  conflict  of  interest,  trustee  shall  obtain 
+confirmation from a practicing chartered accountant that such transaction is on arm's 
+length basis;  
+
+ 
+
+Page 12 of 14 
+
+B.  Proposal 
+
+ 
+
+It  is  proposed  that  in  case  of  the  RPTs,  as  referred  in  regulation  9(5)  of  the  REIT 
+Regulations,  the  trustee  shall  obtain  confirmation  or  a  fairness  opinion  from  a 
+practicing chartered accountant or a valuer, as the case may be. 
+
+12.4. Pricing of Related Party Transactions for purchase/sale of real estate 
+
+assets 
+
+ 
+
+A.  Current regulatory requirement 
+
+Regulation19(3)(c)of the REIT Regulations, provides that in respect of related party 
+transactions, the transactions for purchase/sale of such assets shall be at a price not 
+greater / less than average of the two independent valuations respectively. 
+
+B.  Proposal 
+
+Representations  have  been  received  that  the  regulatory  requirement  of  for 
+purchase/sale of assets from a related party at a price not greater / less than average 
+of the two independent valuations respectively, is restrictive and doesn't  provides the 
+REIT any flexibility while entering in such a transaction. Therefore, to provide REITs 
+flexibility and a window to price the transactions, following is proposed: 
+
+a)  In case of a purchase transaction, the property shall not be purchased at a value 
+
+greater than 110% of the average of the two independent valuations.  
+
+b)  In case of a sale transaction, the property shall not be sold at a value less than 
+
+90% of the average of the two independent valuations. 
+
+12.5. Change in sponsor or re-designated sponsor or change in control of 
+
+sponsor or re-designated sponsor within a year. 
+
+ 
+
+A.  Current regulatory requirement 
+
+Regulation  22(8)(c)  of  the  REIT  regulations  provides  that  in  case  of  any  change  in 
+sponsor or re-designated sponsor or change in control of sponsor or re-designated 
+sponsor, if on account of such sale, the holding of unit holders which are not related 
+parties to the REIT falls below 200 or the minimum public float falls below 25%, the 
+trustee shall apply for delisting of the units of the REIT in accordance with regulation 
+17 of these Regulations. 
+
+ 
+
+ 
+
+Page 13 of 14 
+
+B.  Proposal 
+
+ 
+
+It is proposed that in case of public float decreasing below 25% and number of unit 
+holders forming part of  the public falls below two hundred, the new sponsor should 
+have a one year window to comply with  the above said requirements by secondary 
+sale or dilution through a fresh issuance. Further, the current requirement of minimum 
+float of 25% and the minimum number of unit holders forming part of the public at two 
+hundred, shall be finalized in terms of the decision taken in regards to the proposal as 
+mentioned at point 9 above. 
+
+IV.  Public Comments: 
+
+In light of the above, public comments are invited on the proposals contained in the 
+consultation  paper.  Comments/  suggestions  may  be  provided  in  the  format  given 
+below:  
+
+Name of entity / person / intermediary/ Organization 
+
+ 
+
+ 
+
+ 
+
+Sr. 
+No.  
+
+ 
+
+Pertains  to  Point 
+No. 
+
+Suggestions 
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+The comments may either be forwarded by email to reit@sebi.gov.in or may be sent 
+by post to the following address latest by August 07, 2016. 
+
+Ms. Richa Agarwal 
+Deputy General Manager 
+Investment Management Department, 
+Division of Funds I  
+Securities and Exchange Board of India  
+SEBI Bhavan, Plot No. C4-A, G Block  
+Bandra Kurla Complex  
+Mumbai - 400 021 
+
+Issued on: July 18, 2016 
+
+Page 14 of 14 
+
+ 
+
+ 
+
+

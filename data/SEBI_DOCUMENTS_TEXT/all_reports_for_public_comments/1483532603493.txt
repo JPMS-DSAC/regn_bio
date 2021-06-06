@@ -1,0 +1,612 @@
+ 
+
+Consultation Paper 
+
+ 
+
+Public Issuance of Non-Convertible Debentures having credit rating below Investment Grade 
+
+ 
+
+ 
+A. Objective: 
+
+To  solicit  the  comments/views 
+from  public  on  the  consultation  paper  proposing 
+amendments/clarifications to the SEBI (Issue and Listing of Debt Securities) Regulations, 2008 
+(hereinafter referred as “ILDS Regulations”). The objective of the consultation paper is to seek 
+comments  on  the  proposals  with  respect  to  public  issuances  of  Non-Convertible  Debentures 
+having below investment grade credit rating- 
+ 
+
+1.  To prescribe a framework for ‘Risk-o-meter’ with respect to such issuances 
+
+ 
+
+2.  To enhance disclosure requirements with respect to such issuances 
+
+ 
+
+3.  Restriction  on  investment  amount  in  case  of  Retail  Investor  and  Allocation  to  Retail 
+
+Investors in Base Issue Size with respect to such issuances 
+ 
+
+B. Background: 
+
+ 
+
+1.  SEBI  (Disclosure  and  Investor  Protection  Guidelines),  2000  (hereinafter  referred  as  “DIP 
+Guidelines”) were issued to regulate the issue of securities (both equity and debt securities) 
+of  a  company  to  public,  shareholders  and  institutional  investors  through  the  primary 
+market. The erstwhile guidelines made it compulsory for issuers of debt securities to obtain 
+credit  rating  from  not  less  than  two  rating  agencies  and  also  required  that  the  debt 
+instruments issued through a public/rights issue shall be of at least investment grade. 
+ 
+
+2.  In December 2007, SEBI amended the provisions pertaining to issuances of corporate bonds 
+
+under the DIP Guidelines as under- 
+
+ 
+
+2.1. Requirement  of  Credit  Rating:    With  a  view  to  reduce  the  cost  of  issuance  of  debt 
+instruments,  SEBI  decided  that  credit  rating  from  one  credit  rating  agency  would  be 
+sufficient.  
+ 
+
+2.2. Below Investment Grade debt instruments: In a disclosure based regime, it should be 
+left to the investor to decide whether or not to invest in a non-investment grade debt 
+instrument. 
+
+ 
+
+1 
+
+ 
+
+ 
+
+ 
+
+3.  In  order  to  facilitate  development  of  a  vibrant  primary  market  for  corporate  bonds,  SEBI 
+notified SEBI (Issue and Listing of Debt Securities) Regulations in June, 2008 to provide for 
+simplified regulatory framework for issuance and listing of non-convertible debt securities 
+(excluding bonds issued by Governments) issued by any company, public sector undertaking 
+or  statutory  corporations.  Further,  from  the  commencement  of  ILDS  Regulations,  the 
+provisions  of  DIP  Guidelines,  2000  related  to  issue  and  listing  of  debt  securities  were 
+rescinded.  
+ 
+
+4.  With  respect  to  the  credit  rating  requirements  for  public  issuance  of  debt  securities, 
+Regulation 4(2) of ILDS Regulations mentions that, an issuer making a public issue of debt 
+securities has to obtain credit rating from at least one credit rating agency registered with 
+the  Board  and  disclose  it  in  the  offer  document.  The  ILDS  Regulations  do  not  specify  any 
+minimum credit rating for such issuances. 
+ 
+
+C. Growth of Corporate Bond Market: 
+
+ 
+The  corporate  bond  market  has  evolved  gradually  over  time  due  to  the  various  measures 
+taken by SEBI. The total primary issuance has increased from Rs. 1, 18,485 crore in FY 2007-
+08 to Rs. 4, 91,884 in FY 2015-16 while for FY 2016-17 (till November, 2016) it is Rs. 4, 43,281 
+crore. Further, the amount raised through public issuance has grown from Nil in 2007-08 to 
+Rs. 33, 811 crore in FY 2015-16 and for FY 2016-17 (till November, 2016) the amount stands 
+at Rs. 23, 893 crore. 
+
+Table on amount raised through public and private placement issuances of Corporate Bonds 
+in Indian Debt Market (Listed Securities) 
+
+ 
+
+Financial 
+Year 
+
+2007-08 
+2008-09 
+2009-10 
+2010-11 
+2011-12 
+2012-13 
+
+ 
+
+No.  of 
+Public 
+Issues 
+
+Amount 
+Raised 
+through 
+Public 
+(Rs. Crore) 
+
+Issue 
+
+No.  of  Pvt. 
+Placement 
+
+Amount  Raised 
+through  Private 
+Placement 
+(Rs. 
+Crore) 
+
+Amount 
+Total 
+Raised 
+through 
+Public Issue and Pvt. 
+Placement 
+(Rs. 
+Crore) 
+
+0 
+1 
+3 
+10 
+20 
+20 
+
+0 
+1,500 
+2,500 
+9,451 
+35,611 
+16,982 
+
+744 
+1041 
+1278 
+1404 
+1953 
+2489 
+
+118,485 
+173,281 
+212,635 
+218,785 
+261,283 
+361,462 
+
+118,485 
+174,781 
+215,135 
+228,236 
+296,894 
+378,444 
+
+2 
+
+42,383 
+9,713 
+33,811 
+23,893 
+
+1924 
+2611 
+2975 
+2365 
+
+276,054 
+4,04,136 
+4,58,073 
+4,19,388 
+
+ 
+
+ 
+
+ 
+
+ 
+
+318,437 
+4,13,849 
+4,91,884 
+4,43,281 
+
+ 
+2013-14 
+2014-15 
+2015-16 
+2016-17# 
+# As on November 2016 
+
+35 
+25 
+20 
+11 
+
+ 
+
+D. Need for Revision: 
+
+ 
+
+1.  Credit  Ratings  are  opinions  about  credit  risk.  The  ratings  express  an  opinion  about  the 
+ability  and  willingness  of  an  issuer,  such  as  a  corporation  or  state  or  city  government,  to 
+meet its financial obligations in full and on time. Credit ratings also specify the credit quality 
+of  an  individual  debt  issue,  such  as  a  corporate  or  municipal  bond,  and  the  relative 
+likelihood that the issue may default. 
+
+ 
+
+2.  Investment Grade refers to the quality of a company’s credit and generally indicates a low 
+risk of a credit default. Further, a debt issue is considered as Investment Grade if its credit 
+rating  is  BBB-  or  higher.  It  may  be  noted  that  during  FY  2015-16,  out  of  20  public  debt 
+issuances  of  NCDs  four  issuances  were  rated  BBB  or  below.  Further,  in  FY  2016-17  (till 
+November, 2016) 3 public debt issuances out of ten were rated BBB or below. 
+
+ 
+
+3.  Unlike private placement of debt securities, retail investors participate in the public issues. 
+These  public  issues  which  are  rated  below  investment  grade  (i.e.  below  BBB-)  give  high 
+coupon rate. The advertisements of such issues also focus mainly on the coupon which lures 
+the retail investors to invest.  
+
+ 
+
+4.  Further, certain issuers with credit rating below investment grade, have issued both secured 
+and  another  unsecured  NCD  through  same  offer  document  with  different  credit  ratings. 
+Thus, for a retail investor to differentiate between secured and unsecured tranches within 
+the same offer document and with different credit ratings may be a complex task and may 
+affect their investment decision. 
+
+Hence, it is felt that there needs to be an additional layer of protection for the retail investors, 
+who  get  attracted  towards  such  debt  securities which  though  on one  side pay  higher  coupon 
+but on the other side have a below investment grade credit rating.  
+
+ 
+ 
+ 
+
+ 
+
+3 
+
+ 
+E.  Recommendations of Corporate Bonds and Securitization Committee (CoBoSAC):  
+
+ 
+Corporate  Bonds  and  Securitization  Committee  (CoBoSAC),  inter-alia,  deliberated  on 
+enhancing  disclosure  requirements  with  respect  to  public  issuances  of  Non-Convertible 
+Debentures  having  below  investment  grade  credit  rating  and  prescribing  a  ‘Risk-o-meter’ 
+with respect to such issuances. Based on the recommendations of CoBoSAC, the proposals 
+for public comments are as follows- 
+ 
+
+ 
+
+F.  Proposals: 
+
+ 
+
+1.  It  is  proposed  to  enhance  disclosure  requirements  with  respect  to  such  issuances  and 
+
+simultaneously also introduce Risk-o-Meter. 
+
+ 
+
+2.  Introduction of ‘Risk-o-Meter’ or ‘Rate-o-Meter’ 
+
+ 
+
+2.1. Credit  Ratings  play  an  important  role  in  the  investment  decision  of  the  investor. 
+Currently,  an  issuer  indicates  the  credit  rating  on  the  front  page  of  the  Offer 
+Document/Prospectus. An example of the disclosure is mentioned below- 
+ 
+
+ 
+
+ 
+
+2.2. An investor, especially retail investor may miss the abovementioned disclosure on the 
+credit rating easily. Since rating is an important factor to make an investment decision, 
+it  is  felt  that  an  easier  and  better  alternative  would  be  to  introduce  the  rating  in  a 
+pictograph or picto-meter format. 
+
+ 
+
+2.3. The pictorial representation may be similar to a “Risk-o-meter” which was introduced 
+in the offer documents/ schemes of mutual funds or like a speedometer in a car (herein 
+after  referred  to  as  “Risk-o-meter”).  A  sample  format  of  the  “Risk-o-meter”  is  shown 
+below: 
+
+ 
+
+ 
+
+ 
+
+4 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+AA 
+
+AAA 
+
+Low 
+
+“Risk-o-meter” 
+
+BBB 
+
+BB 
+
+B 
+
+A 
+
+C 
+
+D 
+
+     High 
+
+*Refer table on the back side for explanation of ratings 
+ 
+
+2.4. The concept of the ‘Risk-o-meter’ would be to draw attention of the investors towards 
+the credit rating of the issue. This form of meter may be more relevant than the text on 
+rating in the prospectus for investors, particularly retail, as it will make things easy to 
+understand  for  them.  The  idea  is  not  only  to  caution  the  investors  but  to  enlighten 
+them about the risk factor involved with the debt issue.  
+
+ 
+
+2.5. The rating to be displayed on the ‘Risk-o-meter’ would be the latest rating provided by 
+the  credit  rating  agency.  Modifiers  such  as  ‘+’  (plus)  or  ’-‘(minus)  may  be  included,  if 
+applicable, in the meter. Risk-o-meter shall be exhibited prominently on the front page 
+of the offer document/prospectus.  
+
+ 
+
+2.6. An asterisk mark shall be put on the ‘Risk-o-meter’ and an explanation of all the credit 
+ratings  provided  by  the  credit  rating  agency  shall  be  printed  on  the  back  side  of  the 
+front page in tabular format so that the investors can understand the relevance of the 
+credit rating of that issue vis-a-vis other ratings provided by the credit rating agency. 
+
+ 
+
+2.7. Questions for public comments- 
+
+ 
+2.7.1.  Which name shall be appropriate ‘Risk-o-meter’ or ‘Rate-o-meter’? 
+
+ 
+
+2.7.2.  Whether such kind of meter should be introduced for all issuers or should it be 
+
+introduced only for the issuers who issue below investment grade securities? 
+ 
+ 
+ 
+ 
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+3.  Enhancing Disclosures- Advertisements 
+
+ 
+Advertisements in case of issuance of debt securities primarily focus on the coupon rate and 
+not on the credit rating of the issue. Credit rating is an important factor considered by the 
+investor while taking investment decisions. Further, a pictorial representation of the credit 
+rating  (‘Risk-o-meter’  or  ‘Rate-o-meter’,  whatever  it  may  be  called)  as  mentioned  above 
+attracts the attention of the investor.  
+ 
+3.1. Questions for public comments- 
+ 
+
+3.1.1.  Whether the advertisements of public issue of debt securities shall mandatorily 
+
+contain the ‘Risk-o-meter’ or ‘Rate-o-meter’, (whatever it may be called)? 
+
+ 
+
+4.  Restriction on  Investment  Amount-  Retail  Investor  and  Allocation to  Retail  Investors  for 
+
+Below Investment Grade Debt Issuances 
+ 
+Below  investment  grade  debt  issuances  have  a  relatively  higher  credit  risk  but  offer  high 
+coupon rate due to which retail investors are attracted towards these. Hence, it is felt that 
+there needs to be an additional layer of protection for the retail investors who subscribe to 
+these debt securities. 
+ 
+4.1. Classification of an Investor as “Retail Investor”: 
+
+ 
+ILDS Regulations allow issuance of debt securities through public issue. The regulations 
+do not differentiate between the types of investors and do not prescribe any maximum 
+or minimum limit for any investor (Retail / Institutional). 
+ 
+However,  with  regard  to  issuance  of  tax-free,  secured,  redeemable,  non-convertible 
+bonds,  Income  Tax  Act,  1961  mentions  that,  Retail  individual  Investors  means  those 
+individual investors, Hindu Undivided Family (through Karta), and Non Resident Indians 
+(NRIs),  on  repatriation  as  well  as  non-repatriation  basis,  applying  for  upto  rupees  ten 
+lakhs in each issue and individual investors investing more than rupees ten lakhs shall 
+be classified as High Net Worth Individuals. 
+ 
+It may also be pertinent to note that, in case of an Initial Public Offering (IPO) of equity 
+securities, all investors are allowed to invest in the IPO.  Though SEBI (Issue of Capital 
+
+ 
+
+6 
+
+and  Disclosure  Requirements)  Regulations  (“ICDR  Regulations”)  do  not  exclude  any 
+investor on the basis of a maximum or minimum investment amount from investing in 
+IPO  but  it  does  prescribe  an  allocation  bucket  across  investor  categories.  ICDR 
+Regulations, however, define “retail individual investor” as an investor who applies or 
+bids for specified securities for a value of not more than two lakh rupees. 
+
+ 
+
+ 
+
+4.2. Allocation to Retail Investors: 
+
+ 
+Secured  NCDs  constitute  secured  and  senior  obligations  of  the  issuer  and  generally 
+have  first  ranking  pari  passu  with  the  existing  secured  creditors  on  all  loans  and 
+advances/  book  debts/  receivables  and  subject  to  any  obligations  under  applicable 
+statutory and/or regulatory requirements. 
+ 
+Unsecured NCDs constitute unsecured and subordinated  obligations of the issuer and 
+rank  pari  passu  inter  se,  and  subject  to  any  obligations  under  applicable  statutory 
+and/or  regulatory  requirements.  The  claims  of  the  Unsecured  NCD  holders  are 
+subordinated  to  those  of  the  other  creditors  of  the  issue,  subject  to  applicable 
+statutory and/or regulatory requirements. It may be noted that there is no regulatory 
+requirement in ILDS Regulations with respect to the allocation limits in investment by 
+retail investors. 
+ 
+Certain issuers with credit rating below investment grade have issued both Secured and 
+Unsecured NCDs through same offer document/prospectus with same/different credit 
+ratings.  For  retail  investors  to  differentiate  between  secured  and  unsecured  tranches 
+within  the  same  offer  document  and  with  different  credit  ratings  may  be  a  complex 
+task.  
+
+ 
+
+4.3. Questions for public comments- 
+
+ 
+4.3.1.  Whether  the  investment  in  such  issuances  shall  be  allowed  without  putting 
+restrictions  on  investment  by  retail  investor  but  with  the  additional  disclosures 
+like Risk-o-meter etc. as mentioned above? 
+
+ 
+
+OR 
+
+ 
+
+7 
+
+ 
+
+ 
+
+ 
+
+4.3.2.  Whether  a  limit  shall  be  prescribed  on  the  investment  amount  by  a  retail 
+investor, i.e. defining “Retail Investor”? The definition of Retail Investor shall be 
+as under, 
+ 
+
+a.  Option A- An investor who subscribes to the debt securities for a value of a 
+
+minimum prescribed amount, say two lakh rupees.  
+ 
+
+OR 
+
+ 
+
+b.  Option  B-  An  investor  who  subscribes  to  the  debt  securities  for  a  value  of 
+
+not more than a prescribed amount, say two lakh rupees. 
+ 
+Further, it may be observed from pt. 4.2 that there is a stark difference in the 
+priority of claims of the Secured and Unsecured NCD holders. In case Option 
+B  is  accepted  and  considering  the  participation  and  interest  of  retail 
+investors in the below investment grade issuances which contain relatively 
+high  risk,  it  is  proposed  to  limit  the  investment  in  such  issuances  by  retail 
+investors as follows- 
+ 
+
+i.  For Secured NCDs, the allocation in the Issue to Retail Investor shall not 
+be more than a certain maximum amount, say 10%, of the Base Issue 
+Size. 
+ 
+
+ii.  As  Unsecured  NCDs  contain  higher  risk  than  Secured  ones,  for 
+Unsecured NCDs, the allocation in the Issue to Retail Investor shall not 
+be  more  than  a  certain  maximum  amount,  say  5%,  of  the  Base  Issue 
+Size. 
+
+ 
+
+OR 
+
+ 
+
+4.3.3.  Whether the investment in such issuances  shall be allowed with both i.e. the 
+limits  on  investment  by  retail  investor  as  mentioned  at  pt.  4.3.2  and  with  the 
+additional disclosures like Risk-o-meter etc. as mentioned at pt. 2 above? 
+ 
+
+G.  Any  other  suggestions  for  enhancing  the  disclosures  and  advertisement  guidelines 
+with regard to the Public Issuance of Non-Convertible Debentures having credit rating 
+
+8 
+
+ 
+
+ 
+
+ 
+
+below Investment Grade. 
+ 
+
+H.  Public Comments: 
+
+ 
+In  light  of  the  above,  public  comments  are  invited  on  the  proposals  contained  in  the 
+consultation paper. Comments/ suggestions may be provided in the format given below: 
+ 
+
+Name of entity / person / intermediary/ Organization 
+
+Sr. No. 
+
+Pertains  to  Point 
+No. 
+
+Suggestions 
+
+Rationale 
+
+ 
+The comments may either be forwarded by email to ilds@sebi.gov.in or may be sent by 
+post to the following address latest by January 29, 2017. 
+ 
+Ms. Richa G. Agarwal 
+Deputy General Manager 
+Investment Management Department 
+Division of Funds I 
+Securities and Exchange Board of India 
+SEBI Bhavan, Plot No. C4-A, G Block 
+Bandra Kurla Complex, Bandra East 
+Mumbai - 400 051 
+ 
+Issued on: January 04, 2017 
+
+9 
+
+ 
+
+ 
+
+

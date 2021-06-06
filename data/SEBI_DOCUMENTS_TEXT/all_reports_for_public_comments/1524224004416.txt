@@ -1,0 +1,633 @@
+ 
+
+CONSULTATION PAPER 
+
+ 
+
+Reduction in timelines for public issue of debt securities under the SEBI (Issue and 
+
+Listing of Debt Securities) Regulations, 2008 
+
+A.  Background: 
+
+ 
+
+1.  SEBI,  vide  circular  no.  CIR.  /IMD/DF-1/20/2012  dated  July  27,  2012  had  aligned  the 
+timelines for issue process of debt securities issued under the SEBI (Issue and Listing of 
+Debt  Securities)  Regulations,  2008  (ILDS  regulations)  with  that  of  equity  shares  and 
+convertibles, as provided in the SEBI circular CIR/CFD/DIL/1/2011 dated April 29, 2011. 
+The  said  circular  provided  for  indicative  timelines  with  respect  to  the  public  issue 
+process requiring trading to commence on T+12th day (wherein the T day is issue closing 
+date).  
+ 
+
+2.  Further, vide SEBI circular CIR/CFD/POLICYCELL/11/2015 dated November 10, 2015, 
+the  time  taken  for  listing  after  the  closure  of  public  issue  of  equity  shares  and 
+convertibles  was  reduced  to  6  working  days.  To  enable  such  a  reduction,  Application 
+Supported  by  Blocked  Amount  (ASBA)  was  made  compulsory  for  all  the  investors 
+applying in a public issue.  
+
+ 
+
+B.  Need for change: 
+
+ 
+
+3.  In  the  last  few  years,  the  corporate  bonds  market  has  emerged  as  one  of  the  major 
+sources of funding for  the  corporates  as  evidenced by increased number of  issuances. 
+Concurrently,  various  regulatory  initiatives  such  as  implementation  of  centralized 
+database  for  corporate  bonds,  introduction  of  electronic  book  platform,  capping  of 
+number of ISINs etc. have been taken towards the aim of developing the corporate bond 
+market. In this direction, it is felt that existing issuance processes may be rationalized 
+further to make it easier and friendly for both the issuers and investors. 
+ 
+
+4.  It is felt that the present timeline of T+12 for listing and commencement of trading  in 
+case of public issue of debt securities is inefficient in terms of cost and time and does not 
+ensure smooth functioning for the public issuance process.  Also, non-application of ASBA 
+for  public  issuances,  physical  holding  of  debt  securities  lead  to  unnecessary  hassles 
+pertaining to refunds, increased cost to the issuers as well as investors.  
+
+ 
+
+ 
+
+ 
+
+Page 1 of 6 
+
+ 
+5.  Thus, reduction in timeline for listing in case of public issue of debt securities, mandatory 
+ASBA  facility  for  making  payment  and  mandatory  holding  of  debt  securities  in  demat 
+form would not just accrue benefits to the investors but would also considerably ease the 
+issuance process for the issuers in terms of cost and time. 
+
+ 
+
+ 
+C.  Review process: 
+
+ 
+An agenda item was taken to the Corporate Bond and Securitization Advisory Committee 
+(CoBoSAC)  of  SEBI  wherein  the  committee  recommended  that  ASBA  may  be  made 
+compulsory  for  public  issue  of  debt  securities  along  with  reduction  in  timelines  for 
+allotment and commencement of trading from T+12 to T+6 and doing away with physical 
+holding of debt securities.  
+
+ 
+D.  Proposals: 
+
+ 
+
+I.  Reduction in timeline in listing and trading post closure of the issue: 
+
+ 
+
+In  order  to  ensure  uniformity,  standardization  and  streamlining  of  issuance  of  debt 
+securities with that of equity shares and convertibles, it is proposed to reduce the time 
+lines for the public issue of debt securities  from T+12 to T+6.   The  detailed indicative 
+timeline 
+circular 
+CIR/CFD/POLICYCELL/11/2015  dated  November  10,  2015  and  a  brief  summary  of 
+indicative timeline schedule for various activities may be as under: 
+
+schedule  may 
+
+prescribed 
+
+SEBI 
+
+be 
+
+as 
+
+in 
+
+the 
+
+ 
+
+i. 
+
+ii. 
+
+iii. 
+iv. 
+
+ 
+
+ 
+
+ 
+ 
+
+Details of Activities  
+
+Due Date (working day)  
+
+  Submission  of  bid-cum  application 
+form by the investors to intermediaries 
+the 
+
+by 
+intermediaries to the investors;  
+
+  Submission 
+
+receipt 
+
+of 
+
+  Validation  of  electronic  bid  details  by 
+stock  exchange(s)  with  depository 
+records for PAN, DP ID, client ID etc  
+Issue closes 
+
+ 
+  Allowing modification of selected fields 
+by  the  stock  exchange(s)  in  the  bid 
+details already uploaded;  
+
+Issue opening date to 
+
+issue 
+
+closing date 
+
+(where T is issue 
+
+closing 
+date) 
+
+ 
+
+T (Issue closing date) 
+T+1 
+
+ 
+
+Page 2 of 6 
+
+  Registrar  to  get  the  electronic  bid 
+details  from  the  stock  exchanges  by 
+end of the day;  
+
+ 
+
+exchanges 
+
+containing 
+
+  Registrar to give bid file received from 
+stock 
+the 
+application  number and amount to all 
+the  SCSBs  who  may  use  this  file  for 
+validation / reconciliation at their end.   
+  SCSBs  to  send  confirmation  of  funds 
+blocked  (Final  Certificate) 
+the 
+registrar  by  end  of  the  day;  Registrar 
+shall 
+reject  multiple  applications 
+determined as such, based on common 
+PAN.   
+
+to 
+
+  Registrar  shall  finalise  the  basis  of 
+the 
+for 
+
+allotment  and  submit 
+designated 
+approval;  
+
+to 
+exchange 
+
+stock 
+
+it 
+
+T+2 
+
+T+3 
+
+  Designated  Stock  Exchange(s) 
+
+to 
+
+approve the basis of allotment 
+
+  SCSBs to credit the funds in public issue 
+account  of  the  issuer  and  confirm  the 
+same; Issuer shall make the allotment.   
+  Registrar  to  receive  confirmation  of 
+
+T+4 
+
+T+5 
+
+demat credit from depositories;  
+
+  Stock 
+
+exchange(s) 
+
+to 
+
+issue 
+
+commencement of trading notice.   
+
+Trading commences   
+
+T+6 
+
+v. 
+
+ 
+
+vi. 
+
+ 
+
+vii. 
+
+viii. 
+
+ix. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+II.  Making ASBA mandatory for public issue of debt securities: 
+
+ 
+
+1.  In order to ensure standardization and streamlining of issuance of debt securities with 
+that of equity shares and convertibles, it is proposed to make ASBA mandatory for public 
+issue of debt securities under the SEBI (ILDS Regulations). 
+ 
+
+2.  It may be noted that mandatory ASBA facility would reduce the time taken for collecting 
+banks  to  commence  clearing  of  payment  instruments,  forwarding  application  forms 
+along with bank schedules to registrar; undertaking of technical rejection test,  
+
+ 
+
+Page 3 of 6 
+
+ 
+
+ 
+
+submission of status of clearance status of payment instrument to around  4-5 days as 
+against the present time of 7 days.   
+ 
+
+3.  With ASBA facility, investors will be able to apply for subscription of debt securities and 
+make payment by writing their bank account numbers and authorizing the banks to make 
+payment in case of allotment by signing the application forms, thus obviating the need of 
+writing the cheques. Hence, only the application amount will be blocked and no actual 
+movement of money will happen from the account of the investors till allotment, thereby 
+making the refund process easier, in case the securities are not allotted to her/him.  
+ 
+
+III.  Mandatory allotment of debt securities in demat form: 
+
+ 
+
+1.  An  analysis  of  public  issuance  data  of  debt  securities  in  the  table  below  reveals  that 
+during calendar year 2016 and 2017, out of total number of investors, around 88.69% 
+have opted to subscribe in demat mode as against only 11.31% of investors who have 
+opted to receive debt securities in physical mode.  In light of this data, it is evident that 
+majority of investors are willing to subscribe to debt securities in demat mode.  
+
+Issuers  Allotment in Demat form 
+
+Number 
+of 
+investors 
+
+Percentage of 
+investors   (%) 
+
+  
+
+Issuer 1 
+
+43675 
+
+Issuer 2 
+
+32728 
+
+88.38 
+
+93.11 
+
+Issuer 3 
+
+4943 
+
+100.00 
+
+Issuer 4 
+
+12018 
+
+Issuer 5 
+
+91528 
+
+Issuer 6 
+
+22096 
+
+Issuer 7 
+
+26696 
+
+Issuer 8 
+
+37431 
+
+Issuer 9 
+
+918 
+
+92.75 
+
+94.32 
+
+91.09 
+
+92.53 
+
+100.00 
+
+11.34 
+
+Allotment in Physical 
+form 
+Number of 
+investors 
+
+Percentag
+e of 
+investors 
+(%) 
+
+5742 
+
+11.62 
+
+2421 
+
+0 
+
+940 
+
+5515 
+
+2160 
+
+2156 
+
+0 
+
+6.89 
+
+0.00 
+
+7.25 
+
+5.68 
+
+8.91 
+
+7.47 
+
+0.00 
+
+Total 
+ 
+Number 
+of 
+investors  
+
+ 
+
+49417 
+
+35149 
+
+4943 
+
+12958 
+
+97043 
+
+24256 
+
+28852 
+
+37431 
+
+7174 
+
+88.66 
+
+8092 
+
+ 
+
+Page 4 of 6 
+
+ 
+
+Issuers  Allotment in Demat form 
+
+Allotment in Physical 
+form 
+
+Issuer 
+
+10 
+
+Issuer 
+
+11 
+
+Issuer 
+
+12 
+
+Issuer 
+
+13 
+
+Issuer 
+
+14 
+
+Issuer 
+
+15 
+
+36887 
+
+57.53 
+
+27230 
+
+61396 
+
+100.00 
+
+28548 
+
+15174 
+
+36270 
+
+89316 
+
+97.44 
+
+88.44 
+
+91.48 
+
+90.53 
+
+0 
+
+750 
+
+1983 
+
+3378 
+
+9341 
+
+42.47 
+
+0.00 
+
+2.56 
+
+11.56 
+
+8.52 
+
+9.47 
+
+Total 
+ 
+64117 
+
+61396 
+
+29298 
+
+17157 
+
+39648 
+
+98657 
+
+Total 
+
+539624 
+
+88.69 
+
+68790 
+
+11.31 
+
+608414 
+
+Source: NSDL and CDSL 
+
+2.  It is therefore proposed that allotment and subscription of debt securities in demat mode 
+may  be  made  compulsory  for  public  issue  of  debt  securities  under  the  SEBI  (ILDS) 
+Regulations for all classes of investors, without providing any flexibility of subscription 
+in physical mode under the Depositories Act, 1996. 
+ 
+
+E.  Public comments: 
+
+In  the  light  of  the  above,  public  comments  are  invited  on  the  consultation  paper.  The 
+comments, may be sent by email or through post, latest by May 14, 2018 in the following 
+format: 
+
+Details of Responder 
+
+Name1/Organization:  
+1if responding in personal capacity 
+Contact number: 
+Email address: 
+
+ 
+
+ 
+ 
+
+ 
+
+Sr. No. 
+ 
+
+Para No. 
+ 
+
+Comments on consultation paper 
+Comment/proposed change 
+ 
+
+Rationale 
+ 
+
+ 
+Ms. Richa Agarwal 
+Deputy General Manager  
+Department of Debt and Hybrid Securities 
+Securities and Exchange Board of India  
+
+ 
+
+Page 5 of 6 
+
+ 
+
+ 
+SEBI Bhavan   
+C4-A, G Block  
+Bandra Kurla Complex  
+Mumbai - 400 051  
+ 
+Email Address: bonds@sebi.gov.in.  
+ 
+While sending email kindly ensure the subject is "Comments on the Consultation paper on 
+“Reduction in timelines for public issue of debt securities under the SEBI (Issue and Listing 
+of Debt Securities) Regulations, 2008”. 
+ 
+
+Issued on April 20, 2018 
+
+ 
+
+ 
+
+Page 6 of 6 
+
+

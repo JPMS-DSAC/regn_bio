@@ -1,0 +1,740 @@
+
+
+May 15, 2006|
+
+Reports : 
+Committee Reports
+
+
+ 
+
+ 
+
+PLAN FOR A UNIFIED EXCHANGE TRADED CORPORATE BOND MARKET
+
+ 
+
+A Report of the Internal Committee of SEBI
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+A PLAN FOR IMPLEMENTATION OF THE TASK OF SETTING UP A SINGLE UNIFIED EXCHANGE TRADED CORPORATE BOND MARKET
+
+ 
+1. In his Budget speech on February 28, 2006, the Finance Minister, accepting the recommendations of the High Level Committee on Corporate Bonds and Securitization, indicated that steps would be taken to create a single unified exchange traded market for corporate bonds.
+
+ 
+2. Since the task of development of the capital market is entrusted to the Securities and Exchange Board of India, the Chairman of SEBI constituted a Committee under the Chairmanship of Dr.T.C.Nair, Whole Time Member to work out a plan for implementation of a single unified exchange traded corporate bond market in India. The other members of the Committee comprised:
+
+ 
+Shri Pratip Kar, Executive Director
+
+ 
+Shri R.S.Loona, Executive Director
+
+ 
+Shri R.K.Nair, Executive Director
+
+ 
+Shri Dulal Chanda, Chief General Manager
+
+ 
+
+
+
+
+3. The Committee was given freedom to co-opt any other person as member. The Committee had its first meeting on March 20, 2006 to discuss, broadly a strategy to set up a unified exchange traded market for corporate bonds with a road map and various related issues. The representatives of the two major stock exchanges viz. National Stock Exchange (NSE) and Bombay Stock Exchange (BSE) also participated. They were involved in the discussions to get a feel of willingness of the intermediaries, in general and readiness of the stock exchanges in particular; to take part in the process of development of a unified exchange traded market for corporate bonds. The Committee again met on April 9, April 17, 2006 and April 27, 2006 to finalize its recommendations.
+
+ 
+4. The Finance Minister made his proposal to set up a unified exchange traded market for corporate bonds in the country in the light of the recommendations of the High Level Committee on Corporate Bonds and Securitization. The focus of the discussions of the Committee, therefore, was on identification of an appropriate mechanism and institutional framework to implement the proposal for creation of a unified exchange traded market for corporate bonds. The Committee also discussed the other initiatives to be taken by SEBI to develop this market.
+
+ 
+5. The Report of the Committee is in three parts. Part 1 provides a framework for creation of infrastructure for the development of an exchange traded market for corporate bonds. Part II elaborates on a plethora of actions required to be taken by SEBI in consultation with other agencies for broad basing the corporate bond market for its sustained development. Part III provides Action Plan.
+
+ 
+
+I. A FRAMEWORK FOR INFRASTRUCTURE
+
+ 
+6. Creation of a single unified exchange traded market for corporate bonds would mean development of infrastructure to support secondary debt market trading system which allows efficient price discovery and reliable clearing and settlement. The Committee, at the outset observed that in most countries, the majority of bonds are traded on over-the-counter (OTC) markets which make it difficult to have real time data for price comparisons, trading and analysis.
+
+ 
+7. In India, secondary market trading in corporate bonds, like in most other markets, is done over the counter (OTC) between the counterparties directly or through brokers. Once trades are executed, they are reported for information disclosure. In addition, consequent upon SEBI’s move, corporate bonds are expected to be traded through the electronic order book system on the exchanges. However, this method has not become popular due to lack of information on prices, non availability of a data base and lack of an appropriate risk free clearing and settlement system in respect of corporate debt instruments.
+
+ 
+8. The Committee observed that the corporate bond market in India does not have any common clearing and settlement infrastructure, in place unlike in the case of the government securities market. In the case of corporate debt market transactions are settled bilaterally, with the seller giving instructions to the depository for transfer of the securities and then receiving the cheque from the buyer. The risk mitigating delivery versus payment mechanism is absent in the case of such bilateral trades. The settlement of trades done on the stock exchanges, however, is undertaken through the associated clearing house/corporation. There is, thus a pronounced need for a compulsory trade reporting to a central authority by all participants along with an organized set up for clearing and settlement.
+
+ 
+9. The High Level Expert Committee on Corporate Bonds and Securitization has recommended that entities be given freedom to set up their own trading-cum-clearing and settlement systems with a view to facilitating OTC deals in corporate debt market. It has, however suggested that this could be done in two phases, as under:
+
+ 
+
+ 
+
+
+
+In the first phase, steps will be taken to establish a system to capture all information related to trading in corporate bonds as accurately and as close to execution as possible through an authorized reporting platform. For the purpose, SEBI will mandate all entities including brokers to report trades to the assigned exchange within a specified period of time. In doing so, care will be taken to avoid reporting of the same trades by multiple agencies. The information, thus available will be disseminated to the market on a real time basis. SEBI would frame detailed guidelines for setting up of such a reporting plat form. 
+ 
+
+In the second phase, as market participants gain experience with trade reporting, online anonymous order matching of trades could be made possible with the help of electronic trading platforms by authorized stock exchanges. Such trading platforms can be set up by the stock exchanges or jointly by regulated institutions and SEBI would frame specific guidelines for the purpose. 
+ 
+
+
+
+
+
+10. The recent developments and experience with the government securities market in regard to trading will provide some broad idea on creation of the required infrastructure for trading in corporate debt as well, as the instruments are similar, in nature.
+
+ 
+11. Since February 2002, RBI is providing an electronic platform called Negotiated Dealing System (NDS) for facilitating negotiated dealing in government securities for the members participating in the system. While the trades done in government securities on the NDS have the facility of guaranteed settlement extended by the Clearing Corporation of India Ltd (CCIL) through the process of novation all such trades can either be settled through the CCIL on gross basis for securities and on net basis for funds or can be settled through the RBI-SGL on gross basis for funds and securities. The system has since been upgraded providing an electronic order matching trading module for government securities on its NDS. The system provides anonymous order matching in which the identity of parties is not revealed and where the CCIL is the central counterparty to each trade on the system. RBI’s NDS and its upgraded version provide an electronic negotiated dealing system exclusively for entities which hold cash and securities accounts with RBI.
+
+ 
+12. The mechanism offered by RBI is in addition to the existing infrastructure made available by NSE. NSE provides a trade reporting system for government securities and it allows a network of brokers to interface between banks and other institutional investors trading in government securities. In regard to the existing arrangements for trading of government securities, there is a view that the mechanism evolved has resulted in some duplication, thus fragmenting the markets. This view may not, however hold strength as RBI’s setting up its own trading platform has enabled price discovery and reduction of cost in government securities market transactions.
+
+ 
+13. The internal Committee is aware of the fact that both NSE and BSE have already in place electronic trading platforms for government securities. They have evolved mechanics for clearing and settlement of government securities traded on these exchanges. The proposed arrangements for the corporate debt market could thus be a replication or in a sense, extension of these arrangements. Since both the exchanges have gained fair experience in trading in government securities, they are generally willing to go ahead with the task of setting up trading platforms for corporate debt.
+
+ 
+14. The internal Committee, felt that, it may not be desirable for SEBI to initiate setting up its own trading platform for the corporate debt, as RBI had done for government securities, as such a move could have implications by way of creation of a moral hazard, institutional and functional conflicts of interest and regulatory forbearance problems. Perhaps, RBI’s setting up such a platform for government securities market could be justified since the central banking regulator is also the debt manager for the central government and the state governments.
+
+ 
+15. Since the two exchanges viz. NSE and BSE already have most of the required infrastructure in place, internal Committee felt that one of them could make a beginning towards setting up a reporting platform and thereafter a platform for undertaking anonymous order matching of trades. This view was favored for the following reasons:
+
+ 
+In the first place, there is no adequate and relevant information available on the corporate bond market. There is, therefore, need to evolve a reporting system, have a database and information dissemination in place. The information dissemination system and the centralized data base must also necessarily reside at one place which should be an exchange.
+
+ 
+Secondly, since the market will take time to deepen, there will be little merit in allowing more than one exchange to set up an order matching system, as the order book will be fragmented.
+
+ 
+
+
+The internal group further felt that it would rather be most desirable to make BSE responsible for undertaking the task of creation of a reporting platform and thereafter setting up a platform for trading, the main reasons being:
+
+ 
+BSE, in a position to set up a separate and independent clearing and settlement mechanism would eliminate concentration of settlement risk being with one organization, say CCIL;
+
+ 
+The regulator will be comfortable to deal with one entity which deals exclusively with one segment of the market, say the corporate bonds in the instant case;
+
+ 
+It would also eliminate conflict of interests in a sense, as the shareholders of NSE are banks and financial institutions which by the very nature of their operations are the entities mainly interested in wholesale debt market dealings;
+
+ 
+ 
+
+ 
+It would help the two big stock exchanges say NSE and BSE have their own specializations in different segments of the market rather than both concentrating on the same areas.
+
+ 
+ 
+
+ 
+It will bring about the very much required balancing of the two major exchanges as added responsibilities of NSE on account of the fact that the F&O market has already created imbalances in risk bearing capabilities from the regulatory angle, so far as the two exchanges are concerned;
+
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+16. The Committee also felt that once trading on the BSE platform stabilizes, attempt could be made to de-link this activity to a subsidiary jointly set up by the two exchanges viz. NSE and BSE which could have its separate clearing and settlement facilities. This could be done in about two years. The new arrangement will result in creating an independent exchange exclusively for trading, clearing and settlement of debt market instruments.
+
+ 
+17. SEBI is aware of the fact that a problem which could crop up in regard to implementation of the proposal is enabling the members of NSE who are not members of BSE to trade on the corporate bond market platform set up by BSE during the period of transition. BSE could think of special dispensations in this regard in respect of such members.
+
+ 
+18. SEBI, in any case, will confine its role here, to regulation of the corporate debt market. It will accordingly issue guidelines to bring about coordination initially in respect of trade reporting and later on, implementation of the anonymous order matching system for corporate bonds. SEBI would, also initiate a plethora of other measures which have been recommended by the High Level Committee to widen and deepen the corporate debt market in the country, in consultation with RBI and IRDA. The exchange traded debt market in India, as elaborated earlier will take off in three phases as under:
+
+ 
+
+(i) Trade Reporting
+
+ 
+19. As suggested in Para 15, above BSE will set up a mechanism for reporting of all the trades undertaken in the corporate bond market. SEBI will make it mandatory for all categories of traders including brokers to report specified details of each transaction within a specified timeframe to the trade reporting system at BSE. It will issue guidelines on the details to be reported, the time of reporting and the regulations governing use of this platform. BSE will take care to eliminate double reporting. SEBI could request other regulatory authorities like RBI, IRDA etc. to issue the required guidelines to all the entities regulated by them to enable implementation of the proposal from a specified date. The Committee felt that the first phase of evolving a trade reporting mechanism could be established within a period of three months from the date of assigning the task to BSE.
+
+ 
+
+(ii) Trading by electronic order matching
+
+ 
+20. In the second phase, BSE will provide facility for trading through electronic order matching based on price time priority through online trading system as operational in equities. The clearing and settlement mechanism for trading in corporate bonds will be provided through novation by BSE through the existing institutional arrangement as in the case of equities. The trades executed throughout the continuous trading sessions will be netted out at the end of the trading hours through a process of multilateral netting as in the case of equities. The transactions will be netted out member-wise and then scrip wise so as to determine the net settlement and payment obligations of the members. The task will be undertaken by the clearing house/corporation. This phase could be implemented in about a year’s time from assigning the task to BSE.
+
+ 
+21. While, setting up a centralized platform by BSE for corporate bond trading will facilitate better coordination and economy in operations, it would also help one entity have undivided responsibility over trading and reporting requirements apart from clearing and settlement of trades in corporate bonds.
+
+ 
+
+(iii) Hiving off corporate bond trading activity from BSE
+
+ 
+22. In the third phase of development, the corporate bond trading activity could be hived off from BSE to a subsidiary jointly set up by NSE and BSE for corporate bond market trading, clearing and settlement as suggested in Para 16 above. Implementation of this task could take about two years.
+
+ 
+
+iv) Setting up of optional platforms
+
+ 
+23. With the third phase, an online auction service will be introduced as an optional platform for issuers. This platform will support both private and public issues and will provide for different ways in which issues are offered to investors. This platform could be modeled on the existing government securities auction platform which could provide even for non competitive bidding by individuals, provident funds etc. in case felt desirable.
+
+ 
+24.During this phase, repo contracts can be added to the order matching system as another instrument that can be traded on the platform provided there is regulatory approval for the same. This phase could be completed as the operations in the first two phases are stabilized.
+
+ 
+25. The internal Committee already had separate discussions with BSE on the issue. The discussions were held to ensure their willingness, readiness and the capabilities to take up the onerous task and implement the project without undue delay. BSE expressed their willingness to take the call as soon as they are offered the mandate and demonstrated their preparedness through a live presentation of a software package used for trade reporting. SEBI, with the formal announcement of the steps towards setting up a unified exchange traded market for corporate bonds could accordingly issue a letter of invitation to BSE to take up the proposed venture. The mandate will outline the trade reporting and dissemination system, the proposed trading model for the purpose with features comprising electronic order driven anonymous trade matching with the price time priority, rolling settlement, mechanics of netting of obligations and their settlement. SEBI would, thereafter issue a press release giving details of its plans for implementation of the task of development of a unified exchange traded market for corporate bonds.
+
+ 
+26. The proposed strategy will facilitate elimination of legal complexities which could result in SEBI’s granting fresh approvals for setting up of any trading platform other than those provided by stock exchanges for undertaking anonymous order matching of trades in corporate bonds, as they would be performing the functions of stock exchanges to a limited extent. In fact, making one exchange responsible for undertaking the task will help creation of a unified exchange traded market for corporate bonds, in a true sense.
+
+ 
+
+II. FURTHER ACTION REQUIRED BY SEBI
+
+ 
+27. Having accepted the fact that there is the need to assign the tasks of setting up a trade reporting platform and a platform for anonymous order matched trading system, the internal Committee felt that if the Indian corporate debt market is to actually take off, a number of steps as indicated by the High Level Committee on Corporate Bonds and Securitization are also to be initiated by SEBI. A list of such measures where action required to be taken has already been provided by the High Level Committee on Corporate Bonds and Securitization. The list broadly comprises issues which are related to enhancing issuer base, listing of issues, consolidation of privately placed bonds, etc. There are also issues relating to stamp duty, TDS, evolving unified market conventions etc. Details of measures taken/to be taken in this regard are given in Annex 1 and Annex 2.
+
+ 
+28. SEBI would, also set up a Corporate Bond Market Development Advisory Committee to review the progress of implementation of plans for creation of a unified exchange traded market for corporate bonds. It will suggest measures to hasten the process of the implementation of the project on the one hand and removal of the bottlenecks, on the other. The Advisory Committee could have representatives of Government, RBI, major stock exchanges, financial institutions, banks, depositories, FIMMDA, Primary Dealers and rating agencies apart from SEBI. The Committee could meet at least once a quarter to take stock of the developments and provide guidance to SEBI in going ahead with appropriate measures for creating an exchange traded corporate bond market in the country in the shortest possible span of time.
+
+ 
+
+III. ACTION PLAN
+
+ 
+29. The Action plan for SEBI would broadly comprise: 
+
+
+
+Giving mandate to BSE to implement the proposed project of setting up a unified exchange traded corporate debt market elaborating the scheme with a road map; 
+
+Issuing a press release on the plans of SEBI to develop a unified exchange traded market providing the road map as given in paragraphs above; 
+
+Issuing a circular making it mandatory for all entities to report trades undertaken in the corporate debt market and also simultaneously requesting other regulatory agencies to issue guidelines to all entities regulated by them on the need for reporting all trades in corporate bonds in the specified manner. 
+
+Making it mandatory to undertake trades in corporate bonds only through the assigned trading platform for the purpose, once it is commissioned; and
+
+Seeking guidance from the proposed Corporate Debt Market Development Advisory Committee. This Committee could meet at regular intervals to advise on other SEBI related areas where further action is required, to develop a vibrant and dynamic corporate debt market in this country. 
+
+
+
+
+
+
+
+
+
+
+
+
+Dulal Chanda
+
+
+R.K.Nair
+
+
+R.S.Loona
+
+
+Pratip Kar
+
+
+T.C.Nair
+
+
+
+
+
+
+
+
+Annex I
+
+
+
+
+
+S.No.
+
+
+Recommendations of the Committee on which SEBI needs to take action
+
+
+Action Point
+
+
+Expected time for implementation
+
+
+
+
+1
+
+
+Enhancing issuer base
+
+The time and cost for public issuance and the disclosure and listing requirements for private placements should be reduced and made simpler.
+
+ 
+
+Banks should be allowed to issue bonds of maturities of over 5 years for ALM purpose and not only for the infrastructure sector as at present.
+
+Given the growing requirement of capital at banks, appropriate regulatory limits may be set for the banks when they subscribe to bonds issued by other banks, thereby also encouraging other entities to subscribe to bonds issued by banks.
+
+
+
+
+
+
+There are two parts to this recommendation. The first part relates to the reduction of time and cost of public issuance (in comparison with that of private placement) by making disclosures and listing requirement simpler. The subject could be studied in depth by SEBI and then the disclosure and listing requirement could be worked out. These could also be discussed at the PMAC
+ 
+
+The second part of the recommendation is to be implemented by RBI.
+
+
+
+
+Legal Department has already taken up first part of the issue. Regarding second part of the issue, RBI is to be approached.
+
+
+
+
+2
+
+
+Listing of Issues
+
+For already listed entities, disclosures should be substantially abridged. They may be required to make only some incremental disclosures every time they approach the market with a fresh issue either through public issue or a private placement. But they would need to include rating rationale in their disclosure document. For unlisted companies issuing bonds to institutional investors/QIBs, rating rationale should form the basis of listing;
+
+Companies, which have no securities listed at the exchanges or have listed only privately placed bonds but wish to make a public issue, should be subjected to stringent disclosure requirements, as the securities are being offered to the retail investors and there is no information on the issuing entity available in the public domain. Accordingly, the present requirements of Chapter VI of SEBI DIP Guidelines should as such be made applicable with necessary adaptations as relevant to a debt instrument. The rating rationale should additionally be made a part of the disclosure document.
+
+
+
+
+The abridged offer documents for follow-on issuances/rights issues in the case of public issues have already been approved by SEBI.
+
+
+Action has already been initiated.
+
+
+
+
+3
+
+
+Non-compliance with the listing agreement should not result in suspension or delisting of securities, as it would harm the small investors. Penal action against the promoters/directors of the defaulting company is, however warranted.
+
+
+The SCRA has been suitably amended authorizing SEBI to take action against the issuer companies for non-compliance with the Listing Agreement.
+
+
+No further action is called for.
+
+
+
+
+4
+
+
+SEBI should encourage the growth and development of professional trustee companies. Debenture trustees should ensure that information on rating downgrades is made available to all investors. Moreover, a press release should be issued by the concerned debenture trustee whenever there is a default by a corporate. All information/ reports, including compliance reports filed by the companies and by the debenture trustees should be made public and be put up on the websites of the companies, debenture trustees and stock exchanges. Investors, by and large, are not aware of the role and responsibilities of a debenture trustee. Suitable education programs, including advertisements, should be launched about the role and responsibilities of debenture trustees. SEBI should issue suitable guidelines for providing wide dissemination of information/reports including compliance reports filed by companies and debenture trustees, defaults if any and all other relevant information that are required to be brought to the knowledge of the investors;
+
+
+SEBI is already examining the amendment of rules and regulations pertaining to Debenture Trustees
+
+
+While amending the regulations will take time, the latter part of the recommendation will be implemented immediately.
+
+
+
+
+5
+
+
+Companies should pay interest and redemption amounts, in respect of corporate bonds issued by them, to the concerned depositories who would then pass them on to the investors through ECS/warrants. This would generate accurate public announcements about defaults and improve transparency about soft defaults;
+
+
+SEBI has already issued a circular for adopting ECS for IPOs in equities. Another circular may be issued to cover the corporate debt issuances also.
+
+
+This can be implemented soon after the report is accepted.
+
+
+
+
+6
+
+
+It may be made mandatory for the issuers to get the privately placed bonds listed within 7 days from the date of allotment, similar to the norms applicable to public issues. SEBI should issue suitable guidelines in this regard; The credits to the demat account within 2 days from the date of allotment should be made mandatory. SEBI should issue suitable guidelines in this regard.
+
+
+The condition to list privately placed bonds within 7 days of allotment has already been prescribed as per Chapter VIII of SEBI (DIP) Guidelines, 2000. The same has to be mandated for private placements also vide an amendment to our corporate debt circular dated 22.12.03.
+
+The practice of credit to the demat account within 2 days from the date of allotment has already been specified vide Clause 3.2 of the Listing Agreement for debt securities specified vide circular No. 39/2004.
+
+
+
+The first part of this recommendation would have been addressed once the recommendation at 1 above is implemented.
+
+
+
+
+7
+
+
+Enhancing Investor Base
+
+Retail investors should be encouraged to participate in the market through stock exchanges. Such investors should also be encouraged to participate in the corporate bond market through mutual funds;
+
+
+
+This will happen only when the facilities are put in place and there is investor awareness built about trading in bonds.
+
+
+Initiation on investor education is already an integral part of SEBI’s functioning.
+
+
+
+
+8
+
+
+A separate higher limit should be allowed for investments by FIIs on a yearly basis in corporate bonds. However, it is recognized that this has implications for managing the capital account and RBI, as such, may review this matter at an appropriate stage;
+
+
+The Union Budget for 2006-07 has announced an increase in the limit on FII investment in Government securities from $ 1.75 billion to $ 2 billion and the limit on FII investment in corporate debt from $ 0.5 billion to $ 1.5 billion.
+
+
+A circular to the custodians has already been issued.
+
+
+
+
+9
+
+
+Consolidation of Privately Placed Bonds
+
+Consolidation of the issuance process to create large floating stocks is required to enhance market liquidity. There should be a guideline limiting the number of fresh issuances that would include re-issuance of the existing bonds by a corporate in a given time period (say over a quarter). Any new issue should preferably be a reissue so that there are large stocks in any given issue, thereby helping to create secondary market liquidity; Issuers should be encouraged to consolidate their various existing issues into a few large issues which can then serve as benchmarks;
+
+Legal impediments to consolidation, if any, should be examined and removed; Re-issuance of the same security should be included for the purpose of the cap suggested for stamp duty, in order to encourage re-issuance.
+
+
+
+
+This is extremely important for consolidation of bond issuances. It will help increase the floating stock of an instrument and enhance the liquidity in the corporate bond market.
+
+Legal issues involved for such consolidation and the extent to which they come under SEBI’s purview should be examined and suitably addressed.
+
+
+
+Approvals will take about 3-6 months as legal changes are involved.
+
+
+
+
+10
+
+
+Bonds Primary Issuance Database
+
+The immediate creation of a centralized database of all bonds issued by corporates is an absolute necessity. This database should also track rating migrations. The stock exchanges would be best suited for maintaining this database as most of the information is already available with them at the time of listing and only a suitable interface would need to be put in place between the stock exchanges and the rating agencies for any subsequent rating migrations This database should be made available free of cost to all the investors;
+
+SEBI may prescribe appropriate enabling regulations for the setting up and licensing of platforms for non-competitive bidding and order collection for say upto 10 percent of an issue as also for the facilitation of an electronic bidding process for the primary issuance of bonds and securitized assets on the lines of what is already available on the exchanges.
+
+
+
+
+The data base should be central and hence located at only one place. It will save time, cost and hassles for the users. Through the listing agreement it could be made mandatory for issuer companies to provide this information to this data base for all issuances and updates thereafter. The credit rating agencies could be mandated under the regulations or by way of a circular to inform the centralized data base. Using technology and security systems, it should be possible for the issuers and the credit rating agencies to post the information on the data base.
+
+
+Implementation of the proposals in the text of the report will take care of this requirement.
+
+
+
+
+11
+
+
+Development of Secondary Market Trade Reporting System
+
+Steps should be taken to immediately establish a system to capture all information related to trading in corporate bonds as accurately and as close to execution as possible, and disseminate it to the entire market in real time;
+
+It would be cost effective to use the existing infrastructure available with the national exchanges for dissemination of information related to trading in corporate bonds. SEBI should frame detailed guidelines for setting up of such reporting platforms and should ensure coordination among them;
+
+The concerned regulators of the various entities, who are party to transactions in corporate bonds, should mandate them to report specified details of each transaction within a specified time to the trade reporting system. The details to be reported and the time of reporting and the regulations governing usage of this platform should be specified by SEBI;
+
+In order to provide direct access to regulated institutions such as banks, insurance companies, mutual funds, etc to the trade reporting system, suitable changes in the existing regulations should be made by SEBI.
+
+
+
+
+
+
+Resources would be frittered away if there are multiple platforms dissemination bits and pieces of information and also if information is available exchange-wise. It will be then left to the market and the participants to navigate from one data base to another and then consolidate the information at their end. Hence, ideally the same platform which hosts the centralized data base should also capture the trading data so that all the information will be at one place. Once this is agreed upon, the participants would have to be mandated to provide near real time trading information.
+
+Wherever brokers are involved, they should be made responsible for providing this information to the data base. In case of bilateral trades, the parties on both sides of the transactions would have to be made responsible.
+
+Several of the key participants in such bilateral trades are not however, regulated by SEBI. Hence SEBI will have to write to RBI/IRDA/Govt (for PFs etc) to mandate the respective agencies under their purview to report trading information to this data base.
+
+
+
+
+This recommendation could be implemented immediately once the report is accepted and the details of information to be disseminated are finalised.
+
+
+
+
+12
+
+
+Clearing and Settlement System
+
+The clearing and settlement of trades in this market must follow the IOSCO standards and the global best practices by way of well established clearing and settlement procedures through recognized clearing and settlement agencies;
+
+The clearing and settlement agencies may provide the clearing and settlement services in phases by initially offering DVP I (gross trade by trade settlements) and use the experience to migrate within a reasonable time frame into DVP III (netted settlements) systems. In the first instance, in order to ensure DVP settlements of corporate bonds in accordance with international best practices, RBI may consider issue of grant of suitable access to the concerned clearing and settlement entities to the RTGS system ;
+
+In order to improve secondary market trading, repos in corporate bonds may be permitted by RBI to be operated by the proposed clearing entities for corporate bonds;
+
+As corporate bonds are governed by the SCRA and SEBI regulations, the entities handling the clearing and settlement of these securities will have to be recognized entities under the SEBI framework and SEBI will frame suitable regulations for the clearing and settlement of corporate bonds. However, in the case of trading, clearing and settlement of repos in corporate bonds, appropriate regulations will be framed by RBI in consultation with SEBI.
+
+
+
+
+
+
+In the case of equities, settlement takes place on a net basis for funds and securities i.e. using DVP III. But there is strictly no finality of settlement in the central bank money and hence there remains a day light risk. This will be eliminated only when clearing agencies other than CCIL are granted access to the RTGS whether for the debt market or for the equity market. In order to achieve global standards in clearing & settlement functions, it has been a longstanding demand of clearing corporations of stock exchanges to be given direct access to the RTGS system of RBI. This should be facilitated by RBI.
+
+A separate clearing and settlement arrangements need to be put in place.
+
+ 
+
+What is important to note is that in equity the global standards have already been reached as there is novation (albeit without a legal basis) and settlement under DVP III. In the case of corporate bond trading when an exchange based order matching system is set up (as discussed in the next item 12), the same mechanics will have to be used for settlement.
+
+
+
+
+
+SEBI would write to RBI to permit the clearing corporation/clearing agency to be a member of RTGS both for equity, bonds and derivatives.
+
+In the case of trading in repos in corporate bonds, SEBI will need to write to RBI for framing the guidelines .
+
+
+
+
+
+13
+
+
+Order Matching Trading System
+
+As market participants gain experience with trade reporting and the first phase of clearing and settlement systems, efforts should be made to develop online order matching platforms for corporate bonds. Such trading platforms can be set up by the stock exchanges or jointly by regulated institutions like banks, financial institutions, mutual funds, insurance companies, etc. SEBI would frame specific guidelines for setting up such trading platforms. Any platform, other than the one offered by a stock exchange would effectively be performing the functions of an exchange to a limited extent and as such would need the specific approval of SEBI;
+
+The Committee recognizes the need for more than one category of member viz., some who will trade on their own account and/or some who will do agency business. The membership criteria and responsibilities would be significantly different between the various types of members. The provisions of the relevant legislations/regulations may be reviewed and appropriate amendments made thereto, if necessary, for the purpose. As it is necessary to avoid multiplicity of regulators for entities taking limited purpose membership for trading on their own behalf in the proposed trading and clearing platforms, the responsibility of regulating their activity in corporate bonds through trading platforms will vest with SEBI while the primary regulation of these institutions will continue to vest with their respective primary regulators.
+
+Appropriate approvals may be considered by concerned regulators to enable free participation on the trading platform through limited membership by the concerned entities for the purpose of their proprietary trading.
+
+
+
+
+
+The major holders of corporate bonds like banks, FIs, PDs, PFs, Insurance companies are not regulated by SEBI. Hence, SEBI will have to write to all concerned regulators who will advise their regulated agencies to trade on the designated order matching system.
+ 
+
+SEBI can in the interest of market will mandate a particular exchange to begin with to set up an order matching system. The same exchange which provides the centralized data base should ideally have order matching system. This system or platform should be separate from that of equity and derivative platforms already existing. The trades should be settled through novation and settlement guarantee fund, and as in the case of equities, the clearing agency of the exchange should be connected to the depositories for electronic transfer of bonds.
+
+At a later date when trading picks up and the market deepens, SEBI can examine whether there is a scope for other trading platforms to be set up.
+
+Also the chosen exchange should examine the scope of introducing T+1 settlement only for corporate debt, if it has to compete effectively with the OTC/telephone market. In the case of NDS also settlement is mostly on T+1 basis, if not on T+0 (i.e same day).
+
+
+
+
+
+
+SEBI can announce the plan through a comprehensive press release first, to put the market on notice.
+
+
+
+
+14
+
+
+Phased Implementation of Recommendations relating to Trade Reporting, Clearing & Settlement and Order Matching System
+
+The above recommendations would be best implemented in a phased manner. In Phase I, the trade reporting and dissemination system would be implemented and trades reported through the reporting systems will be accepted for clearing and settlement by the approved clearing entities. DVP I clearing could be offered for all corporate bonds and DVP III offered for those instruments that have sufficient liquidity;
+
+In Phase II, measures for improving liquidity and reducing costs will be introduced. This will include the introduction of tripartite repo contracts in corporate bonds, securities lending and borrowing and other mechanisms for reducing settlement risk. This will allow DVP III settlement to be offered for a larger universe of corporate debt securities;
+
+In Phase III, the above trade reporting could migrate to STP enabled order matching systems as well as DVP III settlements.
+
+
+
+
+
+Since the setting up of the order matching system in meaningful manner will take time ( at least a couple of months, considering the need for setting up infrastructure, examination of legal issues within SEBI, registration of members by the stock exchange etc), it would be most desirable to begin straight away with the centralized data base.
+
+
+As in the case of recommendation 13, SEBI can announce the plan through a comprehensive press release first, to put the market on notice.
+
+
+
+
+15
+
+
+Reduction of Shut Period
+
+The current shut period in corporate bonds is very high and needs to be reduced and aligned to that for Government Securities. While trading in corporate bonds just before the coupon date, buyers and sellers have to transfer a part of the money through cash and trading during shut period.
+
+
+
+Legal aspects need to be examined
+
+
+ 
+
+
+
+
+16
+
+
+Unified Market Convention
+
+FIMMDA, being the representative of the banks and institutions, should take a lead role to put in place unified market conventions to be followed for corporate bonds. The standardized practice of 30/360 day count convention, followed for dated Government Securities, may be made mandatory for all new issues of corporate bonds. For existing bonds, the existing terms may have to be observed unless agreed to by issuers and holders. A suitable road map may be finalised to migrate interest payment conventions across all fixed income instruments, including government securities, to an actual/actual basis.
+
+
+
+This could be done relatively easily and the unified market convention of 30/360 may be adopted by an amendment to SEBI’s corporate debt circular dated 22.12.03.
+
+
+This circular can be issued as soon as the report is accepted.
+
+
+
+
+17
+
+
+Repos in Corporate Bonds
+
+RBI may allow Repos in corporate bonds as already announced in the earlier monetary policy. It will give an opportunity to investors who have illiquid corporate bonds to recycle the same and borrow money against these securities.
+
+The entities that will provide the trade matching system could also provide a repo facility on lines of CBLO for Government Securities.
+
+The activity relating to trading in repo on corporate bonds in lines of CBLO and / or its settlement will be regulated by RBI.
+
+
+
+
+
+Implementation of this proposal will need some deliberation and consultation with RBI.
+
+ 
+
+
+
+There is need to discuss the matter with the stock exchanges and the RBI.
+
+
+
+
+18
+
+
+Introduction of Interest Rate Derivatives
+
+Currently, the interest rate derivatives market is confined to the OTC market with only a handful of participants. Large corporates are active participants in this market. There is no mechanism for dissemination of trades and prices. Steps may be taken to introduce reporting system in the market and ensure real time dissemination of information. Simultaneously steps may be taken to immediately introduce the revised and approved exchange traded derivative products which have been pending for a long time.
+
+
+
+SEBI has already taken the necessary steps. The exchanges are also ready to take up the task. It is equally clear that an interest rate derivative market is an essential complement of a corporate bond market as well as Govt securities market.
+
+ 
+
+ 
+
+
+
+
+The matter could be taken up with RBI.
+
+
+
+
+19
+
+
+Reduction in Market Lot
+
+The minimum market lot criteria of Rs.10lakhs for trading in corporate bonds at the stock exchanges should be reduced to Rs.1lakh to enable better access to smaller investors.
+
+
+
+This can be easily introduced by amending the corporate debt circular dated 22.12.03.
+
+
+The circular may be issued as soon as the report is accepted for implementation.
+
+
+
+
+
+
+High Level Expert Committee on Corporate Bonds and Securitization
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

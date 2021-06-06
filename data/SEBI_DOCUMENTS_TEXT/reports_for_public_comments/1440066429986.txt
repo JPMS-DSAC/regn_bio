@@ -1,0 +1,331 @@
+Consultation paper for amendments to the SEBI (Infrastructure Investment 
+
+Trusts) Regulations, 2014 
+
+ 
+
+Objective:  
+
+1.  To  solicit  the  comments/views  from  public  on  suggestions  pertaining  to  making 
+amendments/providing  clarifications  to  the  SEBI  (Infrastructure  Investment  Trusts) 
+Regulations, 2014 (hereinafter "InvIT Regulations"). 
+
+ 
+
+ 
+
+Background: 
+
+2.  SEBI InvIT Regulations were notified on 26th September, 2014, thereby providing a 
+regulatory  framework  for  registration  and  regulation  of  InvITs  in  India.  The 
+Regulations,  inter  alia,  provide  for  conditions  for  making  a  public  offer  and  private 
+placement,  initial  and  continuous  disclosures,  investment  conditions,  unit-holder 
+approval requirements, related party disclosures, etc. 
+ 
+
+3.  Government of India, in the Budget for FY 2014-15 introduced a separate chapter on 
+the  Infrastructure  Investment  Trusts  (InvITs)  and  Real  Estate  Investment  Trusts 
+(REITs) (collectively referred in the budget as "Business Trusts") in the Income Tax 
+Act, 1961, thereby introducing various measures for Business trusts in the tax law. 
+Further, in the Budget for FY 2015-16, government provided clarity on certain other 
+tax aspects such as clarity on capital gains, MAT, etc. for Business Trusts. 
+
+ 
+
+4.  SEBI,  in  its  discussions  with  the  industry  and  in  various  representations,  has 
+received suggestions for making amendments/providing clarifications with respect to 
+the InvIT Regulations. Based on the suggestions, certain amendments/clarifications 
+are proposed to the InvIT Regulations  as under: 
+
+ 
+
+Proposals: 
+
+5.  Allowing two level SPVs for InvITs  
+
+ 
+
+5.1. Regulation 2(1)(zy) of InvIT regulations define a SPV as  
+
+"SPV" or "special purpose vehicle" means any company or LLP,– 
+
+ 
+
+1 | P a g e  
+
+(i)  in  which  the  InvIT  holds  or  proposes  to hold  controlling  interest  and  not  less 
+than fifty per cent. of the equity share capital or interest:  
+
+Provided  that  in  case  of  PPP  projects  where  such  acquiring  or  holding  is 
+disallowed  by  government  or  regulatory  provisions  under  the  concession 
+agreement  or  such  other  agreement,  this  clause  shall  not  apply  and  shall  be 
+subject to provisions under proviso to sub-regulation (3) of regulation 12; 
+
+(ii) which holds not less than ninety per cent. of its assets directly in infrastructure 
+projects and does not invest in other SPVs; and  
+
+(iii) which is not be engaged in any other activity other than activities pertaining to 
+and incidental to the underlying infrastructure projects; 
+
+Therefore,  as  per  the  current  regulations  InvITs  can  either  hold  infrastructure 
+assets either directly or through an SPV, which InvIT holds control in. 
+
+5.2. It  has  been  represented  that  infrastructure  assets  in  India  are  usually  held 
+through different Special Purpose Vehicles (SPVs), where the promoters of such 
+SPVs create separate holding companies (Holdcos) which in turn hold stake in 
+the  underlying  SPVs.  Thus, 
+the  sponsors  may  have  separate  Holding 
+Companies  (“Holdcos”)  which  hold  multiple  SPVs  which  have  projects  of  a 
+particular  category.  For  instance,  some  companies  hold  under  construction 
+projects  in  SPVs  below  a  Holdco  but  have  a  separate  Holdco  for  SPVs  with 
+operational projects/ Assets.  Thus it has been requested that InvITs be allowed 
+to invest in infrastructure projects through SPVs which in turn hold stake in other 
+SPVs which ultimately hold the infrastructure assets. 
+
+5.3. The rationale given by industry for necessitating such change are as under: 
+
+a) 
+
+In  Infrastructure  sector,  specifically  for  PPP  projects,  certain  concession 
+agreements do not allow for direct change in control in SPV which holds the 
+assets,  thereby  making  it  possible  to  transfer  shares  at  holding  company 
+level only. 
+
+b)  Certain contracts for example power purchase agreements in power sector 
+require consents for direct change of control which may be time consuming 
+and not efficient.  
+
+c)  A  large  proportion  of  the  infrastructure  projects  in  India  are  financed  by 
+Indian financial institutions on a project finance basis where lenders require 
+a pledge on the shares of the SPV. In such cases, if the SPV is held directly 
+
+2 | P a g e  
+
+ 
+
+ 
+
+by  the  InvIT,  the  lenders  would  want  pledge  of  SPV  shares  held  by  the 
+InvIT. This might not be attractive for InvIT investors.  
+
+d)  There  are  also  concerns  of  tax  inefficiencies,  lender  considerations, 
+difficulties  in  exit  for  financial  investors,  etc.  if  investment  in  the  HoldCo  is 
+not allowed. 
+
+5.4. Based on the above, it is proposed to allow InvIT to invest in a Holdco, investing 
+
+in other SPV(s) (“Underlying SPV”) subject to the following: 
+
+ 
+a) 
+
+the InvIT shall hold controlling interest and not less than fifty per cent of the 
+equity  share  capital  or  interest  in    the  HoldCo  and  the  Holdco  shall  in  turn 
+hold  controlling  interest  and  not  less  than  fifty  per  cent  of  the  equity  share 
+capital or interest in  Underlying SPV(s); 
+
+b)  No  other  shareholder  or  partner  of  the  Underlying  SPV(s)  shall  have  any 
+rights that prevent the InvIT and Holdco from complying with the provisions 
+of these regulations; 
+
+c)  The investment manager, in consultation with the trustee, shall ensure that 
+not  less  than  one  authorized  representative  of  the  HoldCo  or  the  InvIT  is 
+appointed  on  the  Board  of  directors  or  governing  board  of  the  Underlying 
+SPV(s); 
+
+d)  The investment manager shall ensure that in every meeting including annual 
+general  meeting  of  the  Underlying  SPV(s),  the  voting  of  the  HoldCo  is 
+exercised.  
+
+e)  All  corporate  governance  norms  shall  be  applicable  at  the  Underlying  SPV 
+
+level in addition to the HoldCo.  
+
+f)  All responsibilities of the investment manager with respect to the SPVs shall 
+
+apply at both the levels. 
+
+g)  All  investment  conditions  and  leverage  requirements  will  apply  at  a 
+
+consolidated level.  
+
+h)  The  requirement  of  mandatory  distribution  of  at 
+
+the 
+distributable  cash  flows  shall  apply  to  the  Underlying  SPV(s).100%  of  the 
+net distributable cash flows of the HoldCo shall be distributed to the InvIT.  
+
+least  90%  of 
+
+i)  All  financial  statements  of  the  InvIT  shall  be  consolidated  with  both  the 
+
+SPVs. 
+
+ 
+
+3 | P a g e  
+
+j) 
+
+The Holdco shall not be engaged in any other activity other than holding of 
+the Underlying SPV(s). 
+
+k)  Any other conditions as the Board may deem necessary. 
+
+5.5. It  is  therefore  proposed  that  express  provisions  may  be  provided  in  the  InvIT 
+regulations for allowing investments by InvIT in two level SPV structures and to 
+amend the regulation 2(1)(zy) of InvIT  Regulations   and any other Regulation 
+as may be necessary for the purpose.  
+
+6.  Reducing sponsor commitment in InvIT 
+
+6.1. Regulation 12(3) of InvIT regulations states that  
+
+With respect to holding of units in the InvIT, the sponsor(s) together shall hold not 
+less  than  twenty  five  per  cent  of  the  total  units  of  the  InvIT  after  initial  offer  of 
+units, on a post-issue basis for a period of not less than 3 years from the date of 
+the listing of such units:  
+
+Provided  that  in  case  of  PPP  projects,  in  case  such  acquiring  or  holding  is 
+disallowed by government or under any provisions of the concession agreement 
+or any other such agreement,–   
+
+(i) the sponsor may continue to maintain such holding at the SPV level;  
+
+(ii) the consolidated value of all such holdings at the SPV level and the value of 
+the units of InvIT held by the sponsor shall not be less than the value of twenty 
+five  per  cent.  of  the  total  units  of  the  InvIT  after  initial  issue  of  units  on  a  post-
+issue basis;  
+
+(iii) such units of the InvIT and shares or interest in the SPV shall be held for a 
+period of not less than three years from the date of the listing of units of the InvIT;  
+
+(iv)  in  case  such  holding  of  sponsor  in  the  SPV  results  in  the  InvIT  not  having 
+controlling  interest  and  not  having  more  than  fifty  per  cent.  shareholding  or 
+interest  in  the  SPV,  the  sponsor  shall  enter  into  a  binding  agreement  with  the 
+InvIT to ensure that decisions taken by the sponsor including voting with respect 
+to the SPV are in compliance with these regulations and not against the interest 
+of the InvITs or the unit holders and shall be subject to further guidelines as may 
+be specified by the Board. 
+
+6.2. The  present  guidelines  requires  the  sponsor(s)  of  the  InvIT  to  hold,  on  a 
+collective basis, not less than twenty five per cent of the total units of the InvIT 
+
+ 
+
+4 | P a g e  
+
+on a post-issue basis for a period of not less than 3 years from the date of the 
+listing of such units. 
+
+6.3. In this regard, industry has represented following: 
+
+a) 
+
+Infrastructure  assets  are  usually  financed  through  debt,  where  the  capital 
+structure  of  the  SPVs,  executing  such  infrastructure  projects,  is  generally 
+debt heavy (as high as 75-80% of the total capital employed is debt) and the 
+value of sponsors stake in  the total capital structure in such SPVs (value of 
+equity) is in minority value.  
+
+b)  High  leverage  at  the  Asset  level  leads  to  substantial  cash  flows  being 
+utilized  towards  servicing  of  the existing  project finance  debt. Since,  InvITs 
+are considered to be investment vehicles which provide stable cash flows to 
+the investors, a capital structure with no or low leverage  would ensure that 
+interest  which  would  have  otherwise  been  paid  to  lenders  is  available  for 
+payment of yield to investors.  
+
+c)  Therefore, for such cash flows to be made available to the investors at InvIT 
+level  a significant portion of the existing debt at the Assets has to be retired. 
+Therefore, in a scenario where a  substantial portion of the existing debt at 
+the  Assets  is  replaced  through  primary  issuance  at  InvIT,  the  value  of  the 
+InvIT units on a post-issue basis would reflect a value equivalent to the sum 
+of the market value of the equity capital of the Assets and the retired debt at 
+the assets.  
+
+d)  Thus, the requirement for Sponsor to hold 25% of units at InvIT  on a post-
+issue  basis,  may  limit  the monetization for  sponsors  and  reduce  release of 
+capital  for  such  sponsors  and  may  not  be  lucrative  for  the  existing  set  of 
+sponsors. Further, in certain circumstances this may lead to sponsor putting 
+money,  out  of  its  own  pocket,  in  the  InvIT  so  as  to  maintain  the  required 
+25% stake. This would be very onerous at the part of the sponsor. 
+
+e)  Thus, the minimum sponsor holding in the InvIT may be reduced to 10% so 
+
+as to make it attractive for the sponsors to float such vehicles. 
+
+6.4. Therefore, it is proposed that Regulation 12(3) of the InvIT Regulations  may be 
+
+amended to allow following: 
+
+a)  sponsor(s)  of  the  InvIT  to  hold  not  less  than  10%  of  the  total  units  of  the 
+
+InvIT on a post-issue basis. 
+
+ 
+
+5 | P a g e  
+
+b) 
+
+in case of PPP projects, where acquiring or holding of the stake at SPV level 
+is  disallowed  by  government  or  under  any  provisions  of  the  concession 
+agreement or any other such agreement, the consolidated value of sponsor 
+holdings  at  the  SPV  level  and  the  value  of  the  units  of  InvIT  held  by  the 
+sponsor shall not be less than the value of 10% of the total units of the InvIT 
+after initial issue of units on a post-issue basis;  
+
+Rest all other conditions, as have been specified in the regulations, shall remain 
+unchanged.  
+
+Public Comments: 
+
+7.  In  order  to  take  into  consideration  views  of  various  stakeholders,  public  comments 
+
+are solicited on the following issues: 
+
+7.1. Allowing InvITs to invest in two level SPV structure. 
+
+7.2. Relaxing the sponsor commitment  in InvIT from 25% to 10% 
+
+8.  Comments/ suggestions may be provided in the format given below: 
+
+ 
+
+Name of entity / person / intermediary/ Organization 
+Sr. No.  
+ 
+ 
+ 
+
+Issue 
+ 
+ 
+
+Suggestions  
+ 
+ 
+
+Rationale 
+ 
+ 
+
+Public  comments  are  invited  on  the  consultative  paper  on  the  aforesaid  proposals. 
+Comments  may  be  forwarded  by  email  to  Ms.  Nila  Salil  Khanolkar,  Assistant 
+General  Manager 
+(nila@sebi.gov.in)  or  Mr.  Naveen  Gupta,  Manager 
+(naveeng@sebi.gov.in) latest by September 06, 2015. 
+
+ 
+
+Issued on: August 20, 2015 
+
+ 
+
+6 | P a g e  
+
+ 
+
+ 
+
+

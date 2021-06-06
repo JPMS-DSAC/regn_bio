@@ -1,0 +1,4619 @@
+ 
+
+ 
+
+CONSULTATIVE PAPER ON PROPOSED SEBI (FIDUCIARIES IN THE SECURITIES 
+
+MARKET) (AMENDMENT) REGULATIONS 
+
+1.  BACKGROUND 
+
+ 
+
+1.1 Investor  confidence  is  fundamental  to  the  successful  operation  of  securities  market.  That 
+
+confidence  depends  on  investors  having  credible  and  reliable  financial  information  when 
+
+making decisions about capital allocation. 
+
+1.2 In pursuit of the objectives of SEBI (to protect the interests of investors in securities and to 
+
+promote the development of and to regulate the securities market), it is important to ensure 
+
+full, timely, and accurate disclosure of financial results and other information that is material 
+
+to  investors’  decisions.  Full  and  fair  disclosure  is  essential  to  investor  protection,  enhances 
+
+investor confidence, and promotes market liquidity and efficiency.  
+
+1.3 An issuer may issue securities after making the required disclosures and after complying with 
+
+applicable  SEBI  Regulations.  In  pursuit  of  the  objective  of  the  SEBI  Act,  SEBI  has  made 
+
+various Regulations: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)  to facilitate raising of capital through issue of various securities, such as SEBI (Listing 
+
+Obligations and Disclosure Requirements) Regulations, 2015, SEBI (Issue of Capital 
+
+and  Disclosure  Requirements)  Regulations,  2009,  SEBI  (Issue  and  Listing  of  Debt 
+
+Securities) Regulations, 2008, etc.  
+
+b)  for  channelization  of  savings  of  investors  in  the  securities  market  through  pooled 
+
+Investment  Vehicles,  such  as  SEBI  (Mutual  Funds)  Regulations,  1996,  SEBI 
+
+(Alternative Investment Funds) Regulations, 2012, etc.;  
+
+c)  to  facilitate  corporate  restructuring  such  as  SEBI  (Substantial  Acquisition  of  Shares 
+
+and Takeovers) Regulations, 2011, SEBI (Buy Back of Securities) Regulations, 1998, 
+
+SEBI (Delisting of Equity Shares) Regulations, 2009; 
+
+d)  for  regulating  intermediaries  in  the  Securities  Market,  such  as  SEBI  (Portfolio 
+
+Managers)  Regulations,  1993,  SEBI  (Merchant  Bankers)  Regulations,  1992,  SEBI 
+
+(Stock Brokers and Sub-brokers) Regulations, 1992, etc. 
+
+ 
+
+1.4 The Regulations relating to the issue of capital mainly follow a disclosure based regime and 
+
+investors 
+
+rely  upon 
+
+the  offer  documents  and 
+
+financial  statements  which  are 
+
+audited/examined/vetted  by  various  fiduciaries  such  as  Chartered  Accountant,  Company 
+
+Secretary,  Valuer  etc.  and  also  by  various  intermediaries  in  the  securities  market.  Various 
+
+fiduciaries  undertake  assignments  and  engagements  under  these  Regulations  and  provide 
+
+various  certificates  and  reports  to  issuers,  companies,  intermediaries,  pool  investment 
+
+vehicles,  investor  in  the  securities  market,  etc.  For  example,  the  certificate  requirement 
+
+specified under the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2009 
+
+is under: 
+
+ 
+
+Sr. 
+No. 
+
+Certification requirement specified under the 
+
+Certifying 
+
+SEBI ICDR Regulations 
+
+entity 
+
+Regulation 
+reference 
+
+1.   
+
+them 
+
+Promoters'  Contribution:  Promoters’  contribution 
+has  been  received,  accompanying  therewith  the 
+names  and  addresses  of  the  promoters  who  have 
+contributed  to  the  promoters’  contribution  and  the 
+amount  paid  by  each  of 
+towards  such 
+contribution 
+ 
+Use  of  proceeds:  The  monitoring  agency  shall 
+submit its report to the issuer in the format specified 
+in Schedule IX on a quarterly basis, till at least ninety 
+five percent of the proceeds of the issue 
+ 
+Cash  flow  and  Liquidity  position:  An  auditors’ 
+certificate  on  the  cash  flow  of  the  issuer  and  with 
+comments on the liquidity position of the issuer 
+ 
+Revision of accounts of partnership firm to format 
+specified  under  Cos.  Act:  Certificate  certifying 
+financials 
+in 
+requirements  and 
+accordance  with  Cos.  Act 
+accounting standards have been followed 
+ 
+
+statements  and  disclosures  are 
+
+2.   
+
+3.   
+
+4.   
+
+Chartered 
+Accountant 
+
+Reg. 8(2)(d) 
+
+Monitoring 
+agency 
+
+Reg. 16(2) 
+
+Statutory 
+Auditor 
+
+Reg. 21(1)(b) 
+
+Chartered 
+Accountant 
+
+Explanation 
+III(b)  to  Reg. 
+26 
+
+2 | P a g e  
+
+ 
+
+ 
+
+Sr. 
+No. 
+
+Certification requirement specified under the 
+
+Certifying 
+
+SEBI ICDR Regulations 
+
+entity 
+
+Regulation 
+reference 
+
+ 
+
+5.   
+
+6.   
+
+7.   
+
+to  debt 
+
+restructuring 
+
+shall  be  certified  by 
+
+Conversion price: Conversion of debt into securities 
+scheme.  The 
+pursuant 
+conversion  price 
+two 
+independent valuers. 
+ 
+Issue  price:  Preferential  issue  to  persons  at  the time 
+of  lenders  selling  their  holding  pursuant  to  debt 
+restructuring  scheme.  The 
+issue  price  shall  be 
+certified by two independent valuers. 
+ 
+Compliance for Preferential issue: The issuer shall 
+place a copy of the certificate of its statutory auditor 
+before  the  general  meeting  of  the  shareholders, 
+considering the proposed preferential issue, certifying 
+that  the  issue  is  being  made  in  accordance  with  the 
+requirements of these regulations. 
+ 
+76A Pricing of equity shares – Infrequently traded 
+shares 
+Issuer shall submit a certificate stating that the issuer 
+is in compliance of Regulation 76A, obtained from an 
+independent  merchant  banker  or  an  independent 
+chartered  accountant  in  practice  having  a  minimum 
+experience of ten years, to the stock exchange where 
+the equity shares of the issuer are listed. 
+ 
+Compliance:  The  issuer  shall  submit  a  certificate  of 
+the statutory auditor to the stock exchange where the 
+equity  shares  of  the  issuer  are  listed  stating  that  the 
+issuer  is  in  compliance  of  sub-regulation  (5)  of 
+Regulation 77 and the relevant documents thereof are 
+maintained  by 
+the  date  of 
+certification 
+ 
+Receipt of promoter contribution: Certification for 
+receipt of promoter contribution atleast one day prior 
+to issue opening 
+ 
+Sources  of  funds  &  deployment  on  project:  The 
+details of the sources of funds and the deployment of 
+these funds on the project (where the issuer is raising 
+capital for a project), up to a date not earlier than two 
+months  from  the  date  of  registering  the  offer 
+
+the 
+
+issuer  as  on 
+
+8.   
+
+9.   
+
+10.  
+
+11.  
+
+Independent 
+Qualified 
+Valuer 
+
+Independent 
+Qualified 
+Valuer 
+
+Reg. 70(5)(b) 
+
+Reg. 70(6)(b) 
+
+Statutory 
+Auditor 
+
+Reg. 73(2) 
+
+Independent 
+Merchant 
+Banker/ 
+Chartered 
+Accountant 
+
+Reg. 76A 
+
+Statutory 
+Auditor 
+
+Reg. 77(6) 
+
+Statutory 
+Auditor 
+
+Chartered 
+Accountant 
+
+Schedule  VI, 
+Form  A, point 
+7 
+
+Schedule 
+VIII,  Part  A, 
+clause 
+VII(F)(1) 
+
+3 | P a g e  
+
+ 
+
+Sr. 
+No. 
+
+Certification requirement specified under the 
+
+Certifying 
+
+SEBI ICDR Regulations 
+
+entity 
+
+Regulation 
+reference 
+
+ 
+
+Auditor/ 
+Chartered 
+Accountant 
+
+Schedule 
+VIII,  Part  A, 
+clause VII,(L) 
+
+Statutory 
+Auditor 
+
+Schedule 
+VIII,  Part  A, 
+clause 
+IX, 
+note 1 
+
+document  with  the  Registrar  of  Companies,  as 
+certified  by  a  Chartered  Accountant,  along  with  the 
+name of the chartered accountant and the date of the 
+certificate 
+ 
+
+12.  Tax Benefits: Any special tax benefits for the issuer 
+
+and its shareholders 
+
+13.  
+
+Financial  Statements:  The  financial  informations 
+specified  in  Financial  Statements  section  of  the 
+regulation  shall  be  certified  by  only  those  auditors 
+who  have  subjected  themselves  to  the  peer  review 
+process  of  the  Institute  of  Chartered  Accountants  of 
+India (ICAI) and hold a valid certificate issued by the 
+‘Peer Review Board’ of the ICAI 
+ 
+Financial  Statements:  All  financial  information 
+specified  in  the  Financial  Statements  section  of  the 
+regulation  must  be  re-audited  for  one  full  financial 
+year  and  the  stub  period,  by  the  auditor  certifying 
+them  in  case  where  the  financial  statements  were 
+audited by an auditor who had not been subjected to 
+peer review process of ICAI 
+ 
+Examination  Report:  Certificate  from  the  auditors 
+that  such  accounts  have  been  examined  and  found 
+correct by them 
+ 
+
+14.  
+
+15.  
+
+16.  Proforma Financial Statements  
+
+ 
+
+Statutory 
+Auditor 
+
+Statutory 
+Auditor 
+
+Statutory 
+Auditor 
+
+Schedule 
+VIII,  Part  A, 
+clause 
+IX, 
+note 2 
+
+Schedule 
+VIII,  Part  A, 
+clause 
+IX(B)(1)(b) 
+Schedule 
+VIII,  Part  A, 
+clause 
+IX(B)(23) 
+Schedule 
+VIII,  Part  A, 
+clause 
+IX(B)(23) 
+Schedule 
+VIII,  Part  A, 
+clause 
+XII 
+(B)(30) 
+Schedule 
+VIII,  Part  E, 
+clause  XVII 
+
+4 | P a g e  
+
+17.  
+
+Proforma  Financial  Statements:  Acquisition  or 
+divestment does not fulfill the tests of materiality 
+ 
+
+Statutory 
+Auditor 
+
+18.  
+
+19.  
+
+Use  of  funds:  Details  of  utilisation  of  the  funds 
+raised  through  the  convertible  debt  instruments  duly 
+certified by the statutory auditors  
+ 
+Use  of  funds:  Details  of  utilisation  of  the  funds 
+raised  through  the  convertible  debt  instruments  duly 
+certified by the statutory auditors  
+
+Statutory 
+Auditor 
+
+Statutory 
+Auditor 
+
+ 
+
+Sr. 
+No. 
+
+Certification requirement specified under the 
+
+Certifying 
+
+SEBI ICDR Regulations 
+
+entity 
+
+ 
+
+Regulation 
+reference 
+
+(F)(1) 
+
+20.  
+
+ 
+Requirement  for  subsidiaries/  associates  audit 
+(IDR  issues):  If  the  subsidiaries  and  associates  are 
+not required to prepare such audited statements as per 
+the laws prevailing in  those countries, the same may 
+be  certified  as  true  and  correct  by  the  Board  of 
+Directors  and  the  management  of  such  companies, 
+provided  a  certificate  from  a  certified  public 
+accountant  or  equivalent  practicing  in  the  concerned 
+country is submitted to the Board. 
+ 
+
+Public 
+Accountant 
+
+Schedule 
+XIX,  Part  A, 
+clause 19 
+
+21.  
+
+Revaluation:  Revaluation  certificate  of 
+Issuing 
+Company's assets given by the Government Valuer or 
+any other approved valuer 
+ 
+
+Valuer 
+
+ 
+
+Schedule 
+XIX,  Part  C, 
+to 
+Annexure 
+the 
+due 
+diligence 
+certificate, 
+point 16 
+
+1.5 Similar  assignments  and  engagements  are  taken  by  the  fiduciaries  under  other  Regulations. 
+
+The  fiduciaries  also  play  an  important  role  in  respect  of  intermediaries.  These  fiduciaries 
+
+periodically  conduct  audit  of  the  books  of  accounts  and  issue  compliance  certificates  as  to 
+
+whether  the  intermediary  has  maintained  the  required  net-worth,  whether  risk  management 
+
+systems  are  in  place,  whether  the  intermediary  has  a  robust  mechanism  for  redressal  of 
+
+investor grievances or maintain records as per the regulations etc. 
+
+ 
+
+1.6 Some  of  the  fiduciaries  such  as  Merchant  Bankers,  Credit  Rating  Agencies,  Custodian, 
+
+Debenture  Trustees,  Registrar  to  an  Issue,  etc.  are  registered  and  regulated  by  SEBI  under 
+
+specific Regulations notified for the said purpose.  
+
+1.7 On  the  other  hand  there  are,  certain  other  fiduciaries  such  as  Practicing  Chartered 
+
+Accountants,  Practicing  Company  Secretaries,  Cost  Accountants,  Valuers,  Monitoring 
+
+Agencies, etc. that are neither registered nor regulated by SEBI. However, as per the various 
+
+SEBI Regulations, they are engaged by the issuers, intermediaries, pool investment vehicles, 
+
+ 
+
+5 | P a g e  
+
+ 
+
+investor  in  the  securities  market,  etc.  to  issue  certificates  or  reports  as  required  under  the 
+
+respective regulations, similar to that as has been elaborated in the table at para 1.4. 
+
+1.8 Recommendation and rationale of Kotak Committee: 
+
+The  Committee  on  Corporate  Governance  headed  by  Mr.  Uday  Kotak  while  considering 
+
+measure  to  strengthening  monitoring,  oversight  and  enforcement  related  to  accounting  and 
+
+audit related issues by SEBI, recommended that – 
+
+Given SEBI’s mandate to protect the interests of investors in the securities market and 
+
+regulating listed entities, the Committee recommends that SEBI should have clear powers 
+
+to  act  against  auditors  and  other  third  party  fiduciaries  with  statutory  duties  under 
+
+securities  law,  subject  to  appropriate  safeguards.  This  power  ought  to  extend  to  act 
+
+against the impugned individual(s), as well as against the firm in question with respect to 
+
+their functions concerning listed entities. This power should be provided in case of gross 
+
+negligence as well, and not just in case of fraud/connivance. 
+
+1.9 The  SEBI  Act,  1992  empowers  SEBI  to  issue  directions  to  any  person  associated  with  the 
+
+securities market (including fiduciaries in the securities market), in the interest of investors or 
+
+for the orderly development of securities market.  Under these provisions, SEBI, through its 
+
+enforcement  proceedings  has  taken  action  in  the  past,  against  various  fiduciaries  in  the 
+
+securities  market.  However,  since  these  fiduciaries  in  the  securities  market  are  not 
+
+specifically registered with SEBI or regulated by SEBI under any Regulations notified for the 
+
+said  purpose,  there  may  be  a  need  to  clarify  and  specify  the  actions  that  may  be  taken  by 
+
+SEBI against such fiduciaries in case they submit false reports or certificates etc. 
+
+ 
+
+2.  SCOPE 
+
+2.1 This  paper and the proposed  amendment in  various  Regulations concern those entities who 
+
+undertake third party fiduciary duties/assignments/engagements under the securities laws, in 
+
+respect  of  any  Issuer,  Pooled  Investment  Vehicle,  Restructuring,  Intermediaries,  Market 
+
+Infrastructure Entities or investors in the securities.  
+
+ 
+
+6 | P a g e  
+
+ 
+
+2.2 The  draft  Amendment  Regulations  (Annexure)  proposes  to  amend  various  Regulations  to 
+
+provide  that  when  a  fiduciary  undertakes  any  engagement/assignment  under  the  securities 
+
+laws,  in  respect  of  any  Issuer,  Pooled  Investment  Vehicle,  restructuring,  intermediary  or 
+
+investors in securities and issues any certificate, report etc., such a fiduciary shall ensure that 
+
+it is true in all material respects.  In terms of the draft Amendment Regulations, the following 
+
+Regulations are proposed to be amended:  
+
+a)  Regulations relating to issue of securities:- 
+
+-  SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+
+-  SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2009, 
+
+-  SEBI (Issue and Listing of Debt Securities by Municipalities) Regulations, 2015, 
+
+-  SEBI  (Issue  and  Listing  of  Non-Convertible  Redeemable  Preference  Shares) 
+
+Regulations, 2013, 
+
+-  SEBI (Issue and Listing of Debt Securities) Regulations, 2008, 
+
+-  SEBI (Issue of Sweat Equity) Regulations, 2002, 
+
+-  SEBI (Share Based Employee Benefits) Regulations, 2014, 
+
+ 
+
+b)  Regulations relating to Pooled Investment Vehicle:- 
+
+-  SEBI (Mutual Funds) Regulations, 1996,  
+
+-  SEBI (Infrastructure Investment Trusts) Regulations, 2014, 
+
+-  SEBI (Real Estate Investment Trusts) Regulations, 2014, 
+
+-  SEBI (Alternative Investment Funds) Regulations, 2012, 
+
+-  SEBI (Collective Investment Scheme) Regulations, 1999, 
+
+-  SEBI (Public Offer and Listing of Securitised Debt Instruments) Regulations, 2008, 
+
+ 
+
+c)  Regulations relating to restructuring  
+
+- 
+
+- 
+
+ SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011, 
+
+ SEBI (Delisting of Equity Shares) Regulations, 2009, 
+
+-  SEBI (Buy Back of Securities) Regulations, 1998, 
+
+ 
+
+d)  Regulations relating to Intermediaries 
+
+-  SEBI (Merchant Bankers) Regulations, 1992,  
+
+ 
+
+7 | P a g e  
+
+ 
+
+-  SEBI (Stock Brokers and Sub-brokers) Regulations, 1992, 
+
+-  SEBI (Research Analysts)Regulations, 2014, 
+
+-  SEBI (Investment Advisers) Regulations, 2013, 
+
+-  SEBI (Credit Rating Agencies) Regulations, 1999,  
+
+-  SEBI (Custodian of Securities) Regulations, 1996,  
+
+-  SEBI (Depositories and Participants) Regulations, 1996,  
+
+-  SEBI (Debenture Trustees) Regulations, 1993,  
+
+-  SEBI (Portfolio Managers) Regulations, 1993,  
+
+-  SEBI (Registrars to an Issue and Share Transfer Agents) Regulations, 1993,  
+
+-  SEBI (Underwriters) Regulations, 1993, 
+
+ 
+
+e)   Regulations relating to Financial Market Infrastructure  
+
+-  Securities  Contracts  (Regulation)  (Stock  Exchanges  and  Clearing  Corporations) 
+
+Regulations, 2012,  
+
+-  SEBI {KYC (Know Your Client) Registration Agency} Regulations, 2011,  
+
+-  SEBI (Self-Regulatory Organizations) Regulations, 2004,  
+
+ 
+
+f)  Other Regulations   
+
+-  SEBI (Regulatory Fee on Stock Exchanges) Regulations, 2006. 
+
+ 
+
+ 
+
+3.  EXTRACT OF THE PROPOSED AMENDMENT  
+
+3.1  The proposed Amendment Regulations specifies that a fiduciary who submits or issues any 
+
+certificate or report as required under these aforesaid Regulations shall - 
+
+a) 
+
+b) 
+
+ensure that such a certificate or report is true in all material respects; 
+
+exercise due care, skill and diligence and ensure proper care with respect to all processes 
+
+involved in the issuance of such a certificate or report; 
+
+c) 
+
+report  in  writing  to  the  Audit  Committee  of  the  listed  company  or  to  the  compliance 
+
+officer  in  case  of  an  intermediary,  Trustee  in  case  of  pooled  investment  vehicle,  as  the 
+
+case may be, any material violation of securities laws, noticed while undertaking such an 
+
+assignment. 
+
+8 | P a g e  
+
+ 
+
+ 
+
+3.2  It is also proposed to be clarified that the Board, if after making or causing to be made an 
+
+inquiry or investigation, is satisfied that the fiduciary has submitted false certificate or report 
+
+or  has  violated  any  of  the  provisions  of  these  regulations,  the  Board  may  take  appropriate 
+
+action under  the concerned  securities laws  against  the fiduciary, its engagement partner or 
+
+director, as the case may be. 
+
+ 
+
+4.  PUBLIC COMMENTS 
+
+Draft  Regulations  have  been  prepared  on  the  above  lines  and  is  placed  in  the  Annexure. 
+
+Comments are invited on the aforesaid consultative paper and the proposed draft Regulations 
+
+in the following format: 
+
+Name: 
+
+Sr. No.  Relevant  regulation  /  clause/ 
+
+Comments 
+
+and 
+
+Rationale  
+
+point 
+
+ 
+
+ 
+
+ 
+
+suggested  changes, 
+
+if any 
+
+ 
+
+ 
+
+The comments may either be forwarded by email to sebidop@sebi.gov.in  or may be sent by 
+
+post to the following address latest by August 12, 2018. 
+
+ 
+
+Vijayakrishnan G 
+
+General Manager 
+
+Legal Affairs Department, Division of Policy 
+
+Securities and Exchange Board of India 
+
+SEBI Bhavan, Plot No. C4-A, "G" Block, 
+
+Bandra Kurla Complex,  
+
+Bandra (East), Mumbai -400 051 
+
+ 
+
+ 
+
+Issued on: July 13, 2018 
+
+ 
+
+9 | P a g e  
+
+ 
+
+ 
+
+Annexure  
+
+SECURITIES AND EXCHANGE BOARD OF INDIA  
+
+ 
+
+ 
+
+NOTIFICATION  
+
+ 
+
+Mumbai, the ………. 2018 
+
+ 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA (FIDUCIARIES) (AMENDMENT) 
+
+REGULATIONS, 2018 
+
+ 
+
+No.  ……………………..  -  In  exercise  of  the  powers  conferred  by  section  31  of  the  Securities 
+Contracts  (Regulation) Act,  1956 (42 of 1956), section 30 of the Securities and Exchange  Board of 
+India Act,  1992 (15 of 1992) and section 25 of the Depositories Act,  1996 (22 of 1996), the Board 
+hereby makes the following Regulations to further amend the Securities and Exchange Board of India 
+(Listing  Obligations  and  Disclosure  Requirements)  Regulations,  2015,  Securities  and  Exchange 
+Board  of  India  (Issue  of  Capital  and  Disclosure  Requirements)  Regulations,  2009,  Securities  and 
+Exchange Board of India (Issue and Listing of Debt Securities by Municipalities) Regulations, 2015, 
+Securities  and  Exchange  Board  of  India  (Infrastructure  Investment  Trusts)  Regulations,  2014, 
+Securities and Exchange Board of India (Real Estate Investment Trusts) Regulations, 2014,Securities 
+and Exchange Board of India (Research Analysts)Regulations, 2014, Securities and Exchange Board 
+of India (Share Based Employee Benefits) Regulations, 2014, Securities and Exchange Board of India 
+(Investment Advisers) Regulations, 2013,  Securities and Exchange Board of India (Issue and Listing 
+of  Non-Convertible  Redeemable  Preference  Shares)  Regulations,  2013,  Securities  and  Exchange 
+Board of  India (Alternative  Investment  Funds) Regulations, 2012, Securities Contracts  (Regulation) 
+(Stock Exchanges and Clearing Corporations) Regulations, 2012, Securities and Exchange Board of 
+India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011, Securities and Exchange 
+Board  of  India  {KYC  (Know  Your  Client)  Registration  Agency}  Regulations,  2011,  Securities  and 
+Exchange  Board  of  India  (Delisting  of  Equity  Shares)  Regulations,  2009,  Securities  and  Exchange 
+Board of India (Issue and Listing of Debt Securities) Regulations, 2008, Securities Exchange Board 
+of India (Public Offer and Listing of Securitised Debt Instruments) Regulations, 2008, Securities and 
+Exchange  Board  of  India  (Regulatory  Fee  on  Stock  Exchanges)  Regulations,  2006,  Securities  and 
+Exchange  Board  of  India  (Self-Regulatory  Organizations)  Regulations,  2004,  Securities  and 
+Exchange Board of India (Issue of Sweat Equity) Regulations, 2002, Securities and Exchange Board 
+of India (Collective Investment Scheme) Regulations, 1999, Securities and Exchange Board of India 
+(Credit  Rating  Agencies)  Regulations,  1999,  Securities  and  Exchange  Board  of  India  (Custodian  of 
+Securities) Regulations, 1996, Securities and Exchange Board of India (Depositories and Participants) 
+Regulations,  1996,  Securities  and  Exchange  Board  of  India  (Mutual  Funds)  Regulations,  1996, 
+
+ 
+
+10 | P a g e  
+
+ 
+
+Securities  and  Exchange  Board  of  India  (Debenture  Trustees)  Regulations,  1993,  Securities  and 
+Exchange Board of India (Portfolio Managers) Regulations, 1993, Securities and Exchange Board of 
+India (Registrars to an Issue and Share Transfer Agents) Regulations, 1993, Securities and Exchange 
+Board of India (Underwriters) Regulations, 1993, Securities and Exchange Board of India (Merchant 
+Bankers) Regulations, 1992, Exchange Board of India (Stock Brokers and Sub-brokers) Regulations, 
+1992, Securities and Exchange Board of India (Buy Back of Securities) Regulations, 1998, namely, -  
+ 
+1. 
+
+These  Regulations  may  be  called  the  Securities  and  Exchange  Board  of  India  (Fiduciaries) 
+(Amendment) Regulations, 2018.  
+
+ 
+2. 
+ 
+ 
+
+3. 
+
+They shall come into force on the date of their publication in the Official Gazette 
+
+Amendments  to  the  Securities  and  Exchange  Board  of  India  (Listing  Obligations  and 
+
+Disclosure Requirements) Regulations, 2015 
+
+ 
+
+ 
+
+In  the  Securities  and  Exchange  Board  of  India  (Listing  Obligations  and  Disclosure 
+
+Requirements) Regulations, 2015, -  
+
+I. 
+
+in    regulation  2,  in  sub-regulation  (1)  after  clause  (h),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+"(ha)  “Engagement  partner”  means  the  partner  or  any  other  person  in  the  firm  or  limited 
+
+liability  partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance, 
+
+and  for  the  report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or 
+
+limited liability partnership,  and who, has the appropriate authority from a professional  body, if 
+
+required;" 
+
+ 
+
+II. 
+
+in    sub-regulation  (1)  after  clause  (ha)  ,the  following  clause    and  provision  thereof  shall  be 
+
+inserted, namely,-  
+
+"(hb) "fiduciary" means any person, who is a professional or firm or limited libility partnership 
+
+of such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+ 
+
+11 | P a g e  
+
+ 
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III.  After  Chapter  X,  the  following  new  Chapter  and  regulations  thereunder  shall  be  inserted, 
+
+namely,- 
+
+ 
+
+"Chapter XA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+97A A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report,  
+
+(ii) comments or report in respect of statement of deviation,  
+
+(iii)certificate in respect of maintenance or utilisation of funds,  
+
+(iv) comments or reports for utilisation of proceeds of a public or rights issue,  
+
+(v) compliance certificate of conditions of corporate governance, or  
+
+(vi) any other report or certificate,  
+
+shall: 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all 
+
+processes involved in the issuance of such a certificate or report, as the case may be; 
+
+(b) ensure that such a certificate or report issued by it is true in all material respect; and 
+
+(c)   report in writing to the Audit Committee of the listed company, any material violation 
+
+of securities laws, noticed while undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+ 
+
+12 | P a g e  
+
+97B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  this 
+
+Regulations, may take appropriate action under securities laws, against the  fiduciary, its engagement 
+
+ 
+
+partner or director, as the case may be." 
+
+ 
+
+***** 
+
+ 
+Amendments  to  the  Securities  and  Exchange  Board  of  India  (Issue  of  Capital  and  Disclosure 
+Requirements) Regulations, 2009 
+ 
+4. 
+
+In the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) 
+Regulations, 2009,- 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (m),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+ 
+
+"(ma) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in  the  regulation  2,  sub-regulation  (1)  after  clause  (ma)  ,the  following  clause    and  provision 
+
+thereof shall be inserted, namely,-  
+
+"(mb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.  Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+ 
+
+13 | P a g e  
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter XI, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+ 
+
+ 
+
+"Chapter XIA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+110A. A fiduciary who submits or issues any certificate or report such as :-  
+
+(i) 
+
+(ii) 
+
+(iii) 
+
+(iv) 
+
+(v) 
+
+(vi) 
+
+audit report, 
+
+certificate  that  promoters’  contribution  has  been  received  in  accordance  with  these 
+
+regulations,  
+
+certificate with respect of use of proceeds of the issue, 
+
+auditor's certificate on the cash flow of the issuer in an issue, 
+
+comments on the liquidity position of the issuer,  
+
+certificate with respect to the financial statements,  
+
+(vii) 
+
+certificate  to  the  effect  that  the  issue  is  being  made  in  accordance  with  the 
+
+requirements of these regulations,  
+
+(viii)  auditor's  certificate  regarding  tax-benefits  available  to  the  Issuing  Company, 
+
+shareholders and debenture holders,  
+
+comments or reports for utilisation of proceeds of the issue,  
+
+compliance certificate or report, 
+
+certificate on conversion price, 
+
+(ix) 
+
+(x) 
+
+(xi) 
+
+(xii) 
+
+certificate on issue price, 
+
+(xiii)  certificate on source of funds and deployment of the fund on project, 
+
+(xiv)  examination report, or  
+
+(xv) 
+
+any other report or certificate 
+
+ shall : 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all 
+
+processes involved in the issuance of such a certificate or report; 
+
+14 | P a g e  
+
+ 
+
+ 
+
+(b) ensure that such a  certificate or report issued by  it, is  true in  all material respect; 
+
+and 
+
+(c)   report in writing to the Audit Committee of the company, any material violation of 
+
+securities laws, noticed while undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+110B. The Board, if after making or causing to be made an inquiry or investigation, is satisfied that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  this 
+
+Regulations, may take appropriate action under securities laws, against the  fiduciary, its engagement 
+
+partner or director, as the case may be." 
+
+ 
+
+ 
+
+***** 
+
+Amendments  to  the  Securities  and  Exchange  Board  of  India  (Issue  and  Listing  of  Debt 
+Securities by Municipalities) Regulations, 2015  
+ 
+5. 
+
+In  the  Securities  and  Exchange  Board  of  India  (Issue  and  Listing  of  Debt  Securities  by 
+Municipalities) Regulations, 2015, - 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (f),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+ 
+
+"(fa) “Engagement partner” means the partner or any other person in  the firm  or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+ 
+
+II. 
+
+in  the regulation 2, in sub-regulation (1) after clause (fa) ,the following clause  and provision 
+
+thereof shall be inserted, namely,-  
+
+15 | P a g e  
+
+"(fb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+ 
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter VII, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+ 
+
+ 
+
+"Chapter VIIA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+27A  A fiduciary who submits or issues any certificate or report such as :-  
+
+(i) 
+
+audit report,   
+
+(ii)  viability certificate,  
+
+(iii)  certificate for timely servicing of bonds,  
+
+(iv)  certificate on utilizations of the issue proceeds,  
+
+(v)  certificate for timely servicing of bonds,  
+
+(vi)  audit report of the escrow and project account,  
+
+(vii)  certificate on project development, or  
+
+(viii) any other report or certificate, 
+
+shall: 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all 
+
+processes involved in the issuance of such a certificate or report; 
+
+16 | P a g e  
+
+ 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+(c)   report  in  writing  to  the  lead  merchant  banker,  any  material  violation  of  securities 
+
+laws, noticed while undertaking such an assignment.   
+
+ 
+
+ 
+
+Action in case of contravation 
+
+27B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  this 
+
+Regulations,  may  take  appropriate  actions  under  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+***** 
+
+ 
+ 
+Amendments to the Securities and Exchange Board of India (Infrastructure Investment Trusts) 
+Regulations, 2014 
+ 
+6. 
+
+In the Securities and Exchange Board of India (Infrastructure Investment Trusts) Regulations, 
+2014,- 
+
+I. 
+
+in the regulation 2, in sub-regulation (1) after clause (o), the following clause  and provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+ 
+
+"(oa) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in the regulation 2, in  sub-regulation (1) after clause (oa) ,the following clause  and provision 
+
+thereof shall be inserted, namely,-  
+
+"(ob) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+ 
+
+17 | P a g e  
+
+a.  Chartered Accountant including a statutory auditor;  
+
+ 
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  an Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter VIII, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+ 
+
+ 
+
+"Chapter VIIIA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+32A A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report, 
+
+(ii) net-worth certificate,  
+
+(iii)projections of revenue and operating cash flows,  
+
+(iv) confirmation  that  transactions  carried  out  between  the  investment  manager  and  its 
+
+associates or the project manager and its associates, are on arm's length basis,  
+
+(v) completion certificate, or 
+
+(vi)  any other certificate or report,  
+
+shall: 
+
+(a)  exercise due care, skill and diligence and ensure proper care with respect to all processes 
+
+involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+(c)   report  in  writing  to  the  trustees  and  investment  manager,  any  material  violation  of 
+
+securities laws, noticed while undertaking such an assignment.   
+
+ 
+
+18 | P a g e  
+
+ 
+
+ 
+
+Action in case of contravation 
+
+32B. The Board, if after making or causing to be made an inquiry or investigation, is satisfied that 
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  this 
+
+Regulations,  may  take  appropriate  actions  under  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+***** 
+
+ 
+Amendments  to  Securities  and  Exchange  Board  of  India  (Real  Estate  Investment  Trusts) 
+Regulations, 2014  
+ 
+7. 
+
+In  the  Securities  and  Exchange  Board  of  India  (Real  Estate  Investment  Trusts)  Regulations, 
+2014, - 
+
+I. 
+
+in  the regulation 2, in sub-regulation (1) after clause (l), the following clause  and provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+ 
+
+"(la) “Engagement partner” means the partner or  any other person in  the firm  or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in  the regulation 2, in sub-regulation (1) after clause (la) ,the following clause  and provision 
+
+thereof shall be inserted, namely,-  
+
+"(lb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+ 
+
+19 | P a g e  
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+ 
+
+III. 
+
+after the Chapter VIII, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+ 
+
+"Chapter VIIIA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+32A A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report,  
+
+(ii) net-worth certificate,  
+
+(iii)projections of income of the REIT,  
+
+(iv) confirmation that transactions carried out between the manager and its associates, or 
+
+(v) any other certificate or report  
+
+shall: 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all 
+
+processes involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+(c)  report in writing to the trustee, any material violation of securities laws, noticed while 
+
+undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+32B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  this 
+
+Regulations,  may  take  appropriate  actions  under  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+ 
+
+20 | P a g e  
+
+ 
+
+***** 
+
+ 
+
+Amendments to Securities and Exchange Board of India (Research Analysts) Regulations, 2014 
+ 
+8. 
+ 
+
+In the Securities and Exchange Board of India (Research Analysts)Regulations, 2014, - 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (f),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+"(fa) “Engagement partner” means the partner or any other person in  the firm  or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in the regulation 2, in sub-regulation (1) after clause (fa) ,the following clause  and provision 
+
+thereof shall be inserted, namely,-  
+
+"(fb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.  Valuer; 
+
+d.  Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+ 
+
+III. 
+
+after the Chapter V, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+ 
+
+"Chapter VA 
+
+21 | P a g e  
+
+FIDUCIARY 
+
+ 
+
+Certificates/ Reports issued by Fiduciary  
+
+32A. A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  compliance report, 
+
+(ii) net-worth certificate, 
+
+(iii)or any other report or certificate, 
+
+shall: 
+
+(a)  exercise due care, skill and diligence and ensure proper care with respect to all processes 
+
+involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+(c)  report  in  writing  to  the  compliance  officer,  any  material  violation  of  securities  laws, 
+
+noticed while undertaking such an assignment. 
+
+ 
+
+Action in case of contravation 
+
+32B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+ 
+
+***** 
+
+ 
+
+Amendments  to  Securities  and  Exchange  Board  of  India  (Share  Based  Employee  Benefits) 
+Regulations, 2014 
+ 
+9. 
+
+In the Securities and Exchange Board of India (Share Based Employee Benefits) Regulations, 
+2014, -  
+
+ 
+
+ 
+
+ 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (h),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+22 | P a g e  
+
+"(ha) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+ 
+
+ 
+
+II. 
+
+in the regulation 2, in sub-regulation (1) after clause (k) ,the following clause  and provision 
+
+thereof shall be inserted, namely,-  
+
+"(ka) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency. 
+
+ 
+
+III. 
+
+after the Chapter III, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+"Chapter IIIA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+27A  A fiduciary who submits or issues any certificate or report such as:-  
+
+(i)  certificate from the auditors of the company that the scheme(s) has been implemented in 
+
+accordance with these regulations and in accordance with the resolution of the company in 
+
+the general meeting, or  
+
+(ii) any other report or certificate, 
+
+shall: 
+
+ 
+
+23 | P a g e  
+
+ 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all 
+
+processes involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it is true in all material respect; and  
+
+(c)  report  in  writing  to  the  Audit  Committee  of  the  company,  any  material  violation  of 
+
+securities laws, noticed while undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+27B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  this 
+
+Regulations, may take appropriate action under securities laws, against the  fiduciary, its engagement 
+
+partner or director, as the case may be." 
+
+ 
+
+***** 
+
+ 
+ 
+Amendments to the Securities and Exchange Board of India (Investment Advisers) Regulations, 
+2013  
+ 
+10. 
+ 
+
+In the Securities and Exchange Board of India (Investment Advisers) Regulations, 2013, - 
+
+I. 
+
+in  the regulation 2, in sub-regulation (1), after clause (g) and before clause (h), the following 
+
+clauses shall be inserted, namely,- 
+
+ 
+
+"(ga) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required; 
+
+ 
+
+(gb)  "fiduciary"  means  any  person,  who  is  a  professional  or  firm  or  limited  libility  partnership  of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+ 
+
+24 | P a g e  
+
+ 
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+II. 
+
+after  the  Chapter  V  and  before  Chapter  VI,  the  following  new  Chapter  and  regulations 
+
+thereunder shall be inserted, namely,- 
+
+ 
+
+"Chapter VA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+28A. A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report, 
+
+(ii) certificate of assets and liabilities, 
+
+(iii)certificate of net tangible assets, 
+
+(iv) net-worth certificate, 
+
+(v) compliance certificate, or 
+
+(vi) any other report or certificate,  
+
+shall: 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all 
+
+processes involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+(c)  report  in  writing  to  the  compliance  officer,  any  material  violation  of  securities  laws, 
+
+noticed while undertaking such an assignment. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+25 | P a g e  
+
+Action in case of contravation 
+
+28B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+ 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+***** 
+
+Amendments  to  the  Securities  and  Exchange  Board  of  India  (Issue  and  Listing  of  Non-
+Convertible Redeemable Preference Shares) Regulations, 2013 
+ 
+11. 
+
+In  the  Securities  and  Exchange  Board  of  India  (Issue  and  Listing  of  Non-Convertible 
+Redeemable Preference Shares) Regulations, 2013,- 
+
+I. 
+
+in  the regulation 2, in sub-regulation (1) after clause (g), the following clause  and provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+ 
+
+"(ga) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in  the regulation 2, in  sub-regulation (1) after clause (ga) ,the following clause  and provision 
+
+thereof shall be inserted, namely,-  
+
+"(gb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+ 
+
+26 | P a g e  
+
+ 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter VI, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+"Chapter VIA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+23A. A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report,  
+
+(ii) valuation report, 
+
+(iii)compliance report, or  
+
+(iv) any other report or certificate, 
+
+shall: 
+
+(a)  exercise due care, skill and diligence and ensure proper care with respect to all processes 
+
+involved in the issuance of a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it is true in all material respect; and 
+
+(c)  report  in  writing  to  the  lead  merchant  banker,  any  material  violation  of  securities  laws, 
+
+noticed while undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+23B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+ 
+
+ 
+
+***** 
+
+27 | P a g e  
+
+Amendments  to  the  Securities  and  Exchange  Board  of  India  (Alternative  Investment  Funds) 
+Regulations, 2012   
+ 
+12. 
+
+In  the  Securities  and  Exchange  Board  of  India  (Alternative  Investment  Funds)  Regulations, 
+2012, -  
+
+ 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (g),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+ 
+
+"(ga) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in  the regulation 2, in  sub-regulation (1) after clause (ga), the following clause and provision 
+
+thereof shall be inserted, namely,-  
+
+"(gb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter V, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+"Chapter VA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+ 
+
+28 | P a g e  
+
+28A. A fiduciary who submits or issues any certificate or report such as:- 
+
+ 
+
+(i)  audit report,  
+
+(ii) valuation certificate, or 
+
+(iii)any other report or certificate, 
+
+shall: 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all 
+
+processes involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it is true in all material respect; and 
+
+(c)  report in writing to the trustee, any material violation of securities laws, noticed while 
+
+undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+28B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+***** 
+
+ 
+Amendments  to  the  Securities  Contracts  (Regulation)  (Stock  Exchanges  and  Clearing 
+Corporations) Regulations, 2012, 
+ 
+13. 
+
+In  the  Securities  Contracts  (Regulation)  (Stock  Exchanges  and  Clearing  Corporations) 
+Regulations, 2012,- 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (g),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+ 
+
+"(ga) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+ 
+
+29 | P a g e  
+
+ 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in  the regulation 2, in  sub-regulation (1) after clause (ga) ,the following clause  and provision 
+
+thereof shall be inserted, namely,-  
+
+"(gb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter VII, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+"Chapter VIIA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+46A. A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report, 
+
+(ii) audited net-worth certificate, 
+
+(iii)appraisal certificate of business feasibility plan, 
+
+(iv) appraisal certificate of business viability plan, or 
+
+(v) any other report or certificate,  
+
+shall: 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all 
+
+processes involved in the issuance of a certificate or report; 
+
+30 | P a g e  
+
+ 
+
+ 
+
+(b) ensure that such a certificate or report issued by it is true in all material respect; and  
+
+(c)  report  in  writing  to  the  governing  board  of  the  recognised  stock  exchange  or 
+
+recognised  clearing  corporation,  as  the  case  may  be,  any  material  violation  of 
+
+securities laws, noticed while undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+46B. The Board, if after making or causing to be made an inquiry or investigation, is satisfied that the 
+
+fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  action  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+ 
+
+***** 
+
+Amendments to Securities and Exchange Board of India (Substantial Acquisition of Shares and 
+Takeovers) Regulations, 2011,   
+ 
+14. 
+
+In  the  Securities  and  Exchange  Board  of  India  (Substantial  Acquisition  of  Shares  and 
+Takeovers) Regulations, 2011, 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (g),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+ 
+
+"(ga) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+ 
+
+II. 
+
+in  the  regulation  2,  sub-regulation  (1)  after  clause  (h),  the  following  clause  and  provision 
+
+thereof shall be inserted, namely,-  
+
+31 | P a g e  
+
+"(ha) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+ 
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter V, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+ 
+
+ 
+
+"Chapter VA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+31A A fiduciary who submits or issues any certificate or report such as:-  
+
+(i)  audit report,   
+
+(ii) certificate  confirming  firm  financing  arrangements  made  by  the  acquirer  for  the  open 
+
+offer; 
+
+(iii)valuation certificate if the shares are infrequently traded,  
+
+(iv) certificate with respect to volume-weighted average market price and the ratio of exchange 
+
+of shares, certificate with respect to the purchase price,  
+
+(v) note on taxation,or  
+
+(vi) any other report or certificate,  
+
+shall: 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all 
+
+processes involved in the issuance of such a certificate or report; 
+
+ 
+
+32 | P a g e  
+
+(b) ensure that such a certificate or report issued by it is true in all material respect; and  
+
+(c)   report in writing to the Audit Committee of the listed company, any material violation 
+
+of securities laws, noticed while undertaking such an assignment.   
+
+ 
+
+ 
+
+Action in case of contravation 
+
+31B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  this 
+
+Regulations, may take appropriate action under securities laws, against the  fiduciary, its engagement 
+
+partner or director, as the case may be." 
+
+ 
+
+ 
+
+***** 
+
+Amendments  to  Securities  and  Exchange  Board  of  India  {KYC  (Know  Your  Client) 
+Registration Agency} Regulations, 2011 
+ 
+15. 
+
+In  the  Securities  and  Exchange  Board  of  India  {KYC  (Know  Your  Client)  Registration 
+Agency} Regulations, 2011,- 
+
+ 
+
+ 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (g),  the  following  clause    and 
+
+provision thereof shall be inserted, namely,- 
+
+"(ga) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in  the  regulation  2,    sub-regulation  (1)  after  clause  (ga)  ,the  following  clause    and 
+
+provision thereof shall be inserted, namely,-  
+
+"(gb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+ 
+
+33 | P a g e  
+
+a.  Chartered Accountant including a statutory auditor;  
+
+ 
+
+b.  Company Secretary; 
+
+c.  Valuer; 
+
+d.  Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter VII, the following new Chapter and regulations thereunder shall be 
+
+inserted, namely,- 
+
+"Chapter VI 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+26. A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report, 
+
+(ii) net-worth certificate, 
+
+(iii)audit report of controls, systems, procedures and safeguards, 
+
+(iv) audit report of systems and procedures, 
+
+(v) inspection or investigation report, or 
+
+shall: 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all  processes 
+
+involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+(c)  report in writing to the compliance officer, any material violation of securities laws, noticed 
+
+while undertaking such an assignment.   
+
+ 
+
+ 
+
+Action in case of contravation 
+
+27. The Board, if after making or causing to be made an inquiry or investigation, is satisfied that 
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or    has  violated  any  provision  of  these 
+
+34 | P a g e  
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+ 
+
+***** 
+
+Amendments  to  Securities  and  Exchange  Board  of  India  (Delisting  of  Equity  Shares) 
+Regulations, 2009 
+ 
+16. 
+ 
+ 
+
+In the Securities and Exchange Board of India (Delisting of Equity Shares) Regulations, 2009, 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (iv),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+"(iva) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+ 
+
+II. 
+
+in    sub-regulation  (1)  after  clause  (iva)  ,the  following  clause    and  provision  thereof  shall  be 
+
+inserted, namely,-  
+
+"(ivb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and  
+
+f.  Appraising agency or appraisal agency. 
+
+ 
+
+35 | P a g e  
+
+ 
+
+III. 
+
+in  sub-regulation (1) clause (iva), the existing clause shall be renumbered as clause  (ivc); 
+
+ 
+
+ 
+
+IV. 
+
+after the Chapter VII, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+ 
+
+"Chapter VIIA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+28A A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report, 
+
+(ii) certificate on computation of floor price, 
+
+(iii) valuation report, 
+
+(iv) note on taxation, or 
+
+(v) any other report or certificate, 
+
+shall : 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all 
+
+processes involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it is true in all material respect; and 
+
+(c)   report  in  writing  to  the  Audit  Committee  of  the  company,  any  material  violation  of 
+
+securities laws, noticed while undertaking any such assignment.   
+
+ 
+
+Action in case of contravation 
+
+28B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  this 
+
+Regulations, may take appropriate action under securities laws, against the  fiduciary, its engagement 
+
+partner or director, as the case may be." 
+
+ 
+
+ 
+
+***** 
+
+36 | P a g e  
+
+Amendments  to  the  Securities  and  Exchange  Board  of  India  (Issue  and  Listing  of  Debt 
+Securities) Regulations, 2008 
+ 
+17. 
+
+In  the  Securities  and  Exchange  Board  of  India  (Issue  and  Listing  of  Debt  Securities) 
+Regulations, 2008,- 
+
+ 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (f),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+ 
+
+"(fa) “Engagement partner” means the partner or any other person in  the firm  or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in  the  regulation  2,    sub-regulation  (1)  after  clause  (fa)  ,the  following  clause    and  provision 
+
+thereof shall be inserted, namely,-  
+
+"(fb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+ 
+
+after the Chapter VI, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+ 
+
+"Chapter VIA 
+
+FIDUCIARY 
+
+37 | P a g e  
+
+ 
+
+Certificates/ Reports issued by Fiduciary  
+
+29A. A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report, 
+
+(ii) limited review report, 
+
+(iii) certificate towards utilisation of funds, 
+
+(iv)  certificate towards processes for Green Debt Securities, or 
+
+(v) any other report or certificate, 
+
+shall: 
+
+(a)  exercise due care, skill and diligence and ensure proper care with respect to all processes 
+
+involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it is true in all material respect; and 
+
+(c)  report  in  writing  to  the  lead  merchant  banker  any  material  violation  of  securities  laws, 
+
+noticed while undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+29B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+ 
+
+***** 
+
+ 
+Amendments to the Securities Exchange Board of India (Public Offer and Listing of Securitised 
+Debt Instruments) Regulations, 2008   
+ 
+18. 
+
+In  the  Securities  Exchange  Board  of  India  (Public  Offer  and  Listing  of  Securitised  Debt 
+Instruments) Regulations, 2008, 
+
+ 
+
+ 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (g),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+38 | P a g e  
+
+ 
+
+ 
+
+"(ga) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in   the regulation  2, sub-regulation  (1)  after  clause (ga) ,the following clause  and provision 
+
+thereof shall be inserted, namely,-  
+
+"(gb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter IX, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+ 
+
+"Chapter IXA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+47A  A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report,  
+
+(ii) certificate regarding the disclosures of underlying asset pool assigned to the securitization 
+
+trust, 
+
+(iii)inspection report,  
+
+ 
+
+39 | P a g e  
+
+(iv) report on the cash flow projections arising from the eligible assets which are the basis of 
+
+the securitisation together with the basis of the projection, or  
+
+ 
+
+(v) any other report or certificate,  
+
+shall: 
+
+(a)  exercise due care, skill and diligence and ensure proper care with respect to all processes 
+
+involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+(c)   report  in  writing  to  the  trustee,  any  material  violation  of  securities  laws,  noticed  while 
+
+undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+47B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  this 
+
+Regulations,  may  take  appropriate  actions  under  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+ 
+
+ 
+
+***** 
+
+Amendments  to  the  Securities  and  Exchange  Board  of  India  (Regulatory  Fee  on  Stock 
+Exchanges) Regulations, 2006 
+ 
+19. 
+
+In  the  Securities  and  Exchange  Board  of  India  (Regulatory  Fee  on  Stock  Exchanges) 
+Regulations, 2006,- 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (c),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+ 
+
+"(ca) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+40 | P a g e  
+
+ 
+
+ 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in  the  regulation  2,  sub-regulation  (1)  after  clause  (ca)  ,the  following  clause    and  provision 
+
+thereof shall be inserted, namely,-  
+
+"(cb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter  II, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+"Chapter IIA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+5A. A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  certificate  of  statement  of  computation  of  fees  mentioned  in  sub-regulation  (1)  shall  to  be 
+
+correct, or  
+
+(ii) any other report or certificate, 
+
+shall: 
+
+(a)  exercise due care, skill and diligence and ensure proper care with respect to all processes 
+
+involved in the issuance of a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it is true in all material respect; and  
+
+ 
+
+41 | P a g e  
+
+(c)  report  in  writing  to  the  governing  board  of  the  recognised  stock  exchange,  any  material 
+
+violation of securities laws, noticed while undertaking such an assignment.   
+
+ 
+
+ 
+
+Action in case of contravation 
+
+5B. The Board, if after making or causing to be made an inquiry or investigation, is satisfied that  the 
+
+fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+***** 
+
+ 
+Amendments  to  the  Securities  and  Exchange  Board  of  India  (Self-Regulatory  Organizations) 
+Regulations, 2004   
+ 
+20. 
+
+In  the  Securities  and  Exchange  Board  of  India  (Self-Regulatory  Organizations)  Regulations, 
+2004,- 
+
+ 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (f),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+"(fa) “Engagement partner” means the partner or any other person in  the firm  or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (fa)  ,the  following  clause    and  provision 
+
+thereof shall be inserted, namely,-  
+
+"(fb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+ 
+
+42 | P a g e  
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+ 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter V, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+"Chapter VI 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+25. A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report, 
+
+(ii) inspection report, or 
+
+(iii)any other report or certificate, 
+
+shall 
+
+(a)  exercise due care, skill and diligence and ensure proper care with respect to all processes 
+
+involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+(c)  report in writing to the Self Regulatory Organization, any material violation of securities 
+
+laws, noticed while undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+26. The Board, if after making or causing to be made an inquiry or investigation, is satisfied that  the 
+
+fiduciary has submitted false certificate or has violated any provision of this Regulations or both, may 
+
+take  appropriate  actions  under  securities  laws,  against  the    fiduciary,  its  engagement  partner  or 
+
+director, as the case may be, or both." 
+
+ 
+
+ 
+
+***** 
+
+43 | P a g e  
+
+ 
+
+ 
+ 
+
+Amendments  to  the  Securities  and  Exchange  Board  of  India  (Issue  of  Sweat  Equity) 
+Regulations, 2002  
+ 
+21. 
+ 
+
+In the Securities and Exchange Board of India (Issue of Sweat Equity) Regulations, 2002,-  
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (g),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+"(ga) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in  the  regulation  2,  sub-regulation  (1)  after  clause  (h)  ,the  following  clause    and  provision 
+
+thereof shall be inserted, namely,-  
+
+"(ha) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+ 
+
+after the Chapter IV, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+"Chapter V 
+
+FIDUCIARY 
+
+44 | P a g e  
+
+ 
+
+Certificates/ Reports issued by Fiduciary  
+
+21  A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  certificate  that  the  valuation  of  the  intellectual  property  or  other  value  addition  is  in 
+
+accordance with the relevant accounting standards,  
+
+(ii) certificate  that  the  issue  of  sweat  equity  shares  has  been  made  in  accordance  with  the 
+
+Regulations and in accordance with the resolution passed by the company, or 
+
+(iii)any other report or certificate,  
+
+shall: 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all 
+
+processes involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report of valuation issued by it, is true in all material 
+
+respect; and 
+
+(c)  report in writing to the Audit Committee of the company, commission of any material 
+
+violation of securities laws, noticed while undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+22. The Board, if after making or causing to be made an inquiry or investigation, is satisfied that  the 
+
+fiduciary has submitted false certificate or has violated any provision of this Regulations or both, may 
+
+take  appropriate  actions  under  securities  laws,  against  the    fiduciary,  its  engagement  partner  or 
+
+director, as the case may be, or both." 
+
+ 
+
+***** 
+
+ 
+
+ 
+
+Amendments  to  the  Securities  and  Exchange  Board  of  India  (Collective  Investment  Scheme) 
+Regulations, 1999  
+ 
+22. 
+
+In the Securities and Exchange  Board of  India  (Collective  Investment  Scheme) Regulations, 
+1999,-  
+
+ 
+
+ 
+
+45 | P a g e  
+
+ 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (n),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+"(na) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in   the regulation  2, sub-regulation  (1)  after  clause (na) ,the following clause  and provision 
+
+thereof shall be inserted, namely,-  
+
+"(nb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter IXA, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+ 
+
+"Chapter IXB 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+74B. A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report, 
+
+(ii) certificate to financial disclosure, 
+
+ 
+
+46 | P a g e  
+
+(iii)certificate to the effect that all the assets of the collective investment scheme are realised, 
+
+ 
+
+(iv) inspection or investigation report, 
+
+(v) appraisal report or certificate, or  
+
+(vi) any other report or certificate, 
+
+shall: 
+
+(a)  exercise due care, skill and diligence and ensure proper care with respect to all processes 
+
+involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+(c)  report in writing to the  trustees, any material violation of securities laws, noticed while 
+
+undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+74C. The Board, if after making or causing to  be made an inquiry or investigation, is  satisfied that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+***** 
+
+ 
+ 
+Amendments  to  the  Securities  and  Exchange  Board  of  India  (Credit  Rating  Agencies) 
+Regulations, 1999  
+ 
+23. 
+ 
+
+In the Securities and Exchange Board of India (Credit Rating Agencies) Regulations, 1999,-  
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  omitted  clause  (j),  the  following  clause    and 
+
+provision thereof shall be inserted, namely,- 
+
+ 
+
+"(ja) “Engagement partner” means the partner or any other person in  the firm  or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+47 | P a g e  
+
+ 
+
+ 
+
+II. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (ja)  ,the  following  clause    and  provision 
+
+thereof shall be inserted, namely,-  
+
+"(jb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter VI, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+ 
+
+"Chapter VII 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+43. A fiduciary who submits or issues any certificate or report such as  
+
+(i)  auditor report, 
+
+(ii) net-worth report,  
+
+(iii) inspection report, or 
+
+(iv) any other report or certificate, 
+
+shall: 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all  processes 
+
+involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+ 
+
+48 | P a g e  
+
+(c)  report in writing to the compliance officer any material violation of securities laws, noticed 
+
+ 
+
+while undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+44. The Board, if after making or causing to be made an inquiry or investigation, is satisfied that  the 
+
+fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+ 
+
+***** 
+
+ 
+Amendments  to  the  Securities  and  Exchange  Board  of  India  (Custodian  of  Securities) 
+Regulations, 1996  
+ 
+24. 
+ 
+
+In the Securities and Exchange Board of India (Custodian of Securities) Regulations, 1996,-  
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (f),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+"(fa) “Engagement partner” means the partner or any other person in  the firm  or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in  the  regulation  2,  sub-regulation  (1)  after  clause  (g),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,-  
+
+"(ga) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+ 
+
+49 | P a g e  
+
+ 
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter V, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+"Chapter VI 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary 
+
+27. A fiduciary who submits or issues any certificate or report such as  
+
+(i)  inspection or investigation report, or 
+
+(ii) any other report or certificate,  
+
+shall: 
+
+(a)  exercise due care, skill and diligence and ensure proper care with respect to all processes 
+
+involved in the issuance of such certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+(c)  report  in  writing  to  the  compliance  officer,  any  material  violation  of  securities  laws, 
+
+noticed while undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+28. The Board, if after making or causing to be made an inquiry or investigation, is satisfied that  the 
+
+fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+***** 
+
+ 
+
+ 
+
+50 | P a g e  
+
+Amendments  to  the  Securities  and  Exchange  Board  of  India  (Depositories  and  Participants) 
+Regulations, 1996  
+ 
+25. 
+
+In  the  Securities  and  Exchange  Board  of  India  (Depositories  and  Participants)  Regulations, 
+1996  
+
+ 
+
+I. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (b),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+ 
+
+"(ba) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  omitted  clause  (c)  ,the  following  clause    and 
+
+provision thereof shall be inserted, namely,-  
+
+"(ca) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+ 
+
+III. 
+
+after the Chapter VI, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+"Chapter VIA 
+
+FIDUCIARY 
+
+51 | P a g e  
+
+Certificates/ Reports issued by Fiduciary  
+
+63D. A fiduciary who submits or issues any certificate or report such as:- 
+
+ 
+
+(i)  audit report, 
+
+(ii) networth certificate, 
+
+(iii)investigation or inspection report, 
+
+(iv) or any other certificate or report,  
+
+shall: 
+
+(a)  exercise due care, skill and diligence and ensure proper care with respect to all processes 
+
+involved in the issuance of a certificate or report; 
+
+(b) ensure that such a certificate or report by it is true in all material respect; and 
+
+(c)  report in writing to the Audit Committee of the issuer company or to governing board of the 
+
+depository,  as  the  case  may  be,  any  material  violation  of  securities  laws,  noticed  while 
+
+undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+63E.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+***** 
+
+ 
+ 
+Amendments to the Securities and Exchange Board of India (Mutual Funds) Regulations, 1996  
+ 
+26. 
+ 
+
+In the Securities and Exchange Board of India (Mutual Funds) Regulations, 1996, -  
+
+I. 
+
+in  the regulation 2, in sub-regulation (1) after clause (j), the following clause  and provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+ 
+
+52 | P a g e  
+
+ 
+
+"(ja) “Engagement partner” means the partner or any other person in  the firm  or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in   the regulation 2, in  sub-regulation  (1) after omitted clause (k), the following  clause   and 
+
+provision thereof shall be inserted, namely,-  
+
+"(ka) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.  Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter IX, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+"Chapter IXA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+76A A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report,  
+
+(ii) internal audit reports,  
+
+(iii) compliance certificate or reports, 
+
+(iv) inspection or investigation report, 
+
+(v)  net worth certificate, or  
+
+(vi) any other report or certificate,   
+
+ 
+
+53 | P a g e  
+
+ 
+
+shall: 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all  processes 
+
+involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it is true in all material respect; and 
+
+(c)   report  in  writing  to  the  trustees,  commission  of  any  material  violation  of  securities  laws, 
+
+noticed while undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+76B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+ 
+
+***** 
+
+ 
+Amendments to the Securities and Exchange Board of India (Debenture Trustees) Regulations, 
+1993  
+ 
+27. 
+ 
+
+In the Securities and Exchange Board of India (Debenture Trustees) Regulations, 1993,-  
+
+I. 
+
+in  the regulation 2, in sub-regulation (1) after clause (bb), the following clause  and provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+"(bc) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+ 
+
+II. 
+
+in  the regulation 2, in sub-regulation (1) after clause (bc) ,the following clause  and provision 
+
+thereof shall be inserted, namely,-  
+
+54 | P a g e  
+
+"(bd) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+ 
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter V, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+ 
+
+ 
+
+"Chapter VI 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+33. A fiduciary who submits or issues any certificate or report such as: 
+
+(i)  net worth certificate, 
+
+(ii) certificate giving the value of book debts/ receivables, 
+
+(iii) certificate in respect of utilisation of funds, 
+
+(iv)  investigation or inspection report,  
+
+(v) auditor's certificate, or  
+
+(vi) any other report or certificate,  
+
+shall: 
+
+(a)  exercise due care, skill and diligence and ensure proper care with respect to all processes 
+
+involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+ 
+
+55 | P a g e  
+
+(c)  report  in  writing  to  the  compliance  officer,  any  material  violation  of  securities  laws, 
+
+noticed while undertaking such an assignment.   
+
+ 
+
+ 
+
+Action in case of contravation 
+
+34. The Board, if after making or causing to be made an inquiry or investigation, is satisfied that  the 
+
+fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+ 
+
+ 
+
+***** 
+
+ 
+Amendments to the Securities and Exchange Board of India (Portfolio Managers) Regulations, 
+1993  
+ 
+28. 
+ 
+
+In the Securities and Exchange Board of India (Portfolio Managers) Regulations, 1993,-   
+
+I. 
+
+in the regulation 2, in sub-regulation (1) after clause (af), the following clause  and provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+"(ag) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in the regulation 2, in  sub-regulation (1) after clause (ag) ,the following clause  and provision 
+
+thereof shall be inserted, namely,-  
+
+"(ah) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+ 
+
+56 | P a g e  
+
+ 
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter V, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+"Chapter VA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+38A. A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report, 
+
+(ii) certificate on the Disclosure Documents, 
+
+(iii)investigation or inspection report, or 
+
+(iv) any other report or certificate, 
+
+shall: 
+
+(a)  exercise due care, skill and diligence and ensure proper care with respect to all processes 
+
+involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+(c)  report  in  writing  to  the  compliance  officer,  any  material  violation  of  securities  laws, 
+
+noticed while undertaking such an assignment.   
+
+Action in case of contravation 
+
+38B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+***** 
+
+ 
+
+57 | P a g e  
+
+Amendments to the Securities and Exchange Board of India (Registrars to an Issue and Share 
+Transfer Agents) Regulations, 1993 
+ 
+29. 
+
+In  the  Securities  and  Exchange  Board  of  India  (Registrars  to  an  Issue  and  Share  Transfer 
+Agents) Regulations, 1993,-  
+
+ 
+
+I. 
+
+in  the regulation 2, in sub-regulation (1) after clause (bc), the following clause  and provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+ 
+
+"(bd) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+ 
+
+II. 
+
+in  the regulation 2, in sub-regulation (1) after clause (bd) ,the following clause  and provision 
+
+thereof shall be inserted, namely,-  
+
+"(be) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.  Valuer; 
+
+d.  Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+ 
+
+III. 
+
+after the Chapter V, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+"Chapter VI 
+
+FIDUCIARY 
+
+58 | P a g e  
+
+Certificates/ Reports issued by Fiduciary  
+
+30. A fiduciary who submits or issues any certificate or report such as:- 
+
+ 
+
+(i)  audit report, 
+
+(ii) net worth certificate,  
+
+(iii) system audit report, 
+
+(iv)  investigation or inspection report, 
+
+(v)  or any other report or certificate, 
+
+shall: 
+
+(a)  exercise due care, skill and diligence and ensure proper care with respect to all processes 
+
+involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report of issued by it, is true in all material respect; and 
+
+(c)  report  in  writing  to  the  compliance  officer,  any  material  violation  of  securities  laws, 
+
+noticed while undertaking such an assignment.  
+
+ 
+
+Action in case of contravation 
+
+31. The Board, if after making or causing to be made an inquiry or investigation, is satisfied that  the 
+
+fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+ 
+
+***** 
+
+ 
+
+Amendments to the Securities and Exchange Board of India (Underwriters) Regulations, 1993  
+ 
+30. 
+ 
+
+In the Securities and Exchange Board of India (Underwriters) Regulations, 1993,-  
+
+I. 
+
+in    the  regulation  2,  after  clause  (ad),  the  following  clause    and  provision  thereof  shall  be 
+
+inserted, namely,- 
+
+ 
+
+"(ae) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+59 | P a g e  
+
+ 
+
+ 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in    the  regulation  2,  after  clause  (ae)  ,the  following  clause    and  provision  thereof  shall  be 
+
+inserted, namely,-  
+
+"(af) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+after the Chapter V, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+"Chapter VI 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+33. A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report, 
+
+(ii) net worth certificate, 
+
+(iii) investigation or inspection report, or 
+
+(iv)  any other report or certificate, 
+
+shall: 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all  processes 
+
+involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+60 | P a g e  
+
+ 
+
+(c)  report in writing to the compliance officer, any material violation of securities laws, noticed 
+
+ 
+
+while undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+34. The Board, if after making or causing to be made an inquiry or investigation, is satisfied that  the 
+
+fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+***** 
+
+ 
+Amendments to the Securities and Exchange Board of India (Merchant Bankers) Regulations, 
+1992  
+ 
+31. 
+ 
+ 
+
+In the Securities and Exchange Board of India (Merchant Bankers) Regulations, 1992,-  
+
+I. 
+
+in    the  regulation  2,  after  sub-regulations  (ad),  the  following  sub-regulations  and  provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+"(ae) “Engagement partner” means the partner or any other person in the firm or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in  regulation 2 after sub-regulations (ae) ,the following clause  and provision thereof shall be 
+
+inserted, namely,-  
+
+"(af) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+ 
+
+61 | P a g e  
+
+ 
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+III. 
+
+after the Chapter V, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+"Chapter VI 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+44. A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report, 
+
+(ii) investigation report, 
+
+(iii) net-worth certificate, or  
+
+(iv) any other report or certificate,  
+
+shall: 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all  processes 
+
+involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect; and 
+
+(c)  report in  writing to  the compliance officer, any  material  violation of securities laws, noticed 
+
+while undertaking such an assignment.   
+
+Action in case of contravation 
+
+45. The Board, if after making or causing to be made an inquiry or investigation, is satisfied that  the 
+
+fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  the  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+***** 
+
+ 
+
+ 
+
+62 | P a g e  
+
+Amendments to the Securities and Exchange Board of India (Stock Brokers and Sub-brokers) 
+Regulations, 1992  
+ 
+32. 
+
+In the Securities and Exchange Board of India (Stock Brokers and Sub-brokers) Regulations, 
+1992,- 
+
+ 
+
+I. 
+
+in  the regulation 2, in sub-regulation (1) after clause (ae), the following clause  and provision 
+
+thereof shall be inserted, namely,- 
+
+ 
+
+ 
+
+"(af) “Engagement partner” means the partner or any other person in  the firm  or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in  the regulation 2, in sub-regulation (1) after clause (af) ,the following clause  and provision 
+
+thereof shall be inserted, namely,-  
+
+"(ag) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+a.  Chartered Accountant including a statutory auditor;  
+
+b.  Company Secretary; 
+
+c.   Valuer; 
+
+d.   Monitoring Agency; 
+
+e.  Cost Accountant; and 
+
+f.  Appraising agency or appraisal agency." 
+
+ 
+
+III. 
+
+ 
+
+after the Chapter VI, the following new Chapter and regulations thereunder shall be inserted, 
+
+namely,- 
+
+ 
+
+"Chapter VIA 
+
+FIDUCIARY 
+
+63 | P a g e  
+
+ 
+
+Certificates/ Reports issued by Fiduciary  
+
+28A A fiduciary who submits or issues any certificate or report such as:- 
+
+(i)  audit report,  
+
+(ii) compliance certificate, 
+
+(iii)certificate on net worth and deposit requirements, 
+
+(iv)  certificate on financial liability, 
+
+(v)  system audit report, 
+
+(vi) investigation report,  
+
+(vii) certificate  as  to  the  authenticity  of  turnover  on  the  basis  of  which  fees  have  been 
+
+computed, or  
+
+(viii) any other report or certificate,  
+
+shall : 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all 
+
+processes involved in the issuance of such a certificate or report; 
+
+(b) ensure that such a certificate or report issued by it, is true in all material respect;  
+
+(c)   report in writing to the compliance officer of the stock broker, any material violation 
+
+of securities laws, noticed while undertaking such an assignment.   
+
+Action in case of contravation 
+
+28B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  these 
+
+Regulations,  may  take  appropriate  actions  under  securities  laws,  against  the    fiduciary,  its 
+
+engagement partner or director, as the case may be." 
+
+ 
+
+***** 
+
+ 
+
+ 
+
+Amendments  to  the  Securities  and  Exchange  Board  of  India  (Buy  Back  of  Securities) 
+
+Regulations, 1998 
+
+In the Securities and Exchange Board of India (Buy Back of Securities) Regulations, 1998, -  
+
+64 | P a g e  
+
+33. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+I. 
+
+in    regulation  2,  in  sub-regulation  (1)  after  clause  (f),  the  following  clause    and  provision 
+
+thereof shall be inserted, namely,- 
+
+"(fa) “Engagement partner” means the partner or any other person in  the firm  or limited liability 
+
+partnership,  who  is  responsible  for  the  engagement  or  assignment  and  its  performance,  and  for  the 
+
+report  or  the  certificate,  as  the  case  may  be,  that  is  issued  on  behalf  of  the  firm  or  limited  liability 
+
+partnership, and who, has the appropriate authority from a professional body, if required;" 
+
+ 
+
+II. 
+
+in    the  regulation  2,  sub-regulation  (1)  after  clause  (fa)  ,the  following  clause    and  provision 
+
+thereof shall be inserted, namely,-  
+
+"(fb) "fiduciary" means any person, who is a professional or firm or limited libility partnership of 
+
+such professional that undertakes an assignment under these Regulations and includes: 
+
+g.  Chartered Accountant including a statutory auditor;  
+
+h.  Company Secretary; 
+
+i. 
+
+ Valuer; 
+
+j. 
+
+ Monitoring Agency; 
+
+k.  Cost Accountant; and 
+
+l.  Appraising agency or appraisal agency." 
+
+ 
+
+III.  After  Chapter  VI,  the  following  new  Chapter  and  regulations  thereunder  shall  be  inserted, 
+
+namely,- 
+
+"Chapter VIA 
+
+FIDUCIARY 
+
+Certificates/ Reports issued by Fiduciary  
+
+25A A fiduciary who submits or issues any certificate or report such as:- 
+
+ 
+
+65 | P a g e  
+
+ 
+
+(i)  confirmation  or  certificate  as  to  that  the  security  certificates  so  bought  back  has  been 
+
+extinguished and physically destroyed within fifteen days of the date of acceptance of the 
+
+shares or other specified securities, 
+
+(ii) certificate confirming that the amount of buyback is in compliance with the regulations, 
+
+(iii)certificate confirming the solvency of the company for a period on one year post buyback, 
+
+(iv) report addressed to the Board of Directors by the company’s auditors,  
+
+(v) not on taxation, or 
+
+(vi) any other report or certificate, 
+
+shall : 
+
+(a)  exercise  due  care,  skill  and  diligence  and  ensure  proper  care  with  respect  to  all 
+
+processes involved in the issuance of such a certificate or report ; 
+
+(b) ensure that such a certificate or report issued by it is true in all material respect; and 
+
+(c)  report  in  writing  to  the  Audit  Committee  of  the  company,  any  material  violation  of 
+
+securities laws, noticed while undertaking such an assignment.   
+
+ 
+
+Action in case of contravation 
+
+25B.  The  Board,  if  after  making  or  causing  to  be  made  an  inquiry  or  investigation,  is  satisfied  that  
+
+the  fiduciary  has  submitted  a  false  certificate  or  report,  or  has  violated  any  provision  of  this 
+
+Regulations, may take appropriate action under securities laws, against the  fiduciary, its engagement 
+
+partner or director, as the case may be." 
+
+ 
+ 
+ 
+ 
+CHAIRMAN 
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+ 
+
+66 | P a g e  
+
+

@@ -1,0 +1,257 @@
+ 
+
+CIRCULAR 
+
+ 
+
+ 
+
+ 
+
+                    September 09, 2020 
+
+SEBI/HO/ISD/ISD/CIR/P/2020/168 
+ 
+To  
+
+All Listed Companies 
+
+All Depositories 
+
+All Nationwide Stock Exchanges 
+ 
+Dear Sir/Madam, 
+ 
+Sub:  Automation  of  Continual  Disclosures  under  Regulation  7(2)  of  SEBI 
+
+(Prohibition of Insider Trading) Regulations, 2015 - System driven disclosures. 
+
+ 
+1.  Vide  Gazette  Notification  No.  SEBI/LAD-NRO/GN/2020/23  dated  July  17,  2020, 
+
+Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 
+
+2015 (PIT Regulations) have been further amended. 
+
+ 
+2.  SEBI,  vide  circular  no.  CIR/CFD/DCR/17/2015  dated  December  01,  2015, 
+
+CFD/DCR/CIR/2016/139  dated  December  21,  2016  and  SEBI/HO/CFD/DCR1/CIR/ 
+
+P/2018/85 dated May 28, 2018, implemented the system driven disclosures in phases, 
+
+under SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 and 
+
+PIT Regulations. 
+
+ 
+3.  Pursuant to the aforesaid amendment of PIT Regulations and discussions held with 
+
+the Stock Exchanges and  Depositories,  it has  now been  decided to  implement  the 
+
+system driven disclosures for member(s) of promoter group and designated person(s) 
+
+in  addition  to  the  promoter(s)  and  director(s)  of  company  (hereinafter  collectively 
+
+referred to as entities) under Regulation 7(2) of PIT Regulations.  
+
+ 
+4.  To begin with, the system driven disclosures shall pertain to trading in equity shares 
+
+and  equity  derivative  instruments  i.e.  Futures  and  Options  of  the  listed  company 
+
+(wherever applicable) by the entities.  
+
+ 
+
+ 
+
+Page 1 of 4 
+
+ 
+
+ 
+
+5.  The  procedure  for  implementation  of  the  system  driven  disclosures  is  provided  at 
+
+Annexure-A. 
+
+ 
+6.  The Depositories and Stock Exchanges shall make necessary arrangements such that 
+
+the  disclosures  pertaining  to  PIT  Regulations  are  disseminated  on  the  websites  of 
+
+respective stock exchanges with effect from October 01, 2020. 
+
+ 
+7.  The system would continue to run parallel with the existing system i.e. entities shall 
+
+continue  to  independently  comply  with  the  disclosure  obligations  under  PIT 
+
+Regulations as applicable to them till March 31, 2021. 
+
+ 
+8.  As currently done, the disclosures generated through the system shall be displayed 
+
+separately from the regular disclosures filed with the exchanges. 
+
+ 
+9.  This circular supersedes the earlier circulars dated December 01, 2015, December 
+
+21,  2016  and  May  28,  2018  with  respect  to  implementation  of  System  driven 
+
+disclosures under PIT Regulations. 
+
+ 
+10. Stock Exchanges are advised to bring the provisions of this circular to the notice of all 
+
+listed companies and also disseminate the same on their websites. 
+
+ 
+11. This circular is issued in exercise of the powers conferred under Section 11(1) of the 
+
+Securities and Exchange Board of India Act, 1992 read with regulations 4(3) and 11 
+
+of  the  PIT  Regulations  and  to  protect  the  interests of  investors  in securities and  to 
+
+promote the development of, and to regulate the securities market. 
+
+ 
+12. A  copy  of  this  circular  is  available  on  SEBI  website  at  www.sebi.gov.in  under  the 
+
+categories “LegalCirculars”. 
+
+Yours faithfully, 
+ 
+N Sunil 
+Deputy General Manager 
++91-22-26449317 
+nsunil@sebi.gov.in 
+
+ 
+
+Encl: as above 
+
+ 
+
+Page 2 of 4 
+
+ 
+ANNEXURE – A 
+ 
+
+Steps/process required to be taken for implementation: 
+
+ 
+1.  The various formats and timelines for sharing of data shall be standardized, 
+
+as agreed upon by the depositories and exchanges.  
+
+ 
+2.  Listed  company  shall  provide  the  information  including  PAN  number  of 
+Promoter(s) including member(s) of the promoter group, designated person(s) 
+and  director(s)  (hereinafter  collectively  referred  to  as  entities)  as  per  PIT 
+Regulations to the designated depository (selected in terms of SEBI circular 
+ref.  no.  SEBI/HO/CFD/DCR1/CIR/P/2018/85  dated  May  28,  2018)  in  the 
+format and manner prescribed by the Depositories. For PAN exempt entities, 
+the  Investor’s  Demat  account  number(s)  shall  be  specified  by  the  listed 
+company. The information shall be provided within 10 days from the date of 
+this circular. 
+
+3.  The designated depository shall share the information received from the listed 
+
+company with other depository. 
+
+4.  In  case  of  any  subsequent  update  in  the  details  of  the  entities,  the  listed 
+company shall update the information with the designated depository on the 
+same  day.  The  designated  depository  shall  share  the  incremental  changes 
+with the other depository on the day of receipt from the listed company. 
+
+5.  Based on the PAN of First holder/Demat account number(s), the depositories 
+
+shall tag such Demat accounts in their depository systems at ISIN level.  
+
+6.  The  designated  depository  shall  also  share  with  the  stock  exchanges, 
+company-wise  details  of  entities.  In  case  of  PAN  exempt  entity,  respective 
+depository  shall  share  the  Demat  account  number(s)  details  with  the  stock 
+exchanges.  Any  update  (additions  or  deletions) in  this  information  by  listed 
+company  shall  be  updated  by  the  designated  depositories  with  the  stock 
+exchanges  on  a  daily  basis.  The  information  shall  be  shared  via  system 
+interface established between the depositories and stock exchanges. 
+
+Page 3 of 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.  The  depositories  shall  provide  the  following  data  pertaining  to  the  tagged 
+
+Demat account(s) separately to the stock exchanges on daily basis: 
+
+ 
+
+  Details of transactions for pledge/revocation/invocation of shares and 
+
+other encumbrances such as NDU etc. of the entities. 
+
+  Details of off market transactions of the entities. 
+  Details of transmission of shares of the entities.  
+  Details of corporate actions such as ESOPs, Bonus, Rights, etc. of 
+
+the entities 
+
+  Additionally,  details  of  market  transfers  in  case  of  PAN  Exempt 
+
+entities. 
+
+8.  Based on the PAN information provided by the depositories, on daily basis, 
+stock  exchanges  will  identify  the  transactions  carried  out  on  their  trading 
+system  by  the  entities  in  the  equities  and  equity  derivative  instruments 
+(wherever applicable) of the listed company/permitted to trade on the  stock 
+exchange(s). 
+
+9.  Such  identified trades shall be shared by the stock exchange  with  all other 
+
+stock exchanges where the company is listed on daily basis. 
+
+10. Each  stock  exchange  shall  consolidate  the  information  of  the  transactions 
+identified  by  them  as well  as  received  from other stock exchanges  and  the 
+depositories. On consolidation of the transactions, if the disclosure is triggered 
+under  Regulation  7(2)  of  PIT  Regulations,  the  stock  exchanges  shall 
+disseminate the same on their websites. The transaction(s) carried out on T 
+day shall be disseminated on T+2 day basis. 
+
+11. In  case  of  any  discrepancy,  the  issue  shall be  resolved  by  listed  company, 
+
+stock exchanges and depositories in coordination with one another. 
+
+ 
+
+ 
+
+***************** 
+
+Page 4 of 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

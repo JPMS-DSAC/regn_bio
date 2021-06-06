@@ -1,0 +1,33 @@
+Organisational Matters of the Securities and Exchange Board of India
+Board
+
+The SEBI Board was considerably strengthened in 1996-97. Shri S P Talwar, Deputy Governor, Reserve Bank of India was appointed in place of Shri W S Saraf, former Executive Director, Reserve Bank of India, Dr. V K Agarwal, Law Secretary, Ministry of Law, Justice and Company Affairs was appointed in place of Shri C Achutan, Legal Adviser, Ministry of Law, Justice and Company Affairs, Dr. Shankar Acharya, Chief Economic Adviser, Department of Economic Affairs, Ministry of Finance was appointed in place of Dr. U Sharat Chandran, Joint Secretary, Department of Economic Affairs, Ministry of Finance; and Dr. J R Verma, Professor, Indian Institute of Management, Ahmedabad was appointed as part time member.
+
+Human Resources
+
+As on March 31, 1997, SEBI had 159 officers and 138 staff members in various other categories. SEBI took necessary steps to augment staff requirements at various levels including recruitment of 34 candidates from various management institutes as a part of campus recruitment. During the year, 41 candidates belonging to SC/ST/OBC categories were appointed with a view to attaining the required percentage of staff in these categories as per the guidelines of the central government.
+
+Training
+
+An induction training programme was conducted for newly recruited management trainees in association with the University of Mumbai. Officers of SEBI were also deputed for training in various aspects of the securities markets and their regulation, in India and overseas. Several of these programmes were arranged under the auspices of the Financial Institutions Reform and Expansion (FIRE) Project sponsored by the United States Agency for International Development and the Government of India.
+
+Premises
+
+During 1996-97, SEBI incurred capital expenditure amounting to Rs. 14 crore towards purchase of flats and furnishing of office premises. The formalities relating to the acquisition of approximately 22,000 square feet of office space at Mittal Court, Nariman Point, Mumbai, where SEBI's head office is presently located were finalised during the year. New premises for SEBI's regional offices at New Delhi and Chennai which were acquired in 1995-96 were made operational in 1996-97. SEBI continued its efforts in acquiring residential accommodation for its officers. SEBI has been able to allot residential accommodation to all the eligible officers posted at its head office in Mumbai.
+SEBI was also in the process of acquiring additional office space in Mumbai, which has become necessary due to the substantial enlargement in the activities of the Board during the recent years and the consequent increase in the staff strength.
+
+Automation
+
+ 
+client-server computing environment
+distributed database design
+interface/network with external agencies
+access to the Internet and establishment of the organisation as an information provider 
+
+The underlying philosophy for SEBI's information technology strategy is to equip its officers with an electronic office wherein the required information is readily available at their desktop itself. At the macro level there is to be an organisation-wide database from which individual officers would draw information to facilitate their day to day work. In a fast evolving environment, the speedy and effective communication between SEBI's own departments at Mumbai and its regional offices are critical prerequisites for quick and timely response and decision making. This is being done with the networking of computers in a manner that they act as a single corporate resource. Thus SEBI's information technology plan is based on the following premises:
+ 
+ 
+As part of SEBI's information technology plan, the entire computing infrastructure was upgraded during the year. 250 "Pentium" workstations have been installed along with dot matrix and laser printers at the head and regional offices. Each system has been provided with a suite of software products for word processing, spreadsheets and presentations to enhance end user productivity. A training program was simultaneously initiated for the staff, in order to enhance their computer skills and ensure optimum use of the systems.
+A database server was acquired to initiate the development of SEBI's own database and application systems. SEBI users were also been provided with E-mail facility to encourage the transmission of electronic information. Internet accounts has also been provided to key users to have access to the latest material on the securities markets from around the world.
+SEBI's own web site was inaugurated by the Finance Minister in November 1996. The site is hosted at http://www.sebi.com and contains statutes, rules, regulations, guidelines relating to SEBI; annual reports, press releases and investor related information. Plans were underway to install a local area network within SEBI's offices and connect the regional offices during the next year. Connectivity would also be established to provide on line access to major stock exchanges. This would allow SEBI to monitor the trading on the bourses in a real time environment and would facilitate investigations into price manipulation and insider trading.
+New technologies such as multimedia, imaging, document management, workflow, video conferencing and electronic data interchange are being explored for their feasibility and introduction within the organisation.

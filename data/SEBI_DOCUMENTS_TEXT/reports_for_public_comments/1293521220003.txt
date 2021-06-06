@@ -1,0 +1,1452 @@
+Report and  recom mendations of the Group on  
+
+“Transmission of Shares” 
+
+ 
+ 
+ 
+
+  
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Group: 
+ 
+R.K. Nair, Chairman 
+A.P. Bakliwal, Member 
+S.V.M.D. Rao, Member 
+Ananta Barua, Member 
+Jeevan Sonparote, Member Secretary 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ACKN OWLEDGEMENT 
+
+ 
+
+The intent  of this report is to formulate and  to lay down a comprehensive policy 
+framework which shall ad dress the issue of transmission of shares by simplifying  the 
+stringent  and  complex procedure in relation to transmission of s
+hares and  also to 
+ by the listed  companies. The objective is to 
+stand ardise the divergent practices followed
+alleviate the hardships caused  to the investors
+. 
+The Group acknowled ges the inputs  from  various representatives of Investors’ 
+Associations, RAIN, R & STAs like
+Pvt.  Ltd.,  Karvy Computershare Pvt.  Ltd.  The Group also recognizes the valuable 
+inputs from  CDSL and  NSDL. The Group also extends thanks to representatives of 
+HDFC and  members of the ICSI Technical Com mittee on codification of Secretarial 
+Stand ard  on Transmission (SS-6) for their valuable inputs. 
+The Group acknowled ges the efforts  of Shri Vineet  Yash,  Manager,  OIAE for the 
+logistical, coordination and  drafting  work in 
+
+ Intime Spectrum  Services Ltd., Sharepro Services (I) 
+
+preparation of this Report. 
+ 
+ 
+
+ 
+ 
+
+Page 2 of 25 
+
+ 
+
+ 
+
+ 
+ 
+
+Index 
+
+EXECUTIVE SUMMARY________________________________ 5 
+BACKGROUND _______________________________________ 7 
+MEETINGS AND DELIBERATIO NS OF THE GROUP _____ 8 
+INTRODUCTIO N______________________________________ 9 
+EXISTING PRACTICE AND THE HARDSHIPS__________ 11 
+FACED BY INVESTORS_______________________________ 11 
+
+PROCEDURE FOLLOWED IN  PHYSICAL SHARES__________________________ 12 
+General observations____________________________________________________ 12 
+PROCEDURE FOLLOWED IN  DEPOSITORY / DEMAT SYSTEM_______________ 14 
+Single Holder__________________________________________________________ 14 
+A.  NSDL:_____________________________________________________________ 14 
+B.  CDSL:________________________________________________________________ 15 
+Joint Holder______________________________________________________________ 15 
+ANALYSIS AND DISCUSSIO N________________________ 17 
+
+Threshold  and  stand ardisation of documents_________________________________ 17 
+Physical environment:___________________________________________________ 17 
+Dematerialised  environment_______________________________________________ 19 
+Joint holders in Demat Mode_______________________________________________ 19 
+Nomination Facility:______________________________________________________ 20 
+Attestation of documents________________________________________________ 22 
+Time Frame ____________________________________________________________ 22 
+RECOMMENDATIO NS_______________________________ 23 
+
+Page 3 of 25 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Ab breviations  
+AOA  
+BO 
+CDSL 
+DP 
+HLL 
+HDFC Ltd. 
+IA 
+ICSI 
+KYC 
+NSDL 
+N OC 
+OIAE 
+PAN  
+POA  
+RAIN 
+R & STA 
+SEBI 
+TRF 
+
+Articles of Associations 
+Beneficial Owner 
+Central Depository Services (India) Limited
+Depository Participant 
+Hindustan Lever Limited 
+Housing Development and  Finance Company Limited 
+ 
+Investors’ Association
+Institute of Company Secretaries of India 
+Know Your Client 
+National Securities Depository Limited 
+No O bjection Certificate 
+Office of Investor Assistance and  Education
+Permanent Account Num ber 
+Power of Attorney 
+Registrars’ Association of India
+Registrar and  Share Transfer Agent 
+Securities and  Exchange Board  of India 
+Transmission Request Form 
+
+ 
+
+ 
+
+ 
+
+Page 4 of 25 
+
+ 
+
+ 
+
+EXECUTIVE SUMMARY 
+ 
+1.  Transmission means devolution of title to s
+
+hares* otherwise than by transfer,  for 
+
+exa mple,  devolution by death,  succession,  inheritance,  bankruptcy,  marriage,  etc. 
+Transmission is different vis-à-vis Transfer as in Transmission a person acquires an 
+interest in the property by operation of law,
+succession, whereas,  Transfer is effected  by act  (free volition) of the parties. In 
+transmission case,  where title to s
+beneficiary need  not carry out further formalities such as duly executed  sta mped  
+instrument of transfer as stipulated  in Section 108 of the Companies Act, 1956. The 
+Company concerned  also can not insist on such formalities. 
+
+hares  are passed  by operation of law, the 
+
+ such as by right  of inheritance or 
+
+ 
+2. Inspite of the legislative intent to simplify the procedure of Transmission of 
+  companies have over a period  of time evolved  varying and  diverse documentary 
+  compliances on the part of the legal representative of the deceased  security holder.  
+ 
+3. To ad dress this issue and  to evolve a uniform  procedure and  to alleviate and  redress 
+hares’, Chairm an, SEBI 
+  complaints received  by SEBI in relation to ‘Transmission of S
+  constituted  a Group headed  by Shri R K Nair, ED, SEBI, with 
+three objectives: 
+ 
+
+Shares, 
+ 
+
+(a) Exa mining  the procedures followed  by companies in relation to Transmission,
+ 
+(b) Exploring  the implementation of the concept of ‘Either or Survivor’ in case of    
+ 
+      shares held  in dematerialized  mode and   
+ngs of 
+(c) Suggesting  uniform  norms and  procedures to alleviate the sufferi
+
+investors. 
+
+ 
+4.  To get a balanced  and  complete picture of the nuances and  intricacies of the existing  
+procedure and  to recom mend  ways to simplify the same,  the Group invited  
+representatives from  the following  organizations :  (a) Registrars’ Association 
+of 
+India (RAIN),  (b) Registrar & Share Transfer Agents (R
+and  Private Sector  Bank,  (d) NSDL,  (e) CDSL,  (f) Investors’  Association (IA) 
+recognized  by SEBI and  (
+g ) ICSI member of Technical Com mittee on Transmission 
+(SS-6) 
+ 
+observed  that hardships of legal representatives of deceased  are mainly:
+?  Am biguity about procedures, 
+
+5.  On analysis of the information available in terms of the present procedure,  it was 
+
+ & STAs),  (c) Public Sector 
+
+ 
+
+                                                
+* Shares shall have the same meaning as per the definition of ‘Securities’  under section 2 (h) of Securities Contracts 
+(Regulation) Act, 1956.  
+ 
+
+ 
+ 
+
+Page 5 of 25 
+
+ 
+
+ 
+
+?  Cum bersome documentation and  
+?  Lack of uniformity in the procedures. 
+
+6. The Group discussed  and  deliberated  on the issues and  after 5 meetings narrowed  
+
+down on the core procedural impediments that contribute to delay in the process of 
+Transmission of Shares. The following  core issues emerg e d: 
+a)   Conservative approach a dopted by the Companies / Directors in exercising  the 
+b)   Insistence by companies to obtain probate of will by beneficiary and  lack 
+of clear 
+Transmission of shares with 
+
+discretion vested  by the Articles of Association
+ (AOA), 
+understanding  of the legal provisions relating  to 
+respect to laws governing  the will, 
+facility through proper investors
+awareness about nomination facility by launching a special drive. 
+
+c)  Lack of awareness of nomination facility and  the need  to popularize nomination 
+d)   The need  to involve R & STAs,  Depositories,  DPs and  Companies in crea
+
+’ education, and 
+
+ting  
+
+ 
+ 
+
+Page 6 of 25 
+
+ 
+
+ 
+ 
+BACKGROUND 
+ 
+Section 11 (1) of SEBI Act, 1992 states,  ‘Subject to the provisions of this Act, it shall be 
+the duty of the Board  to protect the interest of investors in securities and  to promote the 
+development of, and  to regulate the securities market, by such measures
+ 
+To meet the objectives of Investor Protection and Market Development as enshrined  in 
+the pream ble of SEBI Act,  1992,  SEBI and  re
+Office of Investor Assistance and  Education (OIAE) is a single po
+investor grievances. 
+ 
+Quarterly meeting  of recognized  IAs are organized  to deliberate on problems faced  by 
+investors,  particularly retail  and  small.  Investors’  Associations  are encouraged  to 
+ventilate Investors’ issues to alleviate
+ 
+In the meeting  of IAs held  on 11.06.2007 instances of hardships faced  by investors in 
+relation to ‘Transmission of Shares’ were discussed. Three key issues emerg e d:
+ 
+
+cognized  IAs have been working  together. 
+int interface to redress 
+
+ the problems / hardships.
+
+ as it thinks fit.’  
+
+ 
+
+ 
+
+?  Am biguity about procedures 
+?  Cum bersome documentation 
+?  Lack of uniformity in the procedures 
+
+ 
+
+suggest suitable measures to ad dress 
+ while dealing  with Transmission of 
+
+ 
+Chairm an,  SEBI decided  to constitute a Group to 
+issues relating  to difficulties faced  by the investors
+shares,  both in physical and  dematerialized  mode. Shri R.K. Nair,  Executive Director, 
+SEBI was nominated  Chairm an of the Group and  Shri A P Bakliwal, President, Bom b ay 
+Shareholders Association,  Shri S.V.M.D. Rao, 
+Ananta Barua,  Legal Adviser,  SEBI
+as the Mem ber Secretary. 
+Deputy General Manager, SEBI 
+ The terms of reference were: 
+ 
+
+Chief General Manager,  SEBI and  Shri 
+ as other members with Shri Jeevan Sonparote, 
+
+1.  To exa mine various procedures followed  by the companies and  registrar and  
+2.  To explore the implementation of the concept  of ‘Either  or Survivor’ in 
+
+share transfer agents for transmission of physical shares 
+depository system.  
+
+ 
+
+ 
+ 
+
+Page 7 of 25 
+
+ 
+
+ 
+
+bove purpose,  was empowered to call information from  the issuer 
+
+3.  To suggest  uniform  norms  and  procedures relating  to the transmission of 
+physical shares,  specifically with reference to documentation required  for 
+transmission. 
+The Group,  for the a
+companies and  R & STAs and  sub mit its report within a period  of two months.
+ 
+MEETINGS AND DELIBERATIONS OF THE GROUP 
+ 
+In the first meeting  of the Group, a discussion paper was deliberated  upon and  inter alia 
+specific issues were discussed  about the problems faced  by investors,  legal provisions
+ / 
+issues involved  and  measures to simplify the procedure related  to the Transmission of 
+shares. 
+ 
+In view of the nature of the issues involved,  following  persons were invited  to the 
+subsequent rounds of the deliberations:
+
+- 
+
+  
+
+a)   Representatives of RAIN   
+b)   Atleast two R & STAs, two companies, one public and  one private sector bank. 
+c)  The Mem bers of the ICSI Technical com mittee that codified  the  draft code for 
+d)   Representatives of NSDL and  CDSL 
+e)   Office bearers of IAs recognized  by SEBI 
+
+transmission of shares, 
+
+ 
+
+ 
+To understand  the problems  faced  by investors,  at  large, 
+information from  a sa mple of 8 R & STA. R & STAs were asked  to provide information 
+in relation to 10 sa mple companies for  which they act  as R & STA detailing  the 
+divergent practices followed  by the respective companies. The Group went through the 
+various complaints received  by SEBI over the period. Informat
+NSDL and  CDSL in relation to the issues  faced  by investors  with respect to 
+Transmission of shares held  in dematerialized  mode. 
+
+ion was sought from  
+
+the Group also called  
+
+ 
+ 
+
+Page 8 of 25 
+
+ 
+
+ 
+
+conveyance from  one person to another
+
+”. 
+
+notarized copy of death certificate) to 
+
+ by delivery of a proper instrument of transfer 
+
+INTRODUCTION 
+ 
+To transmit is defined  as “1to cause to convey to another person or pla
+ce”. Also “2to pass on a 
+right or obligation to heirs or descendants”.  and  transmission is defined  as the “1action of 
+transmitting or the fact of being transmitted: 
+ 
+The word  'transmission' means devolution of title to shares otherwise than by transfer, 
+for exa mple,  devolution by death,  succession,  inheritance,  bankruptcy,  marriage,  etc. 
+While transfer of shares is brought about
+(viz,  transfer deed) duly sta mped  and  executed,  transmission of shares is done by 
+forwarding  the necessary documents (such as a 
+the company. On the death or lunacy of the original holder (single holder),  his shares 
+vest in his legal representative. On registration of transmission of shares,  the person 
+whose name is entered  in the register of shareholders becomes the shareholder of the 
+company and  is entitled  to all the rights and  is subject to all the liabilities as were of the 
+original shareholder. 
+ 
+Legal provisions related  to ‘Transfer by legal representative’ is contained  in section 109 
+of the Companies Act 1956, Section 109 reads as, 
+“A transfer of the share or other interest in a company of a dec
+legal representative shall,  although the legal representative is not himself a member,  be as valid 
+as if he had been a member at the time of the execution of the instrum
+Section 109A deals with ‘Nomination of shares’ which provides for nomination by 
+holder (s) of shares in respect of shares held  by them. Cases wherein a nominee has 
+been appointed, the shares should  vest in the nominee on the death of the member
+ 
+Section 109B deals specifically with transmission of shares. 
+As per section 109B,  on the 
+the option either to register himself as the 
+death of the shareholder,  the nominee has 
+holder of the shares of the deceased  or to transfer the shares to any other person. The 
+transferee (s) may not necessarily be the legal heirs of the deceased  shareholder (s). 
+Section 109B (1) states, “Any person who becomes a nominee by virtue of the provisions of 
+section 109A, upon the production of such evidence as may be required by the Board
+subject as hereinafter provided,  elect,  either
+                                                
+1 The Law Lexicon 
+2 www.dictionary.com  
+ 
+
+eased member thereof made by his 
+
+ent of transfer.” 
+
+ (s). 
+
+ and 
+
+-… … … … … … … ..”   
+
+ 
+ 
+
+Page 9 of 25 
+
+ 
+
+ 
+From  the above,  it becomes evident that the provisions
+specify the procedure to be followed  by the 
+companies have the discretion to decide on the procedure as per
+relevant laws. The companies generally follow procedures as laid  down in their A
+and  such other requirements that safeguard  the companies from  the consequences of 
+future litigation and  these procedures differ from  company to company.
+
+ of the Companies Act do not 
+companies for transmission and  that the 
+ their AOA and other 
+OA 
+
+ 
+
+ 
+ 
+
+Page 10 of 25 
+
+ 
+
+ 
+
+EXISTING PRACTICE  AND THE HARDSHIPS FACED BY 
+INVESTORS 
+  
+Due to the fact that the Companies Act has not specifically m andated  any set  of 
+documents which must be provided  in relation to 
+made to  sum m arize the problems / difficulties faced  by investors.
+ 
+Problems faced  by investors: 
+ 
+
+transmission,  an attempt has been 
+
+1.  Small investors who have m a de will are not able to produce the probate of the 
+
+ 
+
+will. Obtaining a probate requires the investor to approach a court and  it also 
+involves payment of fees / sta mp duty. 
+
+ 
+2.  While documents such as indemnity and  affid avit can be produced  without 
+
+much difficulty,  procuring  other documents such as surety/ bank guarantee,  no
+objection certificate (NOC) from  all legal heirs (particularly when a registered  
+will is available),  and  issuance of press advertisement may cause 
+to investors.   
+
+inconvenience 
+
+-
+
+ 
+3.  In case a shareholder who dies intestate (without executing a will), 
+ 
+
+has to follow the cum bersome process as given below: 
+a)   The Application for issuance of succession certificate is to be made in the 
+are situated  or where he / she 
+ jurisdiction’. 
+
+court,  where the properties of the deceased  
+norm ally resided,  and  depending  on the value of the estate of the deceased, 
+the matter goes to the competent court on the basis of ‘pecuniary
+
+the applicant 
+
+ 
+b)   Application is to be made to the court with the names of all other heirs of the 
+late relative as the respondents in the matter. Normally a newspaper notice is 
+also issued  apart from  mandatory notice to the respondents. 
+
+ 
+c)  Upon the expiry of the time period  (normally 1 and  a half months) from  the 
+
+date of publication of the notice after the respondents have given their no 
+objection,  the court  passes the orders  for issuance of the Succession 
+Certificate,  for which the applicant has to sub mi
+sufficient a mount (as per the prescrib e d  court fees structure) in the court.
+ 
+d)   It roughly takes about 3-6 months from  date of filing  to receive the certificate.
+
+t Judicial Sta mp papers of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Page 11 of 25 
+
+ 
+
+ 
+
+4.  The procedures brought out above,
+
+ come at a cost to the investor. In some cases 
+the cost of legal requirements and  newspaper advertisement could  exceed  the 
+value of the shares to be transmitted.  
+
+ 
+5.  Variation is also observed  in the procedure followed  by different companies, 
+
+particularly related  to obtaining  NOC from  legal heirs, Surety/ Bank Guarantee 
+and  issue of press / newspaper advertisement.   
+
+ 
+6.  The protracted  procedures also cause opportunity loss to the investors
+ 
+7.  Some of the procedures though not mandated  by law are in place basically as 
+safeguard to the companies so that they do not face any claims / counter claims at 
+a later stage. Further,  in respect of 
+procedures adopted  by some of the sa mple 
+companies,  it has been observed  that
+ some have prescrib e d,  “the Company at its 
+discretion / under special circumstances
+ waive requirements… …” without specifying  
+as to what are those special cases
+
+ / circumstances?  
+
+.  
+
+ 
+
+ransmission of shares to the legal heir / nominee of the 
+
+ 
+PROCEDURE FOLLOWED IN  PHYSICAL SHARES 
+ 
+Various companies listed  with the Stock Exchanges have been following  divergent 
+practices in relation to the t
+shareholder in case of the death of the original shareholder. 
+ 
+Practices followed  by a sa mple of companies for the “Transmission of Shares” were
+obtained  from  websites of companies. The following  companies were part of the sa mple 
+– HLL, RIL, REL, Jet Airways, SBI, ITC, Tata companies, HDFC, ICI Ltd.
+ 
+General observations  
+ 
+It was observed that there is no problem in case the heirs of the deceased  present a 
+probate of a will. The problem lies in the divergent practices followed  by companies in 
+cases where there is no will left by the deceased  or even if the will is there but there is 
+no probate of the will.  It is  observed  from  the sa mple study that two different 
+approaches are in use a mong  the companies / R &SATs, which are as follows: 
+ 
+
+1.  In the absence of a probate of will,  some companies ask for  a ‘succession 
+
+certificate’  or  a ‘letter  of ad ministration’  along  with a request  letter  and  
+transmission form  to process the transmission. 
+
+Some of the companies in the 
+
+ 
+
+ 
+
+ 
+ 
+
+Page 12 of 25 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+select sa mple do not explain the procedure to be followed  where there is a will 
+which is not probated  or where there is no will and  no succession certificate.
+
+  
+2.  Certain other companies from  the sa mple list have provided  for an alternate 
+
+ 
+
+procedure in case of absence of a probate of will / letter of ad ministration / 
+succession certificate.  The alternate procedure is required  even if there is  a 
+registered  will.  
+
+Some companies have evolved  the alternate mechanism  that apply only upto a 
+threshold. In cases where the value / num ber of shares involved  is lower than a 
+certain threshold  limit, companies seek alternate documents instead  of insisting  on 
+probate of will / succession certificate which may be cum bersome and  cost 
+ineffective to obtain. As there is no standardization of the procedures, the 
+documents sought differ from  company to company.   The documents sought by the 
+sa mple companies are listed  below: - 
+(a)  Request letter (all companies) 
+(b)  Copy of death certificate (all companies) 
+(c) Affid avit  affirming  the name of legal heirs  / Affid avit sworn in by the 
+claim ants (all companies) 
+(d)  Inde mnity agreeing  to indemnify the company against future claims that may 
+be made on the company  (all companies) 
+(e) NOC from  other heirs in favour of person claiming  the title to shares (most 
+companies – whereas one company in the sa mple study does not ask for this).  
+(f)  Bank Guarantee in favour of the Company for the market value of the Shares 
+for specified  period. (only one company in the sa mple has this requirement) 
+(g)  Surety Form  seeking  surety from  one or two persons covering  the value of 
+shares involved. The surety form  often requires financial details to be filled  in 
+by the surety (only two group companies from  the sa mple study have this 
+requirement whereas others 
+requires  financial details  to 
+property and  PAN  no. etc. 
+made to the Company (This requirement is there only for one company). 
+
+(h) Press Advertisement informing  the public about the transmission request 
+
+do not require surety). The surety form  mostly 
+be provided  such as  movable / im movable 
+
+Page 13 of 25 
+
+ 
+
+ 
+ 
+PROCEDURE FOLLOWED IN  DEPOSITORY / DEMAT SYSTEM 
+ 
+The procedures followed  for transmission of shares in the depository systems is 
+also 
+cum b ersome and  is a mplified  in the case of joint holding. The procedures involved  are 
+outlined  below:-  
+ 
+Single Holder 
+ 
+A.  NSDL: 
+ 
+NSDL requires that the legal heir(s) or the legal representative(s) of the deceased  person 
+sub mit an instruction called  the 
+Participant (DP) along  with the following  documents:  
+
+Transmission Request Form (TRF) to the Depository 
+
+a. 
+b. 
+c. 
+
+d. 
+e. 
+
+Transmission form; 
+Copy of the death certificate duly notarized;
+Letter of Indemnity duly supported  by a guarantee of an independent 
+Surety acceptable to the Depositories,  made on appropriate non judicial 
+sta mp paper; 
+ 
+An Affid avit made on appropriate non judicial sta mp paper; and
+NOC(s) from  all the legal heir(s) who do not object to such
+
+ transmission. 
+
+ 
+
+The procedure followed  by NSDL is similar to that followed  by companies for physical 
+shares,  and  the alternate procedure is m a de availab
+
+le for shares of value less than Rs.1 
+
+ 
+ 
+
+Page 14 of 25 
+
+ 
+
+ 
+
+a. 
+b. 
+c. 
+
+A copy of the death certificate duly notarized
+A copy of the Succession certificate duly notarized  or an order of a court 
+of competent jurisdiction where the deceased  has not left a 
+will; or  
+A copy of the probate or Letter of Ad ministration duly notarized. 
+ 
+
+ 
+
+ 
+If the legal heir(s) or the legal representative(s) express inab
+ility to produce either of the 
+documents mentioned  under (b) and  (c) above, and  the market value of the shares held  
+in each account of the deceased  as on the date of application for transmission does not 
+exceed  Rs. 1 lakh, then the DP will process the transmission request on the basis of the 
+following  documents: 
+ 
+
+ 
+lakh.  The surety form  sought  by NSDL also seeks  financial details of movable
+im movable property held  by the surety, as well as details such as PAN  no. etc.  
+ 
+B.  CDSL: 
+ 
+CDSL requires that the claim ant should  sub mit TRF along  with the following  
+documents to the concerned DP: 
+
+ / 
+
+ 
+
+1.  In case of the death of the sole holder wherein the holder has appointed  a 
+
+a.  Notarized  copy of the death certificate; 
+
+2.  In case of the death of the sole holder wherein the holder has not appointed  a  
+
+nominee 
+
+nominee 
+
+a.  Notarized  copy of the death certificate; 
+b.  Any of the below mentioned  documents: 
+
+Succession certificate 
+
+i. 
+ii.  Copy of will and  probate 
+iii.  Letter of ad ministration 
+
+The DP after ensuring  that the application is genuine will transfer the s
+hares to the 
+account of the claim ant. In case the market value of the shares do not exceed  Rs. 1 lakh, 
+the Board  of Directors of CDSL,  even in the absence of the documen
+ts specified  at (b) 
+hares to the heir / legal representative on
+above, has the discretion to transmit the s
+ such 
+terms and  conditions as it may specify.   
+Joint Holder 
+ The procedure of transmission in case of demat account operated  in joint names is 
+similar to that followed in case of transmission of shares in physical form. In case the 
+deceased  was one of the joint holders, then the surviving  holders have to request the 
+vide a form  called  TRF along  with a copy of notarized death certificate to transmit the 
+shares lying  in the account of the 
+this purpose, the surviving  joint holder
+Owner (BO) account with their name in the same sequence in which the names appear 
+in the joint account to be closed
+  There have been suggestions from  various quarters of investors that demat account 
+should  be treated  like a bank account and  the procedure followed  by banks for such 
+accounts should  be replicated  in the depository accounts.  Some of the suggestions were   
+
+deceased  to the account of the surviving  holders. For 
+
+(s) necessarily have to open a new Beneficial 
+
+DP 
+
+.  
+
+ 
+ 
+
+Page 15 of 25 
+
+ 
+
+ 
+
+a.  Operation of BO Account on ‘Either or Survivor’ basis on the similar lines as is 
+b.  Continuation with the same account instead  of closure of the account in case one 
+
+done in case of Bank Accounts; and   
+of the account holders dies. 
+
+As per article 25(1) of Schedule I to the Companies Act, 1956, the surviving  joint holder 
+is entitled  to the shares in case of d eath of a joint shareholder. The surviving  joint 
+holder(s) has a choice to get himself
+ / themselves registered  as the shareholder(s) or to 
+ / they elect to retain the shares, he
+transfer the shares as per Article 26. Where he
+ / they 
+ / remaining  joint holders. In such a 
+are required  to be registered  as the sole shareholder
+case,  the new holder is allotted  a new folio num b er,  i.e. it is treated  as a different folio 
+from that of the original joint holder.  
+The practice as  prevalent in case of physical shares has  been replicated  in the 
+dematerialized  environment. At present, if one of the joint holders dies,  the surviving  
+joint holder necessarily has t
+from  the existing  account.  
+
+o open one more BO account and  has to transfer the shares 
+
+ 
+ 
+
+Page 16 of 25 
+
+ 
+
+ 
+
+ 
+
+s the fruits of their 
+
+eed.  
+
+ broad sub  
+
+ 
+
+e held  in single name in varied  companies and  the 
+ 
+
+ANALYSIS AND DISCUSSION 
+ 
+The  Group deliberated  on the aforesaid issues  and  felt that the existing  rigorous 
+procedures of companies and  R & STAs are depriving  the investor
+investment decision. The group felt that there is an imperative need  to simplify the 
+procedure involved  in relation to the Transmission of shares, particularly in view of the 
+fact that investments in shares are made to provide financial assistance in times of n
+Threshold  and  standardisation of documents  
+Physical environment:  
+Transmission of shares held  in physical form  can be categories into two
+categories. 
+CASE A: Cases wherein the shares ar
+Estate of the deceased  is quite large.
+In such cases, the heirs of the deceased  obtain succession certificate, probate of the will 
+or letter of ad ministration as the case may be. As the succession certificate
+will / letter of ad ministration is already there in respect of the property (including  the 
+shares) bequeathed, cases falling  under these categories pose no major problem and  
+turn around  time starting  with 
+after effecting  transmission ranges from  3 to 4 weeks.
+CASE B:  Cases wherein value of the holdings of the deceased  shareholder is quite 
+small compared  to the cost of the legal representation in obtaining
+probate of the will or letter of ad ministration as the case may be. It has been observed  
+that the majority of the cases fall under this category and  
+significant improvement  / simplification of the procedure
+hardships faced  by investors.
+The Board  of Directors of the respective companies 
+are normally vested  with significant 
+powers and  discretion by the AOA in relation to the transmission without production of 
+legal documents. Further, some companies have prescrib e d  threshold  limits in terms of 
+value of the shares exceeding  which the company requires more stringent procedure in 
+relation to transmission as an investors’ friendly measure. This alleviates the undue 
+hardships caused  to the investors.
+
+lod gement of claim  form  till the dispatch of certificates 
+
+ succession certificate, 
+
+should  be the focus area for 
+. This  would  reduce the 
+
+ / probate of 
+the 
+
+ 
+
+ 
+
+ 
+ 
+
+Page 17 of 25 
+
+ 
+
+ 
+Divergent views prevail with regard  to probate of will. 
+Under Section 57 and  Section 
+213 of the Indian Succession Act 1925, requirement of probate arises only where the 
+properties are situated  at Mum b ai, 
+Chennai and  West Bengal. Thus it would  follow that 
+requiring  the heirs to obtain a probate at places other than Mum b ai, 
+Chennai and  West 
+ Again the 
+Bengal is unjustified.  This needs to be taken into account by the companies.
+provisions of the Indian Succession Act do not apply to Moha m m e d ans and  Christians
+ 
+(i.e. Com munities other than Hindus, Bud dhists, Sikhs and  Jains). Therefore, 
+companies 
+can adopt a pro-active policy while dealing  with these two com munities.
+companies are insisting  on the 
+Despite the provisions of the Indian Succession Act, most 
+probate of the will by citing  the requirement  under the AOA of the respective 
+companies, which requires that such 
+The Group felt that a threshold  limit both in term  of num ber of shares and  in terms of 
+the market  value of the shares,  should  b e  fixed  and  upto the threshold  limit,  the 
+company should  not seek legal documents in the form  of succession certificate / probate 
+of will / letter of ad ministration.   
+The group felt that the threshold  l
+which ever is higher shall be appropriate. 
+transmit the title to the shares only with the following documents:-  
+
+imit of a holding  of 200 shares or a value of Rs 1 lakh, 
+
+probate should  be obtained.  
+
+Upto this threshold  
+
+the companies shall 
+
+ 
+
+i.  Affid avit – to the effect of the claim  of legal ownership to the shares, 
+ii.  Deed  of Indemnity – indemnifying  the company along  with Surety 
+iii.  NOC  from  other legal heir(s), wherever applicable, along  with Claim  
+
+ 
+
+and   
+Form  / TRF, 
+
+As there is no prescrib e d  format in relation to the documents to be furnished  along  with 
+TRF, there is a need  to formalize the documents and  their formats.  
+The Group observed  that some of the companies had  more liberal thresholds. The intent 
+of the Group is not to interfere with such thresholds which are more than the one stated  
+above.  The Group thus recom mends that if any of the companies are having  a  more 
+liberal threshold  they shall continue to do so,  and  companies 
+threshold  should be able to do so. The threshold  
+that a company shall adhere to.  
+
+desiring  to set liberal 
+specified  herein be the basic minimum  
+
+ 
+ 
+
+Page 18 of 25 
+
+ 
+
+ shares held in physical mode  shall not 
+
+ 
+Dematerialised  environment  
+While the above threshold  would  apply to the holding  in physical,  there cannot be a 
+mirror application of this concept in the depository environment for all holding  in the 
+various companies. Threshold  limit in case of shares held  in physical mode is applicable 
+company-wise and  only if the values of the shares in respective companies exceed  the 
+may be required  to sub mit succession certificate / 
+threshold  limit,  the claim ant / heir 
+probate of will / letter of ad ministration.  
+However,  in case of shares held  in dematerialized  mode,  in a single BO account, the 
+account  holder  can hold  shares of several companies and  fixing a threshold  limit 
+as the holder can hold  the shares in a 
+company-wise would  not be practically feasible 
+particular BO account which m ay run in crores. Further,  in case of BO account, the 
+documents which the claim ant of the deceased  needs to sub mit for 
+transmission is 
+account-wise and  not  company-wise and  this saves the claim ant  from  the undue 
+hardship of approaching  the respective companies whose shares are to be transmitted. 
+Group felt that the threshold  as specified  in
+apply in case of shares held  in dematerialized  mode. However, the existing  threshold  of 
+Rs. 1 lakh in value as provided  in the byelaws of the Depositories shall continue to 
+apply. 
+Joint holders in Demat Mode  
+In relation to BO account held  in joint names, 
+as per the existing  practice, when an 
+accountholder dies, the surviving  holders have to make an application to
+ the DP, along  
+with fresh set of documents (as required  in case of opening  of a new account), to open a 
+new account in the name of the surviving  m e m ber
+(s), appearing  in the same order, as in 
+case of original account.  This is time consuming and  ta
+documents, which are already in possession of DP. Though, in relation to the automatic 
+opening  of a new BO account on the basis of the existing  documents, 
+expressed  their concern in the form  of possibility of change of name / ad dress, change in 
+residential status,  updating  of signature
+disabilities etc. and  the same may need  to be incorporated  in the records. 
+The Group agreed  that the concerns were genuine but felt that the opening  of the new 
+BO account can be on the basis of the existing  documents already in the possession of 
+DP(s),  except in case of updation of the documents as per Know Your Client (KYC) 
+norms,  and  any other ad ditional documents for transmission. For this  purpose 
+Depositories shall m ake suitable changes in their bye-laws/ business rules/ operational 
+instructions, etc.  
+
+Depositories 
+,  changes in appearance due  to age,  medical 
+
+nta mount to duplication of 
+
+ 
+
+ 
+ 
+
+Page 19 of 25 
+
+ 
+
+hares shall vest in the event of the death of 
+
+ 
+As regards the scenario for operation of the account on ‘Either Basis’,  it was informed 
+that in cases of accounts held  in joint names,  the holder
+(s) in anyway has the option of 
+Basis’ on production of duly executed  Power of 
+operation of the BO account on ‘Either 
+(s). The present system is 
+Attorney (POA) executed  in favour of other account holder
+working smoothly without any hassle or complaint. In view of this the Group did  not 
+feel the need  for any further change in the existing  provisions. 
+N omination Facility: 
+Nomination is defined  as an act of nominating a person to act on his behalf in his 
+absence. In case of shares, any holder of the security at any time can nominate a person 
+to whom  the nominator’s interest in those s
+the nominator. The nomination once made can be changed as m any times as desired  by 
+the nominator. 
+ 
+Section 109A of the Companies Act talks about ‘Nomination of Shares’. Nomination
+required  to be made in the prescrib e d  m anner,  i.e., in Form  2B [prescrib e d  under rule 
+4CCC/5D of the Companies (Central Government’s) General Rules & Forms, 1956]. Non 
+individuals including a society,  trust,  body corporate,  partnership
+, karta of HUF and  
+holder of POA cannot make a nomination. 
+ 
+As per  Section 109A (3) of the Companies 
+Act, a nomination m a de as per the provisions 
+of the Act overrides anything contained in any other law for the time being in force
+including any law of succession or  will or any other testamentary law,  including  
+anything  contrary contained  in the 
+ The investor can easily save their legal heirs from  the legal hassles and  the rigours of 
+transmission of shares by appointing a nominee in the prescrib e d  form.  
+ 
+In the absence of nomination, the company needs to transm
+who as per law has the legal right to the shares. This forces the companies to require 
+adequate documentation from  the legal heirs to prove their right to ownership of the 
+shares. This is a piquant situation for the company. 
+diligence at this stage,  the company m ay be dragged into legal wrangle in case of 
+counter disputes regarding  the right to ownership. This casts the onerous responsibility 
+l rights to ownership of shares 
+on the company and  the directors to ensure that al
+are 
+properly scrutinized  so as to avoid  any future litigation on this count.  
+ 
+N omination is a very effective re m e dy to the situation. Once a shareholder appoints a 
+nominee,  then as  per the law,  the company’s  liability towards the event stands 
+discharg e d  to the extent that it has transmitted  the shares to the nominee appointed  by 
+
+If the company does not do its due 
+
+it the shares to the person(s) 
+
+AOA of the company.   
+
+ is 
+
+, 
+
+ 
+
+ 
+
+ 
+ 
+
+Page 20 of 25 
+
+ 
+
+minee and  in case of dispute, 
+
+g  / generating awareness a mongst 
+
+-  
+
+has to be 
+
+’s responsibility to dispose of the shares or 
+
+ 
+the shareholder.  It is then the nominee
+otherwise to the legal heirs. 
+ 
+The intention of legislature in inserting  specific provisions related  to nomination facility 
+in the Companies Act is to see that the company is discharg e d  in relation to the 
+impugned  shares, in case the same is transmitted  to the no
+the matter could  be settled  inter se the nominee and  the disputing  legal heirs. 
+ 
+Many investors are not aware of the nomination facility and  its benefits; hence do not 
+avail of this facility.  Thus the issue is more of creatin
+the investors about the benefits of the facility provided  in law. In fact this fact was fairly 
+acknowled ged  way back in 1999, which is evident in Press Release dated   July 23, 1999 
+issued  by the Department of Company Affairs, the  text of which is reproduced  below:
+ 
+“Under the Companies (Amendment) Act,  1999,  the shareholders have been allowed to nominate 
+a person for their shares,  debentures and deposits.  The form  in which the nomination 
+filed has been notified by the Department of company Affairs under the amended Companies Act.  
+Earlier,  holders of shares and debentures in a company did not enjoy the nomination facility for 
+s to them. They were required to obtain a 
+shares,  debentures and deposits,  which caused hardship
+letter of succession from  the competent authority.  The facility of nomination is intended to make 
+the company law in tune with the present  day economic policies  of liberalization and 
+deregulation.  This is also intended to promote investors confidence in capital market and to 
+promote the climate for intercorporate investment in the country.”
+facility could  prove to be a very useful re m e dy 
+If properly utilised  by the investors, this 
+against all the problems faced  by the investors while grappling  with the issue related  to 
+the transmission of shares.  
+Group felt that efforts need  to be made to make filling  up of the nomination form  
+mandatory,  in a phased  m anner.  However,  if a person subscribing  for the s
+hares does 
+not wish to file his nomination, he shall necessarily have to give a declaration to the
+ said 
+effect. 
+The Group felt that this  facility of nomination should  also be propagated  and  
+encoura g e d  by the Depositories. With a view to encourage such a practice,  the group 
+recom mends that the Depositories embark on a special drive to create awareness about 
+the benefits of the nomination facility. 
+A special drive should  be targeted  at  all its 
+nomination,  by way of a special letter / com muniqué drawing  the attention of the BOs 
+to avail of the nomination facility or to take on record  the declaration of the BO that he 
+
+existing  BOs who have not  made 
+
+ 
+
+ 
+
+ 
+ 
+
+Page 21 of 25 
+
+ 
+
+ for such messages. 
+
+at 
+
+hares held  in the BO 
+
+the nomination is insisted  upon. In case the person 
+
+ 
+does  not  want to nominate any body. This shall  be apart  from  the norm al 
+com munication channels that the Depositories have with its BOs
+ 
+As regards new accounts opened  on or after October 01, 2007, it shall be provided  for 
+the account opening  stage itself that 
+is  not interested  to nominate,  then such a person would  have to give a positive 
+declaration to the effect that he does not want nomination for his account as under: ‘No, 
+I do not want to nominate anyone on my behalf.’ 
+ 
+As regards  nomination,  to place matters  beyond  doubt, it is recom mended  that 
+provisions similar to sec 109A & 109B of the Companies Act 1956 should  be inserted  in 
+Depositories Act so that a single nomination can be made for all s
+account. 
+ 
+Attestation of documents 
+ 
+During  the deliberations,  representations were received  
+the notarised  copy of the documents for the various processes involved  in the s
+transactions, including  transmission.   
+The Group felt that if the basic purpose of notarization is to authenticate the documents, 
+even attestation of the documents, under seal, by a gazetted  officer should  
+suffice.  
+Time Frame 
+To ensure that the transmission cases are dealt with in a time bound  m anner,  a 
+stipulation of time limit on similar lines as has been stated  in Clause 12A (3) in relation 
+of the Listing  
+to ‘Transfer’ by way of insertion / amend ment to the said  Clause 
+Agreement should  also be made for transmission. 
+ 
+
+highlighting the insistence on 
+hares 
+
+ 
+ 
+
+Page 22 of 25 
+
+ 
+
+ 
+
+ 
+
+ation to ‘Transmission of Shares’ in the physical and  
+
+RECOMMENDATIONS 
+ 
+In view of these  discussions,  the Group makes the following  recom mendations for 
+simplifying  the procedure in rel
+dematerialized  environment:- 
+ 
+Physical Shares  
+ 
+Standard  documents 
+A. Clause 7 of the Listing  Agreement be amended  to incorporate a clause specifying a 
+
+ 
+threshold  limit  upto which the companies 
+documents in relation to transmission:- 
+
+would  insist  on only the following  
+
+ 
+
+i.  Affid avit – to the effect of the claim  of legal ownership to the shares, 
+ii.  Deed  of Indemnity – indemnifying  the company along  with Surety and  
+iii.  NOC from  other legal heir(s), wherever applicable, along  with Claim  Form  / 
+
+ 
+
+ 
+
+TRF, 
+ 
+
+ 
+ 
+
+ 
+ 
+
+B.  The group recom mends the stand ardization of these documents. These formats are 
+
+enclosed  as annexure to the report. 
+
+Threshold  
+C.  The Group recom mends that this threshold  be fixed  at holding  of 200 shares 
+
+ or Rs. 1 
+
+lakh in value, whichever is higher.  
+
+i.  The prescrib e d  threshold  limit shall be the basic minimum  limit to be 
+
+ii.  Thus in effect this threshold  shall apply to companies who have not yet 
+
+adhered  to by all the listed companies. The companies  having  higher 
+threshold  shall continue to do so, and  also can set liberal threshold. 
+fixed  any such threshold, and  
+than that specified  above.   
+
+also those companies whose threshold  is less 
+
+Nomination 
+D. To encourage nomination in physical shares,  the Companies, IAs and  SEBI shall 
+embark on a special drive through the 
+Investors’ Awareness Ca mpaigns and  the 
+other education efforts to urge shareholders to utilize the nomination facility.
+
+ 
+
+ 
+ 
+
+Page 23 of 25 
+
+ 
+
+ 
+
+ 
+ 
+Dematerialized  shares  
+Joint holders  
+ 
+E. In relation to BO account held  in joint names, 
+account on an application by the surviving  member
+except in case of updation of the documents required  as per the Know Your Client 
+norms,  and  a d ditional documents such as notarized  / attested  copy of the death 
+certificate of the deceased  account holder(s), TRF, etc. The Depositories shall amend  
+their byelaws / business rules, operational instruction
+
+DP(s) shall automatically open new 
+
+(s) based  on existing  documents, 
+
+s to give effect to this.  
+
+ 
+Nomination  
+F. The nomination facility shall be encouraged  by the Depositories. Depositories shall 
+
+ 
+ 
+
+launch a special drive with the help of DPs and  take pro-active steps to ensure that 
+all its existing  BO accounts are updated with nomination.  The DPs shall specifically 
+target its BOs which have not opted  for nomination by way of special letter drawing  
+the attention of the BOs to the benefits of nomination. This shall be apart from  the 
+norm al com munication channels that the Depositories / DPs have with its BOs for 
+such messages. 
+
+ 
+G. As regards new accounts opened  on or after October 01,  2007,  it shall be provided  
+for at the account opening  stage itself that the nomination is insisted  upon. In case 
+the person is not interested  to nominate,  then such a person would  have to give a 
+positive declaration to the effect that he does not w
+under: ‘No, I do not want to nominate anyone on my behalf.’
+
+ant nomination for his account as 
+
+ 
+
+ 
+H. As regards nomination,  to place matters beyond  doubt, it is recom mended  that 
+
+provisions similar to sec 109A & 109B of the Companies Act 1956 should  be inserted  
+in Depositories Act so that a single nomination can be made for all s
+hares held  in the 
+BO account. 
+ 
+Time Frame 
+ 
+I. To ensure that the transmission cases are dealt with 
+
+in a time bound  m anner,  a 
+
+stipulation of time limit on similar lines as has been stated  in Clause 12A (3) in 
+
+ 
+ 
+
+Page 24 of 25 
+
+ 
+
+relation to ‘Transfer’ by way of insertion / amend ment to the said Clause  of the 
+Listing  Agreement should  also be made for transmission. 
+
+Depositories, the attestation of a Gazetted  Officer, under its seal sh
+
+ 
+Attestation 
+ 
+J. For the purposes of attestation of the documents required  by the companies and  
+all also suffice.  
+ 
+ _________________    ________________      ________________         ____________________ 
+Shri A.P. Bakliwal    Shri S.V.M.D.Rao      Shri Ananta Barua         Shri Jeevan Sonparote 
+       Mem ber Secretary 
+Mem ber 
+ 
+ 
+ 
+
+ 
+
+  Mem ber   
+
+    Mem ber   
+
+ 
+
+ 
+
+ 
+ 
+
+_____________ 
+Shri R.K. Nair 
+Chairman 
+
+Page 25 of 25 
+
+ 
+
+

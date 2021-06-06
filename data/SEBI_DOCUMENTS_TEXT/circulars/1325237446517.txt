@@ -1,0 +1,1712 @@
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+CIRCULAR 
+
+ 
+  December  30, 2011 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CIR/DNPD/ 8/2011   
+ 
+To 
+Recognized Stock Exchanges  
+and their Clearing Corporations / Clearing Houses. 
+ 
+ 
+Dear Sir/Madam,  
+ 
+Sub: Exchange Traded Interest Rate Futures on 2-year and 5-year Notional Coupon 
+
+Bearing Government of India Security 
+
+ 
+ 
+1.  It has now been decided to permit the introduction of cash settled futures on 2-year 
+and 5-year notional coupon bearing Government of India (GoI) security on currency 
+derivatives segment of Stock Exchanges. Eligible Stock Exchanges may do so after 
+obtaining prior approval from SEBI.  
+
+ 
+
+2.  The  details  in  terms  of  product  design  and  risk  management  framework  for  cash 
+settled futures on 2-year and 5-year notional coupon bearing GoI security is given in 
+Annexure-1 and Annexure-2 respectively. 
+
+ 
+3.  This circular is issued in exercise of the powers conferred under Section 11 (1) of the 
+Securities  and  Exchange  Board  of  India  Act  1992,  read  with  Section  10  of  the 
+Securities  Contracts  (Regulation)  Act,  1956  to  protect  the  interests  of  investors  in 
+securities and to promote the development of, and to regulate the securities market.  
+
+ 
+4.  The circular shall come into force from the date of the circular. 
+ 
+5.  This  circular  is  available  on  SEBI  website  at  www.sebi.gov.in.,  under  the  category 
+
+“Derivatives- Circulars”. 
+
+Yours faithfully,  
+
+Sujit Prasad 
+General Manager 
+Derivatives and New Products Department 
+022-26449460 
+sujitp@sebi.gov.in 
+
+ 
+Encl: as above 
+ 
+ 
+
+ 
+
+Page 1 of 13 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ANNEXURE-1 
+Product Design and Risk Management Framework for Cash settled Futures on 2 
+Year Notional Coupon Bearing Government of India Security 
+
+ 
+Underlying 
+Notional  coupon  bearing  2-year  GoI  security  with  a  notional  coupon  of  7%  paid 
+semi-annually and face value of ` 100.  
+ 
+Trading hours 
+The trading hours would be from 9 a.m. to 5.00 p.m. 
+
+ 
+
+ 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+ 
+
+ 
+
+Size of the contract 
+` 2 lakh. 
+
+Quotation 
+The quotation would be similar to the quoted price of the GoI security.  
+ 
+Tenor of the contract 
+The maximum maturity of the contract would be 12 months. 
+ 
+Contract months 
+To begin with, three serial monthly contracts can be introduced. 
+ 
+Settlement mechanism 
+The  futures  on  notional  GoI  security  would  be  settled  in  cash  in  Indian  Rupees. 
+The settlement price of the notional bond would be determined on the basis of the 
+yields of a basket of eligible bond(s) selected by the exchange with the yields of 
+the bonds in the basket to be determined through a polling process carried out by 
+Fixed Income, Money Market and Derivatives Association (FIMMDA) as detailed in 
+Annexure-1a.  
+ 
+Exchanges shall disclose upfront to the market participants the composition of the 
+basket of securities for each of the contracts. Eligible bonds would comprise of GoI 
+securities maturing at least 1.5 years but not more than 2.5 years from the expiry 
+day. 
+ 
+Contract Value 
+The contract value would be: = Quoted price * 2000 
+ 
+Daily Contract Settlement Value 
+The Daily Contract Settlement Value would be: = 2000 * Pw 
+ 
+(Here Pw is weighted average futures quote of last half an hour). 
+In  the  absence  of  last  half  an  hour  trading,  theoretical  futures  price  would  be 
+considered for computation of Daily Contract Settlement Value. Exchanges would 
+be required to disclose the model/methodology used for arriving at the theoretical 
+price. 
+
+Page 2 of 13 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+10  Expiry/Last trading day 
+
+ 
+
+The  expiry  /  last  trading  day  for  the  contract  would  be  the  last  Thursday  of  the 
+expiry month. If any expiry day is a trading holiday, then the expiry/ last trading day 
+would be the previous trading day. 
+
+11 
+
+12 
+
+Final Contract Settlement Value 
+The Final Contract Settlement Value would be = 2000 * Pf  
+ 
+where Pf is the settlement price of the notional bond. 
+ 
+Initial Margin 
+The Initial Margin requirement shall be based on a worst case loss of a portfolio of 
+an  individual  client  across  various  scenarios  of  price  changes.  The  various 
+scenarios of price changes would be so computed so as to cover a 99% VaR over 
+a one day horizon. In order to achieve this, the price scan range may initially be 
+fixed at 3.5 standard deviation. The initial margin so computed would be subject to 
+a minimum of 0.35 % of the notional value of the contract on the first day of trading 
+in Futures on 2 Year Notional Coupon Bearing Government of India (GoI) Security 
+and 0.3 % of the notional value of the contract thereafter. The initial margin shall 
+be deducted from the liquid net  worth  of  the  clearing  member on an online, real 
+time basis.  
+
+13  Extreme Loss margin 
+
+Extreme  loss  margin  of  0.1  %  of  the  notional  value  of  the  contract  for  all  gross 
+open positions shall be deducted from the liquid assets of the clearing member on 
+an on line, real time basis. 
+
+14  Calendar spread margin 
+
+15 
+
+ 
+
+2  Year  Notional  Coupon  Bearing  Government  of  India  (GoI)  Security  futures 
+position at one maturity hedged by an offsetting 2 Year Notional Coupon Bearing 
+Government of India (GoI) Security futures position at a different maturity would be 
+treated as a calendar spread.  The calendar spread margin shall be at a value of ` 
+300 for spread of one month and ` 450 for spread of two months.  The benefit for a 
+calendar spread would continue till expiry of the near month contract.  
+ 
+Formula for determining standard deviation 
+
+The  exponential  moving  average  method  would  be  used  to  obtain  the  volatility 
+estimate every day. The estimate of volatility (σt) for the time period t is estimated 
+using the volatility estimate (σt-1) for the previous time period and the return (rt-1) 
+observed in the futures market during the previous time period. The formula would 
+be as under:  
+(σt)2 = λ (σt-1)2 + (1 - λ ) (rt-1)2 
+
+where 
+
+λ is a parameter which determines how rapidly volatility estimates change. 
+The value of λ is fixed at 0.94.  
+
+Page 3 of 13 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+i. 
+
+ii. 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+σt (sigma) means the standard deviation of daily logarithmic returns of futures 
+price of 2 Year Notional Coupon Bearing Government of India (GoI) Security 
+at time t. 
+
+The "return" is defined as the logarithmic return: rt = ln(Pt/Pt-1) where Pt is the 
+futures price of 2 Year Notional Coupon Bearing Government of India (GoI) 
+Security at time t. The plus/minus 3.5 sigma limits for a 99% VaR based on 
+logarithmic returns would have to be converted into percentage price change 
+by reversing the logarithmic transformation. The percentage margin on short 
+positions would be equal to 100(exp(3.5σ)-1) and the percentage margin on 
+long positions would be equal to 100(1-exp(-3.5σ)). This implies slightly larger 
+margins  on  short  positions 
+long  positions.  The  derivatives 
+exchange/clearing corporation may apply the higher margin on both the buy 
+and sell side. 
+
+than  on 
+
+iii.  The  volatility  estimation  and  margin  fixation  methodology  should  be  clearly 
+made known to all market participants so that they can compute the margin 
+for  any  given  closing  level  of  the  interest  rate  futures  price.  Further,  the 
+trading software itself should provide this information on a real time basis on 
+the trading workstation screen.  
+
+iv.  During  the  first  time-period  on  the  first  day  of  trading  in  2  Year  Notional 
+Coupon Bearing Government of India (GoI) Security futures, the sigma would 
+be equal to 0.10 %. 
+
+16  Position Limits 
+
+i.  Client level:  The gross open positions of the client across all contracts should 
+not exceed 6% of the total open interest or Rs 300 crores whichever is higher.  
+The Exchange will disseminate alerts whenever the gross open position of the 
+client  exceeds  3%  of  the  total  open  interest  at  the  end  of  the  previous  day’s 
+trade. 
+
+ii.  Trading  Member  level:  The  gross  open  positions  of  the  trading  member 
+across  all  contracts  should  not  exceed  15%  of  the  total  open  interest  or  Rs. 
+1000 crores whichever is higher.  
+
+iii.  Clearing Member level:  No separate position limit is prescribed at the level of 
+clearing  member.    However,  the  clearing  member  shall  ensure  that  his  own 
+trading position and the positions of each trading member clearing through him 
+is within the limits specified above. 
+
+iv.  FIIs:    In  case  of  Foreign  Institutional  Investors  registered  with  Securities  and 
+Exchange  Board  of  India  the  total  gross  long  (bought)  position  in  cash  and 
+Interest Rate Futures markets taken together should not exceed their individual 
+permissible  limit  for  investment  in  government  securities  and  the  total  gross 
+short (sold) position, for the purpose of hedging only, should not exceed their 
+long position in the government securities and in Interest Rate Futures, at any 
+point in time. 
+
+Page 4 of 13 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ANNEXURE-1a 
+ 
+Settlement Mechanism 
+ 
+
+a.  Polling  shall  be  carried  out  by  the  Fixed  Income,  Money  Market  and 
+
+Derivatives Association, i.e., FIMMDA; 
+
+b.  The yields (Bid and Ask) of the GoI  securities shall be polled from Primary 
+
+Dealers (PDs) registered with the Reserve Bank of India; 
+
+c.  Each poll shall involve ten PDs who would be selected at random from the 
+
+universe of PDs; 
+
+12.00 pm daily; 
+
+d.  Polling would be conducted at three instances, i.e., 11.00 am, 11.30 am and 
+
+e.  At  each  instance  of  polling,  for  each  bond,  out  of  the  ten  buy  yields,  two 
+highest  and  two  lowest  yields  would  be  treated  as  outliers  and  would  be 
+ignored. Similarly outliers from ten sell yields would be identified and ignored. 
+f.  After rejecting the outliers in above step, there will be [6 * 2 * 3 * Number of 
+
+Bonds in Basket] number of remaining yields. 
+
+g.  Average settlement yield (Ys) is the simple average of the remaining yields. 
+
+Ys will be rounded off to 4 decimal digits. 
+
+h.  Ys  determined  in  above  step  would  be  used  to  calculate  present  value  of 
+notional underlying bond on the basis of formula given below. This will be the 
+final settlement price of the contract.  
+
+Final settlement price = 
+
+⎡
+⎢
+⎢
+⎢
+⎢
+⎣
+
+ 
+
+100
+Ys
+2
+
++
+
+1
+
+⎛
+⎜
+⎝
+
+4
+
+⎞
+⎟
+⎠
+
++
+
+⎤
+⎥
+⎥
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎢
+⎢
+⎣
+
+4
+
+∑
+
+k
+
+=
+
+100
+
+*
+
+1
+
++
+
+⎛
+⎜
+⎝
+
+Ys
+2
+
+C
+2
+⎞
+⎟
+⎠
+
+k
+
+⎤
+⎥
+⎥
+⎥
+⎥
+⎦
+
+ 
+
+1
+
+            
+ where, 
+ 
+Ys:   Settlement yield 
+C:  
+ 
+Worked out example of settlement price calculation described above has been given in 
+Annexure-1b. 
+ 
+
+The notional coupon of underlying bond = 7% 
+
+ 
+
+Page 5 of 13 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ANNEXURE-1b 
+ 
+Worked out Example of Settlement price calculation: 
+ 
+
+Yield Figures Obtained by Polling of Dealers 
+Bond 1 
+
+Bond 2 
+
+Bond 3 
+
+ 11:00 AM 
+
+Dealer  
+Dealer 1 
+Dealer 2 
+Dealer 3 
+Dealer 4 
+Dealer 5 
+Dealer 6 
+Dealer 7 
+Dealer 8 
+Dealer 9 
+Dealer 10 
+  
+ 11:30 AM 
+
+Dealer  
+Dealer 1 
+Dealer 2 
+Dealer 3 
+Dealer 4 
+Dealer 5 
+Dealer 6 
+Dealer 7 
+Dealer 8 
+Dealer 9 
+Dealer 10 
+  
+ 12:00 PM 
+
+Dealer  
+Dealer 1 
+Dealer 2 
+Dealer 3 
+Dealer 4 
+Dealer 5 
+Dealer 6 
+Dealer 7 
+Dealer 8 
+Dealer 9 
+Dealer 10 
+
+Buy 
+Yields 
+
+5.9600  
+5.9625  
+5.9650  
+(5.9600) 
+5.9625  
+(5.9725) 
+(5.9700) 
+(5.9600) 
+5.9625  
+5.9700  
+
+Sell 
+Yields
+5.9500 
+5.9500 
+(5.9550)
+(5.9550)
+5.9500 
+5.9525 
+5.9500 
+5.9500 
+(5.9475)
+(5.9500)
+
+Bond 1 
+Buy 
+Yields 
+5.9700  
+(5.9750) 
+5.9750  
+5.9700  
+(5.9700) 
+5.9725  
+(5.9775) 
+5.9750  
+5.9750  
+(5.9700) 
+
+Sell 
+Yields
+5.9600 
+5.9600 
+(5.9650)
+(5.9650)
+(5.9500)
+5.9600 
+5.9575 
+5.9550 
+(5.9550)
+5.9600 
+
+Bond 1 
+Buy 
+Yields 
+5.9750  
+5.9750  
+5.9750  
+(5.9700) 
+(5.9800) 
+5.9750  
+(5.9800) 
+5.9800  
+5.9750  
+(5.9750) 
+
+Sell 
+Yields
+(5.9650)
+5.9600 
+(5.9650)
+(5.9500)
+5.9600 
+(5.9550)
+5.9600 
+5.9600 
+5.9650 
+5.9650 
+
+Buy Yields Sell Yields 
+(6.0000) 
+5.9925  
+5.9950  
+5.9975  
+5.9900  
+5.9975  
+(5.9900) 
+(6.0000) 
+5.9950  
+(5.9900) 
+
+(6.0100)
+6.0025 
+6.0050 
+(6.0025)
+(6.0025)
+(6.0175)
+6.0100 
+6.0100 
+6.0050 
+6.0100 
+
+Bond 2 
+
+Buy Yields Sell Yields 
+6.0050  
+6.0000  
+(6.0075) 
+(6.0075) 
+(5.9900) 
+6.0000  
+6.0000  
+6.0000  
+6.0050  
+(5.9950) 
+
+6.0150 
+6.0150 
+6.0175 
+6.0125 
+(6.0100)
+6.0125 
+(6.0200)
+(6.0200)
+6.0150 
+(6.0050)
+
+Bond 2 
+
+Buy Yields Sell Yields 
+(6.0100) 
+6.0025  
+(6.0075) 
+(5.9950) 
+6.0025  
+6.0000  
+(6.0000) 
+6.0050  
+6.0050  
+6.0050  
+
+6.0200 
+6.0175 
+6.0175 
+6.0150 
+(6.0225)
+6.0200 
+6.0200 
+(6.0250)
+(6.0150)
+(6.0150)
+
+Buy 
+Yields 
+(6.0250) 
+6.0450 
+6.0450 
+(6.0425) 
+(6.0550) 
+(6.0575) 
+6.0475 
+6.0500 
+6.0450 
+6.0450 
+
+Buy 
+Yields 
+(6.0600) 
+6.0550 
+6.0575 
+6.0525 
+(6.0450) 
+6.0550 
+(6.0600) 
+6.0550 
+6.0600 
+(6.0500) 
+
+Buy 
+Yields 
+(6.0650) 
+6.0575 
+6.0575 
+6.0600 
+(6.0625) 
+6.0600 
+6.0600 
+6.0625 
+(6.0550) 
+(6.0575) 
+
+Bond 3 
+
+Bond 3 
+
+Sell 
+Yields
+(6.0425)
+6.0300 
+6.0350 
+6.0375 
+(6.0275)
+6.0375 
+(6.0275)
+(6.0400)
+6.0350 
+6.0350 
+
+Sell 
+Yields
+(6.0500)
+6.0375 
+(6.0475)
+6.0475 
+(6.0250)
+6.0400 
+6.0400 
+(6.0350)
+6.0400 
+6.0400 
+
+Sell 
+Yields
+(6.0550)
+6.0450 
+(6.0475)
+6.0400 
+6.0425 
+(6.0400)
+(6.0400)
+6.0425 
+6.0450 
+6.0475 
+
+(cid:131) 
+
+( ) : Outlier yields, which are two highest and two lowest values on sell and buy side for 
+individual  bond at a particular instant of polling 
+
+(cid:131)  Average of all the  yields except those in parentheses () =  6.005787 
+(cid:131)  Settlement Yield = Average yield rounded off to 4 decimal digits   =  6.0058 
+
+ 
+
+Page 6 of 13 
+
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Futures Settlement Price = 
+⎡
+⎤
+⎢
+⎥
+⎢
+⎥
+⎢
+⎥
+⎢
+⎥
+⎣
+⎦
+
+.060058
+2
+
+100
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+1
+
++
+
+4
+
++
+
+⎡
+⎢
+⎢
+⎢
+⎢
+⎣
+
+4
+
+∑
+
+k
+
+=
+
+100
+
+07.*
+2
+.060058
+2
+
+1
+
+1
+
++
+
+⎛
+⎜
+⎝
+
+⎤
+⎥
+⎥
+⎥
+⎥
+⎦
+
+ 
+
+k
+
+⎞
+⎟
+⎠
+
+  = ` 101.8476 
+
+ 
+
+Page 7 of 13 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ANNEXURE-2 
+Product Design and Risk Management Framework for Cash settled Futures on 5 
+Year Notional Coupon Bearing Government of India Security 
+
+ 
+
+ 
+Underlying 
+Notional  coupon  bearing  5-year  GoI  security  with  a  notional  coupon  of  7%  paid 
+semi-annually and face value of ` 100.  
+ 
+Trading hours 
+The trading hours would be from 9 a.m. to 5.00 p.m. 
+ 
+Size of the contract 
+` 2 lakh. 
+ 
+Quotation 
+The quotation would be similar to the quoted price of the GoI security.  
+ 
+Tenor of the contract 
+The maximum maturity of the contract would be 12 months. 
+ 
+Contract months 
+To begin with, three serial monthly contracts can be introduced. 
+
+Settlement mechanism 
+The  futures  on  notional  GoI  security  would  be  settled  in  cash  in  Indian  Rupees. 
+The settlement price of the notional bond would be determined on the basis of the 
+yields of a basket of eligible bond(s) selected by the exchange with the yields of 
+the bonds in the basket to be determined through a polling process carried out by 
+Fixed Income, Money Market and Derivatives Association (FIMMDA) as detailed in 
+Annexure-2a.  
+ 
+Exchanges shall disclose upfront to the market participants the composition of the 
+basket of securities for each of the contracts. Eligible bonds would comprise of GoI 
+securities maturing at least 4.5 years but not more than 5.5 years from the expiry 
+day. 
+ 
+Contract Value 
+The contract value would be: = Quoted price * 2000 
+ 
+Daily Contract Settlement Value 
+The Daily Contract Settlement Value would be: = 2000 * Pw 
+ 
+(Here Pw is weighted average futures quote of last half an hour). 
+In  the  absence  of  last  half  an  hour  trading,  theoretical  futures  price  would  be 
+considered for computation of Daily Contract Settlement Value. Exchanges would 
+be required to disclose the model/methodology used for arriving at the theoretical 
+price. 
+ 
+
+1 
+
+2 
+ 
+
+3 
+ 
+
+4 
+
+5 
+ 
+
+6 
+
+7 
+
+8 
+
+9 
+
+ 
+
+Page 8 of 13 
+
+ 
+
+ 
+10 
+
+11 
+
+12 
+
+ 
+
+13 
+
+14 
+
+15 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+Expiry/Last trading day 
+The  expiry  /  last  trading  day  for  the  contract  would  be  the  last  Thursday  of  the 
+expiry month. If any expiry day is a trading holiday, then the expiry/ last trading day 
+would be the previous trading day. 
+ 
+Final Contract Settlement Value 
+The Final Contract Settlement Value would be = 2000 * Pf  
+ 
+where Pf is the settlement price of the notional bond. 
+ 
+Initial Margin 
+The Initial Margin requirement shall be based on a worst case loss of a portfolio of 
+an  individual  client  across  various  scenarios  of  price  changes.  The  various 
+scenarios of price changes would be so computed so as to cover a 99% VaR over 
+a one day horizon. In order to achieve this, the price scan range may initially be 
+fixed at 3.5 standard deviation. The initial margin so computed would be subject to 
+a minimum of 0.7 % of the notional value of the contract on the first day of trading 
+in  Futures  on  5  Year  Notional  Coupon  Bearing  GoI  Security  and  0.6  %  of  the 
+notional value of the contract thereafter. The initial margin shall be deducted from 
+the liquid net worth of the clearing member on an online, real time basis.  
+
+Extreme Loss margin 
+Extreme loss margin of 0.15 % of the notional value of the contract for all gross 
+open positions shall be deducted from the liquid assets of the clearing member on 
+an on line, real time basis. 
+ 
+Calendar spread margin 
+5 Year Notional Coupon GoI Security futures position at one maturity hedged by an 
+offsetting  5  Year  Notional  Coupon  Bearing  GoI  Security  futures  position  at  a 
+different  maturity  would  be  treated  as  a  calendar  spread.    The  calendar  spread 
+margin shall be at a value of ` 400 for spread of one month and ` 600 for spread of 
+two  months.    The  benefit  for  a  calendar  spread  would  continue  till  expiry  of  the 
+near month contract.  
+ 
+Formula for determining standard deviation 
+
+The  exponential  moving  average  method  would  be  used  to  obtain  the  volatility 
+estimate every day. The estimate of volatility (σt) for the time period t is estimated 
+using the volatility estimate (σt-1) for the previous time period and the return (rt-1) 
+observed in the futures market during the previous time period. The formula would 
+be as under:  
+(σt)2 = λ (σt-1)2 + (1 - λ ) (rt-1)2 
+
+where 
+
+λ is a parameter which determines how rapidly volatility estimates change. 
+The value of λ is fixed at 0.94.  
+
+ 
+
+Page 9 of 13 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+i.  σt (sigma) means the standard deviation of daily logarithmic returns of futures 
+price of 5 Year Notional Coupon Bearing Government of India (GoI) Security at 
+time t. 
+
+ii. 
+
+The "return" is defined as the logarithmic return: rt = ln(Pt/Pt-1) where Pt is the 
+futures  price  of  5  Year  Notional  Coupon  Bearing  GoI  Security  at  time  t.  The 
+plus/minus 3.5 sigma limits for a 99% VaR based on logarithmic returns would 
+have to be converted into percentage price change by reversing the logarithmic 
+transformation.  The  percentage  margin  on  short  positions  would  be  equal  to 
+100(exp(3.5σ)-1) and the percentage margin on long positions would be equal 
+to 100(1-exp(-3.5σ)). This implies slightly larger margins on short positions than 
+on long positions. The derivatives exchange/clearing corporation may apply the 
+higher margin on both the buy and sell side. 
+
+iii.  The  volatility  estimation  and  margin  fixation  methodology  should  be  clearly 
+made known to all market participants so that they can compute the margin for 
+any  given  closing  level  of  the  interest  rate  futures  price.  Further,  the  trading 
+software  itself  should  provide  this  information  on  a  real  time  basis  on  the 
+trading workstation screen.  
+
+iv.  During the first time-period on the first day of trading in 5 Year Notional Coupon 
+
+Bearing GoI Security futures, the sigma would be equal to 0.2 %. 
+
+16 
+
+Position Limits 
+
+i.  Client level:  The gross open positions of the client across all contracts should 
+not exceed 6% of the total open interest or Rs 300 crores whichever is higher.  
+The Exchange will disseminate alerts whenever the gross open position of the 
+client  exceeds  3%  of  the  total  open  interest  at  the  end  of  the  previous  day’s 
+trade. 
+
+ii.  Trading  Member  level:  The  gross  open  positions  of  the  trading  member 
+across  all  contracts  should  not  exceed  15%  of  the  total  open  interest  or  Rs. 
+1000 crores whichever is higher.  
+
+iii.  Clearing Member level:  No separate position limit is prescribed at the level of 
+clearing  member.    However,  the  clearing  member  shall  ensure  that  his  own 
+trading position and the positions of each trading member clearing through him 
+is within the limits specified above. 
+
+iv.  FIIs:    In  case  of  Foreign  Institutional  Investors  registered  with  Securities  and 
+Exchange  Board  of  India  the  total  gross  long  (bought)  position  in  cash  and 
+Interest Rate Futures markets taken together should not exceed their individual 
+permissible  limit  for  investment  in  government  securities  and  the  total  gross 
+short (sold) position, for the purpose of hedging only, should not exceed their 
+long position in the government securities and in Interest Rate Futures, at any 
+point in time. 
+
+Page 10 of 13 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ANNEXURE-2a 
+ 
+Settlement Mechanism 
+
+a.  Polling  shall  be  carried  out  by  the  Fixed  Income,  Money  Market  and 
+
+Derivatives Association, i.e., FIMMDA; 
+
+b.  The yields (Bid and Ask) of the GoI  securities shall be polled from Primary 
+
+Dealers (PDs) registered with the Reserve Bank of India; 
+
+c.  Each poll shall involve ten PDs who would be selected at random from the 
+
+universe of PDs; 
+
+12.00 pm daily; 
+
+d.  Polling would be conducted at three instances, i.e., 11.00 am, 11.30 am and 
+
+e.  At  each  instance  of  polling,  for  each  bond,  out  of  the  ten  buy  yields,  two 
+highest  and  two  lowest  yields  would  be  treated  as  outliers  and  would  be 
+ignored. Similarly outliers from ten sell yields would be identified and ignored. 
+f.  After rejecting the outliers in above step, there will be [6 * 2 * 3 * Number of 
+
+Bonds in Basket] number of remaining yields. 
+
+g.  Average settlement yield (Ys) is the simple average of the remaining yields. 
+
+Ys will be rounded off to 4 decimal digits. 
+
+h.  Ys  determined  in  above  step  would  be  used  to  calculate  present  value  of 
+notional underlying bond on the basis of formula given below. This will be the 
+final settlement price of the contract.  
+
+Final settlement price = 
+
+⎡
+⎢
+⎢
+⎢
+⎢
+⎣
+
+ 
+
+100
+Ys
+2
+
++
+
+1
+
+⎛
+⎜
+⎝
+
+10
+
+⎞
+⎟
+⎠
+
++
+
+⎤
+⎥
+⎥
+⎥
+⎥
+⎦
+
+⎡
+⎢
+⎢
+⎢
+⎢
+⎣
+
+10
+
+∑
+
+k
+
+=
+
+100
+
+*
+
+1
+
++
+
+⎛
+⎜
+⎝
+
+Ys
+2
+
+C
+2
+⎞
+⎟
+⎠
+
+k
+
+⎤
+⎥
+⎥
+⎥
+⎥
+⎦
+
+ 
+
+1
+
+            
+ where, 
+ 
+Ys:   Settlement yield 
+C:  
+ 
+Worked out example of settlement price calculation described above has been given in 
+Annexure-2b. 
+ 
+
+The notional coupon of underlying bond = 7% 
+
+ 
+
+Page 11 of 13 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ANNEXURE-2b 
+Worked out Example of Settlement price calculation: 
+ 
+
+Yield Figures Obtained by Polling of Dealers 
+Bond 1 
+
+Bond 2 
+
+Bond 3 
+
+(cid:131) 
+
+( ) : Outlier yields, which are two highest and two lowest values on sell and buy side for 
+individual  bond at a particular instant of polling 
+
+(cid:131)  Average of all the  yields except those in parentheses () =  6.005787 
+(cid:131)  Settlement Yield = Average yield rounded off to 4 decimal digits   =  6.0058 
+
+ 
+
+Page 12 of 13 
+
+ 
+
+ 11:00 AM 
+
+Dealer  
+Dealer 1 
+Dealer 2 
+Dealer 3 
+Dealer 4 
+Dealer 5 
+Dealer 6 
+Dealer 7 
+Dealer 8 
+Dealer 9 
+Dealer 10 
+  
+ 11:30 AM 
+
+Dealer  
+Dealer 1 
+Dealer 2 
+Dealer 3 
+Dealer 4 
+Dealer 5 
+Dealer 6 
+Dealer 7 
+Dealer 8 
+Dealer 9 
+Dealer 10 
+  
+ 12:00 PM 
+
+Dealer  
+Dealer 1 
+Dealer 2 
+Dealer 3 
+Dealer 4 
+Dealer 5 
+Dealer 6 
+Dealer 7 
+Dealer 8 
+Dealer 9 
+Dealer 10 
+
+Buy 
+Yields 
+
+5.9600  
+5.9625  
+5.9650  
+(5.9600) 
+5.9625  
+(5.9725) 
+(5.9700) 
+(5.9600) 
+5.9625  
+5.9700  
+
+Sell 
+Yields
+5.9500 
+5.9500 
+(5.9550)
+(5.9550)
+5.9500 
+5.9525 
+5.9500 
+5.9500 
+(5.9475)
+(5.9500)
+
+Bond 1 
+Buy 
+Yields 
+5.9700  
+(5.9750) 
+5.9750  
+5.9700  
+(5.9700) 
+5.9725  
+(5.9775) 
+5.9750  
+5.9750  
+(5.9700) 
+
+Sell 
+Yields
+5.9600 
+5.9600 
+(5.9650)
+(5.9650)
+(5.9500)
+5.9600 
+5.9575 
+5.9550 
+(5.9550)
+5.9600 
+
+Bond 1 
+Buy 
+Yields 
+5.9750  
+5.9750  
+5.9750  
+(5.9700) 
+(5.9800) 
+5.9750  
+(5.9800) 
+5.9800  
+5.9750  
+(5.9750) 
+
+Sell 
+Yields
+(5.9650)
+5.9600 
+(5.9650)
+(5.9500)
+5.9600 
+(5.9550)
+5.9600 
+5.9600 
+5.9650 
+5.9650 
+
+Buy Yields Sell Yields 
+(6.0000) 
+5.9925  
+5.9950  
+5.9975  
+5.9900  
+5.9975  
+(5.9900) 
+(6.0000) 
+5.9950  
+(5.9900) 
+
+(6.0100)
+6.0025 
+6.0050 
+(6.0025)
+(6.0025)
+(6.0175)
+6.0100 
+6.0100 
+6.0050 
+6.0100 
+
+Bond 2 
+
+Buy Yields Sell Yields 
+6.0050  
+6.0000  
+(6.0075) 
+(6.0075) 
+(5.9900) 
+6.0000  
+6.0000  
+6.0000  
+6.0050  
+(5.9950) 
+
+6.0150 
+6.0150 
+6.0175 
+6.0125 
+(6.0100)
+6.0125 
+(6.0200)
+(6.0200)
+6.0150 
+(6.0050)
+
+Bond 2 
+
+Buy Yields Sell Yields 
+(6.0100) 
+6.0025  
+(6.0075) 
+(5.9950) 
+6.0025  
+6.0000  
+(6.0000) 
+6.0050  
+6.0050  
+6.0050  
+
+6.0200 
+6.0175 
+6.0175 
+6.0150 
+(6.0225)
+6.0200 
+6.0200 
+(6.0250)
+(6.0150)
+(6.0150)
+
+Buy 
+Yields 
+(6.0250) 
+6.0450 
+6.0450 
+(6.0425) 
+(6.0550) 
+(6.0575) 
+6.0475 
+6.0500 
+6.0450 
+6.0450 
+
+Buy 
+Yields 
+(6.0600) 
+6.0550 
+6.0575 
+6.0525 
+(6.0450) 
+6.0550 
+(6.0600) 
+6.0550 
+6.0600 
+(6.0500) 
+
+Buy 
+Yields 
+(6.0650) 
+6.0575 
+6.0575 
+6.0600 
+(6.0625) 
+6.0600 
+6.0600 
+6.0625 
+(6.0550) 
+(6.0575) 
+
+Bond 3 
+
+Bond 3 
+
+Sell 
+Yields
+(6.0425)
+6.0300 
+6.0350 
+6.0375 
+(6.0275)
+6.0375 
+(6.0275)
+(6.0400)
+6.0350 
+6.0350 
+
+Sell 
+Yields
+(6.0500)
+6.0375 
+(6.0475)
+6.0475 
+(6.0250)
+6.0400 
+6.0400 
+(6.0350)
+6.0400 
+6.0400 
+
+Sell 
+Yields
+(6.0550)
+6.0450 
+(6.0475)
+6.0400 
+6.0425 
+(6.0400)
+(6.0400)
+6.0425 
+6.0450 
+6.0475 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Futures Settlement Price = 
+⎡
+⎤
+⎢
+⎥
+⎢
+⎥
+⎢
+⎥
+⎢
+⎥
+⎣
+⎦
+
+.060058
+2
+
+100
+
+⎞
+⎟
+⎠
+
+⎛
+⎜
+⎝
+
+1
+
++
+
+10
+
++
+
+⎡
+⎢
+⎢
+⎢
+⎢
+⎣
+
+10
+
+∑
+
+k
+
+=
+
+100
+
+07.*
+2
+.060058
+2
+
+1
+
+1
+
++
+
+⎛
+⎜
+⎝
+
+⎤
+⎥
+⎥
+⎥
+⎥
+⎦
+
+ 
+
+k
+
+⎞
+⎟
+⎠
+
+  = ` 104.2397 
+ 
+
+ 
+
+Page 13 of 13 
+
+ 
+
+

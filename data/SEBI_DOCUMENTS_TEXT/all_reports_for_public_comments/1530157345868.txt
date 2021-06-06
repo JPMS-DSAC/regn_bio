@@ -1,0 +1,1111 @@
+ 
+
+ 
+
+ 
+
+Consultation paper on measures to enhance efficiency in polling methodology 
+
+adopted for spot price determination of commodities 
+
+ 
+ 
+1  Objective 
+ 
+1.1  The objective of this consultation paper is to seek comments / views from 
+the  public  on  measures  to  further  enhance  efficiency  in  the  polling 
+methodology adopted for determination of spot price for commodities. The 
+availability of reliable and transparent information about the spot price of 
+any commodity  is essential  and prerequisite for arriving at the  expected 
+futures prices of the commodity. 
+
+ 
+
+2  Background 
+2.1  Generally the futures price of any commodity is estimated by adding up cost 
+of carry/storage costs to the spot price of a particular commodity. Therefore, 
+the availability of correct and transparent information about the spot 
+price of any commodity is essential for arriving at the expected futures 
+prices of the commodity since, any divergence in the linkages between 
+the two prices could lead to adverse impact on the price in the two markets 
+i.e.  derivatives  as  well  as  spot  market.  Derivatives  market  can  achieve 
+better  convergence  and  integration  with  the  spot  markets  if  there  is 
+availability  of  transparent  and  reliable  spot  prices  of  the  underlying 
+commodity.  It  is  essential  that  effective  linkage  is  maintained  between 
+derivative contract prices and underlying spot prices at all times, so that 
+derivative markets can serve as a true reflection of the physical market. In 
+the absence of this linkage, derivatives may not be able to fulfill one of the 
+primary  objectives  of  their  existence  viz.,  -  price  risk  management  or 
+hedging.  
+ 
+following two ways :- 
+ 
+2.2.1  Physical Settlement: In case of physical settlement, the holder of 
+the contract will either have to take or give delivery of the commodity 
+and the derivative contract is settled by way of physical delivery of 
+the underlying commodity from seller to buyer. 
+
+2.2  Generally, final settlement of derivatives contracts take place in one of the 
+
+ 
+
+ 
+
+ 
+
+Page 1 of 18 
+
+ 
+
+ 
+
+ 
+
+2.4 
+
+2.2.2  Cash Settlement: In case of cash settlement, instead of physical 
+delivery of the underlying commodity, the difference in value of the  
+underlying commodity in spot market on the expiry date of futures 
+contract (Final Settlement Price (FSP)) and the price at which future 
+contract was traded, is exchanged between buyer and seller. 
+ 
+
+2.3 
+
+In case of Cash settlement, the sanctity of FSP is of utmost importance as 
+net profit to buyer or seller is directly impacted by the value of FSP i.e. 
+higher the value of FSP, higher will be the pay out to buyers and higher 
+shall be the pay in obligation of the sellers and vice versa.  
+ 
+In case of physical settlement the role of FSP is limited, since for all the 
+open positions at expiry, buyers eventually have to take delivery and sellers 
+have to give delivery of the underlying commodity at the price on which 
+future  contract  was  entered  into.  However,  in  case  of  physically  settled 
+contracts also, the FSP assumes importance in case of any default by a 
+contracting party for settling the contract. 
+ 
+2.5  As per the extant policy the preference for settlement for all the derivative 
+contracts is by way of physical delivery. Most of the derivatives contracts in 
+the commodity derivatives exchanges wherein physical delivery happens, 
+the  exchange  polls the spot  prices for dissemination. As majority  of the 
+contracts are settled by way of physical delivery, such contracts are not 
+dependent on FSP determined by polled spot prices on the expiry date. 
+However,  for  the  small  no.  of  contracts  which  are  still  practically  cash 
+settled, FSP determined by polled spot prices bears substantial importance. 
+ 
+2.6  Apart  from  the  perspective  of  FSP,  the  availability  of  accurate  and 
+transparent  spot  price  data  is  crucial  from  the  perspective  of 
+disseminating regular information about the indicative spot prices to 
+clients/market  participants 
+(irrespective  of  cash  or  physical 
+settlement)  facilitating  them  to  take  a  price  view  in  the  derivatives 
+market  based  upon  the  spot  prices  made  available  to  them  by  the 
+Exchange. In the absence of such information, the market participants may 
+find it difficult to keep track of the prices in underlying markets at various 
+geographical locations across the country. The information of spot prices on 
+a regular basis also helps Exchange to concurrently analyze the price data 
+to make meaningful analysis of price movement in the futures market which 
+helps  in  the  market  surveillance  function  of  the  Exchange.  The  daily 
+dissemination of spot prices by exchanges on the basis of polled spot price, 
+
+ 
+
+Page 2 of 18 
+
+ 
+
+2.7 
+
+ 
+
+ 
+
+holds  the  key  to  the  determination  of  futures  price  and  ultimately 
+convergence of futures & spot markets on expiry of the contract. 
+ 
+In India, only derivatives contracts are traded on the commodity exchanges 
+while  the  underlying  spot  trades,  particularly  in  case  of  agricultural 
+commodities, occur in opaque and fragmented markets spread across the 
+country,  mostly  regulated  by  provincial  agricultural  marketing  laws/acts. 
+Moreover, in the underlying physical markets there exist large variations in 
+quality in different parts of the country and also the commodities do not 
+trade uniformly throughout the year.  
+ 
+2.8  There  is  no  effective  mechanism  for  capturing  real  time  spot  price 
+information of commodities traded in different Mandis and other secondary 
+trading centers of the country. The governmental agency which collects and 
+disseminates  spot  prices  for  agri-commodities  across  the  country  is 
+Agmarknet. It collects the post-trade mandi data, but such information is not 
+disseminated on a real time basis. Moreover, such prices do not relate to 
+any  specific  quality  of  the  produce  on  a  consistent  basis.  The  data  so 
+disseminated  indicates  the  range  of  prices  within  which,  trades  in  the 
+commodity have taken place in the market on that day for various qualities. 
+Apart 
+independent 
+agencies/organizations which are also engaged in the process of collection 
+and  dissemination  of  spot  prices  of  different  commodities  as  per  their 
+respective methodology  of collection of such data. As far as the futures 
+market is concerned, the Commodity Derivatives Exchanges require on any 
+given day, the representative spot price information for the commodity of 
+same  quality  specifications  as  stipulated  for  the  futures  contracts  being 
+traded  on 
+the 
+representative spot price information as prevalent at the ‘basis center’ of a 
+particular  commodity [pre-declared in the contract specifications]  being 
+traded on its platform so that the same is disseminated to the stakeholders 
+on a daily basis for taking informed decisions.  
+
+their  platforms.  The  Commodity  Exchange  needs 
+
+ 
+3  FMC and SEBI circular on the spot price polling  
+ 
+3.1  The  Commodity  Derivatives  Exchanges  have  been  using  a  ‘Spot  Price 
+Polling Mechanism’ to arrive at and disseminating the prevailing spot prices 
+to the markets twice/thrice on a given trading day. To arrive at the prevailing 
+spot  prices,  the  exchanges  are  polling  the  spot  prices  from  a  panel  of 
+market participants, who voluntarily serve as polling agents and submit spot 
+prices  of  the  commodity  from  the  basis  center  on  a  daily  basis.  Some 
+
+from  Agmarknet, 
+
+there  are  various  private 
+
+ 
+
+Page 3 of 18 
+
+ 
+
+ 
+
+ 
+
+exchanges undertake this price polling activity themselves whereas others 
+have outsourced these functions to external data collection agencies. 
+
+ 
+3.2  Erstwhile FMC, from time to time had prescribed various norms related to 
+“Spot Price Polling Mechanism”. SEBI vide its circular dated September 02, 
+2016 on Spot Price Polling Mechanism consolidated and updated the norms 
+prescribed by erstwhile FMC as under- 
+ 
+“In order to maintain the transparency of spot price polling process and 
+dissemination of spot prices arrived at through spot price polling process, 
+the commodity derivatives exchanges are directed to: 
+ 
+i.  Have a well laid down and documented policy for the spot price 
+polling mechanism.  
+display the spot price polling mechanism adopted for every contract 
+ii. 
+on its website along with following details: 
+
+ 
+
+Details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Details of the contract 
+Mechanism of spot price polling 
+How spot prices are arrived at 
+Whether these prices include or exclude taxes and 
+other levies / costs 
+Whether spot prices polling has been outsourced to 
+any external agency and if so, the details thereof. 
+Criteria for selection of these polling participants 
+Any  other  information  that  the  Exchange  may 
+consider  
+
+S. No.  Particulars 
+1.   
+2.   
+3.   
+4.   
+5.   
+6.   
+7.   
+ 
+disclose,  for  every  contract,  following  details  with  respect  to 
+individual spot price polling participants on its website: 
+Participants  Location  Profession  Price 
+quoted 
+A1 
+ 
+ 
+A2 
+ 
+
+Time, 
+Date 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+iii. 
+
+ 
+
+ 
+
+Page 4 of 18 
+
+ 
+
+ 
+
+ 
+
+a)  The Exchanges may assign a code such A1, A2, A3…etc. for 
+poling  participants  of  a  particular  contract  and  reveal  his 
+location and price (s) for the day.  
+b)  This  information  shall  be  updated  on  Exchange  website 
+every  day  for  every  contract  traded  on  the  exchange 
+platform.  
+c)  The information shall continue to be displayed even after the 
+expiry of the contract for a period of 3 years. 
+
+ 
+
+iv.  Endeavor in increasing the sample size used for fixing the daily spot 
+prices during the last 15 days of the contract.  
+v.  Review on a monthly basis the prices polled by the participants to 
+identify  participants  habitually  polling  unrealistic  prices.  These 
+participants could be put under watch and subsequently removed 
+from  the  panel  if  such  instances  reoccur  despite  appropriate 
+communications.  
+vi.  Provide a separate feedback window for receiving complaints in this 
+regard. The exchanges shall address such complaints in a time-
+bound manner. Further the exchanges shall keep the audit trail of 
+all such complaints received and the steps taken for redressal.” 
+ 
+
+4  Polling Process Currently Followed by Exchanges 
+ 
+4.1 
+
+4.2  The broad methodology adopted by Exchanges (either directly or through 
+
+In terms of the present regulatory framework, to bring in transparency, the 
+exchanges are required to disclose on their websites, the spot price polling 
+mechanism and polled price details for every contract.  
+ 
+polling agencies) is as detailed below: 
+ 
+4.2.1  The exchanges identify the centers from where the polling would be 
+conducted  which  is  based  on  the  contract  specifications.  The 
+exchanges also identify the polling participants (submitters) mainly 
+belonging to one of the following professions: 
+  Traders; 
+  Brokers/Commission Agents; 
+  Processors/Millers/Manufacturers; 
+ 
+ 
+
+Importers/Exporters 
+
+ 
+
+Page 5 of 18 
+
+ 
+
+ 
+
+ 
+
+4.2.2 
+
+Information from a cross section of the above market players (value 
+chain  participants)  is  sought,  about  the  prevailing  price  of  the 
+commodity having specifications as those of the contract traded on 
+the exchange in the market.  
+ 
+4.2.3  Polling  for  collection  of  spot  prices  is  done  from  various  centers 
+including all Basis Centers and Additional Delivery Centers spread 
+across the country.  
+
+ 
+
+4.2.4  The price for a commodity at a center is polled from a universe of 
+empanelled Polling Participants and the prices are subjected to the 
+statistical process to arrive at the final benchmark price. The entire 
+process is automated and is completed without manual intervention 
+either by the Polling Agency and/or Exchange officials. 
+
+ 
+4.2.5  Thus,  by  following  the  aforesaid  process,  the  spot  prices  of  the 
+underlying commodity so polled are arrived at and disseminated to 
+the market every day. 
+4.3  Based  on  the  interactions  with  polling  participants  and  polling  agencies 
+during  regulatory  sub-group  meeting  of  CDAC,  the  following  affirmative 
+observations  with  respect  to  the  present  system  being  followed  by  the 
+exchanges has been noted: 
+ 
+4.3.1  They are adequately apprised of the contract specifications by the 
+polling agencies/Exchanges and provide the quote according to the 
+contract specifications. 
+4.3.2  The Exchange regularly reviews the panel of polling participants with 
+a view to strengthen the process by adding more participants and 
+also removing those which are inactive.  
+4.3.3  The  prices  on  the  derivatives  exchange  platforms  are  generally 
+viewed by the farmers as a tool for making informed decisions and 
+also act as benchmark prices for them. 
+ 
+
+5  Advice  received  from  external  experts  on  improving  the  spot  price 
+
+polling mechanism 
+ 
+In order to further improve and impart more transparency to the spot price 
+polling  mechanism,  SEBI  had  sought  advice 
+from  various  external 
+experts/forums and the gist of the advices received so far are as under: 
+ 
+
+5.1 
+
+ 
+
+Page 6 of 18 
+
+ 
+
+ 
+ 
+5.2  The International Advisory Board (IAB) of SEBI suggested that:– 
+
+5.2.1  The present price polling mechanism to determine spot prices may 
+need to be suitably reviewed. 
+5.2.2  There may be some regulation and financial obligations cast upon 
+the agencies carrying out price polling functions as to ensure better 
+accountability. 
+5.2.3  Some  sort  of  close  watch  on  the  physical  markets  may  also  be 
+necessary to reduce asymmetry between the polled and the actual 
+spot price. 
+
+ 
+5.3  A  consultant  to  SEBI,  Oliver  Wyman  recommended  the  following  with 
+respect to improvement of polling process:- 
+5.3.1  Review of spot price determination process adopted by Commodity 
+Derivatives  Exchanges  as  against  IOSCO  Principles  for  Financial 
+Benchmarks. 
+
+determination process in line with the IOSCO Principles. 
+
+5.3.2  Appoint independent benchmark administrator/calculation agent 
+5.3.3  Support  in  implementing  remedial  actions  to  bring  the  spot  price 
+ 
+5.4  The Sub-Group-II of the Commodity Derivatives Advisory Committee 
+(CDAC) of SEBI made following observations/queries :- 
+5.4.1  The  spot  price  polled  by  the  Exchange  should  match  the  price 
+quoted at the physical market in the basis center and cartelization by 
+the polling participants needs to be monitored by the Exchanges 
+5.4.2  Whether any methodology can be devised to arrive at spot price by 
+using statistical methods on the various sources of spot prices like 
+prices  arrived  by  contango-backwardation  on  the  future  prices, 
+Mandi Prices and Polled Prices by Exchange.  
+5.4.3  Whether  exchange  can  define  the  eligibility  criteria  for  polling 
+participants.  
+
+ 
+5.5  The  Regulatory  sub-group  of  the  Commodity  Derivatives  Advisory 
+Committee (CDAC) of SEBI recently made following observations :- 
+5.5.1  The polling participants may be incentivized for providing the spot 
+prices  and  the  polling  agencies/exchanges  may  enter  into  legal 
+contract with polling participants for providing the services. 
+5.5.2  The universe of the polling participants should be increased. 
+5.5.3  There could be alternate means for collection of the quotes from 
+through  an  app)  which  could 
+
+polling  participants  (such  as 
+supplement the present system. 
+
+ 
+
+Page 7 of 18 
+
+ 
+
+ 
+
+IOSCO Principles for Financial Benchmarks  
+
+ 
+ 
+6 
+6.1  Globally, there has been a high degree of regulatory and public focus on 
+financial  benchmarks  following  multiple  conduct  related  issues.  In  this 
+regard,  International  Organization  of  Securities  Commissions  (IOSCO) 
+published final set of Principles for Financial Benchmarks in July 2013. 
+ 
+6.2  The Principles for Financial Benchmarks (the ‘Principles’) by an IOSCO task 
+force cover the following four main areas  - 
+6.2.1  Governance  covering  the  issues  like  integrity  of  the  benchmark 
+determination process and conflicts of interest; 
+6.2.2  Quality of the benchmark covering the issues such as benchmark 
+design,  the  importance  of  having  robust  input  data  and  the 
+transparency of benchmark determinations; 
+6.2.3  Quality  of  the  methodology  encompasses  areas  such  as  the 
+calculation  methodology  of  benchmarks,  how such  methodologies 
+are updated, and the role of submitters; and 
+6.2.4  Accountability with respect to complaint handling, auditing, and co-
+operation with regulatory authorities. 
+The 
+at 
+may 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD415.pdf.  
+ 
+It  may  however  be  noted  that  scope  of  these  principles  do  not  cover 
+commodity derivatives market in view of the following statement mentioned 
+in the scope of these principles.  
+“The  Principles  also  exclude  reference  prices  or  settlement  prices 
+produced  by  Central  Counterparties  (CCPs),  provided  that  they  are 
+produced solely for the purpose of risk management and settlement. The 
+prices of single financial securities (e.g., equity securities underlying stock 
+options or futures) are not considered Benchmarks for the purposes of 
+these Principles.” 
+ 
+introduced different measures for financial benchmarks as under- 
+6.4.1  United Kingdom 
+
+6.4  Nevertheless, in line  with the  IOSCO principles,  various regulators have 
+
+principles 
+
+be 
+
+accessed 
+
+above 
+
+ 
+
+ 
+
+ 
+
+6.3 
+
+Historically, benchmarks have not been regulated, however, after the 
+misconduct related to the London Inter-Bank Offered Rate (LIBOR) 
+
+ 
+
+Page 8 of 18 
+
+ 
+
+and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+benchmark coming into light, Financial Conduct Authority (FCA) 
+was given powers to regulate benchmarks including London Gold 
+Fixing; LBMA Silver Price and CE Brent Index.   
+With the EU Benchmark Regulation (BMR) coming into effect from 
+January  01,  2018,  replacing  previous  regulatory  regime  of  UK. 
+Under  the  BMR,  the  FCA  is  the  competent  authority  responsible 
+for authorization 
+administrators, 
+recognition  of  third  country  administrators,  endorsement  of  third 
+country benchmarks, enforcement etc… 
+ 
+a)  LBMA Gold Price and LBMA Silver Price 
+
+registration benchmark 
+
+  Established  in  1919,  the  London  gold  fix  was  the  globally 
+recognized  price  and  is  used  as  a  reference  for  contracts 
+across gold industry participants. The fix price (determined in 
+an auction held twice a day, at 10:30AM and 3.00PM) was 
+used as underpin for both physical and financial markets. The 
+historic London Gold Fix was replaced with LBMA Gold Price 
+on March 20, 2015. The LBMA Gold Price and LBMA Silver 
+Price are benchmarks regulated by the FCA and administered 
+by ICE Benchmark Administration (IBA). 
+  The auction process to determine the spot prices runs on the 
+ICE  Trading  Platform  which  provides 
+real-time  order 
+management,  separation  of  house  and  client  orders,  audit 
+history, compliance monitoring tools.  
+  The auctions run in rounds of 30 seconds. At the start of each 
+round, IBA publishes a price for that round. Participants then 
+have 30 seconds to enter, change or cancel their orders. At 
+the end of each round order entry is frozen and the system 
+checks to see if the difference between buying and selling 
+(the imbalance) is  within the imbalance threshold (normally 
+10,000 oz. for gold and 500,000 oz. for silver). 
+If the imbalance is outside the threshold at the end of a round, 
+then the auction is not balanced, the price is adjusted and a 
+new round starts. If the imbalance is within the threshold then 
+the auction is finished and the price is set. Any imbalance is 
+shared equally between all direct participants (even if they did 
+not place orders or did not log in) and the net volume for each 
+participant trades at the final price. 
+
+ 
+
+ 
+
+Page 9 of 18 
+
+ 
+
+ 
+
+ 
+
+  The final price is then published as the LBMA Gold Price or 
+LBMA Silver Price in US Dollars and also converted into the 
+benchmarks in other currencies using foreign exchange rates 
+from when the final round ended. 
+  The prices during the auction are determined by an algorithm 
+that  takes  into  account  current  market  conditions  and  the 
+activity in the auction. Each auction is actively supervised by 
+IBA staff. 
+  These  auctions  have  limited  participation  as  LBMA  has 
+authorized  only  seven  banks  are  allowed  to  participate 
+directly in the Silver auction while fourteen entities in the gold 
+auction.  
+
+ 
+b)  LBMA Platinum and Palladium Prices 
+ 
+
+  The price is independently administered by the London Metal 
+Exchange  (LME)  on  LMEbullion.  The  prices  are  set  twice 
+daily  at  09:45  and  14:00  (London  BST)  in  US  dollars  per 
+.9995 fine ounces.  
+  At  present  5  price  participants  have  been  accredited  to 
+contribute. The participation in the price discovery process is 
+subject to sufficient experience and expertise in relation to the 
+platinum and palladium markets and have received sufficient 
+training in relation to the Auction process. The LME’s auctions 
+are controlled so that they only progress if there are sufficient 
+participants present 
+  LMEbullion  delivers  fully  automated  price-display  auctions 
+wherein the House traders, client traders and direct clients of 
+participants are shown a potential execution price and asked 
+to indicate their interest. If the interest of all participants is 
+within the permitted tolerance, the price will be confirmed and 
+consequential  trade  allocations  are  distributed  back  to  the 
+participants.  Once  the  price  has  been  confirmed,  and  the 
+trades allocated, the price is disseminated on LME website. 
+
+ 
+c)  London Metal exchange (LME) 
+
+ 
+The reference prices published by the LME for various metals is 
+derived directly from trading and acts as benchmark prices for 
+the global metals market. Each LME metal is traded in a five-
+minute Ring sessions with participation limited to selected nine 
+
+ 
+
+Page 10 of 18 
+
+ 
+
+ 
+
+ 
+
+ring-dealing members, which is supposed to be representative of 
+global supply and demand of that base metal. 
+
+ 
+6.4.2  Japan- Japan designated financial benchmark administrators of the 
+Tokyo Interbank Offered Rate (TIBOR) are required to formulate and 
+comply  with  operational  rules,  containing  items  in-line  with  the 
+IOSCO Principles.  
+ 
+6.4.3  Hong Kong- Hong Kong Monetary Authority published a Code of 
+Conduct for Benchmark Submitters - intended to be of generic 
+application  to  all  authorized  institutions  (banks,  restricted  license 
+banks or deposit-taking companies) that submit rates for benchmark 
+fixings.  
+
+ 
+6.4.4  Australia- Administrators of significant benchmarks are required to 
+license  and  comply  with 
+hold  a 
+enforceable rules made by the Australian Securities and Investments 
+Commission (ASIC). The manipulation of any financial benchmark, 
+or  product  used  to  determine  such  a  benchmark,  is  a  specific 
+offence and subject to civil and criminal penalties.  
+
+‘benchmark  administrator’ 
+
+ 
+
+ 
+6.5  From the above, it can be seen that the aforesaid IOSCO benchmarks have 
+been adopted mainly for the specified financial benchmarks. On the other 
+hand  for  commodities,  for  precious  metals  and  other  base  metals,  the 
+agencies  are  trusting  on  the  traded  prices  in  the  spot  market  on  their 
+platforms whether it’s IBA/LME for LBMA or LME to arrive at the spot prices 
+of the respective metal. 
+ 
+IOSCO Principles for Price Reporting Agencies 
+
+7 
+7.1  Price Reporting Agencies (PRAs) are publishers and information providers 
+who report prices transacted in physical and some derivatives markets, and 
+give an informed assessment of price levels at distinct points in time. Some 
+PRAs also report news stories relevant to the commodity markets.  
+ 
+In  2012,  IOSCO  published  its  final  report  on  IOSCO  Price  Reporting 
+Agencies  Principles,  which  set  out  principles  intended  to  enhance  the 
+reliability of oil price assessments that are referenced in derivative contracts 
+subject to regulation by IOSCO members. Although the PRA principles were 
+developed in the context of PRAs and oil derivatives markets, PRAs were 
+encouraged  to  implement  the  principles  more  generally  to  any 
+
+7.2 
+
+ 
+
+Page 11 of 18 
+
+ 
+
+commodity derivatives contracts. The above principles may be accessed 
+at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD391.pdf. 
+ 
+7.3  The PRA principles recognize that there is no requirement on any physical 
+market oil participant to submit transaction data to PRAs. Data is submitted 
+to  PRAs  on  a  voluntary  basis,  as  any  strict  regulation  of  PRAs  or 
+requirements  that  oil  market  participants  who  submit  data  to  PRAs  also 
+submit  all  of  their  transaction  data,  could  potentially  result  in  some  oil 
+market  participants to  decrease  or  even  cease to submit data to PRAs. 
+IOSCO’s approach has therefore focused on creating incentives for PRAs to 
+institute  processes 
+IOSCO  believes  will  enhance  reliability  of 
+assessments that are indicators of the values in the physical oil underlying a 
+derivatives contract. Some of the PRA principles are as under- 
+7.3.1  Market Data Used in Price Assessments: PRAs to give priority to 
+concluded  transactions  in  making  assessments  and  implement 
+measures  intended  to  ensure  that  the  transaction  data  submitted 
+and considered in an assessment are bona fide, including measures 
+to  minimize  selective  reporting.  These  measures  are  intended  to 
+promote the quality and integrity of data and in turn the reliability of 
+assessments.  
+7.3.2  Assessors: The adoption of guidelines to ensure the qualifications of 
+assessors  (employees  of  PRA  responsible 
+for  assessments), 
+including  their  training  and  experience  levels.  This  principle  also 
+addresses  continuity  and  succession  planning 
+in  respect  of 
+assessors. These measures are intended to promote the integrity 
+and consistency of assessment. 
+implementation  and 
+enforcement  of  measures  to  avoid  conflicts  of  interest.  These 
+measures  are  intended  to  insulate  assessments  from  improper 
+influences, such as commercial or personal interests of the PRA or 
+any  of  its  personnel.  The  measures  call  for  the  functional  and 
+operational separation of a PRA’s assessment business from any 
+other  business  that  may  present  a  conflict  of  interest.  These 
+requirements are intended to protect the integrity of assessments.  
+7.3.4  External  Auditing:  An  annual  independent  external  auditing  of  a 
+PRA’s compliance with its methodology criteria and the requirements 
+of these principles, which should be published. This is intended to 
+encourage  compliance  with  the  principles  and  provide  additional 
+confirmation to market authorities of such compliance.  
+
+Interest:  The  documentation, 
+
+7.3.3  Conflicts  of 
+
+ 
+
+ 
+
+ 
+
+that 
+
+ 
+
+Page 12 of 18 
+
+ 
+7.4 
+
+ 
+
+ 
+
+It is observed that some of the PRAs like Platts and Argus are also carrying 
+out  price  assessments  of  commodities  like  grains  and  metals.  A  brief 
+illustration on the process adopted by these two PRA viz., Platts for grains 
+and Argus for metals, is highlighted as under: 
+7.4.1  Platts grain assessments: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+It accepts information from variety of sources through telephonic, 
+electronic messages etc., and  encourages entities to submit any 
+market price such as bids, offers, expressions of interest to trade, 
+confirmed transactions, reported transactional activity heard across 
+the  market  and  indicative  values  etc.,  for  consideration  in  its 
+assessment processes. 
+  All  transactional  data  is  factored  equally  for  use  in  a  particular 
+assessment, as long as such transactions are deemed repeatable 
+and within the established specifications for each product.  
+It  normalizes  disparate  information  from  the  diverse  physical 
+commodity markets back to the standards. Each assessment is a 
+reflection of transactions, bids and offers that fit within established 
+specifications regarding lot size, product dimensions, delivery times 
+and other factors spelled out in the methodology for each product. 
+It does  not specify a  minimum amount of transaction  data,  or a 
+transaction  data 
+its  price 
+assessments  as  physical  commodity  markets  vary  in  liquidity. 
+However, it applies judgment when determining whether information 
+is  suitable  for  publication,  when  normalizing  data  and  where  to 
+assess the final value of the market. 
+  When no bid, offer or transaction data exists, it may consider other 
+verifiable data reported and published through the day, including 
+fully  and  partially  confirmed  trades,  notional  trading  values  and 
+other market information as provided  for publication. Under such 
+circumstances, it may also be able to observe direct market activity 
+or the effect of commonly traded commodities on illiquid markets via 
+spread differentials or via shipping economics. 
+  Platts publishes price assessments for agricultural products such as 
+Wheat and Corn etc. 
+ 
+ 
+  Argus price assessments are based on information received from a 
+wide  cross  section  of  market  participants,  including  producers, 
+
+the  publication  of 
+
+threshold, 
+
+for 
+
+7.4.2  Argus price assessments of metals: 
+
+ 
+
+Page 13 of 18 
+
+ 
+
+ 
+
+ 
+
+consumers and intermediaries. It contacts and accepts market data 
+from all credible market sources including front and back office of 
+market  participants  and  brokers. Argus also receive market  data 
+from electronic trading platforms and directly from the back offices 
+of market participants.  
+  Argus uses the methodological approach deemed to be the most 
+reliable and representative for that market. Argus utilizes various 
+types of market prices including transacted, bids, offers and other 
+market  information,  to  include  spread  values  between  grades, 
+locations, timings, and many other data.  
+It publish lists of deals in their reports that include price, basis, and 
+volume information.  
+In illiquid markets, it assesses the range within which metals could 
+have traded, based on  bids and offers, movements of similar or 
+related grades, and extensive polling of market participants. To be 
+included in the price formation process, deals must meet the strict 
+delivery, timing and specification requirements in the methodology, 
+and must be executed at arm’s length between a willing buyer and 
+seller. In markets where liquidity is split across several locations, 
+information  may  be  normalized  to  a  single  reference  hub,  for 
+example  by  making  adjustments  for  transportation  costs,  where 
+appropriate and in line with market practice. 
+
+ 
+ 
+
+ 
+7.5  Thus, the two large PRAs cited above are observed to be collecting spot 
+price data from a wide cross section of market participants across the globe 
+through various means of communications and after due statistical analysis 
+are  reporting  the  prices  to  the  users.  IOSCO's  second  implementation 
+review of PRA principles in 2015 mentioned that all the four major PRAs 
+including Platts, Argus, ICIS and OPIS were adhering to the guidelines. 
+
+ 
+8  Challenges  with current polling methodology in India : 
+8.1  Lack of incentive –The universe of the poling participants is limited and the 
+same participants are being called many times in a day especially where 
+same contract is listed on more than one exchange. As a result, many a 
+times these polling agents don’t answer the calls from the Exchanges as 
+there is currently no incentive provided to the polling participants to provide 
+the prices and the disclosure is entirely voluntary. 
+ 
+
+ 
+
+ 
+
+Page 14 of 18 
+
+ 
+
+ 
+
+ 
+8.2  Lack of accountability- Since there is no legal obligation on part of polling 
+participants  to  provide  fair  prices,  there  is  lack  of  accountability  to  poll 
+correct prices. 
+
+ 
+8.3  Price  as  per  perception  rather  than  Execution  -The  polling  process 
+integrates  the  views  of  a  set  of  participants  on  their  perception  of  the 
+prevailing price in the underlying market and including/excluding other costs 
+at a given point of time. The participation of the polling participant in the 
+trade  of  the  specific  variety  of  the  underlying  commodity  is  not  a  pre-
+requisite. In times of limited liquidity in the physical markets or when the 
+arrivals for specified variety are low, this system permits/requires the polling 
+participant to extrapolate the price for the specified variety based on trade of 
+other  varieties.    The  basis  for  this  extrapolation  may  vary  as  per  the 
+perception of the polling participant. 
+ 
+8.4  Conflict of Interest - The polling participants are from the value chain of the 
+commodity.  They  have  vested  interest  in  the  pricing  of  the  commodity. 
+Hence there may be possibility that their quotes are influenced to an extent 
+by their interest in the trade. A wide universe of polling participants and 
+subjecting the raw quotes to a process of bootstrapping to eliminate the 
+influence of outliers are the checks put in place to counter this problem.  
+ 
+Improving  transparency  and  Credibility  in  polling  methodology-Some 
+suggestions : 
+
+9 
+
+ 
+
+ 
+
+9.2 
+
+9.1  The  strengthening  of  the  process  of  dissemination  of  spot  prices  of  a 
+commodity may strengthen the convergence and integration of spot and 
+future prices of a commodity thereby enhancing efficiency of both spot and 
+derivatives  market. This  was also highlighted in the report of the expert 
+committee on Integration of Commodity Spot and Derivatives Markets. 
+ 
+Ideal situation would be for exchanges to capture the real-time traded spot 
+prices  of  the  commodities  having  quality  specifications  exactly/similar  as 
+stipulated for the futures contracts being traded on their platform. However, 
+such an ideal solution may not be feasible to accomplish on a regular basis 
+because of the uncertainty of arrivals of commodities in the mandis and the 
+limitation involved in obtaining actual traded prices of a specific quality of 
+goods  which are  being traded on  exchange platform. In the interim,  the 
+following steps may be considered in order to improve the transparency and 
+credibility in polling methodology- 
+
+ 
+
+Page 15 of 18 
+
+ 
+
+ 
+
+ 
+
+is 
+
+limited  and 
+
+the  poling  participants 
+
+9.2.1  Making  it  compulsory  for  Exchanges  to  accredit  an  independent 
+polling  agency  (or  price  reporting  agencies)  for  spot  price  polling 
+who can do the job independently for all the exchanges on a specific 
+commodity.  This  is  necessitated  because  of  the  fact  that  the 
+universe  of 
+the  same 
+participants are being called many times in a day especially where 
+same contract is listed on more than one exchange or the same 
+participant deals in multiple commodities. As a result, many a times 
+these polling agents don’t answer the calls from the Exchanges. The 
+Exchanges can have contractual arrangements with the Independent 
+Polling Agency and issue code of conducts/operating norms under 
+which the agency can poll spot prices for the exchanges from a large 
+cross-section of physical market participants and provide the same 
+to the Exchanges every day as per  pre-scheduled timings.  
+9.2.2  Bringing the independent polling agency conducting polling of spot 
+prices  as  well  as  the  participants  (price  submitters)  under  the 
+regulatory purview of SEBI by registering and supervising them. 
+9.2.3  Providing incentive to the polling participants for submitting the spot 
+prices and requiring polling agencies/exchanges to enter into a legal 
+contract with the polling participants for obtaining their services. This 
+will put necessary contractual obligations/disclosures norms on the 
+polling  participants  for  submission  of  spot  prices.  The  scheme  of 
+incentives  and  dis-incentives  should  be  well  established  in  a 
+transparent manner.  
+9.2.4  The  universe  of  the  polling  participants  should  be  increased  and 
+each polling should have adequate representations from all types of 
+value chain participants. 
+9.2.5  There should be alternate means for collection of the quotes from 
+polling participants like email, app, specific web-based application, 
+which  could  supplement 
+telephonic 
+conversations. 
+9.2.6  Exchanges may consider increasing the time slot for collection of 
+price from polling participants and also increase the frequency of 
+collection  of  the  prices  from  the  polling  participants  so  that  the 
+polling agency can obtain reliable spot prices throughout the day. 
+9.2.7  There should be uniformity in approach amongst the exchanges on 
+the process of price polling methodology. For example issues as to 
+whether the spot prices so polled should include or exclude taxes & 
+other levies/costs and whether polling should be done only at the 
+in  combination  with  additional  centers  with 
+basis  centers  or 
+
+the  present  system  of 
+
+ 
+
+Page 16 of 18 
+
+ 
+
+ 
+
+ 
+
+to 
+
+weightages  attached  to  each  centers  etc.  should  be  uniformly 
+followed by the exchanges across commodities. 
+9.2.8  Instead  of  asking  for  perception  of  polling  participants  about  the 
+price of specific grade of a commodity (as per contract specification), 
+exchange/polling agency may poll them on the actual traded prices 
+of  the  commodity  with  detail  of  the  quality  and  grade  of  those 
+commodities  traded  by  them.  After  gathering  the  polled  data, 
+exchanges may themselves extrapolate these traded prices as per 
+the quality/grade of the commodity specified in contract specification 
+of  the  derivatives  in  an  objective  manner.  This  way,  distortion  in 
+prices  quoted  by  polling  participants  due 
+their  subjective 
+assumptions on the premium/discount applicable to a specific grade 
+may  be  weeded  out.  However  this  may  make  the  process  of 
+gathering data from participants more cumbersome as collection of 
+exact traded price with supporting quality specifications of the goods 
+transacted will be a complex task. Further there will be attendant risk 
+in case the estimates and extrapolations made by the exchange for 
+quality  premium/discount, 
+to 
+warehouse etc., turns out to be not correct.  
+9.2.9  As stated earlier, IOSCO Principles for Financial Benchmark may 
+not  apply  to  the  commodity  future  prices.  However,  the  ISOCO 
+principles  for  Oil  Price  Reporting  Agencies  could  be  generally 
+applied  to  any  commodity  derivatives  contract  to  collect  and 
+disseminate spot prices more accurately and efficiently. It may be 
+explored if the Commodity Derivatives Exchanges adopt the IOSCO 
+principles  for  the  Independent  Polling  Agencies  apart  from  other 
+suggestions  made  above,  for  Spot  Price  determination  of  the 
+commodities being traded on their platforms. 
+transparency  and 
+9.2.10 Any  other  recommendations 
+credibility 
+for  spot  price 
+determination of commodities. 
+
+improving 
+in  polling  methodology  adopted 
+
+transportation  cost 
+
+from  mandi 
+
+for 
+
+10  Public Comments: 
+In  light  of  above,  public  comments/suggestions  are  invited  for  improving 
+transparency,  credibility  and  effectiveness  in  the  existing  spot  price  polling 
+methodology. Comments/suggestions may kindly be provided in the format given 
+below: 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+Page 17 of 18 
+
+ 
+
+ 
+
+ 
+Para No. of Paper 
+ 
+ 
+
+Name of Entity/Person intermediary/ Organization 
+Sr. No. 
+Suggestions* 
+ 
+ 
+ 
+ 
+* Any other suggestions on the subject, including on issues not covered in this paper, 
+may also be given. 
+ 
+
+Rational 
+ 
+ 
+
+The comments may be sent by email to cdmrd_dmp@sebi.gov.in  or alternatively 
+may be sent to following address latest by one month from the date of issue of 
+the consultation paper i.e. July 27, 2018. 
+
+ 
+
+Shri Vikas Sukhwal, 
+Deputy General Manager, 
+Division of Market Policy, 
+Commodity Derivatives Market Regulation Department 
+Securities and Exchange Board of India 
+SEBI Bhavan, Plot C4-A, G-Block,  
+Bandra Kurla Complex,  
+Mumbai – 400051 
+Issued on: June 27, 2018  
+
+ 
+
+ 
+
+Page 18 of 18 
+
+

@@ -1,0 +1,884 @@
+ 
+
+ 
+
+Consultation paper for determining uniform methodology for pricing of non-traded 
+
+and thinly traded non convertible debt securities  
+
+I.  Objective:  
+
+1.  To  solicit  the  comments/views  from  public  on  the  proposed  uniform  methodology  for 
+determining price for non-traded and thinly traded non convertible debt securities ("NCDs" 
+hereinafter).   
+
+II.  Background:  
+
+2.  Corporate  bond  markets  are  becoming  more  and  more  dynamic  given  the  growing 
+number of issuers, diverse set of institutional investors, growing variety and complexities 
+of products and changing dynamics of interest rates. 
+
+3.  The  secondary  market  of  bonds  however  remains  lacklustre  owing  to  various  reasons. 
+The  data  given  below  provides  the  average  trading  in  the  total  outstanding  ISINs  in  the 
+FY 2017-181. 
+
+Period 
+
+Daily 
+
+Month 
+
+Annually 
+
+Average number of 
+
+Total outstanding 
+
+ISINs traded 
+
+160 
+
+1253 
+
+5226 
+
+ISINs 
+
+18137 
+
+18137 
+
+18137 
+
+% of ISIN traded vis a 
+vis outstanding ISIN 
+
+0.88% 
+
+6.91% 
+
+28.81% 
+
+Thus, as can be seen from the abovesaid data, on an average, not even 1% of the  total 
+outstanding ISINs are traded daily. 
+
+4.  For  the  institutions,  which  hold  debt  securities  in  their  portfolio,  there  has  to  be  a 
+mechanism for finding the fair price of these securities, basis which they can value their 
+portfolios and/or trade them. Further, the mechanism shall be so that the values derived 
+should be through a uniform and transparent process. 
+
+5.  The requirement of such a framework also assumes importance in view of the fact that a 
+large  number  of  such  investors  belong  to  categories  such  as  mutual  funds,  insurance 
+companies and pension/retirement funds which have a mandate of daily NAV with an exit 
+
+                                                           
+1 Data source - Crisil 
+
+ 
+
+Page 1 of 15 
+
+ 
+
+ 
+
+facility at any point of time for their investors. This requires a reliable and accurate price of 
+the outstanding securities on a daily basis. 
+
+6.  Availability  of  such  a  uniform  pricing  framework,  will  ultimately  lead  to  improvement  in 
+
+liquidity in the secondary market and thus will help in deepening the bond markets.  
+
+III.  Current State of affairs 
+
+7.  The August 2016 report of the Working Group on Development of Corporate Bond Market 
+in India chaired by Shri  H R Khan,  makes an observation on the current state of  pricing 
+norms for corporate bonds in India. The observation made in the report is as under: 
+
+It 
+
+is  recognised 
+
+that  FIMMDA, 
+
+"Currently,  RBI  and  IRDA  have  advised  their  regulated  entities  to  follow  credit  spread 
+matrix  published  by  FIMMDA  to  value  their  corporate  bond  portfolio.  FIMMDA publishes 
+spread  for  different  ratings  under  various  issuer  segments  like  banking,  NBFC, 
+corporates,  etc. 
+though  a  quasi  self-regulatory 
+organisation, is not a regulated entity. Mutual funds, however, have been, following matrix 
+published  by  credit  rating  agencies  (CRAs).  CRAs  are  bound  by  the  code  of  conduct 
+under  SEBI  (Credit  Rating  Agencies),  1999  to  address  possible  issues  of  conflict  of 
+interest. Further, Mutual Funds require daily pricings as they have an obligation to publish 
+net asset value of their schemes on a daily basis. However, FIMMDA rates and prices for 
+corporate bonds are calculated on a monthly basis. Use of different sources for pricing of 
+corporate  bond  portfolio  by  regulated  entities  adversely  impact  trading  in  the  secondary 
+market." 
+
+8.  The report further, proposes, following on the matter: 
+
+‘a  uniform  pricing  methodology  available  on  a  daily  basis  may  be  followed  by  all  the 
+regulated  entities  for  pricing  of  their  holdings  of  corporate  bonds.    All  regulators  may 
+explore  an  acceptable  mechanism 
+the  Financial 
+Benchmarks India Pvt. Ltd. (FBIL) or credit rating agencies for the same with necessary 
+safeguards and regulatory oversight’. 
+
+including  engaging 
+
+for  pricing 
+
+9.  Thus,  as  have  been  observed  in  the  HR  Khan  Committee  report  the  current  practice  of 
+pricing of corporate bonds varies for different classes of regulated entities and this impact 
+trading  in  the  secondary  market.  It  has  therefore  been  recommended  that  a  uniform 
+pricing  methodology  be  evolved,  which  provides  prices  on  a  daily  basis  and  may  be 
+followed by all the regulated entities for valuing their corporate bond portfolio. 
+
+ 
+
+ 
+
+Page 2 of 15 
+
+ 
+
+IV.  Consultation with market participants 
+
+ 
+
+10. SEBI  consulted  with  representatives  of  various  market  participants  and  industry  bodies 
+such  as  Association  of  Mutual  Funds  in  India(hereinafter  "AMFI")  and  Fixed  Income 
+Money  Markets  and  Derivatives  Association(hereinafter  "FIMMDA").  A  stock  of  the 
+current  set  of  pricing methodologies  was  taken  and  as  identified  in  HR  Khan  committee 
+report,  there  are  primarily  two  different  methodologies  are  currently  been  followed,  one 
+administered by FIMMDA and the other by credit rating agencies.  
+
+11. These  methodologies  were  discussed  amongst  market  participants,  representatives  of 
+
+FIMMDA, AMFI and regulators viz. SEBI, RBI, IRDA and PFRDA. 
+
+V.  Need for review and proposed framework  
+
+12. The most accurate price of any security can be ascertained from the prices at which that 
+particular  security  trades  in  the  market.  However,  as  in  the  case  of  most  of  the  debt 
+securities,  there  is  hardly  any  trading  and  thus  alternative  mechanisms  need  to  be 
+devised for such calculation of price.  
+
+13. Current  practices  for  pricing  of  corporate  bonds  have  significant  divergences  and  thus 
+impacts  both  the  valuation  of  the  investor's  portfolio  and  the  trading  of  such  securities 
+among  them.  Therefore,  for  an  investor  in  corporate  bonds  a  reliable  methodology  for 
+pricing is desirable, where such methodology reflects the current market situation and the 
+process used for calculation of such prices is uniform and standardised. 
+
+14. This  would  help  an  institutional  investor  in  not  only  ascertaining  the  value  of  holding  of 
+debt securities in its portfolio, but also in providing exit to its investors, taking appropriate 
+risk management decisions and helping in secondary trading.  
+
+15. It is also felt that a single reference price would not be achieved by prescribing a principle 
+or methodology, however it  will  generate daily closing prices  which would be derived by 
+following  a  consistent  methodology  for  all  the  bonds  in  the  market  and  would  thus  be 
+more suitable and timely.  
+
+16. The  proposed  methodology  has  been  framed  keeping  in  mind  the  fact  that  pricing    
+
+illiquid debt securities is as much an art as science, hence making the process completely 
+objective  may  neither  be  possible  nor  is  desirable.  Further,  the  idea  is  of  providing 
+uniformity to the process, while not taking away the judgement of a pricing agency. 
+
+ 
+
+Page 3 of 15 
+
+ 
+17. The framework proposes to streamline the process flow and various variables used within 
+the framework for pricing, this is to ensure that market players will be confident of these 
+pricings, will believe in its accuracy and rely on it for transacting. 
+
+ 
+
+18. Further, it is felt that with fairly consistent reference price, market participants will have a 
+starting  point  to  begin  trading  these  debt  securities  and  this  ultimately  may  act  as  a 
+catalyst to spur trading volumes.  
+
+19. Accordingly  it  is  proposed  to  have  a  uniform  methodology  for  pricing  of  non-traded  and 
+
+thinly traded NCDs, which is placed at Annexure- A for public comments. 
+
+VI.  Public comments 
+
+20. Public  comments  are  invited  on  the  proposed  framework  as  at  Annexure-A.  The 
+comments,  may  be  sent  by  email  or  through  post,  latest  by  June  18,  2018,  in  the 
+following format: 
+
+Details of Responder 
+
+Name1/Organization:  
+1if responding in personal capacity 
+Contact number: 
+Email address: 
+ 
+
+ 
+
+ 
+ 
+
+Comments on consultation paper 
+
+ 
+
+Rationale 
+ 
+
+Sr. No.  Para No. 
+ 
+While  sending  email  kindly  ensure  the  subject  is  "Comments  on  the  Consultation  paper 
+for determining uniform methodology for pricing of debt securities" 
+
+Comment/proposed change 
+ 
+
+Postal Address:                                                                        Email Address:  
+
+Ms. Richa G. Agarwal                                                               bonds@sebi.gov.in 
+Deputy General Manager  
+Department of Debt and Hybrid Securities 
+Securities and Exchange Board of India  
+SEBI Bhavan   
+C4-A, G Block  
+Bandra Kurla Complex  
+Mumbai - 400 051  
+Issued on : May 16, 2018 
+
+ 
+
+Page 4 of 15 
+
+ 
+
+ 
+
+Annexure-A 
+
+Proposed framework for determining uniform methodology for pricing of  non-
+traded and thinly traded NCDs 
+
+A  Corporate  bonds  is typically  valued  by  discounting  the  stated  cash flows  using the  yields 
+derived  from  a  certain  process.  Most  of  the  bonds  can  be  valued  using  a  standardised  
+waterfall approach, however there may be certain classes of  non-vanilla  bonds such as tax 
+free bonds, perpetual bonds, etc. where the standard approach as proposed herein may not 
+be suitable.  
+
+Thus  for  a  non-vanilla  security,  the  pricing  agency  shall  determine  the  list  of  such  type  of 
+bonds and the deviations proposed in the standard methodology for valuing such non-vanilla 
+bonds. However, such revised methodology shall be made available in the public domain. 
+
+Further,  as  highlighted  above,  a  large  number  of  investors  in  debts  securities  are  mutual 
+funds,  insurance  companies  and  pension/retirement  funds,  which  require  prices  on  a  daily 
+basis as they have a mandate of daily NAV with an exit facility at any point of time for their 
+investors. Thus, the methodology proposes that the pricing exercise  shall be undertaken by 
+the pricing agency on a daily basis. 
+
+The draft methodology given under is arranged in following order: 
+
+  Meaning  and  context of  various  terms  used  in  the methodology  are  proposed  in  the 
+
+paper. 
+
+  Details of the methodology for undertaking pricing activity for bonds. 
+  Approach of construction of spread matrix. 
+  Pollers and polling methodology 
+  Dissemination of the pricing related information 
+
+  
+
+1.  Meaning and context of various terms  
+
+A.  Definitions: 
+
+For  the  purpose  of  this  framework,  unless  the  context  otherwise  requires,  the  terms 
+defined    herein    shall    bear    the    meanings    assigned    to    them    below    and    shall    be 
+construed accordingly: 
+
+a)  "Pricing  agency"  shall  mean  a  corporate  entity  which  undertakes  the  daily  pricing 
+activities  and  is  regulated  by  either  of  SEBI  or  RBI  and  complies  with  following 
+requirements: 
+
+ 
+
+Page 5 of 15 
+
+i. 
+
+a minimum net worth of INR 10 crore; 
+
+ii. 
+
+shall not price a bond, which it has issued itself; 
+
+ 
+
+iii. 
+
+iv. 
+
+v. 
+
+vi. 
+
+has  not  less  than  two  employees,  each  with  at  least  5  years  of  relevant  working 
+experience in areas related to bond trading or bond pricing;  
+
+necessary 
+arrangements, for  undertaking activities as an bond pricing agency; 
+
+terms  of  systems,  security  and  contingency 
+
+infrastructure 
+
+in 
+
+shall maintain  complete records of  its operations related to bond pricing including 
+audit trail of the process and activity for at least seven years;  
+
+the entity, its key personnel's and its directors are fit and proper persons in terms 
+of following: 
+
+integrity, reputation and character;  
+
+ 
+  absence of convictions and restraint orders;  
+  competence including financial solvency and networth;  
+  absence of categorization as a willful defaulter .  
+
+vii.  where  a  shareholder  in  the  pricing  agency  is  a  credit  rating  agency  (CRA)  or  the 
+CRA  is  itself  the  pricing  agency,  adequate    measures  must  be  taken  so  as  to 
+mitigate  any  conflict  of  interest  between  the  rating  operations  and  the  pricing 
+operations.  Further,  full  independence  shall  be  ensured  of  the  operations  of  the 
+pricing agency.  
+
+b)  "Bonds" shall mean non convertible debt securities issued by any corporate  in India; 
+
+c)  "Securities" shall mean Non Convertible Debt Securities (NCDs), Commercial Papers 
+
+(CPs) and Certificate of Deposits (CDs); 
+
+d)  "T- day" shall mean the day for which price is being calculated for a bond; 
+
+e)  "Trade/issuance" shall mean following trades/issuances: 
+
+i.  all trades in securities, value of which is Rs. 5 crore or above; 
+
+ii.  all primary issuances of securities, value of which is Rs. 25 crore or above. 
+
+f)  "Cut  off  time"  shall  mean  timings  within  which  any  trade/issuance  reported  will  be 
+taken  into  account  while  determining  the  price  of  bonds  and  such  timings  shall  be 
+between 9 am to 5 pm of T-Day. 
+
+Page 6 of 15 
+
+ 
+
+ 
+
+B.  Other parameters:  
+
+The proposed pricing framework shall be operationalised in context of the parameters as 
+defined here under 
+
+ 
+
+a)  Similar Maturity:  
+
+i.  While calculating price of a bond the primary reference is the prices at which trades 
+have  happened  in  that  bond.  However,  in  the  event  where  no  such  trades  have 
+happened, the nearest approximation is the trades in a security which is issued by 
+the same issuer and whose residual tenor matches that of the bond, whose price is 
+to be determined. 
+
+ii.  While matching the residual tenor of two securities, it may not be possible to match 
+the exact tenor. In such cases, the industry practice is to make various buckets of 
+residual  tenors  of  the  bonds,  which  are  to  be  priced,  and  match  them  against  the 
+securities  which  are  maturing  within  a  certain  time  frame.  Thus,  for  a  particular 
+bucket of residual tenor, all the securities maturing in a particular time frame can be 
+used. These are categorized as similar maturity security.  
+
+iii.  The proposed criteria to be followed for such categorization shall be as under: 
+
+Residual tenor of bond, which is 
+to be priced 
+Upto 3 months 
+
+Buckets in which the security is 
+maturing 
+Calendar Fortnightly bucket 
+
+Greater than 3 months to 1yr 
+
+Calendar Monthly bucket 
+
+Greater than 1yr to 3yr 
+
+Quarterly bucket 
+
+Beyond 3 years 
+
+Half yearly bucket 
+
+iv.  Following example will provide a greater clarity in this matter:   
+
+The price of a bond ABC, which is maturing on June 01, 2019, is to be calculated 
+on  May  01,  2018.  Since  the  residual  tenor  of  bond  ABC  lies  between  1  year  to  3 
+year, in terms of the aforesaid criteria, any security maturing between April 01, 2019 
+to June 30, 2019, will be categorised as similar maturity security.  
+
+Thus, trades in any such similar maturity security can be used for the purposes of 
+determining price of bond "ABC". 
+
+ 
+
+Page 7 of 15 
+
+ 
+
+ 
+
+ 
+
+b)  Similar issuer:  
+
+i.  Where  the  trades/issuances  are  not  available  for  the  similar  maturity  securities  of 
+the  same  issuer,  a  close  approximation  is  the  trades/issuances  for  the  similar 
+maturity  securities  of  another  issuer,  where  such  issuer  matches  in  terms  of 
+industry,  rating  etc.,  Such  kind  of  reference  issuers  are  categorised  as  similar 
+issuer. 
+
+ii.  For the purpose of identification of a “similar issuer” under the proposed framework, 
+
+following criteria may be considered: 
+
+1.  Issuers within same sector/industry 
+
+2.  Issuers within same rating band 
+
+3.  Issuers  with  same  parent/  within  same  group  with  similar  financials  i.e.  net 
+
+worth, debt equity ratio, similar borrowings frequency, etc. 
+
+4.  Issuers with debt securities having same guarantors 
+
+iii.  The aforesaid criterion are broad principles and the pricing agency shall determine 
+the  manner  of  identification  of  the  similar  issuers,  in  terms  of  the  criteria  above. 
+However, the methodology so used shall be made available in public domain.  
+
+c)  VWAP when multiple trades/ issuances:  
+
+i. 
+
+In  cases  where  there  are  multiple  trades/issuances  of  any  particular  security,  in 
+such cases volume weighted average price (VWAP) of all the trades/ issuance price 
+shall be used for determining the price under aforesaid framework. 
+
+ii.  This is given the fact that the trades in these securities are far and few and the last 
+traded price (LTP), of a security at times may be an aberration or may not represent 
+the  existing market levels. Thus, to deal with such issues, VWAP is proposed. 
+
+iii.  Further, a study was conducted for a period of 16 month starting from 01.01.2016 
+and it was noted that the deviation between the yields calculated as per VWAP and 
+LTP  was less than 5 bps in respect of 94% of the ISINs traded during the period. 
+Further,  it  was  also  noted  that  in  respect  of  a  significant  number  of  ISINs  the 
+number  of  trades  was  just  one  or  two  and  thus  the  VWAP  and  the  LTP  were  the 
+same. 
+
+ 
+
+Page 8 of 15 
+
+ 
+
+ 
+
+ 
+
+d)  Outlier trades:  
+
+i.  The prices of the securities at which they are traded, basis which all the calculation 
+is carried out, is not traded price but reported price viz. price at which the transfers 
+have taken place on bilateral basis and then subsequently reported on exchanges. 
+
+ii.  Thus,  it  would  be  critical  to  identify  and  disregard  trades  which  are  aberrations, 
+which do not reflect market levels and may potentially lead to mispricing of security 
+or group of securities. 
+
+iii.  The  below-said  criteria  is  proposed  to  determine  „outlier  trade(s)‟,  which  shall  be 
+
+disregarded while calculating the VWAP of the trades: 
+
+1.  Securities with rating of AA and above, in case the residual tenor of securities is 
+less than 1 year, any trade outside of plus minus 50 bps from the previous days 
+yield of the security should be construed as an outlier trade.  
+
+2.  Securities with rating of AA and above, in case the residual tenor of securities is 
+1  year  or  more  than  1  year,  any  trade  outside  of  plus  minus  25  bps  from  the 
+previous days yield of the security should be construed as an outlier trade.  
+
+3.  Securities with rating below AA irrespective of residual tenor of such securities, 
+trades outside of plus minus 50 bps, from the previous days yield of the security 
+should be construed as an outlier trade. 
+
+e)  Exceptional events: 
+
+i. 
+
+It  is  understood  that  there  are  certain  exceptional  events,  occurrence  of  which 
+during  market  hours  may  lead  to  significant  change  in  the  yield  of  the  debt 
+securities. Hence, such exceptional events need to be factored in while calculating 
+the price of the securities.  
+
+ii.  Thus, for the purpose of calculation of VWAP of trades and identification of outliers, 
+on  such  exceptional  events  date,  rather  than  considering  whole  day  trades,  only 
+those trades shall be considered which have occurred post the event (on the same 
+day).  The  pricing  agency,  while  providing  the  prices  shall  however  disclose  the 
+timings beyond which trades have been considered. 
+
+iii.  Therefore, there is a need of identifying such events so that there is a defined set of 
+such  exceptional  events  available  to  all  the  pricing  agencies.  This  will  help  in 
+bringing  uniformity  across  all  the  pricing  agencies  and  will  bring  objectivity  to  the 
+
+Page 9 of 15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+entire  process.  The  following  events  are  therefore  proposed  to  be  identified  as 
+exceptional events for the purpose of this framework: 
+
+1.  Monetary / Credit policy 
+
+2.  Union budget 
+
+3.  Government borrowing / Auctions days 
+
+4.  Material statements on sovereign rating 
+
+iv.  Based  upon  the  experience  gained  with  this  framework,  the  list  of  exceptional 
+
+events may be expanded at a later stage. 
+
+2.  Proposed methodology for undertaking pricing activity 
+
+For  determining  the  price  of  any  particular  bond, following  waterfall  mechanism  shall  be 
+followed. The mechanism and the operating framework of the same is as under:  
+
+A.  Mechanism 
+
+For determination of the price of a bond "X" issued by an issuer "Y", the pricing agency 
+shall follow the below-said waterfall mechanism.  
+
+a)  Step 1: Trade in X:  
+
+i.  Pricing agency shall use T-day trade data of the bond "X". 
+
+ii. 
+
+If there are  more than one trade then  value weighted average price (VWAP)  of all 
+such trades shall be used to determine the price. Outliers, if any, to be excluded. 
+
+iii. 
+
+In case no trade has taken place on T-day, move onto step 2.  
+
+b)  Step 2: Secondary Trade of similar maturity security of issuer "Y":  
+
+i.  Pricing  agency  shall  use  the  T-day  trade  data  of  any  other  security  by  issuer  "Y", 
+
+where such security is of similar maturity as that of bond "X".  
+
+ii. 
+
+If  more  than  one  trade  has  taken  place  in  such  security,  then  VWAP  of  all  such 
+trades shall be used to determine the price. Outliers, if any, to be excluded. 
+
+iii. 
+
+In  case  no  trade  has  taken  place  in  the  same  issuer  similar  maturity  bucket  on T-
+day, move onto step 3. 
+
+ 
+
+Page 10 of 15 
+
+ 
+
+c)  Step 3: Primary issuance of same issuer similar maturity:  
+
+i.  Pricing  agency  shall  use  the  price  at  which  the  primary  issuance  of  a  security  by 
+issuer  "Y"  has  taken  place  on T-day,  where  such  security  is  of  similar  maturity  as 
+that of bond "X".  
+
+ii. 
+
+If there are more than one issuance of securities within similar maturity bucket, then 
+VWAP of  all such issuances shall be used to determine the price.  
+
+iii. 
+
+In  case  there  are  no  issuance  of  a  security  in  the  same  issuer  similar  maturity 
+bucket, on T-day, move onto step 4.  
+
+d)  Step 4 :Secondary Trade of similar issuer similar maturity:  
+
+i.  Pricing  agency  shall  use  the  T-day  trade  data  of  a  security  by  any  other  issuer, 
+where  such  security  is  of  similar  maturity  as  that  of  bond  "X"    and  the  issuer  is 
+categorised within the definition of similar issuer as that of issuer "Y".  
+
+ii. 
+
+If  more  than  one  trade  has  taken  place  in  such  security,  then  VWAP  of  all  such 
+trades shall be used to determine the price. Outliers, if any, to be excluded. 
+
+iii. 
+
+In  case  no  trade  has  taken  place  on  in  the  similar  issuer  with  similar  maturity 
+security on T-day, move onto step 5.  
+
+e)  Step 5: Primary issuance of similar issuer similar maturity:  
+
+i.  Pricing agency shall use the price at which the primary issuance of a security of any 
+other issuer has happened on the T- day, where such security is of similar maturity 
+as  that  of  bond  "X"    and  the  issuer  is  categorised  within  the  definition  of  similar 
+issuer as that of issuer "Y".  
+
+ii. 
+
+If there are more than one issuance of securities within similar maturity bucket, then 
+VWAP of  all such issuances shall be used to determine the price. Outliers, if any, 
+to be excluded. 
+
+iii. 
+
+In case no issuance of a security, of similar issuer with similar maturity, has taken 
+place on T-day, move onto step 6.  
+
+f)  Step 6: Construction of matrix: This step would involve construction of yield spread 
+matrix  by  the  pricing  agency.  The  construction  of  matrix  shall  be  done  in  terms  of 
+framework as defined under at Point 3 below. 
+
+Page 11 of 15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pictorial representation of the aforesaid waterfall mechanism for pricing: 
+
+Step -1: VWAP of the T-day trades in the Bond "X"
+
+Outliers to be excluded
+
+Step -2: VWAP of the T-day trades of same issuer similar maturity security
+
+Outliers to be excluded
+
+Step -3: Price at which primary issuance of same issuer similar maturity
+security has happened
+
+If more than one issuance then VWAP
+
+Step - 4: VWAP of the T-day trades of similar issuer similar maturity
+
+Outliers to be excluded
+
+Step -5: Price at which primary issuance of similar issuer similar maturity has
+happened
+
+If more than one issuance then VWAP
+
+Step 6: if none of the above data points are available then matrix to be
+constructed
+
+ 
+
+ 
+
+ 
+
+Page 12 of 15 
+
+ 
+3.  Approach for construction of spread matrix: 
+
+ 
+
+In  cases  where  the  pricing  of  bonds  is  not  possible  in  terms  of  process  as  mentioned 
+between  Step  1  to  Step  5  of  Point  2  above,  than  to  calculate  prices  of  such  bonds, 
+spreads  are  to  be  determined  on  certain  representative  securities  of  such  bonds.  The 
+manner  of  identification  of  such  representative  issuers  and  calculating  spreads  is  as 
+under: 
+
+a)  Segmentation of corporates 
+
+i.  The entire corporate sector is first categorised across  following four sectors i.e. all 
+
+the corporates will be catalogued under one of the below mentioned  bucket: 
+
+1.   Public Sector Undertakings/Financial Institutions/Banks; 
+
+2.  Non Banking Finance Companies - except Housing Finance Companies; 
+
+3.  Housing Finance Companies; 
+
+4.  Other Corporates  
+
+b)  Representative issuers 
+
+i.  For  the  aforesaid  4  sectors,  representative  issuers  shall  be  chosen  by  the  pricing 
+agency  for  each  of  the  rating  (I.e.  between  "AAA"  or  equivalent  to  "D"  or 
+equivalent).  
+
+ii.  The  spreads  have  to  be  determined  for  the  representative  issuers,  so  chosen,  for 
+any  particular  sector.  The  spreads  determined  shall  be  used  for  valuing  bonds 
+issued by the corporates identified within that particular sector 
+
+iii.  The manner of identification of the representative issuers shall be as defined by the 
+
+pricing agency and such methodology shall be made available in public domain.  
+
+c)  Calculation of spreads and construction of matrix 
+
+i.  Spreads for any particular sector shall be determined in the following way: 
+
+1.  Spreads to be calculated for representative issuers in entire rating spectrum, for 
+securities with following residual maturities of 0.5, 1, 2, 3, 4, 5, 7, 10, 15, 20, 25 
+and 30 years. 
+
+ 
+
+Page 13 of 15 
+
+ 
+
+ 
+
+2.  The 
+
+trades/primary 
+
+in  a  security(ies)  of  such 
+representative  issuers,  wherever  available,  shall  be  taken  as  trades  for  the 
+purpose of calculation of spreads. 
+
+issuances  carried  out 
+
+3.  In the event of no data related to trades/primary issuances in the securities of 
+the  representative  issuer  is  available,  polling  shall  be  conducted  from  market 
+participants to gauge from the price at which a particular security may be priced 
+at.  Further,  while  seeking  market  polling  no  concept  of  outliers  shall  be 
+applicable. 
+
+4.  The  spreads  calculated  from  either  of  secondary  trades  on  securities  of  such 
+issuers,  primary  issuances  of  securities  or  from  the  market  poll  can  then  be 
+depicted in form of a matrix. 
+
+5.  Priority of inputs while constructing the matrix shall be in the order of secondary 
+market trades, price at which primary issuance has happened and then market 
+polls. If polls are not available for a particular reference, interpolation of existing 
+data is to be used. 
+
+ii.  The  principles  of  VWAP,  outlier  trades  and  exceptional  event  shall  be  applicable 
+
+while constructing the matrix on the basis of trades/primary issuances.   
+
+iii.  The credit rating to be used for the representative issuers shall be latest and shall 
+not  be    more  than  12  months  old.  Also,  in  case  there  are  two  credit  ratings,  the 
+lower rating to be considered.  
+
+iv.  Residual  tenor of  the  securities of  representative  issuers  shall be  used  calculation 
+
+of spreads.  
+
+v.  Polling shall be undertaken with a minimum quorum of atleast 7 pollers, where such 
+
+pollers are identified from the universe of pre identified pollers. 
+
+4.  Pollers and Polling Methodology 
+
+a)  Governance framework 
+
+i.  While constructing a matrix for pricing, one of the very important parameters is the 
+polls by the market participants, which provide their view on the yields of securities 
+across different sectors and ratings.  
+
+ 
+
+Page 14 of 15 
+
+ 
+
+ 
+
+ii.  The  “Uniform  code  of  Conduct  for  submitters”  issued  by  FIMMDA2,  provides  the 
+governance  framework  for  pollers.  The  document,  inter-alia,  provides  the  various 
+compliances, policies and procedures to be followed by a poller and the manner of 
+polling.  
+
+iii.  The  aforesaid  "Uniform  code  of  conduct  for  submitters"  is  proposed  to  be  the 
+guiding  structure  and  a  framework  for  pollers  shall  be  finalised  in  terms  of    the 
+aforesaid  Uniform  code  and 
+framework. 
+Comments/inputs,  if  any  on  the  aforesaid  code  may  also  be  forwarded  along  with 
+the comments on the other proposals in this paper. 
+
+the  proposals  contained 
+
+in 
+
+this 
+
+b)  Universe of pollers 
+
+i.  A  universe  of  pollers  shall  be  identified  among  following  regulated  financial  sector 
+entities  viz.  insurance  companies,  pension/provident  funds,  banks,  mutual  funds, 
+brokers, primary dealers and merchant bankers. Only such entities, of the aforesaid 
+class  of  entities,  shall    be  included  in  the  universe  of  pollers  which  deal  in  the 
+corporate bond markets and which comply with uniform code of conduct as referred 
+at para 4(a) above. 
+
+ii.  From  the  universe  of  pollers,  entities  which  are  required  to  poll  for  any  particular 
+day shall be identified as per  the methodology devised by the pricing agency. The 
+methodology shall also provide for a rotation policy and the methodology  needs to 
+be disclosed in public domain. Further, entities who have been identified for polling 
+on any particular day, shall be mandatorily required to poll.  
+
+iii.  All,  the  Financial  sector  Regulators  would  be  requested  to  prescribe  the  same  to 
+
+their regulated entities.  
+
+5.  Dissemination of the data in public domain 
+
+a)  The pricing provided by the different pricing agencies may be made available by them, 
+on a daily basis, on their website for public at large. This will ensure that any kind of 
+back-testing and/or verification could be easily done. 
+
+b)  However, to ensure that the commercial interest of the pricing agencies is preserved, 
+
+such pricing data may be made available to public at large after a delay of  one day.  
+
+                                                           
+2http://www.fimmda.org/Uploads/general/UnifiedCodeofConductforSubmittersofallBenchmarks21stNovember2014-
+new.pdf 
+
+ 
+
+Page 15 of 15 
+
+

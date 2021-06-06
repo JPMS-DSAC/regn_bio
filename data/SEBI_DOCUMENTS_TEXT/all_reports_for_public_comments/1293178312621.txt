@@ -1,0 +1,398 @@
+Placed  below  is a Report of the  sub  group  formed  by  the  Secondary  Market  Advisory
+Committee (SMAC) on the issue of ‘Capital Adequacy Norms and Net Worth Criteria’
+for stock brokers. The report is placed for eliciting public comments. It may be noted that
+report  does  not  necessarily  reflect  the  views  of  SEBI  on  the  issue.  SEBI  would  be
+considering the comments received from different sources before taking a final view on
+the issue.
+
+Public  comments  on  the  report  may  be  sent  to  SEBI,  Division  of  Policy  and
+Supervision-1,  Market  Intermediaries  Regulation  and  Supervision  Department,
+World  Trade  Centre,  29th  Floor,  Cuffe  Parade  Mumbai  400  005  or  emailed  to
+ashishk@sebi.gov.in  or  faxed  to  91-22-22164482/22164494  latest    by    October  29,
+2004.
+
+Table of contents
+
+Sr. No Title
+1
+2
+
+Report on Net worth & Capital adequacy norms for brokers
+Terms of reference
+
+Page No’s
+2-10
+11
+
+1
+
+Report of the Sub-Committee of SMAC
+
+on
+
+Net worth & Capital adequacy norms for brokers
+
+The  Secondary  Market  Advisory  Committee  (SMAC),  at  its  meeting  held  on  February
+17, 2004 discussed the issue of net worth and capital adequacy for brokers. The key issue
+as  outlined  in  the  agenda  item  for  discussion  was  whether  the  overall  exposure  of  a
+member  broker  should  also  have  some  correlation  with  its  net  worth,  apart  from  the
+capital deposit made with the exchanges. The argument proposed was that given the need
+for brokers to have sufficient liquidity at all times to meet their obligations, the business
+they do should be in proportion to the net worth of the brokers.
+
+SMAC had noted that that there are basically two kinds of risks as far as brokers and their
+dealings  are  concerned.  The  first  category  of  risk  was  the  systemic  risk  posed  by  the
+broker  to  the  exchange  which  was  well  covered  under  the  existing  risk  management
+system and capital adequacy norms. The second category of risk was the one posed by a
+broker default to its own clients. The arrangements available to cover this risk needed a
+review.  In  this  context,  SMAC  set  up  a  sub-committee  to  examine  this  issue  and
+recommend to the main committee a sensible course of action.
+
+The  members  of  the  sub  committee  included  representatives  of  BSE,  NSE  and  a  few
+other  members  of  SMAC.  The  terms  of  reference  of  the  sub-committee  are  given  at
+Annexure - 1. The sub-committee held two meetings on March 23, 2004 and on April 6,
+2004 respectively.
+
+At the outset, the committee felt that it was important to clearly identify the problem that
+was sought to be addressed by the use of net worth.
+
+Systemic Settlement Risk
+
+The first area where net worth could be available as a potential criterion is in addressing
+the  settlement  risk.  However,  the  sub-committee  noted  that  the  experience  with  net
+
+2
+
+worth in any kind of risk management situation has been poor. Net worth has proven to
+be largely notional and illusory in a stress situation as it is the first item to be transferred
+out  of  the  firm  by  managers,  leaving  nothing  with  which  to  face  the  risk.  The  legal
+environment exacerbates the situation where it is virtually impossible for a third party to
+get  hold  of  the  assets  of  the  entity  before  they  are  removed.  While  this  is  true  of  all
+business situations that a broker may deal in, it is particularly true of a real time business
+such as exchange settlement. Thus, net worth is unlikely to offer any real cover against
+risk management in these situations.
+
+The  sub-committee  was  of  the  view  that  the  current  settlement  risk  management
+framework, which consists of VaR coupled with Expected Tail Loss (ETL), has served
+the market well and withstood the test of time in the face of unprecedented volatility. To
+cite just one example, in a recent case, two securities witnessed intra-day volatility of
+approx.  40%  with  very  high  open  positions.  The  risk  management  system  held  up
+adequately in the face of such extreme price movements. It is not clear that there is an
+important problem here that net worth requirements can be called upon to solve.
+
+Broker Default Risk for Clients
+
+Even though systemic settlement risk is being handled efficiently by the exchanges, the
+sub-committee expressed concerns about the risk faced by the clients from  a default by
+their  own  brokers.  The  Committee  was  not  persuaded  that  net  worth  would  offer  a
+potential  solution  to  this  problem  either,  for  much  of  the  same  reasons  as  were
+applicable  in  the  case  of  systemic  settlement  risks.  In  fact,  if  net  worth  offers  poor
+protection  to  the  exchange  /  clearing  corporation  to  secure  their  dues  from  defaulting
+brokers, it is extremely unlikely that individual investors will do any better in securing
+their dues from broker net worth.
+
+The  sub-committee  noted  that  at  present,  exchanges  maintain  significant  Investor
+Protection Funds (IPFs) to cover the risk faced by clients from defaults by their broker.
+Currently, at the two main exchanges, BSE & NSE, this cover extends up to an amount
+of  Rs.  10  lakhs  in  the  case  of  default  of  a  member.  This  system  is  akin  to  the
+
+3
+
+arrangement for protecting small depositors from defaults in the banking system. In fact,
+if  anything,  the  eligibility  amount  of  Rs.  10  lakhs  is  generous  in  defining  small
+investors, when compared with the limit of Rs.1 lakh that is presently used by DICGC in
+the context of bank failure.
+
+In  terms  of  the  performance  of  the  IPF,  the  sub-committee  noted  that  rejections  of
+claims have been mainly due to improper documentation, where the investors have been
+unable  to  provide  sufficient  proof  of  the  deals  in  question.  Investors  who  deal  with
+unregistered intermediaries have been the largest victims. The sub-committee was of the
+view  that  the  IPF  should  motivate  investors  to  deal  only  with  the  registered
+intermediaries.
+
+Under the IPF framework, credit risk against the broker is not valid for investors who
+have positions of more than Rs.10 lakh with a single broker. The sub-committee felt that
+this  risk  should  be  addressed  by  means  of  a  disclosure  framework  for  brokers  so  that
+such investors are in a position to take informed decisions based on the disclosures. This
+was  analogous  to  the  framework  of  the  banking  sector  where  the  tools  of  market
+discipline  (i.e.  stock  market  listing,  subordinated  debt  issuance  etc.)  convey  greater
+information about banks to the large depositors.
+
+On  another  front,  the  sub-committee  noted  that  the  deposits  given  by  clients  to  the
+brokers  as  margin  money  are  also  covered  under  IPF  in  the  event  of  a  default  by  the
+broker. However, there was a distinct possibility of funds / securities so placed with the
+brokers  being  identified  as  deposits  /  loans  by  them  in  their  books  and  not  shown
+specifically  as  margin  money  for  securities  trading.  In  such  a  situation,  the  investors
+would lose the cover of IPF. The sub-committee, therefore, recommended that brokers
+be required to clearly state on the client receipts whether the funds are by way of margin
+money  or  are  for  any  other  purpose.  The  exchanges  should  also  disseminate  this
+requirement widely to the investing public so that investors may adequately protect their
+margin deposits.
+
+4
+
+Risk owing to Proprietary Dealings of Brokers
+
+The committee was of the view that substantial credit risk to clients emanates from the
+proprietary  dealings  of  brokers,  of  which  clients  have  no  knowledge.  When  judging
+between the credit risk of broker A versus broker B, the investor needs to know the size
+and risk of proprietary positions, in order to make judgments about credit risk.
+
+The  sub-committee  also  expressed  concerns  that  some  brokers  may  collect  margin
+monies  from  their  clients  and  use  the  same  to  claim  exposure  benefit  for  their
+proprietary transactions.
+
+Several approaches were suggested by the sub-committee to address the above issues.
+One  was  to  require  a  complete  segregation  of  proprietary  business  from  the  brokers’
+agency business. This did not find unanimity on the grounds that it would entail huge
+costs  for  the  brokers  as  they  would  have  to  duplicate  the  entire  setup  for  proprietary
+dealings.
+
+The second proposal was to ensure through regulation that brokers do not receive the
+benefit of clients’  monies and securities for exposure on their proprietary dealings.  This
+suggestion found favour with the sub-committee which recommended that “proprietary
+trading”  should  be  clearly  defined  and  include  categories  like  self,  group  companies,
+directors, partners, subsidiary companies etc.
+
+A third possibility was to alert investors to the creditworthiness of brokers with the use
+of credit rating of brokers. The discussion was mixed on this suggestion. It was felt that
+rating may not be a useful tool on account of the following reasons:
+
+? 
+? 
+? 
+? 
+
+Inability of rating agencies to capture information in advance.
+Rating per se is a post mortem activity.
+Time period involved in rating the brokerage houses.
+Annual rating of brokers is too infrequent to be useful.
+
+5
+
+? 
+? 
+
+Non accountability of the rating agencies.
+High costs of rating.
+
+The  sub-committee  felt  that  while  credit  rating  may  not  prove  to  be  an  effective
+instrument to help investors to protect themselves against possible broker default, it may
+still be worthwhile to allow brokers to have the option of obtaining a credit rating. This
+proposal has merit for the following reasons:
+
+? 
+
+? 
+? 
+
+Credit rating would allow a professional analysis of information about a
+broker and present it to investors in a simple and meaningful way.
+Credit rating would be optional; it would not be a tax on the system.
+Over the years, credit rating companies are likely to improve their knowledge
+and skills  leading to better ratings.
+
+The sub-committee also felt that in case credit rating for brokers has to be introduced, it
+should be more in terms of rating of compliances/infrastructure.
+
+The sub-committee was also of the view that a system for disclosure of some relevant
+information about brokers to the investors would be a more useful tool for the investors.
+The disclosures may include:
+? 
+
+Disciplinary  action  (s)  taken  by  SEBI  /  exchanges.  It  is  expected  that  this
+disclosure  would  give  the  investors  information  about  the  quality  of  processes,
+and the compliance culture present in the brokerage firm.
+Aggregate open proprietary position. This would convey the scale of proprietary
+trading of the brokerage firm.
+VaR  of  the  open  position.  This  would  convey  the  riskiness  of  the  proprietary
+position of the broker. For example, some brokers which exclusively do arbitrage
+in  their  proprietary  book  would  show  up  as  having  a  large  gross  proprietary
+position, but have an extremely low VaR. This would signal to the investor that
+the credit risk owing to proprietary trading is small.
+
+? 
+
+? 
+
+6
+
+On  the  question  of  disclosure  of  disciplinary  actions,  it  was  felt  that  many  of  the
+violations  observed  during  inspection  of  brokers  are  procedural  in  nature  and  to  that
+extent may not give an entirely meaningful picture of the trustworthiness of the brokers.
+Moreover,  fines  imposed  by  the  Exchanges  /  SEBI  are  in  the  form  of  an  aggregate
+number  and  may  not  give  an  adequate  idea  of  the  nature  and  gravity  of  offences.
+Nevertheless, the committee felt that if the information is presented properly, it would
+allow clients to build  a useful assessment of the broker, particularly since the mapping
+table  used  by  exchanges  in  converting  a  violation  into  a  monetary  penalty  seeks  to
+reflect the materiality of the violation.
+
+While  disclosure  of  VaR  was  considered  an  attractive  proposition,  there  was  concern
+that a typical retail investor may have trouble interpreting the VAR number and relating
+it  to  the  credit  assessment  of  their  broker.  With  regard  to  benchmarking  of  VaR
+numbers, while this could certainly be an issue initially, over time, the committee felt,
+investors would get a sense of how to interpret the numbers and would be able to relate
+it to the credit assessment of their broker.  This process will be eased by the fact that
+Indian investors already have many years of experience of relating to VaR numbers in
+the context of the margin system.
+
+Net worth and Multiple Broker Businesses
+
+The  sub-committee  also  discussed  the  concerns  arising  out  of  brokers  undertaking
+various  activities  in  addition  to  the  brokerage  activity  such  as  depository  participant,
+lending  to  customers,  commodities  trading,  underwriting,  merchant  banking,  securities
+lending and borrowing, portfolio management, RTA, margin trading etc.
+
+Though  the  sub-committee  had  not  found  merit  in  using  net  worth  as  a  tool  of  risk
+management for brokerage activity, it felt that net worth may serve as a useful eligibility /
+license criteria for brokers to undertake other businesses as this would reflect the ability
+of  the  person  /  organization  to  meet  the  requisite  infrastructural  /  business  capacity
+requirements. The sub-committee agreed that each business undertaken by a broker has
+specific  requirements  of  technology,  compliance,  client  servicing  etc.,  all  of  which
+
+7
+
+require certain minimum resources. A minimum net worth would give the confidence in
+the  organisation’s  ability  to  adequately  invest  in  and  run  the  business.  The  sub-
+committee, therefore, recommended that net worth be prescribed as an eligibility / license
+criteria for each specific business a broker may engage in.   
+
+In  this  context,  the  sub-committee  felt  that  instead  of  using  one  standard  net  worth
+criterion,  the  various  activities  handled  by  brokers  should  be  classified  into  clusters  of
+businesses  /  activities  for  the  purpose  of  arriving  at  a  suitable  net  worth  criterion.
+Accordingly, the sub-committee classified the activities into three broad categories viz:
+
+1. 
+2. 
+3. 
+
+Basic broking activity (agency broking business and/ or proprietary business)
+Advisory business (merchant banking)
+Asset handling business (margin trading, securities lending and borrowing,
+underwriting, depository participant, portfolio management etc.)
+
+The sub-committee recommended net worth slabs for the above activities as follows:
+
+Type of Activity licensed to brokers
+
+Net Worth Eligibility for
+
+Base license (either proprietary or agency)
+Proprietary and Agency
+Pure advisory business (IPOs / / RTA.)
+Asset  handling  (underwriting  /  securities  lending  or
+borrowing  of  own  funds,  margin  trading,  depository
+participant / portfolio management)
+
+the Activity
+
+Rs. 50 lacs
+Rs. 100 lacs
+Rs. 25 lacs
+Rs. 50 lacs for each of the
+activity
+
+It  also  recommended  that  the  above  net  worth  requirement  for  the  brokers  should  be
+worked out on a cumulative basis.
+
+In terms of implementation, the sub-committee felt that the existing brokers may be given
+a time of 3 years to enhance their net worth to meet the above requirements.  However,
+any  new  company  /  existing  company  wishing  to  undertake  fresh  business  should  be
+
+8
+
+required to meet the above net worth criteria.  The sub-committee also recommended that
+brokers should be required to submit a net worth certificate on an annual basis within 60
+days from the tax date.
+
+The sub-committee recommended this approach as it focuses on the minimal investments
+that  are  required  to  create  a  credible  organization,  including  investments  in  technology
+and  processes.  The  intent  is  not  to  introduce  stringent  entry  barriers  and  reduce
+competition in the brokerage industry, but is to reduce operational risks and improve the
+minimal standards for processes and organizational capacity.
+
+Computation of Net Worth
+
+It  is  observed  that  the  circular(s)  issued  by  Exchanges  on  net  worth  computation  and
+treatment of various components for the purpose of computing net worth are adequately
+broad based and may be adopted with some minor changes such as
+
+Items
+
+Fixed Assets other than immovable
+property
+Investments
+
+Treatment for net worth computation
+To  be  considered  at  book  value 
+depreciated value
+To  be  considered  at  market  value  as  on
+the date of submission
+
+/
+
+SUMMARY OF SUB-COMMITTEE’S RECOMMENDATIONS:
+
+1.  Daily  (and  aggregated)  disclosure  of  key  information  about  brokers  such  as
+information  on  disciplinary  actions  taken  against  brokers  by  SEBI  /  exchanges,
+aggregate open proprietary positions and VaR number of open positions should be
+introduced.
+
+2.  Optional credit rating of brokers, at the discretion of the brokers, may be introduced.
+
+Moreover, rating of compliances/ infrastructure may be considered.
+
+3.  Net  worth  should  be  prescribed  as  an  eligibility  /  license  criteria  for  each  specific
+business a broker engages in and net worth slabs for each activity of business should
+
+9
+
+be introduced. This is to minimise operational risks, and ensure minimal investments
+necessary run a credible organization and sound processes.
+
+4.  The  current  net  worth  definition  adopted  by  the  exchanges  is  appropriate,  with
+
+certain modifications.
+
+5.  Brokers  should  not  receive  the  benefit  of  exposure  on  their  proprietary  dealings
+based on their clients’  monies and securities. Moreover, “Proprietary trading”  should
+be clearly defined.
+
+6.  A requirement should be imposed on the brokers to clearly state the purpose for each
+deposit  taken  by  it  on  the  receipts  for  such  deposits  and  these  receipts  must  be
+handed over to the clients. Deposits for margin money should be distinctly identified
+so that the clients get protection up to Rs. 10 lakhs under Investor Protection Fund in
+case there is a default of a broker.
+
+10
+
+ANNEXURE-I
+
+TERMS OF REFERENCE
+
+It  is  expected  that  the  review  of  net  worth  and  capital  adequacy  norms  of  the  brokers
+would cover the following:
+
+1.  To study and compare the net capital rule/capital adequacy norms as prevalent in
+
+7-8 jurisdictions.
+
+2.  To consider and formulate an operationally useful definition of net worth.
+
+3.  To consider whether net worth should be an entry level criteria or it should be a
+
+continuous risk management criteria and linked to exposure/leveraging.
+
+4.  To compare and formulate, if necessary, net worth criteria for different types of
+activities of a broker such as underwriting, DP etc. as well as different types of
+trading profile- proprietary trading, trading for clients etc.
+
+5.  To  consider  whether  risks  other  than  settlement  risks  may  be  covered  by
+
+prescribing the net worth criteria.
+
+******
+
+11
+
+

@@ -1,0 +1,110 @@
+ 
+
+ 
+ 
+
+PR No.55/2020 
+
+ 
+
+SEBI steps up efforts for ‘Data Culture’ through “Data Democratization” in the 
+
+Indian securities market; Constitutes “Market Data Advisory Committee” 
+
+ 
+
+SEBI has constituted a Market Data Advisory Committee (MDAC) – a Standing Committee 
+- to, inter-alia, recommend appropriate policy for access to securities market data, identify 
+segment wise data perimeters, data needs and gaps, recommend data privacy and  data 
+access regulations applicable to market data, etc. The Committee chaired by Ms. Madhabi 
+Puri Buch, Whole Time Member, SEBI has CEOs of stock exchanges and depositories, 
+representatives of various stakeholders and senior officials of SEBI as members.  
+ 
+Financial markets are traditionally data rich and data driven. With ever growing financial 
+markets, the volume and variety of data have also increased many fold over the years and 
+will  continue  to  do  so.  With  increasing  size  and  complexity  of  financial  markets,  the 
+importance  of  data  for  research,  decision  making,  and  innovations  in  financial  markets 
+cannot be overemphasized.   
+ 
+Given this, SEBI recognizes that non-private data is a “Public Good’ and that access to 
+high  quality  standardized  data  on  various  securities  market  activities  is  essential  for 
+fostering market transparency, operational efficiency and innovations in Indian securities 
+market. SEBI’s endeavor is to foster a “Data Culture” in the Indian Securities Market i.e. 
+‘Data for Transparency’, ‘Data for Efficiency’ and ‘Data for Innovation’ along with ‘Respect 
+for Data Privacy’  
+ 
+Thus, MDAC is part of SEBI’s initiatives to make shareable data on the Indian securities 
+market, available for researchers, policy makers, general public alike and to enhance the 
+quality of such data. Some of the other initiatives taken by SEBI, through its Department 
+of Economic and Policy Analysis (DEPA), include: 
+ 
+SEBI Data Sharing Policy  
+
+ 
+
+The Data Sharing Policy intends to facilitate access to Data from SEBI to meet a variety of 
+requirements,  viz.  to  undertake  Analytics  projects,  Research  activities,  etc.  by  various 
+educational/research  institutions  and  other  regulators.  Data  Sharing  Policy  is  aimed  at 
+streamlining the process of Data sharing and formalization of Data protection measures to 
+prevent Data from misuse and unauthorized access. Further details are at:  
+https://www.sebi.gov.in/Guidelines_for_Data_Sharing.html 
+
+ 
+
+Page 1 of 2 
+
+ 
+“Curated Links for Securities Market Data” on SEBI website 
+ 
+To facilitate easy access to markets data and to encourage data backed research in Indian 
+securities market, SEBI on its website, has provided at one place, curated links of publicly 
+available data on various segments of the Indian securities market. This “Curated Links for 
+Securities Market Data” is available at:  
+https://www.sebi.gov.in/Curation_Links_for_Securities_Market_Data.html 
+
+ 
+
+Enriching Data Provision by Market Infrastructure Institutions (MIIs) 
+
+ 
+
+In order to further enhance the quantum, granularity, uniformity, ease of accessibility and 
+usability  of  public  data  provided  by  MIIs  (Stock  and  Commodity  Exchanges,  Clearing 
+Corporations  and  Depositories),  SEBI  and  MIIs  have  worked  together  during  recent 
+months. The outcome of this exercise enables provision of data by MIIs in consolidated, 
+common, downloadable and merge-able data formats, including for non-sensitive granular 
+data. Pursuant to the same, MIIs have already started uploading data on their respective 
+websites on a monthly basis for the period starting from Financial Year 2015-16 onwards. 
+The data uploaded by MIIs as part of this exercise covers trading, clearing and settlement 
+data  on  equity,  equity  derivatives,  currency  derivatives  and  interest  rate  derivatives, 
+commodity  derivatives  segments  by  Stock  and  Commodity  Exchanges;  and  data  on 
+issuers,  aggregate beneficial owners,  etc. by  Depositories.  Further  details  on  the  actual 
+data made available by MIIs can be accessed on their respective websites or from SEBI 
+website at:   
+https://www.sebi.gov.in/Curation_Links_for_Securities_Market_Data.html 
+
+ 
+
+Reorganization of Data Resources on SEBI website 
+ 
+In  order  to  enhance  the  experience  of  accessing  market  statistics  and  other  related 
+resources  viz.  research,  publications,  statistics,  reports  etc.  on  SEBI  website,  these 
+resources  have  been  consolidated  and  made  available  at  one  place  in  “Reports  & 
+Statistics” tab on SEBI Website Home Page.  
+  
+ 
+SEBI will continue to work  with MIIs and other market participants in furtherance of this 
+“Data Culture” in the Indian Securities Market.  
+ 
+
+ 
+
+Mumbai 
+
+October 19, 2020 
+
+ 
+
+Page 2 of 2 
+
+

@@ -1,0 +1,141 @@
+ 
+
+CIRCULAR 
+
+ 
+
+SEBI/HO/MIRSD2/DOR/CIR/P/2020/221 
+
+ 
+
+ 
+
+ 
+
+November 03, 2020 
+
+ 
+
+All Stock Brokers through exchanges 
+
+All Depository Participants through Depositories 
+
+All Merchant Bankers 
+
+All Registrar to an Issue and Share Transfer Agent 
+
+All Debenture Trustee 
+
+All Credit Rating Agencies 
+
+All Bankers to an issue 
+
+All STP Service Providers 
+
+All Approved Intermediaries 
+
+ 
+
+Dear Sir / Madam, 
+
+ 
+
+Sub:  Advisory for Financial Sector Organizations regarding Software as a Service 
+
+(SaaS) based solutions 
+
+ 
+
+ 
+
+1.  Ministry  of  Electronics  &  Information  Technology,  Govt.  of  India  (MoE&IT),  has 
+
+informed  SEBI  that  the  financial  sector  institutions  are  availing  or  thinking  of 
+
+availing  Software  as  a  Service  (SaaS)  based  solution  for  managing  their 
+
+Governance,  Risk  &  Compliance  (GRC)  functions  so  as  to  improve  their  cyber 
+
+Security  Posture.  As  observed  by  MoE&IT,  though  SaaS  may  provide  ease  of 
+
+doing business and quick turnaround, but it may bring significant risk to health of 
+
+financial sector as many a time risk and compliance data of the institution moves 
+
+beyond the legal and jurisdictional boundary of India due to nature of shared cloud 
+
+SaaS, thereby posing risk to the data safety and security.  
+
+ 
+
+2.  In this regard, Indian Computer Emergency Response Team (CERT-in) has issued 
+
+an advisory for Financial Sector organizations. The advisory has been forwarded 
+
+Page 1 of 2 
+
+to SEBI for bringing the same to the notice of financial sector organization. The 
+
+ 
+
+ 
+
+advisory is enclosed at Annexure A of this circular. 
+
+ 
+
+3.  It is advised to ensure complete protection and seamless control over the critical 
+
+systems at your organizations by continuous monitoring through direct control and 
+
+supervision  protocol mechanisms  while  keeping  the  critical  data  within  the  legal 
+
+boundary of India.  
+
+ 
+
+4.  The compliance of the advisory shall be reported in the half yearly report by stock 
+
+brokers and DP to stock exchanges and depositories respectively and by direct 
+
+intermediaries to SEBI with an undertaking, “Compliance of the SEBI circular for 
+
+Advisory  for  Financial  Sector  Organizations  regarding  Software  as  a  Service 
+
+(SaaS) based solutions has been made.” 
+
+ 
+
+5.  The advisory annexed with this circular shall be effective with immediate effect.  
+
+ 
+
+6.  This circular is issued in exercise of powers conferred under Section 11 (1) of the 
+
+Securities  and  Exchange  Board  of  India  Act,  1992,  to  protect  the  interests  of 
+
+investors  in  securities  and  to  promote  the  development  of,  and  to  regulate  the 
+
+securities market. 
+
+ 
+
+ 
+
+Yours faithfully 
+
+ 
+
+Anupma Chadha 
+
+Dy. General Manager 
+
+Phone:022-26449319 
+
+                                                                            Email: anupmac@sebi.gov.in 
+
+ 
+
+Page 2 of 2 
+
+

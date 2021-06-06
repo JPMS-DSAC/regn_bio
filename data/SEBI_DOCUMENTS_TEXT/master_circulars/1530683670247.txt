@@ -1,0 +1,2622 @@
+ 
+
+MASTER CIRCULAR 
+
+ 
+
+SEBI/ HO/ MIRSD/ DOS3/ CIR/ P/ 2018/ 104 
+
+ 
+
+ 
+
+ 
+
+ 
+
+July 04, 2018 
+
+ 
+
+To, 
+
+All Intermediaries registered with SEBI under Section 12 of the Securities and Exchange 
+Board of India Act, 1992.  
+
+(Through  the  stock  exchanges  for  stock  brokers  and  sub  brokers,  depositories  for 
+depository  participants,  Association  of  Mutual  Funds  in  India  (AMFI)  for  Asset 
+Management Companies) 
+
+Subject:  Guidelines  on  Anti-Money  Laundering  (AML)  Standards  and  Combating  the 
+Financing of  Terrorism  (CFT)  /Obligations of Securities Market Intermediaries under the 
+Prevention of Money Laundering Act, 2002 and Rules framed there under 
+
+1.  The  Prevention  of  Money  Laundering  Act,  2002  (“PMLA”)  was  brought  into  force  with 
+effect  from  1st  July  2005.  Necessary  Notifications  /  Rules  under  the  said  Act  were 
+published in the Gazette of India on July 01, 2005 by the Department of Revenue, Ministry 
+of Finance, Government of India. 
+ 
+
+2.  As  per the provisions  of  the PMLA,  every  banking  company, financial  institution  (which 
+includes chit fund company, a co-operative bank, a housing finance institution and a non-
+banking financial company) and intermediary (includes a stock-broker, sub-broker, share 
+transfer  agent,  banker  to  an  issue,  trustee  to  a  trust  deed,  registrar  to  an  issue,  asset 
+management  company,  depository  participant,  merchant  banker,  underwriter,  portfolio 
+manager, investment  adviser  and  any  other intermediary  associated  with  the  securities 
+market and registered under Section 12 of the Securities and Exchange Board of India 
+Act,  1992  (SEBI  Act))  shall  have  to  adhere  to  client  account  opening  procedures  and 
+maintain records of such transactions as prescribed by the PMLA and rules notified there 
+under. 
+ 
+
+3.  Pursuant to amendments made to the PMLA and Rules thereunder, updated guidelines in 
+the  context  of  recommendations  made  by  Financial  Action  Task  force  (FATF)  on  anti-
+money  laundering  standards  is  enclosed. These  guidelines  have  been  divided  into  two 
+parts; the first part is an overview on the background and essential principles that concern 
+combating  Money  Laundering  (ML)  and  Terrorist  Financing  (TF).  The  second  part 
+provides  a  detailed  account  of  the  procedures  and  obligations  to  be  followed  by  all 
+registered  intermediaries  to  ensure  compliance  with  AML/  CFT  directives.  These 
+guidelines shall also apply to their branches and subsidiaries located abroad, especially, 
+in countries which do not or insufficiently apply the FATF Recommendations, to the extent 
+local  laws  and  regulations  permit.  When  local  applicable  laws  and  regulations  prohibit 
+implementation of these requirements, the same shall be brought to the notice of SEBI.   
+ 
+
+ 
+
+1 
+
+ 
+
+4.  The key circulars/ directives issued with regard to KYC, CDD, AML and CFT have been 
+mentioned in Schedule I. These directives lay down the minimum requirements and it is 
+emphasized  that  the  intermediaries  may,  according  to  their  requirements,  specify 
+additional disclosures to be made by clients to address concerns of money laundering and 
+suspicious  transactions  undertaken  by  clients.  Reference  to  applicable  statutes  and 
+reporting  guidelines  for  intermediaries  is  available  at  the  website  of  the  Financial 
+Intelligence Unit – India (FIU-IND). 
+ 
+
+5.  This  Master  Circular  shall  supersede  the  earlier  Master  Circular  on  AML/  CFT  dated 
+
+December 31, 2010.  
+ 
+
+Yours faithfully, 
+
+ 
+
+Surabhi Gupta 
+Deputy General Manager 
+Phone No. 022-26449315 
+Email id: surabhig@sebi.gov.in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+2 
+
+ 
+
+ 
+
+Table of Contents 
+
+Section 1: Overview 
+1.1. Introduction 
+1.2. Background 
+1.3. Policies and Procedures to Combat Money Laundering and Terrorist financing 
+
+ 
+Section 2: Detailed Directives 
+
+2.1. Written Anti Money Laundering Procedures 
+2.2. Client Due Diligence (CDD) 
+2.3. Record Keeping 
+2.4. Information to be maintained 
+2.5. Retention of Records 
+2.6. Monitoring of transactions 
+2.7. Suspicious Transaction Monitoring and Reporting 
+2.8. List of Designated Individuals/ Entities 
+2.9. Procedure  for  freezing  of  funds,  financial  assets  or  economic  resources  or  related 
+
+services 
+
+2.10. Reporting to Financial Intelligence Unit-India 
+2.11. Designation of officers for ensuring compliance with provisions of PMLA 
+2.12. Employees’ Hiring/Employee’s Training/ Investor Education 
+
+ 
+SCHEDULE I 
+
+List of key circulars/ directives issued with regard to KYC, CDD, AML and CFT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+ 
+
+Section 1: Overview 
+
+1.1. Introduction 
+
+1.1.1  The Directives as outlined below provide a general background and summary of the 
+main provisions of the applicable anti-money laundering and anti-terrorist financing 
+legislations in India. They also provide guidance on the practical implications of the 
+Prevention of Money Laundering Act, 2002 (PMLA). The Directives also set out the 
+steps  that  a  registered  intermediary  or  its  representatives  shall  implement  to 
+discourage and to identify any money laundering or terrorist financing activities. The 
+relevance and usefulness of these Directives will be kept under review and it may be 
+necessary to issue amendments from time to time. 
+
+1.1.2  These  Directives  are  intended  for  use  primarily  by  intermediaries  registered  under 
+Section 12 of the Securities and Exchange Board of India Act, 1992 (SEBI Act). While 
+it  is  recognized  that  a  “one-  size-fits-all”  approach  may  not  be  appropriate  for  the 
+securities industry in India,  each registered intermediary shall consider the specific 
+nature of its business, organizational structure, type of clients and transactions, etc. 
+when implementing the suggested measures and procedures to ensure that they are 
+effectively  applied.  The  overriding  principle  is  that  they  shall  be  able  to  satisfy 
+themselves that the measures taken by them are adequate, appropriate and abide by 
+the spirit of such measures and the requirements as enshrined in the PMLA. 
+
+1.2. Background 
+
+1.2.1  The PMLA came into effect from 1st July 2005. Necessary Notifications / Rules under 
+the  said  Act  were  published  in  the  Gazette  of  India  on  1st  July,  2005  by  the 
+Department of Revenue, Ministry of Finance, Government of India. The PMLA has 
+been further amended vide notification  dated March  6, 2009 and inter alia provides 
+that violating the prohibitions on manipulative and deceptive  devices, 
+insider 
+trading and substantial acquisition of securities or control as prescribed in Section 12 
+A read with Section 24 of the Securities and Exchange Board of India Act, 1992 (SEBI 
+Act) will now be treated as a scheduled offence under schedule B of the PMLA. 
+
+1.2.2  As per the provisions of the PMLA, every banking company, financial institution (which 
+includes chit fund company, a co-operative bank, a housing finance institution and a 
+non-banking  financial  company)  and  intermediary  (which  includes  a  stock-broker, 
+sub-broker, share transfer agent, banker to an issue, trustee to a trust deed, registrar 
+to an issue, merchant banker, underwriter, portfolio manager, investment adviser and 
+any  other  intermediary  associated  with  securities  market  and  registered  under 
+Section 12 of the SEBI Act , shall have to maintain a record of all the transactions; 
+the  nature  and  value  of  which  has  been  prescribed  in  the  Rules  under  the  PMLA. 
+Such transactions include; 
+
+i. 
+
+ii. 
+
+All cash transactions of the value of more than ` 10 lakh or its equivalent in 
+foreign currency. 
+
+All series of cash transactions integrally connected to each other which have 
+been valued below ` 10 lakh or its equivalent in foreign currency where such 
+
+ 
+
+4 
+
+ 
+
+series  of  transactions  have  taken  place  within  a  month  and  the  monthly 
+aggregate exceeds an amount of ten lakh rupees or its equivalent in foreign 
+currency 
+
+iii. 
+
+All suspicious transactions whether or not made in cash and including, inter-
+alia,  credits  or  debits  into  from  any  non-monetary  account  such  as  demat 
+account, security account maintained by the registered intermediary. 
+
+ 
+
+1.2.3 
+
+It may, however, be clarified that for the purpose of suspicious transactions reporting, 
+apart  from  ‘transactions  integrally  connected’,  ‘transactions  remotely  connected  or 
+related’ shall also be considered. In case there is a variance in CDD/AML standards 
+prescribed  by  SEBI  and  the  regulators  of  the  host  country,  branches/overseas 
+subsidiaries of intermediaries are required to adopt the more stringent requirements 
+of the two. 
+
+1.3. Policies and Procedures to Combat Money Laundering and Terrorist financing 
+
+1.3.1  Essential Principles: 
+
+1.3.1.1  These Directives have taken into account the requirements of the PMLA as 
+applicable to the intermediaries registered under Section 12 of the SEBI Act. 
+The  detailed  Directives  in  Section  II  have  outlined  relevant  measures  and 
+procedures to guide the registered intermediaries in preventing ML and TF. 
+Some of these suggested measures and procedures may not be applicable in 
+every  circumstance.  Each  intermediary  shall  consider  carefully  the  specific 
+nature of its business, organizational structure, type of client and transaction, 
+etc. to satisfy itself that the measures taken by it are adequate and appropriate 
+and  follow  the  spirit  of  the  suggested  measures  in  Section  II  and  the 
+requirements as laid down in the PMLA. 
+
+1.3.2  Obligation to establish policies and procedures: 
+
+1.3.2.1  Global  measures  taken  to  combat  drug  trafficking,  terrorism  and  other 
+organized  and  serious  crimes  have  all  emphasized  the  need  for  financial 
+institutions,  including  securities  market  intermediaries,  to  establish  internal 
+procedures  that  effectively  serve  to  prevent  and  impede  money  laundering 
+and  terrorist  financing.  The  PMLA  is  in  line  with  these  measures  and 
+mandates that all intermediaries ensure the fulfillment of the aforementioned 
+obligations. 
+
+1.3.2.2  To  be  in  compliance  with  these  obligations,  the  senior  management  of  a 
+registered  intermediary  shall  be  fully  committed  to  establishing  appropriate 
+policies and procedures for the prevention of ML and TF and ensuring their 
+effectiveness  and  compliance  with  all  relevant 
+legal  and  regulatory 
+requirements. The Registered Intermediaries shall: 
+a)  issue  a  statement  of  policies  and  procedures,  on  a  group  basis  where 
+applicable, for dealing with ML and TF reflecting the current statutory and 
+regulatory requirements 
+
+5 
+
+ 
+
+ 
+
+ 
+
+b)  ensure  that  the  content  of  these  Directives  are  understood  by  all  staff 
+
+members 
+
+c)  regularly review the policies and procedures on the prevention of ML and 
+TF  to  ensure  their  effectiveness.  Further,  in  order  to  ensure  the 
+effectiveness of policies and procedures, the person doing such a review 
+shall  be  different  from  the  one  who  has  framed  such  policies  and 
+procedures 
+
+d)  adopt client acceptance policies and procedures which are sensitive to the 
+
+risk of ML and TF 
+
+e)  undertake  client  due  diligence  (“CDD”)  measures  to  an extent that is 
+sensitive  to  the  risk  of  ML  and  TF  depending  on  the  type  of  client, 
+business relationship or transaction 
+
+f)  have  in  system  a  place  for  identifying,  monitoring  and  reporting 
+suspected ML or TF transactions to the law enforcement authorities; and 
+g)  develop  staff  members’  awareness  and  vigilance  to  guard  against  ML 
+
+and TF 
+
+ 
+
+1.3.2.3  Policies and procedures to combat ML shall cover: 
+
+a)  Communication 
+
+of 
+
+relating  to  prevention 
+of ML and TF to all management and relevant staff that handle account 
+information,  securities  transactions,  money  and  client  records  etc. 
+whether in branches, departments or subsidiaries; 
+
+group  policies 
+
+b)  Client  acceptance  policy  and  client  due  diligence  measures,    including 
+
+requirements for proper identification; 
+
+c)  Maintenance of records; 
+d)  Compliance with relevant statutory and regulatory requirements; 
+e)  Co-operation with the relevant law enforcement authorities, including the 
+
+timely disclosure of information; and 
+
+f)  Role of internal audit or compliance function to ensure compliance with 
+the policies, procedures, and controls relating to the prevention of ML and 
+TF,  including  the  testing  of  the  system  for  detecting  suspected  money 
+laundering  transactions,  evaluating  and  checking  the  adequacy  of 
+exception  reports  generated  on  large  and/or  irregular  transactions,  the 
+quality of reporting of suspicious transactions and the level of awareness 
+of front line staff, of their responsibilities in this regard. The internal audit 
+function shall be independent, adequately resourced and commensurate 
+with  the  size  of  the  business  and  operations,  organization  structure, 
+number of clients and other such factors 
+
+ 
+
+ 
+
+ 
+
+6 
+
+ 
+
+ 
+
+ 
+
+Section 2: Detailed Directives 
+
+2.1. Written Anti Money Laundering Procedures 
+
+2.1.1  Each registered intermediary  shall  adopt  written  procedures  to  implement  the  anti- 
+money laundering provisions as envisaged under the PMLA. Such procedures shall 
+include  inter  alia,  the  following  three  specific  parameters  which  are  related  to  the 
+overall ‘Client Due Diligence Process’: 
+
+a)  Policy for acceptance of clients 
+b)  Procedure for identifying the clients 
+c)  Transaction  monitoring  and  reporting  especially  Suspicious  Transactions 
+
+Reporting (STR). 
+
+2.2. Client Due Diligence (CDD) 
+
+2.2.1  The CDD measures comprise the following: 
+
+a)  Obtaining sufficient information in order to identify persons who beneficially own 
+or  control  the  securities  account.  Whenever  it  is  apparent  that  the  securities 
+acquired or maintained through an account are beneficially owned by a party other 
+than  the  client,  that  party  shall  be  identified  using  client  identification  and 
+verification procedures. The beneficial owner is the natural person or persons who 
+ultimately  own,  control  or  influence  a  client  and/or  persons  on  whose  behalf  a 
+transaction is being conducted. It also incorporates those persons who exercise 
+ultimate effective control over a legal person or arrangement 
+
+b)  Verify the client’s identity using reliable, independent source documents, data or 
+
+information 
+
+c)  Identify  beneficial  ownership  and  control,  i.e.  determine  which  individual(s) 
+ultimately  own(s)  or  control(s)  the  client  and/or  the  person  on  whose  behalf  a 
+transaction is being conducted -  
+ 
+i.  1For clients other than individuals or trusts: Where the client is a person 
+other than an individual or trust, viz., company, partnership or unincorporated 
+association/body  of  individuals,  the  intermediary  shall  identify  the  beneficial 
+owners of the client and take reasonable measures to verify the identity of such 
+persons, through the following information: 
+ 
+
+aa) The identity of the natural person, who, whether acting alone or together, 
+or  through  one  or  more  juridical  person,  exercises  control  through 
+ownership or who ultimately has a controlling ownership interest.  
+ 
+Explanation:  Controlling  ownership 
+of/entitlement to: 
+
+interest  means  ownership 
+
+i.  more than 25% of shares or capital or profits of the juridical person, 
+
+where the juridical person is a company; 
+
+                                                           
+1CIR/ MIRSD/2/ 2013 dated January 24, 2013 
+
+ 
+
+7 
+
+ 
+
+ii.  more than 15% of the capital or profits of the juridical person, where 
+
+the juridical person is a partnership; or 
+
+iii.  more than 15% of the property or capital or profits of the juridical 
+person, where the juridical person is an unincorporated association 
+or body of individuals. 
+
+ 
+
+bb) In cases where there exists doubt under clause (aa) above as to whether 
+the person with the controlling ownership interest is the beneficial owner or 
+where  no  natural  person  exerts  control  through  ownership  interests,  the 
+identity  of  the  natural  person  exercising  control  over  the  juridical  person 
+through other means. 
+ 
+Explanation: Control through other means can be exercised through voting 
+rights, agreement, arrangements or in any other manner. 
+ 
+
+cc) Where no natural person is identified under clauses (aa) or (bb) above, the 
+identity  of  the  relevant  natural  person  who  holds  the  position  of  senior 
+managing official. 
+ 
+
+ii.  For client which is a trust: Where the client is a trust, the intermediary shall 
+identify the beneficial owners of the client and take reasonable measures to 
+verify the identity of such persons, through the identity of the settler of the trust, 
+the  trustee,  the  protector,  the  beneficiaries  with  15%  or  more  interest  in  the 
+trust and any other natural person exercising ultimate effective control over the 
+trust through a chain of control or ownership.  
+
+ 
+
+iii.  Exemption in case of listed companies: Where the client or the owner of the 
+controlling interest is a company listed on a stock exchange, or is a majority-
+owned subsidiary of such a company, it is not necessary to identify and verify 
+the identity of any shareholder or beneficial owner of such companies. 
+
+ 
+
+iv.  Applicability  for  foreign  investors:  Intermediaries  dealing  with  foreign 
+investors’  may  be  guided  by  the  clarifications  issued  vide  SEBI  circulars 
+CIR/MIRSD/11/2012  dated  September  5,  2012  and  CIR/  MIRSD/  07/  2013 
+dated  September  12,  2013,  for  the  purpose  of  identification  of  beneficial 
+ownership of the client. 
+ 
+
+v.  The  Stock  Exchanges  and  Depositories  shall  monitor  the  compliance  of  the 
+aforementioned provision on identification of beneficial ownership through half-
+yearly internal audits. In case of mutual funds, compliance  of the same shall 
+be  monitored  by  the  Boards  of  the  Asset  Management  Companies  and  the 
+Trustees and in case of other intermediaries, by their Board of Directors 
+
+ 
+ 
+ 
+
+ 
+
+8 
+
+ 
+
+d)  Verify the identity of the beneficial owner of the client and/or the person on whose 
+behalf a transaction is being conducted, corroborating the information provided in 
+relation to (c). 
+
+e)  Understand the ownership and control structure of the client. . 
+f)  Conduct ongoing due diligence and scrutiny, i.e.  Perform ongoing scrutiny of the 
+transactions  and  account throughout  the  course of the  business  relationship to 
+ensure that the transactions being conducted are consistent with the registered 
+intermediary’s  knowledge  of  the  client,  its  business  and  risk  profile,  taking  into 
+account, where necessary, the client’s source of funds; and 
+
+g)  Registered  intermediaries  shall  periodically  update  all  documents,  data  or 
+information of all clients and beneficial owners collected under the CDD process. 
+ 
+
+2.2.2  Policy for acceptance of clients: 
+
+2.2.2.1  All  registered  intermediaries  shall  develop  client  acceptance  policies  and 
+procedures that aim to identify the types of clients that are likely to pose a 
+higher  than  average  risk  of  ML  or  TF.  By  establishing  such  policies  and 
+procedures, they will be in a better position to apply client due diligence on a 
+risk sensitive basis depending on the type of client business relationship or 
+transaction. In a nutshell, the following safeguards are to be followed while 
+accepting the clients: 
+
+ 
+
+a)  No account is opened in a fictitious / benami name or on an anonymous 
+
+basis. 
+
+b)  Factors of risk perception (in terms of monitoring suspicious transactions) 
+of  the  client  are  clearly  defined  having  regard  to  clients’  location 
+(registered  office  address,  correspondence  addresses  and  other 
+addresses if applicable), nature of business activity, trading turnover etc. 
+and  manner  of  making  payment  for  transactions  undertaken.  The 
+parameters  shall  enable  classification  of  clients  into  low,  medium  and 
+high risk. Clients of special category (as given below) may, if necessary, 
+be  classified  even  higher.  Such  clients  require  higher  degree  of  due 
+diligence and regular update of Know Your Client (KYC) profile. 
+
+c)  Documentation  requirements  and  other  information  to  be  collected  in 
+respect of different classes of clients depending on the perceived risk and 
+having regard to the requirements of Rule 9 of the PML Rules, Directives 
+and Circulars issued by SEBI from time to time. 
+
+d)  Ensure that an account is not opened where the intermediary is unable 
+to  apply  appropriate  CDD  measures/  KYC  policies.  This  shall  apply  in 
+cases where it is not possible to ascertain the identity of the client, or the 
+information provided to the intermediary is suspected to be non - genuine, 
+or there is perceived non - co-operation of the client in providing full and 
+complete information. The market intermediary shall not continue to do 
+business with such a person and file a suspicious activity report. It shall 
+also evaluate whether there is suspicious trading in determining whether 
+to freeze or close the account. The market intermediary shall be cautious 
+to  ensure that  it  does  not  return  securities  of money  that may  be  from 
+suspicious  trades.  However,  the  market  intermediary  shall  consult  the 
+
+ 
+
+9 
+
+ 
+
+relevant  authorities  in  determining  what  action  it  shall  take  when  it 
+suspects suspicious trading. 
+
+e)  The circumstances under which the client is permitted to act on behalf of 
+another person / entity shall be clearly laid down. It shall be specified in 
+what  manner  the  account  shall  be  operated,  transaction  limits  for  the 
+operation,  additional  authority  required  for  transactions  exceeding  a 
+specified quantity/value and other appropriate details. Further the rights 
+and responsibilities of both the persons i.e. the agent- client registered 
+with the intermediary, as well as the person on whose behalf the agent is 
+acting  shall  be  clearly  laid  down.  Adequate  verification  of  a  person’s 
+authority to act on behalf of the client shall also be carried out. 
+
+f)  Necessary checks and balance to be put into place before opening an 
+account so as to ensure that the identity of the client does not match with 
+any person having known  criminal background or is not banned in any 
+other manner,  whether in  terms  of  criminal  or  civil  proceedings  by  any 
+enforcement agency worldwide 
+
+g)  The  CDD  process  shall  necessarily  be  revisited  when  there  are 
+
+suspicions of money laundering or financing of terrorism (ML/FT). 
+ 
+
+2.2.3  Risk-based Approach: 
+
+2.2.3.1 
+
+It is generally recognized that certain clients may be of a higher or lower risk 
+category  depending  on  the  circumstances  such  as  the  client’s  background, 
+type  of  business  relationship  or  transaction  etc.  As  such,  the  registered 
+intermediaries shall apply each of the client due diligence measures on a risk 
+sensitive  basis.  The  basic  principle  enshrined  in  this  approach  is  that  the 
+registered  intermediaries  shall  adopt  an  enhanced  client  due  diligence 
+process for higher risk categories of clients. Conversely, a simplified client due 
+diligence process may be adopted for lower risk categories of clients. In line 
+with the risk-based approach, the type and amount of identification information 
+and documents that registered intermediaries shall obtain necessarily depend 
+on the risk category of a particular client. 
+ 
+
+2.2.3.2  Further, low risk provisions shall not apply when there are suspicions of ML/FT 
+or when other factors give rise to a belief that the customer does not in fact 
+pose a low risk 
+ 
+
+2.2.3.3  Risk Assessment2 
+
+a)  Registered  intermediaries  shall  carry  out  risk  assessment  to  identify, 
+assess and take effective measures to mitigate its money laundering and 
+terrorist financing risk with respect to its clients, countries or geographical 
+areas,  nature  and  volume  of  transactions,  payment  methods  used  by 
+clients, etc. The risk assessment shall also take into account any country 
+specific  information  that  is  circulated  by  the  Government  of  India  and 
+SEBI  from  time  to  time,  as  well  as,  the  updated  list  of  individuals  and 
+entities who are subjected to sanction measures as required under the 
+
+                                                           
+2SEBI Circular No. CIR/ MIRSD/ 1/ 2014 dated March 12, 2014 
+
+10 
+
+ 
+
+ 
+
+various  United  Nations'  Security  Council  Resolutions  (these  can  be 
+- 
+accessed 
+http://www.un.org/sc/committees/1267/aq_sanctions_list.shtml 
+and 
+http://www.un.org/sc/committees/1988/list.shtml)  
+ 
+
+URL 
+
+the 
+
+at 
+
+b)  The risk assessment carried out shall consider all the relevant risk factors 
+before determining the level of overall risk and the appropriate level and 
+type of mitigation to be applied. The assessment shall be documented, 
+updated regularly and made available to competent authorities and self-
+regulating bodies, as and when required. 
+
+2.2.4  Clients of special category (CSC): Such clients shall include the following: 
+
+a)  Non - resident clients 
+b)  High net-worth clients, 
+c)  Trust,  Charities,  Non-Governmental  Organizations 
+
+(NGOs)and 
+
+organizations receiving donations 
+
+d)  Companies having close family shareholdings or beneficial ownership 
+e)  Politically Exposed Persons (PEP) are individuals who are or have been 
+entrusted with prominent public functions in a foreign country, e.g., Heads 
+of  States 
+senior 
+government/judicial/military  officers,  senior  executives  of  state-owned 
+corporations, important political party officials, etc. The additional norms 
+applicable  to  PEP  as  contained  in  the  subsequent  para  2.2.5  of  this 
+circular shall also be applied to the accounts of the family members or 
+close relatives of PEPs. 
+
+of  Governments, 
+
+politicians, 
+
+senior 
+
+or 
+
+f)  Companies offering foreign exchange offerings 
+g)  Clients in high risk countries where existence / effectiveness of money 
+laundering controls is suspect, where there is unusual banking secrecy, 
+countries active in narcotics production, countries where corruption (as 
+per  Transparency  International  Corruption  Perception  Index)  is  highly 
+prevalent,  countries  against  which  government  sanctions  are  applied, 
+countries  reputed  to  be  any  of  the  following  –  Havens/  sponsors  of 
+international terrorism, offshore financial centers, tax havens, countries 
+where  fraud  is  highly  prevalent.  While  dealing  with  clients  in  high  risk 
+countries where the existence/effectiveness of money laundering control 
+is suspect, intermediaries apart from being guided by the Financial Action 
+Task  Force  (FATF)  statements  that  identify  countries  that  do  not  or 
+insufficiently apply the FATF Recommendations, published by the FATF 
+on  its  website  (www.fatf-gafi.org),  shall  also  independently  access  and 
+consider other publicly available information. 
+
+h)  Non face to face clients 
+i)  Clients with dubious reputation as per public information available etc. 
+
+ 
+
+The  above  mentioned  list  is  only  illustrative  and  the  intermediary  shall 
+exercise independent judgment to ascertain whether any other set of clients 
+shall be classified as CSC or not. 
+ 
+
+ 
+
+11 
+
+ 
+
+2.2.5  Client identification procedure: 
+
+2.2.5.1  The KYC policy shall clearly spell out the client identification procedure to be 
+carried out at different stages i.e. while establishing the intermediary – client 
+relationship,  while  carrying  out  transactions  for  the  client  or  when  the 
+intermediary has doubts regarding the veracity or the adequacy of previously 
+obtained client identification data. 
+
+Intermediaries shall be in compliance with the following requirements while 
+putting in place a Client Identification Procedure (CIP): 
+a)  All  registered  intermediaries  shall  proactively  put  in  place  appropriate 
+risk management systems to determine whether their client or potential 
+client or the beneficial owner of such client is a politically exposed person. 
+Such  procedures  shall  include  seeking  relevant  information  from  the 
+client,  referring  to  publicly  available  information  or  accessing  the 
+commercial electronic databases of PEPS. Further, the enhanced CDD 
+measures as outlined in clause 2.2.5 shall also be applicable where the 
+beneficial owner of a client is a PEP. 
+
+b)  All registered intermediaries are required to obtain senior management 
+approval  for  establishing  business  relationships  with  PEPs.  Where  a 
+client  has  been  accepted  and  the  client  or  beneficial  owner  is 
+subsequently found to be, or subsequently becomes a PEP, registered 
+intermediaries shall obtain senior management approval to continue the 
+business relationship. 
+
+c)  Registered intermediaries shall also take reasonable measures to verify 
+the sources of funds as well as the wealth of clients and beneficial owners 
+identified as PEP. 
+
+d)  The client shall be identified by the intermediary by using reliable sources 
+including  documents  /  information.  The  intermediary  shall  obtain 
+adequate information to satisfactorily establish the identity of each new 
+client and the purpose of the intended nature of the relationship. 
+
+e)  The  information  must  be  adequate  enough  to  satisfy  competent 
+authorities  (regulatory  /  enforcement  authorities)  in  future  that  due 
+diligence  was  observed  by  the  intermediary  in  compliance  with  the 
+directives. Each original document shall be seen prior to acceptance of a 
+copy. 
+
+f)  Failure by prospective client to provide satisfactory evidence of identity 
+shall be noted and reported to the higher authority within the intermediary 
+
+12 
+
+ 
+
+ 
+
+ 
+
+2.2.5.2  SEBI has  prescribed the minimum  requirements relating  to KYC for  certain 
+classes of registered intermediaries from time to time as detailed in Schedule 
+II. Taking into account the basic principles enshrined in the KYC norms which 
+have already been prescribed or which may be prescribed by SEBI from time 
+to time, all registered intermediaries shall frame their own internal directives 
+based on their experience in dealing with their clients and legal requirements 
+as per the established practices.  
+Further, the intermediary shall conduct ongoing due diligence where it notices 
+inconsistencies in the information provided. The underlying objective shall be 
+to follow the requirements enshrined in the PMLA, SEBI Act and Regulations, 
+directives and circulars issued thereunder so that the intermediary is aware of 
+the clients on whose behalf it is dealing. 
+
+2.2.5.3  Every  intermediary  shall  formulate  and  implement  a  CIP  which  shall 
+incorporate the requirements of the PML Rules Notification No. 9/2005 dated 
+July  01,  2005  (as  amended  from  time  to  time),  which  notifies  rules  for 
+maintenance of records of the nature and value of transactions, the procedure 
+and  manner  of  maintaining  and  time  for  furnishing  of  information  and 
+verification of records of the identity of the clients of the banking companies, 
+financial  institutions  and  intermediaries  of  securities  market  and  such  other 
+additional requirements that it considers appropriate to enable it to determine 
+the true identity of its clients.  
+
+2.2.5.4 
+
+It may be noted that irrespective of the amount of investment made by clients, 
+no minimum threshold or exemption is available to registered intermediaries 
+(brokers,  depository  participants,  AMCs  etc.)  from  obtaining  the  minimum 
+information/documents  from  clients  as  stipulated  in  the  PML  Rules/  SEBI 
+Circulars  (as  amended  from  time  to  time)  regarding  the  verification  of  the 
+records of the identity of clients. Further no exemption from carrying out CDD 
+exists in respect of any category of clients. In other words, there shall be no 
+minimum  investment  threshold/  category-wise  exemption  available  for 
+carrying out CDD measures by registered intermediaries. This shall be strictly 
+implemented  by  all 
+intermediaries  and  non-compliance  shall  attract 
+appropriate sanctions. 
+
+2.2.6  Reliance on third party for carrying out Client Due Diligence (CDD)3 
+
+2.2.6.1  Registered intermediaries may rely on a third party for the purpose of  
+
+a)  identification and verification of the identity of a client and  
+b)  Determination  of  whether  the  client  is  acting  on  behalf  of  a  beneficial 
+owner, identification of the beneficial owner and verification of the identity 
+of the beneficial owner. Such third party shall be regulated, supervised or 
+monitored for, and have measures in place for compliance with CDD and 
+record-keeping requirements in line with the obligations under the PML 
+Act. 
+
+ 
+
+ 
+
+ 
+
+                                                           
+3SEBI Circular No. CIR/ MIRSD/ 1/ 2014 dated March 12, 2014 
+
+13 
+
+ 
+
+2.2.6.2  Such reliance shall be subject to the conditions that are specified in Rule 9 (2) 
+of  the  PML  Rules  and  shall  be  in  accordance  with  the  regulations  and 
+circulars/ guidelines issued by SEBI from time to time. Further, it is clarified 
+that the registered intermediary shall be ultimately   responsible for CDD and 
+undertaking enhanced due diligence measures, as applicable. 
+
+ 
+
+2.3. Record Keeping 
+
+2.3.1  Registered  intermediaries  shall  ensure  compliance  with  the  record  keeping 
+requirements contained in the SEBI Act, 1992, Rules and Regulations made there-
+under, PMLA as well as other relevant legislation, Rules, Regulations, Exchange Bye-
+laws and Circulars. 
+
+2.3.2  Registered  Intermediaries  shall  maintain  such  records  as  are  sufficient  to  permit 
+reconstruction  of  individual  transactions  (including  the  amounts  and  types  of 
+currencies involved, if any) so as to provide, if necessary, evidence for prosecution of 
+criminal behaviour. 
+
+2.3.3  Should  there  be  any  suspected  drug  related  or  other  laundered  money  or  terrorist 
+property,  the  competent  investigating  authorities  would  need  to  trace  through  the 
+audit trail for reconstructing a financial profile of the suspect account. To enable this 
+reconstruction, registered intermediaries shall retain the following information for the 
+accounts of their clients in order to maintain a satisfactory audit trail: 
+
+a)  the beneficial owner of the account; 
+b)  the volume of the funds flowing through the account; and 
+c)  for selected transactions: 
+i.  the origin of the funds 
+ii.  the form in which the funds were offered or withdrawn, e.g. cheques, demand 
+
+drafts etc. 
+
+iii.  the identity of the person undertaking the transaction; 
+iv.  the destination of the funds; 
+v.  the form of instruction and authority. 
+
+ 
+
+2.3.4  Registered  Intermediaries  shall  ensure  that  all  client  and  transaction  records  and 
+information are available on a timely basis to the competent investigating authorities. 
+Where required by the investigating authority, they shall retain certain records, e.g. 
+client  identification,  account  files,  and  business  correspondence,  for  periods  which 
+may exceed those required under the SEBI Act, Rules and Regulations framed there-
+under  PMLA,  other  relevant  legislations,  Rules  and  Regulations  or  Exchange  bye-
+laws or circulars. 
+
+2.3.5  More  specifically,  all  the  intermediaries  shall  put  in  place  a  system  of  maintaining 
+proper record of transactions prescribed under Rule 3 of PML Rules as mentioned 
+below: 
+
+a)  all cash transactions of the value of more than ten lakh rupees or its equivalent 
+
+in foreign currency; 
+
+ 
+
+14 
+
+ 
+
+b)  all  series  of  cash  transactions  integrally  connected  to  each  other  which  have 
+been  individually  valued  below  rupees  ten  lakh  or  its  equivalent  in  foreign 
+currency where such series of transactions have taken place within a month and 
+the monthly aggregate exceeds an amount of ten lakh rupees or its equivalent in 
+foreign currency; 
+
+c)  all cash transactions where forged or counterfeit currency notes or bank notes 
+have  been  used  as  genuine  or  where  any  forgery  of  a  valuable  security  or  a 
+document has taken place facilitating the transactions;  
+
+d)  all  suspicious  transactions  whether  or  not  made  in  cash  and  by  way  of  as 
+
+mentioned in the Rules. 
+
+2.4. Information to be maintained 
+
+2.4.1 
+
+Intermediaries  are  required  to  maintain  and  preserve  the  following  information  in 
+respect of transactions referred to in Rule 3 of PML Rules: 
+
+a)  the nature of the transactions; 
+b)  the amount of the transaction and the currency in which it is denominated; 
+c)  the date on which the transaction was conducted; and 
+d)  the parties to the transaction. 
+
+2.5. Retention of Records4 
+
+2.5.1 
+
+Intermediaries  shall  take  appropriate  steps  to  evolve  an  internal  mechanism  for 
+proper maintenance and preservation of such records and information in a manner 
+that allows easy and quick retrieval of data as and when requested by the competent 
+authorities.  Further,  the  records  mentioned  in  Rule  3  of  PML  Rules  have  to  be 
+maintained  and  preserved  for  a  period  of  five  years  from  the  date  of  transactions 
+between the client and intermediary. 
+
+2.5.2  As stated in sub-section 2.2.5, intermediaries are required to formulate and implement 
+the  CIP  containing  the requirements  as  laid  down in  Rule  9  of the PML Rules  and 
+such other additional requirements that it considers appropriate. Records evidencing 
+the identity of its clients and beneficial owners as well as account files and business 
+correspondence shall be maintained and preserved for a period of five years after the 
+business  relationship  between  a  client  and  intermediary  has  ended  or  the  account 
+has been closed, whichever is later. 
+
+2.5.3  Thus the following document retention terms shall be observed: 
+
+a)  All necessary records on transactions, both domestic and international, shall be 
+maintained at least for the minimum period prescribed under the relevant Act and 
+Rules  (PMLA  and  rules  framed  thereunder  as  well  SEBI  Act)  and  other 
+legislations, Regulations or exchange bye-laws or circulars. 
+
+b)  Registered intermediaries shall maintain and preserve the records of documents 
+evidencing the identity of its clients and beneficial owners (e.g. copies or records 
+of official identification documents like passports, identity cards, driving licenses 
+
+                                                           
+4SEBI Circular No. CIR/ MIRSD/ 1/ 2014 dated March 12, 2014 
+
+15 
+
+ 
+
+ 
+
+or similar documents) as well as account files and business correspondence for 
+a  period  of  five  years  after  the  business  relationship  between  a  client  and 
+intermediary has ended or the account has been closed, whichever is later. 
+
+2.5.4 
+
+In situations where the records relate to on-going investigations or transactions which 
+have  been the subject  of  a  suspicious transaction  reporting,  they  shall  be  retained 
+until it is confirmed that the case has been closed. 
+
+2.5.5  Records  of  information  reported  to  the  Director,  Financial  Intelligence  Unit  – 
+India (FIU – IND)5: Registered Intermediaries shall maintain and preserve the records 
+of  information  related  to  transactions,  whether  attempted  or  executed,  which  are 
+reported to the Director, FIU – IND, as required under Rules 7 and 8 of the PML Rules, 
+for a period of five years from the date of the transaction between the client and the 
+intermediary. 
+
+2.6. Monitoring of transactions 
+
+2.6.1  Regular  monitoring  of  transactions  is  vital  for  ensuring  effectiveness  of  the  AML 
+procedures.  This  is  possible  only  if  the  intermediary  has  an  understanding  of  the 
+normal activity of the client so that it can identify deviations in transactions / activities. 
+
+2.6.2  The  intermediary  shall  pay  special  attention  to  all  complex  unusually  large 
+transactions / patterns which appear to have no economic purpose. The intermediary 
+may specify internal threshold limits for each class of client accounts and pay special 
+attention  to  transactions  which  exceeds  these  limits.  The  background  including  all 
+documents/office  records  /memorandums/clarifications  sought  pertaining  to  such 
+transactions and purpose thereof shall also be examined carefully and findings shall 
+be recorded in writing. Further such findings, records and related documents shall be 
+made available to auditors and also to SEBI/stock exchanges/FIUIND/ other relevant 
+Authorities,  during  audit,  inspection  or  as  and  when  required.  These  records  are 
+required to be maintained and preserved for a period of five years from the date of 
+transaction between the client and intermediary. 
+
+2.6.3  The  intermediary  shall  ensure  a  record  of  the  transactions  is  preserved  and 
+maintained in terms of Section 12 of the PMLA and that transactions of a suspicious 
+nature or any other transactions notified under Section 12 of the Act are reported to 
+the Director, FIU-IND. Suspicious transactions shall also be regularly reported to the 
+higher authorities within the intermediary. 
+
+2.6.4  Further, the compliance cell of the intermediary shall randomly examine a selection 
+of transactions undertaken by clients to comment on their nature i.e. whether they are 
+in the nature of suspicious transactions or not. 
+
+ 
+
+                                                           
+5 SEBI Circular No. CIR/ MIRSD/ 1/ 2014 dated March 12, 2014 
+
+16 
+
+ 
+
+ 
+
+2.7. Suspicious Transaction Monitoring and Reporting 
+
+2.7.1 
+
+Intermediaries  shall  ensure  that  appropriate  steps  are  taken  to  enable  suspicious 
+transactions  to  be  recognized  and  have  appropriate  procedures  for  reporting 
+suspicious  transactions.  While  determining  suspicious  transactions,  intermediaries 
+shall be guided by the definition of a suspicious transaction contained in PML Rules 
+as amended from time to time. 
+
+2.7.2  A list of circumstances which may be in the nature of suspicious transactions is given 
+below. This list is only illustrative and whether a particular transaction is suspicious or 
+not will depend upon the background, details of the transactions and other facts and 
+circumstances: 
+
+a)  Clients  whose  identity  verification  seems  difficult  or  clients  that  appear  not  to 
+
+cooperate 
+
+b)  Asset management services for clients where the source of the funds is not clear 
+
+or not in keeping with clients’ apparent standing /business activity; 
+
+c)  Clients based in high risk jurisdictions; 
+d)  Substantial increases in business without apparent cause; 
+e)  Clients  transferring  large  sums  of  money  to  or  from  overseas  locations  with 
+
+instructions for payment in cash; 
+
+f)  Attempted transfer of investment proceeds to apparently unrelated third parties; 
+g)  Unusual  transactions  by  CSCs  and  businesses  undertaken  by  offshore 
+banks/financial  services,  businesses  reported  to  be  in  the  nature  of  export- 
+import of small items. 
+
+2.7.3  Any  suspicious  transaction  shall  be  immediately  notified  to  the  Money  Laundering 
+Control Officer or any other designated officer within the intermediary. The notification 
+may  be  done  in  the  form  of  a  detailed  report  with  specific  reference  to  the  clients, 
+transactions and the nature /reason of suspicion. However, it shall be ensured that 
+there is continuity in dealing with the client as normal until told otherwise and the client 
+shall not be told of the report/ suspicion. In exceptional circumstances, consent may 
+not be given to continue to operate the account, and transactions may be suspended, 
+in one or more jurisdictions concerned in the transaction, or other action taken. The 
+Principal  Officer/  Money  Laundering  Control  Officer  and  other  appropriate 
+compliance, risk management and related staff members shall have timely access to 
+client identification data and CDD information, transaction records and other relevant 
+information.  
+ 
+It is likely that in some cases transactions are abandoned or aborted by clients on 
+being  asked  to  give  some  details  or  to  provide  documents.  It  is  clarified  that 
+intermediaries  shall  report  all  such  attempted  transactions  in  STRs,  even  if  not 
+completed by clients, irrespective of the amount of the transaction. 
+
+2.7.4 
+
+ 
+
+ 
+
+17 
+
+ 
+
+2.7.5  Clause  2.2.4  (g)  of  this  Master  Circular  categorizes  clients  of  high  risk  countries, 
+including countries where existence and effectiveness of money laundering controls 
+is  suspect  or  which  do  not  or  insufficiently  apply  FATF  standards,  as  ‘CSC’. 
+Intermediaries  are  directed  that  such  clients  shall  also  be  subject  to  appropriate 
+counter  measures.  These  measures  may  include  a  further  enhanced  scrutiny  of 
+transactions,  enhanced  relevant  reporting  mechanisms  or  systematic  reporting  of 
+financial  transactions,  and  applying  enhanced  due  diligence  while  expanding 
+business relationships with the identified country or persons in that country etc. 
+
+2.8. List of Designated Individuals/ Entities 
+
+2.8.1  An  updated  list  of  individuals  and  entities  which  are  subject  to  various  sanction 
+measures  such  as freezing  of  assets/accounts,  denial  of financial services  etc.,  as 
+approved by the Security Council Committee established pursuant to various United 
+Nations' Security Council Resolutions (UNSCRs) can be accessed at its website at 
+http://www.un.org/sc/committees/1267/consolist.shtml. Registered intermediaries are 
+directed to ensure that accounts are not opened in the name of anyone whose name 
+appears  in  said  list.  Registered  intermediaries  shall  continuously  scan  all  existing 
+accounts  to  ensure  that  no  account  is  held  by  or  linked  to  any  of  the  entities  or 
+individuals included in the list. Full details of accounts bearing resemblance with any 
+of the individuals/entities in the list shall immediately be intimated to SEBI and FIU-
+IND. 
+
+2.9. Procedure  for  freezing  of  funds,  financial  assets  or  economic  resources  or 
+
+related services 
+
+2.9.1  Section 51A of the Unlawful Activities (Prevention) Act, 1967 (UAPA), relating to the 
+purpose of prevention of, and for coping with terrorist activities was brought into effect 
+through  UAPA  Amendment  Act,  2008.  In  this  regard,  the  Central  Government  has 
+issued an Order dated August 27, 2009 detailing the procedure for the implementation 
+of Section 51A of the UAPA. 
+
+2.9.2  Under the aforementioned Section, the Central Government is empowered to freeze, 
+seize or attach funds and other financial assets or economic resources held by, on 
+behalf of, or at the direction of the individuals or entities listed in the Schedule to the 
+Order, or any other person engaged in or suspected to be engaged in terrorism. The 
+Government is also further empowered to prohibit any individual or entity from making 
+any  funds, financial  assets  or  economic  resources  or  related  services  available for 
+the benefit of the individuals or entities listed in the Schedule to the Order or any other 
+person engaged in or suspected to be engaged in terrorism.  
+
+2.9.3  The  stock  exchanges,  depositories  and  registered  intermediaries  shall  ensure 
+effective  and  expeditious  implementation  of  the  procedure  laid  down  in  the  UAPA 
+Order dated August 27, 2009 as listed below6 
+
+a)  On  receipt  of  the  updated  list  of  individuals/  entities  subject  to  UN  sanction 
+measures (hereinafter referred to as 'list of designated individuals/ entities)from 
+
+                                                           
+6SEBI Circular No. ISD/ AML/ CIR – 2/ 2009 dated October 23, 2009 
+
+ 
+
+18 
+
+ 
+
+the  Ministry  of  External  Affairs  (MHA)’;  SEBI  will  forward  the  same  to  stock 
+exchanges, depositories and registered intermediaries for the following purposes: 
+i.  To maintain updated designated lists in electronic form and run a check on 
+the  given  parameters  on  a  regular  basis  to  verify  whether  individuals  or 
+entities  listed  in  the  schedule  to  the  Order  (referred  to  as  designated 
+individuals/entities)  are  holding  any  funds,  financial  assets  or  economic 
+resources or related services held in the form of securities with them. 
+
+ii.  In  the  event,  particulars  of  any  of  customer/s  match  the  particulars  of 
+designated 
+individuals/entities,  stock  exchanges,  depositories  and 
+intermediaries  shall  immediately,  not  later  than  24  hours  from  the  time  of 
+finding out such customer, inform full particulars of the funds, financial assets 
+or economic resources or related services held in the form of securities, held 
+by such customer on their books to the Joint Secretary (IS.I), Ministry of Home 
+Affairs,  at  Fax  No.011-23092569  and  also  convey  over  telephone  on  011-
+23092736. The particulars apart from being sent by post should necessarily 
+be conveyed through e-mail at jsis@nic.in. 
+
+iii.  Stock exchanges, depositories and registered intermediaries shall send the 
+particulars of the communication mentioned in (ii) above through post/fax and 
+through e-mail (sebi_uapa@sebi.gov.in) to the UAPA nodal officer of SEBI, 
+Officer on Special Duty, Integrated Surveillance Department, Securities and 
+Exchange  Board  of  India,  SEBI  Bhavan,  Plot  No.  C4-A,  “G”  Block,  Bandra 
+Kurla  Complex,  Bandra  (E),  Mumbai  400  051  as  well  as  the  UAPA  nodal 
+officer of the state/UT where the account is held, as the case may be, and to 
+FIU-IND. 
+
+iv.  In  case  the  aforementioned  details  of  any  of  the  customers  match  the 
+particulars of designated individuals/entities beyond doubt, stock exchanges, 
+depositories and registered intermediaries would prevent designated persons 
+from  conducting  financial  transactions,  under  intimation  to  Joint  Secretary 
+(IS.I),  Ministry  of  Home  Affairs,  at  Fax  No.  011-23092569  and  also  convey 
+over telephone  on  011-23092736.  The  particulars  apart from  being sent by 
+post should necessarily be conveyed through e-mail at jsis@nic.in. 
+
+v.  Stock exchanges, depositories and registered intermediaries shall also file a 
+Suspicious Transaction Report (STR) with FIU-IND covering all transactions 
+in the accounts covered by paragraph 2.9.2 (a) (ii) above carried through or 
+attempted, as per the prescribed format. 
+ 
+
+b)  On receipt of the particulars as mentioned in paragraph 2.9.3 (a) (ii) above, IS-I 
+Division of MHA would cause a verification to be conducted by the State Police 
+and /or the Central Agencies so as to ensure that the individuals/ entities identified 
+by  the  stock  exchanges,  depositories,  registered  intermediaries  are  the  ones 
+listed  as  designated  individuals/entities  and  the  funds,  financial  assets  or 
+economic  resources  or  related  services,  reported  by  stock  exchanges, 
+depositories, 
+the  designated 
+individuals/entities.  This  verification  would  be  completed  within  a  period  not 
+exceeding 5 working days from the date of receipt of such particulars. 
+ 
+
+intermediaries  are  held  by 
+
+registered 
+
+c)  In case, the results of the verification indicate that the properties are owned by or 
+held for the benefit of the designated individuals/entities, an order to freeze these 
+assets under section51A of the UAPA would be issued within 24 hours of such 
+
+ 
+
+19 
+
+ 
+
+verification  and  conveyed  electronically  to  the  concerned  depository  under 
+intimation to SEBI and FIU-IND. The order shall take place without prior notice to 
+the designated individuals/entities. 
+
+ 
+
+d)  Implementation  of  requests  received  from  foreign  countries  under  U.N. 
+
+Securities Council Resolution 1373 of 2001. 
+
+i.  U.N. Security Council Resolution 1373 obligates countries to freeze without 
+delay the funds or other assets of persons who commit, or attempt to commit, 
+terrorist acts or participate in or facilitate the commission of terrorist acts; of 
+entities or controlled directly or indirectly by such persons; and of persons and 
+entities acting on behalf of, or at the direction of such persons and entities, 
+including funds or other assets derived or generated from property owned or 
+controlled, directly or indirectly, by such persons and associated persons and 
+entities. 
+
+ii.  To give effect to the requests of foreign countries under U.N. Security Council 
+Resolution 1373, the Ministry of External Affairs shall examine the requests 
+made  by  the  foreign  countries  and  forward  it  electronically,  with  their 
+comments, to the UAPA nodal officer for IS-I Division for freezing of funds or 
+other assets. 
+
+iii.  The UAPA nodal officer of IS-I Division of MHA, shall cause the request to be 
+examined, within five working days so as to satisfy itself that on the basis of 
+applicable  legal  principles,  the  requested  designation  is  supported  by 
+reasonable  grounds,  or  a  reasonable  basis,  to  suspect  or  believe  that  the 
+proposed  designee  is  a  terrorist,  one  who  finances  terrorism  or  a  terrorist 
+organization,  and  upon  his  satisfaction,  request  would  be  electronically 
+forwarded to the nodal officer in SEBI. The proposed designee, as mentioned 
+above would be treated as designated individuals/entities. 
+
+iv.  Upon receipt of the requests from the UAPA nodal officer of IS-I Division, the 
+list would be forwarded to stock exchanges, depositories and intermediaries 
+and  the  procedure  as  enumerated  at  paragraphs  2.9.2  (a)  and  (b)  shall  be 
+followed. 
+
+v.  The  freezing  orders  shall  take  place  without  prior  notice  to  the  designated 
+
+persons involved. 
+ 
+
+e)  Procedure for unfreezing of funds, financial assets or economic resources 
+or  related  services  of  individuals/entities  inadvertently  affected  by  the 
+freezing  mechanism  upon  verification  that  the  person  or  entity  is  not  a 
+designated person 
+ 
+i. 
+
+Any individual or entity, if it has evidence to prove that the freezing of funds, 
+financial  assets  or  economic resources  or  related  services,  owned/held by 
+them  has  been  inadvertently  frozen,  shall  move  an  application  giving  the 
+requisite evidence, in writing, to the concerned stock exchanges/depositories 
+and  registered  intermediaries.  The  stock  exchanges/depositories  and 
+registered intermediaries shall inform and forward a copy of the application 
+together with full details of the asset frozen given by any individual or entity 
+informing  of  the  funds,  financial  assets  or  economic  resources  or  related 
+services have been frozen inadvertently, to the nodal officer of IS-I Division 
+of MHA as per the contact details given in paragraph 5(ii) above within two 
+
+ 
+
+20 
+
+ 
+
+working days. The Joint Secretary (IS-I), MHA, being the nodal officer for (IS-
+I) Division of MHA, shall cause such verification as may be required on the 
+basis of the evidence furnished by the individual/entity and if he is satisfied, 
+he  shall  pass  an  order,  within  fifteen  working  days,  unfreezing  the  funds, 
+financial  assets  or  economic resources  or  related  services,  owned/held by 
+such  applicant  under  intimation  to  the  concerned  stock  exchanges, 
+depositories and registered intermediaries. However, if it is not possible for 
+any  reason  to  pass  an  order  unfreezing  the  assets  within  fifteen  working 
+days, the nodal officer of IS-I Division shall inform the applicant. 
+ 
+
+f)  Communication  of  Orders  under  section  51A  of  Unlawful  Activities 
+
+(Prevention) Act. 
+ 
+i. 
+
+All Orders under section 51A of the UAPA relating to funds, financial assets 
+or economic resources or related services, would be communicated to stock 
+exchanges, depositories and intermediaries through SEBI. 
+ 
+
+2.10. Reporting to Financial Intelligence Unit-India 
+
+2.10.1  In terms of the PML Rules, intermediaries are required to report information relating 
+to cash and suspicious transactions to the Director, Financial Intelligence Unit-India 
+(FIU-IND) at the following address: 
+
+Director, FIU-IND, 
+Financial Intelligence Unit-India, 
+6th Floor, Hotel Samrat, 
+Chanakyapuri, 
+New Delhi-110021. 
+Website: http://fiuindia.gov.in 
+ 
+
+Entity 
+
+– 
+
+Furnishing 
+
+2.10.2  Intermediaries shall carefully go through all the reporting requirements and formats 
+that  are  available  on  the  website  of  FIU  –  IND  under  the  Section  Obligation  of 
+Reporting 
+Format 
+(https://fiuindia.gov.in/files/downloads/Filing_Information.html).  These  documents 
+contain detailed directives on the compilation and manner/procedure of submission 
+of  the  reports  to  FIU-IND.  The  related  hardware  and  technical  requirement  for 
+preparing reports, the related data files and data structures thereof are also detailed 
+in these documents While detailed instructions for filing all types of reports are given 
+in  the  instructions  part  of  the  related  formats,  intermediaries  shall  adhere  to  the 
+following: 
+
+Information 
+
+– 
+
+Reporting 
+
+ 
+
+a)  The Cash Transaction Report (CTR) (wherever applicable) for each month shall 
+
+be submitted to FIU-IND by 15th of the succeeding month. 
+
+b)  The Suspicious Transaction Report (STR) shall be submitted within 7 days of 
+arriving  at  a  conclusion that  any  transaction,  whether cash  or  non-cash,  or a 
+series  of  transactions  integrally  connected  are  of  suspicious  nature.  The 
+Principal Officer shall record his reasons for treating any transaction or a series 
+
+ 
+
+21 
+
+ 
+
+of transactions as suspicious. It shall be ensured that there is no undue delay 
+in arriving at such a conclusion. 
+
+c)  The Non Profit Organization Transaction Reports (NTRs) for each month shall 
+
+be submitted to FIU-IND by 15th of the succeeding month. 
+
+d)  The Principal Officer will be responsible for timely submission of CTR, STR and 
+
+NTR to FIU-IND; 
+
+e)  Utmost confidentiality shall be maintained in filing of CTR, STR and NTR to FIU-
+
+IND.  
+
+f)  No  nil  reporting  needs  to  be  made  to  FIU-IND  in  case  there  are  no  cash/ 
+
+suspicious/ non – profit organization transactions to be reported. 
+ 
+ 
+
+2.10.3  Intermediaries shall not put any restrictions on operations in the accounts where an 
+STR  has  been  made.  Intermediaries  and  their  directors,  officers  and  employees 
+(permanent and temporary) shall be prohibited from disclosing (“tipping off”) the fact 
+that a STR or related information is being reported or provided to the FIU-IND. This 
+prohibition  on  tipping  off  extends  not  only  to  the  filing  of  the  STR  and/  or  related 
+information but even before, during and after the submission of an STR. Thus, it shall 
+be ensured that there is no tipping off to the client at any level 
+
+It  is  clarified  that  the  registered  intermediaries,  irrespective  of  the  amount  of 
+transaction  and/or  the  threshold  limit  envisaged  for  predicate  offences  specified  in 
+part B of Schedule of PMLA, 2002, shall file STR if they have reasonable grounds to 
+believe that the transactions involve proceeds of crime. 
+
+2.11.  Designation of officers for ensuring compliance with provisions of PMLA 
+
+2.11.1  Appointment of a Principal Officer:  
+
+2.11.1.1 To  ensure  that  the  registered  intermediaries  properly  discharge  their  legal 
+obligations to report suspicious transactions to the authorities, the Principal 
+Officer would act as a central reference point in facilitating onward reporting 
+of suspicious transactions and for playing an active role in the identification 
+and assessment of potentially suspicious transactions and shall have access 
+to and be able to report to senior management at the next reporting level or 
+the Board of Directors. Names, designation and addresses (including email 
+addresses) of ‘Principal Officer’ including any changes therein shall also be 
+intimated  to  the  Office  of  the  Director-FIU.  As  a  matter  of  principle,  it  is 
+advisable that the ‘Principal Officer’ is of a sufficiently senior position and is 
+able to discharge the functions with independence and authority. 
+
+ 
+
+ 
+
+22 
+
+2.11.2 Appointment of a Designated Director:7 
+
+ 
+
+2.11.2.1 In addition to the existing requirement of designation of a Principal Officer, the 
+registered  intermediaries  shall  also  designate  a  person  as  a  'Designated 
+Director'.  In  terms  of  Rule  2  (ba)  of  the  PML  Rules,  the  definition  of  a 
+Designated Director reads as under: 
+“Designated  director means  a  person  designated  by  the   reporting  entity  to 
+ensure overall compliance with the obligations imposed under chapter IV of 
+the Act and the Rules and includes –  
+a)  the Managing Director or a  Whole-Time Director duly authorizes by the 
+
+Board of Directors if the reporting entity is a company, 
+
+b)  the managing partner if the reporting entity is a partnership firm, 
+c)  the proprietor if the reporting entity is a proprietorship firm, 
+d)  the managing  trustee if the reporting entity is a trust, 
+e)  a person or individual, as the case may be, who controls and manages 
+the affairs of the reporting entity if the reporting entity is an unincorporated 
+association or a body of individuals, and 
+
+f)  such  other  person  or  class  of  persons  as  may  be  notified  by  the 
+Government if the reporting entity does not fall in any of the categories 
+above.” 
+
+ 
+
+2.11.2.2 In  terms  of  Section  13  (2)  of  the  PMLA,  the  Director,  FIU  –  IND  can  take 
+appropriate  action,  including  levying  monetary  penalty,  on  the  Designated 
+Director  for  failure  of  the  intermediary  to  comply  with  any  of  its  AML/CFT 
+obligations. 
+ 
+
+2.11.2.3 Registered  intermediaries  shall  communicate  the  details  of  the  Designated 
+Director, such as, name designation and address to the Office of the Director, 
+FIU – IND. 
+
+2.12. Employees’ Hiring/Employee’s Training/ Investor Education 
+
+2.12.1  Hiring of Employees 
+
+2.12.1.1 The  registered  intermediaries  shall  have  adequate  screening  procedures in 
+place to ensure high standards when hiring employees. They shall identify the 
+key positions within their own organization structures having regard to the risk 
+of money laundering and terrorist financing and the size of their business and 
+ensure  the  employees  taking  up  such  key  positions  are  suitable  and 
+competent to perform their duties. 
+
+ 
+ 
+ 
+ 
+
+                                                           
+7SEBI Circular No. CIR/ MIRSD/ 1/ 2-014 dated March 12, 2014 
+
+23 
+
+ 
+
+2.12.2 Employees’ Training: 
+
+ 
+
+2.12.2.1 Intermediaries must have an ongoing employee training programme so that 
+the members of the staff are adequately trained in AML and CFT procedures. 
+Training requirements shall have specific focuses for frontline staff, back office 
+staff,  compliance  staff,  risk  management  staff  and  staff  dealing  with  new 
+clients.  It  is  crucial  that  all  those  concerned  fully  understand  the  rationale 
+behind  these  directives,  obligations  and  requirements,  implement  them 
+consistently and are sensitive to the risks of their systems being misused by 
+unscrupulous elements. 
+
+2.12.3  Investors Education 
+
+2.12.3.1 Implementation  of  AML/CFT  measures  requires  intermediaries  to  demand 
+certain  information  from  investors  which  may  be  of  personal  nature  or  has 
+hitherto  never  been  called  for.  Such  information  can  include  documents 
+evidencing  source  of  funds/income  tax  returns/bank  records  etc.  This  can 
+sometimes lead to raising of questions by the client with regard to the motive 
+and  purpose  of  collecting  such  information.  There  is,  therefore,  a  need  for 
+intermediaries to sensitize their clients about these requirements as the ones 
+emanating  from  AML  and  CFT  framework.  Intermediaries  shall  prepare 
+specific literature/ pamphlets etc. so as to educate the client of the objectives 
+of the AML/CFT programme. 
+
+ 
+
+24 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCHEDULE I 
+
+ 
+
+List of key circulars/ directives issued with regard to KYC, CDD, AML and CFT 
+
+S. 
+No.  
+1.    SEBI/  HO/ 
+
+Circular Number  Date of 
+ Circular 
+June 30, 2017 
+
+IMD/ 
+FIIC/  CIR/  P/  2017/ 
+068 
+
+Subject 
+
+Broad area covered 
+
+ 
+
+ Acceptance of e -PAN card 
+for KYC purpose 
+
+E-PAN issued by CBDT for 
+KYC compliance by FPI 
+
+December  15, 
+2016 
+
+ Master Circulars for 
+Depositories 
+
+Opening of BO Accounts 
+
+ Review  of  requirement  for 
+copy of PAN Card to open 
+accounts of FPIs  
+ Uploading  of  the  existing 
+clients'  KYC  details  with 
+Central  KYC  Records 
+Registry  (CKYCR)  System 
+by 
+ 
+registered  
+intermediaries 
+ Master Circular for 
+Mutual Funds 
+
+the 
+
+Verification and submission 
+of PAN Card by FPI 
+
+Time  lines  for  registered 
+intermediaries in respect of 
+uploading  KYC  data  of  the 
+new  and  existing  individual 
+clients with CKYCR 
+
+ 
+
+(CERSAI) 
+
+ Operationalization 
+of 
+Central  KYC  Records 
+Registry (CKYCR) 
+
+Compliance with AML/ CFT 
+CDD  directives  of  SEBI 
+stipulated in Master Circular 
+dated September 14, 2016 
+Authorization  of    Central  
+Registry    of    Securitization  
+and  Asset    Reconstruction  
+and    Security    interest    of  
+for 
+India 
+receiving, 
+storing, 
+safeguarding,  retrieving the 
+KYC  records  and  finalizing 
+template of KYC  
+Applicability 
+Indian 
+of 
+KYC/AML  norms  for  Client 
+Due 
+KYC 
+Suspicious 
+Review, 
+Report, 
+Transactions 
+Reporting 
+complete 
+trail  of  ODIs, 
+transfer 
+of  ODI 
+Reconfirmation 
+positions, 
+Periodic 
+Operational Evaluation 
+Client 
+ Know 
+Client 
+identification  and 
+- 
+authentication from  UIDAI, 
+Requirements 
+Clarification  on  voluntary 
+Investment Limit and mode 
+
+Client 
+ Know 
+(KYC)norms 
+  ODI  
+subscribers,  transferability 
+of    ODIs,  reporting    of  
+suspicious    transactions, 
+periodic 
+  of  
+systems and  modified ODI 
+reporting format 
+
+Diligence, 
+
+review 
+
+Your 
+
+of 
+
+Your 
+
+ 
+
+for 
+
+ 
+
+25 
+
+8.    CIR/  MIRSD/  29/ 
+
+22, 
+
+January 
+2016 
+
+2016 
+
+2.    SEBI/  HO/  MRD/ 
+DP/  CIR/  P/  2016/ 
+134  
+3.    CIR/ 
+
+IMD/  FPIC/ 
+
+123/ 2016 
+
+4.    CIR/  MIRSD/  120  / 
+
+2016 
+ 
+
+November  17, 
+2016 
+
+November  10, 
+2016 
+
+5.    SEBI/  HO/  IMD  / 
+DF3/  CIR/ P / 2016/ 
+84 
+ 
+
+September  14, 
+2016 
+
+6.    CIR/  MIRSD/  66/ 
+
+July 21, 2016 
+
+2016 
+
+7.    CIR/  IMD/  FPI&C/ 
+
+June 10, 2016 
+
+59/ 2016 
+
+ 
+
+ 
+
+9.    CIR/  IMD/  FIIC/  11/ 
+
+June 16, 2014 
+
+2014 
+
+ Know  Your  Client  (KYC) 
+requirements  for  Foreign 
+Portfolio Investors (FPIs) 
+
+10.   CIR/  MIRSD/  1/ 
+
+March 12, 2014 Anti-Money 
+
+2014 
+
+adaptation  of  Aadhaar 
+based e-KYC process 
+
+Laundering/Countering  the 
+Financing 
+of  Terrorism 
+(AML/CFT) 
+Obligations  of  Securities 
+Market 
+Intermediaries 
+under 
+the  Prevention  of 
+Money laundering 
+Act, 2002 and Rules framed 
+there under 
+
+ 
+
+ 
+
+to 
+
+Due 
+
+of  payment 
+to  Mutual 
+Funds,  PAN  verification, 
+additional  due  diligence  in 
+case  of  material  difference 
+in information 
+Process  to  be  followed  by 
+DDPs to share the relevant 
+KYC  documents  of  FPIs 
+with  
+the  banks  and  record    of  
+transfer  of  documents 
+Consequential  
+and  
+modifications 
+additions 
+Master  
+Circular  CIR/ ISD/ AML/ 3/ 
+2010  dated  December  31,  
+2010  in  respect  of  Risk 
+Assessment,  Reliance  on 
+third  party  for  carrying  out 
+Client 
+Diligence 
+(CDD),  Record  keeping 
+requirements,  Records  of 
+information  reported  to  the 
+Director, 
+Financial 
+Intelligence  Unit    -    India  
+(FIU-IND), Appointment of  
+a Designated Director 
+Shifting 
+certain 
+information in Section C  of 
+Part I to Part II of the AOF, 
+information  required  to  be 
+captured  in  the  systems  of 
+KRAs 
+Acceptance 
+  of  e-KYC 
+service  launched  by  UIDAI 
+as    a    valid    process    for  
+KYC  verification 
+Partial  modification  to  the 
+provisions  of  circular    No  
+CIR/MIRSD/    11    /2012 
+dated September 5, 2012, 
+Classification  of  Eligible  
+foreign  investors  investing  
+under  Portfolio  Investment  
+Scheme    ('PIS')    route  as  
+Category  I,  II  and  III 
+Modification  of  circulars  
+dated  December  23,  2011  
+
+of 
+
+11.   CIR/  MIRSD/  13/ 
+
+2013 
+
+December  26, 
+2013 
+
+Know 
+requirements 
+
+Your 
+
+Client 
+
+12.   CIR/  MIRSD/  09/ 
+
+October 8, 2013 Know 
+
+Your 
+
+2013 
+
+Requirements 
+
+Client 
+
+13.   CIR/  MIRSD/  07  / 
+
+2013 
+
+September  12, 
+2013 
+
+Your 
+
+Client 
+Know 
+Requirements  for  Eligible 
+Foreign Investors 
+
+14.   CIR 
+
+/MIRSD/ 
+
+4 
+
+March 28, 2013 Amendment 
+
+to 
+
+/2013 
+
+{(Know 
+
+Your 
+
+ 
+
+26 
+
+SEBI 
+Client) 
+
+ 
+
+original 
+
+investors 
+
+to 
+
+of 
+
+January 
+2013 
+
+2013 
+
+January 
+2013 
+
+17.   CIR/  MIRSD/  11/ 
+
+Client 
+
+other 
+
+is  a 
+
+/2013 
+
+2012 
+
+16.   CIR/  MIRSD/  01 
+
+04, 
+
+15.   CIR/  MIRSD/  2/ 
+
+24, 
+
+September 
+2012 
+
+5, 
+
+Know 
+Requirements 
+
+Your 
+
+ Guidelines on Identification 
+of Beneficial Ownership 
+
+Registration 
+Regulations, 
+2011 and relevant circulars 
+
+Agency} 
+
+ Rationalization  process  for 
+obtaining PAN by Investors 
+
+and  April  13,  2012, to the 
+extent  of  requirement    for 
+sending 
+KYC 
+documents of the clients to 
+the KRA 
+to 
+Client  Due  Diligence 
+the 
+identify  and  verify 
+identity  of  persons  who 
+beneficially  own  or  control 
+the  securities  account  for 
+clients 
+than 
+trusts  and 
+individuals  or 
+client  which 
+trust. 
+Exemption  in case  of listed 
+companies, Applicability for 
+foreign 
+and 
+Implementation 
+Verification  the    PAN    of  
+clients  online  at the Income 
+Tax website 
+Clarifications 
+for  Foreign 
+Investors  viz.  FIIs,  Sub 
+Accounts  and  QFIs  w.r.t. 
+implementation  of  SEBI 
+circulars  no.  CIR  /MIRSD/ 
+16/ 2011  dated  August  22, 
+2011  and  MIRSD/ SE/ Cir-
+21/ 2011  dated  October  5,  
+2011  on  know  your  client  
+norms 
+Admissibility  of  Aadhaar 
+letter  issued  by  UIDAI  as 
+Proof of Address in addition 
+to 
+its  presently  being 
+recognized  as  Proof  of 
+Identity 
+ 
+avoid 
+19.   MIRSD/ Cir-5 / 2012 April 13, 2012  Uploading  of  the  existing 
+Process 
+KYC, 
+duplication 
+clients’  KYC  details  in  the 
+guidelines 
+for  uploading  
+KYC Registration 
+the  KYC  data    of    the  
+Agency  (KRA)  system  by 
+the intermediaries 
+existing    clients,  Schedule 
+for implementation 
+ 
+ 
+for 
+Guidelines  in  pursuance  of 
+Guidelines 
+Intermediaries,  Guidelines 
+the  SEBI  KYC  Registration 
+Agency (KRA) 
+
+August 13, 2012 Aadhaar  Letter  as  Proof  of 
+for  Know  Your 
+
+Address 
+Client (KYC) norms. 
+
+December  23, 
+2011 
+
+20.   MIRSD/  Cir-  26  / 
+
+2011 
+
+18.   CIR/  MIRSD/  09  / 
+
+2012 
+
+ 
+
+27 
+
+ 
+
+21.   MIRSD/ 
+
+2011 
+
+Cir-23/ 
+
+December 
+2011 
+
+2, 
+
+22.   CIR/  MIRSD/  22/ 
+
+25, 
+
+October 
+2011 
+
+2011 
+
+Securities 
+
+Regulations,  2011  and  for 
+In-Person Verification (IPV) 
+ The 
+and 
+Exchange  Board  of  India 
+(KYC Registration Agency) 
+Regulations, 2011. 
+ ‘In-person’ 
+(IPV) 
+clients 
+of 
+subsidiaries of stock 
+exchanges, acting as stock 
+brokers 
+
+verification 
+by 
+
+for  KRAs,  Guidelines  w.r.t 
+In-Person Verification (IPV) 
+Centralization  of  the  KYC  
+ 
+records to avoid duplication 
+of KYC process 
+
+Clarification  w.r.t    ultimate 
+  
+responsibility  for ‘in-person’ 
+verification 
+
+23.   MIRSD/  SE/  Cir-21/ 
+
+2011 
+
+October 5, 2011  Uniform  Know  Your  Client 
+for 
+
+(KYC)  Requirements 
+the Securities Markets 
+
+Clarification  w.r.t  different 
+KYC forms used by Market 
+Intermediaries,  Guidelines 
+for KYC  form  capturing  the  
+basic    details    about    the 
+client and additional  details  
+specific    to    the    area    of  
+activity  of  the  intermediary  
+being  obtained 
+ 
+Client  account  opening 
+ Simplification 
+and 
+Rationalization  of  Trading 
+Process,  Client  Account 
+Opening  Form,  Rights    & 
+Account Opening Process 
+Obligations of stock broker, 
+sub-broker  and  client    for  
+trading    on    exchanges 
+Uniform  Risk  Disclosure 
+Documents, Guidance Note 
+detailing Do’s and Don’ts for 
+trading 
+Anti  -  Money  Laundering  
+(AML) 
+Standards/ 
+Combating the Financing of 
+Terrorism 
+/ 
+Obligations  of  Securities 
+Intermediaries 
+Market 
+under 
+the  Prevention  of 
+Money  Laundering  Act, 
+2002  and  Rules 
+framed 
+there under 
+Capturing  of  address  other 
+than  that  of  the  BO  as  the 
+correspondence address. 
+Clarifications 
+the 
+Execution  of  the  POA  by 
+the client 
+
+Acceptance  of  third  party 
+address as correspondence 
+address 
+Guidelines on the Execution 
+of Power of Attorney by the 
+Client  in  favour  of  Stock 
+Broker/ DP 
+
+Master 
+AML/CFT 
+
+(CFT) 
+
+Circular 
+
+on 
+
+on 
+
+24.   CIR/  MIRSD/  16/ 
+
+2011 
+
+August 
+22, 2011 
+
+25.   CIR/  ISD/  AML/  3/ 
+
+ December  31, 
+2010 
+
+2010 
+ 
+
+26.   CIR/ MRD/ DP / 37/ 
+
+2010 
+
+27.   CIR/  MRD/  DMS/ 
+
+13/ 2010 
+
+December 
+14, 2010 
+
+August 31, 
+2010 
+
+ 
+
+28 
+
+28.   CIR/  MRD/  DMS/ 
+
+13/ 2010 
+
+April 23, 
+2010 
+
+29.   CIR/  ISD/  AML/  2/ 
+
+2010 
+
+June 14, 
+2010 
+
+30.   CIR/  ISD/  AML/  1/ 
+
+2010 
+
+February 12, 
+2010 
+
+31.   SEBI/ MIRSD/ Cir 
+
+No.02/ 2010 
+
+January 18, 
+2010 
+
+32.  
+
+ISD/  AML/  CIR-2/ 
+2009 
+
+October 23, 
+2009 
+
+33.  
+
+ISD/  AML/  CIR-1/ 
+2009 
+
+September 
+01, 2009 
+
+34.  
+
+ISD/ AML/ CIR- 
+1/ 2008 
+
+December 
+19, 2008 
+
+35.   MIRSD/ 
+
+DPSIII/ 
+
+130466/ 2008 
+
+July 2, 
+2008 
+
+In-Person  verification  of 
+clients by stock-brokers 
+
+36.   MRD/  DoP/  Cir-20/ 
+
+2008 
+
+June 30, 
+2008 
+
+Mandatory  Requirement  of 
+PAN 
+
+ 
+
+29 
+
+ 
+
+Guidelines on the Execution 
+of Power of Attorney by the 
+Client  in  favour  of  Stock 
+Broker/ DP 
+Additional Requirements for 
+AML/ CFT 
+
+Guidelines 
+the 
+Execution  of  Power  of 
+Attorney by the Client 
+
+on 
+
+Additional Requirements on 
+retention  of  documents, 
+monitoring, 
+off, 
+updation  of  records  and 
+other clarifications. 
+
+tipping 
+
+opening 
+
+Mandatory  Requirement  of 
+in-person 
+verification  of 
+clients. 
+
+Master Circular –AML/ CFT Framework  for  AML/  CFT 
+for 
+including  procedures 
+CDD,  client  identification, 
+record keeping & retention, 
+monitoring and reporting of 
+STRs 
+In-person  verification  done 
+for 
+beneficial 
+owner’s  account  by  a  DP 
+will  hold  good  for  opening 
+trading  account  for  a  stock 
+broker and vice versa, if the 
+DP and the stock broker is 
+the same entity or if one of 
+them 
+the  holding  or 
+subsidiary. 
+Procedure  to  be  followed 
+for the freezing of assets of 
+individual 
+entities 
+engaged in terrorism 
+Additional 
+requirements 
+clarifications thereon 
+
+Directives  on  CFT  under 
+Unlawful 
+Activities 
+(Prevention) Act, 1967 
+
+CFT 
+and 
+
+AML/ 
+
+or 
+
+is 
+
+Additional AML/ CFT 
+obligations 
+of 
+Intermediaries under PMLA, 
+2002 and rules framed 
+Master  Circular  on  AML/ 
+CFT directives 
+
+of 
+
+Framework  for  AML/  CFT 
+including  procedures 
+for 
+CDD,  client  identification, 
+record keeping & retention, 
+monitoring and reporting of 
+suspicious transactions. 
+stock 
+Responsibility 
+brokers 
+in 
+- 
+person  verification  by  its 
+own staff. 
+Exception 
+certain 
+classes  of  persons  from 
+PAN 
+sole 
+identification number for all 
+participants  trading  in  the 
+securities market. 
+
+to  ensure 
+
+being 
+
+the 
+
+for 
+
+37.   F.No.47/ 2006/ ISD/ 
+
+SR/ 122539 
+
+38.   MRD/  DoP/  Cir-  20/ 
+
+2008 
+
+April 4, 
+2008 
+
+April 3, 
+2008 
+
+In-person  verification  of 
+BO’s  when  opening  demat 
+accounts 
+Exemption  from  mandatory 
+requirement of PAN. 
+
+39.   F.No.47- 2006 /ISD/ 
+
+SR/ 118153/ 2008 
+
+February 
+22, 2008 
+
+In-Person  verification  of 
+clients by depositories 
+
+40.   MRD/  DoP/  Dep/ 
+
+Cir- 12/ 2007 
+
+September 
+7, 2007 
+
+KYC 
+Depositories 
+
+Norms 
+
+for 
+
+41.   MRD/  DoP/  Cir-05/ 
+
+2007 
+
+April 27, 
+2007 
+
+42.  
+
+ISD /CIR/ RR/ AML/ 
+2/ 06 
+
+March 20, 
+2006 
+
+the 
+
+to  be 
+
+PAN 
+sole 
+identification  number  for  all 
+transactions 
+the 
+securities market 
+PMLA  Obligations  Of 
+intermediaries  in  terms  of 
+Rules notified there under 
+
+in 
+
+ 
+
+for 
+
+In-person  verification  to  be 
+carried  out  by  staff  of 
+depository participant. 
+for 
+investors 
+Exemption 
+residing  in 
+the  State  of 
+Sikkim from PAN being the 
+sole  identification  number 
+for  trading  in  the  securities 
+market. 
+Clarification  on 
+various 
+topics relating to ‘in person’ 
+verification  of  BOs  at  the 
+time  of  opening  demat 
+accounts 
+Proof  of  Identity  (POI)  and 
+Proof of Address (POA) for 
+opening 
+a  Beneficiary 
+Owner  (BO)  Account  for 
+non - body corporates 
+Mandatory  requirement  of 
+PAN 
+participants 
+transacting in the securities 
+market. 
+Procedure  for  maintaining 
+and  preserving 
+records, 
+reporting requirements and 
+formats  of  reporting  cash 
+transactions and suspicious 
+transactions 
+Framework  for  AML  and 
+CFT  including  policies  and 
+procedures,  Client  Due 
+Diligence 
+requirements, 
+record  keeping,  retention, 
+monitoring and reporting 
+Uniform  KYC  documentary 
+requirements for trading on 
+different  segments  and 
+exchanges 
+list  of 
+Broadening 
+documents 
+that  may  be  
+accepted  as  Proof  of 
+Identity  (POI)  and/or  Proof 
+of  Address  (POA)  for  the 
+purpose  of  opening  a  BO 
+Account  
+Prohibition  on  acceptance/ 
+giving  of  cash  by  brokers 
+
+the 
+
+43.  
+
+ISD/ CIR/ RR/ AML/ 
+1/ 
+06 
+
+January 18, 
+2006 
+
+Directives 
+Standards 
+
+on 
+
+AML 
+
+44.   SEBI/  MIRSD/  DPS 
+
+- 1/ Cir-31/ 2004 
+
+August 26, 
+2004 
+
+Uniform 
+Requirements for trading 
+
+Documentary 
+
+45.   MRD/  DoP/  Dep/ 
+
+Cir- 29/ 2004 
+
+August 24, 
+2004 
+
+Proof  of  Identity  (POI)  and 
+Proof of Address (POA) for 
+opening 
+Beneficiary 
+Owner 
+
+a 
+
+46.   SEBI/ MRD/ SE /Cir- 
+
+33/ 2003/ 27/ 08 
+
+August 27, 
+2003 
+
+Mode  of  payment  and 
+delivery 
+
+ 
+
+30 
+
+47.   SMDRP/ Policy/ Cir- 
+
+August 4, 
+2000 
+
+36/ 2000 
+
+48.   SMD/ 
+
+CIRCULARS /5-97 
+
+POLICY/ 
+
+April 11, 
+1997 
+
+49.   SMD-1/ 23341 
+
+Nov. 18, 
+1993 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+KYC 
+Depositories 
+
+Norms 
+
+Client Registration Form 
+
+for 
+
+Regulation  of 
+between 
+members 
+
+transaction 
+and 
+
+clients 
+
+and  on  third  party  transfer 
+of securities 
+Documentary  requirements 
+for  opening  a  beneficiary 
+account. 
+Formats 
+Registration  Form 
+broker clients agreements 
+Mandatory  requirement  to 
+obtain  details  of  clients  by 
+brokers. 
+
+client 
+and 
+
+of 
+
+31 
+
+

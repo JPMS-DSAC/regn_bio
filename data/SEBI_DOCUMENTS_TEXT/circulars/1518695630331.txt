@@ -1,0 +1,404 @@
+ 
+
+ 
+
+CIRCULAR 
+
+ 
+
+SEBI/HO/CFD/DIL2/CIR/P/2018/22                                                February 15, 2018  
+
+ 
+Registered Bankers to an Issue 
+Registered Merchant Bankers  
+Registered Registrars to an Issue 
+and Share Transfer Agents 
+ 
+ 
+
+Dear Sir/Madam,  
+
+ 
+
+Sub: Compensation to Retail Individual Investors (RIIs) in an IPO  
+
+1.  While the process of Applications Supported By Block Amount (ASBA) has resulted in 
+almost  complete  elimination  of  complaints  pertaining  to  refunds,  there  have  been 
+instances where the applicants in an Initial Public Offering have failed to get allotment of 
+specified securities and in the process may have suffered an opportunity loss due to the 
+following factors: 
+
+ 
+
+a)  Failure on part of the Self Certified Syndicate Banks (SCSBs) to make bids in the 
+concerned  Exchange  system  even  after  the  amount  has  been  blocked  in  the 
+investors’ bank account with such SCSB. 
+
+b)  Failure on part of the SCSB to process the ASBA applications even when they 
+
+have been submitted within time. 
+
+c)  Any other failures on part of an SCSB which has resulted in the rejection of the 
+
+application form. 
+
+ 
+
+2.  A need has been felt to have a uniform policy for calculation of minimum compensation 
+payable to investors in scenarios mentioned in Para 1. a), b) and c) of this Circular.  While 
+doing so, the following factors have been taken into account: 
+
+ 
+
+a)  the opportunity loss suffered by the investor due to non-allotment of shares; 
+b)  the number of times the issue was oversubscribed in the relevant category; 
+c)  the probability of allotment; and  
+d)  the listing gains if any on the day of listing. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3.  The proposed formula for calculation of minimum fair compensation is as follows: 
+
+Compensation = 
+
+(Listing price* - Issue Price)  X  No.  of  shares  that 
+would  have  been 
+allotted  if  bid  was 
+successful 
+
+X  Probability 
+
+of 
+of 
+
+allotment 
+shares 
+determined 
+the 
+allotment 
+
+on 
+  basis  of 
+
+*Listing price shall be taken as the highest of the opening prices on the day of listing across the recognized 
+stock Exchanges. 
+
+The  formula  has  been  explained  with  the  help  of  an  example  in  the  annexure  to  this 
+Circular. 
+
+4. 
+
+It is also proposed that in case of issues which are subscribed between 90-100%, i.e. 
+non  oversubscribed  issues,  the  applicants  would  be  compensated  for  all  the  shares 
+which they would have been allotted. 
+ 
+
+5.  No compensation would be payable to the applicant in case the listing price is below the 
+
+issue price. 
+
+ 
+
+6.  RTAs shall share the basis of allotment file, if sought by SCSBs, so that the SCSBs shall 
+
+have access to the allotment ratio for the purpose of arriving at the compensation. 
+ 
+
+7.  Any applicant whose application has not been considered for allotment, due to failure on 
+the part of the SCSB, shall have the option to seek redressal of the same within  three 
+months of the listing date with the concerned SCSB. On receipt of such application/s, the 
+SCSB would be required to resolve the same within 15 days, failing which it would have 
+to pay interest at the rate of 15% per annum for any delay beyond the said period of 15 
+days. 
+
+ 
+
+8. 
+
+In case the SCSBs fail to redress such grievances within the stipulated time, additionally 
+SEBI may initiate action as deemed fit. 
+ 
+
+9.  This  circular  shall  come  into  force  with  immediate  effect.  SCSBs  are  also  advised  to 
+resolve all pending issues related to non-allotment of specified securities whether on the 
+SEBI  SCORES  portal  or  otherwise  using  the  compensation  policy  outlined  in  this 
+Circular. 
+ 
+
+10.  This  circular  is  being  issued  in  exercise  of  the  powers  under  section  11  read  with  
+
+section 11A of the Securities and Exchange Board of India Act, 1992.  
+ 
+
+11.  This  circular  is  available  on  SEBI  website  at www.sebi.gov.in under  the  categories  
+
+“Legal Framework” and “Issues and Listing”. 
+
+ 
+Yours faithfully,  
+ 
+ 
+ 
+Amy Durga Menon 
+Deputy General Manager  
++91-22-26449584 
+amydurga@sebi.gov.in 
+ 
+
+ 
+
+ 
+
+Annexure 
+
+Reference  chart  for  calculation  of  minimum  compensation  in  case  of  non-allotment  of 
+specified securities to applicants (Retail Individual Investors) in an IPO 
+
+Example - Security A 
+
+Issue Price : 300 
+Listing Price: 325 
+Minimum Bid lot : 20 shares 
+ 
+Total No. of Applications 
+
+No. of Equity Shares applied in all 
+
+received from RII 
+
+valid applications 
+
+(A) 
+
+2,00,000 
+
+(B) 
+
+3,28,00,000 
+
+*RII-Retail Individual investor 
+
+Shares Reserved 
+
+for RIIs 
+
+(C) 
+
+35,00,000 
+
+No. of times 
+Subscribed 
+
+(D)=B/C 
+
+9.37 
+
+In this case maximum possible allottees is 35,00,000/20 = 1,75,000 
+
+The basis of allotment is determined by Lead Managers in consultation with the 
+Stock Exchanges as under: 
+
+No. 
+of 
+Lots  
+
+No. of 
+Shares 
+at 
+each 
+lot  
+
+No. of retail 
+Investors 
+applying at 
+each lot  
+
+Total No. of 
+Shares 
+applied for 
+at each lot  
+
+No. of investors 
+who shall receive 
+minimum bid-lot 
+(to be selected on 
+lottery)  
+
+Allotment 
+Ratio 
+Determined 
+
+No. of shares 
+allotted per 
+allottee 
+(minimum lot 
+size)  
+
+A  
+
+B  
+
+C  
+
+D=(B*C)  
+
+E  
+
+F = E:C 
+
+G 
+
+1 
+
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+
+ 
+
+ 
+
+20 
+
+10,000 
+
+200,000 
+
+8750=(175000/200
+000)*10000 
+
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+200 
+220 
+240 
+260 
+280 
+300 
+320 
+Total 
+
+10,000 
+10,000 
+10,000 
+20,000 
+20,000 
+15,000 
+20,000 
+10,000 
+15,000 
+10,000 
+10,000 
+10,000 
+5,000 
+15,000 
+10,000 
+200,000 
+
+400,000 
+600,000 
+800,000 
+2,000,000 
+2,400,000 
+2,100,000 
+3,200,000 
+1,800,000 
+3,000,000 
+2,200,000 
+2,400,000 
+2,600,000 
+1,400,000 
+4,500,000 
+3,200,000 
+32,800,000 
+
+8,750 
+8,750 
+8,750 
+17,500 
+17,500 
+13,125 
+17,500 
+8,750 
+13,125 
+8,750 
+8,750 
+8,750 
+4,375 
+13,125 
+8,750 
+175,000 
+
+7:8 
+7:8 
+7:8 
+7:8 
+7:8 
+7:8 
+7:8 
+7:8 
+7:8 
+7:8 
+7:8 
+7:8 
+7:8 
+7:8 
+7:8 
+7:8 
+
+ 
+
+ 
+
+20 
+
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+
+In this case if the number of shares applied by an applicant whose bid was unsuccessful due to 
+failure/error on part of SCSB is 20 shares or multiples thereof, then the minimum compensation 
+is calculated as under: 
+
+Compensation = (Rs.325-Rs.300)*20*(7/8) = Rs.437.50 
+
+*** 
+
+

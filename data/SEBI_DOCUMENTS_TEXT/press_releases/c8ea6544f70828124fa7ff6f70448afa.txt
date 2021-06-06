@@ -1,0 +1,66 @@
+
+ 
+Jan 18, 2013
+
+PR No.:  
+17/2013
+
+
+The SEBI Board met in Chennai today and took the following decisions: 
+1.  Review of Offer for Sale (OFS) through stock exchange mechanism.
+The Board noted that the OFS mechanism has been found to be useful by market participants and popular for offloading shares of promoters in listed companies in order to achieve minimum public shareholding. As the deadline of June 2013 to achieve minimum public shareholding is fast approaching and large number of promoters are expected to offload their shares through OFS route, the Board has approved the following changes in the OFS mechanism to make it more economical, efficient and transparent: 
+a)         Margin Requirement for Institutional orders placed in OFS:
+(i) Institutions may place orders/bids with 100% upfront margin and modification/cancellation of such orders/bids shall be permitted. Custodian confirmation shall be within the trading hours. However, the settlement of funds and securities shall take place on T+1 day.            
+ (ii) Institutions may place orders without upfront margin in line with secondary market practice. However such bids/orders cannot be modified /cancelled, except upward revision in the price or quantity. Confirmation by custodian and settlement shall be as per the rules for secondary market transactions.  
+b)        Visibility of order book: 
+ (i)  Cumulative bid quantity of 100% margined orders as well as non-margined but non-cancellable orders shall be made available to the market throughout the trading session. The order book shall display two sets of orders, cumulative orders/bids with 100% margin and cumulative orders/bids without margin.
+(ii)  Indicative price shall be disclosed to market throughout the trading session. The indicative price shall be calculated based on all bids/orders.
+ 2.         Amendment to SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 (Takeover Regulations, 2011)
+ The Board took note of the concerns raised during the implementation of Takeover Regulations, 2011 and approved the following:
+ (a)  Relevant date for making Public Announcement and determination of offer price in cases of  combined modes of acquisition
+Where the open offer obligations are triggered pursuant to an agreement or otherwise in combination of any modes of acquisition, the ‘relevant date’ for making the Public Announcement and determination of offer price shall be the earliest date on which obligations are triggered. This will, however, not be applicable if the subsequent trigger is on account of willful and deliberate act on the part of the acquirer.
+(b) Relevant date for making Public Announcement and determination of offer price in cases of preferential allotment
+The information about the impending preferential allotment comes into the public domain on the date of the Board resolution which authorizes the preferential allotment and the market price gets adjusted or may even rise which exposes the transaction to market risks.  Therefore, it has been decided that the date of board resolution authorizing the preferential allotment shall be the relevant date for the purpose of triggering open offer obligations and determination of offer price, instead of the date on which special resolution is passed under Section 81(1A) of the Companies Act, 1956.
+(c) Aligning disclosure requirements under Takeover Regulations with SEBI (Prohibition of Insider Trading) Regulations, 1992
+In order to bring parity in disclosure requirements among various SEBI regulations,  the disclosure requirement with regard to buy or sell two percent  by persons holding more than five percent as specified in Takeover Regulations, 2011 shall be modified in line with SEBI (Prohibition of Insider Trading) Regulations, 1992.
+(d) Clarification on reckoning the period of ninety days in case of increase of voting rights due to buyback by target company
+Presently, if the voting rights of a shareholder, who is not a party to the buyback arrangement, go beyond the prescribed threshold limit on account of buyback by the target company, the open offer requirement will not be triggered if voting rights are brought below the threshold limit within ninety days from the date on which the voting rights so increase. It has now been clarified that the period of ninety days will be reckoned from the date of closure of the buyback offer.
+(e) Norms for completion of market purchase of shares made during the offer period
+Presently, the Takeover Regulations do not allow completion of acquisition of shares or voting rights which triggers the open offer obligations until the expiry of the offer period. But such acquisition can be completed after the expiry of 21 working days from the date of the detailed public statement, provided the acquirer deposits 100 percent of the consideration payable in cash in the escrow account.  The regulations also allowed purchase of shares from stock exchange which required to be completed within two days as per settlement process, thus creating an anomalous situation.
+It has, therefore, now been decided that market purchases  made during the open offer period can be completed during the open offer period subject to such shares being kept in an escrow account. Further, these shares can be transferred from the escrow account to the name of the acquirer after the expiry of 21 working days from the date of the detailed public statement, provided the acquirer deposits 100 percent of the consideration payable in cash in the escrow account.
+3. Amendment to the Securities and Exchange Board of India (Mutual Funds) Regulations, 1996, with respect to Infrastructure Debt Fund (IDF) :
+(a)       Investments of funds received on account of pre-payment of principal or regular repayments of principal to be permitted:
+IDF-MFs would be allowed to invest funds received on account of pre-payment of principal or regular repayments of principal with respect to the underlying assets of the IDF in bonds of Public Financial Institutions (PFIs) and infrastructure finance companies.  This can be done only if the AMC is unable to find the core assets like debt assets or securitized debt of infrastructure companies, bank loans related to infrastructure, etc. for deployment of the amounts of principal. 
+(b)       Extension in the tenure of the scheme: 
+The tenure of the scheme would be allowed to be extended upto two years beyond the original tenure with the consent of 2/3rds of its investors by value.
+(c)       Widening the definition of strategic investors:  
+The present definition of strategic investors would be widened to include the following categories of investors:
+(i)           Systemically important NBFCs registered with Reserve Bank of India
+(ii)          FIIs registered with SEBI which are long term investors, subject to their applicable investment limits 
+               This is in addition to the present categories of investors i.e.
+
+An Infrastructure Finance Company registered with Reserve Bank of India as Non Banking Financial Company 
+A Scheduled Commercial Bank 
+International Multilateral Financial Institution
+
+ (d)       Extension of New Fund Offer (NFO) period and Specified Transaction Period (STP) and allowing of the private placement as an alternative:
+(i)         The  NFO period would be increased to upto 45 days (from upto 15 days) and the STP would be increased to upto 45 days (from upto 30 days), only with respect to IDF schemes.
+(ii)        Private placement to less than 50 investors would be permitted as an alternative. In case of private placement, the mutual funds would only have to file a placement memorandum with SEBI instead of a Scheme Information Document and a Key Information Memorandum. However, all the other conditions applicable to IDFs offered through the NFO route like kind of investments, investment restrictions, etc. would be applicable to IDFs offered through private placement.
+(e)       Review of limits on sponsor owned assets: 
+An IDF scheme would be allowed to invest upto 30% of its AUM in assets not below investment grade owned by sponsor/ associates (as increased from the earlier 20%) subject to the condition that the sponsor/associate retains at least 30% of the assets sold to the IDF till the assets are held in the IDF portfolio.
+(f)        Limits on investments in unrated /below investment grade assets and limits of investment in instruments of a single issuer:
+Investments of the IDF scheme in instruments, irrespective of rating, of a single issuer would be restricted to 30% of net assets, and overall investment of the scheme in unrated/below investment grade assets would be restricted to 30% of the net assets, extendable to 50% with the prior approval of the Boards of trustee & AMC.
+4.         Amendment in Securities and Exchange Board of India (Stock-Brokers and Sub-Brokers) Regulations, 1992 for the purpose of introducing debt segment on stock exchanges:
+(a)       With an objective to develop corporate bond markets and encourage trading on stock exchange trading platform, it is proposed to create separate debt segment on stock exchanges which shall provide for trading ,reporting ,membership, clearing and  settlement rules , risk management framework and other necessary provisions. This will also facilitate Scheduled Commercial Banks to become members of recognised stock exchanges for the purpose of undertaking proprietary transactions in the corporate bond market, as approved by RBI vide circular dated November 5, 2012.
+(b)       In order to enable direct membership of banks and other institutional participants (as specified by their sectoral regulators) in the proposed debt segment, the Board approved amendments in SEBI (Stock-Brokers and Sub-Brokers) Regulations, 1992  to:-
+            (i)    Include debt segment in addition to derivatives segment and currency derivatives segment in the definition of clearing members, self clearing  members, trading members;
+            (ii)   Introduce  definition of "proprietary trading member" to permit specified institutions such as scheduled commercial banks, primary dealers, pension   funds, provident funds, insurance companies, mutual funds and any other investors as may be specified by sectoral regulators from time to time to trade only on their own account in debt segment; and
+            (iii)  Introduce new Chapter to provide for registration, procedures, fees, obligations and responsibilities for trading member/ proprietary trading members/self clearing member/ clearing member of debt segment.
+5. Amendment to SEBI [KYC (Know Your Client) Registration Agency] Regulations, 2011
+With a view to simplify operations and in order to align the SEBI [KYC (Know Your Client) Registration Agency] Regulations, 2011 (KRA Regulations) with the proposal of Central KYC Registry, Board approved to amend the Regulations. As a result, the intermediaries would retain the original KYC documents of their clients and would furnish the scanned images of the KYC documents with proper authentication to the KRAs.
+This proposal will help to reduce the cost of and delay in movement of documents, saving in warehousing charges and avoiding physical print out of documents of millions of existing investors.
+6. Amendment to SEBI (ICDR) Regulations, 2009 for enabling two-way fungibility of IDRs
+In order to provide liquidity in the domestic markets, it has been decided to enable partial two-way fungibility of Indian Depository Receipts (IDRs).  It has been, inter-alia, decided that :
+SEBI (ICDR) Regulations 2009 would be amended for enabling two-way fungibility of IDRs.
+SEBI will notify guidelines providing a detailed roadmap for the future IDR issuances as well as for the existing listed IDRs. 
+

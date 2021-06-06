@@ -1,0 +1,261 @@
+ 
+ 
+
+CIRCULAR 
+
+ 
+
+ 
+
+ 
+
+August 19, 2016 
+
+ 
+SEBI/HO/CDMRD/DMP/CIR/P/2016/73   
+ 
+To,  
+ 
+The Managing Directors / Chief Executive Officers  
+of All Commodity Derivatives Exchanges  
+ 
+ 
+Dear Sir / Madam,  
+ 
+Sub: Modification of Client Codes post Execution of Trades on National and 
+
+Regional Commodity Derivatives Exchanges– Clarification  
+
+ 
+1.  This  circular  is  in  reference  to  the  SEBI  circular  No.  SEBI/HO/CDMRD/ 
+DMP/CIR/P/2016/43  dated  March  29,  2016  on  the  captioned  subject.  In 
+connection  with  the  directives  issued  under  the  said  circular,  following 
+clarifications are issued: 
+ 
+
+(i) 
+
+Classification of genuine errors: The following shall be classified as 
+genuine errors for the purpose of client code modification:- 
+a.  Error due to communication and / or punching or typing such that the 
+original client code / name and the modified client code / name are 
+similar to each other. 
+
+b.  Modification within relatives (‘Relative’ for this purpose would mean 
+
+as defined under Companies Act, 2013) 
+
+ 
+
+(ii) 
+
+ 
+
+Error Account: 
+a.  Shifting  of  trades  to  the  ‘Error  account’  of  broker  would  not  be 
+treated as modification of client code, provided that trades in ‘Error 
+account’ are subsequently liquidated in the market and not shifted 
+to some other code. 
+
+b.  Further,  broker  shall  disclose  the  codes  of  accounts  which  are 
+classified as ‘Error accounts’ to the Exchanges. Each broker should 
+have a well-documented error policy approved by the management 
+of the broker. Exchanges shall periodically review the trades flowing 
+to the error accounts of the brokers. 
+
+ 
+
+Page 1 of 4 
+
+ 
+
+ 
+ 
+2.  The  above  clarifications  and  earlier  norms prescribed by  SEBI    vide  Circular 
+dated March 29, 2016  with regard to client code modifications are consolidated 
+and placed as Annexure-A. 
+ 
+
+3.  This circular is issued in exercise of the powers conferred under Section 11(1) 
+of the Securities and Exchange Board of India Act 1992, read with Section 10 
+of  the  Securities  Contracts  (Regulation)  Act,  1956  to  protect  the  interests  of 
+investors in securities and to promote the development of, and to regulate the 
+securities market. 
+ 
+
+4.  This  circular  is  available  on  SEBI  website  at  www.sebi.gov.in  under  the 
+
+category “Circulars” and “Info for Commodity Derivatives”. 
+
+ 
+
+ 
+ 
+ 
+
+Yours faithfully,  
+ 
+ 
+ 
+Vikas Sukhwal  
+Deputy General Manager  
+Division of Market Policy  
+Commodity Derivatives Market Regulation Department  
+vikass@sebi.gov.in 
+
+ 
+
+ 
+
+Page 2 of 4 
+
+ 
+
+Annexure-A 
+
+1.  Exchanges  may  allow  modifications  of  client  codes  of  non-institutional 
+trades only to rectify a genuine error in entry of client code at the time of 
+placing/ modifying the related order in all segments. 
+
+2.  For this purpose the following shall be classified as genuine errors: 
+
+ 
+
+a.  Error due to communication and / or punching or typing such that the 
+original client code / name and the modified client code / name are 
+similar to each other. 
+ 
+
+b.  Modification within relatives (‘Relative’ for this purpose would mean 
+
+as defined under Companies Act, 2013) 
+ 
+
+3.  Error Account: 
+
+ 
+
+a.  Shifting of trades to the ‘Error account’ of broker would not be treated 
+as modification of client code, provided that trades in ‘Error account’ 
+are  subsequently  liquidated  in  the  market  and  not  shifted  to  some 
+other code. 
+ 
+
+b.  Further,  broker  shall  disclose  the  codes  of  accounts  which  are 
+classified as ‘Error accounts’ to the Exchanges. Each broker should 
+have a well-documented error policy approved by the management 
+of the broker. Exchanges shall periodically review the trades flowing 
+to the error accounts of the brokers. 
+ 
+
+4.  If Exchange wishes to allow trading members to modify client codes of non-
+
+institutional trades, it shall  
+
+a.  lay down strict objective criteria (in line with the Para ‘2’ above), with 
+the  approval  of  its  Governing  Board,  for  identification  of  genuine 
+errors in client codes which may be modified, and disclose the same 
+to market in advance, 
+ 
+
+b.  set  up  a  mechanism  to  monitor  that  the  trading  members  modify 
+
+client codes only as per the strict objective criteria, and 
+
+ 
+
+ 
+
+c.  ensure that modification of client codes is covered in the internal audit 
+
+of trading members. 
+
+d.  shall not allow proprietary trades to be modified as client trades and 
+
+vice versa. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 3 of 4 
+
+ 
+
+e.  shall levy a penalty and collect from trading members and credit the 
+
+same to its Investor Protection Fund as under: 
+
+ 
+
+‘a’ as % of ‘b’ 
+≤ 5 
+> 5 
+
+Penalty as % of ‘a’ 
+1 
+2 
+
+ 
+Where 
+a  =  Value  (turnover)  of  non-institutional  trades  where  client  codes  have  been 
+
+modified by a trading member in a segment during a month. 
+
+ 
+b  =  Value  (turnover)  of  non-institutional  trades  of  the  trading  member  in  the 
+
+segment during the month. 
+
+f.  shall  undertake  stringent  disciplinary  actions  against  brokers  who 
+undertake  frequent  client  code  modifications.  If  ‘a’  as  %  of  ‘b’,  as 
+defined  above,  exceeds  1%  during  a  month,  then  the  Stock 
+Exchange shall conduct a special inspection of the trading member 
+to  ascertain  whether  the  modifications  of  client  codes  are  being 
+carried  on  as  per  the  strict  objective  criteria  set  by  the  Stock 
+Exchange.  Appropriate  disciplinary  action  shall  be  taken  by  the 
+Exchange, if any deficiency is observed. 
+ 
+
+5.  Waiver of Penalty 
+
+ 
+
+a.  Exchanges may waive penalty for a client code modification where 
+broker is able to produce evidence to the satisfaction of the exchange 
+to establish that the modification was on account of a genuine error. 
+However, not more than one such waiver per quarter may be given 
+to a broker for modification in a client code.  
+ 
+Explanation:  If  penalty  wavier  has  been  given  with  regard  to  a 
+genuine client code modification from client  code AB to client code 
+BA, no more penalty waivers shall be allowed to the stock broker in 
+the quarter for modifications related to client codes AB and BA. 
+ 
+
+b.  Exchanges shall submit a report to SEBI every quarter regarding all 
+
+such client code modifications where penalties have been waived. 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Page 4 of 4 
+
+

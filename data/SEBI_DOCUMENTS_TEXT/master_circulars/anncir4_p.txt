@@ -1,0 +1,1282 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ANNEXURE 4 
+
+ON 
+
+ 
+
+ 
+
+MASTER CIRCULAR FOR STOCK EXCHANGES  
+
+COMPREHENSIVE RISK MANAGEMENT 
+
+1.  This Master Circular includes circulars issued upto March 31, 2010. 
+
+2.  Master  Circular  is  a  compilation  of  all  the  existing/applicable  circulars 
+issued by Market Regulation Department of SEBI to Stock Exchanges and 
+shall come into force from the date of its issue. 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+MASTER CIRCULAR - COMPREHENSIVE RISK MANAGEMENT 
+ 
+SECTION 1 - Risk management framework...................................................................... 3 
+1.1   Comprehensive Risk Management Framework for the cash market...................... 3 
+1.1.1 
+Overview............................................................................................................. 3 
+Liquid Assets ...................................................................................................... 3 
+1.1.2 
+1.1.3 
+Liquidity Categorization of Securities................................................................ 6 
+1.1.4  Monthly Review.................................................................................................. 6 
+1.1.5 
+Categorisation of newly listed securities ............................................................ 6 
+1.1.6 
+Calculation of mean impact cost......................................................................... 6 
+1.1.7  Mark to Market Losses ....................................................................................... 7 
+1.1.8 
+Computation of VaR Margin .............................................................................. 8 
+1.1.9 
+Collection of VaR Margin ................................................................................ 10 
+1.1.10  VaR Margin rate ............................................................................................... 10 
+1.1.11 
+Extreme Loss Margin........................................................................................ 10 
+1.1.12  Margining Of Institutional Trades in Cash Market........................................... 11 
+1.1.13 
+Shortfall of Margins / Pay-in of funds .............................................................. 11 
+1.1.14  Base Minimum Capital ..................................................................................... 12 
+1.1.15  Additional Margins ........................................................................................... 13 
+1.1.16  Margins from the Client.................................................................................... 13 
+1.1.17 
+Provision of early pay-in................................................................................... 14 
+1.2   Methodology for computation of MTM Margin................................................... 15 
+1.3  Margins not to exceed the purchase value of a buy transaction ........................... 16 
+1.4       Collateral deposited by Clients with brokers........................................................ 16 
+REFERENCE - List of Circulars ...................................................................................... 17 
+
+Page 2 of 17 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+SECTION 1 - Risk management framework1 
+ 
+
+1.1   Comprehensive Risk Management Framework for the cash market 
+ 
+1.1.1  Overview 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The  core  of  the  risk  management  system  is  the  liquid  assets  deposited  by 
+members  with  the  exchange/clearing  corporation.  These  liquid  assets  shall 
+cover the following four requirements: 
+
+a.  MTM  (Mark  To  Market)  Losses:  Mark  to  market  losses  on  outstanding 
+
+settlement obligations of the member. 
+
+b.  VaR Margins: Value at risk margins to cover potential losses for 99% of 
+
+the days.  
+
+c.  Extreme  Loss  Margins:  Margins  to  cover  the  expected  loss  in  situations 
+
+that lie outside the coverage of the VaR margins. 
+
+d.  Base  Minimum  Capital:  Capital  required  for  all  risks  other  than  market 
+
+risk (for example, operational risk and client claims). 
+
+At  all  points  of  time,  the  liquid  assets  of  the  member  shall  be  adequate  to 
+cover all the above four requirements. There are no other margins in the risk 
+management system. 
+
+1.1.2  Liquid Assets 
+
+The acceptable liquid assets and the applicable haircuts are listed below: 
+
+Limits  
+
+No limit 
+No limit 
+Limit 
+exchange’s 
+exposure to a single bank 
+(see Note B) 
+No limit 
+
+on 
+
+Item 
+
+Cash 
+Bank fixed deposits  
+Bank guarantees  
+
+Haircut (see Note A) 
+
+Cash Equivalents 
+
+0 
+0 
+0 
+
+Securities 
+the 
+Central Government 
+
+of 
+
+10% 
+
+                                                 
+1 Circular No. MRD/DoP/SE/Cir-07/2005 dated February 23, 2005. 
+
+Page 3 of 17 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+10% 
+
+No limit 
+
+ 
+
+liquid 
+or 
+
+of 
+funds 
+
+Units 
+mutual 
+government 
+securities 
+mutual 
+funds  (by  whatever 
+name  called  which 
+invest in government 
+securities) 
+
+ 
+
+Other Liquid Assets 
+
+1.  Cannot be used for mark to market losses (see Note C) 
+2.  Total of Other Liquid Assets cannot exceed total of Cash Equivalents 
+
+(see Note D)  
+(Group 
+
+I) 
+Liquid 
+(see 
+Equity  Shares 
+for 
+3 
+section 
+classification 
+of 
+equity  shares  on  the 
+basis of liquidity) 
+fund  units 
+Mutual 
+those 
+other 
+than 
+listed  under 
+cash 
+equivalents 
+
+Card value of 
+eligible exchanges 
+(see Note F) 
+
+Same  as  the  VaR  margin 
+for  the  respective  shares 
+(see section 5.1 below) 
+
+on 
+
+Limit 
+exposure 
+to  a 
+issuer (see Note E) 
+
+exchange’s 
+single 
+
+ 
+
+Eligible only for Extreme 
+Loss Margin 
+
+exchange, 
+
+Same  as  the  VaR  margin 
+for  the  units  computed 
+using the traded price on 
+stock 
+if 
+available,  or  else,  using 
+the  NAV  of  the  unit 
+treating  it  as  a  liquid 
+security  (see  section  5.1 
+below). 
+50%  if  the  last  sale  or 
+auction  of  card  in  the 
+place 
+exchange 
+during 
+six 
+months. 
+75%  if  the  last  sale  or 
+auction  of  card  in  the 
+exchange 
+place 
+during  the  last  twelve 
+months  but  not  within 
+the last six months. 
+100% if no sale or auction 
+of  card  in  the  exchange 
+has  taken  place  during 
+
+took 
+
+took 
+
+the 
+
+last 
+
+Page 4 of 17 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+the last twelve months. 
+
+ 
+
+ 
+Notes: 
+
+a.  The valuation of the liquid assets shall be done on a daily basis except for 
+the card value which shall be taken on the basis of the last sale or auction.  
+b.  The exchanges shall lay down exposure limits either in rupee terms or as 
+percentage  of  the  Trade  Guarantee  Fund  (TGF)  /  Settlement  Guarantee 
+Fund (SGF) that can be exposed to a single bank directly or indirectly. The 
+total exposure would include guarantees provided by the bank for itself or 
+for others as well as debt or equity securities of the bank which have been 
+deposited by members towards total liquid assets.  
+Not  more  than  5%  of  the  TGF/SGF  or  1%  of  the  total  liquid  assets 
+deposited with the exchange, whichever is lower, shall be exposed to any 
+single bank which has a net worth of less than Rs 500 Crores and is not 
+rated P1 (or P1+) or equivalent, by a RBI recognized credit rating agency 
+or by a reputed foreign credit rating agency, and not more than 50% of the 
+TGF/SGF or 10% of the total liquid assets deposited with the exchanges, 
+whichever is lower, shall be exposed to all such banks put together. 
+
+c.  Mark to market losses shall be paid by the member in the form of cash or 
+
+cash equivalents. 
+
+d.  Cash equivalents shall be at least 50% of liquid assets. This would imply 
+that Other Liquid Assets in excess of the total Cash Equivalents would not 
+be regarded as part of Total Liquid Assets. 
+
+e.  The exchanges shall lay down exposure limits either in rupee terms or as 
+percentage  of  the  Trade  Guarantee  Fund  (TGF)/Settlement  Guarantee 
+Fund (SGF) that can be exposed to a single issuer directly or indirectly and 
+in any case the exposure of the TGF/SGF to any single issuer shall not be 
+more than 15% of the total liquid assets forming part of TGF/SGF of the 
+exchange. 
+
+f.  As  a 
+
+transitional  arrangement  pending  demutualization  of  stock 
+exchanges, the value of the membership card in eligible stock exchanges 
+may  be  included  as  part  of  the  member’s  liquid  assets  only  to  cover 
+Extreme Loss Margin. To be eligible for this treatment, the exchange shall 
+maintain an amount equivalent to at least 50% of the aggregate card value 
+of all members in the form of cash and liquid assets. 
+
+Page 5 of 17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The securities shall be classified into three groups based on their liquidity: 
+ 
+
+Group 
+
+Securities 
+
+Liquid 
+(Group I) 
+Less 
+Liquid 
+Securities (Group II) 
+Illiquid 
+Securities 
+(Group III) 
+
+Trading Frequency (over 
+the previous six months 
+– see Note A)  
+At least 80% of the days 
+
+Impact Cost (over the 
+previous six months – 
+see Note A 
+Less than or equal to 1% 
+
+At least 80% of the days  More than 1% 
+
+Less than 80% of the days   N/A 
+
+Notes: 
+A.  For  securities  that  have  been  listed  for  less  than  six  months,  the  trading 
+frequency and the impact cost shall be computed using the entire trading 
+history of the scrip. 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+1.1.3  Liquidity Categorization of Securities  
+
+ 
+
+1.1.4  Monthly Review 
+
+1.1.5  Categorisation of newly listed securities 
+
+ 
+The  trading  frequency  and  impact  cost  shall  be  calculated  on  the  15th  of  each 
+month on a rolling basis considering the previous six months for impact cost and 
+previous six months for trading frequency. On the basis of the trading frequency 
+and  impact  cost  so  calculated,  the  securities  shall  move  from  one  group  to 
+another group from the 1st of the next month.  
+ 
+
+ 
+For the first month and till the time of monthly review as mentioned in section 
+3.1,  a  newly  listed  stock  shall  be  categorised  in  that  Group  where  the  market 
+capitalization  of  the  newly 
+listed  stock  exceeds  or  equals  the  market 
+capitalization of 80% of the stocks in that particular group. Subsequently, after 
+one month, whenever the next monthly review is carried out, the actual trading 
+frequency  and  impact  cost  of  the  security  shall  be  computed,  to  determine  the 
+liquidity categorization of the security. 
+In  case  any  corporate  action  results  in  a  change  in  ISIN,  then  the  securities 
+bearing  the  new  ISIN  shall  be  treated  as  newly  listed  scrip  for  group 
+categorization. 
+ 
+
+1.1.6  Calculation of mean impact cost 
+
+Page 6 of 17 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+The mean impact cost shall be calculated in the following manner: 
+
+a.  Impact cost shall be calculated by taking four snapshots in a day from the 
+order book in the past six months. These four snapshots shall be randomly 
+chosen from within four fixed ten-minutes windows spread through the 
+day.  
+
+b.  The  impact  cost  shall  be  the  percentage  price  movement  caused  by  an 
+order size of Rs.1 Lakh from the average of the best bid and offer price in 
+the order book snapshot. The impact cost shall be calculated for both, the 
+buy and the sell side in each order book snapshot.  
+
+c.  The  computation  of  the  impact  cost  adopted  by  the  Exchange  shall  be 
+
+disseminated on the website of the exchange.  
+
+d.  The  exchanges  shall  use  a  common  methodology  for  carrying  out  the 
+calculations for mean impact cost. The stock exchanges which are unable 
+to compute the mean impact cost calculations at their exchanges shall use 
+the impact cost calculations of BSE/NSE. Such stock exchanges shall enter 
+into  a  formal  legal  agreement  with  the  relevant  stock  exchanges  for 
+liquidating  the  positions  of  their  members  if  necessary,  on  that  stock 
+exchange. If a Stock Exchange is unable to compute the mean impact cost 
+of the scrips traded at the Exchange, as well as not been able to enter into a 
+formal arrangement for liquidation of positions, it shall levy margins on 
+the  scrips  as  applicable  to  Group  II  or  Group  III  as  explained  above,  as 
+classification between scrips in Group I or Group II would not be possible 
+at that Exchange. 
+
+ 
+e.  The  details  of  calculation  methodology  and  relevant  data  shall  be  made 
+available to the public at large through the website of the exchanges. Any 
+change in the methodology for the computation of impact cost shall also 
+be disseminated by the exchange. 
+
+1.1.7  Mark to Market Losses 
+
+ 
+Mark to Market Losses shall be collected in the following manner: 
+ 
+
+a.  The Stock Exchanges shall collect the mark to market margin (MTM) from 
+
+the member/broker before the start of the trading of the next day.   
+
+b.  The  MTM  margin  shall  also  be  collected/adjusted  from/against  the 
+cash/cash  equivalent  component  of  the  liquid  net  worth  deposited  with 
+the Exchange. 
+
+c.  The  MTM  margin  shall  be  collected  on  the  gross  open  position  of  the 
+member. The gross open position for this purpose would mean the gross 
+of  all  net  positions  across  all  the  clients  of  a  member  including  his 
+proprietary  position.  For  this  purpose,  the  position  of  a  client  would  be 
+
+Page 7 of 17 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+netted across his various securities and the positions of all the clients of a 
+broker would be grossed. Further, there would be no netting across two 
+different settlements. 
+
+d.  There  would  be  no  netting  off  the  positions  and  setoff  against  MTM 
+profits  across  2  rolling  settlements  i.e.  T  day  and  T-1  day.  However,  for 
+computation of MTM profits/losses for the day, netting or setoff against 
+MTM profits would be permitted.  
+
+e.  The methodology for computation of MTM margin is also illustrated by 
+
+way of an example which is placed in Annexure II. 
+
+f.  The margin so collected shall be released along with the pay-in, including 
+
+early pay-in of securities. 
+
+ 
+
+VaR Margin 
+
+1.1.8  Computation of VaR Margin  
+
+ 
+The  VaR  Margin  is  a  margin  intended  to  cover  the  largest  loss  that  can  be 
+encountered  on  99%  of  the  days  (99%  Value  at  Risk).  For  liquid  stocks,  the 
+margin covers one-day losses while for illiquid stocks, it covers three-day losses 
+so as to allow the clearing corporation to liquidate the position over three days. 
+This leads to a scaling factor of square root of three for illiquid stocks.  
+ 
+For liquid stocks, the VaR margins are based only on the volatility of the stock 
+while  for  other  stocks,  the  volatility  of  the  market  index  is  also  used  in  the 
+computation. Computation of the VaR margin requires the following definitions: 
+ 
+•  Scrip sigma means the volatility of the security computed as at the end of the 
+previous  trading  day.  The  computation  uses  the  exponentially  weighted 
+moving average method applied to daily returns in the same manner as in 
+the derivatives market.  
+
+•  Scrip VaR means the higher of 7.5% or 3.5 scrip sigmas. 
+• 
+
+Index sigma means the daily volatility of the market index (S&P CNX Nifty 
+or  BSE  Sensex)  computed  as  at  the  end  of  the  previous  trading  day.  The 
+computation  uses  the  exponentially  weighted  moving  average  method 
+applied to daily returns in the same manner as in the derivatives market.  
+Index  VaR  means  the  higher  of  5%  or  3  index  sigmas.  The  higher  of  the 
+Sensex VaR or Nifty VaR would be used for this purpose. 
+
+• 
+
+ 
+The VaR Margins are specified as follows for different groups of stocks: 
+ 
+
+One-Day VaR 
+
+Scaling factor for 
+
+VaR Margin 
+
+illiquidity 
+
+1.00 
+
+Scrip VaR 
+
+Liquidity 
+Categorization 
+Liquid 
+
+Scrip VaR 
+
+Page 8 of 17 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Securities 
+(Group I) 
+Less Liquid 
+Securities 
+(Group II) 
+
+Illiquid 
+Securities 
+(Group III) 
+
+Higher of Scrip 
+VaR and three 
+times Index VaR 
+
+Five times Index 
+VaR 
+
+(square root of 
+
+1.73 
+
+3.00) 
+
+(square root of 
+
+1.73 
+
+3.00) 
+
+Higher of 1.73 
+times Scrip VaR 
+and 5.20 times 
+Index VaR 
+8.66 times Index 
+VaR 
+
+ 
+
+ 
+
+Page 9 of 17 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+1.1.9  Collection of VaR Margin 
+
+a.  The  VaR  margin  shall  be  collected  on  an  upfront  basis  by  adjusting 
+against  the  total  liquid  assets  of  the  member  at  the  time  of  trade. 
+Collection on T+1 day is not acceptable.  
+
+b.  The  VaR  margin  shall  be  collected  on  the  gross  open  position  of  the 
+member. The gross open position for this purpose would mean the gross 
+of  all  net  positions  across  all  the  clients  of  a  member  including  his 
+proprietary position.  
+
+c.  For this purpose, there would be no netting of positions across different 
+
+settlements. 
+
+d.  The  VaR  margin  so  collected  shall  be  released  along  with  the  pay-in, 
+
+including early pay-in of securities. 
+
+ 
+
+ 
+
+ 
+
+1.1.10  VaR Margin rate2 
+
+ 
+VaR margin rate was calculated at the end of the trading day and then applied to 
+the  open  positions  of  the  subsequent  trading  day.    However,  in  the  derivative 
+market,  the  risk  parameter  files  for  computation  of  the  margins  were  updated 
+intra-day. 
+ 
+With a view to ensure market safety and protect the interest of investors and also 
+to further align the risk management framework across the cash and derivative 
+markets, it has been decided that the risk arrays should be updated intra-day in 
+the cash market as has been done in the derivative market. The applicable VaR 
+margin rates shall be updated atleast 5 times in a day, which may be carried out 
+by  taking  the  closing  price  of  the  previous  day  at  the  start  of  trading  and  the 
+prices at 11:00 a.m., 12:30 p.m., 2:00 p.m. and at the end of the trading session. 
+ 
+
+1.1.11  Extreme Loss Margin 
+
+ 
+The term Extreme Loss Margin replaces the terms “exposure limits” and “second 
+line  of  defence”  that  have  been  used  hitherto.  It  covers  the  expected  loss  in 
+situations that go beyond those envisaged in the 99% value at risk estimates used 
+in the VaR margin.  
+ 
+a.  The Extreme Loss Margin for any stock shall be higher of: 
+
+•  5%, and 
+
+                                                 
+2 Circular no. MRD/DoP/SE/Cir- 6 /2006 dated June 16, 2006. 
+ 
+
+Page 10 of 17 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+•  1.5 times the standard deviation of daily logarithmic returns of the stock 
+price in the last six months. This computation shall be done at the end of 
+each  month  by  taking  the  price  data  on  a  rolling  basis  for  the  past  six 
+months and the resulting value shall be applicable for the next month. 
+
+b.  The Extreme Loss Margin shall be collected/ adjusted against the total liquid 
+
+assets of the member on a real time basis.  
+
+c.  The Extreme Loss Margin shall be collected on the gross open position of the 
+member. The gross open position for this purpose would mean the gross of 
+all net positions across all the clients of a member including his proprietary 
+position.  
+
+d.  For  this  purpose,  there  would  be  no  netting  of  positions  across  different 
+
+settlements. 
+
+e.  The Extreme Loss Margin so collected shall be released along with the pay-in. 
+ 
+
+1.1.12  Margining Of Institutional Trades in Cash Market3 
+
+ 
+All  Institutional  trades  in  the  cash  market  would  be  subject  to  payment  of 
+margins  as  applicable  to  transactions  of  other  investors.  For  this  purpose 
+institutional investors shall include –  
+ 
+
+a.  Foreign Institutional Investors registered with SEBI. 
+b.  Mutual Funds registered with SEBI. 
+c.  Public  Financial  Institutions  as  defined  under  section  4A  of  the 
+
+d.  Banks,  i.e.,  a  banking  company  as  defined  under  Section  5(1)(c)  of  the 
+
+Companies Act, 1956. 
+
+Banking Regulations Act, 1949. 
+
+e.  Insurance companies registered with IRDA. 
+f.  Pension  Fund  regulated  by  Pension  Fund  Regulatory  and  Development 
+
+Authority (PFRDA)4. 
+
+ 
+All  institutional  trades  in  the  cash  market  would  be  margined  on  a  T+1  basis 
+with the margin being collected from the custodian upon confirmation of trade. 
+ 
+
+1.1.13  Shortfall of Margins / Pay-in of funds 
+
+ 
+a.  Margin shortfall 
+
+In  case  of  any  shortfall  in  Margin,  the  terminals  of  the  broker  shall  be 
+immediately deactivated. 
+ 
+
+b.  Pay-in shortfall 
+                                                 
+3 Circular No. MRD/DoP/SE/Cir- 06 /2008 dated March 19 2008. 
+4 Included vide letter dated May 27, 2009 to Stock Exchanges. 
+
+Page 11 of 17 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+i. 
+
+In  cases  where  the  amount  of  shortage  in  a  settlement  for  a  trading 
+member is in excess of the base minimum capital (BMC) prescribed, the 
+trading facility of the member shall be withdrawn and the securities pay-
+out due to the member shall be withheld. 
+
+ii.  In cases where the amount of shortage exceeds 20% of the BMC but less 
+than the BMC on six occasions within a period of three months, then also 
+the trading facility of the member shall be withdrawn and the securities 
+pay-out due to the member shall be withheld.  
+
+iii. Upon recovery of the complete shortages, the member shall be permitted 
+to  trade  subject  to  his  providing  a  deposit  equivalent  to  his  cumulative 
+funds  shortage  as  the  'funds  shortage  collateral'.    Such  deposit  shall  be 
+kept with the Exchange for a period of ten rolling settlements and shall be 
+released  thereafter.  Such  deposit  shall  not  be  available  for  adjustment 
+against margin liabilities and also not earn any interest. The deposit may 
+be by way of cash, fixed deposit receipts or bank guarantee. 
+
+iv. The exchange may levy a penal interest of not less than 0.07% per day on 
+
+the pay-in shortage of the member. 
+
+ 
+
+1.1.14  Base Minimum Capital 
+
+ 
+A.  The Stock Exchanges shall have the BMC requirements as provided below:- 
+ 
+
+BSE, NSE and Calcutta Stock Exchange 
+Ahmedabad  Stock  Exchange  &  Delhi  Stock 
+Exchange 
+Other Stock Exchanges 
+
+Rs. 10 lakhs 
+Rs. 07 lakhs 
+
+Rs. 04 lakhs 
+
+ 
+provided  that  the  Stock  Exchanges  shall maintain  the  BMC  at  Rs.  1  lakh  if  the 
+average daily turnover is less than Rs.1 crore for any three consecutive months. 
+ 
+B.  Refund of excess BMC over Rs. 1 lakh 
+ 
+
+The excess of the BMC over Rs 1 lakh may be refunded to the members of the 
+exchange subject to the following conditions:  
+ 
+
+a.  The member has been inactive at the stock exchange for the past 12 
+months,  i.e.  he  has  not  carried  out  any  transaction  on  that  stock 
+exchange during the past 12 months.  
+
+b.  There are no investor complaints pending against the member. 
+c.  There are no arbitration cases pending against the member. 
+d.  The  exchange  shall  retain/deduct/debit  from  the  BMC  to  be 
+refunded,  the  amount  of  any  complaints/claims  of  the  investors 
+
+Page 12 of 17 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+against the member and for dues crystallized and contingent to the 
+exchange/SEBI  arising  out  of  pending  arbitration  cases,  appealed 
+arbitration  awards,  administrative  expenses,  SEBI  turnover  fees, 
+e.t.c. 
+
+e.  The  exchange  shall  ensure  that  the  member  has  paid  the  SEBI 
+turnover  fees  and  has  obtained  a  No-Objection  Certificate  (NoC) 
+from SEBI in this regard. 
+
+ 
+C.  Re-enhancement of BMC 
+ 
+
+If the average daily turnover of the exchange exceeds the prescribed level of 
+Rs.1 crore for a period of one month at any time, the exchange shall enhance 
+the requirement of the BMC of the members back to the level as prescribed in 
+Para A above and shall obtain undertaking to this effect from the members.   
+
+ 
+
+ 
+
+ 
+
+1.1.15  Additional Margins 
+
+Exchanges/clearing  corporations  have  the  right  to  impose  additional  risk 
+containment measures over and above the risk containment system mandated 
+by  SEBI.  However,  the  Stock  Exchanges  should  keep  the  following  three 
+factors in mind while taking such action: 
+ 
+a.  Additional  risk  management  measures  (like  ad-hoc  margins)  would 
+normally  be  required  only  to  deal  with  circumstances  that  cannot  be 
+anticipated or were not anticipated while designing the risk management 
+system.  If  ad-hoc  margins  are  imposed  with  any  degree  of  regularity, 
+exchanges  should  examine  whether  the  circumstances  that  give  rise  to 
+such  margins  can  be  reasonably  anticipated  and  can  therefore  be 
+incorporated  into  the  risk  management  system  mandated  by  SEBI. 
+Exchanges are encouraged to analyse these situations and bring the matter 
+to the attention of SEBI for further action.  
+
+b.  Any additional margins that the exchanges may impose shall be based on 
+objective criteria and shall not discriminate between members on the basis 
+of subjective criteria. 
+
+c.  Transparency  is  an  important  regulatory  goal  and  therefore  every  effort 
+must be made to make the risk management systems fully transparent by 
+disclosing their details to the public.  
+
+1.1.16  Margins from the Client 
+
+ 
+
+ 
+
+  Members  should  have  a  prudent  system  of  risk  management  to  protect 
+themselves from client default. Margins are likely to be an important element 
+of such a system. The same shall be well documented and be made accessible 
+
+Page 13 of 17 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+to  the  clients  and  the  Stock  Exchanges.  However,  the  quantum  of  these 
+margins and the form and mode of collection are left to the discretion of the 
+members. 
+ 
+
+1.1.17  Provision of early pay-in.5  
+
+ 
+
+i. 
+
+ii. 
+
+As  regards  the  transactions  executed  on  behalf  of  institutional  clients  in 
+the cash market, it shall be permissible to maintain their entire margin in 
+the form of approved securities with appropriate haircuts as specified in 
+the SEBI circular dated February 23, 2005.  
+Necessary systems shall be put in place to enable early pay-in of funds. In 
+cases  where  early  pay-in  of  funds  is  made  by  the  members,  the 
+outstanding position to that extent of early pay-in shall not be considered 
+for computing the margin obligations.  
+
+iii.  Necessary systems shall be put in place so as to enable adjustment of the 
+pay-in obligations of the members from the cash component of the liquid 
+assets deposited by them.  
+
+Exemptions 
+
+i. 
+
+In cases where early pay-in of securities is made, the outstanding position 
+to the extent of early pay-in shall not be considered for margin purpose. 
+
+ 
+
+                                                 
+5 Circular No. MRD/DoP/SE/Cir-10/2008 dated April 17, 2008. 
+ 
+
+Page 14 of 17 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+1.2   Methodology for computation of MTM Margin 
+
+ 
+For  a  Client  A,  his  MTM  profit/  loss  would  be  calculated  separately  for  his 
+positions on T-1 and T day (two different rolling settlements). For the same day 
+positions  of  the  client,  his  losses  in  some  scrips  can  be  set  off/netted  against 
+profits  of  some  other  scrips.  Thus,  we  would  arrive  at  the  MTM  loss/profit 
+figures of the two different days T and T-1. These two figures cannot be netted. 
+Any  loss  will  have  to  be  collected  and  same  will  not  be  setoff  against  profit 
+arising out of positions of the other day.  
+
+Thus, as stated above MTM profits / losses would be computed for each of the 
+clients Client A, Client B, Client C etc. As regards collection of margin from the 
+broker, the MTM would be grossed across all the clients i.e. no setoff of loss of 
+one client with the profit of another client. In other words, only the losses will be 
+added  to  give  the  total  MTM  loss  that  the  broker  has  to  deposit  with  the 
+exchange.  
+
+ 
+
+ 
+
+Total 
+profit/lloss 
+of Client 
+ 
+ 
+
+-900 
+
+T day 
+
+300 
+-1200 
+-900 
+
+ 
+
+ 
+Client A  Security X 
+Security Y 
+ 
+ 
+Total 
+ 
+ 
+Security Z 
+Client B 
+ 
+Security W 
+Total 
+ 
+ 
+ 
+Security X 
+Client C 
+ 
+Security Z 
+Total 
+ 
+ 
+ 
+Client D  Security Y 
+Security R 
+ 
+Total 
+ 
+ 
+ 
+ 
+BROKER 
+
+T-1 
+day 
+
+ 
+
+ 
+
+ 
+
+800 
+-500 
+300 
+
+700 
+-1000 
+-300 
+
+1000 
+-1500 
+-500 
+
+700 
+-300 
+400 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+-400 
+800 
+400 
+
+500 
+-800 
+-300 
+
+-200 
+800 
+600 
+ 
+ 
+
+MTM for 
+broker 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-2000 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-300 
+
+-800 
+
+1000 
+ 
+ 
+
+ 
+In this example, the broker has to deposit MTM Margin of Rs 2000. 
+
+ 
+ 
+ 
+
+Page 15 of 17 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+1.3  Margins not to exceed the purchase value of a buy transaction6 
+ 
+
+In case of a buy transaction in cash market, VaR margins, Extreme loss margins 
+and  mark  to  market  losses  together  shall  not  exceed  the  purchase  value  of  the 
+transaction.  Further,  in  case  of  a  sale  transaction  in  cash  market,  the  existing 
+practice  shall  continue  viz.,  VaR  margins  and  Extreme  loss  margins  together 
+shall not exceed the sale value of the transaction and mark to market losses shall 
+also be levied. 
+
+ 
+1.4       Collateral deposited by Clients with brokers7 
+ 
+ 
+
+ 
+For brokers to maintain proper records of client collateral and to prevent misuse 
+of client collateral, it is advised that:- 
+  
+
+1.  Brokers  should  have  adequate  systems  and  procedures  in  place  to 
+ensure  that  client  collateral  is  not  used  for  any  purposes  other  than 
+meeting the respective client’s margin requirements / pay-ins. Brokers 
+should also maintain records to ensure proper audit trail of use of client 
+collateral. 
+
+ 
+
+ 
+
+  
+
+  
+
+2.  Brokers should further be able to produce the aforesaid records during 
+
+inspection. The records should include details of :- 
+
+a.  Receipt  of  collateral  from  client  and  acknowledgement  issued  to 
+
+client on receipt of collateral. 
+
+b.  Client  authorization  for  deposit  of  collateral  with  the  exchange  / 
+
+clearing corporation / clearing house towards margin 
+ 
+
+c.  Record of deposit of collateral with exchange / clearing corporation 
+
+/ clearing house. 
+ 
+
+ 
+
+d.  Record of return of collateral to client. 
+
+e.  Credit of corporate action benefits to clients. 
+
+3.  The records should be periodically reconciled with the actual collateral 
+
+deposited with the broker. 
+
+4.  Brokers  should  issue  a  daily  statement  of  collateral  utilization  to 
+clients which shall  include,  inter-alia,  details  of  collateral  deposited, 
+
+                                                 
+6 Circular No. MRD/DoP/SE/Cir-08/2009 datad July 27, 2009 
+7 Circular No. MRD/DoP/SE/Cir- 11/2008 dated April 17, 2008 
+
+Page 16 of 17 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+collateral  utilised  and  collateral  status  (available balance  /  due  from 
+client)  with  break  up  in  terms  of  cash,  Fixed  Deposit  Receipts  (FDRs), 
+Bank Guarantee and securities. 
+
+5.  In  case  of  complaints  against  brokers  related  to  misuse  of  collateral 
+deposited by clients, exchanges should look into the allegations, conduct 
+inspection of broker if required and based on its findings take necessary 
+action. 
+
+ 
+
+  
+
+  
+
+6.  In  case  client  collateral  is  found  to  be  mis-utilised,  the  broker  would 
+attract  appropriate  deterrent  penalty  for  violation  of  norms  provided 
+under  Securities  Contract  Regulation  Act,  SEBI  Act,  SEBI  Regulations 
+and circulars, Exchange Byelaws, Rules, Regulations and circulars. 
+
+ 
+ 
+REFERENCE - List of Circulars 
+ 
+1.  Circular no. MRD/DoP/SE/Cir-07/2005 dated February 23, 2005. 
+2.  Circular no. MRD/DoP/SE/Cir- 6 /2006 dated June 16, 2006. 
+3.  Circular no. MRD/DoP/SE/Cir- 06 /2008 dated March 19 2008. 
+4.  Circular no. MRD/DoP/SE/Cir-10/2008 dated April 17, 2008. 
+5.  Circular No. MRD/DoP/SE/Cir- 11/2008 dated April 17, 2008 
+6.  Circular no. MRD/DoP/SE/Cir-13/2008 dated May 05, 2008. 
+7.  Circular no. MRD/DoP/SE/Cir-18/2008 dated May 22, 2008. 
+8.  Circular No. MRD/DoP/SE/Cir-08/2009 datad July 27, 2009 
+ 
+*Circular  No.  MRD/DoP/SE/Cir-13/2008  dated  May  05,  2008  on  Cross  margining  across  cash  and 
+derivatives  market  issued  by  MRD-DoP,  a  final  circular  on  the  same  has  been  issued  by  DNPD  vide 
+Circular No. SEBI/DNPD/Cir- 44/2008 dated December 02, 2008. 
+
+Page 17 of 17 
+
+

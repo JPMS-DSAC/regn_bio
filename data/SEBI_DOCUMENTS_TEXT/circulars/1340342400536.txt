@@ -1,0 +1,127 @@
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+CIRCULAR 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+CIR/MRD/DMS/ 17 /2012    
+ 
+All Stock Exchanges / All Depositories 
+ 
+Dear Sir / Madam, 
+ 
+Sub:  Clarification  to  the  “Guidelines  for  Business  Continuity  Plan  (BCP)  and 
+
+        June 22, 2012 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disaster Recovery (DR) Circular dated April 13, 2012” 
+
+1.  SEBI vide circular no CIR/MRD/DMS/12/2012 dated April 13, 2012 had issued 
+broad guidelines for Business Continuity Plan and Disaster Recovery for Stock 
+Exchanges and Depositories.   
+
+2.  In  this  regard,  Stock  Exchanges  and  Depositories  have  sought  guidance  and 
+
+clarifications regarding some of the provisions of the circular. 
+
+3.  Upon examination it has been decided to modify the guidelines as under: 
+
+a.  Clause 1. ii. may be read as: 
+
+ 
+"Apart  from  DRS,  stock  exchanges  should  have  a  Near  Site  (NS)  to 
+ensure zero data loss whereas, the depositories should also ensure zero 
+data loss by adopting a suitable mechanism". 
+ 
+
+b.  Clause 1. v. b) may be read as: 
+
+ 
+“Exchanges / Depositories should have Recovery Time Objective (RTO) 
+and  Recovery  Point  Objective  (RPO)  not  more  than  4  hours  and  30 
+minutes, respectively”.  
+ 
+
+c.  Clause 1. vii. c) may be read as: 
+
+/  Depositories 
+
+ 
+"Stock  Exchanges 
+/  Clearing  Houses  or  Clearing 
+Corporations  of  Stock  Exchanges  should  also  demonstrate 
+their 
+preparedness to handle any issue which may arise due to trading halts in 
+stock exchanges and / or failure or stoppages at other Stock Exchanges / 
+Depositories / Clearing Corporations".  
+
+Page 1 of 2
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+4.  This circular is being issued in exercise of powers conferred under Section 11 
+(1)  of  the  Securities  and  Exchange  Board  of  India  Act,  1992  to  protect  the 
+interests  of  investors  in  securities  and  to  promote  the  development  of,  and  to 
+regulate the securities market.  
+ 
+
+5.  This  circular  is  available  on  SEBI  website  at  www.sebi.gov.in  under  the 
+
+categories “Legal Framework” and “Circulars”. 
+
+Yours faithfully,  
+ 
+ 
+B. J. Dilip 
+Deputy General Manager 
++91-22-26449682 
+dilipbj@sebi.gov.in 
+
+Page 2 of 2
+
+

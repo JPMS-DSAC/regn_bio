@@ -1,0 +1,557 @@
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+CIRCULAR 
+
+CIR/MRD/DP/21/2010 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+July 15, 2010 
+
+ 
+The Managing Director and CEO   
+Bombay Stock Exchange Limited  
+Phiroze Jeejeebhoy Towers  
+ 
+ 
+ 
+Dalal Street    
+Mumbai - 400001  
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+The Managing Director 
+National Stock Exchange of India Ltd. 
+Exchange Plaza, Bandra Kurla Complex 
+Bandra (E) 
+Mumbai - 400 051 
+
+Dear Sir, 
+ 
+
+ 
+
+Sub: Introduction of call auction in Pre-open session 
+
+1.  The  issue  regarding  call  auction  and  its  use  in  various  session,  including 
+pre-open session was deliberated in Secondary Market Advisory Committee 
+(SMAC).  Based  on  the  recommendation  of  the  committee  and  proposal 
+received  from  the  stock  exchanges,  it  has  been  decided  to  introduce  call 
+auction mechanism in pre-open session.  
+
+ 
+2.  To begin with, pre-open session shall be introduced on a pilot basis by BSE 
+and NSE for the scrips forming part of Sensex and Nifty. The list of scrips is 
+placed at annexure ‘A’.  In case of any change in the composition of Sensex 
+and  Nifty,  pre-open  session  shall  be  introduced  for  such  incoming  scrips. 
+Pre-open  session  shall  also  continue  for  the  scips  moving  out  of  Sensex 
+and Nifty, though they will not be reckoned for the computation of the index.  
+
+ 
+3.  The  pre-open  session  shall  be  for  a  duration  of  15  minutes  i.e.  from  9:00 
+a.m. to 9:15 a.m., out of which 8 minutes shall be allowed for order entry, 
+order modification and order cancellation, 4 minutes for order matching and 
+
+ 
+
+1
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+trade confirmation and the remaining 3 minutes shall be the buffer period to 
+facilitate the transition from pre-open session to the normal market. 
+
+ 
+4.  The session shall close randomly during last one minute of order entry i.e. 
+anytime  between  7th  and  8th  minute  of  the  order  entry.  Such  random 
+closure shall be system driven. 
+
+ 
+5. 
+
+Limit orders and market orders shall be entered during the pre-open session 
+and both shall be reckoned for computation of equilibrium price. No iceberg 
+order will be allowed i.e orders shall be disclosed in full quantity. 
+
+ 
+6.  Price  band  of  20%  shall  be  applicable  on  the  securities  during  pre-open 
+
+session.  
+
+ 
+7. 
+
+In case the index breaches the prescribed threshold limit upon the closure 
+of pre-open session, the procedure as prescribed in SEBI Circular Ref. No. 
+SMDRPD/Policy/Cir-37 /2001 dated June 28, 2001 shall be applicable from 
+the time continuous normal market opens.  
+
+ 
+8.  The  equilibrium  price  shall  be  the  price  at  which  the  maximum  volume  is 
+executable.  In  case  more  than  one  price  meets  the  said  criteria,  the 
+equilibrium  price  shall  be  the  price  at  which  there  is  minimum  order 
+imbalance  quantity  (unmatched  order  quantity).  The  absolute  value  of  the 
+minimum order imbalance quantity shall be taken into consideration.  
+
+ 
+
+ 
+
+Further, in case more than one price has same minimum order imbalance 
+quantity, the equilibrium price shall be the price closest to the previous day’s 
+closing price. In case the previous day’s closing price is the mid-value of a 
+
+2
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+pair of prices which are closest to it, then the previous day’s closing price 
+itself  shall  be  taken  as  the  equilibrium  price.  In  case  of  corporate  action, 
+previous day’s closing price shall be the adjustable closing price or the base 
+price. 
+ 
+Explanation:  A  scenario  may  arise,  wherein;  more  than  one  price  may 
+have  same  minimum  imbalance  quantity.  Example  on  the  same  is  given 
+hereunder: 
+
+Price   Buy 
+(Qty) 
+
+Cum. 
+Buy Qty 
+
+Sell 
+(Qty) 
+
+Cum.  Sell 
+Qty 
+
+Unmatched  
+
+Quantity 
+
+Vol. 
+tradable 
+
+106 
+
+ 
+
+0 
+
+3000 
+
+8000 
+
+103 
+
+2000 
+
+2000 
+
+3000 
+
+5000 
+
+3000 
+
+5000 
+
+1000 
+
+2000 
+
+1500 
+
+6500 
+
+1000 
+
+1000 
+
+2000 
+
+8500 
+
+1000 
+
+9500 
+
+ 
+
+ 
+
+0 
+
+0 
+
+96 
+
+94 
+
+92 
+
+90 
+
+ 
+
+‐8000 
+
+‐3000 
+
+3000 
+
+5500 
+
+8500 
+
+9500 
+
+0 
+
+2000 
+
+2000 
+
+1000 
+
+0 
+
+0 
+
+In the said example 103 and 96 are the prices wherein, the volume tradable 
+and  unmatched  quantity  is  the  same.  To  derive  the  equilibrium  price,  the 
+said  prices  i.e.  103  and  96  which  is  closest  to  the  previous  day’s  closing 
+price  shall  be  considered.  In  case  the  previous  day’s  closing  price  is  95, 
+then, 96 may be considered as the equilibrium price. In case the previous 
+day’s closing price is 105, then, 103 may be considered as the equilibrium 
+price.  In case the previous day’s closing price is 99.5 which is the mid-value 
+of 103 and 96, then the equilibrium price shall be the previous day’s closing 
+price i.e. 99.5.   
+
+3
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+9.  Pursuant  to  the  discovery  of  price  in  the  pre-open  session,  at  the  time  of 
+order execution, limit orders shall be given priority over market orders. The 
+sequence for executing orders is given below: 
+
+a)  Eligible Limit orders shall be matched with eligible limit orders. 
+b)  Residual eligible limit orders shall be matched with market orders. 
+c)  Market orders to be matched with market orders. 
+
+ 
+10. 
+
+ 
+11. 
+
+In  case  of  pending  unmatched  orders  in  pre-open  session,  they  shall  be 
+shifted  to  the  order  book  of  the  normal  market  following  time  priority. 
+Unmatched market orders will shift to the normal market order book as limit 
+orders at a price as discovered in the pre-open session. 
+
+If the price is not discovered in pre-open session then the orders entered in 
+the pre-open session will be shifted to the order book of the normal market 
+following time priority. The price of the first trade in the normal market shall 
+be the opening price. 
+
+ 
+12.  The current risk management system for cash market shall be applicable to 
+
+pre-open session. 
+
+ 
+13.  The following information shall be disseminated during pre-open session: 
+
+a)  Indicative equilibrium price of the scrip   
+b)  Indicative cumulative buy and sell quantity of the scrip 
+c)  Indicative Index 
+ 
+
+14.  This framework for call auction shall be reviewed after 3 months from the 
+
+commencement of the pre-open session. 
+
+ 
+
+ 
+
+4
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+15.  The  Stock  Exchanges  shall  issue  the  necessary  guidelines  in  this  regard 
+the 
+
+the  necessary  systems 
+
+to  ensure 
+
+and  shall  put 
+operationalization of the above.   
+
+in  place 
+
+ 
+16.  The Stock Exchanges are advised to: 
+
+i) 
+
+ 
+ii) 
+
+ 
+iii) 
+
+put in place the adequate systems and issue the necessary guidelines 
+for implementing the above decision. 
+
+test the software for operational robustness and system integrity, well 
+before  the  commencement  date  to  avoid  any  problems  in  the  live 
+environment. 
+
+design the software with sufficient flexibility to allow for enhancements 
+viz.,  extending  the  scope  of  call  auction  to  other  type  of  sessions, 
+scrips, as a result of policy review.  
+
+iv)  make  necessary  amendments  to  the  relevant  bye-laws,  rules  and 
+
+regulations for the implementation of the above decision immediately. 
+
+v) 
+
+vi) 
+
+bring the provisions of this circular to the notice of the member brokers 
+of the Exchange and also to disseminate the same on the website. 
+ 
+communicate  to  SEBI,  the  status  of  the  implementation  of  the 
+provisions of this circular in the Monthly Development Report.  
+
+vii)  Stock exchange shall seek SEBI’s approval after the implementation of 
+the  above  steps  and  prior  to  the  commencement  of  the  pre-open 
+session.  
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+17.  This circular is being issued in exercise of powers conferred under Section 
+11 (1) of the Securities and Exchange Board of India Act, 1992 to protect 
+the interests of investors in securities and to promote the development of, 
+and to regulate the securities market. 
+
+ 
+
+Encl:  Annexure- I – Scrips eligible for pre-open session 
+
+Yours faithfully, 
+ 
+ 
+ 
+Harini Balaji 
+Deputy General Manager 
+022-26449372 
+harinib@sebi.gov.in 
+ 
+ 
+
+ 
+
+6
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Annexure - I 
+
+Sr.No.  Scrips 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+
+ABB LTD. 
+ACC LIMITED 
+AMBUJA CEMENTS LTD 
+AXIS BANK LIMITED 
+BHARTI AIRTEL LIMITED 
+BHEL 
+BHARAT PETROLEUM CORP  LTD 
+CAIRN INDIA LIMITED 
+CIPLA LTD 
+DLF LIMITED 
+GAIL (INDIA) LTD 
+HCL TECHNOLOGIES LTD 
+HDFC LTD 
+HDFC BANK LTD 
+HERO HONDA MOTORS LTD 
+HINDALCO  INDUSTRIES  LTD 
+HINDUSTAN UNILEVER LTD. 
+ICICI BANK LTD. 
+IDEA CELLULAR LIMITED 
+INFRA. DEV. FIN. CO. LTD 
+INFOSYS TECHNOLOGIES LTD 
+ITC LTD 
+JINDAL STEEL & POWER LTD 
+JAIPRAKASH ASSOCIATES LTD 
+KOTAK MAHINDRA BANK LTD 
+LARSEN & TOUBRO LTD. 
+MAHINDRA & MAHINDRA LTD 
+MARUTI SUZUKI INDIA LTD. 
+NTPC LTD 
+OIL AND NATURAL GAS CORP. 
+PUNJAB NATIONAL BANK 
+POWER GRID CORP. LTD. 
+RANBAXY LABS LTD 
+RELIANCE COMMUNICATIONS LTD. 
+RELIANCE CAPITAL LTD 
+RELIANCE INDUSTRIES LTD 
+RELIANCE INFRASTRUCTURE LTD 
+RELIANCE POWER LTD. 
+STEEL AUTHORITY OF INDIA 
+STATE BANK OF INDIA 
+
+7
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Sr.No.  Scrips 
+
+SIEMENS LTD 
+STERLITE INDS (IND) LTD 
+SUN PHARMACEUTICALS IND. 
+SUZLON ENERGY LIMITED 
+TATA MOTORS LIMITED 
+TATA POWER CO LTD 
+TATA STEEL LIMITED 
+TATA CONSULTANCY SERV LTD. 
+UNITECH LTD 
+
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50  WIPRO LTD 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8
+
+

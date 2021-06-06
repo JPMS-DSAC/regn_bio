@@ -1,0 +1,102 @@
+ 
+
+PROPOSED POLICY FOR CLIENT REGISTRATION & TRADING 
+
+OPERATIONS 
+
+  
+INTRODUCTION  
+This  is  a  proposal  for  framing  guidelines  for  handling  Running  Account 
+authorisation  taken  by  the  brokers  and  issuance  of  Electronic  Contract  notes 
+(ECN).  The  matter  has  been  discussed  with  the  representatives  of  Stock 
+Exchanges, Depositories, Brokers and Investors associations. 
+  
+BACKGROUND 
+There  is  market  practice  of  taking  ‘Running  Account  Authorisation’  by  the 
+brokers from their clients. By virtue of such authorisation taken from the clients, 
+the broker gets the right to retain the funds and securities of the clients with itself 
+on ongoing basis which are supposed to be utilized for meeting the settlement / 
+margin obligations of the clients as and when required. Such funds and securities 
+are  expected  to  be  paid/transferred  over  to  the  clients  as  and  when  they 
+desire/request.  However,  it  has  been  observed  that  such  practice  is  bring 
+misused  by  some  of  the  brokers.  The  funds  and  securities  of  the  clients  lying 
+with the brokers are prone to several risks.   
+ 
+Further,  most  brokers  are  forcing  clients  to  opt  for  ECN  and  are  also  creating 
+email  ids  instead  of  using  the  email  ids  created  and  provided  by  the  clients. 
+There  are  also  concerns  regarding  actual  receipt  of  e-mail  id  and  password  by 
+clients.  
+ 
+SEBI has been receiving many complaints on the above aspects.  
+ 
+PROPOSALS  
+
+It is proposed to stipulate a set of guidelines to prevent the possible misuse of the 
+above mentioned practices. 
+ 
+A.  Running Account Authorisation 
+The  ‘running  account  authorisation’  should  be  dated  and  also  contain  a  clause 
+that the client can revoke the authorization at any time. There should be a clause 
+in  the  authorisation  mentioning  that  actual  settlement  of  funds  and  securities 
+should  be  done  by  both  the  parties,  on  the  last  day  of  every  calendar  month. 
+However,  some  clients  may  be  having  outstanding  transactions/positions  in 
+cash/derivative segment on the running account settlement date. In such cases, 
+the broker may make due adjustment by retaining the requisite securities/funds 
+from the running account towards such obligations of clients and may also retain 
+the funds expected to be required to meet margin obligations for next 5 working 
+days by which time the client would replenish/supplement the funds with the 
+broker.  
+ 
+In addition to the settlement of the running account, the broker should send all 
+the clients a monthly statement to that effect. The retention of funds/securities, if 
+any, by the broker (in the case as stated above) should be duly explained in the 
+statement. In case of any dispute arising out of the settlement so made, the client 
+should bring it to the notice of the broker within 7 working days of receiving the 
+statement.  The broker/client may decide not to take any fresh position pending 
+the dispute. 
+
+ 
+
+Further,  if  the  client  requests  for  return  of  securities/funds  lying  to  his  credit 
+with the broker, at any time in the interim period, the same shall be transferred 
+by  the  broker  within  one  working  day  from  the  date  of  receipt  of  the  client’s 
+request. There shall be no inter-client adjustments for the purpose of settlement 
+of the running account. 
+
+B. Issuance of Electronic Contract Notes (ECN) 
+
+The  practice  of  creating  the  email  id  by  the  broker  may  be  discontinued.  The 
+authorization for receiving ECN should be signed by the client only and not by 
+any authorised entity or attorney holder. The authorization should have a clause 
+mentioning that any change in the email-id will be communicated by the client 
+through a physical letter to the broker. In respect of clients trading through the 
+internet,  the  request  for  change  of  email  id  may  be  made  through  the  secured 
+access by way of client-specific user id and password. 
+
+ 
+
+Comments  are  invited  from  the  public  on  the  above  proposal.  The  comments 
+may  be  sent  up  to  August  15,  2009  by  e-mail  at  anuradhag@sebi.gov.in  or 
+ankurb@sebi.gov.in. A hard copy may also be sent at the given address with the 
+subject line indicating ‘Comments on proposed policy for Client Registration & 
+Trading Operations’ so as to reach the SEBI office latest by August 15, 2009: 
+
+The General Manager 
+
+Division of Policy and Supervision- 1 
+
+MIRSD 
+
+Securities and Exchange Board of India 
+
+SEBI Bhavan, Plot No: C – 4A, G Block,   
+
+Bandra Kurla Complex, Bandra (East), 
+ 
+Mumbai - 400 051 
+
+  
+
+********* 
+
+

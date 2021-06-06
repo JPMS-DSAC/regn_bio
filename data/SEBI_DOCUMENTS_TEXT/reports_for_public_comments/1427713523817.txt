@@ -1,0 +1,783 @@
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Discussion Paper on  
+
+1.  Alternate Capital Raising Platform and  
+2.  Review of other regulatory requirements 
+
+1.  Background 
+
+ 
+
+ 
+
+1.1.  With  a  view  to  provide  easier  exit  options  for  informed  investors  like  Angel 
+
+Investors, Venture Capital Funds (VCFs), etc, SEBI Board in its meeting held on June 
+
+25,  2013,  approved  a  proposal  to  permit  listing  of  SMEs  in  Institutional  Trading 
+
+platform (ITP) without having to make an IPO. 
+
+1.2.  While such companies are listed on the ITP, they are not permitted to raise equity 
+
+capital through public issues though they can continue to make private placements. 
+
+SEBI  has  been  in  receipt  of  suggestions  to  permit  capital  raising  in  the  said  ITP 
+
+platform. 
+
+1.3.  Further,  as  part  of  the  regular  consultative  process,  SEBI  in  the  recent  past 
+
+interacted with iSPIRT (which stands for 'Indian Software Product Industry Round 
+
+Table', a body dedicated to promote existing Indian software product companies). A 
+
+few  Indian  start-ups  were  also  present  during  the  said  interaction.  It  was 
+
+highlighted that there are around 3000 Indian start-up companies with the pace of 
+
+setting  up  such  companies  picking  up  lately  and  that  Indian  software  product 
+
+companies are impacting nearly 3 million small businesses. They highlighted certain 
+
+challenges facing the industry players to create a regulatory awareness of the typical 
+
+needs of the industry.   
+
+1.4.  While recognizing the availability of SME platform for facilitating capital raising by 
+
+small  scale  businesses  and  presence  of  the  novel  SME-ITP  to  facilitate  exit  of 
+
+institutional investors like PEs, it was submitted that these existing avenues may be 
+
+further made amenable for accommodating a larger number of growing companies.  
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+1.5.  Further,  Association  of  Investment  Bankers  of  India  (AIBI),  an  association  of 
+
+investment bankers in India has submitted suggestions to SEBI to facilitate  issuers 
+
+with 
+
+lower  holding  of  founding  members.  AIBI  has  also  been  requesting 
+
+clarifications on applicability of certain provisions of SEBI (ICDR) Regulations, 2009 
+
+(ICDR Regulations) in respect of such companies. 
+
+ 
+
+2.  Need for review 
+
+2.1.  Under the ICDR Regulations, the promoters are required to offer a minimum 20% of 
+
+post  issue  capital  as  lock-in  for  a  period  of  3  years.  The  lock-in  provision  ensures 
+
+promoters' skin in the game for a period of at least 3 years.  
+
+2.2.  Further,  the  detailed  disclosure  on  objects  of  the  issue  and  basis  for  issue  price 
+
+ensures that the company justifies the price at which it plans to issue shares and the 
+
+purpose for which the amount raised shall be utilized. 
+
+2.3.  The  said  requirements  are intended to ensure that interest of investors, especially 
+
+the  retail  investors,  is  protected.  However,  many  start-up  companies  that  have 
+
+flourished in recent times and several of which have also achieved scale, have lower 
+
+founding  members'  holding  (often  less  than  20%)  and  a  large  holding  of 
+
+institutional investors.  
+
+2.4.  Thus, founding members of such companies are not in a position to offer the shares 
+
+for  lock-in.  It  is  also  cited  that  such  founding  members  do  not  have  sufficient 
+
+resources to acquire additional shares to offer for lock in. Further, such companies 
+
+are often professionally run and hence the founding members are not inclined to be 
+
+disclosed as promoters. 
+
+2.5.  Such companies are often loss-making and belong to sectors for which there are no 
+
+comparable financial ratios available. 
+
+2.6.  The  institutional  investors  of  such  companies  generally  advise  these  companies  to 
+
+list  overseas  citing  relaxed  regulatory  regime  in  other  jurisdictions.  In  the  past,  a 
+
+few  measures  to  relax  certain  requirements  have  already  been  taken  by  SEBI. 
+
+However,  considering  the  unique  nature  of  such  companies,  they  seek  differential 
+
+treatment.    
+
+2.7.  If  the  capital  raising  process  in  India  is  not  made  further  relaxed  for  such  issuers, 
+
+they may be driven to list on stock exchanges outside India.  It has been a challenge 
+
+Alternate Capital Raising Platform and other regulatory requirements 
+ 
+
+Page 2 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+for SEBI to simplify the capital raising process for such issuers while protecting the 
+
+interest of retail investors.   
+
+2.8.  Considering  the  role  of  such  companies  in  nation  building  and  their  potential  in 
+
+terms  of  generating  employment  and  income  as  well  as  fostering  innovation,  it  is 
+
+imperative that necessary enabling environment is provided for these enterprises to 
+
+flourish. 
+
+2.9.  Various suggestions in this regard were deliberated in the Primary Market Advisory 
+
+Committee (PMAC) of SEBI. 
+
+2.10. Pursuant to  the  recommendations  of PMAC and further discussions,  a proposal  on 
+
+alternate  capital  raising  platform  wherein  money  shall  be  raised  only  from 
+
+institutions  and  high  net  worth  individuals  by  the  new-age  companies  having 
+
+innovative business model and  belonging to knowledge-based technology sector is 
+
+detailed below. On account of the risk involved in investing in such companies, it is 
+
+proposed that retail investors be restricted from investing in such companies. 
+
+ 
+
+3.  Proposal on Alternate Capital Raising Platform 
+
+ 
+
+3.1. Eligibility 
+
+3.1.1.  Going by the developments in the USA, Europe, China and other markets, it is 
+
+noted  that  young  entrepreneurs  are  coming  out  with  innovations  which  are 
+
+leading to creation of technology companies which are bringing in completely 
+
+new  business  opportunities  by  facilitating  creation  of  new  products  for 
+
+consumers  or  are  contributing  towards  system  improvement  and  process 
+
+efficiencies in existing operation of companies. Many of the companies have the 
+
+characteristic that their knowledge based product is not widely understood or 
+
+appreciated  by  large  number  of  investors.  They  do  not  incur  profits  in  the 
+
+initial years, but have potential to grow in a big way in a short time frame. It is 
+
+a  global  phenomenon  that  many  of  them  are  getting  acquired  by  large 
+
+companies  at  high  valuations.  Innovators  are  therefore,  looking  for  an 
+
+environment where their inner strength and potential is fairly recognised. 
+
+3.1.2.  In  India  such  an  eco  system  has  come  in  existence  in  many  parts  of  the 
+
+country such as Karnataka, Kerala, NCR, Maharashtra, etc. For want of a better 
+
+Alternate Capital Raising Platform and other regulatory requirements 
+ 
+
+Page 3 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+price discovery within the country, many of these companies plan to get listed 
+
+in Singapore or the USA. 
+
+3.1.3.  One  of  the  challenges  in  coming  out  with  a  special  carve  out  in  these 
+
+knowledge  based  industries  is  to  define  them.  It  is  proposed  that  the  new 
+
+platform for raising money within the country will be initially made applicable 
+
+to  companies  which  are  in  the  area  of  software  product  development,  e-
+
+commerce,  new-age  companies  having  innovative  business  model,  etc.  which 
+
+create  new  business  opportunities  or  which  serve  important  efficiency 
+
+enhancement in existing business activities. 
+
+ 
+
+3.2. Modified Institutional Platform 
+
+3.2.1.  Capital raising shall be allowed on the ITP with certain modifications in the 
+
+current  regulatory  framework  that  may  include  relaxation  on  restriction  of 
+
+fund raising, minimum investment from certain category of investors, etc  
+
+3.2.2.  The  proposed  platform  will  have  two  categories  of  investors  i.e.  Qualified 
+
+Institutional  Buyers  (QIB)  and  Non-institutional  investors  (NII).  It  has  been 
+
+suggested that the family trusts may also be allowed to apply under the QIB 
+
+category. 
+
+3.2.3.  Allotment to QIBs may be on a discretionary basis whereas to NIIs it shall be 
+
+on proportionate basis. Allocation between the said two categories shall be in 
+
+the  ratio  of  75%  and  25%  respectively.  Any  under  subscription  in  non-
+
+institutional categories shall be available to QIB category 
+
+3.2.4.  No QIBs shall be allotted more than 5% of the issue size 
+
+3.2.5.  The minimum application size in case of such issues shall be  Rs. 10 lakhs  
+
+3.2.6.  The minimum no. of allottees  in such issues shall be 500  
+
+3.2.7.  The  listing  on  institutional  platform  shall  be  for  a  period  of  at  least  1  year. 
+
+Post-1  year,  the  company  will  have  the  option  to  migrate  to  main  board 
+
+subject to compliance with eligibility requirements of the Stock Exchanges  
+
+3.2.8.  The minimum trading lot on the said platform shall be of Rs. 5 lakhs.  There is 
+
+also a suggestion that this threshold limit on trading lot be lowered for sale of 
+
+shares by the employees who have been granted ESOPs 
+
+3.2.9.  For  Category  I  and  II  AIFs,  which  are  required  under  the  SEBI  (Alternative 
+
+Investment Funds) Regulations, 2012 to invest a certain minimum amount in 
+
+Alternate Capital Raising Platform and other regulatory requirements 
+ 
+
+Page 4 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+unlisted securities, investment in shares of companies listed on this platform 
+
+may  be  treated  as  investment  in  'unlisted  securities'  for  the  purpose  of 
+
+calculation of the investment limits.  
+
+ 
+
+3.3. Process 
+
+3.3.1.  New-age  companies  having  innovative  business  model  and  belonging  to 
+
+knowledge-based  technology  sector,  where  no  person  (individually  or 
+
+collectively  with  persons  acting  in  concert)  holds  25%  or  more  of  the  pre-
+
+issue share capital, may be considered as professionally managed companies 
+
+and  access  capital  through  the  said  institutional  platform.  In  other  words, 
+
+companies  where  any  person  (individually  or  collectively  with  persons 
+
+acting  in  concert)  holds  25%  or  more  of  the  pre-issue  share  capital  shall 
+
+access capital through the existing main board 
+
+3.3.2.  Such  issuers  shall  be  required  to  file  draft  offer  document  with  SEBI  for 
+
+observations,  as  provided  in  ICDR  Regulations.  The  issuers  shall  ensure 
+
+compliance  with  various  applicable  provisions 
+
+in  ICDR  Regulations 
+
+(including  disclosures  on  key  managerial  personnel  and  business  model), 
+
+subject to the following carve-outs.  
+
+ 
+
+3.4. Objects of the issues  
+
+ 
+
+Existing Regulation 
+
+Schedule VIII - Part A (VII) of ICDR Regulations requires disclosure of the objects of 
+
+the  issue,  inter-alia  on  the  purpose  of  issue,  means  of  financing  such  project, 
+
+proposed deployment status of the proceeds at each stage of the project, Interest of 
+
+promoters and directors, etc 
+
+Proposal 
+
+The main object may be for general corporate purpose. Further, the disclosure may 
+
+be  restricted  to  only  broad  objects.  This  is  in  line  with  the  major  international 
+
+jurisdictions. 
+
+ 
+
+ 
+
+ 
+
+Alternate Capital Raising Platform and other regulatory requirements 
+ 
+
+Page 5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+3.5. Lock-in of Shares 
+
+ 
+
+Existing Regulation 
+
+Regulation  36  (a)  of  ICDR  Regulation  stipulates  that  the  minimum  promoters' 
+
+contribution  (20%  of  post  issue  capital)  shall  be  locked  in  for  a  period  of  3  years 
+
+from the  date  of commencement of commercial production or date  of allotment  in 
+
+public  issue,  whichever  is  later.  Further,  Regulation  36(b)  of  ICDR  Regulation 
+
+stipulates  that  promoters’  holding  in  excess  of  minimum  promoters’  contribution 
+
+shall be locked-in for a period of one year: 
+
+Regulation 37 of ICDR Regulation stipulates that the entire pre-issue capital held by 
+
+persons other than promoters shall be locked-in for a period of one year, subject to 
+
+exemptions carved out for certain cases. 
+
+Proposal 
+
+Lock in of the entire pre-issue capital should be for a period of 6 months uniformly 
+
+for all shareholders.  
+
+ 
+
+3.6. Basis of Issue Price 
+
+ 
+
+Existing Regulation 
+
+Schedule  VIII  -  Part  A  (VII)  (K)  of  ICDR  Regulations  requires  the  disclosure  of  the 
+
+basis for issue price including disclosure of Earnings Per Share, Diluted Earnings Per 
+
+Share, Price earnings ratio, pre-issue Average Return on Net Worth, etc. 
+
+Proposal 
+
+The basis of issue price may include disclosures, other than projections, as deemed 
+
+fit by the issuers accessing the market on the institutional platform in order to enable 
+
+investors take informed decisions 
+
+ 
+
+4.  Review of Other Regulatory Requirements 
+
+ 
+
+ 
+ 
+
+ 
+
+The Committee further deliberated and recommended that the following provisions 
+
+shall  be  applicable  for  all  issuers  irrespective  of  the  listing  on  main  board  or  the 
+
+institutional platform: 
+
+Alternate Capital Raising Platform and other regulatory requirements 
+ 
+
+Page 6 
+
+ 
+
+ 
+ 
+
+4.1. Definition of QIB 
+
+ 
+
+Existing Regulation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Regulation  2  (1)  (zd)  of  ICDR  Regulations  details  the  institutions  that  may  be 
+
+considered as qualified institutional buyer 
+
+Proposal 
+
+The definition of QIBs may be extended to include systematically important NBFCs 
+
+as per RBI guidelines and family offices / trusts, subject to such family offices/trust 
+
+registering  itself  as  Alternate  Investment  Funds  (AIF)  under  the  AIF  Regulations.  
+
+Further,  any  other  entity  registered  with  SEBI  subject  to  minimum  net-worth  of 
+
+Rs.500 crore may also be considered as a QIB 
+
+ 
+
+4.2. Disclosure with respect to group companies  
+
+ 
+
+Existing Regulation 
+
+Schedule  VIII  of  ICDR  Regulation  states  that  "group  companies",  wherever  they 
+
+occur, shall mean companies, firms, ventures, etc. promoted by the promoters of the 
+
+issuer, irrespective of whether such entities are covered under section 370 (1)(B) of 
+
+the Companies Act, 1956 or not. 
+
+Proposal 
+
+Disclosure  with  respect  to  group  companies  shall  be  restricted  to  such  group 
+
+companies  as  covered  under  the  applicable  accounting  standard  (Currently, 
+
+Accounting  Standard  18).  In  addition,  disclosure  shall  be  given  for  such  group 
+
+companies  as  considered  material  by  the  board  of  the  issuer.  The  policy  on 
+
+materiality should be disclosed in the offer document.  
+
+ 
+
+4.3. Disclosure of litigations  
+
+ 
+
+Existing Regulation 
+
+Schedule  VIII  Part  A  (2)  (X)  (A)  requires  disclosures  of  various  Outstanding 
+
+Litigations  and  Material  Developments  such  as  litigations  against  the  issuer, 
+
+directors  involving  violation  of  statutory  regulations,  tax  liabilities  or  alleging 
+
+Alternate Capital Raising Platform and other regulatory requirements 
+ 
+
+Page 7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+criminal  offence;  adverse  findings  on  compliance  with  the  securities  laws,  non 
+
+payment of statutory dues, cases in which penalties were imposed etc. 
+
+Proposal 
+
+  All criminal cases and regulatory actions should be disclosed 
+
+  With respect to taxation disputes, separate disclosure regarding claims related 
+
+to direct and indirect taxes shall be provided in a consolidated manner 
+
+  For other litigations, policy for materiality shall be defined by the company and 
+
+disclosed in the offer document. Based on the same, disclosures shall be made. 
+
+ 
+
+ 
+ 
+
+ 
+
+4.4. Disclosures on creditors  
+
+ 
+
+Existing Regulation 
+
+ICDR  Regulations,  Schedule  VIII  Part  A  (2)  (X)  (A)  (1)  (i)  under  the  outstanding 
+
+litigations requires the disclosure of the name(s) of the small scale undertaking(s) or 
+
+any other creditors to whom the issuer owes a sum exceeding Rs. one lakh which is 
+
+outstanding more than thirty days. 
+
+Proposal 
+
+Complete  details  about  creditors  should  be  disclosed  on  the  web  page  of  the 
+
+company.  The  disclosure  in  the  offer  document  should  be  based  on  materiality 
+
+thresholds as  defined and disclosed in the  offer document and shall provide  link to 
+
+the  webpage  of  the  company  where  full  details  are  disclosed.  Only  consolidated 
+
+information on dues to SMEs and other creditors shall be disclosed in the prospectus. 
+
+ 
+
+4.5. Disclaimer Clause 
+
+ 
+
+Existing Regulation  
+
+Regulation  60  (3)  of  ICDR  Regulations  requires  a  disclosure  in  all  public 
+
+communications and publicity material issued or published in any media during the 
+
+period commencing from the date of filing draft offer document with the Board till 
+
+the  date  of  allotment  by  the  issuer  that  it  is  proposing  to  make  a  public  issue  or 
+
+rights issue and has filed a draft offer document. 
+
+ 
+
+ 
+
+Alternate Capital Raising Platform and other regulatory requirements 
+ 
+
+Page 8 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Proposal 
+
+It is proposed that the product advertisements of the issuers may be exempted from 
+
+the  requirement  of  ‘disclaimer’.  However,  disclosure  shall  continue  in  other 
+
+corporate and issue related advertisements.  
+
+5.  Public comments: 
+
+Considering the implications of the said matter on  the market participants including 
+
+issuers  and  investors,  public  comments  on  the  policy  framework  proposed  at 
+
+paragraph 3 & 4 above are solicited. Specific comments/suggestions as per the format 
+
+given below would be highly appreciated: 
+
+ 
+
+ 
+
+Sr. 
+
+No. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pertains to serial 
+
+Agree / Disagree to 
+
+Proposed 
+
+Rationale 
+
+number under 
+
+the proposal at the 
+
+changes / 
+
+ 
+
+paragraph (3)/(4) 
+
+said serial number 
+
+suggestions 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Such  comments  may  please  be  e-mailed  on  or  before  April  20,  2015,  to 
+
+capitalraising@sebi.gov.in or sent by post, to:- 
+
+ 
+
+Shri. Amit Tandon 
+Deputy General Manager 
+Corporation Finance Department 
+Securities and Exchange Board of India  
+SEBI Bhavan 
+Plot No. C4-A, "G" Block 
+Bandra Kurla Complex 
+Bandra (East), Mumbai - 400 051 
+Ph: +91-22-26449373/ +91-22-26449483 
+
+ 
+
+************ 
+
+Alternate Capital Raising Platform and other regulatory requirements 
+ 
+
+Page 9 
+
+

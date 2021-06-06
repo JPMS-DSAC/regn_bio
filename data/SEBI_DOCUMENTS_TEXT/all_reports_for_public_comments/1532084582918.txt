@@ -1,0 +1,725 @@
+Designing a Framework for Enhanced Market Borrowings by large Corporates  
+
+Consultation Paper  
+
+ 
+
+1.  Budget Announcement and its objective  
+
+1.1.  Government  of  India  in  the  Union  Budget  of  2018-19,  made  the  following 
+
+announcement: 
+
+“SEBI  will  also  consider  mandating,  beginning  with  large  Corporates,  to  meet 
+about one-fourth of their financing needs from the debt market.” 
+
+1.2.  A series of steps have been taken, over time, by Government in consultation with 
+Regulators, to develop and deepen the bond market. At the same time, however, 
+concerns  have  been  raised  about  the  ability  of  banks  to  finance  increasing 
+borrowing needs of the corporates, especially as the investment cycle has shown 
+an  upward  tick.  Accordingly,  the  said  budget  announcement  may  be  seen  as  a 
+step in the direction of the larger goal of not only to reduce reliance on banks to 
+finance corporates but also to develop a liquid and vibrant corporate bond market.  
+
+2.  Evolving a framework for operationalising the intent of budget announcement  
+
+2.1.  Evolving  a  framework  for  operationalising  the  extant  budget  announcement  may 
+require  identification  of  the  meaning  and  scope  of  the  terms  "large  corporates", 
+"financing  needs"  and  "mandate",  which  have  been  used  therein.  The  same  are 
+discussed as under: 
+
+a) 
+
+Identifying large corporates and their financing needs: The intention of the 
+budget announcement is to nudge corporates (who have borrowing needs) to 
+access the bond market. Accordingly, a large corporate could be one who;  
+
+i.  has a certain threshold of outstanding borrowings; 
+
+ii.  has a reasonable credit rating;  
+
+iii. 
+
+intends to finance itself with long-term borrowings (i.e. borrowings  above 1 
+year);and  
+
+iv.  has listed its securities on the stock exchange. 
+
+b)  What constitutes mandate: Given the current stage of development of bond 
+market  in  India,  any  mandatory  requirement  would  need  to  be  light-touch  in 
+nature  and  would  also  need  to  provide  enough  leeway  to  the  identified 
+corporates to meet the mandatory requirement from the bond market.  
+
+ 
+
+Page 1 of 9 
+
+3.  Current market structure and inference drawn therefrom  
+
+ 
+
+3.1.  Some of the measures that have been taken for the development of bond market 
+includes:  mandatory  reporting  requirement  of  OTC 
+in  bonds  and 
+dissemination of the data in public domain, setting up of dedicated debt segment 
+on  exchanges,  uniformity  in  market  conventions,  electronic  bidding  platform  for 
+private placement, consolidation of debt ISINs etc. These measures have resulted 
+in  an  uptick  in  the  share  of  bond  market  to  total  corporate  credit.  The  budget 
+announcement, as above, is a further step towards deepening the bond market. 
+
+trades 
+
+3.2.  Before, however, arriving at the granular level details of the operational framework 
+underpinning  the  Budget  announcement,  it  is  important  to  understand  the  bond 
+market  micro-structure  and  the  lessons  that  can  be  learnt  for  framing  the 
+operational framework.  
+
+Bank Financing Vs. Bond Financing: 
+
+3.3.  Chart1  below  shows  the  percentage  share  of  bank  and  bond  financing  to 
+corporate sector over a period of 5 years. As is seen, the share of bond market in 
+comparison to bank financing has seen a steady growth. Further, FY 2016-17 was 
+a  watershed  year  when  share  of  bond  market  financing  overtook  that  of  bank 
+financing. 
+
+Chart 1 - Percentage share of bank borrowing and bond borrowing in corporate 
+
+credit 
+
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+ 
+
+ 
+
+ 
+
+ 
+
+63%
+
+70%
+
+37%
+
+30%
+
+57%
+
+43%
+
+59%
+
+41%
+
+51%
+
+49%
+
+2012-13
+
+2013-14
+
+2014-15
+
+2015-16
+
+2016-17
+
+Bank lending  
+
+Corporate bond issues 
+
+Source: CARE Ratings, SEBI 
+
+ 
+
+Page 2 of 9 
+
+Credit rating profile of issuers: 
+
+ 
+
+3.4.  If we catalogue the primary issuances of listed corporate bonds, across multiple 
+years,  in  different  rating  buckets,  it  is  seen  that  the majority  of  the  issuances  is 
+skewed  towards  credit  rating  of  "AA"  and  above.  Chart  2  below  represents  the 
+bonds issued in different rating categories. 
+
+Chart 2: Proportion of corporate bonds issuances in different rating categories  
+
+5%
+19%
+
+75%
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+5%
+
+28%
+
+5%
+23%
+
+6%
+
+26%
+
+5%
+23%
+
+5%
+
+28%
+
+5%
+
+29%
+
+64%
+
+70%
+
+65%
+
+56%
+
+56%
+
+60%
+
+FY12
+
+FY13
+
+FY14
+
+FY15
+
+FY16
+
+FY17
+
+FY18
+
+AAA
+
+AA
+
+A
+
+Others
+
+ 
+
+Source: CRISIL 
+
+ 
+
+3.5.  As  can  be  seen  from  the  chart  above,  around  90%  of  the  issuances  happen  in 
+
+credit rating bucket of "AA or above”. 
+
+3.6.  One  of  the  primary  reasons for  a  high  concentration  of  issuance  in  paper  rated 
+“AA and above” is because institutional investors, who are the largest investors in 
+bond  market,  invest  primarily  in  highly  rated  paper.  With  a  view  to  address  this 
+issue, the budget of 2018-19 has made the following announcement: 
+
+"Corporate  debt  securities  rated  „BBB‟  or  equivalent  are  investment  grade.  In 
+India,  most  regulators  permit  debt  securities with the  „AA‟  rating  only  as  eligible 
+for  investment.  It  is  now  time  to  move  from  „AA‟  to  „A‟  grade  ratings.  The 
+Government and concerned Regulators will take necessary action." 
+
+3.7.  The  operationlisation  of  this  budget  announcement  is  likely  to  facilitate  even 
+lower rated borrowers (borrowers rated between AA - and A) to raise funds from 
+the bond market. 
+
+3.8.  Apart from the above, the rating profile of corporates could be further augmented 
+by  providing  credit  enhancement  facilities.  This  is  especially  relevant  for 
+companies in the infrastructure sector as generally they have a lower rating. With 
+a view to improve the credit rating of infrastructure companies, the Union Budget 
+
+ 
+
+Page 3 of 9 
+
+2016-17 
+
+had  made 
+
+an 
+
+regarding 
+
+of 
+credit 
+enhancement/guarantee  to  the  debt  securities  issued  by  such  infrastructure 
+companies.  Once 
+it  would  help 
+infrastructure  companies  to  further  access  institutional  funding  from  the  bond 
+market. 
+
+this  announcement 
+
+is  operationalized, 
+
+announcement 
+
+ 
+
+Issuers and issuance types:  
+
+3.9.  An analysis of issuers and issuances is shown in Charts 3 and 4 below.  
+
+Chart 3 -   Issuer wise breakup of bond issuances 
+
+11%
+
+6%
+
+25%
+
+45%
+
+17%
+
+7%
+
+29%
+
+31%
+
+16%
+
+5%
+
+35%
+
+18%
+
+11%
+
+32%
+
+30%
+
+30%
+
+FY12
+
+FY13
+
+FY14
+
+FY15
+
+25%
+
+9%
+
+36%
+
+19%
+
+FY16
+
+23%
+
+12%
+
+36%
+
+16%
+
+FY17
+
+21%
+
+9%
+
+41%
+
+21%
+
+FY18
+
+Financial Institutions and others
+
+HFC & NBFC
+
+Banks
+
+Public Sector Undertakings
+
+State Level Undertakings & State FI
+
+Private – Non Financial Sector
+
+ 
+
+Chart 4 - Manner of issuance of Listed Corporate Debt Securities  
+
+Source: CRISIL 
+
+88.0%
+
+95.5%
+
+86.7%
+
+97.7%
+
+93.1%
+
+95.6%
+
+99.2%
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+120.0%
+
+100.0%
+
+80.0%
+
+60.0%
+
+40.0%
+
+20.0%
+
+12.0%
+
+0.0%
+
+13.3%
+
+4.5%
+
+2.3%
+
+6.9%
+
+4.4%
+
+0.8%
+
+2011-12
+
+2012-13
+
+2013-14
+
+2014-15
+
+2015-16
+
+2016-17
+
+2017-18
+
+Public Issue 
+
+Private Placement
+
+ 
+
+Source: SEBI  
+
+ 
+
+Page 4 of 9 
+
+3.10. As  per  the  above  charts,  corporate  bond  issuance  is  done  primarily  through 
+private placement route. Further, almost 60-70% of the total issues are done by 
+financial  sector  entities  and  the  private  sector  non-financial  entities  constitutes 
+only around 20 % of the total issuances. 
+
+ 
+
+3.11. A  deeper  examination  of  the  reasons  for  the  above  trend  reveals  that  financial 
+sector  companies,  including  NBFCs  doing  private  placement,  have  been 
+exempted  from  the  requirement  of  maintenance  of  Debenture  Redemption 
+Reserve  (DRR),  while  all  issuances  by  non-financial  entities  and  entities  doing 
+public issue are required to set aside a part of their profits (equivalent to 25 % of 
+the value of outstanding debentures) as DRR. Further, such companies have to 
+investatleast an amount equivalent to 15% of the debentures maturing during the 
+year in bank deposits, government securities, etc. Such an earmarking of funds 
+imposes an opportunity cost on the issuer. 
+
+3.12. As  the  requirement  of  DRR  maintenance  imposes  a  significant  cost  on  public 
+issue of bonds and on bonds issued on private placement basis by non-financial 
+corporates,  and  given  that  issue  of  protection  of  bond  investors,  in  cases  of 
+default,  has  been 
+the  enactment  and 
+operationalisation  of  Insolvency  and  Bankruptcy  Code  (IBC),  it  is  felt  that  if  the 
+requirement of DRR is dispensed with, it will naturally facilitate more corporates 
+to access the bond market for their financing needs. 
+
+significantly  addressed  by 
+
+RBI Policy framework on Large Exposures  
+
+3.13. With a view to address concentration risk  in the banking system, RBI has come 
+
+out with a policy framework on banks’ large exposures.  
+
+3.14. The  framework  involves  mandating  enhanced  provisioning  norms  for  banks’ 
+exposure  to  large  borrowers.  These  enhanced  provisioning  norms  have  come 
+into  effect  from  the  FY  2018-19  and  shall  be  applicable  on  incremental  lending 
+made to borrowers with Aggregate Sanctioned Credit Limit (ASCL) of INR 25,000 
+crores in FY 2017-18. Further, the ASCL limit for application of the extant norms 
+will be gradually reduced and it will be INR 10,000 crores beginning FY 2019-20. 
+These measures are expected to result in corporates further accessing the bond 
+market but the impact of these measures is yet to be assessed. 
+
+Implementation of IBC: 
+
+3.15. The coming into force of IBC in 2016 has addressed the default risk of bonds to a 
+large  extent  as  the  bond  holders  have  been  kept  on  higher  priority  than  even 
+Government  dues  in  the  liquidation  waterfall.  It  is  expected  that,  in  the  medium 
+term, this would facilitate deepening of bond market. As per Bank of International 
+
+ 
+
+Page 5 of 9 
+
+ 
+
+Settlement  (BIS)  data,  implementation  of  bankruptcy  reforms  have  significant 
+impact on deepening of bond market in countries which have implemented such 
+reforms.  For  example,  the  corporate  bond  as  a  percentage  of  GDP  increased 
+from 12.7 % to 26.3 % in Brazil, 8.1 % to 13.1 % for Russia, 18.8 % to 33.4 % in 
+China  and  68.4  %  to  106.8  %  for  U.K.  over  the  5  year  period  from  the  year  of 
+reform.  For  India,  at  present,  the  share  of  corporate  bond  to  GDP  is 
+approximately 17 % and if the trend is the same as that seen in other countries, 
+then it can safely be presumed that the bond market to GDP should move from 
+the current 17 % to at least 22 - 23 % by 2022-23, just on account of successful 
+implementation of IBC. 
+
+3.16. From the above bond market micro-structure, the following can be inferred – 
+
+a)  The  share  of  bond  market  in  comparison  to  bank  financing  has  shown  an 
+upward trend and currently both these modes have almost an equal share. It is 
+expected  that  the  share  of  bond  market  would  get  further  accentuated  in 
+coming years. 
+
+b)  A large proportion of issuances happen in the  credit rating bucket of “AA and 
+
+above”. 
+
+c)  Most  of  the  bond  issuances  are  privately  placed  with  financial  sector 
+
+companies accounting for a major share of such placements. 
+
+d)  Dispensing  the  DRR  requirement  for  non-financial  entities  and  entities  doing 
+public issue could facilitate more such companies to access the bond market.  
+
+e)  The budget announcements regarding shifting to the credit rating bucket of “A 
+and  above”  and  regarding  credit  enhancement  /  guarantee  to  the  debt 
+securities issued by infrastructure companies, once operationalized, could give 
+additional boost to the bond market.  
+
+3.17. As for  the  headwinds  which  may  impact  the  growth  of bond markets,  it may  be 
+noted  that  during  the  last  year,  as  a  result  of  various  factors  (including  global 
+factors),  there  has  been  a  hardening  of  G-Sec  yield  by  almost  120-130  bps. 
+Evolving  global  scenarios,  depreciation  of  Rupee,  etc  could  add  further 
+uncertainty  to  the  level  and  direction  of  the  long  term  yields.  This  could  impact 
+the appetite of borrowers to access the bond market. 
+
+4.  Proposal 
+
+Considering  the  above,  the  regulatory  intent  would  be  to  operationalize  the  budget 
+announcement  in  a  manner  which  provides  for  a  light  touch  framework  and  at  the 
+
+ 
+
+Page 6 of 9 
+
+same time provides an appropriate timeframe to the market for smooth  transition to 
+the new framework. Accordingly, following is proposed: 
+
+ 
+
+4.1.  Applicability  of  framework  -  The  framework  shall  be  applicable  to  any 
+corporate (except for scheduled commercial banks), which as on March 31stof an 
+year: 
+
+a)  has an outstanding long term borrowing of Rs 100 crores or above; and 
+
+b)  has a credit rating of "AA and above";and 
+
+c) 
+
+intends  to  finance  itself  with  long-term  borrowings  (i.e.  borrowings  above  1 
+year); and 
+
+d) 
+
+its  securities  (specified  securities  or  debt  securities  or  non-convertible 
+redeemable  preference  share)  listed  in  terms  of  Chapter  IV,  V  or  VI  of 
+SEBI(Listing Obligations and Disclosure Requirements) Regulations, 2015. 
+
+A  corporate  fulfilling  the  above  criteria  will  be  considered  as  a  large  corporate 
+under this framework. 
+
+Subsequent  to  implementation  of  budget  announcement  and  after  making  an 
+assessment  of  the  capacity  of  the  bond  market  to  absorb  even  lower  rated 
+issues,  a  view  would  be  taken  on  reducing  the  threshold  of  rating  in  the  extant 
+framework, from "AA" to "A". 
+
+4.2.  Definition of borrowing: The word "long term borrowing" shall mean borrowings 
+which  have  original  maturity  period  of  1  year  or  above.  Further,  the  same  shall 
+exclude external commercial borrowings and inter-corporate borrowings between 
+a parent and subsidiaries. 
+
+4.3.  Implementation Schedule: The framework is proposed to be implemented with 
+effect from  April  01,  2019  and  the  large  corporate,  which  has  been  identified  in 
+terms  of  criteria  as  mentioned  at  para  4.1  above,  shall  raise  25%  of  its 
+borrowings  (incremental)  for  the following  year  through  bond  market.  For  e.g. a 
+large  corporate  identified  on  March  31,  2019  shall  borrow  atleast  25%  of  its 
+borrowings 
+through  bond  market. 
+Discussions  with  market  participants  and  analysis  of  data  reveals  that  the 
+incremental  shifting  of  corporate  borrowing  to  bond  market  (as  a  result  of  this 
+mandatory requirement), on a yearly basis, would be in the range of 5 to 10 % of 
+the total bond issuances  during a year. It is expected that this  requirement may 
+not be onerous on the corporates, given that implementation of IBC could result 
+in  further  deepening  of  bond  market  by  at  least  5  %  of  GDP  as  brought  out  in 
+
+(incremental)  made 
+
+in  F.Y.  2019-20 
+
+ 
+
+Page 7 of 9 
+
+para  3.15  above  Also, 
+related  budget 
+announcements  and  the  proposed  dispensing  with  the  DRR  requirement  would 
+give additional fillip to this initiative. 
+
+implementation  of  other 
+
+the 
+
+ 
+
+4.4.  Compliance  framework:  The  framework  proposes  a  staggered  compliance 
+
+mechanism, details of which are as under: 
+
+a)  Large  corporate,  covered  under  the  framework  shall  inform  the  stock 
+
+exchanges of the same; 
+
+b)  A “comply or explain” approach would be applicable for the initial two years of 
+implementation.  Thus,  in  case  of  non-fulfillment  of  the  requirement  of  market 
+borrowing, reasons for the same shall be disclosed as part of the “continuous 
+disclosure requirements”; 
+
+c)  From  third  year  of  implementation  i.e.  F.Y. 2021-22,  the  requirement  of  bond 
+borrowings shall be tested for a contiguous block of two years i.e. F.Y. 2021-
+22  and  2022-23  will  be  treated  as  one  block  and  the  requirement  of  25% 
+borrowing  through  bond  market  shall  need  to  be  complied  for  the  sum  of 
+incremental  borrowings  made  across  the  period  of  the  block.  Further,  at  the 
+end  of  block  if  there  is  any  deficiency  in  the  requisite  bond  borrowing,  a 
+monetary penalty in the range of 0.2% to 0.3% of the shortfall shall be levied.  
+
+d)  Subsequent compliance will be tested for each such block of two years i.e. FY 
+2023-24 and 2024-25, F.Y. 2025-26 and 2026-27, etc. in the manner identified 
+above. 
+
+5.  Public comments 
+
+Public  comments  are  invited  on  the  proposed  framework  given  at  Para  4  above.  The 
+comments,  may  be  sent  by  email  or  through  post,  latest  by  August  13,  2018,  in  the 
+following format: 
+
+Details of Responder 
+
+Name1/Organization:  
+
+1if responding in personal capacity 
+
+Contact number: 
+
+Email address: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 8 of 9 
+
+Comments on the proposals as mentioned at Para 4 of the consultation paper 
+
+ 
+
+Sr. No.  Para No. 
+
+Comment/proposed change 
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+ 
+
+While sending email kindly ensure the subject is "Consultation Paper on designing a 
+framework for enhanced market borrowings by large corporates” 
+
+Postal Address:                                                                        Email Address:  
+Ms. Richa G. Agarwal                                                               bonds@sebi.gov.in 
+Deputy General Manager  
+Department of Debt and Hybrid Securities 
+Securities and Exchange Board of India  
+SEBI Bhavan   
+C4-A, G Block  
+Bandra Kurla Complex  
+Mumbai - 400 051  
+Issued on : July 20, 2018 
+
+ 
+
+Page 9 of 9 
+
+

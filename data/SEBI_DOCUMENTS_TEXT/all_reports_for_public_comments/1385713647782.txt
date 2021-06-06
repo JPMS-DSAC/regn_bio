@@ -1,0 +1,2389 @@
+ 
+
+CONSULTATION PAPER ON PROPOSED REGULATION OF RESEARCH 
+
+ANALYSTS  
+
+FOR PUBLIC COMMENTS 
+
+1.  BACK GROUND 
+
+ 
+
+1.1  Principle  no.  23  of  the  New  IOSCO  Objectives  and  Principles  of  Securities 
+Regulation  states  that  the  entities  that  offer  investors  analytical  or  evaluative 
+services  should  be  subject  to  oversight  and  regulation  appropriate  to  the 
+impact their activities have on the market or the degree to which the regulatory 
+system relies on them.  
+
+ 
+
+1.2  SEBI Board in its 138th Board Meeting held on July 28, 2011 had approved a 
+proposal that SEBI may consider the IOSCO principles on analytical services 
+and  may  consider  regulating  research  analysts  in  Indian  securities  market 
+through an exclusive and comprehensive regulation." 
+
+1.3 
+
+1.4 
+
+ 
+
+ 
+
+ 
+
+In response to the increasing worldwide awareness of the analyst conflicts  of 
+interest  issue,  SEBI  has  been  actively  monitoring  local  and  international 
+developments, and studying proposals most suitable for India. 
+
+In designing the appropriate regulatory model to address the issue in India, the 
+International Advisory Board (IAB) of SEBI, in its meeting held on November 3-
+4,  2012  discussed  the  issue  of  regulation  of  research  analysts.  A  view 
+emerged that the analysts  providing services for a fee may be considered for 
+regulation under Investment Advisor Regulations. As far as other analysts are 
+concerned,  it  was  suggested  that,  to  begin  with,  a  separate  code  or  set  of 
+guidelines may be considered.   
+
+1.5  Having 
+
+taken 
+
+IAB  and 
+
+into  account 
+
+the  regulatory 
+developments  globally,  we  are  prima  facie  of  the  view  that  clearer  and  more 
+specific  regulations  for  research  analysts  are  necessary  to  address  the 
+potential and actual conflicts that may exist in the Indian Securities market. 
+
+the  opinions  of 
+
+ 
+
+2.  INTRODUCTION 
+
+ 
+
+2.1 
+
+Timely  and  accurate  information  about  investment  products  is  an  important 
+ingredient for making investment decisions. However, considering the volume 
+and complexity of information it would be difficult for an investor for analyzing 
+and  grasping  the  information.  In  this  context  the  Research  Analysts  play  an 
+important  role.  They  study  Companies  and  industries,  analyze  raw  data,  and 
+make  forecasts  or  recommendations  about  whether  to  buy,  hold  or  sell 
+securities.  They  analyze  information  to  provide  recommendations  about 
+investments  in  securities  to  their  clients.  Investors  often  view  analysts  as 
+
+Page 1 of 33 
+
+ 
+
+ 
+
+ 
+
+experts and important sources of information about the securities they review 
+and often rely on their advice. 
+ 
+ However  such  advice  from  investment  analysts  is  many  times  prone  to 
+conflicts  of  interest  that  may  prevent  them  from  offering  independent  and 
+unbiased  opinions.  Since  the  prime  objective  is  to  protect  investors  and 
+enhance  confidence  in  the  market,  it  is  a  major  concern  of  regulatory 
+authorities  to  identify  and  deal  with  conflicts  of  interest  arising  from  the 
+production and dissemination of research reports. 
+ 
+These conflicts may hamper the neutrality of a research report, which affects 
+the investment decision of investors. If some entity produces biased research 
+report  to  inflate  the  price  artificially,  the  market  at  large  gets  affected. 
+Secondly,  the  quality  of  the  analysis  also  depends  on  market  or  industry 
+experience  of  the  research  analyst.  Hence,  it  may  be  preferable  to  have 
+appropriate  regulations  for  research  analysts  that  will  not  only  ensure  the 
+neutrality of the research reports, but also improve the quality of the report.  
+
+IOSCO  in  its  report  published  in  September  2003  on  'Analyst  Conflicts  of 
+Interest', has pointed out three broad types of analysts, viz. sell-side analysts, 
+buy-side analysts and independent analysts. 
+
+2.2 
+
+2.3 
+
+2.4 
+
+ 
+
+ 
+
+2.4.1  Sell-side  Analysts-  They  typically  publish  research  reports  on  the  securities 
+of  companies  or  industries  that  they  cover.  These  Research  reports  carry 
+specific  recommendations,  such  as  recommendation  to  buy,  hold,  or  sell  the 
+subject  security.  It  also  includes  the  analyst’s  expectation  of  the  future  price 
+performance  of  the  security  (“price  target”).  These  analysts  face  maximum 
+conflicts  of  interest  since  they  often  perform  functions  other  than  producing 
+research  like  working  for  firms  that  provide  investment  banking  services  for 
+corporate clients, including clients whose securities the analysts cover. 
+ 
+
+2.4.2  Buy-side  Analysts-They  generally  work  for  money  managers  like  mutual 
+funds,  hedge  funds,  pension  funds,  or  portfolio  managers  that  purchase  and 
+sell  securities  for  their  own  investment  accounts  or  on  behalf  of  others. 
+Research  reports  of  these  analysts  are  generally  circulated  among  the  top 
+management  of  the  employer  firms  as  these  reports  contain  advice  about 
+which securities to buy, hold or sell. Thus, analyses by these RAs are prone to 
+be aligned with those of the money managers they work for and those of their 
+clients, which may affect the neutrality of their reports. 
+
+ 
+
+2.4.3  Independent  Analysts-  They  work  for  research  originators  or  boutique  firms 
+that are legal entities separate from full-service investment firms and sell their 
+research  to  others  on  a  subscription  or  other  basis.  These  types  of  analysts 
+may  also  at  times  have  an  incentive  to  produce  biased  analysis  for  the 
+
+Page 2 of 33 
+
+ 
+
+ 
+
+ 
+
+covered  company  which  may  be  paying  a  hefty  fee  for  subscription  of 
+Research Report.  
+ 
+
+2.5  Apart  from  these  three  main  categories,  entities  such  as  newspapers  and 
+
+consolidators of information also provide research reports.  
+ 
+
+3.  REGULATORY FRAMEWORK FOR RESEARCH ANALYSTS GLOBALLY. 
+
+ 
+
+3.1 
+
+3.2 
+
+The effort to address potential conflicts of interest affecting the production and 
+dissemination  of  research  by  securities  firms  is  truly  a  global  one,  with 
+regulators  in  almost  all  developed  market  economies  having  proposed  or 
+implemented  new  rules  for  research  related  conflicts  of  interest.  Research 
+analysts  are  regulated  in  a  large  number  of  countries  to  minimise  conflict 
+issues  through  a  combination  of  government  securities  agencies  and/or  self-
+regulatory  organizations.  Generally,  government  agencies  have  broad 
+regulatory authority over market participants, which are often supplemented by 
+oversight by SROs. Government regulators usually oversee SRO rule making 
+and  enforcement.  SROs  impose  rules  on  their  members  and  penalties 
+(including expulsion) for non-compliance. 
+ 
+IOSCO  report  on  addressing  conflicts  of  interest  in  September  2003  has 
+prescribed principles as under: 
+
+ 
+3.2.1  Mechanisms  should  exist  so  that  analysts’  trading  activities  or  financial 
+
+interests do not prejudice their research and recommendations. 
+
+3.2.2  Mechanisms should exist so that analysts’ research and recommendations 
+are not prejudiced by the trading activities or financial interests or business 
+relationships of the firms that employ them.  
+
+3.2.3  Reporting lines for analysts and their compensation arrangements should 
+be structured to eliminate or severely limit actual and potential conflicts of 
+interest. 
+
+3.2.4  Firms that employ analysts should establish written internal procedures or 
+controls to identify and eliminate, manage or disclose actual and potential 
+conflicts of interest on the part of analysts. 
+
+3.2.5  The  undue  influence  of  issuers,  institutional  investors  and  other  outside 
+
+parties upon analysts should be eliminated or managed. 
+
+3.2.6  Disclosures of actual and potential conflicts of interest should be complete, 
+
+timely, clear, concise, specific and prominent. 
+
+3.2.7  Analysts should be held to high integrity standards. 
+3.2.8  Investor  education  should  play  an  important  role  in  managing  analyst 
+
+conflicts of interest. 
+ 
+
+3.3  We  have  also  seen  regulatory  developments  in  other  major  markets.  In  the 
+United  States  of  America  (USA),  the  National  Association  of  Securities 
+Dealers,  Inc.  (“NASD”)  and  the  New  York  Stock  Exchange  (“NYSE”)  issued 
+
+Page 3 of 33 
+
+ 
+
+ 
+
+ 
+
+rules  for  Research  Analysts  and  Research  Reports.  The    Financial  Industry 
+Regulatory  Authority,  Inc.  (‘‘FINRA’’),  the  independent  regulator  for  all 
+securities  firms  doing  business  in  the  United  States  register  and  regulate 
+research analysts as prescribed under NASD Rule 2711 and NYSE Rule 472.  
+ 
+
+3.4  Regulations for research analysts and research related conflicts of interest in 
+
+USA have addressed the following objectives: 
+
+ 
+3.4.1  Ensure that retail investors understand the various conflicts that may affect 
+the  objectivity  of  research  analysts’  views  through  enhanced  disclosure 
+requirements.  
+
+3.4.2  Substantially  reduce  the  opportunities  for  conflicts  through  prescriptive 
+measures  by  (i)  strengthening  existing  “Chinese  walls”  between  research 
+and  business  units  in  integrated  financial  services  firms;  (ii)  regulating 
+analysts’ ability to own and trade equities of the firms that they cover; and 
+(iii)  modifying  the  incentive  structure  in  integrated  financial  services  firms 
+that may encourage the issuance of biased research. 
+
+ 
+
+3.5  Apart from USA, various  other international jurisdictions, i.e.  UK, Hong Kong, 
+etc,  have  detailed  policies  and  procedures  to  deal  with  conflicts  of  interest 
+management,  disclosure  requirements,  etc,  for  dealing  with  issues  related  to 
+regulation of research analysts.  
+
+  
+4.  TYPES  OF  ENTITIES  ENGAGED  IN  PUBLISHING  RESEARCH  REPORTS  IN 
+
+INDIA 
+ 
+
+Large brokerage firms and the merchant/investment-banks provide research in 
+India.  Brokerage  houses  carry  out  research  on  a  particular  company  or  a 
+sector and make "buy" or "sell" recommendations to their clients.  Most of the 
+brokerage  firms  are  active  traders  and  have  proprietary  positions  as  well. 
+Merchant/Investment  banks  provide  research  reports  and  also  manage  IPOs 
+or takeover or buyback  or delisting offers. 
+ 
+Independent 
+ideas  or 
+recommendations  backed  by  fundamental  and  primary  research  to  corporate 
+houses,  professional  money  managers  and  high  net  worth  individuals.  The 
+nature of the reports may vary from firm to firm. 
+
+firms  generally  provide 
+
+research 
+
+investment 
+
+4.1 
+
+4.2 
+
+ 
+
+4.3  Credit  Rating  Agencies(CRAs)  undertake  customized  credit  research  of  a 
+number of borrowers in a credit portfolio, for the use of the lender. CRAs use 
+their understanding of companies' business and operations and their expertise 
+in building frameworks for relative evaluation, which are then applied to arrive 
+at performance grading. 
+
+ 
+
+Page 4 of 33 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.4  Proxy  Advisory  Service  Providers:  Proxy  voting  advisory  firms  also  prepare 
+research reports. Mostly institutional investors take help from third-party proxy 
+advisory firms to vote their proxies in shareholder meetings. These firms offer 
+vote  recommendations  to  institutional  investors  or  to  public  on  a  proposed 
+agenda  item  at  an  annual  general  meeting/extraordinary  general  meeting,  as 
+well  as  management  and  shareholder  proposals  and  also  on  takeover, 
+buyback or delisting offers, etc.   
+ 
+The fund mangers of Alternative Investment Fund(AIF) and Mutual Funds also 
+provide research reports to their unit holders. 
+
+4.5 
+
+ 
+
+4.6  Apart from the above, some research analysts make recommendation through 
+public media during public appearance, such as television, and other print and 
+electronic media, etc. 
+
+ 
+
+5.  EXISTING  PROVISIONS  IN  RELATION  TO  CONFLICT  OF  INTEREST  IN 
+
+INDIA: 
+
+ 
+
+5.1  While there is no specific regulation governing Research Analysts,  there is a 
+provision  in  SEBI  (Prohibition  of  Insider  Trading)  Regulations,  1992,  which 
+says,  "Analysts,  if  any,  employed  with  the  organization  /firm  while  preparing 
+research 
+their 
+shareholdings/interest  in  such  company(s)  to  the  Compliance  Officer  and  the 
+Analysts  who  prepare  research  report  of  listed  company  shall  not  trade  in 
+securities of that company for thirty days from preparation of such report."  
+
+company(s) 
+
+disclose 
+
+client 
+
+reports 
+
+of 
+
+shall 
+
+ 
+
+5.2  Additionally, as per the  Code of Corporate Disclosure Practices for Prevention 
+of Insider Trading,  the following Disclosure / dissemination of Price Sensitive 
+Information  with  special  reference  to  Analysts,  Institutional  Investors  is 
+required  to  be  made  by  listed  companies  while  dealing  with  analysts  and 
+institutional investors with respect to the following issues:- 
+
+ 
+5.2.1  Only  Public  information  to  be  provided:  Listed  companies  shall  provide 
+only  public  information  to  the  analyst/  research  persons/  large  investors 
+like  institutions.  Alternatively,  the  information  given  to  the  analyst  should 
+be simultaneously made public at the earliest. 
+
+5.2.2  Recording  of  discussion: 
+
+to  avoid  misquoting  or 
+misrepresentation, it is desirable that at least two company representatives 
+are  present  at  meetings  with  Analysts,  brokers  or  Institutional  Investors 
+and discussion should preferably be recorded. 
+
+In  order 
+
+5.2.3  Handling  of  unanticipated  questions:  A  listed  company  should  be  careful 
+when  dealing  with  analysts’  questions  that  raise  issues  outside  the 
+intended  scope  of  discussion.  Unanticipated  questions  may  be  taken  on 
+notice and a considered response given later. If the answer includes price 
+
+Page 5 of 33 
+
+ 
+
+ 
+
+ 
+
+sensitive  information,  a  public  announcement  should  be  made  before 
+responding. 
+
+5.2.4  Simultaneous  release  of 
+
+Information:  When  a  company  organises 
+meetings  with  analysts,  the  company  shall  make  a  press  release  or  post 
+relevant  information  on  its  website  after  every  such  meet.  The  company 
+may also consider live webcasting of analysts meets. 
+
+ 
+
+5.3  SEBI  has  mandated  listed  companies  to  disclose  details  of  agreements  with 
+media.  SEBI  amended  equity  listing  agreement  adding  clause  53  and  54  to 
+ensure  that  the  listed  entities  disclose    details    of    agreements    like  private 
+treaties on  their  websites  and  also  notify  the  stock exchange of the same 
+for  public  dissemination.  It  has  also  been  mandated  that  they  maintain  a 
+functional  website  that  contains  certain  basic  information  about  them,  duly 
+updated for all statutory filings, including agreements entered into with media 
+companies, if any.  
+ 
+
+5.5 
+
+5.4  SEBI  has  also  vide  circular  dated  November  18,  2013  issued  guidelines  on 
+compliance  with  the  provisions  of  Equity  Listing  Agreement  by  listed 
+companies and Monitoring of the same by Stock Exchanges.   
+  
+In addition to the above, there are codes of conduct for market participants to 
+prevent  misuse  of  inside  information.  The  Model  Code  of  Conduct  for 
+Prevention  of  Insider  Trading  has  several  clauses  to  ensure  that  inside 
+information  is  not  used  in  trading  activities.  To  prevent  the  misuse  of 
+confidential information,  the organisation/firm is required to adopt a "Chinese 
+Wall"  policy  which  separates  those  areas  of  the  organisation/firm  which 
+routinely  have  access  to  confidential  information,  considered  "inside  areas" 
+from those areas which deal with sale/ marketing/ investment advice or other 
+departments providing support services, considered "public areas". 
+ 
+Though  issues  relating  to  conflict  of  interest  in  securities  industry  are  being 
+addressed  through  the  SEBI  prescribed  code  of  conduct  for  intermediaries, 
+regulations  on  insider  trading  and  regulations  on  fraudulent  and  unfair  trade 
+practices, there is no guideline to identify and deal with conflict of interests by 
+research  analysts,  who  are  not  registered  and  regulated  by  SEBI  at  present. 
+The  absence  of  an  exclusive  and  comprehensive  regulation  to  deal  with 
+conflict  of  interests  by  research  analysts  pose  regulatory  gaps  in  the 
+management  and  mitigation  of  possible  conflicts  of  interest  that  may  arise  in 
+their activities in securities market.  
+ 
+
+5.6 
+
+5.7  Disclosures or disclaimers by the research firms vary widely as presently there 
+is no specific rule for the same. There is scope of conflict of interest between 
+the  covered  company  and  the  research  firms.  There  is  need  to  have 
+mechanisms  to  ensure  that  business  relationship  of  an  intermediary  or 
+financial  or 
+intermediary  or 
+
+research  analyst  or 
+
+interest  of 
+
+trading 
+
+Page 6 of 33 
+
+ 
+
+ 
+
+ 
+
+compensation arrangement of research analyst, etc do not prejudice research 
+report  or 
+their  recommendations.  Hence,  a  comprehensive  regulatory 
+framework  may  be  required  to  address  conflicts  of  interest  and  to  minimize 
+market  malpractices  so  that  at  the  end  of  the  day,  impartiality  in  research 
+reports is largely ensured. 
+
+ 
+
+6.  STRUCTURE OF THE PROPOSED REGULATIONS:  
+
+ 
+
+6.1  A  regulatory  framework  is  required  to  ensure  impartial  report,  to  address 
+conflict  of  interest,  to  improve  governance  standards,  to  minimize  market 
+malpractices  etc.  Accordingly  a  draft  SEBI  (Research  Analyst)  Regulation 
+2013 is being proposed which is attached with this concept paper. These draft 
+regulations  set  forth  requirements  to  foster  objectivity  and  transparency  in 
+security  research  and  provide  investors  with  more  reliable  and  useful 
+information to make investment decisions.  
+ 
+The draft regulations intends to register and regulate: 
+
+6.2 
+
+6.3 
+
+6.4 
+
+6.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i. 
+ii. 
+
+iii. 
+
+independent research analysts,  
+intermediaries  that  employ  research  analysts  and  issues  research 
+reports 
+research analysts giving recommendations in the public media such as 
+television channels, newspapers, etc.  
+
+In  case  of  any  entity  incorporated  outside  India  willing  to  provide  research 
+services  in  respect  of  Indian  Companies,  they  have  to  set  up  a  subsidiary  in 
+India and make an application for registration through that subsidiary.  
+
+Investment Advisers, Asset Management Companies, Proxy Advisory Service 
+providers  and  fund  managers  of  Alternative  Investment  Funds  providing 
+research  services  to  their  unit  holders  shall  not  be  required  to  be  registered 
+under these regulations. However, if they or their employees or directors make 
+commentaries  or  recommendations  through  the  public  media  are  required  to 
+comply with chapter III of the draft Regulations. 
+
+The draft Regulations are intended to regulate research analysts. This requires 
+clear,  comprehensive  and  prominent  disclosure  of  conflicts  of  interest  in 
+research  reports  and  public  appearances  by  research  analysts  including 
+limitations  of  dealings, 
+etc.  The 
+recommendations of IOSCO as contained in its report as referred in Para 3.2 
+and  Principle  no.  23  of  IOSCO  principles  as  referred  in  Para  1.1  has  been 
+suitably incorporated in the draft regulations. 
+
+compensation, 
+
+restrictions 
+
+on 
+
+ 
+
+Page 7 of 33 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.  WAY FORWARD 
+
+ 
+In  the  light  of  the  above  background,  SEBI  proposes  to  register  and  regulate 
+research  analysts  on  the  lines  of  the  proposed  draft  SEBI  (Research  Analyst) 
+Regulations, 2013, enclosed with this consultation paper.  
+ 
+
+8.  PUBLIC COMMENTS 
+
+intermediaries  and 
+
+ 
+Public  comments  are  invited  on  the  draft  regulations.  All  comments  from  the 
+Public will be considered before the proposals are finalized. The Purpose of this 
+consultation  paper  is  to  seek  views  of  market  participants  and  other  interested 
+parties on the proposed regulatory framework that intends to regulate Research 
+Analysts, 
+in 
+preparation  of  Research  Report  and  giving  opinion  and  recommendations 
+concerning a security.  
+ 
+to  Mr. 
+The  comments 
+T.Venkateshwarlu, Assistant General Manager (venkateshwarlut@sebi.gov.in) or 
+may  be  sent  to  the  following  address,  latest  by  December  21,  2013  in  the 
+following format:  
+ 
+
+independent  entities  who  are  engaged 
+
+/  suggestions  on 
+
+this  paper  may  be  emailed 
+
+Sr. No.  Name   Pertains to which regulation/sub-
+
+regulation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+          Your letter(s) can be addressed to: 
+
+    
+
+Proposed/  
+suggested 
+changes 
+ 
+
+Rationale  
+
+ 
+
+Ms. Barnali Mukherjee  
+General Manager, 
+Investment Management Department - Division of Funds- 1, 
+Securities and Exchange Board of India, 
+SEBI Bhavan, Plot No. C4-A, "G" Block, 
+Bandra Kurla Complex, Bandra (East), 
+Mumbai 400 051 (India). 
+ 
+ 
+Issued on: November 29, 2013  
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Page 8 of 33 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+DRAFT 
+
+SEBI (RESEARCH ANALYST) REGULATIONS, 2013 
+
+In exercise of powers conferred by section 30 of SEBI Act read with clause (b) of sub-section (2) 
+of section 12, the Board hereby makes the following regulations, namely; 
+
+CHAPTER I 
+
+PRELIMINARY 
+
+Short title and commencement. 
+
+1.  These  regulations  may  be  called  the  Securities  and  Exchange  Board  of        India 
+
+(Research Analyst) Regulations, 2013. 
+(1) These  regulations  shall  come  into  force  on  the  date  of  their  publication  in  the 
+
+Official Gazette. 
+
+Definitions. 
+
+2. 
+
+In these regulations, unless the context otherwise requires, the terms defined 
+(1) 
+herein  shall  bear  the  meanings  assigned  to  them  below,  and  their  cognate 
+expressions shall be construed accordingly,–   
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+ “Act”  means  the  Securities  and  Exchange  Board  of  India  Act,  1992  (15  of 
+1992); 
+
+"asset management company" means a company as defined under clause(d) 
+of Regulation 2 of SEBI( Mutual Funds) Regulations, 1996. 
+
+"Board"  means  the  Securities  and  Exchange  Board  of  India  established 
+under section 3 of the Act; 
+
+“body  corporate”  shall  have    the  meaning  assigned  to  it  in  or  under  sub-
+section (11) of section 2 of the Companies Act, 2013; 
+
+“certificate”  means  a  certificate  of  registration  granted  under 
+regulations; 
+
+these 
+
+(f) 
+
+“change in control” in relation to a company or  a body corporate, means:  
+
+(i)  if  its  shares  are  listed  on  any  recognized  stock  exchange,  change  in 
+control within the meaning of clause (e) of sub-regulation (1) of regulation 2 
+of  the  Securities  and  Exchange  Board  of  India  (Substantial  Acquisition  of 
+Shares and Takeovers) Regulations, 2011;  
+
+ 
+
+Page 9 of 33 
+
+ 
+
+(ii) in  any  other  case,  change  in  the  controlling  interest  or  change  in  legal 
+
+form.  
+
+Explanation.─  For  the  purpose  of  sub-clause  (ii),  the  expression  “controlling 
+interest”  means  an  interest,  whether  direct  or  indirect,  to  the  extent  of  more  than 
+fifty percent of voting rights or interest;  
+
+(g) 
+
+“company” means a company incorporated under the Companies Act, 2013; 
+
+(h) 
+
+(i) 
+
+(j) 
+
+(k) 
+
+"fund  manager"  includes  fund  mangers  of  a  mutual  fund  or  alternative 
+investment fund. 
+
+"independent third-party research report” means a third-party research report, 
+in respect of which the person  producing the report: 
+
+(i) 
+
+has  no  affiliation  or  business  or  contractual  relationship  with  the 
+distributing 
+is 
+reasonably likely to inform the content of its research reports; and 
+
+intermediary’s  affiliates 
+
+that 
+
+intermediary  or 
+
+that 
+
+(ii)  makes  content  determinations  without  any  input  from  the  distributing 
+
+intermediary  or that intermediary’s affiliates. 
+
+“inspecting  authority”  means  any  one  or  more  persons  appointed  by  the 
+Board  to exercise powers conferred under regulation 26; 
+
+'intermediary’  means  a  person  as  mentioned  in  clause  (b)  and  (ba)  of  sub-
+section  (2)  of  section  11  of  the  SEBI  Act,  1992  who  are  also  engaged  in 
+activity  of  research  analyst  or  issues  any  research  report  or  employs  any 
+research analyst. 
+
+(l) 
+
+"investment  adviser"  means  any  person  registered  under  SEBI(Investment 
+Advisers) Regulations, 2013. 
+
+(m)   “limited  liability  partnership”  means  a  partnership  formed  and  registered 
+
+under The Limited Liability Partnership Act, 2008(6 of  2009); 
+
+(n) 
+
+(o) 
+
+(p) 
+
+(q) 
+
+“merchant/investment  banking  or  brokerage  services”  includes  a  person, 
+acting  as  an  underwriter  or  participating  in  a  selling  or  an  offering  for  the 
+issuer or otherwise acting in furtherance of a public offer of the issuer; acting 
+as  a  financial  adviser  in  a  merger    or  acquisition;  providing  or  arranging 
+venture capital or equity or debt lines of credit or serving as placement agent 
+for  the  issuer  or  otherwise  acting  in  furtherance  of  a  private  offering  of  the 
+issuer or offering brokerage or market making services. 
+
+“NBFC”  means  a  Non-Banking  Financial  Company  regulated  by  Reserve 
+Bank of India; 
+
+“NISM”  means  the  National Institute of Securities  Market  established by  the  
+Board; 
+
+"proxy  advisory  service  provider"  means  any  person  who  provides  research 
+for  proxy  rating  or  provides  research  on  offers,  opinion  concerning  a  public 
+offer or provides research or opinion to make informed decisions. 
+
+Page 10 of 33 
+
+ 
+
+ 
+
+ 
+
+(r) 
+
+(s) 
+
+(t) 
+
+(u) 
+
+“public  appearance”  means  any  participation  in  a  conference  call,  seminar, 
+forum  (including  an  interactive  electronic  forum)  or  other  public  speaking  
+activity or before one or more representatives of the media, a radio, television 
+or  print  media  interview,  or  the  writing  of  a  print  media  article,  in  which  a 
+research analyst makes a recommendation or offers an opinion concerning a 
+security.   
+Provided that it does not include a password protected Webcast, conference call or 
+similar event with existing clients, if all of the event participants previously received 
+the most current research report or other documentation that contains the required 
+applicable disclosures, and that the research analyst appearing at the event corrects 
+and  updates  during  the  public  appearance  any  disclosures  in  the  research  report 
+that are inaccurate, misleading or no longer applicable. 
+
+“public  media”  means  any  media  source  available  to  the  general  public  and 
+includes a radio, television or print media.  
+
+"public  offer"  includes  initial  public  offer,  offer  for  sale,  disinvestment, 
+takeover, buyback or delisting of securities. 
+
+“research  analyst”    means  a  person  or  his  associate  who  prepares  and/or 
+publishes research report or the substance of research report or who makes 
+a  recommendation  or  offers  an  opinion  concerning  public  offer  or  provides 
+research report or opinion or recommendation concerning securities  that are 
+listed or to be listed and are  traded or to be traded in a stock exchange and 
+includes:- 
+
+(i) 
+
+(ii) 
+
+an independent research analyst; 
+
+an intermediary that employs any research analyst; and 
+
+(iii) 
+
+an intermediary that issues any research report. 
+
+(v) 
+
+“research report” means any written (including electronic) communication that 
+includes  result  of  investment  analysis  of  securities  or  research  or  opinion 
+concerning    participation  in  a  public  offer  and  provides  information  having 
+reasonably  sufficient  base for  investment decision  and  does not  include  the 
+following communications:-  
+
+(i) 
+
+(ii) 
+
+(iii) 
+
+(iv) 
+
+general trends in the securities market; 
+
+discussions on the broad-based indices; 
+
+commentaries on economic, political or market conditions; 
+
+periodic reports or other communications prepared for unit holders  of 
+Mutual  Fund  or  Alternative  Investment  Fund  or  clients  of  Portfolio 
+Managers and Investment Advisers. 
+
+(v) 
+
+internal  communications  that  are  not  given  to  current  or  prospective 
+clients; and 
+
+Page 11 of 33 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(vi) 
+
+communications that constitute offer documents or prospectus that are 
+circulated under a specific regulation. 
+
+(w)  “research  department”  means  any  department  or  division,  whether  or  not 
+identified as such, that is principally responsible for preparing the substance 
+of a research report.  
+
+(x) 
+
+(y) 
+
+(z) 
+
+"securities"  means  securities  as  defined  in  clause  (h)  of  section  2  of  the 
+Securities Contracts (Regulation) Act, 1956. 
+
+ “subject company” means the company whose securities are the subject of a 
+research report or a public appearance. 
+
+"stock  exchange"  “  means  a  stock  exchange  which  is  recognised  under 
+section 4 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956); 
+
+(aa)   “third-party research report” means a research report that is produced by a 
+
+person  or entity other than the intermediary. 
+
+ 
+
+(2)The  words  and  expressions  used  and  not  defined  in  these  regulations  but 
+defined in the Act, the Securities Contracts (Regulation) Act, 1956 (42 of 1956), the 
+Companies Act, 2013, or any rules or regulations made thereunder shall have the 
+same meanings  respectively  assigned  to  them  in  those  Acts,  rules  or  regulations 
+made  thereunder  or  any  statutory  modification  or  re-enactment  thereto,  as  the 
+case may be. 
+
+ 
+
+CHAPTER II 
+
+REGISTRATION OF RESEARCH ANALYSTS 
+
+3.  Application for grant of certificate. 
+
+(1)  On and from the commencement of these regulations, no person shall act as an      
+
+Research  Analyst  or  hold  itself  out  as  a  Research  Analyst  unless  he  has 
+obtained a   certificate of registration from the Board under these regulations: 
+
+Provided  that  the  Investment  Advisers,  Asset  Management  Companies,  Proxy 
+Advisory Service providers and fund managers of Alternative Investment Funds  
+shall not be required to be registered under these regulations.  
+
+Provided further that the Investment Advisers, Asset Management Companies, 
+Proxy Advisory Service Providers and fund managers of Alternative Investment 
+Funds or their employees or directors  who make public  appearance or appear 
+in public media for giving opinion or recommendations on security or  on public 
+offers or whose research report is circulated or distributed  to public or general 
+investors shall comply with Chapter III of these Regulations. 
+
+(2)  An application for grant of certificate of registration shall be made in Form A as 
+specified  in  the  First  Schedule  to  these  regulations  and  shall  be  accompanied 
+
+ 
+
+Page 12 of 33 
+
+ 
+
+ 
+
+by  a  non-refundable  application  fee  to  be  paid  in  the  manner  specified  in 
+Second Schedule.  
+
+4.  Furnishing of further information, clarification and personal representation. 
+
+(1)  The Board may require the applicant to furnish further information or clarification 
+for the purpose of consideration of the application filed under sub-regulation (2) 
+of regulation 3. 
+
+(2)  The  applicant  or  his  authorised  representative,  if  so  required,  shall  appear 
+
+before the Board for personal representation. 
+
+5.  Consideration of application and eligibility criteria.  
+
+For  the  purpose  of  the  grant  of  certificate  the  Board  shall  take  into  account  all 
+matters which are relevant to the grant of certificate of registration and in particular 
+the following, namely:- 
+
+(i)  whether the applicant is an individual or a body corporate or a firm; 
+
+(ii)  whether in case the applicant is an individual, he is appropriately qualified and 
+
+certified as specified in regulation 6;  
+
+(iii) whether in case the applicant is a body corporate, all the representatives of the 
+applicant who provide research analysis are appropriately qualified and certified 
+as specified in regulation 6; 
+
+(iv) whether  in  case  the  applicant  is  a  firm  or  a  limited  liability  partnership,  all 
+partners who fall under definition of research analyst are qualified and certified 
+as specified in regulation 6.  
+
+(v) whether the applicant fulfills the capital adequacy requirements as specified in 
+
+regulation 7;  
+
+(vi) whether  the  applicant,  its  representatives  and  partners,  if  any,    are  fit  and 
+proper  persons  based  on  the  criteria  as  specified  in  Schedule  II  of  the 
+Securities and Exchange Board of India (Intermediaries) Regulations, 2008; 
+
+(vii) whether the applicant has the necessary infrastructure to effectively discharge 
+
+the activities of Research Analyst; 
+
+(viii) whether  the  applicant  or  any  person  directly  or  indirectly  connected  with  the 
+applicant  has  in  the  past  been  refused  certificate  by  the  Board  and  if  so,  the 
+grounds for such refusal;  
+
+(ix) whether  any  disciplinary  action  has  been  taken  by  the  Board  or  any  other 
+regulatory  authority  against  any  person  directly  or  indirectly  connected  to  the 
+applicant under the respective Act, rules or regulations made thereunder;  
+
+(x) In  case  an  entity  incorporated  outside  India  providing  research  report  or 
+engaged  in  research activity  under these  regulations,  whether,  it has  set up a 
+subsidiary  in  India  and  whether  such  subsidiary  has  made  the  application  for 
+registration; 
+
+ 
+
+Page 13 of 33 
+
+ 
+
+ 
+
+(xi) In  case  a  foreign  citizen  proposes  to  provide  research  report  or  engaged  in 
+research activity in respect of securities listed or proposed to be listed in India, 
+whether  the  applicant  has  set  up  an  office  in  India  and  proposes  to  provide 
+research services through such office. 
+
+6.  Qualification and certification requirement. 
+
+(1)  An  individual  registered  as  a  research  analyst  under  these  regulations  and 
+partners  and  representatives  of  a 
+these 
+regulations  offering  research  analysis  services  in  securities  shall  have  the 
+following minimum qualifications, at all times: 
+
+intermediary  registered  under 
+
+(i)  A professional qualification or post-graduate degree or post graduate diploma 
+in  finance,  accountancy,  business  management,  commerce,  economics, 
+capital market, banking, insurance or actuarial science provided by: 
+(a) a  University  which  is  recognized  by  University  Grants  Commission  or  by 
+any  other  Commission/Council/Board/Body  established  under  an  Act  of 
+Parliament in India for the purpose or 
+
+(b) an institute/association affiliated with such University; or 
+(c) an institute/ Association/University established by the Central government 
+
+or State government in India; or 
+
+(d) autonomous  institutes  falling  under  administrative  control  of  Government 
+
+of India; or 
+
+(ii)  professional  qualification  or  post-graduate  degree  or  post  graduate  diploma 
+which  is  accredited  by  All  Indian  Council  for  Technical  Education,  National 
+Assessment and Accreditation Council or National Board of Accreditation or 
+any other Council/Board/Body set up under an Act of Parliament in India for 
+the purpose; or 
+
+(iii)  professional  qualification/post-graduate  degree/post  graduate  diploma 
+provided  by  a  university/  institution  /association  which  is  recognized/ 
+accredited    by  a  foreign  government  or  recognized/  accredited  by  any 
+corporate/  institute  which  has  been  created/recognized  by    such  foreign 
+government for the purpose; or 
+
+(iv)  A  graduate  in  any  discipline  with  an  experience  of  at  least  eight  years  in 
+activities  relating  to  financial  products  or  securities  or  fund  or  asset  or 
+portfolio management.  
+
+(2)  An individual registered as a research analyst and partners and representatives 
+of  intermediary  registered  under  these  regulations    shall  have,  at  all  times,  a 
+NISM Certification Examination for Research Analysts as specified by the Board 
+or other certification recognized by the Board from time to time.   
+
+Provided  that  the  existing  Research  Analysts  seeking  registration  under  these 
+regulations  shall  ensure  that  their  partners  and  representatives  obtain  such 
+certification  within  two  years  from  the  date  of  commencement  of  these 
+regulations:  
+
+ 
+
+Page 14 of 33 
+
+ 
+
+ 
+
+Provided  further  that  fresh  certification  must  be  obtained  before  expiry  of  the 
+validity  of  the  existing  certification  to  ensure  continuity  in  compliance  with 
+certification requirements.  
+
+7.  Capital adequacy. 
+
+(1)  Research Analysts which are body corporates shall have a net worth of not less 
+
+than fifty lakh rupees. 
+
+Explanation.─  For  the  purposes  of  this  regulation,  "networth"  means  the 
+aggregate value of paid up share capital plus free reserves (excluding reserves 
+created  out  of  revaluation)  reduced  by  the  aggregate  value  of  accumulated 
+losses. 
+
+(2)  Research  Analysts  who  are  individuals  or  partnership  firms  shall  have  net 
+
+tangible assets of value not less than rupees five lakh:  
+
+Provided that existing Research Analyst shall comply with the capital adequacy 
+requirement  within  one  year  from  the  date  of  commencement  of  these 
+regulations.  
+
+8.  Grant of certificate of registration. 
+
+The Board on being satisfied that the applicant complies with the requirements specified in 
+regulation 6 and 7 shall send intimation to the applicant and on receipt of the payment of 
+registration/renewal fees as specified in Second Schedule, grant certificate of registration 
+in Form B under First Schedule, subject to such terms and conditions as the Board may 
+deem fit and appropriate. 
+
+9.  Period of validity of certificate. 
+
+The certificate of registration granted under regulation 8 shall be valid for a period 
+of five years from the date of its issue. 
+
+10.  Renewal of certificate. 
+
+(1)  Three  months  before  the  expiry  of  the  period  of  validity  of  the  certificate,  the 
+research analyst may, if he so desires, make an application in Form A for grant 
+of renewal of certificate of registration. 
+
+(2)  The  application  for  renewal  under  sub-regulation  (1)  shall  be  dealt  with  in  the 
+same  manner  as  if  it  were  an  application  made  under  sub-regulation  (2)  of 
+regulation 3 for grant of certificate.  
+
+11.  Procedure where registration is refused. 
+
+(1)  After considering an application made under regulation 3, if the Board is of the 
+opinion that a certificate should not be granted to the applicant, it may reject the 
+application after giving the applicant a reasonable opportunity of being heard. 
+
+(2)  The decision of the Board to reject the application shall be communicated to the 
+
+applicant within thirty days of such decision. 
+
+ 
+
+Page 15 of 33 
+
+ 
+
+ 
+
+(3)  Where  an  application  for  a  certificate  is  rejected  by  the  Board,  the  applicant 
+
+shall forthwith cease to act as a research analyst. 
+
+Provided that nothing contained in this regulation shall affect the liability of the 
+applicant towards its existing clients under law. 
+
+12.  Conditions of certificate. 
+
+The  certificate  granted  under  regulation  8  shall,  inter  alia,  be  subject  to  the 
+following conditions:-   
+
+(i)  the research analyst or intermediary shall abide by the provisions of the Act and 
+
+these regulations;  
+
+(ii)  the research analyst or intermediary  shall forthwith inform the Board in writing, 
+if any information or particulars previously submitted to the Board are found to 
+be  false  or  misleading  in  any  material  particular  or  if  there  is  any  material 
+change in the information already submitted; 
+
+(iii) individuals registered as research analysts shall use the term ‘research analyst’ 
+
+in all their correspondences with their clients. 
+
+13.  Recognition of body or body corporate for regulation of Research Analysts.   
+
+(1)  The  Board  may  recognize  any  body  or  body  corporate  for  the  purpose  of 
+
+regulating Research Analysts. 
+
+(2)  The  Board  may,  at  the  time  of  recognition  of  such  body  or  body  corporate, 
+delegate  administration  and  supervision  of  research  analysts  to  such  body  or 
+body corporate on such terms and conditions as may be specified by the Board.  
+(3)  The Board may specify that no person shall act as research analyst unless he is 
+a member of a recognized body or body corporate and in such event, provisions 
+of  these  regulations  and  byelaws  or  articles  of  such  body  or  body  corporate 
+shall apply mutatis mutandis to such research analyst. 
+
+ 
+
+CHAPTER III 
+
+CONFLICT AVOIDANCE AND DISCLOSURES 
+
+14.  Establishing Policies and Procedures  
+
+(1) Research Analyst or the intermediary  shall establish, maintain written policies 
+and  control  procedures  governing  the  dealing  and  trading  by  any  research 
+analyst  with  a  view  to  eliminating  ,  avoiding,  managing  or  disclosing  actual  or 
+potential conflicts of interest arising from such dealings or trading.   
+
+(2) The  policies  and  procedures  under  sub  regulation  (1)  shall  be  reasonably 
+designed to promote objective and reliable research that reflects the truly held 
+opinions  of  research  analysts  and  to  prevent  the  use  of  research  reports  or 
+research analysts to manipulate or condition the market or favour the interests 
+of  the  Research  Analyst  or  intermediary  or  certain  current  or  prospective 
+clients. 
+
+ 
+
+Page 16 of 33 
+
+ 
+
+ 
+
+(3) Policies  and  procedures  referred  to  in  sub  regulation  (1)  shall  prohibit  pre-
+publication  of  research  reports  by  other  than  the  persons  engaged  in 
+preparation of research report. 
+
+15.  Limitations on dealings by Research  Analysts 
+
+(1) Research  Analyst  or  the  intermediary  shall  not  deal  in  or  trade  any  securities 
+that  the  research  analyst  recommends  or follows  within  30  days  before  and 5 
+days after the publication of a research report on the subject company or in a 
+manner contrary to the recommendation. 
+
+(2) Research Analyst  or the intermediary shall not publish or recommend security 
+of  a  subject  company  wherein  the  Research  Analyst  or  the  intermediary  had 
+dealt in or traded the concerned securities within previous 30 days.  
+
+(3) Research  Analyst  or  the  intermediary  shall  not  purchase  or  receive  any 
+securities before the issuer's initial public offering or further offering if the issuer 
+is  principally  engaged  in  the  same  types  of  business  as  companies  that  the 
+research analyst follows. 
+
+Provided  that  Research  Analyst  or  the  intermediary  shall  deal  in  or  trade  in 
+such securities only in exceptional circumstances as specified in its policies and 
+procedures. 
+
+16.  Restrictions on Research  Analyst Compensation 
+
+(1) Research Analyst or the intermediary shall ensure that the compensation of the 
+is  neither  determined  nor  based  on  any  specific 
+
+research  analysts 
+merchant/investment banking or brokerage transactions; 
+
+(2) The  compensation  of  a  research  analyst  shall  be  reviewed,  documented  and 
+approved  annually  by    the  board  of  directors,  or  if  no  board  of  directors,  by  a 
+chief executive officer.   
+
+(3) Research  Analyst  or  the  intermediary  shall  not  subject  to  the  supervision  or 
+control  of  any  employee  of  the  merchant/  investment  banking  department  or 
+brokerage  house,  and  no  personnel  engaged  in  merchant/investment  banking 
+or  brokerage  activities  may  have  any 
+the 
+compensatory evaluation of a research analyst. 
+
+influence  or  control  over 
+
+(4) Research  Analyst  or  the  intermediary  shall  not  receive  pay  bonus,  salary  or 
+other form  of  compensation  that  is  linked  to  any  specific  merchant/investment 
+banking transaction. 
+
+(5) Research  Analyst  or  the  intermediary  shall  not  directly  or  indirectly  offer 
+favourable research to a company or in respect of a security or public offer as 
+consideration or inducement for the receipt of business or compensation. 
+
+17.  Limitations  on  Publication  of  Research  Reports  and  Restrictions  on  Public 
+
+Appearances by Research Analyst:- 
+
+ 
+
+Page 17 of 33 
+
+ 
+
+ 
+
+(1) Research Analyst or the intermediary shall not submit a research report to the 
+
+subject company before its publication. 
+
+Provided that some sections of such a research report may be submitted to the 
+subject  company  before  its  publication  for  review  as  necessary  only  to  verify 
+the factual accuracy of information in those sections. 
+
+(2) Research  Analyst  or  the  intermediary  shall  notify  one  day  prior  whenever  he 
+
+intends to change the recommendation on the subject company's securities. 
+
+(3) Research Analyst or the intermediary shall not issue research reports and shall 
+not  make  public  appearance  regarding  a  subject  company  for  which  he  acted 
+as  a  merchant  banker,  underwriter,  lead  manager,  dealer  in  a  initial  public 
+offering for a period of 50 days from the date of completion of such offering or 
+for 10 days for a secondary offering.  
+
+(4) Research  Analyst  or  the  intermediary  shall  not  directly  or  indirectly  solicit 
+merchant/investment  banking  business  with  prospective  clients,  or  share  any 
+communications with the companies.  
+
+(5) Research  Analyst  or  the  intermediary  shall  be  prohibited  from  directly  or 
+indirectly  participating  in  a  road  show  related  to  merchant/investment  banking 
+services transaction.  
+
+(6) Research  Analyst  or  the  intermediary  shall  not  engage  in  any  communication 
+with  a  current  or  prospective  client  in  the  presence  of    merchant/investment 
+banking  personnel  or  company  management  about  the  merchant/investment 
+banking services transaction.  
+
+(7) Research Analyst or the intermediary shall not engage in sales or marketing  of  
+merchant/investment  banking  services  transaction  including  engaging  in  any 
+communication with a current or prospective clients about the same. 
+
+18.  Content in Research Reports 
+
+(1) Research  Analyst  or  an  intermediary  shall  ensure facts  in  its  research  reports 
+are  based  on  reliable  information  and    shall  define  the  terms  used  in  making 
+recommendations, and these terms should be consistently used. 
+
+(2) Research Analyst or an intermediary that employs a rating system must clearly 
+define  in  each  research  report  the  meaning  of  each  rating  in  the  system, 
+including the time horizon and any benchmarks on which a rating is based. 
+
+(3) If  a  research  report  contains  either  a  rating  or  price  target  for  a  subject 
+company’s security, and the Research Analyst or intermediary has assigned a 
+rating  or  price  target  to  the  security  for  at  least  one  year,  the  research  report 
+must include the graph of security’s daily closing prices for the period assigned 
+or for a three-year period, whichever  is shorter. 
+
+ 
+
+ 
+
+ 
+
+Page 18 of 33 
+
+ 
+
+ 
+
+19.  Disclosures in Research Reports 
+
+(1) Research  Analyst  or  an  intermediary  shall  disclose  in  the  research  report  the 
+valuation  methods  used  to  determine  the  price  target,  if  any,    that  has  a 
+reasonable basis and shall be accompanied by a disclosure concerning the risk 
+that may impede achievement of the price target. 
+
+(2) Research  Analyst  or  an  intermediary  that  makes  market  in  a  securities  in 
+
+respect of a subject company, the fact shall be disclosed. 
+
+(3) Research Analyst or an intermediary shall disclose: 
+
+(i)  if  the  research  analyst  or  a  intermediary  of  the  research  analyst’s  close 
+relative  has  a  financial  interest  in  the  debt  or  equity  securities  of  the 
+subject company, and the nature of such interest; 
+
+(ii)  if  the  research  analyst  or  a  intermediary  or  its  employees  serves  as  an 
+
+officer of the subject company 
+
+(iii) if the research analyst or any affiliate received compensation based  upon 
+
+the intermediary’s other activities  revenues in the previous 12 months; 
+
+(iv) if,  the  subject  company  currently  is,  or  during  the  12-month  period 
+preceding  the  date  of  publication  or  distribution  of  the  research  report, 
+was, a client of the intermediary; 
+
+(v) if  a  research  analyst  or  an  intermediary  has  managed  or  co-managed  a 
+public offering  or any takeover, buyback or delisting offer  of securities for 
+the subject company in the past 12 months and/or received compensation 
+for investment banking or brokerage services  from the subject company in 
+the past 12 months;  
+
+(vi) if  a  research  analyst  or  an  intermediary  expects  to  receive  or  intends  to 
+seek compensation for investment banking or brokerage services from the 
+subject company in the next three months; 
+
+(vii)  If a research analyst or an intermediary has  any financial interest in the 
+debt  or  equity  securities  of  the  subject  Company  and  such  interests 
+aggregate to an amount equal to or more than 1% of the equity securities 
+of the subject Company; 
+
+(viii) any  other  material  conflict  of  interest  of  the  research  analyst  or 
+intermediary  that  the  research  analyst  or  an  associated  person    of  the 
+intermediary  with  the  ability  to  influence  the  content  of  a  research  report 
+knows or has reason to know at the time of the publication or distribution 
+of a research report. 
+
+(4) All the disclosures under these regulation shall be made by a research analyst 
+
+or an intermediary in public appearance. 
+
+(5) Research Analyst or an intermediary shall not be required to make a disclosure 
+to  the  extent  such  disclosure  would  reveal  material  non-public  information 
+regarding specific potential investment banking or brokerage transactions of the 
+subject company. 
+
+ 
+
+Page 19 of 33 
+
+ 
+
+ 
+
+(6) Research  Analyst  or  an  intermediary  shall  not  be  held  responsible,  if  relevant 
+disclosures  have  been  made  and  their  report  is  published  or  reproduced  in 
+whole or in part in the public media without the relevant disclosures. 
+
+20.  Recommendations in public media  
+
+(1) All the provisions of regulation 14 to 19 mutatis mutandis shall apply to 
+Research  Analyst  or  an  intermediary  or  an  asset  management 
+company  or  fund  manger  of  Alternative  Investment  Fund,  Proxy 
+Advisory Service Providers or their employees or directors who  makes 
+commentaries  or  recommendations  concerning  securities  or  public 
+offers through public media:- 
+(i)  When they provide analyses or comments in public media in their personal 
+capacity, they shall disclose their name, their registration status if any, and 
+the details of financial interest if any, at the time of provision of analyses or 
+comments. 
+
+(ii)  When  they  respond  in  personal  capacity  to  queries  from  audiences  and 
+
+journalists 
+
+(i)  When they communicate the research report or substance of the research 
+
+report through the public media. 
+
+21. 
+
+ Distribution of  Research Reports 
+
+(1) A  research  report  shall  not  be  distributed  selectively  to  internal  trading 
+personnel or a particular client or class of clients in advance of other clients that 
+are entitled to receive the research report. 
+
+(2) Research Analyst or an intermediary distributing any third-party research report 
+shall  establish  written  policies  and  procedures  reasonably  designed  to  ensure 
+the completeness and accuracy of all applicable disclosures. 
+
+(3) An  intermediary’s  obligation  to  review  a  third-party  research  report  extends  to 
+any  untrue  statement  of  material  fact  or  any  false  or  misleading  information 
+that: 
+
+(i)  should be known from reading  the report; or 
+(ii)  is  known  based  on 
+
+information  otherwise  possessed  by 
+
+the    
+
+intermediary. 
+
+(4) An  intermediary  which  distributes  any  third  party  research  report,  shall 
+accompany  the  third-party  research  report  it  distributes,  or  provide  a  web 
+address that directs a recipient to, disclosure of any material conflict of interest 
+that can reasonably be expected to have influenced the choice of a third party 
+research provider or the subject company of a third-party research report. 
+
+(5) An intermediary shall not be required to follow provisions of sub regulation (1) 
+to (3) of regulation 21 and not required to review a third-party research report if 
+such research report is an independent third-party research report. 
+
+ 
+
+ 
+
+ 
+
+Page 20 of 33 
+
+ 
+
+ 
+
+22.  Termination of Coverage 
+
+(1) Research Analyst or an intermediary shall promptly notify its clients if it intends 
+
+to terminate coverage of a subject company.  
+
+(2) The  notice  under  sub regulation  (1)  shall  be  accompanied  by  a  final  research 
+report, comparable in scope and detail to prior research reports, and include a 
+final recommendation or rating.   
+
+(3) If  impracticable  to  provide  a  final  research  report,  recommendation  or  rating, 
+Research Analyst  or an intermediary shall disclose to its clients, its reason for 
+terminating coverage. 
+
+ 
+
+23.  General responsibility. 
+
+CHAPTER IV 
+
+GENERAL OBLIGATION 
+
+(1) Research  Analyst  or  an  intermediary  shall  act  in  a  fiduciary  capacity 
+towards  its  clients  and  shall  disclose  all  conflicts  of  interests  as  and 
+when they arise on and suitably address the same. 
+
+(2) Research  Analyst  or  an  intermediary  shall  maintain  an  arms-length 
+relationship between its research activity and other activities which may 
+impair its neutrality in respect of activity as Research Analyst. 
+
+(3) Research Analyst or an intermediary shall abide by Code of Conduct as 
+
+specified in Third Schedule. 
+
+(4)  In  case  of  change  in  control  of  the  Research  Analyst  or  an 
+
+intermediary, prior approval from the Board shall be taken.  
+
+(5) Research  Analyst  or  an  intermediary  shall  furnish  to  the  Board 
+information and reports as may be specified by the Board from time to 
+time. 
+
+(6) It shall be the responsibility of the Research Analyst or an intermediary 
+to ensure that its employees or  partners, preparing research report as 
+applicable,  comply  with  the  certification  and  qualification  requirements 
+under Regulation 6 at all times. 
+
+24.  Maintenance of records. 
+
+(1)  Research  Analyst  or  an  intermediary  shall  maintain  the  following 
+
+records,- 
+
+(i)  Research Report prepared; 
+
+(ii)  Research recommendation provided, whether written or oral; 
+
+(iii) Rationale for arriving at research recommendation; 
+
+(iv) Record of Public appearances. 
+
+(2)  All  records  shall  be  maintained  either  in  physical  or  electronic  form   
+
+and preserved for a minimum period of five years: 
+Provided  that  where  records  are  required  to  be  duly  signed  and  are      
+maintained in electronic form, such records shall be digitally signed. 
+
+ 
+
+Page 21 of 33 
+
+ 
+
+ 
+
+(3) Research  Analyst  shall  conduct  yearly  audit  in  respect  of  compliance 
+with these regulations from practicing member of Institute of Chartered 
+Accountants of India or Institute of Company Secretaries of India. 
+
+25.  Appointment of compliance officer. 
+
+Research  Analyst  or  an  intermediary  which  is  a  body  corporate  or  a  partnership 
+firm shall appoint a compliance officer who shall be responsible for monitoring the 
+compliance  by  the  Research  Analyst  in  respect  of  the  requirements  of  the  Act, 
+regulations, notifications, guidelines, instructions issued by the Board.  
+
+ 
+
+CHAPTER V 
+
+INSPECTION 
+
+26.  Board’s right to inspect.  
+
+The Board may suo motu or upon receipt of information or complaint appoint one 
+or  more  persons  as  inspecting  authority  to  undertake  inspection  of  the  books  of 
+accounts, records and documents relating to Research Analyst or an intermediary 
+for any of the following reasons, namely: -   
+
+(i)  to  ensure  that  the  books  of  account,  records  and  documents  are  being 
+maintained  by  the  Research  Analyst  in  the  manner  specified  in  these 
+regulations;   
+
+(ii)  to inspect into complaints received from clients or any other person, on any 
+
+matter having a bearing on the activities of the Research Analyst;   
+
+(iii) to  ascertain  whether  the  provisions  of  the  Act  and  these  regulations  are 
+
+being complied with by the Research Analyst;   
+
+(iv) to  inspect  into  the  affairs  of  Research  Analyst,  in  the  interest  of  the 
+
+securities market or in the interest of investors. 
+
+27.  Notice before inspection.  
+
+(1) Before ordering an inspection under regulation 26, the Board shall give 
+not  less  than  seven  days  notice  to  the    Research  Analyst  or  an 
+intermediary.   
+
+(2) Notwithstanding  anything  contained  in  sub-regulation  (1),  where  the 
+Board  is  satisfied  that  in  the  interest  of  the  investors  no  such  notice 
+should be given, it may by an order in writing direct that the inspection 
+of the affairs of the  Research Analyst or an intermediary   be taken up 
+without such notice.   
+
+(3) During  the  course  of  an  inspection,  the  Research  Analyst  or  an 
+intermediary against whom the inspection is being carried out shall be 
+bound to discharge its obligations as provided in regulation 28.   
+ 
+
+ 
+
+Page 22 of 33 
+
+ 
+
+ 
+
+28.  Obligation of Research Analyst on inspection.  
+
+(1) It  shall  be  the  duty  of  every  Research  Analyst  or  an  intermediary  in 
+respect of whom an inspection has been ordered under the regulation 
+26  and  any  other  associate  person  who  is  in  possession  of  relevant 
+information pertaining to conduct and affairs of such Research Analyst 
+including representative of Research Analyst, if any, to produce to the 
+inspecting  authority  such  books, accounts and  other documents  in  his 
+custody  or  control  and 
+furnish  him  with  such  statements  and 
+information as the inspecting authority may require for the purposes of 
+inspection.   
+
+(2) It shall be the duty of every  Research Analyst or an intermediary  and 
+any other associate person who is in possession of relevant information 
+pertaining to conduct and affairs of the research analyst to give to the 
+inspecting  authority  all  such  assistance  and  shall  extend  all  such  co-
+operation  as  may  be  required  in  connection  with  the  inspection  and 
+shall  furnish  such  information  as  sought  by  the  inspecting  authority  in 
+connection with the inspection.   
+
+(3) The  inspecting  authority  shall,  for  the  purposes  of  inspection,  have 
+power to examine on oath and record the statement of any employees, 
+directors,  partners  or  person  responsible  for  or  connected  with  the 
+activities of Research Analyst or an intermediary or any other associate 
+person having relevant information pertaining to such research analyst. 
+(4) The  inspecting  authority  shall,  for  the  purposes  of  inspection,  have 
+power to obtain authenticated copies of documents, books, accounts of 
+Research Analyst or an intermediary, from any person having control or 
+custody of such documents, books or accounts. 
+
+29.  Submission of report to the Board. 
+
+The inspecting authority shall, as soon as possible, on completion of the inspection 
+submit an inspection report to the Board: 
+Provided that if directed to do so by the Board, the inspecting authority may submit 
+an interim report.   
+
+30.  Action on the inspection report. 
+
+The  Board  may  after  consideration  of  the  inspection  report  and  after  giving 
+reasonable  opportunity  of  hearing  to  the  Research  Analyst  or  its  authorized 
+representatives,  without  prejudice  to  any  other  action  under  the  Act,  issue  such 
+directions  as  it  deems  fit  in  the  interest  of  securities  market  or  the  investors 
+including,-  
+
+(i)  requiring  Research  Analyst  or  an  intermediary  not  to  provide  research 
+
+recommendation for a particular period;  
+
+(ii)  requiring  the  Research  Analyst  or  an  intermediary  to  refund  any  money  
+collected as fees, charges or commissions or otherwise  to the concerned 
+clients along with the requisite interest. 
+
+ 
+
+Page 23 of 33 
+
+ 
+
+ 
+
+(iii) prohibiting the Research Analyst or an intermediary  from operating in the 
+
+capital market or accessing the capital market for a specified period.  
+
+CHAPTER VI 
+
+PROCEDURE FOR ACTION IN CASE OF DEFAULT 
+
+31.  Liability for action in case of default. 
+
+Research Analyst who - 
+
+(i)  contravenes any of the provisions of the Act or any regulations or circulars 
+
+issued thereunder; 
+
+(ii)  fails to furnish any information relating to its activity as a research analyst 
+
+as required by the Board; 
+
+(iii) furnishes  to  the  Board  information  which  is  false  or  misleading  in  any 
+
+material particular; 
+
+(iv) does not submit periodic returns or reports as required by the Board; 
+
+(v) does not co-operate in any enquiry, inspection or investigation conducted 
+
+by the Board; 
+
+(vi) fails to resolve the complaints of clients or fails to give a satisfactory reply 
+to  the  Board  in  this  behalf,  shall  be  dealt  with  in  the  manner  provided 
+under  the  Act  or    the  Securities  and  Exchange  Board  of  India 
+(Intermediaries) Regulations, 2008.  
+
+CHAPTER VII 
+
+MISCELLANEOUS 
+
+32.  Power of the Board to issue clarifications etc. 
+
+In  order  to  remove  any  difficulties  in  the  application  or  interpretation  of  these 
+regulations,  the  Board  may  issue  clarifications  and  guidelines  in  the  form  of 
+circulars. 
+
+33.  Power of the Board over body or body corporate recognized under Regulation 
+
+13. 
+
+The  Board  reserves  the  right  to  alter,  modify  and  overrule  any  decision,  action 
+taken  or  penalties  imposed  by  the  body  or  body  corporate  recognized  under 
+regulation 13. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 24 of 33 
+
+ 
+
+ 
+
+FIRST SCHEDULE 
+
+FORM A 
+
+Securities and Exchange Board of India 
+
+(Research Analyst) Regulations, 2013 
+
+[See Regulations 3(2) and 10] 
+
+Application for Grant of Certificate of Registration/Renewal  as Research Analyst 
+
+Securities and Exchange Board of India  
+
+SEBI Bhavan, C4-A, G Block, Bandra Kurla Complex, Bandra (East),  Mumbai 400051 - India 
+
+ 
+
+INSTRUCTIONS 
+
+1.  This form is meant for use by the applicant for grant of certificate of registration as 
+
+an Research Analyst. 
+
+2.  The  applicant  should  complete  this  form,  and  submit  it,  along  with  all  supporting 
+
+documents to the Board at its head office at Mumbai. 
+
+3.  This application form should be filled in accordance with these regulations. 
+
+4.  The  application  shall  be  considered  by  the  Board  provided  it  is  complete  in  all 
+
+respects. 
+
+5.  All  answers  must  be  legible  and  all  the  pages  must  be  numbered  with  signature/ 
+
+stamp on each page of the form. 
+
+6.  Information  which  needs  to  be  supplied  in  more  detail  may  be  given  on  separate 
+sheets  which  should  be  attached  to  the  application  form  and  appropriately 
+numbered. 
+
+7.  The application must be signed. 
+
+8.  The  application  must  be  accompanied  by  an  application  fee  as  specified  in  the 
+
+Second Schedule to these regulations. 
+
+1.  GENERAL INFORMATION 
+
+(a) Name,  address  of  the  registered  office,  address  for  correspondence  and 
+principal  place  of  business,  telephone  number(s),  fax  number(s),  e-mail 
+address of the applicant.  
+
+ 
+
+Page 25 of 33 
+
+ 
+
+ 
+
+(b) Whether application is for registration/ renewal. Provide registration number if 
+
+the application is for renewal of certificate. 
+
+(c) Name, direct line number, mobile number and e-mail of the contact person(s). 
+
+(d) Legal  structure  of  applicant  -  Whether  the  applicant  is  an  individual,  body 
+corporate (including company), partnership firm or limited liability partnership.  
+
+(e) Whether the applicant is a bank /NBFC. 
+
+(f)  Date  and  place  of  incorporation/  establishment,  if  any.  If  the  applicant  is 
+
+incorporated outside India, details of such incorporation. 
+
+(g) Whether  the  applicant  is  engaged  in  research  activity  prior  to  making 
+
+application under these regulations.  
+
+(h) Whether  the  applicant  is  registered  with  SEBI,  RBI,  IRDA  or  PFRDA  in  any 
+
+capacity. If so, details of such registration. 
+
+(i)  Write-up on the activities of the applicant.  
+
+ 
+
+2.  DETAILS  OF  APPLICANT  (Provide  details  of  only  the  section  applicable  to 
+
+you) 
+I. In case applicant is an individual: 
+
+1.  Whether the applicant has: 
+
+diploma 
+
+in 
+
+a.  A  professional  qualification  or  post-graduate  degree  or  post 
+business 
+graduate 
+management,  commerce,  economics,  capital  market,  banking, 
+insurance  or  actuarial  science  from  a  university  or  an  institution 
+recognized by the Central Government or any State Government 
+or a recognised foreign university or institution or association; or  
+
+accountancy, 
+
+finance, 
+
+b.  A  graduate  in  any  discipline  with  an  experience  of  at  least  five 
+years  in  activities  relating  to  research  analysis,  fund or  asset  or 
+portfolio  management,  rating,  investment  banking  or  brokerage 
+services ; 
+
+(Provide self certified copies of supporting documents). 
+
+2.  Copy of certification obtained in accordance with regulation 6(2).  
+
+(If  the  applicant  is  a  existing  research  analyst  applying  for  fresh 
+registration,  then  provide  a  declaration  stating  that  it  shall  obtain  such 
+certification within two years from the date  of commencement of these 
+regulations and submit a copy of the certification to the Board within 15 
+days of receipt of such certification.) 
+
+3.  Number  of  employees  of  the  applicant,  if  any,  who  shall  engage  in 
+research  analysis  under  these  regulations  on  behalf  of  the  applicant. 
+Provide  documents  as  mentioned  in  points  (1)  to  (2)  above  for  such 
+employees/ agents. 
+
+4.  Enclose identity proof and address proof of the applicant. 
+
+ 
+
+Page 26 of 33 
+
+ 
+
+5.  Details  of  ownership/directorship  of  the  applicant  in  any  companies  or 
+
+partnership interest in any firm or limited liability partnership. 
+
+6.  Copy of Income Tax Return/ Copy of Form 16 for the last 3 years. 
+7.  Copy of assets and liabilities statement and certification of net tangible 
+assets  certified  by  a  chartered  accountant  (not  more  than  six  months 
+old  at  the  time  of  filing  of  application).  Please  note  that  membership 
+number of the Chartered accountant must be included in the certificate,  
+ 
+
+II. In case applicant is a company: 
+
+1.  Shareholding pattern and profile of the directors (Enclose identity proof 
+
+and address proof of the directors). 
+
+2.  Number of employees and agents of the applicant (hereinafter referred 
+to  as  ‘representatives’)  who  shall  engage  in  research  analysis  under 
+these regulations on behalf of the applicant.  
+
+3.  Declaration  by  the  applicant  that  its  representatives  currently  comply 
+with  the  certification  and  qualification  requirements  under  regulation  6. 
+(If  the  applicant  is  an  existing  research  analyst  applying  for  fresh 
+registration,  then  provide  a  declaration  stating  that  the  applicant  shall 
+ensure  that  all  its  representatives  obtain  such  certification  within  two 
+years from the date of commencement of these regulations and after all 
+its  representatives  obtain  the  certification,  a  declaration  to  that  effect 
+shall be submitted to SEBI.) 
+
+4.  Declaration by the applicant that it shall ensure that its representatives 
+comply  with  the  certification  and  qualification  requirements  under 
+Regulation 6 at all times.  
+
+5.  List  of  associated  companies  registered  with  SEBI,  RBI,  IRDA  or 
+
+PFRDA along with the registration number. 
+
+6.  If  applicant  is  a  bank  or  NBFC,  then  copy  of  approval  from  RBI  for 
+
+undertaking research activity. 
+
+7.  Net  worth  certificate  by  a  chartered  accountant,  not  more  than  six 
+months  old.  Please  note  that  membership  number  of  the  chartered 
+accountant must be included in the certificate, 
+
+  
+
+III. In case applicant is a partnership firm or a limited liability partnership: 
+
+1.  Names  and  Beneficial  ownership  pattern  of 
+
+the  partners 
+engaged/proposed  to  engage  in  research  analysis  (Enclose  identity 
+proof and address proof of the partners). 
+ 
+
+2.  Whether the aforesaid partners have: 
+
+a.  A  professional  qualification  or  post-graduate  degree  or  post 
+graduate 
+business 
+management,  commerce,  economics,  capital  market,  banking, 
+insurance  or  actuarial  science  from  a  university  or  an  institution 
+
+accountancy, 
+
+finance, 
+
+diploma 
+
+in 
+
+Page 27 of 33 
+
+ 
+
+ 
+
+ 
+
+recognized by the Central Government or any State Government 
+or a recognised foreign university or institution or association; or  
+
+b.  A  graduate  in  any  discipline  with  an  experience  of  at  least  five 
+years in activities relating to research analysis or fund or asset or 
+portfolio management, rating or investment banking or brokerage 
+services ; 
+
+(Provide self certified copies of supporting documents). 
+ 
+
+3.  Copy  of  certification  obtained  by  the  aforesaid  partners  in  accordance 
+
+with regulation 6(2).  
+(If  the  applicant  is  an  existing  research  analyst  applying  for  fresh 
+registration,  then  provide  a  declaration  stating  that  all  the  partners 
+engaged  in  research  analysis  shall  obtain  such  certification  within  two 
+years from the date of commencement of these regulations and after all 
+such partners obtain the certification, a declaration to that effect shall be 
+submitted to SEBI.) 
+ 
+
+4.  Declaration  that  the  aforesaid  partners  shall  obtain  fresh  certification 
+before  expiry  of  the  validity  of  the  existing  certification  to  ensure 
+continuity in compliance with certification requirements.  
+ 
+
+5.  Copy of assets and liabilities statement and certification of net tangible 
+assets  of  the  partnership  firm  certified  by  a  chartered  accountant  (not 
+more  than  six  months  old  at  the  time  of  filing  of  application).  Please 
+note  that  membership  number  of  the  chartered  accountant  must  be 
+included in the certificate. 
+
+ 
+IV.  In  case  applicant  is  a  body  corporate  (other  than  company  or  limited 
+liability partnership): 
+
+1.  Shareholding pattern and profile of the directors (Enclose identity proof 
+
+and address proof of the directors). 
+
+2.  Whether  the  applicant  is  set  up  or  established  under  the  laws  of  the 
+Central  or  State  Legislature  and  whether  the  applicant  is  permitted  to 
+carry on of the activity of a research analyst (Enclose relevant extract of 
+the relevant Statute/Act). 
+
+3.  Number  of  employees  of  the  applicant  (hereinafter  referred  to  as 
+‘representatives’)  who  are  engaged/  propose  to  engage  in  research 
+analysis under these regulations on behalf of the applicant.  
+
+4.  Declaration  by  the  applicant  that  its  representatives  currently  comply 
+with  the  certification  and  qualification  requirements  under  regulation  6. 
+(If  the  applicant  is  an  existing  research  analyst  applying  for  fresh 
+registration,  then  provide  a  declaration  stating  that  the  applicant  shall 
+ensure  that  all  its  representatives  obtain  such  certification  within  two 
+years from the date of commencement of these regulations and after all 
+
+Page 28 of 33 
+
+ 
+
+ 
+
+ 
+
+ 
+
+its  representatives  obtain  the  certification,  a  declaration  to  that  effect 
+shall be submitted to SEBI.) 
+
+5.  Declaration by the applicant that it shall ensure that its representatives 
+comply  with  the  certification  and  qualification  requirements  under 
+regulation 6 at all times.  
+
+6.  Net  worth  certificate  by  a  chartered  accountant,  not  more  than  six 
+months  old.  Please  note  that  membership  number  of  the  chartered 
+accountant must be included in the certificate. 
+
+3.  DETAILS OF INFRASTRUCTURE  
+
+1.  Details  of  office  space,  office  equipment,  furniture  and  fixtures, 
+communication  facilities,  research  capacity,  research  software  for 
+undertaking research analysis. 
+
+2.  Declaration  that  the  applicant  has  the  necessary  infrastructure  to 
+
+effectively discharge the activities of research analyst. 
+ 
+
+4.  OTHER INFORMATION/DECLARATIONS/ REGULATORY ACTIONS 
+
+ 
+
+(a)  Details of all settled and pending disputes in the last 5 years. 
+(b)  Whether any previous application for grant of certificate made by any person directly or 
+indirectly connected with the applicant has been rejected by the Board; If yes,  provide 
+details of the same. 
+
+(c)  Whether  any  disciplinary  action  has  been  taken  by  the  Board  or  any  other  regulatory 
+authority against any person directly or indirectly connected with the applicant under the 
+Act or the regulations made there under in the last 5 years. If yes, provide details of the 
+action. 
+
+(d)  Whether the applicant/directors/promoters/ partners have been indicted/involved in any 
+
+economic offence in the last 5 years. If yes, provide details of the same. 
+
+(e)  A  credit  report/  score  from  CIBIL  for  the  applicant.(For  applicants  other  than  financial 
+
+institutions & banking companies) 
+
+(f)  Declaration that the applicant, its representatives and partners, if any, are fit and proper 
+persons based on the criteria as specified in Schedule II of the Securities and Exchange 
+Board of India (Intermediaries) Regulations, 2008; 
+
+(g)  Declaration  that  the  applicant  shall  comply  with  Regulation  14  with  respect  to  the 
+
+provisions pertaining to identifying and managing conflict of interest; 
+
+(h)  Declaration  that  the  applicant  shall  comply  with  Regulation  15  and  16  with  respect  to 
+
+the disclosures to be made in the research reports and public appearances; 
+
+(i)  Declaration  that  the  applicant  shall  adhere  to  the  responsibilities  prescribed  in 
+
+Regulation 20; and 
+
+(j)  Any  other  information  considered  relevant  to  the  nature  of services  to  be  rendered  by 
+
+the applicant. 
+
+ 
+
+5.  DECLARATION STATEMENT  
+
+I/We  hereby  agree  and  declare  that  the  information  supplied  in  the  application, 
+including the attachment sheets, is complete and true. 
+
+ 
+
+Page 29 of 33 
+
+ 
+
+ 
+
+AND I/ we further agree that, I/we shall notify the Securities and Exchange Board of 
+India immediately any change in the information provided in the application. 
+I/ We further agree that I/ we shall comply with, and be bound by the Securities and 
+Exchange Board of India Act, 1992, and the Securities and Exchange Board of India 
+(research analyst) Regulations, 2013, guidelines/instructions as may be announced 
+by the Securities and Exchange Board of India from time to time. 
+I/  We  further  agree  that  as  a  condition  of  registration,  I/  we  shall  abide  by  such 
+operational instructions/directives as may be issued by the Securities and Exchange 
+Board of India from time to time. 
+ 
+
+For and on behalf of____________________________________________________ 
+
+(Name of the applicant) 
+
+Authorized signatory/ Applicant 
+
+(Signature) 
+
+(Date and Place) 
+
+ 
+
+Form B 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India (Research Analyst) Regulations, 2013 
+
+[See Regulation 8] 
+
+ 
+
+Certificate of registration as Research Analyst 
+
+I.  In  exercise  of  the  powers  conferred  by  sub-section  (1)  of  section  12  of  the  Securities  and 
+Exchange  Board  of  India  Act,  1992  (15  of  1992), read  with  the regulations  made there  under, 
+the 
+to 
+___________________________________________________  as  a  research  analyst  subject 
+to the conditions specified in the Act and in the regulations made thereunder. 
+
+registration 
+
+certificate 
+
+of 
+
+Board 
+
+hereby 
+
+grants 
+
+a 
+
+ 
+
+Page 30 of 33 
+
+ 
+
+ 
+
+ 
+
+II. The Registration Number of the investment adviser is IN/RA/_____________. 
+
+ 
+
+III. Unless renewed, the certificate of registration is valid from ________ to _________. 
+
+ 
+
+ 
+
+Date : 
+
+ 
+
+Place : MUMBAI 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By Order 
+
+ 
+
+Sd/- 
+
+For and on behalf of  
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 31 of 33 
+
+ 
+
+SECOND SCHEDULE  
+
+Securities and Exchange Board of India (Research Analyst) Regulations, 2013 
+
+[Regulation 3(2) and Regulation 8] 
+
+ 
+
+FEES 
+
+ 
+
+1.  Every  applicant  shall  pay  non-refundable  application  fees  of  fifty  thousand 
+rupees  along  with  the  application  for  grant  or  renewal  of  certificate  of 
+registration. 
+ 
+
+2.  Applicants which are individuals and firms shall pay a sum of one lakh rupees 
+as registration/ renewal fee at the time of grant or renewal of certificate by the 
+Board. 
+ 
+
+3.  A body corporate shall pay a sum of five lakh rupees as registration/ renewal 
+
+fee at the time of grant or renewal of certificate by the Board. 
+ 
+
+4.  The  fee  referred  to  in  paragraph  1,  2  and  3  shall  be  paid  by  the  applicant 
+within fifteen days from the date of receipt of intimation from the Board by a 
+demand draft in favor of 'Securities and Exchange Board of India' payable at 
+Mumbai. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 32 of 33 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THIRD SCHEDULE 
+
+[See sub-regulation (3) of regulation 23] 
+
+CODE OF CONDUCT FOR RESEARCH ANALYST 
+
+1.  Honesty and fairness 
+
+Research Analyst shall act honestly, fairly and in the best interests of its clients 
+and in the integrity of the market. 
+
+2.  Diligence 
+
+Research Analyst shall act with due skill, care and diligence in the best interests 
+of its clients and shall ensure that the research report is prepared after thorough 
+analysis. 
+
+3.  Conflicts of Interest 
+
+Research  Analyst  or  intermediary  shall  avoid,  manage  conflict  and  make 
+disclosure of conflicts or suitably address the same. 
+
+4.  Insider Trading or front running 
+
+The  Research  Analyst  or  intermediary  or  employees  of  intermediary    shall  not 
+engage  in  insider  trading  or  front  running  or  front  running  of  its  own  research 
+report. 
+
+5.  Confidentiality 
+
+ Research Analyst or intermediary or its employees shall maintain confidentiality 
+of report till the report is made public. 
+
+6.  Professional Standard 
+
+ The  Research  Analyst  or  the  staff  of  the  intermediary  engaged  in  research 
+analysis  shall  observe  high  professional  standard  while  preparing  research 
+report. 
+
+7.    Compliance 
+
+Research  Analyst  including  its  employees  shall  comply  with  all  regulatory 
+requirements applicable to the conduct of its business activities so as to promote 
+the best interests of clients and the integrity of the market. 
+
+8.  Responsibility of senior management 
+
+The  senior  management  of  a  body  corporate  which  is  registered  as  Research 
+Analyst  shall  bear  primary  responsibility  for  ensuring  the  maintenance  of 
+appropriate  standards  of  conduct  and  adherence  to  proper  procedures  by  the 
+body corporate.  
+
+ 
+
+ 
+
+Page 33 of 33 
+
+ 
+
+ 
+
+

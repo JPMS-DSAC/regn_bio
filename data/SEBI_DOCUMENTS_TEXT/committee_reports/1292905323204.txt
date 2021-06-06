@@ -1,0 +1,1124 @@
+Preface
+
+1.  SEBI has been receiving several representations from investors regarding the
+high cost of operating in a demat environment. There is also a perception in
+certain  quarters  that  small  investors  are  being  overcharged  and  that  the
+charges  are  beyond  the  capacity  of  certain  class  of  investors.  In  order  to
+examine these  issues  in  the  light  of  various  research  reports,  press articles
+and representations made to SEBI, SEBI had set up an internal group.
+
+2.  The report of the group is placed below for public comments.
+
+3.  The  comments,  if any,  on this  report may  please  be forwarded  to  Shri  V.S.
+Sundaresan,  Deputy  General  Manager,  SEBI  or  may  be  emailed  to  Ms.
+Sangeeta Uchil at sangeetau@sebi.gov.in  on or before February 20, 2004.
+
+Page 1 of 18
+
+Report of the Group
+
+on
+
+Reduction of Demat Charges
+
+Page 2 of 18
+
+Page
+No.
+4
+5
+5
+5-6
+6
+
+7
+7-8
+8-9
+9-13
+13-14
+
+14
+
+15-16
+
+17
+
+S.No.
+
+I
+II
+III
+
+Abbreviations
+Background and Terms of Reference
+Issues Identified for Study
+Pre demat era (under paper based share certificate environment )
+Structure and Collection method of charges under paper based
+share safe keeping and transfer mechanism.
+Post-trade activities
+Early period of demat
+Charges under the present method FFS
+Analysis and Discussion
+
+IV
+V
+VI
+VII
+VIII Recommendations
+IX
+
+Assumptions
+
+I
+II
+
+List of Companies that had made One Time Payment to NSDL
+Details of Reports and Information Referred to
+
+Annexures
+
+Index
+
+Contents
+
+Page 3 of 18
+
+BSE
+CDSL
+DoT
+DPs
+DTCC
+FFS
+ISIN
+MCS Ltd
+MFs
+NSDL
+ROI
+RTA
+SEBI
+SHCIL
+UK
+USA
+WAN
+
+Abbreviation
+
+The Stock Exchange, Mumbai
+Central Depository Services Limited
+Department of Telecommunications
+Depository Participants
+Depository Trust and Clearing Corporation
+Flat Fee Structure
+International Securities Identification Number
+MCS Limited
+Mutual Funds
+National Securities Depository Limited
+Return on Investment
+Registrar and Transfer Agent
+Securities and Exchange Board of India
+Stock Holding Corporation of India Limited
+United Kingdom
+United State of America
+Wide Area Network
+
+Page 4 of 18
+
+Background and Terms of Reference
+
+Ever since Depositories changed the method of charging depository participants
+on transactions, from the earlier method of ad valorem to flat fee structure (FFS),
+there  has  been  a  perception  in  certain  quarters  that  small  investors  are
+overcharged.  Further, it has been felt that the charges are beyond the bearable
+capacity  sometimes for  certain  class  of  investors  and  thus  it  was  reported  that
+small investors have been driven away from the Indian equity market. In the light
+of various research reports, press articles and representations made to SEBI, it
+has been decided to examine the issue.
+
+I. Issues Identified for the Study
+
+The  group 
+recommendations
+
+identified 
+
+the 
+
+following  major 
+
+issues 
+
+for  discussion  and
+
+a)  Whether small investor is over  charged  on  account  of  shift  in  method  of
+charging?  Is  the  present  method  and  procedure  of  charges  justified?  Is
+there any better alternative?
+
+b)  What were the charges under paper based share certificate environment?
+
+Who bore the burden and who benefited?
+
+c)  How  demat  charges  were  levied  and  collected  in  the  early  stages  of
+
+d)  Need for shifting to the present system (FFS).
+e)  Explore  who  benefited  (savings)  on  account  of  changes  in  post-trade
+
+demat?
+
+activities.
+
+f)  How to reduce the burden on small investor? and
+g)  Any other matter.
+
+II. Pre-demat era (under paper based share certificate environment)
+
+The investors can be broadly classified into two groups on the basis of process of
+acquiring equity shares, viz. investors who get allotment of shares in the primary
+market and investors who purchase shares from the recognised stock exchanges
+(secondary market).  Some of the risks involved in dealing with physical shares
+through  public  issue  allotment  and  secondary  market  transactions  can  be
+identified as follows:
+
+-  Share  certificates  are  sometimes  lost  in  transit.  In  that  scenario,  the
+investors have to give an indemnity bond  to  Company,  which  involves  a
+cost  to  the  investor,  besides  depriving  him  of  the  opportunity  to  sell  the
+shares at the opportune time.
+
+-  Time  taken  to  receive  the  shares  is  also  quite  long  compared  to  the
+
+present dematerialised environment.
+
+Page 5 of 18
+
+-  Secondary  market  operations  were  fraught  with  bad  paper  due  to
+signature differences, forged and fake certificates, stolen certificates and
+delayed transfer resulting in low confidence in the market place.
+
+In public issues, Companies were / are incurring several costs in distributing the
+share certificates to the investors.  They are as follows:
+
+-  Printing  of  share  certificates  (@  about  Rs  1.00  per  certificate),  RTA
+handling charges (@ about Rs 5.50 per folio), actual cost of dispatching
+by registered post and other expenses.
+
+In case of investors purchasing the shares from the secondary market, there are
+certain costs incurred by the companies.  After the shares are transferred into the
+investor’s name, the expenses on corporate benefits distribution will be same for
+all shareholders owning the shares in physical form.  These issues are discussed
+in the following paras.
+
+III.  Structure  and  Collection  method  of  charges  under  paper  based  share
+safe-keeping and transfer mechanism.
+
+Under  this  method  companies  used  to  incur  all  expenses  pertinent  to  share
+transfer  in  the  name  of  the  buyer.    These  could  be  classified  into  two  broad
+categories on the basis their nature:
+
+(a) Variable expenses
+
+Share Transfer
+
+(i) 
+(ii)  Maintenance of folio records.
+(iii)  Custody of physical shares, etc.,
+(iv)  Dividend and other corporate actions
+
+           (b) Event Specific Expenses
+
+(i) 
+(ii) 
+
+Issue of duplicate certificates
+Adhoc reports, etc.
+
+Individual  investor/Institutional  investor  was  required  to  pay  0.5  percent  of
+purchase  value  of  share  as  stamp  duty  under  physical  environment  which  has
+been totally removed under demat conditions.  Further, issues pertaining to bad
+paper like,  signature  difference, fake  or forged  certificate, etc. besides  delay  in
+transfer, are  eliminated and  thus  investor  is  a  direct  beneficiary.  The  price  risk
+faced  by  the  investor  has  also  been  eliminated.    As  per  some  unofficial
+estimates, the cost related to  the  bad paper  was  to  the  extent  of  about  20  per
+cent of the market value of shares. Currently this figure is estimated to be almost
+nil.
+
+Page 6 of 18
+
+IV. Post-trade activities
+
+The post trade activities of the stock exchanges are handled by their respective
+Clearing  house/corporation. 
+the  Clearing
+house/corporation incurred several expenses on various heads as follows:
+
+the  physical  environment, 
+
+In 
+
+ 
+
+-  Physical space required to collect share certificates
+-  Sorting them with respect to receiving member.
+-  Safekeeping  of 
+house/corporation.
+Insurance costs.
+
+share 
+
+certificates  delivered  at 
+
+the  Clearing
+
+- 
+-  Huge human costs incurred for executing pay-in and pay-out activities.
+-  Transportation  costs  incurred  in  movement  of  physical  share  certificates
+
+from one metro to other metro for pay-in and pay-out.
+
+On the basis of informal discussion, it can be stated that there is drastic reduction
+in cost of pay-in and pay-out facility. A part of it might have been passed on to
+brokers/ dealers of the stock exchanges.  Further, as it has been observed in the
+study  of  M.T.  Raju  (2000),  the brokerage fell  significantly  during  this  period  for
+high  networth  investors.    For  small  investor,  the  fall  in  the  brokerage  is  not
+proportional even though there is a decline in the brokerage.
+
+V. Early period of demat
+
+The regulator, SEBI, had played a significant role in nurturing the promotion and
+growth  of  dematerialization  for  the  benefit  of  all  investors  and  for  the  cause  of
+developing efficient securities market in India.
+
+During the initial period, the depositories used to collect transaction charges as
+well as custodial charges on ‘ad valorem’ basis.   This is directly related to the
+value of securities bought or sold and held in custody.  Higher values attracted
+higher  fees  and  vice-versa.    There  was  a  feeling  under  this  system  that  the
+payment by the high networth investors and institutions was disproportionate to
+services received by them.  In the demat environment, to a large extent, services
+rendered  are  invariant  to  value  of  transaction.    In  many  other  markets,  the
+charges are levied on the basis of number of transactions which is also known as
+flat  fee  structure.    In  India,  depositories  subsequently  switched  over  to  flat  fee
+structure of charges on transactions. .
+
+However,  notwithstanding  this,  in  India  the  share  ownership  pattern  is  quite
+different  from  what  it  is,  in  the  developed  markets,  as  well  as  in  some  of  the
+emerging  markets.    Considering  the  role  of  small  investors  in  Indian  capital
+market, we need to have a cost effective system which will address many of the
+issues concerning small investors.  The dematerialization success story could be
+partly attributed to individual investor for his full support to the regulatory direction
+
+Page 7 of 18
+
+of compulsory trading in demat environment for selected stocks in phases.  As it
+was mentioned in the study of M.T. Raju and Prabhakar Patil (2001), Indian stock
+markets  had  taken  significantly  less  time  to  complete  the  herculean  task  of
+dematerialization as compared to some of the developed markets like USA, UK,
+etc.
+
+Depository Participants
+Depository participants (DPs) impose various charges on the institutional as well
+as on individual clients under various heads for providing services. The services
+available in dematerialised environment  that  are  extended to  the  clients  are  as
+follows:
+
+•  Dematerialisation
+•  Rematerialisation
+•  Custodial services
+•  Debit or Credit facility
+•  Hypothecation
+•  Speed-e along with smart card
+•  Corporate benefits like bonus, stock split, dividend payment, etc.
+
+This is an illustrative list of services available. The system of charging a fee for
+the services extended to an investor is in two-layers. The Depository charges the
+DPs  and  DPs  in  turn  collect  fee/charges  from  the  investor.  Each  DP  uses
+different norms to classify charges depending on the extent of services rendered.
+NSDL  has  a  provision  for  collecting  a  one-time  fee  of  0.05  percent  of  market
+capitalization of the company, as custody fees for life. For these companies, no
+custody charge is supposed to be charged from the investors for life.  The list of
+55  companies  that  had  paid  this  one  time  fee  is  enclosed  in  Annexure  I.
+However, it is not clear whether DPs are passing this benefit to investors or not
+for these 55 companies.
+
+VI. Charges under the present method FFS
+
+The depositories started charging DPs on FFS basis since May, 2002 and DPs in
+turn started charging on FFS basis to investors.  This system is tilted in favour of
+high networth and institutional investors who trade in large quantities.  The long
+term small investor who trade less frequently feel the unwanted burden of heavy
+outgo on account of FFS.
+
+Custody  charges  are  levied  on  the  basis  of  ISIN  numbers,  irrespective  of  the
+value of shares in custody.  As a result, there is a piquant situation, wherein on
+one side, the value of shares may be getting eroded while on the other hand the
+investors are required to pay custody charges that some times exceed the value
+of shares held in custody.  This has been a very sour point.  As the value of the
+
+Page 8 of 18
+
+holding is small, the charges paid as percentage of value of their holding works
+out to be very high.
+
+The  DPs  are  generally  required  to  pay  the  following  as  one  time  charges  to
+NSDL, under the following heads:
+
+•  Non-refundable entry fee  -  Rs 25,000
+•  Minimum fee per year  - Rs 1,50,000, irrespective of business volume
+• 
+
+Interest free refundable fee of Rs 10,00,000
+
+Further,  the  DP  will  be  incurring  fixed  and  variable  costs  on  account  of
+establishment,  staff,  computers, WAN  connectivity,  stationary,  postal  or  courier
+expenses  and  telephone.    These  costs  will  vary  according  to  the  size  of
+operations, place of operations etc.
+
+The companies have an opportunity to make one time payment of custody fee of
+0.05 percent or five basis points on the market value of the shares computed on
+previous  26  weeks  average  of  market  price  of  the  equity.    In  these  cases
+investors  are  not  required  to  pay  any  custodial  charges.    This  seems  to  be  a
+viable  alternate/solution  since  the  custodial  charges  will  then  be  ‘nil’  for  the
+investors, for ever.
+
+VII. Analysis and Discussion
+
+Table  1  A  shows  some  of  the  basic  costs  involved  in  physical  and  demat
+environment for different sizes of share folios.  The costs taken into consideration
+are from a leading RTA and the size is hypothetical for computational purposes.
+It  is  clearly  evident  from  the  table  that  as  the  number  of  folios  increases,  the
+benefits,  in  the form  of  reduction  in  Company’s  costs,  also  increase.  Thus,  the
+size and costs are inversely related and benefits positively related. Therefore, a
+company  having  a  large  shareholder  base  derives  maximum  benefit  out  of  the
+depository environment.
+
+Table 1 A: Costs Involved in Alternative Scenarios (in Rupees)
+
+50,000
+Folios
+
+One
+Lakh
+Folios
+
+Two  Lakh
+Folios
+
+Five  Lakh
+Folios
+
+Ten  Lakh
+Folios
+
+2,75,000
+
+Under Physical Environment
+R&T Service
+Charges(PA)
+Charges for
+Transfer of
+Shares or Bonds
+Charges for issue
+of Duplicate or
+split certificate
+Certificate
+
+25,000
+
+75,000
+
+5,50,000
+
+11,00,000
+
+27,50,000
+
+55,00,000
+
+1,50,000
+
+3,00,000
+
+7,50,000
+
+15,00,000
+
+50,000
+
+1,00,000
+
+2,50,000
+
+5,00,000
+
+ 75,000  1,50,000
+
+ 3,00,000
+
+ 7,50,000
+
+ 15,00,000
+
+Page 9 of 18
+
+4,50,000
+
+Printing with all
+safety features
+Total Minimum
+Cost
+Under Demat Environment
+50,000
+R&T Service
+Charges, Lump
+sum per annum
+Connectivity
+Charges for
+NSDL&CDSL per
+annum
+One time charge
+of
+dematerialization
+Total Minimum
+Cost
+Savings
+Savings (%)
+
+1,85,000
+41.11
+
+1,75,000
+
+2,65,000
+
+40,000
+
+9,00,000
+
+18,00,000
+
+45,00,000
+
+90,00,000
+
+50,000
+
+50,000
+
+50,000
+
+50,000
+
+40,000
+
+40,000
+
+40,000
+
+40,000
+
+3,50,000
+
+7,00,000
+
+17,50,000
+
+35,00,000
+
+4,40,000
+
+7,90,000
+
+18,40,000
+
+35,90,000
+
+4,60,000
+51.11
+
+10,10,000
+56.11
+
+26,60,000
+59.11
+
+54,10,000
+60.11
+
+Table 1 B: Cost of One Time (life time) Custodial Payment by a Company
+(in Rs)
+Savings from Table 1A 1,85,000 4,60,000 10,10,000 26,60,000 54,10,000
+Market  Capitalization
+(Rs)
+0.05%  to  be  paid  by
+cos.
+(Lifetime)
+Savings under 0.05% 1,35,000 2,50,000 5,00,000
+0.10%  proposed to be
+paid by cos.(Lifetime)
+Savings under 0.10% 85,000
+
+12,50,000 25,00,000
+1,00,000 5,00,000 10,00,000 25,00,000 50,00,000
+
+250
+Crore
+12,50,000 25,00,000
+
+10
+Crore
+50,000
+
+50
+Crore
+2,50,000 5,00,000
+
+100
+Crore
+
+500
+Crore
+
+1,60,000
+
+4,10,000
+
+-40,000
+
+10,000
+
+NSDL  accepts  one-time  payment  of  5  basis  points  (0.05  percent)  from  a
+company on its market capitalization and thereafter completely exempts custody
+charges  to  its  DPs  on  securities  of  such  companies.  Based  on  an  hypothetical
+size  of  market  capitalization  of  Rs  10  crore  to  Rs  500  crore,  the  one-time
+custodial cost for the company will range in Rs 50,000 to Rs 25 lakh.  A look at
+the table 1B clearly shows that after paying one time existing custodial charges,
+the  companies  would  still  make  a  lot  of  savings  on  annual  basis  whereas  the
+amount paid to depository is a onetime one. On the basis of proposed 10 basis
+points payment also companies make substantial savings.
+
+Table 2 shows a broad picture of charges levied by DPs and this information is
+downloaded from NSDL website.  For the present study, the costs shown in the
+table pertain  to  highest  charged by  a  DP  and  may  not  necessarily  be  by  each
+
+Page 10 of 18
+
+DP.    The  account  opening  fee  ranges  from  nil  to  Rs  500  and  the  actual  cost
+incurred  by  DPs  for  opening  account  are  on  the  account  of  stamp  paper,
+stationary, human labour, office space and computer time.  Some of the DPs are
+not charging any fee on this account for active traders or institutional investors.
+Thus, it shows a skewed pattern of charges.
+
+Summary Observations on DP Charges are as under:
+
+•  Dematerialisation charges of NSDL are nil however, the DPs charge goes
+
+as high as Rs 23 per certificate plus courier charges of Rs 30..
+
+•  The remat charges of DPs is ten times more than the depositories’ charge.
+•  The account maintenance fee of Rs 1200 per annum charged by DPs is
+
+not charged by Depository at all.
+
+•  Custodial  charges  are  three  times  of  the  amount  charged  by  the
+
+depository.
+
+•  Buy or Sell transaction instruction for demat shares is costing a minimum
+
+of Rs 20 per transaction which was not there in physical environment.
+
+Table 2: Summary of selected charges levied by DPs to Clients
+
+S.No. Activity
+Account
+1.
+Opening
+Fee
+Demat
+Charges
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8
+
+Remat
+Charges
+
+Account
+Maintenance
+Custody
+charges
+Buy
+Transaction
+
+Sell
+Transaction
+
+Account
+Closing
+
+Cost
+Rs 500
+
+Remarks
+Includes cost of stamp paper
+
+Rs  53  (per  certificate,
+minimum)
+
+Includes courier charges.
+However, NSDL will  not  charge
+any fee
+
+(whichever 
+
+Rs 1200 per annum
+
+Rs  1.50  per  ISIN  per
+month
+0.05%  of  value  or  Rs
+20 
+is
+higher)
+
+Rs 100 (per certificate) Vary between Rs 10 to Rs 100,
+NSDL  charges  are  Rs  10  per
+certificate only.
+Some  DPs  are  not  charging,  if
+there is a deposit
+NSDL charges Rs 0.50 per ISIN
+Per month
+NSDL  charges  Rs  1.00  per
+of
+instruction 
+securities 
+the
+Clearing  Corporation  into  the
+Receipt-in  account  of  each
+Clearing member..
+NSDL  charges  Rs  10.00  per
+debit  instruction  in  a  Client’s
+account shall be charged to the
+participant of the Client..
+Besides  NSDL  charges  for  off-
+market  transaction  charges  at
+the time of closing account.
+
+Rs  250    or  Rs  25  per
+ISIN
+
+0.06%  of  value  or  Rs
+20 
+is
+higher)
+
+(whichever 
+
+in 
+
+respect 
+from 
+
+received 
+
+Page 11 of 18
+
+Table  3  presents  the  historical  change  in  the  costs  of  custody  and  transaction
+services.
+
+Table 3: Changes in Demat Custody and Transaction Charges
+
+Date of
+Circular
+21-Jul-97
+25-Aug-98
+2-Feb-99
+
+2-Feb-99
+19-Jul-99
+20-Jul-00
+
+Old Charges
+
+Reduction in Custody Charges by NSDL
+With effect
+from
+1-Aug-97
+1-Oct-98
+1-Apr-99
+Reduction in Transaction Charges by NSDL
+1-Apr-99
+1-Aug-99
+1-Sep-00
+
+7 basis pts
+3.5 basis pts
+2 basis pts
+
+New Charges
+
+3.5 basis pts
+2 basis pts
+1 basis pts
+
+5 basis pts
+4 basis pts
+2 basis pts on both
+buy and sell
+2 basis pts only for
+sell
+
+4 basis pts
+2 basis pts
+2 basis pts only for
+sell
+Flat Rs 10 per debit
+(**)
+
+26-Feb-02
+
+1-May-02
+
+(**)
+
+Due  to  the  benefit  derived  out  of  increased  volumes  to  the  market,
+NSDL  revised  the  fee  structure  w.e.f.  01/01/04  for  debit  instruction
+from Rs.10/- to Rs.8/- , i.e. reduction of 20%. DPs were also advised
+to pass on the said reduction to the beneficial owners.
+
+The 
+table  4  presents  qualitative  characteristics  of  physical  and  demat
+environment.  Under the demat environment every constituent of the market got
+benefited.
+
+Table 4: Status of Constituent in Physical and Demat Environment
+Demat Era
+Constituent
+Remarks
+
+Costs
+Marginal No investor
+
+Costs
+V. high
+
+Company
+
+Physical Era
+Remarks
+Investor
+complaints, bad
+reputation
+Large work force
+maintained
+
+Clearing House/
+Corporation
+
+V. high
+
+Stock
+Exchanges
+
+Brokers/dealers
+
+V.high
+
+Handling of large
+volumes(difficult),
+increased cost of
+infrastructure
+V. high Bad delivery,
+
+theft, postal delay
+in receiving /
+
+Page 12 of 18
+
+Marginal
+
+Marginal
+
+complaints, reduced
+cost of capital.
+Increased volumes
+leading to higher
+profits
+Increased volumes
+leading to higher
+profits
+
+Marginal No such evils, no
+
+postal loss,
+increased volumes
+
+Investors
+Institutional
+
+Retail Investors
+
+delivering shares
+from/to clients
+
+V. high Bad delivery,
+
+theft, delivery in
+market lots,
+custodial costs
+
+V. high Bad delivery,
+
+theft
+
+Low
+
+leading to higher
+profits
+
+Good delivery, low
+custodial costs, nil
+stamp duty
+
+Moderate Good delivery, nil
+
+stamp duty
+
+VIII. Recommendations
+
+On  the  basis  of  data  collected,  analyzed  and  discussions  held,  the  group  has
+made the following recommendations:
+
+Transaction Charges
+a)  This small investor1 should be charged on the basis of ad valerom only.
+
+Custody Charges
+b)  Since companies have derived largest part of the benefits accrued on account
+of dematerialization, it is proposed that the companies may be advised to pay
+one time fee to the depository concerned at the rate of 0.1 per cent of market
+cap of that particular company on the existing lines or on the basis of number
+of post issue shares. In case of new companies it may be worked out on the
+basis of the post-issue paid up capital or he number of post issue shares, as
+mentioned  in  the  prospectus.    The  same  may  be  implemented  in  a  phased
+and time bound manner.2
+
+c)  Further, charges like account maintenance and demat charges should not be
+
+levied on small investors at all, by DPs.
+
+Account Closure Charges
+
+d)  As long as the investor is under demat environment and desires to shift his
+account from one DP to another DP (owing to some perceived advantages)
+the  investor  may  be  permitted  to  close  his  account  with  the  existing
+depository  participant  without  any  transaction  charges  or  other  incidental
+charges, as are being levied currently3. The account closure charges may be
+collected if he / she / it is going out of the demat environment.
+
+                                                
+1 An investor who buys or sells securities worth Rs. 50,000 or less on any business day. The other
+alternative of defining small investor could be based on the maximum number of transactions carried out in
+a financial year e.g. 60 transactions in a year.
+2 In order to implement this recommendation of levying fees from the companies, SEBI may have to amend
+listing agreement of he stock exchanges and other relevant legal provisions.
+3 The rationale is that the investor is still in the demat environment.
+
+Page 13 of 18
+
+e)  Alternately,  Depositories  may  consider  giving  one  time  exemption  from
+
+account closing fee for switch over from one entity to other.
+
+Standardisation and Uniformity
+
+f)  DPs charge under various heads and there is no uniformity across the DPs.
+Some  times,  it  appears  there  are  excessive  charges  on  certain  heads.
+Therefore, there is a need to rationalize this structure as much as possible.
+
+IX. Assumptions
+
+Like any other study in Financial Economics, this study and its recommendations
+are  also  based  on  certain  assumptions.    The  following  are  some  of  the
+assumptions:
+
+1)  Securities market as a whole  has benefited by the dematerialization;
+2)  The small investors have been charged highly;
+3)  Companies, as a constituent, derived maximum pecuniary benefit;
+4)  Companies are expected to pay one time charges;
+5)  Folio-size and cost calculating;
+6)  Folio-size and market capitalization do not always have direct relationship.
+
+Page 14 of 18
+
+Annexure I
+
+ List of Companies that had made One Time Payment to NSDL
+
+NSDL accepts a one-time payment of 5 basis points (0.05%) from a
+company on its market capitalisation and thereafter completely exempts
+custody charges to its DPs on securities of such companies. The
+following companies have so far opted for this scheme:
+List of Companies
+
+1.  Apple Finance Ltd.
+
+2.  Aurobindo Pharma Ltd.
+
+3.  Bank of India
+
+4.  Blow Plast Ltd.
+
+5.  BPL Engineering Ltd.
+
+6.  BPL Ltd.
+
+7.  BPL Refrigeration Ltd (Now B. S. Refrigeration Ltd.)
+
+8.  BPL Sanyo Utilities & Appliances Ltd. (Now B.S. Appliances Ltd.)
+
+9.  BSES Ltd
+
+10. Carborundum Universal Ltd.
+
+11. Cholamandalam Investment & Finance Co. Ltd.
+
+12. Crompton Greaves Ltd.
+
+13. Cybertech Sytems and Software Ltd.
+
+14. DGP Windsor Ltd.
+
+15. EID Parry Ltd.
+
+16. Finolex Industries Limited
+
+17. Geometric Software Solutions Limited
+
+18. Global Trust Bank Limited
+
+19. HCL Infosystems Ltd.
+
+20. Himatsingka Seide Ltd.
+
+21. Housing and Urban Development Corporation Limited (Only for
+
+ISINs INE031A09010, INE031A09028, INE031A09036,
+
+Page 15 of 18
+
+INE031A09044)
+
+22. IDBI Limited
+
+23. IndusInd Bank Limited
+
+24. Infosys Technologies Limited
+
+25. Integrated Enterprises (I) Ltd
+
+26. Isibars Ltd.
+
+27. JBF Industries Ltd.
+
+28. K.G. Denim Ltd.
+
+29. Krishna Filaments Limited
+
+30. LIC Housing Finance Ltd.
+
+31. LKP Merchant Financing Ltd
+
+32. Max India Ltd
+
+33. Modern Home Credit & Capital Ltd. (Now Modern Shares &
+
+Stockbrokers Ltd.)
+
+34. Mukand Ltd
+
+35. Navneet Publications (India) Ltd.
+
+36. Onward Technologies Limited
+
+37. Parrys Confectionery Ltd.
+
+38. Pidilite Industries Ltd.
+
+39. Polaris Software Lab Ltd.
+
+40. Prism Cement Limited
+
+41. Rolta India Limited
+
+42. Sabero Organics Gujarat Ltd.
+
+43. Sonata Software Limited
+
+44. SQL Star Int'l
+
+45. Supreme Industries Ltd
+
+46. TFCI Ltd.
+
+Page 16 of 18
+
+47. The Dhampur Sugar Mills Limited
+
+48. The United Western Bank Limited
+
+49. Tube Investments of India Ltd.
+
+50. Usha (India) Ltd.
+
+51. UTI Bank Ltd.
+
+52. VIP Industries Ltd.
+
+53. Wartsila NSD India Ltd
+
+54. Weizmann Ltd.
+
+55. Wipro Limited
+
+Page 17 of 18
+
+Details of Reports and Information referred to
+
+The Group has referred the following published documents:
+
+Annexure II
+
+•  Report of the Committee constituted by SEBI on reduction in the Cost for
+
+the Investors relating to demat operations Chaired by C.B. Bhave
+
+•  L.C.  Gupta,  Navin  Jain  and  Utpal  Choudhury,  “Why  Ordinary  Investors
+
+•  Sucheta  Dalal  story  on  “The  Disenchanted  Ordinary  Investor”,  Indian
+
+Remain Disenchanted”
+
+Express
+
+•  M.T.  Raju,  “Transaction  Cost  for  Equity  Shares  in  India  (Revised),
+
+November 2000, SEBI working paper, 2000.
+
+•  M.T. Raju and Prabhakar Patil, “Dematerialisation: A Silent Revolution in
+
+the Indian Capital market” March 2001, SEBI working paper.
+
+•  Mr.  Narasimhan,  CEO,  MCS  had  provided  lot  of  statistics  on  various
+
+charges
+
+Page 18 of 18
+
+

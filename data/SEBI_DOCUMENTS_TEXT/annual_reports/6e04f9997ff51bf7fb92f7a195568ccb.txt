@@ -1,0 +1,69 @@
+Litigation, Appeals and Court Pronouncements
+LitigationThe details of cases that were filed in the courts between January 1992 and March 1997 where SEBI was a party are given in Table 23.
+Table 23 : Litigation filed where SEBI was a party 
+
+
+
+Particulars
+No.
+
+
+Relating to public issues and intermediaries
+44
+
+
+Relating to brokers registration fee, listing, bye-laws of stock exchanges
+44
+
+
+Consumer Forum
+43
+
+
+Mutual Funds
+9
+
+
+Take-overs
+3
+
+
+Investigation - relating to price manipulation,impounding of proceeds etc.
+36
+
+
+
+AppealsPersons aggrieved by an order of SEBI passed under SEBI Act can prefer an appeal to the central government under section 20 of the SEBI Act. Table 24 gives details of such appeals that were filed before the Appellate Authority in 1996-97.
+Table 24 : Section 20 appeals in 1996-97
+
+
+
+Particulars
+No.
+
+
+Appeals filedAppeals dismissedAppeals withdrawnAppeals returned to SEBI for considerationAppeals pending
+2682313
+
+
+
+Important court pronouncements relating to securities laws
+
+Interpretation of Section 11(2)(i) of SEBI Act - scope of "persons relating to the securities market"
+High Court of Gujarat - Karnataka FinCap Ltd. vs. SEBISEBI issued summons to an investor under Section 11(3) of SEBI Act in respect of investigation under SEBI (Prohibition of Fraudulent and Unfair Trade Practices relating to the Securities Market) Regulations, 1995. The same was challenged before the Gujarat High Court. The High Court while interpreting section 11(2)(i) of the SEBI Act held that the expression “persons associated with the securities market” is not limited to intermediaries but includes “investors” also. The Court upheld the power of SEBI to call for information or to conduct enquiry against a person who may be an investor alleged to be involved in price manipulation. 
+Interpretation of Section 11 of SEBI Act - power to impound monies and transfer the same to the Investor Protection Fund of the stock exchange
+High Court of Gujarat - SEBI vs. Alka Synthetics & D M InvestmentsUnder section 11 of the SEBI Act, 1992 SEBI impounded a part of the auction proceeds in respect of transactions in the shares of Magan Industries and directed the stock exchanges to transfer the same to the Investor Protection Fund in order to deprive the manipulators the benefit of profits arising from manipulation. The Single Judge of the Gujarat High Court held that SEBI has no authority under the existing statute to impound or forfeit the monies received by the stock exchange from auction and close out proceedings and to use for any other purpose. SEBI preferred an appeal against the said judgement before the Division Bench and the Division Bench admitted the appeal and stay the order of the Single Judge.
+Interpretation of Section 72(5) of Companies Act - right to withdraw application money after opening of public issue
+High Court of Maharashtra - Vishwalakshmi Petro Products Ltd. vs. SEBIThe Madhya Pradesh Stock Exchange (MPSE) refused to consider the subscription application of applicants who withdrew the application after closure of public issue of Vishwalakshmi Petro Products and rejected the listing application of the company. The company preferred an appeal to SEBI under section 22 of the Securities Contracts (Regulation) Act. SEBI rejected the appeal of the company upholding the contention of MPSE. The company challenged the same before the Mumbai High Court. The High Court while interpreting the provisions of Section 72(5) of the Companies Act, 1956 has held that an investor has a right to withdraw his application money after 5 days of opening of public issue till the application is accepted by the company.
+Vetting of prospectus
+High Court of Gujarat - Gujarat Co-operative Milk Marketing Fed. vs. SEBI In the prospectus of the public issue of Gujarat Dairy Field, it was stated that the company had not yet received registration under the Milk Manufacturers Production Order (MMPO), 1992. It was contended that SEBI ought not to have issued the acknowledgement card to the issuer in view of the failure of the company to obtain the registration under MMPO 92. The Gujarat High Court has held that as part of risk factors the company disclosed that it has not received the registration certificate under MMPO 92. This puts the investors on guard and it cannot be held that SEBI has failed in its duty in allowing the company to float the public issue. The said order of the Single Judge was also upheld by the Division Bench of the High Court.
+Interpretation of section 11(2) of SEBI Act - right to fix market price of securities
+High Court of Gujarat - B S Pandit vs. NSE, SEBI SEBI in the matter of Rupangi Impex Ltd. issued directions to NSE to suspend the trading in shares of M/s. Rupangi Impex Ltd. as it was noticed by SEBI during investigations that the shares of M/s. Rupangi Impex Ltd. were prevailing at an artificially high price and there was lack of floating stock on one hand and unprecedented higher purchase on the other hand SEBI directed the stock exchange to close out the transaction at the last highest price. This was challenged before the Gujarat High Court which while rejecting the writ petition observed that general powers have been delegated to SEBI to regulate and develop the securities market "by such measures as it deems fit".
+Right of merchant banker to withdraw from an issueHigh Court of Delhi- Ramanuj Finance and Investments Ltd. vs. Onida Finance Ltd. & SEBI & others The Division Bench of Delhi High Court, while entertaining an appeal, observed that Court cannot afford to expose the middle class shares purchasers if any promoter is guilty of suppression of such facts which would lead ultimately to the closure of the project endangering even the return of the capital invested by the share purchasers leave aside the dividends. The appellant company was supposed to keep the lead manager well informed about the risk factors especially the financial crisis. If in such circumstances, the lead managers just like an ordinary prudent businessman wanted to withdraw, they have a right to withdraw their consent to act as lead managers in terms of the MoU between the lead manager and the appellant company on account of suppression of the facts and several mis-statements in the prospectus.
+SEBI (Stock-brokers and Sub-brokers) Regulations, 1992 - right to presence of lawyer in enquiry proceeding
+High Court of Gujarat - M M Sheth vs. SEBI The petitioners filed a writ petition in the Gujarat High Court inter alia challenging sub-regulation (2) of regulation 28 of the SEBI (Stock-brokers and Sub-brokers) Regulations, 1992 which provides that a broker can have the services of a lawyer if the presenting officer of SEBI in an enquiry proceeding is a lawyer. The Gujarat High Court declared the said regulation ultra vires. SEBI thereafter filed an appeal before the Division Bench which has admitted the appeal and the above judgement has been stayed.
+SEBI does not render any service for consideration
+SEBI vs.C.K.Rao & Pinky Jain The complainant made SEBI a party in a complaint before the District Consumers’ Forum, Kakinada for compensation for non-refund of application money. The Forum ordered the company and SEBI to pay compensation of Rs.1,000 to the complainant. SEBI preferred an appeal to the State Commission. The State Commission admitted the appeal and finally held that the complainant is not a consumer to SEBI under the Consumer Protection Act, 1986 and SEBI is a statutory body discharging statutory duties for which no consideration is paid by the complainant and SEBI does not render any service for consideration and complaint against SEBI was dismissed.
+Conditional offer under the SEBI (Substantial Acquisitions of Shares and Take-overs) Regulations, 1994Skyline NEPC vs. SEBI & Modiluft: NEPC made a conditional offer to withdraw the offer in case acceptances by share holders of the target company is less than 47.32%. SEBI held that offerors had made conditional offer which was not in accordance with the SEBI (Substantial Acquisition of Shares and Take-overs) Regulations. NEPC preferred an appeal before the central government under section 20 of the SEBI Act. The SEBI order was upheld and the appeal was dismissed by the central government. 
+Regulations framed by SEBI are legislative in nature and statutory in character
+B.Srinivasa Rao Vs. NSE and SEBIThe Andhra Pradesh High Court held that section 31 of the Securities and Exchange Board of India Act, 1992, provides that every rule and regulation made under the Act shall be laid before each House of Parliament for a period of 30 days. If both the Houses agree in making any modification, then such rule or regulation will operate only in its modified form. If both the Houses agree that such rule or regulation is not to be made, it ceases to be operative. These provisions clearly show that regulations are legislative in nature and statutory in character, and bear the seal of approval by Parliament, after they are made for their continued existence. In exercise of the aforesaid power and in furtherance of the object to keep a check on manipulative or fraudulent transaction which are not bona fide and genuine transactions of sale and purchase, SEBI has framed SEBI (Prohibition of Fraudulent and Unfair Trade practices relating to the securities market) Regulations, 1995.

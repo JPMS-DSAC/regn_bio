@@ -1,0 +1,539 @@
+ 
+
+PR No. 09/2018 
+
+ 
+
+ 
+
+SEBI Board Meeting 
+
+The SEBI Board met in Mumbai today and took the following decisions: 
+
+ 
+
+1.  Decision on the Recommendations of Kotak Committee on Corporate Governance 
+ 
+
+1.1. The  Board  considered  the  Kotak  Committee  recommendations  and  the  public 
+
+comments thereon. 
+
+ 
+
+1.2. The Board decided to accept several recommendations of the Committee without any 
+
+modifications including the following: 
+
+I.  Reduction in the maximum number of listed entity directorships from 10 to 8 by April 
+
+01, 2019 and to 7 by April 1, 2020  
+
+II.  Expanding the eligibility criteria for independent directors 
+
+III.  Enhanced role of the Audit Committee, Nomination and Remuneration Committee 
+
+and Risk Management Committee 
+
+IV.  Disclosure of utilization of funds from QIP/preferential issue  
+
+V.  Disclosures of auditor credentials, audit fee, reasons for resignation of auditors, etc. 
+
+VI.  Disclosure of expertise/skills of directors 
+
+VII.  Enhanced disclosure of related party transactions (RPTs) and related parties to be 
+
+permitted to vote against RPTs 
+
+VIII.  Mandatory disclosure of consolidated quarterly results with effect from FY 2019-20 
+
+IX.  Enhanced obligations on the listed entities with respect to subsidiaries 
+
+X.  Secretarial  Audit  to  be  mandatory  for  listed  entities  and  their  material  unlisted 
+
+subsidiaries under SEBI LODR Regulations. 
+
+ 
+
+1.3. The  Board  decided  to  accept  several  recommendations  with  modifications  which 
+
+included the following: 
+
+i.  Minimum 6 directors in the top 1000 listed entities by market capitalization by April 
+
+1, 2019 and in the top 2000 listed entities, by April 1, 2020  
+
+ 
+
+Page 1 of 8 
+
+ii.  At  least one woman independent director in the top 500 listed entities by market 
+
+capitalization by April 1, 2019 and in the top 1000 listed entities, by April 1, 2020 
+
+iii.  Separation of CEO/MD and Chairperson (to be initially made applicable to the top 
+
+500 listed entities by market capitalization w.e.f. April 1, 2020)  
+
+iv.  Quorum for Board meetings (1/3rd of the size of the Board or 3 members, whichever 
+
+is higher) in the top 1000 listed entities by market capitalization by April 1, 2019 and 
+
+in the top 2000 listed entities, by April 1, 2020 
+
+v. 
+
+Top 100 entities to hold AGMs within 5 months after the end of FY 2018-19 i.e. by 
+
+August 31, 2019 
+
+vi.  Webcast of AGMs will be compulsory for top 100 entities by market capitalization 
+
+w.e.f. FY 2018-19 
+
+vii.  Shareholder approval (majority of minority) for Royalty/brand payments to related 
+
+party exceeding 2% of consolidated turnover (instead of the proposed 5%). 
+
+ 
+
+1.4. The  Board  decided  to  refer  certain  recommendations  to  various  agencies  (i.e. 
+
+government, other regulators, professional bodies, etc.), considering that the matters 
+
+involved relate to them. Such recommendations, inter-alia, include strengthening the 
+
+role of ICAI, internal financial controls, adoption of Ind-AS, treasury stock, governance 
+
+aspects of PSEs, etc. 
+
+ 
+
+SEBI had constituted the Committee in June 2017, under the Chairmanship of Shri Uday 
+
+Kotak to make recommendations to SEBI for improving standards of corporate governance 
+
+of  listed  entities  in  India.  The  Committee  was  represented  by  different  stakeholders 
+
+including  the  Government,  industry,  stock  exchanges,  academicians,  proxy  advisors, 
+
+professional  bodies,  lawyers,  etc.  The  Committee  submitted  its  report  detailing  several 
+
+recommendations on October 5, 2017.  
+
+ 
+
+The  report  of  the  Committee  was  placed  on  the  SEBI  website  for  public  comments. 
+
+Comments were received from a variety of stakeholders including industry, government, 
+
+global associations, institutional investors, lawyers, etc. 
+
+ 
+
+2.  Measures for Strengthening Algorithmic Trading Framework 
+
+The  agenda  on  Measures  for  Strengthening  Algorithmic  Trading  Framework  was 
+
+discussed. The Board, after deliberation, approved the following proposals: 
+
+I.  Stock Exchanges to introduce Shared Colocation Services, in order to reduce the 
+
+cost for trading members wishing to operate from the colocation facility. 
+
+ 
+
+Page 2 of 8 
+
+II.  Stock  Exchanges  to  provide  Tick-by-Tick  Data  feed  (TBT  Feed)  to  all  the  trading 
+
+members,  free  of  charge,    subject  to  trading  members  creating  the  necessary 
+
+infrastructure for receiving and processing it. Stock Exchanges to increase the depth 
+
+of snapshot of 5 best bid and ask quotes, in consultation with trading members. 
+
+III.  Under  the  penalty  framework  for  Order  to  Trade  Ratio  (OTR),  penalty  would  be 
+
+levied on Algo orders placed beyond ±0.75%.of Last Traded price (LTP) from the 
+
+current level of ±1% of LTP. Further, the OTR framework would also be extended to 
+
+orders  placed  in  the  equity  cash  segment  and  orders  placed  under  the  Liquidity 
+
+enhancement Scheme (LES).  
+
+IV.  Stock Exchanges to allot a unique identifier to each algorithm approved and each 
+
+order  generated  by  the  algorithm  to  carry  the  unique  identifier  with  it,  in  order  to 
+
+establish an audit trail and to ensure better surveillance of Algo trading. 
+
+V. 
+
+In  addition  to  the  current  disclosure  of  latencies,  Stock  Exchanges  to  publish 
+
+minimum, maximum and mean latencies and latencies at 50th and 99th percentile, 
+
+observed within the exchange trading infrastructure to ensure greater transparency. 
+
+Further, exchanges to also publish a reference latency between a reference rack in 
+
+the co-located facility and the core router of the Exchange. 
+
+VI.  Stock Exchanges to provide a simulated market environment for testing of software 
+
+including algorithms. Stock Exchanges to provide such facility over and beyond the 
+
+current framework of mock trading. 
+
+3.  Rationalizing and Strengthening the framework of Equity Derivatives Market 
+
+SEBI  Board  took  note  of  discussion  papers  titled  ‘Growth  and  Development  of  Equity 
+
+Derivatives Market in India’ and ‘Physical settlement in stock derivatives’, public comments 
+
+received thereon and also recommendations of the Secondary Market Advisory Committee 
+
+(SMAC). Proposals approved by the Board to rationalize and strengthen the framework of 
+
+the equity derivatives market, inter-alia, include the following: 
+
+I. 
+
+To  facilitate  greater  alignment  of  the  cash  and  derivative  market,  physical 
+
+settlement  for  all  stock  derivatives  shall  be  carried  out  in  a  phased  and 
+
+calibrated manner. 
+
+ 
+
+Page 3 of 8 
+
+II. 
+
+To update and strengthen the existing entry criteria for introduction of stocks 
+
+into the derivative segment in line with the increase in market capitalization 
+
+since the last revision of the criteria in 2012. Accordingly, existing criteria like 
+
+market  wide  position  limit  and  median  quarter-sigma  order  size  shall  be 
+
+revised  upward  from  current  level  of  INR  300  crore  and  INR  10  lakh 
+
+respectively  to  INR  500  crore  and  INR  25  lakh  respectively.  An  additional 
+
+criterion,  of  average  daily  ‘deliverable’  value  in  the  cash  market  of  INR  10 
+
+Crore, has also been prescribed. The enhanced criteria are to be met for a 
+
+continuous period of six months. 
+
+III. 
+
+To begin with, stocks which are currently in derivatives but fail to meet any of 
+
+the enhanced criteria, would be physically settled. Such stocks would exit the 
+
+derivative segment if they fail to meet any of the enhanced criteria within a 
+
+period of one year from the specified date or fail to meet any of the current 
+
+existing criteria for a continuous period of three months.  
+
+IV.  Stocks which are currently in derivatives and meet the enhanced criteria shall 
+
+be  cash  settled.  Such  stocks  if  they  fail  to  meet  any  one  of  the  enhanced 
+
+criteria  for  a  continuous  period  of  three  months  shall  move  from  cash 
+
+settlement to physical settlement. After moving to physical settlement if such 
+
+stock does not meet any of the current existing criteria for a continuous period 
+
+of  three months,  then it  would  exit  out  of  derivatives.  After  a  period  of  one 
+
+year  from  the  specified  date,  only  those  stocks  which  meet  the  enhanced 
+
+criteria would remain in derivatives. 
+
+V. 
+
+To  reflect  global  initiatives  on  product  suitability,  a  framework  has  been 
+
+approved. Individual investors may freely take exposure in the market (cash 
+
+and derivatives) upto a computed exposure based on their disclosed income 
+
+as  per  their  Income  Tax  Return(ITR)  over  a  period  of  time.  For  exposure 
+
+beyond  the  computed  exposure,  the  intermediary  would  be  required  to 
+
+undertake rigorous due diligence and take appropriate documentation from 
+
+the investor. 
+
+ 
+
+4.  Proposal  for  amendment  of  the  regulatory  provision  permitting  charging  of 
+
+additional expenses of up to 0.20% of the daily net assets of MF Schemes 
+
+ 
+
+Page 4 of 8 
+
+Presently, mutual funds are permitted to charge additional expenses of up to 0.20% of the 
+
+daily  net  assets  of mutual fund  schemes  in  lieu  of the exit  load  credited  to the  scheme. 
+
+Based on data and the recommendations of Mutual Fund Advisory Committee (MFAC), the 
+
+Board approved the proposal to reduce the maximum additional expense permitted to be 
+
+charged to a mutual fund scheme from 20 bps to 5 bps. 
+
+ 
+5.  Go Green initiative in Mutual Funds 
+
+With  electronic  mode  of  communication  being  the  preferred  mode  of  communication 
+
+besides  being  environment  friendly,  the  Board  approved  certain  proposals,  inter-alia,  to 
+
+dispense  with  the  requirement  of  publication  of  daily  NAV,  sale  /  repurchase  prices  in 
+
+newspapers  and  of  sending  (i)  physical  copies  of  scheme  annual  reports  or  abridged 
+
+summary to all the investors whose email addresses are not available and (ii) statement of 
+
+scheme portfolios to unit holders on half-yearly basis. Instead, the aforesaid details will be 
+
+placed on the websites of AMFI and Mutual Funds. Further, Mutual Funds shall publish an 
+
+advertisement  informing  about  hosting  of  the  annual  report  and  statement  of  scheme 
+
+portfolios  on  the  websites  and  shall  provide  the  relevant  information  to  investors  upon 
+
+request. 
+
+ 
+
+6.  Amendments  to  the  SEBI  (Alternative  Investment  Funds)  Regulations,  2012 
+
+regarding Angel Funds 
+
+SEBI formed a working group comprising of various angel networks, consultants and start-
+
+ups, to look into the aspect of simplifying certain provisions of SEBI (Alternative Investment 
+
+Funds) Regulations, 2012 to provide ease of doing business for angel funds. 
+
+Based  on  the  recommendations  of  the  working  group,  the  SEBI  Board  has  approved 
+
+following  amendments  to  SEBI  (Alternative  Investment  Funds)  Regulations,  2012  with 
+
+respect to ‘Angel Funds’: 
+
+I. 
+
+Increase  in  maximum  investment  amount  in  venture  capital  undertakings  by  an 
+
+angel fund in any venture capital undertaking from five crore rupees to ten crore 
+
+rupees. 
+
+II.  The  requirement  of  minimum  corpus  of  an  angel  fund  reduced  from  ten  crore 
+
+rupees to five crore rupees. 
+
+III. 
+
+Increase in maximum period for accepting funds from angel investors from three 
+
+years to five years. 
+
+ 
+
+Page 5 of 8 
+
+IV.  The requirement of filing of scheme memorandum to SEBI by angel funds replaced 
+
+with  the  requirement  of  filing  term  sheet  containing  material  information,  as 
+
+specified by SEBI, within ten days of launching scheme.  
+
+V.  The provisions of the Companies Act, 2013 shall apply to the Angel fund, if it is 
+
+formed as a company. 
+
+ 
+
+7.  Revised Framework for non-compliance of the Listing Regulations 
+ 
+
+The Board has decided to revise the existing enforcement framework for non-compliance 
+
+of the listing regulations by listed companies.  
+
+ 
+
+ 
+
+The revised framework has the following distinct features: 
+
+I. 
+
+It is more comprehensive and covers a wide gamut of listing regulations such as the 
+
+requirements  pertaining  to  composition  of  the  listed  company’s  Board  and  its 
+
+committees, submission of corporate governance compliance report, financial results 
+
+and voting results, etc. Non-compliance of these regulations will lead to imposition of 
+
+fines by stock exchanges. 
+
+ 
+
+II. 
+
+It also empowers the stock exchanges to freeze the shareholding of the promoter and 
+
+promoter  group  in  such  non-compliant  entity  as  well  as  their  shareholding  in  other 
+
+securities. 
+
+III. 
+
+ 
+
+ 
+
+If non-compliance persists, it will lead to suspension. 
+
+The  revised  framework  is  expected  to  promote  a  better  compliance  culture  apart  from 
+
+putting in place an appropriate system for effective enforcement of continuous compliance 
+
+of requirements by listed companies and their promoter/ promoter group. 
+
+ 
+
+8.  Distribution of cash benefits by listed companies through Depositories 
+
+ 
+Board decided to include the option of distribution of cash benefits like dividends through 
+
+Depositories,  in  addition  to  the  present  system  of  distribution  directly  by  the  listed 
+
+companies or through their Registrar to an issue and/or Share Transfer Agents.  
+
+The option will widen the choice for investors with its benefits such as shorter turnaround 
+
+time for receiving benefits, ability to get consolidated statements of all such benefits and to 
+
+receive alerts (SMS / E-mails), etc. 
+
+Page 6 of 8 
+
+ 
+
+ 
+
+9.  Amendment  to  Regulation  40  of  SEBI  (LODR)  Regulations,  2015  for  mandating 
+
+transfer of securities only in demat form 
+
+The Board revised the provisions relating to transfer of listed securities and decided that 
+
+requests  for  effecting  transfer  of  listed  securities  shall  not  be  processed  unless  the 
+
+securities are held in the dematerialized form with a depository. The measure is aimed at 
+
+curbing  fraud  and  manipulation  risk  in  physical  transfer  of  securities  by  unscrupulous 
+
+entities. Transfer of securities only in demat form will improve ease, convenience and safety 
+
+of transactions for investors. Date of this amendment will be notified later.  
+
+ 
+
+10. Public Consultation Process for laying down a framework of compliance with SEBI 
+Regulations by listed entities subject to Corporate Insolvency Resolution Process 
+under the Insolvency and Bankruptcy Code, 2016 
+
+ 
+
+The Board, on the basis of the discussion paper placed before it, approved the proposal of 
+
+undertaking  a  public  consultation  process  as  a  part  of  reviewing  the  requirements  of 
+
+compliance with various SEBI Regulations by listed entities which are subject to Corporate 
+
+Insolvency Resolution Process (“CIRP”) under the Insolvency and Bankruptcy Code, 2016 
+
+(“IBC”).  Various  issues  flagged  in  the  discussion  paper  include  aspects  relating  to 
+
+disclosures,  trading  in  stock  exchanges,  material  related  party  transactions,  re-
+
+classification of promoters, compliance with minimum public shareholding requirement and 
+
+delisting pursuant to resolution plan/ liquidation.  
+
+ 
+
+11. Public  Consultation  Process  for  Review  of  SEBI  (Buy-back  of  Securities) 
+Regulations,  1998  and  SEBI  (Substantial  Acquisition  of  Shares  and  Takeovers) 
+Regulations, 2011 
+ 
+The Board, on the basis of the discussion paper placed before it, approved the proposal of 
+
+undertaking a public consultation process for reviewing the SEBI (Buy-back of Securities) 
+
+Regulations,  1998  and  SEBI  (Substantial  Acquisition  of  Shares  and  Takeovers) 
+
+Regulations,  2011  with  an  objective  of  simplifying  the  language,  removing  redundant 
+
+provisions and inconsistencies, updating the references to the Companies Act, 2013/ other 
+
+new SEBI Regulations, and incorporating the relevant circulars, FAQs, informal guidance 
+
+in the regulations, wherever possible. 
+
+ 
+
+ 
+
+Page 7 of 8 
+
+Based on a review on these lines, as stated in the discussion paper, it is proposed to re-
+
+frame an entirely new set of Buy-back Regulations, 2018 in lieu of the extant 1998 version 
+
+of  the  Regulations.  In  respect  of  the  Takeover  Regulations,  amendments  have  been 
+
+proposed in the existing set of Regulations. An important amendment proposed in Takeover 
+
+Regulations is granting of additional time for upward revision of open offer price.   
+
+ 
+
+12. Budget estimates for the Financial Year (FY) 2018-19 
+
+The SEBI Budget for the financial year 2018-19 was considered and approved by the 
+
+Board. 
+
+Mumbai 
+
+March 28, 2018 
+
+************* 
+
+ 
+
+Page 8 of 8 
+
+

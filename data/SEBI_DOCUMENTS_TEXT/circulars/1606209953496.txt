@@ -1,0 +1,144 @@
+ 
+
+ 
+
+भारतीय (cid:7079)ितभूित और िविनमय बोड(cid:6981)
+
+Securities and Exchange Board of India 
+
+ 
+
+CIRCULAR 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+November 24, 2020
+ 
+ 
+
+SEBI/HO/MRD1/DSAP/CIR/P/2020/234 
+ 
+All Recognised Stock Exchanges  
+ 
+Dear Sir / Madam, 
+ 
+Subject: Testing of software used in or related to Trading and Risk Management 
+ 
+1.  SEBI  vide  Circulars  CIR/MRD/DP/24/2013  dated  August  19,  2013  and 
+CIR/MRD/DP/06/2014 February 7, 2014 came out with  guidelines on ‘Testing of 
+software used in or related to Trading and Risk management’. Subsequent to the 
+above, SEBI has received various suggestions/ representation from stakeholders 
+seeking  relaxation  from  the  requirement  of  software  testing,  prescribed  in  the 
+aforementioned circulars. 
+
+ 
+2.  After due examination and consultation with stakeholders, it has been decided that 
+requirement  of  mandatory  mock  trading  sessions  to  facilitate  testing  of  new 
+software or existing software that has undergone any change of functionality shall 
+be optional if  a Stock Exchange  provides suitable simulated test environment to 
+test  new  software  or  existing  software  that  has  undergone  any  change  of 
+functionality and ensures the following: 
+ 
+i) 
+ii) 
+
+The test environment shall be made available to all the members. 
+The test environment shall be made  available for at least two  hours after 
+market hours and at least on two trading days in a week.  
+For the purpose of testing, Stock Exchange shall make available data from 
+at least one trading day in all segments and the same shall not be older than 
+one month from the day of the testing environment. 
+All trading members (excluding those who use only Exchange provided front 
+end  and/or  ASP  services)  having  approved  Algorithms  available  with  the 
+member, irrespective of the algorithm having undergone change or not, shall 
+participate in the Simulated Environment at least on one trading day during 
+each calendar month at all the exchanges where they are members. This 
+shall be audited and reported in the System Auditors report. 
+Exchange  shall  provide  a  daily  log,  including  Algos  used,  of  members 
+participation  in  Simulated  Environment  to  all  participating  members.  The 
+Exchange  shall  provide  summary  report  of  such  activity  to  SEBI  in  the 
+monthly development report (MDR). 
+
+iii) 
+
+iv) 
+
+v) 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+भारतीय (cid:7079)ितभूित और िविनमय बोड(cid:6981)
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+3.  Other conditions prescribed in SEBI Circulars dated August 19, 2013 and February 
+
+07, 2014 shall remain unchanged. 
+ 
+
+4.  Stock exchanges are directed to:  
+
+ 
+
+4.1. take necessary steps and put in place necessary systems for implementation 
+
+of the above.  
+
+4.2. make necessary amendments to the relevant bye-laws, rules and regulations 
+
+for the implementation of the above decision.  
+
+4.3. bring the provisions of this circular to the notice of the stock brokers/ trading 
+members  of  the  stock  exchanges  and  also  disseminate  the  same  on  its 
+websites.  
+
+ 
+
+5.  This circular is being issued in exercise of powers conferred under Section 11 (1) 
+of the Securities and Exchange Board of India Act, 1992, to protect the interests of 
+investors  in  securities  and  to  promote  the  development  of,  and  to  regulate  the 
+securities market.  
+ 
+
+6.  This circular is available on SEBI website at www.sebi.gov.in under the categories 
+
+“Legal Framework”  “Circulars” 
+ 
+
+ 
+Yours faithfully, 
+ 
+ 
+Amit Kapoor 
+General Manager 
+Market Regulation Department 
++91-22-2644 9374 
+Email: amitk@sebi.gov.in 
+
+ 
+
+

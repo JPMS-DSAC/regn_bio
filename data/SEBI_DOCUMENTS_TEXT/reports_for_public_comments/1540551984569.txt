@@ -1,0 +1,498 @@
+Consultation Paper 
+
+Review of framework for Institutional Trading Platform 
+
+ 
+
+ 
+
+ 
+
+1.  BACKGROUND 
+
+1.1.  The  regulatory  framework  for  Institutional  Trading  Platform  (“ITP”)  was  put  in place 
+
+vide amendments to the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 
+
+2009 (“ICDR Regulations”) on August 14, 2015, with a view to facilitate listing of new age 
+
+start-ups in sectors like e-commerce, data analytics, bio-technology and other start-ups.  
+
+ 
+
+1.2.  The  framework  has  been  retained  in  the  SEBI  (Issue  of  Capital  and  Disclosure 
+
+Requirements) Regulations, 2018. 
+
+ 
+
+1.3.  Considering  that  the  framework  failed  to  gain  interest,  SEBI  came  up  with  certain 
+
+recommendations to make the platform more accessible, vide Discussion Paper dated 
+
+July 29, 2016. Since, the market interest in the platform continued to be lukewarm, no 
+
+amendment to the ICDR Regulations was carried out.  
+
+ 
+
+1.4.  Lately, there has been a lot of activity in the start-up space in India and interest has been 
+
+evinced  with  regard  to  listing  on  the  ITP  by  various  stakeholders  and  industry  bodies. 
+
+Thus,  in  view  of  the  evolving  start-up  ecosystem  and  to  make  the  ITP  platform  more 
+
+accessible, SEBI discussed the issues with various stakeholders and constituted a Group 
+
+on  June  12,  2018  to  review  the  ITP  framework  and  identify  the  areas  which  require 
+
+further changes. 
+
+ 
+
+1.5.  The Group included representatives from the Indian Software Product Industry Round 
+
+Table  (iSPIRT),  The  Indus  Entrepreneurs  (TIE),  the  Indian  Private  Equity  and  Venture 
+
+Capital Association (IVCA), law firms, merchant bankers, and stock exchanges. 
+
+ 
+
+1.6.  While  reviewing  the  ITP  framework,  the  Group  also  held  extensive  consultations  with 
+
+Page 1 of 7 
+
+ 
+
+ 
+
+ 
+
+stakeholders  and  conducted  focused  road-shows  for  start-ups,  investors,  investment 
+
+bankers, wealth management outfits, etc. The Group submitted its recommendations to 
+
+SEBI  suggesting  certain  policy  changes.  The  recommendations  of  the  Group  were 
+
+discussed in   the  meeting of Primary  Market  Advisory  Committee  (PMAC)  of  SEBI  as 
+
+a part of larger consultative process and PMAC made certain recommendations 
+
+ 
+
+1.7.  Based  on  the  recommendations  of  PMAC,  a  revised  consultation  paper  has  been 
+
+prepared containing certain proposals for changes to the ITP framework. The same are 
+
+enumerated below: 
+
+ 
+
+2.  Proposals  
+
+2.1 
+
+NAME OF PLATFORM  
+
+Existing provision 
+
+The  framework for  ITP  is  specified  under  chapter  X  of  the  SEBI  ICDR  Regulations, 2018, 
+
+which is named as ‘Institutional Trading Platform’. 
+
+Proposal  
+
+It is proposed to rename the platform as  ‘Innovators Growth Platform’ (“IGP”) . 
+
+ 
+
+2.2 
+
+ELIGIBILITY 
+
+Existing provision 
+
+Regulation 283 provides: 
+
+(1)  The following issuers shall be eligible for listing on the ITP: 
+
+a)  An  issuer  which  is  intensive  in  the  use  of  technology  ,  information  technology, 
+
+intellectual  property,  data  analytics,  bio-technology  or  nano-technology  to  provide 
+
+products, services or business platforms with  substantial value addition and at least 
+
+twenty five per cent of its pre-issue capital is held by qualified institutional buyer(s) as 
+
+on the date of filing of draft  information document or draft offer document with the 
+
+Board, as the case may be; OR 
+
+ 
+
+Page 2 of 7 
+
+ 
+
+ 
+
+ 
+
+b)  Any  other  issuer  in  which  at  least  fifty  percent  of  the  pre-issue  capital  is  held  by 
+
+qualified institutional buyers as on the date of filing of draft information document or 
+
+draft offer document with the Board, as the case may be. 
+
+Proposal 
+
+A.  In order to be eligible for listing on the ITP, 25% of the pre-issue capital, for at least a 
+
+period  of  2  years,  should  have  been  held  by  Qualified  Institutional  Buyers/other 
+
+regulated entities* and/or Accredited Investors (AIs)** out of which not more than 10% 
+
+should be by AIs.  
+
+B.  *Other regulated entities to be as follows: 
+
+i. 
+
+ii. 
+
+Category III Foreign Portfolio Investor; 
+
+An entity meeting all the following criteria: 
+
+(a)  It is a pooled investment fund with minimum assets under management of USD 150 
+
+million; 
+
+(b) It is registered with a financial sector regulator in the jurisdiction of which it is a resident; 
+
+(c)  It  is  resident  of  a  country  whose  securities  market  regulator  is  a  signatory  to  the 
+
+International  Organization  of  Securities  Commission’s  Multilateral  Memorandum  of 
+
+Understanding  (Appendix  A  Signatories)  or  a  signatory  to  Bilateral  Memorandum  of 
+
+Understanding with SEBI; 
+
+(d) It is not resident in a country identified in the public statement of Financial Action Task 
+
+Force as: 
+
+i. 
+
+a  jurisdiction  having  a  strategic  Anti-Money  Laundering  or  Combating  the 
+
+Financing of Terrorism deficiencies to which counter measures apply; or 
+
+ii. 
+
+a jurisdiction that has not made sufficient progress in addressing the deficiencies 
+
+or has not committed to an action plan developed with the Financial Action Task 
+
+Force to address the deficiencies; 
+
+ 
+
+ 
+
+Page 3 of 7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Additionally, Family trust with net-worth of more than five hundred crore rupees, as 
+
+per the last audited financial statements shall also be an eligible entity for the purpose 
+
+of holding of the pre-issue capital in the Issuer entity. 
+
+C.  **Accredited investors for the purpose of ITP may defined as: 
+
+i.  Any individual with total gross income of ₹ 50 lakhs annually and who has minimum 
+
+liquid net worth of ₹ 5 crores  or 
+
+ii.  Any  body corporate with net worth of ₹ 25 crores  
+
+In order to be recognized as an accredited investor, such investor shall need to approach 
+
+Exchanges/Depositories for accreditation. 
+
+D.  It is proposed to delete Regulation 283(1)(b). 
+
+ 
+
+2.3 
+
+CAP ON HOLDING THE POST-ISSUE CAPITAL 
+
+Existing provision 
+
+Regulation 283(2) of ICDR Regulations stipulates that no person, individually or collectively 
+
+with  persons  acting  in  concert,  shall  hold  25%  or  more  of  the  post-issue  capital,  as  an 
+
+eligibility criterion for the entity to list on ITP. 
+
+Proposal 
+
+It is proposed to remove the provision and hence there will be no separate provision capping 
+
+post IPO shareholding.  
+
+ 
+
+2.4 
+
+MINIMUM APPLICATION SIZE 
+
+Existing provision 
+
+In terms of Regulation 286 of ICDR Regulations, the minimum application size shall be INR 10 
+
+lakh. 
+
+Proposal 
+
+It is proposed that the minimum application size in secondary market shall be INR 2 lakh and 
+
+in multiples thereof. 
+
+ 
+
+Page 4 of 7 
+
+ 
+
+ 
+
+2.5 
+
+ALLOCATION TO INVESTORS 
+
+Existing provision 
+
+In terms of Regulation 287(2) (a) & (b) of ICDR Regulations, 75% of the net offer to public 
+
+shall  be  allocated  for  institutional investors and  remaining 25%  shall  be  allocated to  Non 
+
+Institutional Investors.  
+
+Proposal 
+
+It is proposed that there should not be any minimum reservation of allocation to any specific 
+
+category of investors. Allocation is proposed to be on a proportionate basis. 
+
+2.6 
+
+ DISCRETIONARY ALLOTMENT TO INSTITUTIONAL INVESTORS 
+
+Existing provision 
+
+Regulation 287(5) of ICDR Regulations prescribes that in case of discretionary allotment  to 
+
+institutional investors, no institutional investor shall be allotted more than 10% of the issue 
+
+size. 
+
+Proposal 
+
+In  view  of  the  proposed  allocation  to  investors  on  a  proportionate  basis,  without  any 
+
+reservation, the provision of discretionary allotment is not required. Thus it is proposed to 
+
+delete the existing provision. 
+
+ 
+
+2.7 
+
+MINIMUM NUMBER OF ALLOTTEES  
+
+Existing provision 
+
+Regulation 287(1) of the ICDR Regulations stipulates that the number of allottees shall be 
+
+more than two hundred. 
+
+Proposal 
+
+It is proposed that minimum number of allottees should be 50. 
+
+Page 5 of 7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.8 
+
+LOCK-IN OF PRE-ISSUE CAPITAL 
+
+Existing provision 
+
+ 
+
+In accordance with Regulation 288(1) of ICDR Regulations, the entire pre-issue capital of the 
+
+shareholders  shall  be  locked-in  for  a  period  of  6  months  from  the  date  of  allotment  . 
+
+However, the lock-in is subject to certain exemptions provided for shares arising out of ESOPs 
+
+and shares held by VCF/AIF Category I/FVCI. 
+
+Proposal 
+
+It is proposed that the lock-in of 6 months shall apply uniformly to all the categories of pre-
+
+IPO public shareholders. Exemption from the provision shall be available for shares arising out 
+
+of ESOPs. 
+
+ 
+
+2.9 
+
+TRADING  LOT 
+
+Existing provision 
+
+In terms of Regulation 289 of ICDR Regulations, the minimum trading lot shall be INR 10 lakh. 
+
+Proposal 
+
+It is proposed that the minimum trading lot size in secondary market shall be INR 2 lakh and 
+
+in multiples thereof. 
+
+ 
+
+2.10 
+
+MIGRATION TO THE MAIN BOARD 
+
+Existing provision 
+
+In  terms  of  Regulation 292,   an  entity listed  on  ITP  may  at  its option  migrate  to the Main 
+
+Board of that after expiry of three years from the date of listing subject to compliance with 
+
+the eligibility requirements of the stock platform. 
+
+Proposal 
+
+It is proposed that IGP be designated as a Main Board platform for start-ups with an option to 
+
+trade under regular category after completion of one year of listing.  
+
+ 
+
+ 
+
+Page 6 of 7 
+
+ 
+
+2.11 
+
+MINIMUM OFFER TO PUBLIC 
+
+Existing provision  
+
+ 
+
+Regulation  31  of  ICDR  Regulations  provides  that  the  minimum  offer  to the  public  shall  be 
+
+subject  to  the  provisions  of  clause  (b)  of  sub-rule  (2)  of  rule  19  of  Securities  Contracts 
+
+(Regulations) Rules, 1957.  
+
+Proposal 
+
+It is proposed that minimum net offer to public should be in compliance with Minimum Public 
+
+Shareholding (MPS) norms and minimum offer size should be 10 crores. 
+
+ 
+
+3.  Public comments 
+
+Considering the implications of the said matter on the market participants including issuers 
+
+and  investors,  public  comments  are  invited  on  the  proposals  contained  in  the  discussion 
+
+paper.  Specific  comments/suggestions  as  per  the  format  given  below  would  be  highly 
+
+appreciated:  
+
+ 
+
+Name of entity / person / intermediary/ Organization: 
+
+Sr. No.  Pertains  to  serial  number  under 
+
+Suggestion(s) 
+
+Rationale 
+
+paragraph (2) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The comments may please be e-mailed on or before November 16, 2018, to Ms. Aradhana 
+
+Verma, AGM at aradhanad@sebi.gov.in  or sent by post, to: 
+
+Shri. Narendra Rawat  
+Deputy General Manager  
+Corporation Finance Department  
+Securities and Exchange Board of India  
+SEBI Bhavan Plot No. C4-A, "G" Block Bandra Kurla Complex  
+Bandra (East), Mumbai - 400 051  
+Ph: +91-22--26449383  
+ 
+
+Issued on: October  26, 2018 
+
+ 
+
+Page 7 of 7 
+
+

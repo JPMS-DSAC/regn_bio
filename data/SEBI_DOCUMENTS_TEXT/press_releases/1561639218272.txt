@@ -1,0 +1,493 @@
+ 
+
+PR No.16/2019 
+
+ 
+
+  
+
+SEBI Board Meeting 
+
+ 
+
+The SEBI Board met in Mumbai today and took the following decisions: 
+
+ 
+
+I.  Framework for Issuance of Differential Voting Rights (DVR) Shares 
+
+  There  is  an  increasing  debate  about  the  need  to  enable  issuance  and  listing  of 
+
+shares  with  differential  voting  rights,  commonly  known  as  DVRs  in  India.  Such 
+
+shares have rights disproportionate to their economic ownership.  
+
+The Board approved a framework for issuance of differential voting rights shares 
+
+along  with  amendments  to  the  relevant  SEBI  Regulations  to  give  effect  to  the 
+
+framework.  
+
+The key proposals approved are as follows:  
+
+1.  Eligibility: A company having superior voting rights shares (SR shares) would be 
+
+permitted to do an initial public offering (IPO) of only ordinary shares to be listed 
+
+on  the  Main  Board,  subject  to  fulfillment  of  eligibility  requirements  of  the 
+
+SEBI(Issue of  Capital and  Disclosure  Requirements) Regulations,  2018  and the 
+
+following conditions: 
+
+i)  The  issuer  company  is  a  tech  company  (as  per  the  definition  in  Innovators 
+
+Growth Platform) i.e. intensive in the use of technology, information technology, 
+
+intellectual  property,  data  analytics,  bio-technology  or  nano-technology  to 
+
+provide  products,  services  or  business  platforms  with  substantial  value 
+
+addition.  
+
+ii)  The SR shareholder should be a part of the promoter group whose collective 
+
+net worth does not exceed Rs 500 Crores. While determining the collective net 
+
+worth, the investment of SR shareholders in the shares of the issuer company 
+
+shall not be considered.  
+
+iii)  The SR shares have been issued only to the promoters/ founders who hold an 
+
+executive position in the company. 
+
+Page 1 of 7 
+
+ 
+
+iv)  The  issue  of  these  SR  shares  has  been  authorized  by  a  special  resolution 
+
+passed at a general meeting of the shareholders.  
+
+v)  SR shares have been held for a period of at least 6 months prior to the filing of 
+
+Red Herring Prospectus (RHP). 
+
+vi)  SR  shares  have  voting  rights  in  the  ratio  of  minimum  2:1  to  maximum  10:1 
+
+compared to ordinary shares.  
+
+ 
+
+2.  Listing and Lock-in: SR shares shall also be listed on Stock Exchanges after the 
+
+issuer company makes a public issue. However, SR shares shall be under lock-in 
+
+after  the  IPO  until  their  conversion  to  ordinary  shares.  Transfer  of  SR  shares 
+
+among promoters shall not be permitted. No pledge/ lien shall be allowed on SR 
+
+shares.  
+
+ 
+
+3.  Rights  of  SR  shares: SR  shares  shall  be  treated  at  par  with  the  ordinary  equity 
+
+shares  in  every  respect,  including  dividends,  except  in  the  case  of  voting  on 
+
+resolutions. The total voting rights of SR shareholders (including ordinary shares), 
+
+post listing, shall not exceed 74%. 
+
+ 
+
+4.  Enhanced  corporate  governance:  Companies  having  SR  shareholders  shall  be 
+
+subject to enhanced corporate governance as follows: 
+
+i)  Atleast ½ of the Board and 2/3rd of the Committees (excluding Audit Committee) 
+
+as  prescribed  under  SEBI  (LODR)  Regulations,  2015  shall  comprise  of 
+
+Independent Directors. 
+
+ii)  Audit Committee shall comprise of only Independent Directors. 
+
+ 
+
+5.  Coat-tail Provisions: Post-IPO, the SR Equity Shares shall be treated as ordinary 
+
+equity shares in terms of voting rights (i.e. one SR share shall have only one vote) 
+
+in the following circumstances: 
+
+i)  Appointment or removal of independent directors and/or auditor; 
+
+ii)  In case where promoter is willingly transferring control to another entity 
+
+iii)  Related Party Transactions in terms of SEBI(LODR) Regulations involving SR 
+
+shareholder 
+
+iv)  Voluntary winding up of the company; 
+
+ 
+
+Page 2 of 7 
+
+v)  Changes in the company’s Article of Association or Memorandum - except any 
+
+changes affecting the SR instrument  
+
+vi)  Initiation of a voluntary resolution plan under IBC; 
+
+vii) Utilization of funds for purposes other than business 
+
+viii)Substantial  value  transaction  based  on  materiality  threshold  as  prescribed 
+
+under LODR;  
+
+ix)  passing of special resolution in respect of delisting or buy-back of shares; and 
+
+x)  Any other provisions notified by SEBI in this regard from time to time. 
+
+ 
+
+6.  Sunset  Clauses:  SR  shares  shall  be  converted  into  ordinary  shares  in following 
+
+circumstances/ events: 
+
+i)  Time Based: The SR shares shall be converted to Ordinary Shares on the 5th 
+
+anniversary of listing. The validity can be extended once by 5 years through a 
+
+resolution. SR shareholder would not be permitted to vote on such resolutions. 
+
+ii)  Event Based: SR shares shall compulsorily get converted into ordinary shares 
+
+on  occurrence  of  certain  events  such  as  demise,  resignation  of  SR 
+
+shareholders, merger or acquisition where the control would be no longer with 
+
+SR shareholder, etc.   
+
+ 
+
+7.  Fractional Rights Shares: Henceforth, issue of fractional rights shares by existing 
+
+listed  companies  shall  not  be  allowed.  The  need  for  allowing  issue  of  fractional 
+
+rights shares by listed companies may however be reviewed after gaining enough 
+
+experience with the use of SR shares. 
+
+ 
+
+The Board, while approving the amendments, considered the recommendations of 
+
+the Primary Market Advisory Committee (PMAC) and the public comments on the 
+
+Consultation Paper. 
+
+ 
+
+ 
+
+II.  Amendments  to  SEBI  (Listing  Obligations  and  Disclosure  Requirements) 
+
+Regulations, 2015 - payment relating to royalty and brand usage 
+
+1.  SEBI    (Listing    Obligations    and    Disclosure  Requirements)    Regulations  had 
+
+prescribed that  payments  made  to  related  parties  towards   brand usage  or 
+
+royalty are to be considered material if the transaction(s) exceed 2% of the annual 
+
+consolidated  turnover  of  the  listed  entity  during  a  financial  year.  This  required 
+
+Page 3 of 7 
+
+approval of the shareholders, with no related party having a vote to approve such 
+
+resolutions. This provision was to come into effect from April 1, 2019. In view of 
+
+the representations received on the subject and with a view to analyse them, the 
+
+Board had decided to defer the implementation of this provision for three months 
+
+i.e. till June 30, 2019. 
+
+2.  The  Board  has  now,  after  considering  the  representations,  decided  that 
+
+payments   made  to   related  parties  towards  brand usage  or royalty may  be 
+
+considered  material  if  the  transaction(s)  exceed  5%  of  the  annual  consolidated 
+
+turnover  of 
+
+the 
+
+listed  entity  during  a 
+
+financial  year  and  would 
+
+require  approval  of  the  shareholders, with  no  related  party  having  a  vote  to 
+
+approve such resolutions.  
+
+ 
+
+III.  Disclosure of Encumbrances 
+
+The Board has approved the following proposals: 
+
+1.  The term “encumbrance” as defined in the SEBI (Substantial Acquisition of Shares 
+
+and Takeovers) Regulations, 2011 shall henceforth include, - 
+
+i)  any restriction on the free and marketable title to shares, by  whatever name 
+
+called, whether executed directly or indirectly; 
+
+ii)  pledge, lien, negative lien, non-disposal undertaking; 
+
+iii)  any  covenant,  transaction,  condition  or  arrangement  in  the  nature  of 
+
+encumbrance,  by  whatever  name  called,  whether  executed  directly  or 
+
+indirectly. 
+
+2.  Promoters  shall  be  required  to  disclose  separately  detailed  reasons  for 
+
+encumbrance  whenever  the  combined  encumbrance  by  the  promoters  and 
+
+persons  acting  in  concert  (PACs)  crosses  20%  of  the  total  share  capital  in  the 
+
+company or 50% of their shareholding in the company.  The stock exchanges will 
+
+maintain the details of such encumbrance along with purpose of encumbrance, on 
+
+their websites. 
+
+3.  The promoters shall be required to declare to the audit committee of the company 
+
+and to the stock exchanges on a yearly basis, that they along with PACs, have not 
+
+made any encumbrance directly or indirectly, other than already disclosed, during 
+
+the financial year.  
+
+The Board has taken the above measures in the context of recent concerns w.r.t. 
+
+promoter/ companies raising funds from Mutual Funds/ NBFCs through structured 
+
+ 
+
+Page 4 of 7 
+
+obligations,  pledge  of  shares,  non-disposal  undertakings,  corporate/  promoter 
+
+guarantees and various other complex structures. 
+
+ 
+
+IV.  Review of Risk Management Framework of Liquid Funds, Investment Norms 
+
+and Valuation of Money Market and Debt Securities by Mutual Fund 
+
+In  light  of  a few  credit  events  in  the  fixed  income  market  that  led  to  increase  in 
+
+liquidity risk of Mutual Funds, a need was felt to review the regulatory framework 
+
+and take necessary steps to safeguard the interest of investors and maintain the 
+
+orderliness and robustness of Mutual Funds.  
+
+ 
+
+In this context, SEBI had constituted working groups representing AMCs, industry 
+
+and  academia  to  review  the  risk  management  framework  with  respect  to  liquid 
+
+schemes and to review the existing practices on valuation of money market and 
+
+debt securities. Further, an internal working group within SEBI was constituted to 
+
+inter-alia review norms for Mutual Funds for investment in various debt and money 
+
+market securities. 
+
+ 
+
+The analysis along with recommendations of the working groups were placed in a 
+
+meeting of Mutual Fund Advisory Committee (MFAC). In this regard, MFAC made 
+
+several recommendations.  
+
+ 
+
+The Board after deliberations, inter-alia, approved the following proposals: 
+
+Risk  Management  Framework  of  Liquid  Funds  and  prudential  norms 
+
+governing investments in debt and money market instruments 
+
+1.  Liquid Schemes shall be mandated to hold at least 20% in liquid assets such as 
+
+Cash, Government Securities, T-bills and Repo on Government Securities. 
+
+2.  The cap on sectoral limit of 25% shall be reduced to 20%. The additional exposure 
+
+of  15%  to  HFCs  shall  be  restructured  to  10%  in  HFCs  and  5%  exposure  in 
+
+securitized  debt  based  on  retail  housing  loan  and  affordable  housing  loan 
+
+portfolios. 
+
+3.  The valuation of debt and money market instruments based on amortization shall 
+
+be dispensed with completely and shall be based on mark to market. 
+
+Page 5 of 7 
+
+ 
+
+ 
+
+4.  Liquid  and  overnight  schemes  shall  not  be  permitted  to  invest  in  Short  Term 
+
+Deposits,  debt  and  money  market  instruments  having  structured  obligations  or 
+
+credit enhancements. 
+
+5.  A  graded  exit  load  shall  be  levied  on  investors  of  liquid  schemes  who  exit  the 
+
+scheme upto a period of 7 days. 
+
+6.  Mutual  Fund  schemes  shall  be  mandated  to  invest  only  in  listed  NCDs  and  the 
+
+same  would  be  implemented  in  a  phased  manner.  All  fresh  investments  in 
+
+Commercial Papers (CPs) shall be made only in listed CPs pursuant to issuance 
+
+of guidelines by SEBI in this regard. 
+
+7.  All fresh investments in equity shares by Mutual Fund schemes shall only be made 
+
+in listed or to be listed equity shares. 
+
+8.  Prudential limits on total investment by a Mutual Fund scheme in debt and money 
+
+market  instruments  having  credit  enhancements  and  on  investment  by  Mutual 
+
+Fund scheme in such debt securities of a particular group, as percentage of debt 
+
+portfolio  of  the  respective  scheme  have  been  prescribed  at  10%  and  5% 
+
+respectively.   
+
+9.  There  should  be  adequate  security  cover  of  at  least  4  times  for  investment  by 
+
+Mutual Fund schemes in debt securities having credit enhancements backed by 
+
+equities directly or indirectly. 
+
+Valuation of Money Market and Debt Securities by Mutual Funds 
+
+1.  In  order  to  make  existing  provisions  on  valuation  of  money  market  and  debt 
+
+securities  more  reflective  of  best  practices,  various  proposals  for  amending  the 
+
+extant provisions were approved.  
+
+2.  Further, in order to bring uniformity and consistency in valuation, various proposals 
+
+on  the  waterfall  approach  for  valuation  of  non-traded  money  market  and  debt 
+
+securities  by  Mutual  Funds  were  approved,  along  with  acknowledging  that 
+
+valuation agencies may need a certain degree of flexibility in order to ensure fair 
+
+pricing  of  securities.  Nevertheless,  in  terms  of  the  Principles  of  Fair  Valuation, 
+
+AMCs are responsible for ensuring fairness of valuation and they may deviate from 
+
+the valuation guidelines, subject to appropriate documentation and disclosure. 
+
+3.  In  order  to  increase  the  robustness  of  valuation  and  address  possible  mis-use, 
+
+various  proposals  related  to  valuation  of  Inter-scheme  Transfers  (ISTs), 
+
+disallowing the use of own trades for valuation etc., were approved. 
+
+Page 6 of 7 
+
+ 
+
+ 
+
+ 
+
+Suitable  grandfathering  wherever  applicable  and  adequate  time  period  shall  be 
+
+provided for implementation of the above proposals. 
+
+  
+
+V.  Amendments to SEBI (PIT) Regulations 
+
+The  Board  considered  representations  received  from  the  market  on  certain 
+
+aspects relating to Code of Conduct prescribed in the SEBI (Prohibition of Insider 
+
+Trading) Regulations, 2015 (PIT Regulations). 
+
+Upon  consideration,  the  Board  approved  amendments  clarifying  that  trading 
+
+window closure for listed companies shall be applicable from end of every quarter 
+
+till 48 hours after declaration of financial results.  The amendments clarify that such 
+
+closure shall not be applicable in respect of transactions such as off-market inter-
+
+se transfer between insiders, transaction through block deal window mechanism 
+
+between insiders, transaction due to statutory or regulatory obligations, exercising 
+
+of  stock  options,  pledging  of  shares  for  bona  fide  transaction  such  as  raising  of 
+
+funds and transactions for acquiring shares under further public issue, right issue 
+
+and preferential issue, exercising conversion of warrants / debentures, tendering 
+
+shares under buy-back, open offer and delisting etc. under respective regulations, 
+
+subject to conditions specified.  The Board also approved amendments clarifying 
+
+material financial relationships. 
+
+ 
+
+VI.  SEBI Annual Report: 2018-19 
+
+The  Board  considered  and  approved  the  SEBI  Annual  Report:  2018-19.  In 
+
+compliance  with  Section  18(2)  of  SEBI  Act,  1992,  the  Annual  Report  would  be 
+
+submitted to the Central Government. 
+
+ 
+
+ 
+
+Mumbai 
+
+June 27, 2019 
+
+ 
+
+Page 7 of 7 
+
+

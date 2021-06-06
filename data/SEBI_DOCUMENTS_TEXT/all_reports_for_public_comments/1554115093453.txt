@@ -1,0 +1,2455 @@
+ 
+
+ 
+
+ 
+
+Issuance of shares with Differential Voting Rights [DVRs] 
+
+Consultation Paper 
+
+ 
+
+1.  BACKGROUND 
+
+1.1. There is increasing debate about the need to enable issuance and listing of shares with 
+
+differential voting rights, commonly known as DVRs in India; and dual class shares or DCS 
+
+in the international context. Such shares have rights disproportionate to their economic 
+
+ownership.  In  promoter/  founder  led  companies  where  promoters/  founders  are 
+
+instrumental  in  the  success  of  the  company,  such  structures  enable  them  to  retain 
+
+decision-making powers and rights vis-à-vis other shareholders either through retaining 
+
+shares with superior voting rights or issuance of shares with lower or fractional voting 
+
+rights to public investors.  
+
+ 
+
+1.2. The  matter  was  deliberated  in  the  Primary  Market  Advisory  Committee  of  SEBI  and  a 
+
+group (DVR Group) was constituted amongst the Committee members to do an in-depth 
+
+study of the proposal of introduction of dual-class shares in Indian Scenario.  
+
+ 
+
+1.3. The DVR Group has submitted its report [DVR Group report] to SEBI. The Report proposes 
+
+to structure the regulation of DVR issuance under two broad heads. The broad heads will 
+
+cover issuance by companies whose equity shares are already listed on stock exchanges; 
+
+and companies with equity shares not hitherto listed but proposed to be offered to the 
+
+public. 
+
+ 
+
+ 
+
+2.  PUBLIC COMMENTS 
+
+Considering the implications of the said matter on the market participants including issuers 
+
+and  investors,  public  comments  are  invited  on  the  proposals  contained  in  the  DVR  Group 
+
+Report.  Specific  comments/suggestions  as  per  the  format  given  below  would  be  highly 
+
+appreciated:  
+
+ 
+
+ 
+
+Name of entity / person / intermediary/ Organization: 
+
+ 
+
+Sr. No.  Pertains 
+
+to 
+
+specific 
+
+Suggestion(s) 
+
+Rationale 
+
+recommendation  in  DVR  Group 
+
+Report 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The comments may please be e-mailed on or before April 20, 2019, to Mr. Abhishek Rozatkar, 
+
+Assistant General Manager at abhishekr@sebi.gov.in or sent by post, to: 
+
+ 
+
+Smt. Yogita Jadhav  
+
+Deputy General Manager  
+
+Corporation Finance Department  
+
+Securities and Exchange Board of India  
+
+SEBI Bhavan Plot No. C4-A, "G" Block Bandra Kurla Complex  
+
+Bandra (East), Mumbai - 400 051  
+
+Ph: +91-22--26449583  
+
+ 
+
+Issued on: March 20, 2019 
+
+PMAC DVR GROUP REPORT 
+
+February 2019 
+
+ 
+
+Issuance of Equity Shares with Differential Voting Rights  
+
+ 
+Table of Contents 
+Introduction 
+Need for DVR in India 
+Advantages and disadvantages for consideration in the context of DVRs 
+
+1 
+2 
+3.  
+ 
+ 
+4.  
+ 
+ 
+ 
+ 
+5. 
+ 
+ 
+ 
+ 
+ 
+6. 
+ 
+ 
+7. 
+ 
+
+- 
+- 
+
+Issuer 
+Investor 
+
+Regulatory considerations  in India 
+
+-  The Companies Act 
+- 
+- 
+- 
+
+SEBI Regulations 
+Securities Contracts (Regulation) Rules, 1957 
+SEBI (LODR) Regulations, 2015 
+
+Comparison across various jurisdictions 
+
+-  USA 
+-  Canada 
+-  Hong Kong 
+- 
+-  Regulators’ views on DCS structures 
+
+Singapore 
+
+Market considerations and Companies with listed DVRs in India 
+
+Share price performance of DVRs  
+
+- 
+-  History and analysis of DVRs by Indian companies 
+
+Recommendations of the PMAC DVR Group 
+Annexures 
+
+ 
+
+2 
+2 
+3 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+13 
+25 
+
+ 
+ 
+
+ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+1 
+
+ 
+
+1.  Introduction 
+
+ 
+
+The common rule of one share - one vote is considered convenient for corporate governance, both 
+from  the  point  of  view  of  the  shareholders  and  the  promoters  of  a  company.  However,  there  is 
+increasing  debate  about  the  need  to  enable  issuance  and  listing  of  shares  with  differential  voting 
+rights, commonly known as DVRs in India; and dual class shares or DCS in the international context. 
+Such  shares  have  rights  disproportionate  to  their  economic  ownership.  In  promoter/  founder  led 
+companies  where  promoters/  founders  are  instrumental  in  the  success  of  the  company,  such 
+structures enable them to retain decision-making powers and rights vis-à-vis other shareholders either 
+through  retaining  shares  with  superior  voting  rights  or  issuance  of  shares  with  lower  or  fractional 
+voting rights to public investors.  
+ 
+Such  structures  help  in  fund  raising  without  dilution  of  control  and  serve  as  defense  mechanism 
+against any hostile bid for change in control. While the promoters/ founders can maintain control as 
+they would hold shares with the superior voting rights, the shareholders participating in the shares 
+with lower or fractional voting rights get the opportunity to participate in the growth of the company, 
+through higher dividends and capital appreciation, besides the gains in case of a sunset clause, even 
+though they have lower voting rights.  
+ 
+In India, the current regulatory regime does not permit DVRs with higher or superior voting rights. 
+However, subject to certain conditions, DVR shares with lower voting rights are permitted. DVR shares 
+with lower voting rights may be of some interest to small shareholders as dividend yield and capital 
+appreciation probably rank higher than voting rights in their investment decisions.  
+ 
+DVR with lower voting rights shares are typically priced lower at issuance and offer higher dividends; 
+in return, the voting rights are limited.   
+ 
+2.  Need for DVRs in India 
+ 
+India is experiencing a high growth phase, which requires companies to raise capital to sustain this 
+growth. For companies with high leverage or asset light models may prefer equity over debt capital. 
+Raising equity on a periodic basis leads to dilution of founder/ promoter stake, which can be effectively 
+addressed through use of DVRs as a mode of capital raising. 
+ 
+This is especially relevant for new technology firms which have asset light models, with little or no 
+need for debt financing. These firms, however, continuously require grow only through equity, which 
+dilutes promoter’s/ founder’s stake, thereby diluting control. It is pertinent to note that in such cases, 
+retaining founder’s interest & control in the business is of great value to all shareholders.  
+This can be achieved by: 
+
+Issue of shares with superior voting rights to founders and/or 
+
+a) 
+b)  Issue  of  shares  with  lower  or  fractional  voting  rights  to  raise  funds  from  private/  public 
+
+investors 
+ 
+
+One way to let Indian entrepreneurs have some autonomous space for managing and growing their 
+business without the suppliers of their capital over-supervising them and offering advice they cannot 
+refuse is to allow them to issue shares with differential voting rights to the founders/ promoters. Will 
+foreign  funds  want  to  invest  in  such  companies  where  founders  hold  higher  voting  rights?  If  the 
+business model and execution capability on offer are compelling, they would, attracted by the financial 
+return promised by the venture. Research shows that firms with an exciting story to tell issue dual-
+class shares. Market will be willing to give up control to an insider who has proven to be successful. 
+ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+2 
+
+ 
+
+3.  Advantages and disadvantages for consideration in the context of DVRs 1 
+
+ 
+
+The success of dual-class structures in many companies has led both Nasdaq and the NYSE to continue 
+to  permit  dual-class  listings.  For  example,  Nasdaq  recently  released  a  report  that  included  an 
+endorsement of dual-class stock, including laying out the arguments why companies with dual-class 
+stock  should  continue  to  be  listed.  Among  the  reasons  cited  by  Nasdaq  was  the  recognition  that 
+encouraging  entrepreneurship  and  innovation  in  the  U.S.  economy  is  best  done  by  “establishing 
+multiple  paths  entrepreneurs  can  take  to  public  markets”.  “Because  of  this,  each  “publicly  traded 
+company should have flexibility to determine a class structure that is most appropriate and beneficial 
+for  them,  so  long  as  this  structure  is  transparent  and  disclosed  up  front  so  that  investors  have 
+complete visibility into the company. Dual-class structures allow investors to invest side-by-side with 
+innovators and high-growth companies, enjoying the financial benefits of these companies’ success.”  
+
+ 
+
+While there is ongoing debate in the SEC about the continuation of DCS2, NYSE continues to actively 
+seek to list companies with multi-class stock, including Alibaba, which chose to list on the NYSE after 
+the Hong Kong stock exchange raised significant questions about its capital structure. 
+ 
+Presented below is an analysis of the advantages and disadvantages of dual class structures for issuers 
+and investors: 
+
+ 
+
+a.  Advantages to the Issuer: 
+
+  A company can raise money and founders of the company can continue to keep control over 
+the company. DVR is a good instrument that would allow founders, especially in case of tech 
+startups, to raise capital without losing control.  
+In the case of ordinary equity shares, there is a possibility that a person/institution can acquire 
+majority of the shares and hence take over the control of the company from the management, 
+which is not possible if the founders hold superior voting right shares. 
+
+ 
+
+  Founder led companies with effective interest of the founders in such companies is good for 
+
+growth of the business and thereby for all shareholders. 
+
+ 
+b.  Downsides for the Issuer: 
+
+  Usually strategic investor/PE investors want voting rights as they would like to play a role in 
+the management of the company. Many such investors are prohibited by their charters to 
+invest in such shares where they hold voting rights than are inferior to any other shareholder. 
+Hence, it may pose some challenge for issuers to find investors in situations where founders 
+may hold superior voting rights. (A retail investor on the other hand, might be more interested 
+in  higher  dividends  and  capital  appreciation than  in the management  of  the  company  and 
+hence may be less averse to such structures.) 
+
+  There are always additional questions on corporate governance in companies with dual class 
+
+ 
+
+structures. 
+Lack of investor awareness pursuant to which investors might not be able to understand the 
+DVR structures or risks associated with it to make an informed investment decision. 
+ 
+
+c.  Advantages to Investors: 
+
+                                                           
+1 https://www.directorsandboards.com/news/pros-cons-dual-class-stock-structure-two-corporate-
+governance-experts-battle-it-out 
+2 http://www.pionline.com/article/20180216/ONLINE/180219888/sec-commissioner-calls-for-curb-on-dual-
+class-forever-shares# 
+
+DVRs - Group Report  
+ 
+
+ 
+
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In  case  of  pre-existing  superior  voting  rights  with  the  founders,  investors  would  have  the 
+comfort of continued involvement of the founders in the company due to control exercised 
+through superior voting rights held by them 
+Investors very often invest in a company because of the “trust” they have in the founders and 
+entrepreneurs behind such companies  
+If the company issues shares with lower or fractional voting rights, the DVR shareholder gets 
+equal or higher dividend inspite of lower voting rights.  
+
+  DVRs with lower or fractional voting rights are usually offered at a discount to the price of the 
+
+normal equity shares. 
+
+  Such shares generally pay more dividend than the normal equity shares. 
+
+ 
+
+d.  Downsides for Investors: 
+
+  When voting interest is separated from economic interests, it may lead to other externalities 
+interests  among  shareholders,  excessive  compensation  of 
+
+such  as  misalignment  of 
+management, reduced dividend pay-out, management entrenchment and expropriation 
+
+  There is a concern about whether recourse is available to minority shareholders if founders 
+
+holding superior voting rights are unable to deliver results. 
+
+  DVRs with lower or fractional voting rights are often illiquid. 
+  DVRs with superior voting rights with the founders or large proportion of DVRs with lower or 
+fractional voting rights with public investors make management excessively powerful, leading 
+to issues of corporate governance 
+
+  While DCS structures are allowed in countries like the U.S., Canada, Hong Kong and Singapore, 
+
+they are the exception rather than the norm 
+
+ 
+ 
+4.  Regulatory Considerations in India 
+
+ 
+
+The regulatory framework in India protects the rights of the dual class shareholders, as well as the 
+minority  shares.  For  example,  in  the  United  States,  Berkshire  Hathaway  Inc.  Class  A  equity 
+shareholders can convert their shares into class B equity shares, having fewer voting rights. However, 
+under the Indian Law, a company cannot convert its existing equity share capital with voting rights 
+into equity share capital carrying differential voting rights and vice versa. 
+ 
+a.  The Companies Act, 2013 
+
+ 
+The Companies Act, 2013, Section 47 provides for every shareholder of a company to have a right 
+to vote on every resolution presented before the company.  
+ 
+However, as per Section 43(a)(ii) of the Companies Act, 2013, a company incorporated under the 
+laws of India and limited by shares is permitted to have equity shares with differential voting rights 
+as part of its share capital. The differential rights appended to such equity shares may be with 
+respect to dividend, voting (higher or lower) or otherwise. Such equity shares may be issued by a 
+company as per  Rule 4 of the  Companies (Share Capital & Debentures) Rules, 2014 prescribed 
+under the Companies Act, 2013.  
+ 
+It is pertinent to note  that the Rules  have clarified that existing equity shares with differential 
+rights will continue to have the rights that have been provided at the time of their issuance and 
+have  accordingly  been  grandfathered.  Shares  with  differential  voting  rights  would  be  valid 
+provided a company has the powers to issue and structure such class of shares under the Articles 
+of Association of the company. 
+ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+4 
+
+ 
+
+Two limiting factors in the Companies Act, 2013 are: 
+
+ 
+
+ 
+
+1.  “The company must have a consistent track record of distributable profits for the last 3 years”. 
+However, the 3-year criterion is silent on IPOs. Further, the same also needs to be looked into 
+with SEBI regulations viz. 6(1), 6(2) of the SEBI (Issue of Capital and Disclosure Requirements) 
+Regulations, 2018 (“SEBI ICDR Regulations”). While it appears that the criteria may not be 
+beneficial for startups, a view needs to be taken whether the intention was to open up for all 
+companies  including  non-profit  making  or  have  a  filter  as  in  have  it  initially  for  mature 
+startups. 
+
+2.  “The  shares  with  differential  rights  shall  not  exceed  26%  of  the  total  post-issue  capital, 
+
+including equity shares with differential rights issued at any point of time”.  
+
+ 
+ 
+
+b.  SEBI Regulations 
+ 
+
+With the apprehension of possible misuse of “superior voting rights” by the issue of shares by the 
+listed  companies,  SEBI  prohibited  the  issue  of  such  shares  in  July  21,  2009.  The  plausible 
+justification  for  prohibition  was  the  prevention  from  detriment  of  the  shareholders.  However, 
+shares with inferior voting rights are permitted by SEBI. The question of the hour that arises is 
+how different the shares with “superior voting rights” are from shares with “differential voting 
+rights”, as it is the latter term that has attained some measure of popularity under Indian law and 
+practice.  
+ 
+It is significant to comprehend the interpretation of terms “superior and differential voting rights”. 
+It appears that while the expression “differential voting rights” is more generic in nature, “superior 
+voting rights” means any rights that give the shareholder more than one vote per share on a poll, 
+which is the usual norm. This step justifies the prevention of people in control of a company from 
+issuing  shares  to  themselves  which  provide  equal  economic  benefits  with  other  shareholders 
+(thereby  requiring  equal  outflow of  financial  resources  to obtain those  shares),  but  one which 
+gives greater voting rights and hence, better control. Hence, it is possible for listed companies to 
+issue  shares with differential voting rights which provide voting rights below the  normal “one-
+share-one-vote” rule, conferring voting rights greater than that is prescribed. 
+
+In the Jagatjit Industries case3, the two brothers, Anand and Jagatjit, moved the CLB against the 
+company’s decision in 2004 on preferential allotment of shares with DVRs, giving Karamjit 64% 
+voting rights on his 32% stake in the company. CLB , in its order, upheld the resolution to allot 
+shares with DVRs to the promoter of the company.  
+ 
+Furthermore, while listed companies will now be allowed to issue differential voting entitlements 
+only with rights inferior to one-vote-per-share, unlisted companies will still be governed by Section 
+86 of the Companies Act, 1956 (Section 43 of the Companies Act, 2013) and the law laid down in 
+Jagatjit case whereby they have greater flexibility in issuing shares with differential voting rights, 
+both superior and inferior. 
+
+ 
+
+ 
+
+Some judgments relating to DVRs are briefly described in Annexure 1. 
+
+ 
+ 
+ 
+ 
+                                                           
+3 https://indiacorplaw.in/2009/03/differential-voting-rights-ruling-by.html 
+
+DVRs - Group Report  
+ 
+
+ 
+
+5 
+
+ 
+
+c.  Securities Contracts (Regulation) Rules, 1957 (‘SCRR’): 
+ 
+
+Rule 19(2)(b) of the SCRR provides for the minimum offer and allotment to public in terms of offer 
+document, which shall be: 
+
+a.  at  least  25%  of  each  class  or  kind  of  equity  shares/  debenture  convertible  into  equity 
+shares issued by the company, if the post issue market capitalization of company is less 
+than or equal to 1600 crore rupees. 
+
+b.  at least such percentage of each class or kind of equity shares/ debenture convertible into 
+equity shares issued by the company equivalent to the value of 400 crore rupees, if the 
+post issue market capitalization of the company is more than 1600 crore rupees but less 
+than or equal to 4000 crore rupees 
+
+c.  at  least  10%  of  each  class  or  kind  of  equity  shares/  debenture  convertible  into  equity 
+shares issued by the company, if the post issue market capitalization of company is above 
+4000 crore rupees. 
+
+ 
+Thus, in light of the above rule, it is unclear if, for a company with different class of shares, the IPO 
+needs to be undertaken for all class of shares or the company can proceed with listing of any one 
+class of share thereby keeping the other class of share as unlisted. 
+
+ 
+ 
+d.  SEBI (LODR) Regulations, 2015 (“SEBI LODR Regulations”): 
+ 
+
+Regulation 41(3) of the SEBI LODR Regulations states that the listed entity shall not issue shares in 
+any manner which may confer on any person, superior rights as to voting or dividend vis-à-vis the 
+rights on equity shares that are already listed.  
+ 
+Thus, though the SEBI LODR Regulations also permits an issuer to have DVR shares, such DVR shall 
+not contain any superior voting rights which shall restrict or reduce the voting rights of the existing 
+shareholders. 
+
+ 
+
+5.  Comparison across Various Jurisdictions  
+
+ 
+
+While many countries4 have permitted the listing of companies with Dual Class Shares, some countries 
+like UK, Australia, Spain, Germany and China do not permit the Issuers with DCS structure for listing. 
+DCS structure was allowed in UK for listing on Standard Listings. However, subsequently the issuers 
+with DCS structure were not allowed listing on standard listings or premium listings. Singapore and 
+Hong Kong have recently permitted DCS structures with detailed checks and balances.  
+   
+  The key features for issuance & listing of DCS structure in different jurisdictions is as follows: 
+
+a.  USA: 
+
+ 
+
+Issuers with DCS structures are permitted to list on the NYSE and NASDAQ. Section 313A 
+of NYSE Listing Manual provides for shares with differential voting rights with enhanced 
+disclosure and safeguarding policies. 
+
+  However, listing is permitted only issuers with pre-existing DCS structure5. Once  listed, 
+issuer with one share one vote structure is not permitted to implement the DCS structure 
+that would reduce or restrict the interest of existing shareholders.  
+
+                                                           
+4 https://www.cfainstitute.org/-/media/documents/survey/apac-dual-class-shares-survey-report.ashx 
+5 https://www.nasdaq.com/article/facebook-fb-decides-against-the-creation-of-class-c-shares-cm850469 
+  
+
+DVRs - Group Report  
+ 
+
+ 
+
+6 
+
+ 
+
+  Sunset Clause: There is no mandatory requirement to have a sunset clause for issuer or 
+companies  with  DCS  structure,  however  some  companies  have  voluntarily  adopted  a 
+sunset period of 5 years post which all the shares with multiple (higher) voting rights will 
+be automatically converted into ordinary shares having one vote for one share. 
+
+  Some examples in the US6: 
+
+−  Google founders retain control of the listed entity Alphabet and have subsequently 
+restructured their capital structure, creating three classes of shares. Class A shares 
+carry one voting right (listed through an IPO and held by public shareholders), Class B 
+shares carry 10 votes each (not listed, held by Larry Page and Sergey Brin and has a 
+sunset  clause)7,  while  Class  C  shares  carry  no  voting  rights  (issued  to  all  Class  A 
+shareholders and Class B shareholders, listed - issued in 20148). The current market 
+price of Class  A (1:1 voting right) and Class C shares (no voting rights) is trading at 
+almost  the  same  price.  Further  over  time,  founders  have  converted  part  of  their 
+holding in Class B shares to Class A shares for liquidity.  
+
+−  Facebook has issued Class A shares which carry one voting right (listed through the 
+IPO and held by public shareholders), Class B shares which carry 10 votes each (not 
+listed, held by Mark Zuckerberg and affiliates with no sunset clause). Their proposal 
+to  issue  Class  C  shares  carrying  no voting  rights  in  lieu  of  dividend was  withdrawn 
+pursuant to investor resistance9. 
+
+−  Alibaba  –  has  partisanship  structure  where  27  partners  have  the  right  to  appoint 
+majority  of  the  Board.  Through  this  partnership  structure,  the  founders  get  the 
+majority control on the affairs of the company. 
+
+−  Snapchat has three classes of shares: Class A, Class B, and Class C. Class A common 
+stock is non-voting. Snapchat became the first company to issue no-vote stock in its 
+IPO. Each share of Class B common stock is entitled to one vote and is convertible into 
+one share of Class A common stock. Each share of Class C common stock is entitled to 
+ten  votes  and  is  convertible  into  one  share  of  Class  B  common  stock.  The  Class  C 
+common stock, which is held by the founders, represents ~90% of the voting power 
+of the outstanding capital stock. There is no sunset clause for founders. There is no 
+sunset clause for founders10. 
+
+−  Nike has issued Class A shares which has power to elect 75% of the Board of Directors 
+(unlisted and held by Philip Knight, Travis Knight, Mark Parke and Trevor Edward) and 
+Class B shares which has power to elect 25% of the Board of Directors (listed and held 
+by public shareholders).  
+
+−  Viacom11 has issued Viacom is listed on NASDAQ and trades under the symbols "VIA" 
+for Class A common stock (with 1:1 voting rights) and "VIAB" for Class B common stock 
+(non-voting stock.). While both are listed, Class A common stock is held by Sumner M. 
+Redstone, the controlling stockholder of National Amusements, and Class B is held with 
+public shareholders Viacom Class A common stock can be converted into shares of Class 
+B  common stock  on  a  one-for-one  basis,  but  Viacom Class  B  common  stock  cannot  be 
+
+                                                           
+6 https://www.law.ox.ac.uk/business-law-blog/blog/2018/01/should-securities-regulators-allow-companies-
+going-public-dual-class 
+7 https://www.recode.net/2017/6/13/15788892/alphabet-shareholder-proposals-fair-shares-counted-equally-
+no-supervote 
+8 http://blogs.marketwatch.com/thetell/2014/04/02/google-investors-are-about-to-get-goog-and-googl-
+shares-in-stock-split/ 
+9 https://www.washingtonpost.com/news/on-leadership/wp/2018/05/10/a-huge-pension-fund-says-
+facebook-is-like-a-dictatorship/?noredirect=on&utm_term=.bfa99de5fe16 
+10 https://www.reuters.com/article/us-usa-investors-voting/top-u-s-funds-seek-sunset-rules-on-dual-class-
+share-listings-idUSKCN1MX37C 
+11 https://www.thestreet.com/story/13612197/1/viacom-and-27-other-stocks-that-come-with-restricted-
+voting-rights.html 
+
+DVRs - Group Report  
+ 
+
+ 
+
+7 
+
+ 
+
+converted into Class A common stock. Shareholders have been resisting the >80% control 
+by the CEO through its ~10% shareholding.  
+
+  Regulatory updates/ investor feedback on this subject is at Annexure 2.  
+
+ 
+
+b.  Canada: 
+
+  DCS structures are permitted under Canadian federal corporate law and also under Toronto 
+
+ 
+
+Stock Exchange (“TSX”) rules, subject to certain safeguards. 
+In case a listed company wants to create a multiple voting class of shares, the company needs 
+to obtain approval from a majority of the votes cast by holders voting at a meeting, other than 
+the promoters, directors, officers, insiders of an issuer or proposed recipient of such shares. 
+
+  TSX imposes a ‘coat tail’ provision for companies with a DCS structure. 
+  Canadian Coalition of Good Governance12 in its dual class share policy has published some best 
+
+practices principles for DCS companies such as: 
+o 
+
+Holders of MV shares should be entitled to nominate a number of directors equal to the 
+least  of  (i)  two-thirds  of  the  board, (ii)  the  number  obtained  when  the  board  size  is 
+multiplied by the percentage of total voting rights held by the MV shares, and (iii) if the 
+holders of MV shares are related to the management of a company with a controlling 
+shareholder (i.e. able to elect the board or direct the management), then one-third of 
+the board. 
+The  share  structure  should  allow  a  “meaningful  equity  ownership  stake”,  which 
+generally requires a voting rights ratio of not more than 4 to 1. 
+There should be standard coat tail provisions 
+The DCS structure should collapse at an appropriate time as determined by the board 
+and, if practicable, as set out in the articles, where a one-for-one conversion occurs, 
+unless a majority of the holders of OV shares voting separately as a class approve its 
+continuation (for a period no longer than 5 years at each vote). Further, no premiums 
+should be paid to the holders of MV shares for the collapse. 
+
+o 
+
+o 
+o 
+
+o  MV shares sold by a holder should convert automatically to OV shares on a one-for-one 
+
+basis. 
+ 
+
+c.  Hong Kong: 
+
+ 
+
+ 
+
+Listing by companies that have issued dual class shares or Weighted Voting Rights (WVR) was 
+introduced in April 2018 by incorporation in the mainboard listing rules. 
+Some of the eligibility norms for issuers are as follows: 
+a.  Only  innovative  issuers/  biotech  companies  with  certain  eligibility  criteria  permitted  to 
+
+b. 
+
+issue WVRs through an IPO. 
+Issuer  should  have  meaningful  third  party  investment  from  at  least  one  sophisticated 
+investor  before  the  IPO.  Such  investor(s)  should  retain  an  aggregate  50%  of  their 
+investment for at least 6 months post the IPO. This is exempt for a company spun off from 
+a parent company 
+
+c.  Market Capitalization: (i) HK$ 40 bn or (ii) HK$ 10 bn & HK$ 1 bn revenue in latest audited 
+
+FY. 
+
+d.  The  beneficiaries  of  the  WVR  should  be  an  individual  with  active  executive  role  in  the 
+business  and  has  contributed  materially  to  the  growth  of  the  business.    Each  of  the 
+beneficiaries should be a director on the board at IPO.  
+
+e.  The beneficiaries of the WVR should hold at least 10% of economic interest in total issued 
+
+share capital. 
+
+ 
+
+If the beneficiaries of WVR shares die, cease to be director or transfer their shares to another 
+person, the rights attached to such WVR shall lapse. 
+
+  The  maximum  voting  rights  per  share  an  issuer  can  allow  cannot  exceed  10  times  the 
+
+voting rights on ordinary shares. 
+
+                                                           
+12 Consultation paper by SGX on Possible Listing Framework for Dual Class Shares Structures dated February 16, 2017 
+
+DVRs - Group Report  
+ 
+
+ 
+
+8 
+
+ 
+
+  Companies with WVR structure need to adopt enhanced corporate governance measures 
+
+for investor protection. 
+
+  This  is  applicable  for  new  listing  applicants  only.  Secondary  listing  for  companies  with 
+WVR/  DCS  structures  that  are  listed  on  NYSE/  NASDAQ  or  London  premium  listing 
+segment13 permitted.  
+
+  There  is  no  time-defined “sunset”  clause  for  the WVR,  instead the  WVR  shall  lapse  on 
+
+occurrence of events mentioned above. 
+ 
+
+d.  Singapore: 
+
+ 
+
+In June 2018, Singapore Stock Exchange introduced rules for listing of dual class shares 
+structures  on  Mainboard14.  The  amendment  was  followed  by  two  rounds  of  public 
+consultation.    
+
+  The Key features based on framework for permitting the listing of companies with DCS 
+
+structure on SGX are as follows: 
+o  Only new issuers shall be permitted for listing with DCS structure, subject to various 
+suitability  factors  including  business  model,  track  record,  role  and  contribution  of 
+Multiple Votes shareholders, participation by sophisticated investors, among other 
+
+o  Holder  of  Multiple  Voting  shares  must  to  director  of  the  Issuer  or  member  of  the 
+
+permitted group. The holders of Multiple Voting shares must be disclosed at IPO 
+
+o  Automatic  conversion  of  Multiple  Voting  shares  to  Ordinary  shares  in  case  the 
+Multiple  Voting  shares  are  sold or  transferred or  the  Multiple  Voting  shares  group 
+director ceases to be director (unless new director is appointed) 
+
+o  The maximum voting rights per share an issuer can allow cannot exceed 10 times than 
+
+voting rights on ordinary shares (one vote one share are OV). 
+
+o  The holders of MV shares need to observe a moratorium (lock-in) period of 12 months 
+
+o 
+
+in both MV shares and OV shares post listing. 
+Issuer  is  prohibited  from  issuing  any  shares  with  multiple  voting  rights  (MV)  post 
+listing except in case of Rights issue or other corporate actions like face value split, 
+consolidation etc. Provided that, in case of rights issue,  the  Issuer needs to ensure 
+that the proportion of MV share to OV shares does not change post rights issue based 
+on additional subscription by holders of MV shares. 
+
+o  OV  shareholders  holding  10%  of  the  voting  rights  should  be  allowed  to  convene  a 
+
+general meeting. 
+
+o  For an issuer with a dual class share structure, disclosure shall prominently include: 
+(a) a statement on the cover page that the issuer is a company with a dual class share 
+structure; and (b) information on the voting rights of each class of shares. 
+
+o  The  majority  of  each  of  the  committees  performing  the  functions  of  an  audit 
+committee, a nominating committee and a remuneration committee, including the 
+respective chairmen, must be independent. 
+
+In  jurisdictions  where  DCS  is  permitted,  “one-share-one  vote”  concept  is  provided  as  a  default 
+principle, however, it is expected that the public shareholders of the listed class of shares hold ordinary 
+shares with one share one vote (OV) structure and the founder/ promoters hold the DCS with superior 
+voting rights or MV structures, thus retaining control. S&P 500 has removed Snap from their index and 
+has decided to bar new entrants with multiple classes of shares from the S&P 500.  
+ 
+  Regulators’ views on DCS15 structures: 
+
+                                                           
+13 DCS structures currently not permitted on London SE 
+14 Report by Legiswatch dated July 2018 on “SGX introduces Primary Listing Framework for Dual Class Share 
+Structures” 
+15 https://www.bloomberg.com/quicktake/dual-class-shares 
+
+DVRs - Group Report  
+ 
+
+ 
+
+9 
+
+ 
+
+  ~700 public companies in the US have DCS structures, predominant listed ones being Google, 
+Facebook,  Snapchat,  Nike  and  Alibaba.  There  is  ongoing  debate  in  the  SEC  about  the 
+continuation of DCS16. 
+
+  There is increasing investor activism against concentrated voting rights with a few founders/ 
+
+management. 
+
+•  Hong  Kong  and  Singapore  recently  allowed  Dual-class  shares  to  encourage  more  new-
+
+• 
+
+technology firms to list. 
+In  the  UK17,  DCS  structures  were  used  in  the  1960s  to  protect  corporations  from  hostile 
+takeovers or for the Queen to have ‘golden share’, before institutional investors expressed 
+strong opposition to such structures. DSC is presently not allowed in the UK 
+
+  Over the past decade, a number of European governments have implemented or debated the 
+
+use of different voting rights. 
+
+•  US,  Canada,  HK,  Singapore,  Denmark,  Spain,  Sweden18  and  Italy  allow  dual-class  shares. 
+Germany, Spain, China, Australia disallow listing of shares of companies with DCS structures. 
+
+ 
+ 
+6.  Market Considerations and Companies with Listed DVRs in India 
+ 
+The Amendment to Companies Act, 1956 in the year 2000 (Section 86 of the Companies Act, 1956, 
+read with Rules of 2001) allowed, for the first time, issuance of shares with differential voting rights. 
+Similar provisions are in the Companies Act, 2013 (Section 43 of the Companies Act, 2013, read with 
+applicable Rules). 
+ 
+Only 5 listed companies have issued DVRs to the public in India till now viz. Tata Motors; Pantaloons 
+Retails  (Now:  Future  Enterprises  Ltd.);  Gujarat  NRE  Coke  Ltd.;  Jain  Irrigation  Systems  Ltd.  and 
+Stampede Capital.  
+ 
+History and analysis of the DVRs shares issued by some Indian Corporates is given hereunder:  
+
+Sr. 
+No. 
+
+Company 
+
+Name 
+
+Year of 
+issue 
+
+ 
+
+Features 
+
+1. 
+
+  Tata Motors  
+
+2008 
+
+  Tata Motors came out with Rights issue of DVR Shares after 8 
+
+ 
+
+years of amendment in Co. Act. 
+
+  To fund the Jaguar - Land Rover acquisition 
+ 
+
+Issued 6.4 crores DVRs (“A” Ordinary Shares) priced at Rs. 305 
+per share as against Rs. 340 for an ordinary share as Rights 
+issue. (10% discount) 
+
+  DVRs has 5% higher dividend on these shares as compared to 
+
+ordinary shares 
+
+  DVRs carry 1/10th voting rights 
+  The issue was undersubscribed and promoter subscribed to 
+
+the unsubscribed DVRs 
+
+  These DVRs reported very low trading volumes 
+  Market price of DVRs as on Oct 8, 2018 was Rs. 115.45 and 
+
+that of ordinary shares it was Rs. 212.75 (45% discount).  
+
+                                                           
+16 http://www.pionline.com/article/20180216/ONLINE/180219888/sec-commissioner-calls-for-curb-on-dual-
+class-forever-shares# 
+17 https://ecgi.global/sites/default/files/working_papers/documents/SSRN-id2138949.pdf 
+18 https://www.issgovernance.com/analysis-differentiated-voting-rights-in-europe/ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+10 
+
+  An analysis of average trading in the DVRs as compared to 
+
+Ordinary shares in last one month is given hereunder: 
+ 
+
+ 
+
+ 
+
+Average No. of shares 
+
+traded 
+
+Period 
+Last one 
+month 
+(Sep 07 to 
+Oct 05, 
+2018) 
+Last one 
+year  
+(Oct 06, 
+2017 to 
+Oct 05, 
+2018) 
+
+Ordinary 
+12,46,914 
+
+7,93,018 
+ 
+
+DVRs 
+2,31,506 
+(18.56% of 
+ordinary 
+shares) 
+
+2,14,161 
+(27% of 
+ordinary 
+shares) 
+ 
+
+Weighted Average 
+Trading Price (Rs.) 
+DVRs 
+
+Ordinary 
+247 
+
+132 
+(46% Dis.) 
+
+343 
+
+194 
+(43% Dis.) 
+
+2. 
+
+  Pantaloons 
+
+2009 
+
+Retails 
+(Now: 
+Future 
+Enterprises 
+Ltd.) 
+
+ 
+ 
+  Pantaloons issued DVRs as bonus shares with the ordinary 
+
+shares 
+
+  These class B shares also had 1/10th voting rights to the 
+
+existing ordinary shares 
+
+  These shares offered 5% additional dividend 
+  The trading volume in these shares was significant due to the 
+reason that they were offered as bonus shares and not fresh 
+issues 
+
+  Market price of DVRs as on Oct 8, 2018 was Rs. 35.20 and that 
+
+of ordinary shares was Rs.34.70.  
+
+  An analysis of average trading in the DVRs as compared to 
+
+Ordinary shares in last one month is given hereunder: 
+ 
+
+Weighted Average 
+Trading Price (Rs.) 
+DVRs 
+
+Ordinary 
+42 
+
+43 
+
+41 
+ 
+
+42 
+
+ 
+
+Average No. of shares 
+
+traded 
+
+Period 
+Last one 
+month 
+(Sep 07 to 
+Oct 05, 
+2018) 
+Last one 
+year  
+(Oct 06, 
+2017 to 
+Oct 05, 
+2018) 
+
+ 
+
+Ordinary 
+1,24,598 
+
+4,43,594 
+ 
+
+DVRs 
+
+2,105 
+(1.68% of 
+ordinary 
+shares) 
+
+4,991 
+(1.12% of 
+ordinary 
+shares) 
+ 
+
+In  2009,  in the matter of Anand  Pershad  Jaiswal  and  Ors  v.  Jagatjit  Industries  Ltd.  and  Ors,  CLB 
+upheld the issuance of DVR shares which resulted  in  an increase of voting rights  to 62% for the 
+promoters who held only 32% of economic stake in the company, as valid. 
+ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+11 
+
+ 
+
+Following  this  judgement,  SEBI  came  up  with  letter  dated  July  21,  2009  addressed  to  all  stock 
+exchanges  which  prohibited  issue  of  DVRs  with  superior  rights  as  to  dividend  or  voting.  Similar 
+provisions are there in Reg. 41(3) of SEBI LODR Regulations mentioned above.  
+ 
+So now an issue of the likes of Tata Motors or Pantaloons with higher dividends with lower voting 
+rights is not possible. 
+ 
+3. 
+
+  DVR were issued as bonus shares in the ratio of one DVR 
+
+  Gujarat NRE 
+
+2009 
+
+Coke Ltd. 
+(post SEBI 
+letter dated 
+21.07.2009) 
+
+4. 
+
+ 
+
+Jain 
+Irrigation 
+Systems 
+Ltd. 
+
+bonus share for every 10 equity shares 
+
+  DVR bonus shares had a voting right which was 1/100th of an 
+
+ordinary share 
+
+  The dividend rights are at par with ordinary shares 
+  Trading in the scrip of company is suspended due to 
+
+procedural reasons. NCLT has ordered liquidation of company 
+under The Insolvency and Bankruptcy Code, 2016. 
+
+2011 
+
+  DVR shares were issued as bonus shares in the ratio of 1 DVR 
+
+Bonus equity share for every 20 ordinary equity shares. 
+
+  DVR bonus shares had a voting right which was 1/10th of an 
+
+ordinary share 
+
+  The dividend rights are at par with ordinary shares 
+  Market price of DVRs as on 08.10.2018 was Rs.41.95 and that 
+
+of ordinary shares it was Rs.61.45 
+
+  An analysis of average trading in the DVRs as compared to 
+
+Ordinary shares in last one month is given hereunder: 
+ 
+
+ 
+
+Average No. of shares 
+
+traded 
+
+Period 
+Last one 
+month 
+(Sep 07 to 
+Oct 05, 
+2018) 
+Last one 
+year  
+(Oct 06, 
+2017 to 
+Oct 05, 
+2018) 
+
+Ordinary 
+8,55,875 
+
+9,55,672 
+ 
+
+DVRs 
+
+8,429 
+(1% of 
+ordinary 
+shares) 
+
+27,884 
+(2.91% of 
+ordinary 
+shares) 
+ 
+
+ 
+Share price performance* of DVRs in India: 
+ 
+
+ 
+
+Weighted Average 
+Trading Price (Rs.) 
+DVRs 
+
+Ordinary 
+76 
+
+50 
+(34% Dis.) 
+
+104 
+
+65 
+(36% Dis.) 
+
+CMP 
+(₹) 
+
+52 week 
+High (₹) 
+
+52 week 
+Low (₹) 
+
+Dividend per 
+
+Market 
+
+Share (₹) 
+
+Capitalisation  
+
+0.20 
+0.30 
+0.50 
+(17.09.2012) 
+0.50 
+(17.09.2012) 
+
+(₹ Crores) 
+
+88,039.58 
+14,232.98 
+169.46 
+
+7.56 
+
+12 
+
+ 
+
+Particulars 
+
+Tata Motors 
+Tata Motors DVR 
+Gujarat NRE Coke 
+
+468.45 
+278.50 
+2.75 
+
+598.40 
+378.15 
+4.40 
+
+336.00 
+244.15 
+2.45 
+
+Gujarat NRE Coke DVR 
+
+2.15 
+
+3.85 
+
+1.70 
+
+DVRs - Group Report  
+ 
+
+ 
+
+ 
+
+14 
+12.45 
+54.50 
+37.05 
+1.45 
+1.90 
+
+0.10 
+0.14 
+0.50 
+0.50 
+Nil 
+Nil 
+
+26.90 
+26.65 
+89.55 
+59.40 
+1.50 
+1.90 
+
+156.45 
+139.80 
+108.60 
+66.90 
+10.75 
+19.10 
+
+496.41 
+Futures Enterprises Ltd. 
+29.16 
+Futures Enterprises DVR 
+2,846.52 
+Jain Irrigation Systems  
+80.36 
+Jain Irrigation Systems DVR 
+Stampede Capital# 
+8.59 
+Stampede Capital DVR# 
+43.51 
+*data  as  on  March  10,  2017;  Source-  NSE  and  Bloomberg  Note-  CMP=  Current  Market  Price,  MC=Market 
+Capitalisation  
+# data as on October 10, 2018. 
+ 
+DVRs  are  traded  at  lower  price  than  ordinary  shares  but  earned  better  dividend  as  compared  to 
+ordinary shares.  
+ 
+“Considering the strict corporate governance requirements for companies to list dual class shares in 
+India and the various laws protecting the rights of DVR shareholders against hostility, it can be argued 
+that the discount of 35-45% for DVR shares is a bit excessive. This might be partly explained by the 
+fact that these shares are not understood and tracked by investors, and that we might see the discount 
+narrowing once there is more awareness about the features of such shares in the market19.”  
+ 
+Even a few years after shares with differential voting rights (DVRs) were introduced in India, very few 
+companies have issued DVR shares. Some of them continue to trade at a big discount vis-à-vis ordinary 
+shares. Very low additional dividends, discomfort with losing voting powers, and lower interest among 
+investors seem to be the reasons. 
+ 
+The DVR construct in India is unique. In India, it is possible to issue shares with inferior (less than one 
+vote per share) voting rights. Further, in the case of India, both the classes of shares are listed, whereas 
+precedents from the US (except a few cases such as Alphabet) and regulations from HK and Singapore 
+permit listing of the ordinary shares and shares while the multiple rights, held by the founders, remain 
+unlisted.  
+ 
+The comparison of trading pattern of DCS in US and India is given in Annexure 3.  
+ 
+7.  Recommendations of the DVR Group 
+
+ 
+
+Issuance of Equity Shares with Differential Voting Rights  
+ 
+The expressions “differential voting rights” and “dual class shares” are generic in nature. They can mean 
+shares carrying superior voting rights (a multiple of voting power on an ordinary equity share) or shares 
+carrying inferior voting rights (a fraction of the voting power on an ordinary equity share). In addition to 
+voting rights, there can be other differential rights such as dividends etc. 
+ 
+An ordinary equity share is an equity share carrying one vote for one share. For clarity, in this Report, “SR 
+Shares” will mean shares with superior voting rights as compared to ordinary equity shares and “FR Shares” 
+means shares with fractional voting rights as compared to ordinary equity shares. References to the term 
+“DVR” will mean shares with differential voting rights in a generic manner i.e. including SR Shares as well 
+as FR Shares. 
+ 
+This Report is a product of deliberations of the Group formed by the Primary Market Advisory Committee 
+to work on the subject at its meetings held on 4th October, 2018, 15th October, 2018, 3rd November 2018 
+and 2nd January, 2019.   
+ 
+                                                           
+19 https://mpra.ub.uni-muenchen.de/87996/16/MPRA_paper_87996.pdf 
+
+DVRs - Group Report  
+ 
+
+ 
+
+13 
+
+ 
+
+This Report proposes to structure the regulation of DVR issuance under two broad heads. The broad 
+heads will cover issuance by companies whose equity shares are already listed on stock exchanges; 
+and companies with equity shares not hitherto listed but proposed to be offered to the public. 
+ 
+Conditions Precedent 
+ 
+A company would be entitled to issue DVR Shares, subject to following pre-conditions: 
+ 
+ 
+
+issue of DVR Shares must have been be authorized in the articles of association of the company; 
+and  
+ 
+the issue of DVR Shares is authorized by a special resolution passed at a general meeting of the 
+shareholders (for companies already listed, by way of e-voting in accordance with Companies 
+Act, 2013) with notice of specific matters, including but not limited to, size of issuance, ratio of 
+the difference in the voting rights, rights as to differential dividends, if any, sunset clause, “coat-
+tail provisions”, etc., as made applicable by SEBI regulations to be notified in this regard.  
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+14 
+
+ 
+
+COMPANIES WHOSE EQUITY SHARES ARE ALREADY LISTED – ISSUANCE OF FR 
+SHARES 
+ 
+First issue of FR Shares 
+ 
+A company, whose equity shares are already listed and traded on a recognized stock exchange for at 
+least one year, shall be permitted to issue FR Shares by way of: (i) rights issue; (ii) bonus issue pro rata 
+to all equity shareholders; or (iii) a Follow-on Public Offer (“FPO”) of FR shares. The first two would 
+provide the FR shares to all existing equity shareholders while the third would provide a right to all 
+existing shareholders to subscribe to the FR shares, along with third parties. 
+ 
+Subsequent issues of FR Shares once FR Shares are already listed 
+ 
+Rights Issue or Bonus Issue: A company that has already listed FR Shares shall be eligible to transact 
+a rights issue or a bonus issue of FR Shares of the same class to all shareholders on a pari-passu basis.  
+ 
+Qualified Institutions Placement (“QIP”) or preferential issue: A company, whose FR Shares are listed 
+for at least one year, shall be eligible to do a preferential issue or a QIP of FR Shares of the same class.  
+ 
+Pricing: The pricing of FR shares shall be in accordance with regulatory considerations applicable to 
+mode of issuance of FR Shares.   
+ 
+Depository Receipts: A company whose FR Shares are listed for at least one year shall be eligible to 
+issue depositary receipts where the underlying shares are FR Shares. 
+ 
+Convertible  Instruments:  A  company  can  issue  convertible  instruments  which  will  convert  into  FR 
+Shares subject to applicable regulatory considerations.  
+ 
+Face Value of FR Shares:  The face value of a company’s FR Shares shall be the same as that of its 
+ordinary equity shares. 
+ 
+Number of FR Shares: The number of FR Shares that may be issued by a company shall be subject to 
+provisions of the Companies Act, 2013 and the rules framed thereunder. 
+ 
+Fast-track: A company shall be eligible to issue FR Shares in a rights issue or an FPO through the fast-
+track method in case it meets the eligibility criteria of fast-track issuances.  
+ 
+Voting and Other Rights on FR Shares: The FR Shares shall not exceed a ratio of 1:10, i.e. one vote as 
+applicable to one Ordinary Equity Share, would be voting entitlement on 10 FR Shares. The ratio can 
+be in full numbers from 1:2 to 1:10. However, at any point of time, the company can only have one 
+class of FR Shares.  
+ 
+The  company  shall  disclose  any  other  rights  that  shall  be  provided  (and  also  disclose  those  not 
+provided) to the holders of FR Shares.  
+ 
+Dividends:  The  company  may,  at  its  discretion,  decide  to  pay  additional  dividend  per  FR  Share 
+compared  to  dividend  paid  on  Ordinary  Equity  Share,  which  shall  be  higher  than  the  dividend  per 
+Ordinary Equity Share and the same shall be stated in the terms of the offering. No dividend may be 
+payable on FR Shares for such years where no dividend has been declared by the  company for the 
+ordinary equity shares. 
+ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+15 
+
+ 
+
+Minimum  Public  Shareholding:  The  company  shall  comply  with  the  minimum  public  shareholding 
+requirements for each class of equity shares, both ordinary equity shares and FR Shares, subject to 
+the  provisions  of  the  Securities  Contracts  (Regulation)  Rules,  1957  (“SCRR”)  and  other  applicable 
+regulations formulated in this regard.  
+ 
+Conversion: The FR Shares can be converted into ordinary equity shares only in cases of schemes of 
+arrangement.   
+ 
+Extinguishment:  The  FR  Shares  can  be  extinguished  only  through  buy-back  by  the  company  or 
+reduction of capital in accordance with applicable laws. 
+ 
+Delisting: The company can delist the FR Shares in accordance with the Securities and Exchange Board 
+of India (Delisting of Equity Shares) Regulations, 2009. However, in the event ordinary equity shares 
+of the company are delisted, the company shall be mandatorily required to delist the FR Shares.  
+ 
+Listing and Trading: The FR Shares shall be held in dematerialized form. However, FR Shares can be 
+issued  in  physical  form,  if  such  FR  Shares  have  been  issued  pursuant  to  a  bonus  issue  and  the 
+underlying shares are held in physical form.  
+ 
+The FR Shares shall be listed and traded on all stock exchanges where ordinary equity shares of the 
+company are listed with a separate identifier from the ordinary equity shares.  
+ 
+Post-Issue Disclosures: The shareholding pattern filed by the company with the stock exchanges shall 
+provide  the  details  of  the  FR  Shares  separately  and  in  the  format  specified  by  the  Securities  and 
+Exchange Board of India and the stock exchanges. 
+ 
+ESOPs: A company can issue ESOPs of FR Shares post the listing of such shares, subject to applicable 
+laws. 
+ 
+Applicability of other SEBI Regulations: SEBI regulations in respect of buy-back, and takeovers shall 
+apply to FR Shares, subject to such modification as may be required in the context of FR Shares. The 
+FR Shares once listed shall not be delisted on a standalone basis and may be delisted as and when the 
+ordinary equity shares are delisted. Required changes in these regulations are stated in Appendix 1 to 
+this Report.  
+  
+Bonus issue by the company which has issued FR shares: If a company which has issued FR shares 
+issues bonus shares, then it shall issue to FR shareholders bonus FR shares in the same proportion in 
+which bonus shares are issued on ordinary equity shares. 
+ 
+
+ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+16 
+
+ 
+
+COMPANIES WHOSE EQUITY SHARES ARE PROPOSED TO BE LISTED – ISSUANCE 
+OF SR SHARES 
+ 
+Eligibility 
+ 
+First issue of SR Shares 
+ 
+SR Shares  can be  issued only  to the promoters of a company by an unlisted company. An unlisted 
+company where the promoters hold SR Shares shall be permitted to do an Initial Public Offer (“IPO”) 
+of only ordinary equity shares provided the SR Shares are held by the promoters for more than one 
+year prior to filing of the draft offer document with SEBI.  
+ 
+Subsequent issue of SR Shares 
+ 
+A company shall not be permitted to issue SR Shares to any person, including to the promoters, in any 
+manner whatsoever, including by way of rights issue or bonus issue, once its ordinary equity shares 
+have been listed.  
+ 
+Subsequent issue of FR Shares 
+ 
+A company whose SR Shares and ordinary equity shares are already listed shall be permitted to issue 
+FR Shares in terms of the applicable provisions for issue of FR Shares by listed companies.   
+ 
+Face Value of SR Shares 
+ 
+The face value of a company’s SR Shares shall be the same as of that of the ordinary equity shares. 
+ 
+Number of SR Shares 
+ 
+A company shall be permitted to issue any number of SR Shares of the same class prior to an IPO, 
+subject to provisions of the Companies Act, 2013. 
+ 
+Lock-in of SR Shares  
+ 
+All SR Shares shall remain under a perpetual lock-in after the IPO.  
+ 
+Pledge of SR Shares 
+ 
+Creation  of  any  encumbrance  over  SR  Shares  including  pledge,  lien,  negative  lien,  non-disposal 
+undertaking, etc. shall not be permissible. In other words, no third-party interest may be created over 
+the SR Shares and any instrument purporting to do so would be void ab initio. 
+ 
+Voting and Other Rights on SR Shares 
+ 
+The SR Shares shall be treated at par with the ordinary equity shares in every respect except in the 
+case of voting on resolutions. 
+ 
+The SR Shares shall be of a maximum ratio of 10:1, i.e. ten votes for every SR Share held. The ratio can 
+be in whole numbers from 2:1 to 10:1. A ratio once adopted by a company shall remain valid for any 
+subsequent issuances of SR Shares. A company can issue only one class of SR Shares. 
+ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+17 
+
+ 
+
+Any rights or bonus issue by the company post-listing shall be offered only as ordinary equity shares 
+to the holders of the SR Shares. 
+ 
+On certain matters to be notified by regulations, the SR Shares would be treated as having only one 
+vote.  The initial list of the same is set out in the “coat-tail” provisions set out later in this Report. 
+ 
+Dividend and Other rights 
+ 
+Post  IPO,  the  SR  shares  shall  be  eligible  for  the  same  dividend  and  other  rights  as ordinary  equity 
+shares, except for superior voting rights.  
+ 
+Initial Disclosures 
+ 
+The  company  shall  disclose,  in  the  offer  document,  the  names  of  all  holders  of  SR  Shares,  with 
+complete details of all special rights that have been provided to them. 
+ 
+No  change  in  the  terms  of  the  SR  Shares,  which  are  favourable  to  the  SR  shareholders,  shall  be 
+permitted post-IPO, other than sunset clause.  
+ 
+Minimum Public Shareholding 
+ 
+The company shall comply with the minimum public shareholding requirements in terms of the SCRR 
+for the ordinary equity shares that will be  listed. Post-listing, the voting rights  with the promoters 
+through the SR Shares and ordinary equity shares shall not exceed 75% of the total voting rights. 
+ 
+Coat-tail Provisions 
+ 
+Post-IPO, the SR Shares shall be treated as ordinary equity shares in terms of voting rights (i.e. one SR 
+share one vote) in the following circumstances: 
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+
+provisions relating to appointment or removal of independent directors and/or auditor; 
+
+in case there is a change in control of the company; 
+
+any contract or agreement of the company with any person holding the SR Shares, in excess of 
+the materiality threshold prescribed under Regulation 23 of the Securities and Exchange Board 
+of  India  (Listing  Obligations  and  Disclosure  Requirement)  Regulations,  2015  (“SEBI  LODR 
+Regulations”); 
+
+ 
+
+voluntary winding up of the company; 
+
+any material changes in the  company’s Article of Association or Memorandum, including but 
+not  limited  to,  undertaking  variation  in  the  voting  rights  of  the  shareholders,  changing  the 
+principal objects of the company, granting special rights in favour of a particular shareholder or 
+shareholder groups and such other items as may be prescribed by the SEBI; 
+
+initiation of a voluntary resolution plan under the Insolvency and Bankruptcy Code, 2016; 
+
+extension  of  the  validity  of  the  SR  Shares  post  completion  of  5  years  from  date  of  listing  of 
+ordinary equity shares; and 
+
+(d) 
+ 
+(e) 
+
+ 
+(f) 
+ 
+(g) 
+
+ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+18 
+
+ 
+
+any other provisions notified by SEBI in this regard from time to time. 
+
+(h) 
+ 
+Sunset Clause/ Conversion of SR Shares 
+ 
+The SR Shares shall get converted into ordinary equity shares on the 5th anniversary of the listing of 
+the Ordinary Shares of the company i.e. they would lose their superior voting rights and each SR Share 
+would carry an entitlement to a single vote as if it were an Ordinary Equity Share. The validity of the 
+SR Shares can be extended by another 5 years with the approval shareholders by way of a special 
+resolution in a general meeting where all members vote on one-share-one vote basis irrespective of 
+the nature of their shareholding. The promoters, however, may do an accelerated conversion of their 
+SR Shares into ordinary equity shares at any time prior to the 5th anniversary or such extended period.  
+ 
+The SR Shares shall get compulsorily converted into ordinary equity shares in the event of a merger or 
+acquisition of the company or whenever these are sold by the identified promoters who hold such 
+shares  or  in  the  case  of  demise  of  the  promoter(s).  Transfer  of  SR  Shares  amongst  promoters  or 
+persons of the promoter group(s), even though they are inter-se transfers between persons acting in 
+concert, shall not be permitted.  
+ 
+Listing and Trading 
+ 
+All SR Shares shall be held in dematerialized form and shall be listed on the main board platform of 
+the recognized stock exchanges. For listing of SR Shares, exemption will be granted from Rule 19(2)(b) 
+of  SCRR.  The  SR  Shares,  however,  cannot  be  traded  except  upon  conversion  into  ordinary  equity 
+shares.  
+ 
+Post-Issue Disclosures 
+ 
+The shareholding pattern to be filed by the company with the stock exchanges shall provide the details 
+of both ordinary equity shares and SR Shares in the format specified by SEBI and the stock exchanges. 
+ 
+Applicability of other SEBI Regulations 
+ 
+SEBI regulations in respect of buy-back, and takeovers shall be applicable to SR Shares, subject to such 
+modification as may be required in the context of SR shares. 
+
+ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+19 
+
+ 
+
+Appendix 1  
+
+ 
+Relevant Provisions in Acts/Regulations/Rules and Suggested Changes 
+ 
+The Companies Act, 2013 
+ 
+Pursuant to Rule 4(1)(d) of the Companies (Share Capital and Debenture) Rules, 2014, “the company 
+must have a consistent track record of distributable profits for the last 3 years” in case it desires to 
+issue DVR Shares.   
+ 
+SEBI permits IPOs of companies without a consistent track record of distributable profits for the last 3 
+years under Regulation 6(2) of the SEBI ICDR Regulations. New generation technology companies and 
+innovative technologies primarily focus  on growing revenue or gross merchandise value  in order to 
+rapidly scale their business in the initial years by concentrating on customer outreach and business 
+expansion,  and  subsequently  aim  to  generate  profits.  Additionally,  new  generation  technology 
+companies and innovative companies focus on sacrificing short term financial gains in the event certain 
+projects  create  long  term  value  for  shareholders.  The  current  regulatory  regime  prohibits  such 
+companies  from  issuing  DVR  shares.  The  extant  provision  should  be  amended  to  clarify  that  SEBI 
+standards on to be listed companies as covered under Regulation 6(2) of the SEBI ICDR Regulations 
+would be applicable in case of companies without a consistent track record of distributable profits.     
+
+ 
+
+SEBI Regulations 
+ 
+SEBI ICDR Regulations 
+ 
+The SEBI ICDR Regulations do not have a provision for a company to have dual class shares at the time 
+of IPO. 
+  
+The SEBI ICDR Regulations will need to be amended to allow SR Shares to be held by the promoters’ 
+post the listing of the company’s ordinary equity shares. Further, provisions with respect to issuance of 
+FR  Shares  post  the  listing  of  the  company’s  ordinary  equity  shares  through  modes  such  as  Rights/ 
+Bonus/ follow on would need to be incorporated.  
+ 
+Further, SEBI ICDR Regulations need to be amended to include provisions relating to coat-tail; sunset 
+clause in case of SR Shares; restrictions on transferability of SR Shares, differential dividend related 
+disclosures in case of FR Shares, etc.  
+ 
+SCRR 
+ 
+The SCRR provides for the minimum offer and allotment to public in terms of offer document, which 
+shall be: 
+ 
+(a) 
+
+at least 25% of each class or kind of equity shares/ debenture convertible into equity shares 
+issued by the company, if the post issue market capitalization of company is less than or equal 
+to 1600 crore rupees. 
+ 
+at least such percentage of each class or kind of equity shares/ debenture convertible into equity 
+shares  issued  by  the company  equivalent  to  the  value  of 400  crore  rupees,  if  the  post  issue 
+market capitalization of the company is more than 1600 crore rupees but less than or equal to 
+4000 crore rupees. 
+ 
+
+(b) 
+
+DVRs - Group Report  
+ 
+
+ 
+
+20 
+
+ 
+
+(c) 
+
+at least 10% of each class or kind of equity shares / debenture convertible into equity shares 
+issued by the company, if the post issue market capitalization of company is above 4000 crore 
+rupees. 
+
+ 
+
+A company with multiple classes of equity shares at the time of undertaking an IPO, is required to 
+make an offer of each such class of equity shares to the public in an IPO. The minimum dilution and 
+minimum  subscription  requirements  as  prescribed  under  Rule  19(2)(b)  of  SCRR  have  to  be  met 
+separately for each class of equity shares. In addition, a company with multiple classes of equity shares 
+at the time of an IPO does not have an option of listing only one or some of the classes and should 
+mandatorily  list  all  classes  of  its  equity  shares,  including  equity  shares  with  DVR.  In  light  of  the 
+abovementioned regulatory framework and the challenge in successfully concluding an IPO for each 
+class of the equity shares, till date, no company has undertaken an IPO with multiple classes of equity 
+shares in India. 
+In  light  of  the  above  rule,  Rule  19(2)(b)  of  the  SCRR  must  be  amended  to  permit  companies  with 
+multiple classes of shares to list one or more classes of shares to the exclusion of other classes of shares, 
+so that SR shares held by promoters can remain unlisted while ordinary shares can be listed.  
+ 
+SEBI LODR Regulations 
+ 
+Regulation 41(3) of the SEBI LODR Regulations states that the listed entity shall not issue shares in any 
+manner which may confer on any person, superior rights as to voting or dividend vis-à-vis the rights 
+on equity shares that are already listed.  
+
+ 
+
+The Regulations shall need to be amended to allow Superior Rights Shares to be held by the promoters 
+post-IPO of its ordinary equity shares and also allow additional dividend for FR shares.  
+ 
+SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 (“SEBI Takeover Code”) 
+ 
+1) 
+ 
+
+Provisions Relating to Trigger of Open Offer:  
+
+The SEBI Takeover Code is applicable to both direct and indirect acquisitions of voting rights in 
+or control over a target company. In accordance with the provisions of the SEBI Takeover Code, 
+an acquirer is required to make a public announcement of an open offer, if an acquirer is entitled 
+to exercise 25% or more shares or voting rights in a target company, in terms of Regulations 3 
+and 4 of the SEBI Takeover Code.  
+ 
+In light of the above regulations, Regulation 10 of the SEBI Takeover Code should be amended 
+to clarify that any increase beyond the threshold of entitlement to voting rights as stipulated in 
+Regulation 3 of the SEBI Takeover Code would not trigger an open offer obligation in the hands 
+of the person acquiring voting rights beyond such threshold by reason of the lapse of superior 
+voting power and conversion of SR Shares into ordinary equity shares provided that there is no 
+attendant change in control in favour of the person crossing such threshold. 
+
+ 
+2) 
+ 
+
+Disclosure requirements:  
+
+As change in voting rights due to extinguishment of voting right on SR Shares is an involuntary 
+act on behalf of holder of ordinary equity shares, no disclosure would be required for acquisition 
+of  additional  voting  right  by  holder  of  the  ordinary  equity  shares  in  such  situation  under 
+Regulation 29 of the SEBI Takeover Code. The format of disclosure under Regulation 30 of the 
+SEBI Takeover Code must be modified to provide for separate disclosure of voting rights for SR 
+Shares, FR Shares and ordinary equity shares and consolidated voting right.  
+
+DVRs - Group Report  
+ 
+
+ 
+
+21 
+
+ 
+
+ 
+3) 
+ 
+
+Provisions relating to open offer: 
+
+In case of open offer, offer need to be made for 26% of outstanding ordinary equity shares and 
+26% of the outstanding FR Shares. 
+ 
+The pricing of open offer for ordinary equity shares will be based on trading price of ordinary 
+equity shares and pricing of FR Shares will be based on trading pricing of FR shares. 
+ 
+
+Securities  and  Exchange  Board  of  India  (Buy-  Back  of  Securities)  Regulations,  2018  (‘Buy  Back 
+Regulations’) 
+ 
+Reservation 
+ 
+Pursuant to Regulation 6 of the Buy Back Regulations through the Tender Offer, a company can buy-
+back  its  shares  or other  specified  securities  from  its  existing  securities  holders  on  a  proportionate 
+basis. Further, 15 per cent of the number of securities proposed to be bought back by the company is 
+required to be reserved for small shareholders. 
+ 
+Buy Back Regulations should be amended to clarify that (i) company will be required to buy back both 
+ordinary equity shares and FR Shares. Allocation of buy back amount between ordinary equity shares 
+and FR Shares will be in the proportion of paid up capital of the company. For this purpose, SR Shares 
+will be deemed to be part of ordinary equity shares, and (ii) the current reservation of 15% for small 
+shareholders would apply to both small shareholders holding FR Shares and small shareholders holding 
+ordinary equity shares.  
+ 
+Spill Over 
+ 
+The Buy Back Regulations must be amended to provide for spill over between buy back for ordinary 
+equity  shares  and  FR  Shares  in  case  of  undersubscription  in  one  category  and  oversubscription  in 
+another category. In case shares tendered in one of the categories is less than the number of shares 
+to be bought in that category, companies must be permitted to buy back additional shares from the 
+category  where  shareholders  have  shown  interest  to  tender  shares  in  excess  of  the  maximum 
+permissible limit, subject to compliance with minimum public shareholding norms prescribed under 
+SCRR. 
+ 
+Pricing 
+Pursuant to Regulation 5(iv)(c)(i) of the Buy Back Regulations, in the event of a buy-back of securities 
+through a tender offer, the explanatory statement must include the maximum price at which the buy-
+back of shares shall be made. Additionally, pursuant to Rule 17 of the Companies (Share Capital and 
+Debentures) Rules, 2014 read with Section 68 of the Companies Act, 2013, a company is free to choose 
+the method for undertaking the buy back and is further required to include the basis for arriving at 
+the buy-back price in the explanatory statement.  
+Buy Back Regulations should  be amended to permit, in case of companies that have issued SR Shares, 
+FR Shares and ordinary equity shares, to price the SR Shares and ordinary equity shares with identical 
+price, while FR Shares can be priced differentially. However, companies must be mandated to include 
+justification for pricing FR Shares differentially. 
+ 
+Buy back through stock exchange mechanism 
+
+DVRs - Group Report  
+ 
+
+ 
+
+22 
+
+ 
+
+The  provisions  in  relation  to  proportionate  allocation  amongst  ordinary  shares  and  FR  shares  as 
+applicable in buy back through tender route will apply mutatis mutandis to buy-back through stock 
+exchange mechanism.  
+Regulation 15 of the Buy Back Regulation will apply separately for buy-back of ordinary equity shares 
+and FR Shares. 
+In case of buy-back through book building process, separate book building process would be carried 
+out for ordinary equity shares and FR Shares. 
+ 
+Securities  and  Exchange  Board  of  India  (Delisting  of  Equity  Shares)  Regulations,  2009  (“Delisting 
+Regulations”) 
+Floor Price: 
+The floor price will be calculated separately for ordinary equity shares and FR Shares as per the existing 
+formula under SEBI Delisting Regulations.  
+Pursuant  to  Regulation  15  of  the  SEBI  Delisting  Regulations,  the  offer  price  shall  be  determined 
+through book building process. 
+The SEBI Delisting Regulations must be amended to clarify, in case of companies with FR Shares and 
+ordinary equity shares, separate reverse book building processes must be employed for determining 
+the offer price of FR Shares and ordinary equity shares. 
+ 
+Related party transactions 
+23. (1) The listed entity shall formulate a policy on materiality of related party transactions and on 
+dealing with related party transactions [including clear threshold limits duly approved by the board of 
+directors and such policy shall be reviewed by the board of directors at least once every three years 
+and updated accordingly]. 
+ 
+
+Explanation—A transaction with a related party shall be considered material if the transaction(s) 
+to be entered into individually or taken together with previous transactions during a financial 
+year, exceeds ten per cent of the annual consolidated turnover of the listed entity as per the 
+last audited financial statements of the listed entity. 
+ 
+
+[(1A) Notwithstanding the above, a transaction involving payments made to a related party with 
+respect to brand usage or royalty shall be considered material if the transaction(s) to be entered 
+into individually or taken together with previous transactions during a financial year, exceed two 
+per cent of the annual consolidated turnover of the listed entity as per the last audited financial 
+statements of the listed entity.]  
+
+ 
+(2) All related party transactions shall require prior approval of the audit committee. 
+ 
+(3)  Audit  committee  may  grant  omnibus  approval  for  related  party  transactions  proposed  to  be 
+entered into by the listed entity subject to the following conditions, namely— 
+ 
+
+(a) 
+
+(b) 
+
+(c) 
+
+the audit committee shall lay down the criteria for granting the omnibus approval in line 
+with the policy on related party transactions of the listed entity and such approval shall 
+be applicable in respect of transactions which are repetitive in nature; 
+ 
+the audit committee shall satisfy itself regarding the need for such omnibus approval and 
+that such approval is in the interest of the listed entity; 
+the omnibus approval shall specify: 
+(i) 
+
+the  name(s)  of  the  related  party,  nature  of  transaction,  period  of  transaction, 
+maximum amount of transactions that shall be entered into,  
+
+ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+23 
+
+ 
+
+(ii) 
+
+the indicative base price/current contracted price and the formula for variation in 
+the price if any; and 
+
+ 
+
+such other conditions as the audit committee may deem fit: 
+
+(iii) 
+ 
+Provided that where the need for related party transaction cannot be foreseen and 
+aforesaid details are not available, audit committee may grant omnibus approval for 
+such transactions subject to their value not exceeding rupees one crore per transaction. 
+ 
+the audit committee shall review, at least on a quarterly basis, the details of related party 
+transactions entered into by the listed entity pursuant to each of the omnibus approvals 
+given. 
+
+such  omnibus  approvals  shall  be  valid  for  a  period  not  exceeding  one  year  and  shall 
+require fresh approvals after the expiry of one year. 
+
+(d) 
+
+ 
+(e) 
+
+ 
+(4)  All  material  related  party  transactions  shall  require  approval  of  the  shareholders  through 
+resolution and [no related party shall vote to approve] such resolutions whether the entity is a related 
+party to the particular transaction or not: 
+ 
+
+Provided that the requirements specified under this sub-regulation shall not apply in respect of 
+a resolution plan approved under section 31 of the Insolvency Code, subject to the event being 
+disclosed  to  the  recognized  stock  exchanges  within  one  day  of  the  resolution  plan  being 
+approved;  
+
+ 
+(5) The provisions of sub-regulations (2), (3) and (4) shall not be applicable in the following cases: 
+ 
+
+(a) 
+ 
+(b) 
+
+ 
+
+transactions entered into between two government companies; 
+
+transactions entered into between a holding company and its wholly owned subsidiary 
+whose accounts are consolidated with such holding company and placed before the 
+shareholders at the general meeting for approval. 
+
+Explanation—For  the  purpose  of  clause  (a), "government company(ies)"  means  Government 
+company as defined in sub-section (45) of section 2 of the Companies Act, 2013. 
+
+ 
+(6) The provisions of this regulation shall be applicable to all prospective transactions. 
+ 
+(7) For the purpose of this regulation, all entities falling under the definition of related parties shall 
+[not  vote  to  approve  the  relevant  transaction]  irrespective  of  whether  the  entity  is  a  party  to  the 
+particular transaction or not. 
+ 
+(8)  All  existing  material  related  party  contracts  or  arrangements  entered  into  prior  to  the  date  of 
+notification  of  these  regulations  and  which  may  continue  beyond  such  date  shall  be  placed  for 
+approval  of  the  shareholders  in  the  first  General  Meeting  subsequent  to  notification  of  these 
+regulations. 
+ 
+
+[(9) The listed entity shall submit within 30 days from the date of publication of its standalone and 
+consolidated financial results for the half year, disclosures of related party transactions on a 
+consolidated basis, in the format specified in the relevant accounting standards for annual results to 
+the stock exchanges and publish the same on its website.]  
+
+DVRs - Group Report  
+ 
+
+ 
+
+24 
+
+ 
+
+Annexure 1  
+
+ 
+DVRs: Some Judgments 
+ 
+An interesting perspective by the SEBI was presented in the case of Ashwin K Doshi V SEBI, wherein 
+the law was primarily stressed upon the regulations and rules of SEBI but a constructive reference on 
+the  Companies  Act  (Amendment)  was  placed.  The  main  issue  for  consideration  was  whether  the 
+transaction in question amounted to consolidation of control which in turn was a violation of SEBI 
+regulations as no public offer was made. After referring to the Companies Act (Amendment) 2000, the 
+judge was of the view that since a company can issue differential voting rights or non-voting rights 
+shares therefore there is no prohibition in even transferring the control. However, two guiding factors 
+before  such  transfer  were  also  recorded  and  that  is  equality  of  treatment  and  opportunity  to  all 
+shareholders and protection of interests of shareholders while administering regulations. 
+ 
+In the same year, Bombay High Court also laid down similar rules with regard to the applicability of 
+DVRs in the corporations. In the case of Zycus Infotech, the appellant had issued shares with no voting 
+rights from his equity share capital. This precedent essentially reasserted the law defining differential 
+voting rights when the original owners gained control over their company. Since the new amendment 
+as per 2013 Act was non-existent, hence the Companies Act, 2000 (Amendment) was applied. As per 
+the 2000 Act, only two type of shares could be issued, “equity shares” and “preferential shares”. In 
+equity shares, further demarcation is done,  as the shares can be  allotted on the  basis of dividend, 
+voting or otherwise. 
+ 
+ 
+ 
+
+ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+25 
+
+ 
+
+Annexure 2 
+
+ 
+Regulatory updates/ investor feedback on DVRs  
+ 
+1.  Proposed  updates:  In  February  2018,  the  SEC’s  Investor  Advisory  Committee  issued  a  paper 
+regarding  dual  class  and  other  “entrenching  governance  structures”  and  made  a  series  of 
+recommendations  to  the  staff  of  the  Division  of  Corporation  Finance.  The  proposals  included 
+additional disclosures relating to risks that may accompany dual class structures as well as data 
+regarding the difference between the economic ownership of the control group versus the voting 
+rights  that  accompany  the  super  voting  shares  owned  by  that  group.    In  response  to  the 
+recommendations of the Investor Advisory Committee, a bill has been introduced in Congress (the 
+Enhancing  Multi-Class  Share  Disclosures  Act)  that  would  enhance  the  disclosure  obligations  of 
+issuers  with  respect  to  disparate  voting  structures.  The  enhanced  disclosure  would  require 
+companies  to clearly  show  the  difference  between the  voting  power  and  economic  rights of  a 
+shareholder or group of shareholders owning “super voting” shares. To date, neither IOSCO nor 
+OECD has adopted a “one share one vote” principle in connection with their governance related 
+studies and position papers. While OECD endorses the notion that all holders within a given class 
+should have the same voting rights, it has also recognized that many countries permit multiple 
+class  capital  structures  with  disparate  voting  rights  and  “does  not  take  a  position  on  the 
+desirability of “one share, one vote”. 
+
+ 
+2. 
+
+Investors Petition NYSE, NASDAQ to Curb Listings of IPO Dual-Class Share Companies Traders 
+Magazine Online News, October 24, 201820 
+ 
+The Council of Institutional Investors (“CII”) recently filed petitions with the New York Stock 
+Exchange (NYSE) and the NASDAQ, asking both to limit listings of companies with dual-class 
+share structures. 
+ 
+Specifically, the petitions ask the exchanges to amend their listing standards to require that, 
+going forward, companies seeking to list that have multiple share classes with differential voting 
+rights include in their governing documents provisions that convert the share structure within 
+seven years of the initial public offering (IPO) to “one, share-one, vote.” This will ensure voting 
+power directly proportional to an investor’s capital at risk. 
+ 
+CII, which represents pension funds and other long-term investors, is urging the exchanges to act 
+to counter the trend of companies going public with unequal voting rights, which deprive 
+shareholders of the means to hold executives and directors accountable. 
+ 
+“While some companies that are controlled by virtue of special voting rights function as 
+benevolent dictatorships, we have seen others stumble because of self-dealing, lack of strategic 
+planning and ineffective boards,” said CII Chair Ash Williams, executive director and CIO of the 
+Florida State Board of Administration. “When problems emerge, external shareowners have 
+little recourse. Now, a consensus is emerging—among investors, companies and the law firms 
+and other IPO gatekeepers—that time-based sunsets are a sensible solution to the growing 
+problem of unequal voting rights, which poses danger to long-term resilience of an increasing 
+number of companies.” 
+ 
+
+                                                           
+20 https://www.prnewswire.com/news-releases/investors-petition-nyse-nasdaq-to-curb-listings-of-ipo-dual-
+class-share-companies-300737019.html 
+
+DVRs - Group Report  
+ 
+
+ 
+
+26 
+
+ 
+
+BlackRock, the largest global asset manager, believes that one share, one vote is the preferable 
+structure for publicly listed companies. BlackRock also supports time-based sunset provisions for 
+multi-class companies and believes that listing exchanges must play an important role. 
+ 
+“BlackRock believes that equal voting rights are a fundamental tenet of good corporate 
+governance. Multiple stakeholders – including listing exchanges and policymakers – must play a 
+role in setting effective corporate governance standards to protect shareholder rights,” said 
+BlackRock Co-founder and Vice Chairman Barbara Novick. “We encourage U.S. exchanges to 
+show global leadership on voting rights by requiring companies to either automatically convert 
+or give shareholders the right to extend a multi-class structure. Doing so will re-establish the 
+importance of equal voting rights for all public shareholders.” 
+ 
+Donna Anderson CFA, vice president and head of corporate governance at asset manager T. 
+Rowe Price, said, “A confluence of events has led to what we believe is a growing consensus on 
+the issues surrounding differential voting rights. We would like to see the U.S. stock exchanges 
+lead the process to find a solution that serves the long-term interests of all market participants.” 
+ 
+California State Teachers’ Retirement System Chief Executive Officer Jack Ehnes said, “One of the 
+strengths of the U.S. economy is the dynamism of U.S. companies. Successful American 
+companies are constantly changing—and reinventing the way they do business. So it only makes 
+sense that they should embrace change in their own governance that ultimately will strengthen 
+shareholder value.” 
+ 
+“CalPERS believes in one share, one vote,” said Simiso Nzima, the California Public Employees’ 
+Retirement System’s head of corporate governance. “However, we also understand that early in 
+a company’s public life, there may be a need for protections that enable management to focus 
+on building out a company’s vision and creating the long-term sustainable shareowner value we 
+are looking for as investors. We strongly believe such protection should not be perpetual, and 
+mandatory time-based sunsets should act as an important safeguard against managerial 
+entrenchment.” 
+ 
+CII Executive Director Ken Bertsch agreed that there is convergence in favor of time-based 
+sunsets within seven years after IPO as a condition of listing on a U.S. exchange: 
+ 
+• Recent academic research shows that while dual-class companies on average have a valuation 
+premium at the time of IPO, that advantage dissipates between six and nine years after IPO and 
+then disappears. “We believe seven years is sufficient time for a company to capitalize on 
+whatever benefits and control a multi-class structure provides,” Bertsch said. “After that, it 
+starts to look like a management-entrenchment device.” 
+ 
+• A growing number of companies are making their public debut with time-based sunsets. Of 38 
+U.S. companies that went public in 2017 and 2018 with multi-class structures, CII has tracked 11 
+(29%) that incorporated simple time-based sunsets. 
+ 
+• A small but growing share of multi-class IPO companies have used time-based sunsets 
+successfully. Examples include Groupon (converted to a single share class after five years), Texas 
+Roadhouse (converted after five years) and MaxLinear (converted after seven years). 
+ 
+• Investors have soured on Snap and other high-profile companies (Altice USA, Blue Apron) that 
+made their IPO authorizing zero-vote shares. 
+ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+27 
+
+ 
+
+• Well-established dual-class companies (notably CBS and Viacom) have been hugely distracted 
+by fights related to control, and even privately-owned Uber decided to go to one-share, one-
+vote after scandal rocked the company 
+ 
+Background: 
+ 
+Silicon Valley entrepreneurs like to boast about disrupting the status quo. With good reason: 
+From Alphabet (Google’s parent) to Zillow, young tech companies have achieved success by 
+upending traditional business models in one sector after another. But when it comes to how 
+they govern their companies many founders embrace frameworks that are bulwarks against 
+change. In recent years, a significant number of start-up companies, most but not all tech-based, 
+have gone public with dual- or even triple-class stock structures with unequal voting rights that 
+guarantee founders and other insiders voting control that can last decades—even as their equity 
+stake shrinks. In 2017, we saw the advent of zero-vote shares for outside holders when Snap 
+went public. 
+ 
+Last year, 19% of U.S. companies that went public on U.S. exchanges had at least two classes of 
+stock with differential voting rights. That is up from just 1% in 2005. In most cases, the superior 
+class has 10 votes per share, while the inferior class has one vote per share. Supporters say this 
+enables entrepreneurs to focus on the long term and resist pressure from investors to keep 
+earnings growing every quarter. 
+ 
+But this “founder knows best” approach challenges the bedrock corporate governance principle 
+of “one share, one vote”: Providers of capital should have a right to vote in proportion to the 
+size of their ownership. A single class of common stock with equal voting rights makes the board 
+of directors accountable to all of the shareholders—and more likely to respond when 
+management stumbles. Multi-class structures deprive public shareholders of a meaningful voice 
+in how the company is run because the public shareholders lack the votes to influence the board 
+or management. 
+ 
+Academic research supports time-based sunsets. A recent study, “The Life Cycle of Dual Class 
+Firms,” found that while multi-class companies have a value premium over single-class 
+counterparts at the time of their initial public offering (IPO), that benefit fades to a discount six 
+to nine years after IPO. Other studies show that multi-class companies have a substantially lower 
+total shareholder return compared to single-class companies over 10 years. 
+ 
+The Securities and Exchange Commission (SEC) believes it lacks the statutory authority to compel 
+U.S. exchanges to amend their listing rules. Over the past year, providers of benchmark 
+indexes—FTSE Russell, MSCI and S&P Dow Jones—have stepped into the breach, with varying 
+curbs on multi-class companies in indexes that are used widely by institutional investors. A 
+listing standard would put all dual-class companies on the same footing. 
+
+ 
+
+ 
+
+DVRs - Group Report  
+ 
+
+ 
+
+28 
+
+Comparison of trading pattern of DCS in US and India  
+
+ 
+
+ 
+
+Annexure 3 
+
+ 
+
+Google A Class
+
+Google C Class
+
+Tata Motors ORD
+
+Tata Motors DVR
+
+1,200
+
+1,150
+
+1,100
+
+1,050
+
+1,000
+
+950
+
+900
+
+850
+
+800
+
+500
+
+450
+
+400
+
+350
+
+300
+
+250
+
+)
+)
+
+D
+S
+U
+
+(
+ 
+
+ 
+
+e
+c
+i
+r
+P
+e
+r
+a
+h
+S
+
+(
+
+ 
+ 
+
+)
+)
+
+R
+N
+
+I
+(
+ 
+
+ 
+
+e
+c
+i
+r
+P
+e
+r
+a
+h
+S
+
+(
+
+200
+
+150
+
+DVRs - Group Report  
+ 
+
+ 
+
+ 
+
+ 
+
+29 
+
+

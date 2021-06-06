@@ -1,0 +1,958 @@
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Discussion Paper on "Monitoring Agency Report and Related 
+
+Disclosures" 
+
+ 
+
+1.  Background 
+ 
+
+a.  SEBI  (Issue  of  Capital  and  Disclosure  Requirements)  Regulations, 
+2009 (ICDR Regulations) requires that the offer document shall contain 
+the  disclosures  about  the  ‘Objects  of  the  Issue’.  This  requirement 
+ensures that the amount to be utilized towards each object of the issue 
+is  specifically  earmarked  and  disclosed  in  the  offer  document. 
+Mandating such detailed disclosures helps in monitoring of utilization of 
+the funds raised through public issues as well as enables the investors 
+to take informed decision.  Keeping similar objective in mind, SEBI has 
+recently amended the ICDR Regulations and put a limit on the amount 
+that can be earmarked for ‘General Corporate Purpose’ to  25% of the 
+total  issue  size.  Further,  ICDR  Regulations  also  requires  appointment 
+of  ‘Monitoring  Agency’  if  the  issue  size  exceeds  Rs.  500  Cr.  for 
+monitoring of utilization of issue proceeds. 
+
+2.  Current Regulatory Framework 
+ 
+
+a.  Regulation 16 of the SEBI (ICDR) Regulations, 2009 as amended till 
+
+date provides as under: 
+
+"16. (1) If the issue size exceeds five hundred crore rupees, the issuer 
+shall  make  arrangements  for  the  use  of  proceeds  of  the  issue  to  be 
+monitored  by  a  public  financial  institution  or  by  one  of  the  scheduled 
+commercial  banks  named  in  the  offer  document  as  bankers  of  the 
+issuer:  
+
+Provided that nothing contained in this clause shall apply to an offer for 
+sale  or  an  issue  of  specified  securities  made  by  a  bank  or  public 
+financial institution or an insurance company. 
+
+16.    (2)  The  monitoring  agency  shall  submit  its  report  to  the  issuer  in 
+the  format  specified  in  Schedule  IX  on  a  half  yearly  basis,  till  the 
+proceeds of the issue have been fully utilised." 
+
+b.  Provisions in the Listing Agreement: 
+
+i.  Clause 41(4)(e) of the Listing Agreement provides as under: 
+
+“If  the  company  had  not  commenced  commercial  production  or 
+commercial  operations  during  the  reportable  period,  the  company 
+shall,  instead  of  submitting  financial  results,  disclose  the  details  of 
+amount  raised,  the  portions  thereof  which  is  utilized  and  that 
+
+ 
+
+Page 1 of 10 
+
+remaining  unutilized,  the  details  of  investment  made  pending 
+utilisation,  brief  description  of 
+is  pending 
+the  project  and  expected  date  of 
+completion,  status  of 
+commencement  of 
+commercial  production  or  commercial 
+operations.” 
+
+the  project  which 
+
+ii.  Clause 43A of the Listing Agreement provides as under: 
+
+“(1)  The  company  agrees  to  furnish  to  the  stock  exchange  on  a 
+quarterly basis, a statement indicating material deviations, if any, in 
+the  use  of  proceeds  of  a  public  or  rights  issue  from  the  objects 
+stated in the offer document. 
+
+(2)  Where  the  company  has  appointed  a  monitoring  agency  to 
+monitor utilization  of  proceeds  of a  public  or  rights  issue  and  such 
+monitoring  agency  has  pointed  out  any  deviation  in  the  use  of  the 
+proceeds  of  the  issue  from  the  objects  stated      in      the      offer   
+document   or   has   given   any   other reservations   about   the   
+end   use   of   funds,   the   company agrees to intimate the same 
+to the stock exchange, without any delay.” 
+
+iii.  While  laying  down  the  role  of  Audit  Committee,  Clause  49  of  the 
+Listing Agreement, requires Audit Committee to mandatorily review 
+the following: 
+
+(cid:1)  the  statement  of  uses  /  application  of  funds  raised  through  an 
+
+issue 
+
+(cid:1)  the  statement  of  funds  utilized  for  purposes  other  than  those 
+
+stated in the offer document/prospectus/notice 
+
+(cid:1)  Report submitted by the Monitoring Agency 
+
+is  also  required 
+
+The  Audit  Committee 
+to  make  appropriate 
+recommendations  to  the  Board  for  taking  necessary  steps  on  the 
+above-mentioned  matters.  Further,  on  an  annual  basis, 
+the 
+company  shall  prepare  a  statement  of  funds  utilized  for  purposes 
+other than those stated in the offer document/prospectus/notice and 
+place  it  before  the  Audit  Committee.  This  statement  shall  be 
+certified by the statutory auditors of the company. 
+
+c.  The  Companies  (Auditor’s  Report)  Order,  2003  (CARO)  in  Para 
+4(XX)  of  “Matters  to  be  included  in  the  auditor’s  report.”  requires  as 
+under: 
+
+“Whether  the  management  has  disclosed  on  the  end  use  of  money 
+raised by public issues and the same has been verified” 
+
+ 
+
+ 
+
+Page 2 of 10 
+
+d.  Revised Schedule VI to the Companies Act, 1956 as amended till date 
+and  Schedule  III  to  the  Companies  Act,  2013  requires  that  in  case  of 
+an issue of securities made for a specific purpose and the whole or part 
+of the amount raised has not been used for that purpose till the balance 
+sheet date, the financial statements shall contain a disclosure  on  how 
+such unutilized amounts have been used or invested by way of note to 
+the financial statements. 
+
+e.  Section  13(8)(ii)  of  Companies  Act,  2013  requires  that  the  company 
+shall  not  change  its  objects  for  which  it  raised  the  money  through 
+prospectus  unless a special resolution is passed  by the company  and 
+dissenting  shareholders  have  been  given  opportunity  for  exit  by  the 
+promoters  and  shareholders  having  control 
+in  accordance  with 
+regulations to be specified by the Securities and Exchange Board. 
+
+3.  Major Changes Proposed 
+ 
+
+The  key  changes  proposed  in  Monitoring  Agency  Report  and  Related 
+Disclosures are as under: 
+
+3.1. Appointment of Monitoring Agency 
+
+Present requirement 
+
+Appointment  of  Monitoring  Agency  is  compulsory  for  all  issues  where 
+issue size exceeds Rupees five hundred crores 
+
+Proposed requirement 
+
+Mandatory appointment of monitoring agency for all issues, irrespective of 
+issue size. 
+
+Rationale 
+
+for  deviation 
+
+As detailed in  para (2)(e) above, the Companies Act, 2013  has included 
+certain  provisions 
+issue  proceeds. 
+Accordingly,  it  is  pertinent  to  extend  the  requirement  of  monitoring  of 
+utilization  of  issue  proceeds  to  all  the  companies  to  ensure  that  such 
+instances  are  identified  and  addressed  in  accordance  with  extant  legal 
+framework.  It  will  also  strengthen  the  monitoring  of  utilization  of  all  the 
+equity capital raised through issuance of equity shares to public. 
+
+in  utilization  of 
+
+3.2. Frequency of Submission of Monitoring Agency Report 
+
+Present requirement 
+
+Monitoring Agency is required to submit its report to the issuer half-yearly. 
+
+Proposed requirement 
+
+Mandatory  submission  of  report  by  the  monitoring  agency  on  quarterly 
+basis till the funds are fully utilized. 
+
+ 
+
+Page 3 of 10 
+
+Rationale 
+
+As per Clause 41 & 43 of the Listing Agreement, the company is required 
+to  quarterly  disclose  details  of  fund  utilization  and  variations  in  such 
+utilization.  For  meeting  such  disclosure  requirement,  the  company  either 
+obtains the information from monitoring agency or collates the information 
+itself.  Thus,  there  appears  to  be  a  need  for  quarterly  submission  of 
+monitoring  agency  report.  The  said  suggestion  was  also  discussed  in 
+Primary Market Advisory Committee (PMAC) meeting held on November 
+17,  2011  and  the  committee  agreed  with  the  suggestion  of  aligning 
+reporting requirements to quarterly basis. 
+
+3.3. Dissemination of Monitoring Agency Report 
+
+Present requirement 
+
+No Requirement (only material deviations are required to be disclosed by 
+the issuer company under clause 43A(i) of Listing Agreement) 
+
+Proposed requirement 
+
+Mandatory submission of Monitoring Agency Report to Stock Exchanges 
+for public dissemination.  
+
+Rationale 
+
+At present, the report submitted by the monitoring agency to the issuer is 
+not  required  to  be  made  public.  Considering  that  Companies  Act,  2013 
+requires prior approval from shareholders for any change of object and a 
+provision  for  exit  to  dissenting  shareholders,  it  is  very  important  that  the 
+shareholders  get  regular  update  on  utilization  of  issue  proceeds. 
+Disclosure of report of monitoring agency in public domain will serve the 
+above objects. 
+
+Thus,  in  order  to  bring  more  transparency  in  the  disclosures,  it  is 
+proposed  to  mandate  submission  of  Monitoring  Agency  Report  to  Stock 
+Exchanges for public dissemination. 
+
+3.4. Categorization of Reports 
+
+Present requirement 
+
+No specific requirement for categorizing the report in case of deviation of 
+funds from the stated objects of the issue in the offer document. 
+
+Proposed requirement 
+
+The  monitoring  agency  to  grade  the  deviation  on  the  2-digit  scale  as 
+under: 
+
+First digit indicates deviation from the objects stated in offer document as 
+under: 
+ 
+
+ 
+
+Page 4 of 10 
+
+0 – No deviation from the objects stated in offer document 
+1  –  Utilization  different  from  Objects  stated  in  OD  but  in  line  with 
+change of objects approved by shareholders' resolution 
+2 – Utilization neither in line with Objects stated in OD nor approved by 
+shareholders' resolution  
+
+Second  digit  indicates  range  of  deviation  from  the  specified  objects  as 
+under: 
+
+0 – upto 10% deviation 
+1 – 10 - 25% 
+2 – 25-50% 
+3 – 50-75% 
+4 – 75-100% 
+5 – Not ascertainable 
+
+Thus,  code  of  12  would  indicate  that  the  utilization  of  issue  proceeds  is 
+different  from  Objects  stated  in  OD  but  is  in  line  with  change  of  objects 
+approved  by shareholders' resolution  and the deviation in utilization is in 
+the range of 25%-50%. 
+
+The deviation in utilization of issue proceeds for the stated objects could 
+occur  due  to  delay  in  the  stated  time  schedule,  changing  the  fund 
+allocations within the stated objects in the offer document or diversion of 
+funds  to  the  object  other  than  stated  in  the  offer  document.  All  these 
+deviations  reported  by  the  monitoring  agency  shall  clearly  indicate  the 
+same along with the reasons for such deviation and also indicate whether 
+necessary approvals from Board/ Shareholders have been obtained. The 
+Stock exchanges shall prominently disseminate list of monitoring agency 
+reports in separate lists based on first digit of said categorization.  
+
+Rationale 
+
+Monitoring Agency Reports where there is a deviation from objects of the 
+issue  should  be  segregated  from  reports  where  the  utilization  is  in  line 
+with objects of the issue.  
+
+Section 13(8)(ii) of Companies Act, 2013 requires that the company shall 
+not  change  its  objects  for  which  it  raised  the  money  through  prospectus 
+unless  a  special  resolution  is  passed  by  the  company  and  dissenting 
+shareholders  have  been  given  opportunity  for  exit  by  the  promoters  and 
+shareholders having control. The companies whose reports have first digit 
+of  code  as  2  can  be  indicative  of  the  possible  deviation  in  utilization/ 
+change of objects.  
+
+3.5. Comments of  Audit  Committee  and Management on the  findings 
+
+of Monitoring Agency 
+
+Present requirement 
+
+No such requirement exists. 
+
+ 
+
+Page 5 of 10 
+
+Proposed requirement 
+
+Audit  Committee  and  the  Board/  Management  shall  provide  their 
+comments for the deviation, if any, pointed out in the report of monitoring 
+agency.  
+
+Rationale 
+
+It is desirable to have comments of management/ audit committee which 
+will help understand the reasons for such deviation, if any. 
+
+3.6. Timelines for submission of report to the stock exchanges. 
+
+Present requirement 
+
+No specific timeframe has been provided in the existing framework. 
+
+Proposed requirement 
+
+For  effective  monitoring  and  timely  disclosure,  it  is  desirable  to  have  a 
+fixed time limit for submission of the report. It is proposed that the issuer 
+company  shall  ensure  that  the  Monitoring  Agency  Report  is  submitted 
+within 45 days from the end of the quarter to the stock exchanges 
+
+Rationale 
+
+It is desirable to have timely information of the status of utilization of issue 
+proceeds  &  the  deviation,  if  any.  Such  disclosure  will  help  shareholder/ 
+stakeholder/ investor in taking informed decision. 
+
+3.7. Sub-committee  of  Board  members  to  oversee  the  monitoring  of 
+
+utilization of issue proceeds  
+
+Present requirement 
+
+No  such  specific  requirement  for  overseeing  the  monitoring  of  utilization 
+of issue proceeds.   
+
+Proposed requirement 
+
+A  committee  of  Board  of  Directors  of  the  Company  to  be  constituted  to 
+oversee  the  monitoring  of  utilization  of  issue  proceeds  is  constituted 
+before opening of the issue. The said committee shall facilitate monitoring 
+of  issue  proceeds  by  monitoring  agency.  The  majority  of  the  member  of 
+the said committee shall be independent directors and the same shall be 
+headed by an independent director.  
+
+Rationale 
+
+Constitution of such committee  will be  helpful in facilitating monitoring  of 
+utilization  of  issue  proceeds.  Further,  the  said  requirement  will  ensure 
+
+ 
+
+Page 6 of 10 
+
+active involvement of Board of Directors monitoring of utilization of issue 
+proceeds. 
+
+4.  Revision in format of Monitoring Agency Report 
+ 
+Proposed  new  format  for  report  of  monitoring  agency  to  be  submitted  to  the 
+issuer company is placed at Annexure. 
+
+Public Comments 
+ 
+It is proposed to carry out necessary amendments to regulatory framework in 
+line with revised requirements proposed in this discussion paper. Considering 
+the  importance  of  proposed  changes  for  all  the  stakeholders  including  the 
+listed  companies,  public  comments  on  the  draft  framework  are  solicited. 
+Specific  comments/  suggestions  would  be  highly  appreciated.  Such 
+comments  may  please  be  emailed  on  or  before  March  25,  2014,  to 
+mar@sebi.gov.in or sent, by post, to:- 
+ 
+
+Mr. Anindya Das 
+Deputy General Manager 
+Corporation Finance Department 
+Securities and Exchange Board of India  
+SEBI Bhavan 
+Plot No. C4-A, "G" Block 
+Bandra Kurla Complex 
+Bandra (East), Mumbai - 400 051 
+Ph: +912226449616/ +912226449463 
+
+****** 
+
+ 
+
+Page 7 of 10 
+
+Annexure 
+
+Proposed format for Monitoring Agency Report 
+
+ 
+
+Front Page: 
+ 
+
+Monitoring Agency Certificate 
+
+Name of the Issuer: 
+For quarter ended: 
+Name of the Monitoring Agency: 
+ 
+Report Category: Deviation Code* 
+If type of Report is “Adverse”, seriousness of deviations is: Acceptable/Requires 
+Action 
+ 
+Declaration: 
+I/We  hereby  declare  that  this  report  is  based  on  the  format  as  prescribed  by  SEBI 
+(ICDR) Regulations, 2009, as amended. I/We further declare that this report provides 
+true and fair view of the utilization of issue proceeds.  
+ 
+Signature  
+Name of Authorized Person/Signing Authority: 
+Designation of Authorized person/Signing Authority:  
+Seal of the Monitoring Agency: 
+Date: 
+* The monitoring agency to grade the deviation on the 2-digit scale as under: 
+ 
+
+i. 
+
+ii. 
+
+First digit indicates deviation from the objects stated in offer document as under: 
+ 
+0 – No deviation from the objects stated in offer document 
+1  –  Utilization  different  from  Objects  stated  in  OD  but  in  line  with  change  of 
+objects approved by shareholders' resolution 
+2  –  Utilization  neither  in  line  with  Objects  stated  in  OD  nor  approved  by 
+shareholders' resolution  
+ 
+Second  digit  indicates  range  of  percentage  deviation  from  the  specified  objects 
+as under: 
+ 
+0 – upto 10%  
+1 – 10 - 25% 
+2 – 25-50% 
+3 – 50-75% 
+4 – 75-100% 
+5 – Not ascertainable 
+ 
+Thus, code of 12 would indicate that the utilization of issue proceeds is different 
+from  Objects  stated  in  OD  but  is  in  line  with  change  of  objects  approved  by 
+shareholders'  resolution  and  the  deviation  in  utilization  is  in  the  range  of  25%-
+50%.  
+
+ 
+
+Page 8 of 10 
+
+ 
+
+ 
+
+Subsequent Pages: 
+ 
+
+1)  Issuer Details 
+
+Name of the issuer 
+The names of the promoters of the issuer 
+Industry/sector to which it belongs 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2)  Issue Details 
+
+ 
+
+ 
+
+Issue date 
+Type of issue (public/rights) 
+Type of specified securities 
+Grading 
+Issue size (Rs. in Crores) 
+Amount collected (Rs. in Crores) 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+: 
+: 
+: 
+
+: 
+: 
+: 
+: 
+: 
+: 
+
+ 
+
+ 
+
+ 
+
+3)  Details of the arrangement made to ensure the monitoring of issue proceeds 
+
+(Give  item  by  item  description  for  all  the  objects  stated  in  offer  document 
+separately in following format) 
+
+Monitoring 
+Agency  
+Comments 
+
+Audit 
+
+Committee 
+Comments 
+
+Mgmt.  
+
+Comments 
+
+Particulars  
+
+Whether  all  the  utilzation  is  as  per 
+disclosure in Offer Document? 
+
+Whether Shareholder approval obtained 
+in  case  of  material  deviations#  from 
+expenditures 
+in  Offer 
+Document? 
+
+disclosed 
+
+Rep
+ly 
+
+Yes
+/ 
+No 
+Yes
+/ 
+No 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+to 
+
+related 
+
+Whether means of finance for disclosed 
+objects of the Issue has changed? 
+
+Any  major  deviation  observed  over  the 
+earlier monitoring agency reports? 
+
+Whether  all  Government  /  Statutory 
+approvals 
+the  project 
+obtained? 
+Whether  all  arrangements  pertaining  to 
+technical  assistance/collaboration 
+in 
+operation? 
+
+Yes
+/ 
+No 
+Yes
+/ 
+No 
+Yes
+/ 
+No 
+Yes
+/ 
+No 
+Yes
+/ 
+No 
+Yes
+/ 
+No 
+Any other relevant information that may 
+Yes
+materially  affect the decision making of 
+/ 
+the investors 
+No 
+# Where material deviation may be defined to mean: 
+a) Deviation in the objects or purposes for which the funds have been raised 
+b) Deviation in the amount of fund actually utilized by more than 10% of the amount 
+projected in the offer documents. 
+
+Any  favorable  events  improving  project 
+viability 
+
+Any unfavorable events affecting project 
+viability 
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+Page 9 of 10 
+
+ 
+
+ 
+
+ 
+
+4)  Details of projects to be monitored 
+
+(i)  Cost of project 
+(Give  Item  by  Item  Description  for  all  the  Objects  Stated  in  Offer  Document 
+separately in following format) 
+
+Sl. 
+No 
+
+Item 
+Head 
+
+Original 
+Cost (as 
+per Offer 
+Document) 
+
+Revised 
+
+Cost 
+
+Comments 
+
+of 
+
+Monitoring 
+
+Agency 
+
+Management Reply 
+
+Reason 
+of cost  
+revision 
+
+Proposed 
+financing 
+
+option 
+
+Particulars of 
+
+firm 
+
+arrangements 
+
+made  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+(ii)  Progress in the project 
+(Give  Item  by  Item  Description  for  all  the  Object  Stated  in  Offer  Document 
+separately in following format) 
+
+Sl. 
+No 
+
+Item 
+Head$ 
+
+Amount 
+
+as 
+
+Amount utilized 
+
+                                                  
+
+propose
+
+d  
+
+in Offer 
+Docume
+
+nt 
+
+As at 
+Beginni
+ng of  
+the 
+
+quarter 
+
+During 
+
+the 
+
+quarter 
+
+At the 
+end  
+of the 
+quarter 
+
+Total 
+unutiliz
+
+ed 
+
+Amount 
+
+Comme
+nts of 
+Monitor
+
+ing 
+
+Agency 
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+$ Provide following details under Item Head: 
+(a)Name of the project: 
+(b)Brief description of the project: 
+(c)Location of the project (if applicable): 
+
+(iii)  Deployment of unutilized IPO proceeds 
+
+Management 
+
+Reply 
+
+Reaso
+n of 
+idle 
+funds 
+
+Propos
+
+ed 
+
+Course 
+
+of  
+
+Action 
+
+  
+
+Sl. 
+no. 
+
+ 
+
+Type of 
+instrume
+nt where 
+amount 
+invested* 
+
+Amount 
+invested 
+
+Maturity 
+
+date 
+
+Earnings 
+
+Return on 
+Investment 
+
+(ROI %) 
+
+Market 
+
+Value as at  
+the end of 
+quarter** 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+* Also indicate name of the party/company in which amounts have been invested 
+**  Where  market  value  is  not  practical  to  find,  provide  NAV/NRV/Book  Value  of  the 
+same 
+ 
+(iv)  Delay in implementation of the project 
+
+Completion Date 
+
+Project 
+Name 
+
+As per 
+Offer 
+
+Actual * 
+
+Document 
+  
+
+  
+
+Delay (No. 
+
+of days/ 
+months) 
+
+Management Reply 
+
+Reason of 
+
+delay 
+
+Proposed 
+Course of  
+
+Action 
+
+  
+*  In  case  of  continuing  projects  please  specify  latest/revised  estimate  of  completion 
+date 
+
+  
+
+  
+
+  
+
+ 
+
+Page 10 of 10 
+
+

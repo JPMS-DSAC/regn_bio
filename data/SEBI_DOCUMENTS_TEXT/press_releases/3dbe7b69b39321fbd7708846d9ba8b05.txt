@@ -1,0 +1,62 @@
+
+ 
+Jan 14, 2017
+
+PR No.:  
+5/2017
+
+
+
+
+The SEBI Board met in Jaipur today and took the following decisions: 
+ I. Reduction of Fees payable by brokers by 25% and Calibration of other fees 
+
+SEBI has been following the practice of calibrating the fees either upwards or downwards as per SEBI's requirements from time to time so as to keep a balance between the financial resources required to ensure regulatory efficiency while maintaining reasonableness to avoid any undue burden on any particular class of intermediaries.
+Keeping this objective in mind and taking into consideration the projected income and expenditure of SEBI for the next three financial years, the Board decided to reduce the fees payable by broker by 25%, i.e. from Rs.20/- per crore of turnover to Rs.15/- per crore of turnover. This will result in reduction of overall cost of transactions and will benefit the investors and promote the development of securities market.
+The Board also decided to align the fees payable under SEBI (Buy-back of Securities) Regulations, 1998 with the fee payable under SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.  It was also decided to introduce filing fee for draft scheme of arrangement and processing fee for application seeking relaxation under Regulation 113 of SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2009. The fee charged under Regulation 11 of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 has been revised to Rs.5.00 lakhs from Rs.3.00 lakhs.
+
+  II. Review of advertisement guidelines for Mutual Funds
+SEBI Board deliberated the proposals relating to review of existing advertisement guidelines for Mutual Funds. It considered that the existing guidelines on publishing performance of schemes in advertisements issued by Mutual Funds should be reviewed, so that performance related information may be disclosed in a simpler and effective manner, while providing precise & latest information to investors. Further, the Board considered that for the purpose of increasing awareness of Mutual Funds as a financial product category, celebrity endorsements of Mutual Funds may be allowed at an industry level.
+Accordingly, the Board decided that:
+
+While publishing performance related information in advertisement of Mutual Fund schemes,
+Performance of Mutual Fund schemes shall be advertised in terms of CAGR for the past 1 year, 3 years, 5 years and since inception; in place of current requirement to publish scheme's returns for as many twelve month periods as possible for the past 3 years.
+Performance advertisement of Mutual Fund schemes should provide information based on last day of month-end preceding the date of advertisement, instead of current requirement of publishing such data based on last day of preceding quarter-end.
+Performance of other schemes managed by the fund manager shall be disclosed in a summarized manner and in internet-enabled media; Mutual Funds shall be permitted to provide an exact link to such summarized information. 
+
+ On allowing Celebrity endorsements at industry level: Celebrity endorsements of Mutual Funds shall be permitted at industry level; however, not for endorsing a particular scheme of a Mutual Fund or as a branding exercise of a Mutual Fund house. Further, prior approval of SEBI shall be required for issuance of such advertisements which feature celebrities. 
+
+III. Investment by Mutual Funds in Hybrid Instruments
+1) SEBI Board noted that units of REITs/InvITs are hybrid instruments. However, the features are more like equity securities and the concentration and liquidity risks require to be addressed. 
+2) In light of the above, the Board decided that the following investment restrictions will be applicable:
+(i) A Mutual Fund scheme shall not invest more than 5% of its NAV in units of a single issuer of REITs and InvITs. Such limit of 5% shall not be applicable for investments in case of index fund or sector or industry specific scheme pertaining to REITs and InvITs.
+(ii) A Mutual Fund scheme shall not invest more than 10% of its NAV in units of REITs and InvITs. Such limit of 10% shall not be applicable for investments in case of index fund or sector or industry specific scheme pertaining to REITs and InvITs.
+(iii) No Mutual Fund under all its schemes should own more than 10% of units issued by a single issuer of REITs and InvITs.
+3) Applicability
+(i) The aforesaid isanvestment restrictions shall be applicable to all fresh investments by all schemes or an existing scheme. 
+(ii) Any existing scheme intending to invest in units of REITs/InvITs shall abide by the provisions of Regulation 18 (15A) of SEBI (Mutual Funds) Regulations, 1996. 
+IV.  Regulatory Framework on Schemes of Arrangements - Mergers and Demergers
+ SEBI Board approved the proposals to revise and streamline the regulatory framework governing schemes of arrangement:
+1.  In case of merger of an unlisted company with a listed company:
+ a) With a view to improve the disclosure standards, the unlisted company, inter-alia, shall comply with the requirement of disclosure of material information as specified in the format for abridged prospectus.
+b) The holding of pre-scheme public shareholders of the listed entity and the Qualified Institutional Buyers (QIBs) of the unlisted company, in the post scheme shareholding pattern of the "merged" company shall not be less than 25%. The objective is to have wider public shareholding and to prevent very large unlisted company to get listed by merging with a very small company.
+c) Unlisted company can be merged with a listed company if it is listed on a stock exchange having nationwide trading terminals
+2.  In order to prevent issue of shares to select group of shareholders instead of all shareholders pursuant to the scheme, it is clarified that the pricing formula specified under the ICDR Regulations shall be applicable in such cases.
+3.  To ensure larger participation of public shareholders, the requirement to obtain their approval through e-voting has been extended to the following cases:
+a)  The schemes involving merger of an unlisted company resulting in reduction in the voting share % of pre-scheme public shareholders by more than 5% of total capital of merged entity.
+b)  Schemes involving transfer of whole or substantially the whole of the undertaking of a listed company and consideration for such transfer is not in the form of listed equity shares.
+c)  Schemes involving merger of unlisted subsidiary with listed holding company where the shares of the unlisted subsidiary have been acquired by the holding company directly or indirectly from the promoters/promoter group.
+4.   Companies would be required to submit compliance report confirming compliance with the circular and Accounting Standards duly certified by Company Secretary, CFO and Managing Director.
+5.  With a view to simplify the process, schemes which provide for merger of a Wholly owned Subsidiary (WoS) with the parent company shall not be required to be filed with SEBI. Such schemes shall be filed with stock exchanges for the limited purpose of disclosures only.
+V. Empowerment of Stock Exchanges for effective regulation of Listed Entities 
+1. SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("LODR Regulations") specifically provide for imposition of fines, etc. by the stock exchanges. However, a similar provision is not available in the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2009 ("ICDR Regulations"), which contain provisions for companies for raising fund through public / rights / preferential / bonus issue of securities.
+2. In order to empower the stock exchanges for effective regulation of listed entities, the Board has approved insertion of a similar clause in the ICDR Regulations to enable actions such as imposition of fines, suspension of trading, etc. by stock exchanges for contravention of ICDR Regulations. Based on the amended Regulations, SEBI would issue appropriate circular/guidelines providing for standard operating procedure for imposing of fines, etc. on violation of certain provisions of ICDR Regulations in consultation with stock exchanges.
+3. This will reduce cost of undertaking adjudication/quasi-judicial actions in case of minor violations for the listed entities. 
+VI. SEBI (Issue and listing of Debt Securities by Municipalities) Regulations, 2015 to provide for a criteria alternative to "Net Worth" for municipalities making public issue of debt securities under these regulations
+The SEBI (Issue and listing of Debt Securities by Municipalities) Regulations, 2015 (ILDM) provides that a municipality or a Corporate Municipal Entity (CME) making public issue of debt securities, under these regulations shall not have negative net worth in any of three immediately preceding financial years.
+ In order to facilitate issuance of debt securities under these regulations by entities other than CME, the Board agreed that the Municipalities making public issue of debt securities under these regulations shall have surplus as per its Income and Expenditure Statement, in any of the three immediately preceding financial years or any other financial criteria as specified by SEBI from time to time.
+ VII. SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2014
+On the basis of experience gained and with the purpose of streamlining and strengthening the settlement process, Board approved amendments to the Securities and Exchange Board of India (Settlement of Administrative and Civil Proceedings) Regulations, 2014.  The amendments, inter alia, provide for charging of interest in case of excessive delays in filing of applications or payment of settlement amount;  settlement Notice before issuance of a formal show cause notice, except those which are excluded from settlement; re-application of rejected or withdrawn applications in deserving cases, subject to payment of additional fees and interest; situations when  joint and several liability is taken into account for determining settlement amount and Incentive for defaulters to come voluntarily on their own, before initiation of investigation or enforcement action. 
+VIII. Enabling Payment by Digital Mode
+The Board approved the proposal to amend various Regulations to enable the market participants to make payments to SEBI through digital mode (such as NEFT/RTGS) as well.
+

@@ -1,0 +1,6393 @@
+ +;
+
+PART THREE: REGULATION OF SECURITIES MARKET
+
+Annual Report 2004-05
+
+This part of the Report delineates the functions of SEBI as specified in
+
+Section 11 of the SEBI Act, 1992.
+
+1. PRIMARY SECURITIES MARKET
+
+Intermediaries  play  an  important  role  in
+the capital market in channelising the financial
+resources from savers to investors. The role
+of  professionally  managed  market
+intermediaries  is  exceedingly  important  for
+business  development  and  growth  of  capital
+market.  The  market  requires  services  of  a
+variety  of  intermediaries  like  merchant
+bankers,  bankers  to  issues,  brokers,
+debenture trustees, etc., to bring the suppliers
+and  users  of  funds  together  for  mutual
+benefits.
+
+During 2004-05, there was a significant
+increase  in  the  number  of  various  classes
+of  intermediaries  registered  with  SEBI
+such  as  registrar  to  an  issue  and  share
+transfer  agents,  bankers  to  an  issue,
+debenture trustees, portfolio managers, under-
+writers  and  merchant  bankers  (Table  3.1).
+Dematerialisation activities witnessed a surge
+with the number of DPs increasing at CDSL.
+However,  number  of  depository  participants
+marginally  declined  to  210  in  2004-05  from
+
+216  in  2003-04  at  NSDL.  The  number  of
+credit rating agencies remained same at 4 in
+2004-05. There was 40 per cent increase in
+the  category  of  portfolio  managers  as  their
+number  increased  from  60  in  2003-04  to  84
+in  2004-05.  The  rise  in  all  categories  of
+intermediaries, except credit rating agencies,
+was  attributed  to  good  performance  of  the
+securities market and the overall demand by
+the investors for different types of services in
+2004-05.
+
+2. SECONDARY SECURITIES
+
+MARKET
+
+I.
+
+Registration of Brokers
+The  Indian  broking  industry  has
+undergone  structural  changes  during  the
+recent  years.  Greater  emphasis  has  been
+given on consolidation and restructuring in the
+broking  segment.  During  2004-05,  239  new
+brokers were registered with SEBI (Table 3.2).
+The number of reconciliations/ cancellations/
+surrender  of  memberships  during  2004-05
+was  479,  higher  than  that  of  292  in  the
+
+Table 3.1: Registered Intermediaries Relating to Capital Market
+
+Type of Intermediary
+
+2003-04
+
+2004-05
+
+Absolute
+Variation
+
+Percentage
+Variation
+
+1
+
+Registrar to an Issue and
+Share Transfer Agent
+(Category I and II)
+
+Bankers to an Issue
+
+Debenture Trustee
+
+Merchant Banker
+
+Portfolio Manager
+
+Underwriter
+
+DPs – NSDL
+
+DPs – CDSL
+
+Credit Rating Agency
+
+4
+
+5
+
+4
+
+1
+
+5
+
+24
+
+12
+
+-6
+
+52
+
+0
+
+5
+
+6.41
+
+7.27
+
+2.94
+
+4.07
+
+40.00
+
+25.53
+
+-2.78
+
+24.19
+
+0.00
+
+2
+
+78
+
+55
+
+34
+
+123
+
+60
+
+47
+
+216
+
+215
+
+4
+
+3
+
+83
+
+59
+
+35
+
+128
+
+84
+
+59
+
+210
+
+267
+
+4
+
+%"
+
+ +;
+
+ +;
+ ;
+
+Part Three: Regulation of Securities Market
+
+Table 3.2: Brokers Registered
+
+Registered
+
+Brokers as on
+March 31, 2004
+
+1
+
+9,368
+
+Net Addition during
+
+2004-05
+
+Reconciliation/
+
+Cancellation/ Surrender
+
+of Memberships
+
+Registered Brokers
+as on March 31, 2005
+
+2
+
+239
+
+3
+
+479
+
+4
+
+9,128
+
+previous year. The total number of registered
+brokers as on March 31, 2005 was 9,128, as
+compared  with  9,368  a  year  ago,  a  decline
+of 240 over the year. There was a structural
+change  in  the  broking  industry  with  an
+
+increase  in  the  number  of  corporate
+brokerage  entities  floated  by  the  institutions
+in  the  recent  years.  The  exchange-wise
+details  of  corporate  and  total  brokers  are
+given  in  Table  3.3.  Among  the  exchanges,
+
+Table 3.3: Exchange-wise Brokers Registered with SEBI
+
+Stock Exchange
+
+Total
+
+Brokers
+
+2003-04
+Corporate
+Brokers
+
+Corporate
+Brokers as
+percentage
+
+of total
+brokers
+
+Total
+
+Brokers
+
+2004-05
+Corporate
+Brokers
+
+Corporate
+Brokers as
+percentage
+
+of total
+  brokers
+
+1
+
+Ahmedabad
+Bangalore
+BSE
+Bhubaneshwar
+Calcutta
+Cochin
+Coimbatore
+Delhi
+Gauhati
+Hyderabad
+ICSE
+Jaipur
+Ludhiana
+MPSE
+Madras
+Magadh
+Mangalore*
+NSE
+OTCEI
+Pune
+SKSE
+UPSE
+Vadodara
+Total
+
+2
+
+323
+242
+673
+229
+980
+468
+177
+373
+172
+305
+633
+532
+297
+179
+182
+195
+105
+970
+867
+197
+437
+514
+318
+9,368
+
+3
+
+152
+116
+479
+18
+200
+82
+61
+215
+5
+119
+248
+19
+85
+35
+70
+22
+10
+863
+675
+59
+86
+104
+64
+3,787
+
+4
+
+47.06
+47.93
+71.17
+7.86
+20.41
+17.52
+34.46
+57.64
+2.91
+39.02
+39.18
+3.57
+28.62
+19.55
+38.46
+11.28
+9.52
+88.97
+77.85
+29.95
+19.68
+20.23
+20.13
+40.43
+
+5
+
+317
+250
+726
+221
+962
+446
+135
+376
+119
+288
+654
+522
+293
+174
+178
+198
+66
+976
+801
+186
+425
+504
+311
+9,128
+
+6
+
+150
+119
+534
+18
+204
+76
+49
+215
+4
+118
+250
+19
+84
+35
+69
+22
+9
+877
+616
+55
+83
+103
+64
+3,773
+
+7
+
+47.32
+47.60
+73.55
+8.14
+21.21
+17.04
+36.30
+57.18
+3.36
+40.97
+38.23
+3.64
+28.67
+20.11
+38.76
+11.11
+13.64
+89.86
+76.90
+29.57
+19.53
+20.44
+20.58
+41.33
+
+* Mangalore  Stock  Exchange  was  refused  renewal  of  recognition  on  August  31,  2004.  The  matter  is  sub-judice
+
+as on March 31, 2005.
+
+%#
+
+ +;
+ ;
+
+ +;
+ ;
+
+Annual Report 2004-05
+
+National  Stock  Exchange  (NSE)  has  the
+highest  number  of  brokers  at  976  in  2004-
+05, followed by the Calcutta Stock Exchange
+(962)  and  OTCEI  (801).  Out  of  the  total
+brokers  in  NSE,  89.86  per  cent  were
+corporate  brokers.  The  shares  of  corporate
+brokers  at  OTCEI  and  BSE  were  76.90  per
+cent and 73.55 per cent, respectively in 2004-
+05.  On  an  all-India  basis,  the  corporate
+brokers constituted 41.33 per cent of the total
+brokers  in  2004-05  as  compared  with  40.43
+per cent in 2003-04.
+
+Brokers  are  divided  into  five  categories
+viz.,  proprietary,  partnership,  corporate,
+institutions  and  composite  corporate.
+However,  as  the  registrations  of  broking
+entities  under  categories  of  institutions  and
+composite corporate are negligible during the
+recent  years,  these  categories  have  been
+clubbed together as corporate. The details of
+the exchange-wise stock brokers on the basis
+of ownership are provided in Table 3.4. In the
+old  exchanges,  most  of  the  brokers  were
+proprietary  in  nature,  whereas  in  the  new
+exchanges,  they  were  corporate  members
+(Charts  3.1  and  3.2).  The  proprietary
+membership was the highest in Calcutta Stock
+Exchange at 14.0 per cent of the total brokers
+relating  to  the  same  category.  It  was  the
+lowest  for  NSE  wherein  0.9  per  cent  of  the
+brokers  belonged  to  the  proprietorship
+
+category.  The  percentage  of  brokers  in  the
+partnership category was the highest in NSE
+(18.5  per  cent)  in  2004-05.  There  were  no
+brokers  in  the  partnership  category  in
+Bhubaneshwar  Stock  Exchange  and
+Coimbatore  Stock  Exchange.  Of  the  total
+brokers  in  corporate  category,  23.2  per  cent
+belonged  to  NSE,  followed  by  OTCEI  (16.3
+per cent) and BSE (14.1 per cent) (Chart 3.3).
+
+Prior  to  screen  based  trading  and  the
+spread of trading network across the country,
+brokers  in  some  of  the  exchanges  acquired
+membership  in  more  than  one  exchange
+(multiple  membership)  to  expand  their
+business and serve clients spread across the
+country. With the introduction of screen-based
+trading and expansion of networking to most
+cities  and  towns  of  the  country,  the  concept
+of  multiple  membership  has  become  less
+prevalent although it persists today.
+
+Table  3.5  presents  details  of  multiple
+memberships  which  range  from  two  to  six.
+The density of multiple members falls rapidly
+with  rise  in  the  number  of  multiple
+membership.  The  multiple  membership  with
+two broking cards declined from 798 in 2003-
+04 to 597 in 2004-05. However, the multiple
+membership with three broking cards rose by
+51.7  per  cent  to  91  in  2004-05  from  60  in
+2003-04.
+
+%$
+
+ +;
+ ;
+
+1
+
+Ahmedabad
+
+Bangalore
+
+BSE
+
+Bhubaneshwar
+
+Calcutta
+
+Cochin
+
+Coimbatore
+
+Delhi
+
+Gauhati
+
+Hyderabad
+
+ISE
+
+Jaipur
+
+Ludhiana
+
+MPSE
+
+Madras
+
+Magadh
+
+Mangalore **
+
+NSE
+
+OTCEI
+
+Pune
+
+SKSE
+
+UPSE
+
+Vadodara
+
+Total
+
+2
+
+148
+
+123
+
+157
+
+211
+
+729
+
+376
+
+116
+
+126
+
+166
+
+181
+
+384
+
+507
+
+210
+
+141
+
+95
+
+144
+
+128
+
+156
+
+203
+
+2.80
+
+2.84
+
+2.32
+
+2.52
+
+2.97
+
+3.07
+
+3.99
+
+4.00
+
+712
+
+13.77
+
+14.02
+
+360
+
+7.10
+
+7.09
+
+86
+
+2.19
+
+1.69
+
+128
+
+114
+
+165
+
+403
+
+497
+
+207
+
+137
+
+2.38
+
+2.52
+
+3.14
+
+2.24
+
+3.42
+
+3.25
+
+7.25
+
+7.93
+
+9.58
+
+9.79
+
+3.97
+
+4.08
+
+2.66
+
+2.70
+
+23
+
+3
+
+37
+
+0
+
+51
+
+10
+
+0
+
+32
+
+1
+
+5
+
+1
+
+6
+
+2
+
+3
+
+0
+
+46
+
+10
+
+0
+
+33
+
+1
+
+5
+
+1
+
+6
+
+2
+
+2
+
+23
+
+3
+
+8.01
+
+8.33
+
+1.05
+
+1.09
+
+36
+
+12.89
+
+13.04
+
+0.00
+
+0.00
+
+152
+
+116
+
+479
+
+18
+
+150
+
+119
+
+4.01
+
+3.98
+
+3.06
+
+3.15
+
+534
+
+12.65
+
+14.15
+
+18
+
+0.48
+
+0.48
+
+17.77
+
+16.67
+
+200
+
+204
+
+5.28
+
+5.41
+
+3.48
+
+3.62
+
+0.00
+
+0.00
+
+82
+
+61
+
+76
+
+49
+
+2.17
+
+2.01
+
+1.61
+
+1.30
+
+11.15
+
+11.96
+
+215
+
+215
+
+5.68
+
+5.70
+
+0.35
+
+0.36
+
+1.74
+
+1.81
+
+0.35
+
+0.36
+
+2.09
+
+2.17
+
+0.70
+
+0.72
+
+1.05
+
+0.72
+
+0.35
+
+0.36
+
+1.39
+
+1.09
+
+18.47
+
+18.48
+
+6.97
+
+6.88
+
+2.44
+
+2.54
+
+0.70
+
+0.72
+
+5
+
+119
+
+248
+
+19
+
+85
+
+35
+
+70
+
+22
+
+10
+
+863
+
+675
+
+59
+
+86
+
+4
+
+0.13
+
+0.11
+
+118
+
+250
+
+3.14
+
+3.13
+
+6.55
+
+6.63
+
+19
+
+84
+
+35
+
+69
+
+22
+
+9
+
+0.50
+
+0.50
+
+2.24
+
+2.23
+
+0.92
+
+0.93
+
+1.85
+
+1.83
+
+0.58
+
+0.58
+
+0.26
+
+0.24
+
+877
+
+22.79
+
+23.24
+
+616
+
+17.82
+
+16.33
+
+55
+
+83
+
+1.56
+
+1.46
+
+2.27
+
+2.20
+
+2.09
+
+2.17
+
+104
+
+103
+
+2.75
+
+2.73
+
+1.05
+
+1.09
+
+64
+
+64
+
+1.69
+
+1.70
+
+323
+
+242
+
+673
+
+229
+
+980
+
+468
+
+177
+
+373
+
+172
+
+305
+
+633
+
+532
+
+297
+
+179
+
+182
+
+195
+
+105
+
+970
+
+867
+
+197
+
+437
+
+514
+
+318
+
+317
+
+250
+
+726
+
+221
+
+962
+
+446
+
+135
+
+376
+
+119
+
+288
+
+654
+
+522
+
+293
+
+174
+
+178
+
+198
+
+66
+
+976
+
+801
+
+186
+
+425
+
+504
+
+311
+
+ +;
+ ;
+
+Part Three: Regulation of Securities Market
+
+Table 3.4: Classification of Stock Brokers on the Basis of Ownership
+
+Stock Exchange
+
+Proprietorship Percentage of
+
+Partnership
+
+Percentage of
+
+Corporate*
+
+Percentage of
+
+Total
+
+Total
+
+ Total
+
+Total
+
+03-04 04-05 03-04 04-05 03-04 04-05 03-04 04-05 03-04 04-05 03-04 04-05 03-04 04-05
+15
+
+10
+
+12
+
+13
+
+14
+
+11
+
+7
+
+8
+
+6
+
+3
+
+4
+
+5
+
+9
+
+93
+
+1.79
+
+1.83
+
+17
+
+16
+
+5.92
+
+5.80
+
+172
+
+175
+
+3.25
+
+3.45
+
+91
+
+54
+
+172
+
+131
+
+349
+
+404
+
+251
+
+54
+
+48
+
+166
+
+124
+
+340
+
+395
+
+244
+
+1.72
+
+1.06
+
+1.02
+
+0.95
+
+3.25
+
+3.27
+
+2.47
+
+2.44
+
+6.59
+
+6.69
+
+7.63
+
+7.78
+
+4.74
+
+4.80
+
+1
+
+4
+
+53
+
+20
+
+7
+
+2
+
+6
+
+3
+
+1
+
+3
+
+51
+
+19
+
+7
+
+2
+
+6
+
+3
+
+5,294
+
+5,079 100.00 100.00
+
+287
+
+276 100.00 100.00
+
+3,787
+
+3,773 100.00 100.00
+
+9,368
+
+9,128
+
+*
+
+The categories of Financial Institutions and Composite Corporate are clubbed into the category of Corporate for
+2003-04 and 2004-05.
+
+** Mangalore Stock Exchange was refused renewal of recognition on August 31, 2004. The matter is  sub-judice
+
+as on March 31, 2005.
+
+%%
+
+ +;
+ ;
+
+ +;
+
+Annual Report 2004-05
+
+%&
+
+ +;
+
+ +;
+
+Part Three: Regulation of Securities Market
+
+Table 3.5: Multiple Membership
+
+Number
+
+of Multiple
+
+Memberships
+
+2003-04
+
+2004-05
+
+Number of
+
+Multiple
+Members
+
+Number of
+
+Multiple
+ Members
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+2
+
+798
+
+60
+
+9
+
+4
+
+1
+
+3
+
+597
+
+91
+
+10
+
+3
+
+1
+
+II. Registration of Sub-brokers
+
+The role of sub-brokers is important from
+the  point  of  view  of  spread  of  broking
+business.  They  help  the  geographical  reach
+of  broking  entities  to  the  investors  in  the
+country.  In  hectic  market  conditions,
+sometimes  brokers  may  not  be  able  to
+
+entertain  all  small  investors  and  in  such  a
+situation,  the  sub-brokers  help  the  investors
+to  buy  and  sell  shares.  The  total  number  of
+sub-brokers in all the exchanges in India was
+13,684  during  2004-05  as  against  12,815  in
+2003-04,  an  increase  of  6.8  per  cent  (Table
+3.6). The two major exchanges, namely BSE
+and NSE together accounted for 89.5 per cent
+of the total sub-brokers.
+
+III. Recognition of Stock Exchanges
+
+The  stock  exchanges  are  granted
+recognition  by  SEBI  under  Section  4  of
+Securities  Contracts  (Regulation)  Act,  1956.
+There  are  twenty  two1   stock  exchanges
+recognised  under  Securities  Contracts
+(Regulation) Act, 1956. Eight stock exchanges
+have  been  granted  permanent  recognition,
+three  were  granted  a  tenure  period  renewal
+and remaining exchanges have been granted
+yearly  renewal.  During  2004-05,  SEBI  has
+
+1 The application for renewal of recognition of Mangalore Stock Exchange was refused vide Order dated August
+31, 2004 under Section 4(4) of the Securities Contracts (Regulation) Act, 1956. The matter is sub-judice as on
+March 31, 2005.
+
+%'
+
+ +;
+
+ +;
+ ;
+
+Annual Report 2004-05
+
+Table 3.6: Registered Sub-Brokers
+
+Stock Exchange
+
+Sub-brokers as on March 31
+
+No.
+
+2
+
+124
+
+156
+
+6,600
+
+17
+
+92
+
+42
+
+24
+
+363
+
+4
+
+199
+
+3
+
+34
+
+38
+
+115
+
+3
+
+1
+
+5
+
+2004
+
+Percentage
+
+of Total
+
+3
+
+0.97
+
+1.22
+
+51.50
+
+0.13
+
+0.72
+
+0.33
+
+0.19
+
+2.83
+
+0.03
+
+1.55
+
+0.02
+
+0.27
+
+0.30
+
+0.90
+
+0.02
+
+0.01
+
+0.04
+
+No.
+
+4
+
+119
+
+156
+
+6,917
+
+17
+
+88
+
+42
+
+22
+
+343
+
+4
+
+199
+
+3
+
+34
+
+38
+
+5
+
+115
+
+3
+
+1
+
+2005
+
+Percentage
+
+of Total
+
+5
+
+0.87
+
+1.14
+
+50.55
+
+0.12
+
+0.64
+
+0.31
+
+0.16
+
+2.51
+
+0.03
+
+1.45
+
+0.02
+
+0.25
+
+0.28
+
+0.04
+
+0.84
+
+0.02
+
+0.00
+
+4,717
+
+36.81
+
+5,338
+
+39.01
+
+25
+
+161
+
+0
+
+19
+
+73
+
+0.20
+
+1.26
+
+0.00
+
+0.15
+
+0.57
+
+19
+
+161
+
+0
+
+19
+
+41
+
+0.14
+
+1.18
+
+0.00
+
+0.14
+
+0.30
+
+12,815
+
+100.00
+
+13,684
+
+100.00
+
+1
+
+Ahmedabad
+
+Bangalore
+
+BSE
+
+Bhubaneshwar
+
+Calcutta
+
+Cochin
+
+Coimbatore
+
+Delhi
+
+Gauhati
+
+Hyderabad
+
+ISE
+
+Jaipur
+
+Ludhiana
+
+MPSE
+
+Madras
+
+Magadh
+
+Mangalore
+
+NSE
+
+OTCEI
+
+Pune
+
+SKSE
+
+UPSE
+
+Vadodara
+
+Total
+
+granted  renewal  of  recognition  to  13  stock
+exchanges,  of  which  11  were  granted
+recognition  for  one  year  and  the  other  two
+were  granted  recognition  for  2  years.  The
+
+details of the renewals of recognition granted
+to  stock  exchanges  are  provided  in  Tables
+3.7 sand 3.8.
+
+&
+
+ +;
+ ;
+
+ +;
+ ;
+
+Part Three: Regulation of Securities Market
+
+Table 3.7: Renewal of Recognition Granted to Stock Exchanges during 2004-05
+
+S No.
+1
+
+Exchange
+
+2
+
+The Ludhiana Stock Exchange
+Association Ltd.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+Date of Notification
+
+3
+
+April 20, 2004
+
+The Gauhati Stock Exchange Ltd
+
+April 20, 2004
+
+Bhubaneshwar Stock Exchange
+
+May 26, 2004
+
+Uttar Pradesh Stock Exchange
+Association Ltd.
+
+May 27, 2004
+
+Saurashtra Kutch Stock Exchange Ltd.
+
+June 29, 2004
+
+OTC Exchange of India
+
+August 17, 2004
+
+Pune Stock Exchange Ltd.
+
+August 17, 2004
+
+Coimbatore Stock Exchange Ltd.
+
+August 30, 2004
+
+Cochin Stock Exchange Ltd.
+
+November 8, 2004
+
+Inter-connected Stock Exchange of
+India Ltd.
+
+The Magadh Stock Exchange
+Association
+
+November 8, 2004
+
+December10, 2004
+
+Vadodara Stock Exchange
+
+January 4, 2005
+
+The Jaipur Stock Exchange Ltd.
+
+January 7, 2005
+
+Period
+
+4
+
+1 year w.e.f. April 28, 2004 to
+April 27, 2005
+
+1 year w.e.f. May 1, 2004 to
+April 30, 2005
+
+1 year w.e.f. June 5, 2004 to
+June 4, 2005
+
+1 year w.e.f. June 3, 2004 to
+June 2, 2005
+
+1 year w.e.f. July 10, 2004 to
+July 9, 2005
+
+1 year w.e.f. August 23, 2004 to
+August 22, 2005
+
+1 year w.e.f. September 2, 2004 to
+September 1, 2005
+
+1 year w.e.f. September 18, 2004 to
+September 17, 2005
+
+1 year w.e.f. November 8, 2004 to
+November 7, 2005
+
+2 years w.e.f. November 18, 2004 to
+November 17, 2006
+
+1 year w.e.f. December 11, 2004 to
+December 10, 2005
+
+2 years w.e.f. January 4, 2005 to
+January 3, 2007
+
+1 year w.e.f. January 9, 2005 to
+January 8, 2006
+
+Table 3.8: Renewal of Recognition Granted to other Stock Exchanges
+
+S No.
+
+1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Exchange
+
+2
+
+National Stock Exchange of India Limited
+
+The Stock Exchange, Mumbai
+
+The Stock Exchange, Ahmedabad
+
+Bangalore Stock Exchange Limited
+
+Calcutta Stock Exchange Association
+
+Delhi Stock Exchange Association Limited
+
+Hyderabad Stock Exchange Limited
+
+Madhya Pradesh Stock Exchange
+
+Madras Stock Exchange Limited
+
+Status
+
+3
+
+5 years w.e.f. April 26,
+2003 to April 25, 2008
+
+Permanent
+
+Permanent
+
+Permanent
+
+Permanent
+
+Permanent
+
+Permanent
+
+Permanent
+
+Permanent
+
+&
+
+ +;
+ ;
+
+ +;
+
+Annual Report 2004-05
+
+IV. Corporate Restructuring:
+
+Substantial Acquisition of Shares
+and Takeovers
+In recent years, mergers and acquisitions
+have  emerged  as  a  natural  process  of
+business  restructuring  all  over  the  world.
+Since  the  introduction  of  economic  reforms
+in  1991,  Indian  industries  were  exposed  to
+both  domestic  and  international  competition.
+They had started restructuring their operations
+around their core business activities through
+acquisition and takeovers. Some may attempt
+to  concentrate  their  holdings  in  target
+companies in a bid for takeover in future. In
+these circumstances, the investors should get
+a  justified  exit  route  and  fair  price  amid
+takeover campaigns by corporates. This has
+been  ensured  by  SEBI  (Substantial
+Acquisition  of  Shares  and  Takeovers)
+Regulations.  In  response  to  regulations  and
+corporate  developments,  60  public  offers
+opened during the year. During 2004-05, 212
+reports  were  filed  under  the  category  of
+transactions  that  qualify  for  exemption  from
+open offer obligations. The transactions, which
+are not covered under the said category, are
+required  to  be  submitted  to  the  Takeover
+Panel  for  exemption  from  open  offer.
+Accordingly,  38  such  applications  were
+forwarded by SEBI to the Takeover Panel for
+their  consideration,  out  of  which  exemptions
+from  making  open  offers  were  granted  in
+respect of 17 cases (Table 3.9).
+
+Table 3.9: Letter of Offers and Exemptions
+
+Period
+
+1
+
+2002-03
+
+2003-04
+
+2004-05
+
+Letters of
+Offer Filed
+
+Exemptions
+
+Granted by Panel
+
+2
+
+88
+
+65
+
+60
+
+3
+
+17
+
+18
+
+17
+
+V. Registration of Foreign
+
+Institutional Investors
+The  foreign  institutional  investors  (FIIs)
+played  a  crucial  role  in  sustaining  buoyancy
+in  the  securities  market  through  portfolio
+investments.  The  processing  of  FII
+registrations  has  been  streamlined  and
+expedited. Commensurate with record portfolio
+investment by the FIIs, the new registration of
+FIIs  and  sub-accounts  went  up  significantly
+during  the  year.  Notable  among  them  were
+the UN Pension Fund, CalPERS, Tennessee
+Valley  Authority  (TVA),  Commonwealth  of
+Massachusetts Pension Reserves Investment
+Trust etc. As on March 31, 2005, the number
+of  FII  entities  registered  with  SEBI  stood  at
+685  and  the  sub-accounts  at  1,889.  As  on
+March 31, 2004, there were 540 FIIs and 1,542
+sub-accounts  registered  with  SEBI.  Thus,
+there  was  a  27  per  cent  increase  in  FII
+registrations  and  22  per  cent  rise  in  the
+number of sub-accounts in 2004-05.
+
+VI. Registration of Custodians of
+
+Securities
+The 
+
+total  number  of  custodians
+registered  with  SEBI  as  on  March  31,  2005
+stood  at  11,  same  as  during  last  two  years.
+This indicates that there is sufficient coverage
+of market by the existing custodians.
+
+VII. Registration of Collective
+
+Investment Schemes
+Subsequent  to  the  notification  of  the
+SEBI  (Collective  Investment  Schemes)
+Regulations,  1999,  so  far,  no  CIS  entity  is
+registered with SEBI. Action taken against CIS
+entities are indicated under enforcement.
+
+VIII. Registration of Mutual Funds
+
+Mutual funds have acquired the position
+of  major  institutional  investors  in  the  capital
+market. They mobilise funds through various
+schemes  such  as  income  schemes,  growth
+schemes,  income  and  growth  schemes,  tax
+
+& 
+
+ +;
+
+ +;
+
+Part Three: Regulation of Securities Market
+
+Table 3.10: Mutual Funds Registered with SEBI
+
+Sector
+
+March 31, 2004
+
+March 31, 2005
+
+Absolute
+Variation
+
+Percentage
+Variation
+
+1
+
+Public Sector (including UTI)
+
+Private Sector
+Total
+
+2
+
+8
+
+29
+37
+
+3
+
+8
+
+31
+39
+
+4
+
+0
+
+2
+2
+
+5
+
+0.0
+
+6.9
+5.4
+
+saving schemes etc. There has been intense
+competition  among  mutual  funds.  Many
+innovative schemes were introduced by new
+as well as old mutual funds in the country.
+
+The mutual funds are the common man’s
+vehicle to stock market. Denominated in small
+units,  it  is  a  viable  alternative  for  small  and
+retail investors who route their corpus through
+various schemes offered by the mutual funds.
+Prudential allocation of funds into equity and
+debt oriented schemes determines returns to
+the unit holders. As on March 31, 2005, there
+were  39  mutual  funds  registered  with  SEBI
+of  which  31  belonged  to  the  private  sector
+and  8  (including  the  UTI)  were  in  the  public
+sector.  The  number  of  private  sector  mutual
+funds  increased  by  2  to  31  in  2004-05  from
+29 in 2003-04 (Table 3.10).
+
+IX. Registration of Venture Capital
+
+Funds
+
+The development of venture capital is of
+paramount  importance  to  any  economy  in
+terms  of  its  contribution  to  job  creation,
+economic growth and technological progress.
+Venture  capital  normally  takes  care  of  the
+funding  needs  of  companies  which  do  not
+have the requisite size, assets and necessary
+
+Table 3.11: Venture Capital Funds
+
+background  to  obtain  capital  from  more
+traditional sources such as market and banks.
+It is employed by entrepreneurial companies
+that  use  unproven  technology  but  with  a
+promising  future.  Equity  holdings  by  venture
+funds  may  command  a  premium  when
+divested  in  equity  markets.  Equity  markets
+enable to provide an exit route for the venture
+funds  that  extend  seed  capital  to  those
+companies.  Although  the  venture  capital
+industry is not developed in India, it has made
+a humble beginning during the recent years.
+The  number  of  indigenous  venture  capital
+funds increased to 50 in 2004-05 from 45 in
+2003-04.  There  was  also  an  addition  of  5
+foreign  venture  capital  funds  in  2004-05
+(Table 3.11).
+
+X. Fees and Other Charges
+
+As  per  the  regulatory  provisions,  SEBI
+receives fees and certain charges on different
+heads  from  the  market  intermediaries  for  its
+services. Table 3.12 provides details regarding
+fees and other charges collected during 2004-
+05.  The  fees  received  by  SEBI  (unaudited)
+increased by 93.3 per cent to Rs.169.9 crore
+in 2004-05 over the previous year. Among all
+intermediaries,  the  highest  fee  of  Rs.143.90
+crore  was  collected  from  stock  brokers  and
+
+March 31, 2004
+
+March 31, 2005
+
+Absolute
+Variation
+
+Percentage
+Variation
+
+1
+
+VCF
+
+FVCI
+
+2
+
+45
+
+9
+
+3
+
+50
+
+14
+
+&!
+
+ +;
+
+4
+
+5
+
+5
+
+5
+
+11.1
+
+55.5
+
+ +;
+ ;
+
+Annual Report 2004-05
+
+Table 3.12: Fees and Other Charges
+
+Particulars
+
+1
+
+Offer Documents and
+Prospectuses filed
+Merchant Bankers
+Underwriters
+Portfolio Managers
+Registrars to an Issue and
+Share Transfer Agents
+Bankers to an Issue
+Debenture Trustees
+Takeover fees
+Mutual Funds
+Stock Brokers and
+Sub-Brokers
+Foreign Institutional
+Investors
+Sub-Accounts - Foreign
+Institutional Investors
+Depositories
+Depository Participants
+Venture Capital Funds
+Custodians of Securities
+Approved Intermediaries
+under Securities Lending
+Schemes
+Collective Investment
+Scheme
+Credit Rating Agencies
+Listing Fees Contribution
+from Stock Exchanges
+Foreign Venture Capital
+Investors
+Derivatives
+Informal Guidance Scheme
+
+Recurring
+
+Fees
+
+#
+
+2
+
+2003-04
+Non-
+
+recurring
+
+Fees
+##
+3
+
+Total Fees Recurring
+Received
+
+Fees
+
+4
+
+#
+5
+
+2004-05
+
+Non-
+
+recurring
+
+Fees
+##
+6
+
+(Rs. lakh)
+
+Total Fees
+Received
+(Unaudited)
+
+7
+
+–
+
+176.90
+
+176.90
+
+226.80
+
+226.80
+
+65.40
+42.00
+22.50
+15.05
+
+117.50
+52.50
+–
+147.50
+6,342.58
+
+–
+
+–
+
+20.00
+4.62
+–
+60.00
+16.39
+
+39.80 
+25.00 
+95.00 
+1.50
+
+10.00
+10.00 
+589.05
+25.50 
+–
+
+105.20
+67.00
+117.50
+16.55
+
+127.50
+62.50
+589.05
+173.00
+6,342.58
+
+248.65
+
+248.65
+
+168.08
+
+168.08
+
+–
+94.85 
+11.00
+–
+–
+
+20.00
+99.47
+11.00
+60.00
+16.39
+
+45.00
+18.00
+32.50
+8.80
+
+7.50
+20.00
+–
+165.00
+14,389.92
+
+–
+
+–
+
+20.00
+5.37
+–
+60.00
+12.55
+
+–
+
+0.25
+
+0.25
+
+–
+
+–
+170.46
+
+–
+190.78
+–
+
+–
+–
+
+15.26
+
+9.95
+
+–
+170.46
+
+15.26
+190.78
+9.95
+
+–
+166.04
+
+–
+523.66
+–
+
+36.25
+35.00
+109.50
+1.70
+
+20.00
+5.00
+66.50
+50.50
+–
+
+81.25
+53.00
+142.00
+10.50
+
+27.50
+25.00
+66.50
+215.50
+14,389.92
+
+430.88
+
+430.88
+
+267.83
+
+267.83
+
+–
+163.05
+49.00
+–
+5.20
+
+–
+
+–
+–
+
+29.56
+–
+15.50
+
+20.00
+168.42
+49.00
+60.00
+17.75
+
+–
+
+–
+166.04
+
+29.56
+523.66
+15.50
+
+Total
+
+7,267.28
+
+1,520.79
+
+8,788.07
+
+15,474.34
+
+1,512.27
+
+16,986.61
+
+Note: 1. #  Recurring  fees:  Fees  which  are  received  on  annual/3-yearly/5-yearly  basis.  These  include  Renewal
+
+Fee/ Service Fee/ Annual Fee/ Listing Fees from exchanges.
+
+2. ## Non-recurring fees: Fees which are received on one time basis. These include fees for Offer Documents
+Filed/  Registration/  Application/  Takeover/  Informal  Guidance  Scheme/  FII  Registration  and  FII  Sub-
+Accounts.
+
+3. As all sums realized by way of penalties on or after October 29,2002 has been credited to the Consolidated
+
+Fund of India, the same has not been included in this Table.
+
+4. Brokers and Sub-Brokers registration fee includes annual fees and turnover fees.
+5. Brokers  and  Derivatives  fees  are  of  recurring  nature  and  depend  on  the  turnover  of  the  Brokers  and
+
+Members of Derivatives Segment.
+
+&"
+
+ +;
+ ;
+
+ +;
+
+Part Three: Regulation of Securities Market
+
+ With 
+
+the  objective 
+
+to  ensure
+independence of the governing board of
+SRO,  the  regulations  stipulate  that
+majority of directors shall be independent
+directors;
+The  regulations  entrust  SEBI  with  the
+right to undertake inspection of the books
+of  accounts,  other  records  and
+documents  of  the  Self  Regulatory
+Organisation;
+The  Self  Regulatory  Organisation  shall
+furnish  periodical  returns  relating  to  its
+affairs to SEBI; and
+In case of default, it is the obligation of
+the Board of Directors to take disciplinary
+action against a member.
+
+
+
+
+
+
+
+sub-brokers.  Other  major  sources  of  fees
+collected  were  from  the  FIIs  including  sub-
+accounts  (Rs.6.99  crore)  and  derivatives
+segment  (Rs.  5.24  crore).  In  terms  of
+percentage, the highest increase in the fees
+was  from  the  venture  capital  funds,  (about
+345  per  cent).  The  recurring  revenues  rose
+by 112.9 per cent to Rs. 154.74 crore in 2004-
+05  as  compared  to  Rs.  72.67  crore  in  the
+previous year.
+
+3. SUPERVISION
+
+Implementation of the regulations entails
+a  multi-stage  process  of  supervision,
+enforcement through initiation of adjudication
+and  enquiry  against  violation  of  rules  and
+regulations  and  prosecution.  Market
+intermediaries at varied levels have distinctive
+features  and  responsibilities.  Therefore,
+supervision of different intermediaries requires
+individual  approach  that  can  serve  a  useful
+purpose.
+
+I.
+
+Promotion and Regulation of Self
+Regulatory Organisations
+
+the  objective 
+
+SEBI  (Self  Regulatory  Organisations)
+Regulations  were  notified  on  February  19,
+2004  with 
+to  promote
+organisation of intermediaries representing a
+particular segment of the securities market as
+a  self  regulated  entity/  organisation.  Salient
+features of the regulations are:
+
+
+
+
+
+
+
+For  any  applicant  to  be  recognised  as
+SRO, it should be a company registered
+under Section 25 of Companies Act and
+have  a  minimum  net  worth  of  Rs.  1
+crore;
+The company shall make an application
+to  SEBI  in  the  prescribed  format  and
+provide  a  copy  of  the  governing  norms
+of  the  SRO  along  with  a  copy  of  the
+memorandum and articles of association;
+The  certificate  of  recognition  as  SRO
+shall be valid for a period of five years;
+
+For  recognition  of  organisation  of
+intermediaries  as  SROs,  SEBI  has  held
+discussions  with  various  bodies  like
+Association of NSE Members of India (ANMI),
+Registrars  Association  of  India  (RAIN)  and
+further response from these bodies is awaited.
+
+II. Development of Stock Exchanges
+as Self Regulatory Organisations
+Stock  exchanges  are  recognised  under
+Section  4  of  the  Securities  Contracts
+(Regulations)  Act,  1956.  These  exchanges
+were recognised/set up over a period of time
+to stimulate the growth of the capital market
+by  channelising  the  savings  of  households
+and  others.  These  exchanges  are  suitably
+empowered by Section 9 of SC(R) Act, 1956
+to make bye-laws for the conduct of business,
+regulation and enforcement of contracts.
+
+III.
+
+Inspection of Market
+Intermediaries
+
+a.
+
+Inspection of Brokers/Sub-brokers
+Details  regarding  inspection  of  brokers,
+sub-brokers and various actions taken during
+2004-05  are  given  in  the  Table  3.13.  The
+number  of  inspections  conducted  on  sub-
+broking  entities  was  higher  at  140  during
+
+&#
+
+ +;
+
+ +;
+
+Annual Report 2004-05
+
+Table 3.13: Inspection of Broking/Sub-broking Entities
+
+Particulars
+
+1
+
+Regular inspections completed – Brokers
+
+Regular inspections completed – Sub-Brokers
+
+Inspections to verify financial aspects and level of brokerage –
+Brokers
+
+Surprise/Limited Purpose Inspections – Brokers/Sub-brokers
+
+2003-04
+
+2004-05
+
+2
+
+176
+
+83
+
+202
+
+29
+
+3
+
+93
+
+140
+
+—
+
+57
+
+2004-05  than  that  conducted  on  broking
+entities (93). It is significant to note that there
+was  surge  in  the  number  of  surprise/limited
+purpose  inspections  carried  out  on  broking/
+sub-broking  entities,  which  rose  by  96  per
+cent to 57 during 2004-05 over previous year.
+
+b.
+
+Inspection of Other Intermediaries
+Section 11(2) of SEBI Act, 1992 provides
+that  SEBI  shall  register  and  regulate  the
+working of intermediaries. In fulfillment of the
+above, SEBI has completed the inspection of
+books  and  records  of  47  depository
+participants  and  five  registrars  to  an  issue.
+Records of six merchant bankers (MBs) and
+nine  bankers  to  the  issue  (BTIs)  were  also
+examined for alleged irregularities in the public
+issue procedure and allotment.
+
+IV.
+
+Inspection of Stock Exchanges
+SEBI inspected the stock exchanges to
+review the market operations, organisational
+structure  and  administrative  control  of  the
+exchange so as to ascertain whether:
+
+i. the  exchange  provides  a  fair,  equitable
+
+and growing market to investors;
+
+ii. the  exchange’s  organisation,  systems
+and practices are in accordance with the
+Securities  Contracts  (Regulation)  Act
+(SC(R)  Act),  1956  and  rules  framed
+thereunder;
+
+iii. the  exchange  has  implemented  the
+directions, guidelines and instructions
+issued by SEBI from time to time; and
+
+iv. the  exchange  has  complied  with  the
+conditions,  if  any,  imposed  on  it  at  the
+time  of  renewal/  grant  of  its  recognition
+under Section 4 of the SC(R) Act, 1956.
+
+Equity  segments  of  the  following  stock
+
+exchanges were inspected during 2004-05:
+1)
+The Stock Exchange, Mumbai (BSE);
+2) Bangalore Stock Exchange (BgSE);
+3) Delhi Stock Exchange (DSE);
+4) Saurashtra  Kutch  Stock  Exchange
+
+(SKSE);
+
+Inter-connected Stock Exchange (ISE);
+
+5) Vadodara Stock Exchange (VSE);
+6) Ahmedabad Stock Exchange (ASE);
+7)
+8) Cochin Stock Exchange (CoSE) ;
+9) Coimbatore Stock Exchange (CSX) ;
+10) Ludhiana Stock Exchange (LSE) ;
+11) Uttar Pradesh Stock Exchange (UPSE) ;
+
+and
+
+12) Calcutta Stock Exchange (CSE).
+
+Inspection  of  Futures  and  Options
+segment of NSE was carried out during 2004-
+05.  As  a  part  of  the  follow-up  action  to  the
+inspection reports, periodic compliance reports
+were  obtained  from  stock  exchanges  and
+meetings  were  held  with  the  senior
+management of stock exchanges.
+
+V.
+
+Inspection of Subsidiaries of
+Stock Exchanges
+Many  stock  exchanges  have  floated
+subsidiaries which, in turn, function as brokers
+
+&$
+
+ +;
+
+ +;
+
+Part Three: Regulation of Securities Market
+
+of  the  major  stock  exchanges  such  as  NSE
+and  BSE.  SEBI  inspected  the  books  and
+records of subsidiaries to verify whether:
+
+3)
+
+ISE  Securities  &  Services  Ltd.
+(Subsidiary of ISE); and
+
+4)
+
+LSE Securities Ltd.(Subsidiary of LSE).
+
+i. Books  of  accounts,  records  and  other
+documents  are  being  maintained  in  the
+manner  specified  by  the  Securities
+Contracts (Regulation) Rules, 1957 and
+SEBI  (Stock  Brokers  and  Sub  Brokers)
+Regulations, 1992;
+
+ii. The  provisions  of  the  SEBI  Act,  the
+Securities Contracts (Regulation) Act and
+the  provisions  made  thereunder  are
+being  complied  with  by  the  subsidiary;
+and
+
+iii. Provisions  of  the  bye-laws,  business
+rules  etc.,  of  the  exchange  and  the
+subsidiary are being complied.
+
+Equity  segment  of 
+
+following
+subsidiaries  of  stock  exchanges  were
+inspected during the financial year 2004-05:
+
+the 
+
+1) ASE Capital Markets Ltd. (Subsidiary of
+
+ASE);
+
+2)
+
+LSE Securities Ltd. (Subsidiary of LSE);
+
+3) SKSE  Securities  Ltd.  (Subsidiary  of
+
+SKSE);
+
+4) VSE Securities Ltd. (Subsidiary of VSE);
+
+5) UPSE  Securities  Ltd.  (Subsidiary  of
+
+UPSE);
+
+6)
+
+ISE  Securities  &  Services  Ltd.
+(Subsidiary of ISE); and
+
+7) BgSE  Financials  Ltd.  (Subsidiary  of
+
+BgSE).
+
+Futures  and  Options  segment  of  all
+subsidiaries  having  membership  in  this
+segment  were  inspected  during  2004-05.
+These were as follows:
+
+1) BgSE  Financials  Ltd.  (Subsidiary  of
+
+BgSE);
+
+2) HSE Securities Ltd. (Subsidiary of HSE);
+
+VI.
+
+Illegal Trading Outside Stock
+Exchanges
+SEBI,  from  time  to  time,  receives
+information  about  alleged  illegal  trading  in
+securities by unregistered entities outside the
+stock  exchanges.  Illegal  trading  is  a
+cognisable  offence  under  section  19  of
+Securities Contracts (Regulations) Act, 1956
+within  the  meaning  of  Code  of  Criminal
+Procedures  which  does  not  fall  within  the
+regulatory  jurisdiction  of  SEBI.  Therefore,
+SEBI  forwards  such  references  received  by
+SEBI as well as press articles in this regard
+to  Chief  Ministers  of  respective  States
+requesting  them  to  look  into  the  matter  and
+to  take  action  against  those  found  to  be
+involved  in  the  illegal  trading  of  securities.
+SEBI has also written letters to Chief Ministers
+of  States  requesting  them  to  put  the  police
+on  a  continuous  alert  and  to  take  suitable
+action against any person/entity violating the
+provisions of SC(R)A.
+
+There  were  some  complaints  regarding
+illegal  trading  outside  stock  exchanges  by
+registered  entities  also.  On  receipt  of  such
+complaints, concerned stock exchanges have
+been asked to verify the complaints in order
+to  ascertain  the  veracity  of  the  allegations,
+and to take appropriate action.
+
+During  the  year,  SEBI,  in  co-ordination
+with  the  respective  stock  exchanges  carried
+out  eight  surprise  inspections  of  the
+intermediaries  and  appropriate  enforcement
+action is being taken against the violators.
+
+VII. Inspection of Depositories
+
+A  special  inspection  of  National
+Securities  Depositories  Limited  was  carried
+out during 2004-05.
+
+&%
+
+ +;
+
+ +;
+
+Annual Report 2004-05
+
+VIII. Systems Audit
+
+Trading, settlement and risk management
+systems  of  stock  exchanges  are  almost
+completely automated. For this reason, it
+becomes very important that the systems do
+not have deficiencies which can impair their
+efficacy. It also becomes important to ensure
+that  the  stock  exchanges  have  suitable
+Disaster  Recovery  Sites  and  Business
+Continuity Plans and that the systems are
+adequately secure. Active stock exchanges
+have been asked to carry out systems audit
+through external agencies competent to carry
+out systems audit exercise. SEBI does follow-
+up for rectification of deficiencies pointed out in
+the systems audit reports. In 2004-05 too, such
+follow-up was done through off-site analysis of
+compliance reports from stock exchanges and
+meetings with the senior management of stock
+exchanges.
+
+4. SURVEILLANCE
+
+I. Market Surveillance Mechanism
+
+In order to ensure investor protection and
+to safeguard the integrity of the markets, it is
+imperative  to  have  in  place  an  effective
+market  surveillance  mechanism.  The
+surveillance function is an extremely vital link
+in  the  chain  of  activities  performed  by  the
+regulatory  agency  for  fulfilling  its  avowed
+mission of protection of investor interest and
+development  and  regulation  of  capital
+markets. The surveillance system adopted by
+SEBI  is  two  pronged  viz.,  Surveillance  Cell
+in  the  stock  exchange  and  the  Integrated
+Surveillance Department in SEBI.
+
+The  stock  exchanges  are  the  primary
+regulators 
+for  detection  of  market
+manipulation,  price  rigging  and  other
+regulatory breaches regarding capital market
+functioning.  This  is  accomplished  through
+Surveillance  Cell  in  the  stock  exchanges.
+SEBI keeps constant vigil on the activities of
+the stock exchanges to ensure effectiveness
+
+of surveillance systems. The stock exchanges
+are charged with the primary responsibility of
+taking  timely  and  effective  surveillance
+measures  in  the  interest  of  investors  and
+market  integrity.  Proactive  steps  are  to  be
+taken  by  the  exchanges  themselves  in  the
+interest  of  investors  and  market  integrity  as
+they are in a position to obtain real time alerts
+and  thus  know  about  any  abnormalities
+present in the market. Unusual deviations are
+informed  to  SEBI.  Based  on  the  feedback
+from the exchanges, the matter is thereafter
+taken  up  for  a  preliminary  enquiry  and
+subsequently,  depending  on  the  findings
+gathered  from  the  exchanges,  depositories
+and  concerned  entities,  the  matter  is  taken
+up for full-fledged investigation, if necessary.
+
+SEBI on its own also initiates surveillance
+cases  based  on  references  received  from
+other regulatory agencies, other stakeholders
+(investors,  corporates,  shareholders)  and
+media reports. Being proactive is one of the
+necessary  features  for  success  in  taking
+surveillance measures. Keeping the same in
+mind, the Integrated Surveillance Department
+of SEBI keeps tab on the news appearing in
+print and electronic media. News and rumours
+appearing in the media are discussed in the
+weekly  surveillance  meetings  with  the  stock
+exchanges and necessary actions are initiated.
+Apart  from  the  above,  the  department
+generates reports at the end of each day on
+the  details  of  major  market  players,  scrips,
+clients and brokers during the day in the Cash
+and  F&O  segment  of  the  stock  exchanges.
+This ensures timely identification of the market
+players responsible for unusual developments
+on a daily basis. The department monitors the
+market  movements,  analyses  the  trading
+pattern  in  scrips  and  indices  and  initiates
+appropriate action, if necessary, in conjunction
+with  stock  exchanges  and  the  depositories.
+Thus, SEBI supplements the primary regulator
+i.e.,  the  stock  exchanges  in  ensuring  safe
+markets for the investors.
+
+&&
+
+ +;
+
+ +;
+
+Part Three: Regulation of Securities Market
+
+A major initiative taken by SEBI that has
+gone a long way in taking pre-emptive actions
+is  the  Weekly  Surveillance  Meetings.  These
+meetings  have  helped  in  better  coordination
+between  the  stock  exchanges  and  ensured
+uniformity in the surveillance measures taken
+by the stock exchanges.
+
+SEBI  has  established  standards  for
+effective  surveillance  in  Indian  securities
+markets in line with global standards thereby
+setting  global  benchmark  for  effective
+surveillance  in  securities  market.  SEBI  also
+ensures  a  rigorous  application  of  the
+standards and effective enforcement against
+offences to ensure the safety and integrity of
+the  market.  SEBI  also  established  co-
+operation  among  overseas  regulators  of
+securities  and  futures  markets  to  strengthen
+surveillance on cross border transactions. As
+a  result,  the  securities  market  in  India  is
+considered  as  one  of  the  most  efficient  and
+sound markets in the world.
+
+II.
+
+Integrated Market Surveillance
+System
+
+In  order  to  enhance  the  efficacy  of  the
+surveillance function, SEBI has decided to put
+in  place  a  world-class  comprehensive
+Integrated Market Surveillance System (IMSS)
+across  stock  exchanges  and  across  market
+segments (cash and derivative markets).
+
+The  proposed  IMSS  solution  seeks  to
+
+achieve the following objectives:
+
+
+
+
+
+An  online  data  repository  with  the
+capacity  to  capture  market  transaction
+data  and  reference  data  from  a  variety
+of sources like stock exchanges, clearing
+corporations/houses, depositories etc., in
+different  formats  for  the  securities  and
+derivatives markets;
+
+A  research  and  regulatory  analysis
+platform  to  check  instances  of  potential
+market abuse; and
+
+
+
+Sophisticated  alert  engines,  that  can
+work  with  various  data 
+formats
+(database,  numeric  and  text  data)  to
+automatically  detect  patterns  of  abuse
+and  then  issue  an  alert.  These  include
+insider trading engine, fraud alert engine
+and market surveillance engine.
+
+SEBI 
+
+initiated 
+
+the  process 
+
+for
+implementing the proposed IMSS system by
+appointing  a  high  level  technical  committee
+comprising eminent technical experts to study
+the  technical  matrix  of  SEBI’s  requirements
+and frame a set of parameters which formed
+the basis for structuring of tenders, evaluation
+of bids, recommending terms of contract etc.,
+for  the  IMSS.  After  following  the  process  of
+global competitive bidding, a vendor has been
+identified  to  implement  the  IMSS  solution  in
+a time bound manner (Box 3.1).
+
+III.
+
+Interim Surveillance Arrangement
+While the Integrated Market Surveillance
+System (IMSS) is in the process of being fully
+operationalised,  an  interim  surveillance
+mechanism has been put in place since June
+2003. A regular system of weekly surveillance
+meetings  with  major  stock  exchanges  viz.,
+BSE,  NSE;  and  depositories  viz.,  NSDL,
+CDSL is now in place to provide a confidential
+platform  for  exchange  of  views  on  areas  of
+emerging concern-specific abnormalities and
+to  consider  pre-emptive  actions  and  discuss
+general  surveillance  issues.  In  the  weekly
+meetings,  inputs  from  SEBI,  exchanges  and
+depositories  are  pooled  for  better  co-
+ordination,  sharing  of  information  and  pro-
+active, co-ordinated actions. The meeting also
+provides a highly specialised and interactive
+forum to discuss prevailing surveillance issues
+and  emerging  concerns,  if  any,  so  as  to
+expeditiously initiate appropriate surveillance
+action. During 2004-05, 57 such surveillance
+meetings  were  held.  In  addition,  such
+meetings  are  also  held  as  and  when  felt
+necessary depending on market exigencies.
+
+&'
+
+ +;
+
+ +;
+
+Annual Report 2004-05
+
+Box 3.1: Integrated Market Surveillance System
+
+Effective surveillance is the  sine qua non for a
+well functioning capital market. As an integral part in
+the  regulatory  process,  effective  surveillance  can
+achieve investor protection, market integrity and capital
+market  development.  According  to  IOSCO,  “the  goal
+of  surveillance  is  to  spot  adverse  situations  in  the
+markets and to pursue appropriate preventive actions
+to avoid disruption to the markets.”
+
+In India, the stock exchanges hitherto have been
+entrusted with the primary responsibility of undertaking
+market surveillance. Given the size, complexities and
+level  of  technical  sophistication  of  the  markets,  the
+tasks of information gathering, collation and analysis
+of data/information are divided among the exchanges,
+depositories  and  SEBI.  Information  relating  to  price
+and  volume  movements  in  the  market,  broker
+positions,  risk  management,  settlement  process  and
+compliance  pertaining  to  listing  agreement  are
+monitored by the exchanges on a real time basis as
+part  of  their  self  regulatory  function.  However,
+regulatory oversight, exercised by SEBI, extends over
+the  stock  exchanges  through  reporting  and
+inspections.  In  exceptional  circumstances,  SEBI
+initiates special investigations on the basis of reports
+received  from  the  stock  exchanges  or  specific
+complaints  received  from  stakeholders  as  regards
+market manipulation and insider trading.
+
+In  order  to  prevent  market  irregularities,  it  was
+felt that the existing surveillance system needs to be
+revamped  to  protect  the  interest  of  investors  more
+effectively.  In  this  connection,  SEBI  commissioned  a
+study  under  USAID  assistance  as  part  of  FIRE  II
+project  to  provide  a  suitable  design  structure  for  an
+integrated surveillance model.
+
+Subsequently,  a  Technical  Committee  was  set
+up to study the technical matrix of SEBI’s requirements
+and frame a set of parameters which would form the
+basis for subsequent structuring of tenders, evaluation
+of  bids,  recommending  terms  of  contract  etc.,  to  put
+in  place  an  integrated  surveillance  system.  On  May
+17,  2005,  SEBI  signed  an  agreement  with  a
+consortium  of  HCL  Technologies  Limited  and
+Securities Markets Automated Research Training and
+Surveillance  (SMARTS)  PTY.  Ltd.,  Australia  for  the
+implementation  of  a  comprehensive  integrated
+surveillance system.
+
+SEBI  is  now  on  the  verge  of  providing  final
+touches  to  Integrated  Market  Surveillance  System
+(IMSS)  that  would  help  identify  unusual  market
+behaviour on a real-time basis. The system envisages
+integration  of  data  available  from  stock  exchanges
+(cash and derivatives segments), clearing corporations
+and  depositories  into  a  single  integrated  market
+surveillance  system.  The  IMSS  is  expected  to
+generate alerts that will help SEBI identify and detect
+serious  market  violations  such  as  market
+manipulations, insider trading and other types of frauds
+that  undermine  market  integrity.  The  proposed  IMSS
+solution  is  expected  to  be  operational  by  March
+2006.The  system  would  be  implemented  across
+exchanges  and  segments  and  would  integrate  the
+surveillance systems of BSE, NSE, CDSL, NSDL and
+other  stock  exchanges  with  that  of  market  regulator
+in phases. The new surveillance system would focus
+on  real  time  reports  from  exchanges  pertaining  to
+abnormalities and suspicious transactions in terms of
+price,  volume,  big  brokers,  scrips  and  intermediaries
+who  constitute  about  80-85  per  cent  of  the  trading
+volumes.
+
+IV.
+
+Inter-Regulatory Alert System
+
+In view of the growing linkages between
+the securities market and the banking system,
+it  was  felt  desirable  to  set  up  an  inter-
+regulatory  alert  system  between  SEBI  and
+RBI. Towards this end, a SEBI-RBI Group on
+Integrated System of Alerts has been set up
+
+to  share  information  and  to  recommend
+suitable measures for co-ordinated action. In
+accordance with the recommendations made
+by  the  Group,  appropriate  alerts  and  data
+have  been  identified.  A  system  making  use
+of  the  same  has  been  put  in  place  since
+February  2004  and  the  system  is  fully
+functional.
+
+'
+
+ +;
+
+ +;
+
+Part Three: Regulation of Securities Market
+
+V. Significant Market Developments
+
+during 2004-05
+
+a) Sharp Fall in Stock Indices on
+
+May 14 and May 17, 2005
+The  BSE  Sensex  fell  by  330  points  to
+5069.87  on  May  14,  2004  from  5399.47  as
+on  May  13,  2004.  It  recorded  its  highest
+intraday variation of 842 points and closed at
+4505.16 on May 17, 2004, a decline of 564.71
+points over the previous close. Thus, the total
+fall  in  the  two  day  period  May  14,  2004  to
+May 17, 2004 was around 16.5 per cent. The
+previous  highest  fall  was  570.42  points  on
+April 28, 1992.
+
+The  settlement  and  payment  went
+through without any hitch and there were no
+defaults.  In  view  of  the  efficiency  of  the  risk
+management system, real time monitoring of
+the  broker  positions,  provision  for  automatic
+disablement of broker terminals and market-
+wide  circuit  breaker,  the  market  withstood  a
+fall  of  this  magnitude  without  any  disruption
+or  settlement  failure.  The  broker  terminals,
+which were shut off, got reactivated after the
+brokers brought in their funds to meet margin
+shortfalls. As a result, the exchanges did not
+have to draw upon the settlement guarantee
+fund at all.
+
+Special surveillance meetings were held
+in the evening of May 14, 2004, the evening
+of May 17, 2004 and the morning of May 18,
+2004. A thorough review of the adequacy of
+the  risk  management  was  made  and  no
+settlement / payment crises were anticipated.
+A  re-assuring  statement  was  also  released
+by  SEBI  about  the  robust  risk  management
+measures in place and assuring the investing
+public of SEBI’s constant watch on the market
+for  taking  such  measures  as  may  be
+warranted by the emerging situation.
+
+In  view  of  the  sharp  fall  in  the  indices,
+as  part  of  its  continual  market  surveillance
+
+action, SEBI took up an inquiry into the matter
+to  examine  the  role  and  involvement  of  the
+major  market  players  such  as  FIIs,  brokers,
+clients  etc.,  from  the  point  of  view  of  their
+trading in the cash and the futures segments.
+Pursuant  to  findings  of  investigations,
+appropriate  proceedings  have  been  initiated
+in  terms  of  the  SEBI  Act  and  SEBI
+Regulations. Show cause notices have been
+issued  so  far  to  12  entities.  One  entity  has
+been penalised.
+
+b) Surveillance Action in Respect of
+
+Shares of Global Trust Bank
+(GTB)
+Pursuant  to  the  announcement  of
+moratorium  on  GTB,  as  a  part  of  the
+surveillance measure, it was decided on July
+26, 2004 that exchanges should put the scrip
+of  GTB  in  trade-for-trade  segment  and
+remove  the  circuit  filter  from  the  scrip  so  as
+to minimise the scope for price manipulation.
+Press release was issued by the exchanges
+regarding the terms of the proposed merger.
+Exchanges also issued warnings to members
+and  investors  to  exercise  due  diligence  and
+caution  while  trading  in  the  scrip  of  GTB.
+Trading on GTB was suspended from August
+27,  2004  on  account  of  the  scheme  of
+amalgamation with OBC.
+
+c) Market Movement on January 5,
+
+2005
+On January 5, 2005, the Sensex fell by
+196.84  points  representing  a  fall  of  2.9  per
+cent  with  an  intra-day  variation  of  295.24
+points.  Similarly,  Nifty  fell  by  71.55  points
+representing  a  fall  of  3.4  per  cent  with  an
+intra-day fluctuation of 114.95 points. In view
+of the major fall in the indices, accompanied
+by  huge  intra-day  volatility  and  a  steep
+increase in trading turnover, SEBI took up the
+trading  on  January  5,  2005  for  examination.
+The  examination  did  not  reveal  any  prima
+facie market manipulation.
+
+'
+
+ +;
+
+ +;
+
+Annual Report 2004-05
+
+VI. Surveillance Action
+
+Several  preventive  and  proactive
+measures were taken by SEBI during the year
+for enhancing market safety and integrity. The
+surveillance measures taken during the year
+include  shifting  of  scrips  to  trade-for-trade
+segment, reduction of circuit filter, imposition
+of additional margins etc. Further, the criteria
+for initiating such surveillance measures were
+also reviewed from time to time based on the
+prevailing  market  conditions.  The  year  had
+witnessed spurt in mid-cap & low cap stocks
+and it was further observed that some of the
+defunct  companies  have  become  active.  To
+arrest manipulative / speculative price rise in
+these  scrips,  various  surveillance  measures
+were  taken  as  and  when  considered
+necessary.  The  significant  measures  taken
+during the year were as under:
+
+a) SEBI has mandated the stock exchanges
+to  carry  out  daily  analysis  (end  of  day)
+of market activities. Client-wise analysis
+is  being  undertaken  at  the  end  of  the
+day  itself  of  market  participants  who
+have  traded  in  the  cash  and  F&O
+segments. This will facilitate identification
+of major market players on a daily basis.
+
+b)
+
+c)
+
+The  stock  exchanges  have  also  been
+advised to undertake a patch (time slot)
+analysis  when  volatility  of  more  than  1
+per  cent  in  the  Sensex/  Nifty  is  noticed
+by  them  in  any  time  patch  during  the
+trading hours and incorporate findings of
+the  same  in  the  daily  report.  This  will
+facilitate  identification  of  major  market
+players, scrips, clients & brokers in time
+slots of increased volatility.
+
+Spurt  in  mid-cap  and  low  priced  stocks
+during  the  year  was  discussed  in  the
+weekly surveillance meetings. As a part
+of  the  surveillance  action  and  pursuant
+to  the  decision  taken  in  the  weekly
+surveillance meetings, criteria for shifting
+the  scrips  to  trade-for-trade  segment
+
+d)
+
+were revised in 2004-05 and accordingly
+certain scrips falling under the prescribed
+criteria  were  thereafter  shifted  to  trade
+for trade segment.
+
+The issue of spurt in speculative activity in
+small cap stocks reported by various
+news articles was examined. Exchanges
+have been advised to put in place a
+system to look into the matter. News items
+are now being analysed in respect of
+scrips recommended and exchanges are
+asked to provide comments on the same
+in the weekly surveillance meetings.
+
+e) SEBI  has  now  advised  the  stock
+exchanges  to  prepare  a  suspect  list  of
+entities / brokers/ clients. It was felt that
+the  earlier  surveillance  measures  used
+to  focus  on  individual  scrips  based  on
+feedback from exchanges. This led to a
+situation  where  there  was  a  flood  of
+information  given  by  the  exchanges  to
+SEBI which, however, did not capture or
+provide  any  meaningful  information
+regarding  entities  who  had  undertaken
+manipulations.  The  exchanges  have,
+therefore,  been  advised  to  prepare  a
+suspect list of entities / brokers / clients
+according  to  past  trading  pattern  and
+other feedback mechanism available with
+them.  This  would  enable  prompt
+identification of such entities and facilitate
+quicker  understanding  of  their  activities
+across the market.
+
+f)
+
+To  address  concerns  over  the  stock
+specific advice / recommendations made
+on TV channels / newspapers, a system
+has  been  put  in  place  to  deal  with  the
+issue  from  surveillance  point  of  view.
+Television media has been advised that
+the persons who are desirous of offering
+investment advices should make specific
+disclosures  regarding  their  interest  /
+shareholding  in  the  scrips.  These
+disclosures should be aired immediately
+
+' 
+
+ +;
+
+ +;
+ ;
+
+Part Three: Regulation of Securities Market
+
+prior  to  the  investment  advices  offered
+by such persons. Disclaimer clauses are
+also  required  to  be  aired  immediately
+prior  to  the  investment  advices  offered
+by  such  persons  to  the  effect  that  the
+investment  advices  reflect  the  personal
+views  of 
+the  person  and  no
+compensation has been received directly
+or  indirectly,  from  interested  parties  in
+connection  with  recommendations  or
+views expressed by them.
+
+It  was  observed  during  the  year  that
+various  companies  come  up  with
+announcements  like  issue  of  bonus
+shares, buyback of shares etc. which is
+not fulfilled by the company later. It was
+decided that BSE and NSE shall identify
+such companies which have made such
+announcements  without  fulfilling  it  and
+shall  take  appropriate  action  against
+these  companies  and  also  refer  the
+same to SEBI for further investigation.
+
+It  was  observed  during  the  year  that
+some  of  the  delisted  companies  had
+become  active.  In  this  regard  BSE
+informed  that  many  of  the  delisted
+companies have started complying with
+the  listing  agreement.  However,  these
+companies  have  been  kept  suspended.
+Trading  has  been  allowed  in  few
+companies  but  has  been  kept  in  trade-
+for-trade  segment.  It  was  decided  that
+exchanges  would  monitor 
+these
+companies closely.
+
+To  address  concerns  with  regard  to
+rumours circulating in the market which
+results  in  unusual  price  movement,
+exchanges were advised to put in place
+a  suitable  mechanism  to  deal  with  the
+issue.  Accordingly,  the  exchanges  now
+verify factual position from the company
+and disseminate the same to the market
+at the earliest.
+
+g)
+
+h)
+
+i)
+
+j)
+
+k)
+
+l)
+
+Unusual  price  movement  observed  in
+several  loss  making  companies  and
+penny  stocks  were  scrutinised  by  SEBI
+and appropriate action was initiated. This
+was  also  complemented  at  times  by
+special  surveillance  measures  by  the
+stock  exchanges  to  arrest  manipulative
+/ speculative price rise.
+
+investor 
+
+It was also observed during the year that
+some  companies  were 
+issuing
+unsolicitated 
+inducing
+advertisements.  Such  advertisements
+were  generally  made  in  respect  of
+companies whose shares were illiquid and
+these  advertisements  portrayed  rosy
+pictures  of  the  present  and  the  future
+activities of the companies and appeared
+to have been issued with a view to attract
+investor  interest.  In  such  cases,  the
+company / its promoters were immediately
+called  for  discussions  to  ascertain  the
+factual position and suitable actions were
+initiated wherever felt necessary.
+
+During  2004-05,  consequent 
+to
+inspection  of  surveillance  cells  of  the
+stock  exchanges,  SEBI  recommended
+further improvements in their functioning.
+These  included  criteria  for  selection  of
+members for investigations, examination
+of  the  history  of  unusual  trades  and
+inclusion of history of alerts of the short-
+listed  scrips  while  scrutinising  for
+surveillance action. Exchanges were also
+advised 
+the  manual
+intervention  at  the  time  of  scrutiny  of
+online non real time alert reports and to
+take  deterrent  action  to  prevent
+regulatory breaches.
+
+reduce 
+
+to 
+
+m) During the year, Integrated Surveillance
+Department  of  SEBI  made  125
+references  to  stock  exchanges  for
+examination. 
+completed
+investigations  in  41  cases  and  BSE
+completed  investigation  in  26  cases
+during the year.
+
+NSE 
+
+'!
+
+ +;
+ ;
+
+ +;
+
+Annual Report 2004-05
+
+A  gist  of  surveillance  actions  taken
+during  the  year  from  April  1,  2004  to  March
+31, 2005 is given in Table 3.14.
+
+Table 3.14: Surveillance Actions
+
+during 2004-05
+
+Action
+
+1
+
+Scrips shifted to trade-
+for-trade Segment
+
+No. of scrips in which
+price bands were changed
+(2 per cent, 5 per cent,
+10 per cent)
+
+Preliminary Investigations
+taken up
+
+Rumours verified from
+the Companies
+
+VII. Other Initiatives
+
+NSE
+
+2
+
+BSE
+
+3
+
+209
+
+842
+
+650
+
+1,922
+
+164
+
+301
+
+783
+
+538
+
+a. Constitution  of  Special  Sur-
+veillance  Investigation  Team
+at the Head Office and Regional
+Offices for Special Inspection
+After  the  securities  scam  of  2001,  the
+JPC  recommended  that  an  integrated
+approach to surveillance be undertaken so as
+to  minimise  the  incidents  of  securities  fraud
+and  present  effective  deterrents  to  potential
+violations.
+
+As part of surveillance measures, SEBI
+advised the exchanges to prepare a suspect
+list  of  entities/brokers/clients  that  appear  to
+be having a noticeable trading pattern across
+scrips.  Based  on  the  findings  of  the
+exchanges,  brokers  were  short-listed  for
+further scrutiny. These brokers were observed
+to have traded in more than 50 scrips mostly
+belonging  to  B1/B2/Z  group.  In  such  cases,
+entity  based  investigation  would  be  more
+effective than scrip based investigation.
+
+Therefore,  Special  Surveillance
+Inspection  Teams  (SSIT)  consisting  of  both
+
+surveillance and inspection officials have been
+constituted for this purpose. The teams have
+commenced conducting surprise and special
+inspections at the premises of suspect entities.
+
+b. Meeting  of  Asia  Pacific
+Group  (APG)  on  Money
+Laundering
+
+The Financial Action Task Force (FATF)
+on Money Laundering was established by the
+G-7 Summit in Paris in 1989. It has made 40
+recommendations  to  its  Member  National
+Governments  to  implement  effective  anti-
+money-laundering  programmes.  The
+recommendations broadly cover 3 aspects –
+role  of  the  national  legal  system,  role  of  the
+financial system and international co-operation.
+India is a member of the Asia Pacific Group
+on money laundering. The APG is responsible
+for  implementation  and  assessment  of  the
+international  standards  against  money
+laundering and terrorist financing. In the month
+of March 2005, a Mutual Evaluation Team from
+the  Secretariat  of  the  APG  on  Money
+Laundering  conducted  an  evaluation  of  the
+supervisory  and  oversight  systems  and  the
+capital markets in India from the point of view
+of measures taken on implementation of the
+anti-money  laundering  /  combating  the
+financing of terrorism recommendations made
+by the Financial Action Task Force.
+
+issues 
+
+In accordance with ongoing interactions
+with  other  agencies  -  domestic  and
+international  -  the  surveillance  department
+organised  the  meeting  of  the  APG  in  March
+2005.  To  facilitate  effective  surveillance,
+several 
+to  effective
+documentation  of  client  information  and
+prevailing practices relating to record keeping,
+increased  due  diligence  by  FIs,  and
+identification  and  reporting  of  suspicious
+transactions  were  discussed  in  the  meeting.
+This  would  also  enable  expeditious
+enforcement of regulatory action.
+
+relating 
+
+'"
+
+ +;
+
+ +;
+
+Part Three: Regulation of Securities Market
+
+c. Revamping the Functioning of the
+
+Surveillance Department
+The  functioning  of  the  department  has
+been revamped. Emphasis has been laid on
+the quality of investigation with demonstrative
+effect  on  the  market  which  will  act  as  a
+deterrent  to  potential  offenders.  It  has  been
+decided that a limited number of cases should
+be taken up for investigation and such cases
+should be focused and deterrent punishment
+should be handed over to the offenders.
+
+d.
+
+Increased Co-ordination with
+other Regulatory Agencies
+It  has  also  been  decided  that  there
+should  be  ongoing  co-ordination  with  other
+investigative  and  regulatory  agencies  with  a
+view  to  developing  a  multi-disciplinary
+approach  and  the  use  of  multi-domain
+knowledge for investigation.
+
+e. Commencement of Special
+
+Studies
+In order to assist in effective surveillance
+policy  making  and  to  gauge  the  prevailing
+market  situation,  the  department  has
+commenced  special  studies  in  the  areas  of
+FII  flows,  impact  analysis  of  international
+factors on market indicators/stocks and trends
+in  the  derivative  segments  of  the  capital
+market.
+
+5.
+
+INVESTIGATION
+
+I. Objectives
+
+Investigations are undertaken with a view
+to examine alleged or suspected violations as
+well  as  to  gather  evidence  and  identify
+persons/entities  behind  irregularities  and
+violations such as:
+ price manipulation;
+ creation of artificial market;
+ insider trading; and
+ public issue related irregularities, takeover
+
+violations and other misconducts, etc.
+
+Investigations involve the identification of
+persons  involved  in  the  violations,  collection
+of  elaborate  data  regarding  primary  issues,
+transactions in the secondary markets, trading
+details,  followed  by  verification  and  analysis
+of  the  same.  Pursuant  to  completion  of
+investigation, 
+like
+administrative  directions  and  penal  actions
+under the SEBI Act and various SEBI Rules
+and  Regulations  are  initiated.  These  actions
+include  monetary  penalties,  warning,
+suspension  of  activities,  cancellation  of
+registration, prohibition of dealing in securities
+and ban on access to the capital market etc.
+
+various 
+
+actions 
+
+SEBI  has  undertaken  over  900
+investigation  cases  since  1992-93.  The
+experience  gained  during  investigations  has
+contributed  to  evolution  of  policies  and
+procedures in the regulatory and enforcement
+environment, some of which are as follows:
+
+ Amendments to the SEBI Act to strengthen
+various  provisions  of  the  Act  which  have
+been carried out in the SEBI Amendment
+Act, 2002;
+
+ Insider Trading Regulations were amended
+
+in February 2002;
+
+ Fraudulent  and  Unfair  Trade  Practices
+Regulations  were  thoroughly  revised  in
+2003-04 and new set of regulations were
+notified;
+
+ OCBs,  whose  role  came  to  light  in  the
+investigations in 2001, have been banned
+by RBI from the markets;
+
+ The disclosure of PNs by FIIs was made
+
+mandatory;
+
+ Unique  client  codes  have  been  made
+
+mandatory;
+
+ Suggestions are given to other operational
+departments of SEBI from time to time for
+amending regulations/guidelines; and
+
+ Inputs  to  other  regulatory  agencies  like
+RBI,  MCA,  CBI,  ED  and  Income  Tax
+Department etc.
+
+'#
+
+ +;
+
+ +;
+
+Annual Report 2004-05
+
+II. Stages of Investigation
+
+The action may include:
+
+a. Preliminary investigation
+
+Based  on  the  facts  contained  in  a
+reference  and  feedback  obtained  from
+exchanges/  other  sources  of  relevant
+information, preliminary investigation is made
+to check whether the matter warrants a formal
+investigation. At the preliminary investigation
+stage,  information  is  sought  and  collected
+from  all  available  sources 
+including
+exchanges,  depositories,  secondary
+databases, company and brokers, if required.
+As  this  is  only  a  preliminary  investigation,
+production  of  documents  and  calling  of
+information  cannot  be  enforced.  Based  on
+available information, an assessment is made
+as to whether a formal investigation is needed
+to establish charges of violations.
+
+b. Formal Investigations
+
+Based on the findings of the preliminary
+investigation,  a  case  is  taken  up  for  formal
+investigation.  Once  a  case  is  taken  up  for
+formal  investigation,  the  SEBI  Act  provides
+for:
+
+
+
+
+
+calling for information;
+compelling production of documents; and
+
+ examination of witnesses etc.
+
+c. Post Investigative Proceedings
+
+After  completion  of  investigation,  action
+is  taken  by  Enforcement  Division  as  per  the
+recommendations of the approving authority.
+
+Table 3.15: Investigations by SEBI
+
+
+
+
+
+
+
+
+
+
+
+issuing warning letters;
+
+initiating  enquiry  proceedings  against
+registered intermediaries;
+
+initiating adjudication proceedings for levy
+of penalties;
+
+issuing directions under SEBI Act; and
+
+launching prosecution.
+
+III. Trends in Investigation Cases
+
+Over  the  years,  SEBI  has  undertaken
+908  investigation  cases  of  which  755  cases
+have  been  completed.  During  2004-05,  130
+new  cases  were  taken  up  for  investigation
+and 179 cases were completed. (Table 3.15).
+
+a.
+
+Investigation Cases Taken Up
+During  2004-05,  130  new  cases  were
+taken  up  for  investigation  as  against  121  in
+the previous year (Table 3.16, Chart 3.5). Of
+total cases taken up, 84.6 per cent pertained
+to  market  manipulation  and  price  rigging  as
+against  79.3  per  cent  of  such  cases  in  the
+previous year. Other cases pertain to insider
+trading,  takeover  violations,  irregularities  in
+public issues, and miscellaneous cases. Many
+investigation  cases  were  taken  up  on  the
+basis of multiple allegations of violations and
+hence,  strict  classification  under  specific
+category becomes difficult. Such cases have
+been classified on the basis of main charge/
+violations.
+
+Particulars 1992-93 1993-94 1994-95 1995-96 1996-97 1997-98 1998-99 1999-00 2000-01 2001-02 2002-03 2003-04 2004-05
+
+Total
+
+1
+
+Cases
+Taken up
+for
+Investigation
+
+Cases
+Completed
+
+2
+
+2
+
+2
+
+3
+
+3
+
+3
+
+4
+
+2
+
+2
+
+5
+
+60
+
+6
+
+122
+
+7
+
+53
+
+8
+
+55
+
+9
+
+56
+
+10
+
+68
+
+11
+
+111
+
+12
+
+125
+
+13
+
+121
+
+14
+
+130
+
+15
+
+908
+
+18
+
+55
+
+46
+
+60
+
+57
+
+46
+
+29
+
+106
+
+152
+
+179
+
+755
+
+Note: The pending cases are of the nature of preliminary scrutiny as well as of formal investigations.
+
+'$
+
+ +;
+
+ +;
+
+Part Three: Regulation of Securities Market
+
+Table 3.16: Nature of Investigation Cases Taken Up
+
+Particulars
+
+1
+
+Market Manipulation and Price Rigging
+“Issue” Related Manipulation
+Insider Trading
+Take-overs
+Miscellaneous
+Total
+
+* Data for the current year are provisional.
+
+Number of Cases
+
+Number of Cases
+
+2003-04
+
+2004-05*
+
+2
+
+96
+2
+14
+2
+7
+121
+
+3
+
+110
+2
+7
+1
+10
+130
+
+'%
+
+ +;
+
+ +;
+
+Annual Report 2004-05
+
+b.
+
+Investigation Cases Completed
+During  2004-05,  number  of  cases
+completed increased to 179 as compared with
+152  in  2003-04  (Table  3.17).  Of  the  total
+cases  completed  during  2004-05,  82.6  per
+cent  of  cases  pertained 
+to  market
+manipulation and price rigging as against 80.3
+per  cent  in  the  previous  year.  Other  cases
+which  were  completed  pertain 
+to
+insider 
+issue  related
+irregularities,  takeover  violations,  misleading
+
+trading,  public 
+
+advertisements, unfair practices, etc. Details
+of the nature of investigation cases completed
+are given in Table 3.17 and Chart 3.6.
+
+IV. Regulatory Actions Taken
+
+Following  investigation  into  various
+malpractices,  regulatory  actions  were  taken
+against 232 entities in 2004-05 as compared
+with 174 in the previous year. This indicates
+increased  level  of  enforcement  by  SEBI  in
+2004-05.  Under  SEBI  Act,  1992,  prohibitory
+
+Table 3.17: Nature of Investigation Cases Completed
+
+Particulars
+
+1
+
+Market Manipulation and Price Rigging
+
+Issues Related Manipulation
+
+Insider Trading
+
+Takeovers
+
+Miscellaneous
+(Unfair practices, misleading Section 11 of advertisements, etc.)
+
+Total
+
+Number of Cases
+
+Number of Cases
+
+2003-04
+
+2004-05
+
+2
+
+122
+
+3
+
+9
+
+3
+
+15
+
+152
+
+3
+
+148
+
+2
+
+10
+
+2
+
+17
+
+179
+
+'&
+
+ +;
+
+ +;
+
+Part Three: Regulation of Securities Market
+
+Table 3.18: Type of Regulatory Actions Taken
+
+Particulars
+
+1
+
+Cancellation
+
+Suspension
+
+Warning Issued
+
+Prohibitory Directions Issued under Section 11 of SEBI Act *
+
+Total
+
+* Against intermediaries and non-intermediaries.
+
+No. of Entities
+
+2003-04
+
+No. of Entities
+
+2004-05
+
+2
+
+3
+
+43
+
+22
+
+106
+
+174
+
+3
+
+3
+
+42
+
+53
+
+134
+
+232
+
+orders  were  issued  against  134  entities  in
+2004-05  as  compared  with  106  in  2003-04.
+Similarly, warnings were issued to 53 entities
+in 2004-05 as against 22 entities in 2003-04.
+In addition, a total of 42 intermediaries were
+suspended for varying periods during the year
+as  against  43  suspensions  in  the  previous
+year. Table 3.18 and Chart 3.7 present details
+
+of  regulatory  action  initiated  against  various
+entities on the basis of investigations.
+
+In  2004-05,  on 
+
+the  basis  of
+investigations, 712 show cause notices were
+issued  to  non-intermediaries  which  were
+found  to  have  committed  various  violations,
+as against 438 in the previous year showing
+an increase of 63 per cent.
+
+''
+
+ +;
+
+ +;
+
+Annual Report 2004-05
+
+6. ENFORCEMENT OF
+
+REGULATIONS
+Enforcement makes a regulatory system
+effective.  Active  follow  up  of  cases  of
+misconduct  sends  out  a  tough  signal  to  the
+market  participants.  Disciplinary  actions  in
+the 
+justified  penalties  are
+indispensable for ensuring market integrity.
+
+form  of 
+
+I.
+
+Enquiry and Adjudication Details
+
+During  2004-05,  a  total  of  1,187  orders
+have been passed/reports submitted, of which
+529  were  enquiries  and  658  were  of
+adjudication in nature. A total of 613 hearings
+were  conducted  of  which,  338  pertained  to
+
+enquiries  and  275  belonged  to  adjudication
+proceedings.  There  were  894  show  cause
+notices  issued  of  which,  364  related  to
+enquiries  and  530  pertained  to  adjudication
+proceedings.
+
+The  figures  provided  in  Table  3.19
+include  action  pursuant  to  investigation,
+inspection  and  administrative  sanctions.
+Details  of  action  pursuant  to  investigation
+have  already  been  discussed  earlier.  Other
+actions are discussed below.
+
+II. Market Intermediaries
+
+a)
+
+Table 3.20 gives figures relating to action
+against brokers and sub-brokers. Actions
+
+Table 3.19: Enquiry and Adjudication during 2004-05
+
+Particulars
+
+1
+
+Orders Passed / Reports Submitted
+
+Hearings Conducted
+
+Show Cause Notices Issued
+
+Enquiry
+
+Adjudication
+
+2
+
+529
+
+338
+
+364
+
+3
+
+658
+
+275
+
+530
+
+Total
+
+4
+
+1,187
+
+613
+
+894
+
+Table 3.20: Enquiry and Adjudication against Brokers/Sub-brokers
+
+Particular
+
+1
+
+Enquiries – Brokers
+
+Summary Proceedings Initiated – Brokers
+
+Enquiries ordered – Sub-Brokers
+
+Adjudication
+
+Warned pursuant to Chairman/Members’ Orders
+
+Administrative Warnings/Advice Letters Issued
+
+Total No. of Warnings Issued
+
+Suspended
+
+Registration Cancelled
+
+Censure
+
+No Action
+
+2003-04
+
+2004-05
+
+2
+
+146
+
+303
+
+46
+
+122
+
+1
+
+108
+
+109
+
+30
+
+70
+
+—
+
+27
+
+3
+
+21
+
+106
+
+9
+
+29
+
+4
+
+26
+
+30
+
+24
+
+288
+
+1
+
+3
+
+
+
+ +;
+
+ +;
+
+Part Three: Regulation of Securities Market
+
+in 2003-04 are higher in number mainly
+due  to  backlog  clearance.  The  number
+of  summary  proceedings  initiated  was
+also  higher  in  2003-04  as  SEBI  had
+called  for  information,  since  1992
+onwards,  relating  to  brokers  declared
+defaulter/expelled from stock exchanges.
+SEBI  initiated  action  against  such
+members.
+
+b) Enquiry  proceedings  were  initiated
+against  5  DPs  and  two  merchant
+bankers whereas three cases of enquiry
+against  merchant  banking  entities  have
+been  completed.  Following  enquiry,
+adjudication  proceedings  were  initiated.
+Three  cases  relating  to  depository
+participants  and  two  pertaining  to
+registrars  were  initiated  whereas  two
+cases  related  to  registrars  to  the  issue
+have  been  completed  by  adjudication
+(Table 3.21).
+
+c)
+
+Pursuant  to  inspection,  based  on  the
+investors’ complaints regarding delay in
+dematerialisation of shares and also on
+the  basis  of  reports  submitted  by  both
+the  depositories,  orders  were  passed
+against 12 companies under Section 19
+
+of  Depositories  Act,  1996  directing  the
+companies  to  complete  all  the  pending
+requests for dematerialisation of shares
+from  shareholders  within  one  month  of
+date of receipt of the order failing which
+they shall stand automatically restrained
+from accessing the securities market and
+prohibited from buying, selling or dealing
+in securities for a period of 2 years.
+
+III. Regulatory Actions Against Stock
+
+Exchanges Under Delegated
+Powers and Functions
+
+During  2004-05,  the  Governing  Boards
+of  two  stock  exchanges  were  restored.  The
+Governing  Board  of  Pune  Stock  Exchange
+Ltd. was restored on April 4, 2004, while the
+Governing  Board  of  The  Stock  Exchange,
+Ahmedabad  was  restored  on  December  24,
+2004.  The  application  for  renewal  of
+recognition of Mangalore Stock Exchange was
+refused  vide  order  dated  August  31,  2004
+under  section  4(4)  of  Securities  Contracts
+(Regulation) Act, 1956.
+
+The  supersession  of  the  Governing
+Boards of three stock exchanges was further
+extended during 2004-05 (Table 3.22).
+
+Table 3.21: Enquiry and Adjudication Proceedings against Other Intermediaries
+
+Depository
+Participant
+
+Registrar Merchant
+Banker
+
+to the
+Issue
+
+Under
+Writer
+
+Total
+
+2
+
+Initiated
+
+Completed
+
+Initiated
+
+Completed
+
+—
+
+3
+
+5
+
+4
+
+3
+
+—
+
+2
+
+4
+
+—
+
+—
+
+2
+
+2
+
+2
+
+5
+
+2
+
+3
+
+—
+
+—
+
+—
+
+6
+
+1
+
+1
+
+—
+
+—
+
+—
+
+7
+
+8
+
+8
+
+5
+
+2
+
+4
+
+1
+
+Enquiry
+
+proceedings
+
+Adjudication
+
+proceedings
+
+Chairman’s
+order passed
+
+
+
+ +;
+
+ +;
+
+Annual Report 2004-05
+
+Table 3.22: Supersession of Governing Boards of Stock Exchanges during 2004-05
+
+S. No.
+
+Name of Exchange
+
+Notification Date
+
+1
+
+1.
+
+2.
+
+3.
+
+2
+
+Bhubaneshwar Stock
+Exchange
+
+Uttar Pradesh Stock
+Exchange Association
+Limited
+
+Calcutta Stock Exchange
+Association Limited
+
+3
+
+June 29, 2004
+
+December 30, 2004
+
+July 5, 2004.
+
+December 30, 2004.
+
+November 30, 2004
+
+Period
+
+4
+
+Supersession extended with effect from
+July 3, 2004 for a period of six months
+
+Further extended with effect from January
+3, 2005 for a period of six months
+
+Supersession extended with effect from
+July 12, 2004 for a period of six months.
+
+Further extended with effect from
+January 12, 2005 for a period of six months.
+
+Supersession extended with effect from
+December 4, 2004 to June 30, 2005.
+
+Table 3.23: Adjudication and Imposition of Penalty on Mutual Funds
+
+Apr 04 May 04 Jun 04 Jul 04 Aug 04 Sep 04 Oct 04 Nov 04 Dec 04 Jan 05 Feb 05 Mar 05 TOTAL
+
+2
+
+4
+
+3
+
+1
+
+3
+
+1
+
+(A) Inspected
+(B) Adjudication Ordered
+(C) Adjudication Completed
+(D) Debarred
+(E) Suspension
+(F) Warning/Deficiency
+
+Letter Issued
+
+(G) Enquiry Ordered
+(H) Show Cause Notice Issued
+(I) Advertisements
+
+Withdrawn
+
+(J) Payment of Interest
+(K) Compensation to unit
+
+holders
+
+(L) Compensation to Scheme
+(M) Exit Load to Investors
+(N) Other Actions
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+1
+
+17
+
+8
+
+8
+
+6
+
+1
+
+—
+
+3
+
+2
+
+1
+
+—
+
+53
+
+1
+
+2
+
+IV. Regulatory Actions Against
+
+i. Violation  of  advertisement  code/
+
+Mutual Funds
+
+guidelines;
+
+a. Warning and Deficiency Letters
+
+Considering 
+
+the  magnitude  and
+seriousness,  53  warning/deficiency  letters
+were issued to 21 mutual funds (Table 3.23)
+on  the  basis  of  monitoring  through  various
+periodical reports and deficiencies pointed out
+in  the  inspection  reports.  Some  of  the  main
+reasons  for  which  warning  and  deficiency
+letters were issued to mutual funds were:
+
+ii. Delay in submission of reports;
+iii. Inadvertent short-selling;
+iv. Bouncing of SGL deals;
+v. Systemic  deficiencies  for  delays  in
+remitting  the  repurchase/redemption
+proceeds (apart from their paying interest
+to unit holders);
+
+vi. Marginally  exceeding  the  investment
+
+limits; and
+
+ 
+
+ +;
+
+ +;
+
+Part Three: Regulation of Securities Market
+
+vii. Non-compliance  regarding  uploading
+
+
+
+NAVs on AMFI website.
+
+b. Adjudication Completed and
+
+Monetary Penalty Imposed
+In 
+
+the  current  year, 
+
+there  was
+adjudication  against  one  mutual  fund  and
+monetary  penalty  was  imposed  for  violation
+of SEBI Regulations:
+
+Templeton  Mutual  Fund:  An  error  in
+computation of NAV of an ex-Pioneer ITI
+scheme  was  reported  in  the  inspection
+for  the  period  2000-02.  Accordingly,  as
+directed by SEBI, the fund compensated
+the  scheme  to  the  extent  of  Rs.8.16
+lakh  being  the  error  in  computation  of
+NAV.
+
+ Alliance  Capital  Mutual  Fund:  A
+penalty  of  Rs.5.75  lakh  each  was  imposed
+on Alliance Capital Mutual Fund and Alliance
+Capital  Asset  Management  (India)  Pvt.  Ltd.
+for  violation  of  SEBI  (Mutual  Fund)
+Regulations,  1996,  in  the  matter  relating  to
+allotment  of  units  to  two  investors  at  lower
+NAV than applicable.
+
+c. Payment of Interest
+
+SEBI  has  made  it  mandatory  that  the
+mutual funds must pay interest @ 15 per cent
+for  the  delays  in  despatch  of  repurchase/
+redemption proceeds to the unitholders. The
+mutual  funds  are  required  to  report  these
+cases of delays to SEBI on a quarterly basis.
+During  the  year  2004-05,  19  mutual  funds
+paid  Rs.  22.04  lakh  to  12,058  investors  for
+delay  in  dispatch  of  redemption/repurchase
+proceeds  as  against  a  total  amount  of  Rs.
+95.22  lakh  paid  to  1,18,054  investors  in  the
+year  2003-04  (Table  3.24).  Due  to  action  by
+SEBI making it mandatory to pay interest for
+the  delays,  such  cases  have  declined
+considerably from the previous year.
+
+d. Compensation to Scheme in
+
+
+
+2004-05
+Templeton  Mutual  Fund:  In  the  year
+2002-03, the AMC charged management
+fees  on  AMC  investment  in  one  of  the
+schemes. This matter got reported in the
+inspection  and  on  discussing  the  issue
+with the AMC, an amount of Rs.4.16 lakh
+being  management  fees  on  AMC
+investment  was  compensated  to  the
+scheme.
+
+e. Compensation to the Unitholders
+
+
+
+in 2004-05
+Templeton  Mutual  Fund:  An  error  in
+computation of NAV of an ex-Pioneer ITI
+scheme  was  reported  in  the  inspection
+for  the  period  2000-02.  Accordingly,  as
+directed by SEBI, the fund compensated
+21,382 unitholders of the scheme, to the
+extent of Rs.3.24 crore (including interest
+for the delay).
+
+V. Regulatory Actions under SEBI
+
+(Substantial Acquisition of Shares
+and Takeovers) Regulations, 1997
+During the year, 30 cases were referred
+for adjudication under Section 15 of SEBI Act,
+1992 for alleged violation of the provisions of
+SEBI  (Substantial  Acquisition  of  Shares  and
+Takeovers)  Regulations,  1997  and  a  sum  of
+Rs. 69,17,000 was received towards monetary
+penalty.
+
+VI. Regulatory Actions Against CIS
+
+Entities
+SEBI has information regarding 664 CIS
+entities. Out of this, 75 entities wound up their
+schemes  and  repaid  money  to  the  investors
+as  certified  by  their  statutory  auditors.  In
+addition, court cases are pending in case of
+19  entities.  SEBI  has  taken  the  following
+actions against the remaining 570 CIS entities
+for their failure to wind up their schemes and
+make repayments to investors:
+
+
+
+Prosecution  under  Section  24  of  SEBI
+Act, 1992 has been filed by SEBI against
+the entities and their directors;
+
+!
+
+ +;
+
+ +;
+ ;
+
+Annual Report 2004-05
+
+Table 3.24: Interest Paid by Mutual Funds to the Investors for Delayed Redemptions /
+
+Repurchases
+
+For The Quarter
+
+Jun-04
+
+Sep-04
+
+Dec-04
+
+Mar-05
+
+Fund-wise Total
+
+Ended
+
+1
+
+Rs.
+2
+
+Investors
+
+3
+
+Rs.
+4
+
+Investors
+
+5
+
+Rs.
+6
+
+Investors
+
+7
+
+Rs.
+8
+
+Investors
+
+9
+
+Rs.
+10
+
+Investors
+
+11
+
+ABN Amro MF
+
+0
+
+Alliance Capital MF
+
+35,155
+
+Benchmark MF
+
+Birla MF
+
+BOB MF
+
+Canbank MF
+
+Chola MF
+
+DSP ML
+
+Escorts MF
+
+Sahara MF
+
+GIC MF
+
+HDFC MF
+
+Principal MF
+
+ING Vysya MF
+
+J M Financial MF
+
+Kotak Mahindra MF
+
+LIC MF
+
+Morgan Stanley MF
+
+Prudential-ICICI MF
+
+Reliance MF
+
+SBI MF
+
+Standard
+Chartered MF
+
+Sundaram MF
+
+Tata MF
+
+Taurus MF
+
+0
+
+8,449
+
+0
+
+0
+
+53
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+38
+
+0
+
+0
+
+430
+
+0
+
+5,927
+
+0
+
+1,740
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2,892
+
+0
+
+0
+
+629
+
+0
+
+0
+
+0
+
+0
+
+1,604
+
+1,961
+
+0
+
+477
+
+302
+
+0
+
+0
+
+75,139
+
+87
+
+0
+
+0
+
+62
+
+0
+
+5,368
+
+0
+
+0
+
+0
+
+5
+
+0
+
+0
+
+3
+
+0
+
+0
+
+0
+
+0
+
+7
+
+13
+
+0
+
+3
+
+11
+
+0
+
+0
+
+17
+
+1
+
+87
+
+0
+
+0
+
+1
+
+0
+
+7
+
+0
+
+35,155
+
+0
+
+13,548
+
+0
+
+0
+
+3,837
+
+0
+
+0
+
+0
+
+0
+
+62,235
+
+1,961
+
+1,021
+
+477
+
+7,262
+
+5,037
+
+0
+
+83,858
+
+31,517
+
+0
+
+1
+
+0
+
+26
+
+0
+
+0
+
+7
+
+0
+
+0
+
+0
+
+0
+
+182
+
+13
+
+1
+
+3
+
+13
+
+8
+
+0
+
+32
+
+3
+
+2,24,350
+
+1,238
+
+2,087
+
+1,953
+
+3,712
+
+792
+
+14,294
+
+1
+
+16
+
+4
+
+13
+
+24
+
+1,97,528
+
+1,143
+
+20,426
+
+0
+
+1
+
+0
+
+11
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1,377
+
+0
+
+0
+
+144
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+5
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+831
+
+0
+
+0
+
+3,011
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+5
+
+0
+
+0
+
+2
+
+0
+
+0
+
+0
+
+0
+
+23,481
+
+98
+
+17,910
+
+57
+
+19,241
+
+20
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+7
+
+0
+
+11
+
+0
+
+0
+
+9
+
+0
+
+1,021
+
+0
+
+6,922
+
+0
+
+0
+
+2,284
+
+0
+
+469
+
+0
+
+213
+
+3,651
+
+0
+
+1,969
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+3
+
+0
+
+1
+
+0
+
+5
+
+3
+
+0
+
+3
+
+0
+
+0
+
+0
+
+0
+
+5,037
+
+0
+
+6,005
+
+31,430
+
+0
+
+0
+
+0
+
+0
+
+8
+
+0
+
+11
+
+2
+
+2,087
+
+0
+
+0
+
+792
+
+4,421
+
+1
+
+0
+
+0
+
+13
+
+5
+
+567
+
+0
+
+0
+
+Templeton MF
+
+2,535
+
+UTI
+
+HSBC MF
+
+Deutsche MF
+
+9,31,415
+
+5730
+
+6,02,480
+
+3,907
+
+1,09,228
+
+9,662
+
+0
+
+3
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+51,154
+
+263
+
+16,94,276
+
+10,467
+
+7,930
+
+0
+
+3
+
+0
+
+17,591
+
+0
+
+6
+
+0
+
+TOTAL
+
+10,18,885
+
+5,873
+
+6,38,440
+
+3,987
+
+3,79,611
+
+1,777
+
+1,68,029
+
+421
+
+22,04,964
+
+12,058
+
+Note: Figures may not add exactly to total due to rounding off.
+
+"
+
+ +;
+ ;
+
+ +;
+
+Part Three: Regulation of Securities Market
+
+
+
+
+
+
+
+Orders passed under Section 11B of the
+SEBI  Act,  1992,  debarring  the  entities
+and  their  concerned  officials  from
+operating  in  the  capital  market  and/or
+from  accessing  the  capital  market  for  a
+period of 5 years from the date of orders;
+The concerned State Governments have
+been  requested  to  initiate  civil/  criminal
+proceedings  against  the  entities  for
+apparent  offences  of  fraud,  cheating,
+criminal  breach  of 
+trust  and
+misappropriation of public funds; and
+The Department of Company Affairs has
+been requested to initiate winding up of
+the  entities  under  Section  433  of  the
+Companies Act.
+
+In  addition  to  this,  SEBI  has  requested
+the  police  authorities  to  file  First  Information
+Reports (FIRs) under the Indian Penal Code
+against  70  CIS  entities  which  had  mobilised
+Rs.5  crore  or  more  under  their  collective
+investment  schemes  and  had  failed  to  wind
+up their schemes to repay investors.
+
+Golden Forest (I) Ltd. (GFIL):
+Appointment of Central Committee
+
+Golden  Forest  (I)  Ltd.  (GFIL)  had
+mobilised  about  Rs.  1000  crore  from  the
+investors  under  its  various  collective
+investment schemes and as per information,
+this  was  the  single  largest  mobilisation  of
+funds by any CIS entity. SEBI had filed a writ
+petition against GFIL in the Hon’ble Mumbai
+High Court before the notification of the CIS
+Regulations to facilitate repayment of money
+to the investors. Later on, a number of cases
+were filed against GFIL by investors in various
+High courts of the country. Due to this, there
+was  a  possiblity  of  different  High  Courts
+passing  different  orders  in  the  matter.
+Therefore,  SEBI  filed  a  Transfer  Petition  in
+the  Hon’ble  Supreme  Court,  so  that  all  the
+different  cases  pending  before  various  High
+Courts against GFIL can be clubbed together
+and transferred to the Supreme Court. In the
+said  Transfer  Petition,  the  Hon’ble  Supreme
+
+Court  has  recently  appointed  a  Central
+Committee consisting of 3 members under the
+Chairmanship of Hon’ble Chief Justice (Retd.)
+R.N.  Aggarwal  and  one  member  each  from
+SEBI and RBI. The task of the Committee is
+to realise the assets of GFIL, to invite claims
+from the investors and to scrutinise the same
+and thereafter submit a report to the Hon’ble
+Supreme Court.
+
+7. PROSECUTION
+
+I.
+
+Trends in Prosecution
+The  number  of  prosecutions  launched
+against companies, persons and entities have
+declined substantially in 2004-05 as compared
+to  2003-04  (Table  3.25).  In  2004-05,
+prosecution  was  launched  in  83  cases  as
+compared  with  464  cases  in  2003-04.  In
+2003-04, SEBI launched prosecution against
+all CIS entities who had failed to comply with
+directions issued under Section 11B of SEBI
+Act,  1992.  Total  number  of  such  cases  was
+332. This resulted in a substantial rise in the
+number of cases filed in the year 2003-04.
+
+Prosecution  was  launched  against  410
+persons/entities in 2004-05 as against 2,375
+in 2003-04. Up to 2004-05, prosecution was
+launched  in  969  cases  and  against  4,806
+persons /entities.
+
+Table 3.26 shows that 48 per cent of the
+cases  belonged  to  the  western  region  while
+33  per  cent  cases  related  to  the  northern
+region.  The  percentage  shares  of  southern
+and eastern regions were 11 per cent and 8
+per cent, respectively.
+
+II. Nature of Prosecutions
+
+Table  3.27  depicts  the  nature  of
+prosecutions launched under various sections
+of different Acts. The prosecutions have been
+launched under the Companies Act, SEBI Act,
+Depositories  Act,  SC(R)A  and  the  Indian
+Penal  Code.  Of  the  969  cases,  875  have
+been  launched  under  the  SEBI  Act  and  5
+under the IPC.
+
+#
+
+ +;
+
+ +;
+ ;
+
+Annual Report 2004-05
+
+Table 3.25: Prosecutions Launched
+
+Year
+
+1
+
+Up to and
+including 1995-96
+1996-97
+1997-98
+1998-99
+1999-00
+2000-01
+2001-02
+2002-03
+2003-04
+2004-05
+
+Total
+
+No. of cases in
+
+which prosecution has
+
+been launched
+
+No. of persons/ entities
+
+against whom prosecution
+
+ has been launched
+
+2
+
+9
+10
+11
+15
+19
+20
+109
+229
+464
+83
+
+969
+
+3
+
+58
+57
+81
+145
+121
+98
+613
+848
+2,375
+410
+
+4,806
+
+Table 3.26: Region-wise Data on Prosecution
+
+Region
+
+1
+
+Northern Region
+
+Western Region
+
+Southern Region
+
+Eastern Region
+
+Total
+
+Number of Cases
+
+Percentage of Total
+
+2
+
+322
+
+465
+
+105
+
+77
+
+969
+
+3
+
+33.23
+
+47.98
+
+10.84
+
+7.95
+
+100.00
+
+Table 3.27: Nature of Prosecutions Launched during 2004-05
+
+Nature of Prosecution Launched
+
+Number of Cases
+
+1
+
+Sec. 63, 68 of Companies Act, 1956
+
+Sec. 73, 77 and 113 of Companies Act, 1956
+
+Indian Penal Code, 1860
+
+Securities and Exchange Board of India Act,1992
+
+Depositories Act, 1996
+
+Securities Contracts (Regulation) Act, 1956
+
+Total
+
+2
+
+18
+
+42
+
+5
+
+875
+
+13
+
+16
+
+969
+
+Prosecutions  are 
+
+to
+for
+communicate  a 
+implementation  of  regulatory  penalties.
+Different  sections  of  SEBI  Act,  SC(R)  Act
+
+launched 
+tough  approach 
+
+and relevant sections of Companies Act were
+also invoked to impose penalties on defaulting
+parties.
+
+$
+
+ +;
+ ;
+
+ +;
+
+Part Three: Regulation of Securities Market
+
+Table 3.28: Number of Cases Decided
+
+by Courts
+
+Decision by Court
+
+Number of Cases
+
+1
+
+Convictions
+
+Compounded
+
+Abated
+
+Dismissed
+
+Withdrawn
+
+2
+
+7
+
+4
+
+1
+
+2
+
+1
+
+III. Litigations, Appeals and Court
+
+Pronouncements
+
+Tables 3.29 and 3.30 present details with
+regard  to  cases  lying  before  the  Courts /
+Securities Appellate Tribunal (SAT) and also
+information on the nature of violations. During
+2004-05,  259  cases  have  been  filed  making
+SEBI  a  party.  Further,  72  cases  were  either
+withdrawn  or  allowed  or  dismissed.  The
+number  of  pending  cases  has  increased  to
+492  as  on  March  31,  2005  as  compared  to
+303  cases  during  2003-04.  During  2004-05,
+
+440  appeals  were  filed  with  SAT,  compared
+to  175  in  2003-04.  Of  total  appeals  filed,  32
+were  dismissed,  8  were  remanded,  37  were
+allowed and 74 were modified.
+
+Table  3.31  shows  the  appeals  under
+Section  15Z  of  the  SEBI  Act,  against  the
+order of the SAT. During 2004-05, SEBI has
+filed  13  appeals  and  other  parties  filed  12
+appeals against SEBI. As on March 31, 2005,
+22 cases were pending.
+
+Table 3.30: Details of Appeals before the
+Securities Appellate Tribunal
+
+Status of Appeals
+
+No. of Appeals
+
+1
+
+Appeals Filed
+
+Appeals Dismissed
+
+Appeals Remanded
+
+Appeals Allowed
+
+Appeals Modified
+
+Appeals Pending
+
+2
+
+440
+
+32
+
+8
+
+37
+
+74
+
+418 *
+
+* Total  appeals  pending  in  2004-05  were  418,  which
+includes 129 pending appeals filed in previous years.
+
+Table 3.29: Details of Court Cases where SEBI was a Party
+
+Subject Matter
+
+Cases
+Filed
+
+Cases
+Pending
+
+1
+
+Brokers’ Registration Fees Cases
+
+Collective Investment Scheme
+
+Consumer Forum Cases
+
+General Service Department
+
+Investigations,Enforcement and
+Surveillance Department
+
+Primary Market Department
+
+Secondary Market Department
+
+Takeovers
+
+Depositories and Participants
+
+Mutual Funds
+
+Total
+
+3
+
+81
+
+26
+
+5
+
+9
+
+103
+
+8
+
+160
+
+89
+
+6
+
+5
+
+492
+
+2
+
+78
+
+4
+
+0
+
+3
+
+120
+
+0
+
+36
+
+9
+
+6
+
+3
+
+259
+
+%
+
+ +;
+
+Cases
+
+Dismissed/
+Allowed/
+Withdrawn
+
+4
+
+–
+
+1
+
+1
+
+2
+
+56- Dismissed
+1-Allowed
+
+2
+
+3
+
+6
+
+–
+
+–
+
+72
+
+ +;
+ ;
+
+Annual Report 2004-05
+
+Table 3.31: Details of Appeals under Section 15Z of the SEBI Act against the Order of
+
+Securities Appellate Tribunal
+
+Sr. No.
+
+Subject Matter
+
+Cases
+Filed
+
+Cases
+Pending
+
+Cases Dismissed /
+Allowed / Modified
+
+1
+
+1.
+
+2.
+
+2
+
+Appeals Filed by SEBI
+
+Appeals Filed by other Parties
+against SEBI
+
+Total
+
+3
+
+13
+
+12
+
+25
+
+4
+
+12
+
+10
+
+22
+
+5
+
+1- allowed
+
+2-modified
+
+3
+
+8.
+
+INVESTORS’ EDUCATION AND
+TRAINING OF INTERMEDIARIES
+A detail account of initiatives by SEBI in
+the area of investor education is provided in
+Part I. SEBI realises that a cadre of securities
+market professionals is a basic infrastructure
+for  development  of  the  securities  market.  It
+is  essential  not  only  to  sustain  the  reforms
+undertaken  so  far  but  also  to  initiate  further
+reforms  and  to  maintain  and  enhance  the
+confidence of investors/issuers in the market.
+The  quality  of  personnel  providing
+intermediation services determines the shape
+and  health  of  the  securities  market,  as  the
+suppliers  of  funds/securities  rely  on
+knowledge and expertise of the intermediaries
+and look up to them for guidance and support.
+
+In  order 
+
+to  groom  a  cadre  of
+professionals who understand the market and
+the regulations and can service the investors
+and  the  issuers  improving  thereby  the
+competence  of  the  intermediaries,  a  set  of
+two complementary initiatives namely training
+and  certification  is  generally  used.  Keeping
+this  in  mind,  SEBI  has  set  up  the  ‘National
+Institute of Securities Markets’ (NISM) which
+will undertake both initiatives with creditability
+and efficiency. It would design and implement
+the  entire  gamut  of  educational  initiatives,
+including  education,  training,  certification,
+research  and  consultancy  in  the  area  of
+securities  market  and  allied  subjects  for
+
+securities  market  professionals  in  India  and
+neighbouring  countries.  This  would
+complement SEBI’s statutory responsibility to:
+
+(i) promote investors’ education;
+
+(ii) train  intermediaries  in  the  securities
+
+market; and
+
+(iii) conduct  research  necessary  for  the
+
+discharge of its responsibilities.
+
+The general superintendence, direction,
+control  and  management  of  the  affairs  and
+funds of the NISM is vested with its Board of
+Governors.
+
+9. RESEARCH ACTIVITIES
+
+Knowledge management is the tool that
+helps acquire the cutting edge in a globalised
+financial market. The guidelines for research
+initiatives  are  incorporated  in  SEBI  (Annual
+Report)  Rules,  1994.  Core  activities  of
+department of research includes preparation of
+reports, compilation of data for publication in
+monthly bulletin and generation of information
+and analysis on market trends as required by
+senior executives of SEBI from time to time.
+Concept  papers  in  greenfield  areas  of
+securities market are also part of the research
+profile. Guest Lectures on topical issues like
+impact  of  the  Union  Budget  on  securities
+market were organised during the year.
+
+The  Research  Department  published
+Handbook  of  Statistics  on  Indian  Securities
+
+&
+
+ +;
+ ;
+
+ +;
+ ;
+
+Part Three: Regulation of Securities Market
+
+Market,  which  contains  a  vast  collection  of
+data  on  Indian  securities  market.  The  data
+published in the Handbook are consistent with
+the requirement of IMF under the special data
+dissemination  standard.  Several  initiatives
+were  taken  during  2004-05  to  strengthen
+in-house  research  activities  in  SEBI.  Some
+of the research outputs are published. Notable
+among  them  were  ‘Securities  Market  and
+Poverty  Alleviation’,  ‘IPO  Pricing  by  Dutch
+Auction  System’,  ‘Regulatory  Framework  of
+Debt Market’ and ‘Capital Structure Theories’.
+‘Market  for  Corporate  Control  and  Takeover
+Regulations:  Trends  and  Analysis’  was
+published as a working paper.
+
+Under  the  SEBI  Act,  1992,  SEBI  is
+responsible for conducting research necessary
+for  regulating  and  developing  the  securities
+market and protecting interests of investors in
+securities. Keeping this in view, and in order
+to  promote  quality  research  in  the  area  of
+securities market in a cost effective manner,
+SEBI instituted the “SEBI Award for Excellence
+in Research in the Area of Securities Market
+Initiative”.  Under  the  Initiative,  SEBI  shall
+confer up to 3 (three) awards on the 3 (three)
+best  researchers  (individuals/  institutions)  in
+securities  market  every  year.  The  award
+includes a cash prize of Rs. 1,00, 000 (Rupees
+One Lakh Only) and a citation.
+
+'
+
+ +;
+ ;
+
+

@@ -1,0 +1,115 @@
+
+ 
+May 19, 2016
+
+PR No.:  
+98/2016
+
+
+The SEBI Board met in Mumbai today and took the following important decisions: 
+ 
+A.  Offshore Derivative Instruments (ODIs)
+ 
+The Board was informed about the various aspects of ODIs.
+ 
+The Board took note of the measures taken by SEBI for tightening the eligibility and investment norms for ODI issuers and subscribers for the past few years. SEBI vide circular dated January 17, 2011 introduced comprehensive reporting framework for ODI issuers, whereby ODI issuers are required to provide reports on monthly basis in a prescribed format containing detailed information pertaining to their ODI activities such as name and jurisdiction of the end beneficial owner, details of underlying trade in the Indian market, etc.
+ 
+With the new Foreign Portfolio Investors (FPI) Regulations introduced in 2014, ODIs can be issued by or subscribed to only by appropriately regulated entities. An entity is said to be regulated by an appropriate foreign regulatory authority if it is regulated or supervised by the securities market regulator or the banking regulator of the concerned foreign jurisdiction, in the same capacity in which it proposes to make investments in India. For example, Category III FPIs (such as Endowments, Charitable Societies/ Trust, Foundations, Corporate Bodies, Trusts, Individuals, Family Offices) or sections of Category II FPIs (unregulated broad based funds, which are classified as Category II FPI by virtue of their investment manager being appropriately regulated) are not permitted to issue or to subscribe to ODIs.
+ 
+Further, SEBI vide its circular CIR/IMD/FIIC/20/2014 dated November 24, 2014, aligned the applicable eligibility and investment norms between FPI regime and subscription through ODIs.
+ODI subscriber cannot be a resident in a country identified in the public statement of Financial Action Task Force as a jurisdiction:
+a)         having a strategic Anti-Money Laundering or Combating the Financing of Terrorism deficiencies to which counter measures apply or
+b)         has not made sufficient progress in addressing the deficiencies or has not committed to an action plan developed with the Financial Action Task Force to address the deficiencies.
+ 
+Besides, ODI subscribers are not permitted to have an Opaque Structure(s). The term “Opaque Structure” means any structure such as protected cell company, segregated cell company or equivalent, where the details of the ultimate beneficial owners are not accessible or where the beneficial owners are ring fenced from each other or where the beneficial owners are ring fenced with regard to enforcement. It may also be noted that NRIs/Resident Indians are not permitted to transact in ODIs.
+ 
+The Board noted that in view of the strict norms for ODI issuance, the notional value of ODIs to the AUC of FPIs has declined over the years from a high of 55.7% in June 2007 to 10% in March 2016.
+ 
+However, the concerns raised by the Special investigations Team (SIT) with regard to identification of Beneficial Owners and transferability of ODIs were also discussed and the Board approved the following additional measures for the purpose of enhancing the transparency and control over the issuance of ODIs:
+ 
+Applicability of Indian KYC/AML norms for Client Due Diligence
+ 
+(i)         Presently, the ODI issuers follow the KYC/AML norms of either the jurisdiction of the end beneficial owner or of the jurisdiction of the ODI issuer. In order to bring about an uniformity in the KYC/AML norms, it has been decided that Indian KYC/AML norms will now be applicable to all ODI issuers. The KYC/AML norms applicable to ODI issuers will be the same as that for all other domestic investors. 
+ 
+ODI Issuers shall be required to identify and verify the beneficial owners in the subscriber entities, who hold in excess of the threshold as defined under Rule 9 of the Prevention of Money-laundering (Maintenance of Records) Rules, 2005 i.e. 25% in case of a company and 15% in case of partnership firms/ trusts/ unincorporated bodies. In such cases, the ODI issuers shall be required to identify and verify the person(s) who control the operations of these entities.
+ 
+Prior permission for Transferability of ODIs (Amendment to SEBI (Foreign Portfolio Investor) Regulations, 2014)
+ 
+(ii)        As per extant regulations, ODI subscribers are not required to take prior permission of the ODI Issuer for transfer of ODIs to another investor offshore. In order to tighten the ODI regime and have more control over issuance and transfer of ODIs, it has been decided that the ODI subscribers will have to seek prior permission of the original ODI issuer for further/onward issuance/transfer of ODIs.
+ 
+Reporting of complete transfer trail of ODIs
+(iii)       Presently, the details of the holder of ODIs have to be mandatorily reported to SEBI on a monthly basis. The ODI issuers are also required to capture the details of all the transfers of the ODIs issued by them and these can be made available to SEBI on demand. The Board decided that in the monthly reports on ODIs all the intermediate transfers during the month would also be required to be reported.
+ 
+KYC Review
+ 
+(iv)       The KYC review shall be done on the basis of the risk criteria as determined by the ODI issuers, as follows:
+ 
+a.         At the time of on-boarding and once every three years for low risk clients
+b.         At the time of on-boarding and every year for all other clients
+ 
+Suspicious Transactions Report
+(v)        ODI Issuers shall be required to file suspicious transaction reports with the Indian FIU, if any, in relation to the ODIs issued by it.
+ 
+Reconfirmation of ODI positions
+(vi)       ODI Issuers shall be required to carry out reconfirmation of the ODI positions on a semi-annual basis.
+ 
+Periodic Operational Evaluation
+(vii)      ODI Issuers shall be required to put in place necessary systems and carry out a periodical review and evaluation of its controls, systems and procedures with respect to the ODIs.
+Suitable amendments to the Regulations/Circulars shall be made to bring the above mentioned measures into effect.
+ 
+ 
+B. Dividend distribution policy for listed companies
+ 
+SEBI Board approved the proposal for the top 500 listed companies (by way of market capitalization) to formulate and disclose their dividend distribution policies in the annual reports and on their websites.
+ 
+Such policy may include:
+ 
+a)         The circumstances under which their shareholders can or cannot expect dividend;
+b)         The financial parameters that will be considered while declaring dividends;
+c)         Internal and external factors that would be considered for declaration of dividend;
+d)         Policy as to how the retained earnings will be utilized.
+e)         Provisions in regard to various classes of shares.
+ 
+When the company proposes to declare dividend on the basis of parameters other than what is mentioned in such policy or proposes to change its dividend distribution policy, the same along with the rationale shall be disclosed. 
+ 
+This step will help the investors in taking well informed investment decisions.
+ 
+ 
+ 
+C. Amendment to Regulation 33 of Securities Contracts Regulation (Stock Exchanges and Clearing Corporations) Regulations, 2012
+The Board took note that the requirement of establishing Core Settlement Guarantee Fund (Core SGF) was introduced by SEBI vide circular dated August 27, 2014 and Core SGFs have now been built up in the clearing corporations.
+It also considered the recommendations of the Expert Committee, constituted under the Chairmanship of Shri K V Kamath, to look into various issues relating to clearing corporations including the issue of transfer of 25% of profits by stock exchanges to the core SGF of clearing corporations, and observations of the Risk Management Review Committee of SEBI. Taking note that Core SGF have been built up, it was decided to do away with the said requirement of transfer of 25% of profits by stock exchanges. However, there will be a mandate that stock exchanges, along with clearing corporations, shall replenish the Core SGF immediately, in case of any shortfall in the corpus. Such a review will take place on a monthly basis or earlier as and when required.
+Accordingly, the Regulations would be amended to give effect to the above decision of the Board.
+D. Amendments to the SEBI (Infrastructure Investment Trusts) Regulations, 2014
+SEBI has notified the SEBI (Infrastructure Investment Trusts) Regulations, 2014 on September 26, 2014. For smoothening the process of registration of InvIT with SEBI and launching of the offer, SEBI Board has approved for bringing out a consultation paper proposing certain changes/providing clarification in the InvIT Regulations on the following points:
+1.         Allowing InvITs to invest in two-level SPV structure.
+2.         Mandatory sponsor holding in InvIT to be reduced to 10% from current requirement of 25%, subject to certain conditions.
+3.         Increase in the number of sponsors from 3 to 5.
+4.         Other operational requirements, such as, aligning regulations in line with the provisions of Companies Act, 2013 and SCRR, filing of Project Implementation Agreement at the time of filing of offer document, etc.
+The consultation paper will be placed on SEBI website for seeking public comments.
+ 
+E. Guidance Note  on Settlement and procedural changes in processing of Compounding applications
+ 
+Settlement Regulations were formulated primarily to settle minor and technical violations not having wider impact on the market so that enforcement is concentrated on major and significant cases. During the year 2015-16, number of settlement cases have come down putting pressure on the enforcement system.  An analysis revealed that   there are certain doubts on the interpretation of Regulation 5 (2) (b) of Settlement Regulations.  An internal guidance note was issued on March 03, 2016 clarifying the doubts so that more serious and substantial cases are only taken up for enforcement action. 
+For this purpose, defaults which in the opinion of the Board have a bearing on the securities market as whole and not just the listed security and its investors may be considered to have market wide impact.  The assessment of facts and circumstances while deciding the seriousness of the default in relation to an applicant shall take into account the weight and the sufficiency of the evidence.
+ 
+The guidance note was placed before the Board and while noting the contents of the memorandum, it approved that the guidance note be incorporated in the regulations.
+ Further, in dealing with prosecution cases for non-payment of penalty, where compounding request has been filed and where full penalty with interest is paid, the Board took note of the simplification in the procedure for disposing of these matters.
+ 
+F. Amendments to the Securities and Exchange Board of India Act, 1992, Securities Contracts (Regulation) Act, 1956 and Depositories Act, 1996
+During 2014, Parliament has amended Securities and Exchange Board of India Act, 1992, Securities Contracts (Regulation) Act, 1956 and Depositories Act, 1996, providing for minimum and maximum monetary penalties and discretion to impose appropriate penalty by the adjudicating officer. However, this is prospective and not applicable to cases falling between 2002 and 2014.
+Pursuant to the judgement of the Hon'ble Supreme Court  in the matter of  Roofit Industries Ltd., a need arose for clarifying the monetary penalty provisions in the securities laws, relating to cases prior to 2014.  In view of this, Board approved to send a proposal to the Central Government for amendments in the law.
+ 
+G. Establishment of SEBI Chair at National Institute of Securities Markets (NISM):
+ 
+The Board considered and approved the proposal for establishment of up to two "SEBI Chairs" at National Institute of Securities Markets (NISM) by contributing a certain corpus to NISM. NISM is a public trust established by SEBI.
+ 
+SEBI Chairs would provide research based policy inputs and would also help in increasing academic interest and awareness about the activities of SEBI.
+ 
+SEBI Chairs would also undertake activities of publishing research papers, policy notes, concept notes etc., in addition to delivering lectures and seminars.
+ 
+The selection of SEBI Chairs would be with Academic Council of NISM.
+ 
+H. Introduction of Pension Scheme under New Pension Scheme (NPS) for the permanent staff members of the Board
+SEBI Board decided to introduce New Pension Scheme (NPS) for the new employees joining SEBI's service hereafter. Existing employees will have a choice to either continue with the existing Contributory Provident Fund or to join the NPS.
+

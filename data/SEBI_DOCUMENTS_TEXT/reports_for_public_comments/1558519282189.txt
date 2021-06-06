@@ -1,0 +1,541 @@
+Discussion paper on review of buy-back of securities 
+
+ 
+
+ 
+
+1.  Objective 
+
+1.1. The objective of this discussion paper is to seek comments / views from the public 
+
+on suggestions relating to review of conditions for buy-back of securities. 
+
+2.  Background 
+
+2.1. The following regulatory provisions govern buy-back of securities (including equity 
+
+shares): 
+
+i. 
+
+The Companies Act, 2013 (previously The Companies Act, 1956) 
+
+ii.  Securities  and  Exchange  Board  of  India  (Buy-back  of  Securities) 
+
+Regulations,  2018  (previously  Securities  and  Exchange  Board  of  India 
+
+(Buy back of Securities) Regulations, 1998). 
+
+2.2. The  main  conditions  for  buy-back  of  securities,  wherein  financial  statements  of 
+
+the company are to be considered, are: 
+
+i. 
+
+The  buyback  offer  size  cannot  exceed  25%  of  the  aggregate  of  paid-up 
+
+capital and free reserves of the company; 
+
+ii. 
+
+The buy-back has to be approved through Board Resolution in all cases. 
+
+Further,  if  the  buyback  offer  size  is  more  than  10%,  approval  of 
+
+shareholders by way of special resolution is required. 
+
+iii. 
+
+The buy-back of securities is permitted only if the ratio of the aggregate of 
+
+secured and unsecured debts owed by the company after buy-back is not 
+
+more  than  twice  the  paid-up  capital  and free  reserves,  provided  that  if a 
+
+higher ratio has been specified under the Companies Act, 2013, the same 
+
+shall prevail. 
+
+Discussion Paper on review of buy-back of securities 
+
+Page 1 of 9 
+
+ 
+
+ 
+
+iv. 
+
+The  relevant  sections  of  The  Companies  Act,  2013  and  regulations  of 
+
+Securities  and  Exchange  Board  of  India  (Buy-back  of  Securities) 
+
+Regulations,  2018  (Buyback  Regulations)  have  been  brought  out  at 
+
+Annexure I.  
+
+2.3. SEBI has  taken  a  view  that  the financial  statements  would  be  considered  on a 
+
+conservative  basis  (i.e.  both  standalone  and  consolidated  basis)  for  evaluating 
+
+the  various  thresholds  /  conditions  of  buy-back  of  securities,  mainly  for  the 
+
+following reasons: 
+
+i. 
+
+The  consolidated  financial  statements  are  presented  by  a  parent  (also 
+
+known  as  holding  enterprise)  to  provide  financial  information  about  the 
+
+economic activities of its group. These statements are intended to present 
+
+financial  information  about  a  parent  and  its  subsidiaries)  as  a  single 
+
+economic entity to show the economic resources controlled by the group, 
+
+the  obligations  of  the  group  and  results  the  group  achieves  with  its 
+
+resources.1 
+
+ii. 
+
+There is a concern that much  of the activities of  the subsidiaries are not 
+
+available in the public domain. It is possible that the subsidiaries of a listed 
+
+company  would  be  having  large  amount  of  debts.  The  consolidated 
+
+financial statement allows the investors to get a complete overview of the 
+
+parent company.  
+
+iii. 
+
+The subsidiaries could be either a listed company or an unlisted company. 
+
+SEBI would have very limited role in case of unlisted subsidiaries.  
+
+iv. 
+
+Therefore, it would not be prudent to exclude the debts of the subsidiaries 
+
+and consider only the standalone financials while evaluating the size of the 
+
+buyback  or  the  debt  to  paid-up  capital  and  free  reserves  ratio  for  the 
+
+                                                           
+1 Accounting Standard (AS) 21 
+
+Discussion Paper on review of buy-back of securities 
+
+Page 2 of 9 
+
+ 
+
+purpose of meeting the conditions for buybacks.  
+
+ 
+
+v. 
+
+In  case  of  IPOs  also,  the  profitability  and  other  financial  statements  are 
+
+considered on a consolidated basis as per SEBI (ICDR) Regulations, 2018. 
+
+vi. 
+
+Further, the SEBI Committee on corporate governance (Kotak Committee) 
+
+was formed on June 2, 2017 under the Chairmanship of Mr. Uday Kotak 
+
+with  the  aim  of  improving  standards  of  corporate  governance  of  listed 
+
+companies in India. The Kotak Committee submitted its recommendations 
+
+in  October  2017.  The  Kotak  Committee  in  its  report  recommended  that 
+
+consolidated financial results should be made mandatory for listed entities. 
+
+The relevant extract from the Kotak Committee report is as follows: 
+
+“Consolidated  financial  results:  Currently,  the  Companies  Act  and  SEBI 
+
+LODR  Regulations  mandate  the  submission  of  consolidated  financial 
+
+statements  by  a  listed  entity  every  financial  year.  However,  SEBI  LODR 
+
+Regulations do not mandate that a listed entity submit consolidated financial 
+
+results on a quarterly basis. In the interest of greater transparency at the 
+
+group level, it is recommended that that disclosure of consolidated financial 
+
+statements should be made mandatory for all listed entities on a quarterly 
+
+basis. It is also clarified that standalone results shall continue to be required 
+
+to be published. The Committee also believes that in due course, SEBI may, 
+
+based on experience gained, consider requiring only consolidated accounts 
+
+to be published.” 
+
+vii.  Accordingly,  SEBI  (Listing  Obligations  and  Disclosure  Requirements) 
+
+Regulations, 2015 have been amended and w.e.f. April 01, 2019, all the 
+
+listed companies having subsidiaries are required to submit quarterly/year-
+
+to-date consolidated financial results.  
+
+viii.  Considering  that  the  consolidated  financials  present  the  aggregate 
+
+information of the company/ group which is material for decision making, 
+
+Discussion Paper on review of buy-back of securities 
+
+Page 3 of 9 
+
+ 
+
+ 
+
+SEBI  believes  that  it  is  in  the  interest  of  investors  that  the  stipulated 
+
+thresholds/ conditions (mentioned at 2.2 above) are better evaluated based 
+
+on  standalone  as  well  as  consolidated  financials,  wherever  consolidated 
+
+financials are required to be prepared.  
+
+2.4. In the recent times, several issues have been raised with regard to considering 
+
+financial  statements  for  the  purpose  of  meeting  the  conditions  of  buybacks, 
+
+including the following: 
+
+i.  Section  68(2)(d)  of  The  Companies  Act,  2013  as  well  as  rules  made 
+
+thereunder  do  not  specifically  provide  for  consideration  of  standalone  or 
+
+consolidated financials for determining the requirement of debt to capital & 
+
+free reserves ratio.  
+
+ii. 
+
+The subsidiaries of a company could be Non-Banking Financial Companies 
+
+(NBFCs),  Housing  Finance  Companies  (HFCs)  and 
+
+Infrastructure 
+
+Companies. Such subsidiaries that would be having higher debts because 
+
+of  the  nature  of  their  businesses  in  which  they  operate.  For  example, 
+
+Reserve Bank of India (RBI) allows leverage of 7:1 for non-deposit-taking 
+
+NBFCs (NBFCs-ND) with assets less than Rs. 500 crores. 
+
+3.  Issue  
+
+3.1. Whether SEBI should consider a different approach if the subsidiaries of a listed 
+
+company proposing buybacks are NBFCs, HFCs and Infrastructure companies? 
+
+4.  Proposal 
+
+4.1. Ministry  of  Corporate Affairs  (MCA)  has  vide  notification dated  March  10, 2016 
+
+already  permitted  government  companies  that  carry  on  Non-banking  Finance 
+
+Institution activities and Housing Finance activities coming out with buy-backs to 
+
+Discussion Paper on review of buy-back of securities 
+
+Page 4 of 9 
+
+ 
+
+ 
+
+have a debt to capital and free reserves ratio post buy-back of its shares of not 
+
+more than 6:1.  
+
+ 
+
+4.2. The  proviso  to  Regulation  4(ii)  of  Buyback  Regulations  already  provides  that  – 
+
+“Provided  that  if  a  higher  ratio  of  the  debt  to  capital  and  free  reserves  for  the 
+
+company  has  been  notified  under  the  Companies  Act,  2013,  the  same  shall 
+
+prevail.” Therefore, debt to capital and free reserves ratio of 6:1 is applicable for 
+
+such government companies coming out with buyback in terms of Companies Act, 
+
+2013 and Buyback Regulations.  
+
+ 
+
+4.3.  It is being argued that similar approach could be considered if the subsidiaries of 
+
+a listed company coming out with buy-back are NBFCs, HFCs and Infrastructure 
+
+companies.  
+
+ 
+
+4.4. The Primary Markets Advisory Committee (PMAC) of SEBI discussed the issue 
+
+and suggested the following approach with respect to meeting conditions for buy-
+
+back for companies having NBFCs and HFCs as subsidiaries: 
+
+i.  Post  buyback  debt  to  capital  and  free  reserves  ratio  of  2:1  (except  for 
+
+companies for which higher ratio of the debt to capital and free reserves for the 
+
+company has been notified under the Companies Act, 2013) to be considered 
+
+on  consolidated  basis,  excluding  subsidiaries  only  if  the  subsidiaries  are 
+
+regulated and have issuances with AAA ratings; 
+
+ii.  Such  subsidiaries  should  have  debt  to  equity  ratio  of  not  more  than  5:1  on 
+
+standalone basis. 
+
+4.5. Further,  PMAC  suggested  that  infrastructure  companies  are  not  separately 
+
+regulated and have better use of money and therefore no such exclusion may be 
+
+considered for infrastructure companies. 
+
+ 
+
+Discussion Paper on review of buy-back of securities 
+
+Page 5 of 9 
+
+ 
+5.  Public comments  
+
+ 
+
+5.1. Comments from public are invited on the above proposal in the following format: 
+
+Name of entity / person 
+
+Sr. No. 
+
+Reference Para of the 
+
+Suggestion 
+
+/ 
+
+Rationale 
+
+discussion paper 
+
+Comments 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The comments may be sent by email to buyback@sebi.gov.in or sent by post at 
+
+the following address latest by June 12, 2019: 
+
+ 
+
+Mr. Rajesh Gujjar 
+
+General Manager 
+
+Corporation Finance Department 
+
+Securities and Exchange Board of India 
+
+SEBI Bhavan 
+
+Plot No. C4-A, "G" Block 
+
+Bandra Kurla Complex 
+
+Bandra (East), Mumbai - 400 051 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Discussion Paper on review of buy-back of securities 
+
+Page 6 of 9 
+
+ 
+
+Annexure - I 
+
+1.  The Companies Act, 2013 
+
+ 
+
+Sections  68  -  70  of  The  Companies  Act,  2013  are  relevant  for  buy-back  of  securities. 
+
+Section 68 is on power of company to purchase its own securities. Section 68(2) provides 
+
+several conditions that have to be met for buy-back of securities including requirements 
+
+for Board Resolution and Special Resolution (if applicable), Buy-back Offer size and post 
+
+buy-back ratio of debt to paid up capital and free reserves.  
+
+The relevant provisions of Section 68(2) are as follows: 
+
+(2) No company shall purchase its own  shares or other specified securities under sub-
+
+section (1), unless – 
+
+…… 
+
+(b) a special resolution has been passed at a general meeting of the company authorising 
+
+the buy-back: 
+
+Provided that nothing contained in this clause shall apply to a case where— 
+
+(i) 
+
+the buy-back is, ten per cent. or less of the total paid-up equity capital and 
+
+free reserves of the company; and 
+
+(ii) 
+
+such buy-back has been authorised by the Board by means of a resolution 
+
+passed at its meeting; 
+
+(c) the buy-back is twenty-five per cent. or less of the aggregate of paid-up capital and 
+
+free reserves of the company: 
+
+Provided that in respect of the buy-back of equity shares in any financial year, the 
+
+reference to twenty-five per cent. in this clause shall be construed with respect to its total 
+
+paid-up equity capital in that financial year; 
+
+Discussion Paper on review of buy-back of securities 
+
+Page 7 of 9 
+
+ 
+(d) the ratio of the aggregate of secured and unsecured debts owed by the company after 
+
+ 
+
+buy-back is not more than twice the paid-up capital and its free reserves: 
+
+Provided that the Central Government may, by order, notify a higher ratio of the 
+
+debt to capital and free reserves for a class or classes of companies. 
+
+2.  SEBI (Buy-back of Securities) Regulations, 2018 
+
+The relevant sections of The Companies Act, 2018 have been incorporated in the SEBI 
+
+(Buy-back of Securities) Regulations, 2018 (“Buyback Regulations”). The conditions and 
+
+requirements  for  buy-back  of  shares  and  specified  securities  have  been  provided  in 
+
+Regulation 4 of Buyback Regulations.  
+
+Regulation 4(i) of Buyback Regulations requires that: 
+
+(i) 
+
+The  maximum  limit  of  any  buy-back  shall  be  twenty-five  per  cent  or  less  of  the 
+
+aggregate of paid-up capital and free reserves of the company: 
+
+Explanation: In respect of the buy-back of equity shares in any financial year, the 
+
+reference to twenty-five per cent in this regulation shall be construed with respect 
+
+to its total paid-up equity capital in that financial year; 
+
+Regulation 4(ii) of Buyback Regulations requires that: 
+
+(ii) 
+
+The ratio of the aggregate of secured and unsecured debts owed by the company 
+
+after buy-back shall not be more than twice the paid-up capital and free reserves. 
+
+Provided that if a higher ratio of the debt to capital and free reserves for the 
+
+company has been notified under the Companies Act, 2013, the same shall prevail. 
+
+Further, Regulation 5 of Buy-back Regulations provides for general compliance and filing 
+
+requirements for buy-backs. Regulation 5(i) of Buyback Regulations requires that: 
+
+Discussion Paper on review of buy-back of securities 
+
+Page 8 of 9 
+
+ 
+(i) The company shall not authorise any buy-back (whether by way of tender offer or from 
+
+ 
+
+open market or odd lot) unless: 
+
+a) The buy-back is authorised by the company's articles; 
+
+b) A special resolution has been passed at a general meeting of the company authorising 
+
+the buy-back: 
+
+Provided that nothing contained in this clause shall apply to a case where the buy-
+
+back is, ten per cent or less of the total paid-up equity capital and free reserves of the 
+
+company; and such buy-back has been authorised by the board of directors by means of 
+
+a resolution passed at its meeting. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Discussion Paper on review of buy-back of securities 
+
+Page 9 of 9 
+
+

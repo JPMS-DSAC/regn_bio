@@ -1,0 +1,901 @@
+Report submitted by Committee on Review of Regulations and Relevant Circulars pertaining to Market Infrastructure Institutions (MIIs)  To solicit the comments/views from public on suggestions pertaining to second report submitted by the Committee. Background A discussion paper on review of regulations and relevant  circulars pertaining to Market Infrastructure Institutions (MIIs) was placed on SEBI website on February 22, 2017, for seeking public comments. Subsequently, SEBI constituted a Committee under the Chairmanship of Shri R. Gandhi, Former Deputy Governor, Reserve Bank of India, on October 16, 2017, to review the existing framework of MIIs. The Committee submitted its report thereon March 26, 2018. The recommendations so made are under active examination of SEBI.  In the meantime, the terms of reference of the Gandhi Committee were expanded to include the desirability of classifying certain Market Intermediaries as MIIs and assess the possibility of extending the extant framework to such MIIs. On this aspect, the   Committee has submitted its second report on April 25, 2018. The same is being hosted on the SEBI website for public comments.  Public Comments  Comments from public are invited on proposal contained in the above report and  the same should reach SEBI latest by May 19, 2018 in the following format:  Name of entity/ person/ intermediary/ organization: __________________ Sr.No. Recommendation of  Committee Comments/ suggestions Rationale          The comments may be sent by email to rgcpart2@sebi.gov.in or alternatively a hard copy of the same may be sent to the following address-  General Manager Division of Supervision & Registration-1 Market Intermediaries Supervision and Regulation Department  Securities and Exchange Board of India 1st Floor, B wing, Mittal Court Nariman Point, Mumbai-400021      Report of the  Committee on Review of Regulations and Relevant Circulars pertaining to Market Infrastructure Institutions (MIIs)  Part-2    25/04/2018               April 25, 2018 Shri Ajay Tyagi  Chairman  Securities and Exchange Board of India  Mumbai   Dear Sir,   Report of the Committee to review Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2012, Depositories & Participants Regulations and relevant Circulars pertaining to Market Infrastructure Institutions (MIIs) We have immense pleasure in submitting Part 2 of the Report of the Committee to review Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2012, Depositories & Participants Regulations and relevant Circulars pertaining to Market Infrastructure Institutions (MIIs), appointed by you.   The report has examined the various issues with regard to the terms of reference on desirability of classifying certain Market Intermediaries as MIIs and assess the possibility of extending the extant framework to such MIIs. Accordingly this part is presented reflecting the Committee’s considered recommendations.  The Committee has benefitted immensely from the sagacity and expertise of the esteemed members of the Committee.  We sincerely thank you for entrusting this responsibility to us.   With regards   Yours Sincerely,    R. Gandhi         G Anantharaman Chairman         Member Committee to review MII Regulations  Leo Puri     Gopal Naik    Nagendraa Parakh  Member    Member   Member     TABLE OF CONTENTS   Sr. No.  Contents  Page. No. 1. The Committee and Terms of Reference 1 2. Approach of the Committee 3 3. Introduction 5 4. Guiding principles - Deliberations, Rationale & Key Recommendations 6  A. Credit Rating Agencies (CRAs) 7 B. Registrar to an Issue & Share Transfer Agent (RTAs)  10 C. Debenture Trustee (DT)  13       THE COMMITTEE AND TERMS OF REFERENCE 
+
+1.  The  Securities  and  Exchange  Board  of  India  constituted  a  Committee  under  the 
+
+Chairmanship  of  Shri  R.  Gandhi,  Former  Deputy  Governor,  Reserve  Bank  of  India  to 
+
+review  the  regulations  and  relevant  circulars  pertaining  to  Market  Infrastructure 
+
+Institutions (MIls). The other members of the Committee were:  
+
+ 
+1.1. Shri G. Anantharaman, Former Whole Time Member, SEBI  
+
+1.2. Shri Leo Puri, Managing Director, UTI AMC Ltd  
+
+1.3. Prof. Gopal Naik, Professor, IIM Bangalore  
+
+1.4. Shri Nagendraa Parakh, Executive Director, SEBI  
+
+ 
+
+2.  Under 
+
+the 
+
+terms  of  reference, 
+
+the  Committee  needed 
+
+to  review  and  make 
+
+recommendations on the following issues:  
+
+ 
+
+2.1  Overall  assessment/adequacy  of  existing  MIIs’  framework  and  identify  areas  for 
+
+review  in  the  Securities  Contracts  (Regulation)  (Stock  exchanges  and  Clearing 
+
+Corporations)  Regulations,  2012  (SECC  Regulations)  (recognition,  ownership, 
+
+governance,  shareholding,  net  worth  and  others),  Depositories  and  Participants 
+
+Regulations, 1996 (D&P Regulations) and relevant circulars thereto.  
+
+ 
+
+2.2  Identifying areas for continuous improvement of systems, procedures and practices 
+
+and make recommendations thereof.  
+
+ 
+
+2.3  Addressing  suggestions/comments  of  public  received  as  part  of  the  consultation 
+
+process.  
+
+ 
+
+2.4  Desirability  of  classifying  certain  Market  Intermediaries  as  MIIs  and  assess  the 
+
+possibility of extending the extant framework to such MIIs.  
+
+ 
+
+The Committee has submitted Part-I of the report to SEBI on March 26, 2018. Terms of 
+
+reference no. 2.4 is covered in Part 2 of the instant report and the same has been done 
+
+ 
+
+1 | P a g e  
+
+after  reviewing  Securities  and  Exchange Board  of  India  (SEBI)  Act,  1992,  SEBI  (Credit 
+
+Rating  Agencies)  Regulations,  1999,  SEBI  (Registrar  to  an  Issue  and  Share  Transfer 
+
+Agent)  Regulations, 1993, SEBI  (Debenture  Trustee)  Regulations,  1993,    SEBI  (Listing 
+
+Obligations and Disclosure Requirements) Regulations, 2015, Report of the Bimal Jalan 
+
+Committee  on  'Review  of  Ownership  and  Governance  of  Market  Infrastructure 
+
+Institutions', etc. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 | P a g e  
+
+APPROACH OF THE COMMITTEE 
+
+Background 
+
+1.  Stock  exchanges,  Depositories  and  Clearing  Corporations  are  collectively  referred  to as 
+
+securities Market Infrastructure Institutions (MIIs). Literally, the term ‘infrastructure’ would 
+
+mean  the  basic,  underlying  framework  or  features  of  a  system;  and  the  term  ‘market 
+
+infrastructure’ denotes such fundamental facilities and systems serving this market. Well-
+
+functioning MIIs have a positive effect on society like any other infrastructure institutions. 
+
+These institutions are systemically important for the country’s financial development and 
+
+serve as the infrastructure necessary for the securities market. 
+
+ 
+
+2.  In  Indian  milieu,  there  are  other  financial  market  intermediaries  who  provide  services  to 
+
+the  market  which  may  be  in  the  nature  of  public  utilities,  viz.  Credit  Rating  Agencies 
+
+(CRA), Registrar to an Issue and Share Transfer Agent (RTA), Debenture Trustee (DT). 
+
+Certain  characteristics  of  these  intermediaries  such  as  size,  concentration,  high  market 
+
+dependence  on  their  services,  etc.  make  them  systemically  important.    Therefore,  while 
+
+these entities are systemically important institutions, the committee was asked to examine 
+
+whether these institutions can be called Market Infrastructure Institutions. 
+
+ 
+
+3.  To  deliberate  upon  the  same,  a  meeting  of  the  committee  with  certain  market 
+
+intermediaries (CRAs, RTAs & DTs) was held on April 05, 2018.  Each set of intermediary 
+
+gave  a  presentation  respectively  to  the  committee  which  was  followed  by  Question-
+
+Answer session. In their presentation, they have compared the extant framework for MIIs 
+
+and  its  applicability  to  their  structure  and  operations.  Subsequently  the  committee  met 
+
+again on April 12, April 18, and April 25, 2018 to examine and deliberate on the existing 
+
+regulations  governing 
+
+the  abovementioned  market 
+
+intermediaries  and  proposed 
+
+framework. 
+
+ 
+
+4.  The  Committee  took  note  of  trends  in  ownership  and  governance  of  these  market 
+
+intermediaries,  compared 
+
+them  with 
+
+the 
+
+internationally  prevailing  practices  and 
+
+processes. The  Committee has benefitted from  such  a  comparative  study  in formulating 
+
+its  approach  for  the  assessment  and  adequacy  of  applicability  of  framework  of  MIIs  to 
+
+CRAs, RTAs and DTs. 
+
+ 
+
+3 | P a g e  
+
+ 
+
+5.  Thus,  while  framing  the  recommendations,  the  Committee  has  taken  into  consideration 
+
+the  views  expressed  by  various  market  participants  and  best  practices  across 
+
+jurisdictions. The recommendation of the Committee has been brought out herein below.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+4 | P a g e  
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+INTRODUCTION 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+CRAs provide investors with information regarding the creditworthiness of an instrument 
+
+issued  by  an  entity  which  may  be  one  of  the  factors  investors  rely  upon  while  making 
+
+investment decisions. CRAs help measure the quantitative and qualitative risks of these 
+
+entities  and  allow  investors  to  make  wiser  decisions  by  benefiting  from  the  skills  of 
+
+professional  risk  assessment  carried  out  by  these  agencies.  While  they  do  not  handle 
+
+funds  &  securities  of  investors  directly  but  their  inputs  make  investors  take  appropriate 
+
+decision to invest in the market.  
+
+ 
+
+RTAs  maintain  detailed  records  of  both  the  financial  and  non-financial  transactions 
+
+carried by investors in Mutual Funds, shares etc. These agencies act as a single-window 
+
+system  for  investors  with  respect  to  their  processes  of  transfer  and  redemption  of 
+
+securities. This provides investors with a simplified method to receive forms of their fund 
+
+houses. This  also helps  complete  their  transactions,  and  even  receive  a  record of  their 
+
+account statements. While fund houses can also provide such information, an  RTA is a 
+
+one-stop contact for all investors' needs on various schemes and investments.  
+
+ 
+
+The  Debenture  Trustee  is  an  intermediary  between  the  issuer  of  debentures  and  the 
+
+holders  of  debentures.  DT  plays  a  vital  role  of  ensuring  the  protection  of  interest  of 
+
+debenture  holders  and  adequate  asset  cover.  In  terms  of  DT  Regulations,  a  company 
+
+cannot issue debentures unless it has appointed a DT. The DT has the onus to resolve 
+
+the grievances of the debenture holders. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 | P a g e  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GUIDING PRINCIPLES- Deliberations, Rationale & Key Recommendations 
+
+The issue of whether Credit Rating Agencies, Registrar to an Issue and Share Transfer 
+
+Agents  and  Debenture  Trustees  are  MIIs  was  discussed  by  the  Committee  in  light  of 
+
+criteria  of  MIIs,  viz.,  Essential  Facility  Doctrine,  Networks,  Economies  of  Scale,  Sunk 
+
+Cost and Natural Monopoly.  
+
+1.  Essential  facility  doctrine:  A  commonly  accepted  attribute  of  infrastructure 
+
+institutions is that the goods or services they produce are essential in some manner. 
+
+Committee felt that this feature is met by CRAs to some extent.  
+
+2.  Networks: Four key characteristics of network industries have been identified which 
+
+distinguish them from other types of markets viz. consumption externalities, switching 
+
+costs  and  lock-in,  complementarity,  compatibility  and  standards  and  significant 
+
+economies  of  scale  in  production.  Committee  felt  that  this  characteristic  is  not  very 
+
+conspicuous in DTs, RTAs and moderately evident in CRAs. 
+
+3.  Economies of Scale: Economies of scale occur when the average cost of producing 
+
+a good or service declines with the number of units produced. Committee was of the 
+
+opinion that this characteristic is relevant only to RTAs.  
+
+4.  Sunk  Costs:  Committee  felt  that  this  characteristic  is  not  applicable  to  any  of  the 
+
+intermediaries CRAs, DTs or RTAs. 
+
+5.  “Natural”  Monopoly:  Committee  felt  that  in  respect  of  these  intermediaries  near 
+
+oligopolistic situation prevails. 
+
+ 
+
+The Committee, based on the presentations made by the market intermediaries, felt that 
+
+these  intermediaries  do  not  meet  majority  of  the  criteria  of  MIIs.  However,  certain 
+
+characteristics  such  as  size,  concentration,  high  dependence  of  investors  on  their 
+
+services, market share, etc. make them significantly important. Therefore, the Committee 
+
+felt  that  they  may  not  be  considered  systemically  important,  however,  the  Committee 
+
+deliberated  on  whether  these  intermediaries  may  be  subjected  to  higher  regulatory 
+
+requirement  in  terms  of  ownership,  governance  and  certain  additional  standards  of 
+
+essential accountability as they are significantly important, and in absence of the same, 
+
+whether they pose risk to the market integrity.  
+
+ 
+
+6 | P a g e  
+
+A. Credit Rating Agencies (CRAs) 
+
+ 
+
+The Rationale:  
+
+The  services  offered  by  CRAs  are  essential.  The  issuer  companies  are  required  by 
+
+regulations to get their instrument rated by CRAs. There is an inherent conflict of interest 
+
+in  the  structure  and  operations  of  CRAs,  i.e.,  CRA  rates  the  instruments  issued  by  the 
+
+issuer company and gets paid for the same by the issuer. It is seen that in some CRAs, 
+
+the ownership is concentrated, i.e., majority of the shares are held by one institution. The 
+
+Committee is of the view that CRAs attain a level of significance due to reliance placed 
+
+by investors on the ratings given by CRAs to the investment decisions and monitoring. 
+
+ 
+
+Regulatory Framework:  
+
+As  per  the  current  regulatory  framework,  a  CRA  can  be  promoted  by  public  financial 
+
+institution,  scheduled  commercial  bank,  foreign  bank,  foreign  CRA  or  a  body-corporate 
+
+having  a  continuous  net-worth  of  Rupees  100  crore  for  previous  five  years.  Further,  a 
+
+CRA  has  to  have  a  minimum  net-worth  of  Rupees  5  crore.  CRAs  submit  their  Internal 
+
+Audit Reports to SEBI on half yearly basis.  CRAs undergo on-site inspection on periodic 
+
+basis.  
+
+ 
+
+Ownership:  
+
+Internationally,  most  of  the  CRAs  are  promoted  by  Foreign  Investment  Management 
+
+Company.  However,  it  is  seen  that  some  of  them  are  listed  and  widely  held.  For 
+
+instance, S&P Global Inc. and Moody's Corporation are listed and highest percentage of 
+
+shareholding  is  7.97%  and  12.92%  respectively.  They  have  independent  directors  on 
+
+their Board. 
+
+ 
+
+The  current  ownership  structures  of  CRAs  in  India  was  looked  into  by  the  Committee. 
+
+Their  shares  are  mainly  held  by  individual  shareholders,  corporate  bodies,  foreign 
+
+investors,  foreign  Credit  Rating  Agencies,  Mutual  Funds,  Financial  Institutions/  Banks, 
+
+Trusts, etc. The CRAs having significant market share are listed and widely held. 
+
+ 
+
+ 
+
+7 | P a g e  
+
+The  Committee  was  also  made  aware  of  some  of  the  recent  decisions  taken  by  SEBI 
+
+Board in the Board meeting dated December 28, 2017, inter alia, in respect of Enhanced 
+
+Eligibility  Requirements  for  CRAs  in  terms  of  increased  net-worth  requirements, 
+
+minimum promoter holding of 26% and lock-in period of 3 years, eligibility requirements 
+
+of  the  foreign  CRA  to  promote  a  CRA  in  India;  and  also  in  respect  of  Restriction  on 
+
+Crossholdings  wherein  no  CRA  directly  or  indirectly,  shall  hold  10%  or  more  of 
+
+shareholding and/ or voting rights in any other CRA or have representation on the Board 
+
+of any other CRA, etc.  
+
+ 
+
+Recommendations:  
+
+In  light  of  the  recent  developments,  the  Committee  felt  that  it  may  not  be  desirable  to 
+
+prescribe any additional ownership norms for CRAs at this stage. 
+
+ 
+
+Governance:  
+
+In the US, the CRAs do have independent directors on their Board. In the Indian context, 
+
+current governance practices followed by CRAs were examined by the Committee. It is 
+
+noted  that  a  few  CRAs  have  Independent  Directors  on  their  Board;  some  have 
+
+Independent Members in the rating Committee; yet others have external members and / 
+
+or internal members not associated with the same case.  
+
+ 
+
+The Committee deliberated on whether there is a need to change the structure of Rating 
+
+Committee of CRA. Committee also deliberated on appointing  Independent Members in 
+
+majority  on  the  Rating  Committee  of  CRAs.  It  is  observed  that  though  different  Rating 
+
+Committee structures are prevalent among CRAs, nothing adverse has been reportedly 
+
+noticed. Each CRA carries credibility and accountability of its rating with the users and in 
+
+the  market.  Therefore,  it  is  felt  that  it  would  not  be  presently  desirable  to  stipulate 
+
+additional 
+
+norms 
+
+on 
+
+composition 
+
+of 
+
+CRA’s 
+
+Rating 
+
+Committee. 
+
+ 
+
+The Committee was made aware of the Consultation Paper on Review of the Regulatory 
+
+Framework for Credit Rating Agencies (CRAs) which, inter alia, included a proposal that 
+
+all  cases  of  appeal  by  issuers  against  the  rating  assigned  to  their  instruments  by  the 
+
+CRA shall be reviewed by a separate Appeal Committee which shall be different from the 
+
+ 
+
+8 | P a g e  
+
+Rating Committee that had initially assigned the rating, and shall consist of a majority of 
+
+Independent Members.  
+
+ 
+
+Recommendations:  
+
+The Committee deliberated on the aforementioned proposal and recommended that the 
+
+‘Appeal Committee’ shall be renamed as ‘Review Committee’, as the word Appeal has a 
+
+legal  connotation  to  it  and  further,  that  the  Review  Committee  shall  also  have 
+
+independent members. 
+
+ 
+
+The  Committee  also  deliberated  on  possibility  of  mandating  the  presence  of  Public 
+
+Interest  Directors  (PID)  in  the  Board  of  CRAs  as  they  satisfy  the  ‘Essential  Facility 
+
+Doctrine’  and  ‘Public  Utility’  criteria.  However,  the  committee  felt  that  the  changed 
+
+regulatory requirement for CRAs are sufficient since prominent CRAs are either  listed or 
+
+are Public Limited Companies and have to comply with the appointment of Independent 
+
+Directors in terms of  LODR requirements or Companies Act respectively, the presence 
+
+of PID on the Board of CRAs may not be insisted upon.  
+
+ 
+
+Further, the Committee has deliberated on the suggestions received vide email from one 
+
+of  the  CRAs  with  respect  to  the  issues  of  rotation  of  CRAs,  compulsory  dual  rating, 
+
+independence  of  credit  evaluation  of  resolution  plans  of  stressed  accounts  and 
+
+regulation  of  the  functioning  of  rating  advisors.  The  Committee  considered  these 
+
+suggestions  and  felt  that  these  are  beyond  the  scope  of  the  committee  and  SEBI  may 
+
+look into the same on merit. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 | P a g e  
+
+B. Registrar to an Issue and Share Transfer Agent (RTAs) 
+
+The Rationale:  
+
+Some  RTAs  due  to  their  sheer  size  and  concentration  can  be  said  to  have  attained  a 
+
+high level of significance. In India, for example, there only 2 RTAs (Karvy Computershare 
+
+Pvt.  Ltd.  and  Computer  Age  Management  Services  Pvt.  Ltd.)  that  service  90%  of  the 
+
+Mutual Fund folios. One of these RTAs (i.e. Karvy) also has approx. 40% market share 
+
+in  corporate  folios.  Further,  RTAs  possess  huge  quantity  of  financial  information, 
+
+customer  details,  etc.  and  protecting  all  such  sensitive  data  requires  the  businesses  to 
+
+adhere  to  specific  principles.  Any  breach  in  data  protection  can  be  costly  and  would 
+
+affect the customers in a large way. 
+
+Regulatory Framework:  
+
+As  per  the  extant  regulations,  any  person  can  obtain  RTA  registration,  inter  alia,  by 
+
+fulfilling the conditions of registrations, net-worth and fit & proper criteria. The Registrar 
+
+to  an  Issue  and  Share  Transfer  Agent  sends    the    periodic  report    to    SEBI  on    half  
+
+yearly  basis    within    three    months    of    the    expiry    of    the    half    year.  Every  RTA 
+
+undergoes  onsite  inspection  on  periodic  basis.  Further,  they  are  monitored  through  the 
+
+mechanism of Risk Based Supervision. SEBI has formulated Cyber Security and Cyber 
+
+Resilience  framework  and  has  also  issued  guidelines  to  strengthen  and  raise  industry 
+
+standards for RTAs. 
+
+ 
+
+Ownership:  
+
+Globally,  the  regulators  have  emphasized  on  regulating  the  RTA  function  rather  than 
+
+regulating  the  RTA  entities.  This  has  allowed  regulators  worldwide  to  achieve  their 
+
+objective  of  investor  protection  irrespective  of  the  ownership  of  RTA  entity.  Further, 
+
+internationally, it is seen there is no explicit restriction on ownership pattern of the RTA. 
+
+Presently,  in  India,  RTAs  are  owned  by  individual  shareholders,  Corporate  Bodies, 
+
+Foreign  Investors,  Financial  Institutions/Banks, Trusts,  etc. There are  no  restrictions on 
+
+concentration  of  ownership  or  lock-in  period  for  promoters  however,  there  is  a 
+
+requirement  of  taking  prior  approval  for  change  in  control  and  the  new  owner  has  to 
+
+fulfill, inter-alia, fit and proper requirements.  
+
+ 
+
+10 | P a g e  
+
+The  Committee  deliberated  whether  the  ownership  norms  can  be  enhanced  for  RTAs 
+
+that  attain  significant  market  share  and  size.  SEBI  vide  circular  dated  September  08, 
+
+2017  already  has  defined  Qualified  RTAs  (QRTAs)  as  “RTAs servicing  more  than  two 
+
+crore folios”, the Committee recommends that concentration of business in a few hands 
+
+may  not  be  desirable  in  the  interest  of  investors  and  therefore,  once  RTA  crosses  the 
+
+threshold  to  become  QRTA,  enhanced  ownership  norms  may  be  made  applicable  to 
+
+them. 
+
+ 
+
+Recommendation: 
+
+Considering  the  likely  impact  of  their  services  as  they  hold  sensitive  financial  data  of 
+
+large  number  of  investors,  the  Committee  recommends  that  the  QRTAs  should  either 
+
+have a dispersed ownership or should be owned by Regulated Entities or entities in the 
+
+business  of  RTA. The  Committee  is  of  the  view  that  in  the  long  run,  it  is desirable  that 
+
+QRTAs  be  widely  held  and  get  listed.  The  term  Regulated  Entities  means  the  entities 
+
+regulated  by  any  Financial  Sector  Regulator  worldwide  where  the  Regulator  is  a 
+
+signatory to IOSCO’s MMoU or a signatory of bilateral MoU with the SEBI, and which is 
+
+not identified in the public statement of Financial Action Task Force (FATF). Accordingly, 
+
+the Committee recommends that- 
+
+i.  The Regulated Entities and those who are in the business of RTA, may be free 
+
+to hold ownership up to 100%,  
+
+ii.  Entities other than Regulated Entities cannot hold more than 49% collectively 
+
+and 15% individually.  
+
+iii.  The ownership requirements may not be applicable if the QRTA is an in-house 
+
+entity or who performs the function exclusively for one entity only.  
+
+In view of the Doctrine of Reasonable Expectation, on becoming QRTA, it may be given 
+
+sufficient time, preferably 5 years, to achieve such ownership structure. The QRTA shall 
+
+submit  a  plan  to  SEBI  with  the  intent  to  achieve  dispersed  ownership  over  a  period  of 
+
+time.   
+
+ 
+
+ 
+
+ 
+
+11 | P a g e  
+
+Governance:  
+
+Insofar  as  Governance  norms  are  concerned,  the  Committee  noted  that  there  is  no 
+
+specific  requirement  under  SEBI  regulations/  circulars  or  under  Companies  Act  of 
+
+appointing  Independent  Directors  on  the  Board  of  the  RTA  if  it  is  a  private  limited 
+
+company.  However,  in  case  of  listed  and  unlisted  public  companies,  norms  for 
+
+appointment  of  Independent  Directors  are  governed  by  LODR  and  Companies  Act 
+
+respectively. 
+
+ 
+
+Recommendation: 
+
+The Committee felt that considering the significant role of QRTAs being played in public 
+
+interest, it is desirable that the governing structure of QRTA should keep the interest of 
+
+investors  in  mind  while  framing  their  business  strategies.  Therefore,  composition  of 
+
+Board should have representation of PID and accordingly, the Committee recommends 
+
+the  appointment  of  Public  Interest  Directors  on  the  Board  of  the  QRTA.  In  view  of  the 
+
+same, if Chairperson of the Board is a Non-Executive Director, then the QRTA shall have 
+
+at least one-third of the Board of Directors as PIDs; and where the QRTA does not have 
+
+a regular non-executive chairperson, then QRTA shall have at least half of the Board of 
+
+Directors as PIDs. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 | P a g e  
+
+ 
+
+C. Debenture Trustee (DTs) 
+
+As  per  the  current  regulatory  framework,  a  person  can  apply  for  the  registration  as  a 
+
+Debenture Trustee if it is a scheduled bank carrying on commercial activity; or a public 
+
+financial institution or an insurance company; or body corporate. Debenture Trustee has 
+
+to  maintain  a  net-worth  of  Rupees  Two  crore.  Some  of  the  DTs  are  subsidiaries  of 
+
+banks. The Boards of DTs are constituted of very experienced professionals and  senior 
+
+members  of  the  industry.  Some  DTs  also  have  50%  independent  directors  on  Board. 
+
+Every Debenture Trustee is required to submit periodic reports to SEBI on a half yearly 
+
+basis and undergoes on-site inspection on a periodic basis.  
+
+ 
+
+The Committee noted that there are quite a few challenges before the DTs in performing 
+
+their obligations and duties as debenture trustee and the function of debenture trustee is 
+
+still evolving. Therefore, the Committee  is of the view that the  review of  ownership and 
+
+governance  of  DTs  is not  the  immediate  priority;  rather  the  role and  obligations of  DTs 
+
+need a comprehensive review separately. 
+
+ 
+
+ 
+
+************ 
+
+13 | P a g e  
+
+

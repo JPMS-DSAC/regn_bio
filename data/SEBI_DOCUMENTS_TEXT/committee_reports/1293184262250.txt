@@ -1,0 +1,2446 @@
+Discussion paper on Margin Trading and Securities Lending 
+
+ 
+
+[This discussion paper on Margin Trading and Securities Lending has been prepared 
+by SEBI  based on  the proposals received from the market participants.  Contents of 
+this paper do not necessarily reflect the views of SEBI.  Paper is placed on the web 
+site  to  invite  public  comments,  which  would  help  SEBI  in  formulating  a  scheme  to 
+meet the interest of all stakeholders in the market.. The comments on this paper may 
+please be forwarded to Shri P. K. Bindlish at pkb@sebi.gov.in, within 21 days]  
+ 
+Structure of the paper 
+ 
+This paper is broadly divided into six parts as follows: 
+ 
+Part 1 – This part captures the basic nuances of the margin trading. Topics covered 
+include the theoretical perspective, value drivers, mechanism and risks in the margin 
+trading. 
+ 
+Part  2  –  This  part  deals  with  the  present  status  of  funds  lending  and  borrowing 
+mechanism  and  describes  the  number  of  alternative  business  models  for  the 
+purpose. 
+ 
+Part  3  –  This  elaborates  on  the  present  structure  of  the  securities  lending  and 
+proposes number of business models to infuse efficiency in the system. As the client 
+trades  on  the  borrowed  securities  by  paying  margin,  this  may  be  treated  as  the 
+margin trading on the sell side. 
+ 
+Part 4 – This part deals with the concept of Securities Banking, originating from one 
+of  the  proposed  business  models  for  the  securities  lending  and  borrowing.  This 
+proposal  is  expected  to  unlock  the  values  from  the  idle  holdings  of  the  small 
+investors. 
+ 
+Part 5 – This part deals with the creation of an independent organization for margin 
+trading and securities lending. 
+ 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+1 
+
+Part 6 – Conclusion. 
+
+ 
+
+Part 1  - Theoretical Perspective 
+
+ 
+1.1 Meaning of margin trading 
+ 
+Normally investors trade in securities on the strength of owned funds and securities. 
+However,  sometimes,  based  on  their  outlook  about  the  market  and  some  specific 
+securities in particular, they intend to trade beyond owned resources. This trading in 
+the  securities  is  supported  by  the  borrowing facility for funds and securities, in the 
+system. While trading with the borrowed resources, investors are required to put in a 
+margin (good faith deposits) with the intermediaries and this phenomenon is called 
+margin  trading.  This  margin  is  usually  a  percent  of  the  value  of  the  proposed 
+transaction. 
+ 
+Therefore, broadly speaking, margin trading is a trading in the securities market with 
+the borrowed resources – funds or securities. As margin trading is providing a facility 
+to investors to trade in the market with the margin money, it essentially is a leverage 
+mechanism. Globally, in all the major markets the facility of the margin trading and 
+securities  lending  is  available  to  the  investors.  However,  it  would  be  pertinent  to 
+mention here that the business models for the margin trading and securities lending 
+are different in different markets. 
+ 
+1.2 Value drivers of the margin trading  
+ 
+Prices  of  the  securities  in  the  market  are  determined  by  the  free  interaction  of 
+demand and supply forces. Anytime availability of the buyer and seller in the system 
+constitutes the essential ingredient of the Capital Market; it ensures the liquidity in 
+the system, which is the hall mark of success of any market across the globe. 
+ 
+As  margin  trading  can  be  done  on  both  the  sides  i.e.  buy  and  sell,  it  helps  in 
+increasing demand for and supply of securities and funds in the market, which in turn 
+contributes towards better liquidity and smooth price formation of securities. Further, 
+with contracting settlement cycles, it becomes important to provide for this facility of 
+2 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+supporting buy and sell sides of trades for smooth settlement i.e. to reduce the fail 
+trades.  
+ 
+Margin  trading  also  facilitates  the  price  alignment  across  the  markets  through 
+facilitating the arbitrage. For instance, in case of the mis-pricing between cash and 
+derivatives  market,  margin  trading  supports  the  transactions  in  the  cash  market  to 
+facilitate the arbitrage between the cash and derivatives, which results in the better 
+price alignment across the markets.  
+ 
+Margin trading also facilitates the hedging. For instance, if an investor holds say call 
+options (right to buy the stocks) to  be exercised only after a  specific period of time, 
+he may sell the securities in the cash market on margin trading and hedge his  risk. 
+Similarly, the shares under say ESOP to be available to the employees after a while 
+may be hedged with the help of the margin trading. 
+ 
+Further,  margin  trading  and  trading  of  derivatives  generally  complement  rolling 
+settlement,  where the time for round about transactions is limited to a day.  This  is 
+why  the  markets  having  the  rolling  settlements  generally  provide  for  the  facility  of 
+margin  trading.  This  is  important  for  the  efficiency  of  the  market  and  smooth 
+settlement in the rolling settlement environment. 
+ 
+Physical settlement in the derivatives specially  American  Options  also  requires  the 
+availability of the funds and the securities for the smooth settlement of the trades. 
+Funds  and  securities  lending  and  borrowing  become  critically  important  in  the 
+environment when the derivatives are settled through the physical delivery. 
+ 
+Based  on  the  above  points,  it  may  be  said  that  the  margin  trading  performs  the 
+important  function  in  any  securities  market  and  improves  the  efficiency  and 
+effectiveness of the whole system.  
+ 
+Here, it may be slightly out of context but important to see what has happened to the 
+market liquidity after the introduction of the rolling settlement. General perception is 
+that post rolling settlement period, the liquidity in the  market has declined. But, the 
+data available does not substantiate that. Actual data on trading after the compulsory 
+3 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+Turnover (Rs. 
+cr.) 
+1,805 
+67,287 
+295,403 
+370,193 
+414,474 
+839,052 
+1,339,510 
+513,167 
+399,804 
+
+1,391 
+39,912 
+135,561 
+135,685 
+165,327 
+242,704 
+329,536 
+278,408 
+241,111 
+
+3 
+66 
+264 
+381 
+546 
+984 
+1,676 
+1,753 
+1,571 
+
+Nov 94-Mar 95 
+1995-96  
+1996-97 
+1997-98 
+1998-99 
+1999-00 
+2000-01 
+2001-02 
+Apr-Nov 02 
+Source: NSENEWS, a publication of NSE. 
+ 
+Trading Volume on NSE 
+ 
+
+rolling settlement, collected from BSE and NSE is produced below. It clearly reveals 
+that though there has been a sharp decline in volumes in terms of value, the decline 
+in terms of quantity traded is not so sharp. The decline in value is because of low 
+prices of stocks. In fact, the number of trades shows a continuous increasing trend 
+over the period of time.  
+ 
+Turnover on NSE 
+Month/Year  No. of Trades 
+
+(Lakh) 
+
+Traded Quantity 
+(Lakh) 
+
+                  
+
+Month 
+
+No. of 
+Trades 
+
+ Traded 
+
+Qty. 
+(lakh) 
+
+Equity market 
+Turnover      
+
+(Rs. 
+crore) 
+
+Market Cap  
+at the end 
+of Month     
+    (Rs. 
+crore) 
+
+Turnover 
+
+Ratio 
+
+Turnover  
+
+(Rs. 
+crore) 
+
+ NIFTY Securities 
+
+Market Cap 
+at the end 
+of Month       
+  (Rs. crore) 
+
+Turnover 
+
+Ratio 
+
+Apr-2001  11440710 
+May-2001  14143457 
+Jun-2001 
+13306788 
+9909773 
+Jul-2001 
+Aug-2001  11164148 
+Sep-2001 
+13536286 
+Oct-2001 
+14081043 
+Nov-2001  15280764 
+Dec-2001  17665128 
+Jan-2002 
+21312086 
+Feb-2002 
+17736623 
+Mar-2002  15745460 
+Apr-2002  20111875 
+May-2002  21658826 
+18924464 
+Jun-2002 
+Jul-2002 
+21141771 
+Aug-2002  19142025 
+Sep-2002  18468365 
+Oct-2002 
+20112540 
+Nov-2002  17493882 
+Source: NSE 
+
+20782 
+25715 
+22336 
+13142 
+15937 
+17342 
+19799 
+25349 
+31777 
+34384 
+28552 
+23294 
+28798 
+35303 
+38519 
+36821 
+26000 
+25581 
+26458 
+23631 
+
+35616 
+48329 
+42783 
+27228 
+29417 
+35323 
+35326 
+42132 
+54468 
+68719 
+49564 
+44262 
+53320 
+54979 
+44241 
+51398 
+46113 
+46499 
+51902 
+51351 
+
+653720 
+592437 
+569797 
+574260 
+575242 
+509105 
+535846 
+581386 
+552908 
+563683 
+621523 
+636861 
+649551 
+631609 
+659991 
+608643 
+632618 
+599603 
+606788 
+645388 
+
+0.05 
+0.08 
+0.08 
+0.05 
+0.05 
+0.07 
+0.07 
+0.07 
+0.10 
+0.12 
+0.08 
+0.07 
+0.08 
+0.09 
+0.07 
+0.08 
+0.07 
+0.08 
+0.09 
+0.08 
+
+21436 
+26235 
+23762 
+17322 
+18564 
+24286 
+23518 
+26411 
+27236 
+45065 
+33351 
+27340 
+26428 
+26174 
+21544 
+26994 
+24059 
+23658 
+31965 
+37576 
+
+295655 
+306923 
+291840 
+282608 
+281798 
+245484 
+261567 
+287190 
+285007 
+332606 
+353262 
+349402 
+336422 
+324757 
+333921 
+302703 
+319178 
+304188 
+307084 
+338951 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+0.07 
+0.09 
+0.08 
+0.06 
+0.07 
+0.10 
+0.09 
+0.09 
+0.10 
+0.14 
+0.09 
+0.08 
+0.08 
+0.08 
+0.06 
+0.09 
+0.08 
+0.08 
+0.10 
+0.11 
+
+4 
+
+Equity Market 
+
+Sensex Securities 
+
+No. of 
+Trades 
+
+Traded 
+Qty. 
+(lakh) 
+
+Turnover    
+
+(Rs. 
+crore) 
+
+Turnover 
+
+Ratio 
+
+Turnover    
+(Rs. crore 
+
+Turnover 
+
+Ratio 
+
+Market Cap 
+at the end 
+of Month        
+(Rs. crore) 
+567729 
+595897 
+553231 
+531576 
+523036 
+456263 
+481851 
+535724 
+532329 
+544397 
+596716 
+612224 
+625587 
+605065 
+637753 
+584042 
+605303 
+570273 
+563750 
+601289 
+
+23876 
+31868 
+25451 
+17244 
+17444 
+21593 
+21922 
+24407 
+30033 
+39169 
+28572 
+25719 
+28874 
+28138 
+23320 
+26724 
+23780 
+24410 
+27641 
+25981 
+
+0.04 
+0.05 
+0.05 
+0.03 
+0.03 
+0.05 
+0.05 
+0.05 
+0.06 
+0.07 
+0.05 
+0.04 
+0.05 
+0.05 
+0.04 
+0.05 
+0.04 
+0.04 
+0.05 
+0.04 
+
+Market Cap 
+at the end 
+of Month      
+(Rs. crore) 
+261791 
+270179 
+257151 
+248692 
+244849 
+212152 
+225564 
+248080 
+246231 
+262341 
+282257 
+274902 
+265240 
+251615 
+261191 
+240507 
+256093 
+240811 
+241799 
+264717 
+
+14099 
+15616 
+11387 
+9084 
+9393 
+13296 
+13335 
+12883 
+12497 
+19337 
+15333 
+12419 
+9883 
+8232 
+8018 
+9622 
+9062 
+9749 
+11940 
+13612 
+
+0.05 
+0.06 
+0.04 
+0.04 
+0.04 
+0.06 
+0.06 
+0.05 
+0.05 
+0.07 
+0.05 
+0.05 
+0.04 
+0.03 
+0.03 
+0.04 
+0.04 
+0.04 
+0.05 
+0.05 
+
+ 
+Trading Volume on BSE 
+ 
+
+  
+
+Month 
+
+Apr-01 
+May-01 
+Jun-01 
+Jul-01 
+Aug-01 
+Sep-01 
+Oct-01 
+Nov-01 
+Dec-01 
+Jan-02 
+Feb-02 
+Mar-02 
+Apr-02 
+May-02 
+Jun-02 
+Jul-02 
+Aug-02 
+Sep-02 
+Oct-02 
+Nov-02 
+
+9535480 
+11964108 
+10478112 
+7799330 
+7908335 
+9521364 
+9979539 
+10726640 
+12046834 
+14381717 
+12146847 
+11233249 
+13500499 
+13928734 
+12916446 
+14486621 
+11504651 
+10611048 
+11366169 
+9624894 
+
+140 
+181 
+154 
+99 
+102 
+110 
+122 
+167 
+193 
+210 
+183 
+160 
+183 
+218 
+271 
+284 
+156 
+156 
+158 
+136 
+
+Source: BSE 
+ 
+1.3 Motivation behind the margin trading 
+ 
+The margin trading enables a client to purchase / sell more and thus increases his 
+profits  if  the  prices  move  on  expected  lines.  It  also  amplifies  his  loss  if  the  prices 
+behave  contrary  to  his  expectations.  This  amplification  effect  emanating  from 
+leveraged nature of the transaction is the main motivation for a client to undertake 
+margin trading. For example, an investor purchases Rs. 100 worth of securities, with 
+his own money of Rs. 50 (margin of 50%) and borrowed money of Rs. 50. If the price 
+of the security goes up by 10%, he will earn a return of 20%. Conversely, if the price 
+falls by 10%, he will lose 20%. Thus margin trading exposes a client to the potential 
+of higher gains / losses. 
+ 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+5 
+
+The Table 1 illustrates the amplification effect of margin trading. It assumes that the 
+tenure  of  loan  as  well  as  the  investment  is  one  year.  Two  clients  (I  and  II)  have 
+invested  same  amount  of  Rs.  100  in  a  securities  portfolio,  which  provide  similar 
+returns. While client I has used his own funds only, the client II has used margin debt 
+to the extent of 50%. If the portfolio returns 20%, the client I earns a return of 20%, 
+while the client II earns 25%. When the portfolio returns 10%, client I and II earn 10% 
+and 5% respectively. The client II gets higher return / suffers higher loss than client I 
+because he has financed his portfolio partially by margin debt. Further, if the portfolio 
+return exceeds the margin rate (interest cost), the client gets a higher return than the 
+portfolio return. If, however, portfolio return is lower than the margin rate, the client 
+gets  a  return  lower  than  the  portfolio  return.  Thus,  it  is  profitable  if  portfolio  return 
+exceeds the margin rate. If portfolio return is lower than the margin rate, it is a losing 
+proposition to do margin trading.  
+ 
+Table 1: Profitability: Margin trading Vs. Self financing  
+Particulars 
+
+(%) 
+
+from 
+
+Self finance (Rs.) 
+15% Debt (Rs.) 
+Total (Rs.) 
+Return 
+portfolio 
+Profits (Rs.) 
+Interest payable (Rs.) 
+Net profit (Rs.) 
+Return (%) to client  
+ 
+As  mentioned  earlier,  margin  trading  amplifies  the  return  in  either  direction.  Any 
+change in portfolio return causes a much higher change in the return for the client. 
+Table  2  illustrates  this.  If  the  extent  of  margin  is  50%,  and  the  value  of  portfolio 
+depreciates by 50%, the client loses 100% of his own funds. The workings in table 2 
+ignore  interest  cost  which  is  usually  high  and  compounded  on  daily  basis.  This 
+
+20 
+7.5 
+12.5 
+25.0 
+
+10 
+7.5 
+2.5 
+5.0 
+
+20 
+0 
+20 
+20 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+6 
+
+Client II 
+Return 
+(20%) 
+50 
+50 
+100 
+20 
+
+Return 
+(10%) 
+50 
+50 
+100 
+10 
+
+Client I 
+Return 
+(20%) 
+100 
+0 
+100 
+20 
+
+Return 
+(10%) 
+100 
+0 
+100 
+10 
+
+10 
+0 
+10 
+10 
+
+Margin 
+Debt 
+
+Cost  of 
+Portfolio 
+
+Value of 
+Portfolio 
+
+means, if interest is taken into account, the client loses more than his investment. 
+The value of portfolio will not fall below Rs. 50, as the lender would dispose off the 
+securities at Rs. 50. If the value of portfolio changes by 10%, the return for the client 
+changes by 20%. Change in value of portfolio by 20% causes 40% change in return 
+for the client. Thus, if the portfolio consists of volatile securities, the client runs higher 
+risk. 
+ 
+Table 2: Impact of changes in prices on profitability 
+(Amount in Rs.) 
+Own 
+funds 
+(Margin) 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+ 
+ 
+Further,  the  client  gets  different  returns  from  the  same  portfolio  if  the  portfolio  is 
+financed by different levels of margin. Assume that a client purchases Rs. 100 worth 
+of securities which returns 20%. If the purchase is financed by own money of Rs. 50 
+and  borrowed  money  of  Rs.  50  (margin  of  50%),  the  client  would  earn  30%. 
+However, if margins were 25% and 75%, the client would earn returns of 50% and 
+23.3% respectively. Table 3 makes it clear that the lower the margin, higher is the 
+amplification effect. Hence lower the margin or higher the amount of funds borrowed, 
+the greater is the risk to client.  
+
+Surplus 
+repayment 
+debt 
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+
+-100 
+-80 
+-60 
+-40 
+-20 
+0 
+20 
+40 
+60 
+80 
+100 
+
+100 
+100 
+100 
+100 
+100 
+100 
+100 
+100 
+100 
+100 
+100 
+
+50 
+60 
+70 
+80 
+90 
+100 
+110 
+120 
+130 
+140 
+150 
+
+-50 
+-40 
+-30 
+-20 
+-10 
+0 
+10 
+20 
+30 
+40 
+50 
+
+after 
+of 
+
+Profit 
+Loss 
+
+/ 
+
+Return 
+(%) 
+
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+50 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+7 
+
+It  clear,  thus,  that  the  more  volatile  the  price  of  the  securities  and  the  lower  the 
+extent of margin, greater is the amplification effect, and there is possibility of making 
+larger gains or losses.  
+ 
+Table 3: Impact of different levels of margins on profitability 
+Particulars 
+
+Extent of Margin 
+25% 
+25 
+75 
+100 
+20 
+20 
+7.5 
+
+50% 
+50 
+50 
+100 
+20 
+20 
+5 
+
+15 
+30 
+
+75% 
+75 
+25 
+100 
+20 
+20 
+2.5 
+
+17.5 
+23.3 
+
+payable 
+
+to  client 
+
+12.5 
+50 
+
+Self finance (Rs.) 
+10% loan (Rs.) 
+Total (Rs.) 
+Return (%) 
+Profit (Rs.) 
+Interest 
+(Rs.) 
+Net profit (Rs.) 
+Return 
+(%) 
+ 
+ 
+The  lender  has  also  a  motivation.  He  earns  interest  on  the  funds  at  a  rate  higher 
+than the bank rate. In case the lender happens to be the broker, which is often the 
+case, he also earns higher brokerage on higher volumes of trades, that too, without 
+any additional risk. 
+ 
+The market is benefited in terms of better price discovery and higher liquidity which 
+help in better allocation of resources.  
+ 
+As discussed in case of the buy side, on the sell side also, one may see the impact 
+of the margin trading. In other words, an investor may sell the securities short and 
+borrow to deliver in the market based on a certain perspective.  Following  example 
+would elaborate on the concept: 
+
+Let's say that an investor thinks that company ABC has a poor outlook in the coming 
+months. Right now the stock is trading at say Rs. 100, but investors sees it trading at 
+8 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+much lower than this price in the near future. Therefore, he decides to do a short sell 
+on  this  share.  He  may  do  so.  But  because  the  cash  market  is  settling  trades  on 
+rolling settlement basis, investor would need to borrow the securities and deliver to 
+the  market.  Let  us  assume  he  does  so.  After  say  15  days,  when  the  market  goes 
+down as per his expectations, he would buy the stock from the market and return to 
+the lender. His cash flows would be as follows:   
+
+Day 1 
+ 
+Borrowed and Short Sold 1,000 shares of stock ABC at Rs. 
+100 
+
+Rs. 1,00,000 
+
+Day 15 
+Bought and Returned 1,000 shares of stock ABC at Rs. 90  Rs. 90,000 
+Rs. 10,000 
+Gross profit* 
+
+ 
+
+*Excluding  brokerage,  borrowing  costs  and  other  incidental  expenses  in  the 
+transaction. 
+
+It  may  be  seen  that  the  gross  profit  in  the  deal  is  Rs.  10,  000.  Net  profit  from  the 
+transaction may be arrived at after the adjustment for the costs mentioned under the 
+* mark. It is apparent that the short selling  would be profitable only if the return on 
+the  stock  is  more  than  the  cost  involved  in  the  transaction.  In  other  words,  the 
+strategy  can  also  be  risky  because  there  is  no  guarantee  that  the  price  of  a  short 
+stock  would  drop.  If  the  price  goes  in  contrary  to  the  expectations  of  the  investor, 
+because he would still have to cover the short sale and return the securities, he may 
+incur substantial losses. 
+
+Further, as mentioned in case of the buy side margin trading, different margin levels 
+would result in the different cost structures for the clients and so the different returns. 
+
+Here,  it  would  be  pertinent  to  mention  that  the  motivation  behind  the  lender  of  the 
+securities  is  to  unlock  the  values  from  his  idle  securities.  He  is  just  lending  the 
+securities for a specific price (cost of borrowing the securities) to the borrower. It may 
+be  noted  that  all  the  corporate  benefits  declared  during  the  lending  period  would 
+belong  to  the  lender  and  borrower  would  have  no  right  whatsoever  on  these 
+corporate  benefits.  In  other  words,  the  securities  are  lent  to  the  borrowers  for  the 
+limited purpose of covering their position against the short sale in the market. 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+9 
+
+ 
+Having discussed the basics of the margin trading,  note now discusses  the specific 
+business models for funds and securities lending and borrowing mechanisms. Now, 
+paper takes up these two (funds and securities)  separately to fully  elaborate on the 
+concepts. 
+ 
+1.4 Mechanism of margin trading 
+ 
+It is necessary to understand the mechanism to fully appreciate the risks in margin 
+trading. In a typical transaction, a client interested to do margin trading is required to 
+sign  an  agreement  with  the  lender  of  funds  (usually  the  broker)  to  formalise  the 
+arrangement for margin trading. The agreement provides for the margin rate and the 
+extent of margin. The margin rate is the prime lending rate / bank rate plus a mark up 
+depending on exposure in the margin account. The interest is normally compounded 
+on daily basis. The agreement provides for two types of margins, namely the initial 
+margin  and  the  maintenance  margin.  The  initial  margin  is  the  portion  of  purchase 
+value which the client deposits with lender of funds before the actual purchase. After 
+the  agreement,  the  client  opens  a  margin  account  and  deposits  initial  margin 
+amount, based on which the lender executes purchase order on behalf of the client. 
+The  securities  so  purchased  are  kept  as  collateral  with  the  lender.  In  addition  to 
+initial  margin,  the  client  is  required  to  maintain  a  certain  minimum  equity  in  the 
+margin account. The equity is nothing but the net value of portfolio, that is, the value 
+of portfolio less the margin debt. This equity should be a certain percentage of the 
+market  value  of  securities.  This  percentage  is  called  maintenance  margin.  If  the 
+equity is less than the maintenance margin, the client is called upon to bring in the 
+shortfall. For example, assume that the initial and maintenance margins are 50% and 
+25% respectively. A client has bought securities for Rs. 100. The price depreciates 
+by 40%. The value of portfolio reduces to Rs. 60. The equity becomes Rs. 10 (Rs. 60 
+– Rs. 50 (debt)), which is less than Rs. 15 (25% of the value of securities). The client 
+is required to bring in Rs. 5. When the equity in the margin account falls below the 
+maintenance margin, the lender makes a margin call. If margin call is not met, the 
+lender can sell the collateral, partially or fully, to increase the equity. However, when 
+price falls to an extent that the equity becomes zero, the lender, in stead of making 
+margin call, usually sells off the securities to recover the debt. If he waits and prices 
+10 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+fall  further,  he  would  not  be  able  to  recover  the  debt  from  collateral.  In  the  above 
+example,  the  lender  would  make  margin  call,  when  the  portfolio  depreciates  by 
+33.33%. If margin call is not met or if the equity reduces to Rs. 0, the lender sells off 
+the collateral. If the minimum and maintenance margins were 50%, margin call will 
+be  made  with  smallest  depreciation  in  the  value  of  portfolio.  The  lender  is  not 
+generally required make a margin call or notify the client that the equity has reduced 
+below  minimum.  It  is  for  the  client  to  find  out  for  him  self  and  make  payment 
+accordingly. The client is required to repay the debt and interest as per agreement 
+and till the full repayment is made, the collateral remains with the lender. In case he 
+wants to sell the securities earlier, the proceeds go to the lender first to the extent of 
+debt.  
+ 
+The  Graph  1  presents  the  equity  when  the  value  of  portfolio  appreciates  and 
+depreciates and the time for margin call, assuming initial and maintenance margin of 
+50%  and  25%  respectively.  When  portfolio  appreciates,  there  is  no  need  to  make 
+margin call. There is also no need for margin call for depreciations upto 33.33%. If 
+portfolio depreciated by 33.33% - 50%, the margins calls are made. If it depreciates 
+by more than 50%, no margin calls are made and the collaterals are disposed off.  
+ 
+Graph 1:  Equity and Margin Call under Margin Trading    
+
+.
+
+s
+R
+n
+
+ 
+
+i
+ 
+
+l
+
+e
+u
+a
+V
+
+m
+a
+r
+g
+I
+n
+
+c
+a
+l
+l
+
+200
+
+150
+
+100
+
+50
+
+0
+
+-50 -40 -30 -20 -10 0 10 20 30 40 50
+
+Appreciation/Depreciation of Portfolio (%)
+
+Debt
+
+Portfolio Value
+
+Equity
+
+ 
+Table 4 presents the extent of depreciation required in a portfolio to warrant margin 
+call. For example, if the initial margin is 60% and maintenance margin is 20%, the 
+
+ 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+11 
+
+Margin 
+
+0.55 
+ 
+
+0.50 
+ 
+ 
+
+margin call will be made only when the portfolio depreciates by more than 50%. This 
+is  given  by  the  formula:  (Initial  Margin  –  Maintenance  Margin)  /  (1  –  Maintenance 
+Margin)  *  100.  Lower  the  maintenance  margin,  given  initial  margin,  higher  is  the 
+depreciation  in  value  of  portfolio  required  for  margin  call.  Similarly,  given  the 
+maintenance margin, higher the initial margin, higher is the depreciation in value of 
+portfolio required for margin call. 
+ 
+Table 4: Level of Depreciation in Portfolio required for Margin Call  
+Maintenance 
+Initial Margin 
+0.15 
+0.20 
+0.25 
+0.35 
+0.30 
+0.40 
+0.45 
+0.60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11.11  0.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20.00  10.00  0.00 
+ 
+ 
+ 
+ 
+ 
+ 
+27.27  18.18  9.09 
+0.00 
+ 
+ 
+ 
+ 
+ 
+33.33  25.00  16.67  8.33 
+0.00 
+ 
+ 
+ 
+ 
+38.46  30.77  23.08  15.38  7.69 
+0.00 
+ 
+ 
+ 
+42.86  35.71  28.57  21.43  14.29  7.14 
+0.00 
+ 
+ 
+46.67  40.00  33.33  26.67  20.00  13.33  6.67 
+0.00 
+ 
+50.00  43.75  37.50  31.25  25.00  18.75  12.50  6.25 
+0.00 
+52.94  47.06  41.18  35.29  29.41  23.53  17.65  11.76  5.88 
+0.00 
+55.56  50.00  44.44  38.89  33.33  27.78  22.22  16.67  11.11  5.56 
+57.89  52.63  47.37  42.11  36.84  31.58  26.32  21.05  15.79  10.53  5.26  0.00
+
+0.10  0.05
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.00 
+
+0.60 
+0.55 
+0.50 
+0.45 
+0.40 
+0.35 
+0.30 
+0.25 
+0.20 
+0.15 
+0.10 
+0.05 
+ 
+1.5 Risks for Client 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Leveraged portfolio generates an amplified effect for each rupee of investment. The 
+higher the leverage, the higher is the amplification effect. Since markets can move in 
+either direction, leveraging becomes a double edged sword.  A client is likely to lose 
+lots  of  money  or  gains  lots  of  money  when  he  transacts  on  margin.   This 
+amplification  effect  can  be  devastating  when  stock  prices  go  down.  Further  the 
+increase in risk associated with margin trading is compounded by the riskiness of the 
+portfolio. A  portfolio  becomes  risky  if  the  prices  of  constituent  securities  are  highly 
+volatile or the portfolio is concentrated in a very small number of assets. Leveraging 
+a  risky  portfolio  may  be  asking  for  trouble  at  times.   A  client  generally  faces  the 
+following risks: 
+
+(i) 
+(ii) 
+
+The client is exposed to potential of higher loss. 
+In falling market, the client may lose more money than he has invested. 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+12 
+
+(iii) 
+
+(iv) 
+
+(v) 
+
+If  the  value  of  securities  purchased  on  margin  falls,  the  client  has  to 
+provide additional funds to avoid forced sale of the securities. 
+The  client  may  have  to  deposit  additional  cash  on  short  notice  to  cover 
+market losses.  
+The  lender  may  sell  some  or  all  of  the  securities  at  the  current  price 
+without consulting the client to pay off the debt to itself. The current price 
+may not be the best price at which investor would have liked to sell.  
+
+1.6 Risks for Lender 
+ 
+Generally brokers lend/arrange funds and securities for clients doing margin trading. 
+Some  markets  have  special  purpose  vehicles  which  lend  funds  /  securities.  The 
+requirement of initial margin, maintenance of margin, right to sell the collateral etc. 
+protect  the  lender. The lender, however, needs to follow prudent risk management 
+practices so as to ensure recovery of principal and interest and act swiftly to make 
+margin calls or sell the securities in time. In the event of loss to a client, the loss to 
+lender  is  limited  to  transaction  cost  that  he  would  incur  on  selling  the  collateral, 
+liquidity risk that he may not be able to sell the collateral and loss of interest on the 
+margin debt.  
+
+1.7 Risk for Market 
+
+ 
+
+If the lenders have risk management systems in place and act swiftly, they do not 
+carry any risk, except to the extent mentioned earlier paragraph. If they have no risk, 
+the  margin  trading  does  not  pose  any  risk  to  market.  Besides,  when  the  positions 
+taken  by  brokers  in  cash  /  derivatives  market  are  fully  secured  by  adequate 
+collateral,  their  involvement  in  margin  trading  as  lenders  do  not  affect  the  market 
+integrity at all.  
+
+ 
+However,  the  margin  trading  has  tendency  to  contribute  to  volatility  and  price 
+manipulation.  In  case  of  rising  market,  the  value  of  equity  in  the  margin  account 
+rises,  which  enables  a  client  to  take  still  larger  and  larger  positions.  This  fuels  a 
+continuous rise in prices. For example, a client holds a portfolio of Rs. 100, financed 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+13 
+
+by margin debt with initial and maintenance margin rates of 50%. Let us assume that 
+the  value  of  portfolio  increases  to  160.  The  value  of  equity,  thus,  increases  to 
+Rs.110, based on which the client can hold a portfolio of Rs.220. This would enable 
+him  to  buy  additional  securities  for  Rs.60.    In  case  of  falling  market,  the  lenders 
+liquidate positions to meet margin calls or to recover debt. This fuels a continuous 
+fall  in  prices.  This  accentuating  effect  of  margin  trading  is  controlled  by  securities 
+lending in case of rising market and by restrictions on short selling in case of falling 
+market.  
+ 
+1.8 US scenario 
+
+The  Federal  Reserve  Board  and  self-regulatory  organizations,  such  as  the  NYSE 
+and  NASD,  have  rules  that  govern  margin  trading.  Brokerage  firms  can  establish 
+their  own  requirements  as  long  as  they  are  at  least  as  restrictive  as  the  Federal 
+Reserve Board (FRB) and SRO rules. 
+
+Before  trading  on  margin,  the  NYSE  and  NASD,  for  example,  require  a  client  to 
+deposit with the broking firm a minimum of $2,000 or 100% of the purchase price, 
+whichever is less. This is known as the "minimum margin." According to Regulation T 
+of the FRB, the client may borrow up to 50% of the purchase price of securities and 
+the  client  has  to  bring  in  balance  50%,  which  is  called  ‘initial  margin’.  Some  firms 
+require  the  client  to  deposit  more  than  50%  of  the  purchase  price.  This  facility  is 
+available only for select securities. 
+
+After  the  client  has  bought  the  securities  on  margin,  the  NYSE  and  NASD  require 
+him to keep a minimum amount of equity in the margin account. The rules require 
+the  client  to  have  at  least  25%  of  the  total  market  value  of  the  securities  in  the 
+margin  account  at  all  times.  This  25%  is  called  the  "maintenance  margin."  In  fact, 
+many broking firms have higher maintenance requirements, typically between 30 to 
+40%, and sometimes higher depending on the type of stock purchased. 
+
+The SEC generally follows a hands-off approach. It does not prevent a broker from 
+engaging in any fund based activity. It only limits the aggregate indebtedness of a 
+broker towards all other persons to 1500% of its net capital.  
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+14 
+
+It may, however, be noted that Regulation T is issued by FRB under the Securities 
+Exchange Act, 1934 with the objective to regulate extensions of credit by brokers. It 
+does  not  preclude  any  SRO  or  the  broker  himself  from  imposing  additional 
+requirements. 
+ 
+
+Part 2 - margin trading – Funds lending and borrowing 
+
+ 
+
+2.1 Present status of margin trading 
+ 
+There was an apprehension that brokers would not be able to lend funds for margin 
+trading in view of provisions in the Securities Contracts (Regulation) Rules, 1957 as  
+the  Rules  do  not  permit  a  broker  to  take  up  any  fund  based  activity.  This  was 
+examined by SEBI in 1997 and a view was taken that a broker can not lend funds as 
+a regular business activity or lending of funds can not be his prime activity. However, 
+he can lend / borrow money if it is incidental to securities transactions. A clarification 
+in  this  regard  was  issued  in  1997.  In  view  of  this  clarification,  some  brokers  are 
+reportedly doing the margin trading. However, some brokers have sought clarification 
+whether  they  can  do  the  margin  trading.  It  is  assumed  that  the  brokers  who  are 
+undertaking the margin trading are following some standard laid down norms for the 
+purpose.  
+ 
+The market witnessed major reforms in 2001. The deferral products, such as MCFS, 
+ALBM, BLESS etc. were banned and compulsory rolling settlement on T+5 basis was 
+introduced in a big way in July 2001. The market participants apprehended that these 
+reforms may affect the market liquidity. It was, therefore, felt necessary to provide the 
+facility of margin trading in more explicit and organised way.  
+ 
+To  supplement  the  resources  of  the  brokers,  it  was  considered  necessary  to  make 
+available  a  line  of  credit  to  them  from  banks  for  margin  trading.    Based  on  the 
+recommendations of RBI-SEBI Standing Technical Committee, RBI issued guidelines 
+in  November  2001  in  this  regard.  It  provides  that  the  Board  of  each  bank  should 
+formulate  detailed  guidelines  for  lending  for  margin  trading  subject  to  the  following 
+parameters:  
+ 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+15 
+
+(i) The finance extended for margin trading should be within the overall ceiling of 5%, 
+prescribed for exposure to capital market.  
+ 
+(ii)  A  minimum  margin  of  40%  should  be  maintained  on  the  funds  lent  for  margin 
+trading.  The  bank  should  put  in  place  an  appropriate  system  for  monitoring  and 
+maintaining the margin of 40% on a regular basis.  
+ 
+(iii)  The  shares  purchased  with  margin  trading  should  be  in  dematerialised  mode, 
+under pledge to the lending bank.   
+ 
+(iv)  The  bank’s  Board  should  prescribe  necessary  safeguards  to  ensure  that  no 
+“nexus”  develops between inter-connected stock broking entities/stockbrokers and the 
+bank in respect of margin trading.  
+ 
+These guidelines are in continuation of  RBI’s general circular, which restricts loan to 
+an individuals against security of securities upto Rs. 10 lakh (Rs. 20 lakh for demat 
+securities). 
+ 
+Despite  these  enabling  provisions,  margin  trading  has  not  taken  off.  The  market 
+participants feel that the following are the bottlenecks: 
+
+ 
+
+a.  Though  RBI  has  issued  the  enabling  guidelines,  most  of  the  banks  have  yet  to 
+formulate their internal guidelines and design the systems to get into and manage 
+the margin trading. A few banks, who have these guidelines and systems in place, 
+have already reached the ceiling of 5%, permitted under RBI guidelines.  
+
+ 
+b.  Banks are not clear on various issues including how the collateral will be pledged 
+to the lending bank, how to avoid nexus or how to ensure proper end use of funds.  
+
+ 
+c.  The role of brokers under the margin trading guidelines of RBI is not quite clear.  
+ 
+d.  The limit of Rs. 10 lakh (Rs. 20 lakh for demat securities) on security of securities 
+
+for an individual discourages clients to get into margin trading in a big way.   
+
+ 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+16 
+
+e.  Most  brokers  are  not  sure  if  margin  trading  is  incidental  to  the  securities 
+
+transactions and that they are permitted to do so.  
+
+ 
+f.  The lending and borrowing of funds can be carried on by the entities, registered 
+under  the  Money  lenders  Act  only.  The  brokers  are  not  sure  whether  they  are 
+required  to  be  registered  under  the  Money  Lenders  Act  for  carrying  on  margin 
+trading. 
+
+ 
+2.2 Suggested Business Models 
+ 
+In view of the above discussion, it may be clear that margin trading is available in the 
+Indian  Capital  Market through the brokers or through the banking system. Further, 
+the existing structure of margin trading in the country is the Over the counter (OTC) 
+structure.  Market  believes  that  some  alternative  structures  for  the  margin  trading 
+may be explored, which ensure the following three things: 
+ 
+?  Transparency of the system. 
+?  Financial integrity of the system. 
+?  Level playing field with equal opportunity to all stake holders in the market.  
+ 
+Accordingly,  market  participants  have  suggested  a  variety  of  models  for  margin 
+trading. Some of them are produced below: 
+ 
+1.  Financing by the brokers. 
+2.  Financing by the clearing corporation/Exchange. 
+3.  Direct financing by the banks and financial institutions to the investors. 
+4.  Financing by the specialized institutions like “Limited purpose banks”. 
+ 
+Indeed, all the above business models are not exclusive of each other. There may 
+be a situation wherein the financing takes place from brokers and brokers in turn get 
+themselves financed from the banks and financial institutions.  
+ 
+2.3 Model 1 - Financing by the brokers. 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+17 
+
+ 
+Model  one  involves  brokers  as  the  prime  financer  to  their  clients  on  the  purchase 
+transactions.  This  is  a  business  model,  where  a  client  interested  in  margin  trading 
+signs an agreement with the broker. The agreement provides for the salient term of 
+the contract, which are bilaterally decided. This agreement broadly provides for the 
+margins,  collateral  and  the  rights  of  the  lender,  specially  in  case  of  default  by  the 
+client on the margin payments.  
+ 
+In this model, brokers finance the deals of the clients either with their own money or 
+the money arranged from some other sources. The credit risk is borne by the brokers 
+and  they  manage  their  risk  by  keeping  the  securities  received  from  the  purchase 
+transaction  of  clients,  as  collateral.  Further,  as  the  settlement  in  the  market  has 
+already taken place against the trade of the client, there is no settlement risk in the 
+system. This margin trading transaction is OTC transaction, which like all other OTC 
+deals, is not transparent and suffers from the inadequate transparency.  
+ 
+However,  this  model  provides  for  tremendous  trading  flexibility  to  both  the 
+intermediaries and the clients. It is assumed that the borrowing rates etc. would be 
+taken  care  of  by  the  competition  in  the  market.  Probably,  because  of  the  trading 
+flexibility only, this model is liked globally.  
+ 
+This model is the model followed by number of markets across the globe including 
+U.S. with certain pre-determined margin requirements. For instance, in U.S., brokers 
+can  finance  their  clients  with  minimum  50%  margin  requirement  i.e.  50%  of  the 
+purchase money has to come from the clients. Brokers, in fact, may demand more 
+from the clients depending on their risk perception.  
+ 
+Some market participants advocate that this model is most suitable and suggest that 
+the  issues  of  concern  in  the  model  may  be  addressed  through  issuance  of 
+efficacious guidelines on the subject. The guidelines proposed are the following: 
+ 
+a)   Model agreement to be entered into between the client and the broker. 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+18 
+
+Provisions  for  liquidation  of  collateral  in  case  of  failure  to  meet  the  margin 
+
+There  may  be  limits  on  the  financing  to  the  client  in  a  scrip  and  the  total 
+
+Selection  of  the  securities  for  margin  trading  –  the  securities  may  be  as 
+
+Minimum initial margin and margin call provisions – the minimum initial margin 
+b) 
+may  be  say  50  percent  and  the  margin  calls  may  be  made  at  minimum  say  30 
+percent.  
+c) 
+calls by the investors.  
+Disclosure  by  the  brokers  to  the  stock  exchanges  containing  the  details  of 
+d) 
+investors  and  securities  funded.  The  periodicity  of  such  disclosures  may  be  daily, 
+weekly  or  monthly.    Stock  exchanges  to  disseminate  the  gross  position  to  the 
+market. 
+e) 
+contained in BSE Sensex, Nifty 50 and BSE 100 etc.  
+f) 
+Total indebtedness of the broker may be linked to his networth. Further, there 
+may be limits for which market has proposed the range of debt to equity ratio from 
+2:1 to 5:1. In U.S., this limit is 15:1. In India, Primary Dealers in the Money market 
+have the limit of 6:1.   
+The amount to be lent by the broker also needs to be linked with the net-worth 
+g) 
+of  the  broker.  It  may  be  provided  that  the  total  lending  by  the  broker  would  not 
+exceed a multiple of the net-worth of the broker.  
+The broker should be permitted to borrow the funds for this purpose. The total 
+h) 
+borrowing should not grow beyond a multiple of the net-worth of the broker. These 
+borrowings may include all the borrowings made by the broker.  
+i) 
+portfolio. This would avoid the concentration scrip wise and investor wise.  
+For margin trading, one client should deal with only one broker. This may be 
+j)  
+implemented through the single client ID. Till then brokers may take the undertaking 
+from the clients that for the margin trading purpose, he is dealing with him only. 
+ 
+2.4 Model 2 - Financing by the clearing corporation/Exchange. 
+ 
+Second  model  involves  the  clearing  corporation/exchange  as  financer  of  the 
+purchase deals, on margin. It must be clear that the Clearing corporation/exchange 
+may  not  have  their  own  funds  and  just  be  an  intermediary  for  the  transaction 
+between the actual financer and the clients. In other words, funds would essentially 
+come  from  some  other  financer  say  banks  and  financial  institutions.  Clearing 
+19 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+be  more 
+
+financing 
+
+through 
+
+lend 
+
+the  money 
+
+to 
+
+this  case, 
+
+comfortable 
+
+lender  would 
+
+corporation/Exchange  is  made  intermediary  from  the  point  of  view  of  the  risk 
+management  from  mere  the  lending  entity.  The  idea  is  that  banks  and  financial 
+institutions  would 
+clearing 
+corporation/exchange  than  the  individual  brokers  or  their  clients,  direct.  In  these 
+cases, counterparty risk is borne by the clearing corporation/exchange.  
+ 
+It is argued that the banks are allowed by the RBI to finance the securities market 
+deals  on  the  margin  but  they  are  not  doing  it  because  of  their  discomfort  with  the 
+intermediaries  in  the  securities  market.  Further,  it  is  assumed  that  they  would  be 
+comfortable  financing  brokers  and  clients  through  clearing  corporation/  exchange. 
+This  business  model  needs the support from the  clearing  corporation/house  of  the 
+exchange and they must be willing to be an intermediary between the clients/brokers 
+and  the  financing  banks/  financial  institutions.  This  model  basically  bridges  a  gap 
+between the financers and the borrowers in the securities market. 
+ 
+the  exchange/  clearing 
+In 
+corporation/house of the exchange  and  exchange  in  turn  would  lend  money  to  the 
+brokers/clients through the online trading platform.  
+ 
+This  model  assumes  the  lending  of  the  funds  through  the  online  trading  platform 
+created  by  the  exchanges.  In  this  model,  all  demand  for  and  supply  of  funds  for 
+securities  transactions  would  consolidate  and  the  price  of  the  funds  would  be 
+discovered  by  the  system.  Any  body  and  every  body  including  banks  can  lend 
+money  through  this  platform  and  any  client  can  borrow  funds  from  this  platform 
+through a broker. This model automatically ensures better price discovery for funds 
+(lenders and borrowers get most competitive rates) and effortless disclosure for the 
+benefit of all market participants and risk management. Since the parties would be 
+with  anonymous  counterparties,  it  is  essential  that  the  clearing  corporation  retains 
+collateral on behalf of lenders and provides counter party guarantee. 
+ 
+The  Stock  Exchange,  Mumbai  has  proposed  a  model  on  the  above  lines.  It 
+envisages  that  the  buyers  of  securities  would  indicate  at  the  time  of  placing  buy 
+order for securities (limited to BSE-100) if it would be financed under margin trading. 
+The stock brokers, on their own behalf and on behalf of their clients, would indicate 
+20 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+to  BOLT  system  the  amount  of  finance  required  under  margin  trading  and  the 
+maximum  acceptable  interest  rate.  The  exchange  would  ascertain  the  amount 
+required for margin trading by all buyers on a daily basis and disclose the same to 
+market participants. The intending financiers, who are registered with the exchange 
+for this purpose, would make competitive offers to lend funds for margin trading by 
+indicating the quantity of funds, desired interest rate etc, through their brokers. The 
+best offers would be accepted upto total funds required in the system. Based on the 
+rates  of  various  accepted  offers,  a  weighted  average  rate  will  be  worked  out.  The 
+lender of the funds would get the actual interest rates indicated by them whereas the 
+borrowers would be charged the weighted average rate. The exchange would levy a 
+certain  mark  up  over  the  interest  rate  in  the  system  to  cover  administrative 
+expenses.  The  shares  against  which  finance  have  been  availed  of  would  be  kept 
+with  the  clearing  house.  The  accounts  of  the  lenders  would be debited or credited 
+directly by the exchange for the amounts borrowed from and repaid to them.  BSE 
+has proposed a risk management system comprising of security selection, 40% initial 
+margin, maintenance margin, concentration margin, exposure limits, financing limits, 
+collateral and a margin guarantee fund. 
+ 
+Alternative  to  this  model  may  be  that  the  exchange  would  provide  the  trading 
+platform  for  the  anonymous  borrowing  and  lending  of  funds.  This  is  variant  to  the 
+model described above because in this case, exchange/ clearing corporation would 
+just facilitate the trades.  
+ 
+There are also the views that the returns on the lending should not be linked to the 
+scrip  financed.  Further,  exchange  if  is  guaranteeing  the  trade,  should  do  it  from  a 
+separate settlement guarantee fund, created for the dedicated purpose of the  funds 
+lending and borrowing. 
+ 
+Sources  of  funds  to  the  market,  in  all  the  alternative  models  may  be  from  banks/ 
+financial institutions or private financers. There have been concerns on the funding 
+from the private financers in the market. Some market participants think that there 
+may  be  a  ceiling  on  the  lending  by  a  private  financer  to  the  market  as  a  whole, 
+irrespective  of  the  mode  of  the  financing  i.e.  direct  financing  to  the  clients  or 
+financing to the clients through the brokers. 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+21 
+
+ 
+2.5  Model  3  -  Direct  financing  by  the  banks  and  financial  institutions  to  the 
+investors. 
+ 
+The third model assumes that the banks and financial institutions would finance the 
+clients direct. As of now, as per the RBI directives, Banks may finance only through 
+the  brokers.  But,  as  mentioned  above,  Banks  are  not  at  all  active  on  the  margin 
+trading front.  
+ 
+Following is suggested by  the market participants on the RBI’s existing scheme on 
+margin trading: 
+ 
+1.  RBI needs to encourage banks to take up the activity. Market needs to appreciate 
+
+that the Securities Market and the Economy’s growth are tightly intertwined.  
+
+ 
+2.  RBI guidelines need to be clear on  how  to  avoid  nexus  between  interconnected 
+
+stock broking entities/stock brokers and the banks in respect of margin trading. 
+
+ 
+3.  The role of brokers under the margin trading guidelines of RBI may be made clear.  
+ 
+4.  The limit of Rs. 10 lakh (Rs. 20 lakh for demat securities) on security of securities 
+
+for an individuals may be increased. 
+
+ 
+5.  Margin level of 40% are too high and may be reduced to say 20% to encourage 
+
+the activity. 
+
+ 
+6.  At  present,  margin  financing  is  covered  within  the  5%  overall  ceiling  of  bank  for 
+exposure to the capital market. There is a need of apportioning some dedicated 
+percentage of the funds say 5% to the margin trading. 
+
+ 
+7.  Going  by  the  conservative  attitude  of  the  banks,  it  would  be  difficult  to  see  any 
+activity  in  the  market  without  bridging  a  gap  between  the  financers  (banks  and 
+financial institutions) and the financees. There is a need of some intermediary say 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+22 
+
+exchange/clearing corporation to carry out the risk containment measures. Model 
+two elaborated above does the same thing.  
+
+ 
+8.  Scheme  envisages  the  pledge  of  the  securities  in  favor  of  the  financing  bank. 
+Banks may be allowed to outsource the risk management without insisting of the 
+pledge  in  their  favor.  This  may  be  done  as  envisaged  in  the  proposed  second 
+model wherein the Clearing corporation/exchange would do the risk management. 
+
+ 
+2.6  Model 4 –  Financing by the specialized institutions like “Limited purpose 
+
+banks”. 
+
+ 
+Creation  of  the  special  bank  say  “limited  purpose bank  “  for  the  margin  trading  is 
+another  idea  to  give  a  fillip  to  the  margin  trading  activity.  This  assumes  that  a 
+dedicated entity can undertake the activity of financing the securities market trades.  
+ 
+It is felt that the dedicate bank may do things in an organized manner with available 
+resources.  People  interested  in  lending  the  funds  to  the  market  may  deposit  their 
+money with this limited purpose bank and borrowers may borrow from this bank. This 
+bank may finance the clients in number of alternative following ways: 
+ 
+?  Bank may finance the clients direct.  
+ 
+?  Bank may finance the clients through the brokers of the exchanges.  
+ 
+?  Bank may finance the  clients through the clearing corporation/exchange through 
+
+an on-line trading platform.  
+
+ 
+In  the  first  two  cases,  bank  would  manage  its  risk  itself.  But,  in  the  last  scenario, 
+exchange/clearing corporation would manage the risk for the bank. 
+ 
+Advantages of this model are many: 
+ 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+23 
+
+1.  It would be easy to track, who is financing in the market and to what extent. This 
+would  help avoid any nexus built up between the financers, brokers and issuer 
+companies.   
+
+ 
+2.  Total quantum of the financing would be known to the market at any point in time. 
+Limits on the financing to a client, scrip wise and total portfolio, would be easy to 
+impose and monitor.  
+
+ 
+3.  This would make the risk management effective. 
+ 
+4.  Audit trail would be easy to manage.  
+ 
+Only  issue  in  this  model  is  the  creation  of  a  fresh  infrastructure.  Building  a 
+nationwide  bank  would  require  both  money  and  time.  But,  that  may  be  navigated 
+with co-ordinated efforts of the market participants. Another opinion on the issue is 
+that the existing infrastructure of the banks/financial institutions/exchanges may be 
+leveraged on for the purpose.  
+ 
+This model is further dealt with in the part 5. 
+ 
+
+Part 3  - Securities lending and borrowing 
+
+ 
+Selling short on margin is the other dimension of the business. It has been argued by 
+the market that margin trading on both the buy and the sell sides should be in place 
+to  provide  the  equilibrium  and  efficient  price  discovery.  At  present,  securities 
+borrowing and lending facility is available in the market but market participants think 
+there are alternative ways to approach the securities lending in efficient and effective 
+manner.  Issues  covered  under  part  3  are  present  state  of  securities  lending  and 
+borrowing and alternative business models for the same.  
+ 
+3.1  Present state of Securities lending and borrowing 
+ 
+SEBI approved the Securities Lending Scheme, which came into existence on Feb. 
+6, 1997 and is called as SLS, 1997. According to the SLS, securities can be lent and 
+24 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+borrowed through an approved intermediary, which is duly registered with SEBI.  As 
+of  now,  there  are  eight  entities,  which  are  registered  with  SEBI  as  approved 
+intermediaries, under the SLS (list enclosed at annexure A). Borrowers and Lenders 
+do transact through these intermediaries as per the procedure laid down in the said 
+scheme. 
+ 
+It  is  important  to  describe  the  existing  business  model  of  these  approved 
+intermediaries. These intermediaries deal with the lenders and borrowers on one to 
+one  basis.  It  essentially  means  lenders  lend  the  securities  to  the  approved 
+intermediaries  and  they  in  turn  lend  them  to  the  counterparties  i.e.  borrowers.  Full 
+credit risk on the securities lent is born by the approved intermediaries. Therefore, in 
+a broader sense, in these transactions intermediaries provide full novation in lending 
+and  borrowing  transactions.    It  may  also  be  noted  that  the  existing  market  for  the 
+securities lending and borrowing is an over the counter market (OTC market). 
+
+ 
+
+As  these  approved  intermediaries  have  limited  geographical  reach,  facility  of 
+borrowing  and  lending  of  securities  is  not  available  to  the  widely  scattered  retail 
+segment  of  the  securities  market.  Limited  participation  in  the  securities  borrowing 
+and  lending  market  and  lack  of  competitive  forces  have  resulted  in  the  cost  of 
+borrowing  of  securities  being  exorbitantly  high,  which  renders  the  securities 
+borrowing transactions uneconomical.  
+ 
+It is felt in the market that there is an urgent need to redefine the existing securities 
+lending  and  borrowing  mechanism/  or  discover  the  alternative  business  models  to 
+ensure wider participation, at the reasonable cost and in a transparent manner. It is 
+felt  that  a  transparent,  online  trading  platform  may  be  created  for  the  efficient 
+securities lending and borrowing mechanism.  
+ 
+3.2  Business Models for securities lending and borrowing  
+ 
+Following four business models are proposed for the consideration: 
+ 
+
+1.  Online trading platform with limited number of participants on the supply side. 
+2.  Online trading platform with investors independently on supply side. 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+25 
+
+3.  Lending through the depositories. 
+4.  Lending through the special purpose bank. 
+
+ 
+Model  1  –  Online  trading platform with limited number of participants on  the 
+supply side. 
+ 
+Model  1  visualises  the  lending  and  borrowing  of  securities  to  take  pace  through  a 
+transparent online trading platform. This platform may be created by any interested 
+entity including depositories in the market.  Alternatively, exchanges may offer this 
+facility  through  their  existing  trading  platforms.  It  is  also  possible  that  these 
+intermediaries would leverage on each others competencies and infrastructure and 
+pool  down  resources  to  provide  efficient  mechanism  to  the  market.  For  instance, 
+depositories  may  offer  the  securities  lending  and  borrowing  mechanism  through 
+using  the  exchanges’  infrastructure. It  may  be  left  to  the  market  forces,  assuming 
+that  the  market  is  prudent  enough  to  analyse  the  economic  dynamics  of  the 
+business.     
+ 
+Now,  all  the  borrowers,  who  would  have  short  position  in  the  market,  would  put  in 
+their  requirements  through  brokers  on  the  online  computer  system  with  number  of 
+securities required and their borrowing horizon.  Supply side would offer the shares 
+indicating  the  associated  costs.  Lending  and  borrowing  transactions  would  be 
+matched through the automated system in a transparent environment on price and 
+time priority basis.  
+ 
+Intermediary, managing the online platform for the securities lending and borrowing 
+purpose,  would  be  responsible  for  the  clearance  and  settlement  of  all  said 
+transactions. It is also thought that this session of the lending and borrowing could 
+take place simultaneous to the normal trading sessions. 
+ 
+However, it may be noted here that this session of Securities Lending and Borrowing 
+would have no linkage whatsoever with the actual trading session at the exchanges. 
+In other words, the exchange trading and settlement system would be independent 
+of the Securities Lending and Borrowing Mechanism, which is being proposed. 
+ 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+26 
+
+Now, there are certain issues in the proposed system, which are elaborated on here: 
+ 
+a)  Which  securities  would  be  eligible  to  participate  in  the  proposed  lending  and 
+borrowing  mechanism:  Though,  theoretically  speaking,  all  the  securities  listed  and 
+traded  on  the  exchanges  should  be  eligible  to  participate  in  the  proposed 
+mechanism,  globally,  wherever  the  securities  lending  and  borrowing  facility  is 
+available,  securities  eligible  for  the  same  are  clearly  defined.  Decision  on  eligible 
+securities is based on the following: 
+ 
+1.  Liquidity in the scrips. 
+2.  Avoid the participation of scrips  with  low  liquidity  in the borrowing and lending 
+mechanism, which in turn would reduce the chances of manipulation through the 
+use of system. 
+
+ 
+Further,  in  India,  as  market  is  moving  towards  the  T  +  2  rolling  settlement 
+environment,  only  the  electronic  form  of  shares  may  be  lent  in  the  market.  This 
+would also keep the cost of transactions low. It is assumed that this move would also 
+encourage  the  investors  to  convert  their  physical  holding  into  electronic  form  to 
+create values from their idle holdings. 
+ 
+b)  Who  can  lend  the  securities:  Strictly  speaking,  anyone  who  has  the  securities 
+would  be  eligible  to  participate  in  the  lending  process.  But,  this  model  limits  the 
+lenders  to  only  the  DPs,  Custodians  and  other  approved  intermediaries  under  the 
+Securities  Lending  Scheme,  1997  of  SEBI.  This  feature  of  the  limited  number  of 
+professional parties on the supply side of securities is a very important feature of this 
+model.  This  is  expected  to  professionalize  the  operating  environment  at  the 
+securities lending and borrowing front. This also leads to the other dimension of the 
+business called securities banking. This concept of the securities banking is defined 
+in the part IV of this paper.  
+ 
+c) Who can borrow the securities:  Again, anyone operating in the market should be 
+eligible to borrow the securities. However, any borrower has to go through his broker 
+to borrow securities. Broker would borrow the securities for its client/ clients as an 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+27 
+
+intermediary on the system. If an entity is debarred under any specific regulation, it 
+would not be eligible to borrow the securities (for example - FIIs). 
+ 
+This model also proposes the borrowing of securities strictly for the specific purpose 
+of  delivering  in  the  market  against  a  sale  obligation  of  the  borrower.  This  is  also 
+proposed with an objective to avoid any price manipulation attempt. This would be 
+with exemption to DPs and other approved intermediaries, who can borrow to meet 
+their temporary short fall of securities.   
+ 
+d) What can be the duration of the lending: This model  appreciates the problem of 
+duration  match,  for  lending  and  borrowing,  on  the  system  because  different 
+borrowers  would  have  the  different  time  horizons  in  their  minds.  Therefore,  it  is 
+proposed to standardize the time horizon for the borrowing. It may be packed to say, 
+7 days, 14 days and so on with multiple of 7 days each. In any case, the maximum 
+limit  on  one  time  borrowing  to  12  weeks.  It  essentially  means  that  if  someone  is 
+interested  in  borrowing  for  say  24  weeks,  he  would  be  required  to  roll  over  the 
+position after say 12 weeks of the first time borrowing.  
+ 
+This  standardization  would  mean  that  even  if  someone  wants  to  borrow  the 
+securities for less than 7 days, he / she would incur the cost of borrowing for at least 
+7 days. Though it is true that this would cause some inconvenience to the borrowers 
+for the broken period but this is proposed with an objective to create a standardized 
+contract for online trading with liquidity consideration in mind. However, there would 
+not be any limitation on the borrower returning the securities before the completion of 
+initial borrowing period.  It may also be noted that it would generate the return for 
+minimum seven days to the lender. 
+ 
+e)  What  are  the  risk  containment  measures  and  prudential  norms  for  the  lenders: 
+Once  the  borrowers  and  lenders  are  matched  by  the  laid  down  system,  securities 
+would move from the lenders to the borrowers. Borrowers in turn would use these 
+securities  to  settle  their  trades  on  the  exchange.  Sales  proceeds  from  the  short 
+positions  would  be  retained  by  the  clearing  corporation/  house  of  the  exchange  or 
+the trading platform manager. This entity would guarantee the return of the securities 
+to  the  lenders.  In  addition  to  the  sales  proceed,  borrower  would  pay  margin  to 
+28 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+provide for the potential losses. This margin may be  described by the regulator. In 
+global markets, this margin varies and is generally around 40% to 50% of the value 
+of  the  transactions.  Further,  securities  may  be  marked  to  market  on  daily  basis  to 
+cover up the losses, which have taken place during the day. 
+ 
+[Other sophisticated practices like margining of short sales on VAR basis may also 
+be adopted, but that would make the margining slightly more complex and dynamic.] 
+ 
+Alternatively  thought  is  that  as  the  securities  are  anyway  borrowed  to  meet  the 
+settlement obligation in the regular market, the securities so borrowed  may not  be 
+received by the borrowers but shall be delivered to the settlement account with the 
+Clearing  Corporation, direct. This would make the audit trail of securities borrowed 
+and returned easy. 
+ 
+Further,  complete  segregation  of  borrowed  securities  and  the  regular  market 
+obligations would be maintained by the clearing corporation/exchange. 
+ 
+This  securities  borrowing  and  lending  mechanism  is  assumed  to  offer  an  efficient, 
+transparent  and  effective  system  to  the  market.  It  will  have  following  distinctive 
+advantages:   
+ 
+1.  The wider participation :- Common trading platform for all would ensure very wide 
+
+participation from the market participants across the country. 
+
+2.  Reasonable cost of borrowing  :-  Equally accessible market to all would create 
+competitive environment and reduce the cost of transaction. Further, prices would 
+be  the  market  determined  prices  through  the  free  interaction  of  demand  and 
+supply forces. 
+
+3.  Transparency:-  Online  order  driven  price  and  time  priority  basis  system  would 
+
+ensure the transparency in the system. 
+
+ 
+Model 2 – Online trading platform with investors independently on supply side. 
+
+ 
+
+ 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+29 
+
+The  model  1  assumes  the  availability  of  only  the  professional  entities  like  DPs, 
+Custodians  and  approved  intermediaries  on  the  supply  side  of  the  securities.  It 
+should  not  be  construed  that  the  individuals  would  not  be  given  the  opportunity  to 
+participate  in  that  model.  Indeed,  the  model  proposes  the  participation  of  the 
+individuals  in  the  system  through  the  organizations/systems  like  DPs  and  other 
+approved intermediaries under SLS scheme of 1997. It is done to deliver the  better 
+values to the market in terms of discipline and structure. Further, economies of scale 
+and scope, enjoyed by the institutions would deliver additional values.  
+ 
+An  alternative  to  the  model  1  may  be  the  model,  where  in  everyone  is  given  the 
+independent  chance  to  participate  on  the  supply  side.  In  other  words,  individuals 
+would  provide  the  supply  side  quote  on  their  own  through  their  brokers.  Some 
+market  participants  think  that  giving  independent  choice  to  the  investors  through 
+brokers would be better.  
+ 
+Here,  it  may  be  noted  that  other  issues  raised  in  the  model  1  like  the  risk 
+management,  selection  of  securities  etc.  would  also  be  the  part  of  this  model  and 
+regulators would have to decide on the certain parameters of this market. Further, on 
+borrowing  side, there is no limit and even the individuals can borrow through their 
+brokers, as described in the model 1. 
+ 
+Salient features of this model would be as follows: 
+ 
+1.  The  Clearing  Corporation  /  Stock  Exchange  would  act  as  an  Approved 
+
+Intermediary. 
+
+2.  Stock Exchange to extend their trading platform to provide a nation wide access 
+
+to the participants. 
+
+3.  All  investors  shall  be  allowed  to  borrow  and  lend  securities  through  the  trading 
+facilities with Trading Members of the Exchange / Clearing Members, Custodians, 
+Depository Participants and Banks.  
+
+4.  The rate of borrowing shall be determined on screen based trading system in the 
+
+continuous market session. 
+
+5.  The  lenders  of  the  security  shall  deliver  securities  to  the  Clearing  Corporation 
+
+towards meeting the settlement obligation of the borrower of securities.  
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+30 
+
+6.  The  borrowers  and  lenders  shall  be  identified  by  making  use  of  unique  client 
+code which will be captured at the time of order entry. This will also be used to 
+ensure  an  audit  trail  of  the  return  of  securities  borrowed  at  the  end  of  the 
+prescribed tenure. 
+
+7.  The tenure for borrowing shall be for a maximum of 7 days. Another opinion is 
+that the borrowing facility for the different time horizons may be made available to 
+the market participants. 
+
+8.  The risk shall be managed by Clearing Corporation by  
+
+i. 
+
+Implementing  appropriate  risk  containment  measure  and  use  of 
+effective margining system. 
+
+ii.  By  position  monitoring  to  ensure  that  the  borrowing  is  within  the 
+
+specified limits as also the overall exposure limits. 
+
+iii.  Ensuring  return  of  securities  by  use  of  collateral  deposited  with  the 
+
+Clearing Corporation. 
+
+ 
+Advantages of the model 
+ 
+It must be clear that the broad difference between the first and the second model is 
+that in first model only DPs and approved intermediaries are on the supply side and 
+in second model all the individual investors are required to put in their independent 
+quotes  on  the  trading  terminal  for  borrowing  and  lending  of  securities.  This  model 
+would provide the following advantages as mentioned in the previous model: 
+  
+
+1.  Nationwide  trading  platform  which  already  exists  and  reaches  the  entire 
+
+investors. 
+
+2.  Screen based continuous market session will ensure transparency, efficiency 
+
+and market driven price discovery. 
+
+3.  Clearing  Corporation  already  has  the  track  for  managing  risk  by  having  a 
+
+mechanism for collecting collateral nationwide. 
+
+4.  Clearing  Corporation  being  in  a  position  to  monitor  exposure  segment  wise 
+
+shall ensure that borrowing is within specified limits. 
+
+5.  Clearing  Corporation  would  ensure  that  the  borrowing  is  done  towards 
+settlement  obligation  and  also  ensure  that  the  securities  so  borrowed  are 
+returned to lenders. 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+31 
+
+ 
+3.4 Model 3 – Lending through the depositories. 
+ 
+Another model may be the securities lending and borrowing model followed by the 
+Singapore  Exchange  Ltd.  In  this  model,  depository  becomes  the  major  supplier  of 
+the  securities.  This  model  envisages  the  securities  to  be  available  from  the  big 
+investors,  who  get  themselves  registered  with  the  Depository  for  this  specific 
+purpose.  It  may  be  noted  that  under  the  Singapore  Exchange  Ltd.  Model,  the 
+payment to the lender of securities is fixed and linked to the value of the securities.  
+ 
+This  model  further  envisages  investors  borrowing  the  securities  through  their 
+depository participants. For that purpose, depository participants are registered with 
+the  Depository  as  authorized  borrowers  for  their  clients.  Again,  in  the  Singapore 
+model,  Depository  charges  fixed  rate  of  interest  from the Depository  Agents (DAs) 
+for  their  borrowing  for  clients.  But,  it  is  interesting  to  note  that  the  DAs  determine 
+their own lending rates, while lending to the individual clients.  
+ 
+It may be noted that it is basically a two tier model for the borrowing of the securities. 
+First, depository is lending the securities to the DAs and then DAs are lending  the 
+securities to the investors (their clients).  
+ 
+It is important to mention here that in case of Singapore exchange, Depository called 
+the Central Depository (CDP) is the clearing and depository division of the Singapore 
+Exchange. Therefore, this kind of model may be created in India by the collaborative 
+efforts of the clearing corporation/ house and the depositories. Only disadvantage in 
+this model is that only the big investors would be eligible to be the part of the supply 
+side  and  would  get  themselves  registered  with  depositories.  Other  small  investors 
+may not be able to enjoy the values created through the system.  
+ 
+Indeed, the model 1, suggested above is the refined version of this model wherein 
+even  the  small  investors  would  be  eligible  to  participate  in  the  lending  process 
+through their depository participants.  Accordingly, some market participants feel that 
+the  model  1  scores  over  the  instant  model  in  terms  of  values  to  the  investors  at 
+large. 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+32 
+
+ 
+3.5 Model 4 – Lending through the special purpose bank. 
+ 
+Creation of the special bank say “limited purpose bank“  for the securities lending and 
+borrowing  is  another  idea  given  by  the  market  participants.  This  assumes  that  a 
+dedicated entity can undertake the activity of supporting the securities market trades.  
+ 
+It is felt that the dedicate bank may do things in an organized manner with available 
+resources. People interested in lending the securities to the market may deposit their 
+securities with this limited purpose bank and borrowers may borrow from this bank. 
+As  described  in  case  of  the  funds  borrowing  and  lending,  this  bank  may  lend  the 
+securities to clients in number of alternative following ways: 
+ 
+?  Bank may lend the securities to clients direct.  
+ 
+?  Bank may lend the securities to clients through the brokers of the exchanges.  
+ 
+?  Bank  may  lend  the  securities  clients  through  the  clearing  corporation/exchange 
+
+through an on-line trading platform 
+
+ 
+In  the  first  two  cases,  bank  would  manage  its  risk  itself.  But,  in  the  last  scenario, 
+exchange/clearing corporation would manage the risk for the bank. 
+ 
+Advantages of this model are many: 
+ 
+1.  It would be easy to track, who is lending the securities in the market and to what 
+extent.  This  would  help  avoid  any  nexus  built  up  between  the  lender  of  the 
+securities, brokers and issuer companies.   
+
+ 
+2.  Total quantum of the securities lent would be known to the market at any point in 
+
+time. Limits on the client wise borrowing would be easy to impose and monitor.  
+
+ 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+33 
+
+3.  This would make the risk management effective. 
+ 
+4.  Audit trail would be easy to manage.  
+ 
+Only  issue  in  this  model  is  the  creation  of  a  fresh  infrastructure.  Building  a 
+nationwide  bank  would  require  both  money  and  time.  But,  that  may  be  navigated 
+with co-ordinated efforts of the market participants. Another opinion on the issue is 
+that the existing infrastructure of the banks/financial institutions/exchanges may be 
+leveraged on for the purpose.  
+ 
+This model is further dealt with in the part 5. 
+ 
+All these models  mentioned above may not be mutually exclusive. Therefore,  there 
+is always a possibility of having multiple models in the system. Indeed, they co-exist 
+in the market and global markets bear testimony to it. 
+ 
+Some market participants think that another important issue is that some institutions, 
+specially  the  foreign  investors,  may  have  the  requirement  to  managing  their  own 
+collateral as per their charters. Now, if India chooses to have only the model 1, they 
+would not be able to participate in the deal as the sales proceeds from the short sale 
+would  be  retained  by  the  Clearing  corporation/house  or  the  managing  party  of  the 
+trading platform. Therefore, a system needs to be evolved for this kind of deals.  
+ 
+
+Part 4 - Concept of the securities banking 
+
+ 
+4.1 Introduction 
+ 
+Securities Banking concept goes with the model 1 suggested above for the securities 
+lending  and  borrowing.  This  concept  envisages  the  depositories/  depositories 
+participants  to  become  the  securities  banks  i.e.  lend  securities,  earn  return  and 
+share  that  with  their  customers/clients.  As  a  whole,  the  concept  imagines  that  the 
+involvement  of  the  depositor  participants  in  the  securities  lending  and  borrowing 
+mechanism  on  the  supply  side  would  result  in  the  value  creation  process  for  the 
+individual  small  investors,  scattered  across  the  country.  This  would  create  an 
+34 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+absolutely  fresh  opportunity  for  the  DPs/  Depositories  to  create  values  and  to  a 
+certain extent address the issue of the cost of holding the electronic form of shares.  
+ 
+On the operational side, it assumes that the contract agreement between DPs and 
+clients may have  a standard clause wherein clients authorize the DPs to utilize their 
+shares for stock lending and borrowing purposes (like in banks, it is understood by 
+the customers that the bank would utilize the money for lending purpose). Now, DPs 
+may use these shares for lending and generate money. Values generated from the 
+business  may  be  passed  on  to  the  clients/  customers  in  terms  of  first  reduction  in 
+cost of operating an account and then as interest on shares kept with DPs.  
+ 
+Indeed,  a  scenario  may  be  visualized  when  DPs  would  offer  different  options  of 
+accounts  like  current  account,  savings  account  or  term/fixed  accounts  to  their 
+customers.  These  fixed  deposits  would  have  different  lock-in  periods  with  different 
+interest rates.  
+ 
+Further,  as  fixed  deposit  may  be  broken  prematurely  by  the  clients,  these 
+intermediaries may have two choices – either don’t offer the premature option to the 
+investors on their fixed deposits of securities or offer the option and in case of any 
+unexpected shortfall, borrow the securities from the market based on their needs. As 
+mentioned  above  in  the  model  one  for  securities  lending,  these  depository 
+participants  would  be  allowed  to  borrow  the  securities  for  their  temporary  shortfall 
+along with the actual short sellers in the market.  
+ 
+Therefore, concept envisages that depository participants may transform themselves 
+into a full fledge securities banks, over the period of time.  In that case,  prudent risk 
+management practices of banking may be imported to demat industry. They need to 
+just tailor the existing banking practices to suit to the best requirements of these new 
+generation securities banks. 
+ 
+This model would demand the risk management systems to be laid down. This may 
+include the restrictions on the total  lending capabilities of the lenders. For instance, 
+these  intermediaries  may  not  lend  more  than  say  X%  of  their  holdings  in  each 
+category  (current  account,  savings  account,  different  durations  fixed  deposits)  / 
+35 
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+subject  to  the  overall  ceiling  of  Y%  on  the  total  lendable  securities  available  with 
+them.  This would ensure some liquidity with the lenders at the same time they would 
+not venture into business of borrowing securities to lend further.   
+(Percentage X and Y needs to be defined by the regulator from time to time). 
+ 
+4.2 Important issues in this model 
+ 
+There are certain other issues in this model. They are mentioned below: 
+ 
+?  All  the  securities  parked  with  the  DP  would  implicitly  be  available  with  DP  for 
+
+lending purposes unless the client has explicitly denied for the same. 
+
+ 
+?  DPs  and  custodians  may  be  registered  with  the  intermediary  managing  the 
+trading  platform  (exchange  or  the  depository)  for  the  securities  lending  and 
+borrowing, for the limited purpose of securities borrowing and lending. 
+
+ 
+?  All  DPs  by  virtue  of  their  status  would  be  eligible  to  lend  the  securities  on  the 
+proposed  system.  Here,  as  the  broker  members  of  the  exchanges  are  also 
+allowed as DPs, regulator may need to revise the eligibility criterion for being DP 
+itself.  Alternatively, to start with, only few strong DPs may be allowed to lend.  
+
+?  Alternative model may be that only the Depository is allowed to lend the security 
+and  the  depository  in  turn  appoints  its  DPs,  based  on  their  strengths,  to 
+participate in the proposed lending and borrowing mechanism.  
+
+ 
+
+Part 5 – Independent organization for margin trading and securities lending 
+
+ 
+The  idea  of  funds  and  securities  lending  and  borrowing  through  an  independent 
+entity has been discussed in the part 2 and part 3 of the report under the section of 
+proposed  business  models.  Now,  thinking  is  that  a  single  dedicated  entity  may 
+undertake  both  the  funds  and  securities  lending  activities.  In  other  words,  it  is 
+envisaged that the independent entity may have a nationwide presence and all the 
+interested  lenders  of  the  funds  and  the  securities  to  the  market  may  use  that  as 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+36 
+
+ 
+
+intermediary.  Similarly,  all  the  borrowers  of  the  funds  and  the  securities  would  be 
+approaching this entity for the purpose. 
+ 
+It is felt that this dedicate bank may do things in an organized manner with available 
+resources – both funds and the securities. People interested in lending the funds and 
+securities  to  the  market  may  deposit  them  with  this  limited  purpose  bank  and 
+borrowers may borrow from this bank. As described somewhere else in this paper, 
+business models for the lending funds and securities to the ultimate clients may be 
+different as follows: 
+  
+?  Bank may lend the funds and securities to clients, direct.  
+ 
+?  Bank  may  lend  the  funds  and  securities  to  clients  through  the  brokers  of  the 
+
+exchanges.  
+
+ 
+?  Bank  may  lend  the  funds  and  securities  to  clients  through  the  clearing 
+
+corporation/exchange through an on-line trading platform.  
+
+ 
+In  the  first  two  cases,  bank  would  manage  its  risk  itself.  But,  in  the  last  scenario, 
+exchange/clearing corporation would manage the risk for the bank. 
+ 
+Advantages of this model are many: 
+ 
+1.  It would be easy to track, who is lending the funds and securities in the market 
+and to what extent. This would help avoid any nexus built up between the lender 
+of the funds and securities, brokers and issuer companies.   
+
+ 
+2.  Total quantum of the  funds and securities lent would be known to the market at 
+any point in time. Limits on the client wise borrowing would be easy to impose 
+and monitor.  
+
+ 
+3.  This would make the risk management effective. 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+37 
+
+ 
+4.  Audit trail would be easy to manage.  
+ 
+Only  issue  in  this  model  is  the  creation  of  a  fresh  infrastructure.  Building  a 
+nationwide bank would require both money and time. But, as mentioned earlier, that 
+may  be  navigated  with  co-ordinated  efforts  of  the  market  participants.  Another 
+opinion  on  the  issue  is  that  the  existing  infrastructure  of  the  banks/financial 
+institutions/exchanges may be leveraged on for the purpose.  
+ 
+
+Part 6 - Conclusion 
+
+ 
+Topic may be concluded with the following important points: 
+ 
+Margin trading has features similar to other forms of leveraged trading mechanism 
+such as ALBM, BLESS or MCFS, which were banned recently.  
+ 
+Globally, it is believed that the facility of the securities and funds borrowing facility is 
+important  to  support  the  rolling  settlement  and  the  physical  settlement  of  the 
+derivatives.  It  is  also  important  from  the  perspective  of  the  better  price  discovery, 
+efficiency of the system, hedging and arbitrage as explained in detail under the head 
+value drivers. 
+ 
+Margin  trading  internationally  is  an  activity  outside  the  purview  of  the  exchanges. 
+But, exchanges and clearing house/ corporations are generally there to facilitate the 
+transactions. The same situation is envisaged in the proposed models in the Indian 
+Securities Market. 
+ 
+In the proposed systems, it is assumed that at no point in time, money or securities 
+lending  would  be  clubbed  with  the  actual  settlement  of  the  normal  trading  on  the 
+exchanges,  before  or  after  the  execution.  These  would  essentially  be  independent 
+activities. 
+ 
+
+ 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+38 
+
+All the proposed models assume that a person would not be able to lend the funds or 
+the securities, until he/she holds them in advance. In other words, nobody would be 
+able to lend against his/her future proceeds. 
+ 
+Based  on  the  comments  from  the  public,  SEBI  would  prepare  an  approach  paper 
+which  will  be 
+(SMAC). 
+Recommendations of this SMAC will be posted on the web-site for the comments of 
+public once again before final decision on the subject. 
+ 
+ 
+
+to  secondary  market  advisory  committee 
+
+taken 
+
+Discussion paper on Margin Trading and Securities Lending 
+ 
+
+39 
+
+

@@ -1,0 +1,1108 @@
+ 
+Consultation paper on Review of the Regulatory Framework for Corporate bonds and 
+
+ 
+
+Debenture Trustees  
+
+1.  Objective 
+
+ 
+
+The  objective  of  the  consultation  paper  is  to  seek  comments/  views  from  the  public  on  the 
+
+proposals that are expected to strengthen the regulatory framework for Corporate bonds, secure 
+
+the  interest  of  the  debenture  holders,  enhance the  role  of  the  Debenture  Trustees  (DTs) and 
+
+empower  them  to  effectively  discharge  their  responsibilities  towards  the  debenture  holders  of 
+
+listed debt issues / proposed to be listed debt issues.  
+
+ 
+
+2.  Background 
+
+SEBI  recently,  increased  the  minimum  net  worth  of  DTs  to  raise  the  bar  for  financial  entities 
+
+entering  the  trusteeship  business,  put  in  place  the  provisions  of  penalizing  issuers  for  non-
+
+creation of charge on security, e-voting mechanism for consent taking etc. in its on-going efforts 
+
+to  enhance  the  role  debenture  trustees  play  in  the  market  ecosystem.  However,  it  has  been 
+
+observed that still there have been cases of delay in enforcing the security in the event of default, 
+
+which is detrimental to the interests of the investors. The increased events of default by a few 
+
+financial  institutions  and  the  lapses/  complications  on  the  part  of  debenture  trustees  in  the 
+
+expeditious  enforcement  of  the  security  has  brought  to  the  fore  the  need  for  a  review  of  the 
+
+present regulatory framework for Debenture Trustees.  
+
+According to the data received from the Trustee Association of India (TAI), it is observed that in 
+
+past 5 years, around 2.3 % of the issues have defaulted (93% of which are secured debentures) 
+
+out  of  which  DTs  have  been  able  to  enforce  the  security  successfully  in  around  10  %  of  the 
+
+secured  issues,  recovery  proceedings  are  pending  at  different  stages  in  around  60%  of  the 
+
+issues  and  in  around  30%  of  the  issues recovery  is  pending  due to  non-communication  from 
+
+debenture  holders.  It  is  observed  that  Non-Banking  Financial  Companies  (NBFCs)  are  the 
+
+frequent  bond  issuers.  Based  on  the  outstanding  long  term  borrowings  of  NBFC  (for  top  100 
+
+based on long term outstanding borrowings) as on March 2019, it is noted that largely NBFCs 
+
+borrow through bonds (approximately 56%) in comparison to loans (approximately 44%). In last 
+
+5 Financial Years the bond issuances were largely secured (approximately 76%). 
+
+ 
+
+Page 1 of 14 
+
+ 
+
+DTs facilitate in holding the assets by creating lien on it without the transfer of title or possession 
+
+of those  assets. This  protects  investors from  the  risk  of  non-payment,  and  allows  possession 
+
+and sale of the assets if the borrower defaults or enters insolvency/ liquidation. In Indian bond 
+
+market, secured bonds are issued by way of creating fixed or floating charge on the assets of 
+
+borrower.  
+
+In the case of manufacturing companies, fixed charge is created in favour of trustees on Pari-
+
+Passu basis on underlying tangible assets (namely plant and machinery) for borrowing through 
+
+debt and bank loan while in case of NBFCs floating charge is created on the existing and future 
+
+receivables which are dynamic and intangible in nature and includes the entire balance-sheet of 
+
+the company. Since, the charge is created on the entire balance sheet of the company, for any 
+
+future  issuances,  further  charge  is  created  on  a  Pari-Passu  basis  on  the  entire  assets 
+
+(Receivables) of the company. Such a Pari-Passu charge does not specify a certain identified 
+
+portion of the assets to each specific lender, but treats all lenders to have the same claim (in the 
+
+respective proportion of the amounts borrowed from them) on the assets charged. 
+
+While  the  security  is  enforced  by  DT  without  any  major  complications  in  the  case  of 
+
+manufacturing companies at event of default (EoD), the same is not true in the case of NBFCs 
+
+due to floating charge and absence of identified security. 
+
+Vide  June  07,  2019  circular,  RBI  introduced  Inter  Creditor  Agreement  (ICA)  for  resolution  of 
+
+stressed  assets  in  banking  industry.  While  signing  of  ICA  is  applicable  on  lender  banks,  the 
+
+lender banks have in recent case of default by DHFL, invited DTs to be a part of ICA as majority 
+
+of  the  lending  was  done  by  debenture  holders.  Debenture  Trustees  sought  consent  from  the 
+
+debenture holders for joining and acceding to the terms of the ICA. However, since the debenture 
+
+holders were unaware of the terms and the functioning of the ICA, there was a mixed response 
+
+from  the  debenture  holders  to  the  DTs  regarding  joining  the  ICA.  Further,  there  was 
+
+apprehension  by  the  debenture  holders  that  ICA  process  being  dominated  by  banks  may 
+
+primarily  focus  on  the  interest  of  the  banks.  The  debenture  holders  also  feared  that  the 
+
+introduction  of  ICA  could  lead  to  increase  in  the  instances  of  the  process  of  enforcement  of 
+
+security getting delayed, in case of creditors not being able to come out with a concrete resolution 
+
+plan within the given timeframe.  
+
+Meanwhile, it was also perceived that attractive loan portfolios were sold by the NBFCs in order 
+
+to pay existing dues post default and this probably led to DTs being left with lower quality assets 
+
+Page 2 of 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for security enforcement. In spite of periodic confirmation being sought by the DT in regard to 
+
+maintenance of adequate security cover, lot of issues were faced by the DT in enforcement of 
+
+security  as  they  were  unaware  of the  specificity  of  the  underlying  security  which  were  known 
+
+only to the issuer since a floating charge was created on the entire assets, i.e. present and future 
+
+receivables of the NBFC. The floating charge in case of NBFCs gets crystallized only at the time 
+
+of default.  
+
+The recovery proceedings in the said default of the NBFC was filed in Debt Recovery Tribunal 
+
+(DRT)  after  following  the  process  of  seeking  consent  for  joining  ICA  and  then  for  going  with 
+
+recovery, in issues where no consent for joining the ICA was received. The delay faced by the 
+
+debenture holders in receiving their due and absence of any identified security, led to the concern 
+
+whether the debentures were truly secured.  
+
+With the given challenges observed in charge creation, enforcement of security of the secured 
+
+debentures, ICA process and other related issues in the recent cases of default, SEBI intends to 
+
+review the regulatory framework for DTs and put in place provisions that would further secure 
+
+the interests of the debenture holders of listed debt issues, enable the DTs to perform their duties 
+
+in the interest of the investors more effectively and promptly.  It is therefore proposed  to seek 
+
+public comments on the following issues: 
+
+ 
+
+3.  Proposals 
+
+3.1.  Creation of Identified Charge by the NBFCs: 
+
+NBFCs,  for  every  issue  shall  create  charge  on  the  identified  assets  that  may  include 
+
+identified receivables, investment and cash instead of floating charge on the entire books 
+
+of the NBFC. A debenture issued by an NBFC shall be treated as secured only on creation 
+
+of identified charge. A transition period of 3-5 years shall be provided to shift from floating 
+
+Pari-Passu charge to identified charge. 
+
+ 
+
+Rationale: 
+
+While the NBFCs are always required to maintain the prescribed asset cover during the 
+
+tenure of secured debentures, what assets lie under the given asset cover is known only 
+
+to the issuer (NBFCs) due to the floating charge. It is known neither to the lenders nor to 
+
+ 
+
+Page 3 of 14 
+
+ 
+
+the DTs, as the charge gets created on the entire assets/ receivables and the asset cover 
+
+submitted  to  DT  certified  by  the  independent  CAs  just  mentions  the  value  of  the  entire 
+
+assets and a statement that 100% of cover on the balance-sheet is maintained.  
+
+At  the  time  of  default,  there  is  a  possibility  that  good  assets  of  NBFCs  are  enforced  as 
+
+security by the banks and the debenture holders may be left with sub-par assets due to the 
+
+uncertainty and opacity of the floating charge subjecting debenture holders to the risk of 
+
+non-realization of the full value of the security. This opacity makes it difficult for the DT to 
+
+monitor the quality of the asset cover as well. 
+
+Accordingly, it is proposed to continue having Pari-Passu charge in case of manufacturing 
+
+concerns/ companies having fixed charge on the assets and creation of identified charge 
+
+in case of NBFCs/ companies having receivables as assets.  
+
+ 
+
+3.2.  Enhanced due diligence of identified assets and Granular Asset cover certificate  
+
+3.2.1. The asset cover certificate duly certified by the statutory auditor shall be required to 
+
+be  submitted  on  a  half-yearly  basis  instead  of  annual  basis.  The  asset  cover 
+
+certificate 
+
+format  shall  be  more  granular  providing  a 
+
+list  of 
+
+identified 
+
+assets/receivables, identified investment or cash etc. as security. If the quality of one 
+
+or more of the identified receivables/ assets deteriorates or the receivable/ asset is 
+
+pre-paid, the issuer shall identify further receivables to replace the bad/ matured/ pre-
+
+paid ones and maintain the asset cover in accordance with the terms of Trust Deed.  
+
+ 
+
+3.2.2. Further,  for  maintaining  the  quality  of  underlying  assets,  following  parameters  are 
+
+being proposed: 
+
+a)  A delinquency rate benchmark shall be fixed by the DT at the time of signing of 
+
+Debenture Trust Deed (DTD). This delinquency rate in assets will be used by DT 
+
+as one of the factor for monitoring the asset quality. 
+
+b)  If the delinquency rate in assets breaches the proposed threshold, issuer will be 
+
+asked  to  replace  those  assets  with  other  standard  assets  within  a  given  time 
+
+frame. 
+
+c)  Issuer shall disclose the covenants of maintaining the quality of assets, conditions 
+
+of replacing the bad/ delinquent assets in Investment Memorandum (IM) and DTD 
+
+Page 4 of 14 
+
+ 
+
+ 
+
+to create transparency and reduce the information gap regarding the covenants 
+
+of the charge creation and the process thereafter. 
+
+d)  The asset cover shall also certify the compliance with all the covenants mentioned 
+
+in the IM or DTD, as applicable. 
+
+ 
+
+ 
+
+Rationale: 
+
+Charge  creation  mechanism  enables  creditors  to  control  credit  risks  and  consequently 
+
+lowers  the  cost  of  credit  to  debtors.  To  ensure  that  the  security  interests  of  the  lenders 
+
+remain more effective and enforceable in the insolvency/liquidation process, asset cover 
+
+certificates are currently provided by the issuer on a quarterly/ half-yearly basis. 
+
+Asset  cover  certificate  is  used  for  the  purpose  of  monitoring  the  adequacy  of  assets 
+
+charged against the debt obligations of the issuer. Presently the asset cover certificate is 
+
+submitted to the Debenture Trustee duly certified by an independent auditor on a quarterly 
+
+basis by the issuer and duly certified by statutory auditor on a yearly basis.  
+
+It has been observed that the format of asset cover certificate varies from DT to DT. A few 
+
+debenture trustees ask for detailed list of assets on which charge is created along with CA 
+
+certificate  whereas  most  of  them  receive  only  a  statement  that  the  100%  cover  is 
+
+maintained along with the asset cover ratio, making it difficult for them to understand the 
+
+nature and quality of assets. 
+
+Accordingly, it is proposed to make the asset cover certificate more granular establishing 
+
+the above mentioned parameters to enhance the monitoring of the quality of the underlying 
+
+assets.  
+
+3.3. Calling of Event of Default (EoD) at ISIN level  
+
+DTs shall call EoD at ISIN level, which shall also include breach of any covenant mentioned 
+
+in the IM/ DTD.  
+
+ 
+
+Rationale: 
+
+It was observed that the practice of issuance of debenture in the market varies from issuer 
+
+to issuer. The debentures are sometimes issued in multiple tranches under an umbrella 
+
+Page 5 of 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DTD.  Often  it  is  observed  that  there  are  multiple  International  Securities  Identification 
+
+Numbers (ISINs) in an IM. With regard to the calling of EoD also, it was observed that the 
+
+current market practices are inconsistent and differ from DT to DT. Some DTs call EoD at 
+
+DTD level whereas some do it at ISIN level. Considering the fact that if a single investor is 
+
+invested in a debenture under an ISIN, he has full right to enforce the security under that 
+
+ISIN. Accordingly, it is proposed that EoD shall be called at ISIN level.  
+
+  
+
+3.4. Mechanism/ Conditions of joining Inter-Creditor Agreement (ICA)  
+
+Debenture Trustees shall join ICA subject to approval of debenture holders and following 
+
+conditions: 
+
+i.  Signing of ICA and agreeing to the Resolution Plan should be in best interest of the 
+
+investors. 
+
+ii.  DTs shall ensure that the following conditions are part of ICA before signing the ICA: 
+
+a)  If  Resolution  Plan  imposes  condition(s)  on  the  DTs  which  are  not  in  accordance 
+
+with the provisions of SEBI Regulations and circulars issued, then DTs shall be free 
+
+to  exit  ICA  altogether  with  the  same  rights  as  it  if  never  signed  ICA.  In  such  a 
+
+circumstance, Resolution Plan would not be binding on the DTs. 
+
+b)  Resolution Plan shall be finalized within 180 days from the end of review period. If 
+
+not, the DTs shall be free to exit the ICA altogether with the same rights as it if never 
+
+signed the ICA. In such a circumstance, Resolution Plan would not be binding on 
+
+the DTs. However, If ICA extends beyond 180 days, DTs can take extension beyond 
+
+180 days’ subject to approval of debenture holders with total timeline not exceeding 
+
+1 year from commencement period of ICA. 
+
+c)  If any of the terms of the approved Resolution Plan are contravened by any party 
+
+to the ICA,  DTs shall be free to exit the ICA and take legal recourse or take any 
+
+other action as deemed fit in the interest of the debenture holders. 
+
+ 
+
+Further,  a  Debenture  holder  representative  committee  consisting  of  debenture  holders 
+
+having majority investment may be formed after default by the issuer, to Fast Track the ICA 
+
+process and consent seeking by Debenture Trustee during the course of ICA. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 6 of 14 
+
+ 
+
+ 
+
+ 
+
+Rationale: 
+
+Corporates borrow by way of debentures and in many of the cases, the security offered on 
+
+that debenture is on pari-passu basis with the other lenders (banks). Recently, in the case 
+
+of default by DHFL, Debenture trustees have been approached by the consortium of banks 
+
+to sign the ICA to consider the resolution plan. However, there lie multiple challenges in 
+
+respect of the interest of the debenture holders in case of Debenture trustee joining the ICA 
+
+framework, which are as follows: 
+
+i. 
+
+After the signing of the ICA during the review period, the resolution plan must be 
+
+finalized under the 180-day period provided under the RBI’s new rules. However, 
+
+there  can  be  a  further  extension  of  6  months  for  finalization  of  Resolution  Plan, 
+
+resulting  into  delay  for  debenture  holders  in  case  no  plan  is  finally  agreed  by 
+
+lenders. 
+
+ii. 
+
+The  notice  period to receive  the  consent  for further  action  in  case  of  default  has 
+
+been stipulated as 21 days, which makes it difficult to sign ICA within the review 
+
+period of 1 month.  
+
+iii. 
+
+As part of the ICA, the lenders (including the dissenting lenders) are not allowed to 
+
+initiate any legal action or proceedings (including proceedings under Insolvency and 
+
+Bankruptcy  Code,  2016)  against  the  borrower  or  any  other  person  that  may 
+
+jeopardize the successful implementation of the Resolution Plan.  
+
+iv. 
+
+The resolution plan in respect of the Facilities availed by the Borrower may involve, 
+
+amongst  other,  any  action/plan/reorganization  including  without  limitation  the 
+
+following:  
+
+a) 
+
+Infusion of additional money by all lenders. 
+
+b)  Conversion of debt into equity.  
+
+c)  Transfer of all or part of the assets of the Borrower to one or more persons. 
+
+d)  Rollover of debt. 
+
+Most of the possible Resolution Plan listed above may not be acceptable to DTs as 
+
+most of the debenture holders are debt MF schemes. 
+
+ 
+
+v. 
+
+The  Resolution  Plan  provides  for  payment  of  “not  less  than  liquidation  value”  to 
+
+dissenting lenders. The liquidation value will be decided by an independent valuer. 
+
+The dissenting lender can also agree to sell or transfer their loan facilities to any 
+
+other lender as part of the resolution plan at a mutually agreed-upon price. Since, 
+
+Page 7 of 14 
+
+ 
+
+ 
+
+ 
+
+debt holders have less probability of getting favourable Resolution Plan, the above 
+
+scenario might be the treated path for them in every case, which can be achieved 
+
+through DRT itself and without the delay of 6 months. 
+
+vi. 
+
+The Resolution Plan approved by the majority lenders is final and binding on all the 
+
+lenders and each lender (including the dissenting lender) agrees and undertakes to 
+
+be bound by the Resolution Plan. Since it is a bank-led process, debenture holders 
+
+might be at a disadvantage most of the times. 
+
+ 
+
+While it is important that investors have an option to recover their entire money albeit with 
+
+a delay, however, dissenting lenders should be free to decide and take action in their best 
+
+interest rather than be forced to take liquidation value. Accordingly, it is proposed to allow 
+
+the DTs to join the ICA subject to the approval of the debenture holders and the conditions 
+
+proposed as above.  
+
+ 
+
+3.5. Voting mechanism  
+
+ 
+
+i. 
+
+ii. 
+
+Time period sought for seeking consent shall be reduced to 15 days from 21 days. 
+
+For public and private placement, DT shall enforce the security by taking negative 
+
+consent in the event of default (EoD).  
+
+iii. 
+
+The consent of debenture holders for enforcement of security and for joining ICA 
+
+shall be taken simultaneously in the same letter 
+
+iv.  Negative consent for enforcement of security and positive consent for joining ICA 
+
+shall be taken in the same letter.  
+
+v. 
+
+vi. 
+
+Proof of dispatch and delivery shall be maintained by the Debenture Trustee.  
+
+Providing E-Mail IDs shall be compulsory for Debenture holders in case of Private 
+
+Placement.  
+
+ 
+
+Rationale: 
+
+It was observed that the Debenture Trustees face various procedural problems in seeking 
+
+consent for future course of action which leads to delay in enforcing the security. In case 
+
+of an ICA formed under RBI guidelines, taking consent twice - first for joining ICA and then 
+
+for Enforcement of security can cause further delay in enforcement of security. Further, the 
+
+Page 8 of 14 
+
+ 
+
+ 
+
+ 
+
+notice period to receive the consent for further action in case of default has been stipulated 
+
+as 21 days, which makes it difficult to sign ICA within the review period of 1 month. 
+
+It  is  also  observed  that the  contact  details  received from  Registrar  and Transfer  Agents 
+
+(RTAs) are not updated most of the times, making it difficult for DTs to communicate with 
+
+debenture  holders  when  needed.  Since  providing  E-mail  IDs  is  not  mandatory  for 
+
+Debenture holders, DTs face problem in conducting E-Voting as well. 
+
+Accordingly,  it  is  proposed  to  reduce  the  timeline  for  seeking  consent  to  15  days.  The 
+
+proposal on taking negative consent for enforcement of security will ensure prompt filing 
+
+for  recovery  by  DT.  Also,  simultaneous  approval  in  the  same  letter  for  joining  ICA  and 
+
+enforcement of security shall prevent repetition of the same consent seeking process and 
+
+will reduce the time lag for enforcement of security.   
+
+ 
+
+3.6. Creation of a recovery fund  
+
+i. 
+
+A fund shall be created by the issuer at the time of issuance of debt that shall be 
+
+used by DT in the event of default towards recovery proceedings expenses. 
+
+ii. 
+
+The value of such fund shall be 0.01% percentage of the issue subject to the cap 
+
+of 25 lakhs per issuer.  
+
+iii. 
+
+The above shall not be applicable on AAA rated bonds. However, in case of rating 
+
+downgrade of a AAA rated bond, the issuer shall be obligated to create such fund 
+
+within a fixed timeframe.  
+
+iv.  Disclosure to such affect shall also be made in the IM. Such fund shall be overseen 
+
+by the DT.  
+
+v. 
+
+The amount shall be returned to the issuer at the time of maturity in case there is 
+
+no default by the company. 
+
+ 
+
+Rationale: 
+
+In the event of default, while the DTs are not able to recover their dues/ fees from the issuer, 
+
+they are still obligated to act in the interest of the investors and work towards enforcement 
+
+of security. Currently Debenture Trustees call for meeting of Debenture holders in case of 
+
+default to discuss the further course of action along with an estimate of cost to be borne by 
+
+debenture  holders for  the  recovery  proceedings.  In  most  of  the cases  debenture  holders 
+
+bear this cost. However, delays have been observed in the enforcement proceedings as the 
+
+Page 9 of 14 
+
+ 
+
+ 
+
+money is not always received on time. If the DTs are adequately funded in advance, then 
+
+the filing of recovery proceedings can be expedited. 
+
+Accordingly, in order to have a prompt enforcement of security,  it is proposed to create a 
+
+fund beforehand towards recovery proceeds, which shall be used by Debenture Trustee in 
+
+case of default only.  
+
+ 
+
+3.7. Minimum Disclosures on the website by DTs 
+
+DT shall mandatorily make the following minimum disclosures on their website: 
+
+i.  Quarterly Compliance Reports received from the issuers. 
+
+ii.  Compliance status on the receipt of asset cover from the issuers, maintenance of 
+
+various funds by the issuers. 
+
+iii.  Defaults by the company. 
+
+iv. 
+
+Status of the proceedings of the cases under default. 
+
+v.  Compliance status of each covenant- issue wise on a half yearly basis. 
+
+vi.  Repayment  schedule  calendar/  calendar  of  interest  and  redemptions  issuer  wise 
+
+(already mandated)  
+
+Rationale: 
+
+Regulation 15 of SEBI (Debenture Trustees) Regulations, 1993 has mandated certain set 
+
+of duties on DTs which they are required to discharge throughout the maturity of the bond. 
+
+Based on the complaints received from the investors in the recent default cases, it appears 
+
+that the investors are not aware of the monitoring by the DTs and the compliance status of 
+
+the issuers regarding various covenants disclosed in the IM.  
+
+Accordingly,  in  order  to  enhance  the  transparency,  it  is  proposed  to  mandate  minimum 
+
+disclosures as above. 
+
+ 
+
+3.8. Disclosures regarding Performance of DTs 
+
+Disclosure on the following parameters may be made by DTs which would be reflective of 
+
+their promptness in discharging their duties:  
+
+i. 
+
+Timeliness  on  action  taken  (adhering  to  the  time-lines  specified  by  regulations/ 
+
+transaction documents). 
+
+Page 10 of 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ii.  Monitoring of covenants / security cover 
+
+iii. 
+
+iv. 
+
+v. 
+
+vi. 
+
+Timely intimation of a breach in covenants (if any). 
+
+Timely raising of red-flags if the issuer response is unsatisfactory. 
+
+Effectiveness in enforcing security/ remedial actions in case of default. 
+
+Promptness  in  convening  debenture  holder’s  meeting  and  aiding  in  decision 
+
+making as and when requested or required.  
+
+Rationale: 
+
+Currently, there are no performance indicators of DTs that can enable/ allow the investors 
+
+to ascertain the performance of the particular DT.  
+
+While  the  disclosures  are  required  for  enhancing  the  transparency,  few  parameters  are 
+
+also required to enable the investors to discern the performance of the DTs in expeditious 
+
+enforcement  of  the  security  and  effective  monitoring  of  the  covenants.  Accordingly,  it  is 
+
+proposed to have disclosures on certain parameters by DTs in order to enable the investors 
+
+to discern the performance of the DTs.  
+
+ 
+
+3.9. Public Disclosure of all covenants by the issuer in IM  
+
+All covenants including the accelerated payment covenants whether given by way of side 
+
+letter or otherwise shall be incorporated in the IM by the issuer at the time of issuance of 
+
+debentures  and  disclosed  on  the  stock  exchange.  The  issuer  shall  also  be  obligated  to 
+
+inform  the  DT  of  such  covenants  for  monitoring  of  the  same  by  DT  on  behalf  of  the 
+
+investors.  
+
+ 
+
+Rationale: 
+
+SEBI (Issue and Listing of Debt Securities) Regulations, 2008 provide for disclosures to be 
+
+made in the offer document. The offer document shall contain all material disclosures which 
+
+are  necessary  for  the  subscribers  of  the  debt  securities  to  take  an  informed  investment 
+
+decision.  
+
+However, it has been observed in the recent cases of defaults by Reliance Capital, Altico 
+
+and DHFL that issuers and investors at the time of issuance of debt securities sign specific 
+
+documents which contain certain covenants. These are generally called “side letters.” One 
+
+Page 11 of 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  the  common  covenants  that  has  been  observed  is  an  “accelerated  payment  clause” 
+
+which states that if the borrower violates the terms of the covenant(s), including default or 
+
+downgrade  of  debt,  such  lender  is  entitled  to  demand  immediate  repayment.  This 
+
+accelerated repayment exercised by one lender may have a bearing on other lenders and 
+
+may  have  a  cascading  effect  on  the  liquidity  and  operations  of  the  borrower,  leading  to 
+
+insolvency. It was observed that in recent times, the use of such covenants by lenders has 
+
+become more frequent which may have pushed firms into financial difficulty increasing the 
+
+probability of default. 
+
+Accordingly, the use of such covenants affects the interest of all the other investors in that 
+
+issue. It is, therefore proposed that all such covenants shall be publicly disclosed in the IM 
+
+and on the stock exchanges. 
+
+3.10. Standardization of Debenture Trust Deed (DTD)  
+
+DTD shall be bifurcated into two parts:  
+
+i. 
+
+ii. 
+
+Part A of DTD shall contain generic/standard clauses common to all DTDs.  
+
+Part B of DTD shall contain specific and customized clauses/covenants relevant to 
+
+the particular issue for which the DTD is executed.  
+
+  
+
+Rationale: 
+
+The DTD signed between the issuer and the DT includes standard covenants given in DT 
+
+Regulations and form SH12 of the Companies Act. Such DTDs also include customized 
+
+clauses specific to the issue. However, DTDs are lengthy, legal documents  running  into 
+
+hundreds of pages sometimes. Therefore, a need is felt to standardize the DTD to make it 
+
+more comprehensible and easy to read and understand by the debenture holders. 
+
+Accordingly, it is proposed to standardize the DTD and bifurcate it into two parts along the 
+
+lines of the offer document of the Mutual Funds. 
+
+  
+
+3.11. Enhanced Disclosures 
+
+Following additional disclosures shall be made by the issuer in IM: 
+
+Page 12 of 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i. 
+
+A risk factor to state that while the debenture is secured against a charge to the tune 
+
+of 100% of the principal and interest amount in favour of DT, the possibility of recovery 
+
+of 100% of the amount shall depend on the market scenario prevalent at the time of 
+
+enforcement of the security.  
+
+ii. 
+
+The issuer has no side letter with any bond holder except the one(s) disclosed in the 
+
+iii. 
+
+iv. 
+
+v. 
+
+IM and on the stock exchange website where the debt is listed.  
+
+About Pari-Passu charge and the entitlement of the investor in such cases. 
+
+The rights and duties of the DT. 
+
+The  detailed  procedure  to  be  followed  at  the  time  of  default  by  the  DT  including 
+
+relevant procedures of ICA, DRT / National Company Law Tribunal (NCLT) and IBC. 
+
+vi. 
+
+The procedure and manner of calling meeting of debenture holders. 
+
+ 
+
+Following additional disclosures shall be made by the issuer in DTD as well: 
+
+i. 
+
+ii. 
+
+The rights and duties of the DT. 
+
+The  detailed  procedure  to  be  followed  at  the  time  of  default  by  the  DT  including 
+
+relevant procedures of ICA, DRT / NCLT and IBC. 
+
+iii. 
+
+The procedure and manner of calling of meeting of debenture holders, responsibility 
+
+of debenture holders in such situations etc. 
+
+iv. 
+
+Bearing of recovery expenses in case of default. 
+
+ 
+
+Rationale: 
+
+The details about the terms of the debentures, duties of debenture trustees and redressal 
+
+mechanisms in case of default are not known to the investors. The investors, therefore, are 
+
+not fully aware of the risks undertaken while investing. In order to enhance transparency 
+
+about the roles of various players and the provisions of the market structure, it is proposed 
+
+to have the adequate disclosures in the IM and DTD.  
+
+3.12. A framework for imposing fines and Standard Operating Procedure (SOP) for the same 
+
+An SOP shall be prepared that shall list out the penalties for specific violations by the issuer 
+
+company for the listed debt.  
+
+ 
+
+ 
+
+Page 13 of 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rationale: 
+
+ 
+
+At the time of signing of DTD by the Debenture Trustee and issuer company, duties and 
+
+responsibilities of the issuer are laid out in detail in DTD which includes cooperation with 
+
+Debenture  Trustee  and  dissemination  of  information  to  Debenture  Trustee  and  Stock 
+
+exchanges on a timely basis. However, lot of cases of non-cooperation with the DT have 
+
+been noticed. SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
+
+(LODR  Regulations)  also  impose  certain  obligations  upon  the  issuer  with  regard  to  the 
+
+submissions made to the debenture trustee. Adjudication proceedings are initiated against 
+
+such issuers which are in violation of the provisions of the LODR Regulations. However, 
+
+such actions usually take time, during which, the non-compliance may continue.  
+
+Accordingly,  in  order  to  improve  compliance  and  discourage  the  non-cooperation  it  is 
+
+proposed to develop an SOP in this regard. This SOP shall act as a deterrent and instill 
+
+better cooperation and compliance by the issuers.  
+
+ 
+
+4.  Public Comments: 
+
+Public comments are invited on the proposals contained in the Consultation Paper in the following 
+
+format: 
+
+Name of entity/ person/ intermediary/ organization: __________________ 
+
+  Sr. No.  Pertains to Point No. 
+
+   Comments/ suggestions 
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Comments/ suggestions may be forwarded by email to comments@sebi.gov.in or sent by post to 
+
+the following address latest by March 17, 2020: 
+
+ 
+
+General Manager  
+
+Division of Policy & Inspection (CRA/DT) 
+
+Market Intermediaries Regulation and Supervision Department 
+
+Securities and Exchange Board of India  
+
+SEBI Bhavan, Plot No. C7, "G" Block, Bandra Kurla Complex  
+
+Bandra (East), Mumbai - 400 051  
+
+Ph: 022 - 26441315  
+
+ 
+
+Issued on: February 25, 2020 
+
+ 
+
+Page 14 of 14 
+
+

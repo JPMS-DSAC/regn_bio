@@ -1,0 +1,369 @@
+ 
+
+ 
+
+Consultation  Paper  on  Amendment  to  SC(R)(SECC)  Regulations,  2012  to 
+enableCommodity  Derivatives  Exchanges  to  Deal  in  Instruments  relating  to 
+Commodity Derivatives including Options 
+ 
+1.  Objective 
+ 
+
+1.1. To solicit views from public on suggestion pertaining to amending the definition 
+of  “Commodity  Derivatives  Exchange”  and  "National  Commodity  Derivatives 
+Exchange" and also" provisions applicable to commodity derivatives exchanges" 
+in  the  Securities  Contracts  (Regulation)  (Stock  Exchanges  and  Clearing 
+Corporations) Regulations, 2012 (SECC Regulations) in order to enable trading 
+instruments  relating  to  commodity  derivatives  including  options  on  commodity 
+derivatives exchanges. 
+
+ 
+2.  Background 
+
+ 
+2.1. Hon’ble Union Finance Minister, while presenting the budget for the FY 2016-
+2017,  announced  permitting  new  derivatives  products  in  the  commodity 
+derivatives  markets. 
+the 
+recommendations  made  by  the  Commodities  Derivatives  Advisory  Committee 
+(CDAC),vide  circular  dated  September  28,  2016,  the  commodity  derivatives 
+exchanges were permitted by SEBI to introduce trading in 'options'. 
+ 
+
+thereof,  and  also  based  on 
+
+In  pursuance 
+
+2.2. Thereafter,  SEBI  in  consultation  with  commodity  derivatives  exchanges  and 
+market participants has been working on various aspects as product design, risk 
+management  norms  and  is  in  the  process  of  finalizing  the  same  for  permitting 
+options trading on the commodity derivatives exchanges. 
+ 
+
+2.3. Among other alternatives, one design that is being primarily being considered is 
+options with commodity futures contracts as underlying and the option to settle 
+by  devolving  into  the  commodity  futures  contracts  on  expiry.  This  is  akin  to 
+derivative of derivative  which  has  not been tried in Indian  Equities  markets so 
+far.  This  being  a  complex  product,  there  is  a  need  to  assess  whether  Indian 
+Commodity  derivatives  markets  are  ready  for  such  complex  products  and 
+whether  such  products  provide  for  regulatory  and  tax  arbitrage.  However,  this 
+design  is  most  prevalent  and  most  accepted  in  the  commodity  derivatives 
+exchanges  globally.  This  alternative  also  seems  to  be  most  suitable  for 
+agricultural  commodities  in  India  where  cash  settlement  is  not  appropriate 
+because  of  lack  of  ready  availability  of  robust  spot  market  prices  of  the 
+underlying commodity of the specified grade/variety. 
+
+ 
+
+ 
+
+Page 1 of 5 
+
+ 
+
+ 
+
+2.4. Globally,  all  leading  commodity  derivatives  exchanges  have  options  contracts 
+with  futures  contracts  as  underlying  e.g.  Chicago  Board  of  Trade  (CBOT), 
+Intercontinental  Exchange (ICE),  Euronext,  Tokyo  Commodity  Exchange 
+(TOCOM), New York Mercantile Exchange (NYMEX), London Metal Exchange 
+(LME)  etc.,  in  developed  economiesas  well  as  Johannesburg  Stock  Exchange, 
+Bursa Malaysia Berhad, Bolsa de Valores, Mercadorias & Futuros de São Paulo 
+(BM&FBOVESPA)  in  developing  economies  have  options  on  futures  in 
+agricultural as well as non agricultural commodities. 
+ 
+
+3.  Legal provisions: 
+ 
+In the aforesaid context, the relevant provisions in securities law are as follows: 
+ 
+
+3.1. The   Securities  Contracts  (Regulation)  Act,  1956  (SCRA)  has  the  following 
+
+relevant definitions in this regard: 
+
+ 
+Section 2, (ac) “derivative”— includes  
+
+(A)  a  security  derived  from  a  debt  instrument,  share,  loan,  whether 
+secured  or  unsecured,  risk  instrument or  contract for  differences or any 
+other form of security;  
+(B) a contract which derives its value from the prices, or index of prices, of 
+underlying securities; 
+(C) commodity derivatives; and  
+(D) such other instruments as may be declared by the Central Government 
+to be derivatives; 
+ 
+
+Section 2, (bc) "commodity derivative" means a contract — 
+
+(i)  for  the  delivery  of  such  goods,  as  may  be  notified  by  the  Central 
+Government  in  the  Official  Gazette,  and  which  is  not  a  ready  delivery 
+contract; or 
+(ii) for differences, which derives its value from prices or indices of prices 
+of  such  underlying  goods  or  activities,  services,  rights,  interests  and 
+events, as may be notified by the Central Government, in consultation with 
+the Board, but does not include securities as referred to in sub-clauses (A) 
+and (B) of clause (ac); 
+ 
+
+Section 2, (d) “option in securities” means a contract for the purchase or sale of a 
+right to buy or sell, or a right to buy and sell, securities in future, and includes a 
+teji, a mandi, a teji mandi, a galli, a put, a call or a put and call in securities; 
+ 
+Section 2, (h) “securities”— include  
+
+ 
+
+Page 2 of 5 
+
+ 
+
+ 
+
+(i)  shares,  scrips,  stocks,  bonds,  debentures,  debenture  stock  or  other 
+marketable securities of a like nature in or of any incorporated company 
+or other body corporate; 
+(ia) derivative;  
+……………………………………………………………… 
+ 
+ 
+
+3.2. The definition of “Commodity Derivatives Exchange” as per SECC Regulations 
+
+is as under: 
+ 
+
+2(1)(fa)  “commodity  derivatives  exchange”  means  a  recognized  stock 
+exchange  which  assists,  regulates  or  controls  the  business  of  buying, 
+selling or dealing only in commodity derivatives. 
+ 
+
+3.3. The  definition  of  “National  Commodity  Derivatives  Exchange”  as  per  SECC 
+
+Regulations is as under: 
+
+ 
+2(1)(ia)  "national  commodity  derivatives  exchange"  means  a  commodity 
+derivatives  exchange  that  is  demutualized,  has  an  electronic  trading 
+platform  and  is  permitted  to  assist,  regulate  or  control  the  business  of 
+buying, selling or dealing in derivatives on all commodities as notified by 
+the Central Government from time to time. 
+ 
+
+3.4. The  Provisions  applicable  to  commodity  derivatives  exchanges  as  per  SECC 
+
+Regulations is as under: 
+
+ 
+44(D)(1)(c)no  commodity  derivatives  exchange  shall  engage  in  any 
+activity other than that of assisting, regulating or controlling the business 
+of  buying,  selling  or  dealing  in  commodity  derivatives,  except  with  the 
+prior permission of the Board; 
+ 
+
+4.  Need for Amendment: 
+
+ 
+4.1. Thus, as per the definition in SCRA, a commodity derivatives contract can have 
+only  goods/activities/services/rights/interests/events  as  notified  by  central 
+government as underlying. 
+
+ 
+
+4.2. An  option  contract  with  commodity  futures  as  underlying  and  settled  by 
+devolving into (delivery of) the underlying commodity futures may not therefore 
+strictly fit within the definition of 'commodity derivatives'  as per SCRA unless 
+such  underlying  commodity  futures  contracts  are  notified  by  the  Central 
+
+ 
+
+Page 3 of 5 
+
+ 
+
+ 
+
+Government from time to time. However, such an option contract does fit within 
+the  definition  of  “option  in  securities”[  Section  2(d)  of  SCRA]  when  the 
+definition  of  “option  in  securities”  is  read  together  with  the  definitions  of 
+“securities”, “derivatives” and “commodity derivatives” in SCRA. 
+ 
+
+4.3. As per SECC Regulations, a commodity derivatives exchange cannot deal in any 
+other  product  except  for  commodity  derivatives,  an  option  contract  with 
+commodity  futures  as  underlying  and  settled  by  devolving  into  commodity 
+futures may not be eligible for trading on commodity derivatives exchanges. 
+
+5.  Proposal: 
+
+ 
+
+ 
+
+5.1. In  order  to  overcome  this  legal  hurdleso  asto  enable  commodity  derivatives 
+exchanges to also organize trading in option contracts with commodity futures as 
+underlying,  it  is  being  considered  to  suitably  amend  the  definition  of 
+“Commodity  Derivatives  Exchange”  and  "National  Commodity  Derivatives 
+Exchange"  and  also  the  "provisions  applicable  to  commodity  derivatives 
+exchanges". Thus, the proposed amendments in Securities Contracts (Regulation) 
+(Stock Exchanges and Clearing Corporations) Regulations, 2012 is as follows: 
+
+ 
+Section 
+2(1)(fa) 
+
+2(1)(ia) 
+
+or 
+
+controls 
+
+Old Provisions 
+derivatives 
+“commodity 
+exchange”  means  a  recognized 
+stock  exchange  which  assists, 
+regulates 
+the 
+business  of  buying,  selling  or 
+dealing  only 
+in  commodity 
+derivatives. 
+national commodity derivatives 
+exchange  means  a  commodity 
+derivatives  exchange 
+is 
+demutualized, has an electronic 
+trading 
+is 
+permitted  to  assist,  regulate  or 
+control the business of buying, 
+selling or dealing in derivatives 
+on  all  commodities  as  notified 
+by 
+the  Central  Government 
+from time to time. 
+
+platform 
+
+that 
+
+and 
+
+derivatives 
+
+Proposed Provisions 
+exchange” 
+“commodity 
+means  a  recognized  stock  exchange 
+which  assists,  regulates  or  controls  the 
+business  of  buying,  selling  or  dealing 
+only  in  commodity  derivativesand such 
+other instruments relating to commodity 
+derivatives including options. 
+derivatives 
+national 
+commodity 
+exchange  means 
+derivatives 
+that 
+is 
+demutualized,  has  an  electronic  trading 
+platform  and  is  permitted  to  assist, 
+regulate  or  control  the  business  of 
+buying, selling or dealing in derivatives 
+and  such  other  instruments  relating  to 
+commodity 
+including 
+optionson all commodities as notified by 
+the  Central  Government  from  time  to 
+time. 
+
+commodity 
+a 
+exchange 
+
+derivatives 
+
+ 
+
+Page 4 of 5 
+
+ 
+
+ 
+
+Section 
+44(D)(1)(c)  no 
+
+Old Provisions 
+
+than 
+
+commodity 
+
+derivatives 
+exchange  shall  engage  in  any 
+that  of 
+activity  other 
+assisting, 
+or 
+regulating 
+controlling 
+the  business  of 
+buying,  selling  or  dealing  in 
+commodity  derivatives,  except 
+with the prior permission of the 
+Board; 
+
+of 
+
+regulating 
+
+Proposed Provisions 
+no  commodity  derivatives  exchange 
+shall  engage  in  any  activity  other  than 
+assisting, 
+that 
+or 
+controlling 
+the  business  of  buying, 
+selling  or  dealing 
+in  commodity 
+derivatives  and  such  other  instruments 
+relating 
+commodity  derivatives 
+including options, except with the prior 
+permission of the Board; 
+
+to 
+
+ 
+
+ 
+
+5.2. Comments from public are invited on proposal /issues contained in this paper and 
+
+should reach SEBI latest by January31, 2017. 
+ 
+The comments may be sent by email to cdmrd_dmp@sebi.gov.inor alternatively 
+may be sent to following address: 
+
+ 
+Shri VikasSukhwal, 
+Deputy General Manager, 
+Division of Market Policy, 
+Commodity Derivatives Market Regulation Department 
+Securities and Exchange Board of India 
+C4-A, G-Block, BKC, Bandra East 
+Mumbai-400051 
+ 
+
+Issued on: January 19, 2017 
+
+ 
+
+Page 5 of 5 
+
+

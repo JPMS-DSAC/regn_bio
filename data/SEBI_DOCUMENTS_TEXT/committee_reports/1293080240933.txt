@@ -1,0 +1,3237 @@
+Implementation of the revised scheme of STP
+
+REVISED SCHEME
+
+FOR
+
+IMPLEMENTING
+
+STRAIGHT
+THROUGH
+
+PROCESSING IN
+
+INDIA
+
+Page 1 of 68
+
+Implementation of the revised scheme of STP
+
+TABLE OF CONTENTS
+
+Chapter 1. Meaning of Straight through processing (STP) ......................................3
+Chapter 2.
+International experience .........................................................................5
+Need of STP in India...............................................................................7
+Chapter 3.
+Chapter 4.
+STP Committee .......................................................................................9
+Post implementation experience............................................................ 14
+Chapter 5.
+Case for forming a centralized hub....................................................... 20
+Chapter 6.
+Chapter 7.
+Designing the revised STP framework .................................................. 23
+Is the proposed STP framework indeed a solution? .............................. 29
+Chapter 8.
+Chapter 9.
+Post implementation.............................................................................. 33
+Chapter 10. List of Appendices ................................................................................. 34
+
+Page 2 of 68
+
+Implementation of the revised scheme of STP
+
+CHAPTER 1.  MEANING OF STRAIGHT
+
+THROUGH PROCESSING (STP)
+
+Straight-through  Processing  (“STP”)  is  a  mechanism  that  automates  the  end-to-end
+processing of transactions of the financial instruments. It involves  use of a single system
+to process or control all elements of the work-flow of a financial transaction, including
+what is commonly known as the Front, Middle, and Back office, and General Ledger. In
+other words, STP can be defined as electronically capturing and processing transactions
+in one pass, from the point of first ‘deal’  to final settlement..
+
+Presently, each and every transaction involves costly multiple data re-entry from paper
+documents and other sources which are susceptible to errors, discrepancies, delays and
+possible fraud. Further, the traditional means and methods of capturing and processing of
+information such as phone, fax, email etc. requires human intervention which slows the
+entire cycle, introduces errors and delays settlement
+
+The  global  securities  industry  is  undergoing  a  period  of  dramatic  change  driven  by
+increasing customer expectations. Centered on technological based business models and
+new  regulations  requiring  reduced  settlement  cycles,  the  system  demands  a  common
+solution to address the issues related therein.  The technological advancements witnessed
+in  the  securities  trading  system  coupled  with  the  dynamicity  of  the  capital  market
+demands and ability to capture trade data once i.e. at the point of the investment decision
+and  to  process  that  decision  electronically  and  seamlessly  through  order  creation  &
+compliance, trading, confirmation, settlement and finally into reconciliation
+
+Usage of STP enables orders to be processed, confirmed, cleared and settled in a shorter
+time  period,  more  cost  effectively  and  with  fewer  errors.  Apart  from  compressing  the
+clearing and settlement time, STP also provides a flexible, cost-effective infrastructure,
+which enables e-business expansion through real-time processing and access to enterprise
+data.  Thus  STP  may  be  defined  as  the  end-to-end  automation  of  financial  transaction
+processing from pre-trade to post-settlement.
+
+Page 3 of 68
+
+Implementation of the revised scheme of STP
+
+STP  also  streamlines  back-office  activities,  leading  to  fewer  failures,  lower  risks  and
+drastically  reduces  costs  per  transaction.  It  embraces  a  set  of  applications,  business
+processes  and  standards,  which  are  set  to  revolutionize  the  settlement  and  processing
+standards  within  the  capital  markets  industry.  The  working  of  STP  requires  the
+automation of nearly every process along the way, as well as application-to-application
+connectivity to allow integrated information flows. In addition to these, complete linkage
+with industry utilities, networks, business partners and industry standards is necessary in
+order to allow instantaneous communication. One may also examine the success of STP
+in the international arena.
+
+Page 4 of 68
+
+Implementation of the revised scheme of STP
+
+CHAPTER 2. 
+
+INTERNATIONAL
+
+EXPERIENCE
+
+The increasing volume of trades and the demand for more rapid settlement has made it
+essential  for  the  market  participants  to  enhance  their  processing  efficiency  in  order  to
+manage costs and minimize their exposure to risk. Globally, it is found that some big and
+the  organized  firms  have  developed  their  own  integrated  front  middle  and  back  office
+systems  which  communicate  in  a  particular  manner  so  that  the  information  fed  at  one
+front automatically gets captured and processed at the other front also. This avoids the
+duplication  of  work,  errors  in  data  feeding  and  facilitates  quick  usage  of  the  data  for
+processing and report generation. Many big organizations have adopted STP for their in-
+house  functions.  The  level  of  automation  is  found  to  be  diversified  and  is  mostly
+dependent on the size of the organization, the business field, and the dynamicity of the
+management.
+
+Internationally, STP can be found in use at the organization level or at the most at the
+closed  group  level.  However,  none  of  the  markets  in  the  world  have  adopted  STP  at
+broader level i.e. STP across the market including participation across the majority of the
+market participants. As such, no standards for messaging or for interoperability although
+attempted have been implemented that could be used for adopting STP across the market.
+The  organizations  using  STP  in  their  own  organizational  functions  are  using  different
+messaging standards.
+
+However, reduction of the trade-to-settlement times is now a widely agreed phenomenon.
+The  markets  across  the  world  are  looking  forward  to  achieve  the  reduction  of  the
+settlement  cycle  from  three  days  (T+3)  to  just  one  day  (T+1).  Coupled  with  the
+developments  taking  place  to  reduce  the  settlement  cycle,  the  changing  roles  of  the
+market intermediaries and the industry as a whole is compelling the securities institutions
+to  focus  on  delivering  the  rapid  and  responsive  customer  service  that  will  secure  their
+global competitiveness.
+
+Further,  the  economic  justifications  alone  for  T+1  is  forcing  the  industry  including  the
+regulators, particularly when you look at how trade volumes are spiraling, to adopt the
+
+Page 5 of 68
+
+Implementation of the revised scheme of STP
+
+means  and  methods  for  automation  of  the  processes  involved  along  the  way.  Industry
+figures  reveal  that  the  daily  numbers  and  size  of  cross  border  equity  transactions  have
+doubled - and value at risk has quadrupled. Adding to the complications are the recent
+developments  that  have  taken  place  in  the  capital  markets  wherein  the  mergers,
+acquisitions and other phenomena have changed the entire equation of the global capital
+markets. No more the barriers and the competition that used to prevail in the traditional
+days are applicable. These fronts further necessitate the usage of the automated systems
+that would not only facilitate the short settlement cycle but will provide benefits  in many
+other ways like reduction in the cost, increased efficiencies, lessening of the risk etc.
+
+Internationally  it  has  been  accepted  that  whether  it  is  viewed  as  an  obligation  or  an
+opportunity, markets will have no choice but to adopt the system; they will have to spend
+money to stay in business. This presents an ideal milestone to introduce STP at the same
+time.
+
+the 
+
+inherent  advantages 
+
+However  despite 
+in  executing  a  seamless  electronic
+communication and messaging system, varying system structures, message protocols and
+differing  verification  schedules  and  applications  have  made  STP  Service  Providers  as
+islands of information. There is STP but only within clients who are networked with one
+Service Provider. The issue of inter-operability between STP Service Providers has not
+been resolved.
+
+Page 6 of 68
+
+Implementation of the revised scheme of STP
+
+CHAPTER 3.  NEED OF STP IN INDIA
+
+In  order  to  remain  competitive  in  the  global  marketplace,  today’s  markets  across  the
+world are striving to reduce costs and operational errors as well as speed up transaction
+handling.  Straight  through  processing  (STP),  the  automated  end-to-end  processing  of
+transactions from trade inception to settlement, has become a business imperative for the
+markets. STP promises to streamline legacy systems and applications as well as inter and
+back-office applications.
+
+The capital markets in India have witnessed a huge change in the last decade or so. The
+entire  market  structure  has  been  redefined  and  so  have  the  nature  of  market
+intermediaries.  Securities’  market  have  moved  towards  technology  supported  systems
+and  practices.  The  Indian  capital  markets,  have  attained  a  remarkably  high  degree  of
+growth in the last decade, are poised for a further leap forward over the next ten years.
+With  the  opening  of  the  economy  to  multinationals  and  the  adoption  of  more  liberal
+economic policies, the economy is driven more towards the free market economy.
+
+The trading volumes have been growing exponentially in the Indian markets and so is the
+number  of  products  being  traded,  the  number  of  investors  and  the  number  of  market
+participants. The traditional open outcry system of trading has been left in the past and
+the  market  has  adopted  the  electronic  trading  system.  There  has  been  a  move  from
+account  settlement  period  to  rolling  settlement  system.  The  settlement  cycle  has  been
+gradually brought down from 15 days to just 2 days thus putting the Indian capital market
+in the elite group of advanced markets of the world.
+
+The  shortening  of  the  settlement  cycle  requires  the  market  to  streamline  the  various
+processes  and  phases  involved  in  order  to  achieve  a  faster,  better,  cost-effective  and
+acceptable  means  and  mode  of  system  support  and  infrastructure.  Further,  with  the
+technological  advancements  taking  place  in  all  the  spheres  of  the  system,  the  market
+seems to be reluctant to afford the higher cost, costly manual intervention and the most
+importantly the mistakes arising out of such duplication of work on account of manual
+intervention.
+
+Page 7 of 68
+
+Implementation of the revised scheme of STP
+
+With the availability of the means and mechanism of faster, more efficient transactions,
+enterprises of all sizes aspiring to save valuable time and money, STP appears to be the
+solution  to  overcome  the  difficulties  of  the  manual  processing  which  could  smoothly
+transcend into shorter settlement cycles. The following benefits of STP make it attractive
+to be adopted in the Indian context:
+
+?  Facilitates shortening of the settlement cycle.
+?  Increases transparency
+?  Avoids costly duplication of work and manual intervention
+?  Reduction in Risks and errors
+?  Faster data capturing, processing and report generation
+?  Increases the overall efficiencies
+?  Makes the market cost effective
+?  Better regulation by systematic audit trial
+
+Page 8 of 68
+
+Implementation of the revised scheme of STP
+
+CHAPTER 4. 
+
+STP COMMITTEE
+
+The  need  for  STP  or  any  other  mean  to  achieve  a  quicker,  safer,  economical  and
+automated system in the Indian capital market was actually felt with the shortening of the
+settlement cycle, increase in the number of products traded and number of players who
+participated  it  the  market.  Coupled  with  the  technical  advancements  taking  place,  the
+various  limitations  arising  out  of  the  traditional  system  of  trading  and  settlement,
+compelled the industry to revisit the viability and feasibility of the systems they had been
+adopting. Sensing the need of the market, SEBI set up the Committee on 19-February-
+2002, to assess the feasibility and suitability of introducing STP in Indian markets. The
+committee  was  formed  to  propose  a  scheme  of  STP  and  undertaking  a  cost-benefit
+analysis of implementing STP in India.
+
+The  SEBI  Committee  for  implementation  of  STP  in  Indian  markets  approached  the
+matter under reference through the following steps:
+
+?  Identification of components of the current life-cycle of a trade that involves
+
+manual intervention
+
+?  Identifying 
+
+and 
+
+establishing  messaging 
+
+standards 
+
+for 
+
+information
+
+communication
+
+?  Identifying options for establishment of a communications backbone that will
+
+enable data transfer across participants in a secure and efficient manner.
+
+In its approach, a sub-group comprising of some of the members of the committee was
+also formed to critically examine the available messaging standards and to recommend
+the  messaging  standards  that  would  be  most  suitable.  Further,  a  pilot  project  was
+convened to find out if STP would be successful was undertaken. The Committee was of
+view that there was a disparity between the market participants in terms of automisation.
+The committee made a comparison of the various processes involved in the trade cycle
+(both domestic and international) and identified the following areas which were needed to
+be automated on a priority basis:
+
+Page 9 of 68
+
+Implementation of the revised scheme of STP
+
+?  Post Trade activities like contract note transfer from broker-dealer to sub-
+
+custodian and the mutual fund/FII
+
+?  Pre-match advice to the broker-dealer
+
+?  Domestic Mutual Funds’  trade data flow to/from the sub-custodian
+
+Various  international  practices  were  also  deliberated  upon  by  the  committee  and
+committee  found  that  there  was  no  market  in  the  world  that  had  adopted  STP  at  the
+market level. In view of the practices followed in the market, the committee suggested
+that  in  order  to  overcome  the  difficulties  of  the  manual  processing  and  smoothly
+transcend into shorter settlement cycles, it was vital to have Straight through Processing
+(STP) and Real Time Gross Settlement (RTGS) in place.
+
+4.1.  STP COMMITTEE REPORT
+
+The  committee  set  up  for  implementation  of  STP  in  Indian  markets  deliberated  on  the
+issues concerning the STP as well as the ancillary issues related to the implementation of
+STP  in  the  Indian  market.  The  committee  advocated  for  reduction  in  the  manual
+intervention  in  the  trade  cycle,  reduction  of  the  paper  work  and  standardisation  of  the
+messaging protocols. In its report, the committee have detailed out the following benefits
+provided by the STP:
+
+?  Reduced Settlement Cycle
+
+?  Transparency / Audit ability
+
+?  Reduces Counterparty Risk
+
+?  Reduces Operational Risk
+
+?  More timely exception processing
+
+?  Performance Measurement
+
+?  Improve attractiveness of Indian market
+
+While pointing out the various benefits of the STP, the committee had also detailed the
+various critical factors for the success of the STP. They are as under:
+
+?  Open  standard  protocols  and  message  standards  that  are  in  compliance
+
+with best international standards, and
+Page 10 of 68
+
+Implementation of the revised scheme of STP
+
+?  Cooperation between the different market participants and users to ensure
+
+that common practices are established and followed.
+
+?  A  robust  financial  infrastructure  that  links  the  main  exchanges  and
+clearing  houses  together,  including  direct  computer  linkage  with  the
+payment system.
+
+?  Cooperation  with  the  regulatory  and  tax  authorities  in  ensuring  that
+electronic data/documents and electronic signatures are legally acceptable.
+
+The committee in its report had detailed the factors relating to the implementation of STP
+in India. One of the major issues considered by the committee was the issue related to
+implementing an electronic contract note. In its report, the committee had also presented
+the details of the communication and the connectivity factors which would play a leading
+role in the implementation of the STP in India. Various message standard and protocols
+were  considered  by  the  committee.  International  practices  in  this  regard  were  also
+debated upon.
+
+4.2.  STP COMMITTEE RECOMMENDATIONS
+
+In order to implement STP in Indian market, the committee set up by SEBI recommended
+the following:
+
+?  On-line Connectivity between the depositories to permit easier settlement.
+
+?  Recognition of electronic contract notes as a legal document as an alternative to
+
+paper based contract notes.
+
+?  Adoption of ISO 15022 standards for financial messaging with Digital Signature
+
+using PKI (Public Key Infrastructure).
+
+?  Encourage multiple STP Service Providers to set-up infrastructure to provide STP
+
+to bring in competition for higher efficiency and economy.
+
+?  Amendment to the legal framework (laws / regulations / bye-laws etc.) to provide
+for recognition of paperless form of data and records. The Committee identified
+and made a list of bye-laws / regulations etc. that needed to be changed in order to
+move to a paperless environment.
+
+Page 11 of 68
+
+Implementation of the revised scheme of STP
+
+?  There  were  certain  issues  relating  to  the  payment  system  that  needed  to  be
+addressed  on  a  priority  basis.  However,  these  did  not  fall  under  the  purview  of
+SEBI  and  the  matter  had  to  be  referred  to  RBI  for  action  at  their  end.  The
+Committee  recommended  a  strong  need  to  implement  Real  Time  Gross
+Settlement system. The RBI has already indicated that the RTGS system would
+be in place by June 2003 (which has later been revised to mid 2004). This would
+help in creating better synergy between settlement of funds and securities at the
+same time and true Delivery v/s Payment system can be achieved. Meanwhile, in
+the interim period, Electronic Funds Transfer (EFT) facility of the RBI was also
+proposed to be increased in terms of its coverage and the value so that payments
+may be made faster.
+
+The  STP  committee  also  set  out  the  viability  and  the  road  map  for  STP  including  the
+following key dependencies / comments:
+
+?  The carrier must be able to deliver a consistent communications platform
+that meets the security criteria recommended, and offers connectivity to all
+participants.
+
+?  The carrier must be cost-efficient.
+
+?  While there is no constraint on the number of carriers, each carrier must,
+before  launch,  establish  continuous  connectivity  with  other  carriers,  so
+that a participant needs only to sign up to one carrier
+
+The  Basic  Requirements  for  the  communication  platform  was  also  set  out  by  the
+committee.
+
+4.3.  STP CIRCULAR
+
+The recommendations of the committee on STP were accepted by SEBI. Based on the
+recommendations, 
+(Ref:
+FITTC/FII/19320/2002)  mandated  introduction  of  STP  for  electronic  trade  processing
+
+dated  October 
+
+20021 
+
+03, 
+
+SEBI 
+
+vide 
+
+letter 
+
+                                               
+1 Appendix 1
+
+Page 12 of 68
+
+Implementation of the revised scheme of STP
+
+with a common messaging standard with effect from December 02, 2002. The STP was
+mandated on the following lines:
+
+?  Adoption of ISO 15022 messaging standards by the market participants.
+
+?  Electronic delivery of Contract Notes
+
+?  Connectivity among the market participants and implementation of STP.
+
+Page 13 of 68
+
+Implementation of the revised scheme of STP
+
+CHAPTER 5. 
+
+POST IMPLEMENTATION
+
+EXPERIENCE
+
+STP was launched in India with the inauguration of STEADY-STP solution provided by
+NSDL on November 30, 2002. To start with, STP was impressed upon to be adopted by
+the domestic institutions, investors, fund managers, brokers and custodians. However, it
+was observed that though the market participants had joined the STP services, the system
+could not nourish due to various issues. The issues are highlighted as under:
+
+5.1.1. 
+
+Lack of Inter-operability between all the STP
+
+Service Providers
+
+Lack of inter-operability between the STP Service Providers has been one of the major
+roadblocks in making the STP framework popular. The reasons for the same reported by
+various market participants are as under:
+
+5.1.1.1. Lack of Message Handshake Protocols:
+
+The  existing  framework  provides  a  common  messaging  platform  to  provide  for  an
+electronic  communication  between  the  market  participants  through  their  respective
+STP Service Providers. However the STP Service Providers have their own systems
+which  are  independent  of  each  other.  The  STP  framework  does  not  provide  for
+Message  Handshake  Protocols  –  which  could  facilitate  seamless  communication
+between the independent systems of various STP Service Providers and ensure a free
+exchange of messages.
+
+5.1.1.2. Lack of Common Authentication of Digital
+Signatures across the STP Service Providers:
+
+Different STP Service Providers have obtained their digital signatures from different
+Certifying Authorities. There is no common interface to verify the digital signature on
+
+Page 14 of 68
+
+Implementation of the revised scheme of STP
+
+a message from one STP Service Provider by another STP Service Provider (who has
+a digital signature from a different Certifying Authority).
+
+5.1.1.3. Lack of end to end compliance to ISO
+
+messaging formats from sender to the recipient
+and absence of standardisation of file formats for
+client’s back office development:
+
+The back offices of some of the institutional investors are not compliant to the ISO
+15022  formats.  This  non-compliance  leads  to  non-standardisation  of  the  client
+platform  which  prevents  seamless  communication  across  clients.  Further  there  are
+different  STP  Service  Providers  servicing  various  clients.  As  each  STP  Service
+Provider has a different STP platform, the integration of the back office systems with
+the system of the STP Service Provider is non-uniform and diverse across the various
+strata  of  clients  leading  to  absence  of  STP  communication  between  two  clients  of
+different STP Service Providers.
+
+5.1.1.4. Other Technological Issues:
+
+There  are  other  technological  issues  like  lack  of  a  common  file  format,  protocol
+detailing, import file formats, message exchange protocol, methods of encryption, and
+logical connectivity.
+
+Due  to  the  above  issues,  inter-operability  between  STP  Service  Providers  has  not  been
+resolved.  The  SEBI  mandate  of  implementing  STP  has  led  to  the  fund  managers  /
+custodians forcing their broker members to resolve the problem of inter-operability. As a
+solution, broker members have been following the informal practice of persuading mutual
+funds and custodians to sign up with the STP Service Provider they are connected or in
+case clients do not agree with that proposition, member brokers would have to sign up
+more  than  one  or  even  all  the  STP  Service  Providers  where  the  clients  are  signed  up
+leading to inefficiency and time lag in executing STP. Also the back office of the brokers
+would have to run the different programs of each STP Service Provider leading to delay
+in post trade and pre-settlement processing.
+
+Page 15 of 68
+
+Implementation of the revised scheme of STP
+
+5.1.2. 
+
+Absence of a common agreement among the
+
+STP Service Providers
+
+The legal framework of the STP system was executed through legal agreements between
+the STP Service Providers and the clients. However, the Legal Agreement between one
+STP  Service  Providers  and  its  clients  was  different  from  another.  Hence  there  was  no
+common platform to formulate matters of mutual interest like legality, recourse, liabilities
+involved  in  exchanging  and  processing  messages  received  from  other  STP  Service
+Providers. Due to the absence of a standardized legal framework, the STP system could
+not witness the desired growth.
+
+5.1.3. 
+
+Lack of Service Legal Agreement between the
+
+STP Service Providers to guarantee delivery of the
+entire message in a secure and confidential manner
+
+The STP Service Providers entered into a customized legal agreement with their clients.
+Due to non-standardisation of the legal agreement among the STP Service Providers, the
+STP Service Providers could not guarantee delivery of the entire message, especially if
+the  message  had  to  be  delivered  to  a  client  registered  with  a  different  STP  Service
+Provider  in  a  secure  and  confidential  manner.  Due  to  the  absence  of  this  clause,  most
+clients did not use the STP environment leading to low STP traffic.
+
+5.1.4. 
+
+High inter-connectivity charges to interconnect
+
+different STP Service Providers
+
+There are high inter-connection charges for each inter-connection between STP Service
+Providers.  Since  there  were  multiple  STP  Service  Providers,  there  would  have  been
+multiple inter-connections required to connect all the STP Service Providers. Further an
+entry of a new STP Service Provider would have resulted into an inter-connection with
+all the existing STP Service Providers which would result in prohibitive inter-connection
+charges.
+
+Page 16 of 68
+
+Implementation of the revised scheme of STP
+
+5.1.5. 
+
+Commercial considerations – bearing of the
+additional cost of developing and maintaining such
+interfaces
+
+Due to the above reasons, the STP traffic has been dismally low. On the other hand to
+implement  the  STP  system,  there  is  a  need  to  incur  expenditure  on  both  hardware  and
+software systems. Large capital expenditure without high volumes has led to STP Service
+Providers charging heavy fees for the STP services. Due to high fees, few clients have
+signed up for the STP service which in turn has led to low volumes.
+
+After  the  implementation  of  the  STP  framework  in  December  2002,  the  above  issues
+were raised by various sections of the market as the stumbling block for the widespread
+use  of  STP.  SEBI  held  various  meetings  with  the  STP  Service  Providers  and  they
+reiterated the problems of lack of clarity on the exclusive issue of an electronic contract
+note, technological issues, inter-operability issues, high CUG connectivity charges, lack
+of clarity on the legal issues and the commercial viability of the STP framework for the
+STP Service Providers.
+
+5.2.  MEETINGS WITH REGULATORY BODIES
+
+To resolve the issue of inter-operability between the STP Service Providers (which was
+considered  the  major  bottleneck),  SEBI  along  with  the  STP  Service  Providers  made  a
+presentation to regulatory bodies on May 21, 2003 highlighting the importance of STP in
+India,  the  need  of  a  vibrant  STP  system  to  graduate  to  a  T+1  rolling  settlement  and
+efficient  connectivity  between  all  market  participants 
+like
+exchanges,  clearing  corporation,  depositories  etc.  SEBI  also  highlighted  the  following
+recommendations of the STP committee:
+
+institutions 
+
+including 
+
+?  Electronic exchange of contract notes
+?  Exchange  of  trade  details  and  settlement  instructions  with  digital  signature
+
+across various intermediaries.
+
+?  Formation  of  an  STP  environment  through  the  medium  of  STP  Service
+
+Providers.
+
+Page 17 of 68
+
+Implementation of the revised scheme of STP
+
+SEBI also outlined the issues of inter-operability between the STP Service Providers and
+the prohibitive costs of CUG interconnectivity involved in resolving the issues of inter-
+connectivity.  Accordingly,  SEBI  suggested  for  the  waiver  of  the  interconnectivity
+charges between the STP Service Providers’  networks to enable seamless communication
+between users of different STP Service Providers.
+
+It  was  suggested  that  instead  SEBI  could  form  a  CUG  network  for  securities’  market
+which would cover the various intermediaries associated with the securities’  market. This
+being  a  single  network  would  not  attract  inter-connectivity  charges  for  the  various
+securities’  market  intermediaries.  However  SEBI  had  indicated  that  as  per  the  present
+charter, it would not be possible for SEBI to set-up such a network. As an alternative, it
+was suggested that SEBI make an application for waiver of interconnectivity charges for
+“STP Service Providers” specifically and SEBI should issue license / registration for STP
+Service Providers. This would facilitate (in consultation with the Basic Service Provider)
+in setting up procedures for the waiver of interconnectivity charges for that category only.
+Accordingly,  SEBI  made  a  formal  request  for  waiver  of  interconnectivity  charges  for
+STP Service Providers
+
+5.3.  MEETINGS WITH THE STP SERVICE PROVIDERS
+
+To  address  the  issue  of  inter-operability,  a  committee  consisting  of  the  4  existing  STP
+Service Providers was formed with NSDL as the convener. The Committee had various
+deliberations and raised issues of regulatory non-clarity of the issue of electronic contract
+notes,  issues  relating  to  payment  of  consolidated  stamp  duty,  technological  issues,
+absence of inter-operability between the STP Service Providers due to non-verification of
+the  digital  signature  of  one  STP  Service  Provider  (obtained  from  one  Certifying
+Authority)  by  another  STP  Service  Provider  (who  has  obtained  digital  signature  from
+another Certifying Authority), legal and operational issues subsequent to finalization of
+the operational issues.
+
+NSDL on behalf of the Committee on July 4, 2003, forwarded a consolidated document
+highlighting  the  communication  protocol  &  message  structure  standards  /  discussions
+which  in  their  opinion  would  suit  the  inter-connectivity  between  the  STP  Service
+
+Page 18 of 68
+
+Implementation of the revised scheme of STP
+
+Providers through a centralized hub. However one of the STP Service Provider, Financial
+Technologies had their reservations in adapting the specified customized protocol to suit
+the  inter-operability  needs.  They  preferred  adopting  the  readymade  standard  messaging
+platforms.
+
+Page 19 of 68
+
+Implementation of the revised scheme of STP
+
+CHAPTER 6.  CASE FOR FORMING A
+
+CENTRALIZED HUB
+
+After deliberations with the exchanges, clearing corporations, STP Service Providers and
+other market participants and after taking into account the issues raised for the slow off-
+take  of  the  existing  STP  framework,  it  was  decided  that  in  order  to  facilitate  inter-
+operability between the various service providers, a STP centralised hub needed to be set
+up.  Accordingly,  a  block  diagram  of  the  proposed  STP  network  was  forwarded  to  the
+regulatory bodies and they were requested to waive the inter-connection charges between
+the centralized hub and the STP service providers.
+
+6.1.  EXISTING REGULATORY SCENARIO ON
+
+INTERCONNECTIVITY
+
+There were two options available for the STP centralised hub, one to set it up as a CUG
+or  as  an  Internet  Service  Provider  (ISP).  It  was  informed  that  in  the  current  scenario,
+registering the STP centralised hub as a CUG would necessitate a special permission to
+waive  the  inter-connection  charges  between  the  STP  Service  Providers  and  the  STP
+centralised  hub.  According  to  them,  the  waiver  of  interconnection  charges  would  take
+more  time.    Further,  under  the  existing  scenario,  CUG  networks  do  not  have  the
+flexibility  to  interconnect  to  other  networks.  Compared  to  this,  ISP  license  has  the
+required flexibility & the following advantages:
+
+6.2.  ADVANTAGES OF SETTING UP STP
+
+CENTRALISED HUB AS AN ISP
+
+1)  The STP centralised hub set up as an ISP can be connected by an existing CUG
+
+network as a client.
+
+2)  The centralized hub could also be connected through a leased line connection or
+through  dial-up  connections.  However  it  had  been  opined  that  a  leased  line
+
+Page 20 of 68
+
+Implementation of the revised scheme of STP
+
+connection  would  be  a  more  secure  form  of  connection  and  the  dial-up
+connectivity should be used as a back-up form of communication.
+
+3)  Interconnection to other ISP or any other network including CUG network does
+not attract any interconnect charges based on the directive issued by TRAI.  Only
+leased line charges based on bandwidth and distance shall be applicable.  As such,
+connectivity  of  STP  centralised  hub  with  any  other  CUG  networks  can  be
+achieved  without  any  licensing  issues.  It  has  also  been  confirmed  that  the  STP
+centralised hub as an ISP would have the flexibility of connecting with any other
+CUG network like RBI’s INFINET CUG network (to facilitate STP for funds).
+
+4)  International connectivity is permitted.
+
+5)  IP/VPN connection is permitted.
+
+6)  Present ISP’s license charges applicable are Rs. 1 per annum.
+
+7)  No major roll-out obligations.  Even one customer with an ISP is regarded as the
+same having gone live considering the requirement of roll-out within 18 months
+as per the license requirements.
+
+8)  The STP centralised hub as an ISP could also be used for other allied services like
+a  standard  communication  platform  for  various  exchanges,  depositories,  and
+market  participants  and  the  STP  centralised  hub  could  be  made  scaleable  to
+include STP among retail clients also.
+
+Accordingly, stock exchanges, depositories and STP Service Providers decided to setup a
+STP centralised hub as an ISP to facilitate inter-connection and inter-operability between
+the STP Service Providers.
+
+Page 21 of 68
+
+Implementation of the revised scheme of STP
+
+6.3.  CONSTITUTION OF STP CENTRALISED HUB:
+
+In view of the above, it was decided to register the STP centralised hub as an Internet
+Service Provider (ISP) with TRAI. The next issue was the mechanism in which the STP
+centralised  hub  would  be  constituted  and  owned.  After  various  deliberations,  it  was
+agreed  that  since  the  exchanges  are  the  originators  of  trade  and  the  trade  gets  finally
+settled with the Clearing Corporation / house associated with the exchange, the exchange
+and its Clearing Corporation is the focal point for all post trade, pre-settlement and post
+settlement activities. Hence it would be desirable for the exchanges to constitute the STP
+centralised  hub  to  bring  in  the  inherent  synergies  and  efficiencies  to  make  the  whole
+framework economically viable.
+
+NSE and BSE had shown interest in setting up the STP centralised hub. However setting
+up  two  centralized  hubs  would  not  solve  the  issue  of  inter-operability  and  would
+complicate the issue further. BSE endorsed the proposal but desired that the centralized
+hub  be  set  up  as  a  joint  venture  between  BSE  and  NSE.  NSE  also  agreed  with  the
+proposition  of  setting  up  the  centralized  hub  as  a  joint  venture.  However  NSE
+recommended  implementing  the  proposed  plan  in  two  phases.  In  Phase  I  NSE  would
+setup the centralized hub by earmarking some of its existing infrastructure to implement
+STP for institutional trades where the number of trades is not very large. In Phase II BSE
+and NSE could jointly develop a project to set up an independent STP centralised hub
+with  an  independent  system  architecture  and  infrastructure.  This  plan  was  accepted  by
+both the exchanges.
+
+It  was  also  confirmed  that  an  ISP  license  taken  up  by  NSE  in  Phase  I  could  be  later
+reconstituted to enable joint ownership by BSE and NSE in Phase II. Accordingly, NSE
+made  an  application  for  the  ISP  (for  the  STP  centralised  hub)  with  Department  of
+Telecommunication  (DoT)  and  has  procured  the  necessary  registration  of  the  STP
+centralised hub as an ISP.
+
+Page 22 of 68
+
+Implementation of the revised scheme of STP
+
+CHAPTER 7.  DESIGNING THE REVISED
+
+STP FRAMEWORK
+
+7.1.  ELECTRONIC CONTRACT NOTE
+
+In  order  to  operationalise  the  issue  of  an  electronic  contract  note,  SEBI  had  issued  a
+circular  no.  SMDRP/POLICY/Cir-15/00  dated  December  15,  20002  and  a  clarification
+vide letter dated SEBI/SMD/SE/15/2003/29/04 dated April 29, 20033 whereby SEBI had
+permitted  the  issue  of  electronic  contract  notes  with  digital  signature  obtained  from  a
+valid  Certifying  Authority  provided  under  the  Information  Technology  Act,  2000  (IT
+Act). The exchanges were directed to make the necessary amendments to the bye-laws,
+rules and regulations for the implementation of the same.
+
+However  it  had  been  brought  to  the  notice  of  SEBI  that  the  format  of  the  electronic
+contract note prescribed by the exchanges were not in conformity with the format of the
+physical contract note particularly with respect to the pre-printed terms and conditions.
+Hence  members  issuing  electronic  contract  notes  were  also  issuing  physical  contract
+notes which amounted to duplication and unnecessary reconciliation between the physical
+and electronic contract notes.
+
+In order to streamline the issuance of electronic contract notes as a legal document like
+the physical contract note, SEBI prescribed a format for the electronic contract note and
+advised the exchanges to implement the following vide SEBI circular no. DNPD/Cir-9/04
+dated February 3, 20044:
+
+1) 
+
+The exchanges would prescribe a standard format for the electronic contract
+note (based on the prescribed model format prescribed in Annexure A) in its
+bye-laws, rules and regulations.
+
+                                               
+2 Appendix 2
+3 Appendix 3
+4 Appendix 4
+
+Page 23 of 68
+
+2) 
+
+3) 
+
+4) 
+
+Implementation of the revised scheme of STP
+
+The  exchange  bye-laws,  rules  and  regulations  for  issuance  of  electronic
+contract note were amended to include all the standard pre-printed terms and
+conditions  in  the  physical  contract  note.  The  electronic  contract  note  would
+mention the relevant bye-laws / rules / regulations of the exchange subject to
+which the said contract note is being issued.
+
+The exchanges were also advised to modify / amend other relevant bye-laws,
+rules  and  regulations  with  respect  to  signing  of  the  electronic  contract  note
+with  a  digital  signature  so  as  to  make  the  modified  format  of  the  electronic
+contract note a valid legal document like the physical contract note.
+
+The exchanges were asked to prescribe the mechanism of record keeping of
+electronic contract notes in a soft non-tamperable form in compliance with the
+provisions of the IT Act, 2000.
+
+A similar format of an electronic contract note was prescribed for the debt segment by
+SEBI vide circular no. SEBI/MRD/SE/Cir-11/2004 dated February 25, 20045.
+
+7.2.  MANDATORY USE OF STP SYSTEM
+
+In view of the aforesaid developments SEBI decided vide circular no. DNPD/Cir- 22 /04
+dated April 1, 2004 that all the institutional trades executed on the stock exchanges would
+be mandatorily processed through the STP System w. e. f. July 01, 20046.
+
+7.3.  SYSTEM FLOW OF THE STP FRAMEWORK
+
+In order bring in standardisation and objectivity, SEBI vide circular no. DNPD/Cir- 23/04
+dated April 27, 20047  prescribed  the  following  system  flow  of  transactions  in  the  STP
+framework:
+
+                                               
+5 Appendix 5
+6 Appendix 6
+7 Appendix 7
+
+Page 24 of 68
+
+Implementation of the revised scheme of STP
+
+a)  A STP user intending to send an instruction would send the message to his STP
+
+service provider after digitally signing the same.
+
+b)  The STP service provider would verify the signature of the STP user and forward
+
+it to the
+
+i)  recipient STP user, if the recipient STP user is availing services of the same
+
+STP service provider; or the
+
+ii)  STP centralised hub if the recipient STP user is not with the same STP service
+provider. In such a case the STP service provider would be required to prepare
+a message as per the STP centralised hub prescribed message format, enclose
+the  user’s  message,  digitally  sign  the  message  and  then  send  it  to  the  STP
+centralised hub
+
+c)  On receipt of the message by the STP centralised hub, the STP centralised hub
+
+would
+i)  verify the signature of the sending STP service provider only.
+ii)  send an acknowledgment to the sending STP service provider.
+
+d)  The STP centralised hub would forward the message to the recipient STP service
+
+provider after digitally signing on the message.
+
+e)  The  recipient  STP  service  provider  on  receipt  of  the  message  from  the  STP
+centralised hub, shall verify the signature of the STP centralised hub, verify if the
+recipient  STP  user 
+itself  and  send  an  appropriate
+acknowledgment  with  digital  signature  to  the  STP  centralised  hub.  The  STP
+centralised  hub  would  in  turn  forward  the  acknowledgment  (received  from  the
+recipient STP service provider) duly signed to the sending STP service provider.
+
+is  associated  with 
+
+f)  The recipient STP service provider shall forward the message to the recipient STP
+user.  The recipient STP user would receive the message and verify the signature
+of the recipient STP service provider and sending STP user.
+
+Page 25 of 68
+
+Implementation of the revised scheme of STP
+
+2)  To  enable  inter-operation,  the  STP  centralised  hub  would  provide  a  utility  /  client
+software to the STP service provider. The STP service provider’s  point  of  interface
+with the STP centralised hub would be through this utility / client software. The PKI
+(Public  key  infrastructure)  system  for  the  interface  shall  be  implemented  at  a  later
+stage.
+
+7.4.  LEGAL FRAMEWORK
+
+As stated earlier, the STP centralised hub had been setup to provide a common platform
+for a secure STP environment which would enable seamless inter-connectivity between
+various  STP  users  connected  through  their  STP  Service  Providers.  SEBI  in  order  to
+implement a suitable regulatory mechanism to create a platform for common minimum
+service standards and imbibe a system of accountability issued the SEBI (STP centralised
+hub  and  STP  service  providers)  Guidelines,  2004  (herein  referred  to  as  “STP
+Guidelines”) vide SEBI circular no. DNPD/Cir-24/04 dated May 26, 20048. In order to
+bring in standardisation, the STP Guidelines also prescribed a model agreement between
+the STP centralised hub and the STP service providers.
+
+The STP Guidelines prescribes the eligibility criteria and conditions of approval for the
+STP centralised hub and the STP service providers, obligations and responsibilities of the
+STP  centralised  hub  and  the  STP  service  providers  and  code  of  conduct  for  the  STP
+service providers.
+
+7.5.  TRANSACTION WORK FLOW OF THE STP
+
+SYSTEM
+
+As stated earlier, SEBI had prescribed the system flow of the STP system. To disseminate
+better understanding of the STP system to the STP users, SEBI also decided to define and
+prescribe the transaction work flow of the STP system vide SEBI circular no. DNPD/Cir-
+25/04 dated June 10, 20049. SEBI had extensively consulted the STP centralised hub,
+STP service providers and the STP users before prescribing the transaction work flow for
+the STP system. The transaction work flow for the STP system is as follows:
+                                               
+8 Appendix 8
+
+Page 26 of 68
+
+Implementation of the revised scheme of STP
+
+1.  A contract note in electronic form in the prescribed format (IFN 515 messaging
+
+format) shall be issued by the broker & sent to the custodian and / or the
+institutional investor.
+
+2.  In case the contract note is processed directly by the institutional investor, the
+
+institutional investor shall send the trade confirmation of acceptance or rejection
+of the contract note to the broker by using the IFN 598 messaging format. The
+custodian shall also send the confirmation of acceptance or rejection of such
+contract note to the broker using the messaging standard IFN 548.
+
+3.  In case the contract note is processed by the custodian on behalf of the
+
+institutional investor, the custodian shall send the confirmation of acceptance or
+rejection of the contract note to the broker by using the IFN 548 messaging
+format.
+
+4.  The institutional investor shall send settlement instructions to its custodian in IFN
+540 to IFN 543 messaging formats to the custodian for the following trade types:
+
+a.  IFN 540: settlement instruction for a clearing house buy trade
+b.  IFN 541: settlement instruction for a delivery-v/s-payment (DVP) buy
+
+trade
+
+c.  IFN 542: settlement instruction for a clearing house sell trade
+d.  IFN 543: settlement instruction for a delivery-v/s-payment (DVP) sell
+
+trade
+
+5.  The custodian shall confirm / reject the execution of the settlement instructions to
+
+the institutional investor in IFN 544 to IFN 547 messaging formats in the
+following manner:
+
+a.  IFN 544: confirmation / rejection of an instruction received in messaging
+
+format IFN 540
+
+                                                                                                                                           
+9 Appendix 9
+
+Page 27 of 68
+
+Implementation of the revised scheme of STP
+
+b.  IFN 545: confirmation / rejection of an instruction received in messaging
+
+format IFN 541
+
+c.  IFN 546: confirmation / rejection of an instruction received in messaging
+
+format IFN 542
+
+d.  IFN 547: confirmation / rejection of an instruction received in messaging
+
+format IFN 543
+
+6.  It was clarified that if a message (for the activities mentioned above) is sent using
+
+the STP centralised hub framework from one user to another user, then the
+confirmation / rejection for such a message shall also be sent using the STP
+centralised hub framework.
+
+In order to bring in clarity and better understanding SEBI in consultation with the STP
+centralised  hub,  STP  service  providers  and  the  STP  users  had  also  prescribed  the
+messaging standards for IFN 515, IFN 540 to 547, IFN 548 and IFN 598.
+
+In  order  to  bring  in  standardisation  in  the  input  of  the  identification  codes  in  the
+prescribed  messaging  standards  SEBI  in  the  circular  had  also  prescribed  the  following
+codes to be used by the various entities:
+
+1.  Brokers:  SEBI  registration  number  (until  MAPIN  ID  is  available  for  every
+
+broker)
+
+2.  Mutual  Funds  and  schemes  of  Mutual  Funds:  SEBI  registration  number  for
+Mutual Funds and Unique client code issued by the exchanges for schemes (until
+MAPIN ID is available for each scheme of a mutual fund)
+
+3.  FIIs and sub-accounts: SEBI registration number for FII and Unique client code
+issued by the exchanges for sub-account (until MAPIN ID is available for each
+FII and their sub-accounts)
+
+4.  Custodians:  SEBI  registration  number  (until  MAPIN  ID  is  available  for  every
+
+custodian)
+
+5.  STP service providers and STP centralised hub: MAPIN ID
+6.  Depositories and exchanges / clearing house / clearing corporation: MAPIN
+
+ID.
+
+Page 28 of 68
+
+Implementation of the revised scheme of STP
+
+7.  Other  Institutional  Investors  like  financial  institutions,  banks  etc.:  Unique
+client  code  issued  by  the  exchanges  (until  MAPIN  ID  is  available  for  each
+Institutional Investor)
+
+CHAPTER 8. 
+
+IS THE PROPOSED STP
+FRAMEWORK INDEED A SOLUTION?
+
+The  proposed  STP  framework  is  perceived  to  address  all  the  causes  of  concern
+highlighted above (in Chapter 5). To illustrate the following table enumerates the issues
+raised and proposed solution for each issue under the proposed STP framework:
+
+Issue
+
+Proposed Solution
+
+The  proposed  STP  framework  of  setting  up  a  STP
+centralised hub where all the STP Service Providers would
+get  connected  would  provide  the  requisite  platform  to
+implement  seamless  inter-operability  between  the  STP
+Service Providers.
+The proposed system of setting up an STP centralised hub
+where the STP centralised hub would be a router for all inter
+STP Service Providers’  related transactions would provide a
+link  for  the  varying  system  of  the  existing  STP  Service
+Providers and any future STP Service Provider which may
+join the STP framework as the STP centralised hub would
+prescribe  the  minimum  eligibility  conditions  for  all  STP
+Service Providers and the operating guidelines for their day
+to  day  operations 
+level  of
+standardisation to enable seamless communication between
+two STP Service Providers.
+The proposed STP framework would provide the flexibility
+to the STP Service Providers to have their digital signatures
+from  different  Certifying  Authority  registered  under  the
+
+to  bring 
+
+in 
+
+required 
+
+Page 29 of 68
+
+Sr.
+No.
+1.
+
+2.
+
+inter-
+
+Lack  of 
+operability
+between  the  STP
+Service Providers.
+
+Lack  of  Message
+Handshake
+Protocol
+
+3.
+
+Lack  of  Common
+Authentication  of
+Digital  Signature
+
+the  STP
+across 
+Service Providers.
+
+4.
+
+5.
+
+to 
+
+formats 
+
+Lack  of  end  to
+end compliance to
+ISO  messaging
+from
+formats 
+sender 
+the
+and
+recipient 
+absence 
+of
+standardisation  of
+for
+file 
+client’s 
+back
+office
+development
+Other
+technological
+issues like lack of
+a  common 
+file
+format,  protocol
+import
+detailing, 
+file 
+formats,
+message
+exchange
+
+Implementation of the revised scheme of STP
+
+Information  Technology  Act,  2000.  The  STP  Service
+Providers  as  part  of  their  eligibility  criteria  would  be
+required  to  share  the  application  used  by  them  in  digitally
+signing the messages with the centralized hub to enable the
+centralized  hub  to  recognize  the  signature  of  a  particular
+STP Service Provider. The STP centralised hub would also
+have  a  system  logic  of  using  the  necessary  software  (for
+digital signature) to enable the message to flow seamlessly
+from  one  STP  Service  Provider  using  one  software  for
+digital signature to another STP Service Provider having a
+different software for digital signature.
+Under  the  proposed  STP  framework,  the  STP  centralised
+hub  would  provide  standardized  client  software  which  the
+STP  Service  Providers  could  install  at  the  back  office  of
+their clients.
+
+The  STP  centralised  hub  has  prescribed  the  technical
+specifications  to  resolve  the  issues  of  lack  of  common  file
+format,  common  protocol  detailing,  import  file  formats,
+message  exchange  protocol  and  other  technological  issues.
+Further,  technological  advancements  are  dynamic  and
+undergo  continuous  change.  However  the  proposed  STP
+framework of a STP centralised hub which would connect to
+all 
+for  all  STP  related
+transactions  and  a  common  client  software  applications
+
+the  STP  Service  Providers 
+
+Page 30 of 68
+
+6.
+
+7.
+
+8.
+
+protocol, methods
+of encryption, and
+logical
+connectivity.
+Formation  of  a
+monopolistic
+situation  due  to
+lack 
+inter-
+operability  with
+all 
+clients
+forced  to  sign  up
+with  one  STP
+Service Provider.
+Absence 
+a
+common
+agreement  among
+the  STP  Service
+Providers
+
+the 
+
+of 
+
+of 
+
+Lack  of  Service
+Legal  Agreement
+between  the  STP
+Service  Providers
+guarantee
+to 
+delivery  of 
+the
+entire  message  in
+a 
+secure 
+and
+confidential
+manner
+
+Implementation of the revised scheme of STP
+
+builds in the required flexibility for necessary up gradations
+and  technological  advancements  for  higher  efficiency  and
+robustness of the system.
+
+The formation of a STP centralised hub and a standardized
+platform  to  enable  seamless  inter-operability  would  enable
+multiple  STP  Service  Providers  to  co-exist  on  a  level
+playing  field  leading  to  healthy  competition  for  higher
+efficiency and economy of service.
+
+Under  the  revised  system  of  STP,  SEBI  has  prescribed  a
+model agreement between the STP centralised hub and the
+STP  Service  Providers  which  would  standardize  all  the
+relevant  conditions  like  operations,  legal  framework  etc.
+Further  there  is  also  a  prescribed  regulatory  framework  in
+the form of STP Guidelines.
+The  model  STP  framework  would  have  a  complete  audit
+trail with time stamping of the flow of messages (for inter
+STP Service Providers’  transactions) right from the sending
+client’s system upto the recipient client’s system. A system
+of acknowledgement on successful delivery of the message
+would  also  be  formulated  to  ensure  a  secure  means  of
+communication. As regards, confidentiality of the message,
+the proposed STP framework would ensure that the original
+message would not be opened by the STP centralised hub.
+The time stamping by the STP centralised hub and the STP
+Service Providers would be done on a wrapper which could
+be  executed  without  opening 
+the  message  ensuring
+confidentiality of the message.
+
+Page 31 of 68
+
+9.
+
+10.
+
+to
+
+inter-
+
+High 
+connectivity
+charges 
+interconnect
+different 
+STP
+Service Providers
+Commercial
+considerations  –
+bearing  of 
+the
+additional  cost  of
+developing 
+and
+maintaining  such
+interfaces
+
+Implementation of the revised scheme of STP
+
+Under  the  proposed  STP  framework,  the  STP  centralised
+hub  would  be  established  as  an  ISP.  As  per  the  existing
+rules, there are no inter-connecting charges for any number
+of  connections  including  connections  to  existing  CUG
+networks.
+
+The proposed STP framework should resolve all the issues
+of inter-operability between the STP Service Providers and
+the  legality  of  electronic  delivery  of  contract  notes.  This
+could increase the STP traffic considerably thus making the
+whole  project  commercially  viable.  On  the  stabilization  of
+the  STP  framework,  the  same  hub  could  also  be  extended
+for retail trades which could exponentially increase the STP
+traffic.  Further  alternative  uses  of  the  STP  centralised  hub
+like 
+for  various
+exchanges, depositories, and market participants could also
+be conceived.
+
+communication  platform 
+
+standard 
+
+From the above, it can be seen that the proposed STP framework would address all the
+perceived  bottlenecks  which  had  prevented  the  STP  traffic  to  expand.  However  it  is
+important that the proposed STP framework is implemented in the manner perceived and
+complete in all respects to achieve the inherent benefits of the system.
+
+Page 32 of 68
+
+Implementation of the revised scheme of STP
+
+CHAPTER 9. 
+
+ POST IMPLEMENTATION
+
+The  STP  system  was  mandatory  for  all  institutional  trades  executed  on  the  exchanges
+w.e.f.  July  01,  2004.  In  the  first  week  of  July  2004,  there  were  a  lot  of  rejections
+witnessed in the STP system. Meetings were held with the STP centralised hub and STP
+Service  Providers  to  identify  the  main  causes  of  rejections  and  find  their  possible
+solutions. It was observed that the rejections were mainly due to the operational issues
+relating to the identification of the entities involved in the STP system. The issues were
+considered and addressed to. There has been a considerable fall in the rejections within
+the first fortnight of July 2004.
+
+There has been a lot of appreciation from various sections of the market with respect to
+the proactive steps taken by SEBI in implementing STP. Initiatives are being pursued to
+extend  the  use  of  the  STP  in  the  entire  settlement  process  to  complete  the  logical
+extension in the gamut of the securities market.
+
+Page 33 of 68
+
+Implementation of the revised scheme of STP
+
+CHAPTER 10.  LIST OF APPENDICES
+
+SEBI letter no. FITTC/FII/19320/2002 dated October 03, 2002.
+
+SEBI circular no. SMDRP/POLICY/Cir-15/00 dated December 15, 2000
+
+SEBI clarification vide letter dated SEBI/SMD/SE/15/2003/29/04 dated April
+29, 2003.
+
+SEBI circular no. DNPD/Cir-9/04 dated February 3, 2004
+
+SEBI circular no. SEBI/MRD/SE/Cir-11/2004 dated February 25, 2004
+
+SEBI circular no. DNPD/Cir- 22 /04 dated April 1, 2004.
+
+SEBI vide circular no. DNPD/Cir- 23/04 dated April 27, 2004.
+
+SEBI circular no. DNPD/Cir-24/04 dated May 26, 2004.
+
+SEBI circular no. DNPD/Cir-25/04 dated June 10, 2004.
+
+1) 
+
+2) 
+
+3) 
+
+4) 
+
+5) 
+
+6) 
+
+7) 
+
+8) 
+
+9) 
+
+Page 34 of 68
+
+Implementation of the revised scheme of STP
+
+10.1.  APPENDIX 1
+
+EXECUTIVE DIRECTOR
+FITTC DEPARTMENT
+
+FITTC/FII/19320/2002
+October 03, 2002
+
+TO
+
+All Custodians, Stock Exchanges/Depositories
+
+Sub : Introduction of Straight Through Processing.
+
+Dear Sir,
+
+The  Indian  securities  market  has  undergone  through  a  rapid  expansion  during  the  last
+decade such as dematerialization, rolling settlement, shorter settlement cycles etc.
+
+Presently  trades  are  settled  in  the  stock  exchanges  on  T+3  basis.    Further,  it  is  also
+decided to gradually move from T+3 settlement period to T+2 and T+1 settlement period
+by March 2004.
+
+The  process  of  trade  settlement  starting  from  origination  of  trade  till  execution  and
+settlement of the same involves manual entry and re-entry of the same trade particulars
+by the different market participants.  This manual process is time taking and subject to
+errors  because  of  manual  intervention  repeatedly.    For  smooth  functioning  of  T+3
+settlement period or shorter period and to avoid manual intervention a single automated
+process from origination of trade though to settlement is the need of the hour.  Therefore,
+the  concept  Straight  Through  Processing  (STP)  which  is  basically  capturing  and
+processing  through  settlements  of  a  trade  particulars  electronically  without  manual
+intervention, is required to be adopted.
+
+In  order  to  examine  the  feasibility  of  STP  in  the  Indian  markets,  SEBI  constituted  a
+committee  comprising  of  representatives  from  various  market  intermediaries  and  from
+the Reserve Bank of India.
+
+The Committee in its report has observed and recommended the following :
+
+Markets throughout the world are continually looking for new investment opportunities.
+Foreign  Investment  into  India  will  be  determined,  not  only,  on  investment  opportunity
+but also on the operational efficiency and risk profiles of the Indian market.  Introducing
+a  process  which  increases  operational  efficiency  will  only  enhance  India’s  profile  and
+therefore its attractiveness to foreign investment.
+
+Further,  reducing  the  settlement  cycle,  the  time  between  execution  to  settlement,  will
+eliminate  many  of  the  risks  associated  with  trade  processing.    Achieving  seamlessness
+
+Page 35 of 68
+
+Implementation of the revised scheme of STP
+
+will be an enabler for these shorter settlement cycles to assist both domestic and cross-
+border trades in Indian securities.
+
+1.  Adoption of ISO 15022 messaging standards by the market participants.
+2.  Electronisation of contract Notes.
+3.  Connectivity among the market participants and implementation of STP.
+
+It has been decided to accept the committee’s recommendations and introduce STP for
+electronic trade processing with a common messaging standard i.e. ISO 15022 with effect
+from December 02, 2002.
+
+You  are  advised  to  bring  this  to  the  notice  of  all  your  constituents  and  take  necessary
+steps to implement STP by the aforesaid date.
+
+Please acknowledge receipt.
+
+Yours faithfully
+
+R.M. JOSHI
+EXECUTIVE DIRECTOR
+
+Page 36 of 68
+
+Implementation of the revised scheme of STP
+
+10.2.  APPENDIX 2
+
+SECURITIES AND EXCHANGE BOARD OF INDIA
+
+SECONDARY MARKET DEPARTMENT
+
+Mittal Court, A Wing, Gr. Floor,
+
+224, Nariman Point, Mumbai 400 021
+
+SMDRP/POLICY/CIR-56/00
+December 15, 2000
+
+To:
+
+The President/Executive Director/
+Managing Director of all the Stock Exchanges
+
+Dear Sir/Madam,
+
+Use of Digital Signature on Contract Notes
+
+Following passing of the Information Technology Act, 2000 (IT Act), contract notes with
+digital  signatures  are  legally  valid.  This  issue  was  discussed  in  the  meeting  of  the
+Secondary Market Advisory Committee (SMAC) of SEBI held on November 28, 2000.
+
+Pursuant to the discussions in the SMAC and provisions of the IT Act, it is clarified that
+the  brokers  are  allowed  to  issue  contract  notes  authenticated  by  means  of  digital
+signatures  provided  that  the  broker  has  obtained  digital  signature  certificate  from
+Certifying Authority under the IT Act, 2000. Mode of confirmation by the client may be
+as specified in the agreement between the broker and the client.
+
+Yours faithfully,
+ 
+
+P. K. BINDLISH
+DIVISION CHIEF
+SECONDARY MARKET, DEPOSITORY,
+RESEARCH & PUBLICATIONS DEPARTMENT
+E-Mail : pkb@sebi.gov.in
+
+Page 37 of 68
+
+Implementation of the revised scheme of STP
+
+10.3.  APPENDIX 3
+
+General Manager
+Secondary Market Department
+e-mail :  pkb@sebi.gov.in
+SEBI/SMD/SE/15/2003/29/04
+
+To
+Managing Directors and Executive Directors
+Of all the stock exchanges
+ 
+Dear Sir,
+
+April 29, 2003
+
+Sub :- Issuance of Contract Notes in electronic form
+
+This  circular  is  being  issued  in  exercise  of  powers  conferred  by  section  11  (1)  of  the
+Securities and Exchange Board of India Act, 1992, read with section 10 of the Securities
+Contracts(Regulation) Act 1956, to protect the interests of investors in securities and to
+promote the development of, and to regulate the securities market.
+
+Please refer to our circular no. SMDRP/POLICY/CIR-56/00 dated December 15, 2000 on
+the  captioned  subject  wherein  it  was  stated  that  brokers  can  issue  contract  notes
+authenticated by means of digital signatures provided that the broker has obtained digital
+signature certificate from Certifying Authority under the IT Act, 2000.
+SEBI has been receiving representations from market participants whether, they can issue
+contract notes in electronic form. In this regard, it is clarified that by virtue of our above
+mentioned  circular,  the  contract  notes  can  be  issued  by  the  brokers  in  electronic  form
+authenticated by means of digital signatures.
+ 
+The  Exchanges  are  directed  to  make  necessary  amendments  to  the  bye-laws,  rules  and
+regulations to give effect to the above clarification immediately.
+ 
+The  Exchanges  are  directed  to  bring  this  clarification  to  the  notice  of  the  member
+brokers/clearing  members  of  the  Exchange  and  also  to  disseminate  the  same  on  the
+website for easy access to the investors.
+ 
+The  Exchanges  are  also  directed  to  communicate  to  SEBI,  the  status  of  the
+implementation of this circular in Section II, item no. 13 of the Monthly Development
+Report for the month of April 2003.
+ 
+ Yours faithfully
+ 
+ 
+P K Bindlish
+
+Page 38 of 68
+
+Implementation of the revised scheme of STP
+
+10.4.  APPENDIX 4
+
+CHIEF GENERAL MANAGER
+DERIVATIVES AND NEW PRODUCTS DEPARTMENT
+
+DNPD/ Cir-9/04
+February 3, 2004
+
+The Executive Director / Managing Director / Administrators
+Of all Stock Exchanges.
+
+Dear Sir,
+
+Sub: Issuance of Electronic Contract Notes
+
+15, 
+
+2000 
+
+and 
+
+This  is  in  continuation  of  the  SEBI  circular  no.  SMDRP/POLICY/Cir-15/00  dated
+December 
+dated
+SEBI/SMD/SE/15/2003/29/04 dated April 29, 2003 on the issue of an electronic contract
+note  whereby  SEBI  had  permitted  the  issue  of  electronic  contract  notes  with  digital
+signature  obtained  from  a  valid  Certifying  Authority  provided  under  the  Information
+Technology  Act,  2000  (IT  Act).  The  exchanges  were  directed  to  make  the  necessary
+amendments to the bye-laws, rules and regulations for the implementation of the same.
+
+clarification 
+
+issued 
+
+letter 
+
+vide 
+
+It has been brought to the notice of SEBI that the format of the electronic contract note
+prescribed  by  the  exchanges  were  not  in  conformity  with  the  format  of  the  physical
+contract  note  particularly  with  respect  to  the  pre-printed  terms  and  conditions.  Hence
+members  issuing  electronic  contract  notes  were  also  issuing  physical  contract  notes
+which amounted to duplication and unnecessary reconciliation between the physical and
+electronic contract notes.
+
+In order to streamline the issuance of electronic contract notes as a legal document like
+the physical contract note, the exchanges are advised to implement the following:
+
+1) 
+
+2) 
+
+3) 
+
+The exchanges would prescribe a standard format for the electronic contract
+note 
+(refer  URL:
+prescribed) 
+http://www.sebi.gov.in) in its bye-laws, rules and regulations.
+
+the  model 
+
+format 
+
+(based 
+
+on 
+
+The  exchange  bye-laws,  rules  and  regulations  for  issuance  of  electronic
+contract  note  shall  be  amended  to  include  all  the  standard  pre-printed  terms
+and  conditions  in  the  physical  contract  note.  The  electronic  contract  note
+would  mention  the  relevant  bye-laws  /  rules  /  regulations  of  the  exchange
+subject to which the said contract note is being issued.
+
+The  exchange  shall  also  modify  /  amend  other  relevant  bye-laws,  rules  and
+regulations with respect to signing of the electronic contract note with a digital
+
+Page 39 of 68
+
+Implementation of the revised scheme of STP
+
+signature so as to make the modified format of the electronic contract note a
+valid legal document like the physical contract note.
+
+4) 
+
+The mechanism of record keeping of electronic contract notes in a soft non-
+tamperable form shall be prescribed by the exchange in compliance with the
+provisions of the IT Act, 2000.
+
+Hence you are advised to, -
+
+?  Make necessary amendments to the relevant bye-laws, rules and regulations of
+
+the exchange for the implementation of the above decision immediately.
+
+?  Bring the provisions of this circular to the notice of members of the Exchange
+
+and also disseminate the same on your website, if any.
+
+?  Communicate to SEBI, the status of the implementation of the provisions of
+this circular in Section II, item no 13 of the Monthly Development Report for
+the month of February 2004.
+
+This circular is being issued in exercise of powers conferred under section 11 (1) of the
+Securities and Exchange Board of India Act 1992, read with section 10 of the Securities
+Contracts (Regulation) Act, 1956 to protect the interests of investors in securities and to
+promote the development of, and to regulate the securities market.
+
+Yours sincerely,
+
+N. PARAKH
+
+Page 40 of 68
+
+Implementation of the revised scheme of STP
+
+10.5.  APPENDIX 5
+
+DEPUTY GENERAL MANAGER
+Market Regulation Department
+E-mail: sundaresanvs@sebi.gov.in
+
+The Executive Directors / Managing Director/Administrators
+of All Stock Exchanges
+Dear Sir / Madam,
+
+SEBI/MRD/SE/Cir-11/2004
+February 25, 2004
+
+Sub: Issuance of Electronic Contract Notes – Debt Market
+
+1.  This is in continuation of SEBI Circular No.DNPD/Cir-9/04 dated February 3,
+
+2004 specifying the model format on the captioned subject for the equity market.
+
+2.  The model format for the issuance of electronic contract note for the debt market
+
+is enclosed. Based on this, the exchanges are advised to prescribe a standard
+format for issuance of the electronic contract note in its bye-laws, rules and
+regulations. (refer URL: http://www.sebi.gov.in)
+
+3.  The other requirements as mentioned in points 2, 3 and 4 of aforesaid circular
+
+dated 03/02/04 are applicable for debt market as well and accordingly, required to
+be complied with.
+
+4.  The Stock Exchanges are directed to;
+
+1.  make necessary amendments to the relevant bye-laws, rules and
+
+regulations for the implementation of the above decision immediately.
+
+2.  bring the provisions of this circular to the notice of the member
+
+brokers/clearing members of the Exchange and also to disseminate the
+same on the website.
+
+3.  communicate to SEBI, the status of the implementation of the provisions
+
+of this circular in Section II, item no. 13 of the Monthly Development
+Report for the month of March 2004.
+
+5.  This circular is being issued in exercise of powers conferred under Section 11 (1)
+of the Securities and Exchange Board of India Act, 1992, to protect the interests
+of investors in securities and to promote the development of, and to regulate the
+securities market.
+
+Yours faithfully,
+ 
+ 
+V S SUNDARESAN
+
+Page 41 of 68
+
+Implementation of the revised scheme of STP
+
+10.6.  APPENDIX 6
+
+PRATIP KAR
+EXECUTIVE DIRECTOR
+
+To
+
+All Stock Exchanges, Depositories and Custodians.
+
+ 
+
+Dear Sir,
+
+DNPD/Cir- 22 /04
+April 01, 2004
+
+Mandatory use of STP system for all institutional trades executed on the stock
+
+exchanges.
+
+Straight  Through  Processing  (STP)  is  generally  understood  to  be  a  mechanism  that
+automates the end to end processing of transactions of financial instruments. It involves
+use  of  a  system  to  process  or  control  all  elements  of  the  work  flow  of  a  financial
+transaction,  what  are  commonly  known  as  the  Front,  Middle,  Back  office  and  General
+Ledger. In other words, STP allows electronic capturing and processing of transactions in
+one pass from the point of order origination to final settlement. STP thus streamlines the
+process  of  trade  execution  and  settlement  and  avoids  manual  entry  and  re-entry  of  the
+details  of  the  same  trade  by  different  market  intermediaries  and  participants.  Usage  of
+STP enables orders to be  processed, confirmed, settled in a shorter time period and in a
+more cost effective manner with fewer errors. Apart from compressing the clearing and
+settlement time, STP also provides a flexible, cost effective infrastructure, which enables
+e-business expansion through online processing and access to enterprise data.
+
+SEBI vide letter dated October 3, 2002 informed the stock exchanges, depositories and
+custodians  that  it  proposed  to  introduce  STP  for  electronic  trade  processing  with  a
+common messaging standard ISO 15022 w.e.f December 2, 2002. Accordingly, STP was
+launched  in  India  on  November  30,  2002.  Currently,  STP  is  being  used  by  the  market
+participants  on  a  voluntary  basis.  To  facilitate  STP,  SEBI  has  also  issued  circulars
+SMDRP/POLICY/Cir-15/00 
+circular
+SEBI/SMD/SE/15/2003/29/04  dated  April  29,  2003  which  permitted  the  issue  of
+electronic contract notes with digital signature obtained from a valid Certifying Authority
+provided  under  the  Information  Technology  Act,  2000  (IT  Act)  and  circular  no.
+DNPD/Cir-9/04 dated February 3, 2004 & circular no. SEBI/MRD/SE/Cir-11/2004 dated
+February 25, 2004 directing exchanges to amend their bye-laws, rules and regulations for
+the equity and the debt segment to streamline the issuance of electronic contract notes as
+a  legal  document  like  the  physical  contract  note.  Exchanges  are  in  the  process  of
+amending their bye-laws, rules and regulations.
+
+December 
+
+dated 
+
+15, 
+
+2000 
+
+& 
+
+Page 42 of 68
+
+Implementation of the revised scheme of STP
+
+While  several  STP  Service  Providers  have  been  providing  STP  service  to  the  market
+participants, however, there was no inter-operability between the STP Service Providers.
+
+ To resolve the issue of inter-operability between the STP Service Providers, it has been
+decided in consultation with the stock exchanges and the STP Service Providers that a
+STP Centralised Hub would be setup. Currently this STP Centralised Hub has been setup
+and  made  operational  by  NSE.  NSE  has  obtained  the  necessary  approvals  from
+Department  of  Telecommunications  (DoT)  as  an  Internet  Service  Provider  (ISP).
+Subsequently this STP Centralised Hub would be further developed jointly with BSE.
+
+In view of the aforesaid developments, it has been decided that all the institutional trades
+executed  on  the  stock  exchanges  would  be  mandatorily  processed  through  the  STP
+System w.e.f July 01, 2004. This circular is being issued to provide adequate notice to
+the  market  and  market  participants  about  the  mandatory  use  of  STP  Service  for
+institutional  trades.  A  circular  containing  the  detailed  process  flow,  role  and
+responsibilities  of  the  STP  Service  Providers  and  the  STP  Centralised  Hub,  standard
+agreement  between  the  STP  Service  Providers  and  the  STP  Centralised  Hub  would  be
+issued shortly..
+
+This  circular  is  being  issued  in  exercise  of  powers  conferred  by  section  11  (1)  of  the
+Securities and Exchange Board of India Act, 1992, read with section 10 of the Securities
+Contracts(regulation) Act 1956, to protect the interests of investors in securities and to
+promote the development of, and to regulate the securities market.
+
+Yours faithfully,
+
+  
+PRATIP KAR
+
+Page 43 of 68
+
+Implementation of the revised scheme of STP
+
+10.7.  APPENDIX 5
+
+GENERAL MANAGER
+
+DNPD/Cir-23/04
+April 27, 2004
+
+All Exchanges, Clearing Corporation / Clearing House,
+Depositories, Custodians, AMFI, STP service providers and STP Centralized Hub
+
+Dear Sir,
+
+1)  Further to the circular no. DNPD/Cir-22/2004 dated April 1, 2004 mandating the use
+of the Straight Through Processing (STP) System for all institutional trades w. e. f.
+July  1,  2004.  The  present  circular  contains  the  detailed  system  flow  which  was
+referred to in the said circular.
+
+2) 
+
+The system flow of the STP framework would be as follows:
+
+a)  A STP user intending to send an instruction would send the message to his STP
+
+service provider after digitally signing the same.
+
+b)  The STP service provider would verify the signature of the STP user and forward
+
+it to the
+
+i)  recipient STP user, if the recipient STP user is availing services of the same
+
+STP service provider; or the
+
+ii)  STP centralized hub if the recipient STP user is not with the same STP service
+provider. In such a case the STP service provider would be required to prepare
+a message as per the STP centralized hub prescribed message format, enclose
+the  user’s  message,  digitally  sign  the  message  and  then  send  it  to  the  STP
+centralized hub
+
+c)  On receipt of the message by the STP centralized hub, the STP centralized hub
+
+would
+i)  verify the signature of the sending STP service provider only.
+ii)  send an acknowledgment to the sending STP service provider.
+
+d)  The STP centralized hub would forward the message to the recipient STP service
+
+provider after digitally signing on the message.
+
+e)  The  recipient  STP  service  provider  on  receipt  of  the  message  from  the  STP
+centralized hub, shall verify the signature of the STP centralized hub, verify if the
+recipient  STP  user 
+itself  and  send  an  appropriate
+acknowledgment  with  digital  signature  to  the  STP  centralized  hub.  The  STP
+
+is  associated  with 
+
+Page 44 of 68
+
+Implementation of the revised scheme of STP
+
+centralized  hub  would  in  turn  forward  the  acknowledgment  (received  from  the
+recipient STP service provider) duly signed to the sending STP service provider.
+
+f)  The recipient STP service provider shall forward the message to the recipient STP
+user.  The recipient STP user would receive the message and verify the signature
+of the recipient STP service provider and sending STP user.
+
+To enable inter-operation, the STP centralized hub would provide a utility / client
+software to the STP service provider. The STP service provider’s  point  of  interface
+with the STP centralized hub would be through this utility / client software. The PKI
+(Public  key  infrastructure)  system  for  the  interface  shall  be  implemented  at  a  later
+stage.
+
+The block diagram of the entire STP System is enclosed in Annexure I.
+
+This circular is being issued in exercise of powers conferred by section 11 (1) of
+the  Securities  and  Exchange  Board  of  India  Act,  1992,  read  with  section  10  of  the
+Securities  Contracts(regulation)  Act  1956,  to  protect  the  interests  of  investors  in
+securities and to promote the development of, and to regulate the securities market.
+
+3) 
+
+4) 
+
+5) 
+
+Yours faithfully,
+
+D. RAVIKUMAR
+
+Page 45 of 68
+
+Annexure I
+
+Implementation of the revised scheme of STP
+
+Block Diagram of the STP System for inter STP Service Provider
+
+Transfer of messages
+
+Sending STP Service Provider
+
+Sending STP User
+
+STP CENTRALISED
+
+HUB
+
+Recipient STP Service Provider
+
+Receiving STP User
+
+Message flow
+
+Acknowledgement
+
+Page 46 of 68
+
+Implementation of the revised scheme of STP
+
+10.8.  APPENDIX 6
+
+CHIEF GENERAL MANAGER
+DERIVATIVES AND NEW PRODUCTS DEPARTMENT
+
+DNPD/Cir-24/04
+May 26, 2004
+
+All Exchanges, Clearing Corporation / Clearing House,
+Depositories, Custodians, AMFI, STP service providers and STP Centralized Hub
+
+Sub: Straight Through Processing Service in the Indian Securities Market
+
+Dear Sir,
+
+1) 
+
+This is in continuation to our previous circular no. DNPD/Cir-9/04 dated February
+3,  2004  &  circular  no.  SEBI/MRD/SE/Cir-11/2004  dated  February  25,  2004
+streamlining  the  issuance  of  electronic  contract  notes  as  a  legal  document  like  the
+physical  contract  note  for  the  equity  and  debt  segments,  circular  no.  DNPD/Cir-
+22/2004 dated April 1, 2004 mandating the use of the Straight Through Processing
+(STP)  system  for  all  institutional  trades  w.  e.  f.  July  1,  2004  and  circular  no.
+DNPD/Cir-23/04  dated  April  27,  2004  prescribing  the  detailed  system  flow  of  the
+STP system.
+
+2)  SEBI in order to regulate the STP service is hereby issuing the SEBI (STP centralised
+hub  and  STP  service  providers)  Guidelines,  2004  (herein  referred  to  as  “STP
+Guidelines”) which also prescribes the model agreement between the STP centralised
+hub and the STP service providers.
+
+3)  The STP guidelines prescribes the eligibility criteria and conditions of approval for
+the  STP  centralised  hub  and 
+the  STP  service  providers,  obligations  and
+responsibilities of the STP centralised hub and the STP service providers and code of
+conduct for the STP service providers. The STP centralised hub and the STP service
+providers shall abide by these Guidelines.
+
+4)  To  prescribe  contractual  obligations  between  the  STP  centralised  hub  and  the  STP
+service  providers  and  to  facilitate  standardisation  of  service,  a  model  agreement
+between  the  STP  centralised  hub  and  the  STP  service  providers  has  also  been
+prescribed  by  SEBI  and  is  prescribed  as  Schedule  II  of  the  STP  Guidelines.  The
+agreement  between  the  STP  centralised  hub  and  the  STP  service  provider  shall
+include the provisions included in the model agreement.
+
+5)  This circular is being issued in exercise of powers conferred by section 11 (1) of the
+Securities  and  Exchange  Board  of  India  Act,  1992,  read  with  section  10  of  the
+Securities  Contracts(regulation)  Act  1956,  to  protect  the  interests  of  investors  in
+securities and to promote the development of, and to regulate the securities market.
+
+Page 47 of 68
+
+Implementation of the revised scheme of STP
+
+Yours sincerely,
+
+N. PARAKH
+
+Encl.
+1) 
+
+SEBI (STP centralised hub and STP service providers) Guidelines, 2004
+
+Page 48 of 68
+
+SECURITIES AND EXCHANGE BOARD OF INDIA (STP CENTRALISED HUB
+
+AND STP SERVICE PROVIDERS) GUIDELINES, 2004
+
+Implementation of the revised scheme of STP
+
+1) 
+
+(1) 
+
+(2) 
+
+(3) 
+
+2) 
+
+(1) 
+
+PRELIMINARY
+
+These Guidelines shall be called the Securities and Exchange Board of India
+(STP Centralised Hub and STP Service Providers) Guidelines, 2004.
+
+These  Guidelines  are  being  issued  under  section  11  of  the  Securities  and
+Exchange  Board  of  India  Act,  1992  to  promote  the  development  of  the
+securities market.
+
+They shall come into force on 26th day of May, 2004
+
+DEFINITIONS
+
+In these Guidelines, unless the context otherwise requires:-
+
+(a)  “Act” means the Securities and Exchange Board of India Act, 1992;
+
+(b)  “Certifying Authority” means a certifying authority who has been granted
+
+a license under section 24 of the Information Technology Act, 2000;
+
+(c)  "SEBI"  means  the  Securities  and  Exchange  Board  of  India  established
+
+under Section 3 of the Act;
+
+(d)  “STP” means straight through processing;
+
+(e)  “STP  centralised  hub”  means  an  infrastructure  set-up  by  a  person  or
+entity for the purpose of rendering STP service by providing a platform
+for communication between different STP service providers;
+
+(f)  "STP message" means and includes all the messages for electronic trade
+processing  with  a  common  messaging  standard  as  may  be  defined  by
+SEBI from time to time;
+
+(g)  “STP service” means the setting up and maintaining of infrastructure to
+create  an  electronic  communication  network  to  facilitate  information
+exchange  with  respect  to  securities  market  transactions  between  various
+market  participants  from  the  stage  of  trade  initiation  to  final  settlement
+through a STP system flow as may be determined by SEBI from time to
+time;
+
+(h)  "STP service provider” means a person or entity providing STP service to
+STP users to the extent of conveying messages between a STP user and
+the STP centralised hub and/or between two STP users;
+
+(i)  “STP  user” means  all  the  users  of  the  STP  service  and  includes  such
+
+users as are stipulated by SEBI; and,
+Page 49 of 68
+
+Implementation of the revised scheme of STP
+
+(j)    “TRAI” means  the  Telecom  Regulatory  Authority  of  India  established
+
+under the Telecom Regulatory Authority of India Act, 1997.
+
+(2) Words and expressions used and not defined in these Guidelines, but defined in the
+Act  or  in  the  Securities  Contracts  (Regulation)  Act,  1956  or  in  any  rules  or
+regulations made thereunder, shall have the meanings respectively assigned to them
+in such Acts, rules or regulations.
+
+3) 
+
+(1) 
+
+(2) 
+
+4) 
+
+(1) 
+
+ELIGIBILITY  CRITERIA  FOR  STP  CENTRALISED  HUB  AND  STP
+SERVICE PROVIDERS
+
+No person shall act as an STP centralised hub or a STP Service provider
+unless it obtains approval from SEBI to provide such service.
+
+For the grant of a certificate of approval SEBI shall take into account the
+following:
+
+ i.  whether  the  applicant  is  a  person  or  entity  with  a  minimum
+
+networth as may be prescribed from time to time.
+
+ ii.  whether the applicant has adequate infrastructure facilities setup in
+India  like  office  space,  equipment  and  manpower  with  adequate
+experience  in  dealing  in  securities  market  and  adequate  expertise
+in providing necessary services and software solutions.
+
+OBLIGATIONS  AND  RESPONSIBILITIES  OF  STP  CENTRALISED
+HUB
+
+The STP centralised hub shall comply with the following:-
+
+ i.  The  STP  centralised  hub  shall  at  all  times  comply  with  the
+
+requirement of eligibility criteria, specified by SEBI.
+
+ ii.  The  STP  centralised  hub  shall  abide  by  all  the  provisions  of  the
+Act,  Rules,  Regulations,  Guidelines,  Resolutions,  Notifications,
+Directions, Circular, etc. as may be issued by the Government of
+India / TRAI / Department of Telecommunications and SEBI from
+time to time as may be applicable to the STP centralised hub.
+
+iii.  The  STP  centralised  hub  shall  obtain  such  approval/s  from  such
+
+ 
+
+authorities as may be necessary to function as a centralised hub.
+
+ 
+
+iv.  The STP centralised hub shall obtain a digital signature certificate
+from  a  Certifying  Authority  and  shall  ensure  that  such  digital
+signature certificate is valid and in force at all times. A copy of the
+certificate  shall  be  submitted  to  all  the  recognized  STP  service
+providers.
+
+ v.  The  STP  centralised  hub  shall  deliver  a  consistent  and  secure
+communication  platform 
+continuous
+connectivity with all the  recognized STP service providers to the
+best of its ability.
+
+establish 
+
+shall 
+
+and 
+
+Page 50 of 68
+
+Implementation of the revised scheme of STP
+
+ vi.  The  STP  centralised  hub  shall  verify  the  digital  signature
+the  STP  Service  Provider  before
+
+furnished  by 
+
+certificate 
+connecting it to the STP centralized hub.
+
+ vii.  The  STP  centralised  hub  shall  confirm  authenticity,  integrity  and
+non-reputability  of  all  messages  submitted  by  the  STP  Service
+Provider.
+
+viii.  The  STP  centralised  hub  shall  ensure  that  the  message  received
+from  the  STP  service  provider  is  in  the  specified  messaging
+standard.
+
+ix.  The STP centralised hub shall promptly deliver the messages to the
+recipient  STP  service  provider  and  shall  ensure  that  only  the
+intended STP Service Provider receives the message.
+
+ x.  The  STP  centralised  hub  shall  digitally  sign  all  messages  sent  to
+
+ 
+
+ 
+
+the STP service provider.
+
+ xi.  The  STP  centralised  hub  shall  maintain  a  directory  of  all  STP
+
+service providers and STP users.
+
+ xii.  The  STP  centralised  hub  shall  maintain  a  complete  record  of  the
+flow  of  messages  processed.  The  records  of  the  STP  centralised
+hub shall be open for inspection by SEBI or any other person duly
+authorised by SEBI for this purpose.
+
+xiii.  The  STP  centralised  hub  shall  not  modify 
+
+the
+communication protocol without consulting all the approved STP
+service providers.
+
+/  amend 
+
+xiv.  The  STP  centralised  hub  shall  ensure  that  the  message  is  not
+
+ 
+
+ 
+
+misused or tampered with while in its possession.
+
+ xv.  The  STP  centralised  hub  shall  maintain  confidentiality  of
+information about its users and shall not divulge the same to other
+clients, the press or any other person except in accordance with law
+or as per the directions of any court of law or of SEBI.
+
+xvi.  The STP centralised hub may charge reasonable fees from the STP
+
+ 
+
+service providers.
+
+5) 
+
+(1) 
+
+OBLIGATIONS  AND  RESPONSIBILITIES  OF  STP  SERVICE
+PROVIDER
+
+The STP Service provider shall comply with the following :-
+
+ i.  The  STP  service  provider  shall  at  all  times  comply  with  the
+
+requirement of eligibility criteria, specified by SEBI.
+
+ ii.  The STP service provider shall establish connectivity with the STP
+
+centralised hub before providing STP service to its users.
+
+ 
+
+iii.  The STP service provider shall provide the necessary details of the
+STP  users  connected  with  it  and  all  its  details  to  the  STP
+centralised  hub  for  the  purpose  of  creating  and  maintaining  a
+directory of STP service providers and STP users.
+
+iv.  The  STP  service  provider  shall  comply  with  the  minimum
+specifications specified by the STP centralised hub and as may be
+mutually agreed upon.
+
+ 
+
+Page 51 of 68
+
+Implementation of the revised scheme of STP
+
+ v.  The  STP  service  provider  shall  abide  by  the  service  standards  as
+may  be  specified  by  SEBI  and  /  or  the  STP  centralised  hub  in
+consultation with the STP service providers.
+
+ vi.  The  STP  Service  Provider  shall  obtain  a  digital  signature
+certificate  from  a  Certifying  Authority  and  submit  a  copy  of  the
+Certificate to the STP centralised hub.
+
+ vii.  The  STP  Service  Provider  shall  ensure  that  the  digital  signature
+
+certificate is valid and in force.
+
+ 
+
+viii.  The  STP  service  providers  shall  deliver  a  consistent  and  secure
+communication  platform 
+continuous
+connectivity with the STP centralised hub to the best of its ability.
+ix.  The STP service provider shall ensure that the message sent to the
+
+establish 
+
+shall 
+
+and 
+
+ 
+
+STP centralised hub is in the prescribed messaging standard.
+
+ x.  The  STP  service  provider  shall  verify  the  digital  signature
+certificate furnished by the STP centralised hub before connecting
+itself to the STP centralised hub.
+
+ xi.  The STP service provider shall confirm authenticity, integrity and
+non-repudiability of all messages submitted to the STP centralised
+hub.  The  STP  service  provider  shall  keep  complete  track  of  the
+flow of messages for record and audit.
+
+ xii.  The  STP  service  providers  may  charge  reasonable  fees  from  the
+
+STP users.
+
+ 
+
+in 
+
+that 
+
+xiii.  The STP service provider shall exchange messages between other
+STP  service  providers  only  through  the  STP  centralised  hub.
+Provided 
+force  majuere  measures  or  any  other
+circumstances due to which the connectivity of the STP centralised
+hub  is  not  available,  the  STP  service  providers  after  mutual
+discussion may exchange messages directly among themselves for
+such period.
+
+xiv.  The  STP  service  providers  shall  digitally  sign  all  messages  sent
+
+ 
+
+from it to the STP centralised hub.
+
+ xv.  The STP service provider shall enter into an agreement with all its
+STP  users  which  shall  also  specify  the  fees  payable  by  the  STP
+user for the services.
+
+xvi.  The  STP  service  provider  shall  maintain  a  directory  of  the  STP
+
+ 
+
+users connected to it.
+
+ 
+
+xvii.  The STP service provider shall maintain a complete record of the
+flow of messages handled. The records of the STP service provider
+shall  be  open  for  inspection  by  SEBI  or  any  other  person  duly
+authorised by SEBI for this purpose.
+
+xviii.  The STP Service Provider shall verify the Digital signature on the
+
+ 
+
+message of the STP user connected to the STP Service Provider
+
+xix.  The  STP  service  provider  shall  ensure  that  the  message  from  the
+
+ 
+
+STP user is in the specified messaging format.
+
+ xx.  The STP service provider shall promptly deliver messages to and
+
+from the STP user.
+
+ 
+
+xxi.  In respect of inter STP service provider messages, the STP service
+provider  shall  perform  all  actions  to  the  best  of  its  ability  in  the
+same manner, diligence, speed and with all checks and balances as
+
+Page 52 of 68
+
+Implementation of the revised scheme of STP
+
+if  the  message  is  to  be  delivered  /  received  by  the  same  service
+provider.
+
+Nothing  in  these  guidelines  shall  exempt  the  STP  service  provider  from
+discharging  any  obligations  placed  on  it  by  any  law,  regulations  and
+guidelines.
+
+CONDITIONS  OF  APPROVAL  FOR  STP  CENTRALISED  HUB  AND
+STP SERVICE PROVIDERS
+
+Terms of approval:
+
+(2) 
+
+6) 
+
+(1) 
+
+ i.  The approval by SEBI shall be for an initial period of five years for
+STP centralised hub and for a period of three years for STP service
+providers and must be renewed periodically.
+
+ ii.  The  STP  centralised  hub  and  STP  service  provider  must  ensure
+continuous validity of  approval by SEBI in order to function as a
+STP service provider.
+
+ 
+
+iii.  The Board shall have the right to suspend / cancel the approval of
+the  STP  centralised  hub  and/or  STP  service  provider  in  case  of
+violation of the terms of the guidelines.
+
+7) 
+
+CODE OF CONDUCT FOR STP SERVICE PROVIDERS
+
+Every  STP  service  provider  shall  abide  by  the  Code  of  Conduct  as  specified  in
+Schedule I.
+
+8)  MODEL AGREEMENT
+
+The  STP  centralised  hub  shall  enter  into  an  agreement  with  every  STP  service
+provider on the lines of the Model Agreement given in Schedule II.
+
+Page 53 of 68
+
+Implementation of the revised scheme of STP
+
+SCHEDULE I
+
+CODE OF CONDUCT FOR STP SERVICE PROVIDERS
+
+(Clause 7 of the Guidelines)
+
+a.  The  STP  service  provider  shall  render  at  all  times  high  standards  of
+service,  exercise  due  diligence,  ensure  proper  care  and  exercise
+independent professional judgment.
+
+b.  The STP service provider shall disclose to the clients its possible sources
+or potential areas of conflict of duties and interest and provide unbiased
+services.
+
+c.  The  STP  service  provider  herein  agrees  and  undertakes  to  perform  its
+duties as a STP service provider with the highest standards of integrity and
+fairness in all its dealings.
+
+d.  The STP service provider shall abide by the obligation as specified under
+these Guidelines and the terms of the agreement entered into by the STP
+service provider with the STP users / STP centralised hub.
+
+e.  The  STP  service  provider  shall  maintain  true  and  correct  record  of  the
+messages processed by it under the scheme and in particular the records in
+respect of:-
+
+ i.  the STP users
+
+ ii.  the messages exchanged within the same STP service provider
+
+iii.  the messages exchanged with other STP service providers through
+
+ 
+
+the STP centralised hub
+
+f.  The STP service provider shall ensure that the message is not misused or
+
+tampered with while in its possession.
+
+g.  The  STP  service  provider  shall  maintain  confidentiality  of  information
+about its users and shall not divulge the same to other clients, the press or
+any  other  interested  party  except  in  accordance  with  law  or  as  per  the
+directions of any court of law.
+
+h.  The  STP  service  provider  shall  abide  by  all  the  provisions  of  the  Act,
+Rules,  Regulations,  Guidelines,  Resolutions,  Notifications,  Directions,
+Circular,  etc.  as  may  be  issued  by  the  Government  of  India  /  Telecom
+Regulatory  Authority  of  India  /  Department  of  Telecommunications  and
+Securities  and  Exchange  Board  of  India  from  time  to  time  as  may  be
+applicable to the STP service provider.
+
+Page 54 of 68
+
+Implementation of the revised scheme of STP
+
+Page 55 of 68
+
+Implementation of the revised scheme of STP
+
+SCHEDULE II
+
+MODEL AGREEMENT BETWEEN STP CENTRALISED HUB AND STP
+
+SERVICE PROVIDER
+
+(Clause 8 of the Guidelines)
+
+THIS  AGREEMENT  is  made  at  _______  on  this  the___  day  of  ______________,
+200__  between  _______________________  having 
+its  Registered  office  at
+___________________________  (hereinafter  referred  to  as  the  ‘STP  Centralised  Hub’
+which expression shall, unless it be repugnant to the context or the meaning thereof, be
+deemed to include its successors, legal representatives and assigns) of the First Part;
+And
+____________________________________________________ a
+Company incorporated under the Companies Act, 1956 and having its registered office at
+____________________________________________________________
+(hereinafter referred to as the ‘STP Service Provider’  which expression shall unless it be
+repugnant  to  the  context  or  the  meaning  thereof,  be  deemed  to  include  its  successors,
+legal heirs, legal representatives and assigns as the case may be) of the Second Part.
+
+WHEREAS
+
+1.  The  Securities  and  Exchange  Board  of  India  has  mandated  Straight  Through
+Processing  (hereinafter  referred  to  as  ‘STP’)  for  facilitating  settlement  of
+institutional trades.
+
+2.  In terms of the Securities and Exchange Board of India (STP Centralised Hub and
+STP  Service  Providers)  Guidelines,  2004  an  agreement  has  to  be  entered  into
+between the STP Centralised Hub and the STP Service Provider.
+
+3.  The  STP  centralised  hub  has  obtained  such  approval/s  as  may  be  necessary  to
+
+function as a centralised hub.
+
+NOW  THIS  AGREEMENT  WITNESSETH  AND  IT  IS  HEREBY  AGREED  BY
+AND BETWEEN _____________ AND ______________ AS UNDER:
+
+A. DEFINITIONS
+
+1.  DoT means Department of Telecommunications, India, Government of India and /or
+
+its successors.
+
+2.  EFFECTIVE DATE: The date on which this Agreement is entered into.
+3.  EMERGENCY  means  an  emergency  of  any  kind,  including  any  circumstances
+
+whatever resulting from major accidents and natural disasters.
+
+4.  INTERNET: Internet is a global information system that:
+
+? 
+
+is  logically  linked  together  by  a  globally  unique  address,  based  on  Internet
+Protocol (IP) or its subsequent enhancements / upgradations;
+
+Page 56 of 68
+
+Implementation of the revised scheme of STP
+
+? 
+
+is able to support communications using the Transmission Control Protocol /
+Internet  Protocol  (TCP/IP)  suite  or 
+/
+upgradations, and all other IP compatible protocols; and
+
+its  subsequent  enhancements 
+
+5.   “TELECOM AUTHORITY”  shall mean The Director General, DoT, Government of
+India  and  includes  any  officer  empowered  by  him  to  perform  all  or  any  of  the
+functions of the Telegraph Authority under the Indian Telegraph Act, 1885 or such
+other authority as may be established by law.
+
+6.  “TRAI” –  shall mean the Telecom Regulatory Authority of India established under
+
+the TRAI Act, 1997.
+
+A.  FEES PAYABLE BY STP SERVICE PROVIDER –
+
+The STP Service Provider agrees to pay Fees as listed in the Annexure in consideration
+for the services provided by STP centralised hub  hereof. The said fees may be revised by
+STP centralised hub  as may be mutually agreed upon with the STP Service Providers.
+The STP service provider shall also be liable to pay interest @___% p.a. in case of delay
+in payments on the amount due till the actual date of payment.
+
+B. 
+
+STP SERVICE PROVIDER OBLIGATION
+
+1.  The  STP  Service  Provider  shall  obtain  a  digital  signature  certificate  from  a
+Certifying  Authority,  which  has  been  issued  a  license  by  the  Controller  of
+Certifying Authorities appointed under the Information Technology Act, 2000. A
+copy of the Certificate shall be submitted to STP centralised hub.
+
+2.  The STP Service Provider shall verify the Digital signature on the message of the
+STP User connected to the STP Service Provider before sending the message to
+the STP Centralized hub.
+
+3.  The  STP  Service  Provider  agrees  to  comply  with  the  minimum  specifications
+
+prescribed by STP centralised hub and as may be mutually agreed upon.
+
+4.  The STP Service Provider shall adhere to the guidelines prescribed by SEBI from
+
+time to time.
+
+5.  The  STP  Service  Provider  acknowledges  that  the  software  for  STP  Centralized
+Hub  including  the  STP  Centralized  hub  client  software  is  the  legal  property  of
+STP centralised hub. The permission given by STP centralised hub to access and
+use  STP  Centralized  Hub  through  the  STP  Centralized  hub  client  software  will
+not convey any proprietary or ownership rights in the above software. The access
+of the STP Service Provider is limited to the STP Centralized hub Client software.
+6.  The  STP  Service  Provider  shall  not  attempt  to  modify,  translate,  disassemble,
+decompile  or  reverse  engineer  Centralized  the  STP  Centralized  hub  client
+software or create any derivative product based on that software.
+
+7.  The  STP  Service  Provider  shall  have  a  non-exclusive  right  to  access  STP
+Centralized  Hub  through  the  STP  Centralized  hub  client  software.  This  right  is
+not  transferable  under  any  circumstances  and  shall  be  used  by  the  STP  Service
+Provider itself or by its authorized agent as may be mutually agreed.
+
+8.  The STP Service Provider shall not use the infrastructure or the facilities provided
+by STP centralised hub for any other purpose other than those mentioned in this
+Agreement.
+
+Page 57 of 68
+
+Implementation of the revised scheme of STP
+
+9.  The  STP  Service  Provider  shall  indemnify  STP  centralised  hub  against  any
+damage, loss, expenses, costs etc incurred by it due to negligence (intentional or
+unintentional) of the STP Service Provider.
+
+10. The  STP  Service  Provider  shall  ensure  that  by  using  the  Hub  client  software
+
+provided by STP centralised hub
+a.  No  damage  will  be 
+
+and that it  does not propagate virus infected information
+
+b.  It will pass on only relevant information to be exchanged with the other
+
+caused 
+
+to 
+
+the  STP  Centralized  hub,
+
+c.  It  will  not  try  to  probe  any  other  information  available  on  the  STP
+
+STP service provider.
+
+Centralized Hub
+
+C.  STP CENTRALISED HUB  OBLIGATIONS
+
+1.  STP centralised hub shall obtain a digital signature certificate from a Certifying
+Authority,  which  has  been  issued  a  license  by  the  Controller  of  Certifying
+Authorities appointed under the Information Technology Act, 2000. A copy of the
+Certificate shall be submitted to STP service provider.
+
+2.  STP  centralised  hub  acknowledges  that  STP  infrastructure  of  the  STP  service
+provider is the legal property of STP service provider. The permission given by
+STP  service  provider  to  STP  centralised  hub’s  STP  hub  client  software  to  co-
+locate on STP infrastructure will not convey any proprietary or ownership rights
+in the STP infrastructure.
+
+3.  STP centralised hub may subcontract and employ agents to carry out any of its
+
+obligations under such terms and conditions as may be mutually agreed.
+
+4.  STP  centralised  hub  shall  be  solely  responsible  for  installation,  networking  and
+operation  of  applicable  systems.  STP  centralised  hub    shall  clearly  display  and
+publicise specifications of STP Service Providers terminal equipment at Service
+Provider premises which are necessary for interfacing to network.
+
+5.  STP  centralised  hub  shall  abide  by  the  guidelines  issued  by  SEBI  from  time  to
+
+time on the STP framework.
+
+6.  STP centralised hub shall confirm authenticity, integrity and non-repudiability of
+
+all messages submitted by the STP Service Provider.
+
+7.  The STP Centralized Hub would keep complete track of the flow of messages for
+
+record and audit.
+
+receives the message.
+
+8.  STP  centralised  hub  shall  ensure  that  only  the  intended  STP  Service  Provider
+
+9.  STP  centralised  hub  shall  not  misuse/  alter  /  reverse  engineer  /  decompile  the
+
+content of the messages submitted by the STP Service Providers.
+
+10. STP centralised hub will digitally sign all messages sent from the STP Centralized
+
+Hub to the STP Service Provider.
+
+11. STP centralised hub  agrees to PKI enable the STP Hub client software within ----
+------  months  after  the  agreement  would  come  into  force.  STP  centralised  hub
+shall digitally sign all messages at STP Centralized Hub prior to sending it to STP
+Service Providers. hub client software will maintain unsigned logs of such events.
+12. STP  centralised  hub    shall  indemnify  the  STP  service  provider  against  any
+damage, loss, expenses, costs etc incurred by it due to its negligence (intentional
+or  unintentional).  STP  centralised  hub    shall  not  use  the  infrastructure  or  the
+
+Page 58 of 68
+
+Implementation of the revised scheme of STP
+
+facilities provided by STP service provider for any other purpose other than those
+mentioned in this Agreement.
+
+13. Hub client software provided by STP centralised hub  will ensure that :
+
+a.  No damage will be caused to the service providers system.
+b.  It  will not propagate virus infected information
+c.  It will pass on only relevant information to be exchanged with the other
+
+STP service provider.
+
+Providers setup
+
+d.  It will not try to probe any other information available on the STP Service
+
+e.  It  will  not  try  to  modify,  translate,  disassemble,  de-compile  or  reverse
+engineer the software to gain access to restricted information or create any
+derivative product based on STP service provider’s system.
+
+D. 
+
+COMPLIANCE WITH LAWS
+
+1.  Both  the  parties  represent  that  they  have  taken  all  necessary  corporate  action  to
+authorise  the  execution  and  consummation  of  this  agreement  and  shall  furnish
+satisfactory evidence of the same upon request to other party.
+
+2. Both the parties hereto agree that they shall comply with all applicable Central, state
+and  local  laws,  ordinances,  regulations  and  codes  in  performing  their  obligations
+hereunder,  including  the  procurement  of  licenses,  permits  and  certificates  and
+payment of taxes where required.
+
+3. The  parties  shall  fully  inform  themselves  of  all  necessary  obligations  and  statutes
+under Indian Law (including the security measures prevalent in India) and shall not
+hold the other party responsible for any lapse in this regard. This shall include, but
+not  be  limited  to,  the  knowledge  and  understanding  of  the  physical,  environmental
+and  technical  standards  required  for  the  provision  and  operation  of  the  Equipment,
+software  and  services  within  India.  The  monetary  obligations,  if  any,  devolving  on
+either  of  the  parties  due  to  statutory  changes  subsequent  to  the  conclusion  of  the
+Agreement, shall be borne by the respective party, if applicable.
+
+SERVICE CHANGES AND DISCONTINUATION
+
+F. 
+STP centralised hub shall if directed by regulatory authorities, suspend the STP Service
+Provider’s  access  to  the  STP  Centralized  Hub  at  any  time  without  notice.  The  STP
+Service Provider agrees that STP centralised hub will not be liable to any third party for
+any modification or discontinuance of the STP Centralized Hub. If STP centralised hub
+receives prior notice of such direction it shall be communicated to the service provider
+immediately.
+
+In order to maintain the security and integrity of the service STP centralised hub may also
+suspend the STP Service Provider’s access to the STP Centralized Hub. The STP Service
+Provider agrees that STP centralised hub will not be liable to or any third party for any
+modification or discontinuance of the STP Centralized Hub. The Parties shall make every
+effort  to  resolve  amicably  by  direct  informal  negotiation  any  disagreement  or  dispute
+arising  between  them  under  or  in  connection  with  the  arrangement.  In  the  case  of  any
+issues arising out of the security and integrity of the messages being exchanged through
+
+Page 59 of 68
+
+Implementation of the revised scheme of STP
+
+the hub, the same shall be resolved by mutual discussion. In the event the parties are not
+able to settle the same within the time frame agreed between the parties  either party may,
+by  written  notice  of    30    days    sent  to  the  other  party,  temporarily  suspend    the
+arrangements, in whole or in part, till the parties find a technical solution to the security
+and technical issues. The notice of termination shall specify the termination is at whose
+instance, the extent to which performance of the agreement is suspended, and the date
+upon which such suspension becomes effective.
+
+E. 
+
+FORCE MAJEURE
+
+force  majeure 
+
+interfered  by  reason  of 
+
+If  the  performance  of  any  obligations  by  any  party  as  specified  in  this  agreement  is
+prevented,  restricted,  delayed  or 
+then
+notwithstanding  anything  hereinbefore  contained,  the  party  affected  shall  be  excused
+from  its  performance  to  the  extent  such  performance  relates  to  such  prevention,
+restriction, delay or interference and provided the party so affected uses its best efforts to
+remove  such  cause  of  non-performance  and  when  removed  the  party  shall  continue
+performance with utmost urgency. For the purpose of this clause "Force Majeure" means
+&  includes  fire,  explosion,  cyclone,  floods,  war,  revolution,  blockage  or  embargo,  any
+law, order, demands or requirements of any Government or statutory authority, strikes,
+which  are  not  instigated  for  the  purpose  of  avoiding  obligations  herein  or  any  other
+circumstances beyond the control of the party affected.
+
+F. 
+
+AMENDMENT TO THE AGREEMENT
+
+The  rights  and  obligations  of  the  parties  are  governed  only  by  this  agreement.  This
+agreement may be amended, altered, modified, varied or added to from time to time only
+by a written instrument duly signed by both the parties to this agreement. All previous
+communications, both oral and written between the parties and related to this agreement,
+but inconsistent with the terms and conditions of this agreement, are hereby declared null
+and void.
+
+I. 
+
+VALIDITY
+
+This Agreement is valid so long as STP service provider holds valid approval from SEBI
+and STP centralised hub  holds valid approval as STP Centralised Hub from SEBI. This
+Agreement shall be valid for an initial period of _____ years (hereinafter referred to as
+the  ‘Term’).  After  the  term,  the  arrangement  may  be  extended  on  mutually  acceptable
+terms.
+
+G. 
+
+TERMINATION
+
+Without prejudice to the rights, liabilities, interests and obligations that have accrued to
+the parties prior to the date of terminations
+
+1.  Either party may terminate this agreement upon material breach by the other of any
+provision  of  this  agreement,  and  (if  such  breach  is  remediable)  that  other  fails  to
+remedy such breach within a mutually agreed time frame in writing.
+
+2. This agreement may, at any time during its Term, be terminated by either party by a
+written  90  days  notice  to  the  other  party  without  prejudice  to  the  rights,  liabilities,
+
+Page 60 of 68
+
+Implementation of the revised scheme of STP
+
+interests  and  obligations  that  have  accrued  to  the  parties  prior  to  the  date  of  such
+termination. The grounds upon which this agreement may be terminated pursuant to
+this clause are as under:
+i) 
+
+In case a Receiver has been appointed with respect to all or substantially all
+the assets of the parties. Provided that this clause shall not be applicable when
+winding up proceedings have been initiated to facilitate an amalgamation with
+another company proposing to carry on the same business
+if  one  of  the  parties  enters  into  an  arrangement  of  composition  with  its
+creditors.
+
+ii) 
+
+3. This  agreement  may,  at  any  time  during  its  Term,  be  terminated  by  STP  centralised
+hub  by a written notice in case the ISP license of STP centralised hub  is revoked or
+the services are taken over by DoT / Telecom Authority in the event of an emergency
+or  otherwise.  If  STP  centralised  hub    receives  prior  notice  of  the  same  it  shall  be
+provided to the service provider immediately.
+
+4. This  agreement  may,  for  convenience,  at  any  time  during  its  term,  be  terminated  by
+
+either party, by a written notice of 90 days to the other party.
+
+5. The provisions contained hereinabove shall not preclude the other party from recourse
+
+to any other remedies available to itself by statute or otherwise, at law or in equity.
+
+6. In order to maintain the security and integrity of its infrastructure STP service provider
+may  also  suspend  the  STP    hub  client  software  access  to  its  system  at  any  time
+without notice.
+
+H. 
+
+NOTICE
+
+Any notice to be given by one party to the other pursuant to this agreement shall be sent
+by registered post A.D., speed post or facsimile transmission to the address mentioned
+below:
+
+1. _________________ (NAME OF THE STP CENTRALISED HUB)
+____________________(ADDRESS)
+
+2.              __________________________(NAME OF STP SERVICE PROVIDER)
+        ________________________________(ADDRESS)
+
+I. 
+
+WAIVER OF RIGHTS
+
+No forbearance, delay or indulgence by any party in enforcing any of the provisions of
+this agreement shall prejudice or restrict the rights of that party nor shall any waiver of its
+rights  operate  as  a  waiver  of  any  subsequent  breach  and  no  rights,  powers,  remedies
+herein conferred upon or reserved for the parties is exclusive of any other right, power or
+remedy available to that party and each right, power or remedy shall be cumulative.
+
+J. 
+
+ARBITRATION AND JURISDICTION
+
+Page 61 of 68
+
+Implementation of the revised scheme of STP
+
+In  the  case  of  any  dispute  or  any  difference  between  the  parties  arising  out  of  or  in
+relation  to  this  agreement  including  dispute  or  difference  as  to  the  validity  of  this
+agreement  or  interpretation  of  any  of  the  provisions  of  this  agreement  or  losses  or
+damages arising under clause C-8 and the relevant clause under STP Centralizedized hub
+of this agreement, the same shall be resolved by mutual discussion. If the parties fail to
+settle the dispute or difference mutually, then the same shall be resolved in accordance
+with and subject to the provisions of the Arbitration and Conciliation Act, 1996 or any
+modifications  or  amendments  thereto,  or  any  enactment  for  the  time  being  in  force
+subject to the stipulation that only courts at Mumbai shall have exclusive jurisdiction in
+all  such  matters.  The  provisions  of  this  clause  shall  survive  the  termination  of  this
+agreement.
+
+K. 
+
+GOVERNING LAW
+
+1.  This  agreement  shall  be  governed  by  and  construed  and  interpreted  in  accordance
+with the laws of India, SEBI Act, Regulations, Rules and SEBI (STP centralised hub
+and STP service providers) Guidelines, 2004.
+
+2. If  any  term  or  provision  of  this  agreement  should  be  declared  invalid  by  a  court  of
+competent  jurisdiction,  the  remaining  terms  and  provisions  of  this  agreement  shall
+remain unimpaired and in full force and effect.
+
+M. 
+
+DISCLAIMER
+
+STP centralised hub  shall use its best endeavor only to ensure that the services provided
+shall be in conformity with the terms of this agreement. STP centralised hub shall not be
+liable for bad/slow connection or any technical glitches on account of reasons beyond its
+control.
+
+N. 
+
+CONFIDENTIALITY
+
+The Parties hereto shall at all times maintain and keep secret and confidential
+any know-how, information and data which it has or may acquire from time to
+time  relating  to  the  business,  activities  or  operations  of  the  other  Party  and
+shall not disclose or divulge the same or any part thereof to any third party.
+The terms of this clause shall survive termination of the Agreement.   
+
+The obligations shall not apply with respect to Information which :
+1)  is or becomes publicly available other than through a breach of this Agreement or is
+
+2)  is already in the possession of the other party without any
+
+unlawfully appropriated;
+
+breach of this Agreement ;
+
+.
+
+3)  is obtained by the other party from a third party without any breach of this Agreement
+
+4)  is required to be produced before a judicial authority and only where the other party is
+compelled  to  do  so  by  such  an  authority,  provided  that  the  said  authority  (  or
+individual representing such authority ) has the authority, under the laws in force, to
+compel such disclosure.
+
+Page 62 of 68
+
+Implementation of the revised scheme of STP
+
+Notwithstanding  the  foregoing,  before  making  any  use  or  disclosure  on  any  of  the
+foregoing exceptions, the Party disclosing such information shall intimate the Other Party
+as soon as practicable  the applicable exceptions (s) and circumstances giving rise thereto.
+
+Page 63 of 68
+
+Implementation of the revised scheme of STP
+
+ANNEXURE
+
+STP centralised hub  shall charge a fee of Rs. -----------------. The fees shall be charged to
+the sending service provider. The billing shall be on a -------------------- basis.
+
+One message shall mean and include the following –
+
+?  One ISO message sent by a service provider to the STP centralised hub
+?  Acknowledgement  message  sent  by  the  STP  centralised  hub  to  the  Sending
+
+service provider
+
+?  The message forwarded to the receiving service provider
+?  Acknowledgement received from the receiving service provider for the message
+?  Forwarding the acknowledgement received from the receiving service provider to
+
+the sending service provider
+
+In consideration of the fees STP centralised hub  shall endeavour to provide the following
+service standards –
+
+Infrastructure availability
+
+99%  Uptime  for  business  hours  from  0930  hrs  till  1930  hrs  computed  on  a
+
+-
+quarterly basis.  Planned Outage excluded
+-
+-
+
+Uptime on best effort basis between 1930 hrs to 0930 hrs
+Resolution time: 4 hours for called logged between 0930 to 1800 hrs
+
+Trouble Ticketing
+
+Business Hrs
+Helpdesk
+Non-Business Hrs
+Operations
+Call closure confirmation
+numbers
+
+-  Telephonic  reporting  of  Fault  on  STP  centralised  hub
+
+-  Telephonic  reporting  of  Fault  on  STP  centralised  hub
+
+-  STP  service  Provider  to  give  respective  telephone
+
+Page 64 of 68
+
+Implementation of the revised scheme of STP
+
+10.9.  APPENDIX 7
+
+CHIEF GENERAL MANAGER
+DERIVATIVES AND NEW PRODUCTS DEPARTMENT
+
+DNPD/Cir-25/04
+June 10, 2004
+
+All Exchanges, Clearing Corporation / Clearing House, STP Centralised Hub
+Depositories, Custodians, AMFI and STP service providers
+
+Sub: Transaction work flow for the system of Straight Through Processing in the
+
+Indian Securities Market and standardisation of the messaging formats
+
+Dear Sir,
+
+1) 
+
+This is in continuation to our previous circular no. DNPD/Cir-9/04 dated February
+3, 2004 & circular no. SEBI/MRD/SE/Cir-11/2004 dated February 25, 2004 on the
+issuance  of  electronic  contract  notes  as  a  legal  document  like  the  physical  contract
+note for the equity and debt segments, circular no. DNPD/Cir-22/2004 dated April 1,
+2004  mandating  the  use  of  the  Straight  Through  Processing  (STP)  system  for  all
+institutional trades w. e. f. July 1, 2004, circular no. DNPD/Cir-23/04 dated April 27,
+2004  prescribing  the  detailed  system  flow  of  the  STP  system  and  circular  no.
+DNPD/Cir-24/04 dated May 26, 2004 prescribing the SEBI (STP centralised hub and
+STP service providers) Guidelines, 2004.
+
+2)  SEBI  in  consultation  with  the  STP  centralised  hub,  STP  service  providers  and  the
+STP  users  has  prescribed  the  transaction  work  flow  for  the  STP  system.  All
+institutional  investors  shall  follow  the  following  transaction  work  flow  on  a
+mandatory basis from July 1, 2004:
+
+a)  A contract note in electronic form in the prescribed format (IFN 515 messaging
+format)  shall  be  issued  by  the  broker  &  sent  to  the  custodian  and  /  or  the
+institutional investor.
+
+b)  In  case  the  contract  note  is  processed  directly  by  the  institutional  investor,  the
+institutional investor shall send the trade confirmation of acceptance or rejection
+of the contract note to the broker by using the IFN 598 messaging format. The
+custodian  shall  also  send  the  confirmation  of  acceptance  or  rejection  of  such
+contract note to the broker using the messaging standard IFN 548.
+
+c)  In  case  the  contract  note  is  processed  by  the  custodian  on  behalf  of  the
+institutional investor, the custodian shall send the confirmation of acceptance or
+rejection  of  the  contract  note  to  the  broker  by  using  the  IFN  548  messaging
+format.
+
+Page 65 of 68
+
+Implementation of the revised scheme of STP
+
+d)  The institutional investor shall send settlement instructions to its custodian in IFN
+540 to IFN 543 messaging formats to the custodian for the following trade types:
+i)  IFN 540: settlement instruction for a clearing house buy trade
+ii)  IFN 541: settlement instruction for a delivery-v/s-payment (DVP) buy trade
+iii)  IFN 542: settlement instruction for a clearing house sell trade
+iv)  IFN 543: settlement instruction for a delivery-v/s-payment (DVP) sell trade
+
+e)  The custodian shall confirm / reject the execution of the settlement instructions to
+the  institutional  investor  in  IFN  544  to  IFN  547  messaging  formats  in  the
+following manner:
+i)  IFN  544:  confirmation  /  rejection  of  an  instruction  received  in  messaging
+
+ii)  IFN  545:  confirmation  /  rejection  of  an  instruction  received  in  messaging
+
+iii)  IFN  546:  confirmation  /  rejection  of  an  instruction  received  in  messaging
+
+iv)  IFN  547:  confirmation  /  rejection  of  an  instruction  received  in  messaging
+
+format IFN 540
+
+format IFN 541
+
+format IFN 542
+
+format IFN 543
+
+f)  It is clarified that if a message (for the activities mentioned above) is sent using
+the  STP  centralised  hub  framework  from  one  user  to  another  user,  then  the
+confirmation  /  rejection  for  such  a  message  shall  also  be  sent  using  the  STP
+centralised hub framework.
+
+3) 
+
+SEBI vide circular no. DNPD/Cir-9/04 dated February 3, 2004 had prescribed the
+format of the contract note in electronic form. After deliberation with the STP service
+providers and the market participants the following changes are incorporated to the
+existing messaging format (IFN 515):
+
+a)  The  mandatory  requirement  of  mentioning  the  relevant  bye-laws  /  rules  /
+regulations of the exchange subject to which the said contract note is being issued
+on each contract note stands modified in the following manner:
+i)  The requirement is not mandatory but optional
+ii)  The broker shall ensure that the relevant bye-laws / rules / regulations of the
+exchange subject to which the contract note is being issued, is mentioned in
+the broker-client agreement and the tripartite agreement between the broker-
+sub-broker-client agreement (if applicable).
+
+iii)  The  existing  field  for  the  above  provision  shall  not  be  deleted  and  may  be
+used as a free text field for one constituent to communicate remarks (if any) to
+another constituent.
+
+b)  The clause of ‘payment of consolidated stamp duty’  for each contract note shall
+be mentioned in the broker-client agreement and the tripartite agreement between
+the  broker-sub-broker-client  agreement  (if  applicable).  The  said  clause  may  be
+stated in the free text field (as mentioned in point 3 (a (iii))) of each contract note.
+
+c)  In the field “market type”  (field 70E) a category of ‘TT’  i.e. trade for trade and
+‘OT’  i.e.  Others  shall  be  added  to  represent  the  supplementary  categories  of
+market types.
+
+Page 66 of 68
+
+Implementation of the revised scheme of STP
+
+d)  The order time was prescribed as a mandatory field in the contract note. The order
+
+time shall now be included in the optional fields.
+
+e)  There are certain securities which are not de-materalised and hence do not have
+an ISIN code. For such securities (where ISIN number is not available) the STP
+users would be required to input the security code given by the exchange in the
+ISIN  number  field.  In  case  the  number  length  of  the  exchange  scrip  code  is
+shorter than the prescribed field length of 12 characters, the code shall be prefixed
+with zeros.
+
+f)  In order to maintain a complete audit trail, it is clarified that in case an electronic
+contract note is rejected, the custodian (in messaging format IFN 548) or the fund
+manager  (in  messaging  format  IFN  598)  shall  be  required  to  send  a  rejection
+message to the broker. Only on receipt of the rejection message, the broker shall
+cancel  the  rejected  contract  note  and  issue  a  fresh  contract  note  bearing  a  new
+number.
+
+g)  In order to bring in standardisation in the input of the identification codes in the
+prescribed  messaging  standards,  it  is  clarified  that  the  following  codes  shall  be
+used by the various entities:
+
+i)  Brokers:  SEBI  registration  number  (until  MAPIN  ID  is  available  for  every
+
+broker)
+
+ii)  Mutual Funds and schemes of Mutual Funds: SEBI registration number for
+Mutual  Funds  and  Unique  client  code  issued  by  the  exchanges  for  schemes
+(until MAPIN ID is available for each scheme of a mutual fund)
+
+iii)  FIIs and sub-accounts: SEBI registration number for FII and Unique client
+code issued by the exchanges for sub-account (until MAPIN ID is available
+for each FII and their sub-accounts)
+
+iv)  Custodians: SEBI registration number (until MAPIN ID is available for every
+
+custodian)
+
+MAPIN ID.
+
+v)  STP service providers and STP centralised hub: MAPIN ID
+vi)  Depositories  and  exchanges  /  clearing  house  /  clearing  corporation:
+
+vii) Other Institutional Investors like financial institutions, banks etc.: Unique
+client  code  issued  by  the  exchanges  (until  MAPIN  ID  is  available  for  each
+Institutional Investor)
+
+h)  All  market  participants  shall  issue  the  electronic  contract  note  for  institutional
+(refer
+
+in  Annexure 
+
+enclosed 
+
+format 
+
+I. 
+
+the  modified 
+trades 
+URL:http://www.sebi.gov.in)
+
+in 
+
+4)  The prescribed messaging formats for IFN 540, IFN 541, IFN 542, IFN 543, IFN 544,
+IFN  545,  IFN  546,  IFN  547,  IFN  548  and  IFN  598  are  enclosed  in  Annexure  II.
+(refer URL:http://www.sebi.gov.in). After consultation with the market participants
+and  confirming  their  preparedness,  it  has  been  decided  to  make  these  messaging
+formats (in addition to IFN 515) mandatory for all institutional trades w. e. f. July 1,
+2004.
+
+Page 67 of 68
+
+Implementation of the revised scheme of STP
+
+5)  It  is  reiterated  that  the  STP  system  shall  be  initially  mandatory  for  all  institutional
+
+trades in the equity segment w. e. f. July 1, 2004.
+
+6)  The standard terms of contract as are required to be mentioned in the Contract Notes
+as  per  the  Bye-laws  and  Regulations  of  exchanges,  which  are  not  contained  in
+electronic  contract  notes,  shall  be  incorporated  in  the  Client  Broker  Agreement  or
+where applicable, the Tripartite Agreement between the stock broker, sub-broker and
+the client. The stamp duty in respect of the electronic contract notes shall be paid by
+the broker.
+
+7)  This circular is being issued in exercise of powers conferred by section 11 (1) of the
+Securities  and  Exchange  Board  of  India  Act,  1992,  read  with  section  10  of  the
+Securities  Contracts(regulation)  Act  1956,  to  protect  the  interests  of  investors  in
+securities and to promote the development of, and to regulate the securities market.
+
+Yours sincerely,
+
+N. PARAKH
+
+Page 68 of 68
+
+

@@ -1,0 +1,97 @@
+ 
+
+ 
+GENERAL MANAGER 
+DERIVATIVES AND NEW PRODUCTS DEPARTMENT 
+ 
+
+SEBI/DNPD/Cir- 50/2010 
+January 8, 2010 
+
+To 
+Managing Director / Chief Executive Officer  
+Stock Exchanges / Equity Derivatives Segment of Stock Exchanges  
+and their Clearing Houses/Corporations 
+ 
+Dear Sir, 
+ 
+
+SUB: Standardized lot size for derivative contracts on individual securities 
+
+ 
+
+In consultation with Stock Exchanges, it has been decided to standardize the lot 
+size for derivative contracts on individual securities as under:   
+
+Price Band (Rs.) 
+
+Contract Size 
+
+Value (Rs. lakh) 
+
+≥ 2 
+
+               ≥ 2 ≤ 4 
+
+Lot Size 
+
+(No. of units of underlying) 
+125
+250
+500
+1,000
+2,000
+4,000
+8,000
+A multiple of 1000
+
+≥1601  
+801 - 1600 
+401 - 800 
+201 - 400 
+101 - 200 
+51 - 100 
+25 - 50 
+< 25 
+
+Explanation:  The  lot  size  for  an  underlying  with  a  price  of  Rs.  250,  i.e.,  in  the 
+price band of Rs. 201-400, shall be 1000 units.  
+ 
+2. The Stock Exchanges shall review the lot size once in every 6 months based 
+on  the  average  of  the  closing  price  of  the  underlying  for  last  one  month  and 
+
+Page 1 of 2 
+
+ 
+
+The  Stock  Exchanges  shall  ensure  that  the  lot  size  is  same  for  an 
+
+wherever warranted, revise the lot size by giving an advance notice of atleast 2 
+weeks to the market. If the revised lot size is higher than the existing one, it will 
+be effective for only new contracts. In case of corporate action, the revision in lot 
+size  of  existing  contracts  shall  be  carried  out  as  per  SEBI  circular 
+SMDRP/DC/CIR-15/02 dated December 18, 2002.  
+ 
+3. 
+underlying traded across Exchanges.  
+ 
+4.  
+This Circular is issued in exercise of the powers conferred under Section 
+11 (1) of the Securities and Exchange Board of India Act 1992, read with Section 
+10 of the Securities Contracts (Regulation) Act, 1956 to protect the interests of 
+investors  in  securities  and  to  promote  the  development  of,  and  to  regulate  the 
+securities market and shall come into effect from March 31, 2010. 
+ 
+5.  This  Circular  supersedes  SEBI  circular  SEBI/DNPD/Cir-20/2004/02/23  dated 
+February 23, 2004. 
+  
+6.  This  Circular  is  available  on  SEBI  website  at  www.sebi.gov.in.,  under  the 
+category “Derivatives- Circulars”. 
+ 
+Yours faithfully, 
+ 
+Sujit Prasad 
+
+Page 2 of 2 
+
+

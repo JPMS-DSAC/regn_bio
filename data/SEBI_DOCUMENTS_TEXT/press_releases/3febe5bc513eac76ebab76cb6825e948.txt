@@ -1,0 +1,42 @@
+
+ 
+Aug 27, 2014
+
+PR No.:  
+102/2014
+
+
+Securities and Exchange Board of India (SEBI) has issued a circular CIR/MRD/DRMNP/25/2014 dated August 27, 2014 prescribing norms for Core Settlement Guarantee Fund (Core SGF), Default Waterfall and Stress Testing. These guidelines are aimed at enhancing the robustness of the present risk management system of the clearing corporations (CCs) to enable them to deal with defaults of the clearing members much more effectively by achieving the following:
+
+Creating a core fund (called Core Settlement Guarantee Fund), within the SGF, against which no exposure is given and which is readily and unconditionally available to meet settlement obligations of clearing corporation in case of clearing member(s) failing to honour settlement obligation. 
+Aligning stress testing practices of clearing corporations with CPSS-IOSCO Principles for Financial Market Infrastructures (PFMIs) (norms for stress testing for credit risk, stress testing for liquidity risk and reverse stress testing including frequency and scenarios).
+Capturing in stress testing, the risk due to possible default in institutional trades.
+Harmonising default waterfalls across clearing corporations.
+Limiting the liability of non-defaulting members in view of the Basel capital adequacy requirements for exposure towards Central Counterparties (CCPs).
+Ring-fencing each segment of clearing corporation from defaults in other segments.
+Bringing in uniformity in the stress testing and the risk management practices of different clearing corporations especially with regard to the default of members.
+
+SEBI has from time to time put in place various risk containment measures to address the risks involved in the securities market. One such measure prescribed was norms for Settlement Guarantee Fund (SGF) at Stock Exchanges including corpus, contribution, management, usage and recoupment of the fund corpus (vide circular no SMD/POLICY/SGF/CIR-13/97).
+In order to promote and sustain an efficient and robust global financial infrastructure, the Committee on Payments and Settlement Systems (CPSS) and the International Organization of Securities Commissions (IOSCO) updated the standards applicable for systemically important financial market infrastructures (central counterparties, payment systems, trade repositories and securities settlement systems) with the PFMIs. SEBI as a member of IOSCO is committed to the adoption and implementation of the new CPSS-IOSCO standards of PFMIs. As required under PFMIs, to provide greater legal basis for settlement finality, netting and rights of FMIs over collateral, Securities Contracts (Regulation) (Stock Exchanges And Clearing Corporations) (Amendment) Regulations, 2013 were notified on September 02, 2013. Vide circular dated September 04, 2013, SEBI required FMIs under its regulatory purview to comply with the PFMIs applicable to them.
+These new guidelines will align stress testing practices of clearing corporations with CPSS-IOSCO Principles for Financial Market Infrastructures (PFMIs) (norms for stress testing for credit risk, stress testing for liquidity risk and reverse stress testing including frequency and scenarios). The new stress testing norms will also capture the risk posed due to possible default in institutional trades. The stress test, which will be conducted every day, will determine the Minimum Required Corpus (MRC) of Core SGF. This will be a dynamic process which will form the basis for replenishing the Core SGF every month.
+PFMIs require CCs to maintain sufficient resources to cover losses due to major defaults in the market so as to avoid any systemic risk. While margins of defaulting member/s form primary layer of defence for CC against default of a member, a next layer of defence by way of a dedicated pool of resources is generally maintained by CCs to effect settlement guarantee. The current practice followed by CCs in India for quantifying such resources is to also include margins of all members. As margins are against positions, there are difficulties felt in estimating the correct value of resources readily available to meet settlement shortages in case of default by member/s. The new guidelines will remove these difficulties by creating the Core SGF as a second layer of defence, against which no exposure is allowed and thus will always be available in sufficiently liquid form.  Availability of such a liquid fund will make the whole risk management system much safer as the CCs will have better capability to deal with extreme stress situations where the defaulters' funds are not sufficient to meet their obligations. The new system will substantially reduce the possibility of such stresses leading to systemic risk.
+ Broadly the contribution to Core SGF will be from the following sources:
+
+At least 50% of MRC from CC
+At least 25% of MRC from Stock Exchange (SE)
+Upto 25% of MRC from clearing members (CMs)
+
+Penalties levied by CC will also be credited to Core SGF.
+As per the present default waterfall of CCs, residual losses after exhausting resources available in other layers of the waterfall are to be allocated to the non-defaulting clearing members. Thus, effectively under such circumstances there is no limit to the liability of non-defaulting members in the event of extreme loss. As per Basel capital adequacy requirements, many members are required to make capital provisions towards counterparty exposure including towards CCPs which becomes difficult to quantify in case of an unlimited liability. The circular has provisions regarding manner for limiting the liability of non-defaulting members. The new guidelines will also harmonise default waterfall across CCs and will adequately ring-fence each segment of CC from defaults in other segments. The default waterfall in case of default in any segment will generally follow the following order -
+1- Monies of defaulting member
+2- Insurance, if any
+3- CC resources (equal to 5% of MRC)
+4- Core SGF
+5- CC resources
+6- CC/Stock Exchange contribution to Core SGFs of other segments
+7- Capped contribution of non defaulting members
+8- Pro-rata haircut to pay-outs
+                                    (for details refer to circular)
+Norms for contribution to Core SGF as well as default waterfall have been specified with a view that all the stakeholders (CC, SE and CMs) are incentivised to adequately monitor the risks brought into the system.
+Based on deliberations in the Risk Management Review Committee of SEBI and further discussions with CCs, SEs and market participants, it has been decided to issue these norms related to core settlement guarantee fund, stress testing and default procedures specified in the present Circular which would bring greater clarity and uniformity as well as align the same with international best practices. The full text of the above circular is available on the website: www.sebi.gov.in
+

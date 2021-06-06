@@ -1,0 +1,2190 @@
+Section 
+
+CONTENTS 
+
+INDEX 
+
+ 
+
+ 
+EXECUTIVE SUMMMARY 
+ 
+HEDGE FUND 
+Defining the hedge fund 
+Hedge Fund and Other Pooled Investment Vehicles 
+1.2.1  Mutual Fund or Registered Investment 
+Companies 
+1.2.2   Private Equity Fund 
+1.2.3   Venture Capital Fund 
+1.2.4   Commodity Pool 
+Domestic and Offshore Hedge Fund 
+1.3.1 Domestic Hedge Fund 
+1.3.2 Offshore Hedge Fund 
+Fund of Funds 
+Hedge Funds by Strategy Types 
+Size of the Hedge Fund Market 
+Reasons for Rapid Growth of Hedge Fund Industry 
+Performance of Hedge Fund Industry 
+Market Benefits of Hedge Funds 
+ 
+HEDGE FUNDS IN DIFFERENT JURSDICTIONS 
+
+Hedge Fund Regulation in Other Markets 
+2.1.1   United States of America 
+2.1.2   United Kingdom 
+2.1.3   Switzerland 
+2.1.4   Germany 
+2.1.5   Offshore Centers 
+2.1.6    Ireland 
+2.1.7    Singapore 
+2.1.8    Hong Kong 
+2.1.9    Taiwan 
+2.1.10  Thailand 
+
+ 
+ 
+1 
+1.1 
+1.2 
+
+ 
+
+ 
+ 
+ 
+
+1.3 
+
+ 
+ 
+
+1.4 
+1.5 
+1.6  
+1.7 
+1.8 
+1.9 
+
+ 
+2 
+
+2.1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+1 
+
+Pg. No. 
+
+3-4 
+
+ 
+
+5-14 
+
+5 
+6 
+6 
+
+6 
+7 
+7 
+8 
+8 
+8 
+8 
+10 
+10 
+12 
+12 
+13 
+ 
+
+15-32 
+
+ 
+15 
+15 
+21 
+25 
+25 
+26 
+27 
+28 
+28 
+28 
+29 
+
+ 
+ 
+ 
+3 
+3.1 
+3.2 
+
+ 
+4 
+
+4.1 
+4.2 
+4.3 
+4.4 
+4.5 
+
+2.1.11  IOSCO 
+2.1.12   Highlights of Regulatory Review 
+ 
+FINANCIAL CRISIS AND HEDGE FUNDS 
+East Asian Crisis 
+Long Term Capital Management (LTCM) 
+ 
+REGULATORY ISSUE FOR ALLOWING 
+FOREIGN HEDGE FUNDS INDIA 
+ 
+Hedge Funds in India 
+Relevant Provisions of FII Regulations 
+Identifying Hedge Funds 
+Investment Limits applicable to FIIs. 
+Additional Regulatory Concerns 
+ 
+
+30 
+31 
+ 
+
+33-35 
+
+33 
+33 
+ 
+
+36 -41 
+
+36 
+37 
+38 
+39 
+40 
+
+ 
+
+2 
+
+ 
+
+EXECUTIVE SUMMARY 
+
+ 
+
+There is no exact definition to the term “Hedge Fund”; it is  perhaps undefined in any securities 
+laws. There is neither an industry wide definition nor a universal meaning for “Hedge Fund”.  
+Hedge funds, including fund of funds, are unregistered private investment partnerships, funds or 
+pools that may invest and trade in many different markets, strategies and instruments (including 
+securities,  non-securities  and  derivatives)  and  are  not  subject  to  the  same  regulatory 
+requirements as mutual funds.  
+ 
+The term “hedge funds”, first came into use in the 1950s to describe any investment fund that 
+used incentive fees, short selling, and leverage. Over time, hedge funds began to diversify their 
+investment portfolios to include other financial instruments and engage in a wider variety of 
+investment  strategies.  However,  hedge  funds  today  may  or  may  not  utilize  the  hedging  and 
+arbitrage  strategies  that  hedge  funds  historically  employed,  and  many  engage  in  relatively 
+traditional, long only equity strategies.  
+ 
+Other  unregistered  investment  pools,  such  as  venture  capital  funds,  private equity funds and 
+commodity pools, are sometimes referred to as hedge funds. Although all of these investment 
+vehicles are similar in that they accept investors’ money and generally invest it on a collective 
+basis,  they  also  have  characteristics  that  distinguish  them  from  hedge  funds.  Hedge  Fund 
+Investment strategies tend to be quite different from those followed by traditional asset managers. 
+Moreover, each fund usually follows its own proprietary strategies. 
+ 
+Hedge funds have attracted significant capital over the last decade, triggered by successful track 
+records. The global hedge funds volume has increased from US $ 50 billion in 1988 to US $ 750 
+billion in 2003 yielding an astonishing cumulative average growth rate (CAGR) of 24 %. The 
+global hedge fund volume accounts for about 1% of the combined global equity and bond market. 
+Hedge funds are a growing segment of asset management industry and increasingly becoming 
+popular not only with high  net worth individual investors but also with institutional investors 
+including  university  funds,  pension  funds,  insurance  and  endowments.  Hedge  funds  are 
+sometimes  perceived  to  be  speculative  and  volatile.  However,  not  all  funds  exhibit  such 
+characteristics. 
+ 
+
+ 
+
+3 
+
+Hedge funds can provide benefits to financial markets by contributing to market efficiency and 
+enhancing liquidity.  They often assume risks by serving as ready counter parties to entities that 
+wish  to  hedge  risks.    Hedge  fund  can  also  serve  as  an  important  risk  management  tool  for 
+investors by providing valuable portfolio diversification.  
+ 
+Some jurisdictions are gradually moving towards allowing the marketing of hedge fund and fund 
+of funds products to retail investors. Those jurisdictions have simultaneously imposed disclosure 
+requirements to ensure that investors understand the complexity and associated risk of investing 
+in  hedge  funds.  Realizing  the  growing  importance  of  hedge  funds,  several  emerging  market 
+regulators  have  opened  their  markets  to  offshore  hedge  funds  by  providing  authorization  as 
+registered foreign investors. 
+ 
+The role played by some of the large hedge funds has often been associated with major financial 
+crisis that took place in the 90’s. However, subsequent research could not produce robust evidence 
+implicating the hedge funds for precipitating the crisis.  Researchers have, however, attributed the 
+negative  public  perception  of  the  role  of  hedge  fund  managers  in  crisis  partly  to  the  limited 
+information available about what they actually do. 
+ 
+In view of the increasing popularity among the institutions as well as their increasing interest in 
+the Indian market, it might be time to provide a limited window to this growing segment of asset 
+management  industry  within  the  existing  framework  of  the  SEBI  (Foreign  Institutional 
+Investors) Regulations.  The approach adopted in formulating the policy suggestions put forth in 
+Section IV of this report has been that of transparent and regulated access with abundant caution. 
+The suggestions are intended to widen the FII window to allow these alternatives invest pools to 
+our securities markets in a transparent and orderly manner. In addition, the suggestions also 
+provide for adequate safety measures to address legitimate concerns associated with these funds. 
+The  alternative  invests  pools  if  allowed  to  investment  in  Indian  markets  will  be  a  source  of 
+additional liquidity and will also diversify the pool of foreign investments in Indian market. 
+
+  
+
+ 
+
+4 
+
+I. HEDGE FUND 
+
+ 
+ 
+1.1  Defining the Hedge Fund: 
+ 
+
+There  is  no  exact  definition  to  the  term  “Hedge  Fund”;  it  is  perhaps 
+undefined  in  any  securities  laws.  There  is  neither  an  industry  wide 
+definition  nor  a  universal  meaning  for  “Hedge  Fund”.    Hedge  funds, 
+including fund of funds are unregistered private investment partnerships, 
+funds  or  pools  that  may  invest  and  trade  in  many  different  markets, 
+strategies  and 
+instruments  (including  securities,  non-securities  and 
+derivatives) and are NOT subject to the same regulatory requirements as 
+mutual  funds,  including  mutual  fund  requirements  to  provide  certain 
+periodic and standardized pricing and valuation information to investors.  
+
+The  term  can  also  be  defined  by  considering  the  characteristics  most 
+commonly associated with hedge funds. Usually, hedge funds: 
+
+ 
+
+•  are  organized  as  private  investment  partnerships  or  offshore 
+
+investment corporations; 
+
+•  use a wide variety of trading strategies involving position-taking in a 
+
+range of markets; 
+
+•  employ as assortment of trading techniques and instruments, often 
+
+including short-selling, derivatives and leverage; 
+
+•  pay performance fees to their managers; a nd 
+•  have  an 
+
+investor  base  comprising  wealthy 
+
+individuals  and 
+institutions and relatively high minimum investment limit ( set at US 
+$100,000 or higher for most funds).    
+
+The term  “hedge funds”,  first came into use in the 1950s to describe any 
+investment fund that used incentive fees, short selling, and leverage. Over 
+time, hedge funds began to diversify their investment portfolios to include 
+other  financial  instruments  and  engage  in  a  wider  variety  of  investment 
+strategies. Today, in addition to trading equities, hedge funds may trade 
+fixed  income  securities,  convertible  securities,  currencies,  exchange  –
+traded futures, over the counter derivatives, futures contracts, commodity 
+options  and  other  non-securities  investments.  Furthermore,  hedge  funds 
+
+5 
+
+ 
+
+ 
+
+ 
+
+today  may  or  may  not  utilize  the  hedging  and  arbitrage  strategies  that 
+hedge  funds  historically  employed,  and  many  engage  in  relatively 
+traditional, long only equity strategies.  
+
+  
+1.2  Hedge Fund and Other Pooled Investment Vehicles: 
+ 
+
+Hedge funds are sometimes called as ‘rich man’s mutual fund’. In addition, 
+other unregistered investment pools, such as venture capital funds, private 
+equity  funds  and  commodity  pools,  are  sometimes  referred  to  as  hedge 
+funds.  Although  all  of  these  investment  vehicles  are  similar  in  tha t they 
+accept investors’ money and generally invest it on a collective basis, they 
+also  have characteristics that distinguish them from hedge funds. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.2.1  Mutual Fund or Registered Investment Companies 
+
+In  many  ways,  hedge  funds  are  similar  to  mutual  funds.  Both 
+entities issue units or securities to investors, hold pools of securities 
+to diversify investment, have professional asset manager and may, 
+at times, have similar investment strategies. At the same time, they 
+also  differ  in  a  number  of  ways.  Mutual  funds  are  registered  with 
+securities markets regulator and are subject to the provisions of the 
+relevant 
+regulations  such  as,  offer/issue  of  units/securities, 
+disclosure  and  reporting  requirement,  valuation  for  the  purpose  of 
+computation  of  NAV,  conflict  of  interest  issue  and  limit  leverage. 
+Hedge  funds  are  not  required  to  be  registered  and  therefore,  are 
+not subject to similar regulatory provisions. 
+
+1.2.2  Private Equity Fund 
+
+A  private  equity  fund,  like  a  hedge  fund,  is  an  unregistered 
+investment vehicle in which investors pool money to invest. Private 
+equity  funds  concentrate  their  investments  in  unregistered  (and 
+typically illiquid) securities. Both private equity funds and US based 
+hedge funds are typically organized as limited partnerships (LLP). 
+Like hedge funds, private equity funds also rely on the exemption 
+from  registration  of  the  offer  and  sale  of  their  securities.  Both 
+private  equity  and  hedge  funds.    The  investors  in  private  equity 
+
+6 
+
+funds and hedge funds typically include high net worth individuals 
+and  families,  pension  funds,  endowments,  banks  and  insurance 
+companies. Private equity funds, however, differ from hedge funds 
+in terms of the manner in which contribution to the investment pool 
+is made by the investors. Private equity investors typically commit 
+to invest a certain amount of money with the fund over the life of 
+the fund, and make their contributions in response to “capital calls” 
+from the fund’s general partner. Private equity funds are long term 
+investments, provide for liquidation at the end of the term specified 
+in 
+if  any, 
+opportunities  for  investors  to  redeem  their  investments.  A  private 
+equity  fund  may  distribute  cash  to  its  investors  when  it  sells  its 
+portfolio investment, or it may distribute the securities of a portfolio 
+company. 
+
+fund’s  governing  documents  and  offer 
+
+the 
+
+little, 
+
+ 
+
+   
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+1.2.3  Venture Capital Fund   
+
+Venture capital pools are similar to hedge funds or private equity; 
+they  attract  the  same  class  of  investors.  Venture  capital  funds, 
+however,  invest  in  the  start-up  or    early  stages  of  a  company. 
+Unlike  hedge  fund  advisors,  general  partners  of  venture  capital 
+funds often play an active role in the companies in which the funds 
+invest. In contrast to a hedge fund, which may hold an investment 
+in  a  portfolio  security  for  an  indefinite  period  based  on  market 
+events  and  conditions,  a  venture  capital  fund  typically  seeks  to 
+liquidate its investment once the value of the company increases       
+above the value of the investments.    
+
+1.2.4  Commodity Pool 
+
+Commodity  pools  are  investment  rusts,  syndicates  or  similar 
+enterprises that are operated for the purpose of trading commodity 
+futures.    The  investment  concentration  in  commodity  futures 
+distinguishes commodity pools from hedge funds.  
+
+7 
+
+1.3  Domestic and Offshore Hedge Fund: 
+ 
+         1.3.1     Domestic Hedge Fund 
+ 
+
+Domestic  hedge  funds  are  usually  organized  (in  USA)  as  limited 
+partnerships  to  accommodate  investors  that  are  subject  to  U.S. 
+income taxation.  The fund’s sponsor typically is the general partner 
+and  investment  adviser.  Hedge  funds  may  also  take  the  form  of 
+limited liability companies (LLC) or business trusts. LLPs, LLCs and 
+business trusts are generally not separately taxed and, as a result, 
+income is taxed only at the level of the individual investors. Each of 
+three  firms  also  limits  investors  liability;  LLCs  offer  the  additional 
+benefit of limited liability for fund advisors (general partners). 
+
+  
+
+1.3.2  Offshore Hedge Fund 
+
+             
+
+Offshore  hedge  funds  are  typically  organized  as  corporations  in 
+countries  such  as  the  Cayman  Islands,  British  Virgin  Islands,  the 
+Bahamas, Panama, The Netherlands Antilles or Bermuda. Offshore 
+funds generally attract investments of US. tax exempt entities, such 
+as  pension  funds,  charitable  trusts,  foundations  and  endowments, 
+as  well  as  non-U.S.  residents.    U.S.  tax-exempt  investors  favor 
+investments in offshore hedge funds because they may be subject 
+to  taxation  if  they  invest  in  domestic  limited  partnership  hedge 
+funds.  
+ 
+
+1.4 
+
+two  or  more  sub  managers 
+
+Fund of Funds  
+ 
+Rather than investing in individual securities, a Fund of Funds invests in 
+other hedge funds. Technically any  fund that pools capital together, while 
+utilizing 
+in  equity, 
+commodities, or currencies, is considered a  Fund of Funds. Investors are 
+allocating  assets  to  Fund  of  Funds  products  mainly  for  diversification 
+amongst  the  different  managers'  styles,  while  keeping  an  eye  on  risk 
+exposure.  Fund  of  Funds  are  structured  as  limited  partnerships,  which 
+afford advantages to the investor. One of the advantages is due diligence. 
+Due diligence is a primary advantage because the fund of funds manager 
+
+to 
+
+invest  money 
+
+ 
+
+8 
+
+may  spend  his  whole  day  evaluating  strategies  and  speaking  with 
+individual  fund  managers.  This  would  be  an  extremely  hard  task  for  an 
+individual. The  fund  of  fund also may combat risk by achieving manager 
+diversity,  because  of  the  different  strategies  employed  by  the  underlying 
+managers.  For  example,  some  fund  of  funds  may  have  exposure  to  a 
+long/short fund, a distressed fund, and a private equity fund. By investing 
+within the  fund  of  funds,  the  investor  is  given  the  opportunity  to  have  a 
+unique  asset  allocation  product,  while  trying  to  limit  the  risk  on  the 
+downside.  
+
+Fund of funds have some drawbacks however. The first to come to mind is 
+the  double  layer  of  fees.  When  dealing  with  fund  of  funds,  an  investor 
+must  understand  that  the  underlying  funds  charge  a  fee,  as  well  as  the 
+fund  of  funds  manager.  This  translates  to  "layers"  of  fees  before  the 
+investor  receives  his  first  rupee  return.  Transparency  issues  are  also 
+important.  Research  such  as  the  individual  manager's  background  and 
+reputation,  not  to  mention  the  nature  of  the  investments  that  they  are 
+utilizing,  are  all  issues  a  fund  of  fund  manager  must  investigate. 
+Therefore,  investors  have  to  rely on the  fund  of  funds  manager's  talent 
+and  expertise  in  choosing  managers,  when  investing  in  a  fund  of  funds. 
+Investors  look  for  Fund of  funds  because  hopefully,  they  provide  more 
+stable returns while reducing risk. 
+
+1.5  Hedge Funds by Strategy Types:  
+
+Hedge  Fund  Investment  strategies  tend  to  be  quite  different  from  those 
+followed  by  traditional  asset  managers.  Moreover,  each  fund  usually 
+follows its own  proprietary  strategies  which  do  not  always  fit  within  neat 
+definitional categories.  However, the FSA, UK stated that the hedge funds 
+could be distinguished by the following three broad types:  
+
+1.5.1   Event driven - funds investing in securities to take advantage 
+of  price  movements  generated  by  corporate  events.  This 
+group includes  merger arbitrage funds and  distressed asset 
+funds.  
+
+1.5.2   Global macro  –  funds  that  take  long  and  short  positions  in 
+major  financial  markets  based  on  views  influenced  by 
+economic trends and events. 
+
+9 
+
+ 
+
+ 
+
+1.5.3  Market    neutral  –  funds  where  the  manager    attempts  to 
+minimize (or significantly reduce) market risk.  This category 
+includes 
+funds,  convertible  bonds 
+arbitrage funds,  and fixed income arbitrage.   
+
+/  short  equity 
+
+long 
+
+ 
+
+Another approach of classifying hedge funds by strategy types is that of 
+the following table which briefly summarizes the data base according to a 
+classification system recently adopted by FRM1 and MSCI, Inc. Given the 
+wide  range  and  idiosyncratic  nature  of  hedge  fund  specialties,  any 
+classification system will not completely characterize some managers, but  
+the following one is generally considered to be a reasonable description of 
+the universe. 
+
+ 
+       A Taxonomy of Hedge Fund Strategies 
+Strategy 
+
+ 
+Directional   
+Trading 
+ 
+Relative  
+Value 
+ 
+Specialist 
+Credit 
+Stock 
+Selection 
+
+in  multiple  asset                       
+
+Description 
+ 
+Based  upon  speculation  of  market  direction 
+classes. Both model-based systems and subjective judgment are used 
+to make trading decisions.                                                                 
+Focus  on  spread  relationships  between  pricing  components  of 
+financial assets. Market risk is kept to minimum and many managers 
+use leverage to enhance returns. 
+Based around lending to credit sensitive issuers. Funds in this strategy 
+conduct  a  high  level  of  due  diligence  in  order  to  identify  relatively 
+inexpensive securities. 
+Combine  long  and  short  positions,  primarily  in  equities,  in  order  to 
+exploit  under  and  overvalued  securities.  Market  exposure  can  vary 
+substantially. 
+
+ 
+1.6 
+ 
+
+Size of the Hedge Fund Market: 
+
+Since hedge funds  do  not  register  with  SEC  their  actual  data  cannot  be 
+independently  followed;  therefore  hedge  fund  data  is  self  reported. 
+Despite  the  ambivalent  image,  hedge  funds  have  attracted  significant 
+capital  over  the  last  decade,  triggered  by  successful  track  records.  The 
+global hedge funds volume has increased from US $ 50 billion in 1988 to 
+US  $  750  billion  in  2003  yielding  an  astonishing  cumulative  average 
+growth rate (CAGR) of 24 %. The global hedge fund volume accounts for 
+
+                                                 
+1 Financial Risk Management Limited (FRM) 
+ 
+
+10 
+
+about 1% of the combined global equity and bond market. The number of 
+hedge funds increased from 1500 to about 8000 between 1998 and 2003. 
+Estimates of new assets flowing into hedge funds exceed US $25 billion 
+on average for the last few years.  In the next five to ten years, hedge fund 
+assets have been predicted to exceed US $ 1 trillion. 
+
+funds  become  particularly  popular 
+
+In Europe the overall hedge fund volume is still small with about US $ 80 
+billion  in  2003  which  accounts  for  about  11%  of  the  global  hedge  fund 
+volume.  The  number  of  hedge  funds  in  Europe  is  about  600.  Within 
+Europe,  hedge 
+in  France  and 
+Switzerland where already 35% and 30% of all institutional investors have 
+allocated  funds  into  hedge  funds.  In  2003,  Italy’s  hedge  fund  industry 
+nearly  tripled  in  size  as  assets  grew  from  Euro  2.2  billion  to  Euro  6.2 
+billion.  Germany  is  at  the  lower  end  with  only  7%  of  the  institutional 
+investors using hedge funds. But the Investment Modernization Act,  may 
+well  trigger  rising  interest  from  German  investors.  Overall,  hedge  fund 
+assets are estimated to increase ten fold in Europe over the next 10 years.   
+The acceptance of hedge funds seems to be growing through out Europe, 
+as  investors  have  sought      alternatives  that  are  perceived  as  less  risky 
+during the last three years equity bear market.  
+
+This trend is also evident in Asia, where hedge funds are starting to take 
+off. According to AsiaHedge magazine, some 150 hedge funds operate in 
+Asia,  till  year  2002  which  together  managed  assets  estimated  at  around 
+US  $  15  billion.    In  Japan,  too  hedge  funds  are  becoming  the  focus  of 
+more  attention.  Recently,  Japan’s  Government  Pension  Fund  one  of  the 
+world’s largest pension fund with US $ 300 billion has announced plans to 
+start allocating money to hedge funds.  Industry participants believe that 
+Asia could be the next region of growth for the hedge fund industry. The 
+potential of Asian hedge funds is well supported by fundamentals.  From 
+an  investment  perspective,  the  volatility  in  the  Asian  markets  in  recent 
+years  has  allowed  long-short  and  other  strategic  players  to  out  perform 
+regional  indices.  The  relative  inefficiency  of  the  regional  markets  also 
+presents  arbitrage  opportunities  from  a  demand  stand  point  US  and 
+European investors are expected to turn to alternatives in Asia as capacity 
+in their home markets diminish.  Further, the improving economic climate 
+in  South  East  Asia  should  help  foreign  fund  managers  and  investors  to 
+
+11 
+
+ 
+
+ 
+
+ 
+
+refocus their attention on the region. Overall, hedge funds look set to play 
+a larger role in Asia.   
+
+ 
+1.7  Reasons for Rapid Growth of Hedge Fund Industry 
+ 
+
+ 
+While high net worth individuals remain the main source of capital, hedge 
+funds are becoming more popular among institutional and  retail investors.  
+Funds  of  funds  (hedge  funds)  and  other  hedge  fund-linked  products  are 
+increasingly  being  marketed  to  the  retail  investors  in  some  jurisdictions. 
+There are a number of factors behind the rising demand for hedge funds.  
+The unprecedented   bull run in the US equity   markets during the 1990s 
+swelled investment portfolios this lead both fund managers and investors 
+to  become  more  keenly  aware    of  the  need  for  diversification.    Hedge 
+funds are seen as a natural “hedge” for controlling downside risk because 
+they  employ  exotic  investments  strategies  believed  to  generate  returns 
+that are uncorrelated to asset classes.        
+
+ 
+
+ 
+
+Until  recently,  the  bursting  of  the  technology  and  telecommunications 
+bubbles,  the  wave  of  scandals  that  hit  corporate  America  and  the 
+uncertainties  in  the  US  economy  have  lead  to  a  general  decline  in  the 
+stock  markets  worldwide.    This  in  turn  provided  fresh  impetus  for  hedge 
+funds as investors searched for absolute returns.  
+
+The growing demand for hedge fund products has brought changes on the 
+supply side of the market.  The prospect of untold riches has spurred on 
+many former fund managers and proprietary trades to strike out on their 
+own  and  set  up  new  hedge  funds.    With  hedge  funds  entering  the  main 
+stream  and  becoming  ‘respectable’,  an  increasing  number  of  banks, 
+insurance companies, pension funds, are investing in them.                 
+
+                          
+1.8 
+ 
+
+Performance of Hedge Fund Industry: 
+
+Hedge fund performance has varied through time, with lower figures in the 
+most  recent  five-and-a  half  years.  Volatility  has  also  appears  to  have 
+increased  in  more  recent  periods.  In  general,  however,  the  risk-adjusted 
+performance  of  the  universe  of  hedge  funds  appears  to  have  been 
+
+ 
+
+12 
+
+superior to traditional active managers and passive benchmarks over the 
+last ten years.  
+
+Performance from 1990 through June 2000 
+Relative 
+ 
+Value 
+
+Directional 
+Trading 
+
+Specialist 
+Credit 
+
+Stock 
+Selection 
+
+S&P  
+500 
+
+12.3% 
+
+14.5% 
+
+18.9% 
+
+17.2% 
+
+5.7% 
+
+9.3% 
+
+13.4% 
+
+13.7% 
+
+1.3 
+
+1.0 
+
+1.1 
+
+0.9 
+
+All 
+Hedge  
+Funds 
+12.2% 
+
+17.8% 
+
+13.6% 
+
+7.7% 
+
+Annualised 
+Return 
+Annualised 
+Volatility 
+Sharpe 
+Ratio* 
+ * Assume 5% hurdle rate 
+ 
+
+1.6 
+
+0.9 
+
+It turns out that the hedge fund managers exhibit much lower correlation 
+with one another than traditional active managers. The average correlation 
+among Lipper large cap mutual funds managers has been on the order of 
+90%,  while  hedge  funds  resemble  S&P  500  stocks  with  an  average 
+correlation  on  the  order  of  10%  (its  about  20%  on  average  for  stocks). 
+There could be a large idiosyncrasies component to the returns of hedge 
+fund  managers,  even  within  a  particular  strategy,  whereas  Lipper 
+managers  tend  to  be  more  correlated  with  their  benchmarks  and  hence 
+with  each  other.  The  low  average  correlation  among  hedge  fund 
+managers  suggest  that  pooling  funds  into  portfolios  or  indexes  can 
+significantly reduce their total risk, providing distinct advantages relative to 
+traditional active strategies. 
+
+ 
+1.9  Market Benefits of Hedge Funds: 
+ 
+
+Hedge  funds  can  provide  benefits  to  financial  markets  by  contributing  to 
+market  efficiency  and  enhance  liquidity.  Many  hedge  fund  advisors  take 
+speculative  trading  positions  on  behalf  of  their  managed  hedge  funds 
+based  extensive  research  about  the  true  value  or  future  value  of  a 
+security.  They  may  also  use  short  term  trading  strategies  to  exploit 
+perceived  mis-pricings  of  securities.  Because  securities  markets  are 
+dynamic, the result of such trading is that market prices of securities will 
+move toward their true value. Trading on behalf of hedge funds can thus 
+bring price information to the securities markets, which can translate into 
+
+ 
+
+13 
+
+market  price  efficiency.  Hedge  funds  also  provide  liquidity  to  the  capital 
+markets by participating in the market. 
+
+Hedge  funds  play  an  important  role  in  a  financial  system  where  various 
+risks  are  distributed  across  a  variety  of  innovative  financial  instruments.   
+They  often  assume  risks  by  serving  as  ready  counter parties to entities 
+that wish to hedge risks. For example, hedge funds are buyers and sellers 
+of  certain  derivatives,  such  as  securitised  financial  instruments,  that 
+provide a mechanism for banks and other creditors to un-bundle the risks 
+involved  in  real  economic  activity.  By  actively  participating  in  the 
+secondary  market  for  these  instruments,  hedge  funds  can  help  such 
+entities  to  reduce  or  manage  their  own  risks  because  a  portion  of  the 
+financial  risks  are  shifted  to  investors  in  the  form  of  these  tradable 
+financial  instruments.  By  reallocating  financial  risks,  this  market  activity 
+provides the added benefit of lowering the financing costs shouldered by 
+other  sectors  of  the  economy.  The  absence  of  hedge  funds  from  these 
+markets could lead to fewer risk management choices and a higher cost of 
+capital. 
+
+Hedge  fund  can  also  serve  as  an  important  risk  management  tool  for 
+investors  by  providing  valuable  portfolio  diversification.  Hedge  fund 
+strategies  are  typically  designed  to  protect  investment  principal.  Hedge 
+funds 
+instruments  (e.g.  derivatives)  and 
+techniques (e.g. short selling) to hedge against market risk and construct 
+a conservative investment portfolio – one designed to preserve wealth.  
+
+frequently  use 
+
+investment 
+
+In  addition,  hedge  funds  investment  performance  can  exhibit  low 
+correlation to that of traditional investments in the equity and fixed income 
+markets.  Institutional  investors  have  used  hedge  funds  to  diversify  their 
+investments  based  on  this  historic  low  correlation  with  overall  market 
+activity. 
+
+From  time  to  time,  allegations  are  made  by  market  participants  about 
+collusion among hedge funds to manipulate markets. Like all other market 
+participants, hedge funds are covered by both criminal and civil regimes 
+that outlaw various forms of market manipulation and abuse.      
+
+14 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+II. HEDGE FUNDS IN DIFFERENT JURISDICTIONS 
+
+ 
+ 
+2.1  Hedge fund regulation in other markets :  
+ 
+2.1.1  United States of America (USA): 
+ 
+
+Organisation and offering by hedge fund: 
+ 
+Hedge funds are typically organized by professional investment  advisors 
+that  manage  investments  for  hedge  funds.  Hedge  funds  distribute 
+securities  in  private  offerings,  traditionally  “marketing”  their  interests 
+through  word  of  mouth  and  the  personal  relationships  with  the  hedge 
+fund’s  advisory  personnel.  Broader  marketing,  including  use  of  the 
+Internet, has become more frequent in recent years. 
+
+Hedge fund  advisors  typically  receive,  as  compensation,  a  management 
+fee based on the amount of hedge fund assets (commonly 1-2 percent), 
+plus  a  share  of  the  capital  gains  and  capital  appreciation  (commonly  20 
+percent)  or  some  other  allocation  based  on  the  fund’s  investment 
+performance.  Hedge  funds  typically  agree  to  repurchase  their  own 
+interests  from  investors  on  a  limited,  periodic  basis,  such  as  quarterly, 
+often  following  an  initial  “lock-up  period”  during  which  time  investors  are 
+not permitted to liquidate their investments. 
+
+Because  hedge  funds  are  not  registered  investment  companies,  they 
+generally  are  not  required  to  meet  prescribed  disclosure  requirements. 
+Hedge  fund  advisors,  however,  typically  provide  potential  hedge  fund 
+investors  with  a  private  placement  memorandum 
+that  discloses 
+information about the investment strategies the hedge fund is permitted to 
+use  and  an  overview  of  how  the  hedge  fund  operates.  The  private 
+placement  memorandum  also  generally  provides  the  adviser  with  the 
+maximum  flexibility  in  selecting,  shifting  and  modifying  its  strategies.  In 
+addition,  the  private  placement  memorandum  often  provides  the  hedge 
+fund  adviser  with  broad  discretion  in  valuing  the  hedge  fund’s  assets. 
+Hedge  fund  investors  generally  receive  some  ongoing  performance 
+
+15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information,  risk  analyses  and  portfolio  profiles  from  their  hedge  fund 
+advisors.  Although  not  required,  most  hedge  funds  retain  an  auditor  to 
+conduct an annual independent audit, which, if certified, is prepared using 
+generally accepted accounting principles (GAAP). 
+
+For tax and other considerations, some hedge fund advisors create one or 
+more “offshore” hedge funds that are organized in a foreign jurisdiction, in 
+addition to maintaining U.S. based hedge funds. 
+
+Hedge funds do not register the offer and sale of their interests under the 
+Securities Act. As such, hedge funds may not offer their securities publicly 
+or engage in a public solicitation. Instead, hedge funds generally sell their 
+interests in private offerings. 
+
+Investment Company Act 1940 and hedge fund 
+ 
+Most  hedge  funds  have  substantial  investments  in  securities  that  would 
+cause them to fall within the definition of investment company under the 
+Investment Company Act, 1940. Hedge funds, however, typically rely on 
+one of two statutory exclusions from the definition of investment company, 
+which enables them to avoid the regulatory provisions of that Act. 
+
+Section 3(c)(1) of the Investment Company Act, 1940 excludes from the 
+definition of investment company any issuer whose outstanding securities 
+(other than short-term paper) are beneficially owned by not more than 100 
+investors  and  which  is  not  making  and  does  not  presently  propose  to 
+make a public offering of its securities. 
+
+Section 3(c)(7) of the Investment Company Act, 1940 excludes from the 
+definition of investment company any issuer whose outstanding securities 
+are owned exclusively by persons who, at the time of acquisition of such 
+securities,  are  “qualified  purchasers,  and  which  is  not  making  and  does 
+not  at  that  time  propose  to  make  a  public  offering  of  its  securities.      A 
+hedge fund relying on Section 3(c)(7) may accept an unlimited number of 
+qualified  purchasers2  for  investment  in  the  fund.  As  a  practical  matter, 
+
+                                                 
+2 Qualified purchasers : are defined by SEC to mean “accredited investors”. “Accredited investors” is 
+defined to include individuals who have a net worth with their spouse, above US $ 10,00,000 or have 
+ 
+
+16 
+
+ 
+
+ 
+
+ 
+
+however,  most  funds  relying  on  Section  3(c)(7)  have  no  more  than  499 
+investors in order to avoid the registration and reporting requirements of 
+the Securities Exchange Act of 1934 (“Exchange Act”).   
+
+The  principals  of  hedge  funds  normally  have  no  interest  in  encouraging 
+resale of interests in their funds. In the usual case, therefore, transfers of 
+the  interests  are  prohibited  without  the  written  consent  of  the  general 
+partner  or  other  manager,  and  there  is  limited  liquidity  of  the  interests 
+through sales and redemptions by the hedge funds. 
+
+The Exchange Act and  hedge funds: 
+ 
+The Exchange Act contains registration and reporting provisions that may 
+apply  to  hedge  funds.  Section  12  of  the  Exchange  Act  and  the  rules 
+promulgated  there  under  govern  the  registration  of  classes  of  equity 
+securities  traded  on  an  exchange  or  meeting  the  holder  of  record  and 
+asset tests of Section 12(g) and related rules. Section 12(g) and Rule 12g-
+1  there  under  require  that  an  issuer  having  500  holders  of  record  of  a 
+class  of  equity  security  (other  than  an  exempted  security)  and  assets  in 
+excess  of  $10  million  at  the  end  of  its  most  recently  ended  fiscal  year 
+register  the  equity  security  under  the  Exchange  Act.  Registration  of  a 
+class  of  equity  security  subjects  domestic  registrants  to  the  periodic 
+reporting  requirements  of  Section  13,  proxy  requirements  of  Section  14 
+and insider reporting and short swing profit provisions of Section 16 of the 
+Exchange  Act.  Although  hedge  fund  interests  fall  within  the  definition  of 
+equity security under the Exchange Act, most hedge funds seek to avoid 
+Exchange  Act  registration  by  having  fewer  than  500  holders  of  record 
+(which in the case of hedge funds are also generally the investors). 
+
+Due  to  the  power  a  hedge  fund’s  adviser  may  exercise  over  the  equity 
+securities held by the fund, both the hedge fund and its  advisor generally 
+will  be  deemed  to  beneficially  own  any  equity  securities  owned  by  the 
+hedge fund. The beneficial ownership reporting rules under sections 13(d) 
+and  13(g)  of  the  Exchange  Act  generally  require  that  any  person  who 
+
+                                                                                                                                                 
+income above US $ 20,00,000 in the previous two years (or joint income with their spouse above US $ 
+30,00,000).  Institutional investors with assets exceeding US  $ 5,000,000 are considered “accredited 
+investors”. 
+ 
+
+17 
+
+beneficially owns greater than five percent of the class equity securities, 
+file  a  beneficial  ownership  statements  (schedule  13D  or  13G). In certain 
+specified circumstances, the hedge fund and its  advisors may file a short 
+form beneficial ownership statement.  
+
+In  addition,  hedge  fund  advisors  also  may  be  subject  to  the  quarterly 
+reporting obligations of Section 13(f) of the Exchange Act, which apply to 
+any  “institutional  investment  manager”  exercising  investment  discretion 
+with respect to accounts having an aggregate fair market value of at least 
+$100  million  in  equity  securities.    An  “institutional  investment  manager” 
+includes  any  person  (other  than  a  natural  person)  investing  in  or  buying 
+and  selling  securities  for  its  own  account,  and  any  person  exercising 
+investment discretion with respect to the account of any other person. 
+
+Section  16  applies  to  every  person  who  is  the  beneficial  owner  of  more 
+than ten percent of any class of equity security registered under Section 
+12 of the Exchange Act and each officer and director of the issuer of the 
+security (collectively, “reporting persons” or “insiders”). Upon becoming a 
+reporting  person,  a  person  is  required  by  Section  16(a)  to  file  an  initial 
+report with SEC disclosing the amount of his or her beneficial ownership of 
+all  equity  securities  of  the  issuer.  Section  16(a)  also  requires  reporting 
+persons to keep this information current by reporting to SEC changes in 
+ownership of these equity securities, or the purchase or sale of security-
+based swap agreements involving these securities. Hedge funds are also 
+subject  to  the  short  swing  profit  provisions  of  Section  16(b)  of  the 
+Exchange Act. 
+
+Investment Advisers Act 1940 and hedge funds 
+ 
+Many  hedge  fund  advisors,  however,  avoid  registering  with  the  SEC  by 
+relying on the  Advisors Act’s  de minimis  exemption under Section 203(b) 
+of  that  Act.  That  section  excludes  from  registration  investment  advisors 
+that have had fewer than 15 clients during the preceding 12 months, do 
+not hold themselves out generally to the public as an investment adviser 
+and are not an investment  advisors to a registered investment company.   
+For  purposes  of  Section  203(b),  current  SEC    rules  provide  that 
+investment  advisors  may  count  a  “legal  organization,”  such  as  a  hedge 
+
+18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fund,  as  a  single  client.  Thus,  an  adviser  may  manage  up  to  14  hedge 
+funds before being required to register with SEC as an investment adviser, 
+so long as it satisfies the “no holding out” condition. Investment  advisors 
+that are exempt from registration nevertheless are subject to the antifraud 
+provisions of the Advisors Act. 
+
+A  number  of  hedge  fund  advisors,  however,  do  register  as  investment 
+advisors under the  Advisors  Act.  Some  are  required  to  register  because 
+they  have  15  or  more  advisory  clients,  or  they  advise  one  or  more 
+registered  investment  companies,  and  therefore  are  ineligible  for  the  de 
+minimis  exemption.  Others  have 
+the  Commission 
+voluntarily because their investors demand it or for competitive reasons. 
+
+registered  with 
+
+The Commodities Exchange Act and  hedge fund 
+ 
+As  a  result  of  recent  CFTC  rule  options,  many  hedge  fund  advisors can 
+now  qualify  for  exemptions  from    Commodity  Pool  Operator  (CPO)  and 
+Commodity  Trading  Advisor  (CTA)  registration.  Regulations  under  the 
+Commodity Exchange Act (CEA) provide an exemption from registration to 
+CPOs operating pools that engage in limited commodity futures activities 
+and sell interests solely to certain qualified individuals. Regulations under 
+the CEA also provide an exemption from registration to CPOs that operate 
+pools  that  sell  interests  to  certain  highly  sophisticated  pool  participants. 
+Investment advisors to hedge funds that operate in reliance upon Section 
+3(c)(1) or Section 3(c)(7) of the Investment Company Act may be able to 
+rely upon one of these CFTC exemptions. In addition, the CEA provides a 
+de  minimis  exemption  from  CTA  registration  that  is  similar  to  the 
+Investment Advisors Act’s  de minimis  exemption from investment adviser 
+registration.  Consequently,  hedge  fund  advisors  that  are  exempt  from 
+registration  as  an  investment  adviser  also  are  usually  exempt  from 
+registration  as  a  CTA.    Hedge  fund  advisors  that  meet  the  definition  of 
+CPO or CTA, but that are exempt from registration as such, are required 
+to  keep  books  and  records,  but  are  not  subject  to  disclosure,  periodic 
+reporting  or  audit  requirements  that  apply  to  a  registered  CPO  or  a 
+registered CTA. 
+
+19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ERISA3 and hedge funds 
+ 
+An investment  advisor  to  a  hedge  fund  is  an  ERISA  plan  fiduciary  if  it 
+exercises  discretionary  authority  over  the  management  of  “plan  assets.” 
+The assets of a hedge fund are deemed to be “plan assets” if an ERISA 
+plan’s  investment  in  that  hedge  fund  is  “significant.”    An  ERISA  plan’s 
+investment  is  deemed  to  be  significant  if,  immediately  after  the  most 
+recent acquisition of any equity interest in the hedge fund, more than 25 
+percent of the value of any class of equity interests in the hedge fund is 
+held collectively by the employee benefit plan investors. Many hedge fund 
+advisors take measures to ensure that employee benefit plan investments 
+in hedge funds do not exceed this 25 percent threshold in order to avoid 
+being subject to regulation as an ERISA fiduciary. 
+
+Some  hedge  fund  advisors,  however,  accept  regulation  under  ERISA 
+because  they  view  ERISA  plans  as  attractive  to  investors  for  the  hedge 
+funds  they  advise.  As  a  result,  they  permit  the  investment  of  significant 
+amounts  of  employee  plan  assets  in  the  hedge  funds.  Before  investing 
+plan assets in such a hedge fund, however, the non-adviser ERISA plan 
+fiduciary typically will require assurances from the hedge fund adviser that 
+it  will  not  be  liable  under  ERISA  for  any  misconduct  on  the  part  of  the 
+hedge fund adviser in managing the plan assets. Generally, a hedge fund 
+adviser can shield ERISA plan fiduciaries from liability for its misconduct 
+by  registering  as  an  investment  adviser  under  the  Advisors Act, and by 
+qualifying as an “investment manager” under ERISA. 
+
+Other Regulations and hedge funds 
+ 
+Pursuant  to  authority  granted  by  the  Exchange  Act,  the  Treasury 
+Department has adopted rules that govern the reporting of large positions 
+in U.S. Treasury securities by persons who participate in the government 
+securities  market,  including  registered  investment  advisors  and  hedge 
+funds.  Pursuant  to  these  rules,  the  Treasury  Department  periodically 
+provides  notices  of  Treasury  security  issues  for  which  large  position 
+information  must  be  reported  (“reportable  position”)  and  the  applicable 
+large position threshold for that issue. Hedge funds that have a reportable 
+
+ 
+
+ 
+
+                                                 
+3 Employees Retirement Income Security Act of 1974 (ERISA). 
+ 
+
+20 
+
+ 
+
+ 
+
+position in a noticed government securities issue that is equal to or greater 
+than  the  large  position  threshold  must  file  a  report  with  the  Federal 
+Reserve  Bank  of  New  York  (“FRBNY”)  containing  certain  prescribed 
+information relating to that issue of  securities.  Hedge funds may also be 
+required to make and keep certain records related to their large position 
+reports. 
+
+Section 352 of the USA Patriot Act requires every “financial institution” to 
+establish an anti-money  laundering  program  that  meets  certain minimum 
+requirements.  In connection with Section 352, the Treasury has proposed 
+a rule that would require hedge funds, among other entities, to adopt anti-
+money  laundering  procedures.  In  addition  to  adopting  an  anti-money 
+laundering program, these entities would be required to provide a written 
+notice to the Treasury within 90 days of becoming subject to the rule. 
+
+A  hedge  fund  advisor  that  is  subject  to  state  investment  adviser  laws  is 
+likely to face regulations similar to SEC’s, as state regulation of investment 
+advisers  is  generally  similar  to  the  Advisors  Act.  Broadly  speaking,  the 
+investment adviser must register with authorities and must provide certain 
+disclosures  to  clients.  The  adviser  is  also  subject  to  rules  designed  to 
+protect  investors  and  prevent  fraud,  and  may  be  subject  to  periodic 
+examination by regulators. 
+
+ 
+2.1.2  United Kingdom (UK): 
+ 
+
+ 
+Assets in the European hedge fund industry increased by around 40% last 
+year  to  reach  $64bn  by  end-2001.      Last  year,  $11bn  of  the  inflows  in 
+Europe  went  to  existing  funds,  while  new  start-ups  attracted  $6.6bn.  the 
+number of hedge funds managed in Europe rose significantly during 2001, 
+from 317 to 446. 
+
+ 
+
+ 
+
+ 
+
+The main investors in hedge funds have been (and continue to be) high 
+net  worth  individuals  (HNWIs)  and  private  endowment  funds,  pension 
+funds and insurance companies are also a significant source of inflows to 
+hedge funds. 
+
+21 
+
+Almost all hedge funds are located in offshore jurisdictions. The UK is not 
+a domicile of choice for hedge funds, primarily because the tax regime is 
+unfavourable. A UK-domiciled hedge fund would be liable for corporation 
+tax  on  income  and  capital  gains.  This  provides  hedge  funds  with  strong 
+incentives to set up in offshore jurisdictions to benefit from favourable tax 
+regimes. The administration of funds is also usually based offshore.  Many 
+of  these  offshore  funds  are  structured  with  onshore  managers  and 
+advisors to inform investment strategy and provide other defined services 
+to  the  offshore  fund.  There  are  significant  numbers  of  hedge  fund 
+managers in the US (in particular) and the UK. Many of the investors in 
+hedge funds, both institutional and individual, are also located in onshore 
+jurisdictions. 
+
+FSA does not have legal responsibility for, or oversight of, the operation of 
+a hedge fund established and operated outside the United Kingdom, even 
+if a fund employs one or more UK investment managers. However, while 
+the funds themselves are outside the FSA’s jurisdiction, they oversee the 
+marketing  of  hedge  fund  products  in  the  UK  and  the  regulation  of  UK-
+based hedge fund managers. 
+
+There  is  no  specific  regulatory  regime  for  the  marketing  of  hedge  fund 
+products  in  the  UK.  Where  a  hedge  fund  is  structured  as  a  limited 
+partnership or as an open-ended investment company, it would usually be 
+classified  as  an  unregulated  collective  investment  scheme  for  regulatory 
+purposes. Chapter 3 of the Conduct of Business Sourcebook (COB), and 
+the  provisions  of  the  Unregulated  Collective  Investment  Scheme  (CIS) 
+Order,  govern  the  manner  in  which  authorised  persons  may  market 
+unregulated  schemes.  This  does  not  allow  the  free  marketing  of  these 
+funds  to  the  general  public.  But  it  does  allow  funds  to  be  marketed  to 
+intermediate  customers,  market  counterparties  or  to  private  customers 
+where  a  firm  has  taken  reasonable  steps  to  ensure  that  the  fund  is 
+suitable. 
+
+Firms that are authorised and which may give advice to their clients on the 
+merits of hedge fund investment will need to consider the requirements of 
+COB  and  in  particular  the  restriction  on  financial  promotion.  The  vast 
+majority  of  hedge  funds  have  minimum  investment  amounts,  typically  of 
+
+22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+US$100,000 or more. This requirement, which the industry itself chooses 
+to  apply,  would  be  an  insurmountable  hurdle  to  many  private  customers 
+and  is  itself  a  barrier  to  retail  investment  in  hedge  funds.  Again,  FSA 
+requires regulated firms to undertake thorough due diligence before taking 
+such action. 
+
+the 
+
+threshold  conditions 
+
+fund  manager  must  meet 
+
+A  hedge 
+for 
+authorisation as set out in the Act, both at the time of authorisation and on 
+an ongoing basis. Above and beyond this, the firm must also comply with 
+other  regulatory  requirements  relevant  to  its  business.  FSA  regime  puts 
+particular emphasis on systems and controls, which firms  are  required to 
+put  in  place  and  maintain  adequate  systems  and  controls  appropriate  to 
+the  business  it  conducts.  When  considering  an  application  for  a 
+permission  from  a  hedge  fund  manager,  the  FSA  will  focus  on  its 
+resources and competence to manage the assets of funds in line with its 
+mandate from the operators of the underlying fund. 
+
+Other features of  the authorisation process include checks on whether a 
+hedge  fund  manager  has  adequate  procedures  in  place  to  show 
+compliance with UK regulations.  FSA also require hedge fund managers 
+to keep clear  records  of  any  marketing  material  distributed  along  with  a 
+clear  audit  trail  showing  how  they  meet  the  criteria  laid  down  in  the 
+relevant regulatory regime. 
+
+Authorised hedge fund managers, as with all regulated firms, are required 
+to satisfy the threshold conditions for authorisation on a continuing basis 
+and  comply  with  FSA  rules,  including  requirements  on  systems  and 
+controls  as  well  as  training  and  competence.  FSA    takes  appropriate 
+action against any authorised firm, including hedge fund managers, which 
+causes significant risks to its statutory objectives. It must be clarified, that 
+authorisation  of  hedge  fund  managers  by  FSA  does  not  imply  any 
+oversight of the underlying hedge fund or funds. 
+ 
+Other  financial  institutions  have  exposures  to  hedge  funds  that  arise 
+through several transmission mechanisms, including counterparty trading, 
+derivatives  activity,  the  provision  of  brokerage  services,  direct  equity 
+investments,  and  (very  occasionally)  direct  lending.  A  number  of  UK-
+
+23 
+
+ 
+
+ 
+
+ 
+
+ 
+
+authorised firms offer finance to hedge funds, most commonly as a prime 
+broker, although the number of UK owned firms providing finance in this 
+way is relatively small. The FSA seeks to ensure that, following Basel and 
+IOSCO guidelines, credit providers to hedge funds follow appropriate  risk 
+management practices. 
+
+FSA  continues  to  monitor  trends  in  the  hedge  fund  sector,  and 
+developments  in  counterparty  risk  management  arrangements.  Both 
+market surveillance and periodic discussions with hedge funds and credit 
+providers  help  to  inform  our  assessment  of  the  risks.  FSA  also  meets 
+periodically  with  hedge  fund  trade  associations  and  industry  analysts  to 
+help inform its views of the market. 
+
+Hedge fund managers or operators based in the UK have been subject to 
+the  Money  Laundering  Regulations  1993  since  1994,  even  if  the  assets 
+that they manage are held overseas. The Regulations oblige them by law 
+to know their customers, including indirect customers introduced to them 
+by intermediaries. 
+
+The  market  impact  of  the  few  hedge  funds  that  are  both  large  and 
+leveraged  is  a  global  issue.  As  stated  above,  it  was  analysed  in 
+considerable  depth 
+the  collapse  of  Long  Term  Capital 
+Management  at  the  end  of  1998,  by  a  number  of  bodies  including  the 
+Financial  Stability  Forum  (FSF)  Working  Group  on  Highly  Leveraged 
+Institutions (HLIs). 
+
+following 
+
+At its seventh meeting in March 2002, the FSF discussed how far previous 
+concerns  about  HLIs  had  been  allayed  by  the  implementation  of  its 
+previous recommendations. The FSF noted that several developments  – 
+including 
+risk  management,  strengthened 
+regulatory  oversight  and  enhanced  information  flows  –  have  helped  to 
+reduce the risks that hedge funds could pose to the international financial 
+system. But the FSF urged continued improvements in public disclosures 
+by hedge funds to improve market discipline and reduce systemic risk. 
+
+improved  counterparty 
+
+Some concerns have been raised recently about the effects on markets of 
+short selling by hedge funds and others.  FSA’s position on this important 
+
+24 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+issue  can  be  summarized  in  its  own  words  :  “If  we  were  to  introduce 
+regulatory provisions to deal with concerns about short selling, we would 
+have to consider their costs and benefits. Indeed, there are good reasons 
+why we would not wish to constrain short selling.”  FSA noted in its latest 
+assessment  that  it  can  be  “an  equilibrating  and  efficiency-enhancing 
+market practice”. Short selling can provide the market with two important 
+benefits;  market  liquidity  and  pricing  efficiency.  FSA  therefore  sees  no 
+case for any outright ban on short selling, a practice which in its judgment 
+a necessary and desirable underpinning to the liquidity of the UK market. 
+
+From  time  to  time,  allegations  are  made  by  market  participants  about 
+collusion among hedge funds to manipulate markets. Like all other market 
+participants,  hedge  funds  are  covered  by  both  the  criminal  and  civil 
+regimes that outlaw various forms of market manipulation and abuse. The 
+FSA also takes steps to investigate evidence of any such collusion. 
+
+ 
+
+ 
+2.1.3  Switzerland: 
+ 
+
+The  Swiss  Investment  Funds  Act  introduced  the  concept  of  ‘other  funds 
+with special risks’, which enables Swiss and foreign based hedge funds to 
+be  licensed  by  the  Federal  Banking  Commission  (FBC).  There  is  no 
+statutory  minimum  investment  level  but,  the  minimum  investment  has 
+never been below Sfr 10,000  and is normally considerably higher. Only 
+funds  domiciled  in  a  recognized  jurisdiction  with  ‘equivalent  supervision’ 
+can be sold in Switzerland  – the FBC has deemed that member states of 
+the  European  Economic  Area,  the  USA,  Guernsey  and  Jersey  meet  the 
+standard.  Although  it  is  the  hedge  fund  that  is  authorized,  much  of  the 
+regime  focuses  on  the  actions  and  competence  of  the  hedge  fund 
+manager. For example, the decision on whether to license a hedge fund is 
+based  on  a  qualitative  assessment  of  managers,  risk  management 
+systems and internal controls. 
+
+ 
+2.1.4  Germany 
+ 
+
+The  Investment  Modernisation  Act  was  approved  by  the  German 
+Parliament  on  November  7,  2003  and  became effective  from January 1, 
+2004. One key measure under the Modernisation Act is the admission  of 
+
+ 
+
+25 
+
+hedge funds as the alternative investment vehicle. So far only hedge fund 
+certificates  (products  with  payout  linked  to  the  performance  of  hedge 
+funds) were allowed to be distributed in Germany.  The act is expected to  
+catalyze  the  development  of  German  hedge  fund  industry  and  is  a 
+response  to  the  interest  in  hedge  funds  among  institutional  and  retail 
+investors. 
+
+Following  the  approval  of  the  new  investment  act,  the  BaFin  will  issue 
+guidelines that will outline the issues related to setting up a hedge fund or 
+a  fund  of  funds.  The  new  regulations  will  stipulate  that  KAGs  (Kapitalan 
+Lagegessellschaften) may  now launch “investment funds with additional 
+risks” (i.e. hedge funds) or “fund of funds with additional risks” (i.e. funds 
+of  hedge  funds).  There  are  a  few  additional  requirements  for  existing 
+KAGs    to  comply  before  establishing  such  funds,  for  example,  due 
+expertise  of  an  asset  manager  and  risk  assessment  models  must  be  in 
+place.  Hedge funds and fund of hedge funds may also be launched by the 
+newly introduced investment stock companies with variable capital.  
+
+ 
+
+ 
+
+The  German  market,  to  a  certain  extent  is  now  open  to  foreign  hedge 
+funds  and  provides  the  opportunity  to  admit  public  distribution  of  certain 
+foreign hedge funds. The Investment Act stipulates that only foreign funds 
+of hedge funds may be publicly distributed in Germany.  The single hedge 
+funds still remain barred from public distribution, although it is possible to 
+distribute  them  by  private  placement.  As  regards  investment  policy, 
+foreign funds of hedge funds must largely follow the same regulations as 
+German funds of hedge funds under the Investment Act.  
+
+ 
+2.1.5  Offshore  Centers  (Bahamas,  Bermuda,  The  Bristish  Virgin  Islands 
+
+and the Cayman Island) 
+
+ 
+
+ 
+
+Offshore administrators assist a hedge fund adviser to set  up an offshore 
+hedge fund in accordance with applicable foreign laws and also assist the 
+fund in complying with such laws on an ongoing basis. They also provide 
+accounting,  record  keeping  and  reporting  services,  as  well  as  assist  in 
+calculating  fees  and  accruals.  Certain  offshore  jurisdictions  regulate 
+offshore  hedge  fund  administrators  operating  within  their  borders.  The 
+regulation of offshore hedge fund administrators subject them to licensing, 
+
+26 
+
+auditing  and  record  keeping  requirements.  For  example,  many  offshore 
+hedge funds are domiciled in the Bahamas, Bermuda, The British Virgin 
+Islands  and  the  Cayman  Islands.  These  jurisdictions  generally  apply 
+certain  laws  regulating  the  operations  and  conduct  of  investment  pools 
+and  investment  pool  administrators  to  hedge  funds  and  hedge  fund 
+administrators  :  The  Bahamas  Mutual  Fund  Act,  1995  (June  2001 
+Revision);  Bermuda  Monetary  Authority  Act  1969;  Bermuda  Companies 
+Act  1981,  Part  XII  A  (Mutual  Fund  Companies);  Bermuda  Monetary 
+Authority (Collective Investment Scheme Classification) Regulations 1998; 
+British  Virgin  Islands  Mutual  Funds  Act,  1996  (as  amended  1997)  and 
+Cayman Islands Mutual Fund Law (2003 Revision). These laws generally 
+require  fund  administrators  to  be  licensed  and 
+three  of  the  four 
+jurisdictions  (except  Bermuda)  require  licensed  fund  administrators  to 
+have their accounts audited by an auditor approved by the regulator. Each 
+of  these  jurisdictions  also  subjects  licensed  fund  administrators  to  anti-
+money 
+forth  client 
+identification and record keeping requirements in addition to obligations to 
+report any suspicious activity with respect to the funds they administer to 
+the relevant authority in that jurisdiction. 
+
+laundering  provisions.  These  provisions  set 
+
+ 
+ 
+2.1.6  Ireland:        
+ 
+
+Hedge  fund  managers  setting  up  an  offshore  fund  can  seek  a  listing  for 
+the  fund’s  shares  on  the  Irish  Stock  Exchange.  This  does  not  generally 
+extend the categories of investor with whom shares of hedge fund can be 
+privately placed. But often a listing is sought  because it is believed that 
+institutional investors can invest a larger proportion of their assets in listed 
+(  as  distinct  from  unlisted)  shares.  Hedge  funds  seeking  a  listing  must 
+impose  a  minimum  investment  amount  per  investor  of  US  $100,000, 
+unless the hedge fund is set up under the law of EU member states, Hong 
+Kong,  the  Isle  of  Man,  Jersey,  Guernsey  or  Bermuda.  The  investment 
+manager must show that the fund has adequate and appropriate expertise 
+and  experience  in  managing  investments;  in  practice  this  means  the 
+manager must already be managing $100 million in third party funds on a 
+discretionary  basis.  Hedge  funds  seeking  a  listing  must  also  have 
+
+ 
+
+27 
+
+appointed a custodian with responsibility for the safe keeping and custody 
+of the fund’s assets. 
+
+ 
+2.1.7  Singapore: 
+ 
+
+In response to interest expressed by the financial industry, The Monetary 
+Authority  of  Singapore  (MAS)  issued  in  June  2001  guidelines  allowing 
+hedge  funds  to  be  sold  to  the  public.  The  rationale  is,  according  to  the 
+MAS,  is :  “to  provide  more  investment  choice  for  those  who  understand 
+the higher risks associated with the prospect of significantly higher returns 
+from  such  funds”.  The  key  requirements  for  public  offerings  of  hedge 
+funds  are  a  minimum  initial  subscription  of  $100,000  per  investor, 
+adequate and prominent disclosure in the prospectus of the high risks of 
+investing in hedge funds, and investment managers must have expertise 
+in managing such funds.    
+
+ 
+2.1.8  Hong Kong: 
+ 
+
+In  October  2001  the  Hong  Kong  Securities  and  Futures  Commission 
+(HKSFC)  issued  a  consultation  paper  on  the  offering  of  hedge  funds, 
+which considered various different approaches. The consultation exercise 
+has  concluded  and,  from  17  May  2002,  funds  seeking  authorization  as 
+hedge  funds  need  to  comply  with  several  new  provisions.  Under  these 
+guidelines, managers of single hedge funds and funds of hedge funds will 
+be required to be managing assets of at least US $100 million, and have 
+five  years’  general  experience  in  “hedge  fund  strategies”.  The  minimum 
+individual  investment  in  single  hedge  funds  is  US  $50,000,  and  US 
+$10,000 for funds of hedge funds. No minimum subscription level  applies 
+to  schemes  providing  100%  capital  guarantees.  Hedge  fund  offering 
+documents must display warning statements on the front cover, noting the 
+special risks associated with these investments.     
+
+     
+ 
+2.1.9  Taiwan: 
+ 
+
+There  was  no  guideline/regulation/rule  to  regulate  hedge  funds  existing 
+within Taiwan’s regulatory framework, even though hedge fund issue was 
+
+ 
+
+28 
+
+ 
+
+the top priority concern  to SFC, Taiwan’s regulator. SFC used to apply a 
+self declaration like form to screen hedge funds from Foreign Institutional 
+Investors  but  it  did  not  seem  to  be  so  effective.  SFC  turned  around  the 
+policy toward hedge funds, when it eventually approved two hedge funds’ 
+application a month ago after one-month review and consideration. 
+
+SFC has now given a guideline to the Taiwan Stock Exchange (TSE) that, 
+other than those internationally recognized “unfriendly” hedge funds, those 
+which  meet  the  certain  criteria  shall  be  in  principle  allowed  to  obtain  a 
+foreign  institutional  investor  (FINI)  status  for  investment  in  Taiwan’s 
+securities market. 
+ 
+The  hedge  fund  provides,  in  its  application  for  FINI,  memorandum  and 
+articles  of  association  or  agreement  for  establishment  of  the  fund,  and 
+explanation  of  its  investment  or  trading  strategies  which  can  sufficiently 
+prove that the fund is not engaged in market manipulation. The fund shall 
+also declare that it will not use unjust measures to affect the fairness or 
+order of the financial / securities market. 
+ 
+The SFC feels that as long as hedge funds can provide true and accurate 
+information in their applications and follow local regulations, and that the 
+exchanges  can  monitor  and  track  their  activities  effectively,  hedge  funds 
+shall not create adverse impacts on the local securities market. 
+ 
+
+2.1.10 Thailand: 
+ 
+
+There is no specific guidelines or rules to restrict overseas hedge fund to 
+invest in Thai capital market. However, overseas hedge funds who wish to  
+invest  in  Thai  Stock  of  Exchange  need  to  subject  to  SEC  laws,  in 
+particular,  in  chapter  8,  regarding  unfair  securities  trading  practices  and 
+acquisition of securities for business Takeovers. 
+
+SEC, Thailand treats hedge fund equal to ordinary investors in Thai Stock 
+Exchange Market. The regulator  does not have special checking on any 
+hedge  funds  but    checks  for  unusual  transactions  of  all  categories  of 
+investors equally by : 
+
+29 
+
+ 
+
+ 
+
+ 
+
+ 
+
+v  checking  unusual  movement  in  SET  (stock  exchange)  which  may 
+
+caused by unfair securities trading in the market. 
+
+v  checking through investors report submitted to SEC for the disclosure 
+of  the holding of securities above the threshold (5% of total number of 
+securities). 
+
+The impact of these changes on fund location and investment profiles has, 
+to date, been small when compared to the size of the global hedge fund 
+market. However, the changes above are recent developments and funds 
+operating  under  these  regimes  may,  over  time,  account  for  a  greater 
+proportion of the industry’s funds under management.  
+
+ 
+ 
+2.1.11 IOSCO 
+ 
+
+In  February  2003,  the  IOSCO  Technical  Committee  approved  for  public 
+release  the  report  entitled  Regulatory  and  Investor  Protection  Issues 
+Arising  from  the  Participation  from  Retail  Investors  in  (Funds  of)  Hedge 
+Funds.  While summarizing its recommendation the Technical Committee 
+highlighted that the possibilities for retail investments in hedge funds have 
+significantly grown over the past years. Some jurisdictions allow forms of 
+direct  retail  investment  and  many  jurisdictions  allow  indirect  retail 
+investment.  
+
+Where  the  jurisdiction  does  permit  the  marketing  and  selling  of  hedge 
+funds to retail investors, the key regulatory concerns that arise are :  
+
+1.  The retail investor may not adequately understand the risk involved in 
+
+or the complexity of the product; and  
+
+2.  That  the  managers  may  not  have  the  competence  or  the  processes 
+and controls to adequately manage the fund and explain this clearly to 
+his investors. 
+
+The  committee  recommended  that  the  hedge  funds  marketed  and  sold 
+directly  to  retail  investors  should  be  subject  to  the  same  disclosure 
+requirements  as  other  Collective 
+Investment  Schemes  (investment 
+companies  in  USA  and  Mutual  Funds  in  India).    The  management  and 
+
+30 
+
+ 
+
+ 
+
+ 
+
+ 
+
+internal control process of hedge funds may require additional attention of 
+the regulator. The regulator should consider the adequacy of skills such as 
+ability  to  manage  complexity  of  investment  strategies  and  risks,  while 
+accepting that it is impossible to second-guess the commercial judgments 
+being made by the manager and for which the manager is responsible.  
+
+ 
+2.1.12  
+ 
+
+1) 
+
+2) 
+
+3) 
+
+4) 
+
+5) 
+
+Highlights of Regulatory Review: 
+
+Hedge funds are a growing segment of asset management industry 
+and  increasingly  becoming  popular  not  only  with  high  networth 
+individual    investors  but  also  with  institutional  investors  including 
+university funds, pension funds, insurance and endowments. Some 
+of  the  jurisdictions,  have  even  initiated  policies  to  provide  hedge 
+fund  or  fund  of  funds  as  alternative  investment  options  to  retail 
+investors. 
+Hedge  funds,  are  sometimes  perceived  to  be  speculative  and 
+volatile.  However,  not  all  funds  exhibit  such  characteristics.  There 
+are  hedge  funds    which  provide  capital  protection  feature  to  the 
+investors. 
+Hedge  funds  themselves  are  not  registered  in  most  of  the 
+developed  markets  but  investment  managers/advisors  managing 
+hedge funds could be registered as investment advisors under the 
+relevant  regulations.  However,  the  registration  of  the  investment 
+advisors does not necessarily involve substantive supervision over 
+the funds operations.  
+Some  jurisdictions  are  gradually  moving  towards  allowing  the 
+marketing  of  hedge  fund  and  fund  of  funds  products  to  retail 
+investors.  Those 
+imposed 
+disclosure  requirements  to  ensure  that  investors  understand  the 
+complexity and associated risk of investing in hedge funds. 
+Hedge  funds  in  search  of  high  returns  are  also  investing  in 
+emerging  markets..  Realizing  the  growing  importance  of  hedge 
+funds,  several  emerging  market  regulators  have  opened  their 
+markets  to  offshore  hedge  funds  by  providing  authorization  as 
+registered foreign investors. 
+
+jurisdictions  have  simultaneously 
+
+ 
+
+31 
+
+6) 
+
+All  hedge  funds  though  are  not  regulated  like  mutual  funds,  they 
+are  nevertheless  subject  to  market  abuse  laws  and  anti-money 
+laundering procedures. 
+
+ 
+
+32 
+
+ 
+
+III  FINANCIAL CRISIS AND HEDGE FUNDS 
+
+ 
+In spite of difference of views, the role played by some of the large hedge funds 
+have often been associated with major financial crisis that took place in the 90’s. 
+ 
+3.1 
+ 
+ 
+
+East Asian Crisis 
+ 
+The  impact  of  the  East  Asian  crisis  which  materialized  in  the  middle  of 
+1997,  and  the  subsequent  turbulence  that  swept  the  world’s  financial 
+markets  over  the  next  12-18  months,  has  been  significant  not  only  in 
+terms  of  the  financial,  economic  and  social  consequences  that  these 
+events  wrought  on  emerging  market  economies,  but  also  in  terms  of 
+drawing  the  world’s  attention  to  outstanding  issues  concerning  the 
+structure, operation and regulation of the international financial system. 
+
+ 
+ 
+
+ 
+3.2 
+ 
+
+Causes  of  the  crisis  remain  among  the  most  contentious  issues  and 
+continue  to  be  debated  at  the  academic  as  well  as  policy  level.  The 
+Emerging Markets Committee of IOSCO identified multiple causes of the 
+East Asian crisis. The Committee also made a reference to the role played 
+by some hedge funds : “complex trading strategies involving futures were 
+thought by some authorities to have exerted a destabilizing influence on 
+market performance in their jurisdictions. Currency speculators pursued a 
+so-called “double play” aimed at playing off the Hong Kong currency board 
+futures  markets.”4   
+system  against 
+However,  subsequent  research  could  not  produce  robust  evidence 
+implicating the hedge funds for precipitating the crisis.  Researchers have, 
+however,  attributed  the  negative  public  perception  of  the  role  of  hedge 
+fund  managers  in  crisis  partly  to  the  limited  information  available  about 
+what they actually do. 
+
+the  administrations  stock  and 
+
+Long Term Capital Management (LTCM) 
+
+Another major financial crisis involving a large hedge fund was that of the 
+huge  loss  (US  $  4  billion)  suffered  by  LTCM  in  1998.  LTCM  built    its 
+
+                                                 
+4 Causes, Effects and Regulatory Implications of Financial and Economic Turbulence in Emerging Markets 
+– Emerging Markets Committee, IOSCO, November 1999.  
+ 
+
+33 
+
+positions on sophisticated arbitrage trading strategies. In addition,  it used 
+a significant degree of leverage to increase its expected return. In August, 
+and September of 1998, as the global financial crisis worsened, it became 
+clear  to  LTCM  that  many  of  the  assumptions  inherent  in  the  arbitrage 
+positions  it  held  were  incorrect.  Due  to  LTCM’s  leverage  (which  at  one 
+point  has  exceeded  50  to  1),    those  incorrect  assumptions  resulted  in 
+substantial losses for the firm and eroded its capital base5.  Liquidation of 
+LTCM’s positions  could have potentially disrupted the financial markets, 
+resulting  in  losses  for  other  participants  in  those  markets.  Finally,  a 
+consortium  of  banks  worked  out  a  rescue  plan  facilitated  by  the  Federal 
+Reserve Bank of New York, acknowledged that LTCM’s potential impact 
+on  the  world’s  financial  markets  raises  legitimate  questions  about  the 
+activities  of  hedge  funds  in  general,  as  well  as  the  proper  role  that 
+regulators  should  play  with  respect  to  those  activities.  However,  he  also 
+asserted that it was too soon to tell whether LTCM’s investment strategies 
+represent the norm in the hedge funds industry or, whether LTCM was an 
+overly  aggressive  player  among  otherwise 
+responsible  market  
+participants. 
+
+In response to the near collapse of Long-Term Capital Management, LP 
+(LTCM),  the  Technical  Committee  of  the  IOSCO  formed  a  special  Task 
+Force  on  Hedge  Funds  and  Other  Highly  Leveraged  Institutions  to 
+address  regulatory  issues  relating  to  the  activities  of  highly  leveraged 
+institutions (HLIs) or hedge funds. The Committee in its report underlined 
+that HLIs, like other institutional investors, can provide benefits to global 
+financial  markets.  It  also  highlighted  the  combination  of  characteristics 
+typically associated with HLIs such as significant leverage, and the legal 
+and other uncertainties arising out of the extensive operations in offshore 
+centers posing particular challenges which need to be managed carefully 
+in  order  to  avoid  risks  to  the  financial  system.  The  committee,  as  a 
+defense  against  systemic  risk  in  the  market  ,  recommended  strong  and 
+prudent risk management processes at the regulated firms with which the 
+HLIs trade. The Committee also highlighted the importance of transparent 
+
+ 
+
+                                                 
+5  Testimony of Richard L. Lindsey, Director Division of Market Regulation, before the House Committee 
+on Banking and Financial Services concerning Hedge Fund Activities in the U. S. Financial Markets, 
+October 1, 1998.  
+ 
+
+34 
+
+disclosure by the regulated entities dealing with HLIs and HLIs themselves 
+on a voluntary basis, as a means to maintain market integrity. 
+ 
+In spite of occasional negative perception about  the role of hedge funds, 
+such  perceived  misdemeanors  by  certain  hedge  funds  have  been 
+considered  more  as  occasional  aberrations  than  general  industry  wide 
+behaviour. This is also corroborated by the fact that many jurisdictions are 
+gradually  opening  up  their  markets  for  hedge  funds  to  establish  and 
+market their products. 
+ 
+Further,  for  the  purpose  of  this  paper  it  must  be  emphasized  here  that 
+allowing access to offshore hedge funds to invest in India through FII route 
+will  not  provide  any  opportunity  to  them  to  build  up  leveraged  position 
+onshore  as  borrowing  by  FIIs  are  not  allowed  under  the  terms  of  RBIs 
+general permission. 
+
+ 
+ 
+
+ 
+
+35 
+
+ 
+IV. REGULATORY ISSUE FOR ALLOWING FOREIGN HEDGE FUNDS IN 
+
+INDIA  
+
+ 
+
+4.1  Hedge Funds in India 
+
+With  the notification of SEBI (Mutual Fund) Regulations 1993,   the asset 
+management business  under private sector  took its root in India.   In the 
+same year SEBI,  also  notified Regulations and Rules governing Portfolio 
+Managers who pursuant to a contract or arrangement with clients, advise 
+clients or undertake the management of portfolio of securities or funds of 
+the  client.  We  have  however,  no  information  about  any  hedge  funds  
+domiciled  in  India.  Further,  on  account  of  limited  convertibility,  offshore 
+hedge  funds  have  yet to offer  their  products  to  Indian    investors  within 
+India.    Recently,  RBI  through  liberalized  remittance  scheme,  allowed 
+resident individuals to remit upto  US $ 25,000 per year for any current or 
+capital  account  transaction.  The  liberalized  scheme  will  allow  Indian 
+individual  investors  to  explore  the  possibility  of  investing  in  offshore 
+financial products. Considering the existing limit being only US $ 25,000 
+per  year,  Indian  market  may  not  be  attractive  to  hedge  fund  product 
+marketing.  As  long  as  there  will  be  restriction  on  capital  account 
+convertibility,  foreign hedge funds, by virtue of their minimum investment 
+limit    being  $  100,000  or  higher,  do  not  seem  to  be  excited  to  access 
+investment from Indian investors in India. It may be clearly understood that 
+the suggestions put forth in the following paragraphs are in no way aimed 
+at  allowing  foreign  hedge  funds  to  mobilise  investment  from  India  by 
+offering  their  products  to  Indian  investors.  Therefore  regulatory  issues 
+related to investor protection have not been considered for this Report. 
+
+Some hedge funds have invested in offshore derivative instruments (PNs) 
+issued  by  FIIs  against  underlying  Indian  securities.  Through  this  route 
+hedge  funs  can  derive  economic  benefit  of  investing  in  Indian securities 
+without  directly  entering  the  Indian  market  as  FIIs  or  their  sub-accounts. 
+Through recent amendments to the FII Regulations (Regulation 15A and 
+20 A), the regulatory  regime has been further strengthened and periodic 
+disclosures  regime  has  been  introduced.  As  at  the  end  of  March, 2004, 
+
+36 
+
+ 
+
+ 
+
+total  investment  by  hedge  funds.  In  the  offshore  derivative  instruments 
+(PNs) against Indian  equity, are Rs.  8050 crores which  represents about 
+8% total net  equity investments of all FIIs. On the basis of market value, 
+the  hedge  funds  account  for  about  5%  of  the  market  value  of  the total 
+assets held by the FIIs in India. 
+
+ 
+
+The current fiscal year (2003-2004) has seen a spectacular increase in FII 
+activities in Indian market. Till this report is filed FIIs have already invested 
+US  $  10  bn.  during  this  year  alone  which  is  a  record.  Robust  economic 
+fundamentals,  strong  corporate  earnings  and  improvement  in  market 
+micro structure are driving the FII interest in India. Investors all over the 
+world are keen to come to Indian market. From informal discussions with 
+institutional investors including some reputed and well established hedge 
+funds,  one  could  gauge  the  extent  of  interest  they  have  about  Indian 
+markets. During the discussions they  have  requested  whether  India, like 
+other  Asian  emerging  markets,  can  provide  a  regulatory  framework  that 
+will allow them to directly invest in Indian market in a transparent manner. 
+In this context, the following approach may be considered for allowing the 
+well-established  hedge  funds  to  invest  in  Indian  markets  as  a  registered 
+entity under the SEBI (Foreign Institutional Investors) Regulations, 1995. 
+
+ 
+
+4.2  Relevant Provisions of FII Regulations: 
+
+Though  hedge  funds are not  an excluded category of foreign institutional 
+investors under the SEBI (FII) Regulations, 1995 they are , however, by 
+virtue  of  not  being  regulated  by  securities  regulators  in  their  place  of 
+incorporation  or  operations ,  cannot  come  as  FII  under  the  present 
+provisions  of  SEBI  (FII)  Regulations.  Regulation  6  (i)  (b)  of  the  FII 
+Regulations requires an FII applicant to be a regulated entity in its place of 
+incorporation or operations.  
+
+The  FII  Regulations  allow  sub-accounts  sponsored  by  registered  FIIs  to 
+invest  in  India.  Regulation  2  (k)  defines  “sub-account”  which  “includes 
+foreign corporates or foreign individuals and those institutions, established 
+or  incorporated  outside  India  and  those  funds,  or  portfolios,  established 
+outside India, whether  incorporated or not, on whose behalf investments 
+
+37 
+
+ 
+
+ 
+
+are  proposed  to  be  made  in  India  by  a  foreign  institutional  investor”. 
+Further,  provisions  of  the  regulation  13  lay  down  the  conditions  and 
+procedure  for  granting  registration  to  a  sub-account  of  an  FII.  Hedge 
+Funds of almost all variations can meet the requirements of sub-accounts 
+if  they  are  ‘fit  and  proper’  persons.  However,  based  on  (an  internal 
+administrative decision) if an applicant indicates in the application that it is 
+a  hedge  fund,  the  consideration  of  the  application  is  withheld.  Since 
+granting  of  registration  to  FII/sub-accounts  is  based  on  the  disclosure  of 
+details  and  on  the  undertaking  given  by  the    applicant  in  the  application 
+form, it could be possible that a few entities who described their  activities 
+in the application form in terms other than hedge funds could have already 
+got registration as sub- accounts. However, it must be remembered that 
+all sub-accounts have to be sponsored by registered FIIs who are required 
+to be regulated entities by the relevant regulators in their home countries. 
+
+ 
+
+4.3 
+
+Identifying Hedge Funds 
+
+As  mentioned  in  earlier  paragraphs,  hedge  funds  do  not  have,  any 
+universally accepted definition. Therefore, identifying a hedge fund is the 
+first  challenge  that  a  regulator  faces.  An  approach  for  identifying  hedge 
+funds, as suggested by IOSCO is to look at the kinds of characteristics of 
+fund management strategies employed by institutions. Hedge funds would 
+at least exhibit some of the following characteristics: 
+
+i) 
+
+ii) 
+
+iii) 
+
+iv) 
+
+v) 
+
+ 
+
+ 
+
+borrowing and leverage restrictions, which are typically included in 
+Mutual  Fund  Regulation  are  not  applied,  and  many  (but  not  all) 
+hedge funds use high levels of leverage. 
+
+significant  performance  fees  (often  in  the  form  or  percentage  of 
+profits)  are  paid  to  the  manager  in  addition  to  an  annual 
+management fees. 
+
+investors  are 
+periodically, e.g. quarterly, semi-annually or annually; 
+
+typically  permitted 
+
+redeem 
+
+to 
+
+their 
+
+interests 
+
+often significant ‘own’ funds are invested by manager; 
+
+derivatives  are  used,  often  for  speculative  purposes, and there is 
+an ability to short sell securities; 
+
+38 
+
+vi)  More diverse risks or complex underlying products are involved. 
+
+The  distinguishing  characteristics  of  hedge  funds  are  not  limited  to  this 
+and  the  list  may  need  to  adapt  depending  on  the  changing  market 
+dynamics. Further, it might be appropriate to also consider the investment 
+strategy  followed  by  particular  funds,  such  as  long/short  exposures, 
+leverage and / or hedging and arbitrage techniques. On the basis of these 
+characteristics, it will be possible to identify an applicant as a hedge fund. 
+
+ 
+
+ 
+
+4.4 
+
+Investment limits applicable to FIIs: 
+
+ 
+
+Chapter  II  of  the  SEBI  (Foreign Institutional Investors) Regulations, 1995 
+interalia  list out    the  instruments  in  which  an  FII/sub-account can invest. 
+The  regulation  does  not  include  currency  or  commodities  as  eligible 
+instruments  for  investment  for  the  FIIs.  Therefore,  currency  trading  or 
+investment in commodity related financial products will not be an option for 
+any hedge funds under the present FII Regulations. 
+
+The  SEBI  (Foreign  Institutional  Investors)  Regulations,  1995  also  lays 
+down scrip-wise and fund wise maximum limits a fund can invest. Further, 
+through  circular  No.  SMD/DC/CIR-11/02  dated  February  12,  2002  and 
+SEBI/DNAD/CIR-21/2004/03/09  dated  March  9,  2004 
+issued  by 
+Secondary Market  Department,  position  limits  for  investment  by  FIIs  in 
+derivatives have been advised. These limits will  help diversify the  foreign 
+hedge  fund  investments  and  will  help  in  jettisoning  concentration  in  any 
+specific    scrip.  The  provisions  of  Chapter  III  (Regulation  15  (3)  (a)) 
+disallows  short  selling  by  FIIs  and  stipulates  that  all  trades  by  FIIs  are 
+delivery based. The provision will clearly keep the hedge funds if allowed 
+to  invest  as  FIIs  out  of  short  selling  at  least  in  the  cash  segment.  It  is 
+therefore,  clear  that  existing  provisions  in  the  FII  Regulations  include 
+several  checks  and  balances  which  can  keep  our  market  safe  from 
+potential market abuse and manipulation. 
+
+39 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+4.5  Additional Regulatory Concerns: 
+
+ 
+
+In view of the increasing popularity among the institutions as well as their 
+increasing  interest  in  the  Indian  market,  it  might  be  time  to  provide  a 
+limited  window  to  this  growing  segment  of  asset  management  industry 
+within the  existing framework of the  SEBI (Foreign  Institutional  Investors) 
+Regulations.  While opening up our market one cannot be oblivious to the 
+special concerns associated with the creative fund management strategies 
+used  by  these  funds.  Thus,  the  approach  adopted  in  formulating  the 
+following  policy  suggestions  has  been  that  of  transparent  and  regulated 
+access  with  abundant  caution.    Para    4.4  of  this  section  has  already 
+outlined the existing provisions in the SEBI (Foreign  Institutional Investors) 
+Regulations, 1995 and the Guidelines issued by SEBI which an address 
+the  concerns  related  to  currency  speculations,  short  selling,  scrip  wise 
+concentration in the cash market and excessive positions in the derivative 
+segment of our market.  As mentioned earlier, these types of funds raise 
+special  regulatory  concerns  which  are  necessary  to  be  addressed  with 
+special 
+following  additional 
+provisions  have  been  suggested  with  respect  to  hedge  funds  seeking 
+registration as FII :  
+
+regulatory  provisions. 
+
+In 
+
+this  context, 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+The investment  adviser to the hedge funds should be a regulated 
+investment advisor  under the relevant Investor Advisor Act or the 
+fund is registered under Collective Investment Fund Regulations or 
+Investment Companies Act . 
+At least  20% of the corpus of the fund should  be contributed by 
+the  investors  such  as  pension funds,  university funds,  charitable 
+trusts or societies, endowments, banks and insurance companies. 
+The  presence of institutional investors  in  the  fund  is  expected  to 
+ensure  better  governance  on  the  part  of  the  fund  manager  and 
+fund  administrators.  Further, institutional investors may  help  fund 
+managers to take a long term perspective of the market. 
+The  fund  should  be  a  broad  based  fund  in  terms  of  the  SEBI 
+(Foreign Institutional Investors) Regulations, particularly in terms of 
+the explanation to Regulation 6 (1) (d).  
+The fund manager or investment adviser  must have experience of 
+
+ 
+
+40 
+
+at least 3 years of managing funds with similar investment strategy 
+that the applicant fund has adopted. This provision is expected to 
+allow  well  managed funds to access our  market and at the same 
+time, keep our markets insulated from the possible adverse effects 
+of ‘trial and errors’ by uninitiated rookies. 
+
+Hedge  funds    as  a    whole  are  becoming  an  important  segment  of  the 
+asset  management    industry  and  gaining  popularity    from  investors 
+particularly  from  the  high  net  worth  investors,    universities,  charitable 
+funds,  endowments,  pension  funds,  insurance    and  other  institutional 
+investors. The asset under management of the hedge funds are growing  
+on  a  double    digit  rate.  All  hedge  funds  are  not  necessarily  speculative 
+funds though  most of them provide an alternative investment options  for 
+the investors through innovative investment strategy.  
+
+The  issues  discussed  and  suggestions  placed  above  are  intended  to 
+widen  the  FII  window  to  allow  these  alternatives  invest  pools  to  our 
+securities  markets  in  a  transparent  and  orderly  manner.  In  addition,  the 
+suggestions  also  provide  for  adequate  safety  measures  to  address 
+legitimate  concerns  associated  with 
+funds.  The  alternative 
+investment  pools  if  allowed  to  investment  in  Indian  markets  will  be  a 
+source  of  additional  liquidity  and  will  also  diversify  the  pool  of  foreign 
+investments in Indian market. 
+
+these 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report on Hedge Funds  - 14.5.2004 
+
+ 
+
+41 
+
+

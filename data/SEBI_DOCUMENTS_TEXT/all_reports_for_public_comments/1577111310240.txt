@@ -1,0 +1,458 @@
+ 
+
+ 
+
+Discussion Paper on ‘Usage of pool accounts in Mutual Fund Transactions’ 
+
+A.  Background 
+
+ 
+
+i.  SEBI, vide circular dated November 13, 2009, permitted units of Mutual Fund (MF) schemes 
+
+to be transacted through registered stock brokers on recognized stock exchanges.  
+ 
+
+ii.  In order to provide more avenues for transacting in Mutual Fund units, vide circular dated 
+November 09, 2010, it was permitted that units of MF schemes may be transacted through 
+clearing  members of the registered Stock Exchanges  and redemption requests for  units in 
+demat form may be processed by Depository Participants, in addition to transactions directly 
+with the mutual funds and through stock brokers. For this purpose,  units on purchase and 
+redemption  amount  were  allowed  to  be  routed  through  broker’s/  clearing  member’s  pool 
+account.  
+
+ 
+
+iii.  Vide circular dated October 04, 2013, MF Distributors (MFDs) were also allowed to use the 
+infrastructure of the recognized stock exchanges to purchase and redeem MF units directly 
+from  MFs/Asset  Management  Companies  (AMCs)  on  behalf  of  their  clients.  However, 
+MFDs were not allowed to  handle pay-in and pay-out of funds and units.  The recognized 
+stock exchanges were directed to put in necessary system in place to ensure that pay-in is 
+directly  received  by  recognized  Clearing  Corporation  and  pay-out  is  directly  made  to  the 
+investor account. Similarly, the units would be credited and debited directly from the demat 
+account of the investors. Exchange platforms also facilitate MF transactions in non-demat 
+mode. 
+ 
+
+iv.  Vide circular dated October 19, 2016, SEBI registered Investment Advisers (IAs) were also 
+allowed to use stock exchanges infrastructure to purchase and redeem MF units directly from 
+MF/AMCs on behalf of their clients under the provisions laid down in Circular dated October 
+04, 2013 with respect to MFDs. 
+
+ 
+
+B.  Current Structure for Mutual Fund Transactions: 
+
+ 
+
+i.  At present, an investor can use any of the following methods to invest in mutual funds: 
+
+a.  Investment directly with the AMCs – Both offline and online 
+b.  Investment through Stock Broker(s) /MFD(s) /IA(s) using Exchange Platform 
+c.  Investment through MFD(s) /IA(s) outside exchange platforms– Both offline and 
+
+online 
+
+d.  Platforms  for  MF  transactions  provided  by  other  entities  not  covered  above, 
+including  those  registered  as  RTAs  and  are  functioning  in  a  manner  similar  to 
+clearing corporations - Both offline and online 
+ 
+
+ii.  As on October 31, 2019, there are 857 brokers, 62,460 distributors and 356 Investment 
+
+Advisers registered with Stock exchanges for Mutual Fund transactions. 
+
+1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iii.  Value  of  MF  transactions  on  NSE  and  BSE  on  a  combined  basis  during  2018-19 
+amounted  to  Rs.  1,04,273  crores.  Details  of  such  transactions  executed  on  these 
+exchanges  through  pool  route  (i.e.  through  brokers)  and  through  non-pool  route  (i.e. 
+through MFDs and IAs) are as under: 
+
+Pool (Rs. 
+
+Cr) 
+
+Non-Pool 
+(Rs. Cr) 
+
+Share 
+of Pool 
+
+Share of 
+
+Non-
+
+(%) 
+
+Pool (%) 
+
+Pool (Rs. 
+
+Cr) 
+
+Non-Pool 
+(Rs. Cr) 
+
+Share 
+of Pool 
+
+(%) 
+
+Share 
+of Non-
+Pool 
+(%) 
+
+Share 
+of Pool 
+
+(%) 
+
+Share 
+of Non-
+Pool 
+(%) 
+
+BSE 
+
+NSE 
+
+Both Exchanges 
+
+Combined 
+
+FY 2016-17 
+
+31,704.20 
+
+4,293.66 
+
+88% 
+
+12% 
+
+3524.38  6198.32  36.2%  63.8%  77.1%  22.9% 
+
+FY 2017-18 
+
+47,683.77 
+
+8,021.51 
+
+86% 
+
+14% 
+
+4855.76  23569.62  17.1%  82.9%  62.4%  37.6% 
+
+FY 2018-19 
+
+46,191.55  20,784.35  69% 
+
+31% 
+
+7488.28  29808.77  20.1%  79.9%  51.5%  48.5% 
+
+ 
+Source: BSE & NSE 
+
+C.  Transactions in Pool Account 
+
+ 
+
+i.  Transactions through stock brokers on Exchange Platform 
+
+For transactions on stock exchanges (Equity and  Derivatives), funds and securities are 
+routed through broker’s pool account. The industry has also evolved to utilize the pool 
+account to give greater ease of transactions, convenience and flexibility to the investors 
+in making Mutual Fund transactions. 
+
+Simplified  versions  of  process  flows  for  subscription  and  redemption  transactions 
+through stock brokers on stock exchange platforms are provided below: 
+
+Transactions in Demat Mode via Stock Brokers – Present Flow of Funds & Units 
+
+ 
+
+2 
+
+ 
+
+ 
+
+ 
+
+Transactions in Non-Demat/Statement of Account (SoA) Mode via Stock Brokers – 
+Present Flow of Funds & Units 
+
+ii.  Transactions through MFD(s) or registered IAs on Exchange Platform 
+
+ 
+As stated above in paragraphs A(iii) and A(iv), MFD(s) and registered IAs were allowed 
+to use stock exchanges’ infrastructure to purchase and redeem MF units directly from 
+MF/AMCs on behalf of their clients. 
+
+It was further stated in the circular dated October 04, 2013 that the MF distributors would 
+not  handle pay-in and pay-out of funds and units on behalf of the investors and Stock 
+exchanges were advised to put necessary system in place  to ensure that pay in will be 
+directly received by recognized clearing corporation and payout will be directly made to 
+investors’ bank account and units would be credited and debited directly from the account 
+of the investors. Similar provisions were also made applicable for IAs vide circular dated 
+October 19, 2016. 
+ 
+Simplified  versions  of  process  flows  for  subscription  and  redemption  transactions 
+through MFD(s) / IAs on stock exchange platforms are provided below: 
+
+Transactions in Demat Mode* via  MFD(s) / IAs – Present Flow of Funds & Units 
+
+*NSE does not allow MFDs and IAs to place orders for units in dematerialized form 
+
+3 
+
+ 
+
+ 
+
+ 
+
+Transactions in Non-Demat Mode/SoA via MFD(s)/ IAs – Present Flow of Funds & 
+Units 
+
+iii.  Transactions  through  MFD(s)  /  IAs  outside  Exchange  Platform  and  through 
+
+ 
+
+platforms mentioned in paragraph B(i)(d) 
+ 
+Many  MFD(s)  registered  with  AMFI  and  SEBI  registered  IAs  commonly  referred  as 
+“Channel Partners” and other online platforms covered under paragraph B(i)(d) are also 
+providing digitalized services to investors to transact in mutual fund units. Through these 
+platforms, investors can place single or multiple orders to transact in mutual funds units. 
+These platforms are often pooling the client’s funds in an escrow account / nodal account 
+and subsequently transfer to AMCs either on per transaction basis or lump sum basis. It 
+is  understood  that,  at  times,  MFDs/  IAs/  other  online  platforms  have  been  enabled  to 
+operate  through  the  pool  account  mechanism  based  on  bilateral  understanding  with 
+AMCs.  
+ 
+Transaction details are sent by MFDs/ IAs/ other online platforms to AMCs/ RTAs, based 
+on which units are issued/ redemption is made.  
+ 
+Simplified  version  of  process  flow  for  such  MFDs/  IAs/  other  platforms,  involving 
+pooling of fund, is provided below: 
+
+4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+D.  Conveniences available to investors in current structure 
+
+ 
+i.  Asset  Allocation  /  Cross  Investment  in  Multiple  Products  –  Stock  Broker’s  Pool 
+Account allows investors to seamlessly invest across multiple products such as equity, 
+derivatives, NCDs, G-Sec, Mutual Funds, ETFs, etc. using the same broking account, 
+without the need for investors to make frequent fund transfers.  Triggers for investments 
+across products/ sectors etc. can be easily monitored and maintained. 
+ 
+Inter scheme or inter AMC Switch – In case of investments in Mutual funds through 
+stock  broker’s  pool  account,  inter  scheme  or  inter  AMC  switch  can  be  easily 
+implemented, without the need of investor to make frequent fund transfers. 
+ 
+Investment in SIP- Through pool account, client can start/stop SIP very easily without 
+reaching out to the bank or MF. 
+ 
+
+ii. 
+
+iii. 
+
+iv.  Efficient and cost effective  Fund Transfers - Usage of stock broker’s pool account 
+reduces  the  frequency  of  fund  transfers  among  investors/  stock  brokers/  clearing 
+corporation etc. therefore becomes cost effective.  
+
+ 
+
+v.  Facilitates  Innovation  and  Better  Service  -  A  pool  account  enables  innovation  as 
+technology can be used to create tools/ products that provide better understanding about 
+their  investment  to  the  investors.  For  example  –  portfolio  visualization  tools  that 
+highlight cross-asset exposure to particular security/ sector help investors to re-balance 
+their portfolio. 
+
+E.  Extant Practices, Issues and Challenges  
+
+ 
+Stock Brokers, MFDs and IAs including Channel Partners and other platforms covered under 
+paragraph B(i)(d) are providing valuable services to investors and have helped the Mutual 
+Fund  Industry  to  grow  at  a  substantial  pace.  However,  certain  challenges  have  been 
+envisaged in the current process of using pool accounts. The details are given as under: 
+ 
+In case of Stock Brokers: 
+ 
+
+i.  Loss  of  traceability  of  transaction  and  funds  -  As  stated  above,  with  respect  to 
+investors  who  purchase  and  redeem  MF  units  through  stock  brokers  and  clearing 
+members, the units and funds flow through brokers’ or clearing members’ pool account. 
+Units and funds move in an aggregate manner from broker’s account to RTA’s/AMC’s 
+account. In such case once pooling happens at an intermediary level the traceability of 
+funds/ investor details is lost to AMCs/ RTAs. 
+ 
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RTAs are not able to identify the exact order details of the investors against which units 
+have been moved / not moved which in turn leads to difference in balances between RTA 
+and depository books.  
+ 
+Further,  with  respect  to  investors  who  purchase  and  redeem  MF  units  in  demat  form 
+through stock brokers and clearing members, MF/AMC is discharged of its obligation of 
+payment  /  credit  of  units,  if  such  payment  or  the  units  have  been  credited  to  the 
+broker/clearing members.  
+ 
+Therefore, the actual payment of funds to investors or credit of units in investors’ account 
+is beyond the purview of MF/AMC. Hence, any dispute regarding non-payment of funds 
+or  non-credit  of  units  is  taken  up  by  the  investors  under  the  exchange’s  grievance 
+redressal and arbitration mechanism. 
+
+ii.  Potential misuse of pooled funds/ securities 
+
+  
+
+In  the  recent  past,  instances  have  come  to  light  where  client’s  funds/securities  were 
+diverted  or  mis-utilized  by  trading  member/  clearing  member  toward  margin 
+obligations or settlement obligations of itself or for some third party or for raising loan 
+against shares on its own account, etc. 
+
+As  may be observed from  data  provided in paragraph B(iii) above, the  value of MF 
+transaction via pool account has remained significant in the last three years. However, 
+the share of transactions (value) through non-pool has continuously been on rise in the 
+last three years. 
+
+In case of Digital Platforms provided by MFDs and IAs (including Channel Partners) / 
+Platforms covered under paragraph B(i)(d): 
+
+The practice of acceptance of funds by above platforms poses several risks as given under: 
+
+ 
+
+i.  AMCs lose the sight of the source of funds as they receive the funds from pool/escrow 
+
+accounts (instead of investors’ bank accounts). 
+ 
+
+ii.  MFDs  are  not  expected  to  handle  clients’  funds  and/or  securities.  In  physical 
+applications, MFDs are not allowed to take cheques/payment instruments from clients 
+in their names. Instead, clients are required to give cheques/payment instruments which 
+are in favour of Mutual Funds/AMCs. IAs are also envisaged to provide non-binding 
+advisory  services  to  their  clients.  Routing  of  funds/units  through  them  may  lead  to 
+potential misuse of funds/units. 
+
+ 
+
+6 
+
+ 
+
+iii. 
+
+Similar risks mentioned above in points (i) and (ii) also arise when funds/units are being 
+pooled  using  escrow  account  or  in  any  other  form  by  platforms  covered  under 
+paragraph B(i)(d). 
+ 
+
+F.  Proposals 
+
+ 
+In  order  to  address  the  abovementioned  challenges  and  to  promote  a  secure  investing 
+environment in Mutual Funds, the following is proposed:  
+ 
+i. 
+
+Pooling  of  funds/units  by  Stock  Brokers,  MFDs,  IAs  and  other  platforms  may  be 
+discontinued for Mutual Fund Transactions. For implementation of the same, following 
+may be ensured: 
+ 
+
+a.  For  transactions  on  Exchange  platforms  through  stock  broker(s),  Exchanges 
+shall put necessary system in place to ensure that pay-in is directly received by 
+recognized Clearing Corporation from investor’s bank account and pay-out is 
+directly  made 
+investor’s  bank  account  from  recognized  Clearing 
+Corporation’s account. In the same manner, for subscription and redemption, 
+units are directly credited into and debited from the investor account (Demat or 
+Statement of Account) respectively. 
+ 
+
+to 
+
+b.  For transactions outside Exchange platforms, as mentioned in paragraph B (i) 
+(c) and B (i) (d) above, AMC at its end shall put necessary system in place to 
+ensure both subscription and redemption (funds transferred and units transacted 
+between investor and AMC) take place without use of pooling through escrow 
+/ nodal account etc. 
+
+ii. 
+
+ 
+Suggestions are also requested for improving ease of transaction in MF units through 
+non-pool accounts, as is presently available through pool accounts. 
+ 
+
+Comments/Suggestions  on  the  above  proposals  may  be  sent  by  email  at 
+mfcomments@sebi.gov.in , on or before January 13, 2020 in the following format :  
+
+ 
+
+ 
+
+ 
+
+Name of Entity / Person / Intermediary/ Organization: 
+Sr. No. 
+ 
+ 
+ 
+
+Suggestions  
+ 
+ 
+ 
+
+Issues 
+ 
+ 
+ 
+
+Rationale 
+ 
+ 
+ 
+
+7 
+
+

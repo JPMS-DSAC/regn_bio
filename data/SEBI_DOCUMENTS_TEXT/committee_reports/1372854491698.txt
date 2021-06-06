@@ -1,0 +1,6044 @@
+ 
+
+ 
+
+ 
+
+ 
+
+Report of the Committee  
+
+on  
+
+ 
+
+'Rationalisation of Investment Routes and Monitoring of 
+
+Foreign Portfolio Investments' 
+
+ 
+
+Chairman 
+
+Shri. K.M. Chandrasekhar  
+
+ 
+
+ 
+
+ 
+
+June 12, 2013 
+
+ 
+
+  
+
+ 
+
+COMMITTEE REPORT 
+
+ 
+
+Page 2 
+ 
+
+TABLE OF CONTENTS 
+
+1.  EXECUTIVE SUMMARY......................................................................................................... 4 
+
+1.1. 
+
+Features of the Harmonized Model .................................................................................................... 4 
+
+1.2.  Roadmap for Integration ...................................................................................................................... 8 
+
+2.  BACKGROUND ...................................................................................................................... 12 
+
+2.1.  Working Group on Foreign Investment in India ............................................................................ 12 
+
+Formation of Committee on Rationalization of Investment Routes and Monitoring of 
+
+2.2. 
+Foreign Portfolio Investments ....................................................................................................................... 13 
+
+2.3.  Union Budget Proposals.................................................................................................................... 15 
+
+3.  PRESENT REGULATORY FRAMEWORK FOR FOREIGN INVESTMENT IN 
+INDIA ................................................................................................................................................. 17 
+
+3.1. 
+
+Foreign Direct Investment (FDI) ....................................................................................................... 18 
+
+3.2. 
+
+Portfolio Investment Scheme (PIS) .................................................................................................. 18 
+
+4.  RATIONALE FOR INTEGRATED POLICY ON FOREIGN INVESTMENTS ........... 32 
+
+5.  A HARMONIZED FOREIGN INVESTMENT MODEL .................................................... 33 
+
+5.1. 
+
+Features of the Harmonized Model .................................................................................................. 33 
+
+6.  ROADMAP FOR INTEGRATION........................................................................................ 43 
+
+6.1.  Operational Requirements ................................................................................................................ 43 
+
+6.2. 
+
+Taxation Framework ........................................................................................................................... 47 
+
+6.3. 
+
+Legal Requirements............................................................................................................................ 48 
+
+7.  ANNEXURE ............................................................................................................................. 50 
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 3 
+ 
+
+1. Executive Summary 
+ 
+SEBI  Board  in  its  meeting  held  on  October  06,  2012  decided  that  SEBI  will  prepare  a  draft 
+guideline  based  on  the  guidance  of  the  WGFI,  for  consideration  of  the  Government  of  India 
+(GoI). It was also decided that SEBI/RBI will create necessary regulatory framework based on 
+the guidelines, which will be laid down by the GoI. 
+ 
+To  implement the  above, SEBI formed a  “Committee on  Rationalization of  Investment  Routes 
+and Monitoring of Foreign Portfolio Investments” (hereinafter referred to as “Committee”) under 
+the  Chairmanship  of  Shri  K.  M.  Chandrasekhar,  comprising  of  representatives  from  GoI,  RBI 
+and various market participants.    
+ 
+This  report  of  the  committee  describes  the  various  portfolio  investment  routes  which  are 
+currently available to foreign investors and suggests a draft guideline and regulatory framework 
+for  rationalization  of 
+the 
+recommendations  of  the  Working  Group  on  Foreign  Investment  in  India  (WGFI),  for 
+consideration of the Government.  
+ 
+This  report  also  provides  recommendations  for  a  harmonized  model  of  investment  routes 
+designed to overcome the shortcomings of multiple routes that exist today.     
+
+investments,  keeping  as  a  starting  point, 
+
+foreign  portfolio 
+
+ 
+
+ 
+
+ 
+
+1.1. Features of the Harmonized Model 
+ 
+The  Committee  has  recommended  creation  of  a  single  route  for  various  Foreign  Portfolio 
+Investors (FPI) by merging the present day FII, Sub Account and QFI regimes where there 
+will be common market entry, limit monitoring and reporting norms.   However, there will be 
+segregations  for  applying  risk  based  Know  Your  Customer  (KYC)  norms,  Investment 
+guidelines and restrictions. 
+ 
+The  Committee  felt  that  NRIs/PIOs  presently  have  a  liberal  route  for  accessing  securities 
+market.  NRIs/PIOs should continue to be viewed as a distinct market participant enjoying 
+certain  privileges  in  terms  of  investment  permissions  not  available  to  foreign  investors.   
+Accordingly, the Committee recommended to retain NRIs as a separate investor class with 
+the  same  limits  as  currently  applicable  (i.e.  10%  of  the  paid  up  capital  of  the  investee 
+company). 
+ 
+The Committee felt that FVCI route has certain benefits such as non applicability of pricing 
+norms and relaxation from post IPO lock in requirement. These benefits have been given to 
+FVCI  route  to  promote  Venture  Capital  Investments.      Accordingly,  the  Committee 
+recommended  that  the  FVCI  as  an  investor  class  would  continue.      Additionally,  the 
+Committee recommended that the current FVCI regime should be expanded to include more 
+sectors under its ambit as against the currently prescribed 9 sectors.  
+ 
+
+COMMITTEE REPORT 
+
+Page 4 
+ 
+
+ 
+The features of the Harmonized Model are described below: 
+
+ 
+1.1.1. 
+
+ 
+
+Foreign Portfolio Investor (FPI) 
+
+The Committee recommended for merging of FII, Sub Account and QFI into a new 
+investor class to be termed as “Foreign Portfolio Investor” (FPI).   
+
+Simplification of entry norms for FIIs, Sub Accounts, and QFIs 
+
+1.1.2. 
+ 
+The  committee  recommended  that  FPIs  would  not  be  required  to  obtain  direct 
+registration  with  SEBI.  Instead,  DDPs  authorized  by  SEBI  would  register  FPIs  on 
+behalf of SEBI subject to compliance with KYC requirements.  The FPI that meet the 
+prescribed  eligibility  criteria  shall  directly  approach  Designated  Depository 
+Participants  (DDPs),  authorised  by  SEBI.      The  DDPs  shall  perform  due  diligence 
+and  KYC,  before  registering  FPI,  on  behalf  of  SEBI,  and  allowing  such  entities  to 
+make investment in permitted securities.  
+
+ 
+Uniform entry norms for Foreign Portfolio Investor 
+
+1.1.3. 
+ 
+It  is  recommended  that  all  the  categories  of  portfolio  investors  be  termed  as  FPIs. 
+The  FPI  shall  be  a  resident  in  a  country,  whose  securities  market  regulator  is  a 
+signatory  to  IOSCO’s  MMOU  (Appendix A  Signatories)  or  a  signatory of  a bilateral 
+MOU with SEBI. In case of a Bank, it should be resident of a country whose central 
+bank is a member of BIS. 
+ 
+Provided that the person is not resident in a country listed in the public statements 
+issued by FATF (high risk and non-compliant countries) from time to time. 
+ 
+1.1.4. 
+
+Categorization of Foreign Direct Investment (FDI) and Portfolio 
+
+investment 
+
+ 
+
+i. 
+
+The Committee recommended the following with respect to categorization of foreign 
+investment: 
+ 
+Portfolio investments to be defined as investments by any single investor 
+or  investor  group,  which  shall  not  exceed  10  percent  of  the  equity 
+securities including the future conversion of existing convertible securities 
+such  as  Compulsorily  Convertible  Debentures  (CCD)  Compulsorily 
+Convertible Preference Shares (CCPS) of an Indian company.  
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 5 
+ 
+
+ii. 
+
+iii. 
+
+iv. 
+
+v. 
+
+vi. 
+
+Portfolio investment shall be permitted only in listed equity securities.  For 
+this  purpose,  listed  equity  securities  would  also  include  participation  by 
+FPIs  in  issues  such  as  Initial  Public  Offer,  Qualified  Institutional 
+Placement,  Institutional Placement Programme etc.  of  Indian  companies 
+as  well  as  tendering  shares  in  an  open  offer  or  buyback  announced  in 
+relation to shares of listed Indian companies. 
+
+The  prevailing  practice  where  private  placement  may  be  through  either 
+FPI (for example a QIP issue) or FDI route depending on the nature of the 
+transaction may be continued. 
+ 
+In  case  of  unlisted  company,  the  private  placement  shall  be  under  FDI 
+route.     
+ 
+In  circumstances,  where  the  listing  does  not  take  place  within  the 
+stipulated timeframe, such foreign investments shall be re-categorized as 
+FDI. 
+ 
+Investments  in  unlisted  securities,  regardless  of  the  level  of  ownership 
+that they represent, shall be regarded as FDI.  
+ 
+
+vii.  Where there is an FDI investor, all equity holdings of such an investor in 
+the  concerned  company,  regardless  of the  manner  in  which  such  equity 
+holdings have been acquired, should be classified as FDI. 
+ 
+
+viii.  Where  an  investor  initially  acquires  less  than  10  percent  of  the  voting 
+equity  of  an  Indian  company  and  thereafter  acquires  additional  equity 
+which takes the investor’s aggregate holding to over 10 percent, in such a 
+scenario, all of the investor’s holdings should be classified as FDI. 
+ 
+
+ix.  Where an investor has FDI holdings in excess of 10 percent of the voting 
+equity of a company it will retain its FDI classification even if the investor 
+were to dilute his holding to a level below 10 percent of the voting equity 
+of the company. 
+ 
+Investment classification and tracking could be accomplished through the 
+DDPs. 
+
+x. 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 6 
+ 
+
+Risk Based Approach towards KYC 
+
+1.1.5. 
+ 
+From  the  point  of  view  of  KYC,  the  committee  recommended  for  following 
+categorization of FPIs based on their perceived risk profile: 
+ 
+
+Category  Eligible Foreign Investors 
+
+Funds, 
+
+Central 
+
+and  Government 
+Government 
+related  foreign  investors  such  as 
+Foreign 
+Banks, 
+Governmental  Agencies,  Sovereign 
+Wealth 
+International/ 
+Multilateral Organizations/ Agencies  
+a)  *Appropriately  regulated  broad 
+based  funds  such  as  Mutual 
+Funds, 
+Trusts, 
+Insurance/Reinsurance 
+Companies, Other Broad Based 
+Funds etc. 
+
+Investment 
+
+ 
+b)  *Appropriately regulated entities 
+Asset 
+such 
+Management 
+Companies, 
+Investment Managers/ Advisors, 
+Portfolio Managers etc.  
+
+Banks, 
+
+as 
+
+ 
+c)  Broad  based 
+
+investment 
+appropriately regulated 
+
+funds  whose 
+is 
+
+manager 
+
+Perceived Risk Profile 
+ 
+Low Risk 
+ 
+As 
+these  entities  are  either 
+owned/  controlled  by  respective 
+government  they  are  perceived 
+to be low risk entities.  
+Moderate Risk 
+ 
+these  entities  are 
+Generally, 
+investment 
+either 
+vehicles  or 
+that 
+manage  portfolios  of  pooled 
+vehicles.    Since  these  entities 
+are  appropriately  regulated  in 
+their 
+home 
+jurisdictions  or  corpus  of  the 
+fund 
+retirement 
+benefits  of 
+the  employees/ 
+academic  research  etc.,  these 
+are  perceived  to  be  moderate 
+risk entities 
+
+institutions 
+
+respective 
+
+for  post 
+
+pooled 
+
+is 
+
+I 
+
+II 
+
+III 
+
+ 
+d)  University  Funds  and  Pension 
+
+Funds 
+
+ 
+e)  University  related  Endowments 
+already  registered  with  SEBI  as 
+FII/Sub Account 
+
+II 
+
+I  and 
+
+All  other  FPIs  not  eligible  under 
+Category 
+such  as 
+Endowments,  Charitable  Societies/ 
+Trust, 
+Corporate 
+Bodies,  Trusts,  Individuals,  Family 
+Offices, etc.  
+ 
+
+Foundations, 
+
+High Risk 
+ 
+Generally, these entities are not 
+regulated 
+respective 
+home jurisdictions, these entities 
+are  perceived  as  high 
+risk 
+entities. 
+
+their 
+
+in 
+
+*Appropriately  Regulated  is  meant  to  include  relevance  of  activity  i.e.  securities  market 
+regulations in case of an entity related to investment segment, capital market activities; and 
+the Banking Regulations in case of a banking entity.  
+
+ 
+ 
+ 
+
+COMMITTEE REPORT 
+
+Page 7 
+ 
+
+1.1.6. Other recommendations related to KYC 
+
+ 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+The requirement of submitting personal identification documents such as copy of 
+passport,  photograph  etc.  of  the  designated  officials  of  FPIs  belonging  to 
+Category I and Category II shall be done away with. 
+
+Specific Provision of PML Rules especially Rule 9 may be amended to adopt risk 
+based approach for KYC.   
+
+To permit DDPs for placing reliance on Global Custodian/Banks for KYC while on 
+boarding the investor. .  
+
+For  updation of KYC  documents,  it  is  recommended  to  follow  a  2  year/ 5  year 
+rule based on the risk classification of the investor as per above i.e. 2 years for 
+non low risk investors and 5 years for low risk investors.   
+
+ 
+
+ 
+
+1.2. Roadmap for Integration 
+
+ 
+1.2.1. 
+
+ 
+
+Eligibility of DDP 
+
+It  will  be  mandatory  for  FPI  to  appoint  a  DDP.    The  DDP  would  perform  due 
+diligence and KYC of FPIs as per the stipulated norms. 
+
+ 
+It  is  suggested  that  the  DDP  shall  meet  all  of  the  following  eligibility  criteria  in 
+order to service FPIs.  
+ 
+
+i.  DDP to be a Custodian registered with SEBI. 
+ii.  DDP to be an Authorised Dealer Category 1 bank as per RBI. 
+iii.  DDP to be a Depository Participant registered with SEBI. 
+iv.  DDP  to  have  multinational  presence  either  through  its  branches  or 
+through  agency  relationships  with  intermediaries  regulated  in  their 
+respected home jurisdictions.   
+
+v.  DDP  to demonstrate that  it  has  systems  and procedures  to  comply  with 
+the FATF Standards, Prevention of Money Laundering (PML) Act, Rules 
+and SEBI circulars issued from time to time; and 
+
+vi.  DDP  to  obtain  prior  approval  of  SEBI  before  commencing  the  activities 
+
+relating to opening of accounts of FPIs. 
+ 
+
+Based on  the experience gathered,  the  eligibility  criteria for  registration of  DDP 
+may be later reviewed by SEBI.  
+ 
+
+COMMITTEE REPORT 
+
+Page 8 
+ 
+
+ 
+1.2.2. 
+
+Grandfathering Arrangements 
+ 
+
+i.  To  avoid  business  discontinuity,  it  is  recommended  to  grandfather  all  entities 
+which  are  presently  registered  with  SEBI  as  custodian  of  securities,  as  DDPs.  
+The  existing  QDPs  authorised  by  SEBI  currently  not  meeting  the  proposed 
+eligibility  criteria  may be  allowed further time  period of one  year  to  comply  with 
+the proposed eligibility requirement of a DDP.  Subsequently, if such QDPs fail to 
+comply with the same, then they may be required to surrender the authorization.   
+ 
+
+ii.  It  is  recommended  that  all  existing  investments  held  by  the  FPIss  acquired 
+
+through either FDI route and/or PIS route shall be grandfathered.  
+ 
+
+iii.  It  is  recommended  that  all  existing  entities  registered  with  SEBI  as  FII,  sub-
+
+account, and QFIs as on the effective date, shall be deemed to be FPIs.  
+
+ 
+
+ 
+
+1.2.3. 
+
+Operational Guidelines 
+
+The Committee recommended the following broad operational guidelines. However, 
+committee  was  also  of  the  view  that  operational  guidelines/  framework  may  be 
+prescribed by SEBI from time to time. 
+
+ 
+
+i.  The  committee  recommended  that  FPIs  would  not  be  required  to  obtain  direct 
+registration with SEBI. Instead, DDPs authorized by SEBI would register FPIs on 
+behalf of SEBI subject to compliance with KYC requirements. 
+ 
+
+ii.  Orders shall be placed directly by the FPI with SEBI registered Stock Brokers on 
+
+the same lines as the present framework applicable to FIIs.  
+ 
+
+iii.  Appointment of DDP shall be mandatory for all categories of FPIs. All settlement 
+
+of transactions by FPIs must be done through DDP acting as a Custodian.  
+ 
+
+iv.  FPIs shall be permitted to transact in all the securities where FIIs are presently 
+
+permitted and any other instruments as permitted from time to time.  
+ 
+
+v.  Margins and risk management framework as applicable in the capital market will 
+
+apply.   
+ 
+
+vi.  The Committee recommended that under the proposed FPI regime, category III 
+FPIs  will  not  be allowed to  issue PNs/ODIs.  The  committee  also  recommended 
+that  those  broad  based  funds,  belonging  to  Category  II,  which  are  not  directly 
+regulated  by  the  appropriate  regulator  in  their  home  jurisdiction,  should  not  be 
+allowed  to  issue  ODIs/PNs.  The  ODIs/PNs  issuer  FPIs  will  continue  to  report 
+
+COMMITTEE REPORT 
+
+Page 9 
+ 
+
+ 
+
+ 
+
+ 
+
+directly  to  SEBI,  the  details  of  ODIs/PNs  on  a  regular  basis,  as  prescribed  by 
+SEBI. 
+
+ 
+ 
+1.2.4. 
+
+Investment Limits 
+
+i.  The  Investor  and  DDP  shall  ensure  that  the  total  shareholding  held  by  the  FPI 
+shall  not  exceed  10%  of  paid  up  equity  capital  of  the  company  at  any  point  of 
+time.      This  investment  limit  shall  be  applicable  to  each  class  of  equity  shares 
+having  separate  and  distinct  ISIN.    Where  more  than  one  FPI  have  same 
+common beneficial owner, all such FPIs shall be together treated as one FPI for 
+the purpose of this investment limit. 
+ 
+
+ii.  Aggregate  shareholding  of all  FPIs  shall not  exceed  the  lower  of  (i)  24% of the 
+paid up equity capital of the  company at any point of time or (ii) the sectoral cap, 
+in respect of each equity share class having separate and distinct ISIN.  
+ 
+
+iii.  In  case  the  company  raises  their  foreign  ownership  limit  to  the  sectoral  cap as 
+
+per the FDI policy, then the foreign ownership will be monitored at that level.  
+ 
+
+iv.  The  monitoring of  investment  limits at  the  individual  level  may be  monitored by 
+
+the respective DDPs. 
+ 
+
+v.  Dissemination of FPI investment data shall be carried out by the depositories. 
+
+ 
+
+vi.  Prohibitions imposed on foreign investments by FEMA, shall apply to FPIs. 
+
+ 
+
+1.2.5. 
+
+Legal Requirements  
+
+ 
+
+The process for evolving an integrated policy on foreign investments would entail the 
+following amendments/modifications in the legal framework: 
+
+i.  FII  regulations  prescribed by  SEBI  and  QFI framework prescribed by SEBI  and 
+the RBI would be required to be repealed and replaced by a new framework for 
+FPIs.  
+ 
+
+ii.  FEMA  (Transfer  or  Issue  of  Security  by  a  Person  Resident  Outside  India) 
+Regulations,  notably  Regulations  5  (2),  5(6),  7A,  8  and  Schedule  2,  5,  8  and 
+other related provisions would have to be amended and replaced to prescribe the 
+permissible caps and investment levels applicable to foreign portfolio investor; 
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 10 
+ 
+
+iii.  Necessary amendments in FEMA to replace references to FIIs with FPIs; 
+
+ 
+
+iv.  Necessary amendments to PML Rules; 
+
+ 
+
+v.  Necessary amendments in Income Tax Act, 1961;  
+
+vi.  General permission granted by RBI to FIIs dated December 17, 2003; 
+
+ 
+
+vii.  GoI Guidelines dated September 14, 1992; 
+
+ 
+
+viii.  RBI's Foreign Exchange Management framework 
+
+ 
+
+ix.  Necessary  amendment  to  the  following  regulations  are  needed  to  replaces 
+
+references to FIIs and QFIs and recognize the FPIs-  
+
+a.  Consolidated  FDI  Policy  dated  April  5,  2013  (more  particularly  paragraphs 
+2.1.14,  2.1.32,  3.1.4,  3.1.5,  3.1.7,  3.2.5(f),  3.6.2  (vi),  4.1.2,  6.2.7.5,  6.2.8.1, 
+6.2.8.2,  6.2.15.1.1.,  6.2.17.1,  6.2.17.2,  6.2.17.4.2,  6.2.17.4.3,  6.2.17.5, 
+6.2.17.6.,  6.2.19,  paragraphs  3  and  5  of  the  Format  of  Form  FC-GPR, 
+paragraphs  2.2,  2.3,  4,  5.1(iii)  and  (vii),  6.5  of  Annex  -2,  Format  of  Annual 
+Return on Foreign Liabilities and Assets, Form FC-TRS, Form DR; 
+ 
+
+b.  RBI  Master  Circular  on  Foreign  Investment  In  India  dated  July  2,  2012 
+(Section  II,  Section  IV  (3),  (5),  (6),  Section  V(6)  to  make  changes 
+corresponding  to  the  changes  in  the  Consolidated  FDI  Policy  in  relation  to 
+references to FIIs while calculating the sectoral cap); 
+
+c.  SEBI  (Issue  of  Capital  and  Disclosure  Requirements)  Regulations,  2009 
+
+(Regulations 2(za), 2(zb), 2(zd)(ii)); 
+
+d.  SEBI  (Substantial  Acquisition  of  Shares  and  Takeovers)  Regulations,  2011 
+
+(Regulation 2(q)(2)(ix)) ; 
+
+e.  The SEBI Act, 1992 (Section 12(1A)) 
+
+ 
+
+To  avoid  too  many  individual  legislative  amendments,  it  is  also  suggested  that  a 
+clause may be introduced in the respective legislations stating that the term “FII” in 
+the legislations shall mean “FPI registered with DDP authorised by SEBI”. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+COMMITTEE REPORT 
+
+Page 11 
+ 
+
+2. Background 
+ 
+
+2.1. Working Group on Foreign Investment in India 
+
+ 
+
+ 
+
+During  November  2009,  the  Ministry  of  Finance  (MoF)  set  up  a  working  group  called 
+Working Group on Foreign Investment in India (WGFI), headed by the then UTI Mutual Fund 
+Chief Shri U. K. Sinha, with a view to rationalize the present arrangements relating to foreign 
+portfolio investments by Foreign Institutional Investors (FII)/ Non Resident Indians (NRI) and 
+other foreign investors like Foreign Venture Capital Investor (FVCI) and Private Equity entity 
+etc.   
+
+A  summary  of  major  recommendations  made  by  WGFI  in  its  report  submitted  during  July 
+2010 is listed in the table below: 
+
+ 
+
+Sr. No. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+Summarised WGFI Recommendations 
+
+Single window for registration and clearance of portfolio investment regulations that 
+does not distinguish between investor classes 
+Qualified DP with global presence through branch network and agency relationship 
+would be legally responsible for enforcing OECD standard KYC requirement 
+Such Global DPs would have higher capital requirements and would need to pass a 
+detailed “fitness test” administered by SEBI. 
+FIIs, FVCIs and NRIs would be abolished as an investor class 
+
+Promulgate broader KYC requirements that meet OECD standard practiced and also 
+adhere to PMLA rules and regulations 
+Consistent with Lahiri Committee recommendations, in areas where there are 
+no separate ceilings by an Act of Parliament, QFI investment ceilings should be 
+reckoned over and above prescribed FDI sectoral caps 
+SEBI to have final right to demand details about end investor with regard to PNs 
+
+FII Regulations would be replaced by a new QFI regulations 
+
+Schedules  specifying  permitted  investments  by  FIIs,  FVCIs,  and  NRIs  would 
+ostensible be replaced by a new schedule for QFIs 
+All  entities  structuring  and  offering  securities  market  related  products  in  overseas 
+markets,  who  offer  these  products  to  residents  on  Indian  soil  should  be  registered 
+with SEBI 
+Remove the caps on rupee denominated corporate debt.  Any desired restrictions on 
+debt  related  capital  flows  could  be  expressed  in  percentage  instead  of  absolute 
+terms. 
+Grandfather  existing  FVCI  investments  to  avoid  business  discontinuity  for  existing 
+firms 
+ 
+
+COMMITTEE REPORT 
+
+Page 12 
+ 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+Consider  amending  the  consolidated  FDI  policy  to  exempt  SEBI  registered  QFI  s 
+from seeking approval of the government prior to investing in a DVF incorporated as 
+a Trust 
+(i) SEBI FVCI and FII Regulations would be replaced by new QFI Regulation 
+(ii)  FEMA  (Transfer  or  issue  of  security  by  a  person  resident  outside  India) 
+Regulations  would  have  to  restate  permissible  caps  and  investment  levels,  now 
+unified, across asset classes 
+(iii)  Schedules  specifying  permitted  investment  by  FIIs,  FVCIs  and  NRIs  would 
+ostensible replaced by a new schedule for QFIs. 
+Closely review how and whether regulation tailored to fit specific classes of investors 
+like  FVCIs  and  NBFCs  will  be  included,  excluded  or  modified  under  the  QFI 
+framework 
+All entities structuring and offering securities market related products in the overseas 
+market,  who  offer  these  products  to  residents  on  Indian  soil,  should  register  with 
+SEBI  and  fully  disclose  all  promotional  materials,  including  product  literature, 
+advertisements and brochures 
+(i) Capital flows management regulations  should focus on spot instruments and not 
+derivatives 
+(ii)  Harmonize  the  regulation of futures, forwards,  and  options.    There  should  be  a 
+general  policy  preference  to  encourage  greater  trade  in  exchange-traded,  as 
+opposed to over-the-counter derivatives; 
+(iii)  Streamline  registration  processes  by  implementing  QFI  model,  as  suggested 
+above, to reduce the incentives to participate in offshore markets such as those for 
+participatory notes. 
+Qualified  DPs  with  global  presence  would  be  made  responsible  for  enforcing  KYC 
+requirements with respect to foreign investors 
+Shifting taxation of capital gains earned by foreign investors from the existing source 
+based system to residence based one. 
+
+ 
+
+ 
+
+ 
+
+2.2. Formation  of  Committee  on  Rationalization  of  Investment 
+
+Routes and Monitoring of Foreign Portfolio Investments 
+
+SEBI Board in its meeting held on October 06, 2012 decided that SEBI will prepare a draft 
+guideline based on the guidance of the WGFI, for consideration of the Government of India 
+(GoI). It was also decided that SEBI/RBI will create necessary regulatory framework based 
+on the guidelines, which will be laid down by the GoI. 
+
+Accordingly, in order to implement the Board’s above decision, SEBI,  formed a “Committee 
+on  Rationalization  of  Investment  Routes  and  Monitoring  of  Foreign  Portfolio  Investments” 
+(hereinafter  referred  to  as  “the  Committee”),  under  the  Chairmanship  of  Shri  K.  M. 
+Chandrasekhar,  comprising  of  representatives  from  GoI,  RBI  and    various  market 
+participants to review and make recommendations on the following issues:  
+
+ 
+
+COMMITTEE REPORT 
+
+Page 13 
+ 
+
+1.  To  prepare  a  draft  guideline  and  regulatory  framework  for  an  integrated  policy  on 
+foreign investments, keeping as a starting point, the recommendations of the Working 
+Group on Foreign Investment in India (WGFI), for consideration of the Government.  
+
+2.  To  devise  a  framework  for  according  preferential  treatment  to  long  term  investors 
+
+such as Sovereign Wealth Funds and pension funds for allocation of debt limits.   
+
+3.  To  examine  the  feasibility  of  the  proposal  forwarded  by  RBI  with  respect  to  the 
+monitoring of foreign investment by FIIs/NRIs under the portfolio investment scheme 
+in Indian companies. 
+
+4.  To  determine  the  feasibility  of  allowing  FIIs  to  invest  in  Pass  Through  Certificates 
+
+(PTC).  
+
+The  committee  decided  to  review  and  provide  recommendations  primarily  with  respect  to 
+issue  mentioned  above  at  Sr.  No.  01.  The  committee  further  decided  that  SEBI  and  RBI 
+would address the issues mentioned above at Sr. Nos. 2, 3 and 4 separately.   
+ 
+
+2.2.1. 
+
+Sub Committee on KYC 
+
+ 
+
+The Sub Committee on KYC was constituted to assess whether a uniform approach 
+or a risk based approach should be followed towards KYC for FPIs.  The broad terms 
+of reference of the sub-committee were as follows: 
+ 
+
+i. 
+
+Simplification  of  entry  norms  for  different  categories  of  foreign  portfolio 
+investors such as FII, sub-accounts, QFI, FVCI and NRIs; 
+
+ 
+
+ii.  Uniform entry norms for FPIs; 
+
+iii. 
+
+iv. 
+
+v. 
+
+vi. 
+
+vii. 
+
+ 
+Eligibility criteria for designated Depository Participant; 
+ 
+Approach towards KYC; 
+ 
+To suggest minimum documentation requirements for KYC in respect of all the 
+proposed categories of foreign portfolio investors; 
+ 
+To  review  the  existing  KYC  norms  applicable  to  NRIs  such  as  the  document 
+attestation options for NRIs based on the inputs to be provided by Ministry of 
+Overseas Indian Affairs etc; 
+ 
+To suggest suitable modifications in Rule 9 of PML Rules on the basis of inputs 
+to be provided by Department of Revenue, Ministry of Finance. 
+
+ 
+ 
+
+COMMITTEE REPORT 
+
+Page 14 
+ 
+
+2.2.2. 
+
+Sub Committee on Treatment of Foreign Investments 
+
+The Sub Committee on Treatment of Foreign Investments was formed to examine in 
+detail  the  difficulties  in  implementation  of  the  proposal  of  categorization  of  foreign 
+investment as FDI and portfolio investment based on a threshold of 10 percent.   
+
+ 
+
+It  was  decided  to  refer  the  following  terms  of  reference  to  the  aforesaid  sub- 
+committee:   
+
+i.  To  provide  recommendations  with  respect to  NRI  and  FII  investments  in  Indian 
+companies as against permissible investment limits and to assess the impact of 
+possible  volatility  in  the  market  due  to  proposed  increase  in  aggregate  foreign 
+portfolio  investment  limits  consequent  to  merging  of    FII,  QFI  and  NRI 
+investments limits.  
+
+ 
+ii.  To  identify  requisite  amendments  needed  in  the  Income  Tax  Act,  1961 
+consequent  to  proposed  integration  of  the  various  routes  for  foreign  portfolio 
+investors. 
+
+iii.  To  provide  recommendations  to  a  separate  committee  constituted  by  the 
+Government  of  India  namely  “Committee  for  Rationalizing  the  Definition  of  FDI 
+and FII”, which would examine and work out the details of the application of the 
+principle internationally for defining FDI and FII. 
+
+ 
+
+2.3. Union Budget Proposals  
+
+ 
+
+ 
+
+ 
+
+The Hon’ble Finance Minister while presenting the Union Budget for the year 2013-14, inter-
+alia made the following budget proposals: 
+ 
+
+1.  “There are many categories of foreign portfolio investors such as FIIs, Sub-Accounts, 
+QFIs etc. and there are also different avenues and procedures for them. Designated 
+depository  participants,  authorised  by  SEBI,  will  now  be  free  to  register  different 
+classes of portfolio investors, subject to compliance with KYC guidelines.”  
+
+2.   “SEBI will simplify the procedures and prescribe uniform registration and other norms 
+for  entry  of  foreign  portfolio  investors.  SEBI  will  converge  the  different  KYC  norms 
+and adopt a risk-based approach to KYC to make it easier for foreign investors such 
+as  central  banks,  sovereign  wealth  funds,  university  funds,  pension  funds  etc.  to 
+invest in India.”  
+
+3.  “In order to remove the ambiguity that prevails on what is Foreign Direct Investment 
+(FDI)  and  what  is  Foreign  Institutional  Investment  (FII),  I  propose  to  follow  the 
+international  practice  and  lay  down  a  broad  principle  that,  where  an  investor  has  a 
+stake  of  10  percent  or  less  in  a  company,  it  will  be  treated  as  FII  and,  where  an 
+
+COMMITTEE REPORT 
+
+Page 15 
+ 
+
+investor has a stake of more than 10 percent, it will be treated as FDI. A committee 
+will  be  constituted  to  examine  the  application  of  the  principle  and  to  work  out  the 
+details expeditiously.” 
+
+Regarding  the  proposal  mentioned  above  at  Sr.  No.  3,  the  Committee  decided  to  provide 
+recommendations  to  a  separate  committee  constituted  by  the  Government  of  India  namely 
+“Committee for Rationalizing the Definition of FDI and FII”, which would examine and work out 
+the details of the application of the international principle for defining FDI and FII. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 16 
+ 
+
+3. Present Regulatory Framework for Foreign Investment in 
+
+India 
+
+ 
+
+At present foreign investment in India is channelized through the following routes as depicted in 
+the figure: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Foreign Direct 
+ 
+Investment 
+ 
+
+FOREIGN INVESMENT ROUTES IN INDIA 
+
+ 
+
+Foreign 
+
+Investments 
+
+Foreign Portfolio 
+
+Foreign Venture 
+
+Investment 
+
+Capital Investment 
+
+Other investment 
+
+(GSec, NCD) 
+
+Non-repatriable 
+
+investment  
+
+Govt 
+
+Route 
+
+FII 
+
+NRI, PIO, 
+
+QFI 
+
+FII 
+
+NRI, PIO, 
+
+NRI, PIO 
+
+QFI 
+
+SEBI 
+
+Reg. 
+
+FVCI 
+
+VCF, 
+
+IVCU 
+
+ 
+
+ 
+
+ 
+
+Automatic 
+
+ 
+
+Route 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Person’s resident 
+
+outside India 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source: Master Circular dated July 02, 2012 issued by the Reserve Bank of India (RBI) 
+ 
+
+Foreign investment in India is primarily channelized in three forms: 
+
+1. 
+2. 
+3. 
+
+Foreign Direct Investment  
+Portfolio Investment Scheme 
+Foreign Venture Capital Investment  
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 17 
+ 
+
+ 
+
+ 
+
+ 
+
+3.1. Foreign Direct Investment (FDI) 
+
+Under the Consolidated FDI Policy issued by the Department of Industrial Policy and 
+Promotion (DIPP), Ministry of Commerce and Industry, GoI, a non-resident entity can 
+invest in India, subject to the FDI Policy except in those sectors/ activities which are 
+prohibited.  
+ 
+However, a citizen of Bangladesh or an entity incorporated in Bangladesh can invest 
+only  under  the  Government  route.  Further,  a  citizen  of  Pakistan  or  an  entity 
+incorporated 
+in 
+sectors/activities other than defence, space and atomic energy and sectors/ activities 
+prohibited for foreign investment. 
+ 
+These  investments  are  subject  to  the  extant  Foreign  Exchange  Management  Act 
+(FEMA) Regulations and extant FDI policy including sectoral caps. 
+ 
+An Indian company may receive FDI under the two routes as given under: 
+
+the  Government  route, 
+
+in  Pakistan  can 
+
+invest,  only  under 
+
+Automatic Route 
+
+i. 
+ii.  Government Route 
+
+ 
+FDI is allowed under the automatic route without prior approval either of GoI or RBI in 
+all  activities/sectors  as  specified  in  the  consolidated  FDI  Policy,  issued  by  the 
+Government of India from time to time. 
+ 
+FDI in activities not covered under the automatic route requires prior approval of GoI 
+which are considered by the Foreign Investment Promotion Board (FIPB), Department 
+of Economic Affairs, Ministry of Finance.  
+ 
+The  Indian  company  having  received  FDI  either  under  the  Automatic  route  or  the 
+Government  route  is  required  to  comply  with  provisions  of  the  FDI  policy  including 
+reporting the FDI to RBI. 
+
+3.2. Portfolio Investment Scheme (PIS)  
+
+Portfolio  Investment  Scheme  (PIS)  allows  eligible  investors  such  as  Foreign 
+Institutional  Investors  Non  Resident  Indians  (NRIs),  Persons  of  Indian  Origin  (PIOs) 
+and  Qualified  Foreign  Investors  to  invest  in  shares  and  convertible  debentures  of 
+Indian  companies,  and  units  of  domestic  mutual  funds  at  any  of  the  Indian  stock 
+exchanges. 
+   
+
+COMMITTEE REPORT 
+
+Page 18 
+ 
+
+This investment can be done under repatriation or non-repatriation basis in respect of 
+shares or convertible debentures sold or purchased through a registered stock broker 
+on a recognized stock exchange. 
+
+Under  the  Foreign  Portfolio  Investment  route,  the  following  entities  are  allowed  to 
+invest: 
+
+i.  Foreign Institutional Investors (FIIs) and Sub Accounts,  
+ii.  Non Resident Indian (NRIs)/ Person of Indian Origin (PIOs),and 
+iii.  Qualified Foreign Investors (QFIs) 
+
+ 
+
+ 
+
+ 
+
+3.2.1. 
+
+FIIs and Sub Accounts 
+
+In  terms  of  SEBI  (Foreign  Institutional  Investor)  Regulations,  1995,  "Foreign 
+Institutional Investor" means an institution established or incorporated outside India 
+which proposes to make investment in India in securities. “Sub Account” means any 
+person  resident  outside  India,  on  whose  behalf  investments  are  proposed  to  be 
+made  in  India  by  a  foreign  institutional  investor  and  who  is  registered  as  a  sub-
+account under these regulations. 
+
+The  Reserve  Bank  of  India  (RBI),  has  granted  general  permission  to  SEBI 
+Registered FIIs to invest in India under the PIS route. The registration given by SEBI 
+also operates as approval under Foreign Exchange Management Act, 1999 (FEMA) 
+to invest in India.  
+
+3.2.1.1.  Registration Requirements 
+
+i. 
+
+As per the present regulations, the following categories are eligible for 
+grant of FII registration: 
+
+ 
+
+ 
+
+a.  Fund  Category: 
+
+fund,  Endowment, 
+  Pension  Fund,  University 
+Foundation,  Charitable  Trust,  Mutual  Fund, 
+Investment  Trust, 
+Charitable  society,  Foreign  Central  Bank,  Sovereign  Wealth  Fund 
+(SWF),  Foreign  Governmental 
+International/Multilateral 
+agency, Insurance/Reinsurance Company, Broad Based Fund 
+
+  Agency, 
+
+b.  Non  Fund  Category:  Investment  Manager/Advisor,  Trustee  of  trust, 
+
+Bank, Asset Management Company, Institutional Portfolio manager 
+
+ 
+
+ii. 
+
+An FII applicant should be regulated in its home jurisdiction.  Following 
+categories  are  granted  FII  registration  even  though  they  may  not  be 
+regulated in home jurisdiction: 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+COMMITTEE REPORT 
+
+Page 19 
+ 
+
+a.  University funds; 
+b.  Endowments; 
+c.  Foundations; 
+d.  Charitable trusts; and 
+e.  Charitable societies 
+
+ 
+record,  professional  competence, 
+
+Track 
+financial  soundness, 
+experience,  general  reputation  of  fairness  and  integrity  of  the  FII 
+applicant are considered for granting registration. 
+ 
+Sub-accounts can be registered under one of the following categories: 
+
+iii. 
+
+iv. 
+
+a.  Broad based fund,  
+b.  broad based portfolio,  
+c.  university fund,  
+d.  endowment,  
+e.  foundation,  
+f.  charitable trust,  
+g.  charitable society,  
+h.  foreign corporate,  
+i. 
+foreign individual,  
+j.  sovereign wealth fund and  
+k.  Proprietary fund of the FII.  
+
+ 
+
+v. 
+
+vi. 
+
+vii. 
+
+The  broad  based  criteria  have  been  defined  as  20  investors  with  no 
+single  investor  having  stake  of  more  than  49%.  A  foreign  corporate 
+seeking registration as sub-account must have asset base of not less 
+than  two  billion  US  dollars,  average  net  profit  of  not  less  than  fifty 
+million US dollars during the three financial year preceding the date of 
+application.  A  foreign  individual  must  have  networth  of  not  less  than 
+fifty million US dollars.   
+ 
+The FII is required to enter into an agreement with domestic custodian 
+to act  as  custodian  of  securities  and  also appoint  a  branch  of a bank 
+approved  by  Reserve  Bank  of  India  for  opening  of  foreign  currency 
+denominated account and a special non-resident rupee account. 
+ 
+The  registration  fee  for  an  FII  is  USD  5,000  for  every  block  of  three 
+years.    The  validity  of  registration  of  FII  is  permanent,  subject  to 
+payment  of fees  every block  of  three  years.   The  registration fees for 
+Sub account is USD 1,000.  The validity of registration of sub account 
+is co-terminus with that of its FII. 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 20 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.2.1.2. Investment Opportunities 
+
+i. 
+
+Presently, an FII can make investment in the following types of securities: 
+Securities  in  primary  and  secondary  markets  including  shares, 
+debentures  and  warrants  of  companies,  unlisted,  listed  or  to  be 
+listed on a recognized stock exchange in India; 
+ 
+
+ii.  Units of mutual funds/ schemes floated by a Collective Investment 
+
+Scheme; 
+
+iii.  Dated Government Securities, other debt instruments; 
+
+iv.  Derivatives traded on a recognized stock exchange; 
+
+v.  Commercial papers; 
+
+vi. 
+
+Security Receipts (sub-accounts cannot invest in SRs) 
+
+vii. 
+
+Indian Depository Receipts (IDR) 
+
+3.2.1.3. Account Opening 
+
+Before  an  FII  starts  to  make  investment,  it  needs  to  put  in  place  the 
+following, apart from SEBI registration: 
+
+i. 
+
+Appoint  a  Custodian  of  securities  –  The  custodian  of  securities 
+acts as an agent of FII and is the Power of Attorney (POA) holder. 
+ 
+
+ii.  Obtain PAN from Income Tax Department. 
+
+iii.  Open  a  demat  account  with  a  SEBI  registered  depository 
+
+participant; 
+
+iv.  Open  a  Special  Non-resident  Rupee  Account  (SNRA)  with  any 
+
+AD-1 bank; 
+
+v.  Open  a  trading  account  with  a  SEBI  registered  stock  broker/ 
+trading  member,  and  obtain  a  Unique  Client  Code  (UCC)  with 
+stock exchange(s); 
+
+vi. 
+
+Appoint  a  Tax  Consultant/  Chartered Accountant  for  computation 
+of  taxes and  certification  that the  relevant  taxes have  been  paid.  
+
+COMMITTEE REPORT 
+
+Page 21 
+ 
+
+ 
+
+ 
+
+FII  can  repatriate  back  any  amount  from  his  bank  account, 
+provided all taxes have been paid on such amount. 
+
+The custodian of securities generally assists the FII in opening all 
+the  requisite  accounts.    The  custodian  of  securities  also  acts  as 
+clearing  member  of  the  FII  and  performs  clearing  and settlement 
+functions for its FII clients. 
+
+ 
+vii. 
+
+ 
+
+3.2.2. 
+
+Non Resident Indian (NRI)/ Person of Indian Origin (PIO) 
+
+As per RBI, Non Resident Indian (NRI) is defined as a person resident outside India 
+who  is  citizen  of  India.  In  terms  of  Regulation  2  of  FEMA  Notification  No.13  dated 
+May  3,  2000,  NRI  means a  person  resident outside  India  who  is a  citizen  of  India. 
+PIO means a citizen of any country other than Bangladesh or Pakistan who had: 
+
+ 
+
+At any time held Indian passport or  
+
+i. 
+ii.  He  or  either  of  his  parents  or  any  of  his  grandparents  was  a  citizen  of 
+
+iii. 
+
+India by virtue of the Constitution of India or the Citizenship Act, 1955 or  
+The person is a spouse of an Indian citizen or a person referred to in (a) 
+or (b). 
+ 
+
+Investment  by  PIOs  in  Indian  Securities  is  treated  same  as  the  investment  by 
+NRIs and requires same approvals and enjoys the same exemptions. 
+
+ 
+
+3.2.2.1. 
+
+Market Entry 
+
+NRIs/PIOs  are eligible  to  purchase  and  sell  shares  /  convertible debentures 
+of  Indian  Companies,  through  a  registered  broker  on  a  recognized  stock 
+exchange  in  India,  if  they  have  been permitted by  the designated branch of 
+any AD Category - I bank (which has been authorized by RBI to administer 
+the PIS).   RBI issues permission to specific bank branches for starting PIS 
+activities which are then termed as Designated Bank Branches (DBBs). 
+ 
+NRIs/PIOs  are  required  to  approach  the  DBBs  to  register  under  PIS.    On 
+behalf  of  RBI,  DBB  issues  PIS  approval  letter  to  the  NRI/PIOs.  The  Non 
+Designated Bank Branches (NDBBs) are not permitted to open PIS accounts. 
+Hence, if the customer approaches any of the NDBBs, the said Bank Branch 
+can accept the application from the NRI customers and forward the same to 
+the DBB to complete the formalities for PIS account opening. 
+
+ 
+ 
+
+COMMITTEE REPORT 
+
+Page 22 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.2.2.2. Account Structure 
+
+To  invest  through  recognized  Stock  Exchange  in  India,  the  NRIs/PIOs  are 
+permitted to open the following types of bank/demat accounts:  
+
+i.  Non Resident External (NRE) PIS  Savings Bank  or Non-Resident 
+
+is  opened  exclusively 
+
+Ordinary (NRO) PIS savings bank account 
+ 
+The  NRE  PIS  account 
+for  making 
+payments/receiving  amount  of  sale  proceeds  for  the  investments 
+made  in  shares/convertible  debentures  on  repatriation  basis  in 
+secondary  market.      Similarly,  the  NRO  PIS  account  is  opened 
+exclusively for  making payments/  receiving  amount  of  sale  proceeds 
+for  the  investments  made  in  shares  /convertible  debentures  on  non- 
+repatriation basis in secondary market.  For opening NRE PIS / NRO 
+PIS account, an NRI/PIO has to submit a RPI / NRI application form 
+respectively  and  give  sufficient  details  of  investments  held  by  him 
+along  with  other  legal  and  procedural  documents  required  by  the 
+concerned Designated Bank Branch.  
+
+ii.  NRE  Saving Bank account or NRO  Saving Bank account 
+
+ 
+The  NRE  /  NRO  savings  bank  account  is  required  to  be  opened  for 
+recovering bank charges and to route non PIS transactions. 
+
+iii.  NRE or NRO  Demat Account 
+
+ 
+The  demat  account  is  to  be  opened  with  any  DP  for  the  purpose  of 
+trading  in  Shares.  NRI/PIO  can  open  a  demat  account  with  any 
+Depository Participant (DP). The NRI/PIO needs to mention the type 
+‘NRI’  as  compared  to  ‘Resident’  and  the  sub-type  ‘Repatriable’  or 
+‘Non-Repatriable’ in the account opening form collected from the DP. 
+An  NRI/PIO  must  open  separate  demat  accounts  for  holding 
+‘repatriable’ and 'non-repatriable’ securities. No permission is required 
+from RBI to open a demat account.  However, credits and debits from 
+demat  account  may  require  general  or  specific  permissions  as  the 
+case may be, from designated authorised dealers. 
+ 
+
+3.2.2.3. Funding and Repatriation 
+
+Payment for purchase of shares and/or debentures on repatriation basis has to be 
+made  by  way  of  inward  remittance  of  foreign  exchange  through  normal  banking 
+channels or out of funds held in NRE/FCNR (B) account maintained in India.   If the 
+
+COMMITTEE REPORT 
+
+Page 23 
+ 
+
+shares are purchased on non-repatriation basis, the NRIs/PIOs can also utilise their 
+funds in NRO account in addition to the above. 
+
+ 
+An  NRI/PIO  can  purchase  shares  in foreign  exchange  by funding  it  through  NRE 
+Saving Bank Account.  On sale of such shares the sale proceeds amount can be 
+freely repatriated, net of application taxes.  He can also purchase shares in rupees 
+through  NRO  Saving  Bank  Account.      However,  sale  proceeds  amount  of  these 
+shares cannot be freely repatriated out of India, subject to FEMA, 1999. 
+
+ 
+
+3.2.2.4. Nature of Transactions Allowed 
+
+NRIs  are  eligible  to  purchase  and  sell  shares  /  convertible  debentures  of  Indian 
+Companies, through a registered broker on a recognized stock exchange in India. 
+NRIs are eligible to purchase and sell Units of Mutual Funds. 
+
+ 
+
+3.2.2.5. Nature of Transactions not covered under PIS  
+
+Purchase and sale of shares otherwise than on recognized stock exchange in India 
+come under this category: 
+ 
+
+Shares acquired during Residential tenure, 
+Initial Public Offer (IPO) shares, 
+Shares received by way of Gift, 
+Shares received by way of Inheritance, 
+Acquisition and Sale of Bonus shares, 
+
+i. 
+ii. 
+iii. 
+iv. 
+v. 
+vi.  Right Shares 
+vii. 
+
+Shares acquire under FDI.  
+ 
+
+As per Schedule 3 (Regulation 5) of FEMA Act, 1999, NRIs have to take delivery of 
+the  shares  /  convertible  debentures  purchased  and  give  delivery  of  the  shares  / 
+convertible debentures sold under the PIS scheme within prescribed time frame.  
+Therefore,  an  NRI  investor  can  execute  only  delivery  based  transactions  and 
+cannot indulge in short selling, speculative, no delivery and other such transactions 
+where delivery of shares is not undertaken. 
+
+ 
+
+3.2.2.6. Other Investment Guidelines 
+
+i. 
+
+ii. 
+
+Any NRI can have only one PIS account in India at a time.  
+ 
+It  is  mandatory  to  comply  with  all  the  rules  and  regulations  prescribed  by 
+RBI and other regulatory authorities for all the NRI investors. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 24 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iii. 
+
+iv. 
+
+Securities  received  by  NRI  against  investments  under  ‘Foreign  Direct 
+Investment  scheme  (FDI)’, 
+Investment  scheme  (PIS)’  and 
+‘Scheme for Investment’ on non – repatriation basis have to be credited into 
+separate demat accounts.  
+
+‘Portfolio 
+
+Investment  under  PIS  can  be  on  repatriation  or  non  –  repatriation  basis. 
+However, investment under FDI scheme can only be on repatriation basis.  
+ 
+
+3.2.2.7. Specified Limits of NRI Investments 
+
+NRI investment on repatriation/non- repatriation basis is subject to ceilings as 
+mentioned below- 
+
+i.  NRIs  can  invest  through  designated  ADs,  on  repatriation  and  non-
+repatriation basis under PIS route up to 5 per cent of the paid- up capital / 
+paid-up value of each series of debentures of listed Indian companies.  
+ 
+The aggregate paid up value of shares / convertible debentures purchased 
+by  all  NRIs  cannot  exceed  10  per  cent  of  the  total  paid  up  capital  of  the 
+company / paid up value of each series of debentures of the company.  
+
+ii. 
+
+iii. 
+
+iv. 
+
+v. 
+
+The  aggregate  ceiling  of  10  per  cent  can  be  raised  to  24  per  cent  by 
+passing  a  resolution  of  its  Board  of  Directors  followed  by  a  special 
+resolution to that effect by its General Body and should necessarily intimate 
+the same to the Reserve Bank of India immediately as hitherto, along with a 
+Certificate  from  the  Company  Secretary  stating  that  all  the  relevant 
+provisions  of  the  extant  Foreign  Exchange  Management  Act,  1999 
+regulations  and  the  Foreign  Direct  Policy,  as  amended  from  time  to  time, 
+have been complied with.  
+
+The Designated Bank Branches are required to keep track of NRI individual 
+investment  limits  and  restrict  its  NRI  customers  from  acquiring  securities 
+beyond the prescribed limits. 
+
+The  shares  of  those  companies  listed  in  Banned  list  (i.e.  where  NRI 
+shareholding  have  crossed  the  prescribed  limits)  should  not  be  further 
+purchased by the NRIs at that point of time. However, the shares of those 
+companies  listed  in  Caution  list  (i.e.  whose  NRI  shareholding  limits  has 
+reached  2%  below  the  ceiling  limit)  can  further  be  purchased  only  by 
+obtaining prior approval from RBI. 
+
+ 
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 25 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.2.2.8. Reporting of NRI investments under PIS scheme 
+
+The link office of the designated branch of an AD Category – I bank furnishes to the 
+Reserve  Bank,  a  report on  a daily basis  on  PIS transactions undertaken by  it,  on 
+behalf of  NRIs.  It  is  the  bank’s  responsibility  to ensure  that the  data  submitted  to 
+RBI is reconciled by periodically taking a NRI holding report for their bank. 
+
+ 
+
+3.2.3. 
+
+Qualified Foreign Investors (QFIs) 
+
+QFI scheme was introduced by Government of India (GoI) during the year 2011, in 
+consultation with SEBI and RBI, to permit foreign investors to invest in Indian equity 
+shares, equity and debt schemes of Indian mutual fund and corporate debt in order 
+to  widen  the  class  of  investors,  attract  more  foreign  funds,  reduce  market  volatility 
+and to deepen the Indian capital markets. 
+
+ 
+
+3.2.3.1. Eligibility  
+
+QFIs  include  individuals,  groups  or  associations,  resident  in  a  country  that  is  a 
+member of Financial Action Task Force (FATF) or a country that is a member of a 
+group which is a member of FATF and resident in a country that is a signatory to 
+International  Organization  of  Securities  Commission’s  (IOSCO)  Multilateral 
+Memorandum  of  Understanding  (MMOU)  (Appendix  A  Signatories)  or  a  signatory 
+of  a  bilateral  MOU  with  SEBI.  QFIs  do  not  include  FIIs/Sub  accounts/  Foreign 
+Venture Capital Investor.  
+ 
+
+3.2.3.2. Account Opening  
+
+i.  QFIs are required to open a demat account with any one of the SEBI 
+approved  qualified  Depository  Participant  (QDP).  QDP  are  also 
+required  
+carry  necessary  due  diligence  and  obtain 
+appropriate declarations and  
+undertakings  from  QFI  in  terms  of 
+extant framework.  
+ 
+
+to  
+
+ii.  QFIs  are  required  to  open  a  single  non-interest  bearing  Rupee 
+Account  with  an  AD  Category-  I  bank  in  India,  for  routing  the  receipt 
+and payment for transactions relating to purchase and sale of eligible 
+securities subject to the conditions as may be prescribed by RBI from 
+time to time.  
+A  QFI  can  open  trading  accounts  with  one  or  more  SEBI  registered 
+stock brokers. 
+ 
+
+iii. 
+
+COMMITTEE REPORT 
+
+Page 26 
+ 
+
+3.2.3.3. Eligibility of QDP 
+
+The eligibility criteria to act as qualified Depository Participants are as 
+follows: 
+
+i.  DP shall have net worth of Rs. 50 crore or more; 
+
+ 
+
+ii.  DP  shall  be  either  a  clearing  bank  or  clearing  member  of  any  of  the 
+
+clearing corporations; 
+
+iii.  DP shall have appropriate arrangements for receipt and remittance of 
+
+money with a designated Authorised Dealer (AD) Category - I bank; 
+
+iv.  DP  shall  demonstrate  that  it  has  systems  and  procedures  to  comply 
+with the FATF Standards, Prevention of Money Laundering (PML) Act, 
+Rules and SEBI circulars issued from time to time; and 
+
+v.  DP  shall  obtain  prior  approval  of  SEBI  before  commencing  the 
+
+activities relating to opening of accounts of QFI. 
+
+3.2.3.4. Permitted Investments 
+
+A QFI can make investments in the following: 
+
+Equity and debt schemes of Indian mutual funds,  
+Equity shares listed on recognized stock exchanges,  
+Equity shares offered through public offers and  
+
+i. 
+ii. 
+iii. 
+iv.  Corporate bonds listed/to be listed on recognized stock exchanges. 
+v.  G-Sec and T-Bills 
+vi.  Commercial Paper  
+
+ 
+
+3.2.3.5. Investment Limits 
+
+i. 
+
+ii. 
+
+ The aggregate investments by QFIs in units of mutual fund schemes 
+shall  be  subject  to  a  total  overall  ceiling  of  US  $10  billion  for  equity 
+schemes.  
+ 
+Total shareholding held by a QFI shall not exceed five percent of paid 
+up equity capital of the company at any point of time.  This investment 
+limit shall be applicable to each class of equity shares having separate 
+and distinct ISIN. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 27 
+ 
+
+iii. 
+
+that aggregate shareholding of all QFIs shall not exceed ten percent of 
+the  paid  up  equity  capital  of  the    company  at  any  point  of  time,  in 
+respect of each equity share class having separate and distinct ISIN.   
+
+3.2.4. 
+
+Foreign Venture Capital Investors (FVCI) 
+
+ 
+
+Another  route  in  which  foreign  investment  is  channelized  into  India  is  through 
+investment by foreign venture capital investors.  In terms of SEBI (Foreign Venture 
+Capital  Investors)  Regulation,  2000  "foreign  venture  capital  investor"  means  an 
+India,  registered  under  these 
+investor 
+Regulations  and  proposes 
+these 
+Regulations.  
+
+incorporated  and  established  outside 
+
+in  accordance  with 
+
+to  make 
+
+investment 
+
+ 
+
+ 
+
+ 
+
+3.2.4.1. Registration 
+
+i. 
+
+ii. 
+
+To  seek  registration  under  these  regulations,  FVCI  entity  shall  make  an 
+application  to  SEBI  in  requisite  Form  along  with  the  application  fees  of 
+USD 2,500 and registration fees of USD 10,000. 
+SEBI  on  verification  of  documents,  considering  eligibility  conditions  and 
+seeking clarification / information from the Applicant as it may deem fit, is 
+satisfied that applicant is eligible, it may grant certificate of registration. 
+
+3.2.4.2. Eligibility criteria 
+
+For  the  purpose  of  grant  of  certificate  to  an  applicant  as  a  FVCI,  SEBI  broadly 
+considers the following eligibility criteria: 
+
+i. 
+
+The  applicant  record,  professional  competence,  financial  soundness, 
+experience, general reputation of fairness and integrity etc. 
+ 
+
+ii.  Whether  the  applicant  has  been  granted  necessary  approval  by  the 
+
+Reserve Bank of India for making investments in India. 
+
+iii. 
+
+Status  of  the  applicant    i.e.  whether  the  applicant  is  an  investment 
+company, investment trust, investment partnership, pension fund, mutual 
+fund,  endowment  fund,  university  fund,  charitable  institution,  investment 
+management  company,  asset  management  company  or  an  investment 
+vehicle / any other entity incorporated outside India. 
+
+iv.  Whether  the  applicant  is  authorized  to  invest  in  venture  capital  fund  or 
+
+carry on activity as a foreign venture capital investor 
+
+v.  Whether  the  applicant  is  regulated  by  an  appropriate  foreign  regulatory 
+
+authority or is an income-tax payer. 
+ 
+
+vi.  Whether applicant earlier has been refused registration as FVCI by SEBI 
+
+and whether applicant is a fit and proper person. 
+
+COMMITTEE REPORT 
+
+Page 28 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.2.4.3. Investment Conditions and Restrictions 
+
+i. 
+
+ii. 
+
+FVCI shall disclose to SEBI its investment strategy 
+ 
+FVCI  can  invest  its  total  funds  committed  in  one  VCF.  There  is  no  limit 
+prescribed  with  respect  to  investment  in  a  single  VCU  in  the  FVCI 
+regulations.  
+
+iii. 
+
+At least 66.67 per cent of the investible funds shall be invested in unlisted 
+equity shares or equity linked instruments of VCU.  
+
+iv.  Not more than 33.33 per cent of the investible funds may be invested in : 
+
+a.  Subscription  to  initial  public  offer  of  a  VCU  whose  shares  are 
+
+proposed to be listed. 
+
+b.  Debt or debt instrument of a VCU in which FVCI has already made an 
+
+investment by way of equity. 
+
+c.  Preferential allotment of equity shares of a listed company subject to 
+
+lock-in period of one year. 
+
+d.  Equity  shares  or  equity  linked  instruments  of  a  financially  weak 
+
+company or a sick industrial company whose shares are listed. 
+
+e.  Special  purpose  vehicles  which  are  created  for  the  purpose  of 
+these 
+
+in  accordance  with 
+
+facilitating  or  promoting 
+Regulations. 
+
+investment 
+
+v. 
+
+FVCI shall disclose the duration of life cycle of the fund. 
+ 
+ 
+
+3.2.4.4. Other Conditions 
+
+i. 
+
+ii. 
+
+iii. 
+
+FVCI  shall  appoint  a  domestic  custodian  for  the  purpose  of  custody  of 
+securities. 
+ 
+FVCI  shall  enter  in  to  an  arrangement  with  a  designated  bank  for  the 
+purpose  of  operating  a  special  non-resident  rupee  or  foreign  currency 
+account. 
+FVCI  shall  forthwith  inform  the  SEBI  in  writing  if  any  information  or 
+particular  previously  submitted  to  the  SEBI  are  found  to  be  false  or 
+misleading  in  any  material  particular  or  if  there  is  any  change  in  the 
+information already submitted. 
+ 
+
+COMMITTEE REPORT 
+
+Page 29 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iv. 
+
+FVCI shall maintain for a period of eight years books of account, records 
+and  documents  which  shall  give  a  true  and  fair  picture  of  the  state  of 
+affairs of the FVCI. 
+
+v. 
+
+FVCI shall submit reports on periodic basis or whenever the information is 
+called by the SEBI. 
+
+3.2.4.5. Advantages of FVCI registration 
+
+i.  No Pricing guidelines 
+
+ 
+RBI  pricing  norms  for  acquisition  and  disposition  of  investment  are  not 
+applicable  to  an  FVCI,  thereby  giving  the  flexibility  to  undertake 
+transaction  at  a  price  mutually  agreed  between  buyer  and  seller.    This 
+could  be beneficial for undertaking  mezzanine  transactions  which  intend 
+to provide an agreed return. 
+
+ii.  No Post IPO lock-in 
+
+ 
+As  per  the  SEBI  (ICDR)  Regulations,  2009;  the  entire  pre-issue  capital 
+(except  promoters  shareholding  where different  lock-in  requirements  are 
+applicable)  gets  locked  in  for  a  period  of  one  year  from  the  date  of 
+allotment.  However, the aforesaid lock-in restrictions do not apply to pre-
+issue  shares  held  by  an  FVCI  or  a  VCF,  provided  the  shares  are  held 
+atleast for a period of one year as on the date of filing the draft red herring 
+prospectus with SEBI. 
+
+iii.  QIB status 
+
+ 
+Under  the  SEBI  (ICDR)  Regulations,  2009,  FVCI  are  considered  as  a 
+Qualified  Institutional  Buyer  (QIB)  and  therefore,  they  are  eligible  to 
+participate in Qualified Institutional Placement (QIP) process. 
+
+iv.  No Takeover Code implications on transfer to promoters 
+
+ 
+As  per  the  SEBI  (Substantial  Acquisition  of  Shares  and  Takeovers) 
+Regulations  2011,  acquisition  of  25%  or  more  of  the  shares  or  voting 
+rights  of  company  listed  on  any  stock  exchange,  would  trigger  the 
+obligation  to  make  an  open  offer  and  accordingly  the  acquirer  has  to 
+make  a  public  announcement  to  acquire  minimum  26%  of  the  voting 
+capital  of  the  company.    However,  the  provisions  of  the  SEBI  Takeover 
+Code,  does  not  apply  to  transfer  of  shares  from  FVCI  registered  with 
+SEBI to promoters of VCU’s pursuant to an agreement.   
+
+COMMITTEE REPORT 
+
+Page 30 
+ 
+
+3.2.4.6. Investment only in specified sectors 
+
+ 
+
+In  the  recent past,  SEBI/RBI  has  been  granting sector  specific  approvals  (refer 
+below  for  sectors)  at  the  time  of  FVCI  registration.  In  case  of  investments  in 
+sectors other than sectors specified in the approval, investment would need to be 
+made through FDI route. Following sectors have been specified in the approval: 
+
+i.  Nanotechnology; 
+
+ii. 
+
+Information technology relating to hardware and software development; 
+
+iii. 
+
+iv. 
+
+Seed research and development; 
+
+Bio-technology; 
+
+v.  Research  and  development  of  new  chemical  entities 
+
+in 
+
+the 
+
+pharmaceutical sector; 
+
+vi. 
+
+Production of bio-fuels;  
+
+vii. 
+
+viii. 
+
+Building  and  operating  composite  hotel-cum-convention  centre  with 
+seating capacity of more than three thousand;  
+
+Infrastructure sector – includes activities included within the scope of the 
+definition of infrastructure under ECB guidelines; 
+
+Infrastructure  sector  under  ECB  guidelines  is  defined  as  (i) power, 
+(ii) telecommunication,  (iii) railways,  (iv) road  including  bridges,  (v) sea 
+port  and  airport,  (vi) industrial  parks,  (vii) urban  infrastructure  (water 
+supply,  sanitation  and  sewage  projects)  (viii)  mining,  refining  and 
+exploration  and  (ix)  cold  storage  or  cold  room facility,  including for farm 
+level  pre-cooling,  for  preservation  or  storage  of  agricultural  and  allied 
+produce, marine products and meat  
+
+ix. 
+
+Engaged in the dairy industry or poultry industry 
+
+ 
+
+A summary of the regulatory requirements and investment guidelines of the existing foreign 
+investment routes as described in this chapter is annexed as Annexure I. 
+
+COMMITTEE REPORT 
+
+Page 31 
+ 
+
+4. Rationale for Integrated Policy on Foreign Investments 
+ 
+Foreign  investment  in  India  is  characterized  by  multiple  routes  and  various  regulators 
+overseeing  these  routes,  overlapping  policies,  complicated  tax  structures,  and  high  cost  of 
+transactions  leading to  inconsistencies,  reduced transparency and  higher  capital  costs.  These 
+impediments  translate  into  higher  cost  of  capital  for  Indian  companies  who  are  accessing 
+foreign equity capital. 
+
+ 
+
+An integrated policy on foreign investments would reduce the overall complexity and number of 
+regulations governing inbound investments.  By integrating the existing portfolio routes available 
+for  foreign  investors,  an  attempt  can  be  made  to  remove  some  impediments.    This  will  also 
+facilitate India being comparable to countries like Brazil, South Korea, etc. 
+ 
+However,  it  is  suggested  that  a  level  of  segregation  across  foreign  portfolio  investors,  in  the 
+areas such as investment restrictions and application of KYC norms is necessary for ensuring 
+adequate  regulatory  control  on  various forms  of foreign  investment  and  regulating  end  use  of 
+capital in line with economic and regulatory objectives. 
+
+ 
+
+It is suggested to put in place a harmonized model, designed to provide an unified market entry 
+process  for  all  foreign  portfolio  investors.  While  the  harmonized  /  common  foreign  investor 
+approach  has  merits,  the  ability  of  regulatory  authorities  to  control  investments  from  various 
+kinds on investors must be maintained.  Accordingly, it is suggested to maintain a single foreign 
+portfolio investor category with common market entry, limit monitoring and reporting norms.  
+
+ 
+
+The harmonized model would achieve the following twin objectives –  
+
+ 
+
+i. 
+
+Provide a unified market entry for foreign portfolio investors, and 
+ 
+
+ii.  Retain  the  ability  of  government/regulatory  authorities  to  incentivize  or  restrict 
+
+end use of foreign capital. 
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 32 
+ 
+
+5. A Harmonized Foreign Investment Model 
+
+ 
+
+ 
+
+5.1. Features of the Harmonized Model 
+
+ 
+
+The existing foreign  investor  routes  under  portfolio  investment  scheme  have  been  created  
+for specific purposes as follows: 
+
+i. 
+
+FII  route,  which  includes  FIIs  and  Sub  accounts,  enables  foreign  portfolio 
+investments into Indian capital markets. 
+
+ 
+
+ii.  QFI is a foreign investor category where investors can directly open an account 
+
+with a Qualified Depository Participant (QDP) in India. 
+ 
+
+iii.  NRI  is  a  dedicated  route for a  person  resident  outside  India  who  is a  citizen of 
+
+India (includes PIO).  
+ 
+FVCI allows foreign investors to make venture capital investments in India.  FVCI 
+investments are allowed in unlisted/to be listed companies. 
+
+iv. 
+
+ 
+
+Each  of  the  above  routes  has  a  different  set  of  regulations  governing  such  investments 
+giving  government/regulatory  authorities  the  ability  to  monitor  and  direct  flow  of  foreign 
+investment from different categories of investors to specific sectors / areas in the economy.  
+
+While the proposal to have harmonized/common route for foreign investors has merits, the 
+ability of government/regulatory authorities to monitor foreign investments from various kinds 
+of  investors  must  be  maintained.  Accordingly,  it  is  suggested  to  have  a  single  foreign 
+investor  category  where  there  would  be  common  norms  for  market entry,  limit  monitoring, 
+and  reporting.  However,  it  may  be  considered  to  have  segregations  of  investor  classes 
+along the lines of portfolio and direct, to enable government/regulatory authorities to make 
+investment guidelines and impose restrictions for different investor classes.  
+ 
+The  Committee  recommended  to  merge  FII,  Sub  Account  and  QFI  into  the  proposed 
+Foreign Portfolio Investor (FPI) regime.   
+ 
+The  Committee  felt  that  NRIs/PIOs  presently  have  a  liberal  route  for  accessing  securities 
+market.  NRIs/PIOs should continue to be viewed as a distinct market participant enjoying 
+certain privileges in terms of investment permissions not available to other foreign investors.   
+Accordingly, the Committee recommended to retain NRIs as a separate investor class with 
+the same limits as currently applicable. 
+ 
+The Committee felt that FVCI route has certain benefits such as non applicability of pricing 
+norms and relaxation from post IPO lock in requirement. These benefits have been given to 
+FVCI  route  to  promote  Venture  Capital  Investments.      Accordingly,  the  Committee 
+recommended  that  the  FVCI  as  an  investor  class  would  continue.      Additionally,  the 
+
+COMMITTEE REPORT 
+
+Page 33 
+ 
+
+Committee recommended that the current FVCI regime should be expanded to include more 
+sectors under its ambit as against the currently prescribed 9 sectors. Alternately a negative 
+list may be announced by GoI so that rest of the sectors are opened for VCF activity.  
+ 
+Further,  currently  FVCIs  can  invest  in  VCFs  under  the  erstwhile  VCF  Regulations  as  per 
+FEMA  Regulations  and  FDI  policy.    Further,  FDI  is  allowed  in  VCFs  set  up  as  trusts  on 
+approval  of  FIPB.    Pursuant  to  repeal  of  VCF  Regulations  and  notification  of  Alternate 
+Investment Funds (AIF) Regulations, necessary changes are required to be made to the FDI 
+policy  and  FEMA  Regulations  to  enable  foreign  investment  through  FVCI  and  FDI  routes 
+into  AIFs  under  the  AIF  Regulations.    The  Committee  recommends  that  FDI  policy  and 
+FEMA Regulations be suitable amended to enable foreign investment through FVCI and FDI 
+route in SEBI registered AIFs.  
+ 
+The  table  at  Annexure  II  depicts  the  existing  foreign  investment  structure  against  various 
+parameters, and the proposed harmonized route for the same parameters.  
+
+ 
+
+COMMITTEE REPORT 
+
+Page 34 
+ 
+
+5.1.1. 
+
+Foreign Portfolio Investor (FPI) 
+
+The Committee agreed with the recommendation to merge FII, Sub Account and QFI 
+into a new investor class to be termed as “Foreign Portfolio Investor” (FPI).   It was 
+felt  by  committee  members  that  the  term  “Qualified  Foreign  Investor”  (QFI)  may 
+cause confusion as there is already an investment route under PIS termed as QFI, 
+the framework for which was initially put in place in August 2011.   
+
+5.1.2. 
+
+Simplification of entry norms for FIIs, Sub Accounts, and QFIs 
+
+The committee recommended that there would not be direct registration with SEBI. 
+Instead, DDPs authorized by SEBI would register FPIs on behalf of SEBI subject to 
+compliance  with  KYC  requirements.    The  FPI  that  meet  the  prescribed  eligibility 
+criteria  shall  directly  approach  Designated  Depository  Participants  (DDPs), 
+authorised  by  SEBI.    The  DDPs  shall  perform  due  diligence  and  KYC,  before 
+registering FPI, on behalf of SEBI and allowing such entities to make investment in 
+permitted securities.  
+
+5.1.3. 
+
+Uniform entry norms for FPI 
+
+The FPI shall be defined as: 
+
+(i) Resident in a country whose securities market regulator is a signatory to IOSCO’s 
+MMOU (Appendix A Signatories) or a signatory of a bilateral MOU with SEBI 
+
+OR 
+
+(ii) In case of Bank, resident of a country whose central bank is a member of BIS   
+
+Provided that the person is not resident in a country listed in the public statements 
+issued by FATF from time to time on-(a) jurisdictions having a strategic Anti-Money 
+Laundering/ Combating the Financing of Terrorism (AML/CFT) deficiencies to which 
+counter  measures  apply,  (b)  jurisdictions  that  have  not  made  sufficient  progress  in 
+addressing the deficiencies or have not committed to an action plan developed with 
+the FATF to address the deficiencies: 
+
+Provided further such person is not resident in India: 
+
+Explanation.-For the purposes of this clause: 
+
+The term “person” shall carry same meaning under Section 2 (31)  of the Income Tax 
+Act, 1961; 
+
+ The phrase “resident in India” shall carry the same meaning as in the Income Tax 
+Act, 1961; 
+
+ “Bilateral  MoU  with  SEBI”  shall  mean  a  bilateral  MoU  between  SEBI  and  the 
+overseas regulator that inter alia provides for information sharing arrangements. 
+
+COMMITTEE REPORT 
+
+Page 35 
+ 
+
+All entities registered with SEBI as FIIs, Sub-accounts, and QFIs as on the effective 
+date, shall be deemed to be FPIs. 
+
+A list of eligible jurisdictions for FPIs and a list of countries which are declared “High-
+risk and non-cooperative jurisdictions” by FATF are annexed at Annexures IV and V 
+respectively. 
+
+5.1.4. 
+
+Categorization of FDI and Portfolio investment 
+
+The Hon’ble Finance Minister while presenting the Union Budget for the year 2013-
+14, inter-alia proposed to follow the international practice of categorizing FDI and FII, 
+where an investor has a stake of 10 percent or less in a company, it will be treated 
+as FII and, where an investor has a stake of more than 10 percent, it will be treated 
+as FDI.   
+ 
+To examine the feasibility of adopting above principle GoI, has constituted constitute 
+a separate committee namely “Committee for Rationalizing the Definition of FDI and 
+FII”, which would examine and work out the details of the application of the principle 
+internationally for defining FDI and FII. 
+
+The Committee recommended the following with respect to categorization of foreign 
+investment: 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+Portfolio investments to be defined as investments by any single investor 
+or  investor  group,  which  shall  not  exceed  10  percent  of  the  equity 
+securities including the future conversion of existing convertible securities 
+such  as  Compulsorily  Convertible  Debentures  (CCD)  Compulsorily 
+Convertible Preference Shares (CCPS) of Indian company.  
+
+Portfolio investment shall be permitted only in listed equity securities.  For 
+this  purpose,  listed  equity  securities  would  also  include  participation  by 
+FPIs  in  issues  such  as  Initial  Public  Offer,  Qualified  Institutional 
+Placement,  Institutional Placement Programme etc.  of  Indian  companies 
+as  well  as  tendering  shares  in  an  open  offer  or  buyback  announced  in 
+relation to shares of listed Indian companies. 
+
+The  prevailing  practice  where  private  placement  may  be  through  either 
+FPI  or  FDI  route  depending  on  the  nature  of  the  transaction  may  be 
+continued, even when such private placement results in a foreign investor 
+holding less than 10 per cent. 
+ 
+In  case  of  unlisted  company,  the  private  placement  shall  be  under  FDI 
+route.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 36 
+ 
+
+v. 
+
+vi. 
+
+In  circumstances,  where  the  listing  does  not  take  place  within  the 
+stipulated timeframe, such foreign investments shall be re-categorized as 
+FDI. 
+ 
+Investments  in  unlisted  securities,  regardless  of  the  level  of  ownership 
+that they represent, shall be regarded as FDI. 
+  
+
+vii.  Where there is an FDI investor, all equity holdings of such an investor in 
+the  concerned  company,  regardless  of the  manner  in  which  such  equity 
+holdings have been acquired, should be classified as FDI. 
+
+viii.  Where  an  investor  initially  acquires  less  than  10  percent  of  the  voting 
+equity  of  an  Indian  company  and  thereafter  acquires  additional  equity 
+which takes the investor’s aggregate holding to over 10 percent, in such a 
+scenario, all of the investor’s holdings should be classified as FDI. 
+
+ix.  Where an investor has FDI holdings in excess of 10 percent of the voting 
+equity  of  a  company  should  retain  its  FDI  classification  even  if  the 
+investor were to dilute his holding to a level below 10 percent of the voting 
+equity of the company. 
+
+x. 
+
+Investment classification and tracking could be accomplished through the 
+DDPs. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                    The  above  recommendations  of  the  Committee  will  be  provided  to  a  separate 
+committee constituted by the GoI namely “Committee for Rationalizing the Definition 
+of FDI and FII”.  
+
+ 
+
+5.1.5. 
+
+Risk Based Approach towards KYC 
+
+Keeping in view the global practice mainly prevailing in FATF countries, the budget 
+announcement  and  the  feedback  received  from  market  participants,  the  committee 
+recommended for adoption of risk based approach towards KYC where government 
+related FPIs would be subject to less stringent KYC norms and unregulated investors 
+would  have  to  undergo  stringent KYC  norms.  SEBI  would  separately prescribe  the 
+documentation needed for the three categories. 
+
+From  the  point  of  view  of  KYC,  the  committee  recommended  for  following 
+categorization of FPIs based on their perceived risk profile: 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 37 
+ 
+
+Category  Eligible Foreign Investors 
+
+I 
+
+II 
+
+III 
+
+Funds, 
+
+Central 
+
+Government 
+and  Government 
+related  foreign  investors  such  as 
+Foreign 
+Banks, 
+Governmental  Agencies,  Sovereign 
+Wealth 
+International/ 
+Multilateral Organizations/ Agencies  
+*Appropriately  regulated  broad 
+a) 
+based  funds  such  as  Mutual 
+Funds, 
+Trusts, 
+Insurance/Reinsurance 
+Companies, Other Broad Based 
+Funds etc. 
+
+Investment 
+
+ 
+b) 
+
+as 
+
+Banks, 
+
+*Appropriately regulated entities 
+Asset 
+such 
+Management 
+Companies, 
+Investment Managers/ Advisors, 
+Portfolio Managers etc.  
+
+ 
+c)  Broad  based 
+
+funds  whose 
+is 
+
+manager 
+
+investment 
+appropriately regulated 
+
+Perceived Risk Profile 
+ 
+Low Risk 
+ 
+As 
+these  entities  are  either 
+owned/  controlled  by  respective 
+government  they  are  perceived 
+to be low risk entities.  
+Moderate Risk 
+ 
+these  entities  are 
+Generally, 
+investment 
+either 
+vehicles  or 
+that 
+manage  portfolios  of  pooled 
+vehicles.    Since  these  entities 
+are  appropriately  regulated  in 
+their 
+home 
+jurisdictions  or  corpus  of  the 
+retirement 
+fund 
+benefits  of 
+the  employees/ 
+academic  research  etc.,  these 
+are  perceived  to  be  moderate 
+risk entities 
+
+institutions 
+
+respective 
+
+for  post 
+
+pooled 
+
+is 
+
+ 
+d)  University  Funds  and  Pension 
+
+Funds 
+
+ 
+e)  University  related  Endowments 
+already registered with SEBI as 
+FII/Sub Account 
+
+II 
+
+I  and 
+
+All  other  FPIs  not  eligible  under 
+Category 
+such  as 
+Endowments,  Charitable  Societies/ 
+Trust, 
+Corporate 
+Bodies,  Trusts,  Individuals,  Family 
+Offices, etc.  
+ 
+
+Foundations, 
+
+High Risk 
+ 
+Generally, these entities are not 
+regulated 
+respective 
+home jurisdictions, these entities 
+are  perceived  as  high 
+risk 
+entities. 
+
+their 
+
+in 
+
+*Appropriately  Regulated  is  meant  to  include  relevance  of  activity  i.e.  securities  market 
+regulations in case of an entity related to investment segment, capital market activities; and 
+the Banking Regulations in case of a banking entity.  
+
+The  detailed  recommendations  as  regards  to  KYC  documentary  requirements  are 
+described in the Annexure III. 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 38 
+ 
+
+5.1.5.1. 
+
+Categorization of Un-regulated Broad Based Funds 
+
+ 
+
+Presently a large proportion of FII investments come through Broad based funds, 
+which are unincorporated entities. These funds are floated in foreign jurisdiction 
+as  per  the  terms  of placement  memorandum  (PM)  issued for  each fund  by  the 
+fund manager. The PM is normally filed with the regulator in the home jurisdiction 
+of  the fund  / fund  manager.  In  most  such  cases,  the fund  manager  chooses  to 
+get registered with SEBI as FII while the funds are registered as SA of the FII. In 
+a few instances, the funds are themselves registered with SEBI as FII.  
+
+ 
+
+The committee recommended that if the Investment Manager of the investment 
+fund  falls  under  Category-II,  broad  based  funds  managed  by  such  Investment 
+Managers  should  also  be  categorized  in  the  same  category  of  its  Investment 
+Manager for the following reasons:   
+
+ 
+
+i. 
+
+Presently, a large proportion of the foreign portfolio investment comes 
+through  broad  based  funds  which  are  registered  by  SEBI  as  sub 
+accounts. Such sub-accounts may not necessarily be regulated in its 
+home jurisdiction. Therefore, in the proposed FPI regime, such broad 
+based funds would fall under Category-III and thus would be put in a 
+worse  off  position  than  of  present.  This  may  not  be  a  desirable 
+scenario.  
+
+ 
+
+ii. 
+
+Presently, these sub accounts are under FIIs, which are appropriately 
+regulated in their home jurisdictions.  
+ 
+
+This approach, of classifying the underlying unregulated fund vehicle as Category-
+II  (under  an  Investment  Manager  who  is  Category-II),  will  be  subject  to  the 
+following two conditions – 
+
+ 
+
+ 
+
+a.  Submission  of  undertaking  by 
+
+Investment  Manager 
+regarding  full  responsibility  for  the  actions  of  the  underlying 
+fund vehicle (on same lines as the extant FII undertaking for its 
+sub-accounts), and  
+ 
+
+the 
+
+b.  Fulfillment of the broad-based criteria, as prescribed in existing 
+
+SEBI (FII) Regulations, 1995, for the underlying fund vehicle.  
+
+Those funds which do not meet the broad based criteria, as prescribed by SEBI 
+(FII) Regulations, 1995, would fall in Category-III.   
+ 
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 39 
+ 
+
+ 
+
+ 
+
+5.1.6. 
+
+Other KYC Recommendations 
+
+5.1.6.1. 
+
+Amendments to PML Rules   
+
+It is recognized by the Committee that provisions of the PMLA, especially Rule 9 
+will  need  to  be  amended  in  order  to  give  full  legal  effect  to  the  changes  being 
+suggested to the KYC norms.  The suggested approach is to allow intermediaries 
+to  adopt  risk  based  documentation  rules,  as  the  PMLA  permits  risk  based 
+treatment. 
+  
+The sub-committee on KYC also met officials of Department of Revenue (DoR), 
+MoF  to  suggest  necessary  amendments  to  PML  Rules  including  the  issue  of 
+placing reliance on Global Custodian/Banks.  The suggestions made by the Sub 
+Committee on proposed amendments to PML (Maintenance of Records) Rules, 
+2005 is annexed at Annexure VI. 
+ 
+
+5.1.6.2. 
+
+Amendments to PAN cum KYC Form No. 49AA issued by 
+
+Central   Board of Direct Taxes.  
+
+ 
+The  committee  recommended  that  Central  Board  of  Direct  Taxes  (CBDT)  may 
+consider  carrying out  necessary amendments  to PAN  cum  KYC  Form 49AA  so 
+as to make the list of authorities, who can attest the documents, to be consistent 
+with SEBI circular no. MIRSD/SE/Cir-21/2011 dated October 5, 2011.   
+ 
+
+5.1.6.3. 
+
+ Reliance on Global Custodian/Banks 
+
+i. 
+
+ii. 
+
+It is a well established fact that a significant majority of foreign investors in 
+India come via Global custodians (GCs)/Banks.  A large number of foreign 
+investments in India, especially through the Portfolio Investment Scheme, 
+operate  through  authorized  agent  institutions  such  as  GCs.    Foreign 
+Institutional  Investors  (FIIs)  and  Sub-accounts  (End  clients)  appoint  such 
+GCs and typically execute a Power Of Attorney authorizing the GC to act 
+on  their  behalf  for  operating  their  accounts  in  India.  The  GCs  in  turn 
+appoint local custodians  in India for such End Clients  and operate all the 
+accounts  on  behalf  of  the  End  Clients  (FII/sub-account/  QFI),  based  on 
+instructions  received    from  them.  The  GCs/Banks  are  typically  large 
+international  banks,  subject  to  laws  and  regulations  in  their  home 
+jurisdictions  as  well  as  the  laws  and  regulations  in  the  countries  where 
+they  conduct business.  A  contractual  relationship  exists  between  the  GC 
+and the local custodian.  
+ 
+The  GCs/Banks  are  generally  incorporated  in  countries  that  adopt  FATF 
+standards  and  are  signatories  to  IOSCO  MMoU.  The  GCs/Banks  are 
+
+COMMITTEE REPORT 
+
+Page 40 
+ 
+
+iii. 
+
+iv. 
+
+therefore  generally  subject  to  KYC  and  AML  related  regulations  of  a 
+reasonably  high  standard,  typically  requiring  a  customer  identification 
+program and appropriate due diligence practices.  
+ 
+Where  feasible,  a  risk  based  approach  is  considered  for  lower  risk 
+customers  as  an  acceptable  practice  in  these  countries,  subject  to  local 
+regulatory  norms  permitting  the  same.  Further,  the  End  Clients  that form 
+the GCs/Banks customer base are primarily institutional investors who are 
+themselves  regulated  and  may  therefore  generally  be  considered  as  low 
+risk.  
+ 
+The  Indian  intermediary  may  be  permitted  to  rely  on  GCs/Banks  which 
+may furnish  a  declaration/comfort  letter  stating necessary  FATF  standard 
+due diligence procedures (AML & KYC related) have been followed at their 
+end  while  on  boarding  the  investor  and  are  updated  as  per  the  country 
+requirements. 
+
+5.1.6.4. 
+
+Risk Assessment 
+
+It is also recommended to issue guiding principles on risk profiling – low, medium 
+or high risk categorization – so that from a market perspective all intermediaries 
+are able to use objective market-standard criteria for risk classification. 
+ 
+
+5.1.6.5. 
+
+Updation of KYC documents  
+
+For updation, it is recommended to  follow a 2 year/ 5 year rule based on the risk 
+classification of the investor as per above i.e. 2 years for non low risk investors 
+and 5 years for low risk investors.  For the purpose of achieving updation, risk 
+category of the investor will be re-evaluated and the necessary documents will 
+be  refreshed  depending  upon  investor’s  risk  category.  In  case  the  FPIs  under 
+consideration  are  sourced 
+through  Global  Custodian/Banks,  necessary 
+declarations 
+the  Global  Custodian/Banks  will  be  refreshed.  Risk 
+categorization of the investors will also need to be re-affirmed at this stage. 
+
+from 
+
+5.1.6.6. 
+
+Continuous assessment of risk profile of FPIs 
+
+i.  The  committee  was  of  the  view  that  the  FPIs  would  be  subject  to  KYC 
+review as and when there is any change in material information/disclosure.  
+In  a  circumstance  where  change  in  information  results  in  change  of 
+category, the FPI would have to undergo KYC compliance as prescribed for 
+the category to which it now belongs. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 41 
+ 
+
+ii. 
+
+In addition to the above, it was also recommended that all FPIs would also 
+be subject to KYC review every two years. 
+
+5.1.6.7. 
+
+Requirement of Personal Identification documents for KYC 
+
+ 
+
+The requirement of submitting personal identification documents such as copy of 
+passport,  photograph  etc.  of  the  designated  officials  of  FPIs  belonging  to 
+Category I and Category II shall be done away with. 
+
+5.1.7. 
+
+Account Structure 
+
+i. 
+
+ii. 
+
+Each  FPI  will  be  allowed  to  open  one  demat  account  for  FPI 
+investments. 
+
+ Each  FPI  will  be  permitted  to open  bank  account  (s)  as  per  RBI 
+norms  (non-interest  bearing  rupee  account  and  foreign  currency 
+bank  account).  The  bank  accounts  must  be  maintained  with  a 
+DDP which is an Authorized Dealer Category 1 bank.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 42 
+ 
+
+6. Roadmap for Integration 
+ 
+
+6.1. Operational Requirements 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.1.1. 
+
+Role of Designated Depositary Participant (DDP) 
+
+It  will  be  mandatory  for  FPI  to  appoint  a  DDP.    The  DDP  would  perform  due 
+diligence and KYC of FPIs as per the stipulated norms. 
+ 
+It is suggested that the DDP shall meet the following eligibility criteria in order to 
+service FPIs.  
+ 
+
+i.  DDP to be a Custodian registered with SEBI. 
+
+ 
+
+ii.  DDP to be an Authorised Dealer category 1 bank as per RBI. 
+
+iii.  DDP to be a Depository Participant registered with SEBI. 
+
+iv.  DDP  to  have  multinational  presence  either  through  its  branches  or 
+through  agency  relationships  with  intermediaries  regulated  in  their 
+respected home jurisdictions.   
+
+v.  DDP  to demonstrate that  it  has  systems  and procedures  to  comply  with 
+the FATF Standards, Prevention of Money Laundering (PML) Act, Rules 
+and SEBI circulars issued from time to time; and 
+
+vi.  DDP  to  obtain  prior  approval  of  SEBI  before  commencing  the  activities 
+
+relating to opening of accounts of FPIs. 
+ 
+
+Based on  the experience gathered,  the  eligibility  criteria for  registration of  DDP 
+may be later reviewed by SEBI.  
+
+6.1.2. 
+
+Grandfathering Arrangements 
+
+i. 
+
+Presently, the  volume  of  assets held under  the  custody  of  custodians  is 
+much greater than the volume of assets held by QFI through QDPs. 
+
+ii. 
+
+The present entry norms for QDPs are not stringent. 
+
+ 
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 43 
+ 
+
+iii.  Out  of  the  59  QDPs  approved  by  SEBI,  only  six  QDPs  have  QFI 
+
+investments.  Out of these six QDPs, three are also custodians. 
+ 
+To avoid business discontinuity, it is recommended to grandfather all the 
+entities  which  are  presently  registered  with  SEBI  as  custodian  of 
+securities, as DDPs.  The existing QDPs authorised by SEBI currently not 
+meeting the proposed eligibility criteria may be allowed further time period 
+of one year to comply with the proposed eligibility requirement of a DDP.  
+Subsequently, if such QDPs fail to comply with the same, then they may 
+be required to surrender the authorization.  
+  
+It  is  recommended  that  all  existing  investments  held  by  the  foreign 
+investors  acquired  through  either  FDI  route  and/or  PIS  route  shall  be 
+grandfathered.  
+ 
+It  is  recommended  that  all  existing  entities  registered  with  SEBI  as  FII, 
+sub-account,  and  QFIs  as  on  the  effective  date,  shall  be  deemed  to  be 
+FPIs.  
+
+iv. 
+
+v. 
+
+vi. 
+
+ 
+
+6.1.3. 
+
+Obligations of DDPs 
+
+ 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+The  entities  having opaque  structure(s)  such that  the details of  ultimate/ 
+end beneficiary owners are not accessible or where the beneficial owners 
+are  ring fenced from  each  other  or  where  the  beneficial  owners are  ring 
+fenced with regard to enforcement shall not be allowed. 
+ 
+In case, the same set of ultimate/ end beneficial owner(s) invest through 
+multiple  entities,  such  entities  shall  be  treated  as  a  part  of  same  group 
+and  the  investment  limits  of  all  such  entities  shall  be  clubbed  at  the 
+investment  limit  as  applicable  to  single  investor.    For  this  purpose,  the 
+FPIs  should  consider  all  such  entities  having  direct  or  indirect  common 
+shareholding/ beneficial ownership/ beneficial interest of more than 50%, 
+as a part of their group.  The DDP shall ensure at the time of on boarding 
+the  foreign  portfolio  investor  whether  such  investor  forms  a  part  of  any 
+group. 
+ 
+In case of any direct/ indirect change in structure or beneficial ownership 
+of  the  FPIs,  it  shall  bring  the  same  to  the  notice  of  its  DDP  forthwith.   
+ 
+The investor shall, as and when required by the Government, SEBI or any 
+other  regulatory  agency  in  India,  submit  any  information,  record  or 
+documents in relation to his activities as a FPIs. An express undertaking 
+to this effect shall be obtained by DDP from the FPIs. 
+ 
+
+COMMITTEE REPORT 
+
+Page 44 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+v. 
+
+vi. 
+
+vii. 
+
+viii. 
+
+The  DDP  shall  ensure  that  equity  shares  held  by  FPIs  are  free  from  all 
+encumbrances including pledge or lien etc. at all times. 
+
+The  DDP  shall  require  FPI  to  submit  necessary  information  for  the 
+purpose of obtaining PAN. 
+ 
+The DDP shall ensure that all the investor related documents/ records are 
+available it. 
+ 
+In  case  of  any  penalty,  pending  litigations  or  proceedings,  findings  of 
+inspections or investigations for which action may have been taken or is 
+in  the  process  of  being  taken  by  an  overseas  regulator  against  FPIs/ 
+DDP,  the  DDP  shall  bring  such  information  forthwith,  to  the  attention  of 
+SEBI, depositories and stock exchanges. The DDP shall mandate the FPI 
+to  furnish  to  it  the  details  of  any  such  penalty,  pending  litigations  or 
+proceedings on an immediate basis as and when levied/initialed.  
+
+ix.  DDPs  shall  collect  and  remit  fees  to  SEBI,  as  prescribed  from  time  to 
+
+time. 
+
+ 
+
+6.1.4. 
+
+Market Entry 
+
+ 
+
+FPIs  would  not  require  direct  registration from  SEBI  and  they  would  be henceforth 
+subject to registration by DDP. Each investor may be permitted to open one demat 
+account for portfolio investments and a bank account as per RBI norms. In case of 
+jointly  held  demat  accounts,  each  of  the  joint  holders  shall  meet  the  requirements 
+specified for the investor and each shall be deemed to be holding a demat account 
+as an individual FPI. 
+
+ 
+
+ 
+
+6.1.5. 
+
+Order processing  
+
+Orders shall be placed directly by the FPI with SEBI registered Stock Brokers on the 
+same lines as the present framework applicable to FIIs.  
+
+ 
+ 
+
+6.1.6. 
+ 
+
+Trade Settlement 
+
+Appointment of DDP shall be mandatory for all categories of FPIs.   All settlement of 
+transactions by FPI must be done through DDP acting as a Custodian.   
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 45 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.1.7. 
+
+Eligible investments 
+
+ 
+
+FPIs  shall  be  permitted  to  transact  in  all  the  securities  where  FIIs  are  presently 
+permitted and any other instruments as permitted from time to time.  
+ 
+FPIs can hold securities only in dematerialized form.  All securities holdings by FPIs 
+must be through custodian of securities registered with SEBI. 
+
+ 
+
+6.1.8. 
+
+Other Guidelines 
+
+The Committee recommended the following broad operational guidelines.  However, 
+committee  was  also  of  the  view  that  the  detailed  operational  guidelines/framework 
+may be prescribed by SEBI from time to time. 
+
+ 
+The investor shall transact in Indian equity shares only on the basis of taking 
+and giving delivery of shares purchased or sold. 
+ 
+Each transaction shall be cleared and settled on gross basis. 
+
+i. 
+
+ii. 
+
+iii.  Committee  recommended  that  under  the  proposed  FPI  regime,  -  the 
+ODIs/PNs  issuer  FPIs  will  continue  to  report  directly  to  SEBI,  the  details  of 
+ODIs/PNs on a regular basis, as prescribed by SEBI. 
+
+iv.  Committee  recommended  that  under  the proposed  FPI  regime,  Category  III 
+FPIs  will  not  be  allowed 
+issue  PNs/ODIs.  The  committee  also 
+recommended that those broad based funds, belonging to Category II, which 
+are  not  directly  regulated  by  the  appropriate  regulator  in  their  home 
+jurisdiction, should not be allowed to issue ODIs/PNs.  The ODIs/PNs issuer 
+will continue to report directly to SEBI, the details of ODIs/PNs on a regular 
+basis, as prescribed by SEBI. 
+
+to 
+
+v.  Margins and risk management framework as applicable in the capital market 
+
+will apply. 
+
+6.1.9. 
+
+Investment Limits 
+
+ 
+
+i. 
+
+ii. 
+
+The Investor and DDP shall ensure that the total shareholding held by the FPI 
+shall not exceed 10% of paid up equity capital of the company at any point of 
+time.    
+ 
+This investment limit shall be applicable to each class of equity shares having 
+separate and distinct ISIN. 
+ 
+
+COMMITTEE REPORT 
+
+Page 46 
+ 
+
+iv. 
+
+iii.  Where  more  than  one  FPI  have  same  common  beneficial  owner,  all  such 
+FPIs shall be together treated as one FPI for the purpose of this investment 
+limit. 
+ 
+Aggregate  shareholding  of  all  FPIs  shall  not  exceed  the  lower of  (i)  24% of 
+the  paid  up  equity  capital  of  the    company  at  any  point  of  time  or  (ii)  the 
+sectoral  cap,  in  respect  of  each  equity  share  class  having  separate  and 
+distinct ISIN.  
+ 
+In  case  the  company  raises  their foreign ownership  limit  to  the  sectoral  cap 
+as  per  the  FDI  policy,  then  the  foreign  ownership  will  be  monitored  at  that 
+level.  
+ 
+The monitoring of investment limits at the individual level may be monitored 
+by the respective DDPs. 
+
+v. 
+
+vi. 
+
+6.1.10. 
+
+Dissemination of FPI Investment Data  
+ 
+
+Dissemination of FPI investment data shall be carried out by the depositories. 
+ 
+
+6.1.11. 
+
+Prohibited Sectors for Investments  
+
+Prohibitions imposed on foreign investments by FEMA, shall apply to FPIs. 
+ 
+
+6.1.12.  Generation and Allotment of Registration Number for the FPI 
+
+ 
+
+The committee discussed the matter and recommended that:   
+ 
+
+i. 
+
+The generation and allotment of registration number be done through a 
+common central system. 
+The system will remain under the control of SEBI. 
+
+ii. 
+iii.  DDPs will have access to the system. 
+iv. 
+v.  SEBI fees would be collected through DDP. 
+
+The system will generate a running sequence number. 
+
+6.2. Taxation Framework 
+
+ 
+
+ 
+
+ 
+
+The Committee discussed the present taxation framework for various portfolio investors.  It 
+is recommended that GoI may consider bringing more clarity and certainty while prescribing 
+the taxation provisions for FPIs. 
+ 
+ 
+   
+
+COMMITTEE REPORT 
+
+Page 47 
+ 
+
+6.3. Legal Requirements  
+
+ 
+
+The  process  for  evolving  an  integrated  policy  on  foreign  investments  would  entail  the 
+following amendments/modifications in the legal framework: 
+ 
+
+i. 
+
+ii. 
+
+FII  regulations  prescribed by  SEBI  and  QFI framework prescribed by SEBI  and 
+the RBI would be required to be repealed and replaced by a new framework for 
+FPIs.  
+ 
+FEMA  (Transfer  or  Issue  of  Security  by  a  Person  Resident  Outside  India) 
+Regulations,  notably  Regulations  5  (2),  5(6),  7A,  8  and  Schedule  2,  5,  8  and 
+other related provisions would have to be amended and replaced to prescribe the 
+permissible caps and investment levels applicable to foreign portfolio investor; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iii.  Necessary amendments in FEMA to replace references to FIIs with FPIs; 
+
+iv.  Necessary amendments to PML Rules; 
+
+v.  Necessary amendments in Income Tax Act, 1961;  
+
+vi.  General permission granted by RBI to FIIs dated December 17, 2003; 
+
+vii.  GoI guidelines dated September 14, 1992; 
+
+ 
+viii.  RBI's Foreign Exchange Management framework; 
+ 
+
+ix.  Necessary  amendment  to  the  following  regulations  are  needed  to  replaces 
+
+references to FIIs and QFIs and recognize the FPIs: 
+
+ 
+
+ 
+
+a.  Consolidated  FDI  Policy  dated  April  5,  2013  (more  particularly  paragraphs 
+2.1.14,  2.1.32,  3.1.4,  3.1.5,  3.1.7,  3.2.5(f),  3.6.2  (vi),  4.1.2,  6.2.7.5,  6.2.8.1, 
+6.2.8.2,  6.2.15.1.1.,  6.2.17.1,  6.2.17.2,  6.2.17.4.2,  6.2.17.4.3,  6.2.17.5, 
+6.2.17.6.,  6.2.19,  paragraphs  3  and  5  of  the  Format  of  Form  FC-GPR, 
+paragraphs  2.2,  2.3,  4,  5.1(iii)  and  (vii),  6.5  of  Annex  -2,  Format  of  Annual 
+Return on Foreign Liabilities and Assets, Form FC-TRS, Form DR; 
+ 
+
+b.  RBI  Master  Circular  on  Foreign  Investment  In  India  dated  July  2,  2012 
+(Section  II,  Section  IV  (3),  (5),  (6),  Section  V(6)  to  make  changes 
+corresponding  to  the  changes  in  the  Consolidated  FDI  Policy  in  relation  to 
+references to FIIs while calculating the sectoral cap); 
+
+ 
+
+c.  SEBI  (Issue  of  Capital  and  Disclosure  Requirements)  Regulations,  2009 
+
+(Regulations 2(za), 2(zb), 2(zd)(ii)); 
+
+COMMITTEE REPORT 
+
+Page 48 
+ 
+
+ 
+
+d.  SEBI  (Substantial  Acquisition  of  Shares  and  Takeovers)  Regulations,  2011 
+
+(Regulation 2(q)(2)(ix)); 
+
+ 
+
+e.  The SEBI Act, 1992 (Section 12(1A)) 
+ 
+
+To avoid too many individual legislative amendments, it is also suggested that a clause may 
+be introduced in the respective legislations stating that the term “FII” in the legislations shall 
+mean “FPI registered with DDP”. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 49 
+ 
+
+7. ANNEXURE 
+
+ 
+
+ANNEUXRE  I:    Regulatory  Requirements  and  Investment  Guidelines  of  the  Existing 
+Foreign Investment Routes 
+
+Regulatory Requirements and Investment Guidelines 
+
+Portfolio Investment Scheme (PIS) 
+
+Qualified Foreign 
+Investors 
+
+Non Resident 
+Indians (NRI) 
+
+Direct Portfolio 
+Investment 
+
+Direct Portfolio 
+Investment 
+
+No 
+required. 
+
+registration 
+
+Demat  Account  with 
+any  of  the  qualified 
+Depository 
+Participant 
+
+No  registration 
+required. 
+ 
+Demat 
+Account  with 
+Depository 
+Participant 
+(DP) 
+ 
+Trading 
+account  with 
+stock broker 
+
+Foreign 
+Venture 
+Capital 
+Investment 
+(FVCI) 
+ 
+
+Venture Capital 
+/Private Equity 
+Investments 
+(typically long 
+term) 
+
+Yes, 
+registration with 
+both  SEBI  and 
+RBI 
+but 
+channeled 
+through SEBI 
+
+Application 
+Fees: 
+US$2,500 
+(non-
+refundable)
+ 
+
+ 
+
+Registration 
+Fees: 
+US$10,000 
+(one time)  
+
+Particulars 
+
+ 
+
+Foreign Direct 
+Investment 
+(FDI) 
+
+Automatic 
+Route or FIPB 
+Route 
+
+Foreign 
+Institutional 
+Investors (FII) 
+& Sub 
+Accounts (SA) 
+
+Nature of 
+Investments 
+
+Strategic 
+Investments 
+(typically long 
+term) 
+
+Portfolio 
+Investments 
+(trading 
+activities) 
+
+Registration 
+required 
+
+No  registration 
+required. 
+
+case 
+
+of 
+in 
+
+In 
+investments 
+restricted 
+sectors, 
+investment 
+specific 
+approvals  need 
+to  be  obtained 
+from 
+the 
+Foreign 
+Investment 
+Promotion 
+Board 
+
+Yes, 
+registration 
+SEBI 
+with 
+(License  valid 
+perpetually) 
+
+Registration 
+Fees:  
+
+Each  FII:  US$ 
+5,000  (upfront 
+and 
+subsequently 
+every  3  years 
+to 
+maintain 
+registration) 
+
+Each  FII  Sub-
+Account:  US$ 
+1,000  (upfront 
+and 
+subsequently 
+concurrent with 
+the FII) 
+
+Financial 
+Instruments 
+permitted 
+
+•  Equity 
+
+•  Equity 
+
+•  Equity 
+
+(listed/to 
+
+•  Compulsorily 
+
+Convertible 
+Debts 
+
+(Primary 
+and 
+Secondary 
+Markets) 
+
+•  Listed 
+
+Corporate 
+
+be listed) 
+
+•  Corporate  Debt 
+be 
+
+(listed/to 
+listed) 
+
+•  Units  of  Mutual 
+
+Funds 
+
+•  Equity 
+
+•  Compulsoril
+
+y 
+Convertible 
+Debts 
+
+•  Equity 
+•  Units 
+
+Mutual 
+Funds 
+
+of 
+
+•  Debentures 
+ 
+
+Derivatives 
+(allowed 
+
+COMMITTEE REPORT 
+
+Page 50 
+ 
+
+Particulars 
+
+ 
+
+Foreign Direct 
+Investment 
+(FDI) 
+
+Automatic 
+Route or FIPB 
+Route 
+
+Portfolio Investment Scheme (PIS) 
+
+Qualified Foreign 
+Investors 
+
+Non Resident 
+Indians (NRI) 
+
+Foreign 
+Institutional 
+Investors (FII) 
+& Sub 
+Accounts (SA) 
+
+Foreign 
+Venture 
+Capital 
+Investment 
+(FVCI) 
+ 
+
+only on non 
+repatriable 
+basis and  
+
+Subscriptions/ 
+redemptions in 
+equity 
+and debt schemes of 
+Mutual Funds (MFs) 
+ 
+Primary Market 
+transactions 
+ 
+Secondary Market 
+transactions (on 
+exchange) 
+
+Primary 
+Placements 
+ 
+Private 
+Arrangement 
+ 
+Permitted to 
+sell on 
+recognized 
+securities 
+exchanges 
+
+Primary 
+Market 
+transactions 
+ 
+ 
+Secondary 
+Market 
+transactions 
+(on exchange / 
+private 
+arrangement 
+subject to RBI 
+guidelines) 
+ 
+
+Not Allowed 
+
+Not Allowed 
+
+Not Allowed 
+
+Page 51 
+ 
+
+Debt 
+
+•  G-Sec & T-Bills. 
+
+•  Exchange 
+
+•  Commercial 
+
+Papers 
+
+Traded 
+Equity 
+Derivatives 
+
+• 
+
+Interest 
+Rate 
+Futures 
+
+•  Security 
+Receipts 
+
+•  Government 
+
+Securities/ 
+STRIPS 
+
+•  Commercial 
+
+Paper 
+
+•  Units 
+
+of 
+
+Mutual 
+Funds 
+
+• 
+
+IDRs 
+
+•  Units 
+
+of 
+
+Collective 
+Investment 
+Schemes 
+
+Primary Market 
+transactions 
+ 
+Secondary 
+Market 
+transactions 
+(on exchange / 
+private 
+arrangement 
+subject to RBI 
+guidelines) 
+ 
+Investment in 
+Mutual Fund 
+schemes  
+
+Allowed within 
+the SLB 
+
+Primary 
+Placements 
+ 
+Sale on 
+recognized 
+securities 
+exchanges.  
+ 
+Purchases on 
+securities 
+exchanges not 
+permitted  
+Private 
+Arrangements 
+subject to RBI 
+guidelines 
+Not Allowed 
+
+Transactions 
+permitted 
+
+Short Selling 
+
+COMMITTEE REPORT 
+
+Portfolio Investment Scheme (PIS) 
+
+Foreign 
+Venture 
+Capital 
+Investment 
+(FVCI) 
+ 
+
+Qualified Foreign 
+Investors 
+
+Non Resident 
+Indians (NRI) 
+
+Foreign Direct 
+Investment 
+(FDI) 
+
+Automatic 
+Route or FIPB 
+Route 
+
+to 
+
+in 
+
+Ruling  market 
+price 
+for  sale 
+trades 
+on 
+recognized 
+securities 
+exchanges 
+ 
+Subject 
+Pricing 
+guidelines 
+for 
+all  off  market 
+trades / specific 
+as 
+approvals 
+accorded 
+by 
+the  concerned 
+statutory body.  
+ 
+Yes 
+the 
+extent  of  their 
+investments 
+/ 
+dividend 
+receivable 
+India 
+ 
+Forward 
+contracts  once 
+cancelled 
+cannot 
+rebooked 
+FIPB approval 
+required if the 
+investment is 
+made in non-
+approved 
+sectors. 
+
+be 
+
+to 
+
+Particulars 
+
+ 
+
+Pricing 
+Guidelines 
+
+FX Forward 
+Cover 
+
+Registration/Appr
+oval 
+Requirements 
+
+COMMITTEE REPORT 
+
+Foreign 
+Institutional 
+Investors (FII) 
+& Sub 
+Accounts (SA) 
+framework 
+issued by SEBI  
+Ruling  market 
+price  for  trades 
+on 
+recognized 
+securities 
+exchanges 
+ 
+Subject 
+Pricing 
+guidelines 
+for 
+all  off  market 
+trades / specific 
+approvals 
+
+to 
+
+to 
+
+debt 
+
+the 
+Yes 
+the 
+extent  of 
+market value of 
+their 
+/ 
+equity portfolio 
+ 
+Forward 
+contracts  once 
+cancelled 
+cannot 
+rebooked 
+
+be 
+
+FII: 
+
+•  FII  Form  A 
+
+(SEBI 
+prescribed 
+formats) 
+
+•  Declarations 
+
+& 
+Undertaking
+s  relating  to 
+PCC/  SPC/ 
+MCV 
+
+•  FII  Group 
+
+trades 
+
+Ruling  market  price 
+for 
+on 
+recognized  securities 
+exchanges 
+ 
+NAV  of  the  day  on 
+which 
+are 
+realized  in  the  MF’s 
+scheme 
+bank 
+account in India 
+ 
+
+funds 
+
+Ruling  market 
+price for trades 
+on  recognized 
+securities 
+exchanges 
+ 
+
+Mutually 
+acceptable 
+price  between 
+buyer 
+and 
+seller 
+ 
+Ruling  market 
+for  sale 
+price 
+trades 
+on 
+recognized 
+securities 
+exchanges 
+
+Not Applicable 
+
+Not Applicable 
+
+No  
+registration/approval 
+required 
+
+No  
+registration/ap
+proval required 
+
+to 
+
+In 
+of 
+
+Yes, 
+the 
+extent  of  total 
+inward 
+remittance. 
+case 
+outward 
+remittance,  the 
+amount  will  be 
+from 
+reduced 
+the 
+eligible 
+cover 
+
+A 
+
+•  Form 
+(SEBI 
+prescribed 
+formats) 
+
+•  Constitutive 
+Documents 
+including 
+Certification 
+of 
+registration 
+in 
+country 
+incorporatio
+
+the 
+of 
+
+Page 52 
+ 
+
+Particulars 
+
+ 
+
+Foreign Direct 
+Investment 
+(FDI) 
+
+Automatic 
+Route or FIPB 
+Route 
+
+Portfolio Investment Scheme (PIS) 
+
+Qualified Foreign 
+Investors 
+
+Non Resident 
+Indians (NRI) 
+
+Foreign 
+Institutional 
+Investors (FII) 
+& Sub 
+Accounts (SA) 
+
+Letter  
+
+•  Constitutive 
+Documents  
+
+•  Latest 
+
+audited 
+financials 
+covering  a 
+period  of  12 
+months  
+
+•  Regulatory 
+registration, 
+License  or 
+Approval 
+
+ 
+Sub 
+(SA): 
+
+Account 
+
+AA 
+
+•  Form 
+(SEBI 
+prescribed 
+format) 
+
+•  Declarations 
+
+& 
+Undertaking
+s  relating  to 
+PCC/  SPC/ 
+MCV 
+
+•  FII  Group 
+
+Letter 
+
+Bank Accounts in 
+India 
+
+Not permitted 
+
+to 
+Permitted 
+open 
+non-
+interest  bearing 
+Rupee  account 
+and 
+foreign 
+currency 
+account  with 
+
+Permitted 
+to  open 
+non-interest  bearing 
+Rupee account 
+
+to 
+Permitted 
+open 
+non 
+resident  rupee 
+bank  accounts 
+(NRO/ NRE) 
+
+COMMITTEE REPORT 
+
+Foreign 
+Venture 
+Capital 
+Investment 
+(FVCI) 
+ 
+
+n or bankers 
+certificate  or 
+income 
+tax 
+return 
+
+•  Structure 
+
+diagram  of 
+the 
+applicant 
+
+•  Declarations 
+
+on 
+
+and 
+undertaking
+s 
+investible 
+funds, 
+sectors 
+for 
+investment, 
+life  cycle  of 
+the  fund,  fit 
+and  proper 
+persons, 
+and so on 
+
+Investor’s 
+firm 
+commitment 
+letter 
+for 
+investing  at 
+least  USD  1 
+Million 
+
+• 
+
+•  Financial 
+
+statements 
+and 
+email 
+address  of 
+the 
+applicant 
+and 
+investor 
+
+the 
+
+to 
+Permitted 
+open 
+non-
+interest  bearing 
+Rupee  account 
+and 
+foreign 
+currency 
+account  with 
+
+Page 53 
+ 
+
+Portfolio Investment Scheme (PIS) 
+
+Particulars 
+
+ 
+
+PAN Card 
+
+KYC Procedure - 
+By whom 
+
+Investment 
+Restrictions 
+
+Foreign Direct 
+Investment 
+(FDI) 
+
+Automatic 
+Route or FIPB 
+Route 
+
+Required 
+
+AD-1 Bank 
+
+sectoral 
+
+Investment 
+upto 
+limits 
+prescribed  by 
+RBI; 
+ 
+ 
+
+Repatriation 
+benefits 
+
+Tax 
+computation 
+/ 
+certificate  from 
+the  appointed 
+tax  consultants 
+of the FDI 
+Form 
+15CA 
+and  Form  15 
+CB  under  the 
+IT Act 
+
+ 
+
+ 
+
+ 
+
+Foreign 
+Institutional 
+Investors (FII) 
+& Sub 
+Accounts (SA) 
+Category  AD-1 
+Bank 
+Required 
+
+AD-1  Bank 
+Local 
+Custodian 
+•  FII 
+
+/ 
+
+& 
+
+• 
+
+Broad 
+Based SA: 
+Investment 
+upto  10% 
+of  paid  up 
+equity 
+capital  of 
+investee 
+company; 
+ 
+
+•  Foreign 
+
+Corporate/ 
+Individual  - 
+Investment 
+upto  5%  of 
+paid 
+up 
+equity 
+capital  of 
+investee 
+company 
+
+Tax 
+computation 
+/ 
+certificate  from 
+the  appointed 
+tax  consultants 
+of the FII 
+
+Foreign 
+Venture 
+Capital 
+Investment 
+(FVCI) 
+ 
+
+Category  AD-1 
+Bank. 
+Required 
+
+Qualified Foreign 
+Investors 
+
+Non Resident 
+Indians (NRI) 
+
+Required 
+
+Required 
+
+Qualified  Depository 
+
+Participant 
+
+Depository 
+Participant 
+Stock Broker 
+
+/ 
+
+Bank/ 
+
+AD-1 
+Local 
+Custodian 
+
+i.  At 
+
+least 
+66.67%  of 
+the 
+investible 
+funds  shall 
+be  invested 
+in  unlisted 
+equity 
+shares 
+equity 
+linked 
+instruments.  
+
+or 
+
+Investment  upto 
+5%  of  paid  up 
+equity  capital  of 
+investee 
+company 
+
+• 
+
+ 
+
+•  All  QFIs  cannot 
+hold  more  than 
+10%  of  paid  up 
+equity  capital  of 
+investee 
+company 
+
+Investme
+nt  upto  of 
+5%  paid 
+up  equity 
+capital  of 
+investee 
+company 
+
+• 
+
+ 
+
+•  All  NRIs 
+
+cannot 
+hold more 
+than  10% 
+paid 
+up 
+equity 
+capital  of 
+investee 
+company 
+
+Investment made are 
+subject 
+repatriable, 
+to 
+payment 
+of 
+applicable taxes 
+
+on 
+
+can 
+NRIs 
+invest  through 
+designated 
+ADs, 
+repatriation 
+and 
+repatriation 
+basis,  subject 
+to  payment  of 
+applicable 
+taxes 
+
+non-
+
+Tax 
+computation / 
+certificate from 
+the appointed 
+tax consultants 
+of the FVCI 
+Form 15CA 
+and Form 15 
+CB under the 
+IT Act 
+
+COMMITTEE REPORT 
+
+Page 54 
+ 
+
+ANNEUXRE II:  Comparison of existing foreign investment structure and harmonized model 
+
+  
+
+  
+
+Market Entry 
+ 
+
+Eligible  Home 
+Jurisdiction  
+
+KYC 
+ 
+
+Investment 
+Restrictions 
+ -Equity 
+(Individual/ 
+Aggregate) 
+
+Existing Categories 
+
+Harmonised  
+Foreign Investor Route 
+
+FII 
+
+QFI 
+
+FVCI 
+
+NRI 
+
+FPI 
+
+SEBI 
+Registratio
+n 
+
+IOSCO  or 
+BIS 
+member 
+with  some 
+exceptions   
+Uniform 
+KYC 
+
+No 
+SEBI 
+Registration 
+(Account 
+with QDP) 
+
++ 
+
+FATF 
+IOSCO=45 
+countries  at 
+present 
+
+Uniform 
+KYC 
+
+SEBI 
+Registration and 
+RBI Approval  
+
+SEBI 
+
+No 
+Registration 
+and 
+Approval 
+
+RBI 
+
+SEBI 
+
+No 
+(Account with DDP) 
+
+Registration 
+
+All Jurisdictions   N.A. 
+
+IOSCO  Appendix  A  or  BIS 
+Member – FATF Negative  
+
+Uniform KYC 
+
+Uniform KYC 
+
+Risk based KYC 
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+10/24 
+
+5/10 
+
+Sectoral Cap 
+
+5/10 
+
+10/24 
+
+ - Debt 
+
+Limits 
+
+Limits 
+
+Corporate  Debt 
+of 
+issuer  
+companies, 
+where 
+having 
+holdings   
+
+FVCI 
+equity 
+
+Limits 
+
+Position 
+Limits 
+
+(Utilisation 
+
+Limits 
+monitored by Depositories) 
+
+to  be 
+
+Position Limits  
+
+AD 
+Bank to RBI 
+
+Cat-1 
+
+DDP to Depositories  
+
+and 
+
+NRI 
+Issuer 
+Company  
+
+DDP 
+
+ 
+Depositories 
+inter-alia 
+facilitate  dissemination  of 
+FPI investment data 
+
+to 
+
+FPI and DDP as a AD Cat-1 
+
+Bank 
+
+ 
+
+Sr. 
+No 
+
+ 
+
+ 
+1. 
+
+ 
+2. 
+
+ 
+3. 
+
+ 
+4. 
+
+ 
+5. 
+
+ 
+6. 
+
+ 
+7. 
+
+ 
+8. 
+
+9. 
+
+ 
+
+ -  Derivatives  
+
+Transaction 
+Reporting/ 
+Dissemination   
+ 
+
+Limit 
+Monit
+oring 
+ 
+
+Indivi
+dual 
+Level 
+
+Aggr
+egate 
+Level 
+
+Position 
+Limits 
+
+Not Allowed  Not Allowed 
+
+Custodian 
+to SEBI 
+
+QDP 
+Depository  
+
+to  
+
+Direct  Reporting 
+Net 
+of 
+Investment 
+by 
+FVCI to SEBI 
+
+FII  through 
+Custodian  
+
+QDP 
+
+N. A.   
+
+RBI 
+
+Depositary   RBI  
+
+RBI 
+
+Taxation 
+responsibility 
+ 
+
+FII through  
+AD Cat-1 
+
+Bank 
+
+QDP 
+
+FVCI through 
+AD Cat-1 Bank 
+
+NRI 
+
+Order 
+Placement 
+ 
+
+Order 
+Settlement 
+
+Broker  
+
+Custodian 
+
+Broker 
+through 
+QDP 
+Broker/ 
+Custodian  
+
+Broker  
+
+Broker 
+
+Broker  
+
+Custodian, 
+required  
+
+if 
+
+Broker/ 
+Custodian 
+
+DDP 
+
+COMMITTEE REPORT 
+
+Page 55 
+ 
+
+ANNEUXRE III:  DOCUMENTARY REQUIREMENTS FOR RISK BASED KYC 
+
+ 
+
+Document 
+Type 
+
+  
+
+SEBI Uniform KYC 
+Norm issued vide 
+Circular dated 
+September 05, 2012 
+(FII/ QFI) 
+
+Constitutive 
+
+Docs 
+
+Required 
+
+Required 
+
+Proof of 
+Address 
+
+Power of Attorney is 
+already acceptable as 
+
+address proof 
+
+PAN Card 
+
+Required 
+
+Category - I 
+
+Category - II  
+
+Category - III 
+
+Remarks 
+
+Required 
+
+Required 
+
+Required 
+
+Required 
+
+Power of Attorney, 
+
+mentioning the 
+
+Required 
+Power of 
+Attorney, 
+
+mentioning the 
+
+address , is already 
+
+address , is 
+
+acceptable as 
+address proof 
+
+Required 
+
+already 
+
+acceptable as 
+address proof 
+
+Required 
+
+Required 
+
+- Address proof 
+other than Power 
+of Attorney should 
+
+be submitted. 
+
+Required 
+
+- 
+
+- 
+
+PAN No. will be the 
+
+primary identifier number 
+
+of investor 
+
+The exemptions / 
+changes to seeking 
+
+financial documents is in 
+
+line with global best 
+
+practice.  
+
+Reliance on professional 
+intermediaries for AML 
+monitoring should be 
+
+permitted. 
+
+Acceptance of Board 
+Resolution will provide 
+
+the permissions / 
+
+authority granted by the 
+
+entity's Board of 
+
+Directors.  
+
+   This is also required 
+under RBI guidelines. 
+
+Entities should submit the 
+
+standard KYC form, as 
+
+there should be no 
+
+constraints to fill entity 
+level data. Relaxations 
+
+towards submitting 
+personal information 
+
+under the KYC form must 
+
+be provided. 
+
+This information iss 
+
+Financials 
+
+Risk based 
+
+Exempt 
+
+Exempt 
+
+Risk based 
+
+ - Financial data 
+
+sufficient. No 
+
+financial 
+
+documentation 
+
+Entity Level 
+
+SEBI 
+
+Registration 
+Certificate 
+
+Required 
+
+Not Applicable 
+under new FPI 
+
+regime 
+
+Not Applicable 
+under new FPI 
+
+regime 
+
+Not Applicable 
+under new FPI 
+
+regime 
+
+The FII registration 
+
+process at SEBI will no 
+
+longer be applicable. 
+
+Board 
+
+Resolution 
+
+Not Applicable 
+
+Exempt 
+
+Required 
+
+Not applicable to 
+
+Required 
+
+Individuals 
+
+KYC Form 
+
+Required 
+
+- Can be filled by GC 
+
+Required 
+
+Required 
+
+- required with 
+
+- required with 
+
+data, no 
+
+supportings 
+necessary 
+
+data, no 
+
+supportings 
+necessary 
+
+Required 
+
+- with data and 
+
+supportings 
+
+Senior 
+
+Management 
+
+(WTD/ 
+
+Partners/ 
+Trustees/ 
+
+etc.)  
+
+List 
+
+Required 
+
+- Alternately GC 
+
+provides Undertaking 
+
+Proof Of 
+Identity 
+
+Required 
+
+- Alternately GC 
+
+provides Undertaking 
+
+Proof of 
+Address 
+
+Required 
+
+- Alternately GC 
+
+provides Undertaking 
+
+Required 
+
+Required 
+
+Required 
+
+already forms part of KYC 
+
+Exempt 
+
+Exempt 
+
+Entity declares on 
+
+letterhead - full 
+name, nationality 
+
+and DoB OR 
+Photo-identity 
+
+proof' 
+
+form. 
+
+We recommend that the 
+requirement of obtaining 
+personal information and 
+documents of Directors/ 
+
+Governing board 
+
+members/ Trustees 
+should be removed.  
+
+Exempt 
+
+Exempt 
+
+Exempt 
+
+ 
+
+In case of Category III 
+
+COMMITTEE REPORT 
+
+Page 56 
+ 
+
+Document 
+Type 
+
+  
+
+SEBI Uniform KYC 
+Norm issued vide 
+Circular dated 
+September 05, 2012 
+(FII/ QFI) 
+
+Category - I 
+
+Category - II  
+
+Category - III 
+
+Remarks 
+
+Required 
+
+Photographs 
+
+- Alternately GC 
+
+Exempt 
+
+Exempt 
+
+Exempt 
+
+provides Undertaking 
+
+(unregulated entities) 
+
+necessary details of the 
+
+investing entity’s 
+
+Directors/ Governing 
+members/ Trustees 
+
+should be obtained on the 
+entity’s letterhead – which 
+
+should include Name, 
+
+Designation/Relationship 
+
+with entity,  Nationality 
+
+and Date of Birth.  
+
+ 
+
+It is pertinent to note here 
+
+that sharing personal 
+
+information is 
+
+discouraged in most 
+foreign jurisdictions. 
+
+ 
+
+Additionally, Refer Note 1 
+for permitting reliance on 
+
+regulated intermediary 
+
+KYC. 
+
+Required 
+- List of GC 
+
+Required 
+- List of GC 
+
+Required 
+- List of GC 
+
+signatories can be 
+
+signatories can be 
+
+signatories can be 
+
+Required 
+
+ -  
+
+given in case of POA 
+
+given in case of 
+
+given in case of 
+
+to GC 
+
+POA to GC 
+
+POA to GC 
+
+Not required  
+
+Not required  
+
+Not required  
+
+Required 
+
+Not required  
+
+Not required  
+
+Not required  
+
+Not required  
+
+Authorized 
+Signatories 
+
+List & 
+
+Signatures  
+
+Proof Of 
+Identity 
+Proof of 
+Address 
+
+Photographs 
+
+Not required  
+
+Not required  
+
+Not required  
+
+Required 
+
+List 
+
+Required 
+
+- Alternately GC 
+
+provides Undertaking 
+
+Exempt 
+
+Required 
+
+-  Can declare "no 
+UBO over 25%"  
+
+Required 
+
+Ultimate 
+Beneficial 
+
+Owner  
+
+Proof Of 
+Identity 
+
+Proof of 
+Address 
+
+Required 
+
+- Alternately GC 
+
+provides Undertaking 
+
+Required 
+
+- Alternately GC 
+
+provides Undertaking 
+
+Exempt 
+
+Exempt 
+
+Required 
+
+Exempt 
+
+Exempt 
+
+Exempt 
+
+Required 
+
+Photographs 
+
+- Alternately GC 
+
+Exempt 
+
+Exempt 
+
+Exempt 
+
+provides Undertaking 
+
+ -  
+
+ -  
+
+ -  
+
+is 
+
+& 
+
+ 
+
+provided 
+
+investors, 
+II 
+For  Cat 
+not 
+where  UBO 
+identifiable 
+no 
+percentage  declaration  is 
+possible,  then  details  of 
+senior  management  must 
+be 
+on 
+letterhead  - 
+full  name, 
+nationality  and  DoB  OR 
+Photo-identity proof' 
+We  recommend  that  the 
+requirement  of  obtaining 
+personal  information  and 
+of  UBOs 
+documents 
+should  be  removed 
+for 
+Cat I and Cat II investors.  
+ 
+ID  proof  can  be  accepted 
+for  Cat 
+facilitate 
+determination. 
+UBO 
+Indian 
+However, 
+intermediary  may 
+be 
+permitted  to  rely  on  the 
+foreign 
+professional 
+intermediaries 
+this 
+requirement also.  
+
+the 
+
+III 
+
+to 
+
+for 
+
+#  Copies  of  all  the  documents,  wherever  applicable,  to  be  submitted  by  the  applicant  should  be  self-
+attested  and  accompanied  by  originals  for  verification.  In  case  the  original  of  any  document  is  not 
+produced for verification, then the copies should be properly attested by entities authorized for attesting 
+the documents, as per the SEBI circular no. MIRSD/SE/Cir-21/2011 dated October 5, 2011.  
+
+COMMITTEE REPORT 
+
+Page 57 
+ 
+
+ANNEUXRE IV:  (This has been excised) 
+ 
+ANNEUXRE V:  COUNTRIES CATEGORIZED AS “HIGH RISK AND NON-COOPERATIVE 
+JURISDICTIONS BY FATF 
+
+FATF High-risk and non-cooperative jurisdictions 
+ 
+As per the latest FATF Public Statement 22 Feb 2013 available on FATF website following 
+countries are considered as “High-risk and non-cooperative jurisdictions”: 
+ 
+
+ 
+
+1.  Iran 
+2.  Democratic People’s Republic of Korea 
+3.  Ecuador  
+4.  Ethiopia  
+5.  Indonesia  
+6.  Kenya  
+7.  Myanmar  
+8.  Nigeria  
+9.  Pakistan  
+10. São Tomé and Príncipe  
+11. Syria  
+12. Tanzania  
+13. Turkey 
+14. Vietnam  
+15. Yemen  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 58 
+ 
+
+        ANNEUXRE VI:  (This has been excised for reasons of confidentiality) 
+
+         ANNEUXRE VII:  LIST OF COMMITTEE MEMBERS 
+
+Name of the 
+Official 
+
+Designation  
+
+Shri K. M. 
+Chandrasekhar 
+
+Former Cabinet 
+Secretary, GoI 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Sr. No.  Committee Members  
+
+Shri K. M. Chandrasekhar, Ex 
+Cabinet Secretary, Government of 
+India (GoI), Chairman of the 
+Committee.  
+
+Dept. of Revenue, Ministry of 
+Finance, GoI 
+
+Shri Madan Lal 
+Meena 
+
+ Joint Secretary 
+(Revenue) 
+
+Ministry of Overseas Indian Affairs, 
+GoI 
+
+Shri Atul Kumar 
+Tiwari 
+
+Joint Secretary 
+(Financial Services 
+Division) 
+
+Dept. of Economic Affairs, Ministry 
+of Finance, GoI 
+
+Shri Sanjeev 
+Kaushik 
+
+Director (External 
+Markets) 
+
+Reserve Bank of India 
+
+Shri R. N. Kar 
+
+Chief General Manager  
+
+AZB & Partners 
+
+Ms. Zia Mody 
+
+Senior Partner 
+
+BMR Advisors Pvt. Ltd. 
+
+Shri Bobby 
+Parikh 
+
+Managing Partner 
+
+Luthra & Luthra Law Offices 
+
+Shri Rajeev 
+Luthra 
+
+Founder and Managing 
+Partner   
+
+PricewaterhouseCoopers Pvt. Ltd. 
+
+Shri Ketan Dalal 
+
+Joint Tax Leader 
+
+10 
+
+National Stock Exchange of India 
+Limited  
+
+Ms. Chitra 
+Ramkrishna 
+
+MD & CEO 
+
+11 
+
+BSE Ltd. 
+
+Mr Ashish 
+Chauhan 
+
+MD & CEO 
+
+12 
+
+13 
+
+14 
+
+15 
+
+National Securities Depository 
+Limited 
+
+Shri Gagan Rai  Managing Director 
+
+Central Depository Services (India) 
+Limited 
+
+Shri P. S. Reddy 
+
+CEO 
+
+ 
+
+HDFC Bank Limited 
+
+Shri Aditya Puri  MD & CEO 
+
+Deutsche Bank AG 
+
+ 
+
+Shri Mrugank 
+Paranjpe 
+
+MD 
+
+COMMITTEE REPORT 
+
+Page 59 
+ 
+
+Sr. No.  Committee Members  
+
+16 
+
+Citibank N.A.  
+
+Name of the 
+Official 
+
+Shri Sudeep 
+Yadav 
+
+17 
+
+HSBC Bank (Mauritius) Limited 
+
+Shri Kapil Seth 
+
+18 
+
+SBI-SG Global Securities Services 
+Ltd.  
+
+Shri C. R. 
+Sasikumar 
+
+Designation  
+
+MD & Head, 
+Citi Transactions 
+Services 
+Head, India 
+HSBC Securities 
+Services  
+
+MD & CEO 
+
+19 
+
+Infosys Technologies Ltd.  
+
+20 
+
+Reliance Industries Ltd.  
+
+Shri V. 
+Balakrishnan 
+
+Shri Soumyo 
+Dutta 
+
+Board Member 
+
+Treasurer 
+
+21 
+
+BlackRock Singapore Limited 
+
+Shri S. Nagnath  President and Chief 
+
+Investment Officer, DSP 
+BlackRock 
+
+22 
+
+Amansa Capital Pte Ltd.  
+
+23 
+
+Link Intime India Pvt. Ltd. 
+
+Shri Akash 
+Prakash 
+
+Shri M. V. 
+Ramnarayan 
+
+CEO 
+
+Director 
+
+ 
+
+Members of Sub Committee on KYC 
+
+Members  of  Sub  Committee  on  Treatment 
+
+of Foreign Investments 
+
+1.  Shri SV Muralidhar Rao 
+
+2.  Shri R N Kar 
+
+3.  Ms. Chitra Ramkrishna  
+
+4.  Shri Ashish Chauhan 
+
+5.  Shri P.S. Reddy 
+
+6.  Shri Mrugank Paranjpe 
+
+7.  Shri Sudeep Yadav 
+
+8.  Shri Kapil Seth 
+
+9.  Shri C. R. Sasikumar,  
+
+10. Shri Akash Prakash 
+
+ 
+
+COMMITTEE REPORT 
+
+ 
+
+ 
+
+1.  Shri SV Muralidhar Rao 
+
+2.  Shri R N Kar 
+
+3.  Shri Sanjeev Kaushik  
+
+4.  Shri Bobby Parikh 
+
+5.  Ms. Zia Mody 
+
+6.  Shri S. Nagnath 
+
+7.  Shri Ketan Dalal 
+
+Page 60 
+ 
+
+ 
+LIST OF ABBREVIATIONS 
+ 
+
+1.  Anti-Money Laundering (“AML”) 
+2.  Anti-Money Laundering/ Combating the Financing of Terrorism (AML/CFT) 
+3.  Assets Under Custody ("AUC") 
+4.  Authorized Dealer Category 1 bank ("AD-1 bank") 
+5.  Bank for International Settlements ("BIS") 
+6.  Central Board of Direct Taxes (“CBDT”) 
+7.  Compulsorily Convertible Debentures (“CCD”)  
+8.  Compulsorily Convertible Preference Shares (“CCPS”) 
+9.  Department of Revenue ("DoR") 
+10. Depository Participants (“DPs”) 
+11. Designated Bank Branches ("DBBs") 
+12. Designated Depository Participants ("DDPs") 
+13. Domestic Venture Capital Fund (“DVCF”) 
+
+ 
+
+14. Financial Action Task Force (“FATF”) 
+
+15. Follow On Public Offer ("FPO") 
+16. Foreign Direct Investment (“FDI”) 
+17. Foreign Exchange Management Act (“FEMA”) 
+18. Foreign Institutional Investor (“FII”) 
+19. Foreign Investment Promotion Board (“FIPB”) 
+20. Foreign Portfolio Investor ("FPI") 
+21. Foreign Venture Capital Investor (“FVCI”) 
+22. Global Custodians ('GCs") 
+23. Government of India (“GoI”) 
+24. Indian Depository Receipts (“IDR”) 
+25. Initial Public Offer ('IPO") 
+26. International Organization of Securities Commissions ("IOSCO") 
+27. International Securities Identification Number ("ISIN") 
+28. Indian Venture Capital Undertaking ("IVCU") 
+29. Know Your Client/Customer (“KYC”) 
+30. Ministry of Finance ("MoF") 
+31. Multilateral Memorandum of Understanding ("MMOU") 
+32. Mutual Funds (“MFs") 
+33. Non Designated Bank Branches (“NDBBs”) 
+34. Non-Banking Financial Companies (“NBFC”) 
+35. Non-resident External (“NRE”)  
+36. Non-Resident Indian (“NRI”) 
+37. Non-Resident Ordinary (“NRO”)  
+
+38. Offshore Derivatives Instrument (“ODI”) 
+39. Offer for Sale ("OFS") 
+40. Organisation for Economic Co-operation and Development (“OECD”) 
+41. Participatory Notes (“PNs”) 
+42. Pass Through Certificates (“PTC’s”) 
+
+COMMITTEE REPORT 
+
+Page 61 
+ 
+
+43. Protected Cell Company/Segregated Portfolio Company/Multi Class Share Vehicle 
+
+("PCC/ SPC/ MCV") 
+
+44. Permanent Account Number (“PAN”) 
+45. Persons of Indian Origin (“PIO”) 
+46. Portfolio Investment Scheme (“PIS”) 
+47. Power of Attorney ("POA") 
+48. Prevention of Money Laundering Act (“PMLA”) 
+49. Institutional Placement Programme ("IPP").   
+50. Qualified Depository Participant ("QDP") 
+51. Qualified Financial Investor (“QFI”) 
+52. Reserve Bank of India (“RBI”) 
+53. Issue of Capital and Disclosure Requirements ("ICDR")  
+54. Securities and Exchange Board of India (“SEBI”) 
+55. Security Receipts ("SRs") 
+56. Sovereign Wealth Fund ("SWF") 
+57. Special Non-resident Rupee Account ("SNRA") 
+58. Sub Accounts ("SAs") 
+ 59. Ultimate Beneficial Owner ("UBO") 
+60. Unique Client Code ("UCC") 
+61. Working Group on Foreign Investment in India ("WGFI") 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMMITTEE REPORT 
+
+Page 62 
+ 
+
+

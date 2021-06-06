@@ -1,0 +1,86 @@
+
+ 
+Jun 25, 2013
+
+PR No.:  
+60/2013
+
+
+The SEBI Board met in Mumbai today and took the following main decisions: 
+
+1. Amendments to SEBI (Buy Back of Securities) Regulations, 1998 governing buy-back through open market purchase
+As part of SEBI's constant endeavour to align regulatory requirements with the changing market realities as well as to enhance efficiency of the buy-back process, the following changes to buyback of shares or other specified securities from the open market through stock exchange mechanism have been approved:
+(i)    The mandatory minimum buy-back has been increased to 50% of the amount earmarked for the buy-back, as against existing 25%, failing which amount in the escrow account would be forfeited subject to a maximum of 2.5% of the total amount earmarked.
+(ii)  The maximum buy-back period has been reduced to 6 months from 12 months.
+(iii) The companies shall create an escrow account towards security for performance with an amount equivalent to at least 25% of the amount earmarked for buy-back.
+(iv) The company shall not raise further capital for a period of one year from the closure of the buy-back except in discharge of subsisting obligations as against the existing 6 months.
+(v)  The company shall not make another buy-back offer within a period of one year from the date of closure of the preceding offer.
+(vi)  The disclosure requirements have been rationalized requiring disclosure of the shares bought back on a cumulative basis on the website of the company and the stock exchange, only on a daily basis instead of the current requirement of disclosure on daily, fortnightly and monthly basis.
+(vii)   The companies can buy-back 15% or more of capital (paid-up capital and free reserves) only by way of tender offer.
+(viii)  Procedure for buy-back of physical shares (odd-lot) has been modified which includes creation of separate window in the trading system for tendering the shares, requirement of PAN/Aadhaar for verification, etc.
+(ix) The companies are permitted to extinguish shares bought back during the month, within fifteen days of the succeeding month subject to the last extinguishment within seven days of the completion of the offer.
+(x)  The promoters of the company shall not execute any transaction, either on-market or off-market, during the buy-back period.
+ 
+2.         Enabling Listing of Start-Ups and SMEs on Institutional Trading Platform (ITP) without having to make an IPO: - 
+Lack of exit opportunities for the existing investors and restricted access to new investors is one of the problems faced by Start-Ups and SMEs. With a view to provide  easier exit options for informed investors like  Angel Investors, VCFs and PE  etc. to provide better visibility, wider investor base and greater fund raising capabilities to such companies, the Board approved the proposal to amend the SEBI (ICDR) Regulations to permit listing of Start-ups and SMEs in Institutional Trading platform (ITP) without having to make an IPO.
+Such companies eligible to be listed on this ‘Institutional Trading Platform’ shall be accessible for investment to the informed investors only. Therefore the minimum amount for trading or investment on the ITP will be Rs 10 lakh. These companies shall be exempted from the requirements of rule 19(2)(b) of SC(R)R 1957 under which companies have to offer upto 25% of its shareholding to public through an offer document in order to get listed.  Therefore the listing can be done without an IPO and the expenses associated with it. While such companies are listed on the ITP they will not be permitted to raise capital though they can continue to make private placements.
+Listing on ITP by Start-Ups and SMEs is expected to offer their existing investors better chances to find alternate buyers than if they search using their own network in the investment community. Standardized norms of entry for companies, eligibility criteria, continuous disclosure requirements, simplified exit rules and corporate governance norms will be prescribed.
+ 
+3.  Committee on Rationalization of Investment Routes and Monitoring of Foreign Portfolio Investments.
+SEBI in its Board meeting discussed the report of the “Committee on Rationalization of Investment Routes and Monitoring of Foreign Portfolio Investments”, under the Chairmanship of Shri K. M. Chandrasekhar, former Cabinet Secretary, Government of India (GoI).
+The Board accepted the recommendations  of the Committee which, inter alia, include: 
+i.          Simplified and uniform entry norms for foreign investors by merging existing  FIIs, Sub Accounts and Qualified Foreign Investors (QFIs) into a new investor class to be termed as “Foreign Portfolio Investors” (FPIs). 
+ii.         In order to make the procedure much simpler, prior direct registration of FIIs and Sub Accounts with SEBI be done away with. Instead, DDPs authorized by     SEBI would register FPIs on behalf of SEBI subject to compliance with KYC  requirements.
+iii.        Risk Based Approach towards Know Your Client (KYC) – From the point of  KYC, the Committee recommended for categorization of FPIs into three categories.
+            a.      Category I  - which would include Government and Government  related entities such as Foreign Central Banks, Sovereign Wealth Funds, Multilateral Organizations etc.
+            b.      Category II - which would include regulated entities such as Banks, Asset Management Companies, Broad Based Funds such as Mutual Funds, Investment Trusts, Insurance and Reinsurance Companies, University Funds, Pension Funds and University related Endowments already registered with SEBI.
+            c.      Category III – All other FPIs not eligible to be included in the  above two Categories.
+The approach to KYC will be risk based.  The documents needed for registration and onboarding would be the simplest for Category I and  most stringent for Category III.
+The requirement of submitting personal identification documents such as copy of passport, photograph etc. of the designated officials of FPIs belonging to Category I and Category II shall be done away with.
+iv.  Portfolio investments to be defined as investment by any single investor or investor group, which shall not exceed 10% of the equity of an Indian company.     Any investment beyond the threshold of 10% shall be considered as Foreign Direct Investment (FDI).  
+            While accepting the recommendations of the committee the Board decided that the recommendations concerning SEBI would be implemented by SEBI and it would refer the other recommendations to Government of India for implementation.
+ 
+4. Amendments to SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2009 relating to preferential issue 
+With a view to enhance transparency, ensure adequate audit trail and apply lock-in for the shares allotted in preferential issues, the Board approved the following:
+(i)    Preferential issue shall be subscribed only through the allottee’s own bank account. Further, the issuing company shall disclose the ultimate beneficial owner of allotted shares.
+(ii)  Allotments in preferential issues shall only be made in dematerialized form.
+(iii) Shares allotted in the preferential issue shall not be transferred till trading approval is granted for such shares by the stock exchanges. Further, the lock-in period shall commence on the date of such trading approval.
+ 
+5.  Proposed amendment in Securities and Exchange Board of India(Stock-Brokers and Sub-Brokers) Regulations, 1992 with respect to debt segment on stock exchanges
+ i.         Pursuant to SEBI circular dated January 24, 2013, Debt Segment has been  introduced on NSE and MCX-SX to provide for trading, clearing, settlement,           reporting etc of trades in debt instruments.
+ii.         After introduction of Debt Segment on exchanges, market feedback indicated  need for further clarity and ease of participation as the debt segment is in  nascent stage of evolution and needs further impetus to bring it at par with the other segments of the Exchange. In view of market this, the Board considered and approved the following proposals:
+(a)  For membership of debt segment, the net worth of regulated entities shall be computed as specified by  their sectoral regulator.
+(b)  In respect of stockbrokers or clearing members/ self clearing members who are already members of clearing corporation, no additional deposit shall be required. For those entities who are not already a stock broker/ clearing member/ self clearing member and seek to be clearing members/ self clearing members of the debt segment, the deposit requirement shall be Rs.10 lakhs. This requirement may be reviewed after a period of five years.
+(c) Similarly, in respect of stockbrokers or clearing members/ self clearing members who are already members of clearing corporation, no annual fee shall be payable for taking membership of debt segment of clearing corporation. Any new entity which does not have membership as stock broker/ clearing member/ self clearing member in any segment and seeks membership on debt segment of clearing corporation for the first time,  annual fee of rupees fifty thousand shall be applicable every financial year till its registration  is in force.
+ 
+6.  Single Self Regulatory Organization (SRO) for Distributors of Mutual Fund Products
+The Board approved the proposal to have single SRO for Distributors of Mutual Fund Products after following a fair and transparent procedure. Further, in order to facilitate the recognition of single SRO for Distributors of Mutual Fund Products and to avoid delay, it has been decided to have a cut off time for accepting applications for being recognized as SRO.
+
+7. Amendment to SEBI (Mutual Fund) Regulations, 1996, regarding direct trading in debt segment of Stock Exchanges 
+The Board has approved the proposal to permit the asset management companies managing schemes of mutual funds to take membership of debt segment of stock exchanges under 'Proprietary Trading Member' (PTM) category. However, this will be only to undertake trades directly on behalf of such schemes managed by them.
+ 
+8. Amendment to SEBI (Mutual Fund) Regulations, 1996, regarding appointment of custodian belonging to the same group
+Presently, mutual funds are not allowed to appoint a custodian belonging to the same group, if the sponsor of the mutual fund or its associates hold 50 per cent or more of the voting rights of the share capital of such a custodian or where 50 per cent or more of the directors of the custodian represent the interests of the sponsor or its associates.
+The Board has decided that the custodian in which the sponsor of a mutual fund or its associates are holding 50 percent or more of the voting rights of the share capital of the custodian, would be allowed to act as custodian subject to fulfilling the following conditions i.e. (a) the sponsor should have net worth of atleast Rs.20,000 crore at all points of time, (b) 50 per cent or more of the directors of the custodian shall be those who do not represent the interests of the sponsor or its associates, (c) neither the custodian nor the asset management company of a mutual fund shall be a subsidiary of each other, (d) no person shall be a director of both the custodian and the asset management company of a mutual fund and (e) the custodian and the asset management company of a mutual fund shall sign an undertaking that they will act independently of each other in their dealings with the schemes.
+ 
+9.  Limited purpose membership to mutual fund distributors 
+The Board decided to allow Mutual fund distributors to take limited purpose membership of Stock Exchange with lesser financial and compliance burden to use infrastructure of Stock Exchanges for distribution & redemption of Mutual Fund Units.
+To reduce the financial and compliance burden on these limited purpose members requirements such as SEBI registration, compliance as member of stock exchange, paid up capital and Base Minimum Capital etc, would not be applicable. However stock exchanges may prescribe suitable eligibility criteria in this regard including net worth requirements, membership fee etc. This limited purpose membership would be granted on the basis of ARNs, granted to Mutual Fund Distributor by AMFI.
+Further to address the possible risk of default by these limited purpose members, they will not be allowed to handle pay in and pay out of funds as well as units on behalf of investor. Pay in & payout of funds & units would be directly from/ to the account of the investors.
+10.  Amendments to the Securities Contracts (Regulation) Act, 1956 and Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2012
+The CPSS-IOSCO (Committee on Payment and Settlement Systems – International Organisation of Securities Commissions) Principles for Financial Market Infrastructures (FMIs) require that there should be a clear legal basis regarding (i) when settlement finality (defined as point of time after which a settlement is final and irrevocable) occurs, (ii) netting and (iii) the right of an FMI to use and dispose of, collateral, notwithstanding bankruptcy or insolvency of its participants or their clients. The same has been identified as gaps in the legal framework governing operations of Clearing Corporations in India by the Financial Stability Assessment Program (FSAP) assessment of India.
+In order to address the same and to provide sound legal basis for netting, settlement finality and right of Clearing Corporations over collaterals, the Board approved the proposal to appropriately amend the Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2012.  The Board also decided to propose to the Government amendments to the Securities Contracts (Regulation) Act, 1956 to further strengthen the clearing and settlement framework.
+11.       Amendments to SEBI (Alternative Investment Funds) Regulations, 2012
+I.          Giving effect to the announcement in Budget for FY 2013-14 by  Union Finance Minister on angel investor pools, the Board approved amendments to SEBI (Alternative Investment Funds) Regulations, 2012 (“AIF Regulations”) thereby  providing a framework for registration and regulation of angel pools under a sub-   category 'Angel Funds' under Category I- Venture Capital Funds.
+II.         Salient features of 'Angel Funds' as approved by the  Board are as under:
+                      i.  'Angel Funds' shall be included in the definition of "Venture Capital Funds" under the SEBI (Alternative Investment Funds) Regulations, 2012.
+                    ii.   Individual angel investors shall be required to have early stage investment experience/ experience as a serial entrepreneur/ be a senior management professional with 10 years experience. They shall also be required to have net tangible assets of atleast Rs. 2 crore. Corporate angel investors shall be required to have Rs. 10 crore net worth or be a registered AIF/VCF.
+                   iii.   Angel Funds shall have a corpus of atleast Rs.10 crore (as against Rs. 20 crore for other AIFs) and minimum investment by an investor shall be Rs. 25 lakh (may be accepted over a period of maximum 3 years) as against Rs. 1 crore for other AIFs. Further, the continuing interest by sponsor/manager in the Angel Fund shall be not less than 2.5% of the corpus or Rs. 50 lakh, whichever is lesser.
+                    iv.  For ensuring investments are genuine angel investments, angel funds shall invest only in investee companies which:
+                         a. are incorporated in India and are not more than 3 years old; and
+                         b. have a turnover not exceeding Rs.25 crore; and
+                         c.  are unlisted, and
+                         d.  are not promoted, sponsored or related to an Industrial Group whose group turnover is in excess of Rs.300 crore, and
+                         e. has no family connection with the investors proposing to invest in the company.
+                    v.  Further, investment in an investee company by an angel fund shall be not less than Rs.50 lakh and not more than Rs.5 crore and shall be required to be held for a period of at least 3 years.
+

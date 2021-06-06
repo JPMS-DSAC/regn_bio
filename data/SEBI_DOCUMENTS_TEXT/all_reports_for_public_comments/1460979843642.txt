@@ -1,0 +1,465 @@
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+Consultation Paper on Distribution of Cash Benefits through Depositories 
+
+For investments in various securities, investors receive cash benefits such as dividend, 
+
+interest and redemption payments.  At present, cash benefits are distributed directly by 
+
+issuer  companies  to  the  investors  mostly  through  their  Registrar  and  Transfer  Agents 
+
+(RTAs). Though this model has worked  fine, there is further scope for  improvement in 
+
+the  areas  related  to  efficient  tracking  of  payment,  having  a  consolidated  view  of  all 
+
+benefits received, non-payment and delayed payment, updation of investor bank details, 
+
+disclosure  of  unpaid  cash  benefits,    etc.  In  order  to  further  enhance  the  investor 
+
+experience and to make securities market more efficient, SEBI is considering a proposal 
+
+for distribution of cash benefits through depositories. It is proposed to seek the views of 
+
+various stakeholders and public on the proposal in order to take an informed decision.  
+
+Background  
+
+In India, although distribution of non-cash benefits such as bonus, rights, amalgamations, 
+
+demergers, sub-division etc are handled through depositories, cash benefits are handled 
+
+outside  the  depository  system.  Depositories  provide  details  of  shareholders  and 
+
+bondholders  including  name,  address  and  bank  details  to  the  respective  issuer 
+
+companies which, in turn, arrange for distribution of cash benefits.  
+
+Issues in the current process 
+
+All cash benefit distributions are being processed outside the depository system. Thus, 
+
+no  information  is  available  in  the  demat  account  with  respect  to  entitlement  of  cash 
+
+benefits and payment of the same to the investors. 
+
+In case any investor requires any information  or has a complaint with respect to above 
+
+benefits, they are required to approach the respective issuer companies or their Registrar 
+
+& Transfer Agents (RTAs) which may be inconvenient to the investors.  
+
+The issues that investors may be facing are as under: 
+
+ 
+
+ 
+
+Page 1 of 7 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+1.  Tracking of payments: It may be difficult for the investors to track whether they have 
+
+received  all  the  cash  benefits  due.  Investors  need  to  track  the  corporate 
+
+announcements for the benefits due to them and correlate the same with bank credits 
+
+to  understand  if any  credits  are  missing.  Investor  can  only  see  a  credit  in his  bank 
+
+statement  and  the  narration  is  often  incomplete  for  the  investor  to  understand  the 
+
+nature of credit. In case of missing or wrong bank details, the investor is despatched 
+
+a physical warrant. In case of any problem with the warrant or revalidation, the investor 
+
+is required to contact the issuer company or RTA. 
+
+2.  Consolidated  statement  for  all  cash  benefits  received:  Investors  do  not  get  a 
+
+consolidated statement of all cash benefits due and paid to them. Depositories cannot 
+
+provide  such  a  statement  as  they  do  not  have  the  information.  Investors  need  to 
+
+engage in culling out such details by browsing  through their bank statements when 
+
+such information is needed, for example, for tax filings. 
+
+3.  No alerts: Unlike in the case of non-cash corporate actions where depositories send 
+
+SMS alerts, investors may not get SMS alerts or email alerts for cash benefits paid to 
+
+them.  
+
+4.  No  correlation  with  demat  transactions:  In  the  case  of  bonds  and  other  debt 
+
+instruments, securities may be debited from the client’s account by the issuer/RTA but 
+
+at the same time the redemption payment may not have been received by the investor. 
+
+An  investor  needs  to  track  and  ensure  that  he  has  indeed  received  redemption 
+
+proceeds and contact the issuer/RTA in case of any problem. 
+
+5.  No tracking of invalid bank details: When electronic credit  to the investor’s bank 
+
+account  fails,  such  information  is  only  available  at  the  issuer  company/  its  RTA.  In 
+
+such cases, Issuer Company delivers a physical warrant to the investor. It is also not 
+
+uncommon where investor receives electronic credit from one company, but does not 
+
+get electronic credit from another company, despite his bank details being the same. 
+
+Besides, every individual company will independently attempt to send electronic credit 
+
+ 
+
+ 
+
+Page 2 of 7 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+since it is not aware that such credit has failed in other companies and thus the bank 
+
+details may not be correct.  
+
+6.  No  tracking  of  returned  undelivered:  Warrants  despatched  by  issuer  companies 
+
+may be returned undelivered due to address of client not being updated. There is no 
+
+central tracking of the same, as the information is only available with each company/ 
+
+its RTA. 
+
+7.  Information on unpaid dividend on company website: To check unpaid dividend 
+
+information, an investor needs to visit websites of each company.  
+
+8.  No  central  monitoring:  As  currently  all  information  related  to  cash  benefit  and 
+
+redemption proceeds distribution is handled by Issuer Company or RTA, there is no 
+
+central  information  available  to  monitor  the  same.  There  is  no  independent  way  to 
+
+check whether the company has indeed distributed all the cash benefits and followed 
+
+legal provisions including timelines. 
+
+9.  Investor  inconvenience:    With  the  demat  system,  for  all  transactions  such  as 
+
+transfer, demat and remat requests, address and contact details change, nomination 
+
+and  transmission,  etc,  the  investor  is  no  longer  required  to  approach  each  issuer 
+
+company  or  its  RTA.  All  such  transactions,  service  requests  and  changes  can  be 
+
+carried out at a single place, viz., the Depository Participant  (DP) where the demat 
+
+account  is  held.  In  the  case  of  cash  benefits,  for  any  information  or  complaint, 
+
+investors have to contact the Issuer company or its RTA. 
+
+Proposal  
+
+All cash benefits including dividend, interest and redemption proceeds may be distributed 
+
+by depositories in the case of all securities held in demat form. Issuers may be required 
+
+to transfer the total amount due to clients of each depository to that depository, which is 
+
+also the registered holder of such securities. The depository in turn will distribute the same 
+
+to its beneficial owners. In respect of securities held in physical form, the issuer company 
+
+may continue to handle the distribution of cash benefits.  
+
+ 
+
+ 
+
+Page 3 of 7 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+Advantages of distribution through Depositories 
+
+A.  Benefits to Investors 
+
+1.  Single record of all cash benefits received by investor in his account: Investors 
+
+will be able to get a consolidated statement of all the cash benefits due to them and 
+
+credited,  along  with  all  details  such  as  announcement  date,  dividend  rate,  amount 
+
+due, date of credit to bank account, bank transaction reference, etc. Demat account 
+
+statement can thus become a single record of all details with respect to cash benefits 
+
+such  as  entitlement  of  cash  benefit,  details  of  credit  received  in  bank  account,  tax 
+
+deducted at source, etc. 
+
+2.  Simplified monitoring: As all details related to cash benefits are available at a single 
+
+place, monitoring of the same will become easy for the investor. For example in case 
+
+of non-receipt of some cash benefits, investor will easily be able to identify from his 
+
+demat account statement. In fact, such missed payments would be minimised as there 
+
+will be central monitoring by the depository. Investors will also be able to easily view 
+
+which companies in their portfolio are paying dividend, the rate of dividend and which 
+
+companies are not paying dividend. 
+
+3.  Immediate alerts: Investors can receive directly from the depository SMS or email 
+
+alerts on cash benefits distributed, just as in the case of other transactions. 
+
+4.  Shorter  turnaround  time  for  receiving  cash  benefits:  As  majority  of  cash 
+
+distribution will be carried out in electronic form, investor will get cash benefits in short 
+
+time.  Further,  in  case  of  any  rejection  of  electronic  credit,  DP  will  also  be  able  to 
+
+approach investor for updation of bank details so that investor can get credit directly 
+
+to his bank account electronically.  
+
+5.  Better enforcement of fixed pay date: In order to enable investors to manage their 
+
+cash/securities  flows  efficiently  and  to  enhance  process  transparency,  SEBI  had 
+
+mandated  companies  to  have  a  pre-announced  fixed  pay  date  for  payment  of 
+
+ 
+
+ 
+
+Page 4 of 7 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+dividends. With depositories  crediting directly,  better enforcement  of fixed  pay  date 
+
+can be achieved. Investors will be able to expect credit of dividend on specified dates. 
+
+6.  No  need  for  safe-keeping  of  paper  related  to  cash  benefits:  As  details  of  cash 
+
+benefits will become part of demat account statement, investors will not be required 
+
+to maintain papers related to cash benefits. Investors will be able to view these details 
+
+as and when required.  
+
+7.  Updation of bank details: In case of failure to credit electronically due to invalid or 
+
+absent bank details, such accounts  can be tagged and efforts  can be made by the 
+
+depository to contact the client and get updated details. Information can be provided 
+
+to DPs to contact the client and update the details.  Investors can also be informed 
+
+through SMS and email alerts. Messages will be included in the Consolidated Account 
+
+Statement  and  demat  statement.  This  will  facilitate  achievement  of  the  goal  to 
+
+eventually have all cash benefits credited electronically. 
+
+8.  Investor convenience: As information of cash benefits for all issuers will be available 
+
+centrally in depository system, for any query related to cash  benefits,  investor can 
+
+contact his DP who will able to provide the necessary details instead of approaching 
+
+various issuers.  
+
+B.  Benefits to Issuers 
+
+1.  The need to maintain separate infrastructure to maintain cash benefit information will 
+
+reduce.  For  example,  today  in  the  case  of  companies  whose  shares  are  held  in 
+
+dematerialised  form,  no  infrastructure  is  required  on  part  of  issuer  companies  to 
+
+maintain shareholder data. Similarly, all information related to cash benefits including 
+
+paid, unpaid details will be  available  in the depository system for  the companies to 
+
+download as and when required.  
+
+2.  At present, each  issuer  appoints  banker for distribution  of  cash  benefits  and  sends 
+
+communication  to  its  each  shareholder  about  credit  of  cash  benefits  separately.  In 
+
+case cash benefit distribution is carried out by depository, there may be economies of 
+
+ 
+
+ 
+
+Page 5 of 7 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+scale. Depositories will also send SMS or email alerts to investors instantaneously. All 
+
+information of cash benefits will be available in demat account statements which are 
+
+sent to investors at defined frequency. Therefore, issuers will not be required to send 
+
+communication to each shareholder separately saving on the costs.  
+
+3.  As complete data is available in depository system, reconciliation will be simplified and 
+
+automated for the issuers.  Compliance with obligations of distribution, disclosure of 
+
+unclaimed cash benefits, and transfer of unclaimed benefits to Investor Education and 
+
+Protection  Fund  etc  under  Companies  Act  can  be  automatically  ensured  through 
+
+market infrastructure.  
+
+Public comments  
+
+1.  In order to take into consideration views of various stakeholders, public comments are 
+
+invited on the consultation paper with respect to following issues.  
+
+a)  Do you think investors will benefit from this proposal? 
+
+Yes   
+
+ 
+
+No    
+
+ 
+
+b)  Do you think time taken in distribution of cash benefits will get reduced and better 
+
+enforcement of pay date can be achieved?   
+
+Yes   
+
+ 
+
+No    
+
+ 
+
+c)  Do you think it will become convenient for investors for tracking cash benefits?   
+
+Yes   
+
+ 
+
+No    
+
+ 
+
+d)  Do  you  think  that  it  will  ease  the  burden  on  issuers  and  reduce  reconciliation, 
+
+servicing and compliance costs?  
+
+ 
+
+ 
+
+Page 6 of 7 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+Yes   
+
+ 
+
+No    
+
+ 
+
+e)  Do you think depositories should handle distribution of cash benefits only for demat 
+
+holdings or whether the depositories should handle distribution for all holdings i.e. 
+
+demat as well as physical holdings?   
+
+Only for Demat Holdings 
+
+ 
+
+For Demat as well as Physical Holdings 
+
+ 
+
+f)  Any other comment: 
+
+2.  In addition to the above, you may provide your comments / suggestions by May 05, 
+
+2016 on the proposal which may be emailed to cashbenefits@sebi.gov.in or sent by 
+
+post, to:-  
+
+Susanta Kumar Das  
+
+Deputy General Manager 
+
+Market Regulation Department  
+
+Securities and Exchange Board of India  
+
+SEBI Bhavan Plot No. C4-A, "G" Block,  
+
+Bandra Kurla Complex, Bandra (East), Mumbai - 400 051 
+
+ 
+
+ 
+
+Page 7 of 7 
+
+

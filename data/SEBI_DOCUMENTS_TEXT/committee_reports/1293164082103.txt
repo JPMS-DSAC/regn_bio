@@ -1,0 +1,2210 @@
+REPORT OF THE RECONVENED COMMITTEE ON
+
+SUBSTANTIAL ACQUISITIONS OF SHARES AND
+
+TAKEOVERS UNDER THE CHAIRMANSHIP OF
+
+JUSTICE P. N. BHAGWATI
+
+MAY 2002
+
+SECURITIES AND EXCHANGE BOARD OF INDIA
+
+Page 1 of 41
+
+PREFACE
+
+The  previous  report  of  the  Committee  while  making  its  recommendations  had
+concluded by observing that no Rule, no Regulation, indeed no Law, which deals
+with  dynamically  evolving  economic  situation  and  circumstances  and  seeks  to
+resolve  constantly  varying  economic  interests  and  problems  in  -a  fast  growing
+economy, can possibly hope to have a permanent – not even a long ending life.
+With new ideas and new experiences, the law must move forward.  It cannot be
+allowed  to  stagnate,  for  stagnation  is  death.    This  observation  was  no  mere
+rhetoric.  The truth of this observation became evident within a short time of the
+coming into force of the SEBI (Substantial Acquisition of Shares and Takeovers)
+Regulations, 1997.
+
+The SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 1997
+dealt primarily with issues such as consolidation of holdings, conditional offers,
+change in control, formation of Takeover Panel, competitive offers, and not the
+least  important  increased,  investor  protection.    Numerous  new  provisions  were
+included in the Regulations with a view to dealing with these issues.  During the
+course of administration of the Regulations, it was observed by SEBI that by and
+large  these  provisions  served  well  in  fulfilling  the  object  and  purpose  of
+harmonising interests of economic growth with those of investor protection.  The
+Regulations in fact spurred takeover activity as evidenced by the large number of
+public  offers,  cases  of  automatic  exemption  and  references  to  the  Takeover
+Panel under the provisions of the Regulations during the years following upon the
+coming into force of the Regulations.
+
+However,  it  was  found  as  a  result  of  the  experience  of  the  working  of  the
+Regulations  that  some  provisions  were  open  to  diverse  interpretations  while
+some  others  were  not  sufficiently  precise  and  could  be  used  to  achieve
+unintended results.  Moreover, new challenges in the light of on-going economic
+reforms,  which  arose  consequent  on  liberalisation,  needed  to  be  satisfactorily
+met.  The challenges were accentuated in view of the irreversible integration of
+the Indian economy in general and the capital market in particular with the world
+markets.        It  was,  therefore,  realised  that  in  order  to  make  the  Regulations
+efficient and effective for achieving the object and purpose for which they were
+made  as  also  to  meet  the  challenges  resulting  from  economic  reforms  and
+liberalisation, it was necessary to take a fresh look at the Regulations and make
+a dispassionate, well informed review of the provisions of the Regulations in the
+light  of  the  experience  gained  as  a  result  of  working  the  Regulations,  so  as  to
+better  subserve  investor  interest,  consistent  with  fostering  economic  growth.
+The need for review of the Regulations arose as early as June 1998.
+
+Page 2 of 41
+
+SEBI,  with  a  view  to  addressing  these  concerns,  reconstituted  the  same
+Committee, which was instrumental in drafting the 1997 Regulations.  The terms
+of reference of the Committee are:-
+
+1. 
+2. 
+
+To review the working of the Regulations
+To consider suitable suggestions for further refinement of the Regulations
+in the light of experience gained so far.
+
+The Committee comprised of the following members:-
+
+Justice P.N. Bhagwati – Chairman
+
+Chambers of Commerce & Industry were represented by:-
+Shri  Bipin  Jhaveri,  representing  Associated  Chambers  of  Commerce  and
+Industry (Assocham).
+Shri  Adi  B.  Godrej  (upto  December  2000)  and  Shri  N.  A.  Soonawala  (from
+December 2000) representing Confederation of Indian Industry (CII)
+Shri R.S. Lodha, representing Federation of Indian Chambers of Commerce and
+Industry (FICCI)
+
+Institute of Chartered Accountants of India was represented by its President,
+Shri Rahul Rai (upto February 1999), Shri S P Chhajed (from March 1999 to
+February 2000), Shri G Sitharaman (from March 2000 to February 2001),
+Shri N D Gupta (from March 2001 to February 2002) and Shri Ashok Chandak
+(from March 2002).
+
+Stock  Exchanges  were  represented  by  the  Executive  Director  of  The  Stock
+Exchange,  Mumbai,  Late  Shri  M  G  Damani  (upto  January  2000),  Shri  A  Rathi
+(from January 2000 to March 2001) and Shri A.N. Joshi (from April 2001).
+
+Legal Experts were represented by:-
+Shri J.R. Gagrat of Gagrat & Co.
+Shri R.A. Shah of Crawford Bayley & Co.
+Shri Shardul S. Shroff of Amarchand & Mangaldas & Suresh A. Shroff & Co.
+
+Investors Associations were represented by:
+Prof. Manubhai Shah, representing Consumer Education and Research Centre
+Prof.  M.D.  Limaye  representing  Lokmanya  Seva  Sangh  (Shri  Limaye  however
+did not attend any of the meetings citing personal reasons).
+
+Merchant Bankers were represented by
+Shri Nimesh Kampani, Chairman, JM Morgan Stanley Pvt. Ltd.
+Shri Shitin Desai, Vice Chairman & Managing Director, DSP Merrill Lynch Ltd.
+Shri Udayan Bose, Chairman, Lazard India Limited
+
+Page 3 of 41
+
+Shri Vallabh Bhansali, Enam Financial Consultants Pvt. Ltd.
+(Special Invitee)
+
+SEBI was represented by:
+Shri O.P. Gahrotra, Ex Senior Executive Director (upto February 2001)
+Shri Pratip Kar, Executive Director
+Shri R.M. Joshi, Executive Director
+Ms. D.N. Raval, Executive Director and Member Secretary
+
+The  Committee  discussed  and  considered  several  issues  which  were  initially
+raised  before  it  but  it  did  not  restrict  itself  only  to  those  issues.    Other  issues
+which arose while the deliberations of the Committee were going on were also
+considered by it. Further, the Committee also had an intensive and wide ranging
+interaction with a variety of market participants such as parties who made hostile
+bids as also those who responded to such bids, Financial Institutions, Regional
+Investors Association, etc. to understand their perspective and obtain the benefit
+of their opinions on the various issues considered by the Committee.
+
+The  incredibly  large  variety  of  views  of  number  of  participants  compelled  the
+Committee  to  extend  its  original  time  schedule.    This,  combined  with  an  ever
+increasing  number  of  contemporary  issues  raised  in  various  fora  called  for
+serious consideration and necessarily involved that more time would be required
+by the Committee for completion of its deliberations and submission of its Report.
+However, the Committee noted with satisfaction that while its Report was awaited
+with eagerness, there was a general feeling that it would contribute greatly to the
+value  of  the  Report  if  all  participants  were  heard  and  the  report  took  into
+consideration  their  views  and  opinions.    This  would  go  a  long  way  in
+guaranteeing  that  the  Regulations,  while  having  a  strong  base,  would  also  be
+inherently flexible so as to be able to meet the challenges thrown up by vibrant
+pulsating economy and ever changing scenario.  It is with this objective in mind
+that  the  Committee  has  drafted  this  Report  and  the  amendments  to  the
+Regulations.
+
+Mumbai
+May 7, 2002
+
+Justice P N Bhagwati
+
+Page 4 of 41
+
+1.
+1.1
+
+1.2
+
+Takeover Panel
+The Committee was informed that The Panel set up by SEBI in terms of
+Regulation  4(1)  for  examining  applications  for  exemption  and  to  give
+recommendations has been in operation since April 11, 1997. The Panel
+consists of eminent people drawn from various fields who meet regularly
+and have given valuable inputs to the decision making process of SEBI on
+exemption cases. The Panel had as on 31.3.2002 considered and given
+recommendations  in  120  cases  and  SEBI  had  in  almost  all  cases
+accepted the recommendations of the Panel. The Panel has thus helped
+in setting healthy precedence.
+
+The Committee was further informed that certain issues have been raised
+with  regard  to  the  procedure  being  followed  while  granting  exemption.
+These relate to, inter alia, request for hearing by the Panel, right of SEBI
+to remit  the case back to the Panel either in the light of fresh facts brought
+before SEBI at the time of hearing or otherwise etc. The members of the
+panel have expressed an opinion that there should be some provision in
+the Regulations requiring certification of the facts given in the exemption
+application.  This is required so that the Panel could satisfy itself that the
+statements made in the application are true. Further, during the course of
+the  Committee’s  meetings,  issues  such  as  whether  the  Panel  could
+consider  cases  which  may  not  fall  within  the  parameters  given  in  the
+Regulation  3,  whether  the  Panel  should  include  representatives  of
+investors / industry associations, whether the Regulations should provide
+for reference to the Panel in matters of application / interpretation of the
+Regulations etc. came up for deliberation.
+
+1.3
+
+The  Committee  considered  the  various  issues  raised.    The  Committee
+noted that there are certain issues which are purely procedural and others
+which  require  consideration  by  the  Committee.  While  opining  that  the
+existing  procedure  may  continue,  the  Committee  recommended  certain
+changes.    The  decisions  of  the  Committee  in  this  regard  as  well  as  the
+rationale are as follows:
+
+1.3.1 Constitution of the Panel
+
+The  Committee  noted  that  the  Panel  comprises  of  eminent  persons
+appointed from amongst persons referred to in subsection 5 of Section 4
+of  SEBI  Act.    This  ensures  that  the  objectives  of  the  SEBI  Act,  more
+particularly  investor  protection,  are  taken  care  of.    The  Committee  also
+noted  that  currently  the  Panel  comprises  of  a  former    member  from  the
+judiciary.
+
+On behalf of Consumer Education and Research Centre, Shri Manubhai
+Shah  submitted  that  the  Panel  shall  have  adequate  representation  from
+investor protection groups i.e. not less than 1/3rd of the total strength of the
+Panel.
+
+Page 5 of 41
+
+The  Committee  recommends  that  the  constitution  of  the  Panel  may
+be  left  to  SEBI.    The  Committee  also  recommends  that  the  present
+practice of including a former member of the judiciary in the Panel be
+continued.  As  regards  the  terms  of  appointment,  the  Committee
+recommends that the term of each member shall be for 3 years and
+the member will be eligible for reappointment.
+
+1.3.2 Scope of the Panel
+
+The  Committee  discussed  the  issue  regarding  grant  of  exemption  in
+circumstances not covered under clause (a) to (k) of sub-Regulation 1 of
+Regulation 3 of the Regulations.
+
+The  Committee  recommends  that  the  scope  of  the  Panel  may  be
+enhanced  by  deleting  the  word  “such”  appearing  in  Regulation
+3(1)(l). However, the Committee also recommends that the scope of
+the  Panel  cannot  be  extended  to  relax  the  conditions  which  are
+stipulated as part of regulatory provisions.
+
+the 
+
+the  Panel 
+
+recommendation  of 
+
+On  seeking 
+in  matters  of
+application/interpretation  of  the  Regulations,  the  Committee  is  of  the
+opinion  that  it  will  be  beneficial  to  seek  the  opinion  of  an  expert  and
+independent  body  before  passing  appropriate  directions.  Since  the
+Regulations already have the mechanism of a panel in place, the role of
+the panel may be expanded towards this end.
+
+The Committee, therefore, recommends that the Regulations may be
+amended to make a provision for enabling SEBI to make reference to
+the Panel for interpretation of the Regulations.
+
+1.3.3   Hearing by the Panel
+
+The  Committee  held  discussions  with  the  members  of  the  Panel.  The
+Panel stated that wherever information provided by the applicant is found
+to  be  insufficient  or  where  additional  information  is  required,  the  Panel
+seeks necessary information from the applicant through SEBI and arrives
+at a recommendation only when sufficient facts are made available. The
+Panel also opined that since the Panel is recommendatory in nature and
+SEBI, before passing final orders, gives an opportunity for hearing to the
+applicant,  and  also  remits  back  the  application  where  considered
+necessary, the need for giving a hearing by the Panel may be superfluous
+and could lead to delay. The Committee recommends that the Panel may
+not  be  required  to  grant  hearing  to  the  applicant  but  may  seek  further
+information where considered necessary.
+
+Page 6 of 41
+
+1.3.4 Remitting back the applications to the Panel
+
+The  Committee  was  of  the  opinion  that  where  fresh  facts  are  made
+available to SEBI at the time of hearing, it would be in order for SEBI to
+remit the case back to the Panel for reconsideration in view of the fresh
+facts. 
+
+While  the  SEBI  may  not  give  their  views  on  each  proposal,  any  earlier
+view taken by SEBI in the matter should be made known to the Panel, the
+rationale being the Panel should have full and complete information in the
+matter while considering and making its recommendations.
+
+The Committee recommends that the Panel should have the benefit
+of  all  correspondence  in  respect  of  the  matter  before  them  for
+consideration.
+
+1.3.5 Certification of facts in the application
+
+Certification of facts is necessary as the exemption is granted based on
+facts  as  set  out  in  the  application;  this  needs  to  be  certified  so  as  to
+facilitate  action,  if  any,  that  may  be  necessitated  if  the  facts  given  on
+application are proved to be false at a later date.
+
+The  Committee  recommends  that  the  facts  given  in  the  application
+should be certified through an affidavit and where a company makes
+the  application,  the  authority  of  the  person  making  the  application
+should  be  backed  by  a  board  resolution  or  a  valid  authorization  by
+the board.
+
+1.3.6 Communication of Panel’s recommendations to the applicant
+
+Communication of reasons for rejection of application by the Panel would
+give the applicant an opportunity to properly  present his case at the time of
+hearing before SEBI and hence should be informed to the applicant. 
+
+The  Committee  recommends  that  the  reasons  for  rejection  of
+application  in  case  the  Panel  were  to  recommend  rejection  of
+application  should  be  advised  to  the  applicant  in  advance  of  the
+hearing before the SEBI.
+
+1.3.7 Rejection of applications by SEBI
+
+The Committee was of the opinion that rejection of application on technical
+grounds should not be resorted to as it leads to delays.
+
+The Committee recommends that where the applications are found to
+be  technically  deficient,  SEBI  may  not  reject  but  would  give  the
+
+Page 7 of 41
+
+applicant  an  opportunity  to  remove  the  defects  within  the  specified
+time period and resubmit.
+
+2.
+
+Publishing Of SEBI’s Order
+The Committee was informed that  SEBI follows the practice of issuing a
+press  release  giving  a  summary  and  the  operative  portion  of  the  SEBI’s
+orders.  The  Committee  was  of  the  opinion  that  unless  the  entire  order  is
+made  public,  the  market  may  not  be  aware  of  the  basis  on  which  a
+particular  case  merited  exemption,  the  issues  which  arose  and  how  the
+Regulations  were  interpreted  and  applied  in  a  particular  case  etc.  In  the
+Committee’s  opinion,  these  are  essential  to  develop  jurisprudence.  This
+would also have the effect of ensuring greater transparency.
+
+The Committee recommends that the SEBI’s order should be posted
+on SEBI’s website.
+
+Consolidation of holdings
+
+3. 
+3.1  Creeping acquisition in professionally managed companies
+
+The  Committee  noted  that  consolidation  of  holdings  is  one  of  the  major
+issues on which there has been a lot of debate and is of major concern.
+SEBI  often  receives  request  for  allowing  creeping  acquisition  to  the
+promoters or persons in control beyond the specified creeping acquisition
+limit,  on 
+the  Regulations  should  permit  quicker
+consolidation of holdings especially in view of the changes expected in the
+Indian  industry  due  to  liberalisation/  globalisation.  There  were  also
+that  creeping  acquisition  may  not  be  permitted 
+suggestions 
+in
+professionally managed companies with no identifiable promoter group.
+
+the  ground 
+
+that 
+
+The  Committee  took  into  account  the  points  put  forth  by  the  various
+groups and also held meetings with Industry/Investor associations to elicit
+their  views  in  the  matter.  After  considering  all  the  relevant  facts,  the
+Committee was of the considered opinion that any differentiation among a
+group  of  shareholders  militated  against  the  principle  of  “equality  of
+treatment and opportunity to all shareholders”, which is the corner stone of
+the Takeover Regulations. In view of the above, the Committee was not in
+favor of any special treatment to professionally managed companies.
+
+As  regards  the  fears  expressed  that  in  the  absence  of  any  protective
+clause  in  the  Takeover  Regulations,  professionally  managed  companies
+with  no  identifiable  promoter  group  could  be  easy  targets  for  foreign
+companies  with  unlimited  resources,  the  Committee  felt  that  these  are
+matters  of  Government  policy  and  cannot  be  regulated  through  the
+Regulations.  The  Committee,  however,  noted  that  foreign  companies
+(excluding NRI OCBs) are permitted to avail of creeping acquisition limit,
+only with the specific approval of the board of the target company and the
+Government.
+
+Page 8 of 41
+
+The Committee recommends that the requirement of approval of the
+Board  of  the  Target  company  /  Government  for  any  acquisition  by
+foreign  companies  (excluding  NRI  OCBs)  may  be  included  in  the
+Regulations.
+
+3.2  Creeping  acquisition  by  acquirers  holding  15%  and  above  but  less
+
+than 75%
+The  Committee  also  noted  that  the  SEBI  Regulations  have  since  been
+amended to provide for consolidation of holdings upto 10% in any period
+of 12 months which should take care of the interest of the promoter group.
+The  Committee,  however,  noted  that  the  creeping  acquisition  of  10%
+which  was  originally  allowed  upto  March  2002  has  since  been  extended
+by  SEBI  only  up  to  September  2002.  In  this  connection  some  of  the
+members  opined  that  in  view  of  the  changes  expected  in  the  Indian
+industry  due 
+the  WTO  provisions,  an  opportunity  of  quicker
+consolidation be given to the industry at least upto March 2004. Others,
+however, were of the opinion that the creeping acquisition of 10% should
+not be permitted beyond September 2002 and should be rolled back to the
+5% level.   
+
+to 
+
+Shri  Manubhai  Shah,  CERC  was  of  the  firm  opinion  that  creeping
+acquisition should be allowed only upto 5% in a period of 12 months till the
+acquirer / promoter shareholding reaches 51%.
+
+The  Committee  recommends  that  the  creeping  acquisition  limit  of
+10% should be retained upto March 2004.
+
+3.3
+
+The  Committee  noted  that  SEBI  has  received  queries  on  the  manner  of
+computation  of  “any  period  of  12  months”  for  the  purpose  of  creeping
+acquisition. For putting the matter beyond doubt and avoiding inadvertent
+breaching of the Regulations, it was felt that the creeping acquisition limit
+may be reckoned with respect to financial year ending March 31 (i.e. from
+1st April to 31st March).
+
+The Committee recommends that the creeping acquisition limit may
+be reckoned with respect to financial year ending March 31.
+
+3.4. Creeping acquisition by acquirers holding 75% and above
+
+The Committee noted that the continuous listing norms require a 25% or
+10%  public  shareholding  at  all 
+listing
+requirements. Presently, persons holding 75% and above can consolidate
+further by making an open offer of any size. The Committee opined that
+permitting  a  person  to  consolidate  beyond  75%  would  bestow  absolute
+control over the company to the acquirer and the company for all practical
+purposes  would  lose  the  characteristics  of  a  publicly  listed  company  as
+
+times,  depending  on 
+
+the 
+
+Page 9 of 41
+
+envisaged by the listing requirements. Hence, the Committee was of the
+view  that  it  is  desirable  to  restrict  the  persons  in  control  from  acquiring
+beyond  75%  without  making  a  public  offer  of  minimum  20%  to  the
+shareholders.
+
+Shri  Manubhai  Shah,  CERC  specifically  stated  that  beyond  51%,  no
+further  consolidation  should  be  permitted  either  by  way  of  creeping
+acquisition or  by the route of public offer whatsoever.
+
+The  Committee  recommends  that  any  acquisition  by  acquirers
+holding 75% and above should be in a transparent manner through
+open offers for minimum 20% and accordingly proviso to Regulation
+21(1) may be deleted.
+
+Control
+The Committee was informed that though the intent of the Regulations is
+to  provide  the  shareholders  an  opportunity  to  exit  in  case  of  change  in
+control,  the  purpose  is  not  achieved  because  the  proviso  and  the
+explanation  to  Regulation  12  provide  for  certain  exceptions.  Further,
+change 
+transfers  and/or
+preferential  allotments  are  exempt  automatically  under  Regulation  3  and
+the investors have complained about lack of exit opportunity. An issue has
+been raised from time to time as to what constitutes change in control. It
+has been suggested that control should be more precisely defined, which
+may be in terms of a specific percentage of holdings.
+
+in  control  brought  about 
+
+through 
+
+interse 
+
+4. 
+4.1
+
+The decisions of the Committee with reference to issues regarding “control”
+and the rationale therefor is as follows:
+
+4.2  Acquisition of control
+
+The  Committee  noted  that  the  Regulation  12  was  introduced  to  include
+change  in  control  even  when  there  is  no  acquisition  of  shares.  The
+Committee also noted that so far hardly any offer has been made under
+this  Regulation  possibly  in  view  of  the  fact  that  the  proviso  and  the
+explanation  to  the  said  Regulation  has  provided  certain  exceptions.  The
+Committee  also  noted  that  bringing  about  change  in  control  requires
+passing of a simple resolution in terms of the Companies Act, which does
+not  provide 
+  The  Committee  considered
+alternatives  such  as  requiring  the  passing  of  a  special  resolution,
+debarring the interested parties from voting on the resolution, postal ballot
+and  deletion  of  the  proviso  and  explanation  to  Regulation  12  etc.    The
+Committee  was  of  the  opinion  that  having  regard  to  corporate  and
+shareholders  democracy,  it  may  not  be  appropriate  to  totally  disallow
+change  in  management  brought  about  after  due  process  of  law.  If  the
+
+for  adequate  safeguard. 
+
+Page 10 of 41
+
+provisions relating to obtaining shareholder approval are strengthened, it
+would be enough  safeguard to protect the interest of the investors.
+
+Shri  Manubhai  Shah,  CERC  strongly  put  forth  that  any  acquisition  of
+control shall be only through the route of public offer. He also stated that if
+more  than  one  person  is  to  be  appointed  as  director  at  a  time  in
+pursuance of any arrangement or understanding, the same shall be done
+only with due compliance of the provisions of Regulation 12.
+
+The Committee recommends that change in control can be brought
+about  only  pursuant  to  a  special  resolution  passed  by  the
+shareholders  in  a  General  Meeting  and  postal  ballot  should  be
+allowed in respect of such meetings.
+
+4.3
+
+The Committee feels that the explanation as to what constitutes change in
+control which is presently appearing under Regulation 12 and modified as
+under may be shifted to Regulation 2 which contains the definition of the
+word “Control”.
+
+The  Committee  recommends  that  the  modified  explanation  to  the
+word  “control”    which  should  appear  in  Regulation  2  shall  read  as
+under:
+
+?  Where  there  are  two  or  more  persons  in  control  over  the  target
+company, the cessor of any one such person from such control shall
+not  be  deemed  to  be  a  change  in  control  of  management  nor  shall
+any  change  in  the  nature  and  quantum  of  control  amongst  them
+constitute change in control of management.
+
+Provided that a transfer from joint to sole control shall not constitute
+change  in  control  subject  to  such  transfers  being  effected  in
+accordance with Regulation 3 (1)(e) relating to interse transfer.
+
+?  Where  any  person  or  persons  are  given  joint  control,  such  control
+
+shall not be deemed to be a change in control -
+
+a)  if  the  control  given  is  equal  to  or  less  than  the  control
+exercised  by  person(s)  presently  having  control  over  the
+company, and
+b)  such  change 
+
+in  accordance  with
+
+in  control 
+
+is  effected 
+
+Regulation 3.
+
+4.4
+
+Acquisition of control through preferential allotment
+The Committee was informed that quite often the disclosures in the notice
+to  the  EGM  convened  for  obtaining  approval  of  the  shareholders  for  the
+preferential  issue  are  found  lacking  in  many  respects  like  identity  of
+persons (it is referred only as a class); pricing is stated to be as per SEBI
+
+Page 11 of 41
+
+Guidelines  (exact  or  indicative  price  not  stated);  emerging  share  holding
+pattern  not  disclosed  etc.    The  Committee  was  also  informed  that  while
+the Regulations provide that the Board resolution is to be sent to the stock
+exchanges, it has not been specified which of the Board resolutions is to
+be sent i.e. the Board Resolution before the EGM in which the decision to
+call the EGM for passing the Resolution; or the Board Resolution after the
+EGM  which  decides  about  issue  of  shares  on  preferential  basis.  The
+Committee  was  also  apprised  that  preferential  allotment  route  is  often
+used  for  bringing  about  change  in  control  by  the  existing  persons  in
+control, who can get the desired resolution passed on the strength of their
+shareholding, coupled with low turn out at the meetings.
+
+The  Committee  noted  that  a  majority  of  the  automatic  exemption  cases
+are  pursuant  to  acquisition  through  preferential  allotment.  While  such
+allotments  can  be  made  only  with  the  shareholders’  approval,  having
+regard to the low turnout of the minority shareholders in these meetings
+and the fact that effectively there is no exit option to the shareholders, the
+Committee  felt  that  a  re  look  is  required  at  the  automatic  exemption  in
+such cases.  The Committee also took into account that any change made
+in  this  regard  should  not  adversely  affect  the  induction  of  strategic
+partners who often enter the company through acquisition of stake under
+preferential allotment.
+
+Some members expressed reservation about continuing the exemption for
+preferential  allotment.  Shri  Manubhai  Shah  was  of  the  opinion  that
+interested  parties  should  not  be  allowed  to  vote  on  a  resolution  for
+preferential allotment.
+
+The  Committee  recommends  that  the  present  exemption  for
+preferential allotment be continued subject to the condition that any
+resolution  for  preferential  issue  should  provide  for  postal  ballot  to
+enable greater shareholder participation.
+
+Inter-se transfers
+The Committee noted that the Regulation 3 exempt acquisitions through
+inter se transfers among group companies, relatives and promoters. There
+may not be any cause for concern in respect of inter se transfers amongst
+group and relatives as in such cases, the control continues to remain with
+the  group.    However  the  issue  assumes  significance  when  it  involves
+interse  transfers  amongst  promoter  groups  such  as  between  a  foreign
+collaborator  and  an  Indian  promoter  or  between  two  groups  of  Indian
+promoters.    In  such  cases,  there  is  bound  to  be  perceptible  change  in
+control.    The  Committee  noted  that  the  arguments  raised  in  such  cases
+are  that  while  the  shareholder  with  substantial  holding  gets  an  exit,
+sometimes  at  very  high  prices,  the  other  shareholders  are  denied  such
+benefit. It is also possible that in such cases, the investment was made by
+
+Page 12 of 41
+
+4.5
+
+the shareholder on the strength of the exiting shareholder with substantial
+holding. There was a strong feeling that in such cases of transfers, there
+should be a requirement of compulsory open offer.
+
+The  Committee,  however,  observed  that  this  clause  was  introduced
+essentially to facilitate entry/exit of strategic partners, group restructuring
+etc.    Quite  often  the  foreign  collaborators  enter  and  remain  with  the
+company till such time that technology transfer is complete and may want
+to exit when their presence is no longer felt necessary. A minimum holding
+of 5% for 3 years period has also been prescribed under the Regulations
+in  order  to  avail  exemption  in  respect  of  acquisitions  through  inter  se
+transfers  amongst  two  groups  of    promoters.  The  Committee  also  noted
+that  a  number  of  companies  have  taken  advantage  of  this  clause  to
+restructure  the  business.  The  Committee  appreciated  the  concerns
+expressed that this clause could be used for giving exit at high price to a
+shareholder with substantial holding in a company without an offer.  The
+Committee  was  also  apprised  that  studies  conducted  by  SEBI  indicated
+that approximately 46% cases of inter se transfers were at a price higher
+than market price, which benefited only the shareholders with substantial
+holding.
+
+While accepting that it is necessary to place certain restrictions on such
+automatic  exemptions,  the  Committee  noted  that  in  cases  of  inter  se
+transfers  leading  to  acquisition  of  sole  control  from  joint  control,  the
+outgoing person in control may demand a premium over the market price
+for ceding control. The Committee felt that it would be necessary to take
+cognizance of such business expediency and permit a certain premium or
+discount  over  the  market  price  for  such  interse  transfers.  In  this
+connection,  the  Committee  noted  that  a  premium  of  upto  25%  is
+considered normal.
+
+Regarding the definition of the word “group”, the Committee noted that in
+the absence of any precise definition of “group”, definition as given in the
+MRTP  Act  was  adopted;  but  the  definition  has  widened  the  scope  of
+exemption and has also led to interpretational problems.  The Committee
+also discussed at length whether for the purpose of exemption of interse
+transfers,  “group”  may  be  defined  to  include  entities  falling  under  the
+scope of “related parties”  as per Accounting Standard 18 of the Institute of
+Chartered Accountants of India. However, on indepth examination, it was
+felt that inter se transfers among related parties as per the said accounting
+standard would further widen the scope of exemption.
+
+The Committee recommends that
+
+?  As  regards  interse  transfer  amongst  the  relatives,  the  existing
+
+provisions may continue.
+
+Page 13 of 41
+
+?  Regarding group, interse transfer amongst constituents of the group
+as disclosed to the stock exchange atleast a month before the date
+of proposed acquisition and falling within the definition of the word
+"group" as defined in the MRTP Act may be exempt.
+
+?  While  the  minimum  3  year  holding  period  may  be  retained  for
+transfers  amongst  2  different  groups  of  promoters,  the  5%  holding
+as a condition for  such  transfers may be deleted.
+
+? 
+
+interse transfer amongst different promoters or groups of promoters
+made at a price not exceeding 25% price as determined in terms of
+Regulation  20(2)  or  Regulation  20(3)    alone  would  merit  automatic
+exemption. Other cases may be referred to the panel.
+
+Illustration
+
+Assume the price as per Regulation 20  is Rs. 100/- per share (OP) and
+the offer is triggered pursuant to agreement / understanding between the
+acquirer and person A for acquisition by acquirer of 1,00,000 shares (S) of
+the  target  company.  Suppose  the  acquirer  has  also  entered  into  a    non
+compete agreement with A in terms of which  the acquirer has to pay A  a
+sum  of  Rs.  5,00,000/-.(X).    Thus,  the  non  compete  payment  per  share
+(NCP) works out to X divided by S.
+
+If NCP is greater than or equal to 25% of the OP, then the excess of NCP
+over 25% of the OP would be required to be added to the OP.
+
+In the current example, when X = Rs. 5,00,000, 25% of the OP  is Rs. 25.
+
+The NCP works out Rs. 5/- Since NCP is less than 25% of the OP,  the
+acquirer would not be obliged to add NCP to the OP.
+
+Now, if X= Rs. 1,00,00,000, then NCP = Rs. 100/-. NCP is greater than
+25% of OP by Rs. 75. Therefore Rs. 75/- is to be added to the OP.  The
+new offer price is now Rs. 175/-
+
+Minimum offer size
+The Committee was informed that the 20% offer size does not provide exit
+opportunity to all shareholders especially in case of offers where the offer
+price is at a premium to the then prevailing market price. This has led to
+complaints  and  demand  for  increasing  the  offer  size.  On  offer  size,  the
+Committee noted that  there were many options such as whether the offer
+size should be such as to enable the potential acquirer to hold a minimum
+of  40%  or  51%  after  the  offer,  provision  for  100%  exit  option  to  small
+shareholders  even  when  retaining  the  20%  minimum  offer  size,  a  100%
+offer etc.
+
+5.
+
+Page 14 of 41
+
+The  Committee  was  apprised  that  as  on  31/12/2000,  a  majority  of  the
+offers  (approximately  70%)  were  of  minimum  size  i.e  for  20%.  Further
+94% of the open offer did not elicit full acceptance. The Committee also
+noted that the acquirers still have to largely rely upon their own source of
+funding  for  acquisitions  through  public    offers,  given  the  absence  of
+institutional / organised source of funding for takeovers. The Committee,
+therefore,  felt  that  any  increase  in  the  minimum  open  offer  size  may
+adversely  affect  the  number  of  public  offers.  Hence,  under  the  present
+conditions, the current minimum offer size of 20% seems to be adequate.
+The  Committee  further  noted  that  the  extant  Regulations  permit  the
+acquirer to make an offer for a higher percentage of shares, if the acquirer
+so desires.
+
+The  Committee  recommends  that  no  change  in  the  minimum  offer
+size is required to be made at this juncture.
+
+ 100% exit to small shareholders
+On the question of whether there should be a 100% exit option to small
+shareholders  even  while  retaining  the  20%  minimum  offer  size,  the
+Committee  felt  that  it  would  be  difficult  to  determine  who  can  be
+considered as a small shareholder. Further, where the acceptance level
+from the small shareholders alone comes close to the offer size, the other
+shareholders 
+the  small
+shareholders) stand to lose as they  would be deprived of an equal exit
+opportunity.  This  militates  against  the  cardinal  principle  of  equality  of
+treatment and opportunity to all shareholders which is the basic principle
+of the Regulations.
+
+funds  (which  represent 
+
+including  mutual 
+
+The Committee recommends that it would not be equitable to have a
+100% exit option to one class of shareholders alone.
+
+Institutional funding for takeovers
+In the context of lack of institutional funding for takeovers, the Committee
+recommends that banks /financial institutions should be encouraged
+to  consider  financing  takeovers.  The  Committee  desires  that  SEBI
+may consider taking up the matter with the Reserve Bank of India for
+facilitating such funding.
+
+Offer Price
+The Committee was informed that while administering the Regulations in
+the  past  few  years  many  issues  relating  to  the  provisions  of  offer  price
+came up for consideration for example whether the term “price”  referred to
+in the Regulations includes mode of payment, can the mode of payment
+be changed, will change in mode amount to change in terms of the offer,
+whether  the  provisions  of  the  Regulations  are  intended  to  cover  only
+minimum offer price or the actual offer price etc.
+
+Page 15 of 41
+
+6.
+
+7.
+
+8.
+8.1
+
+Issues  such  as  whether  the  offer  price  should  be  historical  or  it  should
+have  some  relevance  to  the  market  price  prevailing  prior  to  the  public
+announcement,  should  it  include  non–compete  payment  etc.  were  also
+raised. It was also pointed out that the Regulations are silent on pricing for
+partly paid shares.
+
+The Committee’s views and recommendations on the various issues are:
+
+8.2 Minimum offer price v/s offer price
+
+The  Committee  was  informed  that  the  word  “minimum”  used  with
+reference to offer price in Regulation 20 is being interpreted to mean that
+the SEBI Regulations are applicable only with reference to the minimum
+offer price as may be worked out in terms of the Regulation 20 and any
+compensation offered over and above the minimum offer price would not
+be  governed  by  the  Regulations.  The  Committee  felt  that  such  an
+interpretation is unwarranted.
+
+8.3
+
+The Committee recommends that the word “minimum” appearing in
+the  title  and  body  of  Regulation  20  be  deleted.  The  Regulations
+should be amended so that
+?  obligations  under  the  Regulations  with  regard  to  payment  of
+consideration are applicable to the total consideration offered and
+
+? 
+
+the  offer  price  shall  not  be  lower  than  the  price  determined  in
+accordance with Regulation 20.
+
+Parameters for determining offer price
+Various suggestions were made in this regard such as the offer price may
+be calculated as an average of 13 weeks instead of 26 weeks; the price
+paid  for  any  acquisition  by  the  acquirers  during  the  period  of  52  weeks
+may be taken; non-compete payment upto 25% of consideration may be
+excluded  etc.  The  Committee  also  noted  that  as  per  the  extant
+Regulations, the period for determining the offer price has been uniformly
+taken  as  26  weeks  except  for  the  price  paid  by  the  acquirer  under  a
+preferential allotment which is 12 months. The Committee considered the
+various issues.  The Committee noted that while it may be appropriate to
+factor in market  price as close to the public announcement as possible,
+extending the period beyond 26 weeks for any acquisitions by the acquirer
+may result in hardship to the prospective acquirer.  The problem would be
+more acute especially if the acquirer wants to make a counter bid.
+
+Shri  Manubhai  Shah  however  was  of  the  view  that  the  acquirer  himself
+has acquired shares during the past 52 weeks, the offer price shall not be
+less than the price at which he has acquired the shares.
+
+Page 16 of 41
+
+The Committee also noted that the current provision of having 26 weeks
+average for the market price covers a relatively extended period of time,
+which  does  not  adequately  reflect  the  events  and  market  fluctuation  just
+prior  to  the  public  announcement.  In  the  Committee’s  opinion,  a  lesser
+period for the purpose of working out average market price would be more
+appropriate. On non-compete payment the Committee noted that there is
+a need to address the situation specially where the acquirer passes on a
+significantly large portion of the consideration to the out going promoter in
+the  form  of  non-compete  fee  and  only  a  token  amount  is  shown  as
+negotiated  price  for  acquisition  of  shares  under  the  agreement.  The
+Committee felt that in such cases the offer price does not truly reflect the
+actual consideration paid and this could be used as a ploy for reducing the
+cost of acquisition through public offer.
+
+The Committee recommends that
+
+? 
+
+the average market price in terms of Regulation 20(2)(d) may be
+calculated  on  the  basis  of  26  weeks  or  2  weeks  average,
+whichever is higher,  preceding the date of public announcement.
+
+?  price  paid  by  the  acquirer  for  any  acquisitions  during  26  weeks
+
+period may be considered.
+
+?  Any payment in respect of non-compete agreement in excess of
+25%  of  consideration  paid  to  persons  other  than  the  target
+company shall be deemed to form part of the consideration paid
+for  acquisition  of  shares  and  should  be  factored  in  for  the
+purpose of reckoning offer price.
+
+?  The  offer  price  for  partly  paid  shares  may  be  calculated  as  per
+difference between the offer price less the amount unpaid/ calls in
+arrears  together  with  interest,  if  any,  payable  on  the  amount
+called up  remaining unpaid.
+
+8.4 Mode of payment
+
+The Committee noted that at times an acquirer may want to change the
+mode of payment, especially when there is a revision in offer price and /or
+the  quantity.  Where 
+the  amount  of  consideration  payable  stands
+substantially  increased  following  such  revisions,  the  acquirer  may  be
+required  to  resort  to  other  sources  of  funding  such  as  issue  of  fresh
+securities  etc.  If  we  were  to  restrict  change  in  mode  altogether,  it  may
+constrain  the  acquirer’s  ability  to  revise  the  offer  price/size  depending
+upon subsequent developments, especially where there is competitive bid.
+It  may,  therefore,  be  necessary  to  permit  change  in  mode  of  payment.
+The  Committee  also  noted  that  the  extant  Regulations  provide  only  for
+
+Page 17 of 41
+
+exchange  and,  or  transfer  of  shares  and  does  not  provide  for  issue  of
+securities.
+
+The  Committee,  however,  noted  that  suitable  safeguards  should  be
+provided so that the acquirer does not indulge in reckless revisions without
+adequate  preparation  and  without  ensuring  the  possibility  of  carrying
+through the revisions. Permitting change in mode at a later date may entail
+additional  approvals  etc.  leading  to  uncertainty  and  consequent  delay  in
+completion  of  offer  formalities.  Further,  to  facilitate  comparison  of
+competing offers, the investors should be aware of not only the price but
+also  the  manner  in  which  such  price  will  be  paid  so  that  an  informed
+decision can be taken in time. In view of the above, the Committee felt that
+while  it  may  not  be  appropriate  to  restrict  change  in  mode,  it  should  be
+made  clear  to  the  acquirer  as  well  as  to  the  investors  that  if,  for  any
+reason,  the  acquirer  was  not  in  a  position  to  fulfil  the  conditionalities
+flowing out of such change in mode, the acquirer shall be required to pay
+the entire amount of consideration in cash.
+
+In  this  context,  the  Committee  noted  the  issues  which  arose  such  as
+whether the mode of payment can be changed following a revision in the
+offer,  whether  change  in  mode  amounts  to  change  in  terms  of  the  offer
+etc.
+
+The Committee recommends that
+
+?  The offer price may be paid by issue of securities.
+
+?  Change  in  mode  of  payment  may  be  permitted  only  in  case  of
+
+upward revision in offer price/ size
+
+?  Following  an  upward  revision,  where  the  mode  of  payment  is
+changed to cash cum security, composition could be allowed to
+be  changed  as  long  as  the  cash  component  is  not  reduced  by
+subsequent changes.
+
+?  Where  mode  of  payment 
+
+to 
+
+fulfil 
+
+reasons, 
+
+the  acquirer 
+
+if,  for
+whatever 
+the
+conditionalities flowing out of such change in mode, the acquirer
+shall  be  required  to  pay  the  entire  amount  of  consideration  in
+cash.
+
+is  changed  subsequently, 
+
+is  unable 
+
+?  Where the mode of payment involves issuance of securities, the
+approval  of  the  shareholders  should  be  obtained  within  21  days
+from the date of closure of the offer, so that the merchant banker
+can ensure that the special account is funded in cash in case the
+shareholders approval has been refused.
+
+Page 18 of 41
+
+9.
+
+Infrequently traded shares
+The Committee noted that the definition of infrequently traded shares i.e.
+having  trading  volume  of  less  than  2%  appears  to  be  extremely  liberal.
+The Committee was informed that it has been observed that it is easy to
+put  through  a    trading  volume  of    2%  thus  bringing  the  shares  into  the
+classification  of  frequently  traded  shares.  Thereafter,  the  market  price
+average as provided in Reg.20 (2) is used for the purpose of determining
+the minimum offer price. This price is generally very low as compared to
+the fundamentals of the company.  The Committee noted that the above is
+possible  because  only  2%  of  the  entire  listed  stock  of  the  company  is
+reckoned  for  the  purpose.  If  the  definition  is  strengthened,  it  would  be
+difficult to manage to show an illiquid stock as frequently traded.
+
+The Committee recommends that
+
+?  The shares of the target company may be deemed to be infrequently
+traded  if  on  the  stock  exchange,  the  annualized  trading  turnover  in
+that  share  during  the  preceding  6  calendar  months  prior  to  the
+month  in  which  the  Public  Announcement  is  made  is  less  than  5%
+(the number of shares) of the shares listed on the stock exchange.
+
+?  As 
+
+regards  SEBI  seeking 
+
+independent  valuation  wherever
+considered necessary, while the Committee had no objection in SEBI
+doing so in respect of infrequently traded shares, the opinion of the
+Committee  was  divided  in  respect  of  the  shares  which  were  to  be
+classified  as  frequently  traded.  Majority  of  the  members  of  the
+Committee had objection to SEBI seeking independent valuation for
+shares classified as frequently traded.
+
+10.Conditional offers
+
+The  Committee  was  informed  that  currently  the  Regulations  provide  for
+making an offer conditional upon level of acceptances only.  Queries are
+being  received  regarding  conditional  offers  under  other  circumstances
+also  e.g.  success  of  restructuring  by  the  parent  company  certain  other
+aspects of conditional offers such as implementation/ rescission of  MOU
+in  case  the  desired  response  is  not  received,  whether    conditional  offer
+can be for less than 20% etc. also required consideration.
+
+The  Committee  considered  the  various  issues.  The  Committee  felt  that
+pursuant to an acquisition under a MOU, the acquirer is required to make
+an offer to the public and hence such a public offer cannot be conditional,
+unless  of  course  the  MOU  itself  is  rescinded  and  not  acted  upon  if  the
+public offer does not elicit the required acceptances.
+
+Page 19 of 41
+
+As  regards  requiring  a  domestic  offer  resulting  from  change  in  control/
+restructuring abroad, the Committee was of the opinion that it is not logical
+to  impose  open  offer  requirements  if  the  overseas  offer  /  restructuring
+(which might result in indirect change in control in Indian target company)
+fails.
+
+Regarding conditional offer for less than 20%, the Committee felt that as a
+general  principle,  an  offer  should  always  be  for  minimum  20%  and
+therefore  there  is  no  need  for  allowing  a  conditional  offer  for  less  than
+20%, though the acceptance level may be less than 20%.
+
+About  the  need  to  differentiate  between  obligated  and  non  obligated
+offers, the Committee remarked that owing to practical difficulties that may
+arise  in  distinguishing  between  an  obligated  and  non  obligated  offer,  it
+would be advisable not to make any distinction between the two types of
+offers. Further, non obligated offers of small size could be used for price
+manipulation by unscrupulous elements.
+
+In view of the above, the Committee recommends that –
+
+?  An offer should always be for 20% or above; but the offer may be
+
+subject to an acceptance level of less than 20%
+
+?  An offer can be conditional upon the success of restructuring by
+
+parent or holding company.
+
+?  When the offer is pursuant to a MoU, the acquirer may be allowed
+to make an offer conditional as to level of acceptances, only if the
+acquirer  binds  himself  to  rescind  the  MoU  in  case  the  desired
+level of acceptances is not received.
+
+?  There  is  no  need  to  distinguish  between  obligated  and  non-
+
+obligated offers.
+
+Obligations of target company
+The Committee was informed that the Regulation 23 precludes the target
+company  from  issuing  un-issued  capital  with  intent  to  discourage  the
+target  company  from  surreptitiously  increasing  the  capital  base  of  the
+company  so  as  to  frustrate    the  offer  of  the  acquirer.    However,  the
+intended  objective  is  sometimes  frustrated  when  the  company  allots
+shares  on  the  strength  of  a  resolution  which  was  passed  earlier.    The
+capital  of  the  company  could  also  rise  due  to  public/rights  issue  in
+process.    The  issues  which  had  arisen  in  this  regard  are  when  can  an
+issue  of  capital  be  set  to  have  been  made    i.e.  the  date  of  the  AGM
+resolution authorising the issue of capital or the date of Board resolution
+
+11.
+
+Page 20 of 41
+
+etc. and how does one preclude the target company form issuing shares
+as would foil the bid or frustrate it.
+
+The Committee noted that in public/ rights issue, the facts of the proposed
+issues are known to the market and in any case, once the issue process is
+begun, it may not be possible to withhold allotment. The Committee further
+noted  that  in  case  of  preferential  allotment  also,  the  validity  of  the
+resolution  is  restricted  to  3  months.  Thus  in  the  above  situations,  the
+acquirer  is  put  on  guard  that  the  capital  of  the  company  is  likely  to
+increase  and  should  do  due  diligence  to  find  out  the  actual  issued  and
+paid  up  capital  of  the  target  company.  As  regards  what  constitutes  an
+issue, the Committee observed that there are well settled case laws in the
+matter.  However,  it  may  be  advisable  to  amend  the  Regulations
+precluding the target company from not only issue of capital but allotment
+also.
+
+The  Committee  recommends  that  the  public/rights  issue  for  which
+the offer document has been filed with the Registrar of Companies/
+the  Stock  Exchange(s)  should  be  allowed  to  be  proceeded  ahead
+with.  The  Regulation  23(1)(b)  may  be  amended  to  include  not  only
+issue but also allotment.
+
+12.
+12.1
+
+Competitive bids
+The  various  issues  which  have  been  raised  for  consideration  are:  the
+minimum size of a competitive bid vis a vis the original bid, whether the
+competing  offer  could  open  subject  to  various  approvals  and  should  the
+competitive  bidder  be  allowed  to  withdraw  the  offer  after  the  first  bidder
+had withdrawn or revised the offer following the competitive bid.
+
+12.2 Size of competitive bid
+
+The  Committee  noted  that  the  extant  Regulations  provide  that  the
+competitive  offer  shall  be  for  such  number  of  shares  which  when  taken
+together with the shares already held by him at least equals the number of
+shares  for  which  the  first  public  announcement  has  been  made.  This
+provision while reckoning the pre offer  holding of the competitive bidder
+excludes the pre offer  holding of  the original bidder. In order to ensure
+that  the  targeted  quantity  of  the  shares  at  the  time  of  making  the  first
+public  announcement/competitive  bid  is  equal,  it  would  be  necessary  to
+include the pre offer holding of both the original bidder and the competitive
+bidder.
+
+The  Committee  recommends  that  the  competitive  bid  shall  be  for
+such number of shares which, when taken together with shares held
+by competitive bidder along with persons acting in concert with him,
+shall be at least equal to the post offer target of the original bidder.
+
+Page 21 of 41
+
+This stipulation may be complied with at least at the time of making a
+first competitive bid
+
+12.3 Approvals for competing offers
+
+The  Committee  felt  that  requiring  the  competing  acquirers  to  get  all
+approvals before the offer opens may not be desirable since the external
+(statutory) approvals required to be obtained may not be within the control
+of the acquirers. This may also lead to indeterminate delay in opening of
+the  offer.  Hence  the  Committee  was  of  the  opinion  that  as  long  as  full
+disclosures  are  made  in  the  offer  document  about  such  approvals,  the
+opening of the offer may not be held up.
+
+The Committee recommends that except for shareholders approval,
+(which in any case has to be obtained within 21 days from the date of
+the  closure  of  the  offer)  the  open  offer  could  be  made  which  is
+subject to statutory approvals. There is no need for the acquirer to
+defer the open offer till the statutory approvals are obtained.
+
+The Committee further recommends that in case the acquirer fails to
+obtain  the  shareholders  approval  within  21  days  from  the  date  of
+closure of offer, the escrow amount may be forfeited.
+
+12.4 Withdrawal of offer following competitive bid
+
+The Committee noted that the extant Regulations provide for withdrawal of
+offer by the original acquirer following a competitive bid.  When the original
+bid which gave rise to the competition is withdrawn, a question arose as to
+whether  the  competitive  bidder  can  also  withdraw  his  offer.    The
+Committee discussed the matter and was of the opinion that rather than
+allowing the competitive bidder also to withdraw which would mean that no
+offer  ultimately  subsists,  one  should  not  allow  withdrawal  of  offer  by  the
+original  bidder  also  because  an  acquirer  while  making  a  bid  for  any
+company  should  be  fully  prepared  for  the  consequences  including  the
+possibility  of  a  counter  offer.  The  shareholders  of  the  target  company
+should  have  the  option  to  decide  which  of  the  offer(s)  should  succeed.
+This  will  also  provide  double  exit  option  to  the  shareholders  which  is  in
+their interest.
+
+The Committee recommends that the provision relating to withdrawal
+of offer following a competitive bid  contained in Regulation 27(1)(a)
+be deleted.
+
+13.
+
+Payment of consideration through exchange of shares
+The Committee was informed that a number of issues have arisen in this
+regard such as what kind of securities can be offered in exchange, what
+happens to the bid if the shareholders of the company do not approve of
+the acquisition, or whether the offer should be only for cash, etc.
+
+Page 22 of 41
+
+The  Committee  was  of  the  opinion  that  permitting  the  acquirer  to  offer
+shares of the third company as consideration for shares tendered would
+increase the flexibility available to him in the funding of the offer. But such
+permission should be with certain checks and balances to ensure that the
+shareholders are not saddled with illiquid shares thereby depriving them of
+an exit option.  The Committee also felt that the requirement that all offers
+can  be  made  in    cash  only  would  be  a  retrograde  step  and  would  also
+make public offers for large companies difficult. A suggestion was made
+that in the case of an exchange offer, the shareholders should be given an
+option to opt for cash payment . However, it was pointed out that in that
+event the acquirers would be in no position to know, till the date of closure,
+the quantum of cash that would be required to meet his obligation under
+the offer. Such an offer would effectively make the offer a cash offer since
+given an option invariably the shareholders would opt for cash.
+
+Shri Manubhai Shah strongly opined that in any public offer, option must
+be  available  to  the  investor  to  obtain  payment  of  consideration  only  in
+cash if he so desires.
+
+The requirement of shareholders approval for issuance of fresh securities
+was discussed. Should the company which wants to issue securities and
+then  offer  them  in  the  public  offer  be  required  to  obtain  shareholders
+approval prior to the public offer?  The Committee was of the opinion that
+uncertainty over such matters should be avoided at all costs as it may not
+be in the interest of the investors and the acquirer should be reasonably
+certain  of  obtaining  the  requisite  approvals  of  its  shareholders  for
+successful    implementation  of  the  offer.  The  acquirer  should  also  be
+obliged to make payment of consideration in cash if the approvals do not
+forthcome. The Committee felt that unless stringent  provisions are made,
+there might be frivolous offers, which are undesirable.
+
+As regards applicability of SEBI Guidelines in case of offer involving fresh
+issue of capital by the acquirer company, the Committee was of opinion
+that the issue of any security by an acquirer company to the shareholders
+of  a  target  company  can  neither  be  termed    a  public  issue  nor  a  right
+issue.  Hence,  the  logical  inference  would  mean  that  the  said  issues
+should be in compliance with preferential issue guidelines of SEBI.
+
+On the issue of the type of securities that can be issued, the Committee
+noted that the Regulations provide for payment of consideration through
+exchange  and  or  transfer  of  shares.  Shares  have  been  defined  in  the
+Regulations  as  shares  carrying  voting  rights  and  includes  any  security
+which  would  entitle  the  holder  to  receive  shares  with  voting  rights.
+Preference  shares  normally  do  not  carry  voting  rights.  Further  if  it  is
+redeemable, it partakes the nature of a debt instrument. The Committee
+also  noted  that  generally  preference  shares  are  not  rated.  The
+
+Page 23 of 41
+
+Committee  noted  that  the  Regulations  require  discharge  of  obligations
+either  by  exchange  of  shares    or  a  `A’  rated  debt  instrument.  Since
+preference  shares  do  not  fall  in  either  category,  they  may  not  be
+permitted to be issued. 
+
+Considering  the  above,  and  keeping  in  view  the  shareholders
+interest the Committee recommends that
+
+?  The  acquirer  may  be  permitted  to  offer  shares  of  a  third  listed
+company,  subject  to  the  condition  that  the  shares  of  that
+company are included in the list of A Group / specified shares of
+the Stock Exchange, Mumbai or shares grouped under S&P CNX
+Nifty of the National Stock Exchange.
+
+?  Shareholders  approval  should  be  taken  within  21  days  from  the
+date  of  closure  of  the  offer.  If,  for  whatever  reasons,  the
+shareholders approval cannot be obtained, the acquirer shall pay
+the entire consideration in cash.
+
+? 
+
+If  the  process  involves  fresh  issue  of  capital  by  the  Acquirer
+Company,  such  fresh  issue  should  conform  to  the  Preferential
+Issue Guidelines of SEBI.
+
+?  Preference shares shall not be allowed to be issued.
+
+Open offer process
+The Committee was informed that the Regulations require the acquirer to
+make  a  public  announcement  within  4  working  days  of  entering  into  an
+agreement. The words “working days”  have not been defined. This leads
+to  certain  ambiguities  and  non-compliances.  Further,  at  times  SEBI  is
+required to call for a revised filing of an offer document, inter-alia, because
+there  are  complaints 
+inadequate
+disclosure  etc.  Should  SEBI  have  the  power  to  call  for  refiling  and  as  a
+consequence if the open offer process is required to be rescheduled, can
+SEBI do so? Further, the Regulatory requirement cast on the acquirer to
+file  a  copy  of  the  public  announcement    with  SEBI,  the  Stock  Exchange
+and the target company two working days before its issuance to the public
+might  lead  to  opportunities  for  insider  trading,  asymmetry  of  information
+etc.
+
+requiring  detailed 
+
+investigations, 
+
+The Committee recommends that
+?  Working days mean working days of SEBI.
+
+? 
+
+there  is  no  need  for  the  copy  of  public  announcement  to  be
+submitted  to  anyone  at  all. 
+if  the  public
+
+It  would  suffice 
+
+Page 24 of 41
+
+14.
+
+announcement  is  given  simultaneously  in  newspapers/  stock
+exchanges/ target company and SEBI.
+
+?  SEBI should have the power to call for submission of revised letter
+of  offer  etc.  but  the  Regulations  should  clearly  specify  the
+circumstances under which a resubmission would be called for.
+
+?  SEBI  should  convey  its  comments  on  the  letter  of  offer  within  7
+/
+
+receipt  of  additional 
+
+the  date  of 
+
+information 
+
+days  of 
+resubmission.
+
+?  SEBI  should  also  have  the  power  to  reschedule  date  of  opening/
+closure,  in  cases  where  the  offer  becomes  subjudice  or  involves
+some  investigation  by  SEBI  etc.  or  as  a  consequence  of  any
+revised resubmission.
+
+15.
+
+Disclosure requirements
+The  Committee  appreciated  that  periodic  disclosures  help  in  monitoring
+compliance  to  the  Regulations.    This  also  increases  transparency  in  the
+dealings  of  the  acquirer  apart  from  providing  a  warning  system  to  the
+existing  management  of  the  target  company.  The  Committee  also
+recognises  that there should be transparent and purposeful dissemination
+of information.
+
+Following  aspects  of  the  requirements  in  the  current  Regulations  were
+considered by the Committee:-
+
+?  Lack  of  requirements  for  disclosure  in  case  of  acquisition/  sale  by  an
+
+acquirer holding 5% or more shares / voting rights
+
+?  Changes  in  shareholding  are  required  to  be  reported  at  the  end  of  the
+financial year and the record date and not at the point of time when the
+change in shareholding actually occurs.
+
+?  Lack  of  explicit  requirement  for  the  stock  exchanges  to  disseminate  the
+
+information received by them from the company
+
+?  Need for revising the current requirements of disclosure by the acquirer to
+
+the target company and by the target company to the stock exchange
+
+?  Penalty  for  non-compliance  with  the  requirement  of  disclosures  and  its
+
+consequences
+
+The  Committee  also  noted  that  doubts  have  been  expressed  by  certain
+people  regarding  applicability  of  the  disclosure  requirements  under  the
+Regulations to the financial institutions, mutual funds, foreign institutionaI
+investors  etc. The acquisitions /sales by major shareholders including the
+financial  institutions,  mutual  funds,  foreign  institutionaI  investors  and
+persons  in  control  is  market  sensitive  information  and  should  be
+disseminated  immediately  as  and  when  such  changes  occur.  The
+Committee  therefore    thought  it  fit  to  re-iterate  that  the  obligations  cast
+
+Page 25 of 41
+
+upon an acquirer to disclose his shareholding as and when it exceeds 5%
+are  binding  on  every  person  including  the  financial  institutions,  mutual
+funds,  foreign  institutionaI  investors,  etc  and  there  is  no  relaxation
+whatsoever  from  the  reporting  requirements,  even  where  the  acquisition
+per se may be exempted.
+
+recognizing  operational  difficulties 
+
+While 
+reporting  of
+holding/change in holding to the company /stock exchange at too frequent
+an interval, the Committee agreed that the present reporting requirement
+which require reporting only at 5% level and not thereafter, especially for
+acquirers holding less than 15%, requires to be modified.
+
+involved 
+
+in 
+
+The Committee recommends that
+?  Disclosures  should  be  made  at  every  stage  when  the    acquirer
+
+crosses the limit of 5%, 10% and 14%;
+
+?  For acquirers holding 15% and above, purchases or sales at every
+
+2% level should be disclosed.
+
+?  The reporting of acquisitions/ sales should be made to the stock
+
+exchanges and the target company within 2 days.
+
+?  The  acquirers  are  obligated  to  ensure  that  the  necessary
+
+disclosures reach the company and the stock exchanges.
+
+?  The exchange shall immediately  flash the information received  on
+the trading screen/ notice board and also post such information on
+its  website.  Such  information  should  be  retained  on  the  website
+for a period of atleast one year.
+
+?  The percentage level referred to should be computed on  a gross
+purchase  basis  at  any  point  of  time  to  decide  whether  the
+Regulations are attracted.
+
+?  Any  non-compliance  of  the  requirement  should  be  viewed
+
+seriously and appropriate action should be initiated.
+
+Applicability of the Regulations
+
+16.
+16.1 Acquisition by pledgees other than banks and financial institutions
+
+The Committee observed that advance against pledge of shares is a well
+accepted commercial business activity. However, at the same time, care
+should  be  taken  to  ascertain  that  there  is  no  surreptitious  acquisition  or
+takeover  of  a  company  in  the  guise  of  enforcement  of  pledge.  Towards
+this end, disclosures should be ensured whenever shares were acquired
+by way of pledge by persons (other than banks and financial institutions)
+
+Page 26 of 41
+
+at the point of time when the pledge was created.  In this connection, the
+Committee noted that the Regulation 7 requiring disclosure of acquisition
+covers acquisition under pledge also and this may be suitably clarified in
+the  format  of  disclosures.  The  Committee  was,  however,  not  in  favor  of
+granting automatic exemption for acquisition through pledge.
+
+The Committee recommends that
+
+? 
+
+In case of acquisition through pledge, Takeover Panel may decide
+if exemption should be granted based on the facts of each case.
+
+?  At the time of creation of pledge, disclosures should be made by
+the  pledgees  to  the  company  and  the  stock  exchanges  so  as  to
+keep the public adequately informed.
+
+16.2  Acquisitions pursuant to a scheme of arrangement
+
+International acquisitions that lead to indirect acquisition of shares/ voting
+rights or control over an Indian target company through various layers of
+subsidiaries situated in various jurisdictions have become commonplace.
+In  such  cases,  the  Indian  target  company  and  its  shareholders  are  not
+directly  involved  in  the  said  proposal.  Under  Indian  law,  any  scheme  of
+arrangement,  reconstruction  etc.  is  subject  to  orders  of  the  Court  and
+shareholders  approval.  However,  the  Committee  noted  that  the  term
+“scheme of arrangement”  is not very well defined, causing apprehensions
+that  the  word  ‘arrangement’  used  in  the  Regulations  could  be  loosely
+interpreted leading to dilution of the spirit of the Regulations.
+
+The Committee also felt that adequate care should be taken to avoid grant
+of exemption to cases of mergers or amalgamations abroad where there is
+a clear agreement for sale and purchase of shares of the Indian company.
+Such acquisition shall not be considered as a part of the merger proposal.
+
+Shri  Manubhai  Shah  advocated  that  acquisitions  through  the  route  of
+mergers and amalgamations done under the orders of the Courts in India
+alone  should  be  exempted  as  these  take  place  with  the  approval  of  the
+shareholders  of  the  Indian  company.  Mergers  and  amalgamations  of
+companies  which  have  taken  place  outside  India  should  not  necessarily
+be valid and binding in India and should not be exempted.
+
+The  Committee  recommends  that  the  words 
+appearing at Regulation 3(1)(j)(ii) may be deleted .
+
+'of  arrangement'
+
+16.3 Acquisition of shares by Government Companies
+
+Due  to  the  exemption  available  under  the  current  Regulations  a
+Government company is not required to make an open offer pursuant to
+acquisition  of  shares  of  another  listed  Government  company  from  the
+
+Page 27 of 41
+
+Government,  while  a  private  sector  company  acquiring  a  Government
+company may be required to make a public offer causing distortion of level
+playing  field.  This  also  adversely  affects  shareholders’ 
+interest  as
+Government,  being  major  shareholder,  gets  an  exit  but  not  the  minority
+shareholders.
+
+The Committee was informed that based on the proposals received from
+the  Ministry  of  Disinvestment,  and  approved  by  SEBI,  suitable
+amendments in the Regulations have already been made.
+
+16.4 Transfers by acquirers after open offer
+I6.4.1 Interse  transfer  of  shares  amongst  acquirers  who  have  made  the
+
+open offer
+Issue  relating  to  transfer  of  shares  between  the  acquirer  who  has
+completed the open offer process and persons acting in concert with him
+were  raised  in  the  Committee.    The  Committee  agreed  that  these
+transfers are akin to interse transfers amongst promoters and therefore,
+in  principle,  merit  consideration  of  exemption.  However,  the  Committee
+noted  that  even  in  case  of  interse  transfer  among  promoters,  such
+transfers are automatically exempted if the transferors/ transferees were
+holding  the  shares  for  a  period  of  at  least  3  years.  A  similar  period  of
+holding  is  desirable  in  the  case  of  transfers  between  the  acquirer  and
+persons acting in concert with him.
+
+The  Committee  recommends  that  automatic  exemption  may  be
+considered  in  respect  of  interse  transfer  amongst  the  acquirer  and
+persons  acting  in  concert  with  him  only  where  the  proposed
+acquisition takes place after 3 years from the date of closure of open
+offer. In other cases, reference may be made to the Panel.
+
+16.4.2 Transfer of shares from SFCs to acquirers after open offer
+
+The  Committee  noted  that  where  the  promoter  of  a  company  exits  by
+selling his substantial/controlling stake, the acquirer gains control after due
+process  of  law  including  an  open  offer  and  hence  is  a  successor  to  the
+promoter. Since the definition of the word "promoter" includes persons in
+control,  a  person  gaining  control  of  the  company  after  an  open  offer
+should, for all practical purposes, be considered as promoter from the date
+of successful completion of the  open offer formalities. The acquirer has
+effectively  stepped into the shoes of the  promoter and assumes all  the
+rights and obligations of the promoters vis a vis the financial institutions;
+for  e.g.  the  financial  institutions  insist  on  personal  guarantee  of  the
+incoming management, the SEBI lock-in provisions are made applicable to
+the  acquirer  etc.  Similarly,  he  may  be  required  to  fulfil  any  contractual
+obligation that the erstwhile promoter may have entered into with a state
+level financial corporation.
+
+Page 28 of 41
+
+The Committee recommends that the automatic exemption currently
+available under Regulation 3(1)( i ) for transfer of shares from state
+level  financial  institutions;  including  their  subsidiaries,  to  co-
+promoters of the company pursuant to an agreement between such
+financial institution and such co-promoter(s) should be extended to
+include successors  / assignees of the co promoters of the company.
+
+16.5 Applicability of the Regulations to Foreign Institutional Investors
+
+The current Regulation 2(1)(e) defines persons who will be deemed to be
+persons acting in concert with other persons in the same category. This
+term  includes  '  Foreign  Institutional  Investors  with  sub-account(s)'.  The
+issue regarding the continuance of the said provision was referred to the
+Committee  as  it  was  felt  that  each  sub  account  is  an  independent
+account and hence, the sub-accounts should not be deemed to be acting
+in concert with the Foreign Institutional Investors.
+
+The Committee was of the opinion that the present provision deeming the
+Foreign  Institutional  Investors  to  be  acting  in  concert  with  the  sub
+accounts  may  continue  as  it  is  in  line  with  international  practices.  The
+Committee,  however,  noted  that  this  presumption  is  rebuttable.  The
+Foreign Institutional Investors can thus give a rebuttal whenever  they are
+not acting in concert and  such a rebuttal can be in the form of a specific
+declaration /undertaking.  
+
+The Committee recommends no change in the existing provisions.
+
+16.6 Miscellaneous exemptions
+
+? 
+
+(ADB),  Commonwealth  Development  Corporation 
+
+The  Committee  was  informed  that  under  the  current  Regulations  the
+acquisition of shares by
+?  persons in exchange of shares tendered under an open offer
+? 
+
+in excess of creeping acquisition limit pursuant to offer of safety net for
+acquisition of shares by promoters/ merchant bankers
+international  development  organisations  such  as  Asian  Development
+Bank 
+(CDC),
+International  Financial  Corporation    (IFC)  and  other  international
+organisations
+
+are not exempt under the automatic route from the requirement of making
+an open offer.
+
+The Committee felt that the above referred acquisition arising as a result
+of receipt of consideration for open offers in terms of the Regulations are
+passive  acquisitions  and  hence  require  to  be  exempted  from  the
+applicability of the Regulations.
+
+Page 29 of 41
+
+It was also felt that safety net i.e. acquisition by a promoter or through a
+merchant  banker  is  for  the  benefit  of  investors  and  therefore  anyone
+providing safety net and thereby crossing the threshold limit, should not be
+burdened with open offer obligations.
+also 
+encourage
+promoters /merchant bankers to offer safety net to investors.
+
+This  may 
+
+Regarding  the  acquisitions  by  International  financial  organisations  like
+IFC, ADB etc., it was felt that these organisations have an important role
+to play and are akin to Indian financial institutions. Since such institutions
+may  not  have  an  interest  in  gaining  control,  their  acquisitions  may  be
+exempt from the Regulations.
+
+While  on  the  subject  of  exemption,  Shri  Manubhai  Shah,  on  behalf  of
+CERC,  strongly  stated  that  granting  of  exemption  to  the  acquirers  from
+making  public  offers  is  overwhelmingly  anti  small  investor  and  it  defeats
+the very purpose of the Regulations. He, therefore, opined that as far as
+possible,  there  should  be  no  room  for  exemption  or  any  contingency  or
+any  possible  permutation  or  combination  where  exemption  should  be
+allowed  whereby  acquirers  are  not  required  to  make  public  offer  to  the
+shareholders. He stated that the obligation of the acquirers to make public
+offer should be the rule and not the exception.
+
+The Committee recommends that the scope of Regulation 3 i.e. the
+exemption provisions should be expanded to cover acquisitions
+?  by a person in pursuance to an open offer for exchange of shares
+
+? 
+
+in excess of creeping acquisition limit pursuant to offer of safety
+net made by promoters/ merchant bankers
+
+?  by international development organisations such as IBRD,  ADB,
+
+CDC, IFC.
+
+17.
+
+Reporting to SEBI
+Under  the  current  Regulations,  certain  acquisitions  which  are  exempted
+under  the  Regulations  are  to  be  reported  to  SEBI  within  21  days  of  the
+acquisition.  The  Committee  deliberated  on  whether  this  requirement
+should continue.
+
+The Committee recommends that there is no need to dispense with
+the present requirement of reporting.
+
+18.
+
+ Date of proposed acquisition: 
+The Committee deliberated on what should be the reference date in case
+of securities which are convertible.
+
+Page 30 of 41
+
+The  Committee  recommends  that  the  date  of  conversion  of  the
+securities  should  be  the  reference  date  for  determining  the
+applicability of the Regulations.
+
+Definitions
+
+19.
+19.1 The  Committee  stated  that  It  must  be  understood  that  while  definitions
+should  be  clear,  precise  and  unambiguous,  there  may  not  be  definitions
+which  cover  each  and  every  aspect  of  the  terms  defined  therein.    The
+Committee  was  informed  that  despite  the  clarity  that  the  current
+Regulations  provide,  certain  operational  difficulties  have  been  faced  by
+SEBI while dealing with certain terms. For example, in a situation where X
+acquires  certain  %  in  the  target  company  pursuant  to  a  MOU  which
+triggers an open offer and Public announcement is made by Y, which may
+be a connected party to X or a totally independent person. Y is shown as
+the acquirer because under the open offer X is not going to acquire any
+shares. Some doubts were expressed regarding the liability of X in such a
+situation  if  Y  fails  to  fulfil  obligations.  In  other  words  questions  arose
+regarding the definition and obligation of the “acquirers”, “persons acting in
+concert”, “persons in control”  etc.
+
+The  Committee  also  observed  that  many  of  these  terms  have  been
+discussed thread bare in the orders passed by SEBI, Securities Appellate
+Tribunal and High Court and thus, the ambiguity regarding the terms like
+'acquirer', 'persons acting in concert', 'control' have been reduced to some
+extent.
+
+As  most  of  the  issues  referred  to  the  Committee  were  clarificatory  in
+nature,  the  Committee  after  discussions  and  experience  shared  by
+SEBI, recommends that the following may be clarified:
+
+?  The term acquirer also includes 'persons acting in concert'.
+
+?  The  acquirers  /persons  acting  in  concert  are  all  jointly  and
+severally  responsible  for  fulfillment  of  obligations  under  the
+Regulations.
+
+?  The  term  'voting  rights'  which  is  not  defined  in  the  Regulations
+would carry the meaning as per definition in the Companies Act,
+1956.
+
+19.2 Offer period : 
+
+The  Committee  was 
+that  certain  restrictions  placed  by
+Regulations  like  induction  of  directors  etc.  during  offer  period  are
+circumvented by inducting directors on or after the date of MOU but before
+Public  Announcement.  The  Committee  felt  that  the  intention  of  the
+
+informed 
+
+Page 31 of 41
+
+Regulations while placing such restrictions is to ensure that the acquirers
+do not take control of the target company till all formalities are completed.
+
+In  the  light  of  the  above,  the  Committee  recommends  that,  'Offer
+period' may be reckoned to be from the date of the MOU, if any, to
+the date of completion of all formalities.
+
+19.3 Promoter 
+
+In  the  current  Regulations  exemption  is  given  from  the  applicability  of
+Regulations  to  inter-se  transfer  amongst  promoters  as  defined  in  the
+Regulations.  The  Committee  was 
+the  general
+apprehension expressed by various quarters regarding the misuse of this
+provision due to the definition of promoters being too wide.  For example,
+a  company  with  only  7  qualifying  shares  of  which  two  are  held  by  a
+promoter would fall within the definition but actual acquisition through such
+company may be done by the remaining 5 shareholders through financing
+arrangements.
+
+informed  about 
+
+The  Committee  agreed  that  the  Regulations  need  to  be  tightened  by
+amending  the  definition  of  ‘promoter’.  The  adoption  of  the  definition  of
+‘promoter’ 
+in  the  Regulations  from  the  Malegam  Committee  report  has
+widened  the  scope  of  exemption.  Since  the  exemption  under  the
+Regulations is automatic and subject to only a reporting requirement, such
+a wide definition is susceptible to misuse. The Committee, therefore, felt
+that the definition may be suitably reworded and  adapted for the purposes
+of the Regulations.
+
+The Committee recommends that the definition of ‘promoter’  may be
+redrafted  as under :
+
+”Promoter” means -
+(i) 
+
+the person or persons who are (in control of the company)
+directly or indirectly whether as a shareholder, director or
+otherwise, over the company; or
+
+(ii) 
+
+(iii)
+
+ 
+
+person or persons named in any offer document as
+promoters.
+
+where the promoter is  an individual –
+(a)  a relative of the promoter within the meaning of section
+       6 of the Companies Act, 1956 (1 of 1956);
+(b)  any firm or company, directly or indirectly, controlled by
+
+the Promoter or a relative of the Promoter or a firm or Hindu
+undivided  family  in  which  the  Promoter  or  his  relative  is  a
+partner or co-parcener or a combination thereof;
+
+Page 32 of 41
+
+Provided  that  in  case  of  partnership  firm  the  share  of  the
+promoter or relative of the promoter is not less than 50%.
+
+(iv) where the promoter is a corporate body :-
+
+(a)    subsidiary or holding company of that body; or
+(b)    any firm or company, directly or indirectly, controlled by
+   the Promoter of that body corporate or his relative or a
+   firm or Hindu undivided family in which the Promoter or
+   his relative is a partner or co-parcener or a combination
+   thereof."
+
+Provided  that  in  case  of  a    firm,  the  share  of  a  promoter  or
+relative of a promoter is not less than 50%.
+
+19.4 Public shareholding  
+
+Public shareholding is an important term as it denotes the shares that can
+be considered eligible for acceptance under the offer.  While the definition
+covers  shareholders  other  than  acquirer  and  persons  acting  in  concert,
+Regulation 22(3) excludes the participation of parties to agreement in the
+open offer.  The Committee's views were sought on whether this definition
+would hold good in a situation of a hostile bid or when certain persons in
+the  existing  management  are  not  included  as  parties  to  MoU  either
+deliberately or otherwise. The Committee was of the opinion that this may
+have to considered based on the facts of each case.
+
+The  Committee  recommends  that  in  a  particular  situation,  if  the
+definition  is  not  found  to  hold  good,  SEBI  may  intervene  and  issue
+suitable directions
+
+19.5 Shares 
+
+The current definition of shares includes any security which would entitle
+the holder to receive shares with voting rights.  The issue of whether this
+definition of 'shares' would include redeemable preference shares as they
+would carry voting rights under certain circumstances was deliberated by
+the Committee.
+
+The  Committee  was  of  the  opinion  that  redeemable  preference  shares,
+per se, do not carry voting rights and such share holders are permitted to
+vote  under  certain  special  circumstances  only.    Hence  it  may  not  be
+appropriate to equate them with shares. 
+
+The  Committee  recommends  that  for  the  purpose  of  these
+Regulations, the term 'shares' would not include preference shares.
+
+Page 33 of 41
+
+19.6 Date of Acquisition
+
+The term 'acquisition' has not been defined in the current Regulations.  In
+the current Regulations, all the reporting requirements are linked to date of
+acquisition.  While  as  an  established  practice  in  case  of  preferential
+allotment the date of allotment is taken as the date of acquisition, there is
+a  lack  of  established  norm  in  case  of  purchases  from  the  open  market.
+There is a need to clarify whether the date of acquisition in case of open
+market purchase is the date of delivery of shares with blank transfer forms
+or the date of transfer and registration in own name.
+
+20.
+
+The Committee noted that in a demat environment, the issue may not have
+much relevance. The Committee also noted that the Regulations are also
+applicable  in  case  of  intention  to  acquire  shares  which  would  imply  that
+registration  of  shares  is  not  a  prerequisite  for  determining  acquisition  of
+shares.
+
+Asset Stripping
+The  Committee  noted  that  the  Regulations  do  not  have  substantive  and
+explicit  provisions  to  cover  situations  where  after  the  public  offer,  the
+acquirer  proceeds  to  strip  the  assets  of  the  company.  The  extant
+Regulations  have  certain  restrictions  on  sale  of  assets  during  the  offer
+period  and  also  require  certain  disclosures  about  the  intentions  of  the
+acquirer  in  this  regard.  The  Committee  noted  that  the  disclosures  in  the
+offer  document  in  this  matter  are  generally  vaguely  worded  as  the
+acquirers usually take shelter under the pretext that they can decide about
+such  things  only  after  they  gain  control  and  take  stock  of  the  situation.
+While  this  is  not  disputed,  there  should  be  certain  safeguards  to  ensure
+that  any  asset  stripping  which  is  substantial  in  nature  is  done  with  the
+approval  of  the  shareholders  to  protect  their  interests.  The  Committee
+noted 
+the  Companies  Act  provisions  require  an  approval  of
+shareholders only in the  event of sale of undertaking and not when there is
+sale  of  assets,  even  if  it  is  substantial.  The  Committee  considered  what
+safeguards  should  be  imposed  to  ensure  shareholder  protection  and
+sanctity of disclosures made in the offer document. The Committee felt that
+disclosures  should  be  made  in  the  offer  document  regarding  asset
+stripping. Such disclosures are necessary to enable the investor to take an
+informed decision on the offer.
+
+that 
+
+The Committee recommends that:
+
+?  The  offer  document  should  include  an  undertaking  from  the
+acquirer  not  to  strip  substantial  assets  except  with  the  prior
+approval of the shareholders of the target company.
+
+Page 34 of 41
+
+21.
+
+?  Any non compliance thereto should be treated as a mis-statement
+
+in the offer document inviting appropriate action by SEBI.
+
+?  As a measure of investor protection, SEBI may consider extending
+the  same  principle  to  the  listed  companies  in  general  by  making
+such an undertaking as a part of listing agreement.
+
+Indirect acquisition of a company through chain principle
+The  Committee  was  of  the  opinion  that  the  public  offer  for  the  company
+which  gets  acquired  as  a  consequence  of  the  takeover  of  the  target
+company  is  triggered  only  upon  the  successful  completion    of  the
+acquisition  of  the  target.  At  the  time  of  making  the  offer  for  the  target
+company,  such  a  takeover  or  rather  its  success  is  contingent  and
+prospective and in the event of its failure, the consequent offer does not
+arise. Though the public announcement for the consequent offer could be
+made  simultaneously,  it  would  be  conditional  upon  the  successful
+completion of the first offer. Such conditional offer has its own impact on
+the market and is not without practical and procedural difficulties. Hence
+the  public  announcement  for  the  consequent  offer  can  be  allowed  to  be
+made within a pre- specified time period of say 3 months from the date of
+closure of the first offer.
+
+However, the investors of the 2nd company should get benefit of the best
+price  available  and  for  the  purpose  the  reference  dates  of  the  public
+announcement for the first as well as the second offer may be taken for
+determining the offer price.
+
+The Committee recommends that
+
+?  The  offer  for  a  company  which  gets  acquired  as  a  result  of
+acquisition  of  a  target  company  can  be  subsequent  to  the
+successful  completion  of  the  takeover  of  the  target  by  the
+acquirer. It should be made within 3 months of consummation of
+restructuring or arrangement by parent or holding company.
+
+?  The  price  shall  be  determined  as  highest  of  the  two  prices
+determined  as  per  the  provisions  of  the  Regulations,  with
+reference  to  the  date  of  the  public  announcement  for  the  target
+company and the date of public announcement for the company
+which is consequently acquired.
+
+22.
+
+Acquisition  of  Indian  listed  company  by  virtue  of  acquisition  of  an
+Overseas Company
+In the case of acquisition of Indian listed company by virtue of acquisition
+of  an  overseas  company;  the  Committee  was  of  the  firm  view  that  the
+interest of Indian shareholders should be protected. Such interest should
+
+Page 35 of 41
+
+not be allowed to be compromised simply because the acquisition takes
+place through complex /multi-tier organisation structures. The Committee
+pointed out that specific amendments and explanation were incorporated
+in the 1997 Takeover Regulations  to cover such  acquisitions.
+
+As  regards  enforcement  of  the  obligations,  the  Committee  was  of  the
+opinion  that  the  company  immediately  above  the  Indian  listed  company
+would  be  obliged  to  comply  with  the  Regulations  since  as  part  of  the
+chain, it is in immediate control/command of voting rights.
+
+The Committee also desired that in such cases apart from the parameters
+as specified in the Regulations for determination of the offer price, the 2
+weeks  average  market  price  prior  to  the  public  announcement  may  also
+be  taken  into  account.  This  is  in  appreciation  of  the  fact  that  in  many
+cases, the date when the obligation actually crystallises is not clear.  The
+Committee  noted  that  the  extant  Regulations  already  cover  cases  of
+acquisition of Indian listed company by virtue of acquisition of an overseas
+company.
+
+The  Committee  recommends  that  it  may  be  clarified  that  the
+obligation to make an open offer would rest on the entity one level
+above the Indian listed company.
+
+Permitting change in management pending completion of offer
+formalities
+The Regulations permit change in the Board of Directors which would give
+the  acquirer  control  over  the  company  only  upon  fulfillment  of  all
+obligations  by  the  acquirers  under  the  Regulations  and  certified  by  the
+merchant banker. However, where 100% of the amount of consideration
+payable is deposited  in the special account, changes in the Board were
+allowed to be effected  after the closure of offer.  The Committee was of
+the opinion that this clause might prove onerous at times considering the
+time involved for completion of formalities.  The Committee however noted
+that the said provision was introduced in order to provide for level playing
+field in competitive bids and to maintain status quo till the closure of the
+offer.    The  Committee  was  of  the  opinion  that  since  the  competitive  bid
+can  be  made  only  within  a  particular  period  from  the  date  of  public
+announcement, it may not be inappropriate if  the acquirer were allowed to
+enter the management after such period for competitive bidding is over.
+
+The Committee recommends that
+
+?  acquirers  may  be  allowed  to  enter  the  management  after  the
+
+period of competitive bidding is over ;
+
+23.
+
+Page 36 of 41
+
+?  such changes may be allowed only when 100% of consideration
+payable,  assuming  full  acceptances,  is  deposited  in  escrow  in
+cash where the consideration payable is in cash; or in the form of
+securities  where  the  consideration  payable  is  by  way  of  issue,
+exchange and/or transfer of securities.
+
+24. Withdrawal of acceptances tendered
+
+One of the issues raised before the Committee was whether the investors
+should  have  the  right  to  withdraw  acceptances  once  tendered.  The
+Committee  was  informed  of  SEBI’s  consistent  stand  in  the  matter  that
+acceptances once tendered cannot be withdrawn.  Such a stand had been
+taken  in  the  light  of  practical  difficulties  in  allowing  withdrawal  and  re-
+tendering  as  also  the  fact  that  the  acquirer  may  not  be  in  a  position  to
+determine with a reasonable amount of certainty  the level of acceptances
+that his offer has elicited which is essential for him to plan his strategy like
+revision  in  offer  price  or  offer  size  etc.  Such  problems  would  become
+acute if there are competitive bids.
+
+The  Committee,  however,  noted  that  in  other  jurisdictions  the  facility  for
+withdrawal is permitted and also it may not be legally tenable to disallow
+withdrawal by investors when the contract is yet to be completed.  Further,
+allowing  withdrawal  would  be  in  the  interest  of  investors.  This  is  more
+relevant in case of competitive offers. The Committee felt that the investor
+should be allowed to withdraw till such time the final price has been fixed
+and made known to the investors. In this context the Committee noted that
+the Regulations permit revision in offer price upto 7 working days prior to
+the date of offer. Allowing 3 to 4 days thereafter for investors to exercise
+their  judgment,  the  Committee  felt  that  withdrawal  by  investors  may  be
+permitted upto 3 working days prior to the date of closure of offer.
+
+The  Committee  recommends  that  the  investors  may  be  allowed  to
+withdraw the form of acceptance tendered upto 3 working days prior
+to the date of closure of offer.
+
+25
+
+Acquisition during and subsequent to public offer
+The  present  Regulations  required  disclosures  in  respect  of  acquisition
+during  offer  period.    The  Committee  was  informed  that  such  disclosures
+are, however, made only in respect of acquisitions at a price higher than
+offer price.  The Committee noted that the acquisitions during offer period,
+irrespective  of  the  price  at  which  it  was  acquired,  is  a  price  sensitive
+information and should be disclosed.
+
+The  Committee  recommends  that  acquisitions  during  offer  period,
+irrespective of the price at which it was acquired must be disclosed
+to the stock exchanges. The Committee also recommends that the
+
+Page 37 of 41
+
+26.
+
+information  received  by  the  stock  exchanges  shall  be  immediately
+posted on the trading screen for information of the public.
+
+As  regards  acquisitions  subsequent  to  closure  of  public  offer  by  the
+acquirer, the Committee noted that while there may not be any objection
+to  market  purchases,  it  would  be  reasonable  to  restrict  negotiated
+purchases, at prices higher than offer price immediately following the offer,
+so as to avoid  misuse.
+
+The Committee recommends that the acquirers may not be permitted
+to acquire shares at a price higher than offer price for a period of six
+months.  This restriction however will not apply to market purchases.
+
+Delisting pursuant to an offer under the Regulations
+The  attention  of  the  Committee  was  drawn  to  the  recent  trend  of  offers
+being made with intention to delist.  Such offers are made at a time when
+the general market conditions are depressed, thereby taking advantage of
+the  low  market  price.  Delisting  through  these  offers  has  the  effect  of
+reducing good quality paper from the market. This is also perceived by the
+investors as unfair as they are left with no choice but to accept the offer or
+face  the  consequences  of  remaining  as  a  shareholder  of  an  unlisted
+company with no exit option. Some members were of the opinion that the
+formula  for  arriving  at  the  offer  price  for  such  offers  should  be  more
+stringent and should take into account the book value, market price over a
+period  etc.  In  this  connection,  the  Committee  was  informed  that  SEBI  is
+already seized of this issue and has already set up a committee to look
+into all aspects of delisting.
+
+The Committee recognizes that delisting is an issue which is detrimental
+to  the  investors  and  feels  that  the  Takeover  Regulations  should  not  be
+used to achieve the objective of delisting by circumventing the provisions
+laid down for delisting in the listing requirements.
+
+The Committee recommends that a suitable clarification to this effect
+may be incorporated in the Regulations.
+
+27.  Compression of time taken for open offers.
+
+The members of the Committee were of the opinion that there is scope to
+reduce the time prescribed for various activities under the Regulations so
+as to enable faster completion of offer process. This will be in the interest
+of investors, acquirers and also the target company.
+
+The Committee recommends that suitable amendments may be made
+in the Regulations wherever possible.
+
+Page 38 of 41
+
+28.
+
+Penalties
+The Committee deliberated on the various penalties that could be levied
+on  the  acquirer  in  case  of  violation  of  the  provisions  of  the  Regulations
+especially  in  case  of  an  acquirer  who  has  acquired  shares  /control  in
+violation of the Regulations 6,7, 8, 10, 11 & 12  - whether he should be
+allowed  to  retain  the  benefit  of  such  illegal  acquisition;  or  should  the
+acquirer be directed to make a public offer and separately be subject to
+action for violation in terms of the Regulations.
+
+The  Committee  was  apprised  of  the  extant  practice  followed  by  SEBI  to
+deal  with  violations,  which  is  generally  directing  an  acquirer  to  make  an
+open  offer  and  separately  referring  the  case  for  adjudication  and  levy  of
+monetary penalties. The Committee was informed of the grounds for such
+practice namely the following, -
+
+(i) 
+
+(ii) 
+
+Directing  an  acquirer  to  disinvest  may  not  serve  the  intended
+purpose of the Regulation i.e to provide an exit opportunity to the
+shareholders.  Hence  mandating  an  open  offer  seemed  a  better
+alternative.
+
+The acquirer may not be in a position to disinvest especially in case
+of  illiquid  shares.  Further  mandating  disinvestment  may  have  its
+own impact on share price to the detriment of the shareholders for
+no fault of theirs.
+
+(iii) 
+
+Penalty is visited through adjudication.
+
+While the Committee appreciated the concern of SEBI, it was of the firm
+view that the acquirer should not generally be allowed to reap the benefits
+of any acquisition in breach of Regulations. Directing such an acquirer to
+make  an  open  offer  in  some  cases  may  enable  the  acquirer  to    further
+consolidate  his  ill  gotten  acquisitions.  The  Committee  was  of  the  firm
+opinion  that  any  acquisition  in  breach  of  Regulation  10,  11  or  12,
+including where an exemption under Regulations 3 is not available due to
+non  compliance  with  any  of  the  conditions  on  which  the  exemption  is
+granted under Regulation 3 leading to acquisition in breach of Regulations
+10,11  or  12  is  bad  in  law  and  therefore  is  null  and  void  ab  initio.  The
+Committee opined that the remedies for violation are made known so that
+the  acquirer  is  aware  of  the  repercussions.  The  Committee  therefore
+suggested  that  a  separate  provision  be  incorporated  in  the  Regulations
+clearly  specifying  that  acquisition  of  shares  in  breach  of  Regulations  3,
+10,11 or 12 shall be null and void. The Committee further suggested that
+SEBI  should  also  be  empowered  to  make  consequential  directions  such
+as cancellation of shares, freezing of transfer and voting rights etc. in such
+cases.
+
+Page 39 of 41
+
+The  Committee,  in  the  light  of  above  discussions,  recommends  as
+follows:
+
+?  A  new  Regulation  12A  may  be  inserted  clearly  spelling  out  the
+
+following:
+i) 
+
+ii) 
+
+Any acquisition of shares in breach of Regulation 10, 11 or
+12 of the Takeover Regulations shall be null and void.
+So  also,  where  exemption  under  Regulation  3  is  not
+available for any reasons whatsoever and an acquisition is
+made in breach of Regulations 10,11 or 12, such acquisition
+shall be null and void.
+
+?  Where it is not possible to restore status quo ante for any reason,
+SEBI  should  direct  appointment  of  a  merchant  banker  for  the
+purpose of causing disinvestment of shares acquired in breach of
+Regulations either through public auction or market mechanism,
+in its entirety or in small lots, or through offer for sale.
+
+?  Any  profit  made  in  the  process  should  be  put  in  the  Investor
+
+Protection Fund.
+
+?  Where  an  acquisition  of  shares  pursuant  to  an  allotment  is  null
+and void due to breach of Regulations 3, 10, 11 or 12,  SEBI shall
+report the same to the target company,  and the stock exchanges.
+The  target  company  shall  cancel  the  shares  which  are  null  and
+void  and  shall  report  to  SEBI  and  stock  exchanges  about  the
+cancellation  of  such  shares.    The  depository  shall  freeze  further
+transfer of such shares.
+
+?  Where  SEBI  is  satisfied  that  as  a  result  of  acquisition  of  any
+shares, violation of Regulations 10, 11 or 12 is likely to take place,
+SEBI may direct the target company or the depository not to give
+effect  to  transfer  of  any  such  shares  and  not  to  permit  the
+acquirer or any nominee or any proxy of the acquirer, to exercise
+any voting or other rights attaching to such shares.
+
+?  Violators and their associates may be debarred from accessing or
+dealing  in  the  capital  market  for  such  period  as  may  be
+determined by the SEBI.
+
+?  For  non  compliance  with 
+
+in
+Regulation  6,7  &  8,  the  SEBI  may  have  the  power  to  direct  dis-
+investment of such shares as are in excess of the trigger point for
+reporting requirement, as well as to impose monetary penalty.
+
+the  disclosure 
+
+requirement 
+
+Page 40 of 41
+
+? 
+
+In  exceptional  cases,  such  other  remedies  as  considered
+appropriate may be granted by SEBI.
+
+?  This is without prejudice to any other penalty as may be levied by
+
+SEBI
+
+29.   Power to remove difficulties
+
+It has been observed that public offers of Indian listed securities are being
+made  not  only  in  India  but  also  outside  the  jurisdiction  of  India.  It  is,
+therefore, important to empower SEBI to issue directions for the purpose
+of resolving the conflict of laws.
+
+The  Committee,  therefore,  recommends  that  the  Regulations  be
+amended  so  that  if  any  difficulty  arises  from  certain  offers  being
+subject  to  more  than  one  jurisdiction,  SEBI  is  empowered  to  issue
+directions for the purpose of resolving the conflict of laws, if any.
+
+The Committee thanks the Secretariat and the officers of SEBI who helped the
+Committee  throughout  in  its  deliberations.  The  Committee  records  its  deep
+appreciation of the valuable contributions made by Smt. Usha Narayanan, CGM,
+Investigation  Department  of  SEBI  and  the  assistance  provided  by  her  in  the
+preparation  of  the  Report.  We  would  particularly  like  to  place  on  record  the
+untiring efforts, dedication and zeal with which the staff of SEBI and particularly
+Shri  O  P  Gahrotra,  the  then  Sr.  Executive  Director  of  SEBI,  Kum  Dharmistha
+Raval, Smt. Usha Narayanan and Shri Ananta Barua placed themselves at the
+disposal of the Committee, assisting the Committee in its deliberations and in the
+preparation of the Report and draft amendments to the Takeover Regulations.
+
+thanks 
+
+the  media, 
+
+The  Committee  would  like  to  thank  the  large  number  of  individuals  and
+institutions who readily responded to the Committee’s request for their views and
+comments  and  also  for  giving  in  writing  their  views  on  specific  issues.  The
+Committee 
+financial  and  economic
+newspapers  and  magazines,  for  widely  publicising  the  deliberations  and  for
+offering  constructive  comments  by  way  of  news  reports  and  editorials  and
+publication  of  articles  and  letters  from  the  readers  and  thus  generating  large
+public debate and interest in the subject and thereby assisting the Committee in
+arriving at its recommendations.
+
+in  particular 
+
+the 
+
+The Committee also wishes to express its grateful thanks to Shri D.R. Mehta, the
+then Chairman of SEBI for constituting the Committee and giving the members
+full  freedom  in  drafting  the  Report  and  the  Regulations.    The  Committee  also
+would like to express its grateful thanks to Shri G.N. Bajpai, present Chairman of
+SEBI for facilitating the completion of the work of the Committee.
+
+****
+
+Page 41 of 41
+
+

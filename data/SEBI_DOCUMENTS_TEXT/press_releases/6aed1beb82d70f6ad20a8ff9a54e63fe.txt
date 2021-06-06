@@ -1,0 +1,169 @@
+
+ 
+Aug 09, 2016
+
+PR No.:  
+131/2016
+
+
+In order to enable ease of paying penalties, disgorgement amounts, settlement amounts, legal charges and recovery amounts, SEBI is introducing an option for e-payment of such amounts. Such payments may be remitted to the SEBI accounts detailed below:
+
+
+
+
+Account No. for remittance of   penalties levied by Adjudication Officer
+
+
+
+
+Bank   Name
+
+
+State   Bank of India
+
+
+
+
+Branch 
+
+
+Bandra-Kurla   Complex
+
+
+
+
+RTGS   Code 
+
+
+SBIN0004380
+
+
+
+
+Beneficiary  Name   
+
+
+SEBI   – Penalties Remittable To Government of    India
+
+
+
+
+Beneficiary   A/c No.
+
+
+31465271959
+
+
+
+
+ 
+Account No. for remittance of   Settlement Amounts and Legal Charges/Recovery Amounts
+
+
+
+
+Bank   Name
+
+
+Bank   of India,
+
+
+
+
+Branch 
+
+
+Bandra-Kurla   Complex
+
+
+
+
+RTGS   Code 
+
+
+BKID   0000122
+
+
+
+
+Beneficiary  Name   
+
+
+Securities   and Exchange Board of India
+
+
+
+
+Beneficiary   A/c No.
+
+
+012210210000007
+
+
+
+
+ 
+Account No. for remittance of   Disgorgement Amounts
+
+
+
+
+Bank   Name
+
+
+Bank   of India,
+
+
+
+
+Branch 
+
+
+Bandra-Kurla   Complex
+
+
+
+
+RTGS   Code 
+
+
+BKID   0000122
+
+
+
+
+Beneficiary  Name   
+
+
+Securities   and Exchange Board of India
+
+
+
+
+Beneficiary   A/c No.
+
+
+012210210000008(for   orders under Section 11B of SEBI Act)
+012210210000007(for   orders under Section 12A of the SCR Act and 19A of Depositories Act)
+
+
+
+
+All payees are advised to henceforth, forward the details and confirmation of the payments so made, to the concerned dealing department of SEBI for their records as per the format provided at Annexure A.
+ 
+Mumbai 
+August 09, 2016
+ 
+ 
+ 
+Annexure A
+Format for forwarding details and confirmations of e-payments made to SEBI
+ 
+1.  Case Name :
+2. Name of Payee:
+3. Date of payment:
+4.Amount Paid:
+5.Transaction No:
+6. Bank Details in which payment is made:
+7. Payment is made for: (like penalties/disgorgement/recovery/Settlement amount and legal charges along with order details)
+

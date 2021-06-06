@@ -1,0 +1,103 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Clarification on a news item 
+
+PR No.29/2020 
+
+With a view to curbing the misuse of power of attorney (POA) given by the clients to the 
+
+trading member (TM) / clearing member (CM), SEBI, vide circular dated February 25, 
+
+2020 prescribed that margin obligations to be given in form of securities by client shall 
+
+be by way of pledge / re-pledge in the Depository System and title transfer of securities 
+
+to the client collateral demat account of the TM/ CM for margin purposes shall not be 
+
+permitted. In cases  where a client has given a POA in favour of a TM / CM, such holding 
+
+of POA shall not be considered as equivalent to the collection of margin by the TM / CM 
+
+in  respect  of  securities  held  in  the  demat  account  of  the  client  with  effect  from  June 
+
+1,2020.  
+
+ 
+
+In a news item in today’s Business Line it has been reported that SEBI has discontinued 
+
+the use of POA between a client and broker in the equity markets. This is not correct – 
+
+there is no restriction imposed on use of POA by broker.   
+
+ 
+
+The news item also quotes a statement from one Shri Vijay Bhusan that “several POA 
+
+arrangements will have to be reversed and entire process of margin placement of share 
+
+to  broker  will  have  to  be  re-done.”  The  apprehensions  raised  are  ill  founded.    Even 
+
+today,  systems  are  in  place  where  broker  using  POA  transfers  client  securities  as 
+
+margin into his client’s collateral account and then place these securities with Clearing 
+
+Corporation (CC) by way of Transfer or creation of pledge towards margin. There is no 
+
+change caused in conditions of POA. Even after June 1,2020, broker using POA may 
+
+continue to transfer client securities to his client collateral account towards margin.  The 
+
+ 
+
+ 
+
+only difference would be that now the Broker would not be able to report all securities 
+
+lying in the demat account of the client as margin collected. In order to post securities 
+
+as margin, these securities even today are required  to be moved out of client demat 
+
+account  to collateral account of CM/CC. Securities lying in the client Demat account of 
+
+client are not counted as margin by CM/CC and no exposure is permitted.  
+
+ 
+
+It is further envisaged that effective August 1, 2020, by operationalising the pledge and 
+
+re-pledge  mechanism  stated  in  aforesaid  Sebi  circular,  the  securities  of  client  will 
+
+remain in that client's demat account and entire trail of the securities utilised for margin 
+
+purposes shall be available. In this mechanism, the TM / CM will not be able to misuse 
+
+securities  of  client  A 
+
+towards  margin  of  client  B  and 
+
+for  also 
+
+for 
+
+its 
+
+own proprietary trades. 
+
+ 
+ 
+ 
+Mumbai 
+May 26, 2020 
+
+ 
+
+

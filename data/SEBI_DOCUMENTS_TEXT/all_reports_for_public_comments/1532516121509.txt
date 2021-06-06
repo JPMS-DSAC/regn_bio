@@ -1,0 +1,1176 @@
+ 
+
+ 
+
+RReevviissiittiinngg  tthhee  ppuubblliicc  iissssuuee  pprroocceessss    
+
+ 
+
+Securities  market,  including  the  market  for  public  offerings,  is  dynamic  and  needs  to 
+
+keep pace with the evolving economic and technological environment. In order to keep 
+
+pace  with  the  change,  there  has  been  a  commensurate  change  in  the  regulatory 
+
+framework governing the primary market. 
+
+ 
+
+SEBI in its endeavour to provide issuers and investors with an efficient mechanism for 
+
+raising  funds,  has  been  continuously  striving  to  streamline  the  process  and 
+
+methodologies associated with public issue fund raising process.  
+
+ 
+
+Towards this end, in order to enable issuers to raise capital in the shortest possible time 
+
+span and to reduce market risk for investors as well as issuers, the time duration from 
+
+issue closure to listing was shortened from 12 days to 6 days with effect from January 
+
+01,  2016,  by  obviating  the  use  of  cheques  and  making  Application  Supported  by 
+
+Blocked Amount (ASBA) mechanism as the sole payment mechanism in public issues.    
+
+ 
+
+SEBI has  been exploring ways and means to further streamline the process, including 
+
+shortening the timeline from 6 days. 
+
+ 
+
+In view of the significant developments in the payment mechanisms,  it is felt that the 
+
+Unified  Payments  Interface  (UPI),  a  process  for  electronic  funds  transfer  launched  by 
+
+Reserve  Bank  of  India  (RBI)  and  National  Payments  Corporation  of  India  (NPCI)  in 
+
+March  2016,  could  be  incorporated  with  ASBA  mechanism  to  further  improve  the 
+
+efficiency of the process. 
+
+ 
+
+As participation and contribution from all stakeholders almost invariably precedes any 
+
+successful  change  in  regulatory  framework,  the  instant  paper  is  to  seek  public 
+
+comments on the proposal to use UPI with ASBA mechanism in public issues. 
+
+ 
+
+1. 
+
+Background 
+
+1.1. 
+
+SEBI Board in its meeting held on June 23, 2015, approved the proposal to reduce 
+
+the  post  issue  timeline  for  listing  from  T+12  days  to  T+6  days  (where  T  is  the 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+date of closure of public issue) and ASBA was made mandatory for all categories 
+
+of investors.  
+
+ 
+
+2. 
+
+Need for review 
+
+2.1.  Currently,  the  shares  of  the  company  are  listed  on  the  stock  exchanges  on  6th 
+
+working day from the closure of the issue.  
+
+ 
+
+2.2.  An investor can submit application for subscribing to a public issue through the 
+
+following channels, with ASBA as the sole mechanism for making payment: 
+
+ 
+a)  Self-Certified  Syndicate  Bank  (SCSB)  -  Submission  of  application  form, 
+
+physically  at  the  branch  of  SCSB,  i.e.  investor’s  bank,  or  online  platform  if 
+
+provided by the SCSB.  
+
+ 
+
+b)  SEBI registered Broker / DP / RTA (Intermediaries) - Submission of physical 
+
+application  with  any  of  the  intermediary  or  through  the  online  platform,  if 
+
+provided by the respective intermediary. 
+
+ 
+
+2.3.  To enable issuers to raise capital in the shortest possible time span and to further 
+
+reduce  market  risk  for  investors  as  well  as  issuers,  the  existing  public  issue 
+
+process  was  examined.  Based  on  such  examination  it  is  noted  that  while  the 
+
+ASBA  mechanism  has  resulted  in  various  benefits  to  issuers  and  investors, 
+
+certain  activities 
+
+in  the  process,  particularly  relating  to  retail 
+
+investor 
+
+applications submitted with the intermediaries, could be further streamlined.  
+
+ 
+
+2.4.  The  current  process  for  applications  submitted  with  an  intermediary,  is 
+
+summarized as under:  
+
+ 
+
+  Bidding and validation process 
+
+a)  The  application  form,  containing  the  investor’s  bid  and  bank  details,  is 
+
+submitted by the investor with the intermediary.  
+
+ 
+
+b)  The  intermediary  upon  receipt  of  application  uploads  the  bid  in  the  stock 
+
+exchange  platform.  The  data  uploaded  in  the  stock  exchange  platform  is 
+
+validated for Demat account details and PAN with the depository. Thereafter 
+
+Revisiting the public issue process 
+ 
+
+Page 2 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+the intermediary forwards the forms to the investors’ bank (one of the SCSBs) 
+
+for blocking of funds. 
+
+ 
+c)  Investors bank upon receipt of such form from the intermediary, undertakes 
+
+the  process  of  verification  of  investors’  signature,  blocking  of  funds  in 
+
+investors account, and updating the bid file with account number and block 
+
+status. 
+
+ 
+d)  The said bid file is then provided to  RTA for reconciliation of bid data with 
+
+block of funds corresponding to such bids. 
+
+ 
+
+ 
+
+ 
+
+Allocation and debit process 
+
+e)  After the process of bid and blocking, the basis of allotment is finalized and 
+
+the details are shared by registrar with SCSBs for transfer and unblocking of 
+
+funds. 
+
+ 
+
+f)  SCSBs  transfer  funds  to  public  issue  escrow  account  for  shares  proposed  to 
+
+be  allotted,  unblock  remaining  funds/accounts  and  provide  confirmation  to 
+
+registrar in respect of the same.  
+
+ 
+
+Revisiting the public issue process 
+ 
+
+Page 3 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+g)  On  confirmation  of  completion  of  aforesaid  process,  including  credit  of 
+
+shares,  Stock  Exchanges  grant  listing  approval  and  the  trading  commences 
+
+ 
+
+from 6th working day. 
+
+ 
+
+2.5.  The  activities 
+
+in  the  aforesaid  process  which  require  streamlining  are 
+
+summarized as under: 
+
+a)  Validation of DP ID and PAN of investors with depository, on real time basis 
+
+vis-a-vis current batch processing;  
+
+b)  The manual process of segregation and physical delivery of application forms 
+
+by  the  intermediary  to  the  branches  of  over  60  SCSBs  in  each  location, 
+
+particularly  considering  the  high  volume  of  applications  which  are  bid  and 
+
+uploaded on T day (issue closure day) and  are received by Banks on T and 
+
+T+1 day; 
+
+c)  The manual process of, verification of investors’ signature, blocking of funds 
+
+in investors account, and updating the bid file with details of account number 
+
+and block status; 
+
+d)  Post closure of the offer,  the manual process of RTA obtaining confirmation 
+
+of block of funds from each SCSBs and post finalization of basis of allotment 
+
+sending  separate  instructions  to  each  of  SCSBs  for  debit  and  unblock  of 
+
+funds. 
+
+ 
+
+2.6.  While, it is desirable, to minimize the market risk for issues as well as investors 
+
+is minimized by reducing the time gap between issue closure and listing, and to 
+
+Revisiting the public issue process 
+ 
+
+Page 4 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+reduce  the  number  of  instances  of  failure  to  bid/block  on  account  of  above 
+
+activities, the said objectives may not be met by keeping the present mechanism, 
+
+including the current T+6 days timeline, intact. 
+
+ 
+
+2.7. 
+
+In  view  of  the  above,  it  is  proposed  to  use  an  alternate  payment  mechanism, 
+
+which while retaining the benefits of ASBA, would further streamline the public 
+
+issue process and aid in attaining the aforesaid objectives.  
+
+ 
+
+3. 
+
+Review process 
+
+3.1. 
+
+It  was  felt  that  the  possibility  of  introducing  a  faster  and  efficient  alternate 
+
+mechanism, for blocking and payment of funds, may be explored to streamline 
+
+the aforesaid activities and reduce the dependency on manual processes.  
+
+ 
+
+3.2.  Accordingly,  SEBI  had  discussions  with  the  NPCI  to  explore  the  use  of  a 
+
+payment  mechanism,  which,  while  retaining  the  benefits  of  ASBA  i.e.  blocking 
+
+of  funds,  would  increase  the  efficiency  of  the  existing  system  and  curtail  the 
+
+need for manual intervention at various stages in the process. 
+
+ 
+
+3.3.  Based  on  discussions  for  simplifying  the  process  of  investing  in  public  issues, 
+
+use  of  UPI  mechanism,  with  suitable  modifications  relating  to  ASBA  was 
+
+suggested.  
+
+ 
+
+3.4.  Unified Payments Interface (UPI) is an instant payment system developed by the 
+
+National  Payments  Corporation  of  India  (NPCI),  an  RBI  regulated  entity.  The 
+
+present UPI system allows instant transfer of money between any two person's 
+
+bank  accounts  using  a  payment  address  which  uniquely  identifies  a  person's 
+
+bank a/c.  
+
+ 
+For e.g., a person can create a payment address linked to his / her bank account 
+
+which  would  be  in  the  format  xyz@bankname.  One  may  share  the  payment 
+
+address with any other person to receive payments or collect money, without the 
+
+need to provide a bank account number/ IFSC code, etc. 
+
+ 
+It  was  suggested  that  for  the  purpose  of  public  issues,  the  UPI  system  would 
+
+3.5. 
+
+allow  the  investor  to  authorize  blocking  of  funds  for  making  application,  as  is 
+
+done using ASBA.  
+
+Revisiting the public issue process 
+ 
+
+Page 5 
+
+ 
+
+ 
+ 
+3.6. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+SEBI  also  held  consultations  with  various  market  participants,  consisting  of 
+
+Stock  Exchanges,  Depositories,  Registrar  &  Share  Transfer  Agents  (RTA), 
+
+Merchant  Bankers,  Stock  Brokers  and  Banks  wherein  the  proposed  framework 
+
+with use of UPI was deliberated and broadly agreed upon by the participants.  
+
+ 
+
+3.7.  During  the  aforesaid  deliberations,  the  participants  indicated  that  given  the 
+
+amount  per  application  for  Qualified  Institutional  Buyers  (QIBs)  and  Non-
+
+Institutional Investors (NII) greater than the proposed limit of 2 lacs in UPI and 
+
+considering that the number of applications in a public issue by such investors is 
+
+very small, the existing process may continue for QIBs and NIIs.  
+
+ 
+
+3.8.  Additionally,  it  was  indicated  that  the  existing  channel  of  submission  of 
+
+application forms directly with SCSBs, by all category of investors, may continue 
+
+as an alternative to the proposed framework. 
+
+ 
+
+4. 
+
+Proposal  
+
+Based  on  such  consultations,  the  broad  process  flow  for  retail  investor 
+
+applications  submitted  through  intermediaries  in  public  issues,  using  the  UPI 
+
+mechanism, would be as under: 
+
+ 
+
+A.  Bidding and validation process 
+
+4.1.  Before  submission  of  application  with  the  intermediary,  the  investor  would  be 
+
+required  to  create  a  UPI  ID  (xyz@bankname),  with  a  maximum  length  of  45 
+
+characters, including the bank name. The process for creating a UPI ID would be 
+
+provided by the investor’s bank. 
+
+ 
+
+4.2. 
+
+Investor  will  fill  in  the  bid  details  in  the  application  form  as  per  the  existing 
+
+process  along  with  his/  her  UPI  ID  i.e.  use  only  his  /  her  own  bank  account 
+
+linked UPI ID with application. 
+
+ 
+
+4.3.  As per the existing process, investor may submit the application with any of the 
+
+intermediary, who, upon receipt will upload the bid details along with UPI ID in 
+
+the stock exchange bidding platform.  
+
+ 
+
+4.4.  Once  the  bid  has  been  entered  in  the  bidding  platform,  the  exchange  will 
+
+undertake validation of the PAN and Demat Account details of investor with the 
+
+Revisiting the public issue process 
+ 
+
+Page 6 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+depository.  This  process  is  proposed  to  be  carried  out  on  a  real  time  basis 
+
+between the stock exchange and depository. 
+
+ 
+Post such validation, the stock exchange will electronically share the  bid details 
+
+4.5. 
+
+along  with  investors  UPI  ID,  with  the  Escrow/Sponsor  Bank  appointed  by  the 
+
+issuer. The Escrow / Sponsor Bank will initiate a mandate request on the investor 
+
+i.e. request the investor to authorize blocking of funds equivalent to application 
+
+amount  in  his  /  her  bank  account  and  subsequent  debit  of  funds  in  case  of 
+
+allotment. 
+
+ 
+
+B.  Block process 
+
+4.6.  The  request  raised  by  the  Escrow/Sponsor  Bank,  would  be  electronically 
+
+received  by  the  investor  as  an  intimation  on  his  /  her  bank  provided  mobile 
+
+application. 
+
+ 
+
+4.7. 
+
+Investor will  validate  the request on  his mobile application by logging  into the 
+
+mobile application by entering his UPI PIN / login pin. 
+
+ 
+
+4.8.  Upon validation of block request by the investor, the said information would be 
+
+electronically  received  by  the  investors’  bank,  where  the  funds,  equivalent  to 
+
+application amount, would get blocked in investors account.  
+
+ 
+
+4.9.  The 
+
+information 
+
+containing 
+
+status 
+
+of 
+
+block 
+
+request 
+
+(e.g. 
+
+- 
+
+accepted/decline/pending)  would  be  shared  by  the  investors’  bank  with  the 
+
+Escrow/Sponsor Bank, which in turn would be shared with stock exchange and 
+
+would  be  displayed  on  stock  exchange  platform  for  information  of  the 
+
+intermediary. 
+
+ 
+
+4.10. 
+
+Intimation  regarding  confirmation  of  such  block  of  funds  in  investors  account 
+
+would also be received by the investor. 
+
+ 
+
+4.11.  As  per  the  existing  process,  the  retail  investors  would  continue  to  have  the 
+
+option to modify or withdraw the bid till the closure of the bidding period. For 
+
+each  such  modification  of  bid,  investor  will  submit  a  revised  bid  and  shall 
+
+receive a fresh block request to validate. 
+
+ 
+
+Revisiting the public issue process 
+ 
+
+Page 7 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+C.  Post issue closure – allocation, debit, credit of shares and listing 
+
+4.12.  The registrar, based on information of bidding and blocking received from stock 
+
+exchange, would undertake reconciliation of the bid data and block confirmation 
+
+corresponding to the said bids and prepare the basis of allotment.  
+
+ 
+
+ 
+
+4.13.  Upon  approval  of  basis  of  allotment  by  Stock  Exchanges,  RTA  will  give 
+
+instructions to sponsor bank  to credit funds in the public  issue  escrow  account 
+
+and unblock the excess money in the investors account. 
+
+ 
+
+Revisiting the public issue process 
+ 
+
+ 
+
+Page 8 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+4.14.  Upon confirmation of receipt of funds in the public issue escrow account, shares 
+
+   
+
+ 
+
+ 
+
+would be credited to the investor’s account. 
+
+ 
+
+4.15.  Thereafter,  Stock  Exchanges  will  issue  the  listing  approval  and  trading  is 
+
+expected to commence from next working day. 
+
+ 
+Benefits from proposed framework 
+
+5. 
+
+The  implementation  of  the  above  proposed  framework,  would  result  in 
+
+following benefits: 
+
+ 
+
+5.1.  DP ID and PAN validation would be real time; 
+
+5.2.  No physical movement of application forms from intermediaries to SCSBs; 
+
+5.3.  Automated verification of investor signature and blocking of funds;  
+
+5.4. 
+
+Single point of contact for follow-up by RTA, for block of funds and subsequent 
+
+debit and unblocking of funds.  
+
+ 
+
+5.5.  On  account  of  above,  the  post  issue  timelines  are  expected  to  reduce  from  T+6 
+
+days to T+3 days and also result in reduction in manpower costs. 
+
+ 
+
+6. 
+
+Applications submitted directly with SCSB 
+
+6.1. 
+
+For application submitted directly with the SCSB, by any category of investor i.e. 
+
+Retail,  QIB  and  NII,  existing  process  of  bidding  and  blocking  of  funds  by  the 
+
+SCSB shall continue.  
+
+ 
+
+7. 
+
+QIB and NII applications submitted with intermediary 
+
+7.1. 
+
+Similarly,  for  applications  submitted  by  NIIs  and  QIBs  with  the  intermediary, 
+
+existing process of bidding by intermediary and blocking of funds by SCSB shall 
+
+continue. 
+
+ 
+
+8. 
+
+Proposed schedule of major activities 
+
+The day wise activity schedule with expected timelines would be as under: 
+ 
+
+Revisiting the public issue process 
+ 
+
+Page 9 
+
+Categories 
+
+Bids  by  Retail 
+investors  with 
+intermediaries 
+(Broker  /  RTA  / 
+DP) 
+
+Bids  by  QIBs 
+and  NIIs  with 
+intermediaries 
+
+ 
+
+ 
+
+T-3 to T day 
+
+Investor  would  fill  in  the  bid  details  in  the 
+application  form  as  per the  existing  process 
+along with his/ her UPI ID i.e. use only his / 
+her  own  bank  account  linked  UPI  ID  with 
+application. 
+ 
+Intermediary will upload the bid data along 
+with UPI ID in Stock Exchange Platform. 
+ 
+Upon  upload  of  above 
+information  by 
+intermediary,  investor  would  receive  an 
+intimation  on  his/her  mobile,  seeking 
+authorization  to  block  funds  equivalent  to 
+bid  amount  and  subsequent  debit  funds  in 
+case of successful allotment.  
+ 
+Investor  may  confirm  the  block  of  funds 
+anytime during this period.  
+ 
+Investor  would  continue  to  have  the  option 
+to  modify  /  withdraw  the  bid  during  this 
+period. 
+Investor  will  submit  the  application  form 
+with intermediary without UPI ID. 
+ 
+Intermediary  will  upload  the  bid  data  in 
+Stock Exchange Platform as per the existing 
+process. 
+ 
+Intermediary  will  send  the  forms  of  QIBs 
+and  NIIs  to  respective  branch  of  SCSB  for 
+blocking of funds. 
+
+Bids  by  Retail, 
+QIBs  and  NIIs 
+with SCSBs 
+
+Investor  to  submit  application  form  with 
+SCSB for bidding and blocking of funds. 
+ 
+SCSB  to  upload  the  bid  data  in  the  Stock 
+Exchange  platform  and  block  the  funds  in 
+the investors account. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+T+1 day 
+
+Investors would have 
+time till 12:00 p.m. on 
+T+1 day to act upon the 
+request for block of 
+funds, post which all 
+pending requests will 
+automatically lapse. 
+ 
+As per the existing 
+process, no modification 
+/ withdrawal will be 
+allowed on after T day. 
+ 
+Escrow/Sponsor Bank to 
+provide confirmation on 
+bank-wise blocking of 
+funds to Stock Exchange 
+latest by 2:00 p.m. 
+
+ 
+
+respective 
+
+Sending  of  applications 
+which are bid on last day 
+to 
+SCSB 
+latest  by  10:00 
+branch 
+a.m. 
+ 
+to  accept 
+SCSBs  not 
+application  forms  after 
+10:00 a.m. 
+ 
+SCSBs  to  provide    Final 
+certificate 
+Collection 
+and  NII 
+w.r.t  QIB 
+applications, 
+to  RTA,  
+latest by 2:00 p.m. 
+SCSBs  to  provide  Final 
+Collection  certificate,  to 
+RTA, latest by 2:00 p.m.   
+
+Revisiting the public issue process 
+ 
+
+Page 10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Categories 
+
+T day 
+
+T+1 day 
+
+T+2 day 
+
+Common 
+
+Instructions 
+
+Issuer 
+
+to 
+
+approve 
+
+Transfer of funds to Public Issue 
+
+activities 
+
+for 
+
+to 
+
+prospectus 
+
+escrow account/ and unblocking 
+
+all categories 
+
+depositories 
+
+ 
+
+of funds by 2:30 p.m. 
+
+for  Pre  Issue 
+
+Filing  of  prospectus 
+
+ 
+
+capital  Lock 
+
+with 
+
+Registrar 
+
+of 
+
+Issuer to approve allotment. 
+
+in 
+
+post 
+
+Companies 
+
+(ROC) 
+
+ 
+
+closure 
+
+of 
+
+latest by 5:00 p.m. 
+
+Filing 
+
+of  documents  with 
+
+bidding 
+
+period. 
+
+ 
+
+ 
+
+ 
+
+depositories for credit. 
+
+RTA 
+
+to 
+
+undertake 
+
+ 
+
+“Technical  Rejection” 
+
+Filing  of 
+
+listing  applications 
+
+test based on electronic 
+
+along  with  all  other  relevant 
+
+bid details and prepare 
+
+documents with stock exchange 
+
+list 
+
+of 
+
+technical 
+
+ 
+
+rejection cases.” 
+
+Receipt of confirmation of credit 
+
+ 
+
+of  shares  and  lock-in  of  shares 
+
+Draft basis of allotment 
+
+from  depositories  latest  by  6:00 
+
+to  be  submitted  with 
+
+p.m.  
+
+Stock  Exchange  by 
+
+ 
+
+RTA latest by 8:00 p.m. 
+
+File  demat  credit  and  unblock 
+
+ 
+
+confirmation with exchange and 
+
+Finalization  of  basis 
+
+obtaining 
+
+trading  permission 
+
+latest  by  11:00  p.m.  on 
+
+latest by 7:00 p.m. 
+
+the  basis  of  receipt  of 
+
+ 
+
+filing  of  prospectus 
+
+Receipt  of  Listing  and  Trading 
+
+with ROC 
+
+Approvals latest by 8:00 p.m. 
+
+ 
+
+ 
+ 
+
+ 
+
+Expected commencement of trading on 3rd working day from closure of the issue 
+
+ 
+
+9. 
+
+Public comments on the proposal  
+
+9.1.  Considering  the  implications  of  the  said  matter  on  the  market  participants 
+
+including  listed  companies,  market  intermediaries  and 
+
+investors,  public 
+
+comments on the policy framework proposed above are solicited.  
+
+ 
+
+9.2.  The  comments  on  above,  may  be  sent  by  email  or  through  post,  latest  by 
+
+15/08/2018, in the format below: 
+
+ 
+ 
+
+Revisiting the public issue process 
+ 
+
+Page 11 
+
+ 
+
+ 
+
+Details of respondent 
+
+Name / Organization 
+
+Contact number 
+Email address 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+ 
+ 
+
+Comments on consultation paper 
+
+Sr. No.  Question No. 
+
+Comment /proposed change 
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+While sending email kindly mention the subject as "Comments on consultation 
+
+paper for revisiting the public issue process". 
+
+Email Address: 
+
+listingprocess@sebi.gov.in  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Postal Address: 
+
+Mr. Narendra Rawat 
+Deputy General Manager 
+Corporation Finance Department 
+Securities and Exchange Board of India 
+SEBI Bhavan, Plot No.C4‐A, ʺGʺ Block 
+Bandra Kurla Complex, Bandra (East) 
+Mumbai ‐ 400051 
+Ph: +91 22 26449383 
+ 
+
+ 
+
+Revisiting the public issue process 
+ 
+
+Page 12 
+
+

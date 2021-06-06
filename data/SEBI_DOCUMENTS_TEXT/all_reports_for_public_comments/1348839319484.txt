@@ -1,0 +1,254 @@
+ 
+ 
+
+ 
+
+Discussion Paper on 'Mandatory Safety Net Mechanism' 
+
+ 
+
+Background 
+Regulation  44  of  SEBI  (ICDR)  Regulations,  2009  addresses  the  concept  of  Safety 
+Net in public Issues. Excerpts from the same are reproduced below: 
+“An  issuer  may  provide  for  a  safety-net  arrangement  for  the  specified  securities 
+offered  in  any  public  issue  in  consultation  with  the  BRLM  after  ascertaining  the 
+financial  capacity  of  the  person  offering  the  safety-net  arrangement,  subject  to 
+disclosures  specified  in  this  regard  in  Part  A  of  Schedule  VIII  of  SEBI  (ICDR) 
+Regulations, 2009. 
+ 
+Provided  that  any  such  arrangement  shall  provide  for  an  offer  to  purchase  up  to  a 
+maximum  of  one  thousand  specified  securities  per  original  resident  retail  individual 
+allottee at the issue price within a period of six months from the last date of dispatch 
+of security certificates or credit of demat account.” 
+ 
+Reasons for review 
+In the analysis of price performance of the scrips listed during  2008 to 2011, it was 
+observed  that  out  of  117  scrips,  72    (around  62%  issues)  were  trading  below  the 
+Issue price after 6-months of their listing. Out of those 72 scrips which witnessed fall 
+in price, in 55 scrips the fall was more than 20% of the Issue price. In this scenario if 
+the trend continues, the sentiments of the investors would get affected and they may 
+lose  confidence  in  the  capital  market.    Thus,  there  is  a  need  to  provide  Safety  Net 
+arrangement for RIIs to build their confidence in capital market. 
+ 
+
+  Discussion in Primary Market Advisory Committee meeting held on 31/07/2012  
+The  Primary  Market  Advisory  Committee  (PMAC)  was  of  the  view  that  considering 
+ 
+the recent post-listing price performance of IPOs, it is necessary to make the safety 
+net mechanism mandatory for IPOs so as to reinforce investor confidence in capital 
+markets and discipline issuers and market intermediaries. Thus, the Committee was, 
+broadly, in concurrence with SEBI on the need for such a mechanism.  However, the 
+Committee  was  of  the  view  that  the  proposed  mandatory  Safety  Net  mechanism 
+would  impact  various  segments  of  market  participants  such  as  investors,  issuers, 
+promoters, BRLMs, etc., and that public comments be sought. 
+
+ 
+  Discussions in the SEBI Board held on 16/08/2012 
+,   Considering 
+
+Indian  market  dynamics  and 
+
+the 
+
+the  recent  post-listing  price 
+performance of IPOs, the Board opined that besides disclosures, other measures are 
+needed to bring in self-discipline in IPO pricing. One such measure which could help 
+protect  the  interests  of  small  investors  is  a  safety  net  mechanism.  While  agreeing 
+with the approach in this regard, it was of the view that more public consultation on 
+the details of the proposal was needed, before it could be implemented.   
+
+ 
+
+ 
+
+Page 1 of 4 
+
+  Accordingly,  the  following  proposed  broad  framework  for  a  'Mandatory  Safety  Net 
+
+Mechanism' is hereby placed for public comments. 
+
+ 
+
+Proposed Broad Framework for Safety Net Mechanism 
+ 
+
+ 
+
+A.  Safety Net provision shall be mandatory for all IPOs. 
+ 
+B.  Safety Net Trigger: 
+
+Safety  Net  provision  shall  trigger  only  in  cases  where  the  price  of the  shares 
+depreciate by more than 20% from the issue price. The price for this provision 
+shall  be  calculated  as  the  volume-weighted  average  market  price  of  such 
+shares for a period of 3 months from the date of listing.  
+ 
+Further,  the  20%  depreciation  in  share  price  shall  be  considered  over  and 
+above  the  general  fall,  if  any,  in  market  index.  The  market  index  for  this 
+purpose  may  be  BSE-500  or  S&P  CNX  500.  The  market  index  to  be 
+considered  for  this  purpose  shall  be  disclosed,  in  advance,  in  the  offer 
+document. 
+
+Following illustrations will explain the point further: 
+
+Illustration-1 
+Assume  listing  price  for  share  is  Rs.  100  and  market  index  on  listing  date  is 
+1000. After 3 months, volume-weighted average market price of the shares is 
+Rs.  79  (drop  of  21%) and  the market  index  is  1000  (drop of 0%). The  Safety 
+Net provision will trigger since relative fall of 21% (21%-0%) is more than 20% 
+trigger level. 
+
+Illustration-2 
+Assume  listing  price  for  share  is  Rs.  100  and  market  index  on  listing  date  is 
+1000. After 3 months, volume-weighted average market price of the shares is 
+Rs.  79  (drop  of  21%) and  the market  index  is  900  (drop  of  10%). The  Safety 
+Net provision will not trigger since relative fall of 11% (21%-10%) is less than 
+20% trigger level. 
+
+Illustration-3 
+Assume  listing  price  for  share  is  Rs.  100  and  market  index  on  listing  date  is 
+1000. After 3 months, volume-weighted average market price of the shares is 
+Rs.  69  (drop  of  31%) and  the market  index  is  900  (drop  of  10%). The  Safety 
+Net  provision  will  trigger  since  relative  fall  of  21%  (31%-10%)  is  more  than 
+20% trigger level. 
+
+Illustration-4 
+Assume  listing  price  for  share  is  Rs.  100  and  market  index  on  listing  date  is 
+1000. After 3 months, volume-weighted average market price of the shares is 
+Rs.  89  (drop  of  11%)  and  the  market  index  is  1100  (increase  of  10%).  The 
+Safety Net provision will not trigger even if relative fall of 21% (11%-(-10%)) is 
+more  than  20%  trigger  level  since  the  absolute  drop  in  share  price  is  11% 
+which is less than 20% trigger level. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 2 of 4 
+
+C.  Eligibility: 
+
+The  facility  will  be  available  for  all  the  allotted  securities  to  original  resident 
+retail  individual  allottees  who  had  made  an  application  for  up  to  Rs  50,000 
+subject to following: 
+ 
+
+  The total obligation on Safety Net provider will be capped at 5% of the 
+
+ 
+
+issue size. 
+ 
+In case the total number of shares offered under the safety net scheme 
+works out to be more than 5% of issue size, the purchase of securities 
+from  original  resident  retail  individual  allottees  shall  be  done  on 
+proportionate basis such that total obligation does not exceed 5% of the 
+issue size. For eg., in an issue of size Rs. 1000 Cr., post-issue promoter 
+holding  is  50% of the capital of the  company  and market  capitalisation 
+of the company is Rs. 2000 Cr., the safety net obligation would work out 
+as under:- 
+
+(i)  The  maximum  obligation  of  the  promoter  would  be  5%  of  Rs.  1000 
+Cr., i.e., he will be obliged to buy the shares worth Rs. 50 Cr. at the 
+issue price. 
+ 
+
+(ii)  Even if more than 5% of the issue size has been originally allotted to 
+RIIs  who  had  applied  for  Rs.  50,000  or  less  and  all  of  them  tender 
+their shares, the promoter will be obliged to buy shares worth Rs. 50 
+Cr.  only  at  the  issue  price,  i.e.  5%  of  Rs.  1000  Cr.,  the  issue  size. 
+The acceptance will be done on a proportionate basis.  
+ 
+
+(iii)  However,  if  the  number  of  eligible  shareholders  or  the  number  of 
+shares tendered is less than the above, the cost for the promoter in 
+providing  the  safety  net  would  be  limited  to  fall  in  the  value  of  the 
+actual number of shares tendered. For eg., if 5% shares (i.e. approx 
+15% of the RII quota of 35%) are tendered in safety net and if the fall 
+in price is 20% from the issue price, the cost of providing safety net 
+will  be  Rs.  10  Cr.  only,  i.e.  1%  of  the  issue size  of  Rs.  1000  Cr.  In 
+this case, if the shares tendered are less than 5% of the issue size, 
+the cost will be even lesser.  
+
+D.  Period for Safety Net: 
+
+  The Issuer/ BRLM to announce, within 3 working days from the date of 
+completion  of  three  months  from  listing  date,  triggering  of  Safety  Net 
+provision and invite eligible shareholders to tender their shares.  
+ 
+
+  Safety Net arrangement shall be open for 10 working days from the date 
+of  announcement.  Eligible  investors  may  tender  their  shares  to  Safety 
+Net  Provider  under  the  scheme  during  this  period.  The  shares  so 
+tendered  shall  be  kept  in  escrow  account  till  successful  settlement  of 
+shares and funds. 
+ 
+
+  The  settlement  of  shares  and  funds  shall  be  completed  within  10 
+working days of the completion of the last date for surrender of shares 
+by eligible shareholders. 
+
+ 
+
+Page 3 of 4 
+
+ 
+
+  Eligible investors may tender their shares through a separate exchange 
+
+window (similar to buyback of shares). 
+
+ 
+E.  The  primary safety net obligation would rest with the  promoters of the issuer. 
+However,  they  may  choose  to fulfill  the  same,  directly  or  through  BRLMs/any 
+other Safety Net Provider. 
+
+ 
+F.  The arrangements made for the purpose of meeting  the Safety Net obligation 
+
+shall be disclosed in the offer document.  
+
+ 
+G.  Any  acquisition  of  shares  under  the  scheme  of  Safety  Net  shall  be  exempt 
+
+from the provisions of SEBI (SAST) Regulations, 2011. 
+
+ 
+
+Public Comments 
+Comments on the above framework may be emailed on or before October 31, 2012, 
+to pranav@sebi.gov.in/ cfddil@sebi.gov.in or sent, by post, to:- 
+ 
+Mr. Sunil Kadam 
+General Manager 
+Corporation Finance Department - Division of Issues & Listing 
+Securities & Exchange Board of India  
+SEBI Bhavan 
+Plot No. C4-A, "G" Block 
+Bandra Kurla Complex 
+Bandra (East) 
+Mumbai - 400 051 
+Ph: +912226449630/+912226449463 
+ 
+
+****** 
+
+ 
+ 
+ 
+
+ 
+
+Page 4 of 4 
+
+

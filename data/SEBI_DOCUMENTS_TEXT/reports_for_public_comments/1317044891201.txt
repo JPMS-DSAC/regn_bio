@@ -1,0 +1,602 @@
+ 
+
+ 
+
+CONCEPT PAPER ON REGULATION OF INVESTMENT ADVISORS 
+
+1. 
+
+Background 
+
+1.1  
+
+1.2  
+
+Section  11  (2)(b)  of  SEBI  Act  empowers  SEBI  to  register  and  regulate  working  of 
+Investment  Advisors  and  such  other  intermediaries  who  may  be  associated  with 
+securities market in any other manner.  
+
+As  decided  by  SEBI  Board  in  its  meeting  dated  March  22,  2007,  SEBI  had  posted  a 
+consultative  paper  on  the  “Regulation  of  Investment  Advisors”  on  its  website  inviting 
+public comments. Based on public comments received on the consultative paper as also 
+the USAID (Fire Project), a memorandum was placed before the SEBI Board proposing a 
+regulatory approach for Investment Advisors. It was proposed that the Regulations shall 
+be  implemented  through  an  SRO.  As  Investment  Advisors  offer  products  across  asset 
+classes, it was felt that the respective regulators may take a view and formulate similar 
+norms and code of conduct. Accordingly a reference was made to the HLCC on Financial 
+and Capital Markets.  
+
+1.3  
+
+HLCCFM in its meeting held on December 22, 2008 set up the D. Swarup Committee to 
+re‐examine the issue. The committee submitted its report to government in December 
+2009  which  was  discussed  in  the  HLCCFM  meeting  in  March  2010.  Subsequently, 
+regulatory issues relating to Wealth Management and / Private Banking undertaken by 
+banks were discussed by the FSDC Sub‐Committee in its meeting on March 4, 2011. 
+
+1.4  
+
+In  this  background,  SEBI  has  developed  a  framework  for  regulation  of  investment 
+advisors through the SRO route.  
+
+2. 
+
+Tackling Conflict of Interest in Distribution of Financial Products 
+
+2.1 
+
+It is axiomatic that any industry, in order to achieve scale and high productivity, must be 
+free of internal contradictions and conflicts of interest. Financial sector is no exception. 
+The  financial  product  distribution  space  is  particularly  fraught  with  these  conflicts 
+between  the  manufacturers  of  financial  products  like  banks,  mutual  funds,  and 
+insurance  companies,  etc.  and  the  distributors  which  sell  these  products  who  call 
+themselves by various names like agents, financial advisors, financial planners, etc.  
+
+2.2 
+
+ It  is  necessary  to  resolve  or  at  least  mitigate these  conflicts,  especially  in  the  case  of 
+financial products because of their two peculiar characteristics. Firstly, the products are 
+
+ 
+
+Page 1 of 11 
+
+ 
+
+ 
+
+intangible and conceptually more difficult to understand. Secondly, the pay‐offs are in a 
+distant future and can be camouflaged by several factors external to the product. It is in 
+this context that the distributors occupy a key role; all the more so considering the low 
+levels of financial literacy and awareness in India.  
+
+2.3 
+
+Two  major  conflicts  of  interest  in  the  financial  product  distribution  space  are  the 
+following:  
+
+a.  Dual  role  played  by  distributors  as  an  agent  of  investors  as  well  as  of  the 
+manufacturers. This is due to the fact that with respect to many financial products, 
+agents  receive  their  payments  from  two  sources:  commissions  from  the 
+manufacturers (either directly or through deductions from the investment amount 
+of  investors),  and  advisory  fees  or  other  charges  received from  the  investors.  This 
+immediately  raises  the  question:  whose 
+interests  do  they  represent:  the 
+manufacturers’ or the investors’? This question has also been raised in the Devendra 
+Swaroop Committee report on ‘Minimum Common Standards for Financial Advisors 
+and Financial Education’. This prevalence of divided loyalties may not be in the best 
+interest of all the stakeholders concerned. It often results in a situation where the 
+distributors  are  loyal  to  only  themselves.  They  would  happily  churn  investors’ 
+portfolio and also squeeze more commission from the manufacturer.  
+
+b.  A situation might arise where distributors are likely to be partial to, and would sell 
+more products of the manufacturer who is the best paymaster; and ultimately, other 
+manufacturers would scramble to do the same, thus leading to a race to the bottom. 
+Thus, there is an inherent conflict in the activities of an agent/distributor distributing 
+similar products of various manufacturers.  
+
+There  could  be  many  possible  solutions  to  these  issues  ‐  the  most  obvious  and  the 
+easiest  being  enhanced  disclosures.  However,  in  a  country  like  India  where  levels  of 
+literacy are low and financial literacy even lower, disclosures have a limited effect.  
+
+The  Financial  Services Authority,  UK,  had  outlined  plans  to  ban  commission  payments 
+for  product  providers  and  enforce  financial  advisors  to  agree  on  fee  payments  with 
+clients upfront. It defined two categories of service: independent and restricted, on the 
+basis  of  which  advisors  would  charge  the  fee.  Examples  of  restricted  advice  may  be 
+where  advisors  offer  advice  only  about  the  products  of  a  particular  manufacturer;  or 
+about  the  products  from  a  defined  list  of  manufacturers.  Independent  advice  would 
+include unrestricted advice based on a comprehensive and fair analysis of the relevant 
+
+Page 2 of 11 
+
+2.4 
+
+2.5  
+
+ 
+
+ 
+
+ 
+
+market.  However,  there  is  a  kind  of  restricted  advice  called  ‘basic  advice’.  With  Basic 
+Advice, the consumer is asked some pre‐scripted questions about their income, savings 
+and other circumstances to identify the consumer’s financial priorities and suitability for 
+a  stakeholder  product,  but  a  full  assessment  of  their  needs  is  not  conducted  nor  is 
+advice  offered  on  whether  a  non‐stakeholder  product  may  be  more  suitable.  ‘Basic 
+advice’ is excluded from the new rules i.e. in case of basic advice, commissions can be 
+paid  and  the  new  advisor  charging  rules  are  not  applicable  to  the  same.  Also,  non‐
+advised or execution only sales would be remunerated only by commission and would 
+not fall within the ambit of the advisor charging rules. Thus, in the FSA model, the first 
+conflict of interest as per para 2.3(a) seems to have been addressed by ensuring that the 
+distributor/advisor  owes  allegiance  to  only  one  paymaster  at  a  time‐either  the 
+manufacturer or the investor.  
+
+2.6 
+
+ SEBI,  with  effect  from  August  01,  2009,  had  banned  entry  loads  in  mutual  fund 
+investments and had mandated that the upfront commission should be paid directly by 
+the investors to the distributors based on factors like assessment of the service of the 
+distributor. However, the distributor continued to earn trail commissions from the Asset 
+Management  Company  at  the  same  time.  Thus,  the  first  conflict  of  interest  was  only 
+partially mitigated in this model.  
+
+2.7 
+
+In this paper, we are attempting to deal with only the first type of conflict of interest. 
+The possible model for tackling this conflict of interests may be the following:  
+
+a.  The person who interfaces with the customer should declare upfront whether he is a 
+
+financial advisor or an agent of the manufacturer.  
+
+b.  If he is an advisor, he would be subject to the Investment Advisors Regulations; and 
+would require a much higher level of qualifications. He would act as an advisor to 
+the  investor  on  all  financial  products.  He  would  receive  all  payments  from  the 
+investor and there would be no limits set on  these payments. On the other hand, 
+there will be agents who will be associated with the manufacturer and would receive 
+their  remuneration  from  them.  However,  they  will  be  prevented  from  styling 
+themselves as financial advisors and will have to call themselves as agents only. 
+
+c.  This will resolve the first conflict of interest as in para 2.3 (a).  
+
+3. 
+
+Structure of Proposed Regulations  
+
+3.1  
+
+The  proposed  regulatory  framework  intends  to  regulate  the  activity  of  providing 
+investment  advisory  services  in  various  forms  by  a  wide  range  of  entities  including 
+
+ 
+
+Page 3 of 11 
+
+ 
+
+independent financial advisors, banks, distributors, fund managers etc. The investment 
+advice may be provided for investments in various financial products including but not 
+limited to securities, insurance products, pension funds, etc. While the activity of giving 
+investment  advice  will  be  regulated  under  the  proposed  framework  through  an  SRO, 
+issues  relating  to  financial  products  other  than  securities  shall  come  under  the 
+jurisdiction of the respective sectoral regulators such as action for mis‐selling, violation 
+of  code  of  conduct,  conflict  of  interest  etc.  The  SRO  set  up  for  the  regulation  of 
+Investment  Advisors  shall  follow  the  rules/regulations 
+laid  down  by  respective 
+regulators for products falling in their jurisdiction, including but not limited to suitability 
+and appropriateness of the products.  
+
+The SRO formed to regulate investment advisors will be registered under the SEBI (Self 
+Regulatory  Organization)  Regulations,  2004.  SRO  will  have  sufficient  resources  to 
+perform  its  functions.  Its  duties  would  include  registering  and  setting  minimum 
+professional standards, including certification of investment advisors, laying down rules 
+and  regulations  and  enforcing  those;  informing  and  educating  the  investing  public; 
+setting  up  and  administering  a  disputes  resolution  forum  for  investors  and  registered 
+entities  etc.  Persons  desirous  of  registration  as  Investment  Advisors  shall  obtain 
+registration with the SRO established for the purpose. The SRO will be entitled to charge 
+a fee for granting registration and an annual fee. 
+
+Complaints / disputes arising out of investment advisory services will be taken up by the 
+SRO  with  the  respective  regulatory  authority,  while  the  complaints  regarding  the 
+financial products and their manufacturers will be handled by the respective regulators. 
+
+Investment  Advisors  tend  to  call  themselves  by  varied  names  viz.  wealth  managers, 
+private  bankers  etc.  This  causes  much  confusion  as  to  their  role  and  responsibility. 
+Hence the regulations will provide that no person can carry on the activity of offering 
+investment  advice  unless  he  is  registered  as  an  Investment  Advisor  under  the 
+regulations.  On  the  other  hand  any  person  who  has  obtained  the  certificate  of 
+registration  as  an  Investment  Advisor  must  necessarily  use  the  word  “investment 
+advisor” in his name.  
+
+Page 4 of 11 
+
+ 
+
+3.2  
+
+3.3  
+
+3.4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.  
+
+Definitions 
+
+4.1 
+
+ Investment Advisor 
+
+ 
+
+Investment advisor for the purpose of the regulations shall be any person or entity that 
+provides  investment  advice  directly  or  indirectly  for  a  consideration,  which  may  be 
+received directly from the investor or who holds himself out as an investment advisor.  
+
+4.2  
+
+ Investment Advice  
+
+Investment  advice  shall  be  an  advice  written,  oral  or  through  any  other  means  of 
+communication  given  regarding  investment  of  funds  in  financial  products  or  products 
+that  are  traded  and  settled  like  financial  products  purportedly  for  the  benefit  of  the 
+investor. It shall include: 
+
+(a) Financial advice; or  
+
+(b) Financial planning service or  
+
+(c) Actions which would influence an investment decision and are incidental to making 
+an investment/investment decision. 
+
+5. 
+
+Coverage 
+
+5.1 
+
+Individuals  
+
+The following set of individuals would need to get registered under the regulations to be 
+able to provide Investment Advisory Services:‐  
+
+a.  Independent 
+
+Independent 
+
+Investment  Advisor– 
+
+Investment  Advisors  are 
+professionals who offer independent advice on financial matters to their clients and 
+recommend suitable financial products or products that are traded and settled like 
+financial products.  
+
+b.  Representatives  of  investment  advisors  or  intermediaries  who  on  behalf  of  the 
+investment  advisor  or 
+investors: 
+Representative would mean a person, in the direct employment of, or acting for, an 
+investment  advisor,  who  performs  on  behalf  of  the  investment  advisor  any 
+investment  advisory  service,  whether  or  not  he  is  remunerated,  and  whether  his 
+remuneration,  if  any,  is  by  way  of  salary,  wages,  commission  or  otherwise,  and 
+
+investment  advice  to 
+
+intermediary  provide 
+
+ 
+
+Page 5 of 11 
+
+ 
+
+ 
+
+includes  any  officer  of  an  investment  advisor  who  performs  for  the  investment 
+advisor  any  investment  advisory  service  whether  or  not  he  is  remunerated,  and 
+whether  his  remuneration,  if  any,  is  by  way  of  salary,  wages,  commission  or 
+otherwise;  
+
+5.2 
+
+Non‐individuals  
+
+The  following  set  of  non‐individuals  (corporate  entities)  would  need  to  get  registered 
+under the regulations to be able to provide Investment Advisory Service:  
+
+a.  Banks  providing  investment  advisory/  wealth  management  services:  In  India  Banks 
+are  allowed  to  perform  only  Investment  Advisory  Services.  Those  banks  which 
+provide  similar  services  would  be  required  to  get  registration  under  these 
+regulations.  
+
+b.  Any entity, other than an individual person ‐ representing investment advisor, who 
+on  behalf  of  the  investment  advisor  provides  investment  advice  to  investors  : 
+Representative  would  mean  a  person,  acting  for,  an  investment  advisor,  who 
+performs  on  behalf  of  the  investment  advisor  any  investment  advisory  service, 
+whether or not it is remunerated, and whether its remuneration, if any, is by way of, 
+commission or otherwise, and includes any officer of such an entity who performs 
+for  the  investment  advisor  any  investment  advisory  service  whether  or  not  he  is 
+remunerated,  and  whether  his  remuneration,  if  any,  is  by  way  of  salary,  wages, 
+commission or otherwise;  
+
+6. 
+
+Persons Exempt from the regulations 
+
+6.1  
+
+A  person  shall  be  deemed  not  to  be  engaged  in  the  business  of  providing  investment 
+advice,  if  the  advice  is  solely  incidental  to  some  other  business  or  profession  and  the 
+advice  is  given  only  to  clients  of  the  person  in  the  course  of  such  other  business  or 
+profession and the advice does not specify particular securities and is limited to general 
+comments made in good faith in regard to trends in the securities market, the economic 
+situation of the country.  
+
+6.2  
+
+The following shall be exempt from registration under these regulations:  
+
+a.  An  advocate  and  solicitor  or  law  firm,  whose  offer  of  financial  advice  is  solely 
+
+incidental to his legal practice.  
+
+ 
+
+Page 6 of 11 
+
+b.  Chartered  accountants  who  are  registered  under  the  Institute  of  Chartered 
+Accountants of  India providing  of any investment advice is  solely incidental to the 
+accounting practice.  
+
+ 
+
+c.  Any person who publishes magazine/newspaper, where —  
+
+I. the newspaper is distributed generally to the public in India;  
+
+II.  the  advice  given,  or analysis  or  report  issued,  is  promulgated  only  through  that 
+newspaper; 
+
+III. that person receives no commission or other consideration, apart from any fee 
+received from subscription to or purchase of the newspaper, for giving the advice, or 
+for issuing or promulgating the analysis or report; and  
+
+IV. the advice is given, or the analysis or report is issued or promulgated, solely as 
+incidental to the conduct of that person’s business as a newspaper proprietor.  
+
+ 
+
+d.  Any  person  who  owns,  operates  or  provides  an  information  service  through  an 
+
+electronic, or a broadcasting or telecommunications medium, where —  
+
+I. the service is generally available to the public in India;  
+
+II.  the  advice  given,  or  analysis  or  report  issued  is  promulgated  only  through  that 
+service;  
+
+III. that person receives no commission or other consideration, apart from any fee 
+received  from  subscription  to  the  service,  for  giving  the  advice,  or  for  issuing  or 
+promulgating the analysis or report; and  
+
+IV. the advice is given, or the analysis or report is issued or promulgated, solely as 
+incidental to that person’s ownership, operation or provision of that service. 
+
+  
+
+e.  Any  stock  broker  or  sub‐broker  as  registered  under  SEBI(  Stock  Broker  and  Sub‐
+Broker) Regulations, 1992, who provides any investment advice as per Regulation 7 
+read with Schedule II of SEBI (Stock Broker and Sub‐broker) Regulation, 1992 and not 
+charging any consideration for such advice. 
+
+Page 7 of 11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+f.  Any  person  offering  exclusively  insurance  broking  services  under  regulation  of 
+
+Insurance Development and Regulatory Authority.  
+
+7.  
+
+Registration Requirements 
+
+7.1  
+
+The Individuals who wish to get registered under these regulations would need to satisfy 
+the following criteria: 
+
+a.  Individuals should acquire a Professional Qualification from a recognized institute for 
+e.g. Chartered Accountancy form ICAI, MBA in Finance or similar qualification from a 
+recognized university or should have at least 10 years of relevant experience; and  
+
+b.  Certification  from  NISM  or  such  other  organization  approved  by  SEBI  for  this 
+
+purpose 
+
+c.  The individuals should conform to the Fit and Proper Criteria s laid down in Schedule 
+
+II of SEBI (Intermediaries) Regulations, 2008.  
+
+7.2  
+
+Entities who wish to get registered under these regulations would need to satisfy the 
+following criteria:  
+
+a.  Capital  Adequacy  Requirement:  Entities  would  need  to  maintain  a  minimum  net 
+
+worth which would be separate from the net worth required for other activities. 
+
+b.  Key  personnel:  Entities  should  have  at  least  2  key  personnel  having  the  relevant 
+experience exclusively for such activity. Such key personnel should also acquire the 
+certification  from  NISM  or  such  other  organization  as  approved  by  SEBI  for  this 
+purpose and have minimum qualification as prescribed.  
+
+c.  The entity should conform to the Fit and Proper Criteria laid down in Schedule II of 
+
+SEBI (Intermediaries) Regulations, 2008.  
+
+d.  The  applicant  must  have  adequate  infrastructure  to  enable  it  to  discharge  its 
+
+functions as an Investment Advisor. 
+
+8. 
+
+ Obligations of an Investment Advisor 
+
+8.1  
+
+Fiduciary Responsibility to Investors  
+
+All information received and provided by the investment advisor would be in fiduciary 
+capacity. The investment advisor will be responsible to maintain confidentiality of the 
+
+ 
+
+Page 8 of 11 
+
+ 
+
+ 
+
+investment advice provided to the client and information provided by the client. Advice 
+should be given by the advisor in the best interest of the investor. 
+
+8.2  
+
+Suitability and Risk Profiling  
+
+The Investment Advisors or their representatives would be required to do adequate risk 
+profiling of the client before any investment service is provided to them. Based upon the 
+risk  profiling  performed  by  the  investment  advisor  or  their  representative  suitable 
+investment advice should be provided. The records of such risk profiling and investment 
+advice should be maintained by the Investment Advisor.  
+
+8.3  
+
+Advertising and Marketing Material 
+
+ Investment  Advisors  should  not  use  any  advertisement  that  contains  any  untrue 
+statement of material fact or that is otherwise misleading. They should not use or refer 
+to testimonials (which include any statement of a client’s experience or endorsement).  
+
+Refer  to  past,  specific  recommendations  made  by  the  advisor  that  were  profitable, 
+unless  the  advertisement  sets  out  a  list  of  all  recommendations  made  by  the  advisor 
+within the preceding period of not less than one year and complies with other specified 
+conditions.  
+
+8.4  
+
+Conflict of Interest  
+
+No  financial  incentives/  consideration  would  be  received  from  any  person  other  than 
+investors seeking advice. In case of advice regarding investment in entities related to the 
+investment  advisor,  adequate  disclosures  shall  be  made  to  investor  regarding  the 
+relationship.  
+
+8.5   Maintaining Records 
+
+Records  in  support  of  every  investment  recommendation  /transaction  made  which 
+indicates  the  data,  facts  and  opinion  leading  to  that  investment  decision  would  be 
+maintained by the Investment Advisor. Records should be retained for at least 5 years. 
+Systematic record of all advises provided would be kept including audio recording of any 
+oral advice given. 
+
+ 
+
+ 
+
+ 
+
+Page 9 of 11 
+
+ 
+
+8.6  
+
+Fees and Charges  
+
+ 
+
+The Investment Advisor would clearly indicate to its clients the fees and charges that are 
+required  to  be  paid  by  them.  An  investment  advisor  shall  disclose  to  a  prospective 
+clients  all  material  information  about  itself,  its  businesses,  its  disciplinary  history,  the 
+terms  and  conditions  on  which  it  offers  advisory  services,  its  affiliations  with  other 
+intermediaries  and  such  other  information  as  is  necessary  him  to  take  an  informed 
+decision whether to avail of its services.  
+
+9.  
+
+Execution Services  
+
+Investment advisors shall not accept funds / securities from investors, except the fee for 
+investment  advice.  If  Non‐individual  investment  advisors  (corporate  entities)  offer 
+assistance  in  execution  services  such  as  broking,  custody  services,  DP  services, 
+accounting  etc.,  they  must  make  appropriate  disclosures,  clarify  that  the  investor  is 
+under no obligation to use their services and maintain arms length relationship through 
+creation  of  Chinese  walls.  The  choice  of  opting  for  execution  services  offered  by 
+investment  advisor  should  be  left  to  the  investors.  Fees  and  charges  paid  to  service 
+providers should be paid directly to them and not through investment advisors.  
+
+10. 
+
+Outsourcing  
+
+Other than sourcing of research reports, no other part of investment advisory activity 
+can be outsourced.  
+
+11. 
+
+Liability  
+
+The  investment  advisors  shall  not  be  liable  for  civil  or  criminal  liability  in  respect  of 
+advice given unless the advice is negligent or mala‐fide in nature. Any dispute between 
+the  investment  advisor  and  his  client  would  be  resolved  through  grievance  redressal 
+mechanism or arbitration created by SEBI 
+
+12. 
+
+Entities registered as Portfolio Managers  
+
+Portfolio  Managers  who  provide  only  investment  advice  would  need  to  be  registered 
+only as investment advisors after their present registration expires. Portfolio Manager 
+Regulations would be amended in view of the proposed AIF Regulations as well as the 
+Investment Advisor Regulations. 
+
+ 
+
+ 
+
+Page 10 of 11 
+
+ 
+
+13.     Public Comments 
+
+ 
+
+Public  Comments  are  invited  on  the  Concept  Paper  on  Regulation  of  Investment 
+Advisors. All comments may be forwarded by e‐mail to Shri Manish Tekriwal, Manager, 
+Investment  Management  Department,  Division  of  Funds  ‐  1  at  manisht@sebi.gov.in 
+latest by 1730 hours on October 31, 2011. 
+
+ 
+
+Page 11 of 11 
+
+

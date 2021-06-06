@@ -1,0 +1,92 @@
+ 
+
+FAQs on SEBI (PIT) Regulations 2015 
+
+ 
+Question:  
+Whether  requirement  of  pre-clearance  is  applicable  for  exercise  of  employee  stock 
+options?  
+Answer:  
+Employee  stock  options  being  issued  under  SEBI  (Share  Based  Employee  Benefits) 
+Regulations, 2014, the exercise of such stock options is covered under clause 4(3)(b) of 
+Schedule B of the SEBI (PIT) Regulations, 2015. However, sale of shares by employees 
+obtained after exercise of options shall not be covered under the aforesaid Clause. Thus, 
+no pre-clearance is required for exercise of stock options. 
+
+ 
+Question:  
+Whether trading in ADRs and GDRs by employees of Indian companies who are foreign 
+nationals is covered under provisions of PIT Regulations on code of conduct?  
+Answer:  
+Yes, trading in ADRs and GDRs of listed companies is covered under relevant provisions 
+of PIT Regulations. Employees of such companies, including foreign nationals, who are 
+designated persons, shall be required to follow the code of conduct for trading in ADRs 
+and  GDRs.  For  such  disclosures  by  such  designated  persons,  a  unique  identifier 
+analogous to PAN may be used. 
+
+ 
+Question:  
+What  information  should  a  listed  Company  maintain  in  its  structured  digital  database 
+under Regulation 3(5), in case the designated person is a fiduciary or intermediary?  
+Answer:  
+1[The listed company should maintain structured digital database internally, which shall 
+contain information including the following: 
+
+                                                           
+1 Substituted pursuant to amendment in SEBI PIT Regulations, 2015 dated July 17, 2020. (Erstwhile FAQ read as follows- The listed company 
+should maintain the names of the fiduciary or intermediary with whom they have shared information along with the Permanent Account Number 
+(PAN) or other unique identifier authorized by law, in case PAN is not available. The fiduciary / intermediary, shall at their end, be required to 
+maintain details as required under the Schedule C in respect of persons having access to UPSI. For example: If the listed company has appointed 
+a law firm or Merchant Banker in respect of fund raising activity, it should obtain the name of the entity, so appointed, along with the PAN or 
+other identifier, in case PAN is not available. The law firm or the Merchant Banker would in turn maintain its list of persons along with PAN or 
+other unique identifier (in case PAN is not available), in accordance with Regulation 9A(2)(d) and as required under Schedule C, with whom 
+they have shared the unpublished price sensitive information.) 
+ 
+
+  1 
+
+ 
+ 
+
+(i).  Details of the Unpublished Price Sensitive Information (UPSI); 
+(ii).  Details of persons with whom such UPSI is shared (along with their PANs/other 
+
+unique identifier) and details of persons who have shared the information. 
+
+Similarly, another structured digital database should be maintained internally by fiduciary 
+or  intermediary,  capturing  information  as  mentioned  above  at  point  (i)  and  (ii),  in 
+accordance with Regulation 9A (2)(d) and as required under Schedule C.  
+ 
+For example: The listed company (X) has appointed a Law firm or Merchant Banker (Y) 
+in respect of fund raising activity and (A) from listed company has shared the said UPSI 
+with (B) of Law firm or Merchant Banker.  
+The structured digital database of (X) should capture the nature of UPSI shared, details 
+of (A), (Y) and (B), along with their PAN or other unique identifier (in case PAN is not 
+available).  
+The Law firm or the Merchant Banker (Y) shall in turn maintain another structured digital 
+database internally capturing the nature of UPSI received/shared, details of (X), (A) and 
+(B)  along  with  their  PAN  or  other  unique  identifier  (in  case  PAN  is  not  available),  in 
+accordance with Regulation 9A(2)(d) and as required under Schedule C.]  
+ 
+Question  
+In  case  a  designated  person  resigns,  what  information  should  be  collected  by  the 
+company/ intermediary/ fiduciary under PIT Regulations?  
+Answer  
+All  information  which  is  required  to  be  collected  from  designated  persons,  should  be 
+collected till date of service of such employees with the company. Upon resignation from 
+service  of  designated  person,  a  company/  intermediary/  fiduciary  should  maintain  the 
+updated  address  and  contact  details  of  such  designated  person.  The 
+company/intermediary/ fiduciary should make efforts to maintain updated address and 
+contact details of such persons for one year after resignation from service. Such data 
+should be preserved by the company/ intermediary/ fiduciary for a period of 5 years. 
+
+ 
+ 
+
+ 
+
+********************* 
+
+  2 
+
+

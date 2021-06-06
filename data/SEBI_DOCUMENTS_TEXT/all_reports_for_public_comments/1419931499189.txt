@@ -1,0 +1,3771 @@
+Concept Paper 
+ 
+
+framework 
+
+for 
+
+issuance  of  debt  securities  by 
+
+Proposed  regulatory 
+Municipalities 
+ 
+1.  Background 
+
+ 
+
+A  Municipal  Corporation  is  a  local  government  body  that  administers  a  city  of 
+population 200,000 or more, it is administratively a part of a  district in which it is 
+located  but  interacts  directly  with  the  state  government.  Some  of  the  large 
+Municipal Corporations are Mumbai, Delhi, Kolkata, Bangalore etc. 
+ 
+The  Constitution  (74th  Amendment)  Act,  1992  endows  the  Urban  Local  Bodies 
+(ULBs) such powers, authority and responsibilities to function as institutions of self-
+government.  The  amendment  empowers  the  ULBs  to  mobilize  resources 
+independent of the State Governments for the provision, operation and maintenance 
+of urban services as listed in twelfth schedule. 
+ 
+The  major  sources  of  revenue  to  the  ULBs  are  property  tax,  profession  tax, 
+advertisement,  user  charges,  fees  /  charges  for  usage  of  municipal  assets  and 
+facilities,  assigned  revenues  like  share  of  entertainment  tax,  stamp  duty  etc.,  and 
+devolution and grants-in-aid. 
+ 
+Traditionally, ULBs have relied on the grants and subsidized funds provided by the 
+Central  and  State  Government  for  providing  the  basic  urban  services.    In  addition, 
+ULBs  borrow  funds  from  development  financial  institutions,  multilateral  and 
+bilateral  funding  agencies,  through  Central  and  State  Government.  ULBs  are  also 
+entitled to borrow through issuance of Municipal Bonds. 
+ 
+2.  Need for Developing a Municipal Bond Framework in India 
+
+ 
+
+The UN World Population Prospects – 2012 revision puts the projected population 
+in India to 1620 million by the year 2050.  As per the report of committee on India 
+Vision  2020  set  up  by  Planning  Commission,  the  urban  population  is  expected  to 
+rise  to  around  40  percent  by  2020.    This  projected  growth  will  take  urban 
+population to approximately 650 million by the year 2050.  
+
+ 
+
+Page 1 of 51 
+
+ 
+
+ 
+Source: The Economist, Special Edition, Transforming Cities 2013-14 
+
+ 
+
+The  gradual  increase  in  urban  population  is  likely  to  put  strain  on  urban 
+infrastructure.    This  will  lead  to  increase  in  demand  for  urban  services  including 
+roads,  transportation,  water  supply,  sanitation,  health  care  etc.    In  order  to  tackle 
+the  situation,  urban  planners  are  required  to  formulate  appropriate  plans  and 
+execution  thereof.    One  of  the  issues  before  urban  planners  is  financing  of  such 
+infrastructure.  The Steering Committee on Urban Development for XI th Five Year 
+Plan  of  India  (2007-2012),  has  estimated  that  total  fund  requirement  for 
+implementation  of  the  Plan  target  in respect  to  urban  water  supply,  sewerage  and 
+sanitation, drainage and solid waste management is Rs. 12,702 billion. 
+ 
+While delivering the Union Budget 2014-15, the Hon’ble Finance Minister, inter-alia, 
+took initiatives for establishment of one hundred smart cities in India.  The budget 
+provided that: 
+
+ 
+
+“As the fruits of development reach an increasingly large number of people, the pace 
+of  migration  from  the  rural  areas  to  the  cities  is  increasing.  A  neo  middle  class  is 
+emerging which has the aspiration of better living standards. Unless, new cities are 
+developed  to  accommodate  the  burgeoning  number  of  people,  the  existing  cities 
+
+ 
+
+Page 2 of 51 
+
+would  soon  become  unlivable.  The  Prime  Minister  has  a  vision  of  developing  ‘one 
+hundred  Smart  Cities’,  as  satellite  towns  of  larger  cities  and  by  modernizing  the 
+existing  mid-sized  cities.  To  provide  the  necessary  focus  to  this  critical  activity,  I 
+have provided a sum of Rs. 7,060 crore in the current fiscal.” 
+ 
+Development  of  smart  cities  would  entail  substantial  expenditure  for  creation  of 
+urban  infrastructure  such  as  water  supply,  sanitation,  public  health,  roads 
+transportation etc.  One of the principal concerns for such development  of smaller 
+towns  into  smart  cities  would  be  the  source  of  financing.    During  the  past,  the 
+concerned authorities have used various modes of financing such as Public Private 
+Partnership (PPP), Infrastructure Bonds, budgetary support etc. 
+ 
+As per the World Bank report, expectations related to municipal borrowing in India 
+are high, whereas the actual level of borrowing activity is currently very low.  There 
+is  a  massive  need  for  capital  investment  in  municipal  infrastructure,  only  part  of 
+which can be met with flows of grant funds from Jawaharlal Nehru National Urban 
+Renewal Mission (JNNURM) and other programs.  Therefore, to meet their financing 
+needs, the municipalities have to seek recourse to other means including issuance of 
+Municipal Bonds. 
+ 
+The constraints in the municipal bond market in India exist both, on the supply and 
+demand  side.  The  constraints  on  the  supply  side  inhibit  ULBs  from  issuing  bonds 
+and  those  on  the  demand  side  limit  investors  (individual  and  institutional)  from 
+investing  in the  municipal  bond  market.  ULBs  had  been  given  credit  ratings  under 
+the  JNNURM  program.  As  per  information  available  on  JNNURM  website,  around 
+50% of ULBs had investment grade ratings during November 2012.  
+ 
+Conservative Indian investor mainly invests in fixed deposits, small saving schemes 
+or gold.  Bonds issued by Municipalities having good financial track record would be 
+an  good  alternative    investment  opportunity  for  such  conservative  investors,  as  it 
+provides reasonable return with less risk, which  in turn may accelerate the capital 
+markets.  Many  philanthropic,  religious  and  socially  active  investors  can  choose  to 
+invest  in  Municipal  Bonds,  depending  on  their  altruistic  objective  of  helping 
+institutions like schools, hospitals, parks etc. being developed by the Municipalities 
+and  also  earn  return  on  their  investments.    Further,  Municipal  Bonds  will  also  be 
+good add-on to the universe of instruments, in which the Provident Funds, Pension 
+Funds and Insurance Companies park their investments. 
+ 
+
+ 
+
+Page 3 of 51 
+
+Many  wealthy  investors  such  as  HNIs  and  institutional  investors  are  attracted 
+towards the Municipal bonds due to the tax free status of such bonds. 
+ 
+In  India,  the  guidelines  issued  by  Ministry  of  Urban  Development  (MOUD)  for 
+issuance of Tax free Bonds by Municipal Bodies provides that only  bonds carrying 
+interest rate upto maximum 8% per annum shall be eligible for notification by the 
+CBDT  as  tax  free  Bonds.  The  Corporate  Bonds  and  Securitization  Advisory 
+Committee  (CoBoSAC)  of  SEBI  was  of  the  view  that  such  fixed  rate  of  8%,  in  the 
+prevailing scenario is too less for investors to get attracted to Municipal bonds and 
+therefore it suggested that the rate on such tax free bonds may not be restricted to 
+8%  and  there  may  be  a  flexibility  in  setting  interest  rate  cap  by  linking  it  to  a 
+benchmark market rate. 
+ 
+3.  Municipal bond issuances in India 
+
+ 
+
+A.  An overview of the Municipal bond issues: 
+
+ 
+
+Several ULBs and utility organizations have issued bonds that so far have mobilized 
+over Rs. 13,531 million through taxable bonds, tax-free bonds and pooled financing: 
+
+ 
+
+S. No  Type of Bond Issuances 
+
+1. 
+2. 
+3. 
+ 
+
+Amount Raised  
+(Rs. Million) 
+4,450 
+6,495 
+2,586 
+13,531 
+Source:  National Institute of Urban Affairs (NIUA); Vaidya, C. and Vaidya, H. (2010), “Market-
+Based  Financing  of  Urban  Infrastructure  in  India”  in  Kochar,  S.  and  Ramchandran,  M.  (Ed.), 
+Building from the Bottom, Academic Foundation, New Delhi, India.   
+
+Taxable bonds 
+Tax-free bonds 
+Pooled finance 
+TOTAL 
+
+ 
+  The Bangalore Municipal Corporation was the first municipal corporation to 
+
+issue a municipal bond of Rs.1250 million with a state guarantee in 1997. 
+ 
+
+  However, the access to capital market commenced in January 1998, when the 
+Ahmedabad Municipal Corporation (AMC) issued the first municipal bonds in 
+the country without state government guarantee for financing infrastructure 
+projects in the city. AMC has raised Rs.1,000 million by the said public issue. It 
+was followed by more issues through private placement.   
+
+ 
+
+Page 4 of 51 
+
+ 
+
+ 
+
+  The  debt  market  in  India  for  municipal  securities  has  grown  considerably 
+since  the  issuance  of  Ahmedabad  bonds.  Since  1998,  other  cities  that  have 
+accessed  the  capital  markets  through  municipal  bonds  without  state 
+government  guarantee  include  Nashik,  Nagpur,  Ludhiana,  and  Madurai.  In 
+most  cases,  bond  proceeds  have  been  used  to  fund  water  and  sewerage 
+schemes or road projects. India’s city governments have thus mobilized about 
+Rs.4,450 million from the domestic capital market through taxable municipal 
+bonds.  
+ 
+
+  The 
+
+last 
+
+issuance  was  done  by  Greater  Vishakhapatnam  Municipal 
+
+Corporation for Rs 30 Crores in 2010.   
+
+Municipal Bond issuances in India
+
+3500
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+0
+
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+Amount 
+(Rs 
+Million)
+
+ 
+
+Data  Source:  National  Institute  of  Urban  Affairs  (NIUA);  Vaidya,  C.  and  Vaidya,  H.  (2010),  “Market-
+Based Financing of Urban Infrastructure in India” in Kochar, S. and Ramchandran, M. (Ed.), Building 
+from the Bottom, Academic Foundation, New Delhi, India 
+
+ 
+
+B.  Tax Free Municipal Bonds Issuances  
+
+ 
+The Government of India, in order to boost the municipal bond market, allowed the 
+municipalities to issuer tax-free municipal bonds. The central government amended 
+
+ 
+
+Page 5 of 51 
+
+the  Income  Tax  Act  (1961  vide  the  Finance  Act  2000),  whereby  interest  income 
+from  bonds  issued  by  local  authorities  was  exempted  from  income  tax.  The  GOI 
+issued  guidelines  for  issue  of  tax-free  municipal  bonds  in  February  2001.  These 
+guidelines stipulate eligible issuers, use of funds, essential pre-conditions, maturing 
+period,  buy-back,  nature  of  issue  and  tax  benefits,  ceiling  amount  for  a  project, 
+compulsory credit rating, and external monitoring of the tax-free municipal bond. 
+ 
+The salient features of these guidelines are as follows:  
+ 
+
+i.  The  funds  raised  from  such  bonds  shall  be  used  only  for  capital 
+investments in urban infrastructure for providing one or more of specified 
+activities; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ii.  The  proceeds  of  the  proposed  issue  shall  be  clearly  earmarked  for  a 
+
+defined project or a set of projects; 
+
+iii.  The  project(s)  shall  be  financially  viable  (project(s)  should  be  able  to 
+generate  a  stream  of  revenue  which  should  be  sufficient  to  finance  O&M 
+cost); 
+
+ 
+
+iv.  The  issuer  shall  create  an  escrow  account  for  debt  servicing  of  bond 
+proceeds  and  for  meeting  O&M  costs  of  the  proposed  project  with 
+earmarked  revenue.  Earmarking  of  revenue  through  Escrow  mechanism 
+will  be  monitored  by  an  independent  Trustee  like  the  DFIs  or  the 
+nationalised banks. 
+
+v.  Can raise fund either through public issue or by private placement.  
+
+vi. 
+
+Shall  provide  an  additional  debt  covenant  under  which  the  Debt  Service 
+Coverage Ratio (DSCR) of at least 1.25 is maintained throughout the tenor 
+of the Tax Free Municipal Bond. 
+
+ 
+vii.  The maximum amount of  such bonds as a percentage of the total project 
+costs (excluding interest during construction) will be 50% per cent or Rs. 
+300.00 crore whichever is lower 
+
+ 
+
+viii.  The debt equity ratio for the project shall not exceed 3:1.  
+ 
+
+ 
+
+Page 6 of 51 
+
+In case of municipal authorities, the issuers shall at least contribute 20 per 
+cent of the project costs either from internal resources or other grants or a 
+mix of the two. 
+
+It will be mandatory for the issuer to obtain an investment grade rating. 
+
+ix. 
+
+x. 
+ 
+
+xi.  Only bonds carrying interest rate upto maximum 8% per annum shall be 
+
+eligible for notification by the CBDT  
+
+ 
+xii. 
+
+It should have a minimum maturity of 5 years. The issuers will have option 
+to  offer  deep  discount  bonds  or  other  financial  innovations  especially  to 
+enhance the tenor of the bond. 
+
+following  Municipal  Corporations  have 
+
+The 
+Municipal Bonds in India  
+
+issued  Tax  Free 
+
+Name of Municipality/ 
+ULB  
+
+Projects  
+
+Ahmedabad Municipal 
+Corporation (2002) 
+Hyderabad Municipal 
+Corporation (2003) 
+Nashik Municipal 
+Corporation (2002) 
+
+Visakhapatnam Municipal 
+Corporation (2004) 
+Hyderabad Metropolitan 
+Water Supply and 
+Sewerage Board (2003) 
+Ahmedabad Municipal 
+Corporation (2004) 
+
+Chennai Metropolitan 
+Water Supply & Sewerage 
+Board (2003) 
+Chennai Metropolitan 
+Water Supply & Sewerage 
+
+Water supply and 
+sewerage project 
+Road construction and 
+widening 
+Underground 
+sewerage scheme and 
+stormwater drainage 
+system 
+Water supply system 
+
+Drinking water project 
+ 
+
+Water supply project, 
+stormwater drainage 
+project, road project, 
+bridges and flyovers 
+
+Chennai water supply 
+augmentation project 
+
+Chennai water supply 
+project  
+
+Page 7 of 51 
+
+Amount of Tax-
+free Municipal 
+Bond (Rs. Million)  
+1,000 
+
+825 
+
+500 
+
+500 
+
+500 
+
+580 
+ 
+
+420 
+
+500 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Board (2005) 
+Chennai Municipal 
+Corporation (2005) 
+Ahmedabad Municipal 
+Corporation (2005) 
+Nagpur (2007) 
+
+Roads 
+
+Roads and water 
+supply 
+Nagpur water supply 
+and sewerage project 
+ 
+
+458 
+
+1,000 
+
+212 
+
+TOTAL 
+Source: National Institute of Urban Affairs (NIUA); Vaidya, C. and Vaidya, H. (2010), “Market-
+Based  Financing  of  Urban  Infrastructure  in  India”  in  Kochar,  S.  and  Ramchandran,  M.  (Ed.), 
+Building from the Bottom, Academic Foundation, New Delhi, India.  
+
+6,495 
+
+ 
+4.  World Bank Report on Municipal Borrowing  
+
+ 
+
+The  World  Bank  had  conducted  a  non-lending  technical  assistance  project  on  the 
+regulation of Municipal Borrowing in India at the request of MOUD and Ministry of 
+Finance  (MOF)  and  submitted  its  study  report  in  October  2011.  The  chief  focus  of 
+the  report  is  on  the  regulatory  and  legal  conditions  that  currently  hinder,  but  if 
+altered could encourage, the appropriate expansion of municipal borrowing.  
+ 
+The  World  Bank  report  has  made  various  recommendations.  One  of  the 
+recommendations  stated  that  SEBI  should  publish  disclosure  guidelines  for  public 
+issue  of  municipal  bonds  in  line  with  the  GOI  MOF  tax-free  standards  and 
+incorporate current international practice. The report also recommended following 
+EMMA  (Electronic  Municipal  Market  Access)  in  the  USA,  where  Securities  and 
+Exchange  Commission  (SEC)  has  no  specific  disclosure  requirements  and  relies 
+instead on the voluntary industry standard, though after suitably adapting to Indian 
+context.  
+ 
+A committee was set-up by MOUD to review the progress of implementation of the 
+recommendations  of  World  Bank  Report  on  regulatory  framework  for  municipal 
+borrowings.    In  the  meeting  of  the  committee  held  in  July  2013,  it  was,  inter-alia, 
+recommended that SEBI will draft new disclosure and regulatory requirements for 
+issuance and listing of Municipal bonds.  A copy of the minutes of the said meeting 
+was forwarded to SEBI by MOF in August 2013. 
+ 
+5.  Deliberations at CoBoSAC regarding the framework for Municipal Bonds  
+
+ 
+
+SEBI  placed  an  agenda  item  on  formulation  of  framework  for  issuance  municipal 
+bonds  and  disclosure  norms  for  the  same  before  the  "Corporate  Bonds  and 
+
+ 
+
+Page 8 of 51 
+
+Securitization  Advisory  Committee"  (CoBoSAC)  Meeting  held  in  October  2013.    It 
+was, inter-alia, decided in the said meeting that a sub-committee may be formed to 
+specify disclosure and other requirements of Municipal Bonds.  
+ 
+The  sub-committee  consisted  of  stakeholders  including  representatives  of  MOUD, 
+MOF  and  Municipality.  The  sub-committee  deliberated  on  the  issue  and  inter-alia, 
+proposed four different structures for municipalities which are as follows: 
+ 
+
+a)  Issuance of securities or Municipal Bonds directly by the ULBs  Municipal 
+
+Body. 
+
+b)  Issuance  of  securities  or  Bonds  through  Corporate  Municipal  Entity 
+
+(Subsidiary) created by the Municipality. 
+
+c)  Creating of a statutory body which can borrow from market through issue 
+
+of bonds for onward lending to Municipal Bodies. 
+
+d)  Under  Pool  Finance  Development  Fund  Structure,  through  Issuance  of 
+securitized  debt  instruments  by  a  special  purpose  distinct  entity  (Trust) 
+created by one or more municipalities by securitizing the receivables. 
+
+ 
+          The four structures proposed are given below: 
+
+ 
+
+a)  Issuance  of  securities  or  Municipal  Bonds  directly  by  the  ULBs  Municipal 
+Body  -  The  Municipal  Corporations  may  issue  general  bonds  or  revenue 
+bonds subject to the condition that general bonds shall not be made available 
+for  public  offering  and  shall  be  issued  only  on  private  placement  basis  to 
+institutional  investors.  It  stemmed  from  the  fact  that  in  case  of  revenue 
+bonds, projects could be identified and the revenue stream can be escrowed, 
+thus  providing  certain  safeguards  to  the  investors.  However,  in  the  case  of 
+general bonds, the cash flows from the project for which the bonds are issued 
+become  part  of  general  revenues  of  the  municipality  and  thus  there  are  no 
+identifiable resources, which are specifically earmarked to repay such bonds. 
+ 
+
+b)  Issuance  of  securities  or  bonds  through  Corporate  Municipal  Entity  (CME) 
+(Subsidiary)  created  by  the  Municipality-  Municipalities  may  consider 
+establishing  a  “Corporate  Municipal  Entity”  (CME)  which  would  borrow 
+through  issue  of  Bonds  and  lend  it  to  the  concerned  Municipality.  The 
+objective is to create a conduit entity, which can access the market and which 
+can  lend  it  to  the  concerned  Municipality  based  on  its  requirements.  The 
+Corporate Municipal entity may not hold or carry out any projects of its own, 
+
+ 
+
+Page 9 of 51 
+
+in which cases it would create implementation, enforcement and hierarchical 
+issues.  Further,  the  transfer  of  projects  of  Municipalities  to  Corporate 
+Municipal  Entity  in  lieu  of  equity  may  require  legislative  amendment.  The 
+CME  would  be  a  going  concern  and  disclosure  would  be  the  same  as  that 
+prescribed  under  existing  SEBI  (Issue  and  Listing  of  Debt  Securities) 
+Regulations,  2008. 
+it  would  carry  additional 
+information on the Municipal Corporation structure and hierarchies 
+ 
+
+In  addition,  however, 
+
+c)  Creation of a statutory body  or a 100% Govt owned undertaking, which can 
+borrow  from  market  through  issue  of  bonds  for  onward  lending  to  ULBs  or 
+Municipal bodies 
+ 
+Government  may  consider  establishing  a  statutory  body  or  a  100%  Govt. 
+owned  undertaking  (in  the  lines  of  India  Infrastructure  Finance  Company 
+Limited).  The  objective  of  such  undertaking  may  be  to  borrow  from  the 
+market or from financial institutions for onward lending to Municipal Bodies 
+Such an undertaking  may be capable  of assessing/appraising the viability  of 
+each projects of the Municipality and their Governance level, before meeting 
+their financing requirements. Rather than each investor subscribing to Bonds 
+assessing/appraising  the  risks  and  viability  of  various  projects  proposed  to 
+be undertaken by various Municipal Bodies, if such task could be taken care 
+or  assigned  to  an  expert  body  set-up  in  this  regard,  it  would  yield  better 
+assessment  and  funds  may  flow  to  the  suitable  projects.    Further,  such  an 
+undertaking could be central or state government owned and since the  body 
+will  be  engaged  in  financial  intermediation,  may  have  to  be  registered  with 
+RBI as an NBFC. Such a statutory body can make such borrowings under the 
+SEBI (Issue and Listing of Debt Securities) Regulations, 2008. 
+ 
+
+d)  Issuance of securitized debt instruments by a special purpose distinct entity 
+(Trust) created by one or more municipalities by securitizing the receivables-  
+The  guidelines  prescribed  by  the  MOUD,  under  the  Pooled  Finance 
+Development  Scheme  (PFDF)  Scheme,  provides  that  each  State  /  Union 
+Territory  has  to  designate  either  an  existing  state  entity  or  create  a  new 
+entity as State Pool Finance Entity (SPFE) for execution of the PFDF Scheme. 
+Such a SPFE could be either a Trust or a Special Purpose Entity.  
+ 
+As  per  section  2(h)  of  the  SCRA  1956,  the  term  securities  include  "shares, 
+scrips,  stocks,  bonds,  debentures,  debenture  stock  or  other  marketable 
+
+ 
+
+Page 10 of 51 
+
+securities of  a  like  nature  in  or  of  any  incorporated  company  or  other  body 
+corporate".  Also as per the SEBI Debt Regulations, "debt securities"  means a 
+non-convertible debt securities which create or acknowledge indebtedness, and 
+include debenture, bonds and such other securities of a body corporate or any 
+statutory  body  constituted  by  virtue  of  a  legislation.  The  committee  observed 
+that  trusts  are  pass  through  entities  and  they  cannot  acknowledge  any 
+indebtedness in itself and thus, can issue pass through certificates.  
+ 
+The  committee  observed  that  as  PTCs are  Securitized  Debt  Instruments  and 
+are specifically included under "Securities" under the SCRA and can be issued 
+by Trust and can also be listed.  Such a trust or SPFE can make a public issue 
+or private placement  of securitized debt instruments  which are proposed to 
+be listed, under the extant PFDF scheme by complying with SEBI (Public Offer 
+and Listing of Securitized Debt Instruments) Regulations, 2008. However, the 
+suitability  of  the  existing  SDI  framework  to  the  SPFE  created  by  the 
+Government need further examination.  
+
+ 
+6.  Main recommendations  of  CoBoSAC 
+ 
+The  sub-committee  submitted  its  report  to  CoBoSAC  in  October  2014  wherein  the 
+committee accepted its recommendation and concluded the following. 
+ 
+
+I.  There  should  be  a  separate  framework  for  issuance  and  listing  of  debt 
+securities  by  ULBs  or  Municipal  bodies  and  SEBI  may  frame  separate 
+regulations in this regard. 
+
+ 
+
+II.  The framework should provide for issuance of debt securities by ULBs or 
+Municipal bodies to the public as well as privately placed Municipal bonds 
+that are proposed to be listed on the stock exchanges.  
+
+ 
+
+The  committee,  inter-alia  recommended  the  following  requirements,  subject  to 
+which municipalities may issue debt securities: 
+ 
+
+a.  The funds raised from issue of Municipal Bonds shall be used only for the 
+
+projects that are specified under objects in the offer document. 
+
+ 
+
+ 
+
+b.  The  proceeds  of  the  proposed  issue  shall  be  clearly  earmarked  for  a 
+
+defined project or a set of projects; 
+
+Page 11 of 51 
+
+ 
+
+ 
+
+ 
+
+c.  It  will  be  mandatory  for  the  issuer  to  obtain  rating  from  a  credit  rating 
+
+agency registered with SEBI before the issuance of Municipal Bonds. 
+
+ 
+d.  The  Municipal  Bonds  should  have  a  minimum  maturity  of  3  years.  The 
+issuers  will  have  option  to  offer  deep  discount  bonds  or  other  financial 
+innovations especially to enhance the tenor of the bond. 
+
+ 
+e.  The  issuers  may  have  the  option  for  buy-back  arrangements  of  the  face 
+
+value of the bonds from an investor. 
+ 
+
+f.  The  issuers  shall  maintain a  separate  account  of  the  amount  raised  from 
+the issuance of Municipal Bond, to be utilised only for the project related 
+expenditure; 
+ 
+
+g.  The  issuers  shall  establish  a  separate  Project  Implementation  Cell  and 
+designate  a  Project  Officer  who  shall  monitor  the  progress  of  the 
+project(s)  and  be  responsible  for  ensuring  that  the  funds  raised  through 
+Municipal  Bonds  are  utilised  only  for  the  project(s)  for  which  the  Bonds 
+were issued. 
+ 
+
+h.  The  funds  raised  by  the  issuer  are  utilised  in  accordance  with  the  time-
+table for utilization of bond proceeds and only for the project(s) for which 
+permission has been granted by the Central Government. 
+ 
+
+i.  With respect to audit of accounts of the Municipal bodies, it was suggested 
+that  within  six  months  of  the  close  of  every  financial  year,  the  escrow 
+account and the project account shall be audited by the auditors appointed 
+by  the  Municipal  Corporations,  as  permissible  under  their  respective 
+constitutions.  However,  if  it  is  a  statutory  corporation,  then  the  accounts 
+shall  have  to  be  audited  by  the  statutory  auditor.  Further,  the  accounts 
+shall  have  to  be  audited  in a  manner,  which  is  friendly  with  the  investor 
+community  and  also  there  should  be  a  single  point  of  contact  in  each 
+ULB/Municipality, with respect to such accounts, with whom the investors 
+can interact and clarify their doubts, if any. 
+
+Page 12 of 51 
+
+Considering the aforesaid recommendations of CoBoSAC, SEBI proposes to lay down 
+a  framework  governing  the  issuance  and  listing  of  debt  securities  by  ULBs/ 
+Municipal bodies in India directly or through a Corporate Municipal Entity.  
+
+ 
+
+7.  Information to the Board 
+ 
+In the SEBI Board Meeting held in November 2014, an information memorandum on 
+developments  in  the  Corporate  Bonds  Market  was  presented,  wherein  the  Board 
+was  informed  about  the  CoBoSAC  recommendation  of  laying  down  a  separate 
+framework for municipal bonds.  
+
+ 
+
+8.  Consequential Changes 
+ 
+For  effective  implementation  of  the  proposed  framework,  some  consequential 
+amendments may be required to be made to the Companies Act, 2013 and the rules 
+made there under to enable raising of funds by Corporate Municipal Entity through 
+issue of debt securities under the proposed framework. 
+
+ 
+
+9.  Public Comments 
+
+ 
+
+i. 
+
+In the light of the above, SEBI proposes to frame SEBI (Issue and Listing of Debt 
+Securities by Municipality) Regulations, 2015, draft of which is enclosed.  Public 
+comments are invited on the draft regulations. Comments may be forwarded by 
+email 
+General  Manager 
+(sandeepk@sebi.gov.in)  or  Ms.  Vandana  Agarwal,  Assistant  Manager 
+(vandanaa@sebi.gov.in) latest by January 30, 2015. 
+
+to  Mr. 
+
+Sandeep 
+
+Kriplani, 
+
+Assistant 
+
+ 
+
+ii.  Comments should be given in the following format: 
+
+ 
+
+Name of entity/ person/ intermediary: 
+S. No. 
+
+Pertains to which Regulation /sub 
+regulation  
+
+ 
+
+ 
+
+ 
+
+Issued on: December 30, 2014 
+ 
+
+ 
+
+ 
+
+Page 13 of 51 
+
+Proposed/ 
+suggested 
+changes 
+ 
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+THE GAZETTE OF INDIA  
+
+EXTRAORDINARY 
+
+PART – III – SECTION 4 
+
+PUBLISHED BY AUTHORITY 
+
+NEW DELHI, JANUARY, 2015 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+NOTIFICATION 
+
+Mumbai, the         
+
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+(Issue and Listing of Debt Securities by Municipality) Regulations, 2015 
+
+ 
+
+N.-In exercise of the powers conferred by sub-section (1) of Section 30 read with clause (b) 
+of sub-section (2) of Section 11 of the Securities and Exchange Board of India Act, 1992 (15 
+of  1992),  the  Securities  and  Exchange  Board  of  India  hereby,  makes  the  following 
+regulations, namely, — 
+
+ 
+
+ 
+
+CHAPTER I 
+
+PRELIMINARY 
+
+1.  Short title and commencement. 
+
+(1)  These  regulations  may  be  called  the  Securities  and  Exchange  Board  of  India 
+(Issue and Listing of Debt Securities by Municipality) Regulations, 2015 
+
+(2) These regulations shall come into force on the _____________from the date of their 
+publication in the Official Gazette. 
+
+2.  Definitions. 
+
+(1)  In  these  regulations,  unless  the  context  otherwise  requires,  the  terms  defined 
+herein shall bear the meanings assigned to them below, and their cognate expressions 
+shall be construed accordingly,–   
+
+(a)  “Act”  means  the  Securities  and  Exchange  Board  of  India  Act,  1992  (15  of 
+
+1992); 
+
+Page 14 of 51 
+
+(b)  "advertisement”  includes  notices,  brochures,  pamphlets,  circulars,  show 
+cards,  catalogues,  hoardings,  placards,  posters,  insertions  in  newspaper, 
+pictures,  films,  cover  pages  of  offer  documents  or  any  other  print  medium 
+radio, television programmes through any electronic medium; 
+
+(a)  "Board" means the Securities and Exchange Board of India established under 
+
+section 3 of the Act; 
+
+(b)  “Corporate  Municipal  Entity”  is  a  company,  which  is  a  subsidiary  of  a 
+Municipality  and  which  is  set  up  for  the  purpose  of  raising  funds  for  a 
+specific/multiple municipality; 
+
+(c) 
+
+“Debt  securities”  means  a  non-convertible  debt  securities  which  create  or 
+acknowledge  indebtedness,  and  include  debenture,  bonds  and  such  other 
+securities of a Municipality, or a Corporate Municipal Entity incorporated as 
+a company, whether constituting a charge on the assets of such body or not; 
+
+(d)  “Designated  stock  exchange”  means  a  stock  exchange  in  which  securities  of 
+the  issuer  are  listed  or  proposed  to  be  listed  and  which  is  chosen  by  the 
+issuer for the for the purposes of a particular issue under these regulations; 
+
+(e)  "General  Obligation  Bonds"  means  debt  securities  where  principal  and 
+
+interest are serviced through taxation power of the Municipality. 
+
+(f) 
+
+"Issuer”  means  any  Municipality  or  a  Corporate  Municipal  Entity,  which 
+makes  or  proposes  to  make  an  issue  of  debt  securities  in  accordance  with 
+these  regulations  or  which  has  its  securities  listed  on  a  recognized  stock 
+exchange  or  which  seeks  to  list  its  debt  securities  on  a  recognized  stock 
+exchange; 
+
+(g)  "Municipality"  means  an  institution  of  self-government  constituted  under 
+Article 243Q of the Constitution (Seventy-fourth Amendment) Act, 1992 and 
+includes  a  Municipal  Corporation,  a  Municipal  Council,  and  a  Nagar 
+Panchayat; 
+
+(h)  "National  Municipal  Accounts  Manual"  means  the  Municipal  Accounting 
+
+Manual formulated by the Ministry of Urban Development; 
+
+(i) 
+
+(j) 
+
+"Offer  document”  means  prospectus  and  includes  any  such  document  or 
+advertisement whereby the subscription to debt securities are invited by the 
+issuer from public 
+
+"Private  placement"  means  any  offer  of  debt  securities  or  invitation  to 
+subscribe  to  debt  securities  to  a  select  group  of  persons  by  a  Municipality 
+through  issue  of  a  private  placement  offer  letter,  which  shall  not  intend  to 
+result in, directly or indirectly, in the  debt securities becoming available for 
+subscription or purchase by persons other than those receiving the offer or 
+invitation. 
+
+Page 15 of 51 
+
+ 
+
+Provided,  for  a  Corporate  Municipal  Entity,  it  shall  mean  an  offer  or 
+invitation  made  in  terms  of  section  42  of  the  Companies  Act,  2013  and  the 
+rules made thereunder, through issue of a private placement offer letter: 
+
+(k)  “public issue” means an offer or invitation by an issuer to public to subscribe 
+
+to the debt securities, which is not in the nature of a private placement; 
+
+(l) 
+
+“recognized stock exchange” means any stock exchange which is recognized 
+under section 4 of the Securities Contracts (Regulation) Act, 1956; 
+
+(m)  "Revenue  bonds"  means  debt  securities  serviced  by  revenues  from  one  or 
+
+more projects. 
+
+(n)  “schedule" means a schedule annexed to these regulations; 
+
+(o)  “specified”  means  specified  by  a  general  or  special  order  or  circular  issued 
+
+under the Act or these regulations. 
+
+(2)  All  other  words  and  expressions  used  but  not  defined  in these  regulations,  shall 
+have  the  same  meanings  respectively  assigned  to  them  in  the  Act  or  the  Companies 
+Act, 2013 or Securities Contracts (Regulation) Act, 1956 or the Depositories Act, 1996 
+or  the  Rules  and  the  Regulation  made  there  under  or  any  statutory  modification  or 
+reenactment. 
+
+3.  Applicability  
+
+These regulations shall apply to- 
+(a) public issue of debt securities; and 
+
+(b) listing  of  debt  securities  issued  through  public  issue  or  on  private  placement 
+
+basis on a recognized stock exchange. 
+
+ 
+
+CHAPTER II 
+ELIGIBILITY 
+
+4.  Eligible Municipalities  
+
+1)  An  issuer,  whether  Municipality  or  Corporate  Municipal  Entity  shall  issue  debt 
+
+securities in accordance with these regulations. 
+
+Provided,  such  Municipality,  whether  proposing  to  issue  debt  securities  itself  or 
+through  Corporate  Municipal  Entity,  should  be  eligible  to  raise  funds  under  its 
+constitution.   
+Provided further, no issuer shall be eligible to issue debt securities to public under 
+these Regulations, unless the following criteria are complied with: 
+(a) Accounts  of  Municipality  shall  be  prepared  in  accordance  with  National 
+Municipal  Accounts  Manual  or  in  accordance  with  similar  Municipal  Accounts 
+
+ 
+
+Page 16 of 51 
+
+Manual  adopted  by  the  respective  State  Government  for  at  least  last  three 
+preceding financial years.  
+
+(b) Municipality shall not have negative net worth in any of the last three preceding 
+
+financial years; 
+
+(c) Municipality  shall  not  have  defaulted  in  repayment  of  debt  securities  or  loans 
+
+obtained from Banks/Financial Institutions. 
+
+Provided, where the issuer is a Corporate Municipal Entity, the requirements at 
+(a), (b) and (c) shall be complied by the Municipality which is being financed. 
+
+Explanation: 
+
+For  this  purpose,  the  term  default  means  where  interest  and/  or  principal 
+amount has remained overdue for a period of more than 90 days. 
+
+(d) The  Corporate  Municipal  Entity  or  its  directors  have  not  been  restrained  or 
+prohibited  or  debarred  by  the  Board  from  accessing  the  securities  market  or 
+dealing in securities and such direction or order is in force.   
+
+ 
+
+CHAPTER III 
+
+REQUIREMENTS FOR PUBLIC ISSUE 
+
+ 
+
+5.  An issuer making public issue of Debt Securities shall comply with the provisions of 
+
+this chapter 
+
+6.  General  Conditions 
+
+1)  An issuer making public issue of debt securities shall only issue revenue bonds.  
+
+2)  No issuer shall make a public issue of debt securities unless following conditions are 
+satisfied, as on the date of filing of draft offer document and final offer document as 
+provided in these regulations: 
+
+a)  it has made an application to one or more recognized stock exchanges for listing 
+
+of such securities therein; 
+
+Provided that where the application is made to more than one recognized stock 
+exchanges, the issuer shall choose one of them as the designated stock exchange; 
+Provided  further  that  where  any  of  such  stock  exchanges  have  nationwide 
+trading  terminals,  the  issuer  shall  choose  one  of  them  as  the  designated  stock 
+exchange; 
+Explanation: For any subsequent public issue, the issuer may choose a different 
+stock  exchange  as  a  designated  stock  exchange  subject  to  the  requirements  of 
+this regulation; 
+
+ 
+
+Page 17 of 51 
+
+b)  it  has  obtained  in-principle  approval  for  listing  of  its  debt  securities  on  the 
+
+recognized stock exchanges where the application for listing has been made; 
+
+c)  credit rating has been obtained from at least one recognized credit rating agency 
+
+registered with the Board and is disclosed in the offer document: 
+
+Provided  that,  in  case  of  public  issue  of  securities  by  the  Issuer,  the  debt 
+securities  intended  to  be  issued  shall  have  a  minimum  rating  of  "A+  or 
+equivalent.  
+
+Provided  further  that  where  credit  ratings  are  obtained  from  more  than  one 
+credit rating agencies, all the ratings, including the unaccepted ratings, shall be 
+disclosed in the offer document; 
+
+d)  it has entered into an arrangement with a depository registered with the Board 
+for dematerialization of the debt securities that are proposed to be issued to the 
+public,  in  accordance  with  the  Depositories  Act,  1996  and  regulations  made 
+there under. 
+
+3)  The debt securities shall have a minimum tenure of 3 years. 
+
+4)  The issuer shall appoint one or more merchant bankers registered with the Board 
+
+at least one of whom shall be a lead merchant banker. 
+
+5)  The  issuer  shall  create  a  separate  escrow  account  for  servicing  of  debt  securities 
+
+with earmarked revenue. 
+
+6)  The issuer shall appoint a monitoring agency such as public financial institution or 
+nationalised banks to monitor the earmarked revenue in the escrow account under 
+sub-regulation (5). 
+
+Provided,  where  the  issuer  is  Corporate  Municipal  Entity,  it  shall  appoint  one  or 
+more  debenture  trustees  registered  with  the  Board  in  accordance  with  the 
+provisions  of  the  Securities  and  Exchange  Board  of  India  (Debenture  Trustees) 
+Regulations, 1993, for compliance with this requirement. 
+
+7.  Disclosures in the offer document 
+
+1)  The  offer  document  shall  contain  true,  fair  and  material  disclosures,  which  are 
+necessary for the subscribers of the debts securities to take an informed investment 
+decision. 
+ 
+
+2)  Without  prejudice  to  the  generality  of  sub-regulation  (1),  the  issuer,  which  is  a 
+Municipality,  and  the  lead  merchant  banker  shall  ensure  that  the  offer  document 
+contains the following: 
+
+a)  disclosures specified in Schedule I of these regulations; 
+
+ 
+
+Page 18 of 51 
+
+b)  disclosures with respect to compliance with regulation 13; 
+c)  additional disclosures as may be specified by the Board. 
+
+ 
+
+Provided,  in  case  of  issuer  being  a  Corporate  Municipal  Entity,  the  issuer  and  the 
+lead merchant banker shall ensure that the offer document contains the following: 
+
+a)  disclosures  as  specified 
+
+in  Companies  Act,  2013  and  Companies 
+
+(Prospectus and Allotment of Securities) Rules, 2014; 
+b)  disclosures specified in Schedule I of these regulations; 
+c)  disclosures with respect to compliance with regulation 13;  
+d)  additional disclosures as may be specified by the Board. 
+
+ 
+
+8.  Filing of draft offer document 
+
+1)  No issuer shall make a public issue of debt securities unless a draft offer document 
+has  been  filed  with  the  designated  stock  exchange  through  the  lead  merchant 
+banker. 
+
+2)  The  draft  offer  document  filed  with  the  designated  stock  exchange  shall  be  made 
+public  by  posting  the  same  on  the  website  of  the  designated  stock  exchange  for 
+seeking public comments for a period of seven working days from the date of filing 
+the draft offer document with such exchange. 
+
+3)  The  draft  offer  document  may  also  be  displayed  on  the  website  of  the  issuer, 
+merchant bankers and the stock exchanges where the debt securities are proposed 
+to be listed. 
+
+4)  The  lead  merchant  banker  shall  ensure  that  the  draft  offer  document  clearly 
+specifies  the  names  and  contact  details  of  the  compliance  officer  of  the  lead 
+merchant banker and the officer concerned in the issuer including their postal and 
+email address, telephone and fax numbers. 
+
+5)  The lead merchant banker shall ensure that all comments received on the draft offer 
+
+document are suitably addressed. 
+ 
+Provided,  where  the  issuer  is  a  Corporate  Municipal  Entity,  the  lead  merchant 
+banker  shall  ensure  that  all  comments  received  on  the  draft  offer  document  are 
+suitably addressed prior to the filing of the final offer document with the Registrar of 
+Companies. 
+
+6)  A copy of draft and final offer document shall also be forwarded to the Board for its 
+records,  simultaneously  with  filing  of  these  documents  with  designated  stock 
+exchange. 
+
+Page 19 of 51 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7)  The lead merchant banker shall, prior to opening of the public issue, furnish to the 
+
+Board a due diligence certificate as per Schedule II of these regulations. 
+
+ 
+
+Provided,  where  the  issuer  is  a  Corporate  Municipal  Entity,  the  lead  merchant 
+banker  shall,  prior  to  filing  of  the  final  offer  document  with  the  Registrar  of 
+Companies,  furnish  to  the  Board  a  due  diligence  certificate  as  per  Schedule  II  of 
+these regulations. 
+
+ 
+
+8)  The debenture trustee, wherever appointed under Regulation 6(6) shall, prior to the 
+opening  of  the  public  issue,  furnish  to  the  Board  a  due  diligence  certificates  per 
+Schedule III of these regulations. 
+ 
+
+9.  Mode of Disclosure of Offer Document 
+
+1)  The  draft  and  final  offer  document  shall  be  displayed  on  the  websites  of  stock 
+
+exchanges and shall be available for download in PDF / HTML formats. 
+ 
+
+2)  The  draft  offer  document  shall  be  filed  with  the  designated  stock  exchange,  for 
+
+dissemination on its website prior to the opening of the issue. 
+
+Provided, where the issuer is a Corporate Municipal Entity, the final offer document 
+shall be filed with the designated stock exchange, simultaneously with filing thereof 
+with  the  Registrar  of  Companies,  for  dissemination  on  its  website  prior  to  the 
+opening of the issue. 
+
+3)  Where  any  person  makes  a  request  for  a  physical  copy  of  the  offer  document,  the 
+
+same shall be provided to him by the issuer or lead merchant banker. 
+ 
+
+10.  Advertisements for Public issues 
+
+1)  The issuer may make an advertisement in a national daily with wide circulation, 
+on or before the issue opening date and such advertisement shall, amongst other 
+things, contain the disclosures as per Schedule IV. 
+
+2)  No issuer shall issue an advertisement which is misleading material particular or 
+which  contain  any  information  in  a  distorted manner  or  which  is  manipulative 
+or deceptive. 
+
+3)  The  advertisement  shall  be  truthful,  fair  and  clear  and  shall  not  contain  a 
+
+statement, promise or forecast which is untrue or misleading. 
+
+4)  Any advertisement issued by the issuer shall not contain any matters which are 
+
+extraneous to the contents of the offer document. 
+
+Page 20 of 51 
+
+ 
+
+ 
+
+ 
+
+5)  The  advertisement  shall  urge  the  investors  to  invest  only  on  the  basis  of 
+
+information contained in the offer document. 
+
+6)  Any  promotional  or  educative  advertisement  issued  by  the  issuer  during  the 
+subscription period shall not make any reference to the issue of debt securities 
+or be used for solicitation. 
+
+ 
+
+11.  Abridged Prospectus and application forms 
+
+1)  The issuer and lead merchant banker shall ensure that: 
+
+a)  every application form issued by the issuer is accompanied by a copy of the 
+
+abridged prospectus; 
+
+b)  the abridged prospectus shall not contain matters which are extraneous to 
+
+the contents of the prospectus; 
+
+c)  adequate space shall be provided in the application form to enable the 
+
+investors to fill in various details like name, address, etc. 
+
+2)  The issuer may provide  the  facility for subscription of application  in electronic 
+
+mode. 
+ 
+
+12. Minimum Subscription. 
+
+1)  The  issuer  may  decide  the  amount  of  minimum  subscription  which  it  seeks  to  raise  by 
+
+issue of debt securities and disclose the same in the offer document. 
+Provided such  minimum subscription limit shall not be  less than 75% of the  issue 
+size; 
+ 
+
+2)  In  the  event  of  non-receipt  of  minimum  subscription  as  specified  above,  all 
+application  moneys received in the  public issue  shall be  refunded forthwith to the 
+applicants, within 12 days from the date of the closure of the issue. 
+ 
+
+3)  In the event, there is a delay by the issuer in making the aforesaid refund, then the 
+issuer shall refund the  subscription amount along with interest at  the  rate  of 10% 
+per annum for the delayed period. 
+
+ 
+
+13.  Utilization of Issue Proceeds 
+
+ 
+
+1)  The funds raised from public issue of debt securities shall be used only for projects 
+
+that are specified under objects in the offer document.  
+
+ 
+
+2)  The proceeds of the issue shall be clearly earmarked for a defined project or a set of 
+projects  for  which  requisite  approvals  have  been  obtained  from  concerned 
+authorities; 
+
+ 
+
+Page 21 of 51 
+
+ 
+
+3)  The  issuer  shall,  before  filing  of  draft  offer  documents  with  Board,    obtain  a 
+“Viability  Certificate“  from  a  Chartered  Accountant  or a  Cost  Accountant  certifying 
+that the project is financially viable, based on the estimates/assumptions available 
+at that time. 
+ 
+
+4)  The issuers shall maintain a bank account in which the amount raised from the issue 
+shall be transferred immediately after the completion of the issue and such amount 
+shall only be utilized for specified project(s); 
+ 
+Provided, where the issuer is a Corporate Municipal Entity, the issue proceeds, net 
+of  issue  expenses,  shall  be  used  only  for  onward  lending  to  Municipalities,  as 
+disclosed in the offer document; 
+ 
+Provided further, where the issuer is a Corporate Municipal Entity, it shall maintain 
+sufficient  interest  margin  while  onward  lending  to  the  Municipalities,  to  meet  its 
+operating expenses and obligations.  
+
+ 
+
+5)  The issuer  Municipality  shall establish a  Separate  Project Implementation Cell and 
+designate a Project Officer who shall not be below the rank of Deputy Commissioner, 
+who  shall  monitor  the  progress  of  the  project(s)  and  shall  ensure  that  the  funds 
+raised are utilised only for the project(s) for which the debt securities were issued. 
+ 
+Provided, where the issuer is a Corporate Municipal Entity, such requirement  shall 
+be complied by the Municipality which is being financed. 
+
+ 
+
+6)  Issuer’s contribution for each project shall not be less than 20 per cent of the project 
+
+costs, which shall be contributed from their internal resources or grants; 
+ 
+Provided  where  the  issuer  is  a  Corporate  Municipal  Entity,  contribution  of  the 
+concerned Municipality, which is being financed by the Corporate Municipal Entity, 
+shall  not  be  less  than  20  per  cent  of  the  project  costs,  which  shall  be  contributed 
+from its internal resources or grants; 
+ 
+
+7)  The issuer shall disclose the schedule of implementation of the project in the offer 
+documents in a tabular form and the funds raised by the issuer shall be utilized in 
+accordance with the said schedule; 
+
+ 
+ 
+
+14. Underwriting 
+
+ 
+A public issue of debt securities may be underwritten by an underwriter registered 
+with  the  Board  and  in  such  a  case  adequate  disclosures  regarding  underwriting 
+arrangements shall be disclosed in the offer document. 
+
+ 
+
+ 
+
+Page 22 of 51 
+
+ 
+
+CHAPTER IV 
+
+LISTING OF DEBT SECURITIES 
+
+ 
+
+15. Mandatory listing. 
+
+1.  An issuer desirous of making an offer of debt securities to the public shall make an 
+
+application for listing to one or more recognized stock exchanges.  
+ 
+Provided that in case of issuer being Corporate Municipal Entity, such an application 
+shall be made in terms of sub-section (1) of section 40 of the Companies Act, 2013. 
+ 
+
+16. Conditions for listing of debt securities issued on private placement basis 
+1)  An  issuer  may  list  its  debt  securities  issued  on  private  placement  basis  on  a 
+
+recognized stock exchange subject to the following conditions:  
+
+ 
+a)  An issuer may issue General Obligation Bonds or Revenue bonds   
+
+ 
+
+b)  Accounts  of  Municipality  being  the 
+
+in 
+accordance  with  National  Municipal  Accounts  Manual  or  in  accordance 
+with similar Municipal Accounts Manual adopted by the respective State 
+Government for at least last three preceding financial years. 
+ 
+
+issuer,  shall  be  prepared 
+
+c)  Where the issuer is Corporate Municipal Entity, the issuer or its directors 
+should not have been restrained or prohibited or debarred by the Board 
+from  accessing  the  securities  market  or  dealing  in  securities  and  such 
+direction or order is in force. 
+ 
+
+d)  the  issuer,  being  a  Corporate  Municipal  Entity,    has  issued  such  debt 
+securities in compliance with the provisions of the Companies Act, 2013 
+and rules prescribed there under and other applicable laws; 
+ 
+
+e)  the  issuer  shall  not  solicit  or  collect  funds  except  by  way  of  private 
+
+placement  
+
+ 
+
+f)  the  minimum  subscription  amount  per  investor  shall  not  be  less  than 
+Rupees  twenty  five  lakhs  or  such  amount  as  may  be  specified  by  Board 
+from time to time;  
+ 
+
+g)  credit rating has been obtained in respect of such debt securities from at 
+
+least one credit rating agency registered with the Board;  
+ 
+
+Page 23 of 51 
+
+ 
+
+h)  the debt securities proposed to be listed are in dematerialized form;  
+
+ 
+
+i)  the  disclosures  as  provided  in  Schedule  I  of  these  regulations  have been 
+
+made. 
+
+ 
+CHAPTER IV 
+
+REQUIREMENTS FOR BOTH PUBLIC ISSUES AND PRIVATE PLACEMENT 
+
+17.  Asset Cover 
+An issuer, proposing to issue debt securities shall maintain 100% asset cover sufficient 
+to discharge the principal amount at all times for the debt securities issued. 
+
+18. Buy Back 
+
+The issuers may provide  an option to  buy-back the  debt-securities at their face value, 
+from the investors; 
+ 
+Provided in such cases, appropriate disclosure shall be made in the offer document 
+ 
+ 
+
+19. Prohibitions of mis-statements in the offer document. 
+
+1)  The offer document shall not omit disclosure of a material fact which may make 
+the statements made therein, in light of the circumstances under which they are 
+made, misleading. 
+ 
+
+2)  The offer document or  abridged prospectus or any advertisement issued by an 
+issuer in connection with a public issue of debt securities shall not contain any 
+false or misleading statement. 
+
+ 
+
+20. Creation of security for secured debentures 
+
+ 
+
+1)  The  debentures  shall  be  secured  by  the  creation  of  a  charge,  on  the  properties  or 
+assets or the receivables of the issuer, having a value which is sufficient for the due 
+repayment of the amount of debentures and interest thereon. 
+ 
+Provided  further,  in  case  unsecured  debentures  are  intended  to  be  listed  on  stock 
+exchange(s),  then  such  debt  securities  shall  either  be  backed  by  guarantee  from 
+State  Government  or  Central  Government  or  shall  have  a  structured  payment 
+mechanism  whereby  the  issuer  shall  deposit  debt  servicing  amounts  in  the 
+designated bank account at least 5 working days before due date of payment.  
+
+Page 24 of 51 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2)  The total value of debentures issued shall not exceed the market value of immovable 
+property/other  assets  or  receivables  of  the  Issuer,  for  which  a  charge  shall  be 
+created. 
+ 
+
+3)  The issuer shall give an undertaking in the offer document that the assets on which 
+charge  is  created  are  free  from  any  encumbrances  and  if  the  assets  are  already 
+charged to secure a debt, the permissions or consent to create second or  pari pasu 
+charge on the assets of the issuer have been obtained from the earlier creditor. 
+ 
+
+4)  The issue proceeds shall not be utilized until the documents for creation of security 
+
+are executed. 
+
+ 
+
+21. Trust Deed 
+
+1)  A trust deed for securing the issue of debentures shall be executed by the issuer in 
+favour of the independent trustee or debenture trustee, as applicable, within three 
+months of the closure of the issue. 
+
+ 
+
+2)  The trust deed shall contain such clauses as may be prescribed in Schedule IV of the 
+
+Securities and Exchange Board of India (Debenture Trustees) Regulations, 1993. 
+
+ 
+
+Provided that in case of private placement by a Corporate Municipal Entity, the trust 
+deed  shall,  in-addition,  contain  such  clauses  as  prescribed  under  Section  71  of  the 
+Companies Act, 2013 and Companies (Share Capital and Debentures) Rules 2014; 
+ 
+
+3)  The trust deed shall not contain a clause which has the effect of: 
+
+(i) 
+
+(ii) 
+
+(iii) 
+
+limiting  or  extinguishing  the  obligations  and  liabilities  of  the  debenture 
+trustees  or  the  issuer  in  relation  to  any  rights  or  interests  of  the 
+investors; 
+limiting  or  restricting  or  waiving  the  provisions  of  the  Act,  these 
+regulations and circulars or guidelines issued by the Board; 
+indemnifying  the  debenture  trustees  or  the  issuer  for  loss  or  damage 
+caused by their act of negligence or commission or omission. 
+
+ 
+
+22. Redemption and Roll-over 
+
+1)  The issuer shall redeem the debt securities in terms of the offer document. 
+
+ 
+
+2)  Where  the  issuer  being  a  Corporate  Municipal  Entity,  desires  to  roll-over  the 
+debt securities issued, it shall do so only upon passing of a special resolution to 
+
+ 
+
+Page 25 of 51 
+
+that  effect  and  give  twenty  one  days  notice  of  the  proposed  roll  over  to  the 
+holders of debt securities; 
+
+ 
+Provided where the issuer is a Municipality, the notice shall be given to the 
+holders of debt securities and stock exchanges where the debt securities are 
+listed, upon the said decision. 
+ 
+Provided  further,  in  case  the  issuer  is  a  Municipality,  if  the  holders  of  debt 
+securities do not provide consent for the proposed roll over within the notice 
+period, the issuer shall redeem the debt securities of such holders. 
+ 
+
+3)  The  notice  referred  to  in  sub-  regulation  (2)  shall  contain  disclosures  with 
+
+regard to credit rating and rationale for roll-over. 
+
+ 
+
+4)  The issuer  being a Corporate Municipal Entity shall, prior to sending the notice 
+to  holders  of  debt  securities,  file  a  copy  of  the  notice  and  proposed  resolution 
+with  the  stock  exchanges  where  such  securities  are  listed,  for  dissemination  of 
+the same to public on its website. 
+
+ 
+
+5)  The debt securities issued can be rolled over subject to the following conditions 
+
+:- 
+ 
+
+a)  The roll-over is approved by a special resolution passed by the holders of 
+debt  securities through postal ballot having the  consent  of not less than 
+75% of the holders by value of such debt securities; 
+ 
+Provided  said  provision  shall  not  be  applicable  to  the  issuer,  which  is  a 
+Municipality; 
+Provided further, in case of issuer being a Municipality, a period of 7 days 
+shall be granted to the holders of debt securities 
+ 
+
+b)  atleast one rating is obtained from a credit rating agency within a period 
+of six months prior to the due date of redemption and is disclosed in the 
+notice referred to in sub-regulation (2); 
+ 
+
+c)  fresh  trust  deed  shall  be  executed  at  the  time  of  such  roll  over  or  the 
+existing trust deed may be continued if the trust deed provides for such 
+continuation ; 
+ 
+
+d)  adequate security shall be created or maintained in respect of such debt 
+
+securities to be rolled–over 
+
+Page 26 of 51 
+
+ 
+
+ 
+
+6)  The issuer shall redeem the debt securities of all the holders, who have not given 
+
+their positive consent to the roll-over. 
+
+ 
+
+23. Debenture Redemption Reserve 
+
+For the redemption of the debentures issued by a Corporate Municipal Entity, the issuer 
+shall  create  debenture  redemption  reserve  in  accordance  with  the  provisions  of  the 
+Companies Act, 2013 and the rules made thereunder. 
+
+ 
+
+ 
+
+ 
+CHAPTER V 
+
+CONDITIONS FOR CONTINUOUS LISTING AND TRADING OF DEBT SECURITIES 
+ 
+
+24. Continuous Listing Conditions 
+
+1)  All the issuers making public issues of debt securities or seeking listing of debt securities 
+issued  on  private  placement  basis,  shall  comply  with  conditions  of  listing  including 
+continuous disclosure and other requirements specified by the Board in general and 
+those specified in Schedule V to these Regulations in specific, till the debt securities 
+are listed on the stock exchange.  
+ 
+
+2)  Where  the  issuer  is  Corporate  Municipal  Entity,  one-third  of  its  Board  shall 
+comprise of independent Directors, as defined in Section 149 of the Companies Act, 
+2013. 
+ 
+
+3)  Every rating obtained by an issuer shall be periodically reviewed by the registered 
+credit  rating  agency  and  any  revision  in  the  rating  shall  be  promptly  disclosed  by 
+the issuer to the stock exchange(s) where the debt securities are listed. 
+
+4)  Any  change  in  rating  shall  be  promptly  disseminated  to  investors  and  prospective 
+investors in such manner as the stock exchange where such securities are listed may 
+determine from time to time. 
+
+5)  The  issuer,  the  respective  debenture  trustees,  wherever  appointed,  and  stock 
+exchanges  shall  disseminate  all  information  and  reports  regarding  debt  securities 
+including  compliance  reports  filed  by  the  issuers  and  the  debenture  trustees,  if 
+appointed, to the investors and the general public by placing them on their websites. 
+
+6)  Debenture  trustee,  wherever  appointed,  shall  disclose  the  information  to  the 
+investors  and  the  general  public  by  issuing  a  press  release  in  any  of  the  following 
+events 
+
+Page 27 of 51 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)  default  by  issuer  to  pay  interest  on  debt  securities  or  redemption 
+
+amount; 
+
+b)  failure to create a charge on the assets; 
+c)  revision of rating assigned to the debt securities. 
+
+ 
+
+7)  The  information  referred  to  in  sub-regulation  (5)  shall  also  be  placed  on  the 
+
+websites, if any, of the debenture trustee, the issuer and the stock exchanges. 
+ 
+
+25. Accounting and Audit 
+
+1)  An  Issuer,  being  a  Municipality,  shall  prepare  its  accounts  in  accordance  with  the 
+National  Municipal  Accounts  Manual  or  in  accordance  with  similar  Municipal 
+Accounts Manual adopted by the respective State Government. 
+ 
+Provided that in case of the Issuer being a Corporate Municipal Entity, the accounts 
+shall  be  prepared  in  accordance  with  section  129  and  134  of  the  Companies  Act, 
+2013 and the rules made thereunder. 
+ 
+
+2)  In case of the Issuer being a Municipality, the accounts of the issuer shall be audited 
+by  the  persons  appointed  by  the  Municipal  Corporations,  as  permissible  under  its 
+constitution/state legislation governing the Municipality. 
+ 
+Provided  further  that  in  case  of  an  issuer  being  a  Corporate  Municipal  Entity,  the 
+accounts of the issuer shall be audited by an auditor, in terms of section 139 of the 
+Companies Act, 2013 and the rules made thereunder. 
+ 
+
+Provided further that within six months of the close of every financial year, the bank 
+account for issue proceeds and separate escrow account with earmarked revenues, 
+shall be audited by the person mentioned above 
+
+ 
+
+26. Trading and Reporting of Debt securities 
+
+ 
+
+1)  The debt securities issued to the public or on a private placement basis, which are 
+listed  in  recognized  stock  exchanges,  shall  be  traded  and  such  trades  shall  be 
+cleared and settled in recognized stock exchanges subject to conditions specified by 
+the Board.  
+ 
+
+2)  The  trading  lot  for  privately  placed  debt  securities  shall  be  Rs  1  lakhs  or  such 
+
+amount as may be specified by the Board. 
+ 
+
+Page 28 of 51 
+
+ 
+
+3)  In  case  of  trades  of  debt  securities  which  have  been  made  over  the  counter,  such 
+trades  shall  be  reported  on  a  recognized  stock  exchange  having  a  nationwide 
+trading terminal or such other platform as may be specified by the Board. 
+ 
+
+4)  The  information  in  respect  of  issues  such  as  issuer  details,  instrument  details, 
+ratings,  rating  migration  shall  be  required  to  be  reported  to  a  common  database 
+with depositories or any other platform as may be specified by the Board. 
+
+ 
+                                                                      CHAPTER VI 
+
+                  OBLIGATIONS OF INTERMEDIARIES AND ISSUERS 
+ 
+
+27. Obligations of Monitoring Agency and Trustee 
+
+1)  The  monitoring  agency  appointed  under  Regulation  6(6)  shall  be  vested  with  the 
+
+requisite powers for protecting the interest of holders of debt securities. 
+ 
+
+2)  The  monitoring  agency  shall  inspect  on  half  yearly  basis,  the  utilization  of  issue 
+proceeds in accordance with objects of the issue as specified in offer document and 
+report,  material  deviation,  if  any,  to  the  concerned  stock  exchange  for  public 
+dissemination. 
+ 
+
+3)  The  monitoring  agency  shall  monitor  earmarked  revenue  in  the  separate  escrow 
+
+account.  
+ 
+
+4)  The  debenture  trustee,  wherever  appointed,  shall  be  vested  with  the  requisite 
+
+powers for protecting the interest of holders of debt securities  
+ 
+Provided that such powers shall include a right to appoint a nominee director on the 
+Board of the issuer in consultation with institutional holders of such securities. 
+ 
+
+5)  The debenture trustee, wherever, shall carry out its duties and perform its functions 
+under  these  regulations,  the  Securities  and  Exchange  Board  of  India  (Debenture 
+Trustees)  Regulations,  1993,  the  trust  deed  and  offer  document,  with  due  care, 
+diligence and loyalty. 
+ 
+
+6)  The debenture  trustee, wherever appointed, shall ensure  disclosure  of all material 
+
+events on an ongoing basis. 
+
+7)  The debenture trustees, wherever appointed, shall supervise the implementation of 
+the conditions regarding creation of security for the debt securities and debenture 
+redemption reserve. 
+ 
+
+Page 29 of 51 
+
+ 
+
+ 
+
+ 
+
+ 
+
+28. Obligations of the Issuer and Merchant Bankers 
+
+1)  The  issuer  shall  disclose  all  the  material  facts  in  the  offer  documents  issued  or 
+distributed to the public and shall ensure that all the disclosures made in the offer 
+document  are  true,  fair  and  adequate  and  there  is  no  mis-leading  or  untrue 
+statements or mis-statement in the offer document. 
+
+2)  The  Merchant  Bankers  shall  verify  and  confirm  that  the  disclosures  made  in  the 
+offer  documents  are  true,  fair  and  adequate  and  ensure  that  the  issuer  is  in 
+compliance with these regulations.   
+ 
+
+3)  The Merchant Bankers shall ensure that all transaction specific disclosures required 
+in Schedule I of these regulations, Companies Act, 2013 and Rules made thereunder 
+are complied with. 
+ 
+Provided where the issuer is a Corporate Municipal Entity, Merchant Bankers shall 
+also  ensure  that  the  disclosures  under  Companies  Act,  2013  and  Rules  made 
+thereunder are complied with 
+
+4)  The issuer shall treat the applicants in a public issue of debt securities in a fair and 
+
+equitable manner as per the procedures as may be specified by the Board. 
+ 
+
+ 
+
+5)  The  issuer  and  Merchant  Bankers  shall  be  responsible  for  the  due  diligence  in 
+respect  of  assignments  undertaken  by  them  in  respect  of  issue,  offer  and 
+distribution of securities to the public. 
+ 
+
+6)  No person shall employ any device, scheme or artifice to defraud in connection with 
+issue or subscription or distribution of debt securities which are listed or proposed 
+to be listed on a recognized stock exchange. 
+ 
+
+7)  The issuer and the merchant bankers shall ensure that the security created to secure 
+
+the debt securities is adequate to ensure 100% asset cover for the debt securities. 
+
+ 
+                                                              CHAPTER VII 
+
+PROCEDURE FOR ACTION IN CASE OF VIOLATION OF REGULATIONS 
+ 
+
+29. Inspection by the Board 
+
+1)  Without  prejudice to the provisions of sections  11 and 11C of the  Act, in case of a 
+Corporate Municipal Entity, the Board may suo-motu or upon information received 
+by  it,  appoint  one  or  more  persons  to  undertake  the  inspection  of  the  books  of 
+account,  records  and  documents  of  the  issuer  or  merchant  banker  or  any  other 
+
+ 
+
+Page 30 of 51 
+
+intermediary associated with the public issue, disclosure or listing of debt securities, 
+as  governed  under  these  regulations,  for  any  of  the  purposes  specified  in  sub-
+regulation (2). 
+
+2)  The purposes referred to in sub-regulation (1) may be as follows, namely:- 
+
+ 
+a)  to  verify  whether  the  provisions  of  the  Act,  Securities  Contracts  (Regulation) 
+Act,1956,  Depositories  Act,1996,  the  rules  and  regulations  made  thereunder  in 
+respect of issue of securities have been complied with; 
+
+ 
+b)  to verify whether the requirement in respect of issue of securities as specified in 
+
+these regulations has been complied with; 
+ 
+
+c)  to  verify  whether  the  requirements  of  listing  conditions  and  continuous 
+
+disclosure requirement have been complied with 
+ 
+
+d)  to inquire into the complaints received from investors, other market participants 
+or any other persons on any matter of issue and transfer of securities governed 
+under these regulations; 
+ 
+
+e)  to  inquire  into  affairs of  the  issuer  in  the  interest  of  investor  protection  or  the 
+
+integrity of the market governed under these regulations;  
+ 
+
+f)  to inquire whether any direction issued by the Board has been complied with  
+
+3)  While  undertaking  an  inspection  under  these  regulations,  the  inspecting  authority 
+or the Board, as the case may be, shall follow the procedure specified by the Board 
+for inspection of the intermediaries. 
+ 
+
+30. Directions by the Board 
+
+1)  Without prejudice to the action under section 11, 11A, 11 B, 11D, sub- section (3) of 
+section 12, Chapter VIA and section 24 of the Act or section 439 of the Companies 
+Act, 2013, where the issuer is Corporate Municipal Entity, the Board may suo-motu 
+or  on  receipt  of  information  or  on  completion  or  pendency  of  inspection  or 
+investigation, in the interests of the securities market, issue or pass such directions 
+as it deems fit including any or all of the following: 
+
+a)  direct the issuer to refund of the application monies to the applicants in a public 
+
+issue; 
+
+b)  direct  the  persons  concerned  not  to  further  deal  insecurities  in  any  particular 
+
+manner; 
+
+Page 31 of 51 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c)  direct the persons concerned not to access the securities market for a particular 
+
+period; 
+
+d)  restraining the issuer or its promoters or directors from making further issues of 
+
+securities; 
+
+e)  direct the person concerned to sell or divest the securities; 
+f)  direct the issuer or the depository not to give effect transfer or directing further 
+
+freeze of transfer of securities; 
+
+g)  any other direction which Board may deem fit and proper in the circumstances 
+
+of the case: 
+
+ 
+Provided  that  the  Board  shall,  either  before  or  after  issuing  such  directions,  give  an 
+opportunity  of  being  heard  to  the  persons  against  whom  the  directions  are  issued  or 
+proposed to be issued: 
+ 
+Provided further that if any ex-parte direction is required to be issued, the Board may give 
+post decisional hearing to affected person 
+ 
+Provided  further,  that  where  the  issuer  is  a  Municipality,  the  Board  may  communicate 
+instances  of  violation,  non-compliance  etc.  if  any,  to  Ministry  of  Urban  Development  and 
+the concerned State Government. 
+ 
+
+31. Appeal 
+
+ 
+
+Any  person  aggrieved  by  an  order  of  the  Board  or  Adjudicating  Officer  under  the  Act  or 
+these regulations, may prefer an appeal to the Securities Appellate Tribunal in accordance 
+with section 15T of the Act read with the Securities Appellate Tribunal (Procedure) Rules, 
+2000 
+
+ 
+ 
+
+CHAPTER VIII 
+
+MISCELLANEOUS 
+
+ 
+
+32. Power to remove difficulty 
+
+1)  In  order  to  remove  any  difficulties  in  the  application  or  interpretation  of  these 
+regulations, the Board may issue clarifications or grant relaxations from application 
+requirement or conditions of these regulations, after recording reasons therefore. 
+
+2)  The Board may, on an application  made  by any issuer, relax any of the procedural 
+requirements or conditions or strict enforcement of these regulations, if the Board is 
+satisfied that : 
+ 
+
+Page 32 of 51 
+
+ 
+
+ 
+
+a)  requirement is procedural or technical in nature; or 
+
+ 
+
+b)  requirement causes undue hardship to a particular class of industry or 
+
+issuers from accessing the securities market; or 
+ 
+
+c)  relaxation is in the interest of substantial number of investors; or such 
+
+relaxation will be in the interest of securities market. 
+
+ 
+
+Page 33 of 51 
+
+SCHEDULE I 
+
+(Regulation 7) 
+
+                 
+
+Disclosures 
+ 
+
+1.  Where  the  issuer  is  a  Corporate  Municipal  Entity,  it  shall  make  disclosures  in 
+accordance  with  Schedule  I  to  SEBI  (issue  and  Listing  of  Debt  Securities) 
+Regulations,  2008  and  shall  also  make  below  mentioned  disclosures,  whichever  is 
+relevant, pertaining the Municipalities proposed to be financed by the issue;  
+ 
+
+2.  Where the issuer is a Municipality, it shall make below mentioned  disclosures: 
+
+ 
+
+A.  General Information 
+
+1.  The  relevant  Act  under  which  the  issuer  of  such  securities  is  incorporated  and 
+
+governed  
+
+2.  Copy  of  the  Committee  Resolution/Municipal  Corporation  authorizing  the 
+
+borrowing and list of authorized signatories.  
+
+3.  Copy of  the necessary Resolution(s) for the allotment of debt securities 
+4.  Copy of budget documents for last 5 years containing actual financial performance 
+
+and revised estimates  along with the details of related party transactions 
+
+5.  An  undertaking  from  the  issuer  stating  that  the  necessary  documents  for  the 
+creation  of  the  charge,  where  applicable,  including  the  Trust  Deed  would  be 
+executed within the time frame prescribed in the relevant regulations/act/rules etc 
+and the same would be uploaded on the website of the recognised Stock exchange 
+where the debt securities have been listed, within five working days of execution of 
+the same.  
+
+6.  Any other particulars or documents that the recognized stock exchange, where the 
+
+debt security have been listed, may call for as it deems fit.  
+
+7.  An  undertaking  that  permission  /  consent  from  the  prior  creditor  or  a  second  or 
+pari  passu  charge  being  created,  where  applicable,  in  favor  of  the  trustees  to  the 
+proposed issue has been obtained. 
+
+8.  Name and contact details of the monitoring agency.  
+9.  Details of the separate escrow account opened for servicing of debt securities with 
+
+earmarked revenue, wherever applicable. 
+
+ 
+Issuer  shall  submit  the  following  disclosures  to  the  Debenture  Trustee  in  electronic 
+form (soft copy) at the time of allotment of the debt securities: 
+
+1.  The  relevant  Act  under  which  the  issuer  of  such  securities  is  incorporated  and 
+
+governed. 
+
+2.  Copy  of  the  Resolution  authorizing  the  borrowing  and  list  of  authorized 
+
+signatories.  
+
+ 
+
+Page 34 of 51 
+
+3.  Copy of the necessary Resolution(s) for the allotment of debt securities 
+4.  Copy  of  budget  documents  for  last  5  years  containing  actual  financial 
+
+performance and revised estimates. 
+ 
+
+B.  An  undertaking  to  the  effect  that  the  Issuer  would,  till  the  redemption  of  the  debt 
+securities, submit the details relating to the financials of the issuer to the Trustee within 
+the  timelines  prescribed  by  SEBI  for  furnishing  /publishing  its  half  yearly/  annual 
+result.  Further,  the  Issuer  shall  within  180  days  from  the  end  of  the  financial  year, 
+submit a copy of the latest annual report to the Trustee and the Trustee shall be obliged 
+to  share  the  details  submitted  under  this  clause  to  debenture-holders  within  two 
+working  days  of  their  specific  request.  The  following  disclosures  shall  be  made  in  the 
+offer document where relevant: 
+ 
+
+I.  Name and address of the following:-  
+
+a.  Head office/quarters of the Issuer  
+b.  Compliance officer of the Issuer  
+c.  Complete  Details  of  the  Official  In-charge  of  dealing  with  investor 
+Grievances  related  to  the  Municipal  Bonds,  his/her  address,  phone 
+number, email ID, etc.  
+
+d.  Chief Accounts and Finance Office or equivalent of the Issuer  
+e.  Arrangers, if any, of the instrument  
+f.  Trustee of the issue  
+g.  Registrar of the issue  
+h.  Credit Rating Agency (-ies) of the issue and  
+i.  Auditors of the Issuer 
+j.  The relevant Act under which the issuer is incorporated and governed 
+
+ 
+
+II. 
+
+Comprehensive  Disclosure  regarding  the  Risk  Factors,  including  project 
+risks, operational risks, credit risks, liquidity risks, etc.  
+ 
+
+C.   Organization details: 
+
+1.  Details of Mayor / Deputy Mayor including date of appointment, etc:  
+2.  Details  of  Commissioner/  Deputy  Commissioner 
+
+including  date  of 
+
+appointment, etc 
+
+3.  Details of any Reorganization or Reconstruction in the last 1 year:-  
+
+Type of Event 
+
+Date of 
+
+Date of 
+
+Details 
+
+ 
+
+Page 35 of 51 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Announcement 
+
+Completion 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.  Details  of  the  members  of  the  Committee  approving  the  project/  various 
+Standing  Committees  relating  to  Taxation  /  Finance  /Accounts/  Audit/ 
+Infrastructure  
+
+Name 
+Designation 
+
+and 
+
+Date 
+Appointment/ 
+Resignation 
+
+of 
+
+Member of the Committee since  
+(in case of resignation) 
+
+Remarks 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.  Details of the Auditors  
+Address 
+ 
+
+Name 
+ 
+
+6.   Details of trustee  
+
+ 
+
+ 
+
+Auditor since 
+ 
+
+Name  
+
+Address  
+
+Contact person 
+
+ 
+
+ 
+
+ 
+
+ 
+
+D.  A brief summary of the business/ activities of the Issuer and its project for which funds 
+
+are to be raised containing atleast following information 
+1.  Overview of the issuer 
+2.  Management Structure of the issuer and the relevant department issuing the bond  
+3.  Details  of  all  the  project  undertaken  or  proposed  in  terms  of  cost  and  means  of 
+
+financing for the relevant department 
+
+4.  Complete details of the project/s for which finance is raised 
+
+i.  An investment plan for the project components indicating phasing as 
+well as financing plan approved by the local authority or the Board of 
+the Agency as the case may be 
+Schedule of implementation of the project  
+Capital structure relating to projects for which funds are proposed to 
+be mobilized 
+Capital grant for the proposed project and the amount received in this 
+regard 
+
+ii. 
+iii. 
+
+iv. 
+
+ 
+
+Page 36 of 51 
+
+v.  Details of State Finance Commission Grant on annual basis 
+vi. 
+
+Benchmarks  for  commencement  and  completion  of  the  project 
+including milestone dates for all components of the project 
+
+vii.  Details and status of the regulatory approval (if required) 
+viii. 
+
+Financial  viability  of  the  project  showing  the  stage  wise  cost  and 
+revenue flows for the project. 
+
+ix.  Revenue  generation/resources  and  sufficiency  for  timely  servicing 
+
+and redemption 
+
+x.  Details of the independent trustee of the escrow account 
+xi. 
+
+Latest  Audit  report  of  the  escrow  and  project  account  by  a  firm  of 
+chartered  accountants  appointed  by  the  concerned  State  Urban 
+Development Departments from a panel CA’s approved by the CA&G. 
+ 
+
+5.  Performance with respect to key financial and operational parameters for the last 5 
+
+years  
+
+I.  Abridged  Balance  Sheet,  Income  and  Expenditure  and  Receipts  and  Payments 
+
+II. 
+
+III. 
+
+Accounts for the last five years with major heads; 
+Link  to  the  web page where  the  entire  financials  of  the  Municipal Body  can  be 
+accessed should be given.   
+Financial Parameters: 
+ 
+
+Key Financial Figures 
+
+ 
+Revenue Income 
+
+Revenue expenditure (Excl. Interest) 
+
+Operating revenue Surplus 
+
+Interest expense 
+Principal  repayment  (outside  sink. 
+Fund) 
+
+Contribution to Sinking fund 
+
+Revenue Surplus 
+
+Capital Income 
+
+Capital Expense 
+
+Capital Surplus 
+
+ 
+
+Actual 
+FY 
+
+Actual 
+FY 
+
+Actual 
+FY 
+
+RE 
+FY 
+
+BE 
+FY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 37 of 51 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Overall Surplus 
+
+Deposits and Advances (net) 
+
+Initial Cash / Bank balance 
+
+Change in Cash / Bank balance 
+
+Final Cash / Bank balance 
+
+Loan repayment from sinking fund 
+
+Initial Sinking fund balance 
+
+Change in sinking fund 
+
+Final sinking fund balance 
+
+Total Debt 
+Ratio  of  Total  Expenditure  /Total 
+Revenue 
+
+Cash Surplus / Total Revenue 
+
+Ratio of Debt Service / Total Revenue 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IV.  Operational Parameters: 
+
+Details of top 5 revenue sources for last 5 years 
+
+Revenue Receipt type 
+
+Actual 
+FY 
+
+Actual 
+FY 
+
+Actual 
+FY 
+
+RE 
+FY 
+
+BE 
+FY 
+
+ 
+XYZ 1 
+
+XYZ 2 
+
+XYZ 3 
+
+XYZ 4 
+
+XYZ 5 
+
+ 
+
+Particular
+s 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+V.  Details of property tax collection efficiency 
+
+Demand Raised 
+
+  
+
+Collections 
+
+  
+
+Overall 
+Collection 
+Efficiency 
+
+Current 
+Collection 
+Efficiency 
+
+Page 38 of 51 
+
+Arrear
+s 
+
+Current  Total 
+
+Current   Arrear  Total 
+
+FY  
+
+FY  
+
+FY  
+
+ 
+
+ 
+
+ 
+
+ 
+
+VI. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Status of reforms with respect to e-governance, cost recovery on water supply & 
+Solid  Waste  Management  (SWM),  property  tax,  double  entry  accounting  and 
+others, as specified by MoUD and authorities concerned 
+
+E.  Details of  Issuer’s outstanding borrowing 
+
+I.  Details of borrowings of the Issuer, as on the latest quarter end:-  
+II.  Details of Secured Loan Facilities:-  
+
+ 
+Lender’s 
+
+Type of 
+
+Amt 
+
+Principal 
+
+Repayment 
+
+Security 
+
+Name 
+
+Facility 
+
+Sanctioned 
+
+Amt 
+
+Date / 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+outstanding  Schedule 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+III.  Details of Unsecured Loan Facilities:-  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lender’s 
+
+Type 
+
+of  Amt 
+
+Principal 
+
+Repayment  
+
+Name 
+
+Facility 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sanctioned  Amt 
+
+Date 
+
+/ 
+
+ 
+
+ 
+
+ 
+
+outstanding  Schedule 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IV.  Details of NCDs/Bonds: - 
+
+Page 39 of 51 
+
+Debenture/
+Bond Series 
+
+Tenor 
+/ 
+Period  of 
+Maturity 
+
+Coupon  Amount 
+
+of 
+
+Date 
+Allotment 
+
+Redemption 
+Date/ 
+Schedule 
+
+Credit 
+Rating 
+
+Secured  / 
+Unsecured 
+
+Security 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+V. 
+
+List of Top 10 Debenture Holders (as on ……)  
+
+Sr. No. 
+
+Name of Debenture Holders  Amount 
+
+ 
+
+ 
+ 
+Note: Top 10 holders’ (in value terms, on cumulative basis for all outstanding debentures 
+issues) details should be provided. 
+
+ 
+
+VI. 
+
+The amount of charge created Cash Flows of the Issuer along with name of the 
+counterparty (like name of the project etc.) 
+
+VII.  Details  of  Commercial  Paper:-  The  total  Face  Value  of  Commercial  Papers 
+Outstanding  as  on  the  latest  quarter  end  to  be  provided  and  its  breakup  in 
+following table:- 
+Maturity Date 
+
+Amount Outstanding 
+
+ 
+
+VIII.  Details of Rest of Borrowings 
+
+ 
+
+IX. 
+
+Estimated Scenarios of Asset Liability Mis-matches, efforts intended to resolve 
+the same 
+
+X.  Details of all default/s and/or delay in payments of interest and principal of any 
+kind of term loans, debt securities and other financial instrument issued by the 
+Issuer, in the past 5 years .  
+
+XI.  Details  of  change  in  terms    and  conditions  of  debt  securities  issued  in  past  5 
+
+years ( i.e. change in coupon, maturity, call/put option etc.) 
+
+XII.  An  undertaking  should  be  disclosed  in  the  offer  document  that  the  issue  has 
+obtained  Lenders  consent  for  creating  charge  on  assets  (if  the  issue  is  of 
+secured Bonds) 
+
+XIII.  Details  of  any  outstanding  borrowings  taken/  debt  securities  issued  for 
+consideration  other  than  cash,  whether  in  whole  or  part,  at  a  premium  or 
+discount, or in pursuance of an option;  
+
+XIV.  Any  material  event/  development  or  change  having  implications  on  the 
+financials/credit  quality  (e.g.  any  material  regulatory  proceedings  against  the 
+
+ 
+
+Page 40 of 51 
+
+XV. 
+
+XVI. 
+XVII. 
+
+XVIII. 
+
+XIX. 
+
+Issuer,  resulting  in  material  liabilities,    restructuring  event  etc)  at  the  time  of 
+the  issue  which  may  affect  the  issue  or  the  investor’s  decision  to  invest/ 
+continue to invest in the debt securities. 
+The detailed rating rationale (s) adopted (not older than one year on the date of 
+opening of the issue)/ credit rating letter issued (not older than one month on 
+the date of opening of the issue) by the rating agencies shall be disclosed.  
+Credit Enhancement Mechanisms if any, with complete details, if any. 
+ The security is backed by a guarantee or letter of comfort or any other 
+document / letter with similar intent, a copy of the same shall be disclosed. In 
+case such document does not contain detailed payment structure (procedure of 
+invocation of guarantee and receipt of payment by the investor along with 
+timelines), the same shall be disclosed in the offer document. 
+In case there is an escrow mechanism for the repayment of the 
+interest/principal, details of the same should be given.  
+The names of the debenture trustee(s) shall be mentioned with statement to the 
+effect that debenture trustee(s) has given his consent to the Issuer for his 
+appointment. This also needs to be mentioned in all subsequent 
+communications sent to the holders of debt securities. 
+
+XX.  Names of all the recognized stock exchanges where the debt securities are 
+
+XXI. 
+
+proposed to be listed clearly indicating the designated stock exchange.  
+Penal interest payable by the Municipal Corporation in case of delay in 
+execution of Trust Deed and Charge documents  
+
+XXII.  Additional interest to be paid, above the Coupon Rate, in case of default in 
+
+XXIII. 
+
+payment of Interest and/or principal redemption on the due dates 
+Penal interest payable by the Municipal Corporation in case of delay in listing if 
+debt securities from the deemed date of allotment 
+
+XXIV.  Other details  
+XXV.  DRR/such other reserve creation - relevant regulations and applicability.  
+Issue/instrument specific regulations - relevant details (Relevant Act, RBI 
+XXVI. 
+guidelines, etc).  
+
+XXVII.  Application process 
+XXVIII. 
+
+Procedure for deciding and adjusting payment dates (in response to days when 
+payment can’t be made due to any reason like sudden bank holiday.  
+List of documents which have been executed/ will be executed in relation to the 
+issue 
+Investor grievances mechanisms 
+Such other details necessary for the investors to make a well informed decision 
+making regarding their investment in the proposed issue  
+
+XXIX. 
+
+XXX. 
+XXXI. 
+
+XXXII.  Declaration signed by the Mayor and Commissioner  of the concerned Municipal 
+
+Body stating that offer document contains true, fair and adequate information 
+
+ 
+
+Page 41 of 51 
+
+to enable investors to make a well informed decision making regarding their 
+investment in the proposed issue. 
+ 
+
+F. Issue details  
+Summary  term  sheet  shall  be  provided  which  shall  include  at  least  following 
+information  (where  relevant)  pertaining  to  the  Secured  /  Unsecured  Non 
+Convertible debt securities (or a series thereof):-  
+
+Security Name 
+
+Name  of  the  bond  which  includes  (Issuer  Name, 
+Coupon and maturity year) e.g. 8.70% XXX 2015. 
+
+Issuer 
+Type of Instrument 
+Seniority 
+Mode of Issue 
+Eligible Investors 
+Listing  ( 
+including  name  of 
+stock  Exchange(s)  where  it  will 
+be 
+for 
+listing) 
+
+listed  and 
+
+timeline 
+
+  
+Secured or Unsecured 
+Senior or Subordinated. 
+Private placement/Public issue 
+  
+
+  
+
+Rating of the Instrument 
+
+_______ by _____ Ltd. 
+
+Issue Size 
+
+Option 
+oversubscription (Amount) 
+
+to 
+
+retain 
+
+Objects of the Issue 
+
+  
+
+  
+
+ (The  proceeds  of  the  proposed  issue  shall  be  clearly 
+earmarked for a defined project or a set of projects; 
+
+ 
+The  project(s)  shall  be  financially  viable  (project(s) 
+should be able to generate a stream of revenue which 
+should  be  sufficient 
+finance  Operational  & 
+Maintenance cost 
+
+to 
+
+Details  of  the  utilization  of  the 
+Proceeds 
+Coupon Rate 
+
+Taxable/Tax free 
+
+Step  Up/Step  Down  Coupon 
+Rate1  
+
+  
+
+  
+
+ 
+  
+
+ 
+
+Page 42 of 51 
+
+Coupon Payment Frequency 
+
+  
+
+Coupon payment dates 
+Coupon Type 
+
+Dates on which coupon will be paid 
+Fixed, floating or other coupon structure 
+
+Reset 
+
+Process 
+Coupon 
+(including 
+spread, 
+effective  date,  interest  rate  cap 
+and floor etc). 
+
+rates, 
+
+  
+
+Day Count Basis 
+
+Actual/ Actual 
+
+Interest on Application Money 
+
+  
+
+Default Interest Rate 
+
+Tenor 
+
+Redemption Date 
+Redemption Amount 
+Redemption 
+/Discount 
+Issue Price 
+
+  
+__      Months  from  the  Deemed  from  the  date  of 
+Allotment 
+Dates on which Principal will be paid 
+  
+
+Premium 
+
+  
+
+The price at which bond is issued 
+
+Discount  at  which  security  is 
+issued and the effective yield as 
+a result of such discount. 
+
+Put option Date 
+Put option Price 
+Call Option Date 
+
+Call Option Price 
+
+Put Notification Time 
+
+Call Notification Time 
+
+  
+
+  
+  
+  
+
+  
+
+Timelines  by  which  the  investor  need  to  intimate 
+Issuer before exercising the put option. 
+
+Timelines  by  which  the  Issuer  need  to  intimate 
+investor before exercising the call option. 
+
+Face Value 
+ Minimum  Application  and  in 
+multiples  of  _Debt  Securities 
+thereafter 
+
+ 
+
+ 
+
+ 
+
+Page 43 of 51 
+
+Issue 
+1. 
+2. 
+3. 
+4. Deemed Date of Allotment 
+
+Opening 
+Closing 
+
+Timing 
+Date 
+date 
+Date 
+
+Issue 
+Issue 
+
+Pay-in 
+
+  
+
+Issuance  mode 
+Instrument 
+
+of 
+
+the 
+
+Rs  10  lakhs  per  instrument  for  Demat  only  (for 
+private placement) 
+
+Trading mode of the Instrument  Demat only (for private placement) 
+
+Settlement  mode 
+Instrument 
+Depository 
+
+of 
+
+the 
+
+Insert Procedure 
+  
+
+Business Day Convention2 
+
+  
+
+Record Date 
+
+(where 
+
+applicable) 
+Security 
+(Including  description,  type  of 
+security,  type  of  charge,  likely 
+date  of  creation  of  security, 
+security 
+minimum 
+cover, 
+revaluation, 
+replacement  of 
+security). 
+
+Transaction Documents 3 
+
+Conditions 
+Disbursement 
+
+Precedent 
+
+to 
+
+15  days  prior  to  each  Coupon  Payment  /  Put  Option 
+Date 
+Call 
+Option Date / Redemption date. 
+
+/ 
+
+  
+
+  
+
+  
+
+ 
+
+Page 44 of 51 
+
+Condition 
+Disbursement 
+
+Subsequent 
+
+to 
+
+Events of Default 
+
+  
+
+  
+
+Provisions  related 
+Default 
+Clause 
+
+to  Cross 
+
+( 
+
+N/A 
+clause 
+description 
+provided 
+
+Not 
+
+Applicable) 
+
+is 
+
+not 
+
+there 
+
+in 
+else 
+
+of 
+
+the 
+
+clause 
+
+to 
+
+case 
+full 
+be 
+
+Role  and  Responsibilities  of 
+Debenture Trustee 
+
+Governing Law and Jurisdiction 
+
+  
+
+  
+
+ 
+Notes: 
+ 
+Any  change  in  Coupon  Rate,  along  with  events  which  lead  to  the  change  if  there  is  any 
+change  in  Coupon  Rate  pursuant  to  any  event  including  elapse  of  certain  time  period  or 
+downgrade  in  rating,  then  such  new  Coupon  Rate  and  events  which  lead  to  such  change 
+should be disclosed.  
+ 
+ 
+                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Page 45 of 51 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                       Schedule II 
+                                          
+                                                    (Regulation 8) 
+ 
+FORMAT  FOR  DUE  DILIGENCE  CERTIFICATE  AT  THE  TIME  OF  FILING  THE  OFFER 
+DOCUMENT BY AN ISSUER OR A CORPORATE MUNICIPAL ENTITY WITH REGISTRAR 
+OF COMPANIES AND PRIOR TO THE OPENING OF THE ISSUE 
+
+ 
+
+To, 
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+Dear Sir / Madam, 
+SUB.: ISSUE OF ____________________ BY _______________ 
+ 
+1.We confirm that neither the issuer - in case of Municipality,  the issuer nor its promoters 
+or directors  -  in case of Corporate  Municipal Entity,  have  been  prohibited from accessing 
+the capital market under any order or direction passed by the Board. We also confirm that 
+none  of  the  intermediaries  named  in  the  offer  document  have  been  debarred  from 
+functioning by any regulatory authority. 
+ 
+2. We confirm that all the material disclosures in respect of the issuer have been made in 
+the offer document and certify that any material development in the issue or relating to the 
+issue  up  to  the  commencement  of  listing  and  trading  of  the  shares  offered  through  this 
+
+ 
+
+Page 46 of 51 
+
+issue shall be informed through public notices/ advertisements in all those newspapers in 
+which pre-issue advertisement and advertisement for opening or closure of the issue have 
+been given. 
+ 
+3. We confirm that the offer document contains all disclosures as specified in the Securities 
+and  Exchange  Board  of  India  (Issue  and  Listing  of  Debt  Securities  by  Municipalities) 
+Regulations, 20XX. 
+
+4.  We  also  confirm  that  all  relevant  provisions  of  the  Companies  Act,  2013,  if  applicable, 
+Securities  Contracts,  (Regulation)  Act,  1956,  Securities  and  Exchange  Board  of  India  Act, 
+1992  and  the  Rules,  Regulations,  Guidelines,  Circulars  issued  thereunder  are  complied 
+with.  
+ 
+We  confirm  that  all  comments/  complaints  received  on  the  draft  offer  document  filed  on 
+the website of ________ (designated stock exchange) have been suitably addressed. 
+ 
+PLACE 
+DATE:                                                          LEAD MERCHANT BANKER (S) 
+
+ 
+
+Page 47 of 51 
+
+                                                          SCHEDULE III 
+
+                                                   (Regulation 8) 
+ 
+FORMAT  OF  DUE  DILIGENCE  CERTIFICATE  TO  BE  GIVEN  BY  THE  DEBENTURE 
+TRUSTEE BEFORE OPENING OF THE ISSUE 
+ 
+To, 
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+Dear Sir / Madam, 
+ 
+SUB.: ISSUE OF ____________________ BY _______________________Ltd (Corporate Municipal 
+Entity) 
+ 
+We, the Debenture Trustee (s) to the above mentioned forthcoming issue state as follows: 
+(1) We have examined documents pertaining to the said issue and other such relevant 
+documents. 
+(2)  On  the  basis  of  such  examination  and  of  the  discussions  with  the  issuer,  its 
+Mayor/Deputy  Mayor  /Directors  and  other  officers,  other  agencies  and  of  independent 
+verification of the various relevant documents, 
+WE CONFIRM that: 
+(a) The issuer has made adequate provisions for and/or has taken steps to provide for 
+adequate security for the debt securities to be issued. 
+(b) The issuer has obtained the permissions / consents necessary for creating security on 
+the said property (ies) / receivables. 
+(c) The issuer has made all the relevant disclosures about the security and also its 
+continued obligations towards the holders of debt securities. 
+(d) All disclosures made in the offer document with respect to the debt securities are true, 
+fair  and  adequate  to  enable  the  investors  to  make  a  well  informed  decision  as  to  the 
+investment in the proposed issue. 
+ 
+We have satisfied ourselves about the ability of the issuer to service the debt securities. 
+PLACE 
+DATE:                         DEBENTURE TRUSTEE TO THE ISSUE WITH HIS SEAL 
+ 
+ 
+
+ 
+
+ 
+
+Page 48 of 51 
+
+ 
+                                                     SCHEDULE  IV 
+                                                    (Regulation 10) 
+
+ 
+
+FORMAT OF ISSUE ADVERTISEMENTS FOR PUBLIC ISSUES 
+
+This is an advertisement for information purposes 
+
+_________ _________ Municipal Corporation or ______________ Ltd (or Corporate Municipal 
+
+Entity) 
+
+(Incorporated on ____________________ under the Relevant State Act or the Companies Act  as 
+
+__________________ 
+
+and subsequently renamed ______________ on __________) 
+
+Registered Office: _____________________ Tel: _______________ Fax ______________ 
+Corporate Office: _____________________ Tel: _______________ Fax ______________ 
+
+e-mail: _____________ Website: _____________________________ 
+
+Public issue of ___________ debt securities of Rs. ____ each at a price of Rs._____ 
+
+(Summary Details of Coupon, Redemption, etc shall be disclosed) 
+
+THE ISSUE 
+
+MAYOR/ DEPUTY MAYOR /COMMISSIONER/PROMOTERS 
+
+XXXX 
+
+ 
+
+PROPOSED LISTING 
+
+Names of Stock Exchanges 
+
+ 
+
+MERCHANT BANKERS 
+
+(Names) 
+
+ 
+
+COMPLIANCE OFFICER OF THE ISSUER 
+
+Name, address, telephone and fax numbers, email ID, website address 
+
+ 
+
+CREDIT RATING 
+
+(The Rating Obtained shall be disclosed prominently along with the meaning of the same) 
+
+ 
+
+DEBENTURE TRUSTEES 
+
+( Names) 
+
+ 
+
+AVAILABILITY OF APPLICATION FORMS 
+
+Names of Issuer, Lead Managers, etc. (Addresses optional) 
+
+AVAILABILITY OF OFFER DOCUMENT 
+
+ 
+
+Page 49 of 51 
+
+ 
+
+ 
+
+ 
+
+Investors are advised to refer to the offer document, and the risk factors contained therein, 
+before applying in the issue. Full copy of the offer document is available on websites of 
+issuer / lead manager(s) / Stock Exchange(s) on www.__________ 
+ 
+                                                       ISSUE OPENS ON: 
+                                                       ISSUE CLOSES ON: 
+
+Issued by 
+Directors of Issuer 
+
+ 
+                                                      
+ 
+
+ 
+
+ 
+
+Page 50 of 51 
+
+SCHEDULE  V 
+
+(Regulation 25) 
+
+Periodic Disclosures to be made by Municipalities: 
+
+1.  The  issuer  shall  file  its  Annual  Audited  financial  results  with  the  stock 
+
+exchange 
+
+2.  Further,  following  periodic  disclosures  shall  be  made  by  the  Issuer  on  half 
+
+yearly basis: 
+
+ii. 
+
+i.  Utilization  of  funds  for  the  projects  –  Half  yearly  certification  of  Chartered 
+Accountant on Utilizations of the issue proceeds for execution of the projects 
+stated in the offer document. 
+Project development - Details with respect to the development of the Project 
+along with certifications from the Project Engineer should be furnished to the 
+bond trustee, Rating Agencies and stock exchanges on Half Yearly Basis and 
+should be publicly disseminated.  
+
+iii.  Material adverse changes affecting ability to service and / or repay bonds 
+iv. 
+
+Proposal for pre-pay, value of bond in case of sale/purchase before maturity 
+etc. 
+Important ratios like Debt Equity Ratio, Debt Service Coverage Ratio, Interest 
+Service Coverage Ratio etc. 
+
+v. 
+
+vi.  Half Yearly return on payment of Bond service, maintenance of Asset Cover, 
+
+Credit enhancement facilities and Investors Grievances & Redressal 
+
+vii.  A CA/Bank certificate for timely payment of Bond Service.    
+
+ 
+************ 
+
+ 
+
+ 
+
+Page 51 of 51 
+
+

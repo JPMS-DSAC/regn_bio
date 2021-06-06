@@ -1,0 +1,2007 @@
+ 
+
+REPORT OF  
+
+THE EXPERT COMMITTEE FOR LISTING OF EQUITY 
+
+SHARES OF COMPANIES INCORPORATED IN INDIA ON 
+
+FOREIGN STOCK EXCHANGES AND OF COMPANIES 
+
+INCORPORATED OUTSIDE INDIA ON INDIAN STOCK 
+
+EXCHANGES 
+
+ 
+
+ 
+
+ 
+
+December 4, 2018 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACKNOWLEDGEMENTS 
+
+The  Committee  is  grateful  to  Mr.  Ajay  Tyagi,  Chairman,  SEBI,  for  constituting  this 
+Committee  and  for  entrusting  it  with  this  all  important  task  of  recommending  a  framework 
+for  direct  listing  of  equity  shares  of  companies  incorporated  in  India  on  foreign  stock 
+exchanges and vice versa.  
+ 
+The  Committee  wishes  to  place  on  record  its  appreciation  for  the  committed  and  sincere 
+efforts put in by Mr. Amit Tandon, Deputy General Manager; Mr. Deep Mani Shah, Deputy 
+General  Manager;  Mr.  Anjan  Patel,  Assistant  General  Manager  and  Mr.  Prateek  Arora, 
+Manager,  from  SEBI,  who  assisted  the  Committee  in  its  research  and  analysis  of  various 
+facets relevant to its discussions and also in drafting this Report, within tight timelines.  
+ 
+Members  of  the  SEBI  team  in  the  Legal  Affairs  Department  headed  by  Mr.  Ananta  Barua, 
+Whole  Time  Member,  including  Mr.  Amitesh  Kumar,  Deputy  General  Manager;  Ms.  Anju 
+Mahendra, Assistant General Manager and Mr. Chintan Shah, Assistant Manager, deserve a 
+special mention for their legal inputs during Committee’s deliberations. 
+  
+The Committee  also  acknowledges the valuable  contributions  made by  Ms.  Neeta Sanghavi 
+from  Avendus  Capital  Pvt.  Ltd;  Mr.  Yash  Ashar,  Mr.  Arjun  Lall,  Mr.  Anuj  Pethia  and  Ms. 
+Manita Doshi from Cyril Amarchand Mangaldas; Mr. Samarth Jagnani from Morgan Stanley; 
+Ms. Gesu Kaushal and Mr. Harsh Soni from Kotak Investment Banking; Ms. Esha Goel and 
+Mr.  Jairo  C.  Lamatina  from  Latham  &  Watkins  LLP;  Mr.  Piyush  Chopra  and  Mr.  Sharad 
+Chaudhry from KPMG, and Mr. Manish Kapur and Mr. Kunal Kapur from B S R & Co. LLP 
+for their timely inputs and assistance in compilation and analysis of various relevant data and 
+also for working on initial drafts of this Report. 
+ 
+
+ 
+
+ 
+
+ 
+
+CONTENTS 
+
+INTRODUCTION .................................................................................................................................. 1 
+
+I. 
+II. 
+III. 
+IV. 
+
+Constitution of the Committee ...................................................................................... 1 
+Scope of Work ............................................................................................................... 2 
+Process followed ........................................................................................................... 2 
+Structure of the Report .................................................................................................. 2 
+
+CHAPTER 1:    ECONOMIC  CASE  FOR  LISTING  OF  EQUITY  SHARES  OF 
+COMPANIES  INCORPORATED  IN  INDIA  ON  FOREIGN  STOCK 
+EXCHANGES  AND  OF  COMPANIES  INCORPORATED  OUTSIDE 
+INDIA ON INDIAN STOCK EXCHANGES .............................................................. 4 
+
+I. 
+II. 
+III. 
+IV. 
+V. 
+
+Introduction ................................................................................................................... 4 
+Benefits to the Indian economy ..................................................................................... 4 
+Benefits to companies incorporated in India ................................................................. 5 
+Benefits to companies incorporated outside India ......................................................... 6 
+
+Benefits to Indian investors  .......................................................................................... 6 
+
+CHAPTER 2:  LISTING  OF  EQUITY  SHARES  OF  COMPANIES  INCORPORATED  IN 
+
+INDIA ON FOREIGN STOCK EXCHANGES ........................................................... 7 
+
+I. 
+II. 
+
+III. 
+
+IV. 
+
+V. 
+VI. 
+
+Introduction ................................................................................................................... 7 
+Principles  for  identifying  the  Permissible  Jurisdictions  and  foreign  stock 
+exchanges ...................................................................................................................... 7 
+Primary  policy  issues  under  various  Indian  regulations  and  the  requisite 
+changes .......................................................................................................................... 8 
+KYC  and  Anti-Money  Laundering  requirements  applicable  to  investors  / 
+intermediaries .............................................................................................................. 10 
+Tax related considerations ........................................................................................... 11 
+Applicable  rules  of  accounting  for  preparation  of  consolidated  financial 
+statements .................................................................................................................... 12 
+
+CHAPTER  3:  LISTING  OF  EQUITY  SHARES  OF  COMPANIES  INCORPORATED 
+
+OUTSIDE INDIA ON INDIAN STOCK EXCHANGES .......................................... 13 
+
+I. 
+II. 
+
+III. 
+III. 
+IV. 
+
+Introduction ................................................................................................................. 13 
+Principles  for  identifying  the  Permissible  Jurisdictions  and  Indian  stock 
+exchanges .................................................................................................................... 13 
+Primary policy issues under various Indian laws and the requisite changes ............... 14 
+Investor KYC .............................................................................................................. 18 
+Tax related considerations ........................................................................................... 18 
+
+CHAPTER 4 :  RECOMMENDATIONS ............................................................................................. 20 
+
+ANNEXURE-A .................................................................................................................................... 23 
+
+ANNEXURE-B..................................................................................................................................... 24 
+
+ANNEXURE-C..................................................................................................................................... 26
+
+ 
+
+ 
+
+INTRODUCTION 
+
+I. 
+
+CONSTITUTION OF THE COMMITTEE  
+
+1.1 
+
+1.2 
+
+1.3 
+
+1.4 
+
+1.5 
+
+The  existing  legal  framework  in  India  does  not  permit  the  direct  listing  of  equity 
+shares  of  companies  incorporated  in  India  on  foreign  stock  exchanges.  Similarly, 
+companies incorporated outside India cannot directly list their equity shares on Indian 
+stock exchanges.  
+
+The  only  available  routes  for  companies  incorporated  in  India  to  access  the  equity 
+capital markets of foreign jurisdictions is through the American  Depository Receipts 
+(“ADR”) and Global Depository Receipts (“GDR”) regime. Companies incorporated 
+in India can list their debt securities on foreign stock exchanges directly through the 
+masala  bonds  and/or  foreign  currency  convertible  bond  (“FCCB”)/foreign  currency 
+exchangeable  bonds  (“FCEB”)  framework.  On 
+the  other  hand,  companies 
+incorporated  outside  India  can  access  the  Indian  capital  markets  only  through  the 
+Indian Depository Receipts (“IDR”) framework.  
+
+A  well-developed,  smoothly  operating  capital  market  plays  an  important  role  in 
+contributing to the health and efficiency of an economy. In addition, there is a strong 
+positive  relationship  between  capital  market  development  and  economic  growth. 
+Equity listings by companies incorporated in India on foreign stock exchanges would 
+allow them to access foreign capital at a lower cost. The Indian economy, in turn, will 
+experience  added  growth  and  economic  development.  Similarly,  equity  listings  of 
+companies incorporated outside India on Indian Stock Exchanges would improve the 
+efficient  allocation  of  capital  and  diversification  for  investors  across  the  Indian 
+economy.  
+
+As a result, SEBI felt it appropriate to consider facilitating companies incorporated in 
+India  to  directly  list  their  equity  shares  on  foreign  stock  exchanges  and  companies 
+incorporated outside India to list on Indian stock exchanges, in view, particularly, of 
+the ongoing evolution and internationalization of capital markets across the globe. 
+
+Accordingly,  to  analyse  this  proposal  in  detail,  SEBI  constituted  the  ‘Expert 
+Committee for listing of equity shares of companies incorporated in India on foreign 
+stock  exchanges  and  of  companies  incorporated  outside  India  on  Indian  stock 
+exchanges’ on June 12, 2018. 
+
+1.6 
+
+The composition of the Committee * is as follows: 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+v. 
+
+vi. 
+
+Mr. Ranu Vohra; Co-founder, Managing Director and CEO; Avendus Capital 
+Pvt. Ltd. 
+
+Mr. Cyril S. Shroff; Managing Partner; Cyril Amarchand Mangaldas. 
+
+Mr.  Kamal  Yadav;  Managing  Director;  Morgan  Stanley  Technology,  Media 
+and Telecom Banking. 
+
+Mr.  Ramesh  Srinivasan;  Managing  Director  and  CEO;  Kotak  Investment 
+Banking. 
+
+Mr. Rajiv Gupta; Partner; Latham & Watkins LLP. 
+
+Mr. Jamil Khatri; Head of Audit; B S R & Co. LLP. 
+
+1 
+
+ 
+
+vii.  Mr. Sujit Prasad; Executive Director; Securities and Exchange Board of India 
+
+(Convener). 
+
+*    Mr.  Neeraj  Bhargava;  Senior  Managing  Director  and  CEO;  Zodius  Capital 
+Advisors  and  Mr.  Deep  Kalra;  Chairman  and  Group  CEO;  MakeMyTrip.com 
+were also inducted as Members of the Committee, initially. However, they could 
+not contribute to the Committee deliberations due to exigencies of their work. 
+
+II. 
+
+SCOPE OF WORK 
+
+2.1 
+
+Broad terms of reference to the Committee were to: 
+
+i. 
+
+ii. 
+
+Examine  in  detail  the  economic  case  for  permitting  direct  listing  of  Indian 
+companies overseas and foreign companies on Indian stock exchanges; 
+
+Examine  various  legal,  operational  and  regulatory  constraints  in  facilitating 
+Indian  companies  to  directly  list  their  equity  shares  on  foreign  stock 
+exchanges  and  foreign  companies  to  list  their  equity  shares  on  Indian  stock 
+exchanges; and  
+
+iii. 
+
+Make  recommendations  for  a  suitable  framework  in  which  to  facilitate  such 
+direct listing. 
+
+III. 
+
+PROCESS FOLLOWED 
+
+3.1 
+
+3.2 
+
+3.3 
+
+The  Committee  had  its  first  meeting  on  July  3,  2018.  A  blueprint  was  drawn  up 
+whereby  it  was  decided  that  besides  the  regular  meetings,  the  Committee  Members 
+would connect over teleconference regularly, to keep track of the progress and discuss 
+further developments in the Committee’s work. 
+
+In  this  context,  the  Committee  had  four  in-person  meetings  devoted  to  detailed 
+deliberations.  These 
+supplemented  by  weekly 
+teleconferences.  During  these  meetings  and  teleconferences,  the  Committee  tried  to 
+delineate relevant policy issues and deliberated extensively on the same.  
+
+in-person  meetings  were 
+
+Various  sub-groups  were  formed  to  deliberate  on  specific  issues  and  formulate  a 
+roadmap  for  the  framework  contemplated  in  this  Report.  One  sub-group  was  tasked 
+with  preparing  the  “economic  case”  in  favour  of  the  intended  direct  listing 
+framework,  while  another  focused  on  examining  the  suitability  of  the  extant  legal 
+framework  in  India  and  suggest  appropriate  changes  to  the  existing  laws,  rules  and 
+regulations. Another sub-group looked into the financial requirements and tax related 
+aspects.  
+
+IV. 
+
+STRUCTURE OF THE REPORT 
+
+4.1 
+
+Chapter 1 covers the background and economic rationale for liberalising the current 
+framework  to  facilitate  direct  listing  of  equity  shares  of  companies  incorporated  in 
+India  on  foreign  stock  exchanges  and  of  companies  incorporated  outside  India  on 
+Indian stock exchanges.  
+
+i. 
+
+This  chapter  presents  an  economic  case  for  liberalising  the  framework  to 
+permit direct listing of equity shares under different scenarios, viz. (i) listing 
+of companies incorporated in India on foreign stock exchanges, and (ii) listing 
+of companies incorporated outside India on Indian stock exchanges.  
+
+ 
+
+2 
+
+ii. 
+
+The  economic  case  delves  into  the  benefits  that  may  accrue  to  all  the 
+stakeholders, i.e. the investors, issuers and various other market participants, 
+to  the  companies  incorporated  in  India  as  also  those  incorporated  outside 
+India and to the Indian economy as a whole.  
+
+4.2 
+
+Chapter  2  deals  with  listing  of  companies  incorporated  in  India  on  foreign  stock 
+exchanges.  
+
+i. 
+
+This  chapter  identifies  the  foreign  jurisdictions  and  the  stock  exchanges 
+where  listing  of  equity  shares  of  companies  incorporated  in  India  may  be 
+considered. It also identifies  the primary policy issues under various statutes 
+including  Foreign  Exchange  Management  Act,  1999  (“FEMA”),  and  laws 
+formulated  by  other  Indian  regulators,  such  as,  the  Reserve  Bank  of  India 
+(“RBI”),  SEBI  and  the  Ministry  of  Corporate  Affairs  (“MCA”).  Further,  it 
+also  touches  upon  investor  protection  measures,  investor  KYC  mechanism 
+and the taxation regime. 
+
+4.3 
+
+Chapter 3 outlines the general framework for the Committee’s proposals on listing of 
+equity shares of companies incorporated outside India on Indian Stock Exchanges.  
+
+i. 
+
+Similar to chapter 2, this chapter identifies the jurisdictions whose companies 
+may be permitted to list their equity shares and the Indian stock exchanges for 
+such listing. It also identifies the regulations, which will require amendments 
+to  allow  companies  incorporated  outside  India  to  list  their  equity  shares  on 
+Indian stock exchanges and for Indian investors to invest in such companies, 
+and also includes the key changes required in these regulations.  
+
+4.4 
+
+Chapter 4 summarizes the major recommendations of the Committee. 
+
+ 
+
+ 
+
+*** 
+
+3 
+
+ 
+
+CHAPTER 1 - ECONOMIC CASE FOR LISTING OF EQUITY SHARES OF 
+
+COMPANIES INCORPORATED IN INDIA ON FOREIGN STOCK EXCHANGES 
+AND OF COMPANIES INCORPORATED OUTSIDE INDIA ON INDIAN STOCK 
+
+EXCHANGES 
+
+I. 
+
+INTRODUCTION 
+
+1.1 
+
+The  fast  growing  liberalised  Indian  economy  is  anchored  on  the  principles  of 
+transparency and ease of doing business promoted by Government of India. This has provided a boost 
+to  foreign  corporates  to  actively  participate  in  the  growth  of  the  Indian  economy  and  compete  with 
+established as well as new companies incorporated in India. This may, therefore, be an opportune time 
+to  consider  further  liberalising  the  equity  capital  raising  framework  by  allowing  companies 
+incorporated outside India the opportunity to access the vibrant Indian equity capital markets. At the 
+same time, it is also an  opportune time to enable companies incorporated in India to directly access 
+the global equity capital markets. 
+
+1.2 
+
+This  chapter  examines  the  economic  case  for  liberalising  India’s  current  legal  and 
+regulatory framework to permit direct listing of equity shares under different scenarios, viz. (i) listing 
+of equity shares of companies incorporated in India on foreign stock exchanges with a view to benefit 
+such companies; and (ii) listing of companies incorporated outside India on Indian stock exchanges, 
+with  a  view  to  benefit  the  Indian  economy,  the  companies  incorporated  in  India  as  also  the  Indian 
+investors.  
+
+II. 
+
+BENEFITS TO THE INDIAN ECONOMY  
+
+2.1 
+
+Increased  competitiveness  for  companies  incorporated  in  India.  Corporate  India’s 
+health  is  a  critical  determinant  of  India’s  future  in  a  global  marketplace.  Several  companies 
+incorporated in India across various industries, especially in the technology and internet sectors, are 
+increasingly  facing  competition  from  foreign  multinational  companies  within  the  Indian  domestic 
+market, as well as globally, as they expand into foreign markets. Listing on a foreign stock exchange 
+will  increase  the  relative  competitiveness  of  such  companies  incorporated  in  India  vis-à-vis  their 
+global  competitors  by  enabling  them  to  derive  the  same  benefits  currently  enjoyed  by  their 
+international  counterparts,  whether  in  terms  of  access  to  capital  (including  at  reduced  costs)  or  in 
+terms of other strategic advantages, thus benefiting the health of the Indian economy. 
+
+2.2 
+
+Competitive  pressures  to  stimulate  efficiency  and  growth.  Allowing  companies 
+incorporated in India to list on foreign stock exchanges and companies incorporated outside India to 
+list  on  Indian  stock  exchanges  will  expose  the  Indian  capital  markets  to  global  competition.  As  a 
+result,  Indian  capital  markets  will  innovate  and  maximise  efficiencies  so  as  to  compete  effectively 
+with  other  jurisdictions,  with  positive  externalities  for  the  entire  financial  ecosystem.  This  will 
+promote  the  development  of  the  Indian  financial  system.  Traders  and  other  integrated  financial 
+services providers will also generally benefit, including as a result of an increase in the volume and 
+variety  of  financial  products  that  will  be  offered  in  India,  which  will  contribute  to  the  deepening 
+India’s high-end financial skills base and expand India’s market for integrated financial services. 
+
+2.3 
+
+Development of finance as a high-value added export. Finance can be a high value-
+added  export  sector  for  India,  much  like  information  technology  has  become  a  high  value-added 
+export success story for India. The Indian economy will, therefore, benefit from the development of a 
+world-class financial system that is a provider of capital to companies incorporated outside India.  
+
+2.4 
+
+Increased  attractiveness  to  growing  technology  sector.  Several  leading  Indian 
+technology  and  internet  companies  are  domiciled  overseas  and  are  not  currently  able  to  list  their 
+securities on Indian stock exchanges. Permitting these companies to list on the Indian stock exchanges 
+will  facilitate  the  development  of  specialized  investor  and  analyst  clusters  with  industry-specific 
+
+4 
+
+ 
+
+knowledge  and  valuation  expertise.  This  will  make  Indian  stock  exchanges  more  attractive  to  the 
+technology  and  internet  sectors,  which  have  grown  significantly  in  India  over  the  last  decade  (with 
+over 90 Indian technology and internet companies achieving valuations of over US$100 million) and 
+currently demonstrate significant potential for future exchange listings as these companies continue to 
+mature. 
+
+2.5 
+
+Boost the “India”  brand globally. The  proposed  liberalization of  India’s  regulatory 
+framework will also boost the brand “India” and its profile globally, in the same way that numerous 
+listings by companies, from other jurisdictions, including China, on major international exchanges are 
+seen  to  have  strengthened  the  brand  and  profile  of  their  country  of  incorporation  among  the  global 
+investor  community  as  an  increasing  number  of  companies  incorporated  in  India  list  on  key  global 
+stock  exchanges  like  NASDAQ,  NYSE  or  LSE.  For  example,  over  the  period  2013-2018,  91 
+companies  with  business  operations  primarily  in  China  raised  US$44  billion  through  initial  public 
+offerings on NYSE and NASDAQ in the United States.  
+
+2.6 
+
+Improve economic relations with other countries. Further, enabling listing of foreign 
+corporates  in  India  and  listing  of  Indian  corporates  abroad  will  be  an  important  economic  and 
+diplomatic tool in the hands of the Government of India, which can aid bilateral and multi-lateral ties 
+and  help  create  the  comprehensive  economic  partnerships  needed  to  aid  the  development  of  Indian 
+economy.  
+
+III. 
+
+BENEFITS TO COMPANIES INCORPORATED IN INDIA 
+
+3.1 
+
+Alternate  source  of  capital.  Companies  incorporated  in  India  can  benefit  from 
+accessing capital markets outside of their country of incorporation for various reasons. Many of these 
+benefits  are  attained  from  a  reduction  in  the  cost  of  capital  in  advanced  economies  with  developed 
+financial  markets.  Given  inherent  inflation  and  relatively  smaller  domestic  institutional  and  non-
+institutional  pools  of  capital,  the  cost  of  capital  in  India  is  still  higher  vis-à-vis  that  for  a  foreign 
+corporate  thereby  putting  the  Indian  company  at  a  disadvantage  in  the  marketplace.  Thus,  a  simple 
+and principle based international listing regime which enables all  companies incorporated in India to 
+raise capital in the market which optimizes cost and provides the greatest benefits in terms of value, 
+quantum, quality and branding is the need of the hour.  
+
+3.2 
+
+Broader investor base. Listing on foreign stock exchanges broaden and diversify the 
+pool of investors that are able to acquire and trade the company’s shares, which increases the demand 
+pool  for  the  company's  shares  and  helps  to  decrease  the  cost  of  capital.  For  example,  a  company 
+incorporated in India listed in the United States would be able to access numerous investment funds 
+that  would  otherwise  be  prevented  by their internal  investment  criteria from  investing  in  companies 
+not  listed  in  the  United  States.  Such  listings  also  enable  companies  to  diversify  their  capital-raising 
+activities  rather  than  being  reliant  only  on  their  domestic  market.  In  addition,  Indian  start-up  or 
+emerging-growth companies, for example, will be able to access capital from investors overseas that 
+may  be  more  receptive  to  their  securities  than  Indian  investors,  who  have  typically  focused  on 
+companies  with  proven  track  records  of  profitability  and  growth,  and  have  generally  exhibited  less 
+appetite for start-up or emerging-growth companies. 
+
+3.3 
+
+Better  valuation.  Companies  listing  on  foreign  stock  exchanges  with  sophisticated 
+asset  management  infrastructure  generally  expect  to  obtain  more  accurate  valuations  on  their 
+securities than in their domestic capital markets. For example, overseas listings enable companies to 
+access  specialized  industry-specific  investor  classes,  such  as  high-tech  investors,  who  possess 
+institutional sectoral expertise and are thus better able to value these securities.  Listings on foreign 
+stock  exchanges  can  also  increase  analyst  coverage  for  the  listed  shares  and  facilitate  clearer 
+comparisons against other peer companies that are listed overseas, each of which contribute toward 
+more accurate benchmarking and valuations.  
+
+ 
+
+5 
+
+3.4  Other  strategic  benefits.  Additionally,  companies  incorporated  in  India  may  derive 
+benefits from listing on a foreign stock exchange for other strategic reasons, including facilitation of 
+their  international  employee  compensation  strategies,  increase  in  their  brand  awareness  and 
+visibility, and by gaining a currency of exchange with which to pursue their international expansion 
+plans.  
+
+IV. 
+
+BENEFITS TO COMPANIES INCORPORATED OUTSIDE INDIA 
+
+4.1 
+
+Fruitful association with brand “India”.  India accounted for nearly 3.5 per cent of 
+world  GDP  and  2.5  percent  of  global  stock  market  capitalization  in  Fiscal  2017.  Indian  capital 
+markets are amongst the top 10 from a trading volume perspective, with domestic mutual funds and 
+insurers having invested more than US$ 30 Bn in Indian equity markets during the last 2 years. With 
+listing in India, companies incorporated outside India may also seek the opportunity of raising equity 
+capital from Indian domestic institutions. Additionally, companies incorporated outside India wanting 
+to access Indian consumers and also Indian skilled labour may benefit from their “Indian” association 
+that would come through their listing in India. 
+
+4.2 
+
+Access to Indian markets. Also, with over 5,000 listed companies and more than 58 
+companies  in  the  global  Fortune  2000  as  of June  2018,  India  represents  a  vibrant  mix  of  small  and 
+large  companies  that  access  capital  from  domestic  and  international  investors  (under  the  existing 
+foreign  investment  and  foreign  direct  investment  regimes)  to  fund  their  growth.  In  addition,  Indian 
+capital markets benefit from a credible corporate governance and regulatory framework, and general 
+investor confidence in Indian regulators’ no-nonsense, business-like and facilitative approach. In view 
+of these positive attributes, India’s capital markets and stock exchanges are likely to be most attractive 
+to various companies incorporated outside India.  
+
+V. 
+
+BENEFITS TO INDIAN INVESTORS 
+
+5.1 
+
+Increased diversification of portfolios. Currently, the portfolios of Indian households 
+and institutional investors exhibit lower levels of diversification resulting from an over-emphasis on 
+Indian assets. This home bias is likely to decline when global assets are made more visible and more 
+accessible  through  the  domestic  market.  Allowing  companies  incorporated  outside  India  to  access 
+Indian capital markets and list their shares on Indian stock exchanges (including certain  companies 
+incorporated in India that are currently domiciled overseas, such as certain technology and internet 
+companies)  will  increase  investor  choice  and  facilitate  investments  by  Indian  savers  in  the  growth 
+businesses  of  companies  incorporated  outside  India.  For  example,  wealthy  Indian  investors  may 
+desire to invest in shares of global blue chip companies, and the proposed liberalization of the Indian 
+regulatory framework is an effective means of satiating the desire of such Indian investors.  
+
+5.2 
+
+Participation  in  wealth  created  by  global  companies.  Participation  by  Indian 
+investors in the equity share capital of companies incorporated outside India would also enable Indian 
+investors  in  partaking  in  the  wealth  generated  by  multi-national  corporations  that  have  significant 
+impact on Indian lives. Global internet companies such as Apple, Facebook, Google, Amazon, etc. are 
+the prime examples which have permeated the daily lives of billions. Direct listing of equity shares by 
+companies  incorporated  outside  India  on  Indian  stock  exchanges  would  enable  Indian  investors  to 
+participate in such wealth creation. Further, allowing companies incorporated outside India to access 
+Indian capital markets will create a vibrant domestic market also enabling the investors to reduce their 
+risk exposure at the same levels of expected returns. 
+
+*** 
+
+6 
+
+ 
+
+CHAPTER 2 - LISTING OF EQUITY SHARES OF COMPANIES INCORPORATED 
+
+IN INDIA ON FOREIGN STOCK EXCHANGES 
+
+I. 
+
+INTRODUCTION  
+
+This chapter lays down the recommended framework for listing of equity shares of companies 
+incorporated  in  India  on  foreign  stock  exchanges.  The  Committee’s  proposals  for  this 
+framework addresses the following aspects:  
+
+1.1 
+
+1.2 
+
+1.3 
+
+1.4 
+
+1.5 
+
+Principles for identifying the Permissible Jurisdictions and foreign stock exchanges; 
+
+Primary policy issues under various Indian regulations and the requisite changes;  
+
+Know  Your  Client  (KYC)  and  Anti-Money  Laundering  (AML)  requirements 
+applicable to investors and intermediaries 
+
+Tax related considerations; and  
+
+Applicable accounting standards for the preparation and presentation of consolidated 
+financial statements. 
+
+ 
+
+II. 
+
+PRINCIPLES  FOR  IDENTIFYING  THE  PERMISSIBLE  JURISDICTIONS  AND 
+STOCK EXCHANGES  
+
+2.1 
+
+2.2 
+
+As  outlined  in  chapter  1,  companies  incorporated  in  India  can  increase  their  global 
+competitiveness by having access to capital at low cost from advanced economies on 
+their well-developed stock exchanges under a suitable framework. Such a framework, 
+however,  should  provide  for  measures  to  avoid  illegal  transactions  such  as  round 
+tripping of illegal funds.  
+
+Accordingly,  the  Committee  recommends  that  the  framework  should  allow  listing 
+only  on  specified  stock  exchanges  in  Permissible  Jurisdictions  outside  India.  A 
+Permissible Jurisdiction  includes  a jurisdiction  which  has  treaty  obligations  to  share 
+information and cooperate with Indian authorities in the event of any investigation. It 
+is  recommended  that  Permissible  Jurisdiction  should  be  defined  to  mean  a 
+jurisdiction: 
+
+i. 
+
+ii. 
+
+iii. 
+
+that  is  a  member  of  the  Board  of  International  Organization  of  Securities 
+Commissions  (“IOSCO”),  and  whose  securities  market  regulator  is  either  a 
+signatory to the IOSCO’s multilateral memorandum of understanding or is a 
+signatory  to  a  bilateral  memorandum  of  understanding  with  SEBI  for 
+information sharing arrangements; and 
+
+that is a member of the Financial Action Task Force (“FATF”); and  
+
+that is not identified in the public statement of the FATF as:  
+
+a. 
+
+a  jurisdiction  having  strategic  anti-money  laundering  or  combating 
+the  financing  of  terrorism  deficiencies  to  which  countermeasures 
+apply; or  
+
+ 
+
+7 
+
+b. 
+
+a jurisdiction that has not made sufficient progress in addressing the 
+deficiencies  or  has  not  committed  to  an  action  plan  developed  with 
+the FATF to address the deficiencies;  
+
+iv. 
+
+any  other  jurisdiction  notified  by  Central  Government  in  consultation  with 
+SEBI  and  /  or  other  regulatory  authorities,  following  an  overall  review  and 
+evaluation of such jurisdiction’s capital markets regulations.  
+
+2.3 
+
+The  criteria  prescribed  above  are  similar to  the  criteria  for  determining  jurisdictions 
+where listing of masala bonds under the relevant Reserve Bank of India (RBI) circular 
+can take place. Based on these principles, the Committee recommends that listing of 
+companies incorporated in India may be allowed on specified foreign stock exchanges 
+of  Permissible  Jurisdictions.  Further,  even  out  of  such  Permissible  Jurisdictions,  the 
+Committee  feels  that  to  begin  with,  those  jurisdictions  may  be  considered  that  have 
+deep capital markets, high liquidity and strong listing conditions. The  Committee, in 
+this  context,  perused  the  data  from  “World  Federation  of  Exchanges”  (“WFE”)  and 
+identified the top stock exchanges in terms of cash market turnover. Accordingly, the 
+initial  list  of  recommended  Permissible  Jurisdictions  along  with  the  specified  stock 
+exchanges is placed as Annexure-A to this Report.  
+
+ 
+
+III. 
+
+PRIMARY POLICY ISSUES UNDER VARIOUS INDIAN REGULATIONS AND THE 
+REQUISITE CHANGES  
+
+3.1 
+
+The  framework  for  listing  of  equity  shares  of  companies  incorporated  in  India  on 
+foreign  stock  exchanges  could  be  legally  implemented  through  certain  amendments, 
+to  the  current  regulatory  framework  in  India.  The  key  statutes  that  require  certain 
+amendments and / or clarifications are the following:  
+
+i. 
+
+ii. 
+
+Foreign  Exchange  Management  Act,  1999  together  with  regulations,  press 
+notes,  circulars  and  notifications  thereunder,  including  Foreign  Exchange 
+Management  (Transfer  or  Issue  of  Security  by  a  Person  Resident  Outside 
+India) Regulations, 2017 (“FEMA 20R”) (collectively, “FEMA”); and 
+
+The Companies Act, 2013, together with the rules, circulars and notifications 
+thereunder (the “Companies Act”). 
+
+3.2 
+
+FEMA 
+
+i. 
+
+ii. 
+
+iii. 
+
+Regulation  5(1)  of  FEMA  20R  permits  a  person  resident  outside  India  to 
+subscribe, purchase and sell capital instruments of a company incorporated in 
+India  (which  is  either  unlisted  or  listed  in  India)  subject  to  conditions 
+specified in Schedule 1 of FEMA 20R.  
+
+FEMA,  however,  at  present,  does  not  specifically  contemplate  issuance  of 
+equity  shares  by  a  company  incorporated  in  India  that  is  listed  on  a  stock 
+exchange outside India, to a person resident outside India.  
+
+The  Committee  recommends  the  introduction  of  Part  B  to  Schedule  1  of 
+FEMA 20R, which would set out the regulatory framework for purchase by a 
+person  resident  outside  India  of  equity  shares  of  a  company  incorporated  in 
+India  listed  on  a  foreign  stock  exchange.  A  proposed  draft  of  Part  B  of 
+Schedule 1 of FEMA 20R is placed as Annexure-B to this report.  
+
+iv. 
+
+The salient features of the said Schedule include the following: 
+
+8 
+
+ 
+
+a. 
+
+b. 
+
+c. 
+
+The  equity  shares  of  companies  incorporated  in  India  should  be 
+allowed  to  be  listed  on  specified  stock  exchanges  in  Permissible 
+Jurisdictions  and  will  continue  to  be  subject  to  Indian  regulatory 
+restrictions  under  FEMA  20R,  such  as  prohibited  activities,  entry 
+routes, sectoral caps and  related conditions, as may be existing from 
+time to time. 
+
+Any  person  resident  outside  India,  eligible 
+to  make  foreign 
+investments  under  FEMA  20R  would  qualify  as  a  ‘permissible 
+investor’.  FEMA  20R  prohibits  entities  incorporated  in  certain 
+countries from investing in India, except under the Government route. 
+This restriction will continue to apply for investments in equity shares 
+of a company incorporated in India listed on foreign stock exchanges 
+as well.  
+
+Receipt  and  retention  of  proceeds  would  be  permitted  in  a  foreign 
+currency  account  overseas,  similar  to  the  framework  for  ADR/GDR 
+proceeds.  
+
+3.3 
+
+Companies Act 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+v. 
+
+Chapter  III  (Prospectus  and  Allotment  of  Securities)  of  the  Companies  Act 
+which  prescribes  the  framework  for  public  offers  and  private  placements  of 
+securities,  is  applicable  to  all  companies  incorporated  in  India,  including 
+companies  that  issue  ADRs/GDRs  as  well  as  those  which  would  propose  to 
+list their equity shares on foreign stock exchanges.  
+
+In  order  to  enable  the  framework  for  listing  of  equity  shares  of  companies 
+incorporated in India on foreign stock exchanges, the Committee recommends 
+that  MCA  may  issue a  notification,  similar  to the  general circular  issued for 
+masala bonds dated August 03, 2016 clarifying, inter alia, that Chapter III of 
+the Companies Act and related rules will not apply to listing of equity shares 
+of companies incorporated in India on foreign stock exchanges.   
+
+The  Companies  Act  mandates  Indian  companies  to  maintain  register  of 
+members.  Section  88  of  the  Companies  Act  requires  every  company  to 
+maintain  a  register  of  members  for  each  class  of  equity  shares  held  by  each 
+member  residing  in  or  outside  India  as  well  as  a  register  of  other  securities 
+holders,  and  these  registers  are  required  to  include certain  identification  and 
+demographic  details  of  the  members.  Section  88(3)  of  the  Companies  Act 
+provides  that  the  register  and  index  of  beneficial  owners  maintained  by  a 
+depository  under  Section  11  of  the  Depositories  Act,  1996  (“Depositories 
+Act”) shall be deemed to be a corresponding register for this purpose. Section 
+88(4)  of  the  Companies  Act  also  permits  companies  to  maintain  a  ‘foreign 
+register’ containing the names and particulars of members and other securities 
+holders or beneficial owners residing outside India.  
+
+As  an  example,  in  case  of  ADR/GDR,  the  name  of  Global  Depository/ 
+Custodian  is  recorded  in  the  books  of  Indian  Depository  and  is  taken  to  be 
+sufficient to meet the requirement under the Companies Act.  
+
+The Committee, therefore, recommends that a similar framework may also be 
+applicable  in  case  of  overseas  listing  and  necessary  clarifications  in  this 
+respect may be issued by MCA. 
+
+ 
+
+9 
+
+3.4 
+
+SEBI Regulations 
+
+i. 
+
+ii. 
+
+Listing  of  equity  shares  of  unlisted  companies  incorporated  in  India  on 
+foreign  stock  exchanges  would  be  governed  by  the  listing  framework  of  the 
+concerned Permissible Jurisdiction. The relevant Indian laws like Companies 
+Act would also continue to apply to such companies.  
+
+As  regards  such  listing  of  a  listed  Indian  company,  such  a  company  shall 
+comply,  at  all  times,  with  rules/  regulations/  laws/  initial  and  continuous 
+listing/ disclosure requirements, as are applicable to companies listed in India. 
+In case of variation in the compliance obligations/ requirement for additional 
+compliances  in  Permissible  Jurisdiction,  a  comparative  analysis  of  the 
+provisions that are applicable in India along with compliance of the same and 
+the requirements applicable in the Permissible Jurisdiction shall be given by 
+the company. 
+
+ 
+
+IV. 
+
+KYC  AND  AML  REQUIREMENTS  APPLICABLE  TO  INVESTORS  AND 
+INTERMEDIARIES 
+
+4.1 
+
+Requirements under Permissible Jurisdiction’s regulatory framework   
+
+i. 
+
+ii. 
+
+Investors, and intermediaries such as dealers, initial purchasers, underwriters, 
+share  transfer  agents  and  depositories,  associated  with  listing  of  companies 
+incorporated  in  India  on  a  foreign  stock  exchange  in  a  Permissible 
+Jurisdiction  will  be  required  to  register  and  conduct  their  business  in 
+compliance  with  the  KYC  and  AML  requirements  of  the  concerned 
+Permissible Jurisdiction.  
+
+The  Committee  noted  that  the  masala  bonds  under  the  relevant  RBI 
+framework can only be issued and subscribed in a country which is a member 
+of  FATF/  FATF-Style  Regional  Body  (“FSRB”),  and  whose  securities 
+regulator is a signatory to IOSCO MMoU/ bilateral MoU with SEBI, and the 
+KYC requirements of those jurisdictions are applicable. However, in case of 
+proposed listing of equity shares on a foreign stock exchange, the criteria for 
+Permissible  Jurisdictions  are  stricter,  as  residents  of  only  FATF  members 
+whose  securities  regulators  are  also  members  on  the  Board  of  IOSCO  are 
+eligible to invest. Further, the list of Permissible Jurisdictions have reporting 
+requirements that comply with the United Nations’ International Convention 
+for  the  Suppression  of  the  Financing  of  Terrorism  and  fairly  developed 
+legislative  frameworks  for  reporting,  preventing  money  laundering  and 
+combating financing of terrorism. 
+
+iii. 
+
+In  view  of  the  above,  the  Committee  recommends  the  KYC  and  AML 
+framework  existing  in  Permissible  Jurisdictions  as  acceptable  standards  for 
+compliance with KYC and AML norms.  
+
+4.2 
+
+Details  of  beneficial  ownership  under  Companies  Act  and  significant  beneficial 
+ownership under the Companies (Significant Beneficial Owners) Rules, 2018 
+
+i. 
+
+The  Companies  (Significant  Beneficial  Owners)  Rules,  2018  require  every 
+beneficial  owner  of  equity  shares  holding  10%  or  more  of  the  ultimate 
+beneficial interest in a company to file a declaration (Form No. BEN-1) to the 
+company.  When  any  such  declaration  is  received  by  the  company,  it  has  to 
+
+ 
+
+10 
+
+file  a  return  (Form  No.  BEN-2)  with  the  Registrar  of  Companies  (“RoC”) 
+regarding  the  declaration.  The  information  required  in  the  declaration  and 
+return  forms  include  certain  identification  and  demographic  details  of  the 
+registered owner and beneficial owner. 
+
+ii. 
+
+The  Companies  (Significant  Beneficial  Owners)  Rules,  2018  provide  that  in 
+case the ‘significant beneficial owner’ is not an individual/natural person, the 
+natural  person  in  control  of  such  company  shall  be  determined  as  the 
+‘significant  beneficial  owner’.  The  Committee  noted  that  the  threshold 
+prescribed  under  these  rules,  is  similar  to  that  observed  in  the  Permissible 
+Jurisdictions and necessary disclosures in compliance with such requirements 
+are made by the investors. Accordingly, the Committee recommends that the 
+beneficial ownership requirement can be met by submitting the information as 
+provided  by  the  investors  in  the  manner  prescribed  in  the  Permissible 
+Jurisdictions. 
+
+ 
+
+V. 
+
+TAX RELATED CONSIDERATIONS 
+
+5.1 
+
+Tax  implications  on  transfer  of  equity  shares  of  a  company  incorporated  in  India 
+listed on a foreign stock exchange 
+
+i. 
+
+ii. 
+
+iii. 
+
+Under current tax laws in India, income earned from transfer of equity shares 
+of  an  unlisted  Indian  company  listed  on  a  foreign  stock  exchange  would  be 
+subject  to  capital  gains  tax  in  India,  as  these  shares  would  be  considered 
+‘capital  assets  situated  in  India’,  because  these  are  shares  of  a  company 
+incorporated in India.  
+
+Under  the  extant  provisions,  the  transfer  of  GDRs  by  a  non-resident  to 
+another  non-resident  is  not  regarded  as  taxable  ‘transfer’  under  Section 
+47(vii)(a)  of  the  Income  Tax  Act,  1961  (“Income  Tax  Act”)  and 
+consequently, the non-resident does not have any tax obligation in India.  
+
+The  Committee  recommends  that  the  matter  relating  to  tax  on  issuance  and 
+transfer  of  equity  shares  of  companies  incorporated  in  India  listed  on  a 
+foreign  stock  exchange  and  related  reporting  obligations,  may  be  taken  up 
+with  the  Department  of  Revenue  for  providing  clarity.  For  this  purpose, 
+reference may be drawn to ADR/ GDR regime.  
+
+5.2 
+
+Issuance  of  equity  shares  of  a  company  incorporated  in  India  on  a  foreign  stock 
+exchange  
+
+i. 
+
+ii. 
+
+Under  Section  56  of  the  Income  Tax  Act,  if  a  person  receives  shares  of  a 
+company  incorporated  in  India  for  consideration  which  is  less  than  the  fair 
+market  value  (“FMV”)  determined  as  per  valuation  norms  prescribed  under 
+Rule 11UA of the Indian Income tax Rules, 1962 (“Income Tax Rules”), the 
+difference  between  the  FMV  and  the  subscription  price  would  be  subject  to 
+tax  in  the  hands  of  the  person  (the  non-resident  in  this  case)  acquiring  the 
+shares (subject to availability of any benefits under the applicable tax treaty).  
+
+Since  the  price  at  which  shares  would  be  issued  on  the  foreign  stock 
+exchanges  would  be  determined  by  the  market  forces  in  the  respective 
+jurisdiction  pertaining  to  the  particular  shares,  it  is  quite  possible  that  the 
+shares  may  be  issued  at  a  price  which  is  less  than  the  FMV  of  the  shares 
+
+ 
+
+11 
+
+determined  as  per  Rule  11UA  of  Income  Tax  Rules,  for  the  purposes  of 
+Section  56  of  the  Income  Tax  Act.  The  Committee  recommends  that  the 
+matter  may  be  taken  up  with  the  Department  of  Revenue  to  take  necessary 
+steps  for  clarifying  the  applicability  of  Section  56  in  case  of  transactions 
+pertaining to shares of companies incorporated in India listed on foreign stock 
+exchanges including relevant amendments in the tax valuation rules.  
+
+ 
+
+VI. 
+
+APPLICABLE  RULES  OF  ACCOUNTING  FOR  PREPARATION  OF 
+CONSOLIDATED FINANCIAL STATEMENTS 
+
+6.1 
+
+Through the framework, the Committee envisages permitting listing of equity shares 
+of  a  company  incorporated  in  India on  a  foreign  stock  exchange  for subscription  by 
+investors  in  such  foreign  jurisdictions.  The  accounting  standards  in  the  country  of 
+listing  may  require  preparation/presentation  of  consolidated  financial  statements 
+either  in  accordance  with  accounting/auditing  standards  applicable  to  domestic 
+companies  in  such  jurisdiction  or  comparable  global  standards.  However,  the 
+company  would  be  required  to  prepare  its  consolidated  financial  statements  in 
+accordance with applicable Indian Accounting Standards, as applicable from time to 
+time, for statutory reporting purposes. 
+
+6.2 
+
+As an example, if the Indian company seeks to list in the United States, it would need 
+to present audited consolidated financial statements as follows:  
+
+i. 
+
+ii. 
+
+Under US GAAP; or 
+
+Under  IFRS  as  issued  by  the  International  Accounting  Standard  Board  with 
+no quantitative reconciliation to US GAAP; or 
+
+iii. 
+
+Under Indian GAAP/Ind AS with a quantitative reconciliation to US GAAP. 
+
+ 
+
+*** 
+
+12 
+
+ 
+
+CHAPTER 3 - LISTING EQUITY SHARES OF COMPANIES INCORPORATED OUTSIDE 
+
+INDIA ON INDIAN STOCK EXCHANGES 
+
+ 
+
+I. 
+
+INTRODUCTION  
+
+This chapter lays down the recommended framework for listing of equity shares of companies 
+incorporated  outside  India  on  Indian  stock  exchanges.  The  Committee’s  proposals  for  this 
+framework addresses the following aspects:  
+
+Principles  for  identifying  the  Permissible  Jurisdictions  whose  companies  may  be 
+permitted to list their equity shares and the Indian stock exchanges for such listing; 
+
+Primary policy issues under various Indian laws and the requisite changes;  
+
+Investor KYC; and 
+
+Tax related considerations. 
+
+1.1 
+
+1.2 
+
+1.3 
+
+1.4 
+
+ 
+
+PRINCIPLES  FOR  IDENTIFYING  THE  PERMISSIBLE  JURISDICTIONS  OF 
+COMPANIES 
+INDIAN  STOCK 
+EXCHANGES  
+
+INCORPORATED  OUTSIDE 
+
+INDIA  AND 
+
+2.1 
+
+It  is  essential  that  companies  incorporated  outside  India,  listing  on  Indian  stock 
+exchanges  be  incorporated  in,  and  subject  to  the  jurisdiction  of,  regulators  from 
+jurisdictions  that  are  legally  required  to  extend  cooperation  to  Indian  regulatory 
+authorities by way of sharing of information and providing assistance in enforcement 
+actions.  
+
+2.2 
+
+Therefore,  the  Committee  recommends  that  similar  to  Chapter  2,  Permissible 
+Jurisdiction may be defined to mean a jurisdiction: 
+
+i. 
+
+ii. 
+
+iii. 
+
+that  is  a  member  of  the  Board  of  International  Organization  of  Securities 
+Commissions  (“IOSCO”),  and  whose  securities  market  regulator  is  either  a 
+signatory to the IOSCO’s multilateral memorandum of understanding or is a 
+signatory  to  a  bilateral  memorandum  of  understanding  with  SEBI  for 
+information sharing arrangements; and 
+
+that is a member of the Financial Action Task Force (“FATF”); and  
+
+that is not identified in the public statement of the FATF as:  
+
+a. 
+
+b. 
+
+a  jurisdiction  having  strategic  anti-money  laundering  or  combating 
+the  financing  of  terrorism  deficiencies  to  which  countermeasures 
+apply; or  
+
+a jurisdiction that has not made sufficient progress in addressing the 
+deficiencies  or  has  not  committed  to  an  action  plan  developed  with 
+the FATF to address the deficiencies;  
+
+iv. 
+
+any  other  jurisdiction  notified  by  Central  Government  in  consultation  with 
+SEBI/ other regulatory authorities, following an overall review and evaluation 
+of such jurisdiction’s capital markets regulations. 
+
+13 
+
+II. 
+
+ 
+
+2.3 
+
+As  earlier  discussed  in  Para  2.3  of  Chapter  2  to  this  report,  the  initial  list  of 
+recommended  Permissible  Jurisdictions  (as  per  WFE  data)  as  also  a  list  of  the 
+specified stock exchanges in India, is placed as Annexure-C.  
+
+ 
+
+III. 
+
+PRIMARY  POLICY  ISSUES  UNDER  VARIOUS  INDIAN  LAWS  AND  THE 
+REQUISITE CHANGES  
+
+3.1 
+
+The  Committee  has  identified  the  following  key  statutes  that  will  be  required  to  be 
+amended to allow companies incorporated outside India to list their shares on Indian 
+stock exchanges and to allow Indian investors to invest in such companies:  
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+v. 
+
+vi. 
+
+Foreign  Exchange  Management  (Transfer  or  Issue  of  any  Foreign  Security) 
+Regulations, 2004; 
+
+Foreign Exchange Management (Deposit) Regulations, 2016; 
+
+Companies Act, 2013  
+
+SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018;  
+
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015  
+
+Other  related  SEBI  Regulations,  viz.  SEBI  (Prohibition  of  Insider  Trading) 
+Regulations,  2015;  SEBI  (Substantial  Acquisition  of  Shares  and  Takeovers) 
+Regulations,  2011;  SEBI  (Buy  Back  of  Securities)  Regulations,  2018;  and 
+SEBI (Delisting of Equity Shares) Regulations, 2009. 
+
+ 
+
+FOREIGN  EXCHANGE  MANAGEMENT  (TRANSFER  OR  ISSUE  OF  ANY 
+FOREIGN SECURITY) REGULATIONS, 2004 
+
+3.2 
+
+3.3 
+
+The Committee proposes  that the Foreign Exchange Management (Transfer or Issue 
+of  any  Foreign  Security)  Regulations,  2004  be  amended  to  (i)  specifically  permit 
+investments by resident Indians in securities of companies incorporated outside India 
+listed on Indian stock exchanges, and (ii) enable resident Indians to transfer securities 
+of companies incorporated outside India listed on Indian stock exchanges.  
+
+Under  the  existing  Indian  regulatory  framework,  only  companies  incorporated  in 
+India  and  listed  on  an  Indian  stock  exchange,  may  have  the  ability  to  invest  in  the 
+securities  of  a  listed  company  incorporated  outside  India,  and  even  then,  only  on  a 
+short  term  basis.  Beyond  this,  any  investment  in  a  listed  company  incorporated 
+outside India by any other Indian entity or person would need to be in the form of a 
+“joint  venture”,  on  a  long  term  basis,  and  only  where  such  Indian  entity  or  person 
+holds  the  securities  along  with  foreign  promoters  (therefore  evidencing  a  strategic 
+investment). The Committee, therefore, recommends that enabling provisions should 
+be  included  in  the  regulatory  framework  to  permit  investments  and  transfers  by 
+resident  Indians  in  /  of  companies  incorporated  outside  India  listed  on  Indian  stock 
+exchanges.  
+
+ 
+
+ 
+
+14 
+
+FOREIGN EXCHANGE MANAGEMENT (DEPOSIT) REGULATIONS, 2016 
+
+3.4 
+
+3.5 
+
+The  Committee  proposes  that  the  Foreign  Exchange  Management  (Deposit) 
+Regulations,  2016  be  amended  to  enable  companies  incorporated  outside  India  to 
+open  bank  accounts  in  India  denominated  in  Indian  rupees  for  listing  purposes  and 
+transactions related thereto. 
+
+Under these regulations, a company incorporated outside India is permitted to open a 
+Non-Resident  Ordinary  Account  (“NRO  Account”)  and  a  Special  Non-Resident 
+Rupee  Account  (“SNRR  Account”).  Remittances  outside  India  from  the  NRO 
+Account  are  permitted  only  with  RBI  approval  and  consequently  would  not  be 
+practical  to  be  used  by  the  company  incorporated  outside  India  with  respect  to 
+remittance  of  listing  proceeds.  An  SNRR  Account  is  a  special  account  opened  for 
+specific business and should be concurrent with the term of the contract or period of 
+business, not exceeding 7 (seven) years. SNRR Account seems to be contemplated for 
+business or project specific matters and not for general banking purposes or to receive 
+consideration on shares. 
+
+3.6 
+
+Accordingly,  the  Committee  recommends  that  these  regulations  be  amended  to 
+specifically permit a company incorporated outside India i.e. a foreign issuer, to open 
+an account in India for listing purposes and transactions related thereto. 
+
+COMPANIES ACT, 2013  
+
+3.7 
+
+Section  390  of  the  Companies  Act,  2013  enables  the  Central  Government  to  make 
+rules  for  offer  of  IDRs,  requirement  of  disclosures  in  prospectus,  manner  of  sale/ 
+transfer/  transmission  of  IDRs,  etc.  The  Committee  recommends  that  a  similar 
+provision  enabling  SEBI  to  make  regulations  to  permit  listing  of  equity  shares  of 
+companies incorporated outside India on India stock exchanges, may be introduced in 
+the Companies Act. 
+
+ 
+
+SEBI 
+REGULATIONS, 2018 (“ICDR REGULATIONS”) 
+
+(ISSUE  OF  CAPITAL  AND  DISCLOSURE  REQUIREMENTS) 
+
+3.8 
+
+3.9 
+
+The  ICDR  Regulations  provides  a  general  framework  for  eligibility  and  disclosure 
+requirements  in  connection  with  the  issuance  of  equity  shares  by  companies 
+incorporated in India as well as issuance of IDRs in India by companies incorporated 
+outside India. The Committee proposes to include a corresponding framework in the 
+extant  ICDR  regulations,  for  listing  of  equity  shares  of  companies  incorporated 
+outside India (whether or not listed outside India) on Indian stock exchanges.  
+
+Following the initial stage of implementation of the proposed framework, additional 
+changes may be proposed to other provisions of the ICDR Regulations (including, for 
+example,  additional  provisions  relating  to  rights  issuances,  preferential  allotment  or 
+QIP).  
+
+3.10  The key features of the proposed framework in the initial stage are outlined below: 
+
+  Company-specific  eligibility  criteria  -  These  company-specific  criteria  are 
+guided  by  investor  protection  considerations,  including  the  principle  that 
+
+15 
+
+ 
+
+ 
+
+fraudulent  or  debarred  companies  should  not  be  allowed  to  access  Indian 
+capital markets. 
+
+  Removal  of  requirement  of  identifying  “Promoter(s)  /  Promoter  group”  - 
+Since this concept is unique to India, the Committee proposes to remove this 
+requirement  from  the  rules  applicable  to  companies  incorporated  outside 
+India listing on Indian stock exchanges.  
+
+In case the  company incorporated outside India has identified controlling or 
+significant shareholders under the law of its country of incorporation, certain 
+material  information  regarding  such  controlling  or  significant  shareholders 
+will  be  required  to  be  disclosed  such  as  material  litigation  relating  to  such 
+controlling or significant shareholders. 
+
+  Financial  statement  requirements:  The  Committee  proposes  that  companies 
+incorporated  outside  India  listing  on  Indian  stock  exchanges  be  required  to 
+prepare  and  disclose  English  language  consolidated  financial  statements  in 
+accordance with one of the following accounting standards:  
+
+o 
+
+Ind AS;  
+
+o 
+
+IFRS as issued by the IASB (IFRS); 
+
+o  US GAAP; or  
+
+o  Local GAAP of the country of incorporation.  
+
+If consolidated financial statements are prepared in accordance with IFRS or 
+US  GAAP,  the  issuer  shall  annex  a  summary  of  significant  differences 
+between IFRS or US GAAP, as applicable, and Ind AS (with no quantitative 
+reconciliation).  In  case  the  company  incorporated  outside  India  opts  to 
+prepare  and  disclose  the  consolidated  financial statements  as per  its  country 
+of  incorporation’s  local  GAAP,  a  quantitative  reconciliation  statement 
+between  the  country  of  incorporation’s  local  GAAP  and  Ind  AS  for  the 
+periods  presented,  and  summary  of  significant  differences  between  the 
+country of incorporation’s local GAAP and Ind AS has to be annexed. 
+
+Consolidated  financial  statements  shall  include  the  statement  of  profit  and 
+loss,  balance  sheet,  cash  flow  statement  and  statement  of  changes  in  equity 
+and related notes to the financial statements,  to be provided in the reporting 
+currency as per the country of incorporation and / or in Indian Rupees;  
+
+Convenience  translation  of  the  most  recent  fiscal  year  and  interim  period 
+consolidated financial statements  into Indian Rupee, the exchange rate to be 
+used as of the most recent balance sheet date; and  
+
+ 
+
+Issue size and minimum float: To ensure adequate liquidity, reduce scope for 
+manipulation and also that only high quality companies get listed, minimum 
+thresholds related to free float, issue size and minimum number of investors 
+are  desirable.  Accordingly,  the  Committee  recommends  that  minimum  10% 
+of  paid-up  capital  may  be  listed  on  Indian  stock  exchanges(s).  Further,  the 
+issue size should be at least INR 1,000 crore and allotment should be made to 
+at least 200 investors.     
+
+ 
+
+ 
+
+16 
+
+SEBI 
+REGULATIONS, 2015 (“LODR REGULATIONS”)  
+
+(LISTING  OBLIGATIONS  AND  DISCLOSURE  REQUIREMENTS) 
+
+3.11  The  LODR  Regulations  provides  a  framework  for  post-listing  obligations  and 
+ongoing disclosure requirements of a listed entity which has, inter alia, listed its IDRs 
+on  Indian  stock  exchanges.  As  per  the  LODR  Regulations,  the  listed  entity  shall 
+comply, at all times, with the rules/regulations/laws of the  country of origin, i.e. the 
+home  country.  Further,  specifically,  in  the  context  of  compliance  with  corporate 
+governance  requirements,  the  regulations  provide  that  the  listed  entity  shall  comply 
+with the corporate governance provisions as applicable in its home country and other 
+jurisdictions  in  which  its  equity  shares  are  listed.  The  listed  entity  shall  submit  to 
+stock exchange a comparative analysis of the corporate governance provisions that are 
+applicable in its home country and in the other jurisdictions in which its equity shares 
+are  listed  along  with the  compliance  of  the same  vis-à-vis  the  corporate  governance 
+requirements  applicable  under  regulation  17  to  regulation  27  of  the  LODR 
+Regulations. 
+ 
+
+3.12  The  Committee  proposes  that,  to  begin  with,  IDR  requirements  may  be  made 
+applicable,  mutatis  mutandis,  to  listing  of  equity  shares  by  listed  companies 
+incorporated outside India on Indian stock exchanges as well. The recommendations 
+regarding financial statements and a few other issues are specifically spelt out below. 
+Unlisted  companies  incorporated  outside  India,  intending  to  list  in  India,  shall  be 
+required to ensure compliance with the Indian framework with respect to continuous 
+listing,  with suitable amendments  as  proposed in case  of initial  listing  as detailed  at 
+Paragraphs 3.9 and 3.10 of this Chapter.   
+ 
+Financial  statement  requirements:  Foreign  companies  listing  on  Indian  stock 
+exchanges  be  required  to  prepare  and  disclose  English  language  consolidated 
+financial  statements  in  accordance  with  one  of  the  following  accounting  standards: 
+Ind AS; IFRS; US GAAP; or the country of incorporation’s local GAAP. 
+
+ 
+
+ 
+
+Consolidated financial statements shall contain the following information: 
+
+o  Statement of profit and loss, balance sheet, cash flow statement and statement of 
+changes in equity and related notes to the financial statements, to be provided in 
+the  reporting  currency  as  per  the  country  of  incorporation  and  /  or  in  Indian 
+Rupees;  
+
+o  Convenience  translation  of  the  most  recent  fiscal  year  and  interim  period  into 
+Indian Rupees, the exchange rate to be used as of the most recent balance sheet 
+date; and  
+
+o  Statement of difference to be provided setting forth the differences between the 
+accounting standard used for the preparation consolidated financial statements of 
+the  company  incorporated  outside  India  and  IndAS.  If  consolidated  financial 
+statements are prepared in accordance with IFRS or US GAAP, the issuer shall 
+annex a summary of significant differences between IFRS or US GAAP and Ind 
+AS  (with  no  quantification).  In  case  the issuer  opts to  prepare and  disclose the 
+consolidated financial statements as per country of incorporation’s local GAAP, 
+a quantitative reconciliation statement between country of  incorporation’s local 
+GAAP  and  Ind  AS  for  the  periods  presented,  and  summary  of  significant 
+differences between the country of incorporation’s local GAAP and Ind AS has 
+to be annexed. 
+
+ 
+
+17 
+
+ 
+
+ 
+
+Minimum Float: As proposed in case of initial listing, minimum 10% of the paid-up 
+capital  of  the  company  incorporated  outside  India  must  remain  publicly  listed  in 
+India. 
+
+Manner of voting on the shareholders’ resolutions: Mandatory e-voting requirement 
+may be made applicable. 
+
+ 
+
+SEBI  REGULATIONS  ON  (I)  PROHIBITION  OF  INSIDER  TRADING,  (II) 
+TAKEOVERS, (III) BUYBACK, AND (IV) DELISTING  
+
+3.13  The  SEBI  (Prohibition  of  Insider  Trading)  Regulations,  2015,  SEBI  (Substantial 
+Acquisition  of  Shares  and  Takeovers)  Regulations,  2011,  SEBI  (Buy  Back  of 
+Securities)  Regulations,  2018  and  SEBI  (Delisting  of  Equity  Shares)  Regulations, 
+2009, currently set forth the relevant capital market regulations in the context of listed 
+companies  in  India.  The  same  do  not  cover  the  scenarios  involving  publicly  traded 
+securities  of  companies  incorporated  outside  India  that  would  be  listed  on  Indian 
+stock exchanges. 
+
+3.14  The  Committee  proposes  that  these  regulations  may  be  suitably  amended  to  extend 
+the  applicability  of  the  existing  regulations  to  companies  incorporated  outside  India 
+listing  on  Indian  stock  exchanges.  If  the  company  incorporated  outside  India  is 
+already listed in its country of incorporation, the regulatory requirements applicable in 
+such country shall also apply.  
+
+The key changes would include the following: 
+
+  Definition of Company / Target Company: To amend the definition of “company” to 
+extend  applicability  of  these  regulations  to  companies  incorporated  outside  India 
+listing their shares on an Indian stock exchange 
+
+  Removal of requirement of identifying “Promoter(s) / Promoter group” - Since this 
+concept is unique to India, the Committee proposes to remove this requirement from 
+the  rules  applicable  to  companies  incorporated  outside  India  listing  on  Indian 
+exchanges.  
+
+  Operational procedures 
+
+  Permissible methods in case of Buyback and Delisting 
+
+ 
+
+III. 
+
+INVESTOR KYC 
+
+3.15  To subscribe to securities of companies incorporated outside India listed in India, the 
+investor  will  have  to  comply  with  the  prevalent  Indian  KYC  and  Beneficial 
+Ownership norms.  
+
+ 
+
+IV. 
+
+TAX RELATED CONSIDERATIONS 
+
+3.16 
+
+Issuance  of  equity  shares  of  company  incorporated  outside  India  on  a  recognized 
+stock exchange in India 
+
+ 
+
+18 
+
+i. 
+
+ii. 
+
+Under current tax laws in India, if the value at which the shares are issued is less than 
+the value as per Rule 11UA of the IT Rules, tax under Section 56(2)(x) of the IT Act 
+may be attracted on the recipient of the shares (being a tax resident of India). 
+
+While  issue  of  shares  by  a  company  incorporated  outside  India  listed  on  an  Indian 
+Stock  Exchange  is  covered  under  the  definition  of  a  “quoted  share”  being  shares 
+listed on a “recognised stock exchange in India”, the Committee recommends that the 
+matter may be taken up with the Department of Revenue to take necessary steps for 
+clarifying the determination of the FMV in such cases. 
+
+3.17  Exclusion from applicability of place of effective management (POEM) 
+
+The Committee recommends that Department of Revenue may be requested to clarify 
+that  the  POEM  provisions  will  not  apply  to  a  company  incorporated  outside  India 
+solely on account of it being listed in India. This is to avoid any undue instance of tax 
+on companies incorporated outside India intending to list in India. 
+
+*** 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+19 
+
+CHAPTER 4 - RECOMMENDATIONS 
+
+The major recommendations of the Committee are listed below. 
+
+A.  Listing of equity shares of companies incorporated in India on foreign stock exchanges 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+v. 
+
+vi. 
+
+vii. 
+
+viii. 
+
+ix. 
+
+Listing  may  be  allowed  only  on  specified  stock  exchanges  in  Permissible  Jurisdictions. 
+Detailed criteria for identifying Permissible Jurisdictions have been suggested. Based on 
+the  criteria,  the  initial  list  of  Permissible  Jurisdictions  along  with  specified  stock 
+exchanges has also been recommended.  
+
+The RBI may be requested to introduce Part B to Schedule 1 to FEMA 20R that may set 
+out  the  regulatory  framework  for  purchase  by  a  person  resident  outside  India  of  equity 
+shares of a company incorporated in India listed on a foreign stock exchange. A draft of 
+such Part B to Schedule 1 has also been suggested. 
+
+The MCA may be requested to issue a clarification (similar to the general circular dated 
+August  03,  2016 issued  for  masala  bonds)  that  Chapter  III  of  the  Companies  Act,  2013 
+shall  not  apply  to  the  listing  of  equity  shares  of  companies  incorporated  in  India  on 
+foreign stock exchanges. 
+
+Listing of unlisted companies incorporated in India on foreign stock exchanges would be 
+governed  by  the  listing  framework  of  the  concerned  Permissible  Jurisdiction.  The 
+relevant Indian laws like Companies Act would also continue to apply to such companies. 
+As regards listing of a listed Indian company on foreign stock exchanges, such a company 
+shall  comply,  at  all  times,  with  rules/  regulations/  laws/  initial  and  continuous  listing/ 
+disclosure  requirements,  as  are  applicable  to  companies  listed  in  India.  In  case  of 
+variation  in  the  compliance  obligations/  requirement  for  additional  compliances  in 
+Permissible Jurisdiction, a comparative analysis of the provisions that are applicable in 
+India  along  with  compliance  of  the  same  and  the  requirements  applicable  in  the 
+Permissible Jurisdiction shall be given by the company. 
+
+The  KYC  and  AML  framework  existing  in  Permissible  Jurisdictions  may  be  taken  as 
+acceptable standards for compliance with KYC and AML norms.   
+
+The  beneficial  ownership  requirement,  provided  under  the  Companies  (Significant 
+Beneficial Owners) Rules, 2018, can be met by submitting the information as provided by 
+the investors in the manner prescribed in the Permissible Jurisdictions. 
+
+The  matter  relating  to  tax  on  issuance  and  transfer  of  equity  shares  of  companies 
+incorporated  in  India  listed  on  a  foreign  stock  exchange  and  related  reporting 
+obligations, may be taken up with the Department of Revenue for providing clarity. For 
+this purpose, reference may be drawn to ADR / GDR regime. 
+
+The  Department  of  Revenue  may  be requested to  take  necessary  steps  for  clarifying the 
+applicability of section 56 of the Income Tax Act, 1961 in case of transactions pertaining 
+to listing of equity shares of companies incorporated in India on foreign stock exchanges 
+including relevant amendments in the tax valuation rules. 
+
+The  relevant  accounting  standards  of  the  country  of  listing  should  be  applicable.  The 
+accounting  standards  in  the  country  of  listing  may  require  preparation/presentation  of 
+consolidated  financial  statements  either  in  accordance  with  accounting/auditing 
+standards  applicable  to  domestic  companies  in  such  jurisdiction  or  comparable  global 
+standards. However, the company would be required to prepare its consolidated financial 
+
+ 
+
+20 
+
+statements  in  accordance  with  applicable  Indian  Accounting  Standards,  as  applicable 
+from time to time for statutory reporting purposes. 
+
+ 
+
+B.  Listing of equity shares of companies incorporated outside India on Indian Stock Exchanges  
+
+i. 
+
+ii. 
+
+iii. 
+
+The  company  incorporated  outside  India  should  have  been  incorporated  only  in 
+Permissible Jurisdictions. Detailed criteria for identifying Permissible Jurisdictions have 
+been  suggested.  Based  on  the  criteria,  the  initial  list  of  Permissible  Jurisdictions  along 
+with the Indian stock exchanges for listing has also been recommended.  
+
+RBI may be requested to amend the Foreign Exchange Management (Transfer or Issue of 
+any Foreign Security) Regulations, 2004 to (i) specifically permit investments by resident 
+Indians  in  securities  of  companies  incorporated  outside  India  listed  on  Indian  stock 
+exchanges,  and  (ii)  enable  resident  Indians  to  transfer  securities  of  companies 
+incorporated outside India listed on Indian stock exchanges.  
+
+RBI  may  be  requested  to  amend  the  Foreign  Exchange  Management  (Deposit) 
+Regulations, 2016 to enable companies incorporated outside India to open bank accounts 
+in  India  denominated  in  Indian  rupees  for  listing  purposes  and  transactions  related 
+thereto. 
+
+iv.  MCA may be requested to introduce a provision similar to section 390 of the Companies 
+Act  enabling  SEBI  to  make  regulations  to  permit  listing  of  equity  shares  of  companies 
+incorporated outside India on Indian stock exchanges. 
+
+v. 
+
+SEBI (ICDR) Regulations may be suitably amended to provide a framework for enabling 
+listing  of  equity  shares  of  companies  incorporated  outside  India  on  Indian  stock 
+exchanges. The following may be a few key areas of the said enabling framework: 
+
+a.  Company-specific eligibility criteria 
+
+b.  Removal of requirement of identifying “Promoter(s)/ Promoter group” 
+
+c.  Financial statement requirements 
+
+d.  Issue size and minimum float 
+
+vi. 
+
+vii. 
+
+SEBI (LODR) Regulations may be suitably amended to introduce a framework similar to 
+the existing framework for IDRs, which, to begin with, may be made applicable mutatis 
+mutandis in this case. Unlisted companies incorporated outside India, intending to list in 
+India, shall be required to ensure compliance with the Indian framework with respect to 
+continuous  listing,  with  suitable  amendments  as  proposed  in  case  of  initial  listing. 
+Further, recommendations have also been made relating to financial statements and few 
+other issues.  
+
+SEBI  (PIT)  Regulations,  SEBI  (SAST)  Regulations,  SEBI  (Buy-back)  Regulations  and 
+SEBI (Delisting) Regulations may be suitably amended to extend the applicability of the 
+existing  regulations  to  companies  incorporated  outside  India  listing  on  Indian  stock 
+exchanges.  If  the  company  incorporated  outside  India  is  already  listed  in  its  country  of 
+incorporation,  the  regulatory  requirements  applicable  in  such  country  shall  also  apply. 
+The following may be the key areas of amendments: 
+
+a.  Definition of company 
+
+21 
+
+ 
+
+b.  Removal of requirement of identifying “Promoter(s)/ Promoter group” 
+
+c.  Operational procedures 
+
+d.  Possible methods in case of buy-back and delisting 
+
+viii.  Department  of  Revenue may  be  requested  to  take  necessary  steps  for  clarifying  the 
+determination of Fair Market Value in the context of rule 11UA of the Income Tax Rules, 
+1962 and section 56 of the Income Tax Act, 1961   
+
+ix. 
+
+The  Department  of  Revenue  may  be  requested  to  clarify  that  the  Place  of  Effective 
+Management (POEM) provisions will not apply to a company incorporated outside India 
+solely on account of it being listed in India. 
+
+ 
+
+ 
+
+*** 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+22 
+
+List of Permissible Jurisdictions and Specified Stock Exchanges 
+
+ANNEXURE-A  
+
+ 
+
+ 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+United States of America – NASDAQ, NYSE 
+
+China – Shanghai Stock Exchange, Shenzhen Stock Exchange   
+
+Japan – Tokyo Stock Exchange, Osaka Securities Exchange 
+
+South Korea – Korea Exchange Inc.  
+
+United Kingdom – London Stock Exchange  
+
+Hong Kong – Hong Kong Stock Exchange  
+
+France – Euronext Paris 
+
+Germany – Frankfurt Stock Exchange  
+
+Canada – Toronto Stock Exchange 
+
+10. 
+
+Switzerland – SIX Swiss Exchange 
+
+ 
+
+*** 
+
+ 
+
+ 
+
+ 
+
+23 
+
+ANNEXURE-B 
+
+ 
+
+SCHEDULE 1 
+
+[See Regulation 5(1)] 
+
+Part A - Purchase / Sale of capital instruments of a company incorporated in India by a person 
+
+resident outside India 
+
+            [As existing in FEMA 20R] 
+
+Part B - Purchase / Sale of capital instruments of company incorporated in India listed on a 
+
+recognised stock exchange outside India 
+
+I. 
+
+1.1 
+
+1.2 
+
+PURCHASE  /  SALE  OF  CAPITAL  INSTRUMENTS  ON  A  RECOGNISED  STOCK 
+EXCHANGE OUTSIDE INDIA 
+
+A  person  resident  outside  India  (other  than  a  citizen  of  Pakistan  or  Bangladesh  or  an  entity 
+incorporated  in  Pakistan  or  Bangladesh)  may  purchase  or  sell  capital  instruments  of  a 
+company incorporated in India listed on a recognised stock exchange outside India, subject to 
+prohibited  activities,  entry  routes,  sectoral  caps  and  attendant  conditions  specified  in 
+Regulation 15 and Regulation 16.  
+
+The aggregate of capital instruments which may be issued or transferred to persons resident 
+outside  India  on  a  recognised  stock  exchange  outside  India,  along  with  capital  instruments 
+already held by persons resident outside India, shall not exceed the limit on foreign holding of 
+such capital instruments under the Act, rules or regulations framed thereunder. 
+
+1.3 
+
+It is clarified that: 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+“Foreign  Direct  Investment”  as  defined  under  Regulation  2(xvii)  shall  include 
+investment  through  capital  instruments  by  a  person  resident  outside  India  in  a 
+company incorporated in India listed on a recognised stock exchange outside India; 
+
+Any  transfer  of  capital  instruments  of  a  company  incorporated  in  India  on  a 
+recognised stock exchange outside India shall be considered to be a transfer of capital 
+instruments from a person resident outside to a person resident outside India for the 
+purpose of Regulation 10;  
+
+The  pricing  guidelines under  Regulation 11 shall  not apply  to  the purchase /  sale  of 
+capital  instruments  of  a  company  incorporated  in  India  on  a  recognised  stock 
+exchange outside India; and 
+
+“Recognised  stock  exchange  outside  India”  shall  mean  specified  stock  exchanges  in 
+Permissible Jurisdictions and as notified from time to time. 
+
+II. 
+
+MODE OF PAYMENT  
+
+The  amount  of  consideration  for  purchase  /  sale  of  capital  instruments  of  a  company 
+incorporated  in  India  on  a  recognised  stock  exchange  outside  India  shall  be  paid  through 
+banking channels to the foreign currency account of the Indian company held in accordance 
+with the Foreign Exchange Management (Foreign currency accounts by a person resident in 
+India) Regulations, 2016.  
+
+ 
+
+24 
+
+III. 
+
+PROCEEDS OF ISSUE 
+
+The  proceeds  of  issue  of  capital  instruments  by  a  company  incorporated  in  India  on  a 
+recognised stock exchange outside India shall either be remitted to a bank account in India or 
+deposited  in  a  foreign  currency  account  of  the  Indian  company  held  in  accordance  with  the 
+Foreign  Exchange  Management  (Foreign  currency  accounts  by  a  person  resident  in  India) 
+Regulations, 2016.1  
+
+IV. 
+
+4.1 
+
+4.2 
+
+REPORTING REQUIREMENTS 
+
+The reporting requirements under Regulation 13 as relevant shall apply to the issue and sale 
+and purchase of capital instruments of a company incorporated in India on a recognised stock 
+exchange outside India. 
+
+The Reserve Bank shall have the right to require submission from time to time of details in 
+relation to persons resident outside India who are shareholders of  a company incorporated in 
+India listed on a recognised stock exchange outside.  
+
+*** 
+
+                                                      
+
+1   Regulation 5(F)(1) of the Foreign Exchange Management (Foreign currency accounts by a person resident in 
+India) Regulations, 2016 to be amended as follows: “Subject to compliance with the conditions in regard to 
+raising  of  external  commercial  borrowings  (ECB)  or  raising  of  resources  through  American  Depository 
+Receipts (ADRs) or Global Depository Receipts (GDRs)  or issue of capital instruments to persons resident 
+outside India on a recognised stock exchange outside India, the funds so raised may, pending their utilization 
+or repatriation to India, be held in deposits in foreign currency accounts with a bank outside India.” 
+
+ 
+
+25 
+
+ANNEXURE-C  
+
+ 
+
+           List of Permissible Jurisdictions 
+
+  
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+United States of America  
+
+China  
+
+Japan  
+
+South Korea  
+
+United Kingdom  
+
+Hong Kong  
+
+France  
+
+Germany  
+
+Canada  
+
+10. 
+
+Switzerland  
+
+ 
+
+ 
+
+List of Indian Stock Exchanges  
+
+1.  National Stock Exchange of India Limited 
+
+2.  Bombay Stock Exchange Limited 
+
+3.  Metropolitan Stock Exchange of India Limited 
+
+4.  Stock Exchanges in GIFT-IFSC 
+
+ 
+
+ 
+
+*** 
+
+26 
+
+

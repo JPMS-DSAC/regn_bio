@@ -1,0 +1,457 @@
+ 
+
+ 
+
+On streamlining the process of monitoring of Offshore Derivative Instruments 
+
+CONSULTATION PAPER  
+
+(ODIs)/Participatory Notes (PNs) 
+
+ 
+
+A.  Background 
+
+ 
+
+1.  SEBI had set out Conditions for issuance of Offshore Derivative Instruments (ODIs) 
+
+through Regulation 22 of SEBI (Foreign Portfolio Investors) Regulations, 2014. 
+ 
+
+2.  SEBI  has  been  taking  steps  for  streamlining  and  tightening  the  conditions  for 
+issuance and reporting of ODIs by FPIs registered with SEBI. A list of the measures 
+taken by SEBI in this regard during recent past is given as follows:- 
+
+ 
+
+ 
+
+(a) The Regulation 22 (2) of SEBI (Foreign Portfolio Investors) Regulations, 
+2014 (“FPI Regulations”) has been amended to ensure that transfer of 
+ODIs are done to persons subject to fulfilment of Regulation 22 (1) of 
+FPI  Regulations  and  prior  consent  of  the  FPI  is  obtained  for  such 
+transfer,  except  when  the  persons  to  whom  the  ODIs/PNs  are  to  be 
+transferred to are pre-approved by the FPI itself. 
+
+(b) Vide  a  circular  dated  June  10,  2016,  SEBI  has  issued  instructions  on 
+Know  Your  Client  (KYC)  norms  for  ODI  subscribers,  transferability  of 
+ODIs,  reporting  of  suspicious  transactions,  periodic  review  of  systems 
+and  modified  ODI  reporting  format.  The  circular  inter  alia  advises  as 
+follows: 
+
+•  Applicability of Indian KYC/AML norms for Client Due Diligence: ODI 
+Issuers  shall  now  be  required  to  identify  and  verify  the  beneficial 
+owners  (BO)  in  the  subscriber  entities,  who  hold  in  excess  of  the 
+threshold  as  defined  under  Rule  9  of  the  Prevention  of  Money-
+laundering (Maintenance of Records) Rules, 2005 i.e. 25 % in case 
+of  a  company  and  15  %  in  case  of  partnership  firms/  trusts/ 
+unincorporated bodies. 
+
+•  KYC Review: The KYC review shall be done on the basis of the risk 
+
+criteria as determined by the ODI issuers. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+•  Suspicious Transactions Report: ODI Issuers shall be required to file 
+suspicious  transaction  reports,  if  any,  with  the  Indian  Financial 
+Intelligence Unit, in relation to the ODIs issued by it. 
+
+•  Reporting of complete transfer trail of ODIs: ODI issuers shall also 
+be required to report all intermediate transfers during the month in 
+the monthly reports on ODIs. 
+
+•  Reconfirmation  of  ODI  positions:  ODI  Issuers  shall  be  required  to 
+carry  out  reconfirmation  of  the  ODI  positions  on  a  semi-annual 
+basis.  In  case  of  any  divergence  from  reported  monthly  data,  the 
+same should be informed to SEBI in format provided. 
+
+•  Periodic Operational Evaluation: ODI Issuers shall be required to put 
+in  place  necessary  systems  and  carry  out  a  periodical  review  and 
+evaluation  of  its  controls,  systems  and  procedures  with  respect  to 
+the  ODIs.  A  certificate  in  this  regard  should  be  submitted  on  an 
+annual basis to SEBI by the Chief Executive Officer or equivalent of 
+the ODI Issuer. 
+
+ 
+(c) Vide  a  circular  dated  June  29,  2016,  it  was  further  clarified  that  ODI 
+subscribers  who  have  subscribed  to  ODIs  under  SEBI  (Foreign 
+Institutional  Investors)  Regulations,  1995  can  continue  to  subscribe  to 
+ODIs  under  the  FPI  regime,  subject  to  the  condition  that  they  comply 
+with Regulation 22 of FPI Regulations and meet the eligibility criteria as 
+laid  down  in  the  SEBI  circular  dated  November  24,  2014  along  with 
+other  norms  which  may  be  notified  by  SEBI  from  time  to  time.  Those 
+ODI  subscribers  which  do  not  meet  the  aforementioned  norms, 
+including unregulated funds whose investment manager is appropriately 
+regulated, can continue to hold the position till the date of expiry of such 
+positions  or  till  December  31,  2020,  whichever  is  earlier.  Such 
+subscribers cannot take fresh positions or renew the old positions. 
+
+(d) Pursuant to a meeting on April 26, 2017, the SEBI Board gave approval 
+to  insert  an  express  provision  in  Regulation  22  (1)  of  the  SEBI  (FPI) 
+Regulations,  2014  to  prevent  Resident  Indians/NRIs  or  to  the  entities 
+which  are  beneficially  owned  by  Resident 
+from 
+subscribing to Offshore Derivative Instruments. 
+ 
+ 
+
+Indians/NRIs 
+
+ 
+
+B.  Impact of steps taken by SEBI in recent past. 
+
+ 
+As  a  result  of  the  aforementioned  steps  taken  by  SEBI  there  has  been  a  significant 
+reduction in the notional value of Outstanding ODIs. The data in this regard is given as 
+follows:- 
+
+Outstanding Notional Value of Offshore Derivative Instruments (ODIs) Vs Assets Under Custody (AUC) of 
+
+FPIs/deemed FPIs 
+
+Month 
+
+of 
+on 
+
+Notional 
+value 
+ODIs 
+Equity, 
+Debt 
+& 
+Derivatives 
+* 
+
+Notional 
+value 
+of 
+ODIs 
+on 
+Equity  & 
+Debt  
+excluding 
+Derivatives 
+* 
+
+Notional 
+value  of 
+ODIs  on 
+Equity * 
+
+Notional 
+value  of 
+ODIs  on 
+Debt * 
+
+Notional 
+value 
+of 
+ODIs 
+on 
+Derivatives 
+* 
+
+AUC  of 
+FPIs/ 
+deemed 
+FPIs # 
+
+of 
+on 
+
+Notional 
+value 
+ODIs 
+Equity, 
+Debt 
+& 
+Derivatives 
+as % of B 
+
+[` Crore]
+
+Notional 
+value 
+of 
+ODIs 
+on 
+Equity  & 
+Debt  
+excluding 
+Derivatives 
+as % of B 
+
+B 
+
+C1 
+
+C2 
+
+10.5
+10.7
+10.0
+9.3
+9.2
+8.8
+8.4
+8.4
+8.3
+7.8
+7.5
+6.7
+7.1
+6.6
+6.6
+6.0
+
+A4 
+30,054
+28,883
+31,692
+29,653
+28,916
+28,085
+26,889
+25,992
+26,575
+18,475
+12,130
+11,315
+10,733
+11,700
+12,475
+18,839
+
+A3 
+141,679
+132,063
+137,779
+131,627
+131,951
+133,294
+136,032
+132,857
+126,049
+124,760
+114,466
+100,927
+108,576
+103,712
+111,803
+109,541
+
+A2 
+171,732 
+160,946 
+169,470 
+161,280 
+160,867 
+161,379 
+162,921 
+158,848 
+152,624 
+143,235 
+126,596 
+112,243 
+119,309 
+115,413 
+124,277 
+128,380 
+
+A1 
+231,317 
+217,740 
+223,077 
+212,132 
+215,338 
+210,731 
+212,179 
+216,232 
+212,509 
+199,987 
+179,648 
+157,306 
+175,088 
+170,191 
+178,437 
+168,545 
+
+A5 
+59,585 2,200,837 
+56,794 2,043,139 
+53,606 2,224,537 
+50,852 2,281,346 
+54,471 2,348,618 
+49,352 2,387,685 
+49,257 2,514,038 
+57,383 2,565,304 
+59,885 2,556,450 
+56,752 2,577,073 
+53,052 2,409,042 
+45,063 2,348,007 
+55,779 2,456,716 
+54,778 2,563,431 
+54,160 2,705,729 
+40,165 2,786,083 
+
+  
+Jan-16 
+Feb-16 
+Mar-16 
+Apr-16 
+May-16 
+Jun-16 
+Jul-16 
+Aug-16 
+Sep-16 
+Oct-16 
+Nov-16 
+Dec-16 
+Jan-17 
+Feb-17 
+Mar-17 
+Apr-17 
+ 
+*Figures compiled based on reports submitted by FPIs/deemed FPIs issuing ODIs 
+ 
+#Figures compiled  based  on reports submitted  by custodians  &  does not  includes  positions  taken  by FPIs/deemed 
+FPIs in derivatives. 
+ 
+Column  A2  is  being  provided  which  depicts  the  Total  Value  of  ODI  issued  -with  underlying  as  only  Equity  &  Debt 
+excluding derivatives 
+ 
+Column A3 is being provided which depicts the Total Value of ODI issued -with underlying as Equity  
+ 
+Column A4 is being provided which depicts the Total Value of ODI issued -with underlying as Debt  
+ 
+
+7.8
+7.9
+7.6
+7.1
+6.8
+6.8
+6.5
+6.2
+6.0
+5.6
+5.3
+4.8
+4.9
+4.5
+4.6
+4.6
+
+Column A5 is being provided which depicts the Total Value of ODI issued -with underlying as derivatives. 
+ 
+Column  C2  is  being  provided  which  depicts  the  Total  Value  of  ODI  issued  -with  underlying  as  only  Equity  &  Debt 
+excluding derivatives- as percentage of Assets under custody 
+ 
+Note: The total value of ODIs excludes the ODIs issued on underlying such as portfolio hedging, unhedged , index 
+etc., which FPIs/deemed FPIs are unable to segregate into  equity, debt or derivatives. 
+
+ 
+
+C.  Proposals for further tightening of ODI/PN Norms:- 
+
+ 
+In order to further enhance the transparency in the process of issuance and monitoring of 
+ODIs being issued by the FPIs registered with SEBI, following steps are being proposed:- 
+
+ 
+
+1.  Levy of Regulatory fees on FPIs issuing ODIs:- 
+
+ 
+
+ 
+
+As discussed above, in order to ensure that the ODI route is not misused, SEBI has 
+been  continuously  making  regulatory  changes.  These  changes  however,  require 
+investment  in  manpower  and  systems  in  order  to  make  quick  analysis  of  the 
+voluminous data being submitted by the ODI issuing FPIs. SEBI incurs a significant 
+expenditure  in  terms  capital  and  manpower  when  it  comes  to  monitoring  of 
+investments  coming  through  the  ODI  route.  SEBI  has  put  in  place  dedicated  IT 
+systems for the ODI issuers to report the Beneficial Owners and other details of the 
+ODI subscribers. We may therefore, levy regulatory fees on FPIs issuing ODIs and 
+the group entities of such FPIs, which may be involved in taking underlying positions 
+in  Indian  securities  market.  The  proposal  for  implementation  of  fee  on  ODI  issuing 
+FPIs will require changes in SEBI (FPI) Regulations, 2014. 
+
+It  is  proposed  that  beginning  April  01,  2017,  for  a  period  of  every  three  years, 
+regulatory fees of US$ 1,000 be levied on each ODI issuing FPI for each and every 
+ODI subscriber coming through such FPI. We understand from the monthly ODI data 
+reported by the ODI issuers that quite a few ODI subscribers invest through multiple 
+issuers. It will discourage the ODI subscribers from taking ODI route and encourage 
+them to directly take registration as an FPI. 
+
+ 
+
+ 
+
+hedging:- 
+
+2.  Prohibit ODIs from being issued against derivatives except for those used for 
+
+Presently, ODIs are being issued against derivatives along with equity and debt. As 
+of April 2017, the ODIs issued against derivatives had a notional value of INR 40,165 
+Cr which is 24% of the total notional value of outstanding ODIs.  SEBI proposes to 
+prohibit ODIs from being issued against derivatives for speculative purpose. Further, 
+the  ODI  issuers  shall  be  given  time  till  December  31,  2020  to  wind  up  the  ODIs 
+
+issued against derivatives which are not for hedging purpose. It will be incumbent on 
+ODI  issuing  FPI  to  ensure  that  ODI  is  issued  against  those  derivatives  which  are 
+purely for hedging purpose and not for naked speculation. The ODI issuing FPI shall 
+put in place necessary system to ensure the same. 
+
+ 
+
+1.  In light of the above, public comments are invited on the proposals given at 1 and 2 of 
+
+C above. Comments/ suggestions may be provided as below:  
+
+D.  Public Comments:- 
+
+ 
+
+ 
+ 
+S. No.  Pertains to C.(1) / C.(2) 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Suggestions  
+ 
+ 
+
+Rationale 
+ 
+ 
+
+2.  Comments may be forwarded by email to odi-feedback@sebi.gov.in latest by June12, 
+
+2017. 
+
+ 
+Issued on: May 29, 2017 
+
+

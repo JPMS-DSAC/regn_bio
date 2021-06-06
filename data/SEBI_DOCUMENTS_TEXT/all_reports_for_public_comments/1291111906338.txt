@@ -1,0 +1,1558 @@
+PROPOSED PROCESS OF ALTERNATIVE MODE OF PAYMENT IN ISSUES  
+
+ 
+SEBI  Board  has  approved  the  concept  of  providing  an  alternative  mode  of 
+payment  in  issues  whereby  the  application  money  remains  in  the  investors’ 
+account till finalization of basis of allotment in the issue. Details of the process 
+of  “Applications  Supported  by  Blocked  Amount  (hereinafter  referred  as  ASBA 
+process) in public issue is given in three parts in this paper. 
+ 
+ASBA  process  would  require  retail  individual  investors  bidding  at  cut-off,  to 
+apply  through  Self  Certified  Syndicate Banks  (SCSBs),  in  which  the  investors 
+have bank accounts. SCSBs are those banks which satisfy the conditions laid 
+down  in  Part  I.  SCSBs  would  accept  the  applications,  block  the  fund  to  the 
+extent  of  bid  payment  amount,  upload  the  details  in  the  electronic  bidding 
+system of BSE or NSE, unblock once basis of allotment is finalised and transfer 
+the amount for allotted shares, to the issuer. Part II details the procedure in 
+ASBA process. Part III details the role and responsibility of each intermediary 
+in the ASBA process. 
+ 
+It  may  please  be  noted  that  ASBA  process  is  an  additional  mode  of  making 
+payment  in  issues,  by  retail  individual investors  who  have  bid  at  cut-off  with 
+single  option.  This  would  co-exist  with  the  current  procedure  of  investors 
+applying through sub syndicate/ syndicate members with cheque as a payment 
+instrument. 
+ 
+Comments  /  suggestions  are  invited  on  the  proposed  ASBA  process. 
+Comments/  suggestions  may  be  sent  to  the  address  mentioned  below  to  Mr 
+Sudeep  Mishra,  Assistant  General  Manager,  Division  of  Issues  and  Listing, 
+Corporation Finance department, SEBI, before June 06,2008. 
+
+Division of Issues and Listing 
+Corporation Finance Department  
+SEBI Bhavan, Plot No: C – 4A, G Block, 
+Bandra Kurla Complex, 
+Mumbai 400 051. 
+
+ 
+Comments/suggestions  may  also  be  emailed  to  sudeepm@sebi.gov.in  or  to 
+neelamb@sebi.gov.in before June 06, 2008. 
+
+ APPLICATIONS SUPPORTED BY BLOCKED AMOUNT (ASBA PROCESS)  
+
+PAPER FOR PUBLIC COMMENTS ON 
+
+ 
+
+PART I 
+
+ 
+
+1. 
+
+A  Self  Certified  Syndicate  Bank  (SCSB)  is  a  Bank  which  is  desirous  of 
+offering  to  its  account  holders  the  service  of  making  an  application 
+supported by blocked amount (ASBA) in issues. SCSB is required to fulfill 
+the following conditions for being eligible to offer such service :  
+
+ 
+
+ 
+
+ 
+
+ 
+
+i.  It  holds  a  valid  registration  certificate  as  a  Banker  to  issue  under  the 
+
+SEBI (Bankers to an Issue) Regulations, 1994. 
+ 
+
+ii.  It  has  an  arrangement  with  BSE  or  NSE  which  would  allow  the  SCSB 
+access to the web enabled interface of BSE or NSE for uploading the bid/ 
+application data in their  electronic bidding system . 
+
+iii. It  has  undertaken  the  mock  trial  run  of  its  systems  with  the  Bombay 
+Stock  Exchange(BSE)  or  National  Stock  Exchange(NSE)  and  few 
+Registars  to  Issues  (Registrars)  and  has  satisfied  itself  that  it  has 
+adequate  systems  /  infrastructure  in  place  at  its  Controlling  Branch 
+(CB)/designated branches (DBs)  to fulfill its obligations as envisaged in 
+the ASBA process detailed in PART II, which inter-alia include : 
+
+a.  Capturing  relevant  details  from  the  bid  cum  application  form  of 
+investors having an account with the bank. (client-investor) ,whether 
+made in physical or electronic mode through net banking facility. 
+
+b.  Blocking  funds  in  the  client-investor’s  account  to  the  extent  of 
+
+application/ bid moneys till basis of allotment is finalized.  
+
+ 
+c.  Releasing the funds in favour of issuer and /or client–investors upon 
+
+receipt of request from registrar, once allotment is finalized. 
+
+ 
+d.  Uploading the details of bids in the electronic bidding system of BSE 
+or NSE, sending / receiving data pertaining to the issue to/ from the 
+registrar in a secured form, within the timelines specified by SEBI for 
+the issue process. 
+
+ 
+e.  Ensuring  that  there 
+
+issue  wise  of 
+applications/amount/data in respect of various public issues that may 
+be open simultaneously. 
+
+is  a  proper  segregation 
+
+ 
+
+iv.  It  has  systems  to  ensure  that  the  amount  blocked  by  it  in  the  client-
+investor’s bank account will be available at all times to be remitted to 
+the issuer upon finalization of the basis of allotment. 
+
+ 
+v. 
+
+It agrees that it will be responsible for any omission or commission on 
+its part while discharging its role as envisaged in ASBA process. 
+
+vi.  It  has  systems  in  place  to  satisfactorily  redress  complaints  received 
+from its client-investors arising out of errors on its part in data capture, 
+blocking/release of funds etc. .  
+
+ 
+vii.  It designates a nodal officer at sufficiently senior level from the CB and 
+furnishes to SEBI his name, designation, addresses, telephone nos. and 
+email id. 
+
+ 
+viii.  Where the SCSB wishes to enable online application through ASBA by 
+its clients, the SCSB shall make use of its own net banking facility for 
+the  purpose  and  shall  not  induce/  compel  the  client-investor  to  apply 
+through  brokerage  entities  which  are  its  subsidiaries  or  associates  or 
+with whom the SCSB may have some arrangements. 
+
+2.  Upon the SCSB furnishing an undertaking confirming compliance to the 
+conditions  specified  at  (1)  above,  the  SCSB  would  be  included  in  the 
+list of Self Certified Syndicate Banks (SCSB) by SEBI. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Part II 
+
+Process of  making “ Applications supported by Blocked Amount 
+
+(ASBA)” 
+
+  
+1.  ASBA mode is an optional mode for retail individual investors for applying 
+
+in a public issue.  
+
+ 
+2.  ASBA  process  would  co-exist  with  the  current  process  of  retail  investors 
+using  cheque  as  a  mode  of  payment  and  submitting  applications  to  sub-
+syndicate members/ syndicate members. 
+
+ 
+3.  The  ASBA  process  has  been  tabulated  hereunder  along  with  the  current 
+
+process, alongwith  timeline ,  for understanding and ready reference : 
+
+ 
+
+ASBA process 
+
+Timeline  Current 
+
+process 
+(pertaining  to  retail 
+investors  paying  by 
+cheque) 
+
+Timeline 
+
+Intermediaries which can accept applications 
+
+ 
+
+ 
+
+ 
+All  applications  other 
+than ASBA will continue 
+to  be  accepted  by 
+syndicate 
+members 
+sub-syndicate 
+(and 
+appointed 
+the 
+syndicate members).  
+
+by 
+
+Syndicate 
+
+ 
+ASBA  can  be  accepted  by 
+banks which have followed the 
+due process of self certification 
+as specified by SEBI. and have 
+been included in the list of Self 
+Certified 
+Banks 
+(SCSBs),by SEBI . 
+ 
+identify 
+SCSBs 
+designated  branches  where 
+submit 
+client-investors 
+applications  and  also 
+the 
+controlling  branch  which  will 
+acts  as  a  nodal  point 
+for 
+registrar/ Stock Exchanges.  
+ 
+ 
+
+would 
+
+can 
+
+ 
+
+Bid 
+period 
+
+ 
+
+Client–investor can also submit 
+ASBA 
+through  net  banking 
+facility offered by SCSB. 
+ 
+Designated branches (DBs) will 
+act  as  such 
+for  all  public 
+issues.  Additions  to  the  list  of 
+DBs  may  be  made  after  due 
+preparation  and  intimation  to 
+SEBI.  
+ 
+The  list  of  SCSBs,  their  DBs 
+and  controlling  branch  will  be 
+available  on  websites  of  Stock 
+Exchange 
+respective 
+SCSB.  
+ 
+
+and 
+
+the 
+
+same 
+
+Syndicate  and 
+sub-
+syndicate  is  appointed 
+for  every  public  issue 
+and 
+is 
+intimated  through  the 
+bid  form  and  the  Stock 
+Exchange websites  
+ 
+Arrangements  of 
+the 
+same  with  the  Issuer 
+and  other  parties  are 
+finalized  in  the  form  of 
+syndicate  agreement, 
+arrangements  with  the 
+Stock  Exchanges 
+for 
+the 
+building 
+software. 
+ 
+
+book 
+
+Eligible Investors  
+
+the 
+
+Only  Retail  Individual  Investor 
+satisfying 
+following 
+conditions  would  be  eligible  to 
+apply through ASBA process: 
+ 
+
+•  Has a bank account with 
+
+• 
+
+the SCSB  
+is bidding at cut-off with 
+only single option  
+
+•  has agreed not to revise 
+
+the bids 
+
+ 
+ 
+
+Bid period  All  investors,  including 
+those  eligible  under 
+ASBA, are eligible 
+ 
+•  Investor  goes  to  the 
+member 
+syndicate 
+the 
+and 
+completed  bid  cum 
+application 
+form, 
+along  with  a  payment 
+instrument (Cheque).  
+In  case  of  bid  options, 
+the  payment  is  made 
+based  on  the  highest 
+value 
+bid 
+
+submits 
+
+the 
+
+of 
+
+options. 
+Details of the process  
+
+ 
+
+ 
+
+the 
+Investor  submits 
+physical  form  to  the 
+Syndicate  member  or 
+enter 
+electronically 
+internet 
+through 
+trading 
+of 
+Syndicate  members/ 
+sub syndicate members 
+
+platform 
+
+The eligible investor submits: 
+ 
+the completed bid form1 to the 
+designated branch of SCSB  
+ 
+                or; 
+ 
+electronically  through  the  net 
+banking  facility  offered  by  the 
+SCSB.. 
+ 
+gives 
+DB 
+the 
+acknowledgement 
+eligible investor (at the bottom 
+of the form) or electronically in 
+case  of  ASBA  through  net 
+banking.  
+ 
+ 
+
+SCSB 
+
+to 
+
+of 
+
+Bid 
+period 
+
+Bid period  The  syndicate  member 
+gives acknowledgement 
+(at  the  bottom  of  the 
+form)  and  uploads  the 
+bid  details 
+the 
+into 
+Stock 
+Exchange 
+software  either  online 
+or  offline,  uploaded  at 
+regular intervals. 
+ 
+member 
+Syndicate 
+enters the following bid 
+details 
+the  Stock 
+Exchange platform: 
+•  Application no. 
+•  Name 
+
+case 
+is 
+
+first 
+
+of 
+
+in 
+
+public 
+
+issue) 
+
+Bid 
+period  up 
+to  T  (bid 
+closing 
+date) 
+
+Bid  period 
+up  to  T3 
++1  
+(in 
+there 
+extra 
+ordinary 
+rush 
+the 
+day) 
+
+After  DB  has  accepted  the 
+form, it blocks the bid amount 
+in  the  eligible  investor’s  bank 
+account  (against  application  in 
+XYZ 
+and 
+captures  the  following  details 
+in  the  web  enable  interface2 
+provided  by  BSE  or  NSE  for 
+their electronic bidding system 
+(E-Book): 
+                                                 
+1 Format of  Bid cum application form for ASBA is given at Annexure I. The form contains an authorization 
+by eligible investor to SCSB to block the funds. 
+2  Web  enabled  interface  will  be  provided  by  NSE  and  BSE  to  each  DB,  Each  DB  would  be  assigned  a 
+unique id and password and also a specific code to each issue. 
+
+•  DP ID client ID 
+•  Bid quantity 
+•  Status  (IND,  NRI, 
+
+applicant 
+
+on 
+last 
+
+ 
+3 T = bid closing date 
+
+ 
+•  Application no. 
+•  Bank  reference  no.  (can  be 
+electronically  generated  by 
+the SE software).  
+
+HUF) 
+
+ 
+ 
+
+balance 
+
+sufficient 
+
+•  DP ID, client ID 
+•  Bid quantity 
+•  Bid amount 
+•  PAN 
+ 
+If 
+for 
+blocking  the  amount  is  not 
+available 
+the  applicant’s 
+account,  the  application  shall 
+be  rejected  and  the  details  of 
+such  bid  will  not  be  uploaded 
+by the DB. 
+ 
+ 
+DB  can  also  generate  a 
+Transaction  Registration  Slip 
+confirming upload in electronic 
+bidding  system  (EBS)  of  BSE 
+or  NSE  This  can  be  generated 
+from  the  system  or  NSE  or 
+NSE .  
+ 
+Each  DB  of  SCSB  uploads  the 
+bid  file  on  electronic  bidding 
+system  of  BSE  or  NSE  at 
+regular  intervals  but  latest  by 
+end of every day (and by [….] 
+time  for  the  last  day.  In  this 
+context, 
+day 
+collections  will  close  at  say  2 
+pm  and  can  be  uploaded  till 
+the  time  permitted  by  the 
+Stock  Exchanges  which 
+in 
+
+in 
+
+the 
+
+last 
+
+case 
+
+cases  of  huge  rush  may  be 
+T+1.  
+ 
+SCSB  to  also  ensure  ASBA 
+through 
+made  electronically 
+the  net  banking 
+facility  of 
+SCSB,  are  also  uploaded  in 
+Electronic  bidding  system  of 
+BSE or NSE at regular intervals 
+as specified above.   
+ 
+The physical bid forms of ASBA 
+received by DBs of SCSBs shall 
+be  retained  in  SCSB  for  a 
+specified  period and thereafter 
+transferred by the SCSB to the 
+issuer . 
+ 
+electronic 
+In 
+applications  made  through  net 
+banking  facility  provided  by 
+SCSB,  no  physical  application 
+will be required.  
+ 
+It  will  be  responsibility  of  the 
+its  client 
+SCSB 
+investors’ 
+grievances 
+satisfactorily. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+to  resolve 
+
+of 
+
+ 
+
+ 
+
+T+1 
+
+T+3 
+
+member 
+Syndicate 
+keeps 
+an 
+acknowledgement of all 
+forms  and  sends  the 
+the 
+form 
+the 
+instrument 
+escrow 
+for 
+clearing  (on  a  daily 
+basis). 
+
+to 
+banks 
+
+and 
+
+Escrow  banks  send  the 
+instruments 
+into 
+clearing  and  capture 
+key 
+for 
+processing such as: 
+•  Application no.  
+•  Bank serial no. 
+•  Name  of  the 
+
+details 
+
+first 
+
+applicant  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+T+1 
+
+receives 
+
+the 
+The  Registrar 
+electronic bid file from the NSE 
+and BSE after bid closure.  
+ 
+For  ASBA  applications, 
+the 
+Registrar  does  not  separately 
+do data entry but relies on the 
+electronic  data  and  does  the 
+validation with the depository’s 
+data base for correctness of DP 
+ID  and  Client  ID/  Pan  No  and 
+for  weeding  out  multiple 
+applications based on PAN.  
+ 
+ 
+
+•  Bank 
+
+name 
+
+and 
+
+for 
+
+escrow 
+
+Cheque no. 
+•  Bid Amount 
+ 
+banks 
+The 
+provisional 
+provide 
+certificate  for  the  bid 
+amounts 
+collected, 
+based  on  which  the 
+Registrar  and  BRLM 
+prepare 
+the  3  day 
+report  and  submit  to 
+SEBI 
+ 
+The  banks  send  the 
+physical  forms  to  the 
+data 
+Registrar 
+capture 
+and 
+reconciliation. 
+ 
+The  Registrar  receives 
+the  bid  file  from  the 
+Stock  Exchanges  after 
+bid  closure,  which  has 
+the  details  captured  by 
+the  Syndicate  Member 
+in the bid file. 
+ 
+On  receipt  of  physical 
+forms  from  the  escrow 
+banks, 
+the  Registrar 
+captures  the  following 
+details: 
+•  Application no. 
+•  Syndicate  Member, 
+sub 
+
+Broker 
+broker code 
+
+and 
+
+•  Bank reference no. 
+
+T to T+9 
+
+•  Name(s) 
+
+of 
+
+applicants in full 
+
+•  DP ID client ID 
+•  Bid  quantity  (for  all 
+
+bid options) 
+
+•  Bid  price  (for  all  bid 
+
+options) 
+•  Payment 
+
+(bank, 
+cheque no.) 
+
+details 
+branch, 
+
+•  Status  (IND,  NRI, 
+
+HUF) 
+
+•  Category of investor 
+•  PAN 
+•  IFSC code 
+•  Age 
+•  Signed or not. 
+ 
+The 
+provides 
+certificate 
+Registrar, 
+cheque return status. 
+ 
+ 
+ 
+ 
+ 
+
+bank 
+escrow 
+final 
+the 
+the 
+to 
+including 
+
+T+9 
+
+T+10 and 
+T+11 
+
+On  completion  of  data 
+entry  by  the  Registrar, 
+the Registrar reconciles 
+the : 
+•  Bid  file  as  provided 
+Stock 
+
+the 
+
+by 
+
+T+9 
+
+ 
+
+SCSB 
+
+(from 
+
+Branch) 
+
+its 
+Each 
+Controlling 
+sends 
+updated  information  in  case 
+there are any any withdrawals, 
+to  the  Registrar  till  basis  of 
+allotment is finalized.  
+ 
+BRLM/Registrar to intimate the 
+SCSB  the  Designated  Date, 
+i.e.,  the  date  on  which  the 
+money  is  to  be  transferred  to 
+the 
+the 
+SCSB. 
+. 
+ 
+
+issue  account, 
+
+to 
+
+Exchanges  
+
+•  The  final  certificates 
+the 
+
+from 
+
+received 
+escrow banks 
+
+•  The  data  captured 
+the  Registrar 
+the  physical 
+
+by 
+from 
+applications 
+received. 
+
+ 
+Based  on  the  rejection 
+criteria  as  disclosed  in 
+the  RHO,  the  Registrar 
+carries  out  the  process 
+of identifying rejections 
+and draws up the basis 
+of allotment. 
+
+T+11 
+
+T+12 
+
+T+13 
+
+The 
+Registrar 
+completes  the  basis  of 
+allotment and the same 
+is  approved  by 
+the 
+Designated SE. 
+On 
+the 
+receiving 
+approval,  the  Registrar 
+sends bank wise details 
+to  the  escrow  banks 
+regarding 
+respective 
+amount  that  need  to 
+move 
+the  public 
+issue  account(s)  and 
+
+to 
+
+data 
+
+for 
+
+in 
+
+one 
+
+given 
+
+In  case  DP  id,  client  id  and 
+PAN  given  in  the  electronic 
+bidding 
+ASBA 
+applications do not match with 
+the 
+the 
+depository’s  database,  such 
+applications would be rejected.  
+ 
+In case PAN of the first named 
+applicant  is  the  same  in  case 
+of more than one applications, 
+all  such  applications  will  be 
+rejected  by  the  registrar  as 
+multiple applications  
+ 
+The  Registrar  completes  the 
+basis  of  allotment  and  the 
+same 
+the 
+Designated SE.  
+
+is  approved  by 
+
+T+11 
+
+T+12 
+
+T+13 
+
+On  receiving  the  approval,  the 
+Registrar  sends  SCSB  wise 
+information containing investor 
+wise  details  on  allotment  and 
+non  allotment  and  how  much 
+money  to  move  to  the  escrow 
+public  issue  account  and  for 
+how  much  to  release,  to  the 
+
+(CB)  of 
+
+controlling  branch 
+SCSB. 
+ 
+SCSBs confirm and act on both 
+the instructions, subsequent to 
+which  the  Issuer  makes  the 
+allotment. 
+
+T+14 
+
+to 
+
+Subsequent 
+allotment, 
+shares  are  credited  to  the 
+investors’ DP account  
+
+T+15 
+
+ 
+ 
+
+T+14 
+
+T+15 
+
+the refund account(s). 
+
+confirms  and 
+the 
+
+on 
+
+to  which 
+Issuer  company 
+
+Banks 
+acts 
+instructions, 
+subsequent 
+the 
+makes the allotment. 
+ 
+to 
+Subsequent 
+of 
+allotment, 
+shares in the investors’ 
+DP  account 
+is  made 
+and  refund  instructions 
+are  given  (Electronic 
+instructions  are  given 
+or  physical  refunds  are 
+dispatched). 
+ 
+
+credit 
+
+Annexure I  
+
+Application number  
+ 
+APPLICATION  FORM  FOR  APPLICATIONS  SUPPORTED  BY  BLOCKED 
+AMOUNT  (ASBA),  FOR  PUBLIC  ISSUE  THROUGH  100%  BOOK 
+BUILDING PROCESS 
+ 
+(PLEASE READ THE INSTRUCTIONS CAREFULLY BEFORE FILLING THIS FORM)  
+ 
+ 
+ 
+
+IMPORTANT:   
+ 
+This application form is to meant for individual  investors who are  applying for up to Rs 1,00,000   at cut-off  with  single option  with no 
+right to revise the bids  and are having account with the self certified .syndicate bank. (SCSB) 
+
+NAME OF THE COMPANY: [preprinted] 
+ 
+[________________________________________________________                         
+_] 
+ 
+DETAILS OF THE APPLICANT:  
+ 
+NAME: 
+ 
+___________] 
+ PAN No-  
+ 
+
+[______________________________________________            
+
+Declaration: 
+To,  
+The Board of Directors 
+[COMPANY] 
+ 
+On the basis of the Company's Red Herring Prospectus dated [●] and having studied the, Abridged Prospectus I/we hereby apply for allocation 
+and subsequent allotment/transfer to me/us of the equity shares in the above Issue up to my/our bid for maximum number of shares at or 
+above the Issue Price to be discovered through book building.  I /We hereby confirm that I am / We are eligible persons to invest in this Issue in 
+accordance with applicable laws. I/We are having bank account in the Self Certified Syndicate Bank (SCSB) through which this application is 
+being forwarded through ASBA route.  I/We agree to accept the equity shares bid for, or such lesser number as may be allocated to me/us 
+subject to the terms of the Red Herring Prospectus and the Abridged Prospectus and other applicable laws. I/We authorize you to place my/our 
+name(s) on the Register of Members of the Company as holders of the equity shares that may be allocated/allotted/transferred and to register 
+my/our address as available with the depository participant, based on this application which is being forwarded to you through SCSB under 
+ASBA process. 
+
+ 
+ 
+ 
+ 
+BIDDERS DEPOSITORY ACCOUNT DETAILS: (Please fill in the details of 
+your Depository):  
+
+NATIONAL SECURITIES DEPOSITORY LIMITED 
+Depository 
+Participant 
+
+_______________________________________
+___________ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Name 
+DP-ID 
+BENEFICIARY 
+ACCOUNT 
+NUMBER 
+
+I 
+ 
+
+N 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+______________________________________
+___________________________ 
+
+CENTRAL DEPOSITORY SERVICES LIMITED 
+Depository 
+Participant 
+Name 
+DP-ID 
+BENEFICIAR
+Y  ACCOUNT 
+NUMBER 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(16  digit  beneficiary  account  number  to  be 
+mentioned above) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I/We understand that : i) in case of allotment of Equity Shares to me/us, my/our Beneficiary Account as mentioned 
+above would get credited to the extent of allotted Equity Shares, ii) I/We must ensure that the sequence of names 
+as  mentioned  in  the  Bid  cum  Application  Form  matches  the  sequence  of  name  held  with  the  DP.  It  is  in  the 
+interest of the investors  to verify  that correct details of DP and  beneficiary account  are  given.  In case  there is 
+insufficient amount available in  applicant’s account, the application will be rejected by SCSB itself,. Further if the 
+information furnished by the applicant  is incorrect or insufficient,  the Bid is liable to be rejected and the Company 
+or Self certified syndicate Bank would not be liable for losses, if any.  In case the information furnished by SCSB 
+is incorrect or insufficient, SCSB shall be fully responsible or liable for losses, if any. 
+
+ 
+ 
+ 
+  
+ 
+Details of BID  
+
+No.  of  Equity  Shares  Bid  (Bids 
+must be in multiples of [●] Equity 
+Shares) 
+
+  (In 
+
+(In Words) 
+
+Figures) 
+
+Bid  payment    amount*  at  cut-
+off  (Decimals  not  allowed) 
+(Price should be in multiples of 
+Re 1/- only)  
+(In Figures) 
+
+(In Words) 
+
+*Bid Payment amount =  (No. of Equity Shares x Cap Price) 
+
+ 
+CONFIRMATIONS: (Please select one option from the following)   
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+• 
+• 
+
+• 
+
+• 
+
+ 
+
+I am/We are Indian National(s) resident in India and I am/we are not bidding for equity shares as nominees of any person resident outside India 
+or Foreign Nationals. 
+I am/We are Indian National(s) resident in India and I am/we are applying for the said equity shares as Power of Attorney holder(s) of Non-
+Resident Indian(s) mentioned below on Non-Repatriation basis. 
+I am/We are Indian National(s) resident outside India applying for the said equity shares on my/our own behalf, through NRO Account on non-
+repatriation basis.  
+I am/We are Indian National(s) resident outside India applying for the said equity shares on my/our own behalf, on repatriation basis 
+
+Authorization for blocking/ unblocking  the fund  
+
+ 
+I/we hereby authorize  
+ 
+(i)  ………………..(name  of  the  SCSB)    to  take  such  acts  as  are  necessary  to 
+block the funds available in  my  Account  No………………to the extent  of the 
+bid payment amount mentioned under bid details which is  Rs ………………. 
+and  to  upload  my  bid  as  per  the  procedure  specified    in  RHP,  abridged 
+prospectus  of  the  (Preprinted  name  of  the  company)  and  SEBI  (DIP) 
+guidelines etc.  
+
+ 
+(ii)  The registrar to the  issue to issue instructions, on my behalf, to the SCSB 
+to  remove  the  block  on  funds  i.e.  lien  etc.  on  my  account,  upon 
+finalization  of  the  allotment  in  the  issue  and  to  transfer  the  money 
+equivalent to the number of equity shares to be allotted to me/us in the 
+issue  multiplied  by  the  price  in  the  issue,  to  the  issue  account  of  the 
+issuer, as per the procedure specified  in RHP, abridged prospectus of the 
+(Preprinted name of the company) and  SEBI (DIP) guidelines etc.  
+
+ 
+ 
+Signature of the applicant  
+ 
+-------------------------- Acknowledgement------------------------------ 
+
+To be given by the SCSB to the applicant 
+(To be filled by the sole/first applicant) 
+
+ 
+
+Name and address of the company (preprinted  
+
+ 
+
+Bid cum Application form no……. 
+
+ 
+No. of equity shares bid  
+(In figures 
+
+(In words) 
+
+Bid payment  amount* at cut-off  
+
+(In figures 
+
+(In words) 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Received from Mr./Ms…………………..  SCSB’s Stamp and Sign (address/ 
+phone  No  and  name  of  contact 
+person) 
+
+Account no………… 
+
+PART III 
+
+ 
+ 
+RESPONSIBILITIES OF SCSBS: 
+ 
+1.  SCSB  shall  designate  a  Controlling  Branch  (CB)  for  all  its  branches 
+receiving the applications and CB will be the single point interface from/to 
+to  ASBA  applications  submitted 
+which 
+physically 
+Stock 
+Exchanges/Registrars. 
+
+information/data  pertaining 
+
+to/from 
+
+the 
+
+or 
+
+electronically  would 
+
+flow 
+
+ 
+2.  SCSB  shall  ensure  that  accounts  of  the  applicants,  who  have  made 
+applications with a request to block amount, are duly blocked to the extent 
+of  application  moneys  (ensuring  availability  of  required  funds  in  the 
+account) till the receipt of request from registrar for release of blocking of 
+funds. 
+
+ 
+3.  SCSB  shall  be  responsible  for  ensuring  that  the  amount  is  blocked  in  the 
+respective investors’ bank accounts till finalization of the basis of allotment 
+in  respect  of  the  respective  bids  for  which  data  is  forwarded  by  it  to  the 
+stock exchanges.  
+
+ 
+4.  SCSB  shall  ensure  that  the  amount  blocked  by  the  bank  in  the  client-
+investor’s bank account will be available at all times for giving to the issuer 
+at the time of finalization of allotment.  
+
+ 
+5.  SCSB shall not upload any Bid in electronic bidding system of BSE or NSE 
+unless (i) it has received the Bid cum Application Form physically or via its 
+own  net  banking  facility  in  which  provision  to  “block  funds”  is  available, 
+and (ii) it has blocked the requisite funds in the applicant’s account. 
+ 
+
+6.  SCSB  shall  register  the  Bids  received  by  it  on  the  same  Business  Day  on 
+which  the  Bids  are  received  on  a  regular  basis,  on  electronic  bidding 
+system of BSE or NSE, after blocking the requisite funds. 
+
+ 
+7.  SCSB  shall  give  a  proof  to  the  investors  of  (i)  receipt  of  applications  and 
+(ii) upload of data in the electronic bidding system to be provided by BSE 
+or NSE. 
+
+ 
+ 
+8.  In case of failure of the issue, the SCSB shall immediately release the block 
+
+on receipt of appropriate request from the registrar. 
+
+ 
+9.  SCSB  shall  be  solely  responsible  for  the  completion  and  accuracy  of  all 
+details to be entered into the electronic bidding system of NSE or BSE   It 
+shall ensure that Bids collected by it are uploaded on the electronic bidding 
+systems  of  the  NSE  or  BSE  on  a  regular  basis,  through  web  enabled 
+interface provided by them. 
+
+ 
+10. SCSB shall not accept any Bids after the close of the Bidding/Issue Period. 
+ 
+11. SCSB(from  its  Controlling  Branch)  shall  send  updated  information  in  case 
+there  are  any  withdrawals,  to  the  Registrar  till  basis  of  allotment  is 
+finalized. 
+
+ 
+12. SCSB shall take all necessary steps and co-operate with the Registrar and 
+Stock  Exchanges  in  ensuring  secured  transfer  of  data  and  completion  of 
+allotment of the  equity shares  within the time period  specified in the Red 
+Herring Prospectus. 
+
+ 
+13. SCSB  shall  not  make  any  commitments  to  any  of  the  Bidders  as  to  the 
+allocation  or  allotment  of  equity  shares  and  it  shall  be  fully  liable  for  any 
+statements made by it to potential Bidders in this regard; 
+
+14. SCSB  shall accurately maintain at  all times the electronic  records relating 
+to bids, including the Bid cum Application Forms, for a minimum period of 
+3  years  and  physical  forms  for  a  period  specified  by  SEBI  before 
+transferring the same to the issuer.  
+
+15. SCSB  shall  ensure  that  upon  receipt  of  request  from  the  registrar  for 
+releasing  the  blocking  of  funds,  the  appropriate  amount  is  transferred  to 
+the issue  account no later than 1 working day after the Bid/Issue Closing 
+Date.  
+
+ 
+
+ 
+
+ 
+
+ 
+RESPONSIBILITIES OF REGISTRAR  
+ 
+1.  The  Registrar  shall  maintain  accurately  at  all  times  the  electronic  records 
+relating to the Bids received from the SCSB, as the case may be, including, 
+without limitation, the following: 
+
+the Bids registered with the SCSB in respect of the Issue; 
+
+(i) 
+(ii)  details  of  withdrawal  of  the  applications  received  from  the  SCSB,  if 
+
+any and all information incidental thereto in respect of the Issue; 
+
+(iii)  particulars relating to the allocation/allotment of the Equity Shares for 
+
+the Issue; 
+
+(iv)  particulars  relating  to  the  unblocking  the  monies  and  the  monies  to 
+
+be transferred to the Issue Account ; and 
+
+2.  The Registrar shall be responsible for providing to the SCSB the complete 
+details  of  bank-wise  information  containing  investor-wise  details  on 
+allotment and non allotment and how much money to transfer to the issue 
+account and how much to release. 
+
+3.  The Registrar shall ensure that appropriate systems are in place to ensure 
+
+secured transfer of data to/ fro from SCSB and from NSE and BSE.. 
+
+4.  The Registrar shall provide in a timely manner, including as required under 
+the  SEBI  Guidelines,  all  accurate  information  to  be  provided  by  it,  to 
+ensure proper allotment of the Equity Shares, release of the block on the 
+amount and transfer of the equity shares without delay, including providing 
+the  SCSB  of  the  details  of  the  monies  (i)  on  which  lien  is  to  be  released 
+and (ii) which are to be transferred to the issue account.   
+
+5.  The  Registrar  shall  be  responsible  for  the  correctness  and  the  validity  of 
+
+the information that has been provided by it to the SCSB. 
+
+6.  The  Registrar  shall  ensure  receipt  of  the  electronic  data  from  the  stock 
+exchanges (NSE and BSE) after the bid closure and match the DP ID, Client 
+ID and PAN details of the electronic bid file with the depositories database 
+for  the  purpose  of  acceptance  of  applications  and  finalizing  the  basis  of 
+allotment.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+RESPONSIBILTIES OF BRLM 
+ 
+1. The BRLM shall intimate in writing the Bid/Issue Opening Date to the SCSB. 
+ 
+2. The BRLM shall, on receipt of information from the issuer, inform the SCSB 
+regarding  failure  of  the  issue  on  the  occurrence  of  the  certain  events 
+including the following:  
+
+ 
+
+(i) 
+ 
+(ii) 
+
+ 
+
+the Bid/Issue Opening Date not taking place for any reason; 
+
+the filing of the Prospectus with the ROC not having been completed 
+for any reason; 
+
+(iii)  the  Issue  having  become  illegal  or  having  been  injuncted  or 
+prevented  from  completion,  or  otherwise  rendered  infructuous  or 
+unenforceable, including pursuant to any order or direction passed by 
+any  judicial,  statutory  or  regulatory  authority  having  requisite 
+authority and jurisdiction over the Issue; 
+
+ 
+
+(iv)  the  declaration  of  the  intention  of  the  Company  to  withdraw  and/or 
+cancel  the  Issue  at  any  time  after  the  Bid/Issue  Opening  Date  until 
+the Designated Date; and 
+
+ 
+(v) 
+
+failure  to  enter  into  the  Underwriting  Agreement,  the  Underwriting 
+Agreement  being  terminated  in  accordance  with  its  terms  or  having 
+become illegal or unenforceable for any reason or in the event that its 
+performance  has  been  prevented  by  any  judicial,  statutory  or 
+regulatory authority having requisite authority and jurisdiction in this 
+behalf, prior to the transfer of funds into the Issue Account.   
+
+ 
+3.  The  BRLM,  along  with  the  Registrar,  shall  be  responsible  for  providing  to 
+each  SCSB  investor-wise  details  on  allotment  and  non  allotment  and  how 
+much money to transfer to the issue account and how much to release 
+
+ 
+
+4.  On  or  after  the  Bid/Issue  Closing  Date,  the  BRLM  shall  intimate  the 
+Designated Date, i.e., the date on which the money is to be transferred to 
+the issue account, to the SCSB. 
+
+ 
+5.  On receipt of information from the Issuer, the BRLM shall intimate the date 
+
+of the ROC Filing to the SCSB and the Registrar; 
+
+ 
+6.  The  BRLM  shall  ensure  that  appropriate  disclosures  are  clearly  made  in 
+regard  to  ASBA  process  in  the  RHP/Prospectus  abridged  prospectus,  and 
+issue advertisements.  
+
+ 
+7.  The BRLM shall be responsible for the overall co-ordination of the issue to 
+
+ensure smooth running of the process. 
+
+ 
+RESPONSIBILITIES OF STOCK EXCHANGES   
+ 
+1.  The  Stock  Exchanges  shall  make  available  a  web  enabled  access  to  their 
+electronic  bidding  system  to  the  SCSB  and  the  DBs  for  uploading  of  the 
+bid/ application data to each of the designated branch.  
+
+ 
+2.  The Stock Exchanges shall ensure that the SCSB is enabled to upload data 
+on the electronic bidding system in a secured way, by providing a specific 
+code to each DB of SCSB.  
+
+ 
+3.  The  Stock  Exchanges  shall  ensure  that  the  interface  provides  all  the 
+appropriate  fields  to  enable  DB  of  the  SCSB  to  upload  the  bid  data 
+properly. 
+
+. 
+4.  The  Stock  Exchanges  shall  ensure  that  a  issue  specific  code  is  generated 
+from  the  electronic  bidding  system  so  that  the  SCSB  does  not  face  any 
+problems in segregating the bids issue wise. 
+
+ 
+5.  The Stock Exchanges shall be responsible for accurate, timely and secured 
+transmission  of  the  electronic  file  uploaded  by  the  SCSB,  to  the  registrar 
+after the bid closure date. 
+
+6.  The  Stock  Exchanges  shall  ensure  that  the  details  of  the  designated 
+branches and controlling branch of each SCSB are available on the website 
+of the Stock Exchanges in an easily accessible form. 
+
+

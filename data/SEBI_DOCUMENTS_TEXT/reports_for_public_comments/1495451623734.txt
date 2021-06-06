@@ -1,0 +1,1081 @@
+Consultation paper for review of circular on Electronic book mechanism 
+
+for issuance of debt securities on private placement basis 
+
+ 
+
+I.  Objective:  
+
+1.  To  solicit  the  comments/views  from  public  on  the  proposed  changes  in  “Electronic 
+book mechanism for issuance of  debt securities on private placement basis (herein 
+after referred as “the EBP mechanism)”. 
+
+II.  Background:  
+
+2.  The circular on the EBP mechanism (herein after referred as “the EBP circular”) was 
+notified on April 21, 2016, which came in to effect from July 01, 2016. NSE and BSE 
+have  been  acting  as  the  Electronic  Book  Providers  (herein  after  referred  as  “the 
+EBPs”)  since  then.  The  said  circular  provides  broad  guidelines  on  applicability, 
+eligibility, and role of issuer, arrangers, EBPs, investors, etc.  
+
+3.  The initial response from the implementation of the Electronic Book Mechanism has 
+been  encouraging  by  way  of  bringing  in  transparency  and  at  the  same  time  other 
+positive signs such as increased FPIs participation in the private placement  of debt 
+securities.  It  is  also  worth  mentioning  that  in  the  FY  2016-17,  out  of  total  private 
+placement  of  debt  securities  reported  on  exchanges  of  Rs.640716crore,  since  July 
+2016 (i.e. since implementation of electronic Book Mechanism), 696 issuances worth 
+Rs. 294099.75crore have been done through EBPs. 
+
+4.  Based on the experiences from the issuances through the EBP mechanism till date, 
+various  market  participants  have  offered  some  suggestions  on  the  existing 
+mechanism.  Further,  some  trends  emerging  from  the  bidding  on  the  existing  EBP 
+mechanism  have  also  been  analysed.  Based  on  the  same,  certain  changes  are 
+proposed in the existing mechanism, which are discussed as under: 
+
+III.  Proposals for consultation: 
+
+5.  Reducing the mandatory limit from Rs. 500 crores to Rs. 50 crores for all private 
+
+placement of debt securities 
+
+5.1. Current regulatory requirement: 
+
+As per paragraph 3 of the EBP circular, the existing EBP mechanism is mandatory 
+for all private placements of debt securities with an issue size of Rs.500 crores and 
+above, inclusive of green shoe option, if any.  
+
+ 
+
+Page 1 of 16 
+
+5.2. Need for the change 
+
+ 
+
+a)  At the time of introduction of the EBP mechanism, the mechanism was mandated 
+only  for  the  issuances  with  issue  size  of  Rs.  500  crores  or  above  to  facilitate 
+smoother transition. 
+
+b)  However, based on the analysis of data till March 31, 2017, it is noted that many 
+issuers, with issue size of less than Rs. 500 crores, have also voluntarily opted for 
+EBP mechanism while raising money through private placement of debt securities. 
+
+Till  March  2017,  out  of  total  private  placement  of  debt  securities  consist  of 
+Rs.506259.75crore,  the  total  amount  of  private  placement  which  took  place 
+through EBPs are worth Rs. 294099.75 crore (approx.) from 696 issuances. 
+
+Amount 
+
+Raised 
+
+No. 
+
+of 
+
+Amount Raised  
+
+Percentage  of  total 
+
+(Rs. in Crore) 
+
+issuances 
+
+(Rs. in Crore) 
+
+no. of issuances 
+
+Less than 50 Crore 
+
+50 crore or more 
+
+500 crore or more 
+
+197 
+
+499 
+
+175 
+
+3729.65 
+
+290370.10 
+
+234129.50 
+
+28.30% 
+
+71.70% 
+
+23.92% 
+
+c)  The issuance of debt securities through EBP mechanism has various benefits for 
+both  the  issuers  as  well  as  the  investors  in  terms  of  enhanced  price  discovery, 
+transparency, etc. The aforementioned benefits are also evident from the fact that 
+many issuers are voluntarily opting for EBP mechanism even for issuances of less 
+than Rs. 500 crore. 
+
+d)  Currently, the issuers do not specify the green shoe amount but just indicates that 
+it intends to raise money over and above the base issue size. In this way, based 
+on the bids received, it decides how much to raise over the base issue. However, 
+the bidders do not come to know upfront the maximum amount the issuer seeks to 
+raise and hence they may not be able to put the right quote. 
+
+5.3. Proposal 
+
+The mandatory limit for EBP mechanism may be reduced from Rs.500 crores to 
+Rs. 50 crores (i.e. EBP mechanism may be mandated for all private placements of 
+debt securities with an issue size of Rs.50 crores and above, inclusive of green 
+shoe  option,  if  any).  Further,  the  issuer  shall  specify  the  amount  of  green  shoe 
+option upfront. 
+
+ 
+
+Page 2 of 16 
+
+6.  Direct participation by investors 
+
+6.1. Current regulatory requirement: 
+
+ 
+
+a)  At present, Institutional investors participating on the EBP platform have an option 
+of  either  participating  through  an  arranger/sub-arranger  or  entering  bids  on 
+proprietary basis on their own. 
+
+b)  However, for non-institutional investors, the existing EBP circular does not provide 
+any option for direct bidding and these investors are mandatorily required to bid 
+through an arranger. 
+
+6.2. Need for the change 
+
+a)  The  underlying  objective  of  the  EBP  mechanism  is  to  achieve  better  and 
+transparent price discovery through the bidding process. However, the same may 
+be achieved only if all the investors bid on their own on the platform. 
+
+b)  Initially the objective was to acquaint the eligible bidders with the platform in order 
+to  ensure  smooth  transition.  Since  the  market  is  already  acquainted  with  the 
+functioning of EBP mechanism, it is felt that the option of direct participation may 
+now  be  extended  to  non-institutional  investors  as  well,  at  least  to  those  non-
+institutional investors whose bid amounts are large. 
+
+c)  However,  in  this  regard,  it  is  noted  that the Companies  Act,  2013 and  the  rules 
+made thereunder restricts the total number of investors to 200 in case of private 
+placements. Further, as per the Companies Act and the rules therein, any qualified 
+institutional  buyers  (‘QIBs’)  participating  in  the  private  placements  are  excluded 
+from the above threshold of 200 investors. 
+
+d)  Accordingly,  for  any  QIB  which  is  bidding  for  Rs.10  crore  and  above,  such  QIB 
+shall  compulsorily  participate  directly  on  the  bidding  platform.  Since  the  QIB 
+investors are not counted for the Companies Act’s threshold of 200 investors, a 
+direct participation by QIBs would not pose any challenge in this context. 
+
+e)  Whereas,  for  non-QIB  investors,  since  these  investors  are  counted  for  the 
+Companies Act’s threshold of 200 investors, to begin with, a direct participation by 
+such  non-QIB  investors  shall  be  allowed  and  shall  be  mandated  only  if  such 
+investors are bidding for Rs. 25 crores and above. 
+
+ 
+
+ 
+
+Page 3 of 16 
+
+6.3. Proposals 
+
+a)  Participation by QIB investors: 
+
+ 
+
+(i)  For  a  QIB  investor  whose  bid amount  is  lower  than  Rs. 10  crores,  it  shall 
+continue  to  have  an  option  of  either  entering  bids  on  proprietary  basis  or 
+participating through an arranger/sub-arranger. 
+
+(ii)  For  a  QIB  investor  whose  bid  amount  is  Rs.10  crores  and  above,  it  shall 
+
+participate directly on the bidding platform. 
+
+b)  Participation by Non-QIB investors (including Non-Institutional Investors): 
+
+(i)  For a non-QIB investor whose bid amount is lower than Rs. 25 crores, it shall 
+
+participate through an arranger/sub-arranger. 
+
+(ii)  For a non-QIB investor whose bid amount is Rs. 25 crores and above, it shall 
+
+participate directly on the bidding platform. 
+
+c)  Role of Arrangers/Sub-Arrangers: 
+
+An  arranger/sub-arranger,  while  entering  consolidated  bids  on  behalf  of  other 
+investors, shall ensure the following for the bids being entered for every individual 
+investor behind such arranger/sub-arranger: 
+
+(i)  Bid amount on behalf of every single QIB investor shall be lower than Rs. 10 
+
+crores per investor. 
+
+(ii)  Bid amount on behalf of every single non-QIB investor shall be lower than 
+
+Rs. 25 crores per investor. 
+
+d)  Minimum bid size: 
+
+To enable direct participation in the manner proposed above, the issuer can fix any 
+minimum bid size subject to the following: 
+
+(i)  For a QIB investor, the minimum bid size shall not exceed Rs. 10 crores. 
+
+(ii)  For a non-QIB investor,the minimum bid size shall not exceed Rs.25 crores. 
+
+e)  Role of EBP: For any investors who is participating directly on the platform through 
+
+proprietary bids, the EBP shall ensure KYC of such investors. 
+
+ 
+
+Page 4 of 16 
+
+7.  Single Investor Subscription: 
+
+7.1. Current regulatory requirement: 
+
+ 
+
+As per Paragraph 4.1 of the EBP circular, the EBP mechanism is optional for fixed 
+coupon rate issues with a single investor. 
+
+7.2. Need for the change 
+
+a)  A concern has been raised by the market participants suggesting that there can 
+be situations, wherein, just to bypass the EBP mechanism, the entire book can be 
+first sold to a single investor, and, the said single investor can then in turn sell the 
+securities to various investors. 
+
+b)  To curb the above practices, it is felt that a lock in for some stipulated period may 
+be imposed for an investor in cases where the issue is sold, outside of the EBP 
+mechanism, to a single investor. 
+
+7.3. Proposal 
+
+a)  For the fixed coupon rate issues with a single investor wherein EBP mechanism is 
+optional, the option of not following the EBP mechanism would be available subject 
+to a condition that the securities allotted to that single investor would be subject to 
+a lock in of 60 days period from the date of allotment. 
+
+8.  Role of Arranger/Sub-arranger 
+
+8.1. Current regulatory requirement: 
+
+a)  As per Paragraph 6.2.2 of the EBP circular, an arranger/sub-arranger may enter 
+bids on EBP platform either on a proprietary basis or for other participants such as 
+High Net worth Individuals (HNIs), Institutional investors, etc. 
+
+8.2. Need for the change 
+
+a)  The  EBP  circular  does  not  require  the  arranger/sub-arranger  to  clearly  disclose 
+upfront whether the bids being entered are proprietary bids or are bids on behalf 
+of other participants or a mix of both.  
+
+b)  Further, in cases where an arranger/sub-arranger submits a consolidated bid on 
+account of multiple investors, the arranger/sub-arranger is not required to disclose 
+names of the underlying investors and their respective bid quantum at the time of 
+bidding. 
+
+ 
+
+Page 5 of 16 
+
+c)  The above affects the objective of transparency desired for the EBP mechanism. 
+
+ 
+
+d)  Further, Section 42 (7) of the Companies Act, 2013 requires that  
+
+“All offers covered under this section shall be made only to such persons whose 
+
+names are recorded by the company prior to the invitation to subscribe, and that 
+
+such persons shall receive the offer by name, and that a complete record of such 
+
+offers shall be….” 
+
+e)  It has been observed that the arranger/sub arranger sometimes bid on behalf of 
+the  investors  which  are  not  pre  identified  by  the  issuer.  Hence,  arranger/sub 
+arranger puts a consolidated bid which is large in quantity and the same may also 
+result in cornering of the issue and may inter alia attract action under Companies 
+Act, 2013 and SEBI (Prohibition of Fraudulent and Unfair Trade Practices Relating 
+to Securities Market) Regulations, 2003. 
+
+8.3. Proposal 
+
+a)  At the time of bidding, the arranger/sub-arranger shall clearly provide a breakup in 
+terms of bids being entered on proprietary basis and bids being entered on behalf 
+of other investors. 
+
+b)  Further, for the consolidated bids being entered on behalf of other  investors, the 
+arranger/sub-arranger shall clearly disclose a sub-breakup, mentioning the names 
+of the underlying investors and their respective bid quantum, at the time of bidding. 
+
+c)  The arranger/sub-arranger shall disclose the names and breakup (as mentioned 
+at sub-paragraphs ‘a’ and ‘b’ above) to the EBP, whereas the EBP shall disclose 
+the  breakup  of  the  bids  on  the  EBP  platform  on  an  anonymous  basis  without 
+disclosing the names of the arranger/sub-arranger and the underlying investors. 
+
+d)  Further, for the securities allotted against the proprietary bid of the arranger, such 
+securities would be subject to a lock in of 60 days period from the date of allotment. 
+
+9.  Mandatory Open bidding(without disclosing the names of the participants): 
+
+9.1. Current regulatory requirement: 
+
+a)  At present, an issuer has an option to either go for Open or Closed bidding. 
+
+ 
+
+ 
+
+Page 6 of 16 
+
+9.2. Need for the change 
+
+ 
+
+a)  Based  on  the  market feedback,  it  is  understood that  Open bidding  provides  the 
+bidders an opportunity to understand the dynamics of the market and to evaluate 
+their quotation based on the bids visible on the EBP portal.  
+
+b)  Further,  if  the  bids  are  proprietary  bids,  then  open  bidding  will  be  even  more 
+effective  since  it  will  provide  optimal  yield  curve  based  on  large  number of  bids 
+rather than consolidated bids. 
+
+c)  However, based on market feedback, it is suggested that although the bids and 
+bidding trends would be visible to all market participants on a real time basis, but 
+the EBP may disclose the said bids on an anonymous basis without disclosing the 
+names of investors, arrangers and sub-arrangers.  
+
+d)  Further, in most of the cases, initial bidding is closed bidding, whereas during the 
+negotiation  window,  open  bidding  mechanism  is  followed  wherein  the  bidders 
+improve on their old bids based on overall bidding trends.  
+
+e)  Hence, Open bidding would also reduce the need for negotiation window,  since 
+the EBP mechanism anyways allows a bidder to enter multiple bids and revise bids 
+in the bidding time window. 
+
+9.3. Proposal:  
+
+a)  All the issuers should mandatorily follow open bidding mechanism, wherein EBP 
+shall ensure that all the bids should be disclosed on the EBP platform on a real 
+time basis in the following manner: 
+
+(i)  Bids  received  from  arrangers/sub-arrangers and  Direct  bids  received from 
+
+investors should be shown separately  
+
+(ii)  All  the  bids  should  be  disclosed  on  an  anonymous  basis  (i.e.  without 
+
+disclosing the names of investors, arrangers and sub-arrangers) 
+
+(iii) Further, for the bids received from arrangers/sub-arrangers, the breakup of 
+bids between proprietary and consolidated bids, and the sub-breakup of the 
+consolidated  bids  should  be  disclosed  on  the  EBP  platform  on  an 
+anonymous basis (i.e. without disclosing the names of investors, arrangers 
+and sub-arrangers). 
+
+ 
+
+Page 7 of 16 
+
+f)  There may exist a situation wherein the issuer gets the bids to meet its base issue 
+however the cut off yield is more than its expectation. In such case, the issuer may 
+have the discretion to enter in to negotiation. In such negotiation, all the existing 
+shall be able to participate and no new bidders shall be allowed. The Operational 
+Guidelines for the negotiation window has been provided at Annexure 1.     
+
+ 
+
+10. To make the allotment of debt securities yield-based: 
+
+10.1. 
+
+Current regulatory requirement: 
+
+The  EBP  circular  is  silent  on  the  basis  of  allotment  and  the  same  is  left  to  the 
+discretion of the issuer in cases where issue is oversubscribed. 
+
+10.2. 
+
+Need for the change 
+
+a)  The  underlying  objective  of  the  EBP  mechanism  is  to  achieve  better  and 
+transparent  price  discovery  through  the  bidding  process.  The  same  can  be 
+achieved only if the allotment is done on yield priority basis (i.e. Preference needs 
+to be given to the lower coupon bid over higher coupon bids, irrespective of the bid 
+time and bid quantity). 
+
+b)  Allotment  on  yield  priority  basis  would  also  encourage  all  the  investors  to 
+
+participate directly on the platform. 
+
+10.3. 
+
+Proposal:  
+
+a)  In  cases  where  the  issue  is  oversubscribed,  it  may  be  made  mandatory  to  do 
+
+allotment on yield priority basis.  
+
+b)  The same may be implemented as under: 
+
+(i)  All the bids shall be arranged in the ascending order of the yields, and a cut-
+off yield (i.e. the minimum yield at which the issue would be fully subscribed, 
+including any green issue portion which the issuer intends to retain) shall be 
+determined. 
+
+(ii)  All the bids below the cut-off yield shall be accepted and full allotment should 
+
+be done to such bidders. 
+
+(iii) All the bids higher than the cut-off yield shall be rejected. 
+
+(iv) For  all  the  bids  at  the  cut-off  yield,  such  bids  shall  be  accepted/partially 
+
+accepted/rejected depending upon the units available for allotment. 
+
+ 
+
+Page 8 of 16 
+
+If full quantity cannot be allotted to all the investors who have bided at cut-
+off  yield  because  of  oversubscription,  then  the  allotment  may  be  done  on 
+time priority basis/ pro-rata basis or quantity basis. 
+
+ 
+
+c)  In cases where the issue is undersubscribed, the issuer can either withdraw the issue 
+
+or can accept the raised quantum of subscription.  
+
+11. Allowing  Structured  Products/  Market  Linked  Debentures/  Municipal 
+
+Bonds/Non-convertible Preference shares/CPs/CDs: 
+
+11.1. Current regulatory requirement: 
+
+Currently, the EBP platform is being used only for private placement of NCDs. 
+
+11.2. Need for the change 
+
+a)  Based on the feedbacks received from the market and keeping in view the benefits 
+of  existing  electronic  book  mechanism,  it  is  suggested  that  the  current  EBP 
+mechanism may also be extended for private placement of  Structured Products/ 
+Market  Linked  Debentures  Municipal  Bonds  and  Non-convertible  Preference 
+shares (‘NCRPS’).  
+
+11.3. Proposal:  
+
+a)  The existing EBP mechanism (including the changes proposed in this consultation 
+paper) would be extended to private placement of Municipal Bonds and NCRPS. 
+All the existing provisions of the EBP mechanism, as applicable for NCDs, would 
+also be applicable to Structured Products/ Market Linked Debentures, Municipal 
+Bonds and NCRPS. 
+
+b)  The existing EBP mechanism (including the changes proposed in this consultation 
+paper) may also be used for issuances of CPs and CDs, subject to compliance 
+with existing laws and provisions applicable for issuance of CPs and CDs. All the 
+existing provisions of the EBP mechanism, as applicable for NCDs, would also be 
+applicable to CPs and CDs,  unless the same would result in non-compliance of 
+existing laws and provisions applicable for issuance of CPs and CDs. 
+
+12. Standard Operational guidelines for the EBPs 
+
+In order to bring uniformity across EBPs and in view of the changes as proposed in 
+this consultation paper, it is proposed to provide standard operational guidelines for 
+handling issues on the EBP platform. The same are enclosed at Annexure 1. 
+
+ 
+
+Page 9 of 16 
+
+ 
+
+IV.  Public Comments: 
+
+ 
+
+In  light  of  the  above,  public  comments  are  invited  on  the  proposals  contained  in 
+thisconsultation paper. Comments/ suggestions may be provided in the format given 
+below:  
+
+Name of entity / person / intermediary/ Organization 
+
+ 
+
+ 
+
+ 
+
+Sr. 
+No.  
+
+ 
+
+Pertains  to  Point 
+No. 
+
+Suggestions 
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+The comments may either be forwarded by email to ebp@sebi.gov.inor may be sent 
+by post to the following address latest by June 21, 2017. 
+
+Ms. Richa Agarwal 
+Deputy General Manager 
+Investment Management Department, 
+Division of Funds I  
+Securities and Exchange Board of India  
+SEBI Bhavan, Plot No. C4-A, G Block  
+Bandra Kurla Complex  
+Mumbai - 400 021 
+
+Issued on: May 22, 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Page 10 of 16 
+
+Standard Operational guidelines for the EBPs: Proposal 
+
+ 
+
+KYC 
+
+  For QIBs and Non QIBs bidding directly 
+
+ 
+
+Annexure 1 
+
+on  EBPs,  the  KYCs  will  be  ensured  by 
+
+EBPs. 
+
+  For all other participants, arrangers and 
+
+Sub-arrangers shall ensure KYCs before 
+
+bidding on their behalf. 
+
+  Arranger 
+
+or 
+
+Sub-Arranger  may 
+
+undertake  KYC  of  participants  by 
+
+obtaining/utilizing  existing  KYCs  of 
+
+clients  from  KRAs  registered  with  SEBI 
+
+Or can do KYC based on the guidelines 
+
+provided by SEBI from time to time in this 
+
+regards. 
+
+ 
+
+ 
+
+Bidding Hours 
+
+  9AM to 5PM from Monday to Friday  
+
+  The bidding has to end before 5 PM 
+
+Holiday Master 
+
+  RBI  Mumbai  Calendar  (GOI  Securities 
+
+Pre-Bid Procedure 
+
+Trading Calendar) 
+
+ 
+
+ 
+
+Issue setup authority 
+
+ 
+
+Issue can be set-up by the Issuer or the 
+
+EBP on behalf of the Issuer 
+
+Issue Parameters 
+
+ 
+
+Issuer has to fill in the issue parameters 
+
+as  specified  by  the  EBP  and  /  or  SEBI 
+
+from 
+
+time 
+
+to 
+
+time.  The  parameters 
+
+include 
+
+Issue  Name,  Maturity  date, 
+
+Minimum  bid  value,  credit 
+
+ratings, 
+
+bidding 
+
+period, 
+
+cooling 
+
+period, 
+
+negotiation window, etc. 
+
+ 
+
+Page 11 of 16 
+
+ 
+Issuer and the EBP shall ensure that the 
+
+ 
+
+bidding  along  with  negotiation 
+
+(if 
+
+applicable)  shall  be  completed  on  the 
+
+same working day. 
+
+ 
+
+Issue related uploads 
+
+  Necessary issue specific documentation 
+
+like  Term  sheet  /  Private  Placement 
+
+Memorandum (PPM) / Shelf Information 
+
+Memorandum (IM) / Credit rating letters / 
+
+Rating reports or Rating rationale or any 
+
+other  document  as  decided by  the  EBP 
+
+or  as  mandated  by  the  regulators  from 
+
+time to time. 
+
+ 
+
+Minimum 
+
+market 
+
+ 
+
+Issuer  has  to  notify  to  the  market  1 
+
+notification time 
+
+working  hour  before 
+
+the  scheduled 
+
+bidding  time  in  case  issue  opens  on 
+
+same day. 
+
+ 
+
+If the issue details are made available to 
+
+the  exchange  before  5  PM  on  the 
+
+previous  working  day,  then  the  bidding 
+
+can begin at the start of the working day. 
+
+ 
+
+Intimation to market 
+
+  Only  the  eligible  participants  shall  have 
+
+access 
+
+to  PPM  and 
+
+issue  specific 
+
+information  and  to  the  bidding  portal 
+
+provided by EBP  
+
+  The  Exchange  shall  intimate  the  issue 
+
+related 
+
+information 
+
+to 
+
+the  eligible 
+
+participants  in  a  manner  as  decided  by 
+
+Exchange from time to time 
+
+ 
+
+ 
+
+Page 12 of 16 
+
+ 
+
+Bidding Process 
+
+ 
+
+Bidding Period 
+
+  Bidding  timing  will  be  minimum  of  30 
+
+ 
+
+minutes which may go up to 2 hours. 
+
+  EBP  as  agreed  by  issuer  will  specify 
+
+minimum  and  maximum  time  for  initial 
+
+bidding  window  subject  to  maximum 
+
+bidding period specified above. 
+
+  Directly  participating 
+
+investors 
+
+(non-
+
+arranger) can place bids only for self i.e 
+
+on proprietary basis 
+
+  Participants  will  be  allowed  to  enter 
+
+multiple  bids  i.e.  single  participant  may 
+
+enter  more  than  one  bid.  In  case  a 
+
+participant enters multiple bids, the latest 
+
+bid shall be considered as the final bid by 
+
+the participant. 
+
+  Cancellation and Modification of bids will 
+
+be allowed during bidding time. 
+
+  Arrangers 
+
+are 
+
+allowed 
+
+to 
+
+enter 
+
+consolidated  bids  on  behalf  of  multiple 
+
+investors  
+
+  Arranger  and  sub-arranger  can  place 
+
+orders  for  self  (proprietary)  and/or  on 
+
+behalf of investors (clients) 
+
+ 
+
+Rules  for  Consolidated 
+
+  A  consolidated  bid  is  one  where  the 
+
+Bids 
+
+arranger enters a single combined bid on 
+
+behalf of self and/or multiple investors  
+
+  The  arranger  shall  upload  the  client 
+
+details which are part of the consolidated 
+
+ 
+
+Page 13 of 16 
+
+ 
+on  the  EBP  portal  before  the  bidding 
+
+starts. 
+
+Action  After  Bidding 
+
+  After  the  bidding  period  the  issuer  has 
+
+Period 
+
+the option to:  
+
+  Withdraw the issue  
+
+  Accept and close issue indicating cut-
+
+off rate/price  
+
+  Initiate negotiation 
+
+Negotiation window 
+
+  Before the negotiation window becomes 
+
+ 
+
+ 
+
+active,  there  shall  be  a  cooling  period. 
+
+The  cooling  period  may  be  of  upto  30 
+
+minutes which shall commence just after 
+
+the bidding period is over. 
+
+  There  shall  be  a  facility  for  negotiation 
+
+and the same shall also be done on open 
+
+book basis. The negotiation window may 
+
+remain  open  for  maximum  of  one  hour. 
+
+Further,  the  negotiation  window  may 
+
+have following criteria: 
+
+  All  of  the  initial  bidders  shall  be 
+
+eligible 
+
+to 
+
+participate 
+
+in 
+
+the 
+
+negotiation round. 
+
+  Bids  from  new  participants  are  not 
+
+allowed during negotiation  
+
+  The bidders  at  a  particular  level  can 
+
+modify their bids any number of times 
+
+till  their  respective  negotiation  slots 
+
+are active  
+
+  Issuer 
+
+can  accept  and 
+
+close 
+
+negotiations  at  any  point  during  the 
+
+ 
+
+Page 14 of 16 
+
+ 
+negotiation  rounds.  Issuer  cannot 
+
+withdraw 
+
+the 
+
+issue 
+
+during 
+
+negotiations  
+
+  Rules for Modification:  
+
+  If  bidder  is  reducing  coupon/spread 
+
+(or  raising  price)  then  the  bidder  is 
+
+allowed  to  increase  or  decrease  bid 
+
+amount  
+
+  In  other  cases  bidders  can  only 
+
+increase their bid amount  
+
+  After the initial negotiation round, the 
+
+issuer 
+
+can 
+
+subsequently  open 
+
+multiple  rounds  of  negotiation 
+
+if 
+
+required subject to the same shall be 
+
+completed on the same working day. 
+
+  Issuer  can  withdraw  /  accept  issue 
+
+subject to rules specified by the EBP 
+
+in this regards. 
+
+Note: The EBP shall ensure that any extension of bidding time, cooling 
+
+period or negotiation window done within the timeframe provided above, 
+
+shall be made known to all the eligible investors simultaneously through 
+
+the portal.  
+
+Post Bidding Procedure 
+
+Other rules 
+
+ 
+
+Withdrawal of Issue 
+
+  An  issuer  cannot  withdraw  the  issue  in 
+
+following cases: 
+
+  The base issue size is filled (In case 
+
+of fixed rate issuance) 
+
+ 
+
+Page 15 of 16 
+
+ 
+   The  base  issue  size  subscribed  at 
+
+the  rate  as  decided  by  issuer during 
+
+negotiation  
+
+  Once issue is accepted 
+
+ 
+
+ 
+
+Non-fulfilment 
+
+of 
+
+  EBP to take necessary action on case to 
+
+Obligation by Bidders 
+
+case basis 
+
+Investor Grievance 
+
+The investor grievances, if any, arising from 
+
+bidding  process  shall  be  addressed  by  the 
+
+Issuer  in  accordance  with  the  respective 
+
+agreement. 
+
+In  addition,  EBP  shall  also 
+
+address  the  investor  grievance  arising  from 
+
+bidding  process.  Further,  any  dispute 
+
+between issuer and bidders before listing of 
+
+privately placed debt securities in recognized 
+
+Stock Exchange(s) shall be settled as per the 
+
+respective agreement. 
+
+ 
+
+ 
+
+Page 16 of 16 
+
+

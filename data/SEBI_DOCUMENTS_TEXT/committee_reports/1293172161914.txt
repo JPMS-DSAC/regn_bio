@@ -1,0 +1,2492 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SEBI Advisory Committee on Derivatives 
+
+ 
+
+ 
+
+Report on 
+
+Development and Regulation of Derivative Markets in India 
+
+ 
+
+ 
+
+Submitted to 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+September 2002
+
+SEBI Advisory Committee on Derivatives 
+
+Report on 
+
+Development and Regulation of Derivative Markets in India 
+
+1  Background 
+
+The  SEBI  Board  in  its  meeting  on  June  24,  2002  considered  some  important  issues 
+relating to the derivative markets including: 
+
+•  Physical settlement of stock options and stock futures contracts. 
+•  Review  of  the  eligibility  criteria  of  stocks  on  which  derivative  products  are 
+
+permitted. 
+
+•  Use of sub-brokers in the derivative markets. 
+•  Norms for use of derivatives by mutual funds 
+
+The recommendations of the Advisory Committee on Derivatives on some of these issues 
+were also placed before the SEBI Board. The Board desired that these issues be 
+reconsidered by the Advisory Committee on Derivatives (ACD) and requested a detailed 
+report on the aforesaid issues for the consideration of the Board.   
+
+In the meantime, several other important issues like the issue of minimum contract size, 
+the segregation of the cash and derivative segments of the exchange and the surveillance 
+issues in the derivatives market were also placed before the ACD for its consideration. 
+The Advisory Committee therefore decided to take this opportunity to present a 
+comprehensive report on the development and regulation of derivative markets including 
+a review of the recommendations of the L. C. Gupta Committee (LCGC).  
+
+Four years have elapsed since the LCGC Report of March 1998. During this period there 
+have been several significant changes in the structure of the Indian Capital Markets 
+which include, dematerialisation of shares, rolling settlement on a T+3 basis, client level 
+and Value at Risk (VaR) based margining in both the derivative and cash markets and 
+proposed demutualization of Exchanges. Equity derivative markets have now been in 
+existence for two years and the markets have grown in size and diversity of products. 
+This therefore appears to be an appropriate time for a comprehensive review of the 
+development and regulation of derivative markets. 
+
+2  Regulatory Objectives 
+
+The LCGC outlined the goals of regulation admirably well in Paragraph 3.1 of its report. 
+We endorse these regulatory principles completely and base our recommendations also 
+on these same principles. We therefore reproduce this paragraph of the LCGC Report: 
+
+ 
+
+ 
+
+ “The Committee believes that regulation should be designed to achieve specific, 
+well-defined goals. It is inclined towards positive regulation designed to encourage 
+healthy activity and behaviour. It has been guided by the following objectives: 
+
+(a)  Investor Protection: Attention needs to be given to the following four 
+
+aspects: 
+
+(i) Fairness and Transparency: The trading rules should ensure that trading 
+
+is conducted in a fair and transparent manner. Experience in other 
+countries shows that in many cases, derivatives brokers/dealers failed 
+to disclose potential risk to the clients. In this context, sales practices 
+adopted by dealers for derivatives would require specific regulation. In 
+some of the most widely reported mishaps in the derivatives market 
+elsewhere, the underlying reason was inadequate internal control 
+system at the user-firm itself so that overall exposure was not 
+controlled and the use of derivatives was for speculation rather than 
+for risk hedging. These experiences provide useful lessons for us for 
+designing regulations. 
+
+(ii) 
+
+Safeguard for clients’ moneys: Moneys and securities deposited by 
+clients with the trading members should not only be kept in a separate 
+clients’ account but should also not be attachable for meeting the 
+broker’s own debts. It should be ensured that trading by dealers on 
+own account is totally segregated from that for clients. 
+
+(iii)  Competent and honest service: The eligibility criteria for trading 
+members should be designed to encourage competent and qualified 
+personnel so that investors/clients are served well. This makes it 
+necessary to prescribe qualification for derivatives brokers/dealers and 
+the sales persons appointed by them in terms of a knowledge base. 
+
+(iv)  Market integrity: The trading system should ensure that the market’s 
+integrity is safeguarded by minimising the possibility of defaults. This 
+requires framing appropriate rules about capital adequacy, margins, 
+clearing corporation, etc. 
+
+(b)  Quality of markets: The concept of “Quality of Markets” goes well beyond 
+
+market integrity and aims at enhancing important market qualities, such as 
+cost-efficiency, price-continuity, and price-discovery. This is a much broader 
+objective than market integrity. 
+
+(c)  Innovation: While curbing any undesirable tendencies, the regulatory 
+
+framework should not stifle innovation which is the source of all economic 
+progress, more so because financial derivatives represent a new rapidly 
+developing area, aided by advancements in information technology.”  
+
+2 
+
+ 
+
+3  Derivative Products 
+
+3.1  Interest and Currency Futures 
+
+The LCGC stated in Paragraph 1.24: 
+
+“There are inter-connections among the various kinds of financial futures, mentioned 
+above [equity, interest rate and currency], because the various financial markets are 
+closely inter-linked, as the recent financial market turmoil in East and South-East 
+Asian countries has shown. The basic principles underlying the running of futures 
+markets and their regulation are the same. Having a common trading infrastructure 
+will have important advantages. The Committee, therefore, feels that the attempt 
+should be to develop an integrated market structure.” 
+
+We agree with this assessment.  Currently, in the country, there is a vibrant currency 
+forward market, and negligible activity in currency options and in interest-rate 
+derivatives. These markets are non-transparent telephone markets. 
+
+We now have the institutions and technology at hand, to bring these markets onto the 
+transparent exchange platform. This would bring the advantages of price-time priority, 
+transparency, risk management at a central counterparty, nationwide reach, etc. to these 
+important markets. Hence, SEBI and RBI should move on with trading in futures, options 
+and swaps using a variety of underlyings, such as (a) the INR-USD rate, (b) the short-end 
+interest rate, (c) the long-end interest rate, (d) MIBOR, etc. 
+
+3.2  Single Stock Derivatives 
+
+3.2.1  Introduction of Single Stock Derivatives 
+
+The LCGC advocated a phased introduction of different equity derivatives in India in 
+Paragraph 2.17 of its report: 
+
+“The consensus in the Committee was that stock index futures would be the best 
+starting point for equity derivatives in India. The Committee has arrived at this 
+conclusion after careful examination of all aspects of the problem, including the 
+survey findings and regulatory preparedness. The Committee would favour the 
+introduction of other types of equity derivatives also, as the derivatives market grows 
+and the market players acquire familiarity with its operations. Other equity 
+derivatives include options on stock index or on individual stocks. There may also be 
+room for more than one stock index futures. It is bound to be a gradual process, 
+shaped by market forces under the over-all supervision of SEBI.” 
+
+This phased approach was adopted in India with index futures being introduced in June 
+2000, index options in June 2001 and individual stock options in July 2001.  
+
+The LCGC was not much inclined towards the fourth type of equity derivatives 
+(individual stock futures) given its then limited popularity globally: 
+
+ 
+
+3 
+
+ 
+
+“The fourth type, viz. individual stock futures, was favoured much less. It is 
+pertinent to note that the U.S.A. does not permit individual stock futures. Only one 
+or two countries in the world are known to have futures on individual stocks.”  
+(Paragraph 2.3) 
+
+Since the time of the LCGC report, the world has changed a great deal. Towards the end 
+of 2000, the United States passed the Commodity Futures Modernization Act that 
+demarcated the jurisdiction of the CFTC and the SEC and thereby removed the regulatory 
+obstacle to single stock futures in that country. Single stock futures are expected to start 
+trading in the United States later this year with the major derivatives exchanges coming 
+together in a joint venture (OneChicago) for this purpose and Nasdaq teaming up with 
+Liffe in a rival alliance. The list of countries trading single stock futures has expanded 
+substantially during 2001 to include1 the United Kingdom, Greece, Mexico, Canada, 
+Singapore, Hong Kong, Netherlands, Spain, Australia, Sweden, Finland, Denmark, 
+Portugal, Hungary and South Africa. Liffe in London trades single stock futures on a 
+range of stocks from around the world including the United States.  
+
+In India, the regulatory debate on single stock futures intensified when SEBI started work 
+in early 2000 on adapting the carry-forward system to the rolling settlement regime. A 
+dissent note in the report of the committee2 appointed for this purpose recommended that 
+carry forward system should be swiftly replaced by single stock futures. 
+
+“The weekly carry forward system under rolling settlements is conceptually very 
+close to a futures contract on individual stocks with five different futures contracts 
+(with maturities of 1, 2, 3, 4, and 5 trading days) open for trading on any day. 
+Moreover, the risk management of a proper futures contract is much better 
+understood. As such, Dr. Patil and Prof. Varma recommend that the weekly carry 
+forward product should swiftly migrate to a full fledged futures contract in individual 
+stocks. When this is done, the product will cease to be regulated as a carry forward 
+product and will be regulated exclusively as a derivatives contract.” 
+
+The majority view at that time preferred the carry forward product on the ground that the 
+market would find that product easier to understand and use. A year later when SEBI 
+began working on moving the entire market to rolling settlement, the view on this had 
+changed. The developments in the cash and derivative markets during 2000 led to a view 
+that carry forward system may not be any easier to understand and use than a single stock 
+future. The superior risk containment model for derivatives swayed the thinking of the 
+
+                                                
+
+1 This list is derived from Table 8 in Lascelles, D. (2002), “Single stock futures, the 
+ultimate derivative”, Centre for the Study of Financial Innovation, Paper No 52, February 
+2002, available online at http://www.liffe.com/products/equities/publications/csfi-ssf.pdf  
+
+2 “Report of the Committee on Carry Forward under Rolling Settlements”, Securities and 
+Exchange Board of India, January 2000. 
+
+ 
+
+4 
+
+ 
+
+Committee and led to a recommendation to abolish carry forward completely and replace 
+it with single stock futures3. 
+
+Accordingly all deferral products like the carry forward system, ALBM and BLESS were 
+abolished in July 2001. Stock futures started trading in November 2001. Thereafter, there 
+has been a continuing debate on single stock futures in the press and elsewhere. In 
+December 2001, the ACD discussed a note from former office bearers of the BSE stating 
+that the regulatory regime for single stock futures was more liberal than that for the 
+erstwhile carry forward system as well as that for the cash market. In its meeting in 
+August 2002, the ACD’s attention was drawn to several press reports making similar 
+arguments.  
+
+The ACD therefore considers it necessary to explain why the regulatory regimes for 
+single stock futures and for the carry forward system are so radically different 
+particularly in relation to position limits and margins. Further discussion of risk 
+containment systems in derivatives is presented in 4 below 
+
+3.2.2  Position Limits 
+
+While institutions were prohibited by regulation from participating in the carry forward 
+system, the derivatives markets are expected to have large institutional participation4. A 
+market open to institutional trading cannot have arbitrary monetary limits on the size of 
+individual trades or positions of the kind that existed in the carry forward market. For 
+example, a large mutual fund that wants to hedge its exposure to a large stock might need 
+to take a position of a billion rupees or more in the derivative markets. The position limits 
+in single stock futures are therefore more complex: 
+
+•  The aggregate positions of all players in the market put together in a single stock 
+cannot exceed 10% of the free float of that stock. There was no such limit at all in 
+the carry forward market and it was possible for total positions to be very large in 
+relation to the free float particularly for small stocks. There have been occasions 
+in the past year where this aggregate limit was approached and the exchanges 
+took corrective action to prevent it from being breached. 
+
+•  The aggregate positions cannot also exceed 30 times the average number of shares 
+
+traded daily, during the previous calendar month, in the cash segment. This 
+further limits the aggregate positions for less liquid stocks. 
+
+                                                
+
+3 “Report of the Committee on Deferral Products under Rolling Settlements”, Securities 
+and Exchange Board of India, April 2001. 
+
+4 India and Korea are perhaps the only exceptions to a global tendency for derivative 
+markets to be dominated by institutional players. In India also institutional participation 
+is expected to grow in future with increased clarity in the regulatory regime that applies 
+to them. 
+
+ 
+
+5 
+
+ 
+
+•  No single client is allowed to take a position exceeding 1% of the free float of that 
+stock. Except for the top rung of stocks with very large market capitalization, this 
+position limit is quite modest. The carry forward system did not have any such 
+limit at all as it applied limits only at the broker level rather than the client level. 
+A single client could take large positions by operating through several brokers. 
+
+•  To reduce concentration risk, no broker should account for a large fraction of the 
+
+positions in any stock. An individual broker is not allowed to account for more 
+than 7.5% of the aggregate positions in any stock. But there has to be an 
+exception where the aggregate position itself is quite small. The first trade that is 
+done on any stock would automatically give the two trading brokers a 50% share 
+of the aggregate positions. To allow the initial trades to be executed to build the 
+positions up to a reasonable size, a broker is allowed to have a position of up to 
+Rs 0.5 billion even if that accounts for more than 7.5% of the aggregate positions. 
+This limit is much bigger than it was in the carry forward system. The principal 
+reason is that the carry forward system did not have limits at the customer level 
+and had to impose tighter limits at the broker level. A second reason is that now 
+the broker could be dealing for a number of large institutions and the limits that 
+applied to the carry forward system would be totally inappropriate. Particularly in 
+the context of the recommendation regarding extending stock derivatives to a 
+larger number of stocks (see 3.3 below), the Committee is of the view that the 
+Rs 0.5 billion limit would be too high for smaller stocks. The majority view of the 
+Committee is that the member wise position limit should be as follows: 
+
+o 20% of the market wide position limit in the stock. where the market wide 
+position limit is less than or equal to Rs 2.5 billion. This would ensure that 
+when the open interest in the scrip is large (close to the market wide limit) 
+it is distributed over at least five members with no member holding more 
+than a fifth of the open interest. 
+
+o Rs 0.5 billion plus 7.5% of the excess of the market wide position limit over 
+
+Rs 2.5 billion where the market wide position limit exceeds Rs 2.5 billion. 
+This would mean that the larger the stock, the larger the number of 
+members over whom a large open interest (close to the market wide limit) 
+would have to be distributed. For example, if a stock has a market wide 
+position limit of Rs 15 billion, each member would be limited to less than 
+one-tenth of this. 
+
+The majority view of the Committee is that taken in totality the position limits in single 
+stock futures (modified as above) are more stringent and effective than they were in the 
+carry forward system. 
+
+Mr. Tahir and Mr. Vaidyanath do not agree with the majority view on member wise 
+position limits and are of the view that the trading member position limit ought to be 
+reduced. Mr. Tahir’s view is that: 
+
+ 
+
+6 
+
+ 
+
+“The position limit of Rs 0.5 billion (more than Rs 0.5 billion in certain situations) 
+per broker per scrip per exchange in respect of individual stock futures seems to be 
+on the high side and therefore risky. Apparently, the limit has no relationship with 
+the capital of a broker. The above limit of Rs 0.5 billion may be appropriately 
+brought down. 
+
+No aggregate position limit seems to have been envisaged for all the scrips taken 
+together. Theoretically, this might lead to building up of huge positions (Rs 0.5 
+billion x Number of scrips x Number of exchanges) by individual brokers without 
+reference to their capital. An aggregate position limit for each member for all stocks 
+put together may be introduced. 
+
+In due course, an aggregate limit per member in both the segments (cash and 
+derivatives) put together and an aggregate limit per member for both the stock 
+exchanges put together may be thought of.” 
+
+Mr. Vaidyanath is of the view that: 
+
+“The statement is made in the report ‘A market open to institutional trading cannot 
+have arbitrary monetary limits on the size of individual trades or positions of the 
+kind that existed in the carry forward market.’ 
+
+The carry forward system had limits per broker (per weekly settlement) and there 
+existed no client wise limits on the size of the individual trades or position. The 
+system had in place a broker wise limit and a stringent limit for each scrip, which can 
+be more easily monitored and regulated by the exchanges. Although we have a client 
+wise limits in the derivatives segment the same cannot be a justification for higher 
+broker wise position limits. Monitoring of client wise positions across several 
+brokers is an area of concern from the risk management perspective. 
+
+The statement that in the carry forward system a single client could take large 
+positions by operating through several brokers in different names would be as much 
+true for the derivatives market.  
+
+A member wise position limits does not affect institutional participation. A statement 
+is made that lower position limits on Trading Members would act as a hindrance for 
+the large Institutional participation. The trades done by any institution gets 
+transferred online to a Custodian Clearing Member. It therefore falls outside the 
+purview of the trading member wise position limits Thus a lower broker wise 
+position limits does not act as a hindrance  for an Institution to take a large position. 
+
+It would be pertinent to mention that on the regulatory side the exchange has powers 
+to regulate the member brokers and not over their clients. 
+
+Currently there exists a cap on the maximum amount of business that an institution / 
+mutual Fund can put through a single broking entity. The limit is around 5% of the 
+total turnover of the mutual fund or institution. It would be pertinent to mention that 
+
+ 
+
+7 
+
+ 
+
+such limits also exist in respect of transactions in government securities that are 
+undertaken by various banks and financial institutions  
+
+Diversification of positions across scrips and members is essential as an important 
+tool for risk reduction and better risk management.  For encouraging institutional 
+participation a differential treatment could be considered.  A higher limit of Rs 0.5 
+billion could probably have been justified in the initial stages for the development of 
+the derivatives market in India.  However, currently there exists a need to encourage 
+for proliferation across scrips and members.  
+
+There is a very strong need to take a fresh look at the member wise position limits. A 
+lower limit will definitely not act as hindrance for institutional participation as 
+explained earlier. However a lower limit with the stringent onus on the exchanges in 
+respect of monitoring the same will ensure wider and broader participation 
+concomitant with reduction of risk. A lower limit also acts as a strong deterrent for 
+client manipulations. It should also be borne in mind that the exchanges have 
+regulatory powers over the brokers and have no jurisdiction over the clients of 
+member brokers. 
+
+With the limits proposed in the draft report a trading member without any net worth 
+criteria can take positions across scrips up to Rs 9 billion in each exchange in the 
+equity derivatives contracts.  A trading member can take a position of Rs 0.5 billion 
+in an underlying with an actual outflow of just Rs 15 million, offering a high degree 
+of leverage.  
+
+It is important to note that currently the risk management systems deployed by the 
+exchanges for margin computation is based on VAR. However, VAR as a means of 
+risk cover addresses volatility and not the risk arising out of concentration of 
+position. Historically, it is observed that it is concentration scrip wise or member 
+wise which has caused market turbulence.  
+
+The Exchange appreciates the norm of market wide limits at 10% of the free float of 
+the stock. However, in respect of the broker wise position limits it is suggested that 
+we have a scrip wise limit and an overall cap in respect of the position across various 
+equity based derivatives contracts. The proposed limits are as under 
+
+•  Scrip wise limit (for equity based derivatives contracts): Up to Market Wide 
+
+Open Interest of Rs 0.5 billion the limit applicable is proposed at Rs 50 
+million. When Market Wide Open Interest crosses Rs 0.5 billion, the limit 
+applicable is proposed as the lower of 10% of the Market Wide Open Interest 
+or Rs 200 million. 
+
+•  Overall member wise limits across all equity based derivatives contracts: It is 
+
+proposed that we fix a limit of Rs 0.75 billion.” 
+
+Prof. Varma on the other hand wishes to place on record his strong support for the 
+majority view that member level position limits should be linked to the market wide 
+
+ 
+
+8 
+
+ 
+
+limits and his strong opposition to the minority view that there should be an absolute 
+monetary limit. His view is that: 
+
+“Position limits are designed to deal with market integrity and not with risk 
+containment. Historically, there was an unfortunate tendency in the erstwhile deferral 
+products to view position limits as a substitute for sound risk management. It is 
+important to ensure that this tendency is not imported into the derivatives markets. 
+When position limits are seen as a market integrity issue, it is evident that they have 
+nothing to do with capital adequacy. (The threat to market integrity is, if anything, 
+higher when a highly capitalized entity takes a large position.)  
+
+It is for this reason that the position limit is applied at the trading member level 
+rather than the clearing member level while most of the risk management is applied 
+at the clearing member level.  
+
+For the same reason, it does not make sense to have a position limit on the position 
+of a member aggregated across all scrips. The threat to market integrity arises when 
+there is a large position in a single scrip and not when a large aggregate position is 
+composed of small positions in several scrips.  
+
+Mr. Vaidyanath asserts that ‘The trades done by any institution gets transferred 
+online to a Custodian Clearing Member. It therefore falls outside the purview of the 
+trading member wise position limits’. From a market integrity point of view, this 
+practice, if it does prevail, is absolutely unacceptable and highly pernicious. Global 
+experience highlights instances where large, well capitalized and highly regulated 
+entities have been at the very forefront of alleged or attempted market manipulation 
+in financial derivative markets. There is absolutely no justification for excluding the 
+institutional trades from the purview of member wise position limits. If any exchange 
+is doing so on its own, it must stop the practice forthwith and if SEBI itself has 
+permitted or condoned this relaxation, it must act quickly to withdraw the 
+relaxation.” 
+
+3.2.3  Margins 
+
+The minimum margins in the carry forward system were only 10%. This was beefed up 
+by a complex tier of concentration and volatility margins as well as ad hoc margins. The 
+Value at Risk (VaR) based margins in the derivative markets automatically and 
+dynamically adjust the margins to the risk characteristics of the stock. There have been 
+occasions where the margins on single stock futures have reached 57%. At the same time, 
+the margins for low volatility stocks are much lower.  
+
+The margins in the derivative market are collected up front. The margin is paid before the 
+trade is executed. This is a level of protection that never existed in the carry forward 
+system and does not exist in the cash market even today. Similarly, the mark to market 
+losses and other margin calls that arise every day have to be paid before trading begins 
+the next day unlike in the cash market where it is paid a day later. Thus in the cash 
+segment, the exchange is exposed to the price risk for twice as long as it is in the 
+
+ 
+
+9 
+
+ 
+
+derivatives segment. The differences in margin collection dates are the principal reasons 
+for the difference in margin levels between the two segments. If the cash segment could 
+also migrate to the derivative market practices, it should be possible to harmonize the 
+margin levels between the two markets. 
+
+The speedy collection of margins as well as its high degree of responsiveness to market 
+conditions makes the derivative markets considerably safer than the erstwhile carry 
+forward system. 
+
+3.3  Eligibility Requirements 
+
+Globally, the choice of stocks on which derivative contracts (stock futures or stock 
+options) are traded is left to the exchanges. However, when the decision to introduce 
+stock options in India was taken, the Indian markets were just emerging from the acute 
+market turbulence of March-April 2001. Under these conditions, it was thought fit to 
+limit the list of stocks to a small number where the threat of market manipulation was low 
+and where there were no significant risk containment issues. Large cap, well traded 
+stocks with a large free float were chosen to limit the possibility of market manipulation. 
+In the backdrop of the intense market turbulence that had been witnessed in March 2001, 
+it was also decided to exclude highly volatile stocks. The following criteria were 
+therefore adopted: 
+
+•  Stock should figure in the list of top 200 scrips, on the basis of average market 
+
+capitalization, during the last six months and average free float market 
+capitalization should not be less than Rs. 7.5 billion. and 
+
+•  Stock should appear in the list of top 200 scrips, based on the average daily 
+
+volume, during the last six months. Further, average daily volume should not be 
+less than Rs. 50 million in the underlying cash market; and 
+
+•  Stock should be traded at least on 90% of the trading days, during the last six 
+
+months; and 
+
+•  Non promoters holding in the company should be at least 30%; and 
+
+•  Ratio of daily volatility of the stock vis-à-vis  daily volatility of index should not 
+
+be more than 4, at any time during the previous six months.  
+
+These criteria were intended to be highly restrictive under the presumption that they 
+would be reviewed after six months with a view to expanding the list. 
+
+The ACD has revisited the issue of eligibility criteria several times during the last few 
+months and come to the conclusion that SEBI should now lay down only broad eligibility 
+criteria and the Exchanges should be free to decide on the stocks and indices on which 
+
+ 
+
+10 
+
+ 
+
+futures and options could be permitted5. The committee took into account the concern 
+that the competitive dynamics of the Indian markets may push exchanges to choose low 
+quality stocks and that this may impact the safety and integrity of the markets. The new 
+broad eligibility criteria should therefore focus on the issues of risk containment and 
+manipulability. Manipulability in turn is related to the liquidity of the stock as well as its 
+size (market capitalization). Risk containment is also partly related to liquidity. At the 
+same time, the ACD is conscious of the need to permit derivative contracts on a wider 
+range of stocks. The Indian equity market suffers from a serious problem, in the form of a 
+severe dropoff in liquidity when we go from the largest stocks to the second- and third-
+tier stocks. To the extent that a larger set of stocks have trading of stock options and 
+futures, the universe of ‘highly liquid’ stocks is likely to become larger. 
+
+Hence, we need a balance between the goal of improving broad-based liquidity of the 
+market, and the risk of suffering an episode of market misconduct involving derivatives 
+on a highly illiquid underlying. 
+
+The ACD was of the view that the order book snapshots contain a lot of valuable 
+information about the liquidity and manipulability of the stock, and requested the NSE 
+and BSE to carry out an empirical study in this regard. Accordingly, the NSE presented 
+the results of an exercise that looked at four daily snapshots of the order book in the past 
+six months. Based on these snapshots, they computed the order size (value) required to 
+cause a change in the stock price equal to one-quarter of a standard deviation. This is 
+referred to below as the quarter-sigma order size. The NSE also presented data on impact 
+costs for various order sizes on the basis of the same snapshots.  
+
+The ACD believes that the impact cost provides a good measure of liquidity while the 
+quarter-sigma order size is a useful direct measure of the manipulability of the stock. 
+
+On the basis of this empirical study and on the basis of extensive discussions, the ACD 
+recommends the following broad eligibility criteria: 
+
+•  The stock should be among the top 500 stocks in terms of market capitalisation 
+
+and average daily volumes.  
+
+•  The median quarter-sigma order size over the last six months should be at least 
+
+Rs 0.5 million.  
+
+The stocks that meet the above broad eligibility criteria would include some that are less 
+liquid or more volatile or smaller (in terms of market capitalization) than the current list 
+of 31 stocks on which derivatives are traded. To deal with these stocks, the committee 
+proposes some changes in the risk containment system:  
+
+                                                
+
+5 The role of SEBI in approving derivative contracts under paragraph 4.10 of the LCGC 
+report is discussed later in this section. 
+
+ 
+
+11 
+
+ 
+
+• 
+
+If a stock is illiquid, the exchange may not able to close out a position on the same 
+day as assumed in the VaR calculations. To deal with close-out risk, the margins 
+need to be adjusted to account for the longer close-out time (say three days). 
+Accordingly if the mean value of the impact cost (for an order size of Rs. 0.5 
+million) exceeds 1%, the price scanning range would be scaled up by the square 
+root of three (
+range scales up the margins for futures by the same ratio, while margins for 
+options are impacted in a non linear fashion. 
+
+) to cover the close-out risk. Scaling up the price scanning 
+
+73.13 »
+
+•  As far as volatility is concerned, there is no problem with the VaR computations 
+
+themselves as they are based on stock specific volatility. The only problem is 
+regarding the second line of defence (the exposure limit) and this problem is 
+easily addressed by linking that also to the volatility of the underlying stock. The 
+second line of defence is currently set at 5%. This would be changed to the higher 
+of 5% or 1.5 standard deviations. Accordingly, the exchanges would be required 
+to ensure that for a particular stock, the higher of 5% or 1.5 standard deviations 
+times the notional value of gross open position in futures and option contracts on 
+that particular stock is collected /adjusted from the liquid net worth of a member 
+on a real time basis. The rationale for the multiplier of 1.5 is explained in 4.1 
+below. 
+
+•  As far as small cap stocks are concerned, there are no problems regarding the 
+
+position limits that are stated in terms of market cap or trading volume. The only 
+problem would have been with the absolute amount of Rs 0.5 billion that is 
+currently used in the definition of the member level position limit. However, as 
+discussed in 3.2.2 above, the majority view of the committee recommends that 
+this limit be linked to the market wide position limit.  
+
+The universe of eligible stocks would vary from month to month as the impact cost and 
+the quarter-sigma order size are calculated every month on a rolling basis considering the 
+previous six months. It is therefore necessary to lay down the procedure for introducing 
+and dropping stocks: 
+
+•  Options and futures contracts may be introduced on new stocks when they meet 
+
+the eligibility criteria. Mr. Vaidyanath is of the view that contracts should be 
+introduced on new stocks only when they meet the eligibility criteria for three 
+months in succession. 
+
+• 
+
+If a stock fails to meet the aforesaid eligibility criteria for three months 
+consecutively then no fresh month contracts should be issued on that stock. 
+However, the existing unexpired contracts may be permitted to trade till expiry 
+and new strikes may also be introduced in the existing contract months.   
+
+•  However, the Exchanges should be empowered to compulsorily close out all 
+
+derivative contract positions in a particular underlying when that underlying has 
+ceased to satisfy the new eligibility criteria and the exchanges are of the view that 
+
+ 
+
+12 
+
+ 
+
+• 
+
+continuance of derivative contracts on these stocks would pose a threat to market 
+integrity and safety.    
+
+If the impact cost for a stock moves from less than or equal to 1% to more than 
+1%, the price scan range in such stock should be scaled up by  3  and the scaling 
+should be dropped when the impact cost drops to 1% or below. Such changes 
+should be applicable on all existing open position in the underlying from a pre 
+specified date. 
+
+•  For the purpose of computing 1.5 standard deviations, the standard deviation of 
+
+the daily logarithmic returns of prices in the scrip during the last six months 
+would be computed. This value would be applicable for a month and would be re-
+calculated at the end of the month by once again taking price data on a rolling 
+basis for the past six months. 
+
+The Committee would like to lay down some guidelines on the actual computation of 
+impact cost and quarter sigma order size: 
+
+• 
+
+Impact cost and the quarter sigma order size should be calculated by taking four 
+snapshots in a day from the order book in the past six months. These four 
+snapshots should be at times randomly chosen from within four fixed ten-minute 
+windows spread through the day. The Exchanges should work together and use a 
+common methodology for carrying out the calculations. Further, for a stock, 
+lowest impact cost across any exchange in India would be considered.  
+
+•  The details of calculation methodology and relevant data should be made 
+
+available to the public at large through the web sites of the exchanges.  
+
+The committee feels that when an unlisted company come out with a large initial public 
+offering (IPO), it may be desirable to have derivative contracts trade on these stocks from 
+the very first day of their listing to assist in efficient price discovery. The committee 
+therefore proposes that in such cases if net public offer in the IPO is greater than or equal 
+to Rs 5 billion then the exchanges may consider introducing stock options and stock 
+futures contracts on such stocks at the time of their listing in the cash market. In this 
+regard the exchanges may submit their proposal to SEBI for approval on a case by case 
+basis. As regard the risk containment measures, the price scan range could be a multiple 
+of the volatility indices. Subsequently, after sometime the volatility and the impact cost 
+of the underlying stock could be used when price and order book data is available.   
+
+The recommendation that SEBI should only lay down the broad eligibility criteria for 
+stock derivatives needs to be reconciled with the role of SEBI in approving derivative 
+contracts under paragraph 4.10 of the LCGC report: 
+
+“The Committee suggests that before starting trading in a new derivatives product, 
+the derivatives exchange should submit the proposal for SEBI's approval, giving (a) 
+full details of the proposed derivatives contract to be traded (b) the economic 
+purposes it is intended to serve (c) its likely contribution to the market's development 
+
+ 
+
+13 
+
+ 
+
+and (d) the safeguards incorporated to ensure protection of investors/clients and fair 
+trading. SEBI officers should be in a position to provide effective supervision and 
+constructive guidance in this regard.” 
+
+Properly interpreted, there is no contradiction here. What is being said in this report is 
+that SEBI should take a view that stock futures and options contracts on stocks meeting 
+the broad eligibility criteria would normally meet the tests laid down in paragraph 4.10 of 
+the LCGC report and it would not be necessary for SEBI to apply its mind ab initio to 
+each such contract that is proposed by an exchange. However, SEBI would retain the 
+right under exceptional situations to deny permission for a contract that meets the 
+eligibility conditions if it has particular reason to believe that clause (d) of paragraph 4.10 
+would not be met in that particular case. 
+
+3.4  Contracts on New Indices 
+
+The eligibility criteria laid down above for single stock derivatives can be extended to the 
+case of narrow stock indices as well. A stock index would normally be eligible for 
+derivatives trading if most of the weightage in the index (say 90%) is accounted for by 
+constituent stocks that are themselves eligible for derivatives trading. This would also of 
+course be subject to the right of SEBI to refuse permission in exceptional cases under 
+paragraph 4.10 of the LCGC report. 
+
+The ACD also endorses futures and options on dollar-denominated indexes, which are 
+cash-settled in rupees provided the index meets the above eligibility criteria. 
+
+3.5  Minimum Contract Size 
+
+The LCGC Report did not make any recommendation regarding minimum contract size. 
+However, the Standing Committee on Finance of Parliament while considering the 
+amendment to SC(R)A pertaining to derivatives recommended that the threshold limit of 
+the derivative transactions should be pegged not below Rs. 0.2 million. Based on this 
+recommendation SEBI has specified that the value of a derivative contract should not be 
+less than Rs. 0.2 million at the time of introducing the contract in the market.  
+
+SEBI has been receiving various representations on the issue of minimum contract size. 
+The following reasons have been cited for withdrawing the stipulation of minimum 
+contract size:-  
+
+•  At the time when the decision to stipulate a minimum contract size of Rs. 0.2 
+
+million was taken, there were other products/systems like, Badla, ALBM, BLESS 
+available to investors through which they could take a long term view on the 
+markets. However, in the present scenario, with rolling settlement in place, 
+investors can take a long term view only through derivative products. The 
+stipulation of minimum contract size of Rs. 0.2 million is a deterrent for many 
+investors to participate in the derivative market, as the cost of entering the 
+derivative markets is high. 
+
+ 
+
+14 
+
+ 
+
+•  Derivative products provide investors with an efficient and a cost-effective tool 
+
+for risk management and hedging the market risk on their portfolio. However, the 
+minimum contract size of Rs. 0.2 million may not match with the size of the 
+portfolio of every investor. 
+
+•  One of the economic purposes of the Derivative markets is that they provide an 
+
+efficient mechanism for future price discovery. Price is arrived on the basis of the 
+collective perception of all players in the market who have diversified views on 
+the market. A large cross section of persons participating in the market would 
+increase the diversity of the views expressed, which would lead to fair price 
+discovery. The stipulation of minimum contract size may act as a deterrent to 
+many investors and may exclude them for expressing their views in the 
+mechanism of price discovery. 
+
+The Committee sees merit in some of these arguments. More importantly, it recognizes 
+that globally the contract size is determined by the exchanges without any intervention 
+from the regulators. The environment under which the Rs 0.2 million limit was 
+introduced has undergone a dramatic change and the time has now come to do away with 
+the minimum contract size in value terms.  
+
+3.6  Adjustment for Corporate Actions 
+
+At the time of recommending introduction of stock options, SEBI laid down procedures 
+for adjustment in derivative contracts at the time of corporate action in line with 
+international best practices. It was decided that the adjustment for corporate action on the 
+same underlying should be uniform across markets and should be based on the following 
+principles: 
+
+•  The basis for any adjustment for corporate action shall be such that the value of 
+the position of the market participants on cum and ex-date for corporate action 
+shall continue to remain the same as far as possible. This will facilitate in 
+retaining the relative status of positions viz. in-the-money, at-the-money and out-
+of-money. This will also address issues related to exercise and assignments. 
+
+•  Any adjustment for corporate actions shall be carried out on the last day on which 
+
+a security is traded on a cum basis in the underlying cash market. 
+
+•  Adjustments may be carried out by modifying the Strike Price, Position or Market 
+
+Lot / Multiplier. The adjustments shall be carried out on any or all of the above 
+based on the nature of the corporate action.  
+
+•  The adjustments for corporate actions shall be carried out on all open, exercised 
+
+as well as assigned positions. 
+
+The adjustment methodology for certain corporate actions like rights, bonus, and stock 
+split was also laid down at that time. At the same time a group was set up comprising 
+NSE, BSE and other knowledgeable persons which would decide a uniform course of 
+
+ 
+
+15 
+
+ 
+
+action for adjusting stock option contracts on corporate actions, taking into account best 
+practices followed internationally, where a uniform criterion was not already laid down.  
+The detailed adjustment methodology laid down by SEBI as well as the decisions taken 
+by the sub-group are summarized in the Appendix.  
+
+On the basis of the experience accumulated so far, the ACD is of the view that the task of 
+deciding on adjustments for corporate action should now be left to the exchanges with the 
+stipulation that: 
+
+•  The basis for any adjustment for corporate action shall be such that the value of 
+the position of the market participants on cum and ex-date for corporate action 
+shall continue to remain the same as far as possible. 
+
+•  The exchanges should take into account best practices followed internationally. 
+•  The exchanges must act consistent with SEBI’s circular on adjustment for 
+
+corporate actions as well as the decisions of the erstwhile subgroup on corporate 
+actions. 
+
+•  The Exchanges must consider the circumstances of the particular case and the 
+
+general interest of investors in the market 
+
+4  Risk Containment 
+
+4.1  VaR Framework 
+
+The LCGC Report laid down the fundamental principle of 99% VaR based margins: 
+
+“The level of initial margin required on a position should be related to the risk of loss 
+on the position. The concept of “value at risk” should be used in calculating required 
+levels of initial margin. The initial margin should be large enough to cover the one-
+day loss that can be encountered on the position on 99% of the days.” (Paragraph 
+6.13(3)).  
+
+“Since market volatility changes over time, the Committee feels that the Clearing 
+Corporation should continuously analyse this problem and may modify the margin 
+requirements to safeguard the market.” (Paragraph 6.4) 
+
+The methodology for operationalizing these recommendations in the context of index 
+futures was laid down by another committee that submitted its report in November 1998. 
+The principal elements of this framework were: 
+
+•  SEBI should not lay down the margins but should approve a VaR estimation 
+methodology under which the margins are automatically updated every day 
+
+•  The exponentially weighted moving average method (also known as the IGARCH 
+
+or Risk Metrics method) should be used to estimate volatility daily 
+
+ 
+
+16 
+
+ 
+
+•  The 99% VaR should be operationalized by using three standard deviations to 
+
+account for the fat tails 
+
+•  Since even a 99% VaR implies a margin shortfall once every hundred trading 
+
+days (approximately once every six months), it is necessary to have a second line 
+of defence of 3% (an exposure limit of 33  
+worth requirement.  
+
+ times) in the form of a liquid net 
+
+•  The derivatives exchange and clearing corporation should be encouraged to refine 
+
+the VaR methodology continuously on the basis of further experience. 
+
+This VaR framework was further extended when index options were introduced. 
+Essentially, the VaR was now based on a portfolio approach similar to that of the SPAN 
+system employed by leading derivative exchanges worldwide: 
+
+•  The possible loss on the entire portfolio of any client is estimated under a variety 
+
+of price and volatility scenarios.  
+
+•  The range of prices considered for this purpose is set at three standard deviations 
+
+in conformity with the value used when only index futures were traded. 
+
+•  The range of volatility changes for option valuation was set at 4%. The Black-
+
+Scholes or other alternative models could be used for option valuation 
+
+•  The margin is computed as the worst case loss under these various price and 
+
+volatility scenarios 
+
+•  The margin shall not however be less than 3% of the notional value of all short 
+
+options. This minimum margin is intended to cover model risk and impacts option 
+portfolios which are approximately delta, gamma and vega neutral and therefore 
+attract very low margins under the Black-Scholes valuation model. 
+
+•  The second line of defence was set at 3% for index options also on the basis of 
+
+notional value. 
+
+When stock options were introduced the same framework was extended by stipulating: 
+•  The range of price movements considered was set at 3.5 standard deviations to 
+account for the fatter tails of movements of stock prices as compared to index 
+movements. 
+
+•  The range of volatilities to be considered was set at 10% to account for the higher 
+
+volatility of stocks. 
+
+•  The second line of defence was set at 5% to account for the higher volatility of 
+
+stocks. 
+
+ 
+
+17 
+
+ 
+
+The ACD regards this risk containment framework as adequate except for changing the 
+second line of defence to the higher of 5% or 1.5 standard deviations as already 
+mentioned in 3.3 above. The underlying rationale for the multiplier 1.5 is that under the 
+assumption of power law tails, the expected price change conditional on the change being 
+greater than x is h/(h-1)x where h is the tail index. Since the first line of margins is equal 
+to x, the second line must cover the excess over x or [h/(h-1)-1]x. If we assume h to be in 
+the range of 3.25 to 3.75 and x is 3.5 standard deviations, then the second line is about 1.5 
+standard deviations. We put a floor of 5% on this to deal with situations where the 
+estimated volatility is very low because of a long period of very low actual volatility6. 
+
+4.2  Cross Margining: Basic Principles 
+
+The LCGC was of the view that cross margining should be introduced only after the 
+derivative markets have become fully established and the systems capability for adopting 
+sophisticated systems has emerged: 
+
+“At the initial stage of derivatives market in India, the Committee does not favour 
+cross-margining which takes into account a dealer’s combined position in the cash 
+and derivative segments and across all stock exchanges. The Committee recognises 
+that cross-margining is logical and would economise the use of a trading member’s 
+capital, but a conservative approach would be more advisable until the reliability of 
+systems has been fully established. The systems capability has to emerge before 
+adopting sophisticated systems.” (Paragraph 6.9)  
+
+The ACD is of the view that the initial stage referred to by the LCGC is now over. 
+Derivative markets are now well established and the systems capability for implementing 
+complex margining systems now exists. Cross-margining is now the logical next step. 
+The ACD recommends the following method of implementing cross margining without 
+commingling the cash and derivative segments: 
+
+•  Cross margining should be implemented at the client level. The margin should be 
+computed on the integrated position of a client across cash and derivative market. 
+•  To achieve efficiency in client level cross margining, it would be desirable that a 
+client has the same clearing member across both the cash and derivative segment. 
+In the event if a client chooses to settle trades through more than one clearing 
+member, the client would decide by way of an agreement which clearing member 
+would collect margin from the client and in event of a default what would be the 
+obligation of other clearing members. 
+
+                                                
+
+6 In a sense, this problem arises because of the use of an EWMA model instead of a full 
+fledged GARCH model. 
+
+ 
+
+18 
+
+ 
+
+• 
+
+In the event of default the clearing corporations7 would liquidate the positions in 
+their respective markets and under an agreement transfer the surplus, if any to the 
+clearing corporation where there is a deficit. 
+
+•  This method of cross margining avoids commingling the two segments of the 
+exchange. However, it does involve each clearing corporation taking a credit 
+exposure on the other. This must be limited by internal prudential guidelines and 
+embodied in the agreement between the two clearing bodies. 
+
+•  To achieve cross margining certain legal changes would have to be made in the 
+
+cash / derivative markets. These are- 
+
+•  Legal provisions as regard default, TGF/SGF would have to be modified. 
+•  Agreement between clearing corporation, client/clearing member/ trading 
+
+member to be framed and bye-laws suitably amended.         
+
+•  Common client identification is necessary to implement cross margining at the 
+client level. The quickest way to do this would be to make a global unique client 
+identification (say PAN number) a pre-requisite for those clients who wish to 
+avail of cross margining. Those who do not have this global unique client 
+identification will still be able to trade but they will not get the benefit of cross 
+margining. 
+
+From a risk management point of view, there are technical issues to be resolved for cross 
+margining between an index derivative position and an offsetting cash market position in 
+a basket of stocks that tracks the index. 
+
+4.3  Cross Margining between single stock derivative and the underlying 
+
+The positions in the underlying that are eligible for cross margining against positions in 
+single stock derivatives are: 
+
+•  The underlying in dematerialized form transferred to or pledged with the clearing 
+
+corporation 
+
+•  Short or long positions in any cash market segment that has a cross margining 
+
+agreement with the derivative market segment under consideration 
+
+A position in the underlying offset by an equal opposite position in the stock future 
+would be margined like a calendar spread. For the purpose of calculating the spread 
+margin, the maturity difference between the underlying and the near month contract will 
+be taken as one month and the maturity difference between the underlying and a far 
+month contract will be taken as one month plus the maturity difference between the near 
+                                                
+
+7 The term clearing corporation is used in this report to include a clearing house. 
+
+ 
+
+19 
+
+ 
+
+month contract and the far month contract. Calendar spread treatment will also be 
+accorded to stock option positions whose deltas are offset by opposite positions in the 
+underlying in the same manner in which the calendar spread treatment is applied to 
+option positions of one maturity delta-hedged with futures of a different maturity. 
+
+Just as for calendar spreads between two futures contracts, calendar spreads between the 
+underlying and the derivative will also cease three days before expiry of the relevant 
+derivative contract. This has to be done because of the basis risk that arises on settlement. 
+The only possible exception would be where the derivative is a futures contract that is 
+physically settled and the underlying position consists of a position in the cash market 
+segment whose settlement obligations can be netted against the settlement obligations 
+arising on expiry of the future.  
+
+Strictly speaking there is a settlement related basis risk whenever an American option is 
+delta hedged with futures or with positions in the underlying. This is because the 
+American option can be exercised at any time. This basis risk is ignored under the 
+assumption that it can be managed by (a) requiring a one day notice before exercise, (b) 
+imposing daily exercise and assignment limits, and (c) withdrawing the spread treatment 
+when the option position has been given notice of assignment for exercise. 
+
+4.4  Cross margining between index futures and a basket of constituent stocks 
+
+Cross margining would be allowed between positions in index futures and a basket of 
+positions in the constituent stocks provided the client designates the basket of positions as 
+an index basket. The permissible positions in the constituent stocks would be: 
+
+•  Actual holdings in the stock in unencumbered dematerialized form that are 
+
+transferred or pledged with the clearing corporation 
+
+•  Short or long positions in the stock in any cash market segment that has a cross 
+margining agreement with the derivative market segment under consideration 
+
+•  Short or long positions in the stock futures 
+•  An exchange traded fund (ETF) that tracks the index could also be regarded as a 
+
+basket of constituent stocks after applying an appropriate haircut to cover 
+redemption costs and tracking error 
+
+A basket of positions in index constituents can be decomposed into three portfolios:  
+
+(a)  an exact index replica that has the same value as the basket at current market 
+
+prices,  
+
+(b) a short deviation portfolio consisting of short positions in some constituent stocks 
+
+and  
+
+(c)  a long deviation portfolio consisting of long positions in some constituent stocks.  
+
+ 
+
+20 
+
+ 
+
+Portfolios (b) and (c) can be combined into a total deviation portfolio consisting of the 
+absolute deviations between the index and basket. The construction of these portfolios is 
+illustrated below with the following example of a hypothetical index that has only five 
+stocks: 
+
+Stock 
+
+Index 
+weights 
+
+Basket 
+weights 
+
+Replica 
+portfolio 
+
+ 
+
+A 
+
+B 
+
+C 
+
+D 
+
+E 
+
+ 
+Xi 
+
+30% 
+
+25% 
+
+10% 
+
+15% 
+
+20% 
+
+ 
+Bi 
+
+ 
+
+Ri = Xi 
+
+28% 
+
+26% 
+
+11% 
+
+16% 
+
+19% 
+
+30% 
+
+25% 
+
+10% 
+
+15% 
+
+20% 
+
+Total 
+
+100% 
+
+100% 
+
+100% 
+
+ 
+
+Short 
+
+deviation 
+portfolio 
+
+Long  
+deviation 
+portfolio 
+
+Total 
+
+deviation 
+portfolio 
+
+Si = 
+
+Min(Bi- Xi, 0) 
+
+Li = 
+
+Max(Bi- Xi, 0) 
+
+-2% 
+
+0 
+
+0 
+
+0 
+
+-1% 
+
+-3% 
+
+0 
+
+1% 
+
+1% 
+
+1% 
+
+0 
+
+3% 
+
+Ti = 
+
+|Bi- Xi| = 
+
+Li- Si 
+2% 
+
+1% 
+
+1% 
+
+1% 
+
+1% 
+
+6% 
+
+It may be seen that the replica portfolio has the same value as the basket at current market 
+prices because the short deviation portfolio and the long deviation portfolio have equal 
+but opposite values. For the same reason, the value of the total deviation portfolio is 
+twice that of the long or short deviation portfolios. 
+
+4.4.1  Eligibility Condition for Cross Margining with Basket 
+
+Cross margining between the basket and the index future will be permitted only if the 
+following eligibility condition is satisfied: 
+
+The total deviation portfolio must have a value not exceeding 5% of the value of 
+the basket. In other words, the basket must approximate the index quite closely. 
+
+The Committee recommends that the limit of 5% be reviewed after six months of 
+experience of cross margining. 
+
+4.4.2  Margin offset between index futures and replica portfolio 
+
+The margin offset between index futures and the replica portfolio will be identical to that 
+between single stock futures and the underlying. In other words, the position will be 
+treated as a calendar spread and margined as such. 
+
+ 
+
+21 
+
+ 
+
+4.4.3  Margin on total deviation portfolio 
+
+There are two options here: 
+
+•  The total deviation portfolio can be margined as a portfolio of positions on 
+
+individual constituents of the portfolio. This would require that the volatility and 
+other margin parameters must be computed for even those index constituents that 
+do not have options or stock futures trading on them.  
+
+•  A simpler solution is to margin the total deviation portfolio as if it were a position 
+in a single hypothetical stock whose volatility is twice that of the index and which 
+is assumed to be sufficiently liquid (impact cost less than 1%) not to require a  3  
+scaling for illiquidity. The smallness of the total deviation portfolio is a critical 
+factor in using this approximation. 
+
+4.5  Cross margining between index options and options on constituent stocks 
+
+No cross margining will be permitted between positions in index options and a basket of 
+positions in options on constituent stocks in the index. The reasons for this stand are: 
+
+• 
+
+It is unlikely that any arbitrageur will delta hedge index options with a basket of 
+constituent stock options. It is much easier to delta hedge index options with 
+index futures and stock options with stock futures. Therefore, though it is not too 
+difficult to give a cross margin benefit for the offsetting deltas of the two 
+positions, there are little practical benefits from doing so. 
+
+•  An arbitrageur might indeed to want vega hedge index options with a basket of 
+
+constituent stock options under the belief that the index implied volatility must be 
+a weighted average of constituent implied volatilities. Price discovery might 
+indeed be aided by giving a cross margining benefit for such a vega hedge, but the 
+methodology for doing so would be too complex to implement.  
+
+4.6  Cross margining between two indices 
+
+No cross margining will be permitted between two indices even if they are highly 
+correlated. 
+
+4.7  Cross margining between two stocks 
+
+No cross margining will be permitted between two stocks even if they are highly 
+correlated. 
+
+5  Market Structure and Governance 
+
+5.1  Separation of cash and derivatives markets 
+
+The LCGC discussed the issue of separation of the cash and derivative markets at length: 
+
+ 
+
+22 
+
+ 
+
+“The Committee examined the relative merits of allowing derivatives trading to be 
+conducted by an existing stock exchange vis-à-vis a separate exchange for 
+derivatives. The arguments for each are summarised below. 
+
+Arguments for allowing existing stock exchanges to start futures trading: 
+
+(a)  The most weighty argument in this regard is the advantage of synergies arising 
+
+from the pooling of costs of expensive information technology networks and the 
+sharing of expertise required for running a modern exchange. Setting-up a 
+separate derivatives exchange will involve high costs and require more time. 
+
+(b)  The recent trend in other countries seems to be towards bringing futures and cash 
+
+trading under coordinated supervision. The lack of coordination was recognised 
+as an important problem in U.S.A. in the aftermath of the October 1987 market 
+crash. Exchange-level supervisory coordination between futures and cash markets 
+is greatly facilitated if both are parts of the same exchange. 
+
+ Arguments for setting-up separate futures exchange: 
+
+(a) The trading rules and entry requirements for futures trading would have to be 
+
+different from those for cash trading. 
+
+(b) The possibility of collusion among traders for market manipulation seems to 
+
+be greater if cash and futures trading are conducted in the same exchange. 
+
+(c) A separate exchange will start with a clean slate and would not have to 
+
+restrict the entry to the existing members only but the entry will be thrown 
+open to all potential eligible players.” (Paragraph 3.7) 
+
+“From the purely regulatory angle, a separate exchange for futures trading seems to 
+be a neater arrangement. However, considering the constraints in infrastructure 
+facilities, the existing stock exchanges having cash trading may also be permitted to 
+trade derivatives provided they meet the minimum eligibility conditions as indicated 
+below…” (Paragraph 3.8) 
+
+The ACD has also discussed this matter extensively. The committee noted that one of the 
+major considerations of the LCGC in recommending a separate derivatives segment was 
+the desire to “start with a clean slate” without being bound by the trading rules and 
+practices of the cash segment.  The Committee also noted that the LCGC’s 
+recommendations were made keeping in mind the circumstances prevalent during the 
+period in which it conducted its deliberations (The LCGC was formed in 1996 and 
+submitted its report in 1998). Since then, there have been significant changes with regard 
+to the governance of Exchanges and the structure of the markets. The ACD also noted 
+that in many areas, the procedures and practices in the derivative segment are being 
+adopted in the cash segment. Moreover, internationally, different markets like equity, 
+derivatives and debt are merging to achieve efficiency in operations and to reduce cost of 
+transactions.  
+
+ 
+
+23 
+
+ 
+
+The Committee considered the desirability of separation in three different areas: 
+
+1.  In certain areas like risk management and surveillance a ‘one market concept’ 
+should be followed and these areas would have to be administered by taking an 
+overall exposure of members / client across all segments of the Exchange. 
+Separation was undesirable in these areas. 
+
+2.  In certain areas, the desirability of separation needs further analysis and 
+
+discussion. For example, it could be argued that the ‘Trade Guarantee Fund (TGF) 
+/ Settlement Guarantee Fund (SGF)’ should be separate so that the risk of one 
+market does not affect the risk of the other market and also because the fact that 
+all the members of cash segment are not the members of the derivative segment. 
+But it could also be argued that merging or pooling of funds in the TGF/SGF 
+across different market segments would in fact strengthen the Clearing 
+Corporation. Moreover, since many members of the cash segment are now 
+becoming members of the derivative segment, TGF/SGF of cash and derivatives 
+could also be considered for merger. Similarly, the desirability of having separate 
+membership, bylaws and governing boards also needs further discussion. The 
+Committee decided that these issues could be taken up for review at a later stage 
+and that till then the current situation should continue. 
+
+3.  In certain areas like personnel, administration and infrastructure, the Committee 
+was of the view that it should be left to the Exchanges to decide whether to have 
+separation or not. 
+
+After deliberation the committee recommended that SEBI should only be concerned with 
+separation of legal architecture of the derivative segment by ensuring separate Bye-laws, 
+Rules, Regulations, Governing Council & membership. The functional, operational and 
+administrative modalities should be left to the discretion of the exchanges. The cash and 
+derivative segments could have common personnel, trading terminal and infrastructure. 
+The committee specified the areas in the derivative segment which should be separate 
+from the cash segment for the present. These are as under:- 
+
+•  The legal framework governing trading, clearing & settlement of the Derivative 
+segment should be separate form the cash market segment. In other words, the 
+Regulations & Bye-laws of derivative segment, as the case may be for specific 
+exchanges, should be separate. 
+
+•  TGF/SGF of the derivative segment should be separate form the cash market 
+segment and merging / pooling of TGF/SGF may be considered at a later date. 
+•  Membership of the derivative segment should be separate from the cash market 
+
+segment. 
+
+•  The Governing Council / Clearing Council / Executive Committees of the 
+
+derivative segment should be separate from the cash market segment.   
+
+ 
+
+24 
+
+ 
+
+5.2  Sub brokers 
+
+The LCGC Report made no mention of sub brokers though it recommended a two tier 
+market structure consisting of trading members and trading members. 
+
+The ACD has discussed the issue of sub brokers on several occasions. Its view has 
+consistently been that there can be no compromise on  
+
+(a)  client level gross margins  
+
+(b) regulation of sales practices at client level.  
+
+Sub brokers as they operate in cash market are inconsistent with this. However, the ACD 
+has consistently taken the view that other forms of multi-tier broking relationships are 
+possible consistent with the above two requirements.  
+
+•  The Trading member – Clearing Member structure itself is two-tier structure and 
+
+the regulatory regime imposes no minimum capital requirement on trading 
+members as the clearing member is responsible for all settlement obligations. It is 
+therefore possible for a sub broker to be registered as a trading member with fairly 
+low capital requirements. The ACD has also been of the view that exchanges 
+should be allowed to use any terminology that they like for such sub-broker 
+turned trading member so long as they are registered with SEBI as trading 
+members. 
+
+• 
+
+It is also possible to adopt a remisier model in which client of the sub broker 
+receive contract notes issued in the name of and on behalf of the main broker. 
+
+The ACD is of the view that SEBI should be open to any proposal from the exchanges for 
+assimilating sub brokers into the market structure so long as these are consistent with the 
+twin requirements of client level gross margins and regulation of sales practices at client 
+level. 
+
+5.3  Inspection 
+
+The LCGC recommended 100% inspection of all derivative brokers every year: 
+
+“The Committee also feels that every derivative trader/member (not just 10 per cent 
+of them) should be inspected by the derivative exchange annually, both to provide 
+guidance in the initial years and to check compliance. This is particularly important 
+at the initial stage of derivatives trading. The derivative exchange should be required 
+to have a strong inspection department. Its staff should be given specialised training 
+for the purpose.” (Paragraph 4.6) 
+
+The advisory committee reviewed the recommendation of 100% inspection of trading / 
+clearing members in a year by the LCGC. The committee was informed that while 
+reviewing the functioning of derivative segment of the two exchanges (NSE and BSE), 
+SEBI had observed that in an effort to complete 100% inspection the quality of inspection 
+
+ 
+
+25 
+
+ 
+
+was being compromised. The Exchanges also agreed with the observation of SEBI and 
+requested that the condition of 100% inspection be done away with as it is practically 
+difficult to inspect all members irrespective of their share in the total trading in the 
+market. 
+
+The advisory committee after deliberating on the issue was of the view that inspection 
+should be linked to the level of activity of the member and other criteria as the 
+circumstances demand. The committee was of the view that condition of 100% inspection 
+may be done away with and the quantum of members to be inspected could be linked to 
+the cost and benefit of inspections and the criteria decided in this regard. The Exchange 
+should work out an appropriate inspection strategy in consultation with SEBI. This 
+inspection strategy should lay down: 
+
+the criteria for identifying the top members to be taken up for 100% inspection 
+
+• 
+• 
+•  mechanisms to ensure that active members do not go uninspected for several 
+
+the percentage of remaining members to be inspected on a sampling basis 
+
+years in succession 
+
+5.4  Surveillance 
+
+The committee also deliberated on the issues which would be covered in the Surveillance 
+Systems / Mechanism in the derivative markets. While many aspects of surveillance 
+would be the same for derivatives and for other securities, the committee felt that some 
+areas of differences do exist. In particular, the Committee is of the view that the 
+exchanges should consider developing a specific stock watch system for derivative 
+markets. The cash market surveillance mechanism may not meet all the requirements of 
+the derivatives market. Some of the important issues that arise are as follows: 
+
+•  There should be monitoring of open interest, cost of carry, impact cost, and 
+
+volatility. The open positions in the derivative market should be seen in 
+conjunction with the open positions in the cash market i.e. the position deltas 
+should be monitored. 
+
+•  The timing of information disclosure by corporates should be monitored as this 
+could influence the prices of the contract at the time of contract introduction and 
+expiry. 
+
+•  Strike prices with large open positions should be monitored as such strike prices 
+
+could be a target price to be achieved in the cash market to derive maximum 
+benefit from the derivative position.   
+
+• 
+
+ 
+
+It is also necessary to monitor contract expirations very carefully. The ACD has 
+sometimes reviewed this on an ad hoc basis. For example, in one of its meetings, 
+it reviewed the contract expirations coinciding with large volumes and high 
+volatility on February 28, 2002 (budget announcement) and March end (close of 
+
+26 
+
+ 
+
+the financial year). Both BSE & NSE submitted details of the analysis that they 
+had carried out in this regard and stated unequivocally that there were no risk 
+management or market integrity concerns associated with these expirations. 
+Expiration monitoring should be done systematically from a surveillance point of 
+view. 
+
+•  Unified surveillance of the cash and derivatives markets is essential both at the 
+
+exchange level and at the level of SEBI. 
+
+•  SEBI and the Exchanges should study surveillance practices in various global 
+equity derivative markets. Surveillance practices in global commodities and 
+bullion derivative markets could also be studied where appropriate as some of the 
+well publicized cases of market manipulation in derivatives have been in these 
+markets. Case studies on some market manipulations in various derivatives 
+markets could be looked at to see what lessons could be drawn. 
+
+5.5  Physical Settlement 
+
+The LCGC Report took it for granted that physical settlement would be used for 
+derivative contracts on individual stocks: 
+
+“In the case of individual stocks, the positions which remain outstanding on the 
+expiration date will have to be settled by physical delivery. This is an accepted 
+principle everywhere.” (Paragraph 2.8(5)) 
+
+However, when single stock derivatives were introduced in India, it was decided to use 
+cash settlement to begin with because the exchanges did not then have the software, legal 
+framework and administrative infrastructure for physical settlement. It was proposed that 
+cash settlement would be replaced by physical settlement within a period of six months as 
+the exchanges developed the capabilities to achieve physical settlement efficiently. 
+
+In April 2002, the ACD proposed a broad framework for physical settlement. The SEBI 
+Board desired that the committee should present a report highlighting the risks and 
+benefits of physical settlements along with possible risk containment measures. 
+
+Accordingly, the ACD reconsidered its recommendation on the risks and benefits of 
+physical settlement. The ACD notes the principal issues involved in physical settlement: 
+
+• 
+
+In the absence of a vibrant mechanism for securities lending and borrowing, 
+physical settlement of stock specific derivative contracts, especially stock options, 
+may raise concerns on the possibility of a short squeeze.  
+
+•  Globally, cash settlement is cheaper than physical settlement, but the economics 
+may be less clear cut in India where the modernization of the payment system has 
+lagged that of the securities settlement system. 
+
+•  Under the existing procedure of cash settlement, hedgers and arbitrageurs incur 
+overnight price risk for liquidating one leg of the transaction in the cash markets. 
+
+ 
+
+27 
+
+ 
+
+A hedger (who by definition has a position in the underlying) would have to 
+liquidate that position in the cash market and then bears the risk that the price 
+realized in the cash market would differ from the settlement price used for cash 
+settlement in the derivative markets. The same argument applies to arbitrageurs. 
+Speculators on the other hand would find cash settlement beneficial since they do 
+not (by definition) have an offsetting cash market position and cash settlement 
+saves them the burden of operating in two markets. Physical settlement of 
+derivative contract helps hedgers and arbitragers avoid basis risk while imposing 
+some additional costs on speculators.  
+
+The committee is of the view that the regulatory regime should be more in tune with the 
+requirements of hedgers and arbitrageurs than the needs of speculators. For this reason, it 
+recommends physical settlement which protects hedgers and arbitrageurs from basis risk 
+in the settlement process8. At the same time, the Committee recognizes the concerns 
+regarding short squeezes in physical settlement. To address these concerns, the 
+committee recommends the following measures to reduce the risk of short squeeze: 
+
+•  The exchanges should lay down limits on daily exercise and assignment of stock 
+
+options. Since these options are American, the squeeze can arise at any time 
+during the contract cycle. Daily limits on exercise and assignment limit the ability 
+to squeeze the market in the middle of the contract month. 
+
+•  That leaves the possibility of a short squeeze at expiry. One important defence 
+
+against this is the position limits that apply in the derivative market. In fact, 
+market manipulation can take place even under cash settlement and position limits 
+are the principal defence available to the regulator. 
+
+•  The Committee also believes that there is greater need for surveillance as the 
+
+contract approaches expiry. Large positions tend to be closed out or rolled over 
+into the next contract month as the contract approaches expiry. Large positions 
+that are maintained or enhanced during the last days of the life of the contract 
+need to be monitored closely. 
+
+                                                
+
+8 An alternative approach would be to examine changes in contract design and market 
+microstructure that would eliminate the basis risk for hedgers and arbitrageurs even under 
+cash settlement. Essentially, these would require that hedgers and arbitrageurs have the 
+ability to achieve guaranteed execution in the cash market at the settlement price. 
+Mechanisms like “settle at the open” where the “open” is arrived at through a call auction 
+would come in this category. An active call market at the “open” or “close” where a 
+single market-clearing price emerges out of a large number of buy & and large number of 
+sell orders would make cash settlement an attractive option. Such a mechanism would be 
+particularly important in the case of the index, where guaranteed execution at the closing 
+price perfectly fits the trading needs of index funds and index arbitrageurs.  
+
+ 
+
+28 
+
+ 
+
+•  Greater availability of information is another powerful force to guard against 
+market manipulation (regardless of whether the settlement is cash or physical). 
+Information on large positions must be disclosed to the market on a regular basis 
+and the exchanges should be empowered and encouraged to disclose information 
+in greater detail especially towards contract expiry. 
+
+The committee therefore recommends that derivatives on individual stocks should shift to 
+physical settlement. The committee also recommends that physical settlement be 
+implemented for all stock based derivative product simultaneously by giving at least 45 
+days notice to the market. However, Mr. Vaidyanath stated that the BSE is apprehensive 
+of short squeezes in absence of efficient stock borrowing and lending mechanism and 
+would like the choice of implementing physical settlement to be left to the exchange. 
+
+As regards the mechanism of physical settlement, three different models appear to be 
+prevalent globally: 
+
+1.  At one extreme is the system of completely separate and independent settlement 
+
+processes for derivatives and cash equities. This might be a reasonable description 
+of the London Clearing House (LCH)’s independent settlement processes for 
+Liffe and LSE. However, LCH settlement systems have been continuously 
+evolving and LSE/LCH started net settlement of cash equities only recently. 
+
+2.  Use cash market transactions to settle derivatives. This might be a reasonable 
+
+description of what MEFF does in Spain. In this model, every derivatives member 
+must appoint a cash market member to carry out the execution of cash market 
+transactions deriving from the exercise or settlement of derivative contracts traded 
+by it for itself or on behalf of its clients.  
+
+3.  Use cash market clearing corporation to settle derivatives. This might be a 
+
+reasonable description of what the Option Clearing Corporation (OCC) does in 
+the US. Under this model, settlement obligations among derivative market 
+members resulting from the exercise or settlement of derivatives are discharged 
+through a cash market clearing corporation. The OCC carries this model further 
+by stipulating that “When an exercise is submitted to a stock clearing corporation 
+for settlement and not rejected by it, the responsibility for completing the 
+settlement passes from OCC to the stock clearing corporation. … After that time, 
+OCC has no further responsibility to its Clearing Members for the exercise. 
+Instead, rights and responsibilities run between the exercising and assigned 
+Clearing Members and the stock clearing corporation” (OCC, Rule 913).  
+
+The ACD is of the view that the first model (completely separate settlement) would 
+require a duplication of the entire settlement infrastructure in the derivatives market 
+clearing corporation without any attendant benefits. At the same time, the second model 
+(settlement through cash market transactions) commingles the cash and derivative 
+markets and is undesirable as the cost and efficiency benefits of that model could be 
+achieved by intertwining the two clearing corporations rather than the two markets 
+themselves.  
+
+ 
+
+29 
+
+ 
+
+Accordingly, the ACD recommends the third model: the mechanism of physical 
+settlement should be such that at no point in time are trades on the derivative segment 
+commingled with trades on cash market. However, the clearing corporation9 of the 
+derivative segment could use the facility of the clearing corporation of cash market as its 
+agent.  
+
+This would neither dilute the guarantee mechanism nor would it cast a burden on Trade 
+guarantee fund of the other segment. The role of clearing corporation of derivative 
+segment and clearing corporation of the cash segment would be defined in an 
+agreement/arrangement which could be in line with the agreement between the various 
+clearing corporations which are carrying out clearing between two markets 
+internationally.  
+
+The committee considered the need of reducing the cost of transaction by giving margin 
+benefit in the case of offsetting position in cash and derivative market. The committee 
+was of view that it would be better to implement cross margining in cash and derivative 
+market instead of merging the trades in cash and derivative market. The 
+recommendations in this regard are outlined in 4.2. However, until full fledged cross 
+margining is adopted, there should be a margin offset only for deliverable positions. 
+
+In the light of the above broad policy framework, committee recommends the following 
+operational parameters for physical settlement: 
+
+•  Clearing Corporation of the cash market would act as an agent10 of the clearing 
+corporation of the derivative segment, for clearing the exercised / expired stock 
+option and stock futures contracts. The delivery obligation at the Trading Member 
+level in the derivative markets would be settled through the cash market clearing 
+corporation as per the delivery mechanism prevalent in the cash market clearing 
+corporation. 
+
+•  The trading member of the derivative market would enter into an 
+
+agreement/arrangement with a clearing member of the cash market and such 
+clearing member of the cash market would act as an agent of the trading member/ 
+clearing member of the derivative market for the purpose of settling the delivery 
+obligation of such member.  
+
+                                                
+
+9 The term clearing corporation is used in this report to include a clearing house. 
+
+10 Where the clearing corporation of the cash and derivative segments are the same legal 
+entity, the agency “agreement” between the two clearing corporations would be an 
+arrangement regarding settlement, margining and use of guarantee funds. However, the 
+term agent is used to cover the general case where the clearing corporations may be 
+distinct legal entities. 
+
+ 
+
+30 
+
+ 
+
+•  The Clearing Corporations of the Cash segment and the Derivative segment may 
+
+enter into an agreement/arrangement which could address the issues of risk 
+management, cross margining system, and the other concerned areas. In the event 
+of default the proportion in which the burden of default would be shared between 
+the Settlement Guarantee Funds of cash and derivative segment, could also be 
+specified in the agreement/arrangement. 
+
+•  Similarly, a tripartite agreement between the client, the trading member of 
+
+derivative segment and the clearing member of the cash segment could be entered 
+which could specify issues pertaining to delivery offsets, margin requirement and 
+any other concerned issue.  
+
+•  The delivery obligation of the derivative segment would be netted at Trading 
+
+Member level and passed on to the clearing member of the cash market for 
+settlement as an agent. 
+
+•  To allow option writers to deliver stock in time, one day’s notice shall be given 
+for the exercise of options. On exercise, the delivery would be settled in the time 
+frame specified in the cash market. 
+
+•  The margin set off at the client level would be made available by adopting the 
+
+cross margining between the clearing corporation of derivatives segment and the 
+cash segment as outlined in 4.2.  
+
+•  The ‘effective date’ from which stock futures and stock option contracts change to 
+
+physical settlement mode should coincide with the date of inception of a new 
+contract month. From the ‘effective date’ the outstanding stock futures and stock 
+option contracts, would also change to physical settlement, though at inception, 
+these contracts were stated to be for cash settlement.  
+
+•  The ‘effective date’ for physical settlement should be announced 45 days in 
+
+advance. 
+
+6  Use of Derivatives by Mutual Funds 
+
+The LCGC recommended that mutual funds should be permitted to use derivatives for 
+hedging and portfolio rebalancing: 
+
+“Mutual funds should be allowed to use financial derivatives for hedging purposes 
+(including anticipated hedging) and portfolio re-balancing within a policy framework 
+and rules laid down by their Board of Trustees who should specify what derivatives 
+are allowed to be used, within what limits, for what purposes, for which schemes, 
+and also the authorisation procedure.”  (Paragraph 7.10) 
+
+“The offer documents of mutual fund schemes should disclose whether the scheme 
+permits the use of derivatives and the details in this regard. Also the income and 
+
+ 
+
+31 
+
+ 
+
+balance sheet of each mutual fund scheme would have to disclose the impact of 
+derivatives trading and of any open position in this regard.”   (Paragraph 7.12) 
+
+The ACD discussed the issue of mutual funds’ participation in derivatives at great length. 
+On the one hand, there was the question of whether mutual funds should be allowed to go 
+beyond hedging and portfolio rebalancing. On the other hand, there were a number of 
+questions about what the term “hedging and portfolio rebalancing” actually means.  
+
+After considerable discussion, the Committee was of the view that it is necessary to 
+distinguish between  
+
+1.  New funds that have come to the public with full disclosure of their derivative 
+
+trading strategy. This category would also include existing schemes that undergo 
+the process for changing its fundamental attributes11 to enable the use of 
+additional derivative strategies. 
+
+2.  Existing funds whose offer documents did not have a complete disclosure of the 
+
+derivative strategies that they would adopt or explicitly limited the use of 
+derivatives to “hedging and portfolio rebalancing”.  
+
+The ACD believes that for new schemes, the regulatory regime should rely on full 
+disclosure of risks. There should be no bar on innovations by mutual funds so long as 
+investors come into the fund with full knowledge. For existing schemes, it is necessary to 
+stick to “hedging and portfolio rebalancing” and the Committee has tried to elaborate on 
+the meaning of this term. 
+
+6.1  New Schemes: Utilising mainstream governance and disclosure mechanisms 
+
+Under normal circumstances, the trading strategies and ideas in portfolio management 
+used by the AMC should be fully disclosed in the offer document, and the AMC should 
+
+                                                
+
+11 Regulation 15A of the mutual fund regulations provides: 
+
+“The trustees shall ensure that no change in the fundamental attributes of any scheme or 
+the trust or fees and expenses payable or any other change which would modify the 
+scheme and affects the interest of unitholders, shall be carried out unless, - 
+
+(i) a written communication about the proposed change is sent to each unitholder and an 
+
+advertisement is given in one English daily newspaper having nationwide 
+circulation as well as in a newspaper published in the language of the region where 
+the Head Office of the mutual fund is situated; and 
+
+(ii) the unitholders are given an option to exit at the prevailing Net Asset Value without 
+
+any exit load.” 
+
+ 
+
+ 
+
+32 
+
+ 
+
+be closely interacting with the trustees who perform governance functions on behalf of 
+investors on all aspects of the operations of the scheme. In this environment, the role of 
+SEBI is limited to certain improvements in disclosure norms, using which mutual funds 
+would give investors and potential investors sound information about the portfolio 
+strategies associated with a given scheme. 
+ 
+Hence, the first mechanism through which mutual fund schemes can engage in 
+derivatives trading consists of three steps: 
+
+1.  Additional text in the prospectus which fully explains the ways in a given scheme 
+
+would use financial derivatives, including numerical examples, 
+
+2.  An ongoing dialogue with the trustees, whereby the trustees would establish that 
+
+the actual functioning of the AMC is consistent with these promises, 
+
+3.  An enhanced disclosure program (described in 6.3 below). 
+
+By these principles, if a mutual fund house can persuade investors that a beta=5 
+leveraged equity index fund is an attractive product, and thus raise resources which 
+should be deployed through such a strategy, then it should be free to implement this using 
+index futures and/or index options. 
+ 
+This path can be utilised when new schemes are created. For existing mutual fund 
+schemes, utilising this path involves a modification to the offer document, which entails 
+obtaining the consent of existing unit-holders. 
+
+6.2  Existing Schemes: Rules governing hedging and portfolio rebalancing. 
+
+The bulk of mutual fund assets today are in existing open-end schemes. It is likely that 
+the bulk of new resources coming into mutual funds in the future will come into open-end 
+schemes that exist as of today. In the absence of any changes to a mutual fund prospectus, 
+the rules governing derivatives trading by mutual funds should limit mutual funds to 
+certain strategies: 
+
+1.  Portfolio rebalancing 
+2.  Hedging 
+
+The following paragraphs (6.2.1, 6.2.2 and 6.2.3) illustrate in more detail some of the 
+portfolio strategies that could be classified as constituting ‘portfolio rebalancing’ or 
+‘hedging’ as well some strategies that cannot be so classified. These illustrations are not 
+intended to be exhaustive. 
+
+6.2.1  What does hedging mean? 
+
+The term hedging is fairly clear. It would cover derivative market positions that are 
+designed to offset the potential losses from existing cash market positions. Some 
+examples of this are as follows: 
+
+ 
+
+33 
+
+ 
+
+•  An income fund has a large portfolio of bonds. This portfolio stands to make 
+
+losses when interest rates go up. Hence, the fund may choose to short an interest 
+rate futures product in order to offset this loss. 
+
+•  An income fund has a large portfolio of corporate bonds. This portfolio stands to 
+
+make losses when credit spreads of these bonds degrade or when defaults take 
+place. Hence, the fund may choose to buy credit derivatives which pay when 
+these events happen. 
+
+•  Every equity portfolio has exposure to the market index. Hence, the fund may 
+
+choose to sell index futures, or buy index put options, in order to reduce the losses 
+that would take place in the event that the market index drops. 
+
+The regulatory concerns are about (a) the effectiveness of the hedge and (b) its size. 
+ 
+“Hedging” a Rs.1 billion equity portfolio with an average beta of 1.1 with a Rs. 1.3 
+billion short position in index futures is not an acceptable hedge because the over hedged 
+position is equivalent to a naked short position in the future of Rs. 0.2 billion. Similarly, 
+“hedging” a diversified equity portfolio with an equal short position in a narrow sectoral 
+index would not be acceptable because of the concern on effectiveness. A hedge of only 
+that part of the portfolio that is invested in stocks belonging to the same sector of the 
+sectoral index by an equal short position in the sectoral index futures would be 
+acceptable. 
+ 
+“Hedging” an investment in a stock with a short position in another stocks’ futures is not 
+an acceptable hedge because of effectiveness concerns. This would be true even for 
+merger arbitrage where long and short positions in two merging companies are combined 
+to benefit from deviations of market prices from the swap ratio.  
+
+Hedging with options would be regarded as over-hedging if the notional value of the 
+hedge exceeds the underlying position of the fund even if the option delta is less than the 
+underlying position. For example, a Rs.2 billion index put purchased at the money is not 
+an acceptable hedge of a Rs.1 billion, beta=1.1 fund though the option delta of 
+approximately Rs. 1 billion is less than the underlying exposure of the fund of Rs. 1.1 
+billion.  
+
+Covered call writing is hedging if the effectiveness and size conditions are met. Again the 
+size of the hedge in terms of notional value and not option delta must not exceed the 
+underlying portfolio.  
+
+The position is more complicated if the option position includes long calls or short puts. 
+The worst-case short exposure considering all possible expiration prices (see 6.2.3 below) 
+should meet the size condition. 
+
+ 
+
+34 
+
+ 
+
+6.2.2  What does portfolio rebalancing mean?  
+
+The use of derivatives for portfolio rebalancing covers situations where a particular 
+desired portfolio position can be achieved more efficiently or a lower cost using 
+derivatives rather than cash market transactions. The basic idea is that the mutual fund 
+has a fiduciary obligation to its unit holders to buy assets at the best possible price. 
+
+Thus if it is cheaper (after adjusting for cost of carry) to buy a stock future rather than the 
+stock itself, the fund does have a fiduciary obligation to use stock futures unless there are 
+other tangible or intangible disadvantages to using derivatives. Similarly, if a synthetic 
+money market position created using calendar spreads is more attractive than a direct 
+money market position (after adjusting for the credit worthiness of the clearing 
+corporation), the fund would normally have a fiduciary obligation to use the calendar 
+spread. If a fund can improve upon a buy-and-hold strategy by selling a stock or an index 
+portfolio today, investing the proceeds in the money market, and having a locked-in price 
+to buy it back at a future date, then it would have a fiduciary obligation to do so. 
+
+The general principle here would be that a fund is permitted to do using derivatives 
+whatever it could have done directly - no more and no less. For example, a fund’s 
+position in a stock -underlying and derivatives taken together - should be within the 
+fund’s maximum permissible limit in the stock. For this purpose, stock option long calls 
+should be counted as notional value. The position is more complicated if there are short 
+calls or long puts. The worst-case long exposure considering all possible expiration prices 
+(see 6.2.3 below) should be less than the fund’s permissible limit.  
+
+There is another complication in case of long index positions. One could regard this as an 
+equivalent exposure in each constituent of the index. This may be severely limiting where 
+the fund already has a long position in a stock which has a long weight in the index. 
+Another possibility is to say that a fund is permitted to deploy any part of its assets in a 
+broad index and a sectoral fund is permitted to do the same in a sectoral index. Then the 
+stock wise limits would be applied to the remaining part of the portfolio.  
+
+In any case, a long index position cannot be used to leverage a portfolio beyond the 
+leverage that is otherwise permissible. Thus a fund with Rs.1 billion assets cannot have a 
+Rs. 1.5 billion notional value of long index futures and index options. 
+
+6.2.3  Computation of worst case exposure for complex option positions 
+
+We use a simple example to illustrate the worst case exposure method of determining 
+whether a portfolio of option positions on the same underlying is an acceptable “hedging 
+and portfolio rebalancing” strategy. Considering the following stock option strategy: 
+
+a.  Long call options on 5 million shares at a strike price of Rs 80. 
+
+b.  Long put options on 2 million shares at a strike price of Rs 90 
+
+c.  Short call options on 1 million shares at a strike price of Rs 110 
+
+ 
+
+35 
+
+ 
+
+d.  Long put options on 3 million shares at a strike price of Rs 120 
+
+e.  Long call options on 4 million shares at a strike price of Rs 130 
+
+f.  Short call options on 3 million shares at a strike price of Rs 140 
+
+Since the fund has a bullish position on 9 million shares (a plus e) and a bearish position 
+on 9 million shares (b plus c plus d plus f), its option delta could be comparatively small 
+especially when the stock price is not far from the weighted average strike price. 
+However, depending on what the stock price turns out to be at expiry, only some of the 
+options will end up in the money and will therefore get exercised by or against the fund. 
+Consequently, the fund could end up with a long or short position in the stock at expiry 
+depending on what the stock price turns out to be at that point of time. The worst case 
+long and short exposures can be worked out as follows: 
+
+Price at expiry 
+
+Options that end up in the 
+money and therefore get 
+exercised by or against the 
+fund 
+
+Net number of shares (short 
+or long) the fund ends up 
+holding as a result of the 
+option exercises 
+
+Below 80 
+
+80-90 
+
+90-110 
+
+110-120 
+
+120-130 
+
+130-140 
+
+above 140 
+
+ 
+
+b and d 
+
+a, b and d 
+
+a and d 
+
+a, c and d 
+
+a and c 
+
+a,  c and e 
+
+a, c, e and f 
+
+5 million shares short 
+
+nil 
+
+2 million shares long 
+
+1 million shares long 
+
+4 million shares long 
+
+8 million shares long 
+
+5 million shares long 
+
+The worst case short exposure arises when the share price at expiry is below 80 and the 
+fund ends up delivering 5 million shares to exercise the in-the-money puts. This would be 
+an acceptable level of hedging only if the fund’s position in the underlying and the 
+futures were at least 5 million shares. 
+
+Its worst case long position (8 million shares) is when the share price is above 130 and 
+below 140. The fund receives 9 million shares from exercising its in-the-money calls (a 
+and e) and delivers 1 million shares against its short calls (c) which are also in the money. 
+This means that the fund can take up this option strategy only if this 8 million shares plus 
+its position in the underlying shares and futures is together less than the maximum 
+permissible limit for the fund’s holding in the stock. 
+
+ 
+
+36 
+
+ 
+
+The fund must therefore satisfy two conditions before it can take up this option strategy 
+as part of “hedging and portfolio rebalancing”: 
+
+• 
+
+• 
+
+the fund’s position in the underlying and the futures must be at least 5 million 
+shares so that the position does not become over-hedged 
+
+the fund’s existing position in the underlying shares and futures plus the 8 million 
+shares worst case long exposure of the option strategy must together be less than 
+the maximum permissible limit for the fund’s holding in the stock 
+
+Some fund managers may regard the worst case exposure analysis as an excessively 
+harsh view of what they might consider a legitimate and relatively low risk derivative 
+strategy. In particular, it might be objected that the worst case long exposure of 8 million 
+shares should be treated more leniently since it applies only in a narrow range of share 
+prices (130-140). The Committee is however of the view that even if strategies of this 
+kind are attractive and low risk ways of creating and profiting from gamma and vega 
+exposures to a stock, the creation of such exposures does not per se constitute “hedging 
+and portfolio rebalancing”. To justify the strategy in a “hedging and portfolio 
+rebalancing” framework, it is necessary to show that the worst case short position 
+resulting from the strategy is an acceptable hedging activity and that the worst case long 
+position resulting from it is an acceptable portfolio rebalancing activity. 
+
+6.3  Ongoing disclosure requirements 
+
+In addition to the existing disclosures, each mutual fund scheme should make the 
+following information available to investors and to the public at large on its website at a 
+monthly frequency: 
+
+•  Gross turnover on derivatives, reported separately by product categories (such as 
+
+index futures, index options, stock futures, etc.). 
+
+•  Outstanding position on derivatives as of the end-of-month, reported separately 
+
+by product categories. 
+
+•  Lowest, median and highest values in the month of the overall scheme delta with 
+respect to the market index. This should report the sensitivity of the portfolio to a 
+unit change in the market index, incorporating direct equity holdings, index 
+derivatives positions and stock derivatives positions. Internally, these values 
+would be computed by each scheme which uses derivatives every day at closing 
+prices. The three summary statistics (min, median, max) over the month would be 
+publicly reported.  
+
+• 
+
+ 
+
+If adding the derivative positions to the positions in the underlying would 
+significantly change the list or ranking of the top 10 stocks in the portfolio, the top 
+10 holdings on the basis of underlying plus single stock derivative positions 
+should be disclosed alongside the disclosure of the top 10 holdings of the scheme. 
+For this purpose, option positions will be converted into equivalent positions in 
+
+37 
+
+ 
+
+the underlying on the basis of the option deltas. The same procedure should be 
+adopted if the scheme’s positions in derivatives on any “narrow” index are such 
+as to significantly change the list or ranking of the top 10 stocks in the portfolio. 
+
+7  SEBI Related Issues 
+
+7.1  Derivatives Cell and Advisory Committee 
+
+The LCGC very rightly emphasised the need for SEBI to build competencies in the area 
+of derivatives: 
+
+“SEBI should immediately create a special Derivatives Cell because derivatives 
+demand special knowledge. It should encourage its staff members to undergo 
+training in derivatives and also recruit some specialised personnel. 
+
+A Derivatives Advisory Council may also be created to tap the outside expertise for 
+independent advice on many problems which are bound to arise from time to time in 
+regard to derivatives.” (Paragraph 4.11(b)) 
+
+The Advisory Committee on Derivatives has been in existence for a year now. Prior to 
+that there was a Technical Group on Derivatives for about a year. Most of the ground 
+work on derivatives has been completed in these two years. Going forward, two sets of 
+issues will arise: 
+
+•  Operational issues will continue to come up on various aspects of the derivatives 
+markets. The ACD is of the view that SEBI must now gear up to handle this with 
+in-house staff. The SEBI Derivatives Cell has been in existence for several years 
+now and has acquired significant expertise in the area. While LCGC felt the need 
+for external advice to handle the “many problems which are bound to arise from 
+time to time in regard to derivatives”, the ACD thinks that the derivatives cell is 
+now ready to accept this additional responsibility. If necessary, the Derivatives 
+Cell can be further strengthened through new recruitment and skills upgradation.  
+•  A number of issues will arise regarding the interrelationship between the cash and 
+derivatives markets particularly in the areas of risk containment and surveillance. 
+Surveillance issues must largely be an in-house function and this report has 
+recommended unified surveillance of the two markets (see 5.4 above). In the area 
+of risk management,  there is a need to create mechanisms that can facilitate an 
+integrated view of risk management in both cash and derivative markets 
+simultaneously 
+
+Accordingly, the ACD recommends: 
+
+•  Strengthening of the Derivative Cell both quantitatively and qualitatively to 
+
+shoulder most of the responsibility for operational issues regarding the derivatives 
+market. 
+
+ 
+
+38 
+
+ 
+
+ 
+
+•  Strengthened unified surveillance of the cash and derivative markets as described 
+
+in 5.4 above. 
+
+• 
+
+ Develop mechanisms to facilitate an integrated view of risk management in both 
+cash and derivative markets simultaneously 
+
+39 
+
+ 
+
+7.2  SEBI and RBI 
+
+The Committee recommends that SEBI and RBI should work together on moving 
+towards exchange traded derivatives in the area of interest rates and currencies as 
+outlined in 3.1 above. 
+
+ 
+
+40 
+
+ 
+
+Appendix A: Methodology for Corporate Adjustments 
+
+Methodology laid down in SEBI Circular of June 2001 
+
+Bonus, Stock Splits and Consolidations: 
+
+For Bonus, Stock Splits and Consolidations: 
+
+•  The new strike price shall be arrived at by dividing the old strike price by the 
+
+adjustment factor as under.  
+
+•  The new market lot / multiplier shall be arrived at by multiplying the old market 
+
+lot by the adjustment factor as under.  
+
+•  The new position shall be arrived at by multiplying the old position by the 
+
+adjustment factor as under.  
+
+Bonus  
+
+Ratio = A:B Adjustment factor = (A+B)/B  
+
+Stock Splits and Consolidations  
+
+Ratio = A:B Adjustment factor = A/B  
+
+Right  
+
+Ratio = A:B Premium = C Face Value = D Existing Strike Price = X  
+
+New Strike Price = ((B * X) + A * (C + D))/(A+B)  
+
+Existing Market Lot / Multiplier / Position = Y  
+
+New issue size = Y * (A+B)/B  
+
+Rounding of fractional adjustments 
+
+The above methodology may result in fractions due to the corporate action e.g. a bonus 
+ratio of 3:7. With a view to minimizing fraction settlements, the following methodology 
+is proposed:  
+
+1.  Compute value of the position before adjustment 
+2.  Compute value of the position taking into account the exact adjustment factor 
+3.  Carry out rounding off for the Strike Price and Market Lot 
+4.  Compute value of the position based on the revised strike price and market lot 
+
+ 
+
+41 
+
+ 
+
+The difference between 1 and 4 above, if any, shall be by adjusted in the Strike Price or 
+Market Lot, so that no forced closure of open position is mandated. 
+
+Dividends 
+
+Dividends which are below 10% of the market value of the underlying stock would be 
+deemed to be ordinary dividends and no adjustment in the Strike Price would be made for 
+ordinary dividends. For extra-ordinary dividends, above 10% of the market value of the 
+underlying stock, the Strike Price would be adjusted. 
+
+Decisions of the erstwhile sub group on corporate adjustments 
+
+Adjustment of the Extra Ordinary dividend in Stock Options 
+
+•  To decide whether the dividend is ‘Extra Ordinary’ (i.e. over 10% of the market 
+price of the underlying stock), the market price would mean the closing price of 
+the scrip on the day previous to the date on which announcement of the dividend 
+is made by the company after the meeting of the Board of directors. However, in 
+cases where the announcement is made after the close of the market hours, the 
+same day’s closing prices would be taken as the market price. Further, if the 
+shareholders of the company in the AGM change the rate of dividend declared by 
+the Board of Directors, than to decide whether the dividend is extra ordinary or 
+not would be based on the rate of the dividend communicated to the exchange 
+after AGM and the closing price of the scrip on the day previous to the date of 
+AGM. 
+
+• 
+
+In case of declaration of extra ordinary dividend by any company the total 
+dividend amount (special and/or ordinary) would be reduced from all of the strike 
+prices of the option contracts on that stock. 
+
+•  The revised strike prices would be applicable from the ex-dividend date specified 
+
+by the exchange. 
+
+Adjustment of the Extra Ordinary dividend in Stock Futures 
+
+An adjustment should be made in the reference price of Single Stock Futures Contracts 
+on ex-dividend date for extra ordinary dividends, in line with the policy followed for 
+Stock options. The adjustment should be such that the buyer of the Single Stock Futures 
+contracts receives the dividend. Consequently, the reference rate for the purpose of Mark 
+to Market settlement of Single Stock Futures on the ex-dividend date would be reduced 
+by the value of the extra ordinary dividend. 
+
+Adjustments of the derivatives contracts due to mergers of two companies 
+
+•  During the announcement of the record date, the last cum-date would be known; 
+
+the announcement giving the exact date of expiration may be informed to the 
+market in individual cases.  
+
+ 
+
+42 
+
+ 
+
+ 
+
+ 
+
+•  After the announcement of the record date, no fresh contracts would be 
+
+introduced in that underlying which would cease to exist subsequent to the 
+merger.  
+
+•  Un-expired contracts outstanding as on the last cum-date would be compulsorily 
+settled at the settlement price. The settlement price shall be the closing price of 
+the underlying. 
+
+• 
+
+In case of the introduction of contracts of longer duration, this policy along with 
+other policies of corporate adjustment may require a review.  
+
+43 
+
+

@@ -1,0 +1,668 @@
+Primary market debt offering through private placement on electronic book 
+
+Consultation paper 
+
+ 
+
+1.  Background 
+
+Over the past several years, various measures have been taken by SEBI, Government and RBI 
+
+for  development  of  the  corporate  bond  markets.    The  Indian  corporate  bond  market  has 
+
+evolved gradually over a period of time.   
+
+ 
+
+SEBI notified the regulatory framework for issue and listing of corporate bonds through SEBI 
+
+(Issue  and  Listing  of  Debt  Securities)  Regulations,  2008.    This  regulatory  framework 
+
+prescribed  a  disclosure  based  regime,  whereas  the  earlier  regime  required  mandatory 
+
+investment  grade  rating  for  public  issues.    The  total  primary  market  issuance  has  increased 
+
+from Rs.1,74,781 crore in 2008-09 to Rs. 4,13,558 crore in 2014-15.  
+
+ 
+
+A.  Table  showing  amount  raised  through  public  and  private  placement  issuances  of 
+
+corporate bonds: 
+
+Financial 
+
+No.  of 
+
+Amount 
+
+No. 
+
+of 
+
+Amount 
+
+Total 
+
+Private 
+
+year 
+
+(A) 
+
+public 
+
+raised 
+
+private 
+
+raised 
+
+amount 
+
+placement 
+
+issues 
+
+through 
+
+placeme
+
+through 
+
+raised 
+
+as 
+
+a 
+
+(B) 
+
+public 
+
+nt 
+
+private 
+
+through 
+
+percentage 
+
+issue (Rs. 
+
+(D) 
+
+placeme
+
+public  issue 
+
+of 
+
+ 
+
+total 
+
+crore) 
+
+(C) 
+
+nt 
+
+(Rs. 
+
+and 
+
+pvt. 
+
+corporate 
+
+crore) 
+
+placement 
+
+bond 
+
+(E) 
+
+(Rs. crore) 
+
+issuances  
+
+(F) 
+
+(G) 
+
+2008-09 
+
+2009-10 
+
+2010-11 
+
+2011-12 
+
+2012-13 
+
+2013-14 
+
+1 
+
+3 
+
+10 
+
+20 
+
+20 
+
+35 
+
+1,500 
+
+2,500 
+
+9,451 
+
+35,611 
+
+16,982 
+
+42,383 
+
+1041 
+
+173,281 
+
+1278 
+
+212,635 
+
+1404 
+
+218,785 
+
+1953 
+
+261,283 
+
+2489 
+
+361,462 
+
+1924 
+
+276,054 
+
+174,781 
+
+215,135 
+
+228,236 
+
+296,894 
+
+378,444 
+
+318,437 
+
+99% 
+
+99% 
+
+96% 
+
+88% 
+
+96% 
+
+87% 
+
+ 
+
+Page 1 of 7 
+
+2014-15 
+
+2015-16# 
+
+25 
+
+8 
+
+9,713 
+
+3,702 
+
+2611 
+
+404,136 
+
+413,849 
+
+1922 
+
+2,86,650 
+
+2,90,352 
+
+98% 
+
+98% 
+
+#-As on October 30, 2015 
+
+ 
+
+From the above table, it can be seen that public issues of corporate bonds has increased  from 
+
+Rs  1,500  crores  in  2008-09  to  Rs  9,451  crores  in  the  year  2010-11.  Thereafter,  in  the  year 
+
+2011-12,  the  public  issue  of  corporate  bonds  increased  from  Rs  35,611  crores  to  Rs  42,383 
+
+crores  in  the  year  2013-14  due  to  tax  free  bond  issuances  and  consequently  the  issuance 
+
+declined  to  Rs  9,713  crores  in  the  year  2014-15.  Further,  in  case  of  private  placement,  the 
+
+issuances have increased from Rs 173,281 crores in 2008-09 to Rs 404,136 crores in 2014-15.  
+
+It  can  be  also  be  seen  that  in  all  the  financial  years,  private  placement  of  corporate  bonds 
+
+constituted a substantial proportion of the total issuances. 
+
+ 
+
+IOSCO’s  Emerging  Market  Committee  (EMC)  published  a  report  during  November  2011  on 
+
+development  of  corporate  bond  markets  in  the  emerging  markets.    As  per  the  report,  it  has 
+
+been,  inter-alia,  observed  that  aside  from  public  issuance  and  private  placements,  emerging 
+
+markets  (EMs)  have  introduced  hybrid  offer  regimes.  Among  the  EMs  surveyed,  the 
+
+alternative offer regime  carries the  most importance in Malaysia, India, Brazil, and Thailand 
+
+accounting  for  99%,  80%,  70%  and  36%  of  total  issuance,  respectively.    A  hybrid  regime 
+
+refers to issuance frameworks that contain elements of both public and private regimes and 
+
+which  has  lighter  regulatory  requirements  and  are  designed  with  target  investors  of 
+
+corporate bonds in mind – i.e. professional or institutional investors. 
+
+ 
+
+2.  Introduction of Electronic Book for Private Placement  
+
+SEBI  placed  an  agenda  item  on  introduction  of  an  electronic  book  for  primary  market  debt 
+
+offering through private placement before the "Corporate Bonds and Securitization Advisory 
+
+Committee" (CoBoSAC) meeting held in July 2015.  The committee, in-principle, accepted the 
+
+said proposal and recommended the initiation of public consultation process on the captioned 
+
+proposal. 
+
+ 
+
+SEBI  (Issue  and  Listing  of  Debt  Securities)  Regulations,  2008  govern  public  issue  of  debt 
+
+securities  and  listing  of  debt  securities  issued  through  public  issue  or  on  private  placement 
+
+ 
+
+Page 2 of 7 
+
+basis, on a recognized stock exchange.  It has been observed from the available data that the 
+
+majority  of  the  issuances  in  India  take  place  through  private  placement  route,  which  are 
+
+subsequently  listed  on  stock  exchange.    During  financial  year  2014-15,  private  placement 
+
+accounted  for  approximately  98%  of  debt  securities  issuances  that  have  been  subsequently 
+
+listed.  These issues of private placements are usually negotiated by the issuers directly with 
+
+the  investors  such  as  Qualified  Institutional  Buyers  (QIBs)/  High  Net  Worth  individuals 
+
+(HNIs)  or  placed  through  the  arrangers  over-the-telephone  market  and  then  listed  on  stock 
+
+exchanges.  It  is  felt  that  this  mechanism  may  lack  transparency  and  is  an  informal  way  to 
+
+discover price. 
+
+ 
+
+Based on a review of sample private placement allotment data for FY 2014-15, received from 
+
+the market participants regarding types of investors coming to the primary market for private 
+
+placement of corporate bonds,  it has been observed that banks and mutual funds, inter-alia, 
+
+constitute the majority of the investors.  
+
+ 
+
+The  key  benefits  of  electronic  book  vis-à-vis  over-the-telephone  market,  inter-alia,  are 
+
+improvement in efficiency, transparency of the price discovery mechanism and also reduction 
+
+of  cost  and  time  taken  for  such  issuance.    Usage  of  electronic  book  by  investors  for  trading 
+
+securities  in  Indian  markets  have  demonstrated  that  the  benefits  can  percolate  in  terms  of 
+
+efficient price discovery, reduction in timelines, reduction of cost, transparency, etc. 
+
+ 
+
+3.  Proposals  
+
+3.1  Keeping  in  view  the  benefits  of  electronic  auction  mechanism  such  as  making  it  a 
+
+formal and transparent mechanism, it is proposed that a platform for electronic book 
+
+may be created in India. 
+
+3.2  Applicability – Optional or mandatory: With respect to this platform for electronic 
+
+book, two approaches are possible:  
+
+3.2.1  To  begin  with,  the  electronic  book  may  be  provided  as  an  alternative  to  the 
+
+existing mechanism.  Subsequently, based on the performance/ acceptability of 
+
+such  a  book  ,  this  could  be  made  mandatory  for  all  issuers  for  issuance  of 
+
+privately placed Non-Convertible Debentures (NCDs), which are proposed to be 
+
+listed or ; 
+
+ 
+
+Page 3 of 7 
+
+3.2.2  To  make electronic  book    mandatory  for  all private  placement issues  having a 
+
+threshold of Rs. 500- Rs 1,000 crores in terms of amount being raised. 
+
+ 
+
+3.3  In  order  to  enable  issuers  to  use  electronic  book  for  private  placement  of  corporate 
+
+bonds,  which  are  subsequently  proposed  to  be  listed,  it  is  proposed  to  create  a 
+
+platform for creation of electronic book, which would be provided by entity to be called 
+
+as “Electronic Book Provider” (EBP).   
+
+ 
+
+3.4  The issuer shall enter into an agreement with the EBP, before using its services.  The 
+
+agreement shall contain necessary terms and conditions for usage of the book as well 
+
+as rights and liabilities of both the parties. 
+
+ 
+
+3.5  The  issuer  and  EBP  shall  ensure  that  all  requisite  compliances  prescribed  under 
+
+various  legislations  such  as  Companies  Act,  SEBI  Regulations  etc.  with  regards  to 
+
+private placement, are adhered to by the electronic book.   For example – the EBP shall 
+
+ensure that there is no public solicitation and the total number of bidders should not 
+
+exceed  200  (excluding  QIBs)  as  required  under  Companies  Act,  2013  and  the  rules 
+
+made thereunder. 
+
+ 
+
+3.6  Eligibility criteria as EBP : It is proposed that the following would be eligible to act as 
+
+EBP:-  
+
+3.6.1  Regulated  market 
+
+infrastructure 
+
+institutions  such  as  recognized  stock 
+
+exchange(s) / depositories  and  
+
+3.6.2  Category I Merchant Bankers (having minimum networth of Rs. 100 crores).  
+
+3.7 Condition  for  acting  as  a  EBP:  -  The  EBP  would  provide  services  through  an 
+
+electronic book.  Therefore, there is a need for putting in place criteria so as to ensure 
+
+high level of service and prevention of conflict of interest, if any, and conditions to act 
+
+as EBP shall be as follows:- 
+
+a)  EBP shall obtain prior approval of SEBI before establishing and offering its services. 
+
+b)  The  EBP  shall  ensure  compliance  with  all  requisite  conditions,  provisions, 
+
+legislations etc., with regard to private placement of debt securities. 
+
+Page 4 of 7 
+
+  
+
+ 
+
+c)  The EBP shall ensure safety, secrecy, integrity and retrievability of data. 
+
+d)  EBP  should  own  electronic  book  website/  URL  on  which  it  proposes  to  offer  its 
+
+services. 
+
+e)  EBP should have adequate human, technology and risk management capabilities. 
+
+f)  EBP should have policies and procedures to address potential conflicts which may 
+
+arise among issuer(s), bidders and EBP. 
+
+g)  In order to enhance transparency, self bidding by EBP (or proprietary bidding) may 
+
+not  be  allowed.  However,  if  safeguards  such  as  bidding  on  arms-length  basis  is 
+
+there , then such bidding and subsequent disclosure of same may be considered. 
+
+h)  Adequate backup, disaster management and recovery plans should be there for the 
+
+electronic book so provided by EBP.   
+
+i)  Electronic book so provided by EBP would be subject to periodic audit by Certified 
+
+Information Systems Auditor (CISA). 
+
+ 
+
+3.8 Bidding framework of the proposed electronic Book : 
+
+a)  The following stakeholders may be involved in the mechanism: 
+
+i. 
+
+Issuer 
+
+ii.  Arranger, if any, engaged by issuer 
+
+iii. 
+
+iv. 
+
+Electronic Book Provider (EBP) 
+
+Broker registered with SEBI (Sub-arranger who will appointed by the arranger) 
+
+will  be  a    Category  1  Participants  who  can  enter  bids    either  on  proprietary 
+
+basis  or  for  other  participants  such  as  High  Net  Worth  Individuals  (HNIs), 
+
+Institutional investors etc. 
+
+v. 
+
+Institutional  Investors  (as  defined  in  Regulation  106X(b)  of  SEBI  (Issue  of 
+
+Capital  and  Disclosure  Requirements)  Regulations,  2009)-  will  be  Category  2 
+
+Participants  who  can  enter  bids  on  proprietary  basis  provided  that  minimum 
+
+application or bid value is Rs. 100 crore or can participate through an arranger.  
+
+b)  The EBP shall provide all bids / applications to the issuer after end of bidding. 
+
+c)  The  EBP  shall  provide  all  bidding  details  to  centralized  repository  as  specified  by 
+
+SEBI and the issuer shall provide allotment details to such repository.  
+
+d)  The EBP shall lay down operational procedure including steps for uploading of the 
+
+private  placement  offer  letter/  placement  memorandum  containing  details  about 
+
+ 
+
+Page 5 of 7 
+
+private placement, list of the eligible participants for bidding in auctions, respective 
+
+time lines for each event etc.  Such information should be disclosed to the eligible 
+
+bidders. 
+
+e)  The issuer/arranger/EBP shall ensure KYC of the bidders before allowing them to 
+
+make bids on the book. 
+
+f)  Disclosure  with  regards  to  requirement  of  margin  money  or  pay  in  ,  if  any,  to  be 
+
+made in the private placement memorandum. (PPM) 
+
+g)  Issuer shall specify minimum issue size.  
+
+h)  Disclosure shall be made in the PPM with regards to green shoe option along with 
+
+the reasons for the retention of excess amount, if any. 
+
+ 
+
+3.9  The salient features of the proposed electronic book: 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+Issue specific participant enablement as well as dissemination of information. 
+
+Issue specific time with facility to extend timing. 
+
+Facility to display issue information as well as attach necessary documents. 
+
+Provision  for  maximum  and/  or  minimum  coupon  beyond  which  bids  cannot  be 
+
+entered. Similarly, there should be provision for maximum/minimum price in case 
+
+of re-issuances. 
+
+v. 
+
+Bid details will include application amount in INR and coupon/ yield in bps. 
+
+vi.  Minimum and maximum coupon/ yield and in multiple of “x” bps. 
+
+vii.  Display of bid details on real time basis from lower yield to higher yield.  Aggregate 
+
+bid details with number of bid value at each yield point. 
+
+viii. 
+
+Participant could be allowed to enter multiple bids i.e. single participant can enter 
+
+more than one bid 
+
+ix.  After the closure of bidding session, EBP will hand over results/ all bidding details 
+
+to the issuer. 
+
+Issuer to make allotment after receipt of bidding results. 
+
+In case of any dispute arising among  issuer, EBP and bidder(s), it shall be resolved 
+
+through arbitration. 
+
+Page 6 of 7 
+
+x. 
+
+xi. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.  Public Comments 
+
+ 
+
+i. 
+
+In  the  light  of  the  above,  public  comments  are  invited  on  the  consultation  paper. 
+
+Comments may be forwarded by email to ebp@sebi.gov.in or may be sent by post to the 
+
+following address latest by December 18, 2015: 
+
+Ms. Richa Agarwal 
+Deputy General Manager 
+Investment Management Department, Division of Funds I  
+Securities and Exchange Board of India  
+SEBI Bhavan   
+C4-A, G Block  
+Bandra Kurla Complex  
+Mumbai - 400 051  
+
+ 
+ii. 
+
+Comments should be given in the following format: 
+
+ 
+
+Name of entity/ person/ intermediary: _______________________ 
+S. No. 
+
+Pertains to Point No. 
+
+Proposed/ 
+suggested 
+changes 
+ 
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+ 
+Issued on December 04, 2015 
+
+ 
+
+Page 7 of 7 
+
+

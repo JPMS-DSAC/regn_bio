@@ -1,0 +1,515 @@
+Review of  SEBI (Employee Stock Option Scheme & Employee Stock
+
+Purchase Scheme) Guidelines, 1999.
+
+Recommendations of the ESOP Committee
+
+(Interested persons and entities may send their comments on this issue to the e-
+mail address : amitk@sebi.gov.in or by post to the Primary Markets Department,
+Securities and Exchange Board of India, Mittal Court, ‘A’  Wing, Ground Floor, 224
+Nariman Point, Mumbai 400 021.)
+
+The  Board  had  set  up  a  committee  (hereinafter  referred  as  ESOP  Committee)
+under the Chairmanship of Prof. J. R. Varma, the then Member, SEBI Board, to
+formulate guidelines for Employee Stock Option Scheme (ESOP) and Employees
+Share  Purchase  Scheme  (ESPS).  These  guidelines  were  implemented  in  July
+1999.  Due  to  various  changes  in  the  market  since  1999  and  various
+representations/ clarifications sought by the companies, it was decided to review
+the  SEBI  (Employee  Stock  Option  Scheme  and  Employees  Share  Purchase
+Scheme) Guidelines, 1999 (hereinafter referred as Guidelines) . Accordingly the
+ESOP  committee  was  reconstituted.  The  committee  comprised  of  the  following
+members:
+
+1.  Shri J.R.Varma, Chairman of the Committee
+2.  Sh. Vinod Jain-  ICAI
+3.  Sh. Kiran Karnik - NASSCOM
+4.  Sh. A.K. Narayana, Tamilnadu Investors Association.
+5.  Shri Nishith M Desai - Nishith Desai Associates
+6.  Shri Nihal Kothari – , Head of Taxation, Hindustan Lever Limited
+7.  Shri Harshu Ghate -  ESOP Direct
+8.  Shri A Rammohan Rao - UTI Securities Exchange Limited
+9.  Shri R..M.Joshi, Executive Director - SEBI
+
+The meeting of the Reconstituted committee was convened on 11th September
+2002 to discuss various issues pertaining to ESOP guidelines.
+
+Before  proceeding  with  its  deliberations,  the  Committee  inter-alia  observed  the
+following  main  findings  of  all  India  survey  conducted  by  M/s  ESOP  Direct,  a
+consultancy Firm:
+
+? 
+
+? 
+
+In  most  of  the  cases  companies  issuing  ESOPs  did  comply  with  vesting
+period, disclosure requirement as specified in SEBI Guideline.
+In case of IT companies, ESOPs were issued across the board whereas in
+case  of  companies  from  non-IT  sectors,  ESOPs  were  issued  to  top
+management only.
+
+?  Average life of the ESOPs issued is 4 years.
+? 
+?  Treatment of corporate actions on the ESOPs issued, varied from company
+
+In most of the cases ESOPs were issued at fair market value.
+
+?  Unlisted companies willing to make an IPO faces problem with the ESOPs
+
+to company.
+
+issued earlier.
+
+?  Wherever  ESOPs  are  being  issued  across  the  board,  allotment  is  fairly
+
+proportionate across the Board.
+
+?  Very  few  companies,  issuing  ESOPs,  are  found  to  be  enclosing  auditors
+
+certificate with the financial statement.
+In  case  of  IT  companies,  ESOP  is  being  used  as  a  tool  to  motivate
+employees.  Whereas in case of non IT companies, ESOP is being issued in
+lieu of remuneration.
+
+? 
+
+The survey provided an insight in to the usage of ESOPs in the corporate sector.
+
+The committee thereafter deliberated on various issues and gave its
+recommendations on each of the issue as under:
+
+1. Applicability of the Guidelines
+
+The  existing  SEBI  (ESOP  &  ESPS)  guidelines  came  into  effect  on  19th  June
+1999.  The  present  guidelines  are  applicable  to  all  the  schemes  by  listed
+companies  offered  on  or  after  19th  June  1999.  SEBI  has 
+received
+representations  from  various  companies  as  to  whether  the  guidelines  shall  be
+applicable  to  the  ESOPs  granted  prior  to  19th  June  1999.  which  are  yet  to  be
+exercised  and  are  outstanding.  The  committee  recommended  that  guidelines
+will  not  be  applicable  to  the  Stock  Options  granted  prior  to  19th  June,  1999,
+unless specified otherwise in the guidelines.
+
+2.  Revisiting the definition of Fair value given in the guidelines
+
+As per the existing Guidelines, the Fair value means the option discount, or, if
+the  company  so  chooses,  the  value  of  the  option  using  the  Black  Scholes
+formula  or  other  similar  valuation  method.    The  committee  recommended
+redefining  FAIR  VALUE  by  restricting  it  to  “the  value  of  option  using  Black
+Scholes  formula  or  any  other  similar  valuation  model”  and  accordingly
+recommended  modifications  in  SEBI  (ESOP  &  ESPS)  Guidelines  under  the
+following heads
+
+(i)  Modification in Schedule I
+(ii) Addition of New Schedule i.e Schedule II
+(iii) Addition of sub clauses in clause 12
+
+Details are as under
+
+i)  Modification in Schedule I of the guidelines
+
+Modify Clause (b) as below
+
+“The  accounting  value  of  options  shall  be  equal  to  the  aggregate,  over  all
+employee  stock  options  granted  during  the  accounting  period,  of  the  intrinsic
+value of the option or, if the company so chooses, the fair value of the option.
+
+For this purpose:
+
+1. Fair value of an option means the fair value calculated in accordance with
+
+Schedule II (New insertion as detailed (ii) below).
+Intrinsic value means the excess of the market price of the share at the
+date  of  grant  of  the  option  under  ESOS  over  the  exercise  price  of  the
+option (including up-front payment, if any)
+
+2.
+
+Addition of new Schedule
+
+Insert Schedule II which is as below
+
+a.  The  fair  value  of  a  stock  option  is  the  price  that  would  obtain  for  that
+option in an arm’s length transaction between a willing buyer and a willing
+seller.
+
+b.  The  fair  value  shall  be  estimated  using  an  option-pricing  model  (for
+example, the Black-Scholes or a binomial model) that takes into account
+as of the grant date the exercise price and expected life of the option, the
+current  market  price  of  the  underlying  stock  and  its  expected  volatility,
+expected  dividends  on  the  stock,  and  the  risk-free  interest  rate  for  the
+expected term of the option.
+
+c.  The  fair  value  of  an  option  estimated  at  the  grant  date  shall  not  be
+subsequently adjusted for changes in the price of the underlying stock or
+its volatility, the life of the option, dividends on the stock, or the risk-free
+interest rate.
+
+d.  Where the exercise price is fixed in Indian Rupees, the risk-free interest
+rate used shall be the interest rate applicable for a maturity equal to the
+expected  life  of  the  options  based  on  the  zero-coupon  yield  curve  for
+Government of India securities.
+
+e.  The expected life of an award of stock options shall take into account the
+
+following factors:
+? The expected life must at least include the vesting period.
+? The average length of time similar grants have remained outstanding in
+the  past.  If  the  company  does  not  have  a  sufficiently  long  history  of
+stock option grants, the experience of an appropriately comparable peer
+group may be taken into consideration.
+
+? The expected life of ESOPs should not be less than half of the exercise
+period of the ESOPs issued until and unless the same is supported by
+historical  evidences  with  respect  to  ESOPs  issued  by  the  company
+earlier.
+
+f. 
+
+If  the  company  does  not  have  a  sufficiently  long  history  of  traded  stock
+prices  to  estimate  the  expected  volatility  of  its  stock,  it  may  use  an
+
+estimate  based  on  the  estimated  volatility  of  stocks  of  an  appropriately
+comparable peer group.
+
+g.  The  estimated  dividends  of  the  company  over  the  estimated  life  of  the
+option may be estimated taking into account the company’s past dividend
+policy as well as the mean dividend yield of an appropriately comparable
+peer group
+
+h.  Justification  is  to  be  given  for  significant  assumptions.  If  at  the  time  of
+further issue of ESOPs there are any changes in the assumptions, give
+reasons for the same.
+
+ii)  Addition of sub clauses in clause 12
+
+Add  sub  clauses  (l)  to  (n)  as  below  in  clause  (12)  on  disclosure  in
+director report in guidelines
+
+(l)  Where  the  company  has  calculated  the  employee  compensation  cost
+using the intrinsic value of the stock options, the difference between the
+employee  compensation  cost  so  computed  and 
+the  employee
+compensation cost that would have been recognized if it had used the fair
+value of the options, shall be disclosed. The impact of this difference on
+profits and on EPS of the company shall be disclosed.
+
+(m) Weighted-average  exercise  prices  and  weighted-average  fair  values  of
+options  shall  be  disclosed  separately  for  options  whose  exercise  price
+either equals or exceeds or is less than the market price of the stock on
+the grant date.
+
+(n) A description of the method and significant assumptions used during the
+year  to  estimate  the  fair  values  of  options,  including  the  following
+weighted-average  information:    (1)  risk-free  interest  rate,  (2)  expected
+life,  (3)  expected  volatility,  (4)  expected  dividends  and  (5)  the  market
+price of the underlying share at the time of option grant.
+
+3) Mandatory disclosure of Fair value of ESOPs
+
+As  per  the  existing  guidelines,  the  company  has  an  option  to  choose  either
+intrinsic value or a fair value (as per Black Scholes or similar models) for actual
+expensing of ESOPs in the financial statements.
+
+The committee recommended mandatory disclosure of:
+
+?  The fair value of the ESOPs (i.e using Black Scholes or similar models)
+?  The  impact  on  profits  and  on  EPS  of  the  company,  had  the  company
+
+expensed the ESOPs on fair value basis.
+
+4) ESOPs by Trust Route:-
+
+The ESOP committee in the earlier report had recommended that it shall not be
+mandatory to create an Employee Welfare Trust to administer the stock option
+scheme.  As  such  the  company  today  has  an  option  to  administer  the  ESOP
+through  Trust  route.  However,  the  guidelines  do  not  carry  any  procedure  and
+accounting principles to be followed in case of Grant of options through a trust.
+The Committee recommended that since this is a consolidation issue rather than
+an ESOP issue, the ESOP trust should be consolidated with the company under
+AS 21 and the existing ESOP guidelines should be applied by the consolidated
+entity.
+
+5)  Listing and lock in of Pre IPO ESOP Shares.
+
+Listing of pre IPO ESOP shares:-
+
+a.  The existing guidelines state that in the case of listed companies, ESOP
+shares shall be eligible for listing only if the scheme is in accordance with
+the guidelines. In case of an unlisted company going in for an IPO, which
+has implemented an ESOP prior to going public there is a possibility that
+options granted prior to going public would vest and be exercised after the
+company is listed. (referred as Pre IPO ESOP shares),  In such a case
+the  shares  would  come  into  existence  after  the  company  is  listed.
+Moreover, as per the current procedure a company has to comply with a
+lot  of  steps  for  listing  of  ESOP  shares.  Considering  the  volatility  in  the
+market and the time lag between issue of shares on exercise of options
+and listing of the same on an stock exchanges, an employee could lose
+the  advantage  of  any  uptrend  in  the  prices  of  the  shares  or  even  the
+share  price  may  go  below  the  exercise  price.  The  time  taken  also
+prohibits cashless exercise of vested options.
+
+The  committee  recommended  that  ESOP  shares  issued  by  an  unlisted
+company may be allowed to get listed after the IPO subject to fulfillment of
+the following requirements:
+
+i.  Ratification of the resolution passed for issuance of ESOP
+     The  notice  for  ratification  of  earlier  resolution  shall  include  all  the
+
+disclosures required in terms of SEBI (ESOP guidelines).
+
+ii.   Disclosures in the offer document
+
+?  A disclosure about the intention of the ESOP holders to sell their
+ESOP shares within 3 months after the date of listing of shares in
+the said IPO (aggregate number of shares intended to be sold by
+all  ESOP  holders  put  together  to  be  disclosed  regardless  of
+whether  the  shares  arise  out  of  options  exercised  before  or  after
+the IPO), 
+
+?  Specific  disclosures  about  the  intention  of  sale  of  ESOP  shares
+within  3  months  after  the  date  of  listing,  by  directors,  Senior
+Managerial  personnel  and  also  large  option  grantee  i.e  persons
+having  ESOP  shares  amounting  to  more  than  1  %  of  the  issued
+capital  (excluding  outstanding  warrants  and  conversions),  which
+
+inter-alia  shall  include  name,  designation  and  quantum  of  ESOP
+shares and quantum they intend to sell within 3 months..
+
+?  A  disclosure  in  line  with  the  guideline  12  of  ESOP  guidelines,
+regarding all the ESOPs issued in last 3 years (separately for each
+year) and on a cumulative basis for all the ESOPs issued prior to
+that in the prospectus.
+
+b) The  committee  also  recommended  that  the  provisions  may  be  made  for
+getting in principle approval for listing of ESOP shares form Stock Exchanges
+so as to avoid delay in listing of ESOP shares as and when issued.  As the
+issue  is  primarily  an  operational  one,  the  committee  recommended  that  the
+same should be referred to the Stock Exchanges.
+
+Lock-in of pre IPO ESOP shares:-
+
+As  per  the  existing  SEBI  (DIP)  Guidelines  2000,  ,  all  the  pre  IPO  shares  in
+existence  gets  locked  in  for  a  period  of  1  year  post  IPO.  This  discourages
+employees  in  private  limited  companies  from  exercising  options  as  on  the
+company getting listed, they will get locked in for a period of one year. In view of
+the  lock  in,  even  employers  are  promoting  employees  to  exercise  the  options
+post  IPO.  The  committee  recommended  that  the  existing  provisions  of  Lock-in
+specified in SEBI (DIP) guidelines 2000 shall not be applicable on the pre IPO
+ESOP shares held by employees other than promoters subject to the ratification
+of the earlier resolution and disclosures in the prospectus as mentioned at (a) (i)
+& (ii) above respectively. However, ESOP shares held by the promoters will be
+subject to lock-in as per the relevant provisions of SEBI (DIP) Guidelines, 2000.
+
+6) Adjustment in case of Corporate Actions
+
+As per the existing guidelines, the Compensation Committee is to formulate the
+procedure for taking a fair and reasonable adjustment to the number of options
+and  to  the  exercise  price  in  case  of  rights  issues,  bonus  issues  and  other
+corporate actions. Currently companies are not very clear of action to be taken in
+event like bonus/rights issue, merger, sale of division etc. In case of merger or
+acquisition, the unvested options have accelerated vesting or some companies
+swap  the  old  options  with  the  options  of  the  new  company.  Thus  there  is  no
+consistency  with  respect  to  the  actions  taken  in  such  events.  The  committee
+recommended that in case of corporate actions like bonus/rights issue, merger,
+sale  of  division  etc,  the  compensation  committee  should  adjust  the  no.  of
+ESOPs and the price of ESOPs in a manner such that total value of the ESOPs
+should  remain  the    same  after  that  corporate  action.  For  the  purpose  of
+adjustment, the compensation committee should consider global best practices
+in this area including the procedures followed by the derivative markets in India
+and abroad. As far as possible, the vesting period and the life of the options shall
+be left unaltered even in a merger to protect the rights of the option holders.
+
+7) Accounting norms for graded vesting
+
+The  existing  guidelines  (guideline  13)  has  not  provided  specifically  for
+accounting for compensation cost in the case of options, which vest in a graded
+manner.  Where  a  scheme  provides  for  such  graded  vesting  the  allocation  or
+amortisation  of  compensation  expense  to  the  period  until  the  full  vesting  has
+occurred  is  to  be  done  in  a  manner  proportional  to  the  number  of  shares  to
+which  rights  to  exercise  the  option  have  vested.  The  service  period  is
+determined separately for each portion of the option. For example if an option
+vests 20% each year it will vest over 5 years. In this case the 20% which vests in
+the  first  year  is  deemed  attributable  to  the  services  performed  in  the  first  year
+only, while the 20% which vests in the second year is attributed to the services
+performed in the years 1 and 2. The committee recommended that ESOP with
+graded vesting period can be recognized as several separate ESOPs and can
+be accounted for accordingly.
+
+8) Accounting norms for Variable ESOPs
+
+ The companies may like to go for different variants of ESOPs where on the date
+of  grant,  the  exercise  price  or  the  vesting  period  or  number  of  options  is
+contingent  on  a  future  event  viz  may  be  based  on  future  performance  i.e.
+“Performance-Linked Vesting (the number of options that would be granted and/
+or  the  vesting  period  of  the  options  is  linked  to  a  specific  performance
+parameter).  The  Committee  recommended 
+the  existing  accounting
+treatment  may  continue  for  all  ESOPs.  Further  it  was  informed  that  ICAI  is  in
+process of laying down the detailed accounting norms, which may take care of
+all accounting norms.
+
+that 
+
+9) Repricing of Options
+
+There were cases where companies wanted to reprice the options because the
+market price fell to the extent that the ESOPs were rendered unattractive. The
+existing  guideline  7  permit  the  changes  in  terms  &  conditions  of  the  ESOS
+offered pursuant to an earlier resolution of a general body but not yet exercised
+by the employee, provided it is not detrimental to the interests of the employees
+and  subject  to  shareholders’  approval.  The  committee  recommended  that  the
+existing  provisions  may  continue.    The  committee  noted  that  many  issues
+referred  to  the  committee  are  mainly  accounting  matters  pertaining  to  ESOPs.
+The  committee  was  informed  that  ICAI  is  in  process  of  laying  down  detailed
+accounting norms for ESOPs, which may take care of all the accounting matters.
+
+10) Relaxation in requirement of Shareholders Approval
+
+The guidelines require a separate resolution in case the company wants to grant
+more than 1% of the issued capital (including options granted) to an identified
+employee in a year. Generally the shareholders meeting are held once in a year.
+In case of urgency, it may not be possible to call shareholders meeting for grant
+of more than 1% options to an identified employee.  In view of the above, post-
+
+facto  approval  from  the  shareholders  be  permitted,  subject  to  the  same  being
+obtained within a period of  1 year from the date of grant and in case the same is
+not obtained or is not accorded approval by the shareholders the options would
+lapse.  The  committee  recommended  that  there  is  no  need  to  relax  the
+requirement regarding Shareholders approval.
+
+11) Definition of Market Price
+
+As per the existing guidelines the market price of a share on a given date means
+the closing price of the share on that date on the stock exchange on which the
+shares of the company are listed. It was felt that to have a more realistic value of
+the  share  the  period  average  price  over  a  period  of  time  should  be  taken  into
+consideration.  The  committee  recommended  that  we  may  stick  to  the  existing
+definition of 'Market Price'.
+
+12) Definition of Employee Stock Option as given in the Companies Act
+
+ The following definition is given in section 2(15 A) of Companies Act: "employee
+stock  option"  means  the  option  given  to  the  whole  time  directors,  officers  or
+employees of a company, which gives such directors, officers or employees the
+benefit or right to purchase or subscribe at a future date, the securities offered
+by  the  company  at  a  pre  determined  price.  The  Committee  was  asked  to
+reconsider  the  definition  given  in  the  present  ESOP  guidelines  so  as  to  have
+uniformity  in  all  the  guidelines.  The  committee  recommended  that  we  may
+incorporate the definition given in Section 2(15A) of Companies Act, 1956 in our
+Guidelines.  The  committee  further  recommended  that  definition  of  'Pre-
+determined  price'  should  be  clarified  as  a  'fixed  price  or  a  price  determined
+through a pre-determined pricing formula'
+
+13) Shareholders Approval
+
+Since  the  spirit  of  Guideline  6  (ESOS)  of  the  existing  guidelines  which  talks
+about approval of shareholders by way of separate resolution in case option is
+granted  to  employees  of  subsidiary  or  holding  company  or  grant  of  option  to
+identified  employees  in  excess  of  1%  in  a  year  is  same  as  Guideline  17  of
+ESPS),  the  Committee  recommended  that  the  relevant  provisions  of  the
+Guideline  6.2  &  the  provisions  of  Guideline  6.3  may  be  made  applicable  to
+Guideline 17 also.
+
+14) New Forms Of ESOPs
+
+Over  a  period  of  time,  new  forms  of  equity  compensation  to  employees  have
+emerged. The Committee was of the view that existing guidelines give enough
+flexibility  to  the  issuer  to  introduce  new  forms  of  ESOPs.  The  Committee
+recommended  that  new  forms  can  be  introduced  provided  it  fit  in  the  existing
+definition of ESOPs of providing a pre determined formula.
+
+15)  Insider Trading Guidelines
+
+Recently SEBI amended the guidelines for prohibition of Insider Trading. One of
+the  provisions  require  all  directors/officers/designated  employees  to  hold  their
+investments  in  securities  for  a  minimum  period  of  30  days  in  order  to  be
+considered  as  being  held  for  investment  purposes.  This  restriction  prohibits
+cashless  exercise  and  same  day  sale,  which  is  expressly  permitted  by  the
+guidelines. The Committee discussed the need for exemption of ESOP shares
+from this condition. The committee recommended that no relaxation from insider
+Trading regulations should be given to the designated employees, going by the
+spirit of Insider Trading regulations.
+
+16 Additional recommendations of the committee
+
+?  Filing  of  ESOP  schemes  by  the  listed  companies  through  EDIFAR  filing
+
+may be made mandatory.
+
+?  When parent company issues ESOPs to the employee of its subsidiary,
+the cost incurred by the parent company for issuing the aforesaid ESOPs
+should be disclosed in the 'notes to accounts' of the financial statements
+of the subsidiary company.
+
+?  SEBI must mandate a minimum set of disclosures by the company to the
+grantees so as to protect the rights of option grantee in their capacity as
+investors. The minimum disclosures to be given to option grantees are as
+per Annexure A
+
+*****
+
+Simplified Disclosure Document for Employee Stock Option Grantees
+
+Part A: Statement of Risks
+
+Annexure A
+
+All investments in shares or options on shares are subject to risk as the value of
+shares may go down or go up. In addition, employee stock options are subject to
+the following additional risks:
+
+1.  Concentration:  The  risk  arising  out  of  any  fall  in  value  of  shares  is
+aggravated if the employee’s  holding  is  concentrated  in  the  shares  of  a
+single company.
+
+2.  Leverage: Any change in the value of the share can lead to a significantly
+larger change in the value of the option as an option amounts to a levered
+position in the share.
+
+3.  Illiquidity: The options cannot be transferred to anybody, and therefore the
+employees cannot mitigate their risks by selling the whole or part of their
+options before they are exercised.
+
+4.  Vesting:  The  options  will  lapse  if  the  employment  is  terminated  prior  to
+vesting. Even after the options are vested, the unexercised options may
+be forfeited if the employee is terminated for gross misconduct.
+
+Part B: Information about the company1
+
+1.  Business of the company: A description of the business of the company
+
+on the lines of item V(a) of Part I of Schedule II of the Companies Act.
+
+2.  Abridged financial information: Abridged financial information for the last
+five years for which audited financial information is available in a format
+similar  to  that  required  under  item  B(1)  of  Part  II  of  Schedule  II  of  the
+Companies Act. The last audited accounts of the company should also be
+provided  unless  this  has  already  been  provided  to  the  employee  in
+connection with a previous option grant or otherwise.
+
+3.  Risk Factors: Management perception of the risk factors of the company
+in accordance with item VIII of Part I of Schedule II of the Companies Act.
+4.  Continuing  disclosure  requirement:  The  option  grantee  should  receive
+copies  of  all  documents  that  are  sent  to  the  members  of  the  company.
+This would include the annual accounts of the company as well as notices
+of meetings and the accompanying          explanatory statements.
+
+Part C: Salient Features of the Employee Stock Option Scheme
+
+The Part would contain the salient features of the employee stock option scheme
+of the company including the conditions regarding vesting, exercise, adjustment
+for corporate actions, and forfeiture of vested options. It shall not be necessary
+to include this Part if it has already been provided to the employee in connection
+with a previous option grant, and no changes have taken place in the scheme
+                                        
+1 It shall be sufficient for the company to update this document once a year when the
+audited accounts become available.
+
+since then. If the option administrator (whether the company itself or an outside
+securities  firm  appointed  for  this  purpose)  provides  advisory  services  to  the
+option  grantees  in  connection  with  the  exercise  of  options  or  sale  of  resulting
+shares,  such  advice  must  be  accompanied  by  an  appropriate  disclosure  of
+concentration  and  other  risks.  The  option  administrator  should  conform  to  the
+code of conduct appropriate for such fiduciary relationships.
+
+

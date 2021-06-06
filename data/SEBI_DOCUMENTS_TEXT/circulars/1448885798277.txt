@@ -1,0 +1,3458 @@
+ 
+
+ 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+ 
+
+ 
+
+CIRCULAR 
+
+ 
+
+ 
+
+                    November 30, 2015 
+
+ 
+
+ 
+
+CIR/CFD/CMD/13/2015 
+ 
+To 
+ 
+The Listed Entities  
+The Recognized Stock Exchanges 
+The Depositories 
+ 
+Dear Sir/Madam, 
+ 
+
+Sub: Disclosure of holding of specified securities and Holding of specified 
+
+securities in dematerialized form 
+
+ 
+
+1.  Regulation  31  of  Securities  and  Exchange  Board  of  India  (Listing  Obligations  and 
+Disclosure  Requirements)  Regulations,  2015  (“Listing  Regulations”),  deals  with  the 
+disclosure  of  shareholding  pattern  and  manner  of  maintaining  shareholding 
+in 
+dematerialized format.   
+  
+
+2.  Manner of representation of holding of specified securities  
+
+ 
+
+a.  The holding of specified securities shall be divided into the following 3 categories viz. 
+
+Promoter and Promoter Group, Public and Non Promoter Non Public.  
+ 
+
+b.  ‘Promoter  and  Promoter  Group’  shall  have  the  same  meaning  as  defined  under 
+Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) 
+Regulations, 2009. 
+ 
+
+c.  The  details  of  the  shareholding  of  the  promoters  and  promoter  group  must  be 
+accompanied  with  PAN  Number  (first  holder  in  case  of  joint  holding).  Further,  the 
+shareholding of the promoter and promoter group is to be consolidated on the basis of 
+the PAN and folio number to avoid multiple disclosures of shareholding of the same 
+person. 
+
+ 
+d.  In the disclosure of Public Shareholding: 
+
+  
+i.  For  disclosure  under  category  “Institution”,  the  shareholder  should  fall  under  the 
+category “Qualified Institutional Buyer” as defined under Securities and Exchange 
+Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2009.  
+ 
+
+ii.  All  other  Public  Shareholding  shall  be  displayed  under  Categories  “Central 
+
+Government/State Government(s)/President of India” or “Non-Institutions”.  
+
+ 
+
+iii.  Names of the shareholders holding 1% or more than 1% of shares of listed entity is 
+
+to be disclosed. 
+ 
+
+iv.  Names of the shareholders who are persons acting in concert, if available, shall be 
+
+disclosed separately. 
+
+ 
+
+ 
+
+Page 1 of 10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+ 
+
+e.  Shares against which Depository Receipts have been issued:  
+
+ 
+i.  As  per  Securities  Contracts  (Regulation)  Rules,  1957  and  Depository  Receipts 
+Scheme, 2014, the shares of a listed entity underlying the depository receipts shall 
+form  part  of  the  public  shareholding  of  the  company  only  if  the  holder  of  such 
+depository  receipts  has  the  right  to  issue  voting  instruction  and  such  depository 
+receipts are listed on an international exchange. 
+
+ 
+
+ii.  Accordingly,  the  underlying  shares,  against  which  depository  receipts  have  been 
+issued, held by any person belonging to Promoter and Promoter Group, shall be 
+disclosed under category ‘Promoter and Promoter Group’. The shares  which are 
+held by persons other than Promoter and Promoter Group and satisfying the above 
+conditions would be classified under the category ‘Public Shareholding’.  
+
+ 
+
+iii.  The underlying shares, against which depository receipts have been issued, of a 
+listed entity not satisfying the conditions at para (i) above which are held by Public 
+Shareholders  shall  be  classified  under  category  ‘Non  Public  Non  Promoter 
+shareholding’.  
+
+ 
+
+3.  The listed entity shall ensure that shareholding of employee trusts and schemes are shown 
+separately  in  relevant  categories  in  terms  of  SEBI  (Share  Based  Employee  Benefits) 
+Regulations, 2014.  
+
+ 
+
+4.  Manner of calculation of shareholding  
+ 
+
+a.  The categories as defined at para 2(a) above: 
+
+ 
+i.  Promoter and Promoter Group (A)  
+ii.  Public (including shares underlying DRs which fulfill the conditions laid down in Rule 
+
+2(e) of Securities Contracts (Regulation) Rules, 1957)  (B)  
+
+iii.  Non Promoter Non Public (C) 
+
+1.  Shares held by DR Holders (which don’t fulfill the conditions laid down in Rule 
+
+2(e) of Securities Contracts (Regulation) Rules, 1957) (C1) 
+
+2.  Shares held by Employee Benefit Trust under Securities and Exchange Board 
+
+of India (Share Based Employee Benefits) Regulations, 2014 (C2) 
+
+ 
+
+b.  Total  Shareholding  for  the  purpose  of  calculating  the  public  shareholding  shall  be 
+calculated  as  (A+B+C2)  in  line  with  requirements  of  Depository  Receipts  Scheme, 
+2014, Securities Contracts (Regulation) Rules, 1957 as amended up to February 25, 
+2015 and Securities and Exchange Board of India (Share Based Employee Benefits) 
+Regulations, 2014.  
+ 
+
+c.  Percentage of promoter Shareholding shall be calculated as A/(A+B+C2) * 100. 
+
+ 
+
+d.  Percentage of public Shareholding shall be calculated as B/(A+B+C2) * 100. 
+
+ 
+ 
+ 
+ 
+
+ 
+
+Page 2 of 10 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+5.  Formats:  The  format  for  disclosure  of  holding  of  specified  securities  is  placed  at 
+
+Securities and Exchange Board of India 
+
+ 
+
+Annexure I.  
+
+ 
+a.  Summary statement showing holding of specified securities of the listed entity is 
+
+given as per Table-I. 
+
+b.  Statement showing holding of specified securities of the Promoter and Promoter 
+
+Group is given as per Table-II. 
+
+c.  Statement showing holding of specified securities of the public shareholders is 
+
+given as per Table-III. 
+
+d.  Statement  showing  holding  of  specified  securities  of  the  Non  Promoter-  Non 
+
+Public shareholder is given as per Table-IV. 
+ 
+
+6.  Holding of specified securities in dematerialized form:  
+
+ 
+a.  Regulation  31(2)  of  Listing  Regulations  mandates  the  Listed  Entities  to  ensure  that 
+100% of shareholding of promoter(s) and promoter group is in dematerialized form and 
+the same is maintained on a continuous basis in the manner specified by the Board. 
+The listed entity shall take into consideration the following exemptions while arriving at 
+compliance with 100% promoter(s) holding in dematerialized form:- 
+ 
+i.  promoter(s) shares which were  sold in physical mode and  have not been lodged 
+
+for transfer with the listed entity ;  
+
+ii.  matters that are sub-judice before any Court/Tribunal, concerning shareholding of 
+
+promoters/promoter group either in part or in entirety ; or 
+
+iii.  shares  that  cannot  be  converted  into  dematerialized  form  due  to  death  of  any 
+
+promoter(s);  
+
+ 
+b.  For  availing  such  exemption  under  Para  6(a)  -  (i)  to  (iii)  above,  Listed  Entity  shall 
+
+approach Stock Exchange(s) along with necessary documentary evidence.  
+ 
+
+c.  In case any such exemption has been granted to the Listed Entity the same must be 
+stated  in  summary  statement  and  given  separately  and  information  should  be  given 
+separately in Annexure.  
+ 
+
+d.  Further, at least 50% of non-promoter holding shall be held in dematerialized form. The 
+
+listed entity shall take necessary steps for achieving the same. 
+ 
+While computing the requirement of minimum 50% shareholding of non-promoters in 
+dematerialized form in a company, the government holding in non-promoter category 
+may be excluded. 
+  
+
+ 
+
+7. Display of holding of specified securities on website of Stock Exchange(s)  
+
+ 
+
+a.  If the Listed Entity confirms that any particular instrument is not issued or there are no 
+encumbered/  pledged  shares  and  locked-in  shares,  respective  columns  will  not  be 
+displayed  by  the  Stock  Exchange(s)  on  their  website.  The  declaration  given  by  the 
+Listed Entity in this regard would be displayed by Stock Exchange(s).   
+ 
+
+ 
+
+Page 3 of 10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+ 
+
+b.  The Stock Exchange(s) shall also ensure that PAN numbers so disclosed in different 
+
+tables are not displayed on the website of Stock Exchange(s).   
+
+ 
+
+8. The  Depositories  shall  provide  the  shareholding  data  to  listed  entities  in  the  requisite 
+
+categorization as prescribed in the Circular. 
+ 
+ 
+
+9.  The Stock Exchanges are advised to bring the provisions of this circular to the notice of the 
+listed entities and also to disseminate the same on its website. This circular shall come into 
+force on December 01, 2015. 
+ 
+
+10. This Circular is issued in exercise of the powers conferred under Section 11 and Section 
+11A of the Securities and Exchange Board of India Act, 1992 read with Regulation 31 and 
+Regulation 101(2) of the Listing Regulations, 2015.   
+ 
+
+11. This circular is available on SEBI website at www.sebi.gov.in under the categories “Legal 
+
+Framework” and “Continuous Disclosure Requirements”. 
+
+ 
+
+ 
+
+ 
+
+ 
+Yours faithfully, 
+ 
+ 
+B N Sahoo 
+General Manager 
+Compliance and Monitoring Division 
+Corporation Finance Department 
+biranchins@sebi.gov.in 
+ 
+
+Page 4 of 10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+ 
+
+ 
+
+Format of holding of specified securities  
+
+Annexure - I 
+
+ 
+1.  Name of Listed Entity: 
+2.  Scrip Code/Name of Scrip/Class of Security 
+3.  Share Holding Pattern Filed under: Reg. 31(1)(a)/Reg. 31(1)(b)/Reg.31(1)(c) 
+
+a.  If under 31(1)(b) then indicate the report for Quarter ending 
+b.  If under 31(1)(c) then indicate date of allotment/extinguishment  
+
+ 
+4.  Declaration: The Listed entity is required to submit the following declaration to the extent of submission of information:-  
+
+ 
+  Particulars 
+
+1  Whether the Listed Entity has issued any partly paid up shares? 
+
+2  Whether the Listed Entity has issued any Convertible Securities or Warrants? 
+
+3  Whether the Listed Entity has any shares against which depository receipts are 
+
+issued? 
+
+4  Whether the Listed Entity has any shares in locked-in? 
+5  Whether any shares held by promoters are pledge or otherwise encumbered? 
+
+ 
+
+Yes*  No* 
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+  
+
+* If the Listed Entity selects the option ‘No’ for the questions above, the columns for the partly paid up shares, Outstanding Convertible 
+Securities/Warrants,  depository  receipts,  locked-in  shares,  No  of  shares  pledged  or  otherwise  encumbered  by  promoters,  as 
+applicable, shall not be displayed at the time of dissemination on the Stock Exchange website. Also wherever there is ‘No’ declared 
+by Listed Entity in above table the values will be considered as ‘Zero’ by default on submission of the format of holding of specified 
+securities.  
+ 
+
+ 
+
+5.  The tabular format for disclosure of holding of specified securities is as follows:- 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Page 5 of 10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+ 
+
+ 
+
+Table I - Summary Statement holding of specified securities  
+ 
+
+Catego
+
+ry 
+(I) 
+
+Category of 
+shareholder 
+
+          (II) 
+
+Nos. of 
+shareh
+olders 
+
+(III) 
+
+No. of fully 
+
+paid up 
+equity 
+shares 
+held  
+(IV) 
+
+No. of 
+Partly 
+paid-up 
+equity 
+shares 
+
+held 
+(V) 
+
+No. of  
+shares 
+
+underlying 
+Depository 
+
+Receipts 
+
+(VI) 
+
+ 
+
+Total 
+nos.  
+shares 
+
+held 
+(VII) = 
+
+(IV)+(V)+ 
+
+(VI) 
+
+Shareholding 
+as a % of total 
+no. of shares 
+(calculated as 
+
+per SCRR, 
+
+1957) 
+ (VIII) 
+
+As a % of 
+(A+B+C2) 
+
+Number of Voting Rights 
+
+held in each class of 
+
+securities 
+
+(IX) 
+
+ 
+
+No of  Voting 
+
+Rights 
+Clas
+
+s 
+
+eg:y 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Clas
+
+s 
+eg: 
+X 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Tot
+al 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Total 
+as a 
+% of 
+(A+B+
+
+C) 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+No. of 
+Shares 
+
+Underlying 
+Outstanding 
+convertible 
+securities 
+(including 
+Warrants)  
+
+(X) 
+
+ 
+
+Shareholding , 
+
+as a % assuming 
+
+full conversion 
+of convertible 
+securities ( as a 
+percentage of 
+diluted share 
+
+capital) 
+
+ 
+
+(XI)= (VII)+(X) 
+
+As a % of 
+(A+B+C2) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Number of 
+Locked in 
+
+shares 
+
+ 
+
+(XII) 
+
+Number of 
+
+Number of 
+
+Shares  
+
+pledged or 
+otherwise 
+
+equity 
+
+shares held 
+
+in 
+
+encumbered 
+
+dematerializ
+
+ed form 
+
+ 
+
+(XIV) 
+
+No. 
+(a) 
+
+(XIII) 
+
+As a 
+% of 
+total 
+Share
+s held  
+
+(b) 
+
+No. 
+(a) 
+
+As a 
+% of 
+total 
+Shar
+es 
+
+held 
+ (b) 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NA 
+NA 
+
+NA 
+
+NA 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+NA 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Promoter & 
+Promoter 
+Group 
+Public  
+Non  Promoter- 
+Non Public  
+Shares 
+underlying DRs 
+Shares  held  by 
+Employee 
+Trusts 
+Total 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+(A) 
+
+(B) 
+(C) 
+
+(C1) 
+
+(C2) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 6 of 10 
+
+ 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+ 
+
+ 
+
+Table II - Statement showing shareholding pattern of the Promoter and Promoter Group 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Category & Name 
+
+of the 
+
+Shareholders 
+
+(I)  
+
+PAN 
+(II)  
+
+No. of 
+shareh
+older 
+
+(III) 
+
+No. of 
+fully 
+paid 
+up 
+
+equity 
+share
+s held  
+
+(IV) 
+
+Partly 
+paid-up 
+equity 
+shares 
+
+held 
+(V) 
+
+Nos. of  
+shares 
+
+underlying 
+Depository 
+
+Receipts 
+
+Total 
+nos.  
+shares 
+
+held 
+(VII = 
+
+(VI) 
+
+IV+V+VI) 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Sharehol
+ding % 
+calculate
+d as per 
+SCRR, 
+1957 
+
+  
+
+As a % of 
+(A+B+C2) 
+
+(VIII) 
+
+Number of Voting Rights held in 
+
+each class of securities 
+
+(IX) 
+
+No of  Voting Rights 
+
+Class 
+
+Class
+
+X 
+
+Y 
+
+Tot
+al 
+
+Total as 
+a % of 
+Total 
+Voting 
+rights  
+
+No. of 
+Shares 
+
+Underlying 
+Outstanding 
+convertible 
+securities 
+(including 
+Warrants)  
+
+(X) 
+
+ 
+
+Number of 
+Locked in 
+
+shares 
+
+(XII) 
+
+No. 
+(a) 
+
+As a 
+% of 
+total 
+Shar
+es 
+
+held 
+(b) 
+
+Shareholdin
+g , as a % 
+assuming 
+
+full 
+
+conversion 
+
+of 
+
+convertible 
+securities ( 
+
+as a 
+
+percentage 
+of diluted 
+
+share 
+capital) 
+
+(XI) = 
+
+(VII)+(X) as a 
+
+% of 
+
+A+B+C2 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Page 7 of 10 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Number of 
+
+Number of 
+
+Shares  
+
+pledged or 
+otherwise 
+encumbered
+
+(XIII) 
+
+No. 
+(a) 
+
+As a 
+% of 
+total 
+share
+s held 
+
+(b) 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+equity 
+
+shares held 
+
+in 
+
+dematerializ
+
+ed form 
+
+(XIV) 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Indian  
+Individuals/Hindu 
+undivided Family 
+Name (xyz…) 
+Central 
+Government/ State 
+Government(s) 
+Name (xyz…) 
+Financial 
+Institutions/ Banks  
+Name (xyz…) 
+Any Other 
+(specify) 
+Name (xyz…) 
+Sub-Total (A)(1) 
+Foreign  
+Individuals (Non-
+Resident 
+Individuals/ 
+Foreign 
+Individuals) 
+Name (xyz…) 
+Government 
+Name (xyz…) 
+Institutions    
+Name (xyz…) 
+Foreign Portfolio 
+Investor 
+Name (xyz…) 
+Any Other  
+(specify) 
+Name (xyz…) 
+Sub-Total (A)(2) 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+(1) 
+(a) 
+
+ 
+(b) 
+
+ 
+(c) 
+
+ 
+(d) 
+
+ 
+ 
+(2) 
+(a) 
+
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+
+ 
+(f) 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total 
+Shareholding of 
+Promoter and 
+Promoter Group 
+(A)= (A)(1)+(A)(2) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Details of Shares which remain unclaimed may be given hear along with details such as number of shareholders, outstanding shares held in demat/unclaimed suspense account, voting rights which are frozen etc. 
+
+Note:  
+(1)  PAN would not be displayed on website of Stock Exchange(s). 
+(2)  The term “Encumbrance” has the same meaning as assigned under regulation 28(3) of SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011. 
+
+ 
+
+ 
+
+Table III - Statement showing shareholding pattern of the Public shareholder 
+
+ 
+
+Category & Name 
+
+of the 
+
+Shareholders  
+
+(I) 
+
+PAN 
+(II)  
+
+Nos. of 
+shareh
+older 
+
+(III) 
+
+No. of 
+fully 
+paid 
+up 
+
+equity 
+share
+s held  
+
+(IV) 
+
+Partly 
+paid-up 
+equity 
+shares 
+
+held 
+(V) 
+
+Nos. of  
+shares 
+
+underlying 
+Depository 
+
+Receipts 
+
+Total 
+nos.  
+shares 
+
+held 
+VII = 
+
+(VI) 
+
+IV+V+VI 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Sharehol
+ding % 
+calculate
+d as per 
+SCRR, 
+1957 
+
+As a % of 
+(A+B+C2) 
+
+VIII 
+
+Number of Voting Rights held in 
+
+each class of securities 
+
+(IX) 
+
+No of  Voting Rights 
+
+Class 
+
+Class
+
+X 
+
+Y 
+
+Tot
+al 
+
+Total as 
+a % of 
+Total 
+Voting 
+rights  
+
+No. of 
+Shares 
+
+Underlying 
+Outstanding 
+convertible 
+securities 
+(including 
+Warrants)  
+
+(X) 
+
+ 
+
+Total 
+
+shareholdin
+g , as a % 
+assuming 
+
+full 
+
+conversion 
+
+of 
+
+convertible 
+securities     
+
+(as a 
+
+percentage 
+of diluted 
+
+share 
+capital) 
+
+(XI) 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Page 8 of 10 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Number of 
+Locked in 
+
+shares 
+
+(XII) 
+
+Number of 
+
+Number of 
+
+Shares  
+
+pledged or 
+otherwise 
+
+equity 
+
+shares held 
+
+in 
+
+encumbered 
+
+dematerializ
+
+No. 
+(a) 
+
+As a 
+% of 
+total 
+Shar
+es 
+
+held 
+(b) 
+
+(XIII) 
+
+No. 
+(No
+t 
+ap
+pli
+ca
+ble
+) 
+(a) 
+
+As a 
+% of 
+total 
+share
+s held 
+(Not 
+applic
+able) 
+
+(b) 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+NA 
+NA 
+NA 
+NA 
+
+NA 
+NA 
+
+NA 
+NA 
+
+NA 
+NA 
+
+NA 
+NA 
+
+NA 
+NA 
+
+NA 
+NA 
+
+NA 
+
+ed form 
+
+(XIV) 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Institutions 
+Mutual Funds/  
+Name (Xyz) 
+Venture Capital 
+Funds 
+Name (Xyz) 
+Alternate 
+Investment Funds 
+Name (Xyz) 
+Foreign Venture 
+Capital Investors 
+Name(Xyz) 
+Foreign Portfolio 
+Investors 
+Name(Xyz) 
+Financial 
+Institutions/ Banks 
+Name(Xyz) 
+Insurance 
+Companies 
+Name(Xyz) 
+Provident Funds/ 
+Pension Funds 
+Name(Xyz) 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+(1) 
+(a) 
+ 
+(b) 
+
+ 
+(c) 
+
+ 
+(d) 
+
+ 
+(e) 
+
+ 
+(f) 
+
+ 
+(g) 
+
+ 
+(h) 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+ 
+
+(i) 
+
+ 
+ 
+(2) 
+
+ 
+ 
+(3) 
+(a) 
+
+ 
+(b) 
+
+ 
+(c) 
+ 
+(d) 
+
+ 
+(e) 
+
+ 
+ 
+ 
+
+Any Other 
+(specify) 
+Name(Xyz) 
+Sub-Total (B)(1) 
+Central 
+Government/ 
+State 
+Government(s)/ 
+President of India 
+Name(Xyz) 
+Sub-Total (B)(2)   
+Non-institutions 
+Individuals - 
+i. Individual 
+shareholders 
+holding nominal 
+share capital up to 
+Rs. 2 lakhs. 
+ii. Individual 
+shareholders 
+holding nominal 
+share capital in 
+excess of Rs. 2 
+lakhs. 
+Name(Xyz) 
+NBFCs registered 
+with RBI 
+Name(Xyz) 
+Employee Trusts 
+Name(Xyz) 
+Overseas 
+Depositories 
+(holding DRs) 
+(balancing figure) 
+Name(Xyz) 
+Any Other 
+(specify) 
+Name(Xyz) 
+Sub-Total (B)(3)   
+Total Public 
+Shareholding 
+(B)= 
+(B)(1)+(B)(2)+(B)(
+3) 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+NA 
+
+NA 
+NA 
+NA 
+
+NA 
+NA 
+NA 
+NA 
+
+NA 
+NA 
+
+NA 
+NA 
+NA 
+NA 
+
+NA 
+NA 
+
+NA 
+NA 
+NA 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+Details of the shareholders acting as persons in Concert including their Shareholding (No. and %): 
+ 
+ 
+Details of Shares which remain unclaimed may be given hear along with details such as number of shareholders, outstanding shares held in demat/unclaimed suspense account, voting rights which are frozen etc. 
+ 
+ 
+Note:  
+(1)  PAN would not be displayed on website of Stock Exchange(s). 
+(2)  The above format needs to be disclosed along with the name of following persons: 
+         Institutions/Non Institutions holding more than 1% of total number of shares.  
+(3) W.r.t. the information pertaining to Depository Receipts, the same may be disclosed in the respective columns to the extent information available and the balance to be disclosed as held by custodian, 
+
+ 
+
+ 
+
+ 
+
+Page 9 of 10 
+
+ 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+ 
+
+ 
+
+Table IV - Statement showing shareholding pattern of the Non Promoter- Non Public shareholder 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Category & Name 
+
+of the 
+
+Shareholders 
+
+(I)  
+
+PAN  
+(II) 
+
+No. of 
+shareh
+older 
+
+(III) 
+
+Partly 
+paid-up 
+equity 
+shares 
+
+held 
+(V) 
+
+No. of 
+fully 
+paid 
+up 
+
+equity 
+share
+s held  
+
+(IV) 
+
+(1) 
+
+(a) 
+
+(i) 
+
+(ii) 
+
+(2) 
+
+(a) 
+
+ 
+
+Custodian/DR 
+Holder 
+Name of DR 
+Holder (if 
+available)  
+abc,.,.. 
+
+efg…. 
+
+Employee Benefit 
+Trust (under 
+SEBI (Share 
+based Employee 
+Benefit) 
+Regulations, 
+2014) 
+Name (abc… 
+
+Total Non-
+Promoter- Non 
+Public 
+Shareholding (C)= 
+(C)(1)+(C)(2) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nos. of  
+shares 
+
+Total no.  
+
+shares 
+
+underlying 
+Depository 
+
+held 
+(VII = 
+
+Receipts 
+
+IV+V+VI) 
+
+(VI) 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sharehol
+ding % 
+calculate
+d as per 
+SCRR, 
+1957 
+
+As a % of 
+(A+B+C2) 
+
+(VIII) 
+
+Number of Voting Rights held in 
+
+each class of securities 
+
+(IX) 
+
+No of  Voting Rights 
+
+Class 
+
+Class
+
+X 
+
+Y 
+
+Tot
+al 
+
+Total as 
+a % of 
+Total 
+Voting 
+rights  
+
+No. of 
+Shares 
+
+Underlying 
+Outstanding 
+convertible 
+securities 
+(including 
+Warrants)  
+
+(X) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note 
+(1)  PAN would not be displayed on website of Stock Exchange(s). 
+(2)  The above format needs to disclose name of all holders holding more than 1% of total number of shares 
+(3) W.r.t. the information pertaining to Depository Receipts, the same may be disclosed in the respective columns to the extent information available, 
+
+ 
+
+ 
+
+ 
+
+Page 10 of 10 
+
+Total 
+
+shareholdin
+g , as a % 
+assuming 
+
+full 
+
+conversion 
+
+Number of 
+Locked in 
+
+shares 
+
+(XII) 
+
+Number of 
+
+Number of 
+
+Shares  
+
+pledged or 
+otherwise 
+
+equity 
+
+shares held 
+
+in 
+
+encumbered 
+
+dematerializ
+
+of 
+
+No. 
+
+convertible 
+securities ( 
+
+as a 
+
+percentage 
+of diluted 
+
+share 
+capital)  
+
+(XI) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ed form 
+
+(XIV) 
+(Not 
+
+Applicable) 
+
+As a 
+% of 
+total 
+Shar
+es 
+
+held 
+
+ 
+
+(XIII) 
+
+No. 
+(No
+t 
+ap
+pli
+ca
+ble
+) 
+
+As a 
+% of 
+total 
+share
+s held 
+(Not 
+applic
+able) 
+
+NA 
+
+NA 
+
+NA 
+NA 
+NA 
+
+NA 
+NA 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+

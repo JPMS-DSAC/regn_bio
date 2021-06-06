@@ -1,0 +1,4415 @@
+ 
+ 
+
+ 
+
+Discussion Paper on  
+
+ 
+
+Review of SEBI (Buyback of Securities) 
+Regulations, 1998 and SEBI (Substantial 
+
+Acquisition of Shares and Takeovers) 
+
+Regulations, 2011 
+
+Background and Need for review 
+
+ 
+
+ 
+1.  SEBI  had  entrusted  the  work  of  reviewing  the  SEBI  (Buyback  of  Securities) 
+
+Regulations,  1998  and  SEBI  (Substantial  Acquisition  of  Shares  and  Takeovers) 
+
+Regulations,  2011  to  Shri.  P.  K.  Malhotra,  former  Member,  Securities  Appellate 
+
+Tribunal and former Secretary, Ministry of Law and Justice (‘Expert’). The scope of 
+
+the  said  review  exercise  was  simplifying  the  language,  removing  redundant 
+
+provisions  and  inconsistencies,  aligning  with  provisions  of  the  latest  Companies 
+
+Act, 2013/ other new SEBI Regulations, and incorporating the circulars, FAQs and 
+
+informal guidance in the regulations, without making any policy change. 
+
+   
+
+2.  In  line  with  the  aforesaid  mandate,  the  review  was  undertaken  by  the  expert. 
+
+Pursuant  to  the  review  exercise,  a  significant  number  of  provisions  as  outlined 
+
+under  Section  68  and  70  of  the  Companies  Act,  2013  are  proposed  to  be 
+
+incorporated  in  the  Buy-back  Regulations  to  make  it  self-contained  and  more 
+
+comprehensive.  Further,  existing  provisions  have  also  been  re-structured  and  re-
+
+sequenced to give a better flow. Consequent upon these changes, it is proposed to 
+
+re-frame  an  entirely  new  set  of  Buy-back  Regulations  in  lieu  of  the  extant  1998 
+
+version  of  the  regulations.  Further,  in  respect  of  the  Takeover  Regulations, 
+
+amendments have been proposed in the existing set of regulations which includes 
+
+a proposal related to extending the time period for making upward revision of offer 
+
+price. 
+
+ 
+
+3.  Accordingly, the draft SEBI (Buyback of Securities) Regulations, 2018 is enclosed 
+
+at  Annexure-I  and  the  draft  amendment  notification  for  amending  the  SEBI 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+(Substantial  Acquisition  of  Shares  and Takeovers)  Regulations,  2011  is  enclosed 
+
+at Annexure-II.  
+
+  
+
+Public comments: 
+ 
+4.  Considering the implications of the instant matter on the market participants, public 
+
+comments  on  the  draft  buyback  regulations  enclosed  at  Annexure-I  and  draft 
+
+takeover regulations amendment notification enclosed at Annexure-II are solicited. 
+
+Specific  comments/  suggestions  as  per  the  format  given  below  would  be  highly 
+
+appreciated: 
+
+ 
+
+Name of entity/ person/ intermediary:  
+ 
+
+ 
+
+Name of organization (if applicable): 
+ 
+
+ 
+
+Contact details:  
+ 
+
+Sr. 
+No. 
+
+Pertains to serial number 
+
+Proposed/ 
+
+Rationale 
+
+in the annexure 
+
+suggested changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.  Such  comments  may  please  be  e-mailed  to  bbsast2018@sebi.gov.in  or  sent  by 
+
+post at the following address latest by April 15, 2018: 
+
+ 
+Shri. Rajesh Gujjar 
+Deputy General Manager 
+Corporation Finance Department 
+Division of Corporate Restructuring 
+Securities and Exchange Board of India  
+SEBI Bhavan 
+Plot No. C4-A, "G" Block 
+Bandra Kurla Complex 
+Bandra (East), Mumbai - 400 051 
+Phone: +912226449232 
+
+ 
+Issued on: March 28, 2018 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+Page 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ANNEXURE-I 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA  
+
+ 
+
+ NOTIFICATION  
+
+Mumbai, the [●], 2018  
+
+ 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA (BUY-BACK OF SECURITIES) 
+
+REGULATIONS, 2018 
+
+ 
+
+ 
+ 
+
+ 
+
+WHEREAS  the  Securities  and  Exchange  Board  of  India  (SEBI)  had  issued  the  Securities 
+
+and Exchange Board of India (Buy-Back of Securities) Regulations, 1998 under S.O. 975(E);  
+
+ 
+AND WHEREAS the said Regulations came into force with effect from ____________; 
+
+ 
+AND WHEREAS certain new legislations have come into existence after the enactment of the said 
+
+Regulations which has necessitated certain changes in  the existing Regulations by making reference 
+
+to the relevant provisions of Law;  
+
+ 
+NOW, THEREFORE, in exercise of the powers conferred by sub-sections (1) and (2) of section 
+
+11 and section 30 of the Securities and Exchange Board of India Act, 1992 (15 of 1992) read with 
+
+applicable  provisions  of  the  Companies  Act  and  in  supersession  of  the  Securities  And  Exchange 
+
+Board  of  India  (Buy-Back  of  Securities)  Regulations,  1998,  the  Board  hereby  makes  the  following 
+
+regulations, namely:- 
+
+CHAPTER I 
+
+PRELIMINARY 
+
+ 
+
+Short title and commencement 
+
+(i)  These regulations shall be called the Securities and Exchange  Board of India (Buy-Back of 
+
+Securities) Regulations, 2018. 
+
+ 
+
+(ii)  These  regulations  shall  come  into  force  on  the  date  of  their  publication  in  the  Official 
+
+Gazette. 
+
+Page 3 
+
+1. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+2. 
+
+Definitions 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+ 
+
+(i)  
+
+In these regulations, unless the context otherwise requires:— 
+
+a) 
+
+‘Act’  means  the  Securities  and  Exchange  Board  of  India  Act,  1992  (15  of 
+
+1992); 
+
+ 
+
+b) 
+
+‘associate’ includes a person,— 
+
+ 
+
+who directly or indirectly by himself or in combination with relatives, 
+
+exercise control over the company or, 
+
+whose  employee,  officer  or  director  is  also  a  director,  officer  or 
+
+employee of another company; 
+
+i) 
+
+ii) 
+
+ 
+
+c) 
+
+“Board”  means  the  Securities  and  Exchange  Board  of  India  established 
+
+under section 3 of the Act; 
+
+ 
+
+d) 
+
+‘control’  has  the  same  meaning  as  defined in clause (e) of sub-regulation (1) 
+
+of  regulation  (2)  of  the  Securities  and  Exchange  Board  of  India  (Substantial 
+
+Acquisition of Shares and Takeovers) Regulations, 2011; 
+
+ 
+
+e) 
+
+‘company’  means  a  company  as  defined  under  the  Companies  Act,  whose 
+
+shares  or  other  specified  securities  are  listed  on  a  Stock  Exchange  and  which 
+
+buys  or  intends  to  buy  such  shares  or  other  specified  securities  in  accordance 
+
+with these regulations; 
+
+ 
+
+‘Companies Act’ means the Companies Act, 2013. 
+
+  
+
+‘insider’  means  an  insider  as  defined  in  clause  (g)  of  sub-regulation  (1)  of 
+
+regulation  2  of  the  Securities  and  Exchange  Board  of  India  (Prohibition  of 
+
+Insider Trading) Regulations, 2015; 
+
+f) 
+
+g) 
+
+ 
+
+h) 
+
+‘merchant  banker’  means  a  merchant  banker  as  defined  clause  (cb)  of 
+
+Page 4 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+regulation  2  of  the  Securities  and  Exchange  Board  of  India  (Merchant 
+
+Bankers) Regulations, 1992 and registered under section 12 of the Act; 
+
+‘odd lots’ mean the lots of securities of a company, whose shares are listed 
+
+on a recognised stock exchange, which are smaller than such marketable lots, 
+
+as may be specified by the stock exchange; 
+
+  
+
+‘promoter’  means  promoter  as  defined  in  clause  (s)  of  sub-regulation  (1)  of 
+
+regulation  2  of  the  Securities  and  Exchange  Board  of  India  (Substantial 
+
+Acquisition of Shares and Takeovers) Regulations, 2011; 
+
+ 
+
+i) 
+
+j) 
+
+k) 
+
+‘registrar’  means  a  registrar  to  an  issue  and  includes  a  share  transfer  agent 
+
+registered under section 12 of the Act; 
+
+l) 
+
+‘securities’  mean  securities  as  defined  in  clause  (h)  of  section  2  of  the 
+
+Securities Contracts (Regulation) Act, 1956 (42 of 1956); 
+
+(m)  
+
+‘small  shareholder’  means  a  shareholder  of  a  company,  who  holds  shares  or 
+
+other  specified  securities  whose  market  value,  on  the  basis  of  closing  price  of 
+
+shares or other specified securities, on the recognised stock exchange in which 
+
+highest  trading  volume  in  respect  of  such  securities,  as  on  record  date  is  not 
+
+more than two lakh rupee; 
+
+ 
+
+n) 
+
+‘specified securities’ includes employees’ stock option or other securities as 
+
+may be notified by the Central Government from time to time; 
+
+ 
+
+o) 
+
+‘statutory auditor’ means an auditor appointed by a company under section 
+
+139 of the Companies Act; 
+
+p) 
+
+‘stock  exchange’  means  a  stock  exchange  which  has  been  granted 
+
+recognition  under  section  4  of  the  Securities  Contracts  (Regulation)  Act, 
+
+1956 (42 of 1956); 
+
+q) 
+
+‘tender  offer’  means  an  offer  by  a  company  to  buy-back  its  own  shares  or 
+
+Page 5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+other  specified  securities  through  a  letter  of  offer  from  the  holders  of  the 
+
+shares or other specified securities of the company; 
+
+ 
+
+r) 
+
+‘unpublished    price    sensitive    information’  has  the  same  meaning  as 
+
+defined  in  clause  (n)  of  sub-regulation  (1)  of  regulation  2  of  the  Securities 
+
+and  Exchange  Board  of  India  (Prohibition  of  Insider  Trading)  Regulations, 
+
+2015; 
+
+s) 
+
+‘working day’ means any working day of the Board. 
+
+(ii) 
+
+All  other  expressions  unless  defined  herein  shall  have  the  same  meaning  as  has  been 
+
+assigned  to  them  under  the  Act  or  the  Securities  Contracts  (Regulation)  Act,  1956,  or 
+
+Companies Act or any statutory modification or re-enactment thereof, as the case may 
+
+be. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+CHAPTER II 
+
+CONDITIONS OF BUY-BACK 
+
+3. 
+
+Applicability: 
+
+ 
+
+ 
+
+These regulations shall be applicable to buy-back of shares or other specified securities of a 
+
+company in accordance with the applicable provisions of the Companies Act.  
+
+4. 
+
+Conditions  and  requirements  for  buy-back  of  shares  and  specified 
+
+securities:  
+
+ 
+The  maximum  limit  of  any  buy-back  shall  be  twenty-five  per  cent  or  less  of  the 
+
+(i) 
+
+aggregate of paid-up capital and free reserves of the company:  
+
+ 
+
+Explanation:  In  respect  of  the  buy-back  of  equity  shares  in  any  financial  year,  the 
+
+reference to twenty-five per cent in this regulation shall mean its total paid-up equity 
+
+capital in that financial year; 
+
+ 
+
+ 
+ 
+
+Page 6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+(ii) 
+
+The  ratio  of  the  aggregate  of  secured  and  unsecured  debts  owed  by  the  company 
+
+after buy-back shall not be more than twice the paid-up capital and free reserves. 
+
+ 
+
+Provided  that  the  Central  Government  may,  by  order,  notify  a  higher  ratio  of  the 
+
+debt to capital and free reserves for a class or classes of companies.  
+
+ 
+
+(iii) 
+
+All shares or other specified securities for buy-back shall be fully paid-up.  
+
+ 
+
+(iv) 
+
+A company  may  buy-back its shares or other specified securities by  any  one  of the 
+
+following methods: 
+
+a) 
+
+from  the  existing  security-holders  on  a  proportionate  basis  through  the 
+
+tender offer; 
+
+ 
+
+b) 
+
+from the open market through— 
+
+i) 
+
+ii) 
+
+book-building process, 
+
+stock exchange; 
+
+c) 
+
+from odd-lot holders: 
+
+ 
+
+ 
+
+Provided that no offer of buy-back for fifteen per cent or more of the paid up capital 
+
+and free reserves of the company shall be made from the open market. 
+
+(v) 
+
+A company shall not buy-back its shares or other specified securities so as to delist 
+
+its shares or other specified securities from the stock exchange. 
+
+ 
+
+(vi) 
+
+A  company  shall  not  buy-back  its  shares  or  other  specified  securities  from  any 
+
+person  through  negotiated  deals, whether  on  or  off  the  stock  exchange  or  through 
+
+spot transactions or through any private arrangement. 
+
+ 
+
+(vii)  Any person or an insider shall not deal in securities of the company on the basis of 
+
+unpublished  price  sensitive  information  relating  to  buy-back  of  shares  or  other 
+
+specified securities of the company. 
+
+Page 7 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+(viii)  A  company  shall  not  make  any  offer  of  buy-back  within  a  period  of  one  year 
+
+reckoned from the date of closure of the preceding offer of buy-back, if any. 
+
+ 
+
+(ix) 
+
+ 
+
+(x) 
+
+ 
+
+ 
+
+A company shall not allow buy-back of its shares unless the consequent reduction of 
+
+its share capital is effected.  
+
+A company may undertake a buy-back of its own shares or other specified securities 
+
+out of— 
+
+(a)  
+
+(b)  
+
+(c)  
+
+its free reserves; 
+
+the securities premium account; or 
+
+the proceeds of the issue of any shares or other specified securities: 
+
+Provided that no such buy-back shall be made out of the proceeds of an earlier issue of 
+
+the same kind of shares or same kind of other specified securities. 
+
+(xi)  No  company  shall  directly  or  indirectly  purchase  its  own  shares  or  other  specified 
+
+securities: 
+
+ 
+
+ 
+
+(a) through any subsidiary company including its own subsidiary companies;  
+
+(b) through any investment company or group of investment companies; or  
+
+(c) if a default is made by the company in the repayment of deposits accepted either 
+
+before or after the commencement of the Companies Act, interest payment thereon, 
+
+redemption  of  debentures  or  preference  shares  or  payment  of  dividend  to  any 
+
+shareholder,  or  repayment  of  any  term  loan  or  interest  payable  thereon  to  any 
+
+financial institution or banking company:  
+
+ 
+
+Provided that the buy-back is not prohibited, if the default is remedied and a 
+
+period of three years has lapsed after such default ceased to subsist.  
+
+(xii)  Where a company completes a buy-back of its shares or other specified securities, it 
+
+shall not make a further issue of the same kind of shares or other securities including 
+
+allotment  of  new  shares  under  applicable  provisions  of  Companies  Act  or  other 
+
+specified securities within a period of six months except by way of a bonus issue or 
+
+in  the  discharge  of  subsisting  obligations  such  as  conversion  of  warrants,  stock 
+
+option schemes, sweat equity or conversion of preference shares or debentures into 
+
+equity shares. 
+
+Page 8 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+General Compliance and Filing Requirements for Buy-back: 
+
+(i) 
+
+The company shall not authorise any buy-back (whether tender offer or from open 
+
+market or odd lot) unless: 
+
+a) 
+
+b) 
+
+The buy-back is authorised by the company's articles; 
+
+ 
+
+Except  otherwise  specified  in  this  regulation,  a  special  resolution  has  been 
+
+passed at a general meeting of the company authorising the buy-back; 
+
+ 
+
+(ii) 
+
+Every  buy-back  shall  be  completed  within  a  period  of  one  year  from  the  date  of 
+
+passing of the special resolution at general meeting, or the resolution passed by  the 
+
+board of directors of the company, as the case may be. 
+
+ 
+
+(iii) 
+
+The  company  shall, after the completion of the buy-back, file  with the  Registrar of 
+
+Companies  and  the  Board,  a  return  containing  such  particulars  relating  to  the  buy-
+
+back within thirty days of such completion, in the format as may be specified. 
+
+(iv) 
+
+Special Resolution: 
+
+Where  a  special  resolution  is  required  for  authorizing  a  buy-back,  the  explanatory 
+
+statement to be annexed with the notice for the general meeting pursuant to section 
+
+102  of  the  Companies  Act  shall  contain  mandatory  disclosures  mentioned  therein 
+
+and the following disclosures: 
+
+ 
+Disclosures under sub-section 3 of section 68 of the Companies Act— 
+
+a) 
+
+i) 
+
+ii) 
+
+iii) 
+
+iv) 
+
+v) 
+
+a full and complete disclosure of all material facts; 
+
+the necessity for the buy-back; 
+
+the  class  of  shares  or  securities  intended  to  be  purchased  under  the 
+
+buy-back; 
+
+the amount to be invested under the buy-back; and 
+
+the time-limit for completion of buy-back. 
+
+ 
+
+b) 
+
+Additional disclosures under these regulations as provided in Schedule A, 
+
+Page 9 
+
+ 
+
+ 
+ 
+ 
+5. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+c) 
+
+Provided  that  where  the  buy-back  is  through  tender  offer  from  existing 
+
+security-holders,  the  explanatory  statement  shall  contain  the  following 
+
+additional disclosures: 
+
+i) 
+
+the  maximum  price  at  which  the  buy-back  of  shares  or  other 
+
+specified securities shall be made and whether the board of directors 
+
+of  the  company  is  being  authorised  at  the  general  meeting  to 
+
+determine subsequently the specific price at which the buy-back may 
+
+be made at the appropriate time; 
+
+ 
+if the promoter intends to offer his shares or other specified securities, 
+
+ii) 
+
+the  quantum  of  shares  or  other  specified  securities  proposed  to  be 
+
+tendered and the details of their transactions and their holdings for the 
+
+last  six  months  prior  to  the  passing  of  the  special  resolution  for  buy-
+
+back  including  information  of  number  of  shares  or  other  specified 
+
+securities acquired, the price and the date of acquisition. 
+
+ 
+
+d) 
+
+Where the buy-back is from open market either through the stock exchange 
+
+or  book  building,  the  special  resolution  shall  specify  the  maximum  price  at 
+
+which the buy-back shall be made. 
+
+ 
+
+(v) 
+
+Filing Requirements for the Special Resolution: 
+
+A  copy  of  the  resolution  passed  at  the  general  meeting  under  sub-section  (2)  of 
+
+section  68  of  the  Companies  Act  shall  be  filed  with  the  Board  and  the  stock 
+
+exchanges  where  the  shares  or  other  specified  securities  of  the  company  are  listed, 
+
+within seven days from the date of passing of the resolution. 
+
+(vi) 
+
+Board of Directors Resolution:  
+
+ 
+
+(i) 
+
+Nothing contained in sub-regulation (iv) of this regulation shall apply 
+
+to a case where— 
+
+a)  the  buy-back  is,  ten  per  cent.  or  less  of  the  total  paid-up 
+
+equity capital and free reserves of the company; and 
+
+ 
+
+Page 10 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+6. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+b)  such buy-back has been authorised by the Board of Directors 
+
+of  the  company  by  means  of  a  resolution  passed  at  its 
+
+meeting; 
+
+ 
+
+(ii) 
+
+Where  the  buy-back  is  from  open  market  either  through  the  stock 
+
+exchange or through book building, the board of directors resolution shall 
+
+specify the maximum price at which the buy-back shall be made. 
+
+(vii)      Filing Requirement for the Board of Directors Resolution 
+
+ 
+
+A company, authorized by a resolution passed by the Board of Directors at 
+
+its  meeting  to  buy-back  its  shares  or  other  specified  securities  under  the 
+
+proviso to clause (b) of sub-section (2) of section 68 of the Companies Act, 
+
+shall  file  a copy  of  the  resolution,  with  the  Board and  the  stock  exchanges, 
+
+where  the  shares  or  other  specified  securities  of  the  company  are  listed, 
+
+within two working days of the date of the passing of the resolution. 
+
+ 
+
+CHAPTER III 
+
+BUY-BACK THROUGH TENDER OFFER 
+
+A company  may buy-back its  shares or other specified securities from its existing security-
+
+holders on a proportionate basis in accordance with the provisions of this Chapter:   
+
+Provided  that  fifteen  per  cent  of  the  number  of  securities  which  the  company 
+
+proposes to buy-back or number of securities entitled as per their shareholding, whichever is 
+
+higher, shall be reserved for small shareholders.  
+
+ 
+Disclosures, 
+
+7. 
+
+filing 
+
+requirements 
+
+and 
+
+timelines 
+
+for 
+
+public 
+
+announcement: 
+
+ 
+
+ 
+ 
+
+(i) 
+
+The  company  which  has  been  authorised  by  a  special  resolution  or  a  resolution 
+
+passed  by  the  Board  of  Directors,  as  the  case  may  be,  shall  make  a  public 
+
+announcement within two working days from the date of resolution in at least one 
+
+Page 11 
+
+ 
+
+ 
+ 
+
+ 
+
+(ii) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+English National Daily, one  Hindi National Daily and one  Regional language  daily, 
+
+all with wide circulation at the place where the Registered Office of the company is 
+
+situated and the said public announcement shall contain all the material information 
+
+as specified in Schedule B. 
+
+A copy of the public announcement along with the soft copy, shall also be submitted 
+
+to the Board, simultaneously, through a merchant banker. 
+
+8. 
+
+Disclosures, filing requirements and timelines for draft letter of offer: 
+
+ 
+(i) 
+
+ 
+
+ 
+
+The  company  shall  within  five  working  days  of  the  public  announcement  file  the 
+
+following with the Board: 
+
+ 
+
+a) 
+
+a  draft  letter  of  offer,  along  with  a  soft  copy,  containing  disclosures  as 
+
+specified  in  Schedule  C  through  a  merchant  banker  who  is  not  associated 
+
+with the company.  
+
+b) 
+
+a declaration of solvency in specified form and in a manner provided in sub-
+
+section (6) of section 68 of the Companies Act. 
+
+c) 
+
+fees specified in Schedule E. 
+
+(ii) 
+
+SEBI Comments and follow up:  
+
+The Board may provide its comments on the draft letter of offer not later than seven 
+
+working days of the receipt of the draft letter of offer:  
+
+ 
+
+Provided  that  in  the  event  the  Board  has  sought  clarifications  or  additional 
+
+information from the merchant banker to the buy-back offer, the period of issuance 
+
+of comments shall be extended to the seventh working day from the date of receipt 
+
+of satisfactory reply to the clarification or additional information sought: 
+
+ 
+
+Provided  further  that  in  the  event  the  Board  specifies  any  changes,  the 
+
+merchant banker to the buy-back offer and the company shall carryout such changes 
+
+Page 12 
+
+  
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+in the letter of offer before it is dispatched to the shareholders. 
+
+ 
+
+ 
+
+9. 
+
+Offer Procedure 
+
+ 
+
+(i) 
+
+A  company  making  a  buy-back  offer  shall  announce  a  record  date  in  the  public 
+
+announcement for the purpose of determining the entitlement and the names of the 
+
+security holders, who are eligible to participate in the proposed buy-back offer. 
+
+ 
+
+(ii) 
+
+The  letter  of  offer  along  with  the  tender  form  shall  be  dispatched  to  the  security 
+
+holders  who  are  eligible  to  participate  in  the  buy-back  offer,  not  later  than  five 
+
+working days from the receipt of communication of comments from the Board. 
+
+ 
+
+Explanation:  
+
+1.  Letter  of  Offer  may  also  be  dispatched  through  electronic  mode  in 
+
+accordance with the provisions of the Companies Act.  
+
+2.  On  receipt  of  a  request  from  any  shareholder  to  receive  a  copy  of  the 
+
+letter of offer in physical format, the same shall be provided.  
+
+3.  The aforesaid shall be disclosed in the letter of offer. 
+
+ 
+
+(iii) 
+
+Even if an eligible public shareholder does not receive the tender offer/offer form, 
+
+he may participate in the buy-back offer and tender shares in the manner as provided 
+
+by the Board.  
+
+ 
+
+(iv) 
+
+An unregistered shareholder may also tender his shares for buy-back by submitting 
+
+the  duly  executed  transfer  deed  for  transfer  of  shares  in  his  name,  along  with  the 
+
+offer form and other relevant documents as required for transfer, if any. 
+
+ 
+(v) 
+
+The date of the opening of the offer shall be not later than five working days from 
+
+the date of dispatch of the letter of offer. 
+
+(vi) 
+
+The offer for buy-back shall remain open for a period of ten working days. 
+
+ 
+
+(vii) 
+
+The company shall facilitate tendering of shares by the shareholders and settlement 
+
+Page 13 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+of the same, through the stock exchange  mechanism in the manner as provided by 
+
+the Board. 
+
+ 
+(viii)  The  company  shall  accept  shares  or  other  specified  securities  from  the  security 
+
+holders on the basis of their entitlement as on record date. 
+
+ 
+
+(ix) 
+
+The  shares  proposed  to  be  bought  back  shall  be  divided  into  two  categories;  (a) 
+
+reserved  category  for  small  shareholders  and  (b)  the  general  category  for  other 
+
+shareholders,  and  the  entitlement  of  a  shareholder  in  each  category  shall  be 
+
+calculated accordingly. 
+
+ 
+
+(x) 
+
+ 
+
+After  accepting  the  shares  or  other  specified  securities  tendered  on  the  basis  of 
+
+entitlement, shares or other specified securities left to be bought back, if any in one 
+
+category  shall  first  be  accepted,  in  proportion  to  the  shares  or  other  specified 
+
+securities tendered over and above their entitlement in the offer by security holders 
+
+in  that  category  and  thereafter  from  security  holders  who  have  tendered  over  and 
+
+above their entitlement in other category. 
+
+(xi) 
+
+Escrow account 
+
+ 
+
+(a) 
+
+The  company  shall,  as  and  by  way  of  security  for  performance  of  its 
+
+obligations  under  the  regulations,  on  or  before  the  opening  of  the  offer, 
+
+deposit in an escrow account such sum as specified in clause (b);  
+
+(b) 
+
+The escrow amount shall be payable in the following manner: 
+
+(i) 
+
+if the consideration payable does not exceed  Rupees 100 crores; 25 
+
+per cent of the consideration payable; 
+
+(ii) 
+
+if the consideration payable exceeds Rupees 100 crores; 25 per cent 
+
+upto Rupees 100 crores and 10 per cent thereafter. 
+
+(c) 
+
+The escrow account referred to in this regulation shall consist of, 
+
+(i) 
+
+cash deposited with a scheduled commercial bank, or 
+
+Page 14 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+(ii) 
+
+(iii) 
+
+bank guarantee in favour of the merchant banker, or 
+
+deposit  of  acceptable  securities  with  appropriate  margin,  with  the 
+
+merchant banker, or 
+
+(iv) 
+
+a combination of (i), (ii) and (iii). 
+
+ 
+
+Explanation:  The  cash  component  of  the  escrow  account  may  be  maintained  in  an 
+
+interest bearing account, provided that the merchant banker ensures that the  funds 
+
+are available at the time of making payment to shareholders. 
+
+ 
+
+(d)  Where  the  escrow  account  consists  of  deposit  with  a  scheduled  commercial 
+
+bank,  the  company  shall,  while  opening  the  account,  empower  the  merchant 
+
+banker to instruct the bank to issue a banker’s cheque or demand draft for the 
+
+amount  lying  to  the  credit  of  the  escrow  account,  as  provided  in  the 
+
+regulations. 
+
+(e)  Where the escrow account consists of a bank guarantee, such bank guarantee 
+
+shall be in favour of the merchant banker and shall be valid until thirty days 
+
+after the closure of the offer. 
+
+(f) 
+
+The  company  shall,  in  case  the  escrow  account  consists  of  securities, 
+
+empower the merchant banker to realise the value of such escrow account by 
+
+sale or otherwise and if there is any deficit on realisation of the value of the 
+
+securities, the merchant banker shall be liable to make good any such deficit. 
+
+(g) 
+
+In case the escrow account consists of bank guarantee or approved securities, 
+
+these  shall  not  be  returned  by  the  merchant  banker  till  completion  of  all 
+
+obligations under the regulations. 
+
+(h)  Where the escrow account consists of bank guarantee or deposit of approved 
+
+securities, the company shall also deposit with the bank in cash a sum of at 
+
+least  one  per  cent  of  the  total  consideration  payable,  as  and  by  way  of 
+
+security  for  fulfillment  of  the  obligations  under  the  regulations  by  the 
+
+company. 
+
+Page 15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+(i) 
+
+On payment of consideration to all the  security-holders who have accepted 
+
+the  offer  and  after  completion  of  all  formalities  of  buy-back,  the  amount, 
+
+guarantee  and  securities  in  the  escrow,  if  any,  shall  be  released  to  the 
+
+company. 
+
+ 
+
+(j) 
+
+The  Board 
+
+in  the 
+
+interest  of  the  security-holders  may 
+
+in  case  of 
+
+nonfulfillment  of  obligations  under  the  regulations  by  the  company  forfeit 
+
+the escrow account either in full or in part. 
+
+(xii) 
+
+The  amount  forfeited  under  clause  (j)  may  be  distributed  pro  rata  amongst  the 
+
+security-holders  who  accepted  the  offer  and  balance,  if  any,  shall  be  utilised  for 
+
+investor protection. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+10.  Closure and Payment to security-holders: 
+
+ 
+
+(i) 
+
+The company shall immediately after the date of closure of the offer, open a special 
+
+account  with  a  banker  to  an  issue,  registered  with  the  Board  and  deposit  therein, 
+
+such sum as would, together with ninety per cent of the amount lying in the escrow 
+
+account  make-up  the entire  sum,  due  and  payable  as  consideration  for  buy-back  in 
+
+terms  of  these  regulations  and  for  this  purpose,  may  transfer  the  funds  from  the 
+
+escrow account. 
+
+ 
+
+(ii) 
+
+ The  company  shall complete the verification of offers  received and  make  payment 
+
+of  consideration  to  those  security-holders  whose  offer  has  been  accepted  or  return 
+
+the shares or other specified securities to the security-holders within seven working 
+
+days of the closure of the offer. 
+
+ 
+
+11.  Extinguishment of certificate and other Closure Compliances: 
+
+ 
+
+ 
+ 
+
+(i)  The company shall extinguish and physically destroy the security certificates so bought back 
+
+in the presence of a registrar to issue or the Merchant Banker and the Statutory Auditor 
+
+within fifteen days of the date of acceptance of the shares or other specified securities. 
+
+ 
+
+Page 16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Provided  that  the  company  shall  ensure  that  all  the  securities  bought-back  are 
+
+extinguished within seven days of the last date of completion of buy-back.  
+
+ 
+
+Explanation:  The  aforesaid  period  of  fifteen  days  shall  in  no  case  extend  beyond 
+
+seven days of the last date of completion of buy-back. 
+
+(ii)  The  shares  or  other  specified  securities  offered  for  buy-back  if already  dematerialised  shall 
+
+be  extinguished  and  destroyed  in  the  manner  specified  under  the  Securities  and 
+
+Exchange Board of India (Depositories and Participants) Regulations, 1996, and the bye-
+
+laws, the circulars and guidelines framed thereunder. 
+
+(iii) The  company  shall,  furnish  a  certificate  to  the  Board  certifying  compliance  as  specified  in 
+
+sub-regulation (i) above, and duly certified and verified by: 
+
+a) 
+
+b) 
+
+c) 
+
+ 
+
+the registrar and whenever there is no registrar, by the merchant banker;  
+
+two  directors  of  the  company,  one  of  whom  shall  be  a  managing  director, 
+
+where there is one; and 
+
+the statutory auditor of the company, 
+
+This certificate shall be furnished to the Board on a monthly basis by the seventh day of 
+
+the month succeeding the month in which the securities certificates are extinguished and 
+
+destroyed. 
+
+(iv) The  company  shall  furnish  the  particulars  of  the  securities  certificates  extinguished  and 
+
+destroyed  under  sub-regulation  (i),  to  the  stock  exchanges  where  the  shares  of  the 
+
+company are listed on a monthly basis by the seventh day of the month succeeding the 
+
+month in which the securities certificates are extinguished and destroyed. 
+
+ 
+
+(v)  Where a company buys back its shares or other specified securities under these regulations, it 
+
+shall maintain a register of the shares or securities so bought, the consideration paid for 
+
+the shares or securities bought back, the date of cancellation of shares or securities, the 
+
+date  of  extinguishing  and  physically  destroying  the  shares  or  securities  and  such  other 
+
+particulars as may be prescribed in sub-section (9) of section 68 of the Companies Act.  
+
+Page 17 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+12.  Odd-lot Buy-back 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+The provisions pertaining to buy-back through tender offer as specified in this Chapter shall 
+
+be applicable mutatis mutandis to odd-lot shares or other specified securities. 
+
+ 
+
+CHAPTER IV 
+
+BUY-BACK FROM THE OPEN MARKET 
+
+ 
+
+A  company  intending  to  buy-back  its  shares  or  other  specified  securities  from  the  open 
+
+market shall do so in accordance with the provisions of this Chapter. 
+
+The buy-back of shares or other specified securities from the open market may be in any one 
+
+13. 
+
+ 
+
+14. 
+
+of the following methods: 
+
+(a) 
+
+(b) 
+
+through stock exchange, 
+
+book-building process. 
+
+15. 
+
+The company shall ensure that at least fifty per cent of the amount earmarked for buy-back, 
+
+as specified in resolutions referred to in sub-regulation (iv) of regulation 5 or sub-regulation 
+
+(vi) of regulation 5, as the case may be, is utilized for buying-back shares or other specified 
+
+securities.  
+
+Buy-back through stock exchange 
+
+(i) 
+
+The  buy-back  shall  be  made  only  on  stock  exchanges  having  nationwide  trading 
+
+terminals; 
+
+ 
+
+(ii) 
+
+The buy-back of the shares or other specified securities through the stock exchange 
+
+shall not be made from the promoters or persons in control of the company; 
+
+(iii) 
+
+The  buy-back  of  shares  or  other  specified  securities  shall  be  made  only  through  the 
+
+order matching mechanism except ‘all or none’ order matching system; 
+
+ 
+
+(iv)  Disclosures, filing requirements and timelines of public announcement: 
+
+Page 18 
+
+16. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+a) 
+
+The  company  shall  appoint  a  merchant  banker  and  make  a  public 
+
+announcement as referred to in regulation 7 pertaining to tender offer; 
+
+ 
+
+b) 
+
+The public announcement shall be made within seven working days from the 
+
+date of passing the special resolution or the Board of Directors resolution as 
+
+relevant and shall contain disclosures as specified in  Schedule D; 
+
+ 
+
+c) 
+
+Simultaneously  with  the  issue  of  such  public  announcement,  the  company 
+
+shall file a copy of the public announcement with the Board along with the 
+
+fees specified in Schedule E; 
+
+ 
+
+d) 
+
+The  public announcement shall also contain disclosures regarding details of 
+
+the  brokers  and  stock  exchanges  through  which  the  buy-back  of  shares  or 
+
+other specified securities would be made; 
+
+Explanation: In case of the buy-back from open market, no draft letter of offer/ letter 
+
+of offer is required to be filed with the Board. 
+
+17.  Opening of the offer on stock exchange: 
+
+ 
+
+(i) 
+
+The  identity  of  the  company  as  a  purchaser  shall  appear  on  the  electronic  screen 
+
+when the order is placed; 
+
+(ii) 
+
+ The  buy-back  offer  shall  open  not  later  than  seven  working  days  from  the  date  of 
+
+public announcement and shall close within six months from the date of opening of 
+
+the offer. 
+
+18. 
+
+Subsequent  compliances  for  open  market  Buy-back  through  stock 
+
+exchange: 
+
+(i) 
+
+The  company  shall  submit  the  information  regarding  the  shares  or  other  specified 
+
+securities bought-back, to the stock exchange on a daily basis in such form as may be 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Page 19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+specified by the Board and the stock exchange shall upload the same on its  official 
+
+website immediately; 
+
+ 
+
+(ii) 
+
+The  company  shall  upload  the  information  regarding  the  shares  or  other  specified 
+
+securities bought-back on its website on a daily basis; 
+
+A company may buy-back its shares or other specified securities in physical form in the open 
+
+market through stock exchange by following the procedure as provided hereunder: 
+
+(i) 
+
+A separate window shall be created by the stock exchange, which shall remain open 
+
+during  the  buy-back  period,  for  buy-back  of  shares  or  other  specified  securities  in 
+
+physical form. 
+
+(ii) 
+
+The  company  shall  buy-back  shares  or  other  specified  securities  from  eligible 
+
+shareholders holding physical shares through the separate window specified in  sub-
+
+regulation (ia), only after verification of the identity proof and address proof by the 
+
+broker. 
+
+ 
+
+(iii) 
+
+The price at which the shares or other specified securities are bought back shall be 
+
+the volume weighted average price of the shares or other specified securities bought-
+
+back, other than in the physical form, during the calendar week in which such shares 
+
+or other specified securities were received by the broker: 
+
+Provided  that  the  price  of  shares  or  other  specified  securities  tendered  during  the 
+
+first calendar week of the buy-back shall be the volume weighted average market price of the 
+
+shares or other specified securities of the company during the preceding calendar week. 
+
+Explanation: In case no shares or other specified securities were bought back in the normal 
+
+market during calendar week, the preceding week when  the company  has last bought back 
+
+the shares or other specified securities may be considered. 
+
+ 
+
+ 
+ 
+
+  
+
+19. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20.  Escrow account for open market Buy-back through stock exchange: 
+
+ 
+
+ 
+ 
+
+(i) 
+
+The  company  shall, before  opening of the offer, create an escrow account towards 
+
+Page 20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+security  for  performance  of  its  obligations  under  these  regulations,  and  deposit  in 
+
+escrow account 25 per cent of the amount earmarked for the buy-back as specified in 
+
+the resolutions referred to in sub-regulation (iv) of regulation 5 or sub-regulation (vi) 
+
+of regulation 5. 
+
+(ii) 
+
+The escrow account referred to in sub-regulation (i) may be in the form of,— 
+
+a) 
+
+b) 
+
+cash deposited with any scheduled commercial bank; or 
+
+bank  guarantee  issued  in  favour  of  the  merchant  banker  by  any  scheduled 
+
+commercial bank. 
+
+ 
+
+Explanation: The cash component of the escrow account may be maintained in terms 
+
+of Explanation to clause (c) of sub-regulation (xi) of regulation 9. 
+
+ 
+
+(iii) 
+
+For  such  part  of  the  escrow  account  as  is  in  the  form  of  a  cash  deposit  with  a 
+
+scheduled commercial bank, the company shall while opening the account, empower 
+
+the merchant banker to instruct the bank to make payment of the amounts lying to 
+
+the credit of the escrow account, to meet the obligations arising out of the buy-back. 
+
+(iv) 
+
+For such part of the escrow account as is in the form of a bank guarantee: 
+
+ 
+
+a) 
+
+the same shall be in favour of the merchant banker and shall be kept valid for a 
+
+period  of  thirty  days  after  the  closure  of  the  offer  or  till  the  completion  of  all 
+
+obligations under these regulations, whichever is later. 
+
+ 
+
+b) 
+
+the same shall not be returned by the merchant banker till completion of all 
+
+obligations under the regulations. 
+
+(v)  Where part of the escrow account is in the form of a bank guarantee, the company 
+
+shall  deposit  with  a  scheduled  commercial  bank,  in  cash,  a  sum  of  at  least  2.5  per 
+
+cent  of  the  total  amount  earmarked  for  buy-back  as  specified  in  the  resolutions 
+
+referred to in sub-regulation (iv) of regulation 5 or sub-regulation (vi) of regulation 5 
+
+as and by way of security for fulfillment of the obligations under the regulations by 
+
+the company. 
+
+Page 21 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+(vi) 
+
+The escrow amount may be released for making payment to the shareholders subject 
+
+to at least 2.5% of the amount earmarked for buy-back as specified in the resolutions 
+
+referred to in sub-regulation (iv) of regulation 5 or sub-regulation (vi) of regulation 5 
+
+remaining in the escrow account at all points of time. 
+
+(vii)  On fulfilling the obligation specified in regulation 15, the amount and the guarantee 
+
+remaining in the escrow account, if any, shall be released to the company. 
+
+(viii) 
+
+In  the  event  of  non-compliance  with  regulation  15,  the  Board  may  direct  the 
+
+merchant banker to forfeit the escrow account, subject to a maximum of 2.5 per cent 
+
+of the amount earmarked for buy-back as specified in the resolutions referred to in 
+
+sub-regulation  (iv)  of  regulation  5  or  sub-regulation  (vi)  of  regulation  5,  except  in 
+
+cases where,- 
+
+a) 
+
+volume  weighted  average  market  price  (VWAMP)  of  the  shares  or  other 
+
+specified  securities  of  the  company  during  the  buy-back  period  was  higher 
+
+than  the  buy-back  price  as  certified  by  the  Merchant  banker  based  on  the 
+
+inputs provided by the Stock Exchanges. 
+
+b) 
+
+sell orders were inadequate despite the buy orders placed by the company as 
+
+certified by the Merchant banker based on the inputs provided by the Stock 
+
+Exchanges. 
+
+c) 
+
+such  circumstances  existed  which were  beyond  the  control  of  the  company 
+
+and in the opinion of the Board merit consideration.  
+
+(ix) 
+
+In  the  event  of  forfeiture  for  non-fulfillment  of  obligations  specified  in  sub-
+
+regulation  (viii)  of  this  regulation,  the  amount  forfeited  shall  be  deposited  in  the 
+
+Investor Protection and Education Fund of Securities and Exchange Board of India. 
+
+Extinguishment of certificates: 
+
+(i) 
+
+Subject to the provisions of sub-regulation (2) and (3), the  provisions  of regulation 
+
+11  pertaining  to  the  extinguishment  of  certificates  for  tender  offers  shall  apply  for 
+
+extinguishment of certificates under this Chapter. 
+
+ 
+
+(ii) 
+
+The  company  shall  complete  the  verification  of  acceptances  within  fifteen  days  of 
+
+Page 22 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+21. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+the payout. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+(iii) 
+
+The  company  shall  extinguish  and  physically  destroy  the  securities  certificates  so 
+
+bought back  during  the  month  in  the  presence  of  a  Merchant  Banker  and  the  
+
+Statutory Auditor, on or before the fifteenth day of the succeeding month:  
+
+Provided  that  the  company  shall  ensure  that  all  the  securities  bought-back  
+
+are  extinguished within seven days of the last date of completion of buy-back. 
+
+ 
+
+22. 
+
+Buy-back through book building 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+A company may buy-back its shares or other specified securities through the book-building 
+
+process as provided hereunder: 
+
+(i) 
+
+Resolutions: 
+
+The Special resolution or the Board of Directors Resolution, as the case may 
+
+be, shall be  passed  in accordance  with  sub-regulation (iv) of regulation 5 or 
+
+sub-regulation (vi) of regulation 5. 
+
+(ii) 
+
+Disclosures, filing requirements and timelines for public announcement: 
+
+(a) 
+
+The  company  shall  appoint  a  merchant  banker  and  make  a  public 
+
+announcement as referred to in regulation 7.  
+
+ 
+
+(b) 
+
+The  disclosures  in  the  public  announcement  shall  also  be  in 
+
+accordance with Schedule B. 
+
+ 
+
+(c) 
+
+The public announcement shall be made at least seven days prior to 
+
+the commencement of buy-back. 
+
+(iii) 
+
+Subject  to  the  provisions  of  clause  (a)  and  clause  (b)  of  this  sub-regulation, 
+
+the provisions of sub-regulation (xi) of regulation 9 shall apply: 
+
+  
+
+(a) 
+
+The deposit in the escrow account shall be made before the date of 
+
+the public announcement. 
+
+Page 23 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+(b) 
+
+The  amount  to  be  deposited  in  the  escrow  account  shall  be 
+
+determined with reference  to the maximum price as specified in the 
+
+public announcement. 
+
+ 
+
+Explanation:  The  cash  component  of  the  escrow  account  may  be 
+
+maintained in terms of the Explanation to clause (c) of sub-regulation (xi) 
+
+of regulation 9. 
+
+(iv) 
+
+A copy of the public announcement shall be filed with the Board within two 
+
+days of such announcement along with the fees as specified in Schedule E. 
+
+(v) 
+
+The public announcement shall also contain the detailed methodology of the 
+
+book-building process, the  manner of acceptance, the format of acceptance 
+
+to be sent by the security-holders pursuant to the public announcement and 
+
+the details of bidding centres. 
+
+(vi) 
+
+The  book-building  process  shall  be  made  through  an  electronically  linked 
+
+transparent facility. 
+
+(vii)  The number of bidding centres shall not be less than thirty and there shall be 
+
+at least one electronically linked computer terminal at all the bidding centres. 
+
+(viii)  The offer for buy-back shall remain open to the security-holders for a period 
+
+not less than fifteen days and not exceeding thirty days. 
+
+(ix) 
+
+The  merchant  banker  and  the  company  shall  determine  the  buy-back  price 
+
+based on the acceptances received. 
+
+(x) 
+
+The  final  buy-back  price,  which  shall  be  the  highest  price  accepted  shall  be 
+
+paid  to  all  holders  whose  shares  or  other  specified  securities  have  been 
+
+accepted for buy-back. 
+
+(xi) 
+
+The  provisions  of  sub-regulation  (ii)  of  regulation  10  pertaining  to 
+
+Page 24 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+verification of acceptances and the provisions of regulation 10 pertaining to 
+
+opening of special account and payment of consideration shall be applicable 
+
+mutatis mutandis. 
+
+23.  Extinguishment of certificates 
+
+ 
+
+The  provisions  pertaining  to  extinguishment  of  certificates  for  tender  offer  shall  be 
+
+applicable mutatis mutandis to the buy-back through book building. 
+
+ 
+
+CHAPTER V 
+
+GENERAL OBLIGATIONS 
+
+ 
+
+24.  Obligations of the company for all buy-back procedure: 
+
+ 
+
+ 
+
+ 
+ 
+
+(i) 
+
+The company shall ensure that,— 
+
+a) 
+
+the  letter  of  offer,  the  public  announcement  of  the  offer  or  any  other 
+
+advertisement, circular, brochure, publicity material shall contain true, factual 
+
+and  material  information  and  shall  not  contain  any  misleading  information 
+
+and must state that the directors of the company accept the responsibility for 
+
+the information contained in such documents; 
+
+ 
+
+b) 
+
+the company shall not issue any shares or other specified securities including 
+
+by  way  of  bonus  till  the  date  of  closure  of  the  offer  made  under  these 
+
+regulations; 
+
+ 
+
+c) 
+
+d) 
+
+the company shall pay the consideration only by way of cash; 
+
+ 
+
+the company shall not withdraw the offer to buy-back after the draft letter of 
+
+offer  is  filed  with  the  Board  or  public  announcement  of  the  offer  to  buy-
+
+back is made; 
+
+ 
+
+Page 25 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+e) 
+
+the  promoter(s)  or  his/their  associates  shall  not  deal  in  the  shares  or  other 
+
+specified  securities  of  the  company  in  the  stock  exchange  or  off-market, 
+
+including inter- se transfer of shares among the promoters during the period 
+
+from  the  date  of  passing  the  resolution  under  sub-regulation  (iv)  of 
+
+regulation 5 or sub-regulation (vi) of regulation 5 till the closing of the offer. 
+
+ 
+
+f) 
+
+the  company  shall  not  raise  further  capital  for  a  period  of  one  year  from  the 
+
+closure of buy-back offer, except in discharge of its subsisting obligations. 
+
+(ii) 
+
+No  public  announcement  of  buy-back  shall  be  made  during  the  pendency  of  any 
+
+scheme of amalgamation or compromise or arrangement pursuant to the provisions 
+
+of the Companies Act. 
+
+(iii) 
+
+The  company  shall  nominate  a  compliance  officer  and  investors  service  centre  for 
+
+compliance  with  the  buy-back  regulations  and  to  redress  the  grievances  of  the 
+
+investors. 
+
+(iv) 
+
+The  particulars  of  the  security  certificates  extinguished  and  destroyed  shall  be 
+
+furnished by the company to the stock exchanges where the shares or other specified 
+
+securities  of  the  company  are  listed  within  seven  days  of  extinguishment  and 
+
+destruction of the certificates. 
+
+(v) 
+
+The  company  shall  not  buy-back  the  locked-in  shares  or  other  specified  securities 
+
+and non-transferable shares or other specified securities till the pendency of the lock-
+
+in or till the shares or other specified securities become transferable. 
+
+(vi) 
+
+The  company  shall  within  two  days  of  the  completion  of  buy-back  issue  a  public 
+
+advertisement in a national daily, inter alia, disclosing: 
+
+a) 
+
+b) 
+
+c) 
+
+d) 
+
+number of shares or other specified securities bought; 
+
+price at which the shares or other specified securities bought; 
+
+total amount invested in the buy-back; 
+
+details of the security-holders from whom shares or other specified securities 
+
+exceeding  one  per  cent  of  total  shares  or  other  specified  securities  were 
+
+Page 26 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+bought back; and 
+
+e) 
+
+the consequent changes in the capital structure and the shareholding pattern 
+
+after and before the buy-back. 
+
+(vii) 
+
+The company in addition to these regulations shall comply with the provisions of buy-
+
+back as contained in the Companies Act and other applicable laws. 
+
+ 
+
+25.  Obligations of the Merchant Banker:     
+
+ 
+The merchant banker shall ensure that— 
+
+ 
+
+(i) 
+
+(ii) 
+
+(iii) 
+
+(iv) 
+
+(v) 
+
+(vi) 
+
+the company is able to implement the offer; 
+
+the provision relating to escrow account has been complied with; 
+
+firm arrangements for monies for payment to fulfill the obligations under the 
+
+offer are in place; 
+
+the public announcement of buy-back is made in terms of the regulations;  
+
+the letter of offer has been filed in terms of the regulations; 
+
+a  due  diligence  certificate  along  with  the  draft  letter  of  offer  has  been 
+
+furnished to the Board; 
+
+(vii) 
+
+the contents of the public announcement of offer as well as the letter of offer 
+
+are true, fair and adequate and quoting the source wherever necessary;  
+
+(viii)  due  compliance  of  sections  68,  69  and  70  of  the  Companies  Act  and  any 
+
+other laws or rules as may be applicable in this regard has been made; 
+
+(ix) 
+
+the  bank  with  whom  the  escrow  or  special  amount  has  been  deposited 
+
+releases  the  balance  amount  to  the  company  only  upon  fulfillment  of  all 
+
+obligations by the company under the regulations; 
+
+(x) 
+
+a final  report is submitted to the Board in the form specified within fifteen 
+
+days from the date of closure of the buy-back offer. 
+
+ 
+
+ 
+ 
+
+Page 27 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+CHAPTER VI 
+
+MISCELLANEOUS 
+
+ 
+
+ 
+
+   
+
+ 
+26.  Powers of the Board to issue directions. 
+
+ 
+
+The  Board  may,  without  prejudice  to  its  right  to  initiate  any  other  enforcement  action, 
+
+including  prosecution  under section 24 of the Act, give  such  directions in the interest of 
+
+investors in securities and the securities market, as it deems fit, including:  
+
+(i) 
+
+(ii) 
+
+prohibiting the person concerned from cancelling any of the securities bought back 
+
+in violation of the Companies Act; 
+
+directing  the  person  concerned  to  sell  or  divest  the  shares  or  other  specified 
+
+securities acquired in violation of the provisions of these regulations or any other law 
+
+or regulations; 
+
+(iii) 
+
+restraining the company from making a further offer for buy-back. 
+
+ 
+ 
+27.  Power of the Board to remove difficulties. 
+
+ 
+
+In order to remove  any  difficulties in the interpretation or application of the  provisions of 
+
+these regulations, the Board may issue clarifications or guidelines from time to time.   
+
+ 
+28.  Power to relax strict enforcement of the regulations. 
+
+ 
+
+ 
+ 
+
+(i)  The  Board  may,  in  the  interest  of  investors  and  the  securities  market,  relax  the  strict 
+
+enforcement of any requirement of these regulations except the provisions incorporated 
+
+from the Companies Act, if the Board is satisfied that: 
+
+1.  the requirement is procedural in nature; or  
+
+2.  the requirement may cause undue hardship to investors; 
+
+ 
+
+(ii)  For seeking relaxation under sub-regulation (i), the company shall file an application with 
+
+the Board, supported by a duly sworn affidavit, giving details and the grounds on which 
+
+such relaxation has been sought. 
+
+ 
+
+(iii) The company shall along with the application referred to under sub-regulation (ii),   pay 
+
+Page 28 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+a  non-refundable  fee  of  rupees  fifty  thousand,  by  way  of  direct  credit  in  the  bank 
+
+account through NEFT/RTGS/IMPS or any other mode allowed by RBI or by way of a 
+
+banker’s cheque or demand draft payable in Mumbai in favour of the Board. 
+
+ 
+
+(iv) The  Board  may  after  affording  reasonable  opportunity  of  being  heard  to  the  applicant 
+
+and  after  considering  all  the  relevant  facts  and  circumstances,  pass  a  reasoned  order 
+
+either granting or rejecting the relaxation sought as expeditiously as possible. 
+
+ 
+
+Repeal and Savings 
+
+29. 
+
+ 
+
+(i) The Securities and Exchange Board of India (Buy-Back of Securities) Regulations, 
+
+1998, shall stand repealed from the date on which these regulations come into force.  
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Notwithstanding such repeal,—  
+
+(a)  
+
+anything done or any action taken or purported to have been done or taken 
+
+including comments on any letter of offer, exemption granted by the Board, 
+
+fees  collected,  any  adjudication,  enquiry  or  investigation  commenced  or 
+
+show-cause notice issued under the repealed regulations, prior to such repeal, 
+
+shall  be  deemed  to  have  been  done  or  taken  under  the  corresponding 
+
+provisions of these regulations;  
+
+ 
+
+(b)  
+
+the previous operation of the repealed regulations or anything duly done or 
+
+suffered  thereunder,  any  right,  privilege,  obligation  or  liability  acquired, 
+
+accrued or incurred under the repealed regulations, any penalty, forfeiture or 
+
+punishment  incurred  in  respect  of  any    violation  committed  against  the 
+
+repealed  regulations,  or  any  investigation,  legal  proceeding  or  remedy  in 
+
+respect of any such right, privilege, obligation, liability, penalty, forfeiture or 
+
+punishment  as  aforesaid,  shall  remain  unaffected  as  if  the  repealed 
+
+regulations has never been repealed;  
+
+(c)  
+
+any  buy-back offer for which a public announcement has been made under 
+
+the  repealed  regulations  shall  be  required  to  be  continued  and  completed 
+
+under the repealed regulations. 
+
+ 
+
+Page 29 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+(d) 
+
+any  reference  thereto  in  any  other  regulations  made,  guidelines  or  circulars 
+
+issued  thereunder  by  the  Board  shall  be  deemed  to  be  a  reference  made  to 
+
+the 
+
+corresponding 
+
+provisions 
+
+of 
+
+these 
+
+regulations.
+
+Page 30 
+
+ 
+
+ 
+ 
+
+ 
+
+i) 
+
+ii) 
+
+ 
+
+iii) 
+
+ 
+
+iv) 
+
+v) 
+
+vi) 
+
+i.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+SCHEDULE - A 
+
+[Regulation 5(iv)(b)]  
+
+Contents of the Explanatory Statement  
+
+Date of the Board meeting at which the proposal for buy-back was approved by the Board of 
+
+Directors of the company; 
+
+ 
+
+Necessity for the buy-back; 
+
+Maximum amount required under the buy-back and its percentage of the total paid up capital 
+
+and free reserves; 
+
+Maximum price at which the shares or other specified securities are proposed be bought back 
+
+and the basis of arriving at the buy-back price; 
+
+Maximum number of securities that the company proposes to buy- back; 
+
+ 
+
+Method to be adopted for buy-back as referred to in sub-regulation (iv) of regulation 4, 
+
+ 
+
+vii) 
+
+(a)  
+
+the  aggregate  shareholding  of  the  promoter  and  of  the  directors  of  the  promoters, 
+
+where the promoter is a company and of persons who are in control of the company 
+
+as  on  the  date  of  the  notice  convening  the  General  Meeting  or  the  Meeting  of  the 
+
+Board of Directors; 
+
+ 
+
+(b) 
+
+aggregate number of shares or other specified securities purchased or sold by persons 
+
+including persons mentioned in (a) above from a period of six months preceding the 
+
+date of the Board Meeting at which the buy-back was approved till the date of notice 
+
+convening the general meeting; 
+
+(c) 
+
+the  maximum  and  minimum  price  at  which  purchases  and  sales  referred  to  in  (b) 
+
+above were made along with the relevant dates; 
+
+Page 31 
+
+ 
+
+ 
+
+ 
+ 
+
+ii. 
+
+ 
+
+ 
+ 
+viii) 
+
+ 
+
+ix) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Intention of the promoters and persons in control of the company to tender shares or other 
+
+specified securities for buy-back indicating the number of shares or other specified securities, 
+
+details of acquisition with dates and price; 
+
+A confirmation that there are no defaults subsisting in repayment of deposits, redemption of 
+
+debentures  or  preference  shares  or  repayment  of  term  loans  to  any  financial  institutions  or 
+
+banks; 
+
+ 
+
+x) 
+
+A  confirmation  that  the  Board  of  Directors  has  made  a  full  enquiry  into  the  affairs  and 
+
+prospects of the company and that they have formed the opinion- 
+
+ 
+
+a) 
+
+ 
+
+b) 
+
+ 
+
+c) 
+
+that immediately following the date on which the General Meeting or the meeting of 
+
+the Board of Directors is convened there will be no grounds on which the company 
+
+could be found unable to pay its debts; 
+
+as regards its prospects for the year immediately following that date that, having regard 
+
+to their intentions with respect to the management of the company’s business during 
+
+that year and to the amount and character of the financial resources which will in their 
+
+view be available to the company during that year, the company will be able to meet its 
+
+liabilities as and when they fall due and will not be rendered insolvent within a period 
+
+of one year from that date; and 
+
+in forming their opinion for the above purposes, the directors shall take into account 
+
+the  liabilities  as  if  the  company  were  being  wound  up  under  the  provisions  of  the 
+
+Companies Act, 1956 or Companies Act or the Insolvency and Bankruptcy Code 2016 
+
+(including prospective and contingent liabilities); 
+
+A report addressed to the Board of Directors by the company’s auditors stating that- 
+
+a) 
+
+b) 
+
+c) 
+
+they have inquired into the company’s state of affairs; 
+
+the amount of the permissible capital payment for the securities in question is in their 
+
+view properly determined; and 
+
+the  Board  of  Directors  have  formed  the  opinion  as  specified  in  clause  (x)  on 
+
+reasonable grounds and that the company will not, having regard to its state of affairs, 
+
+will not be rendered insolvent within a period of one year from that date. 
+
+Page 32 
+
+iii. 
+
+ 
+
+xi) 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+SCHEDULE - B 
+
+[Regulation 7(i) and Regulation 22(ii)(b)] 
+
+Disclosures in the Public Announcement for buy-back through tender offer and from odd 
+
+lot holders and from the open market through book building process  
+
+ 
+
+ 
+ 
+
+ 
+
+Particulars  
+
+Content 
+
+Public 
+
+i) 
+
+The  Public  announcement  shall  be  dated  and  signed  on  behalf  of  the 
+
+Announcement 
+
+Board  of  Directors  of  the  company  by  its  manager  or  secretary,  if  any, 
+
+and by not less than two directors of the company one of whom shall be 
+
+a managing director where there is one. 
+
+ 
+
+ii) 
+
+A  full  and  complete  disclosure  of  all  material  facts  including  the 
+
+disclosures mentioned in Schedule A shall be made. 
+
+ 
+
+ 
+
+ 
+ 
+
+Page 33 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+SCHEDULE - C 
+
+[Regulation 8(i)(a)] 
+
+Disclosures in the Letter of Offer for buy-back through tender offer and from odd lot holders 
+
+ 
+
+Particulars  Content 
+
+Letter of 
+
+The letter of offer shall be dated and signed on behalf of the Board of Directors of the 
+
+Offer 
+
+company  by its manager or secretary,  if any, and by  not less than two directors of the 
+
+company  one  of  whom  shall  be  a  managing  director  where  there  is  one.  The  letter  of 
+
+offer shall, inter-alia, contain the following; 
+
+ 
+
+i) 
+
+ii) 
+
+iii) 
+
+Disclosures as mentioned in Schedule - D; 
+
+Disclaimer Clause as may be specified by the Board; 
+
+Record date and ratio of buy-back as per the entitlement in each category. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Page 34 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+SCHEDULE - D 
+
+[Regulation 16(iv)(b)] 
+
+Public Announcement for Open Market Buy-Back through Stock Exchange 
+
+Particulars  
+
+Content 
+
+ 
+
+Public 
+
+i) 
+
+The  Public  announcement  shall  be  dated  and  signed  on  behalf  of  the 
+
+Announcement 
+
+Board of Directors of the company by its manager or secretary, if any, 
+
+and by not less than two directors of the company one of whom shall 
+
+be a managing director where there is one. 
+
+ 
+
+ii) 
+
+A  full  and  complete  disclosure  of  all  material  facts  including  the 
+
+disclosures mentioned in Schedule A. 
+
+ 
+
+iii) 
+
+In  addition  to  the  disclosures  in  Schedule  A,  the  following  disclosures 
+
+shall be made: 
+
+ 
+
+i) 
+
+ 
+
+ii) 
+
+ 
+
+iii) 
+
+ 
+
+iv) 
+
+ 
+
+v) 
+
+ 
+
+vi) 
+
+Date of shareholders’ approval for buy-back, if applicable; 
+
+Minimum and maximum number of securities that the company 
+
+proposes  to  buy-back,  sources  of  funds  from  which  the  buy-
+
+back would be made and the cost of financing the buy-back; 
+
+Proposed 
+
+time 
+
+table 
+
+from  opening  of  offer 
+
+till 
+
+the 
+
+extinguishment of the certificates; 
+
+Process and methodology to be adopted for the buy-back; 
+
+Brief information about the company; 
+
+Audited  Financial information  for  the  last  3  years  and  the  lead 
+
+manager shall ensure that the particulars (audited statement and 
+
+un-audited statement) contained therein shall not be more than 
+
+ 
+ 
+
+Page 35 
+
+ 
+
+ 
+ 
+
+Particulars  
+
+Content 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+more  than  6  months  old  from  the  date  of  the  public 
+
+announcement together with financial ratios as may be specified 
+
+by the Board; 
+
+ 
+
+vii)  Details  of  escrow  account  opened  and  the  amount  deposited 
+
+therein; 
+
+ 
+
+viii) 
+
+Listing details and stock market data: 
+
+a) 
+
+high, low and average market prices of the securities of 
+
+the  company  proposed  to  be  bought  back,  during  the 
+
+preceding three years; 
+
+b) 
+
+c) 
+
+monthly  high  and  low  prices  for  the  six  months 
+
+preceding the date of the public announcement; 
+
+the  number  of  securities  traded  on  the  days  when  the 
+
+high and low prices were recorded on the relevant stock 
+
+exchanges during the period stated at (a) and (b) above; 
+
+d) 
+
+the  stock  market  data  referred  to  above  shall  be  shown 
+
+separately  for  periods  marked  by  a  change  in  capital 
+
+structure, with such period commencing from the date the 
+
+concerned  stock  exchange  recognises  the  change  in  the 
+
+capital structure.(e.g. when the securities have become ex-
+
+rights or ex-bonus) ; 
+
+e) 
+
+the  market  price  immediately  after  the  date  of  the 
+
+resolution of the Board of directors approving the buy-
+
+back; and 
+
+f) 
+
+the  volume  of  securities  traded  in  each  month  during 
+
+the  six  months  preceding  the  date  of  the  public 
+
+announcement  along  with  high,  low  and  average  prices 
+
+of  securities  of  the  company,  details  relating  to  volume 
+
+of  business  transacted  should  also  be  stated  for 
+
+respective periods. 
+
+ix) 
+
+Present capital structure (including the number of fully paid and 
+
+ 
+ 
+
+Page 36 
+
+ 
+
+ 
+ 
+
+Particulars  
+
+Content 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+partly paid securities) and shareholding pattern; 
+
+The capital structure including details of outstanding convertible 
+
+instruments, if any post buy-back; 
+
+Aggregate  shareholding  of  the  promoter  group  and  of  the 
+
+directors  of  the  promoters,  where  the  promoter  is  a  company 
+
+and of persons who are in control of the company; 
+
+Aggregate  number  of  shares  or  other  specified  securities 
+
+purchased  or  sold  by  persons  mentioned  in  clause  xi  above 
+
+during  a  period  of  twelve  months  preceding  the  date  of  the 
+
+public  announcement;  the  maximum  and  minimum  price  at 
+
+which  purchases  and  sales  referred  to  above  were  made  along 
+
+with the relevant dates; 
+
+x) 
+
+ 
+
+xi) 
+
+ 
+
+xii) 
+
+ 
+
+xiii)  Management  discussion  and  analysis  on  the  likely  impact  of 
+
+buy-back  on  the company’s  earnings,  public  holdings,  holdings 
+
+of  NRIs/FIIs  etc.,  promoters  holdings  and  any  change  in 
+
+management structure; 
+
+ 
+
+xiv)  Details of statutory approvals obtained; 
+
+ 
+
+xv) 
+
+ 
+
+Collection and bidding centres; 
+
+xvi)  Name  of  compliance  officer  and  details  of  investors  service 
+
+centres; 
+
+ 
+
+xvii) 
+
+Such  other  disclosures  as  may  be  specified  by  the  Board  from 
+
+time to time. 
+
+ 
+
+ 
+ 
+
+Page 37 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+SCHEDULE - E 
+
+FEES  
+
+[Regulation 8(i)(c), 16(iv)(c) and 22(iv)] 
+
+Every  merchant  banker  shall  while  submitting  the  offer  document  or  a  copy  of  the  public 
+
+announcement to the Board, pay fees as set out below: 
+
+ 
+
+Offer Size 
+
+Fee (Rupees) 
+
+Less than or equal to rupees ten crore 
+
+5,00,000/- 
+
+More  than  rupees  ten  crore  but  less  than  or 
+
+0.5% of the offer size 
+
+equal to rupees one thousand crore 
+
+More than rupees one thousand crore 
+
+5,00,00,000/- plus 0.125% of the portion of offer 
+
+size in excess of rupees one thousand crore 
+
+ 
+
+ 
+
+The fees shall be payable by way of direct credit in the bank account through NEFT/RTGS/IMPS 
+
+or any other mode allowed by RBI or by a demand draft in favour of Securities and Exchange Board 
+
+of India at Mumbai. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+*** 
+
+ 
+
+Page 38 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ANNEXURE-II 
+
+ 
+
+THE GAZETTE OF INDIA 
+
+EXTRAORDINARY 
+
+PART – III – SECTION 4 
+
+PUBLISHED BY AUTHORITY 
+
+NEW DELHI, [●], 2018 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+NOTIFICATION 
+
+Mumbai, the [●], 2018 
+
+SECURITIES  AND  EXCHANGE  BOARD  OF  INDIA  (SUBSTANTIAL  ACQUISITION 
+
+OF SHARES AND TAKEOVERS) (AMENDMENT) REGULATIONS, 2018  
+
+ 
+
+No. [●]. ─ In exercise of the powers conferred under section 30 of the Securities and Exchange 
+
+Board  of  India  Act,  1992  (15  of  1992),  the  Board  hereby  makes  the  following  Regulations  to 
+
+further amend the Securities and Exchange Board of India (Substantial Acquisition of Shares and 
+
+Takeovers) Regulations, 2011, namely:  
+
+ 
+
+1. 
+
+These  regulations  may  be  called  the  Securities  and  Exchange  Board  of  India  (Substantial 
+
+Acquisition of Shares and Takeovers) (Amendment) Regulations, 2018. 
+
+ 
+
+They  shall  come  into  force  on  the  date  of  their  publication  in  the  Official  Gazette.  
+
+ 
+
+In  the  Securities  and  Exchange  Board  of  (Substantial  Acquisition  of  Shares  and 
+
+Takeovers) Regulations, 2011,   
+
+ 
+
+(1)  
+
+In regulation 2: 
+
+ 
+
+(a) 
+
+For  clause  (j)  of  sub-regulation  (1),  the  following  clause  shall  be 
+
+substituted, namely:- 
+
+ 
+
+Page 39 
+
+2. 
+
+3. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+“(j)   “frequently  traded  shares”  means  shares  of  a  target  company,  in 
+
+which the traded turnover on any stock exchange during the twelve 
+
+calendar months preceding the calendar month in which the public 
+
+announcement is required to be made under these regulations, is at 
+
+least ten per cent of the total number of shares of such class of the 
+
+target company: 
+
+ 
+
+Provided that where the share capital of a particular class of shares of 
+
+the  target  company  is  not  identical  throughout  such  period,  the 
+
+weighted  average  number  of  total  shares  of  such  class  of  the  target 
+
+company shall represent the total number of shares.” 
+
+(b)   After  clause  (m)  in  sub-regulation  (1),  the  following  clause  shall  be 
+
+inserted, namely:- 
+
+“(ma)  “listing regulations” means the Securities and Exchange Board of 
+
+India 
+
+(Listing  Obligations  and  Disclosure  Requirements) 
+
+Regulations, 2015.” 
+
+(c)  
+
+For  clause  (r)  of  sub-regulation  (1),  the  following  clause  shall  be 
+
+substituted, namely:- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“(r)   “postal  ballot”  means  a  postal  ballot  as  provided  for  under  Rule 
+
+22  of  the  Companies  (Management  and  Administration)  Rules, 
+
+2014 made under the Companies Act, 2013.” 
+
+ 
+
+ 
+
+(2)  
+
+In  sub-regulation  (2)  of  regulation  2,  the  words  and  figures  “1956  (1  of  1956)” 
+
+shall be substituted by the words and figures “2013 (18 of 2013)”. 
+
+(3)  
+
+In proviso to sub-regulation (1) of regulation 5A, after the words “detailed public 
+
+statement” the following words shall be added, namely:- 
+
+ 
+
+“and a subsequent declaration of delisting will not suffice.”  
+
+Page 40 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+(4)  
+
+For  sub-regulation  (3)  of  regulation  5A,  following  sub-regulation  shall  be 
+
+substituted, namely:- 
+
+“(3) 
+
+ In  the  event  of    failure  of  the  delisting  offer  made  under  sub-regulation 
+
+(1),  the  open  offer  obligations  shall  be  fulfilled  by  the  acquirer  in  the 
+
+following manner:  
+
+ 
+
+(i) 
+
+the acquirer, through the manager to the open offer, shall within five 
+
+working  days  from  the  date  of  the  announcement  under  sub-
+
+regulation  (2),  file  with  the  Board,  a  draft  of  the  letter  of  offer  as 
+
+specified in sub-regulation (1) of regulation 16; and  
+
+ 
+
+(ii) 
+
+shall  comply  with  all  other  applicable  provisions  of  these 
+
+regulations. 
+
+Provided that the offer price shall stand enhanced by an amount equal to 
+
+a  sum  determined  at  the  rate  of  ten  per  cent  per  annum  for  the  period 
+
+between 
+
+the  scheduled  date  of  payment  of  consideration 
+
+to 
+
+the 
+
+shareholders  and  the  actual  date  of  payment  of  consideration  to  the 
+
+shareholders.  
+
+Explanation: For the purpose of this sub-regulation, scheduled date shall be 
+
+the date on which the payment of consideration ought to have been made to 
+
+the shareholders in terms of the timelines in these regulations.” 
+
+ 
+
+ 
+
+(5)  
+
+In  sub-regulation  (2)  of  regulation  7,  the  words “total  shares  of”  appearing  after 
+
+the  words  “additional  ten  per  cent  of  the”  shall  be  substituted  by  the  words 
+
+“voting rights in”. 
+
+(6)   
+
+In regulation 9: 
+
+ 
+
+(a) 
+
+the words “listing agreement”, wherever occurring, shall be substituted by 
+
+the words “listing regulations”. 
+
+Page 41 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+(b) 
+
+in the explanation to clause (c) of sub-regulation (5), the words and figures 
+
+“subsection (1A) of 81 of the Companies Act, 1956 (1 of 1956)” shall be 
+
+substituted  by  the  words  and  figures  “clause  (c)  of  sub-section  (1)  of 
+
+section 62 of the Companies Act, 2013 (18 of 2013)”.  
+
+(7)  
+
+In regulation 10: 
+
+(a) 
+
+The  words  “listing  agreement”,  wherever  occurring,  shall  be  substituted 
+
+by  the  words  “listing  regulations  or  as  the  case  may  be,  the  listing 
+
+agreement.”  
+
+ 
+
+ 
+
+  
+
+ 
+
+(b) 
+
+The following explanation shall be inserted after sub-clause (iii) of clause 
+
+(a) of sub-regulation (1), namely:- 
+
+“Explanation: For the purpose of this sub-clause, the company shall 
+
+include a body corporate, whether Indian or foreign.” 
+
+(c) 
+
+In clause (h) of sub-regulation (1), the words and figures “sub-section (2) 
+
+of section 87 of the Companies Act, 1956 (1 of 1956)” shall be substituted 
+
+by the words and figures “sub-section (2) of section 47 of the Companies 
+
+Act, 2013 (18 of 2013)”. 
+
+(d) 
+
+In the first and third clause of proviso to clause (c) of sub-regulation (4), the 
+
+words  and  figures  “section  77A  of  the  Companies  Act,  1956  (1  of  1956),” 
+
+wherever occurring, shall be substituted by the words and figures “section 68 
+
+of the Companies Act, 2013 (18 of 2013)”.  
+
+(8)  
+
+In  regulation  17,  after  proviso  to  sub-regulation  (3),  the  following  explanation 
+
+shall be inserted, namely:- 
+
+ 
+
+“Explanation: The cash component of the escrow account as referred to in clause 
+
+(a) above may be maintained in an interest bearing account, subject to the 
+
+Page 42 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+merchant banker ensuring that the funds are available at the time of making 
+
+payment to the shareholders.” 
+
+(9)   After  sub-regulation  (2)  of  regulation  18,  before  the  proviso,  the  following 
+
+explanation shall be inserted, namely:- 
+
+ 
+
+“Explanation:  
+
+(i)  Letter  of  offer  may  also  be  dispatched  through  electronic  mode  in 
+
+accordance with the provisions of Companies Act, 2013. 
+
+(ii)  On  receipt  of  a  request  from  any  shareholder  to  receive  a  copy  of  the 
+
+letter of offer in physical format, the same shall be provided. 
+
+(iii)  The aforesaid shall be disclosed in the letter of offer.” 
+
+(10) In sub-regulation (4) of regulation 18, the words “three working days before the 
+
+commencement of the tendering period” shall be substituted by the words “four working 
+
+days before the closure of the tendering period”. 
+
+ 
+
+(11) After sub-regulation (4) of regulation 18, the following new sub-regulation (4A) 
+
+shall be inserted, namely:- 
+
+“(4A) In the event of any revision of the offer price on or after the commencement of the 
+
+tendering  period,  the  shareholders  who  have  already  tendered  their  shares  at  the 
+
+previous offer price shall be entitled to receive the revised offer price.” 
+
+ 
+
+(12) In sub-regulation (2) of regulation 22, the words “one hundred per cent of the” shall 
+
+be substituted by the words “the entire”. 
+
+ 
+
+(13) In the first proviso to sub-regulation (1) of regulation 24, the words “one hundred 
+
+per cent of the” shall be substituted by the words “the entire”. 
+
+ 
+
+ 
+
+(14) In sub-regulation (3) of regulation 29, between the words “or the acquisition” and 
+
+the words “of shares or voting rights”, the words “or the disposal” shall be inserted. 
+
+Page 43 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+(15) In sub-regulation (1) of regulation 32, between the words “issue such directions” and 
+
+“as it deems fit”, the words “or any other order” shall be inserted. 
+
+ 
+
+(16)  In  regulation  33,  the  words  and  symbol  “shall  have  the  power  to  issue  directions 
+
+through  guidance  notes  or  circulars:”  shall  be  substituted  by  the  words  “may  issue 
+
+clarifications or guidelines from time to time”. 
+
+ 
+
+(17) In regulation 33, the proviso shall be omitted. 
+
+ 
+
+(18) In sub-regulation (1) of regulation 35, the word “stand” shall be substituted by the 
+
+word “stands”.  
+
+ 
+
+Sd/ 
+
+- 
+
+AJAY TYAGI 
+
+CHAIRMAN 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+ 
+
+ 
+
+Footnotes: 
+
+ 
+
+1.   
+
+The SEBI (Substantial Acquisition of  Shares  and  Takeovers)  Regulations,  2011  were 
+
+published    in    the    Gazette    of    India    on    23rd    September,    2011    vide    No.    LAD-
+
+NRO/GN/2011 12/24/30181. 
+
+ 
+
+2.  
+
+The Principal Regulations were subsequently amended on:  
+
+ 
+
+ 
+ 
+
+(a)   March   26, 2013   by   the   SEBI (Substantial   Acquisition   of   Shares   and 
+
+Takeovers)  (Amendment)  Regulations,  2013  vide  No.    LAD-NRO/GN/2012 
+
+13/36/7368. 
+
+ 
+
+Page 44 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+(b)   October  8,  2013  by  the  SEBI  (Listing  of  Specified  Securities  on  Institutional 
+
+Trading Platform)    Regulations,    2013    vide    No.    LAD-NRO/GN/2013-
+
+14/28/6720. 
+
+ 
+
+(c)   May 23,  2014  by  the  SEBI  (Payment  of  Fees)  (Amendment)  Regulations,  
+
+2014 vide Notification No. LAD-NRO/GN/2014-15/03/1089. 
+
+ 
+
+(d)   March   24, 2015   by   the   SEBI   (Substantial   Acquisition   of   Shares   and 
+
+Takeovers)  (Amendment)  Regulations,  2015  vide  No.    LAD-NRO/GN/2014-
+
+15/28/542. 
+
+ 
+
+(e)   May  5,  2015  by  the  SEBI  (Substantial  Acquisition  of  Shares  and  Takeovers) 
+
+(Second  Amendment)  Regulations, 
+
+2015 
+
+vide  No. 
+
+SEBI/LAD-
+
+NRO/OIAE/GN/2015-16/004. 
+
+ 
+
+(f)  
+
+August   14, 2015   by   the   SEBI (Substantial   Acquisition   of   Shares   and 
+
+Takeovers)  (Third  Amendment)  Regulations,  2015  vide      No.      SEBI/LAD 
+
+NRO/GN/2015-16/009. 
+
+ 
+
+(g)   December  22,  2015  by  the  SEBI  (Substantial  Acquisition  of  Shares  and 
+
+Takeovers)  (Fourth  Amendment)  Regulations,  2015  vide  No.  SEBI/LAD-
+
+NRO/GN/2015-16/026. 
+
+ 
+
+(h)  
+
+February 17, 2016 by the SEBI (Substantial Acquisition of Shares and Takeovers) 
+
+(Amendment) Regulations, 2016 vide No. SEBI/LAD-NRO/GN/2015-16/035. 
+
+ 
+
+(i)   May      25,  2016      by      the      SEBI  (Substantial      Acquisition      of      Shares      and 
+
+Takeovers)  (Second  Amendment)  Regulations,  2016  vide  No.  SEBI/  LAD-
+
+NRO/GN/2016-17/002.  
+
+ 
+
+(j)   March  6,  2017      by      SEBI  (Payment      of      Fees      and      Mode  of  Payment) 
+
+(Amendment)  Regulations,  2017    vide    No.  SEBI/LAD/NRO/GN/2016-17/037 
+
+Page 45 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+read with notification dated March 29, 2017 vide No. SEBI/LAD/NRO/GN/2016-
+
+17/38. 
+
+ 
+
+(k)   August  14,  2017  by  SEBI  (Substantial  Acquisition  of  Shares  and  Takeovers) 
+
+(Amendment) Regulations, 2017 No. SEBI/LAD-NRO/GN/2017-18/015. 
+
+ 
+
+ 
+
+***** 
+
+Page 46 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+

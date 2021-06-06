@@ -1,0 +1,1797 @@
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ANNEXURE 2 
+
+MASTER CIRCULAR FOR STOCK EXCHANGES  
+
+ON 
+
+ 
+
+ 
+
+TRADING PART - II 
+
+1.  This Master Circular includes circulars issued upto March 31, 2010. 
+
+2.  Master  Circular  is  a  compilation  of  all  the  existing/applicable  circulars 
+issued by Market Regulation Department of SEBI to Stock Exchanges and 
+shall be applicable from the date of its issue. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+MASTER CIRCULAR – TRADING – PART II 
+ 
+SECTION – 1 : INTERNET TRADING ......................................................................... 4 
+
+1.1   Conditions to be met by Broker for providing Internet Based Trading 
+Service................................................................................................................ 4 
+ 
+1.2   Minimum Requirements for Brokers offering Securities Trading through 
+ 
+Wireless medium on Wireless Application Protocol (WAP) platform .... 7 
+SECTION – 2 : DIRECT MARKET ACCESS .............................................................. 10 
+2.1  Direct Market Access Facility....................................................................... 10 
+2.2  Application for Direct Market Access (DMA) facility.............................. 10 
+2.3  Operational specifications ............................................................................ 10 
+2.4 
+Client Authorization and Broker – Client agreement............................... 11 
+2.5   DMA Facility through Investment Manager ............................................. 12 
+Risk Management .......................................................................................... 12 
+2.6 
+2.7 
+Broker to be liable for DMA trades ............................................................. 13 
+2.8 
+Cross Trades ................................................................................................... 13 
+2.9  Other legal provisions ................................................................................... 13 
+SECTION – 3: ELECTRONIC CONTRACT NOTE................................................... 15 
+    3.1 
+    Use of Digital Signature on Contract Notes............................................... 15 
+    3.2       Issuance of Contract Notes in electronic form........................................... 15 
+    3.3 
+    Electronic issuance of contract notes – Additional conditions................ 15 
+Format for Issuance of Electronic Contract Notes..................................... 17 
+3.4 
+SECTION - 4: INTRODUCTION OF NEW TRADING SEGMENT........................ 19 
+4.1   New Trading Segment .................................................................................. 19 
+SECTION – 5: STRAIGHT THROUGH PROCESSING............................................ 20 
+5.1   Mechanism...................................................................................................... 20 
+5.2  
+The system flow of the STP framework...................................................... 20 
+SEBI (STP centralised hub and STP service providers) Guidelines, 2004
+5.3  
+ 
+22 
+5.4   Work flow for institutional investors.......................................................... 23 
+
+Page 2 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+5.5   Clarification..................................................................................................... 26 
+5.6   Modifications in the prescribed messaging formats................................. 26 
+SECTION – 6 : TRADING TERMINALS .................................................................... 28 
+6.1   Usage of software by Broker/ Sub-broker ................................................. 28 
+6.2  
+Standing Committee...................................................................................... 28 
+Expansion of trading terminals of the Exchange....................................... 29 
+6.3  
+6.4  
+Broad Guidelines for opening Trading Terminals abroad....................... 29 
+6.5   Annexure  - Guidelines For Opening Of Trading Terminals Abroad.... 29 
+REFERENCE – List of Circular .................................................................................... 32 
+
+Page 3 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+SECTION – 1 : INTERNET TRADING 
+ 
+
+1.1   Conditions to be met by Broker for providing Internet Based Trading Service1 
+
+ 
+To provide Internet Based Trading Service the broker will be required to apply to 
+the  respective  stock  exchange  for  a  formal  permission.  The  stock  exchange 
+should  grant  approval  or  reject  the  application  as  the  case  may  be,  and 
+communicate its decision to the member within 30 calendar days of the date of 
+completed application submitted to the exchange. 
+ 
+However  before  giving  permission  to  broker  to  start  internet  based  services, 
+stock exchange shall ensure that the broker meets the minimum condition of the 
+criteria’s’ mentioned in circular. The criteria’s are mentioned as below: 
+ 
+
+i.  Networth Requirement –  
+ 
+
+The broker must have a minimum net worth of Rs.50 lacs if the broker is 
+providing  the  Internet  based  facility  on  his  own.  However,  if  some 
+brokers collectively approach a service provider for providing the internet 
+trading facility, net worth criteria as stipulated by the stock exchange will 
+apply.  The  net  worth  will  be  computed  as  per  the  SEBI  circular  no 
+FITTC/DC/CIR-1/98 dated June 16, 1998. 
+
+ii.  Operational and System Requirements : 
+
+ 
+
+  
+
+a.  Operational Integrity – The Stock Exchange must ensure that the 
+system used by the broker has provision for security, reliability and 
+confidentiality of data through use of encryption technology. (Basic 
+minimum security standards are specified in following paras). The 
+Stock  Exchange  must  also  ensure  that  records  maintained  in 
+electronic form by the broker are not susceptible to manipulation. 
+
+ 
+b.  System  Capacity  -  The  Stock  Exchange  must  ensure  that  the 
+brokers  maintain  adequate  backup  systems  and  data  storage 
+capacity.  The  Stock  Exchange  must  also  ensure  that  the  brokers 
+have  adequate  system  capacity  for  handling  data  transfer,  and 
+arranged  for  alternative  means  of  communications  in  case  of 
+Internet link failure.  
+
+ 
+
+                                                 
+1 Circular No. SMDRP/POLICY/CIR- 06/2000 dated January 31, 2000. 
+
+Page 4 of 32 
+
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+and 
+
+ 
+
+iii.  Client Broker Relationship –  
+
+c.  Qualified  Personnel  -  The  Stock  Exchange  must  lay  down  the 
+minimum qualification for personnel to ensure that the broker has 
+suitably 
+to  handle 
+communication including trading instructions as well as other back 
+office work which is likely to increase because of higher volumes. 
+
+adequate  personnel 
+
+qualified 
+
+ 
+d.  Written  Procedures  -  Stock  Exchange  must  develop  uniform 
+written procedures to handle contingency situations and for review 
+of incoming and outgoing electronic correspondence. 
+
+ 
+e.  Signature  Verification/  Authentication  -  It  is  desirable  that 
+participants  use  authentication  technologies.  For  this  purpose  it 
+should  be  mandatory  for  participants  to  use  certification  agencies 
+as  and  when  notified  by  Government  /  SEBI.  They  should  also 
+clearly specify when manual signatures would be required. 
+
+a.  Know Your Client - The Stock Exchange must ensure that brokers 
+comply  with  all  requirements  of  “Know  Your  Client”  and  have 
+sufficient,  verifiable  information  about  clients,  which  would 
+facilitate risk evaluation of clients.  
+
+b.  Broker-Client Agreement - Brokers must enter into an agreement 
+with clients spelling out all obligations and rights. This agreement 
+should also include inter alia, the minimum service standards to be 
+maintained  by 
+for  such  services  specified  by 
+SEBI/Exchanges for the Internet based trading from time to time. 
+Exchanges  will  prepare  a  model  agreement  for  this  purpose.  The 
+broker  agreement  with  clients  should  not  have  any  clause  that  is 
+less  stringent/contrary  to  the  conditions  stipulated  in  the  model 
+agreement prepared by the Exchanges for this purpose. 
+
+the  broker 
+
+c.  Investor Information - The broker web site providing the internet 
+based  trading  facility  should  contain  information  meant  for 
+investor  protection  such  as  rules  and  regulations  affecting  client 
+broker relationship, arbitration rules, investor protection rules etc. 
+The  broker  web  site  providing  the  Internet  based  trading  facility 
+should  also  provide  and  display  prominently,  hyper  link  to  the 
+web  site/  page  on  the  web  site  of  the  relevant  stock  exchange(s) 
+displaying  rules/  regulations/circulars.  Ticker/quote/order  book 
+displayed  on  the  web-site  of  the  broker  should  display  the  time 
+
+Page 5 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+stamp as well as the source of such information against the given 
+information.  
+
+d.  Order/Trade  Confirmation  -  Order/Trade  confirmation  should 
+also  be  sent  to  the  investor  through  email  at  client’s  discretion  at 
+the time period specified by the client in addition to the other mode 
+of  display  of  such  confirmations  on  real  time  basis  on  the  broker 
+web  site.  The  investor  should  be  allowed  to  specify  the  time 
+interval on the web site itself within which he would like to receive 
+this  information  through  email.  Facility  for  reconfirmation  of 
+orders  which  are  larger  than  that  specified  by  the  member’s  risk 
+management  system  should  be  provided  on  the  internet  based 
+system. 
+
+e.  Handling  Complaints  by  Investors  -  Exchanges  should  monitor 
+complaints from investors regarding service provided by brokers to 
+ensure a minimum level of service. Exchange should have  separate 
+cell specifically to handle Internet trading related complaints. It is 
+desirable  that  exchanges  should  also  have  facility  for  on-line 
+registration of complaints on their web-site. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+iv.  Risk Management –  
+
+ 
+Exchanges must ensure that brokers have a system-based control on the 
+trading limits of clients, and exposures taken by clients. Brokers must set 
+pre-defined limits on the exposure and turnover of each client.  
+
+The  broker  systems  should  be  capable  of  assessing  the  risk  of  the  client 
+as  soon  as  the  order  comes  in.  The  client  should  be  informed  of 
+acceptance/rejection  of  the  order  within  a  reasonable  period.    In  case 
+system  based  control  rejects  an  order  because  of  client  having  exceeded 
+limits  etc.,  the  broker  system  may  have  a  review  and  release  facility  to 
+allow  the order to pass through. 
+
+  Reports  on  margin  requirements,  payment  and  delivery  obligations, 
+ 
+
+etc. should be informed to the client through the system. 
+
+v.  Contract Notes - Contract notes must be issued to clients as per existing 
+
+regulations, within 24 hours of the trade execution. 
+
+vi.  Cross  Trades  -  As  in  the  case  of  existing  system,  brokers  using  Internet 
+based systems for routing client orders will not be allowed to cross trades 
+
+Page 6 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+of their clients with each other. All orders must be offered to the market 
+for matching. 
+
+vii.  Others  –  The  other  criteria’s  mentioned  deal  with  Network  Security 
+Protocols  and  Interface  Standards,  Network  Security,  Standards  of  Web 
+Interface Protocols and System operations. 
+
+In addition to the requirements mentioned above, all existing obligations of 
+the broker as per current regulations will continue without changes. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.2   Minimum  Requirements  for  Brokers  offering  Securities  Trading  through 
+
+Wireless medium on Wireless Application Protocol (WAP) platform.2 
+ 
+A broker providing stock trading through WAP must be a SEBI registered broker 
+who also has an Internet website which complies with all the requirements laid 
+down by SEBI in its circular no. SMDRP/Policy/Cir-06/2000 dated January 31, 
+2000. With regard to the requirements mentioned in the aforesaid circular, some 
+additional  requirements  are  to  be  met  by  the  broker  for  providing  securities 
+transaction  through  WAP.  These  requirements  are  provided  in  the  following 
+criteria’s: 
+ 
+
+i.  Network Security 
+ 
+
+a.  The  break  in  data  encryption  at  the  WAP  gateway  server  raises 
+security  issues.  Until  the  shortcoming  is  addressed  by  WAP,  the 
+WAP server should be hosted by the broker itself and not by a third 
+party.  
+
+ 
+b.  Suitable firewalls should be installed between trading set-up directly 
+
+connected to an Exchange trading system and the WAP server.  
+
+ 
+c.  WTLS  (Wireless Transport Layer Security) level security or a higher 
+level of security (as and when available) for wireless communication 
+is mandatory for wireless transactions.  
+
+ 
+d.  The  WTLS  encrypts  data  upto 
+
+the  WAP  Gateway  server. 
+Transmission  from  the  WAP  Gateway  server  to  the  Internet  server 
+should  be  secured  using  Secured  Socket  Level  Security,  preferably 
+with  128  bit  encryption,  for  server  access  through  Internet.  
+Alternately, the WAP Gateway server and Internet server may be co-
+
+                                                 
+2 Circular No. SMDRP/Policy/Cir-48/2000 dated October 11, 2000. 
+
+Page 7 of 32 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ii. 
+
+iii. 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+hosted.  The  server  resource  should  not  be  shared  for  any  other 
+applications. 
+
+e.  The following security measures applicable for fixed Internet based 
+
+systems should be made mandatory: 
+
+i)  User ID 
+ii)  First Level password (Private code) 
+iii)  Automatic  expiry  of  passwords  at  the  end  of  a  reasonable 
+
+duration.  Reinitialize access on entering fresh passwords  
+
+iv)  All  transaction 
+
+logs  with  proper  audit  facilities  to  be 
+
+maintained in the system.  
+
+f.  Digitally  signed  transactions  ensure  client  authentication  and 
+support  non-repudiation.  Digital  certification  should  be  mandatory 
+for  participants  as  and  when  certification  agencies  are  notified  by 
+Government / SEBI. 
+
+g.  In case of failure of the network, alternative means of communication 
+
+such as telephone, Internet or e-mail should be available. 
+
+Price Quotes/ Order/ Trade Confirmations 
+
+a.  Stock quotes should be time-stamped. 
+b.  All  orders  and  trades  must  be  identified  by  a  unique  ID.  Order 
+confirmation must be provided to the user on submitting the order. 
+Order  modification/  cancellation  facilities  must  also  be  provided. 
+This may be provided using alternate  protocols  in  case  the  same  is 
+not supported by WAP.  
+
+c.  Trade  confirmation  should  be  provided  to  the  user  through  e-mail 
+
+and/or on the mobile phone. 
+
+System operations. 
+
+a.  Brokers  should  follow  the  similar  logic/priorities  used  by  the 
+
+Exchange to treat client orders.  
+
+b.  Orders/  trades  placed  through  either  fixed  Internet  or  WAP 
+
+system should be accessible from both systems. 
+
+c.  Brokers should maintain all activities/ alerts log with audit trail 
+
+facility.  
+
+d.  Broker  Web  Server  should  have  internally  generated  unique 
+
+numbering for all client order/trades. 
+
+ 
+
+iv.  Risk Management.  
+
+Page 8 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+It is emphasised that risk management should be comprehensive and the 
+risk   management systems should take into account the overall positions 
+of clients,  
+
+irrespective of the medium of trading. 
+
+ 
+ 
+ 
+ 
+ 
+
+Page 9 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+SECTION – 2 : DIRECT MARKET ACCESS 
+ 
+
+2.1  Direct Market Access Facility3 
+
+ 
+Direct  Market  Access  (DMA)  is  a  facility  which  allows  brokers  to  offer  clients 
+direct access to the exchange trading system through the broker’s infrastructure 
+without manual intervention by the broker. Some of the advantages offered by 
+DMA are direct control of clients over orders, faster execution of client orders, 
+reduced risk of errors associated with manual order entry, greater transparency, 
+increased  liquidity,  lower  impact  costs  for  large  orders,  better  audit  trails  and 
+better  use  of  hedging  and  arbitrage  opportunities  through  the  use  of  decision 
+support tools / algorithms for trading. 
+ 
+While  ensuring  conformity  with  the  provisions  of  the  Securities  Contract 
+(Regulations) Act, 1956 (42 of 1956), Stock Exchanges may facilitate Direct Market 
+Access for investors subject to the following conditions: 
+ 
+
+2.2  Application for Direct Market Access (DMA) facility 
+
+ 
+Brokers  interested  to  offer  DMA  facility  shall  apply  to  the  respective  stock 
+exchanges giving details of the software and systems proposed to be used, which 
+shall be duly certified by a Security Auditor as reliable.  
+ 
+The  stock  exchange  should  grant  approval  or  reject  the  application  as  the  case 
+may be, and communicate its decision to the member within 30 calendar days of 
+the date of completed application submitted to the exchange. 
+ 
+The  stock  exchange,  before  giving  permission  to  brokers  to  offer  DMA  facility 
+shall ensure the fulfillment of the conditions specified hereinafter. 
+ 
+
+2.3  Operational specifications 
+
+ 
+All  DMA  orders  shall  be  routed  to  the  exchange  trading  system  through  the 
+broker’s  trading  system.  The  broker’s  server  routing  DMA  orders  to  the 
+exchange trading system shall be located in India.   
+ 
+
+                                                 
+3 Circular No. MRD/ DoP/SE/Cir- 7 /2008 dated April 03, 2008. 
+ 
+
+Page 10 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+The broker should ensure sound audit trail for all DMA orders and trades, and 
+be able to provide identification of actual user-id for all such orders and trades. 
+The audit trail data should available for at least 5 years. 
+ 
+Exchanges  should  be  able  to  identify  and  distinguish  DMA  orders  and  trades 
+from other orders and trades. Exchanges shall maintain statistical data on DMA 
+trades and provide information on the same to SEBI on a need basis. 
+ 
+The  DMA  system  shall  have  sufficient  security  features  including  password 
+protection  for  the  user  ID,  automatic  expiry  of  passwords  at  the  end  of  a 
+reasonable duration, and re-initialisation of access on entering fresh passwords.  
+ 
+Brokers should follow the similar logic/priorities used by the Exchange to treat 
+DMA client orders. Brokers should maintain all activities/ alerts log with audit 
+trail  facility.  The  DMA  Server  should  have  internally  generated  unique 
+numbering for all such client order/trades.  
+ 
+A systems audit of the DMA systems and software shall be periodically carried 
+out  by  the  broker  as  may  be  specified  by  the  exchange  and  certificate  in  this 
+regard shall be submitted to the exchange. 
+ 
+The exchanges and brokers should provide for adequate systems and procedures 
+to handle the DMA trades. 
+ 
+
+2.4 
+
+Client Authorization and Broker – Client agreement 
+ 
+Exchanges shall specify from time to time the categories of investors to whom the 
+DMA  facility  can  be  extended.  Initially,  the  permission  is  restricted  to 
+institutional clients. 
+ 
+Brokers  shall  specifically  authorize  clients  for  providing  DMA  facility  after 
+fulfilling  Know  Your  Client  requirements  and  carrying  out  due  diligence 
+regarding  clients’  credit  worthiness,  risk  taking  ability,  track  record  of 
+compliance and financial soundness. Brokers shall ensure that only those clients 
+who are deemed fit and proper for this facility are allowed access to the DMA 
+facility. Brokers shall maintain proper records of such due diligence. Individual 
+users at the client end shall also be authorized by the broker based on minimum 
+criteria.  The  records  of  user  details,  user-id  and  such  authorization  shall  be 
+maintained  by  the  broker.  Details  of  all  user-ids  activated  for  DMA  shall  be 
+provided by the broker to the exchange. 
+ 
+
+Page 11 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+The broker shall enter into a specific agreement with the clients for whom they 
+permit DMA facility. This agreement will include the following safeguards: 
+
+(a) The client shall use the DMA facility only to execute his own trades and 
+
+shall not use it for transactions on behalf of any other person / entity. 
+
+(b) Electronic/Automated  Risk  management  at  the  broker’s  level  before 
+release of order to the Exchange system. The client shall agree to be bound 
+by the various limits that the broker shall impose for usage of the DMA 
+facility.  
+
+(c) Right to withdraw DMA facility if the limits set up are breached or for any 
+
+(d) Withdrawal of DMA facility on account of any misuse or on instructions 
+
+other such concerns 
+
+from SEBI/Exchange.  
+
+ 
+Exchanges  shall  prepare  a  model  agreement  for  this  purpose.  The  broker’s 
+agreement with clients should not have any clause that is less stringent/contrary 
+to the conditions stipulated in the model agreement. 
+ 
+
+2.5   DMA Facility through Investment Manager4 
+
+Institutional investors may use DMA facility through investment managers after 
+due  authorization  and  upon  furnishing  to  the  broker/  exchange  suitable 
+agreements/  undertakings  between  the  institution  and  investment  manager 
+stating, inter alia, that the institutional investor shall be responsible for all actions 
+undertaken  by  its  authorized  investment  manager.  Such  investment  managers 
+may execute necessary documents on behalf of the institutional investor. 
+
+The Broker-Client Agreement shall provide complete details of such investment 
+manager,  including,  inter  alia,  details  of  their  registration/  regulation  in  their 
+relevant  jurisdiction,  specify  the  role  and  responsibilities  of  the  investment 
+manager, and contain adequate safeguards to ensure that DMA facility is utilized 
+to execute trades of only those institutions for which the investment manager is 
+authorized. 
+ 
+The  exchange/  broker  shall  ensure  that  proper  audit  trails  are  available  to 
+establish identity of the ultimate client. 
+ 
+
+2.6 
+
+Risk Management 
+ 
+
+                                                 
+4 Circular No. MRD/ DoP/SE/Cir- 03 /2009 dated February 20, 2009 
+
+Page 12 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+The broker shall ensure that trading limits/ exposure limits/ position limits are 
+set  for  all  DMA  clients  based  on  risk  assessment,  credit  quality  and  available 
+margins of the client. The broker system shall have appropriate authority levels 
+to ensure that the limits can be set up only by persons authorized by the risk / 
+compliance manager. 
+ 
+The  broker  shall  ensure 
+through 
+electronic/automated  risk  management  systems  of  the  broker  to  carry  out 
+appropriate  validations  of  all  risk  parameters  including  Quantity  Limits,  Price 
+Range Checks, Order Value, and Credit Checks before the orders are released to 
+the Exchange.  
+ 
+All DMA orders shall be subjected to the following limits: 
+
+that  all  DMA  orders  are  routed 
+
+(a) Order quantity / order value limit in terms of price and quantity 
+
+specified for the client. 
+
+segment as applicable.  
+
+(b) All  the  position  limits  which  are  specified  in  the  derivatives 
+
+(c) Net  position  that  can  be  outstanding  so  as  to  fully  cover  the  risk 
+emanating  from  the  trades  with  the  available  margins  of  the 
+specific client.  
+
+(d) Appropriate limits for securities which  are  subject  to  FII  limits  as 
+
+specified by RBI.  
+
+ 
+
+The broker may provide for additional risk management parameters as they may 
+consider appropriate. 
+ 
+
+2.7 
+
+2.8 
+
+Broker to be liable for DMA trades 
+ 
+The broker shall be fully responsible and liable for all orders emanating through 
+their DMA systems. It shall be the responsibility of the broker to ensure that only 
+clients who fulfill the eligibility criteria are permitted to use the DMA facility. 
+
+Cross Trades 
+Brokers using DMA facility for routing client orders shall not be allowed to cross 
+trades of their clients with each other. All orders must be offered to the market 
+for matching. 
+
+2.9  Other legal provisions 
+
+In addition to the requirements mentioned above, all existing obligations of the 
+broker  as  per  current  regulations  and  circulars  will  continue  without  change. 
+
+Page 13 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+Exchanges  may  also  like  to  specify  additional  safeguards  /  conditions  as  they 
+may deem fit for allowing DMA facilities to their brokers. 
+
+Page 14 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+SECTION – 3: ELECTRONIC CONTRACT NOTE 
+ 
+
+3.1  Use of Digital Signature on Contract Notes5 
+
+ 
+Pursuant  to  the  discussions  in  the  SMAC  and  provisions  of  the  IT  Act,  it  is 
+clarified  that  the  brokers  are  allowed  to  issue  contract  notes  authenticated  by 
+means  of  digital  signatures  provided  that  the  broker  has  obtained  digital 
+signature certificate from Certifying Authority under the IT Act, 2000. Mode of 
+confirmation  by  the  client  may  be  as  specified  in  the  agreement  between  the 
+broker and the client.  
+ 
+Issuance of Contract Notes in electronic form6 
+ 
+The contract notes can be issued by the brokers in electronic form authenticated 
+by means of digital signatures.  
+ 
+Electronic issuance of contract notes – Additional conditions7 
+
+3.2  
+
+3.3 
+
+All  the  members  of  stock  exchanges  who  are  desirous  of  issuing  Electronic 
+Contract  Notes  (ECNs)  to  their  clients  shall  comply  with  the  following 
+conditions:- 
+
+I.  Issuing ECNs when specifically consented 
+
+The digitally signed ECNs may be sent only to those clients who have opted to 
+receive the contract notes in an electronic form, either in the Member – Client 
+agreement  / Tripartite agreement  or  by  a  separate  letter.  The  mode  of 
+confirmation shall be as per the agreement entered into with the clients. 
+
+II.  Where to send ECNs 
+
+The usual mode of delivery of ECNs to the clients shall be through e-mail.  For 
+this  purpose,  the  client  shall  provide  an  appropriate  e-mail  account  to  the 
+member which shall be made available at all times for such receipts of ECNs. 
+
+III.  Requirement of digital signature 
+
+All  ECNs  sent  through  the  e-mail  shall  be  digitally  signed,  encrypted,  non-
+tamperable and shall comply with the provisions of the IT Act, 2000. In case the 
+
+                                                 
+5 Circular No. SMDRP/POLICY/CIR-56/00 dated December 15, 2000 
+6 Circular No. SEBI/SMD/SE/15/2003/29/04 dated April 29, 2003 
+7 Circular No. MRD/DoP/SE/Cir-20/2005 dated September 8, 2005 
+
+Page 15 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ECN  is  sent  through  e-mail  as  an  attachment,  the  attached  file  shall  also  be 
+secured with the digital signature, encrypted and non-tamperable. 
+
+ 
+
+IV.  Requirements for acknowledgement, proof of delivery, log report etc. 
+
+a.  Acknowledgement 
+
+The acknowledgement of the e-mail shall be retained by the member in 
+a soft and non-tamperable form. 
+
+b. 
+
+Proof of delivery 
+
+a.  The proof of delivery i.e., log report generated by the system at the 
+time  of  sending  the  contract  notes  shall  be  maintained  by  the 
+member  for  the  specified  period  under  the  extant  regulations  of 
+SEBI/stock  exchanges  and  shall  be  made  available  during 
+inspection, audit, etc. 
+
+ii.  The  member  shall  clearly  communicate  to  the  client  in  the 
+agreement  executed  with  the  client  for  this  purpose  that  non-
+receipt of bounced mail notification by the member shall amount to 
+delivery of the contract note at the e-mail ID of the client. 
+
+c. 
+
+Log Report for rejected or bounced mails 
+
+b.  The  log  report  shall  also  provide  the  details  of  the  contract  notes 
+that  are  not  delivered  to  the  client/e-mails  rejected  or  bounced 
+back. 
+
+ii.  Also, the member shall take all possible steps (including settings of 
+mail servers, etc) to ensure receipt of notification of bounced mails 
+by the member at all times within the stipulated time period under 
+the extant regulations of SEBI/stock exchanges. 
+
+V.  When to issue or send in Physical mode 
+
+a. 
+
+Issue in Physical mode 
+
+In the case of those clients who do not opt to receive the contract notes 
+in  the  electronic  form,  the  member  shall  continue  to  send  contract 
+notes in the physical mode to such clients. 
+
+b. 
+
+Send in Physical mode 
+
+Page 16 of 32 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Wherever the ECNs have not been delivered to the client or has been 
+rejected (bouncing of mails) by the e-mail ID of the client, the member 
+shall  send  a  physical  contract  note  to  the  client  within  the  stipulated 
+time  under  the  extant  regulations  of  SEBI/stock  exchanges  and 
+maintain the proof of delivery of such physical contract notes. 
+
+VI.  General requirements 
+
+c. 
+
+ECNs through website 
+
+In  addition  to  the  e-mail  communication  of  the  ECNs  in  the  manner 
+stated  above, 
+the  electronic 
+communication channel, the member shall simultaneously publish the 
+ECN on his designated web-site in a secured way and enable relevant 
+access to the clients. 
+
+further  strengthen 
+
+in  order 
+
+to 
+
+d.  Access to the website 
+
+In order to enable clients to access the ECNs posted in the designated 
+website in a secured way, the member shall allot a unique user name 
+and 
+
+password for  the  purpose,  with  an  option  to  the  client  to  access  the 
+same and save the contract note electronically or take a print out of the 
+same. 
+
+e. 
+
+Preservation/Archive of electronic documents 
+
+The member shall retain/archive such electronic documents as per the 
+extant  rules/regulations/circulars/guidelines  issued  by  SEBI/Stock 
+Exchanges from time to time. 
+
+3.4 
+
+Format for Issuance of Electronic Contract Notes8  
+
+The format of the electronic contract notes prescribed by the exchanges were not 
+in  conformity  with  the  format  of  the  physical  contract  note  particularly  with 
+respect  to  the  pre-printed  terms  and  conditions.  Hence  members  issuing 
+electronic  contract  notes  were  also  issuing  physical  contract  notes  which 
+amounted  to  duplication  and  unnecessary  reconciliation  between  the  physical 
+and electronic contract notes. 
+
+                                                 
+8 Circular No. DNPD/ Cir-9/04 dated February 3, 2004. 
+
+Page 17 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+In  order  to  streamline  the  issuance  of  electronic  contract  notes  as  a  legal 
+document  like  the  physical  contract  note,  the  exchanges  are  advised  to 
+implement the following: 
+
+1.  The  exchanges  would  prescribe  a  standard  format  for  the  electronic 
+contract  note  (based  on  the  model  format  prescribed  in  Annexure  (for 
+Equity) and (for Debt9) in its bye-laws, rules and regulations. 
+
+2.  The  exchange  bye-laws,  rules  and  regulations  for  issuance  of  electronic 
+contract  note  shall  be  amended  to  include  all  the  standard  pre-printed 
+terms and conditions in the physical contract note. The electronic contract 
+note  would  mention  the  relevant  bye-laws  /  rules  /  regulations  of  the 
+exchange subject to which the said contract note is being issued. 
+
+3.  The  exchange  shall  also  modify  /  amend  other  relevant  bye-laws,  rules 
+and regulations with respect to signing of the electronic contract note with 
+a  digital  signature  so  as  to  make  the  modified  format  of  the  electronic 
+contract note a valid legal document like the physical contract note. 
+
+4.  The  mechanism  of  record  keeping  of  electronic  contract  notes  in  a  soft 
+non-tamperable form shall be prescribed by the exchange in compliance 
+with the provisions of the IT Act, 2000. 
+
+                                                 
+9 Circular No. SEBI/MRD/SE/Cir-11/2004 dated February 25, 2004 
+
+Page 18 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+SECTION - 4: INTRODUCTION OF NEW TRADING SEGMENT 
+
+4.1   New Trading Segment10 
+
+ 
+Introduction of any new trading segment on the exchanges would require stock 
+exchanges to seek the prior approval of SEBI. 
+ 
+While applying to SEBI for the approval for the introduction of new segment, the 
+exchange shall provide the information on the parameters for the new segment 
+and also the rationale for introduction of the new segment. 
+ 
+
+                                                 
+10 Circular No. SEBI/MRD/SE/Cir-38/2003 dated October 8, 2003. 
+ 
+
+Page 19 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+SECTION – 5: STRAIGHT THROUGH PROCESSING 
+ 
+
+5.1   Mechanism11 
+
+Straight  through  Processing  (STP)  is  generally  understood  to  be  a  mechanism 
+that automates the end to end processing of transactions of financial instruments. 
+It involves use of a system to process or control all elements of the work flow of a 
+financial  transaction,  what  are  commonly  known  as  the  Front,  Middle,  Back 
+office and General Ledger. In other words, STP allows electronic capturing and 
+processing of transactions in one pass from the point of order origination to final 
+settlement.  STP  thus  streamlines  the  process  of  trade  execution  and  settlement 
+and  avoids  manual  entry  and  re-entry  of  the  details  of  the  same  trade  by 
+different market intermediaries and participants. Usage of STP enables orders to 
+be  processed,  confirmed,  settled  in  a  shorter  time  period  and  in  a  more  cost 
+effective  manner  with  fewer  errors.  Apart  from  compressing  the  clearing  and 
+settlement time, STP also provides a flexible, cost effective infrastructure, which 
+enables e-business expansion through online processing and access to enterprise 
+data. 
+
+It  has  been  mandated  that  all  the  institutional  trades  executed  on  the  stock 
+exchanges would be processed through the STP System. 
+ 
+
+5.2   The system flow of the STP framework12 
+
+While  several  STP  Service  Providers  provide  STP  service  to  the  market 
+participants  to  resolve  the  issue  of  inter-operability  between  the  STP  Service 
+Providers it was decided in consultation with the stock exchanges and the STP 
+Service Providers that a STP Centralised Hub would be setup. 
+
+The system flow for the STP framework shall be as follows: - 
+
+a)   STP user intending to send an instruction would send the message to his STP 
+
+service provider after digitally signing the same.  
+
+b)  The  STP  service  provider  would  verify  the  signature  of  the  STP  user  and 
+forward  it  to  the  i)  recipient  STP  user,  if  the  recipient  STP  user  is  availing 
+services 
+the  
+ii)  STP  centralized  hub  if  the  recipient  STP  user  is  not  with  the  same  STP 
+service provider. In such a case the STP service provider would be required to 
+
+provider; 
+
+service 
+
+STP 
+
+of 
+
+the 
+
+same 
+
+or 
+
+                                                 
+11 Ref. No. DNPD/Cir- 22 /04 dated April 01, 2004 
+12 Ref. No. DNPD/Cir-23/04 dated April 27, 2004 
+
+Page 20 of 32 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+prepare a message as per the STP centralized hub prescribed message format, 
+enclose the user’s message, digitally sign the message and then send it to the 
+STP centralized hub  
+
+c)   On  receipt  of  the  message  by  the  STP  centralized  hub,  the  STP  centralized 
+
+hub would: 
+
+i)  verify  the  signature  of  the  sending  STP  service  provider  only.  
+ii)  send an acknowledgment to the sending STP service provider.  
+
+d)  The  STP  centralized  hub  would  forward  the  message  to  the  recipient  STP 
+
+service provider after digitally signing on the message.  
+
+e)  The  recipient  STP  service  provider  on  receipt  of  the  message  from  the  STP 
+centralized hub shall verify the signature of the STP centralized hub, verify if 
+the  recipient  STP  user  is  associated  with  it  and  send  an  appropriate 
+acknowledgment with digital signature to the STP centralized hub. The STP 
+centralized hub would in turn forward the acknowledgment (received from 
+the  recipient  STP  service  provider)  duly  signed  to  the  sending  STP  service 
+provider.  
+
+f) The recipient STP service provider shall forward the message to the recipient 
+STP user.  The recipient STP user would receive the message and verify the 
+signature of the recipient STP service provider and sending STP user.  
+
+3) To enable inter-operation, the STP centralized hub would provide a utility / 
+client software to the STP service provider. The STP service provider’s point 
+of  interface  with  the  STP  centralized  hub  would  be  through  this  utility  / 
+client  software.  The  PKI  (Public  key  infrastructure)  system  for  the  interface 
+shall be implemented at a later stage.  
+
+Page 21 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+4)  The  block  diagram  of  the  entire  STP  System  is  enclosed  in  Annexure  I. 
+
+ 
+
+ 
+
+5.3  
+
+SEBI (STP centralised hub and STP service providers) Guidelines, 200413 
+1)  SEBI in order to regulate the STP service has issued the SEBI (STP centralised hub 
+and  STP  service  providers)  Guidelines,  2004  (herein  referred  to  as  “STP 
+Guidelines”)  which  also  prescribe  the  model  agreement  between  the  STP 
+centralised hub and the STP service providers. 
+
+2)  The  STP  guidelines  prescribe  the  eligibility  criteria  and  conditions  of 
+approval for the STP centralised hub and the STP service providers, obligations 
+and responsibilities of the STP centralised hub and the STP service providers and 
+code of conduct for the STP service providers. The STP centralised hub and the 
+STP service providers shall abide by these Guidelines. 
+
+3)  To prescribe contractual obligations between the STP centralised hub and the STP 
+service providers and to facilitate standardisation of service, a model agreement 
+between  the  STP  centralised  hub  and  the  STP  service  providers  has  also  been 
+prescribed by SEBI and is prescribed as Schedule II of the STP Guidelines. The 
+agreement  between  the  STP  centralised  hub  and  the  STP  service  provider  shall 
+
+                                                 
+13 Ref.No. DNPD/Cir-24/04 dated May 26, 2004 (STP Guidelines) 
+
+Page 22 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+include the provisions included in the model agreement. 
+
+ 
+
+5.4   Work flow for institutional investors14 
+
+1.  SEBI in consultation with the STP centralized hub, STP service providers 
+and  the  STP  users  has  prescribed  the transaction  work  flow  for  the  STP 
+system.  All  institutional  investors  shall  follow  the  following  transaction 
+work flow on a mandatory basis from July 1, 2004:  
+
+a.  A contract note in electronic form in the prescribed format (IFN 515 
+messaging  format)  shall  be  issued  by  the  broker  &  sent  to  the 
+custodian and / or the institutional investor.  
+
+b.  In  case  the  contract  note  is  processed  directly  by  the  institutional 
+investor, the institutional investor shall send the trade confirmation 
+of acceptance or rejection of the contract note to the broker by using 
+the  IFN  598  messaging  format.  The  custodian  shall  also  send  the 
+confirmation of acceptance or rejection of such contract note to the 
+broker using the messaging standard IFN 548.  
+
+c.  In case the contract note is processed by the custodian on behalf of 
+the institutional investor, the custodian shall send the confirmation 
+of acceptance or rejection of the contract note to the broker by using 
+the IFN 548 messaging format.  
+
+d.  The  institutional  investor  shall  send  settlement  instructions  to  its 
+custodian in IFN 540 to IFN 543 messaging formats to the custodian 
+for the following trade types: 
+
+i. 
+
+ii. 
+
+iii. 
+iv. 
+
+IFN  540:  settlement  instruction  for  a  clearing  house  buy 
+trade  
+IFN  541:  settlement  instruction  for  a  delivery-v/s-payment 
+(DVP) buy trade  
+IFN 542: settlement instruction for a clearing house sell trade  
+IFN  543:  settlement  instruction  for  a  delivery-v/s-payment 
+(DVP) sell trade  
+
+e.  The custodian shall confirm / reject the execution of the settlement 
+instructions  to  the  institutional  investor  in  IFN  544  to  IFN  547 
+messaging formats in the following manner:  
+
+i. 
+
+ii. 
+
+iii. 
+
+IFN 544: confirmation / rejection of an instruction received 
+in messaging format IFN 540  
+IFN 545: confirmation / rejection of an instruction received 
+in messaging format IFN 541  
+IFN 546: confirmation / rejection of an instruction received 
+in messaging format IFN 542  
+
+                                                 
+14 Ref.No. DNPD/Cir-25/04dated June 10, 2004 
+
+Page 23 of 32 
+
+ 
+
+ 
+
+iv. 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+IFN 547: confirmation / rejection of an instruction received 
+in messaging format IFN 543  
+
+f.  It is clarified that if a message (for the activities mentioned above) 
+is sent using the STP centralised hub framework from one user to 
+another user, then the confirmation / rejection for such a message 
+shall also be sent using the STP centralised hub framework.  
+
+ 
+2.  SEBI  vide  circular  no.  DNPD/Cir-9/04  dated  February  3,  2004  had 
+prescribed  the  format  of  the  contract  note  in  electronic  form.  After 
+deliberation  with  the  STP  service  providers  and  the  market  participants 
+the following changes have been incorporated to the existing messaging 
+format (IFN 515):  
+
+a.  The mandatory requirement of mentioning the relevant bye-laws / 
+rules  /  regulations  of  the  exchange  subject  to  which  the  said 
+contract note is being issued on each contract note stands modified 
+in the following manner:  
+
+i.  The requirement is not mandatory but optional  
+ii.  The broker shall ensure that the relevant bye-laws / rules / 
+regulations  of  the  exchange  subject  to  which  the  contract 
+note  is  being  issued,  is  mentioned  in  the  broker-client 
+agreement and the tripartite agreement between the broker-
+sub-broker-client agreement (if applicable).  
+
+iii.  The  existing  field  for  the  above  provision  shall  not  be 
+deleted  and  may  be  used  as  a  free  text  field  for  one 
+constituent  to  communicate  remarks  (if  any)  to  another 
+constituent.  
+
+b.  The  clause  of  ‘payment  of  consolidated  stamp  duty’  for  each 
+contract note shall be mentioned in the broker-client agreement and 
+the  tripartite  agreement  between  the  broker-sub-broker-client 
+agreement (if applicable). The said clause may be stated in the free 
+text field (as mentioned in point 2 (a) (iii) above) of each contract 
+note.  
+
+c.  In the field "market type" (field 70E) a category of ‘TT’ i.e. trade for 
+trade  and  ‘OT’  i.e.  Others  shall  be  added  to  represent  the 
+supplementary categories of market types.  
+
+d.  The order time was prescribed as a mandatory field in the contract 
+
+note. The order time shall now be included in the optional fields.  
+
+e.  There are certain securities which are not de-materalised and hence 
+do not have an ISIN code. For such securities (where ISIN number 
+is  not  available)  the  STP  users  would  be  required  to  input  the 
+security  code  given  by  the  exchange  in  the  ISIN  number  field.  In 
+
+Page 24 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+case the number length of the exchange scrip code is shorter than 
+the  prescribed  field  length  of  12  characters,  the  code  shall  be 
+prefixed with zeros.  
+
+f.  In order to maintain a complete audit trail, it is clarified that in case 
+an electronic contract note is rejected, the custodian (in messaging 
+format  IFN  548)  or  the  fund  manager  (in  messaging  format  IFN 
+598)  shall  be  required  to  send  a  rejection  message  to  the  broker. 
+Only on receipt of the rejection message, the broker shall cancel the 
+rejected contract note and issue a fresh contract note bearing a new 
+number.  
+
+g.  In order to bring in standardisation in the input of the identification 
+codes in the prescribed messaging standards, it is clarified that the 
+following codes shall be used by the various entities:  
+
+i.  Brokers:  SEBI  registration  number  (until  MAPIN  ID  is 
+
+available for every broker)  
+
+iii. 
+
+ii.  Mutual  Funds  and  schemes  of  Mutual  Funds:  SEBI 
+registration  number  for  Mutual  Funds  and  Unique  client 
+code issued by the exchanges for schemes (until MAPIN ID 
+is available for each scheme of a mutual fund)  
+FIIs and sub-accounts: SEBI registration number for FII and 
+Unique client code issued by the exchanges for sub-account 
+(until  MAPIN  ID  is  available  for  each  FII  and  their  sub-
+accounts)  
+
+iv.  Custodians:  SEBI  registration  number  (until  MAPIN  ID  is 
+
+available for every custodian)  
+v. 
+STP service providers and STP centralised hub: MAPIN ID  
+vi.  Depositories  and  exchanges  /  clearing  house  /  clearing 
+
+corporation: MAPIN ID.  
+
+vii.  Other  Institutional  Investors  like  financial  institutions, 
+banks etc.: Unique client code issued by the exchanges (until 
+MAPIN ID is available for each Institutional Investor)  
+
+h.  All  market  participants  shall  issue  the  electronic  contract  note  for 
+institutional trades in the modified format enclosed in Annexure I.  
+3.  The prescribed messaging formats for IFN 540, IFN 541, IFN 542, IFN 543, 
+IFN 544, IFN 545, IFN 546, IFN 547, IFN 548 and IFN 598 are enclosed in 
+Annexure  II.  After  consultation  with  the  market  participants  and 
+confirming  their  preparedness,  it  has  been  decided  to  make  these 
+messaging formats (in addition to IFN 515) mandatory for all institutional 
+trades.  
+
+4.  It  is  reiterated  that  the  STP  system  shall  be  initially  mandatory  for  all 
+
+institutional trades in the equity segment.  
+
+Page 25 of 32 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+5.  The  standard  terms  of  contract  as  are  required  to  be  mentioned  in  the 
+Contract Notes as per the Bye-laws and Regulations of exchanges, which 
+are not contained in electronic contract notes, shall be incorporated in the 
+Client  Broker  Agreement  or  where  applicable,  the  Tripartite  Agreement 
+between  the  stock  broker,  sub-broker  and  the  client.  The  stamp  duty  in 
+respect of the electronic contract notes shall be paid by the broker.  
+
+5.5   Clarification15 
+
+ 
+Descriptors as stated above shall mean the following:  
+
+c. 
+d. 
+e. 
+f. 
+g. 
+
+h. 
+
+i. 
+
+j. 
+
+IFN 540: settlement instruction for a buy trade free of payment  
+IFN 541: settlement instruction for a buy trade against payment  
+IFN 542: settlement instruction for a sell trade free of payment  
+IFN 543: settlement instruction for a sell trade against payment  
+IFN  544:  confirmation  of  a  settlement  instruction  for  a  buy  trade 
+free of payment (response to IFN 540)  
+IFN  545:  confirmation  of  a  settlement  instruction  for  a  buy  trade 
+against payment (response to IFN 541)  
+IFN 546: confirmation of a settlement instruction for a sell trade free 
+of payment (response to IFN 542).  
+IFN  547:  confirmation  of  a  settlement  instruction  for  a  sell  trade 
+against payment (response to IFN 543). 
+
+ 
+It is also clarified that in the IFN 515 message, if trade is intended to  be settled 
+by  the  custodian  with  the  Clearing  Corporation  (by  accepting  the  settlement 
+obligation), then it shall be termed as “FREE” and if the trade is intended to be 
+settled  by  the  broker  with  the  Clearing  Corporation  then  it  shall  be  termed  as 
+“APMT” (meaning against payment) in the tag 22h of the IFN 515 message. 
+
+5.6   Modifications in the prescribed messaging formats16 
+
+In order to integrate the STT in the STP system, it would be necessary to provide 
+for  necessary  fields  in  the  appropriate  messaging  standards.  After  deliberation 
+with the STP centralised hub and the STP service providers, it has been decided 
+to make the following modifications in the prescribed messaging formats: 
+
+a)     Message Types that shall be modified are IFN515, IFN540, IFN541, 
+
+IFN542 and IFN543 
+
+                                                 
+15 Ref. No. DNPD/14785/04 dated July 08, 2004 
+16 Ref. No. DNPD/Cir-28/04 dated September 28, 2004 
+
+Page 26 of 32 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+b)     A Qualifier shall be used to identify Securities Transaction Tax Amount: 
+
+"COUN", Country, National Federal Tax.  
+
+c)     The change in the ISO Structure for the impacted message types shall be 
+
+as follows: 
+
+M  16R 
+
+  
+
+AMT 
+
+Start of 
+block 
+
+M  19A 
+
+Amount  :4!c//3!a11d 
+
+To identify 
+the 
+Securities 
+Transaction 
+Tax Amount 
+
+  
+Format: (Qualifier) 
+//(Currency Code) 
+(Amount) 
+For: Securities Transaction 
+tax Amount 
+Qualifier: "COUN" (4 Upper 
+case Characters) 
+Narrative: "INR" (3 Upper 
+Letters) 
+Amount: Up to 10 digits 
+(only Integer value allowed) 
+followed by a comma (used 
+as decimal sign) . Comma is 
+mandatory.  Amount can be 
+zero or greater than zero.  
+
+M  16S 
+
+  
+
+AMT 
+
+End of block   
+
+d)       Securities  Transaction  Tax Block  shall  be  placed  before  the  Settlement 
+Amount Block  in  the  stated  Message  Types.  (IFN515,  IFN540,  IFN541, 
+IFN542 and IFN543) 
+
+e)       Securities  Transaction  Tax  block  will  be  mandatory amount  block in 
+IFN515  and  optional  amount  block  in  IFN540,  IFN541,  IFN542  and 
+IFN543.  
+
+f)       If the Contract Note (issued by means of IFN 515) is rejected on the basis 
+of Securities Transaction Tax amount then the reason for the rejection shall 
+be  specified  in  the  "Tag70D  Narrative"  field  and "Tag  24B  Reason" 
+specified should be "NARR". 
+
+Page 27 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+SECTION – 6 : TRADING TERMINALS 
+ 
+
+6.1   Usage of software by Broker/ Sub-broker17 
+
+6.2  
+
+ 
+It is informed that all the Stock Exchanges have to obtain an undertaking in the 
+form  of  an  affidavit  from  the  members  of  the  exchange  to  the  effect  that  the 
+members as well as their sub-brokers are using only the authorized software. 
+ 
+Standing Committee18 
+ 
+A standing Committee shall be set up by each Stock Exchange to investigate the 
+problem  of  computerised  trading  system,  such  as  hanging/  slowdown/ 
+breakdown.  The  Standing  Committee  shall  introduce  an  outside  computer 
+expert. The Committee will submit a repot to the Governing Board/ Council of 
+Stock  Exchange.  The  Board/Council  will  deliberate  on  the  report  and  suitable 
+action/remedial measure will be taken. 
+ 
+The standing committee is required to be set up with the objective to investigate 
+problems  of  computerised  trading  system,  such  as,  hanging/  slowdown/ 
+breakdown.  With  the  view  to  ensure  implementation/  compliance,  the 
+exchanges are advised as under:- 
+
+i.  All instances of hanging /slowdown / breakdown and any other problem 
+in the computerized trading system, even if the disruption is less than five 
+minutes, should be reported to the Committee for its consideration. 
+
+ii.  The Committee, upon examination of the issue/s shall submit a report to 
+
+the Governing Board / Council of the Stock Exchange. 
+
+iii.  The Governing Board / Council of the Stock Exchange shall deliberate on 
+
+the aforesaid report and take suitable action / remedial measure.  
+
+iv. 
+
+Further, in case of stoppage beyond five minutes the exchange should also 
+explain  and  report  to  SEBI  about  the  incident  as  well  as  the  remedial 
+measures taken.  The Stock Exchange shall also issue a press release in this 
+regard for greater transparency and in the interest of investors. 
+
+                                                 
+17 Circular No. SEBI/MRD/Policy/SE/15864/2003 dated August 21, 2003. 
+18 Circular No. MRD/DoP/SE/Cir- 14/2006 dated September 28, 2006. 
+
+Page 28 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+Expansion of trading terminals of the Exchange19 
+
+6.3  
+
+The stock exchanges are allowed to set-up terminals at any place in the country, 
+subject to the following conditions:  
+
+i  The  Exchange  would  ensure  that  there  is  adequate  monitoring  and 
+surveillance mechanism for such outstation terminals in order to oversee 
+the trades;  
+
+ii  All  such  trades  would  be  subject  to  usual  margin,  capital  adequacy  and 
+
+inter-day trading limits fixed for the brokers by the Exchange;  
+
+iii  The  Exchange  would  ensure  that  investors  eventually  do  not  pay  the 
+brokerage on such trades exceeding the maximum brokerage permitted as 
+per the rules of the Exchanges; and  
+
+iv  The Exchange would introduce the system of guaranteeing trades or set 
+
+up a Clearing Corporation.  
+
+6.4   Broad Guidelines for opening Trading Terminals abroad20 
+
+ 
+The  guidelines  relating  to  eligibility  norms,  RBI  permission,  Permission  from 
+Foreign Regulatory Authority, Operation Of terminals, Contract note, Settlement 
+Procedure,  Surveillance  and  Monitoring,  Jurisdiction  etc.  for  opening  trading 
+terminals abroad are provided in the Annexure. 
+
+ 
+
+6.5   Annexure  - Guidelines For Opening Of Trading Terminals Abroad 
+
+ 
+With the rapid expansion of the Indian capital market it was felt that a facility 
+should be provided whereby an eligible overseas investor can place an order on 
+a real-time basis, rather than telephonically.  
+The Stock Exchanges/ Members shall follow the following guidelines for 
+opening and maintaining the trading terminals abroad:  
+ 
+
+a.  Eligibility Criteria  
+ 
+ 
+
+Such trading terminals shall be opened only by the Stock Brokers of the 
+stock  exchanges  registered  with  SEBI  and  opening  of  terminals  through 
+sub-brokers shall not be permitted. These terminals shall be opened by the 
+members  only  after  obtaining  permission  from  the  respective  stock 
+exchanges. 
+
+                                                 
+19 Circular No. SMD/POLICY CIR-33/99 dated October 15, 1999. 
+20 Circular No. SMDRP/POLICY/TTA-14072/CIR-23/99 dated July 12, 1999. 
+
+Page 29 of 32 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+b.  RBI Permission 
+ 
+ 
+
+Such  terminals  abroad  would  be  opened  subject  to  the  guidelines  laid 
+down by the RBI from time to time.  
+
+ 
+c.  Permission by the Foreign Regulatory Authorities  
+ 
+ 
+
+The  installation  of  such  trading  terminals  shall  be  subject  to  the  prior 
+permission  of  the  concerned  regulatory  authorities  of  the  respective 
+foreign countries, wherever required. 
+
+ 
+d.  Operation of the terminals 
+  
+  Any 
+
+to 
+
+invest 
+
+in 
+
+India 
+
+is  permitted 
+
+investor  abroad  who 
+
+i.e. 
+NRIs/OCBs/FIIs/PIOs  shall  be  able  to  place  orders  on  the  trading 
+terminal  of  the  Exchange  available  at  the  office  of  the  Indian  broker 
+maintained abroad. The order fed on the live terminal shall be executed on 
+the computer of the Exchange in India.  The service to the clients shall be 
+provided  by  the  broker’s  overseas  office  and  its  local  office.  These 
+terminals shall include any of other options that the respective exchange 
+may  provide  for  connecting  its  trading  terminal  abroad  to  its  trading 
+system in India. 
+
+e.   Contract Note  
+ 
+ 
+
+The contract note in favour of the client abroad shall be issued in India, 
+however the same could be printed in the broker’s office abroad and shall 
+be subject to the jurisdiction of the respective stock exchanges. 
+
+ 
+f.  Capital Adequacy, Margins System & Brokerage 
+ 
+  All such trades would be subject to usual margins, capital adequacy and 
+intra-day trading limits and such other requirements fixed for the brokers 
+by the Exchange.   
+
+ 
+ 
+
+ 
+
+The respective stock exchange shall ensure that investors do not pay the 
+brokerage on such trades exceeding the maximum brokerage permitted as 
+per the rules, regulations and bye-laws of the exchange. 
+
+Page 30 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+  No Negotiated Deals shall be permitted through these terminals and only 
+screen based order matching system shall be available on these terminals.   
+
+ 
+g.  Settlement Procedure 
+  
+  All  trades  shall  be  settled  in  India  in  dematerialized  form  only.  Clients 
+with  status  of  FIIs  shall  settle  the  trade  through  their  registered 
+custodian/ designated bank.  Clients with the status of NRIs/PIOs/OCBs 
+shall settle the trade through a designated bank.  Such a designated bank 
+shall be responsible for repatriation of funds. 
+
+The  respective  stock  exchange  shall  ensure  that  there  is  adequate 
+monitoring  and  surveillance  mechanism  for  such  overseas  terminals  in 
+order to oversee trades.  
+
+ 
+h.  Monitoring & Surveillance 
+ 
+ 
+
+ 
+i.  Grievance Redressal Mechanism 
+ 
+ 
+
+The investors’ grievance for such cases shall be resolved by the respective 
+Indian Stock Exchange through the existing arbitration mechanism.  
+
+The concerned Stock Exchange shall ensure that their members have the 
+adequate arrangements for resolving the investors grievances and timely 
+settlement of arbitration cases arising out of trades which are executed on 
+these terminals. 
+
+ 
+ 
+
+ 
+j.  Jurisdiction 
+ 
+
+The agreement between the trading member and constituent should, inter 
+alia,  state  that,  all  trades,  transactions  and  contracts  are  subject  to  the 
+Rules, Bye Laws and Regulations of the Exchange and shall be deemed to 
+be and shall take effect as wholly made, entered into and to be performed 
+in  the  city  of  _________  ,  India  and  the  parties  to  such  trade  shall  be 
+deemed to have submitted to the jurisdiction of the Courts in _________ ,  
+India for the purpose of giving effect to the provisions of the Rules, Bye 
+Laws and Regulations of the Exchange. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Page 31 of 32 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+REFERENCE – List of Circular 
+
+1.  Circular No. SMDRP/POLICY/TTA-14072/CIR-23/99 dated July 12, 1999. 
+2.  Circular No. SMD/POLICY CIR-33/99 dated October 15, 1999. 
+3.  Circular No. SMDRP/POLICY/CIR- 06/2000 dated January 31, 2000. 
+4.  Circular No. SMDRP/Policy/Cir-48/2000 dated October 11, 2000. 
+5.  Circular No. SMDRP/POLICY/CIR-56/00 dated December 15, 2000 
+6.  Circular No. SEBI/SMD/SE/15/2003/29/04 dated April 29, 2003 
+7.  Circular No. SEBI/MRD/Policy/SE/15864/2003 dated August 21, 2003 
+8.  Circular No. SEBI/MRD/SE/Cir-38/2003 dated October 8, 2003. 
+9.  Circular No. DNPD/ Cir-9/04 dated February 3, 2004. 
+10. Circular No. SEBI/MRD/SE/Cir-11/2004 dated February 25, 2004 
+11. Ref. No. DNPD/Cir- 22 /04 dated April 01, 2004 
+12. Ref. No. DNPD/Cir-23/04 dated April 27, 2004 
+13. Ref.No. DNPD/Cir-24/04 dated May 26, 2004 (STP Guidelines) 
+14. Ref.No. DNPD/Cir-25/04dated June 10, 2004 
+15. Ref. No. DNPD/14785/04 dated July 08, 2004 
+16. Ref. No. DNPD/Cir-28/04 dated September 28, 2004 
+17. Circular No. MRD/DoP/SE/Cir-20/2005 dated September 8, 2005 
+18. .Circular No. MRD/DoP/SE/Cir- 14/2006 dated September 28, 2006. 
+19. Circular No. MRD/ DoP/SE/Cir- 7 /2008 dated April 03, 2008. 
+20. Circular No. MRD/ DoP/SE/Cir- 03 /2009 dated February 20, 2009 
+
+ 
+
+Page 32 of 32 
+
+

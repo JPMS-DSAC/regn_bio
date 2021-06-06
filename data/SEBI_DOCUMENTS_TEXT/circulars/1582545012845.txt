@@ -1,0 +1,646 @@
+ 
+
+CIRCULAR 
+
+ 
+
+ 
+
+  
+
+ 
+
+     February 24, 2020 
+
+ 
+SEBI/HO/MRD2/DCAP/CIR/P/2020/27 
+ 
+To 
+ 
+All  Recognized  Stock  Exchanges  and  Clearing  Corporations  (except  Stock 
+Exchanges and Clearing Corporations in International Financial Services Centre) 
+ 
+Dear Sir/ Madam 
+ 
+Review  of  Margin  Framework  for  Cash  and  Derivatives  segments  (except  for 
+Commodity Derivatives segment) 
+ 
+1  SEBI has, from time to time, put in place various risk containment measures to 
+address  the  risks  involved  in  the  cash  and  derivatives  market.  With  a  view  to 
+keeping up pace with the changing market dynamics and to bring more efficiency 
+in  the  risk  management  framework,  a  comprehensive  review  of  the  margin 
+framework  was  done  in  consultation  with  the  Risk  Management  Review 
+Committee (RMRC) of SEBI. Based on the review, it has been decided to effect 
+the following changes to the existing risk management framework. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.1 Margin framework for Cash Market 
+
+1.1.1 VaR Margin Rates 
+
+The VaR margin rates shall be as follows for different groups of stocks: 
+
+Liquidity 
+Categorization 
+Group I 
+Group II 
+Group III 
+
+VaR Margin Rate 
+
+Based on 6σ, subject to minimum of 9% 
+Based on 6σ, subject to minimum of 21.5% 
+50%  if  traded  atleast  once  per  week  on  any  stock 
+exchange; 75% otherwise 
+
+Note: 
+In  case  of  ETFs  that  track  broad  based  market  indices  and  do  not  include 
+ETFs  which  track  sectoral  indices,  the  VaR  margin  rate  shall  be  6  sigma, 
+subject to minimum of 6%. 
+
+1.1.2 Extreme Loss Margin 
+
+The Extreme Loss Margin shall be 3.5% for any stock and 2% for ETFs that 
+track  broad  based  market  indices  and  do  not  include  ETFs  which  track 
+sectoral indices. 
+
+Page 1 of 8 
+
+ 
+1.2  Margin  framework  for  Derivatives  (Index  Derivatives,  Single  Stock 
+
+ 
+
+Derivatives, Currency and Interest Rate Derivatives) 
+
+ 
+
+ 
+
+ 
+
+1.2.1 Volatility calculation 
+
+The  value  of  λ,  the  parameter  which  determines  how  rapidly  volatility 
+estimation  changes  in  the  Exponential  Weighted  Moving  Average  (EWMA) 
+method, shall be fixed at 0.995. 
+ 
+The value of λ shall, accordingly, also get changed for volatility calculation in 
+the cash market. 
+
+ 
+
+1.2.2 Price Scan Range 
+
+The Price Scan Range in respect of various products shall be as follows: 
+
+Product 
+
+Index derivatives 
+
+Single 
+derivatives 
+
+stock 
+
+Currency  and  interest 
+rate derivatives 
+
+Price Scan Range 
+
+Based on 6σ, scaled up by √2 subject to at least 9.3% of 
+the underlying price after considering scaling up. 
+ 
+In case of index option contracts with residual maturity of 
+more than 9 months, the price scan range shall be based 
+on  6σ,  scaled  up  by  √2  subject  to  at  least  17.7%  of  the 
+underlying price after considering scaling up. 
+Based on 6σ, scaled up by √2 subject to at least 14.2% of 
+the underlying price after considering scaling up. 
+ 
+The price scan range  thus  arrived shall be further scaled 
+up  by  √3,  if  the  impact  cost  of  the  security  (as  used  for 
+categorization of securities for margining in Cash Market) 
+is greater than 1%. 
+Based  on  6σ,  subject  to  the  minimum  percentage  of 
+underlying price as tabulated below. 
+ 
+
+Currency/Interest 
+Rate derivative 
+USDINR 
+EURINR 
+GBPINR 
+JPYINR 
+EURUSD 
+GBPUSD 
+USDJPY 
+
+Page 2 of 8 
+
+Minimum  percentage  of 
+underlying Price 
+1.50% 
+2.15% 
+2.25% 
+2.65% 
+2.50% 
+2.50% 
+2.50% 
+
+Interest Rate 
+Derivatives 
+91 Day T Bill 
+
+MIBOR 
+
+ 
+
+ 
+
+1.75% 
+
+0.065% 
+5.50% 
+
+1.2.3 Volatility Scan Range 
+
+The Volatility Scan Range in respect of various products shall be as follows: 
+
+Product 
+
+Index derivatives 
+
+stock 
+
+Single 
+derivatives 
+Currency  and  interest 
+rate derivatives 
+
+Volatility Scan Range 
+
+25%  of  annualized  EWMA  volatility  subject 
+minimum 4% 
+25%  of  annualized  EWMA  volatility  subject 
+minimum 10% 
+25%  of  annualized  EWMA  volatility  subject 
+minimum 3% 
+
+to  
+
+to  
+
+to  
+
+ 
+
+1.2.4 Calendar Spread Charge 
+
+The  Calendar  Spread  Charge  in  respect  of  various  products  shall  be  as 
+follows: 
+
+Product 
+
+Calendar Spread Charge 
+
+stock 
+
+Index derivatives 
+Single 
+derivatives 
+Currency 
+interest 
+derivatives 
+
+and 
+rate 
+
+1.75% of the far month contract 
+2.2% of the far month contract 
+
+ 
+
+Calendar spread charge for spreads in 
+
+months (INR) 
+
+1 month 
+
+500 
+750 
+1575 
+675 
+1600 
+1600 
+1600 
+
+2 
+months 
+600 
+1050 
+1875 
+1075 
+1900 
+1900 
+1900 
+
+3 
+months 
+900 
+1550 
+2075 
+1575 
+2100 
+2100 
+2100 
+
+4 months 
+or more 
+1100 
+1550 
+2075 
+1575 
+2200 
+2200 
+2200 
+
+1700 
+
+2000 
+
+2300 
+
+3200 
+
+110 
+
+160 
+
+210 
+
+260 
+
+Product 
+
+USDINR 
+EURINR 
+GBPINR 
+JPYINR 
+EURUSD 
+GBPUSD 
+USDJPY 
+Interest 
+Rate 
+Derivatives 
+91 Day T 
+Bill 
+
+Page 3 of 8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MIBOR 
+
+7000 
+
+7500 
+
+8000 
+
+ 
+
+ 
+
+8000 
+
+1.2.5 Short Option Minimum Charge 
+
+There shall be no separate short option minimum charge for index derivatives, 
+single stock derivatives, currency and interest rate derivatives. 
+
+1.2.6 Extreme Loss Margin 
+
+The Extreme Loss Margin rates shall be as under: 
+ 
+
+Product 
+
+stock 
+
+Index derivatives 
+Single 
+derivatives 
+Currency  and  interest 
+rate derivatives 
+
+Extreme Loss Margin 
+
+2% of the notional value 
+3.5% of the notional value 
+
+ 
+
+ 
+
+Product 
+USDINR 
+EURINR 
+GBPINR 
+JPYINR 
+EURUSD 
+GBPUSD 
+USDJPY 
+Interest Rate 
+Derivatives 
+91 Day T Bill 
+MIBOR 
+
+ELM: Futures 
+0.50% 
+0.15% 
+0.25% 
+0.35% 
+0.50% 
+0.50% 
+0.50% 
+
+ELM: Options 
+0.75% 
+0.75% 
+0.75% 
+0.75% 
+0.50% 
+0.50% 
+0.50% 
+
+0.25% 
+
+0.015% 
+0.50% 
+
+0.25% 
+
+- 
+- 
+
+Notes: 
+1.  In  case  of  calendar  spread  positions  in  futures  contracts,  extreme  loss 
+margin shall be levied on one third of the value of the open position of the 
+far month futures contract. 
+
+2.  In  case  of  index  options  contracts  that  are  deep  out  of  the  money  (i.e., 
+strikes out of the money by more than 10% from the previous day closing 
+underlying price), the applicable Extreme Loss Margin shall be 3%. 
+
+3.  In  case  of  index  option  contracts  with  residual  maturity  of  more  than  9 
+
+months, the applicable Extreme Loss Margin shall be 5%. 
+
+4.  In  case  of  single  stock  options  contracts  that  are  deep  out  of  the  money 
+(i.e.,  strikes  out  of  the  money  by  more  than  30%  from  the  previous  day 
+closing  underlying  price),  the  applicable  Extreme  Loss  Margin  shall  be 
+5.25%. 
+
+Page 4 of 8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.2.7 Margin on consolidated crystallized obligation 
+
+ 
+
+The  margin  on  consolidated  crystallized  obligation  in  derivatives  shall 
+represent: 
+
+intraday 
+
+On 
+basis  
+At end-of-day  Payable  obligations  at  client  level  considering  all  futures  and 
+
+Payable crystallized obligations based on the closed out futures 
+positions and payable/receivable premium at client level. 
+
+options positions. 
+
+Intraday basis 
+On  intraday  basis,  the  net  payable/receivable amount  at  client  level  shall  be 
+calculated using: 
+1.  Premium payable/receivable 
+2.  Futures  crystallized  profit  or  loss  (calculated  based  on  weighted  average 
+
+prices of trades executed). 
+
+ 
+If  the  overall  amount  at  client  level  is  payable,  such  amount  shall  be  the 
+intraday consolidated crystallized obligation margin for the client. 
+
+End-of-day basis 
+At  the  end  of  day,  the  payable/receivable  amount  at  client  level  shall  be 
+calculated using: 
+1.  Futures mark to market profit/loss to be settled 
+2.  Options premium payable/receivable 
+3.  Options exercise/assignment for expired contracts 
+4.  Futures final settlement for expired contracts 
+
+If the overall amount at client level is payable, such amount shall be the end-
+of-day consolidated crystallized obligation margin for the client. 
+ 
+The margin on consolidated crystallized obligations shall replace the net buy 
+premium,  intraday  crystallized  losses,  assignment  margin  and  futures  final 
+settlement margin levied currently.  
+ 
+The  margin  on  consolidated  crystallized  obligations  shall  be  released  on 
+completion of settlement. 
+ 
+
+1.3 Additional Margin for highly volatile stocks 
+
+ 
+
+(i)  For securities with intra-day price movement (maximum of [High-Low], [High-
+Previous  Close],  [Low-Previous  Close])  of  more  than  10%  in  the  underlying 
+market for 3 or more days in last one month, the minimum total margins shall 
+be equal to the maximum intra-day price movement of the security observed 
+
+Page 5 of 8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  the  underlying market  in  last  one  month.  The  same shall  be  continued  till 
+monthly  expiry  date  of  derivative  contracts  which  falls  after  completion  of 
+three months from date of levy. 
+
+ 
+
+ 
+
+(ii)  For securities with intra-day price movement (maximum of [High-Low], [High-
+Previous  Close],  [Low-Previous  Close])  of  more  than  10%  in  the  underlying 
+market for 10 or more days in last six months, the minimum total margins shall 
+be equal to the maximum intraday price movement of the security observed in 
+the  underlying  market  in  last  six  months.  The  same  shall  be  continued  till 
+monthly expiry date of derivative contracts which falls after completion of one 
+year from date of levy. 
+
+ 
+
+2  The  provisions  of  the  existing  Circulars  (given  at  Annexure  A),  inter  alia, 
+specifying  risk  management  framework  for  cash  and  derivatives  segments 
+(except  for  commodity  derivatives  segment)  shall,  accordingly,  be  amended  to 
+the extent mentioned at Para 1 above. All other provisions/conditions specified in 
+the Circulars given at Annexure A shall remain unchanged. 
+
+ 
+3 
+
+It  is  reiterated  that  risk  management is  primarily a responsibility  of  Clearing 
+Corporations  (CCs)    and    the  framework  prescribed  by  SEBI  is  minimum 
+framework.  CCs  are  allowed  to  be  more  conservative  as  per  their  own 
+perception of risk. 
+
+ 
+4  The provisions of this Circular shall come into effect from May 01, 2020. 
+ 
+5  Stock Exchanges and Clearing Corporations are directed to: 
+
+ 
+
+a)  take  necessary  steps  to  put  in  place  systems  for  implementation  of  
+the circular,  including  necessary  amendments  to  the  relevant  bye-laws,  
+rules and regulations; 
+ 
+
+b)  bring  the  provisions  of  this  circular  to  the notice  of  their  members and  
+
+also disseminate the same on their websites; and 
+ 
+
+c)  communicate to SEBI, the status of implementation of the provisions of this 
+
+circular in the Monthly Development Report. 
+
+ 
+
+6  This  circular  is  issued  in  exercise  of  the powers  conferred  under  Section  
+11(1) of the  Securities  and  Exchange  Board  of  India  Act  1992,  read  with  
+Section  10 of  the Securities  Contracts  (Regulation)  Act,  1956  to  protect  the  
+interests  of investors    in  securities   and   to  promote  the   development  of,  
+and  to  regulate  the securities market. 
+
+ 
+
+ 
+
+Page 6 of 8 
+
+7  This   circular   is   available   on   SEBI   website   at   www.sebi.gov.in at “Legal 
+
+ 
+
+Framework→Circulars”. 
+ 
+
+ 
+Yours faithfully 
+ 
+ 
+(Amit Tandon) 
+General Manager 
+Market Regulation Department 
+email: amitt@sebi.gov.in 
+ 
+ 
+
+ 
+
+ 
+
+Page 7 of 8 
+
+ 
+
+ 
+
+Annexure A 
+
+ 
+List of existing Circulars, inter alia, specifying Risk Management framework for 
+Cash and Derivatives segments (except for Commodity Derivatives segment) 
+
+ 
+
+ 
+
+1.  IES/DC/CIR-4/99 dated July 28, 1999 
+2.  IES/DC/CIR-5/00 dated December 11, 2000 
+3.  SMDRP/DC/CIR-7/01 dated June 20, 2001 
+4.  SMDRP/DC/CIR-10/01 dated November 02, 2001 
+5.  SMDRP/DC/CIR-13/02 dated December 18, 2002 
+6.  SEBI/SMDRP/DC/Cir-16/2003/04/19 dated April 19, 2003 
+7.  SEBI/SMDRP/DC/Cir-/2004/01/05 dated January 05, 2004 
+8.  MRD/DoP/SE/Cir-07/2005 dated February 23, 2005 
+9.  MRD/DoP/SE/Cir-6/2006 dated June 16, 2006 
+10. SEBI/DNPD/Cir-34/2008 dated January 11, 2008 
+11. MRD/DoP/SE/Cir-10/2008 dated April 17, 2008 
+12. SEBI/DNPD/Cir- 38 /2008 dated August 06, 2008 
+13. SEBI/DNPD/Cir-41/2008 dated October 15, 2008 
+14. MRD/DoP/SE/Cir-08/2009 dated July 27, 2009 
+15. SEBI/DNPD/Cir- 46 /2009 dated August 28, 2009 
+16. SEBI/DNPD/Cir- 52 /2010 dated January 19, 2010 
+17. CIR/DNPD/2/2010 dated May 04, 2010 
+18. CIR/DNPD/3/2010 dated July 07, 2010 
+19. CIR/DNPD/5/2010 dated July 30, 2010 
+20. SEBI /DNPD/ 3 /2011 dated March 07, 2011 
+21. CIR/DNPD/8/2011 dated December 30, 2011 
+22. CIR/MRD/DP/26/2012 dated September 26, 2012 
+23. CIR/MRD/DP/22/2013 dated July 08, 2013 
+24. CIR/MRD/DRMNP/35/2013 dated December 05, 2013 
+25. CIR/MRD/DP/12/2014 dated April 07, 2014 
+26. CIR/MRD/DRMNP/11/2015 dated June 12, 2015 
+27. SEBI/HO/MRD/DP/CIR/P/2016/38 dated March 09, 2016 
+28. CIR/MRD/DRMNP/008/2018 dated January 08, 2018 
+29. SEBI/HO/MRD/DRMNP/CIR/P/2018/75 dated May 02, 2018 
+30. SEBI/HO/MRD/DRMNP/CIR/P/2018/155 dated December 17, 2018 
+
+***** 
+
+Page 8 of 8 
+
+

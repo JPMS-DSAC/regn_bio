@@ -1,0 +1,720 @@
+ 
+ 
+
+ 
+
+Discussion Paper on  
+
+ 
+
+Compliance with SEBI Regulations by listed 
+
+entities undergoing Corporate Insolvency 
+
+Resolution Process under the Insolvency and 
+
+Bankruptcy Code, 2016 
+
+ 
+
+ 
+
+Background and Need for review 
+
+ 
+1.  The objective of the Insolvency and Bankruptcy Code, 2016 (“IBC”) as stated in the 
+
+preamble to the said Act is as under: 
+
+“An  Act  to  consolidate  and  amend  the  laws  relating  to  reorganisation  and 
+
+insolvency resolution of corporate persons, partnership firms and individuals 
+
+in a time bound manner for maximisation of value of assets of such persons, 
+
+to promote entrepreneurship, availability of credit and balance the interests 
+
+of all the stakeholders including alteration in the order of priority of payment 
+
+of  Government  dues  and  to  establish  an  Insolvency  and  Bankruptcy  Board 
+
+of India, and for matters connected therewith or incidental thereto.” 
+
+  
+
+2.  Corporate Insolvency  Resolution Process (“CIRP”) is the process for resolution of 
+
+insolvency of a corporate debtor  in accordance with the provisions of IBC. Where 
+
+the  corporate  debtor  is  a  listed  entity,  the  applicable  regulatory  framework  under 
+
+various SEBI Regulations may have to be suitably modified to facilitate insolvency 
+
+resolution  while  at  the  same  time  ensuring  that  the  interests  of  investors  in 
+
+securities of such corporate debtors are protected.   
+
+3.  Under the framework outlined in IBC, in case of a company undergoing CIRP, the 
+
+management of  affairs  of  the  company  vests  in  a  Resolution  Professional  (“RP”). 
+
+Powers  of  the  board  of  directors  of  the  company  stand  suspended  and  are 
+
+exercised by the RP. The officers and managers of the company report to the RP 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+and  the  personnel  of  the  company,  its  promoters  or  any  other  person  associated 
+
+with the management of the company extend all assistance and cooperation to the 
+
+RP in managing the affairs of the company.  
+
+4.  Further,  in  terms  of  Section  28  of  IBC,  the  RP  is  subject  to  supervision  of  the 
+
+Committee  of  Creditors  in  as  much  as  it  cannot  take  certain  actions  listed  there 
+
+under without obtaining prior approval of the said Committee. Thus, activities of a 
+
+listed  entity  which  otherwise  would  have  been  undertaken  with  the  approval  of 
+
+board of directors, would require  action by  RP or the  approval of a Committee of 
+
+Creditors (“CoC”) in a CIRP scenario.    
+
+ 
+
+Regulatory Instructions 
+
+ 
+5.  The Insolvency and Bankruptcy Board of India (“IBBI”) has, inter alia, clarified vide 
+
+circular  dated  January  03,  2018  that  a  corporate  person  undergoing  insolvency 
+
+resolution  process  under  IBC  needs  to  comply  with  provisions  of  the  applicable 
+
+laws (Acts, Rules and Regulations, Circulars, Guidelines, Orders, Directions, etc.) 
+
+during  such  process,  unless  the  provision  is  specifically  exempted  by  the 
+
+competent authority or becomes inapplicable by operation of law for the corporate 
+
+person.  IBBI  has  further  directed  that  while  acting  as  an  Interim  Resolution 
+
+Professional,  a  Resolution  Professional,  or  a  Liquidator  for  a  corporate  person 
+
+under  the  Code,  an  insolvency  professional  shall  exercise  reasonable  care  and 
+
+diligence  and  take  all  necessary  steps  to  ensure  that  the  corporate  person 
+
+undergoing any process under IBC complies with the applicable laws. 
+
+ 
+
+6.  The Ministry of Corporate Affairs (“MCA”) has clarified vide its General Circular No. 
+
+IBC/01/2017 dated October 25, 2017 that the approval of shareholders/ members 
+
+of the corporate debtor/ company for a particular action required in the resolution 
+
+plan for its implementation, which would have been required under the Companies 
+
+Act,  2013  or  any  other  law  if  the  resolution  plan  of  the  company  was  not  being 
+
+considered  under  IBC,  is  deemed  to  have  been  given  on  its  approval  by  the 
+
+Adjudicating Authority. 
+
+ 
+
+ 
+ 
+
+Page 2 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+7.  Thus,  there  is  a  fundamental  change  in  management  and  governance  of  a  listed 
+
+   
+
+ 
+
+ 
+
+entity  during  CIRP  as  well  as  pursuant  to  approval  of  resolution  plan.  The 
+
+securities  laws  have  cast  several  obligations  on  listed  entities  in  the  interest  of 
+
+investors.  Keeping  in  view  the  interests  of  investors,  the  modified  governance 
+
+structure  of  the  listed  corporate  debtor  and  the  need  for  ensuring  revival  of  the 
+
+corporate  debtor  pursuant  to  resolution  plan,  there  is  a  necessity  of  providing  a 
+
+suitable framework  of  compliance  with  securities  laws  by  listed  entities  which  are 
+
+subject to CIRP (hereinafter referred to as ‘listed corporate debtors’). 
+
+ 
+ 
+
+Proposals for Review 
+
+ 
+
+8.  In view of the circumstances pertaining to the listed corporate debtors, it is felt that 
+
+suitable  clarifications/  amendments  may  be  required  under  various  SEBI 
+
+Regulations  to  facilitate  and  ensure  compliance  with  the  securities  laws.  For  the 
+
+said  purpose,  the  insolvency  proceedings  in  respect  of  a  listed  corporate  debtor 
+
+may  be  divided  into  three  distinct  stages,  viz.  (i)  Pre-CIRP  stage,  i.e.  the  period 
+
+before the application for initiating CIRP is admitted by NCLT, (ii) CIRP stage, i.e. 
+
+the  period  spanning  from  admission  of  application  by  NCLT  till  the  time  the 
+
+resolution  plan  is  approved  by  NCLT,  and  (iii)  Post-CIRP  stage,  i.e.  the  period 
+
+when the resolution plan as approved by NCLT is being implemented. The various 
+
+issues/ proposals corresponding to each of the aforesaid stage are outlined below. 
+
+ 
+
+A.  Pre-CIRP Stage 
+
+ 
+
+9.  Disclosures - 
+
+(a)  Existing  provision  -  Presently,  there  are  no  specific  disclosure  requirements 
+
+pertaining  to  filing  of  application  or  admission  of  application  for  initiating  CIRP  in 
+
+the  SEBI  (Listing  Obligations  and  Disclosure  Requirements)  Regulations,  2015 
+
+(“LODR Regulations”). 
+
+(b) Proposal - Regulation 30 of LODR Regulations which prescribes disclosure of 
+
+material  events  to  the  stock  exchanges  may  be  suitably  amended  to  specifically 
+
+prescribe disclosures, on occurrence of the following events, by a listed corporate 
+
+debtor: 
+
+ 
+ 
+
+Page 3 
+
+ 
+
+ 
+ 
+
+i. 
+
+ii. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Filing of application by the corporate applicant  for initiation of CIRP; 
+
+Filing of application by creditors for initiation of CIRP against the corporate 
+
+debtor;  
+
+iii.  Amount in default as stated in the application made to NCLT under sections 
+
+7, 9 and 10 of IBC; 
+
+iv.  Receipt  of  demand  notice  or  copy  of  invoice  demanding  payment  of  the 
+
+amount involved in default, from the operational creditor, in terms of section 
+
+8(1) of IBC; and 
+
+v.  Admission of application by NCLT. 
+
+ 
+
+B.  CIRP Stage 
+
+ 
+10. Trading  in  stock  exchange  -  In  addition  to  assessment  of  risk-reward  trade-off, 
+
+liquidity  of  the  investment  is  also  an  important  factor  for  an  investor  evaluating 
+
+investments in equity. Deep and reliable secondary market for purchase and sale 
+
+of shares is one of the vital elements of securities market. As such, continuation of 
+
+trading  in  the  scrip  of  listed  corporate  debtor  would  facilitate  transparency  and 
+
+better  price  discovery  and  would,  therefore,  be  in  the  interest  of  investors. 
+
+However,  continued  trading  on  the  stock  exchanges  would  depend  on  such 
+
+companies meeting the listing standards of the exchanges. Accordingly, comments 
+
+are sought on whether it is desirable to impose any fetters on the transferability of 
+
+shares  of  listed  corporate  debtors  by  introducing  restrictions  on  trading  in  stock 
+
+exchange. 
+
+ 
+
+11. Disclosures -  
+
+(a)  Existing  provision  -  Presently,  there  are  no  specific  disclosure  requirements 
+
+pertaining to CIRP in the LODR Regulations. 
+
+(b)  Proposal  -  Regulation  30  of  LODR  Regulations  may  be  suitably  amended  to 
+
+specifically prescribe the following disclosures by a listed corporate debtor: 
+
+i.  Public announcement ordered by NCLT, 
+
+ii.  Invitation of claims by Interim Resolution Professional, 
+
+iii.  Confirmation of Interim Resolution Professional by the CoC, 
+
+ 
+ 
+
+Page 4 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+iv.  Intimation of meetings of CoC, 
+
+v.  The event of Information Memorandum having been prepared by RP, 
+
+vi.  Number of bids received by RP, 
+
+vii.  The event of filing of resolution plan with NCLT, 
+
+viii.  Approval  of  resolution  plan  by  NCLT  and  the  resolution  plan,  so  approved, 
+
+and 
+
+ix.  Any other material information not involving commercial secrets.  
+
+ 
+
+C.  Post-CIRP Stage 
+
+ 
+
+12. Material Related Party Transactions (RPTs) - 
+
+(a)  Existing  provision  -  In  terms  of  regulation  23(4)  of  LODR  Regulations,  all 
+
+material  related  party  transactions  require  approval  of  the  shareholders  through 
+
+resolution  and  the  related  parties  are  required  to  abstain  from  voting  on  such 
+
+resolutions whether the entity is a related party to the particular transaction or not. 
+
+(b) Proposal - In line with the General Circular dated October 25, 2017 issued by 
+
+MCA,  regulation  23(4)  of  LODR  Regulations  may  be  amended  to  clarify  that 
+
+shareholders’ approval will not be required  if a listed corporate debtor undertakes 
+
+material RPTs as part of a resolution plan approved by NCLT. 
+
+  
+
+13. Disposal of shares in material subsidiary - 
+
+(a) Existing provision - In terms of regulation 24(5) of LODR Regulations, a listed 
+
+entity shall not dispose of shares in its material subsidiary resulting in reduction of 
+
+its shareholding (either on its own or together with other subsidiaries) to less than 
+
+fifty percent or cease the exercise of control over the subsidiary without passing a 
+
+special resolution in its General Meeting except in cases where such divestment is 
+
+made under a scheme of arrangement duly approved by a Court/Tribunal. 
+
+(b) Proposal - In line with the General Circular dated October 25, 2017 issued by 
+
+MCA, the exemption from passing a special resolution which is currently available 
+
+to  ‘schemes  of  arrangement’  duly  approved  by  a  Court/  Tribunal  may  also  be 
+
+extended to resolution plans approved by NCLT. 
+
+ 
+
+ 
+ 
+
+Page 5 
+
+ 
+
+ 
+
+ 
+ 
+14. Dealing with assets of material subsidiary - 
+
+ 
+
+ 
+
+ 
+
+   
+
+(a) Existing provision - In terms of regulation 24(6) of LODR Regulations; selling, 
+
+disposing  and  leasing  of  assets  amounting  to  more  than  twenty  percent  of  the 
+
+assets  of  the  material  subsidiary  on  an  aggregate  basis  during  a  financial  year 
+
+shall require prior approval of shareholders by way of special resolution, unless the 
+
+sale/disposal/lease  is  made  under  a  scheme  of  arrangement  duly  approved  by  a 
+
+Court/Tribunal. 
+
+(b) Proposal - In line with the General Circular dated October 25, 2017 issued by 
+
+MCA, the exemption from passing a special resolution which is currently available 
+
+to  ‘schemes  of  arrangement’  duly  approved  by  a  Court/  Tribunal  may  also  be 
+
+extended to resolution plans approved by NCLT. 
+
+ 
+
+15. Re-classification of promoters - 
+
+(a) Existing provision  - Regulation 31A of LODR Regulations has laid  down the 
+
+conditions on fulfillment of which the promoter of a listed entity may be re-classified 
+
+as  a  public  shareholder.  Regulation  31A(7)(b)  also  stipulates  that  increase  in  the 
+
+level  of  public  shareholding  pursuant  to  re-classification  of  promoter  shall  not  be 
+
+counted 
+
+towards  achieving  compliance  with  minimum  public  shareholding 
+
+requirement under rule 19A of the Securities Contracts (Regulation) Rules, 1957. 
+
+(b)  Issue  -  It  has  been  represented  to  SEBI  that  in  terms  of  resolution  plan 
+
+approved  by  NCLT,  the  existing  promoters  may  be  diluted  to  an  extent  that  they 
+
+may  not  be  left  with  any  significant  shareholding  and/or  control  in  the  listed 
+
+corporate debtor. In respect of such cases, relaxation of the conditions prescribed 
+
+under  Regulation  31A  of  LODR  Regulations  has  been  sought  for  re-classifying 
+
+such  promoters  as  public  shareholders.  It has  also  been  suggested  that  such  re-
+
+classified  shareholding  should  be  permitted  to  be  counted  towards  achieving 
+
+compliance  with  minimum  public  shareholding  requirement  stipulated  under  the 
+
+Securities  Contracts  (Regulation)  Rules,  1957.  Comments  are  hereby  sought  in 
+
+this regard. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Page 6 
+
+ 
+
+ 
+
+ 
+ 
+16. Compliance with Minimum Public Shareholding Requirement - 
+
+ 
+
+ 
+
+ 
+
+   
+
+(a)  Existing  provision  -  In  terms  of  regulation  38  of  LODR  Regulations,  a  listed 
+
+entity shall comply with the minimum public shareholding requirements specified in 
+
+Rule 19(2) and Rule 19A of the Securities Contracts (Regulation) Rules, 1957. 
+
+(b)  Proposal  -  As  part  of  implementing  the  resolution  plan,  if  the  public 
+
+shareholding falls below  the level of 25% then the listed corporate debtor may be 
+
+granted  a  time  period  of  2  years  instead  of  the  1  year  period  currently  allowed 
+
+under  the  Securities  Contracts  (Regulation)  Rules,  1957,  to  achieve  compliance 
+
+with the minimum public shareholding requirement of 25%.  
+
+ 
+
+17. Acquisition beyond maximum permissible non-public shareholding - 
+
+(a)  Existing  provision  -  In  terms  of  the  proviso  to  regulation  3(2)  of  the  SEBI 
+
+(Substantial  Acquisition  of  Shares  and  Takeovers)  Regulations,  2011  (“Takeover 
+
+Regulations”),  an  acquirer  shall  not  be  entitled  to  acquire  or  enter  into  any 
+
+agreement to acquire shares or voting rights exceeding such number of shares as 
+
+would  take  the  aggregate  shareholding  pursuant  to  the  acquisition  above  the 
+
+maximum permissible non-public shareholding. 
+
+(b) Proposal - In case the said provision is not relaxed, it may hamper infusion of 
+
+capital  for  ensuring  revival  of  a  listed  corporate  debtor.  Accordingly,  the  said 
+
+proviso to regulation 3(2) of the Takeover Regulations may be amended to  permit 
+
+acquisition  of  shares,  in  accordance  with  a  resolution  plan approved by  NCLT,  in 
+
+excess of the maximum non-public shareholding, i.e. 75% presently. 
+
+ 
+
+18. Delisting pursuant to resolution plan/ liquidation - 
+
+(a) Existing provision -  
+
+i.  Presently,  in  case  a  listed  entity  is  proposed  to  be  delisted  pursuant  to  a 
+
+resolution  plan  approved  under  IBC,  the  provisions  of  SEBI  (Delisting  of 
+
+Equity  Shares)  Regulations,  2009  (“Delisting  Regulations”)  need  to  be 
+
+complied with. 
+
+ 
+ 
+
+Page 7 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ii.  Also, regulation 28(1) of Delisting Regulations already provides that in case of 
+
+winding  up  proceedings  of  a  company  whose  equity  shares  are  listed  on  a 
+
+recognised  stock  exchange,  the  rights,  if  any,  of  the  shareholders  of  such 
+
+company  shall  be 
+
+in  accordance  with 
+
+the 
+
+laws  applicable 
+
+to 
+
+those 
+
+proceedings.  
+
+ 
+
+(b)  Issue  -  It has  been  represented  to  SEBI  that  if the  proposal for  delisting  is  in 
+
+accordance with the resolution plan which has been approved by NCLT, in such a 
+
+case there is a need to relax the provisions of Delisting Regulations.  Accordingly, 
+
+comments  are  sought  on  the  changes  that  may  be  required  in  the  Delisting 
+
+Regulations in this regard.  
+
+ 
+
+ 
+
+Public Comments 
+ 
+19. Considering  the  implications  of  the  instant  matter  on  the  market  participants 
+
+including  the  investors  and  listed  companies,  public  comments  on  the  issues/ 
+
+proposals  made  at  paragraphs  9  -  18  are  solicited.  Specific  comments/ 
+
+suggestions as per the format given below would be highly appreciated: 
+
+ 
+
+Name of entity/ person/ intermediary:  
+ 
+
+ 
+
+Name of organization (if applicable): 
+ 
+
+ 
+
+Contact details:  
+ 
+
+Sr. 
+No. 
+
+ 
+
+ 
+
+ 
+
+Pertains to para number 
+
+Proposed/ 
+
+Rationale 
+
+suggested changes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20. Such comments may please be e-mailed to sebicirp@sebi.gov.in or sent by post at 
+
+the following address latest by April 15, 2018: 
+
+Shri. Rajesh Gujjar 
+Deputy General Manager 
+Corporation Finance Department 
+Division of Corporate Restructuring 
+Securities and Exchange Board of India  
+SEBI Bhavan 
+Plot No. C4-A, "G" Block 
+
+ 
+
+ 
+ 
+
+Page 8 
+
+ 
+
+ 
+
+   
+
+Bandra Kurla Complex 
+Bandra (East), Mumbai - 400 051 
+Phone: +912226449232 
+
+ 
+Issued on: March 28, 2018 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+***** 
+
+Page 9 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+

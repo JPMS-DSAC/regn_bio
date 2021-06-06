@@ -1,0 +1,5824 @@
+ 
+
+ 
+
+ 
+
+REPORT OF 
+
+THE HIGH LEVEL COMMITTEE TO REVIEW THE 
+
+SEBI (PROHIBITION OF INSIDER TRADING)  
+
+REGULATIONS, 1992 
+
+ 
+
+ 
+
+ 
+
+UNDER THE CHAIRMANSHIP OF 
+
+N. K. SODHI, 
+
+Former Chief Justice 
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+DECEMBER 7, 2013  
+
+ 
+
+TABLE OF CONTENTS 
+
+ 
+ 
+
+SR. NO. 
+ 
+
+PARTICULARS 
+
+1. 
+
+  Preface and Note from the Chairman 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Methodology and Approach 
+
+Structure of the Report 
+
+Legislative Notes 
+
+Acknowledgements  
+
+2. 
+
+  Part I:   Salient Features of the Proposed Regulations 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+General Aspects 
+
+Charging Prohibitions 
+
+Disclosure Obligations 
+
+Codes of Disclosure and Conduct 
+ 
+
+3. 
+
+  Part II:  Key Recommendations: Deliberations and Rationale 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Reach of the Regulations 
+
+Who is an Insider? 
+
+Connected Person 
+
+Generally Available Information and Unpublished 
+Price Sensitive Information 
+ 
+
+Trading versus Dealing 
+
+Charging Provisions 
+
+Due Diligence 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PAGE NO. 
+
+1 
+
+3 
+
+6 
+
+6 
+
+7 
+
+9 
+
+9 
+
+10 
+
+12 
+
+12 
+
+14 
+
+15 
+
+17 
+
+18 
+
+20 
+
+24 
+
+26 
+
+27 
+
+SR. NO. 
+ 
+
+PARTICULARS 
+
+PAGE NO. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Valid Defences 
+
+Trading Plan 
+
+Disclosure of Trades 
+
+Code of Conduct 
+
+Principles of Fair Disclosure 
+
+Onus of Proof 
+
+4. 
+
+  Part III:  Draft of the Proposed Regulations 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chapter I: Preliminary 
+
+Chapter II: Restrictions on Communication and 
+Trading by Insiders 
+
+Chapter III: Disclosures of Trading by Insiders 
+ 
+
+Chapter IV: Codes of Fair Disclosure and Conduct 
+ 
+
+Chapter V: Miscellaneous 
+ 
+Schedule A: Principles of Fair Disclosure for 
+Purposes of Code of Practices and Procedures for 
+Fair Disclosure of Material Information 
+ 
+Schedule B: Minimum Standards for Code of 
+Conduct to Regulate, Monitor and Report Trading 
+by Insiders 
+ 
+
+30 
+
+34 
+
+37 
+
+40 
+
+42 
+
+43 
+
+45 
+
+45 
+
+52 
+
+62 
+
+65 
+
+67 
+
+69 
+
+70 
+
+5. 
+
+  Annexure: List of persons who provided their inputs to the 
+
+73 
+
+Committee 
+ 
+
+ 
+
+ 
+
+GLOSSARY OF TERMS USED IN THE REPORT 
+
+ 
+
+Sr. No 
+
+1.   
+
+Terms Used 
+ 
+ICDR Regulations 
+
+2.   
+
+IOSCO 
+
+3.   
+4.   
+
+IPO 
+PIT Regulations, 1992 
+
+5.   
+
+Proposed Regulations 
+
+6.   
+
+7.   
+
+8.   
+
+SCRA 
+
+SEBI 
+
+SEBI Act 
+
+9.   
+
+Takeover Regulations 
+
+10.  
+
+The Committee 
+
+11.  
+
+UPSI 
+
+ 
+
+ 
+ 
+Meaning 
+
+Securities and Exchange Board of India (Issue of 
+Capital and Disclosure Requirements) 
+Regulations, 2009 
+
+International Organisation of Securities 
+Commissions 
+ 
+
+initial public offering 
+Securities and Exchange Board of India 
+(Prohibition of Insider Trading) Regulations, 
+1992 
+ 
+The proposed regulations i.e. the Securities and 
+Exchange Board of India (Prohibition of Insider 
+Trading) Regulations, 2013 
+ 
+Securities Contracts (Regulation) Act, 1956 
+ 
+
+Securities and Exchange Board of India 
+ 
+The Securities and Exchange Board of India Act, 
+1992  
+ 
+Securities and Exchange Board of India 
+(Substantial Acquisition of Shares and 
+Takeovers) Regulations, 2011 
+ 
+The High Level Committee to Review the SEBI 
+(Prohibition of Insider Trading) Regulations, 
+1992 
+ 
+
+unpublished price sensitive information  
+ 
+
+ 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+PREFACE AND NOTE FROM THE CHAIRMAN 
+
+ 
+ 
+1. 
+
+ 
+
+Insider  trading  –  essentially  the  wrong  of  trading  in  securities  with  the  advantage  of 
+
+having  asymmetrical  access  to  unpublished  information  which  when  published  would 
+
+impact  the  price  of  securities  in  the  market  –  has  been  attracting  regulatory  attention 
+
+worldwide.    While  jurisdictions  across  the  world  are  unambiguously  unanimous  in  the 
+
+resolve  to  fight  insider  trading  by  ensuring  a  level-playing  field  for  trading  in  the 
+
+securities market primarily on the ground that it erodes investor confidence in the market 
+
+and  the  integrity  of  price  discovery,  legal  treatment  of  what  precisely  should  be  the 
+
+measure  to  determine  whether  an  act  of  trading  by  an  insider  is  illegal  varies  across 
+
+jurisdictions.   
+
+ 
+
+2. 
+
+In any good legal system, in dealing with any form of wrong or misconduct, it is critical 
+
+that  the  law  draws  a  clear  line  making  it  evident  as  to  what  the  treatment  of  persons 
+
+falling on either side of the line will be.  Unless the law and its implications are set out in 
+
+a  clear,  specific  and  predictable  manner,  it  would  not  be  possible  to  provide  a  just  and 
+
+transparent regulatory system that is respected and adhered to.   
+
+ 
+
+3. 
+
+In India, insider trading is not only a tort i.e. a civil wrong but also a crime1.  The SEBI 
+
+Act  does not  define the  term  by itself although it  refers to the term ―insider trading‖ in 
+
+many provisions2.  However, using the powers to make regulations and in discharge of its 
+
+functions, SEBI has made regulations prohibiting insider trading in  the form of the PIT 
+
+Regulations,  1992,  which  have  defined  various  terms  such  as  ―connected  person‖, 
+
+―dealing in securities‖, ―insider‖, ―price sensitive information‖, ―unpublished‖, to name a 
+
+few, to build up a framework of the prohibition on insider trading. 
+
+ 
+
+                                                           
+1 Section 24 of the SEBI Act criminalizes insider trading, punishable with imprisonment of up to ten years, or with 
+fine of up to Rs. 25 crores, or both.  
+2 Sections 11(2)(g), 11(2A)  and 11(4) (power to take measures and issue directions in the interests of the market); 
+Section  11D  (power  to  issue  cease  and  desist  directions);  Section  12A(d)  (prohibition  on  directly  or  indirectly 
+engaging  in  insider  trading);  Section  15G  (power  to  impose  civil  monetary  penalty  for  trading  on  the  basis  of 
+unpublished price sensitive information) 
+
+ 
+
+Page 1 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+4. 
+
+Who  is  an  ―insider‖,  when  and  what  form  of  dealings  should  get  prohibited,  what 
+
+restrictions  the  regulations  should  impose  in  its  attempt  to  prevent  violative  insider 
+
+trading,  the  safeguards  within  which  insiders  may  trade  in  securities  in  a  compliant 
+
+manner and the administrative aspects of how to review, monitor and achieve compliance 
+
+are all critical to a workable and deterrent insider trading regulatory regime.   
+
+ 
+The Committee feels that by its very nature, insider trading is difficult to prove and the 
+
+5. 
+
+initial  burden  to  bring  home  a  charge  could  be  heavy.    However,  where  the  charge  is 
+
+indeed  established,  the  delinquent  should  be  dealt  with  severely  and  in  an  exemplary 
+
+manner in accordance with the rule of law.  Such an approach would send a proper signal 
+
+to the market about the seriousness of the issue, and about the approach of the regulator 
+
+within the parameters of what can be justified in law.  
+
+ 
+The PIT Regulations, 1992 have had their challenges in their drafting, interpretation and 
+
+6. 
+
+reach.    Besides,  the  felt  need  to  ensure  a  clear  regulatory  policy  that  is  not  only  easily 
+
+comprehendible but is also comprehensive led to this Committee being set up under the 
+
+chairmanship of Justice N. K. Sodhi, Former Chief Justice of the High Courts of Kerala 
+
+and Karnataka and a Former Presiding Officer of the Securities Appellate Tribunal.   The 
+
+members of the Committee are:- 
+
+ 
+
+1.  
+
+2.  
+
+3. 
+
+4. 
+
+5. 
+
+6.  
+
+7.  
+
+Darius Khambata, Advocate General of Maharashtra  
+
+Somasekhar Sundaresan, Partner, J. Sagar Associates, Advocates & Solicitors 
+
+Rajeev Luthra, Managing Partner, Luthra & Luthra Law Offices  
+
+Subodh Kumar Agrawal, President, Institute of Chartered Accountants of India 
+
+K. Venkataramanan, CEO & MD, Larsen & Toubro  
+
+Suresh Senapaty, Chief Financial Officer, Wipro Ltd. 
+
+Nirmal Jain, Chairman and MD, India Infoline Ltd.  
+
+8.   Motilal Oswal, Chairman & MD, Motilal Oswal Financial Services  
+
+9.  
+
+Rashesh Shah, Chairman & CEO, Edelweiss Group  
+
+10.   Milind Barve, Chairman, AMFI & MD, HDFC AMC Ltd.  
+
+11.   Arundhati Bhattacharya, MD& CEO, SBI Capital Markets Ltd 
+
+12.   Deepak Kumar Chatterjee, MD & CEO, SBI Mutual Fund  
+
+ 
+
+Page 2 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+13.   Mobis Philipose, Columnist, Mint, HT Media Limited  
+
+14.   Menaka Doshi, Journalist, CNBC TV 18  
+
+15.   A. P. Bakliwal, The Bombay Shareholders’ Association  
+
+16.  
+
+S. Ramann, Executive Director (Surveillance), SEBI  
+
+17.   R. K. Padmanabhan, Executive Director (Investigations), SEBI  
+
+18.  
+
+J. Ranganayakulu, Executive Director (Law), SEBI - Member Secretary  
+
+ 
+
+7. 
+
+Mr. S. Ramann left the Committee on July 8, 2013 upon repatriation to his parent cadre 
+
+and was replaced by Mr. S. Ravindran, Executive Director (Surveillance), SEBI.   
+
+ 
+
+Methodology and Approach: 
+
+ 
+
+8. 
+
+The Committee had its first sitting on April 12, 2013, and finalized this report at its last 
+
+sitting  on  December  7,  2013.    At  the  outset,  the  Committee  decided  to  invite  public 
+
+comments on any and every aspect of the regulations dealing with insider trading which 
+
+enabled a review of all aspects of the PIT Regulations, 1992 including those where it was 
+
+felt  the  provisions  are  inadequate  and  those  where  Indian  regulations  are  superior  to 
+
+regimes  elsewhere  in  the  world.  The  Committee  received  comments  and  contributions 
+
+from various persons whose inputs were compiled and collated for review by it. A list of 
+
+the persons who provided their inputs to the Committee is contained in the Annexure.    
+
+ 
+
+9. 
+
+The  Committee  is  grateful  for  such  participation  and  contribution  by  members  of  the 
+
+public.  Without their inputs, the burden of the Committee would have been much heavier 
+
+and  the  Committee  would  not  have  had  the  benefit  of  public  participation,  articulation 
+
+and  the  feedback  of  society  on  various  aspects  of  the  regulations.  Thereafter,  the 
+
+Committee  met  on  several  occasions  to  deliberate  upon  various  issues  and  aspects  of 
+
+insider trading and what good law to deal with insider trading should be along with the 
+
+appropriate regulatory response as a matter of policy.   
+
+ 
+
+10. 
+
+The Committee has drafted the Proposed Regulations dealing with insider trading so that 
+
+its  recommendations  are  spelt  out  in  complete  detail  including  the  language  of  the 
+
+ 
+
+Page 3 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+regulatory  formulation.    The  Committee  recommends  that  these  regulations  be  notified, 
+
+repealing and replacing the PIT Regulations, 1992.   
+
+ 
+
+11. 
+
+The  Committee  formed  a  core  drafting  sub-group  to  prepare  working  drafts  of  the 
+
+Proposed Regulations to enable the Committee to specifically focus on issues to be dealt 
+
+with in ideal regulations, and this enabled reviewing the adequacy or lack thereof in the 
+
+PIT  Regulations,  1992  in  achieving  the  regulatory  objectives.    Various  members  of  the 
+
+Committee  provided  both  written  inputs  and  contributions  during  deliberations, 
+
+challenging one another in the inputs given, reconciling differences, and working towards 
+
+addressing  the  regulatory  and  societal  concerns  connected  with  insider  trading.    The 
+
+members of this sub-group were:- 
+
+ 
+1.  
+
+2. 
+
+3.  
+
+4. 
+
+5.  
+
+6. 
+
+ 
+
+Justice N.K. Sodhi 
+
+Darius Khambata 
+
+Somasekhar Sundaresan 
+
+R. K. Padmanabhan  
+
+J. Ranganayakulu  
+
+S. Ramann (replaced by S. Ravindran) 
+
+12. 
+
+The following officers were invited to assist the sub-group in its work:- 
+
+ 
+
+1. 
+
+2. 
+
+3. 
+
+ 
+
+Amit Pradhan, Legal Advisor, SEBI 
+
+Sumit Agrawal, Assistant Legal Advisor, SEBI 
+
+Vaneesa Abhishek, Legal Officer, SEBI 
+
+The Committee would like to place on record its deep appreciation of the valuable inputs 
+
+that  these  young  officers  who  have  been  associated  with  the  Committee  from  the  very 
+
+beginning,  have  provided  from  time  to  time.    Without  their  able  support  and  assistance 
+
+and  the  timely  provision  of  data  and  co-ordination  across  all  Committee  members,  it 
+
+would not have been possible to achieve completion of the Committee’s task. 
+
+ 
+
+ 
+
+Page 4 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+13. 
+
+Insider trading is an evocative subject.  Drafting regulations in precise, unambiguous and 
+
+predictable  terms  necessarily  entails  balancing  multiple,  and  at  times,  conflicting 
+
+perceptions  of  various  stakeholders  in  the  market  system.    For  example,  the  easiest  but 
+
+most simplistic approach would be to prohibit any trading by an insider.  However, such 
+
+an approach would not only be as ineffective as any blanket prohibition policy but would 
+
+also be unrealistic and out of sync with economic and regulatory realities. For example, 
+
+rewarding and incentivizing employees with stock options on securities of a listed issuer 
+
+is well recognized in the securities regulatory policy – SEBI has even made guidelines on 
+
+the subject.   A simplistic prohibition on all forms of trading by all insiders would mean 
+
+that stock options would be rendered impossible to implement. 
+
+ 
+
+14. 
+
+In drafting these regulations, the Committee has done its best to take into account every 
+
+contribution  received  in  response  to  the  invitation  of  public  inputs.    In  writing  any 
+
+legislation, it is not possible to accept and adopt every single suggestion and contribution.  
+
+Therefore,  the  omission  of  any  input  received  from  the  public  is  a  conscious  and 
+
+deliberate  one.    An  ideal  approach  to  legislation  would  be  to  address  every  regulatory 
+
+concern raised, taking into account the effectiveness of the regulatory measure adopted, 
+
+the  cost  and  burden  imposed  by  the  regulation  on  the  market  place  and  whether  the 
+
+corresponding benefit outweighs the burdens imposed.  The Committee has had to walk a 
+
+very  nuanced  and  tight  rope  –  as  indeed  would  be  the  case  with  any  legislation  –  in 
+
+balancing and calibrating various conflicting inputs. Nevertheless, the non-acceptance of 
+
+any  contribution  received  from  the  public  can  never  dilute  the  value  of  the  suggestion 
+
+received and the Committee is grateful for every suggestion received.   
+
+ 
+
+15. 
+
+In  so  balancing  the  multiple  objectives,  the  Committee  wishes  to  emphasize  and 
+
+underline that trading by insiders to extract undue benefit out of their possession of UPSI, 
+
+stealing  a  march  over  the  rest  of  the  market  owing  to  asymmetrical  access  to  such 
+
+information  ought  to  be  strictly  prohibited.  Such  trading  affects  the  integrity  of  the 
+
+market  and  results  in  investors  who  do  not  have  such  access  being  deprived  of  an 
+
+informed  investment  or  divestment  decision.  In  drafting  the  Proposed  Regulations,  the 
+
+Committee has factored in the regulatory regime obtaining in various other jurisdictions 
+
+ 
+
+Page 5 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+across  the  world.  It  is  immensely  grateful  to  the  literature  from  IOSCO  and  also  that 
+
+published  by  in  various  jurisdictions  such  as  Australia,  Canada,  Israel,  Malaysia,  New 
+
+Zealand, Singapore, United Kingdom and United States of America.   
+
+ 
+
+16.  With  the  benefit  of  having  examined  the  literature  available  on  the  subject  from  across 
+
+the globe, the Committee applied its mind to ground realities in India to develop the most 
+
+appropriate regulatory policy that should be made applicable in India to address specific 
+
+conditions prevalent in  India.  The review of how other markets have dealt with similar 
+
+issues enabled a reference point to analyze the rich experience available in India. Such an 
+
+approach enabled formulating the Proposed Regulations balancing the needs of the Indian 
+
+market and investors in India with international standards and best practices. 
+
+ 
+
+Structure of the Report: 
+
+ 
+
+17. 
+
+This Report is divided in to the following parts:- 
+
+ 
+
+a. 
+
+Part  I,  containing  the  salient  features  and  key  highlights  of  the  Proposed 
+
+Regulations; 
+
+ 
+
+b. 
+
+Part  II,  discussing  the  key  recommendations  of  the  Committee,  articulating  the 
+
+Committee’s deliberations on these issues and what weighed with the Committee in 
+
+arriving at its final recommendations; and  
+
+ 
+
+Part III, containing the draft of the Proposed Regulations. 
+
+c. 
+
+ 
+
+Legislative Notes: 
+
+ 
+
+18. 
+
+The  Committee  wishes  to  highlight  a  very  important  recommendation  that  it  has  made 
+
+and  hopes  that  not  only  SEBI  but  every  regulator  adopts  this  recommendation  in  their 
+
+law-making  role.  The  Proposed  Regulations  contain  specific  notes  on  each  provision 
+
+setting  out  the  legislative  intent  for  which  that  provision  has  been  formulated.  These 
+
+ 
+
+Page 6 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+notes are meant  to  be  an integral  and operative part of the  regulations and are  aimed at 
+
+telling society what role the regulatory system expects the provision of the regulation to 
+
+perform and help in their interpretation. 
+
+ 
+
+19. 
+
+The Committee believes that in  formulating regulatory policy, the authors of legislation 
+
+should  take  courage  not  to  stop  short  of  articulating  what  the  legislation  was  meant  to 
+
+achieve and intended to mean. The Supreme Court of India has observed3 that authors of 
+
+subordinate  legislation  ought  to  articulate  what  they  intended  to  legislate  when  writing 
+
+regulations. The Committee believes that this is even more necessary in the case of any 
+
+complex  specialized  legislation  which  has  quasi-criminal  implications  such  as  the 
+
+Proposed Regulations.   
+
+ 
+
+20. 
+
+Penal provisions should be precise and should not impose an unfair burden on Courts by 
+
+expecting  that  ambiguities  would  be  ironed  out  during  legal  proceedings.  In  fact,  the 
+
+Committee believes that articulating the legislative intent behind each provision would be 
+
+a  powerful  tool  in  nudging  society  towards  a  greater  understanding  of  the  law  and  a 
+
+superior  degree  of  compliance  thereby  minimizing  the  scope  for  litigation  for 
+
+controversies to be adjudicated by courts of law.   
+
+ 
+
+Acknowledgements: 
+
+ 
+
+21. 
+
+Finally, the Committee wishes to acknowledge and thank every officer of SEBI involved 
+
+in assisting the Committee in its work.  In addition to those already named above, the co-
+
+ordination  and  support  from  Mr.  D.V.  Sekhar,  Deputy  Legal  Advisor,  SEBI  and  Mr. 
+
+Rajeev  Rastogi,  Assistant  Legal  Advisor,  SEBI  too  deserves  mention.    Without  the 
+
+tireless contribution and support of the SEBI officers ranging from organizing logistics to 
+
+help collate information and data, it would not have been possible to complete this work 
+
+within the relatively short timeframe in which this report is delivered. 
+
+ 
+
+                                                           
+3 AIR 2010 SC 3089 | (2010) 7 SCC 449 
+
+ 
+
+Page 7 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+22. 
+
+Before parting, my heartfelt gratitude for the vital inputs and most cherished cooperation 
+
+by  each  and  every  member  of  the  Committee,  thus  enabling  us  to  complete  the  task  of 
+
+formulating  new  insider  trading  regulations  in  just  a  few  months.  Special  efforts  have 
+
+been put in by the core group including the learned Advocate General of Maharashtra Mr. 
+
+Darius  Khambata  and  Mr.  Somasekhar  Sundaresan,  Advocate  and  Partner,  J.  Sagar 
+
+Associates,  and  I  will  be  ever  grateful  for  their  walking  that  extra  mile.  But  for  their 
+
+efforts,  the  completion  of  this  challenging  task  would  not  have  been  possible.  Their 
+
+immaculate  drafting  of  the  regulations  and  the  involved  deliberations  by  the  full 
+
+Committee  helped  us  evolve  this  work  product  as  reflected  in  the  final  draft  of  the 
+
+Proposed Regulations. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sd/- 
+
+N.K. Sodhi 
+
+Chairman 
+
+Page 8 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+ 
+
+ 
+
+PART I 
+
+SALIENT FEATURES OF THE PROPOSED REGULATIONS  
+
+The salient features of the Proposed Regulations are set out below:-  
+
+ 
+
+ 
+
+General Aspects: 
+
+ 
+
+1. 
+
+The regulations will cover securities listed or proposed to be listed on stock exchanges4. 
+
+ 
+
+2. 
+
+The  term  ―connected  person‖  is  defined  to  explicitly  include  public  servants  who  handle 
+
+UPSI relating to listed companies5.  
+
+ 
+
+3. 
+
+The  term  ―generally  available  information‖  is  defined  to  identify  what  is  not  UPSI  and 
+
+formulate a test based on whether the information in question is accessible to the public on 
+
+a non-discriminatory basis6.   
+
+ 
+
+4. 
+
+The term ―immediate relative‖ is defined to cover close relatives who are either financially 
+
+dependent or consult the insider in connection with their trading in securities7.  
+
+ 
+
+5. 
+
+The term ―unpublished price sensitive information‖ is defined to mean information that is 
+
+not  generally  available  but  which  upon  becoming  so  available  could  materially  affect  the 
+
+price of securities specifying types of information that will ordinarily be regarded as UPSI 
+
+being listed out8. 
+
+ 
+
+6. 
+
+Every  provision  of  any  importance  (except  for  provisions  such  as  definitions  of  other 
+
+regulations  cross-referenced)  has  been  annotated  with  legislative  notes  with  a  view  to  set 
+
+out the legislative intent and scope of the provision and more importantly, the principles on 
+
+                                                           
+4 Regulation 2(1)(c) 
+5 Regulation 2(1)(e) 
+6 Regulation 2(1)(f) 
+7 Regulation 2(1)(g) 
+8 Regulation 2(1)(p) 
+
+ 
+
+Page 9 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+which  the  regulation  is  based.  The  legislative  notes  are  an  integral  part  of  the  Proposed 
+
+Regulations9. 
+
+ 
+
+Charging Prohibitions: 
+
+ 
+
+ 
+
+Communication of information 
+
+ 
+
+7. 
+
+ 
+
+Insiders are prohibited from communicating, providing or allowing access to UPSI unless 
+
+required for discharge of duties10. 
+
+8.  A  general  prohibition 
+
+is 
+
+imposed  on  all  persons  from  procuring  and  causing 
+
+communication of UPSI unless required for discharge of duties11. 
+
+ 
+
+Due diligence12 
+
+ 
+
+9.  Conducting  due  diligence  on  listed  companies  is  permissible  for  purposes  of  transactions 
+
+entailing an obligation to make an open offer under the Takeover Regulations.  
+
+ 
+
+10.  Due  diligence  is  permissible  in  other  cases  subject  to  making  diligence  findings 
+
+constituting  UPSI  ―generally  available‖  at  least  two  trading  days  prior  to  the  proposed 
+
+trading.  
+
+ 
+
+11.  The board of directors of the listed company will have to opine that permitting the conduct 
+
+of  due  diligence  is  in  the  best  interests  of  the  company  and  will  also  have  to  ensure 
+
+execution of non-disclosure and non-dealing agreements.  
+
+ 
+
+Trading with possession of information 
+
+ 
+
+                                                           
+9 Regulation 1(3) 
+10 Regulation 3(1) 
+11 Regulation 3(2) 
+12 Regulations 3(3) & 3(4) 
+
+ 
+
+Page 10 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+12.  Trading in listed securities when in possession of UPSI is prohibited13.  
+
+ 
+
+13.  Various  specific  defences14  are  provided  since  the  prohibition  is  wide-ranging  and 
+
+expansive.  By  clearly  enumerating  the  defences,  the  prohibition  has  been  made  more 
+
+effective.  The defences include:- 
+
+ 
+
+ 
+
+the trades being contrary to the nature of UPSI15; 
+
+ 
+
+ 
+
+the insider being an innocent recipient of UPSI or placed reliance on information not 
+
+believed to be UPSI16; 
+
+ 
+
+ 
+
+the trade was between counterparties having parity in possession of the UPSI17;  
+
+ 
+
+ 
+
+the exercise of stock options entailing a pre-determined price18; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the trades were decided upon and executed by authorized persons / agents of a ―blind 
+
+trust‖ without access to the UPSI that the insider had19; and 
+
+the  trades  were  pursuant  to  a  trading  plan  compliant  with  the  requirements  of  the 
+
+regulations20. 
+
+ 
+
+Trading plans 
+
+ 
+
+14. 
+
+Insiders who are liable to possess UPSI round the  year are permitted to formulate trading 
+
+plans with appropriate safeguards21.  
+
+                                                           
+13 Regulation 4(1) 
+14 Regulation 4(3)  
+15 Regulation 4(3)(i) 
+16 Regulations 4(3)(ii)  
+17 Regulation 4(3)(iii) 
+18 Regulation 4(3)(iv) 
+19 Regulations 4(3)(v) & (vi) 
+20 Regulation 4(3)(vii) 
+21 Regulation 5(1) 
+
+ 
+
+Page 11 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+15.  The  compliance  officer’s  role  in  monitoring  and  approving  a  trading  plan  has  been  made 
+
+important22.  
+
+ 
+
+Disclosure Obligations: 
+
+ 
+
+16.  Trades by promoters, employees, directors and their immediate relatives are required to be 
+
+disclosed to the company23. 
+
+ 
+
+17.  Trades of a value beyond certain materiality thresholds are required to be disclosed in the 
+
+public domain24. 
+
+ 
+
+18.  Company to keep record of all holdings by all employees25. 
+
+ 
+
+19.  Companies are entitled to require third-party connected persons who are not employees to 
+
+disclose their trading and holdings in securities of the company26. 
+
+ 
+
+Codes of Disclosure and Conduct: 
+
+ 
+
+20.  Every company whose securities are listed or proposed to be listed is required to formulate 
+
+and publish a code of fair disclosure governing disclosure of events and circumstances that 
+
+would impact price discovery of its securities27. 
+
+ 
+
+21.  Every listed company and market intermediary is required to formulate a code of conduct 
+
+to  regulate,  monitor  and  report  trading  in  securities  by  employees  and  other  connected 
+
+persons28. 
+
+ 
+
+                                                           
+22 Regulation 5  
+23 Regulation 7(1) & 7(2) 
+24 Regulation 7(3) 
+25 Regulation 6(3) 
+26 Regulation 7(5) 
+27 Regulation 8(1) 
+28 Regulation 9(1) 
+
+ 
+
+Page 12 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+22.  All other persons who handle UPSI in their ordinary course of work may formulate a code 
+
+of conduct to enable compliance, monitoring and administration29. 
+
+ 
+ 
+
+ 
+
+ 
+
+                                                           
+29 Regulation 9(2) 
+
+ 
+
+Page 13 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+PART II 
+
+ 
+
+KEY RECOMMENDATIONS: DELIBERATIONS AND RATIONALE 
+
+ 
+
+1. 
+
+Part III of this Report contains the recommended draft of the Proposed Regulations.  The 
+
+Committee hopes that a plain reading of the regulatory provisions along with the legislative 
+
+notes annotated with every material provision would set out the scope, reach and meaning 
+
+in precise terms of the prohibitory provisions on insider trading.  In this part of the Report, 
+
+the Committee has articulated the key issues and concepts that were debated in connection 
+
+with the Proposed Regulations set out in Part III. 
+
+ 
+
+2. 
+
+ 
+
+Simply  put,  the  Proposed  Regulations  entail  a  prohibition  on  trading  by  insiders  in 
+
+securities when in possession of UPSI, thus obtaining an unfair advantage.  They also entail 
+
+outlawing  communication  of  UPSI  by  any  insider  except  where  such  communication  is 
+
+legitimately necessary for performance of duties or discharge of legal obligations.  Towards 
+
+this  end,  it  is  necessary  to  define  who  an  ―insider‖  is;  how  a  ―connected  person‖  has  to 
+
+shoulder a higher burden than those who receive UPSI and thereby attract the prohibition 
+
+on  trading;  when  information  takes  the  character  of  ―unpublished  price  sensitive 
+
+information‖; when information can be regarded as ―generally available information‖; what 
+
+type of securities are covered by the prohibition against insider trading; how insiders may 
+
+arrange  their  affairs  in  a  compliant  manner  to  have  the  capacity  to  trade  in  securities; 
+
+recording and disclosing trades by connected persons; and most importantly, what defences 
+
+may  be  available  validly  pressed  considering  the  nature  of  the  prohibition  on  trading  by 
+
+insiders when in possession of UPSI.  
+
+3.  Against  this  backdrop,  some  of  the  key  issues  debated  have  been  articulated  to  give  the 
+
+reader  a  glimpse  of  the  nature  of  the  deliberations  and  issues  that  weighed  with  the 
+
+Committee. More important than this Part II are the legislative notes appended to the actual 
+
+provisions drafted and set out in Part III. The Committee was unanimously of the view that 
+
+there would be little point in writing a conceptual report that has later to be translated into 
+
+regulations leaving scope for loss of meaning in translation. Therefore, the Committee has 
+
+ 
+
+Page 14 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+drafted  the  Proposed  Regulations  with  legislative  notes  that  would  explain  the  legislative 
+
+intent and the regulatory policy behind each provision.  
+
+ 
+
+Reach of the Regulations: 
+
+ 
+
+4. 
+
+The prohibitions contained in the Proposed Regulations would apply to trading in securities 
+
+issued by a company which are listed on a stock exchange.  The term ―company‖ is defined 
+
+notionally  inasmuch  as  it  would  bring  within  its  scope  entities  that  are  technically  not 
+
+companies  incorporated  under  the  Indian  company  law  but  entities  that  issue  securities 
+
+listed on stock exchanges in India.  For example, a mutual fund set up as a trust, that can 
+
+issue  units  of  close-ended  schemes  which  are  traded  in  the  market  would  also  be  a 
+
+―company‖ for purposes of the Proposed Regulations. 
+
+ 
+
+5. 
+
+The  Committee  was  mindful  of  the  need  for  a  price-discovery  platform  for  a  security  for 
+
+the  wrong  of  insider  trading  to  be  prosecuted  as  a  crime  or  punished  as  a  civil  wrong.  If 
+
+securities  are  not  listed,  they  would  not  be  amenable  to  price  discovery.  Consequently, 
+
+price  discovery  for  the  security  would  not  be  exposed  to  the  prospect  of  an  insider 
+
+benefitting  from  trading  when  in  possession  of  UPSI.  In  the  absence  of  the  ability  to 
+
+discover  price  in  a  market  through  an  inter-play  of  demand  and  supply,  it  would  not  be 
+
+possible to envisage an insider benefitting from his possession of UPSI and the lack of such 
+
+information in possession of the others in the market.   
+
+ 
+
+6. 
+
+The  Companies  Act,  2013  was  passed  by  Parliament  during  the  term  of  the  Committee. 
+
+Section 195 of this legislation covers insider trading and the Committee notes that there is 
+
+no conceptual inconsistency between the generic provisions in that legislation and what the 
+
+Proposed  Regulations  provide  for.  Section  458  of  the  Companies  Act,  2013  delegates 
+
+powers  to  SEBI  to  prosecute  insider  trading  in  securities  of  listed  companies  and 
+
+companies  which  intend  to  get  their  securities  listed.  Therefore,  the  definition  of 
+
+―company‖  has  been  extended  to  cover  entities  that  intend  to  get  their  securities  listed. 
+
+Since  the  ICDR  Regulations  mandate  disclosure  of  all  material  information  necessary  for 
+
+making an informed decision about applying for securities in an IPO, insider trading could 
+
+ 
+
+Page 15 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+occur  in  relation  to  the  price  discovery  process  in  the  book-building  under  the  ICDR 
+
+Regulations,  and  would  therefore  be  punishable  by  SEBI.    These  provisions  may 
+
+particularly get attracted in the case of an offer for sale as part of the IPO, where an insider 
+
+could take advantage of his access to UPSI and trade with the investors in the IPO without 
+
+making such UPSI generally available in the prospectus of the company. 
+
+ 
+
+7. 
+
+The  Committee  was  also  mindful  that  it  is  possible  that  without  a  market  for  price-
+
+discovery being in place there could be abuse of asymmetry of information leading to fraud 
+
+or cheating in connection with dealing in securities – such market abuse would be squarely 
+
+covered by the SEBI (Prohibition of Fraudulent and Unfair Trade Practices Relating to the 
+
+Securities Market) Regulations, 2003 and other legal provisions on fraud, cheating, breach 
+
+of trust etc. but it is not intended that every form of cheating and fraud would be regarded 
+
+as ―insider trading‖. 
+
+ 
+
+8.  With  this  approach,  the  Committee  deliberated  upon  what  the  term  ―securities‖  would 
+
+mean.  Various suggestions were dealt with including whether one should look at over-the-
+
+counter  derivatives  based  on  listed  securities,  which  could  be  the  conduit  for  committing 
+
+insider  trading  without  seemingly  trading  in  listed  securities.    The  Committee  concluded 
+
+that the term  ―securities‖ is  well defined in  the  SCRA and that therefore, it would not  be 
+
+necessary to  re-invent  the wheel.    For example,  an interest  in  a security  is  also  a security 
+
+under that definition.  Moreover, the Committee was cognizant  of the scope and reach of 
+
+Section  12A  of  the  SEBI  Act  which  outlaws  insider  trading  committed  directly  or 
+
+indirectly.   
+
+ 
+
+9. 
+
+This definition of ―securities‖ is time tested and is used across all securities regulations and 
+
+it would not  be appropriate to  re-define the term solely  for purposes of these regulations.  
+
+Such an approach would also  enable bringing insider trading in  listed derivatives that are 
+
+not issued by any company but is an interest in securities issued by a listed company within 
+
+the scope and reach of the Proposed Regulations. 
+
+ 
+
+ 
+
+Page 16 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+10. 
+
+In future, other price-discovery platforms that are not ―stock exchanges‖ may emerge under 
+
+extant  securities  laws.  It  would  not  be  possible  for  envisaging  future  hypotheses  and 
+
+legislating today for those scenarios.  Therefore, having adopted a principle-based approach 
+
+to regulation, the Committee is of the view that any security listed on any public platform 
+
+for  price  discovery  would  come  within  the  scope  and  reach  of  the  provisions  of  the 
+
+Proposed Regulations. 
+
+ 
+
+11.  To  conclude,  any  security  that  fits  the  definition  of  the  term  under  the  SCRA  and  is 
+
+amenable  to  price  discovery  on  a  market  platform  would  be  amenable  to  insider  trading.  
+
+Such a security may be issued by any entity – ranging from a company that issues shares, 
+
+debentures  or  other  securities,  to  a  trust,  for  example,  a  mutual  fund  or  an  alternative 
+
+investment fund that issues units that are listed on a stock exchange.  The provisions in the 
+
+Proposed Regulations that define the terms ―company‖ and ―securities‖ have been drafted 
+
+in the light of the aforesaid discussion. 
+
+ 
+
+Who is an Insider? 
+
+ 
+
+12.  Various  suggestions  were  received  on  what  the  scope  of  the  term  ―insider‖  ought  to  be.  
+
+The Committee reviewed the legislative policy in various jurisdictions.  Some suggestions 
+
+were to the effect that whether a person is an insider should be determined on the basis of 
+
+whether he is connected with an insider to the issuer of the securities while others were of 
+
+the view that any person who gets connected to the UPSI would become an insider so long 
+
+as the information has the character of UPSI.  
+
+ 
+
+13.  The Committee had substantive deliberations on this aspect.  The Committee took  note of 
+
+jurisdictions  such  as  the  United  States  where  a  breach  of  a  duty  owed  to  keep  the  UPSI 
+
+confidential or not to trade when in possession of the UPSI was necessary for the trading to 
+
+become illegal. Other jurisdictions, such as New Zealand have adopted a different approach 
+
+i.e.  of  not  having  to  prove  that  there  was  a  breach  of  duty  involved  in  the  course  of  the 
+
+information  coming  into  possession  of  the  person  who  has  traded.  Therefore,  the 
+
+ 
+
+Page 17 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+Committee  felt  that  it  was  important  to  keep  the  scope  of  the  prohibition  as  being 
+
+applicable to ―insiders‖ with a clear definition of who an ―insider‖ would be.   
+
+ 
+
+14.  The Committee built consensus around the view that anyone who is in possession of UPSI 
+
+should be an insider provided the terms ―UPSI‖ and ―generally available information‖ are 
+
+well  defined.    For  further  discussion  of  this  issue  please  the  discussion  under  the  head 
+
+―Information: Generally Available / Unpublished Price Sensitive‖ in this Report. 
+
+ 
+
+15.  The Committee therefore concluded that the term ―insider‖ should be defined to mean all 
+
+―connected  person‖  and  those  in  possession  of  UPSI  leaving  it  to  the  definitions  of 
+
+―generally  available  information‖  to  safeguard  against  an  over-reach  of  the  prohibition 
+
+being read as a ban on ―informed trading‖ as opposed to ―insider trading‖.  The Committee 
+
+has also provided robust defences against bringing a charge without satisfying the essential 
+
+ingredient and rationale behind the prohibition on insider trading.   
+
+ 
+
+Connected Person: 
+
+ 
+
+16.  The  definition  of  ―connected  person‖  is  crucial  for  purposes  of  defining  an  ―insider‖.    It 
+
+was  felt  that  although  the  approach  of  rendering  any  person  in  receipt  of  UPSI  has  been 
+
+adopted, it is important to have a framework that has an enhanced set of responsibilities for 
+
+a  ―connected  person‖.  The  Committee  was  cognizant  of  the  difficulties  arising  from 
+
+unintended punctuation and syntax errors in the current regulations in this regard.   
+
+ 
+
+17.  Any person associated with a company in any capacity that would allow such person access 
+
+to UPSI relating to the company or whose association is reasonably expected to allow such 
+
+access  would  be  a  ―connected  person‖.  Such  association  with  the  company  and  access  to 
+
+UPSI may arise owing to the connected person  holding any position  of  employment with 
+
+the company or being in any contractual or fiduciary relationship with the company.   
+
+ 
+
+18.  The  Committee  was  conscious  that  merely  because  a  person  does  not  hold  any  official 
+
+position with a listed company but is otherwise completely involved with its operations and 
+
+ 
+
+Page 18 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+is  an  insider  to  decision-making  should  not  escape  the  scope  and  reach  of  the  definition.  
+
+Consequently, it was felt that even those persons who are in frequent communication with 
+
+the officers of the company would also be connected persons.  This would necessarily be a 
+
+question of fact and when evidence is brought to bear to demonstrate such close contact, it 
+
+should  not  be  required  to  shut  one’s  eyes  to  his  being  an  insider,  and  have  to  look  for  a 
+
+smoking gun i.e. demonstrate an actual communication of UPSI. 
+
+ 
+
+19.  Whether  or  not  a  person  is  a  connected  person  will  always  and  necessarily  be  a  mixed 
+
+question  of  fact  and  law  to  be  answered  from  the  facts  and  circumstances  of  the  case.  
+
+Whether  the  association  of  a  person  with  a  company  would  put  him  in  a  position  of 
+
+accessing  UPSI  would  also  be  a  mixed  question  of  fact  and  law.    The  Committee  was 
+
+conscious that if it were not possible to have direct evidence of actual access to UPSI, the 
+
+test  to  be  applied  would  be  to  consider  whether  the  person  in  question  is  reasonably 
+
+expected to have such access as a reasonable inference that a reasonable man would draw 
+
+from the facts and circumstances of the case.   
+
+ 
+
+20.  The Committee was also conscious of the fact that once a person is a ―connected person‖, 
+
+he  should  ideally  not  be  regarded  forever  as  being  a  connected  person.  After  much 
+
+deliberation  it  was  felt  that  any  person  who  has  been  a  connected  person  during  the  six-
+
+month period prior to an act of trading should still be regarded as a connected person. This 
+
+is only a bright line for attracting the deeming and notional implications in the eyes of the 
+
+regulations. Indeed, if it can be shown that despite the passage of six months there had been 
+
+contact  that  would  lead  to  a  reasonable  prospect  of  UPSI  having  been  accessed,  and  the 
+
+consequence of trading when in possession of UPSI would follow. 
+
+ 
+
+21. 
+
+Immediate  relatives  of  connected  persons  have  also  been  included  in  the  category  of 
+
+connected  persons  provided  they  are  either  financially  dependent  or  if  their  trading 
+
+decisions  involve  consultation  with  a  connected  person.  Frequent  communication  with  a 
+
+connected person who is in possession of UPSI and trading during such possession would 
+
+point  to  consultation  with  the  connected  person  for  purposes  of  trading  decisions.  
+
+However, the Committee was of the view that such immediate relatives should indeed have 
+
+ 
+
+Page 19 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+an opportunity to demonstrate that despite being an immediate relative in such a position, 
+
+the immediate relative could not reasonably be expected to have had access to the UPSI.   
+
+ 
+
+22.  A new feature of the Proposed Regulations is  that  of treating public servants  and persons 
+
+holding  statutory  positions  that  are  reasonably  expected  to  have  access  to  UPSI  as 
+
+―connected persons‖ and thereby prohibit them from trading when in possession of UPSI.  
+
+For example, a judge who has heard arguments in a complex tax proceedings the outcome 
+
+of which would be materially adverse or materially positive to the price of securities of a 
+
+company would be a ―connected person‖ until he pronounces the order.  Another example 
+
+will make it clear. A public servant who is actively involved in formulating policy on any 
+
+matter that could  result in a material impact on the price discovery for securities of listed 
+
+companies – say, pricing policy for a natural resource, or the cap on foreign investment in a 
+
+specific sector, would be a connected person in the eyes of the regulations. Therefore, the 
+
+restrictions on trading that would apply to connected persons would apply to such persons 
+
+as well.   
+
+ 
+
+23.  Accordingly,  the  Committee  has  drafted  the  definition  of  the  term  ―connected  person‖  in 
+
+Regulation  2(1)(e)  of  the  Proposed  Regulations  by  factoring  in  the  analysis  set  out 
+
+above. 
+
+ 
+
+Generally Available Information and Unpublished Price Sensitive Information: 
+
+ 
+
+24.  At the core of any regulations that regulate and prohibit insider trading lies the concept of 
+
+―unpublished  price  sensitive 
+
+information‖.  Jurisdictions  worldwide  use  varying 
+
+nomenclatures – mostly, ―material non public information‖. The SEBI Act specifically uses 
+
+the  term  ―UPSI‖  in  Section  15G  to  impose  monetary  penalties  connected  with  insider 
+
+trading.  Therefore, the Committee decided to adopt the same phraseology, so long as the 
+
+concept is well understood and well aligned with the regulatory objectives viz. of outlawing 
+
+the abuse of UPSI to the detriment of the general investors in the market.  The Committee 
+
+believes  that  notwithstanding  the  nomenclature  the  terms  ―unpublished  price  sensitive 
+
+ 
+
+Page 20 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+information‖  or  ―material  non  public  information‖  connote  the  same  meaning  and  would 
+
+not make a difference so long as the concept is well defined and understood. 
+
+ 
+
+25.  UPSI is essentially information that is not generally available which on becoming generally 
+
+available, would materially affect the price of securities to which it relates. The Committee 
+
+decided  to  define  the  concept  of  ―generally  available  information‖  and  lay  down  the 
+
+principle of how general availability should be ascertained. Essentially, information that is 
+
+accessible  to  the  public  on  a  non-discriminatory  basis  would  be  considered  generally 
+
+available  information.  Analysis  and  research  based  on  generally  available  information 
+
+would also be generally available information.  
+
+ 
+
+26.  The Committee deliberated upon how one should understand ―non-discriminatory  access‖ 
+
+and it was felt that one should not over-stipulate how this should be understood since that 
+
+could risk narrowing the scope of that term.  For example, a research report that is priced 
+
+for purchase and is made available to all clients of a stock broker would be considered non-
+
+discriminatory  inasmuch  as  any  client  of  the  broker  or  any  class  of  clients  of  a  broker 
+
+having a certain risk profile may acquire that research report. Merely because the report is 
+
+priced  and  needs  to  be  purchased  would  by  itself  mean  that  access  to  it  is  non-
+
+discriminatory. However, if one were to find extraordinary and peculiar structures such as 
+
+pricing  a  research  report  at  a  level  not  in  line  with  market  practice  such  that  only  some 
+
+identified persons may be able to acquire it and hope to rely on it by way of ostensible non-
+
+discriminatory  access,  it  would  not  be  non-discriminatory.  Therefore,  whether  some 
+
+information  is  available  on  a  non-discriminatory  basis  would  be  a  question  of  fact  to  be 
+
+answered adopting the standard of a reasonable man. 
+
+ 
+
+27. 
+
+Information  that  is  capable  of  being  accessed  by  any  person  without  breach  of  any  law 
+
+would  be  considered  generally  available.  Various  examples  were  discussed  by  the 
+
+Committee.  One  interesting  example  was  this:    If  one  were  to  see  the  chief  executive 
+
+officer  of  a  listed  company  who  is  also  the  company’s  alter  ego  collapse  with  a  heart 
+
+seizure  at  the  reception  of  a  doctor’s  clinic  and  were  to  call  up  the  broker  to  sell  shares, 
+
+would  the  information  be  UPSI  or  generally  available  information?  The  Committee 
+
+ 
+
+Page 21 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+concluded  that  such  information  would  indeed  be  considered  ―generally  available‖  since 
+
+the reception at the doctor’s clinic would be a public place and anyone who happens to be 
+
+there  could  have  seen  it  and  could  have  reacted.  On  the  other  hand,  if  the  same  chief 
+
+executive  officer  were  to  have  collapsed  with  a  heart  seizure  in  the  midst  of  a  small 
+
+meeting and his colleagues were to sell the shares before the news could reach the market, 
+
+they would have been in possession of the information owing to their presence at a private 
+
+meeting in the line of duty and the news of the ill-health would not be generally available 
+
+information and would therefore be UPSI. 
+
+ 
+
+28.  Another example is of a person standing outside the gates of the most material factories of 
+
+a  listed  company  and  determining  the  movement  and  quantum  of  goods  by  counting  the 
+
+trucks  entering  and  exiting  the  factory  gates  to  analyze  and  assess  the  company’s 
+
+performance  beyond  the  stated  numbers.  Since  such  an  activity  would  not  involve  any 
+
+breach  of  any  obligation  under  the  Proposed  Regulations  it  would  be  legitimate  activity 
+
+since the information being collected and processed is generally available and anyone with 
+
+enterprise  could  have  done  the  same.  However,  if  one  were  to  bribe  the  officials  of  the 
+
+factory  to  provide  such  data,  or  if  one  were  to  hack  into  the  computer  systems  of  the 
+
+factory  to  procure  the  information,  such  access  would  not  be  accessing  of  generally 
+
+available information. 
+
+ 
+
+29.  While  these  principles  are  also  backed  by  the  provisions  containing  the  prohibition  on 
+
+communication of UPSI and the inducement of communication of UPSI in Regulation 3, it 
+
+is  important  to  also  articulate  how  the  concepts  of  ―generally  available  information‖  and 
+
+―unpublished price sensitive information‖ are intended to be understood.  
+
+ 
+
+30.  A piece of research work that is available on a discriminatory basis but is based entirely on 
+
+generally available information would not change the character of the research work from 
+
+being  ―generally  available‖  to  being  ―UPSI‖.  The  Committee  is  conscious  that  generally 
+
+available  information  well  analyzed  by  an  insightful  mind  would  not  be  transformed  into 
+
+UPSI.  Therefore,  the  regulation  explicitly  provides  that  conclusions,  deductions  and 
+
+ 
+
+Page 22 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+analyses  of  generally  available  information  too  would  be  regarded  as  generally  available 
+
+information. 
+
+ 
+
+31.  The Committee also felt that some illustrative examples of what would ordinarily constitute 
+
+UPSI should be set out to clearly understand the concept. It would be important to ensure 
+
+that  regardless  of  whether  the  information  in  question  is  price-sensitive,  no  piece  of 
+
+information  should  mandatorily  be  regarded  as  ―UPSI‖.  Towards  this  end,  examples  of 
+
+events and developments information about which would ordinarily be regarded as UPSI, 
+
+are listed – such as financial results, dividends, mergers and acquisitions, changes in capital 
+
+structure etc. 
+
+ 
+
+32.  Some  members  of  the  Committee  felt  that  the  Proposed  Regulations  ought  to  prescribe 
+
+specific forums in which publication would be mandatory for information to be regarded as 
+
+being  generally  available.  Specifically,  the  suggestion  was  that  unless  information  is 
+
+published  on  the  website  of  the  stock  exchange,  it  would  not  be  regarded  as  generally 
+
+available  and  therefore,  if  price  sensitive  in  nature,  it  would  be  regarded  as  UPSI.  The 
+
+problem with this approach would be that even if large newspapers and television channels 
+
+were to have published a piece of news and market participants were already factoring in 
+
+the news in price discovery, an insider who trades when in possession of such news would 
+
+be regarded as violating the law merely because the stock exchange website does not carry 
+
+the news. The Committee believes that it would be inappropriate to regard information that 
+
+is  widely  available  in  the  public  domain  as  UPSI.  On  the  other  hand,  some  members  felt 
+
+that one could register a newspaper in a remote region in the country, publish news there, 
+
+and  then  trade  despite  the  news  not  truly  being  publicly  accessible.  It  was  felt  that  such 
+
+extreme  and  convoluted  structures  would  be  regarded  as  contrivances  and  devices  to 
+
+circumvent the Proposed Regulations in terms of Section 12A of the SEBI Act. Moreover, 
+
+it  is  settled  law  that  such  regulations  ought  to  be  purposively  construed  and  if  two  views 
+
+were  possible,  the  view  that  furthers  the  legislative  objective  would  need  to  be  adopted 
+
+over a view that makes a mockery of the legal provisions. 
+
+ 
+
+ 
+
+Page 23 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+33.  To conclude, whether or not a piece of information is generally available or is unpublished 
+
+would necessarily be a mixed question of fact and law.  A bright line indicating the types of 
+
+matters  that  would  ordinarily  give  rise  to  UPSI  are  listed  to  give  illustrative  guidance.  It 
+
+could  well  also  be  possible  that  information  from  such  events  could  be  routine  in  nature 
+
+and  consistent  with  a  long  history.  Information  about  the  repetition  of  the  same  event  on 
+
+predictable  lines  would  not  render  it  to  be  UPSI  unless  deviated  from.  For  example,  the 
+
+declaration of dividend at the same rate at which a company has declared dividend for the 
+
+several  years as per publicly stated dividend policy. Therefore, the Committee has drafted 
+
+the definition of ―generally available information‖ in  Regulation 2(1)(f) of the Proposed 
+
+Regulations and that of ―unpublished price sensitive information‖ in Regulation 2(1)(p) of 
+
+the Proposed Regulations bearing in mind the analysis articulated above. 
+
+ 
+
+   
+
+Trading versus Dealing: 
+
+ 
+
+34.  There was considerable  debate in  the Committee about  whether the term  ―dealing‖ or the 
+
+term ―trading‖ should be adopted for purposes of prohibiting insider trading. It was felt that 
+
+the  term  ―dealing‖  is  extremely  wide  and  would  then  warrant  a  definitional  delineation 
+
+which  in  turn  would  end  up  with  defining  ―dealing‖  as  ―trading‖.  Each  and  every  act  of 
+
+doing  something  with  securities  would  constitute  ―dealing‖  –  for  example,  getting 
+
+securities dematerialized, creating an encumbrance, agreeing not to dispose of the securities 
+
+without  another  person’s  consent  such  as  a  lender,  would  all  be  acts  of  ―dealing‖  in 
+
+securities.  The  Committee  believes  that  the  mandate  of  the  Parliament  is  to  prohibit 
+
+―insider  trading‖  and  the  regulations  ought  to  focus  on  such  a  prohibition  and  not  inflict 
+
+unintended and untold prohibitions on any and every activity connected with securities.   
+
+ 
+
+35.  ―Trading‖  in  the  ordinary  English  meaning  of  the  term  would  entail  an  act  of  getting 
+
+something in return for something else i.e. entailing an element of consideration changing 
+
+hands. Even an act of subscription to securities would be an act of ―trading‖ inasmuch as 
+
+the subscriber would trade his funds towards subscription money for the securities allotted 
+
+to him. When one trades in securities by acquiring or disposing of an interest in securities 
+
+ 
+
+Page 24 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+when  in  possession  of  UPSI  there  would  be  an  abuse  of  the  UPSI,  necessitating  the 
+
+prohibition.   
+
+ 
+
+36.  On  the  other  hand,  using  a  vague  and  open-ended  phrase  like  ―dealing‖  could  result  in 
+
+outlawing  routine  bona  fide  transactions  that  have  no  nexus  with  the  objective  of  the 
+
+Regulations.   For example, a prohibition  in  ―dealing‖ when in  possession of UPSI  would 
+
+result in a prohibition on pledging of shares by any person in possession of UPSI.  In the 
+
+ordinary  course  of  lending  activity,  substantial  shareholders  in  listed  companies  are 
+
+routinely  required  to  provide  third  party  security  for  borrowings  by  them  or  by  the 
+
+companies  whose  shares  they  hold.    Such  encumbrances  are  but  provision  of  security  for 
+
+loans  advanced  and  as  such  cannot  be  justified  as  being  the  mischief  sought  to  be 
+
+suppressed  by  these  regulations.    If  ―dealing  in  securities‖  were  to  be  prohibited  when  in 
+
+possession  of  UPSI,  all  such  acts  of  providing  security  would  become  illegal.  Such  a 
+
+prohibition would bring the activity of taking a pledge or encumbrance on listed securities 
+
+to a standstill for the banking and finance industry with no real corresponding benefit to the 
+
+market.   
+
+ 
+
+ 
+
+37.  The Committee deliberated as to whether pledges and encumbrances could be created as a 
+
+device for circumventing the prohibition and concluded that such a mischief is unrealistic 
+
+and impractical and would in any case not go scot-free owing to Section 12A of the SEBI 
+
+Act.  The Committee is mindful that this provision categorically outlaws any contrivance or 
+
+a device that would enable a direct or indirect circumvention of any provision of the Act or 
+
+regulations  made  thereunder  or  even  the  direct  or  indirect  commission  of  insider  trading.  
+
+Therefore, if one were to construct a pledge or an encumbrance as a device to get around 
+
+the  prohibition  on  insider  trading,  the  provisions  of  Section  12A  of  the  SEBI  Act  would 
+
+adequately empower enforcement. 
+
+ 
+
+38.  By  adopting  the  term  ―trading‖,  the  Proposed  Regulations  would  in  fact  ensure  that  the 
+
+provisions  are  made  precise  rather  than  be  left  to  wide  and  potentially  ambiguous 
+
+interpretation.  When  one  trades  securities  or  interest  in  securities  for  something  else,  one 
+
+ 
+
+Page 25 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+would be trading in the security for consideration.  The Committee concluded that the more 
+
+appropriate term to be used particularly for imposing the prohibition under the regulations 
+
+would be that of ―trading‖ and not ―dealing‖. The Committee built consensus around using 
+
+the term ―trading‖ instead of the term ―dealing‖. 
+
+ 
+
+39.  The  Committee  has  therefore  dealt  with  the  drafting  of  the  Proposed  Regulations  in  line 
+
+with  the  aforesaid  discussion  i.e.  by  adopting  the  term  ―trading‖  instead  of  the  term 
+
+―dealing‖. 
+
+ 
+
+Charging Provisions: 
+
+ 
+
+40.  The Committee felt that an effective barrier to trading when in possession of UPSI should 
+
+be  maintained  as  a  charging  principle.  This  should  be  the  general  rule  backed  by  the 
+
+principle that no insider should gain undue benefit by trading with the benefit of possessing 
+
+UPSI which the rest of the market does not have and therefore, gain an advantage over the 
+
+market.  The  exceptions  to  the  rule  are  set  out  in  the  form  of  defences  that  are  available.  
+
+The principle behind these defences can be summarized as situations and circumstances in 
+
+which  this  general  charging  principle  would  not  be  applicable  –  for  example  where  both 
+
+parties to a trade in fact have the same UPSI with them although the market may not have 
+
+it.   
+
+ 
+
+41.  One  core  principle  that  the  Committee  would  seek  to  highlight  is  that  the  purpose  of  the 
+
+Proposed  Regulations  is  to  prohibit  violative  insider  trading  whereby  insiders  who  are  in 
+
+possession of UPSI take undue advantage of such possession in their trades with the rest of 
+
+the  market  that  does  not  have  a  level-playing  field  in  terms  of  access  to  material 
+
+information.  Therefore,  the  identity  of  the  owner  of  the  mind  that  trades  in  securities  is 
+
+what  the Proposed Regulations would look  to  rather than the identity of the owner of the 
+
+title  to  the  securities  that  are  traded.  The  title  to  the  securities  would  point  to  the  person 
+
+who traded, but if the person who traded and the person whose securities were traded are 
+
+different  persons,  whether  the  person  who  traded  had  UPSI  would  be  the  key  issue  to  be 
+
+determined. 
+
+ 
+
+Page 26 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+42.  The  provisions  of  Regulation  4  of  the  Proposed  Regulations,  which  imposes  the 
+
+prohibition  on  trading  by  insiders  when  in  possession  of  UPSI,  and  provide  specific 
+
+defences, are drafted taking the aforesaid principles into account.  
+
+ 
+
+43.  Likewise, to maintain hygiene in the market place it is necessary to ensure that UPSI is not 
+
+handled  lightly  and  is  handled  only  on  a  need  to  know  basis  and  is  not  communicated 
+
+except where necessary. Therefore, the Committee decided to retain the general prohibition 
+
+on  communication  or  counseling  UPSI  and  has  also  introduced  conditions  on  which  due 
+
+diligence  may  indeed  be  conducted  so  that  there  can  be  communication  of  UPSI  in  well-
+
+regulated  circumstances.  The  provisions  of  Regulation  3  of  the  Proposed  Regulations, 
+
+which imposes the prohibition on communication of UPSI and the obligation to treat UPSI 
+
+on a need-to-know basis are drafted accordingly. 
+
+ 
+
+Due Diligence: 
+
+ 
+
+44.  Whether any exercise of due diligence inquiring into the affairs of a listed company should 
+
+at  all  be  permitted  was  keenly  considered  particularly  since  this  is  a  question  that  keeps 
+
+coming  up  under  the  current  regulations  in  the  context  of  transactions  involving  mergers 
+
+and acquisitions.  There are doubts about this issue under the current regime and yet, there 
+
+is  case  law  and  precedent  of  a  substantial  acquirer  being  told  that  he  ought  to  have 
+
+conducted  an  exercise  of  due  diligence  before  taking  a  decision  to  acquire  a  substantial 
+
+stake in a listed company particularly when he seeks to withdraw from the transaction. 
+
+ 
+
+45. 
+
+In  an ideal  world,  the information  that is  generally available about  any listed company in 
+
+the  public  domain  ought  to  be  adequate  for  any  and  every  investment  in  its  securities.  
+
+However,  that    is  neither  a  true  position  nor  a  correct  expectation  is  evidenced  by  even 
+
+listed  companies  having  to  write  detailed  offer  documents  and  prospectuses  for  securities 
+
+offerings  such  as  rights  issues  and  follow-on  public  offerings.  Banks  that  lend  for 
+
+acquisitions  would  need  to  conduct  due  diligence  on  a  company’s  operations.  Substantial 
+
+ 
+
+Page 27 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+investors  who  invest  in  a  company  to  enable  it  to  fund  its  businesses  may  need  to 
+
+understand more than just what is publicly available to appraise the investment proposition. 
+
+ 
+
+46.  Therefore, the Committee decided to squarely deal with the problem by clearly articulating 
+
+the  principles  underlying  the  prohibition  on  communication  of  UPSI  and  stating  the 
+
+principles  based  on  which  due  diligence  may  be  conducted  on  listed  companies.  The 
+
+Committee  was  conscious  of  how  market  price  was  but  one  of  the  criteria  for  computing 
+
+the  minimum  offer  price  under  the  Takeover  Regulations  but  there  were  other  criteria  as 
+
+well  –  more  so  in  the  case  of  infrequently  traded  stocks.  The  Takeover  Regulations 
+
+Advisory  Committee  commented  on  this  phenomenon  whilst  discussing  the  relevance  of 
+
+market  price for computing the minimum  offer price for an open offer transaction.  In the 
+
+circumstances  the  Committee  reached  a  consensus  around  permitting  due  diligence  in 
+
+relation to material transactions but as a special exception to the general rule with a number 
+
+of strings attached.   
+
+ 
+
+47.  First,  the  board  of  directors  will  need  to  come  to  a  clear  view  that  permitting  exercise  of 
+
+due diligence is in the best interests of the company. It is the company that is the owner of 
+
+the  UPSI  relating  to  the  company  and  it  should  be  the  responsibility  of  its  board  of 
+
+directors to justify permitting the conduct of a due diligence exercise. The dispensation for 
+
+permitting  such  an  exception  has  been  differentiated  between  transactions  that  entail  an 
+
+open  offer  under  the  Takeover  Regulations  and  other  transactions.  The  Committee 
+
+recommends  that  in  transactions  not  involving  an  open  offer  under  the  Takeover 
+
+Regulations  (where  the  UPSI  would  get  published  in  the  letter  of  offer  sent  to  all 
+
+shareholders)  the  findings  of  the  diligence  that  constitute  UPSI  would  need  to  be  made 
+
+generally available before the trade for which due diligence is permitted. 
+
+ 
+
+48.  Mr. Mobis Philipose believes that making the UPSI public after conducting due diligence 
+
+would  pose  challenges  –  particularly  one  of  reluctance  to  have  competitive  information 
+
+disclosed  to  a  person  conducting  diligence  to  be  brought  into  the  public  domain  and  get 
+
+accessed  by  competitors  although  it  may  be  necessary  to  share  such  information  to  large 
+
+financial  investors  or  strategic  partners  who  are  prospective  traders  in  the  company’s 
+
+ 
+
+Page 28 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+securities.    Consequently,  due  diligence  exercise  conducted  by  a  prospective  strategic 
+
+partner  or  large  financial  investors  should  be  excluded  from  public  disclosure  of  findings 
+
+with a minimum threshold of 10% of the equity being acquired by such investors.  On the 
+
+other hand, Ms. Menaka Doshi has a diametrically opposite view i.e. that no due diligence 
+
+exercise  should  at  all  be  allowed  if  an  open  offer  is  not  triggered  under  the  takeover 
+
+regulations.  Even where an open offer is triggered, in her view, permission to conduct due 
+
+diligence  is  unfair  to  the  other  investors.    According  to  her,  such  due  diligence  exercise 
+
+would  disturb  the  level  playing  field  and  making  the  information  generally  available  two 
+
+days before the trade is unrealistic and inadequate.   
+
+ 
+
+49.  The  recommendation  of  the  Committee  is  based  on  the  premises  articulated  above.    As 
+
+stated  earlier,  there  can  be  multiple  views  ranging  from  one  extreme  to  another  on  any 
+
+aspect  of  law  and  policy.    However,  there  is  clearly  no  case  to  be  made  to  oppose  any 
+
+conduct  of  any  due  diligence  since  it  is  indeed  true  that  due  diligence  before  public 
+
+transactions is necessary since information in the public domain about listed companies is 
+
+not  considered  fully  adequate.    It  would  only  stand  to  reason  that  one  should  provide  a 
+
+predictable, clear and conditional framework to enable a due and proper acknowledgement 
+
+of  market  and  regulatory  reality  and  to  have  an  orderly  environment  in  the  securities 
+
+market to address these issues.  Mandating that the Board of Directors, which is the owner 
+
+and custodian of the UPSI should have to sign off that there is a need for conduct of due 
+
+diligence  to  serve  the  interests  of  the  company,  and  the  obligation  to  make  the  findings 
+
+public before the trade takes place are counterbalancing measures towards reaching such an 
+
+objective. 
+
+ 
+
+50.  The  Committee  therefore  recommends  that  the  exercise  of  due  diligence  and  the 
+
+consequent  enquiries  into  the  affairs  of  listed  companies  be  permitted  subject  to  the 
+
+safeguards and conditions articulated above.  The provisions of Regulations 3(3) and 3(4) 
+
+of the Proposed Regulations have been appropriately drafted to factor in the requirements 
+
+articulated above. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 29 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+Valid Defences: 
+
+ 
+
+51.  As regards the blanket prohibition on trading in securities when in possession of UPSI, the 
+
+Committee decided to articulate specific defences that would be available in line with the 
+
+principle for which the blanket prohibition has been recommended.  Each of the defences 
+
+articulated  is  based  on  a  specific  principle  that  would  demonstrably  counteract  against  a 
+
+reasonable  charge  of  insider  trading  having  taken  place.  Therefore,  whether  the  relevant 
+
+principle  is  evident  from  the  facts  and  circumstances  of  the  case  would  need  to  be  seen 
+
+when any of these defences is adopted.  All actions relating to enforcement against insider 
+
+trading  would  necessarily  depend  on  the  facts  and  circumstances  of  each  case.    Both  the 
+
+charge and the defence would be a mixed question of fact and law.   
+
+ 
+
+52.  The fundamental premise on which trading when in possession of UPSI is prohibited is that 
+
+when an insider is in such possession, he would be assumed to be influenced by the nature 
+
+of the UPSI in his possession, which others in the market would not have. Such a position 
+
+would  place  him  at  an  unfair  advantage  over  the  others  in  the  market.  However,  it  is 
+
+noteworthy  that  insider  trading  is  not  only  a  tort  (a  civil  wrong)  but  is  also  a  punishable 
+
+crime  that  could  lead  to  an  insider  being  imprisoned  for  a  period  of  upto  10  years.  
+
+Therefore, a charge of insider trading should be clear, precise and reasonable.   
+
+ 
+
+Contrary to nature of UPSI  
+
+ 
+
+53.  Against this backdrop, it should be emphasized that insider trading is a wrong arising out of 
+
+an  insider  taking  advantage  of  UPSI  in  his  possession  to  the  exclusion  of  the  others.  
+
+Therefore,  if  the  insider’s  trades  were  in  fact  contrary  to  the  nature  of  the  UPSI  in  his 
+
+possession,  such  trading  ought  not  to  be  treated  as  a  wrongful  act.  Therefore,  where  an 
+
+insider has traded in a manner contrary to how a reasonable man who is seeking to benefit 
+
+from the UPSI would act, it should follow that he has not committed a tort or a crime.  For 
+
+example, if the information in possession of an insider were to be adverse in nature say, the 
+
+denial  of  an  important  license  by  a  regulatory  agency  and  the  insider  had  actually 
+
+purchased shares before the UPSI became generally available, it would but follow that the 
+
+ 
+
+Page 30 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+UPSI  in  his  possession  did  not  motivate  his  trade.  Conversely,  where  the  UPSI  in 
+
+possession of an insider is positive information say, the award of a material contract to the 
+
+company which could impact the price positively and if the insider sold the shares before 
+
+the good news came into the public domain, it would follow that he was not committing a 
+
+tort or a crime.   
+
+ 
+
+54. 
+
+It would be quite difficult to establish but important to provide that where the insider was 
+
+an  innocent  recipient  of  the  UPSI  and  despite  exercise  of  diligence  expected  of  a 
+
+reasonable  man,  he  had  no  reason  to  believe  that  the  information  was  UPSI.    In  such  an 
+
+event,  the  insider  who  has  traded  should  have  a  chance  to  demonstrate  that  he  did  no 
+
+wrong. Needless to say, the insider would need to prove that he did everything reasonably 
+
+in his power to assess whether the information in his possession was UPSI (i.e. exercise of 
+
+diligence  expected  of  a  reasonable  man)  and  that  he  traded  bona  fide.  If  the  insider  can 
+
+indeed demonstrate that he did not bona fide understand the nature of the UPSI or that the 
+
+UPSI was price sensitive to attract the prohibition (in doing so, adopting the standard of a 
+
+reasonable man), he should not be held to have violated the prohibition.   
+
+ 
+
+Unaware of Tipper’s violation 
+
+ 
+
+55. 
+
+It  is  possible  that  an  insider  may  have  received  information  from  someone  who  is  not  a 
+
+connected  person  and  he  did  not  have  reason  to  believe  that  the  person  providing  the 
+
+information violated any law or confidentiality obligation owed by that person. Any person 
+
+who receives UPSI would be immediately placed in the shoes of an ―insider‖ in view of the 
+
+definition of the term. Therefore, if a person were to receive information about a company 
+
+from  someone  who  is  not  a  connected  person,  but  such  person  had  procured  the 
+
+information illegally, the recipient would be innocent if unaware of the tipper’s violation.  
+
+Therefore  where  a  person  trades  on  the  basis  of  contents  of  a  research  report  which  later 
+
+turns out to have contained UPSI illegally procured by the research analyst, the fact that a 
+
+bona  fide  recipient  of  that  report  traded  when  in  possession  of  that  report  should  not  be 
+
+visited with the charge of insider trading.   
+
+ 
+
+ 
+
+Page 31 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+Parity of information 
+
+ 
+
+56.  The Committee believes that in situations where both the buyer and the seller of securities 
+
+are  in  possession  of  identical  information,  the  trade  by  itself  should  not  be  rendered 
+
+violative.  Such a transaction between two identifiable persons who have identical access to 
+
+UPSI ought  not  to  be outlawed. Had the information in  question been generally  available 
+
+and  the  trade  had  been  in  the  open  market,  there  would  have  been  no  room  for  alleging 
+
+insider trading.  Likewise, where the counterparty to the trade is clearly identifiable and in 
+
+a bilateral trade the counterparty was indeed privy to the very same UPSI, the trade should 
+
+be held to have wronged no one.  If such a principle were not to be followed, every inter se 
+
+transfer  of  shares  among  promoters  could  get  regarded  as  insider  trading  since  promoters 
+
+would be in possession of UPSI and although no third party has traded with the promoters.   
+
+Therefore, it is important to provide the parity of information among the trading parties as a 
+
+valid defence. 
+
+ 
+
+57.  Ms.  Doshi  believes  that such  a  defence  should  only  be  available  to  transfers  of  securities 
+
+between  persons  whose  ultimate  beneficial  owners  are  the  same,  and  that  not  doing  so 
+
+would result in those who are not party to such a trade not enjoying a level-playing field.  
+
+The Committee has refrained from such an approach not only because parity of information 
+
+is not violative insider trading in many jurisdictions across the world, but also because even 
+
+without  common  beneficial  ownership,  two  or  more  persons  could  have  parity  of 
+
+information – say, joint venture partners.   
+
+ 
+
+ 
+
+Stock Options 
+
+ 
+
+58.  Stock  options  are  a  means  of  rewarding  and  incentivizing  performance  by  employees  of 
+
+listed  companies.    The  exercise  price  for  a  stock  option  is  pre-determined  and  after  a 
+
+certain  vesting  period,  the  option  that  is  granted  would  vest  and  may  be  exercised  to 
+
+acquire the underlying shares.  SEBI administers specific guidelines to deal with employee 
+
+stock options. Therefore, where an insider exercises a stock option when he is in possession 
+
+ 
+
+Page 32 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+of  UPSI  but  the  price  for  the  stock  option  was  fixed  long  ago  and  he  had  no  role  in 
+
+negotiating  any  such  price,  it  would  be  unfair  to  taint  such  an  insider-employee  with  the 
+
+charge of insider trading.  Insider trading is fundamentally based on prohibiting the insider 
+
+from  getting  a  price  advantage  over  the  others  in  the  market.  Where  the  price  is  pre-
+
+determined as in the case of a stock option and the option is exercised at such price despite 
+
+there  being  UPSI  in  possession  of  the  insider,  he  should  be  able  to  defend  himself  in  the 
+
+ordinary course. 
+
+ 
+
+Non-insider decision-maker for trades  
+
+ 
+
+59.  While trading to take advantage of the possession of UPSI should be outlawed, it is equally 
+
+important to make provision for the ability to disconnect the two aspects of the matter i.e. 
+
+the possession of UPSI and the decision to trade at a certain price.  In any business group 
+
+comprising  multiple  entities  discharging  multiple  roles,    if  it  is  possible  to  ring-fence  the 
+
+persons  who  are  in  possession  of  UPSI  from  those  who  are  responsible  for  the  decision-
+
+making necessary for the trades, the rationale underlying the prohibition of insider trading 
+
+would not be attracted. In situations where the person in possession of the UPSI is different 
+
+from  the  person  who  takes  the  trading  decisions  and  the  two  are  segregated  by  effective 
+
+arrangements, the purpose of the prohibition would not be attracted.  Consequently, if it can 
+
+be established that adequate arrangements  were  in  place to  ensure that the persons taking 
+
+decisions  on  the  trade  are  different  from  the  persons  having  possession  of  the  UPSI  and 
+
+there  is  no  evidence  of  such  arrangements  breaking  down,  a  valid  defence  ought  to  be 
+
+available.  Likewise,  if  the  trades  are  made  by  a  duly  authorised  person  other  than  the 
+
+insider without any reference to or prior knowledge of the insider although the trades may 
+
+have  been  made  on  behalf  of  the  insider,  the  defence  ought  to  be  available.  This  is  the 
+
+principle on which the concept of ―blind trust‖ is adopted worldwide i.e. where a person is 
+
+given complete authority to  trade  – say,  a discretionary portfolio manager who is  himself 
+
+not  in  possession  of  UPSI.  In  such  a  fact  situation,  the  Committee  believes  that  a  valid 
+
+defence should be provided. 
+
+ 
+
+ 
+
+Page 33 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+60. 
+
+In the light of the foregoing discussion, the imposition of the prohibition in Regulation 4(1) 
+
+and  the  provision  of  specific  and  narrow  valid  defences  in  Regulation  4(3)  have  been 
+
+stipulated, factoring in the aforesaid analyses.  
+
+ 
+
+Trading Plan: 
+
+ 
+
+61.  Since the prohibition on trading when in possession of UPSI is a stringent one, it is quite 
+
+possible  that  certain  persons  particularly  those  in  senior  management  and  those  who  are 
+
+promoters  may  perpetually  be  in  possession  of  some  UPSI  or  the  other  rendering  such 
+
+persons incapable of trading in securities throughout the year.  This would be so because at 
+
+any point of time such persons may be involved in some decision-making or the other and 
+
+be  privy  to  confidential  information  that  could  affect  the  discovery  of  price  if  such 
+
+information  were  to  become  generally  available.  It  is  important  to  reconcile  the  need  to 
+
+maintain the prohibition on trading in securities when in possession of UPSI with the need 
+
+to  provide  a  regime  in  which  compliance-conscious  insiders  are  able  to  put  in  place  a 
+
+compliant mechanism to trade in securities where they are insiders.  Towards this end, the 
+
+Committee upon a review of provisions made in some other jurisdictions felt that it would 
+
+be in the fitness of things for India to test the concept of a ―trading plan‖ that would enable 
+
+compliant  trading  by  insiders  without  compromising  the  prohibitions  imposed  in  the 
+
+Proposed Regulations. 
+
+ 
+
+62.  There are jurisdictions that have not warmed up to the concept of a trading plan and there 
+
+are  jurisdictions  where  the  concept  has  been  available  for  a  reasonably  long  time  and 
+
+further improvements have been made on the basis of empirical evidence of how they have 
+
+worked.    The  Committee  believes  that  there  is  merit  in  the  idea  and  with  appropriate 
+
+safeguards  it  is  time  to  test  the  concept  in  India  to  enable  the  framework  of  compliant 
+
+trading.  Such an experiment could well be utilised for compliant trading towards creeping 
+
+acquisitions  by  promoters  (envisaged  under  the  Takeover  Regulations)  or  monetizing  of 
+
+securities holdings by entrepreneurs who have listed their companies. 
+
+ 
+
+ 
+
+Page 34 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+63.  The very concept of a trading plan is meant for those who are perpetually in possession of 
+
+UPSI.   Therefore, it would not be possible to formulate a plan when the insider is not in 
+
+possession of any UPSI. Instead, the regulatory framework for the trading plan would entail 
+
+permitting an insider to formulate the plan in advance to effect trades at a subsequent date, 
+
+by which time they he be in possession of new UPSI but the UPSI that would have been in 
+
+his  possession  when  formulating  the  plan  would  have  become  generally  available.    The 
+
+possession of new UPSI that was not even in existence when the trading plan is formulated 
+
+should not act as a barrier to the trades being executed provided the safeguards stipulated 
+
+are met.  The Committee took note of literature in the United States about the alleged abuse 
+
+of  the  trading  plan  whereby  trades  may  be  pre-determined  but  the  making  of  UPSI 
+
+generally available may be timed to profit the insider.  Therefore, the Committee decided 
+
+that the trading plan would not provide absolute immunity from investigation into whether 
+
+such  manipulation  of  timing  had  been  used  to  circumvent  the  prohibition  on  violative 
+
+insider trading.  
+
+ 
+
+64.  Some of the salient features of the safeguards are that the execution of the trading plan may 
+
+commence only at least six months after the trading plan is publicly disclosed.  No trading 
+
+plan should entail trading for the period between the twentieth trading day prior to the last 
+
+date of a financial period for which results are to be announced and until the third day after 
+
+the disclosure of the results.  Trading plans are required to  be in  place for at  least  twelve 
+
+months,  no  two  trading  plans  should  overlap  and  a  trading  plan  should  be  reviewed  and 
+
+approved by the compliance officer of the company and then publicly disclosed after which 
+
+it  must  be  implemented.    Some  members  have  expressed  reservations  about  the  onerous 
+
+nature of such requirements and feel that the concept of a trading plan may not find many 
+
+takers.  Specifically, the suggestion  is  to  bring down the cooling off period to  commence 
+
+the  trading  plan  to  90  days.  The  Committee  is  however  conscious  that  this  is  a  novel 
+
+experiment being tested in  India.  Even in jurisdictions where the concept was introduced 
+
+long ago, empirical evidence points to abuse with timing of the UPSI being made generally 
+
+available  to  suit  the  trading  plan  of  those  who  manage  the  company.    It  is  felt  that  the 
+
+concept should be introduced with sufficient safeguards and adequate care should be taken 
+
+to  ensure  that  rampant  abuse  does  not  lead  to  this  significant  reform  measure  being 
+
+ 
+
+Page 35 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+removed  in  the  near  future  as  a  reaction  to  abuse.    In  fact,  upon  review  of  empirical 
+
+evidence and feedback after the concept is introduced, it would always be open to SEBI to 
+
+dilute  or  enhance  the  regulatory  conditions  attached  to  trading  plans  under  the  Proposed 
+
+Regulations. 
+
+ 
+
+65.  A  trading  plan  may  set  out  either  the  value  of  the  trades  to  be  effected  or  the  number  of 
+
+securities  to  be  traded.  It  should  also  set  out  the  nature  of  the  trade  and  the  intervals  at 
+
+which or the dates on which the planned trades may be executed.   If it can be reasonably 
+
+inferred that the UPSI that was in possession of the insider when formulating the plan is not 
+
+yet  generally  available,  the  compliance  officer  would  be  empowered  to  defer  the 
+
+commencement of the trading plan. However, the trading plan once commenced cannot be 
+
+revoked and would have to mandatorily be implemented.  This is critical to ensure that the 
+
+prospect of abuse by timing the publication of unpublished information is dis-incentivised. 
+
+ 
+
+66.  A public disclosure of every trading plan is envisaged to make it clear to the market at large 
+
+that such a planned set of trades would be effected and the public would be able to take an 
+
+informed decision about trades in the same securities.  One member of the Committee is of 
+
+the  view  that  the  trading  plan  should  not  be  disclosed  to  the  stock  exchange  at  all  while 
+
+another is of the view that it may be disclosed provided the value of the trades envisaged in 
+
+a  plan  is  beyond  a  material  threshold.    First,  the  Committee  feels  that  an  insider  would 
+
+adopt  a trading plan only  for material  trades and if he does not truly need a material  pre-
+
+programmed  compliant  trading  plan,  he  would  follow  the  pre-clearance  route  envisaged 
+
+under  the  regulations,  as  is  the  case  under  the  PIT  Regulations,  1992.  Second,  the 
+
+Committee  felt  that  disclosure  to  the  stock  exchange  is  an  important  measure  of 
+
+transparency which would be welcome under Indian conditions.  The Committee is of the 
+
+view that it would only be appropriate to entail a public disclosure and the market would be 
+
+mature enough to absorb the news about the intended trades pursuant to a trading plan and 
+
+draw appropriate conclusions. 
+
+ 
+
+67.  Mr.  Philipose  believes  that  the  policy  preference  should  be  towards  trading  plans  rather 
+
+than towards encouraging blind trusts, and that restrictions on the trading plans such as the 
+
+ 
+
+Page 36 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+bar  on  transactions  being  contemplated  when  trading  windows  are  closed  on  a  pre-
+
+scheduled  basis  should  be  considered  for  blind  trusts  as  well.    However,  it  is  noteworthy 
+
+that the two concepts are different – the usage of a SEBI-registered discretionary portfolio 
+
+manager on a blind trust basis involves shutting out the decision-maker from the owner of 
+
+the  title  to  the  securities  being  traded.    On  the  other  hand,  the  trading  plan  involves 
+
+formulation of a pre-scheduled plan by persons perpetually in possession of UPSI to trade, 
+
+which may not be commenced until the UPSI in their possession while formulating the plan 
+
+becomes  published  and  which  may  be  implemented  despite  their  being  in  possession  of 
+
+new UPSI which was not in their possession when deciding on the trading plan.  Therefore, 
+
+there is no specific policy preference on either route.  In any case, the onus of establishing a 
+
+defence adopted would be on the person relying on it. 
+
+ 
+
+68.  The provisions of Regulation 5 which comprehensively deal with the various requirements 
+
+to be met for formulation of a trading plan have been drafted accordingly, factoring in the 
+
+reasoning and analyses articulated in the foregoing paragraphs. 
+
+ 
+
+Disclosure of Trades: 
+
+ 
+
+69.  The Committee believes that it is  necessary to  make provision for disclosure of trades by 
+
+employees  of  listed  companies  and  their  immediate  relatives  on  two  grounds.    Such 
+
+disclosures  would  not  only  enable  the  administration  and  policing  of  the  Proposed 
+
+Regulations  but  it  would  also  enable  the  market  at  large  to  take  an  informed  investment 
+
+decision on the basis of dealings by the company’s insiders.  The Committee has carefully 
+
+differentiated  between  internal  disclosures  and  external  disclosures  and  has  sought  to 
+
+minimize  external  disclosures  unless  such  disclosures  serve  any  specific  regulatory 
+
+purpose.  
+
+ 
+
+70.  The Committee debated whether even in the internal disclosures there would be a need to 
+
+restrict  disclosures  with  any  materiality  threshold  being  involved.    Some  members  of  the 
+
+Committee felt that it may be onerous to keep records of all employees’ holdings and trades 
+
+in securities.  However, it was felt that given the advancement in information technology, 
+
+ 
+
+Page 37 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+keeping  a  repository  of  information  of  trades  internally  should  not  be  very  onerous  for 
+
+listed companies.  It was also felt that providing for a routine maintenance of records would 
+
+be a laudable legislative measure and should not be diluted.  However, if the value of trades 
+
+were  to  cross  a  materiality  threshold  it  would  then  become  necessary  to  require  public 
+
+disclosure of such trades. 
+
+ 
+
+71.  The idea behind the provisions relating to disclosures to enable a smooth administration of 
+
+the Proposed Regulations.  The provisions entailing disclosure by all employees impose an 
+
+internal  requirement.    Introducing  a  provision  to  stipulate  such  requirement  only  for 
+
+designated  employees  would  lead  to  a  difficulty  in  administration  inasmuch  as  even  the 
+
+reach  and  jurisdiction  of  these  provisions  would  become  dependent  on  questions  of  fact.  
+
+There  would  be  higher  prospect  of  regulatory  litigation  through  that  approach,  leading  to 
+
+questions of whether a certain employee ought to have been designated or whether he was 
+
+outside  the  scope  of  coverage.    Instead,  since  this  requirement  is  nothing  but  an  internal 
+
+exercise,  it  would  be  eminently  feasible  for  companies  to  have  an  electronic  means  of 
+
+providing such information and retaining the same in the records. 
+
+ 
+
+72.  The  Committee  has  also  consciously  stipulated  value  thresholds  for  external  disclosures.  
+
+While there can always  be a debate about  what  the value of such thresholds  should be, it 
+
+was felt necessary to leave flexibility to SEBI to specify any value other than what is being 
+
+stipulated in the Proposed Regulations. 
+
+ 
+
+73.  The Committee believes that reference to voting rights as a threshold for disclosures as is 
+
+the case with the PIT Regulations, 1992 is not really relevant. The regulatory objective of 
+
+the Proposed Regulations, unlike the Takeover Regulations, is not aligned with making the 
+
+voting power relevant.  What is of greater relevance is the scale and size of the trading by 
+
+insiders particularly those who are expected to have access to UPSI.  Even the size of the 
+
+company is  not relevant  in  this regard.   The disclosure obligations in  Chapter III  of  the 
+
+Proposed Regulations have been drafted accordingly. 
+
+ 
+
+74.  Mr. Suresh Senapaty and Mr. Subodh Kumar Agarwal have expressed their dissent to the 
+
+requirement for coverage of disclosures of securities held and traded by all employees, and 
+
+ 
+
+Page 38 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+to  public  disclosure  of  material  trades  by  all  employees.    Their  dissenting  view  is  also 
+
+supported by Ms. Arundhati Bhattacharya, Mr. Nirmal Jain and Mr. K. Venkataramanan.   
+
+ 
+
+75.  According to them, the correct approach would be to restrict the coverage of the disclosures 
+
+only to those covered by the Code of Conduct i.e. to ―designated persons‖ (see the section 
+
+on  Code  of  Conduct),  since  only  such  persons  are  ―insiders‖  and  not  each  and  every 
+
+employee.  Their grounds of dissent on this issue are summarized below:- 
+
+ 
+a. 
+
+b. 
+
+c. 
+
+d. 
+
+e. 
+
+f. 
+
+a  company  would  need  to  educate  all  employees  and  their  relatives  about  these 
+
+disclosure requirements; 
+
+obtain accurate declaration from them; 
+
+put in place mechanism to capture and track data on a real time basis; 
+
+do a due diligence on the data integrity and compile such data accurately; 
+
+retain audit trail of the same for reference in future; and  
+
+timely report the same to the Stock Exchange.  
+
+ 
+
+76.  They also believe that many companies have in their employee base as much as about 40% 
+
+based  outside  India  and  about  another  40%  having  nationalities  outside  India.    Many 
+
+companies  have  dual  listing  in  India  and  overseas.    Having  to  ensure  that  the  employees 
+
+have  a  mechanism  to  track  such  data  accurately  for  themselves  and  their  immediate 
+
+relatives and report in time would invite penalty on the company too.  They acknowledge 
+
+that the number of transactions in excess of Rs. 10 lakhs may be infrequent, but   having to 
+
+accurately report this would  necessitate tracking  and monitoring of all transactions which 
+
+makes the activity very onerous considering it would need to cover all employees and their 
+
+immediate relatives.  They are also opposed to public disclosure of all such trades that are 
+
+above the thresholds on the premise that this would result in competition getting to know 
+
+information  about  Indian 
+
+listed  companies. 
+
+  Consequently, 
+
+in 
+
+their  view, 
+
+the 
+
+recommendation  ought  to  be  that  only  directors  and  those  in  the  senior  management  of 
+
+listed companies should be covered by the disclosure obligations.  The companies should 
+
+be  required  to  keep  records  only  for  such  persons.    Such  records  should  be  available  to 
+
+SEBI but should not be disclosed in the public domain.  They also believe that mandating 
+
+disclosures  of  trades  and  holdings  in  securities  of  all  employees  and  not  just  ―designated 
+
+ 
+
+Page 39 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+persons‖  would  go  beyond  the  mandate  of  this  Committee  since  it  should  only  make 
+
+recommendations for insiders and not for those who are not insiders. 
+
+ 
+
+77.  The majority view set out in Regulation 7 of the Proposed Regulations, and in particular, 
+
+those  governing  disclosures  by  employees,  essentially  entail  imposing  obligations  on 
+
+employees of listed companies.  The failure on their part to report to their employers would 
+
+be  a  violation  of  law  by  them  and  not  by  their  employers.    Indeed,  increasing  awareness 
+
+and educating employees to enable them to comply would only be a welcome measure and 
+
+would  further  the  regulatory  objective  of  improving  hygiene  in  the  securities  market  in 
+
+connection  with  insider  trading  and  quite  consistent  with  the  mandate  of  this  Committee.  
+
+The threshold beyond which public disclosure is mandated has been materially enhanced.  
+
+Currently, any trade of above a value of above Rs. 5,00,000 would in any case fall within 
+
+public disclosure.  Public disclosure is also mandatory regardless of value if the securities 
+
+traded are more than 2,500 in number, or if the share represent more than 1% of the total 
+
+share  capital.    The  Committee  has  consciously  reviewed  such  thresholds  from  the 
+
+standpoint  of  materiality  and  relevance  and  is  recommending  reform  to  rationalize  the 
+
+trades disclosure threshold at a value of Rs. 10,00,000 or more in a calendar quarter. 
+
+ 
+
+78.  On  the  other  hand,  it  is  critical  to  ensure  that  employees,  regardless  of  their  designation 
+
+should  report  to  their  employer  the  trades  they  execute  in  securities  of  the  employer.  
+
+Considering there is no scope for penalty on a company on the ground of a violation by the 
+
+employees, the Committee believes that this fundamental reform measure should indeed be 
+
+recommended, taking note with respect, the dissenting voice of those representing industry. 
+
+ 
+
+Code of Conduct: 
+
+ 
+
+79.  The  Committee  believes  that  every  listed  company  and  every  market  intermediary 
+
+registered with SEBI should have a code of conduct to regulate, monitor and report trading 
+
+by its employees and other connected persons with a view to monitor the administration of 
+
+the  regulations,  and  their  enforcement.    The  Committee  has  set  out  mandatory  minimum 
+
+standards  that  such  codes  of  conduct  would  need  to  have,  leaving  it  to  the  entities  in 
+
+ 
+
+Page 40 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+question  to  formulate  the  actual  code  of  conduct  that  they  would  adopt.    The  Code  of 
+
+Conduct  pursuant  to  the  Proposed  Regulations  are  not  meant  to  enhance  or  dilute  the 
+
+charging  provisions  of  the  Proposed  Regulations.    The  Committee  strongly  believes  that 
+
+replicating the provisions of the Proposed Regulations in another draft code of conduct can 
+
+have unintended consequences such as the creation of conflicting requirements, provisions 
+
+getting  out-dated  after  amendment  of  the  provisions  and  the  risk  of  being  too  narrowly 
+
+prescriptive  rather  than  achieve  a  bigger  regulatory  mandate  of  nudging  such  entities  to 
+
+think through what is best suited for them. 
+
+ 
+
+80.  The  minimum  standards  stipulated  in  Schedule  B  to  the  Proposed  Regulations  entail  a 
+
+serious  role  for  the  compliance  officer  who  would  need  to  police,  monitor  and  regulate 
+
+trading  by  employees  and  connected  persons.    A  system  of  pre-clearance  of  trades,  post-
+
+transaction reporting and recording of reasons for decisions has to be devised by each such 
+
+entity.    In  addition,  one  of  the  standards  statutorily  prescribed  is  that  UPSI  should  be 
+
+handled on a need to know basis. 
+
+ 
+
+81.  The Committee felt that all other entities and agencies that would routinely be required to 
+
+handle UPSI in the course of their business operations, and over which SEBI may not have 
+
+jurisdiction should, in  any  case, be  given the  discretion and  a  clear policy nudge towards 
+
+adopting such a code of conduct for their own internal organisation. The same principles as 
+
+applicable  to  listed  companies  and  market  intermediaries  would  apply  to  such  codes  of 
+
+conduct as well.  Some of such entities may be subject to their own regulatory oversight by 
+
+different agencies such as the Bar Council of India, Institute of Chartered Accountants of 
+
+India, Institute of Company Secretaries of India etc.. Therefore, enabling them to formulate 
+
+such  a  code  of  conduct  would  put  at  rest  the  doubt  about  jurisdictional  issues  but  the 
+
+existence of a code of conduct would point to the seriousness with which the entity treats 
+
+compliance with matters relating to insider trading.  Such an approach would nudge society 
+
+into a higher level of compliance and nudging of a social framework that is more conducive 
+
+to eradicating insider trading. 
+
+ 
+
+ 
+
+Page 41 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+82.  The  Committee’s  attention  was  also  drawn  to  a  circular  bearing  Ref.  No.  MFD/CIR  No. 
+
+4/216/2001 dated May 8, 2001 issued by SEBI’s Mutual Fund Division governing, among 
+
+others,  insider  trading-related  requirements  issued  to  mutual  funds.    It  was  felt  that  the 
+
+SEBI Circular was issued even before the requirement to have a code of conduct for market 
+
+intermediaries  was  introduced  in  the  PIT  Regulations,  1992.  There  is  no  longer  a  special 
+
+need for  a special or separate  circular for  a specific class of market  intermediaries on the 
+
+subject  of  insider  trading.    It  is  therefore  recommended  that  the  aforesaid  SEBI  Circular 
+
+insofar  as  it  relates  to  insider  trading  be  withdrawn  by  SEBI  to  ensure  that  there  is  no 
+
+inconsistency and the regulatory requirements are kept precise and clear. 
+
+ 
+
+83.  The Committee has therefore spelt out provisions of Regulation 9 read with Schedule B 
+
+of the Proposed  Regulations, relating to  the Code of Conduct  in  line with  the foregoing 
+
+discussions. 
+
+ 
+
+Principles of Fair Disclosure: 
+
+ 
+
+84.  The  Committee  feels  that  the  market  looks  primarily  to  the  listing  agreement  in 
+
+determining  the  obligations  on  disclosures.    However,  the  PIT  Regulations,  1992  indeed 
+
+has a schedule on disclosures to be followed. It was felt that it is important to strengthen it 
+
+and  provide  clear-cut  principles  on  how  a  listed  company  should  follow  best  practices 
+
+relating  to  fair  disclosures  about  emergence  of  any  UPSI  that  warrants  public 
+
+dissemination. 
+
+ 
+
+85.  The Committee believes that it is necessary to statutorily lay down the principles that every 
+
+such  code  should  conform  to  such  as  the  need  for  prompt  disclosure  of  material 
+
+information  that  could  impact  price  discovery  no  sooner  than  credible  and  concrete 
+
+information  comes  into  existence.  Speculative  disclosures  or  selective  disclosures  that 
+
+could in fact have an adverse impact on the market and the price discovery process should 
+
+be avoided.   Even if UPSI were to get disclosed selectively, inadvertently or otherwise, the 
+
+Committee  believes  that  without  prejudice  to  punitive  consequences  for  violating  the 
+
+ 
+
+Page 42 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+requirement not to communicate UPSI, the company should remedy the mistake by making 
+
+the information available to the public. 
+
+ 
+
+86. 
+
+It  is  important  to  mention  that  any  remedial  action  such  as  dissemination  of  UPSI  that  is 
+
+wrongly  disclosed  selectively  in  violation  of  the  prohibition  on  communication  and 
+
+counseling  of  UPSI  other  than  for  discharge  of  legitimate  duties  and  purposes  would  not 
+
+detract from the regulatory consequences of breaching the prohibition.   Such dissemination 
+
+is meant to set right the mistake or the wrong but that would not be the ground for excusing 
+
+a violator from  the consequences of the violation.   Indeed, whether to  punish and how to 
+
+measure  the  penalty  should  be  independently  assessed  in  accordance  with  known  and 
+
+settled  principles  of  imposition  of  penalty  with  the  considerations  mandated  in  law  being 
+
+followed. 
+
+ 
+
+87. 
+
+In  view  of  the  foregoing,  the  provisions  of  Regulation  8  read  with  Schedule  A  of  the 
+
+Proposed Regulations have been drafted. 
+
+ 
+
+Onus of Proof: 
+
+ 
+
+88.  Finally, it would be remiss if the Committee does not articulate a view on how the onus of 
+
+proof would play out under the Proposed Regulations.  The onus of showing that a certain 
+
+person  is  an  insider  and  that  he  was  in  possession  of  UPSI  at  the  time  of  trading  would 
+
+naturally  be  on  the  person  leveling  the  charge.  To  bring  such  a  charge,  the  ingredients 
+
+would  be  to  show  that  the  person  is  an  insider,  that  trading  indeed  took  place  and  that  a 
+
+reasonable  inference  of  being  in  possession  of  UPSI  is  possible.    Thereafter,  the  alleged 
+
+insider who has traded may demonstrate that he was not in possession of UPSI, or that he 
+
+has not traded himself and that someone else took the decision to trade without reference to 
+
+him, or indeed, that any of the available defences articulated above are attracted.  The onus 
+
+of proving the defence would be on the person accused of violating the prohibition. 
+
+ 
+
+89. 
+
+It  was felt that in  the case of a  ―connected person‖ where the  connection is  stronger and, 
+
+therefore, the access to information would be even more direct (as compared to any other 
+
+person who becomes an insider by reason of receipt of the UPSI) the onus of demonstrating 
+
+ 
+
+Page 43 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+that  the  connected  person  in  fact  did  not  have  access  to  the  UPSI  would  be  on  the 
+
+connected person.  In other cases, it  would be important  for SEBI  to  demonstrate a  prima 
+
+facie case that there had been possession of UPSI when the insider who is not a connected 
+
+person has traded.   
+
+ 
+
+90.  No law or regulation can envisage all future factual situations.  Therefore, it would not be 
+
+possible  to  make  provisions  for  every  scenario.    It  is  important  to  lay  down  clear  and 
+
+focused definitions and identify concepts and principles which would make it possible for 
+
+society 
+
+to  ascertain 
+
+the  status  of  compliance  or  non-compliance  accordingly.  
+
+Consequently,  the  Proposed  Regulations  provide  for  various  concepts  and  principles  to 
+
+enable the regulator and the courts to arrive at a view on whether a transaction in question 
+
+is compliant or violative in character.   The legislative notes attached to the provisions are 
+
+intended  to  throw  light  on  the  principles  set  out  in  the  provisions.    The  Committee  is 
+
+cognizant of the fact that India is a common law country where interpretation of statutes is 
+
+not  always  literal  in  nature  but  is  founded  on  the  principles  of  justice,  equity  and  good 
+
+conscience.  The  Committee  sincerely  hopes  that  its  effort  in  making  the  Proposed 
+
+Regulations will lead to a clearer understanding of the issues involved in insider trading in 
+
+India  and  how  best  it  can  be  tackled  –  both  by  way  of  regulations  that  nudge  society  to 
+
+become more compliant and also by way of clarity and predictability of the regulations that 
+
+will enable swift and clear enforcement. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 44 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+PART III 
+
+DRAFT OF THE PROPOSED REGULATIONS 
+
+ 
+ 
+
+CHAPTER – I 
+
+ 
+
+PRELIMINARY 
+
+ 
+
+Short title and commencement. 
+
+1. 
+
+(1) 
+
+These  regulations  may  be  called  the  SEBI  (Prohibition  of  Insider  Trading) 
+
+Regulations, 2013. 
+
+ 
+
+(2) 
+
+These regulations shall come into force on such date as may be specified by the Board. 
+
+ 
+
+NOTE:  Since the scope of what is prohibited, what defences are available to an alleged breach of a prohibition and 
+
+a new regime for enabling compliant trading by insiders is envisaged, it is intended that the Board be empowered to 
+
+fix an appropriate prospective date to bring these regulations into effect giving the market and officials of the Board 
+
+appropriate time to arrange their affairs to operate under the new regulations. 
+
+ 
+
+(3) 
+
+The  notes  set  out  along  with  the  provisions  of  these  regulations  are  an  integral  part 
+
+thereof setting out the legislative intent to guide the interpretation of these regulations. 
+
+ 
+
+NOTE:  It  is  intended  that  the  note  in  relation  to  any  provision  contained  herein  shall  guide  the  authorities 
+
+administering  the  regulations  and  courts  interpreting  these  regulations  about  the  intent,  scope  and  legislative 
+
+reasoning in connection with the provision to which it relates. 
+
+ 
+
+Definitions. 
+
+2. 
+
+(1) 
+
+In  these  regulations,  unless  the  context  otherwise  requires,  the  following  words, 
+
+expressions and derivations therefrom shall have the meanings assigned to them as under:–  
+
+ 
+
+NOTE:  These are the meanings that are intended to ordinarily apply to these defined terms for their usage in these 
+
+regulations. If the context requires a different meaning to be given to any of these words to further the purpose of 
+
+these regulations,  such different meaning could be adopted. 
+
+ 
+
+Page 45 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+(a) 
+
+―Act‖ means the Securities and Exchange Board of India Act, 1992 (15 of 1992); 
+
+ 
+
+(b) 
+
+―Board‖ means the Securities and Exchange Board of India; 
+
+ 
+
+(c) 
+
+"company" means any entity that has issued securities which are listed on a stock 
+
+exchange or which are intended to be so listed; 
+
+ 
+
+NOTE:  It is intended that securities should be capable of being traded for them to be amenable to price 
+
+discovery  and  consequently  be  exposed  to  the  prospect  of  an  insider  benefitting  from  trading  when  in 
+
+possession of unpublished price sensitive information.  In the absence of the ability to discover price in a 
+
+market through an inter-play of demand and supply, it would not be possible to bring a charge of insider 
+
+trading  i.e.  of  an  insider  benefitting  from  possession  of  unpublished-price  sensitive  information  to  the 
+
+detriment of others in the market.  It  is possible that without a market for price-discovery being in place 
+
+there could be abuse of asymmetry of information leading to fraud in connection with dealing in securities 
+
+– such market abuse would be squarely covered by the SEBI (Prohibition of Fraudulent and Unfair Trade 
+
+Practices Relating to the Securities Market) Regulations, 2003, and is not intended to be covered by these 
+
+regulations.  
+
+ 
+
+(d) 
+
+―compliance  officer‖  means  any  senior  officer  who  is  financially  literate  and  is 
+
+capable  of  appreciating  requirements  for  legal  and  regulatory  compliance  under  these 
+
+regulations; 
+
+ 
+
+NOTE:  Under  these  regulations,  every  issuer  and  market  intermediary  would  need  to  appoint  a 
+
+compliance  officer.    It  is  intended  that  such  compliance  officer  should  be  one  who  is  capable  of 
+
+appreciating regulatory and legal requirements and has the ability to read and understand basic financial 
+
+statements so as to understand the impact of unpublished price sensitive information on price discovery for 
+
+securities so that he is able to administer the regulations in an informed manner. 
+
+ 
+
+(e) 
+
+"connected person" means any person who is or has during the six months prior to 
+
+the concerned trade been associated with a company in any capacity including by reason 
+
+of  frequent  communication  with  its  officers  or  being  in  any  contractual,  fiduciary  or 
+
+employment relationship and includes any person who is  a public servant  or occupies a 
+
+ 
+
+Page 46 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+statutory  position  that  allows  such  person  access  to  unpublished  price  sensitive 
+
+information relating to the company or is reasonably expected to allow such access; 
+
+ 
+
+Provided that immediate relatives of connected persons shall be deemed to be connected 
+
+persons  unless  such  immediate  relative  can  establish  absence  of  access  or  reasonable 
+
+expectation of access to unpublished price sensitive information; 
+
+ 
+
+NOTE:  It  is  intended  that  a  connected  person  is  one  who  has  a  connection  with  the  company  that  is 
+
+expected to put him in possession of unpublished price sensitive information.  Immediate relatives of such 
+
+persons are also presumed to be connected persons but such a presumption is a deeming legal fiction and 
+
+is rebuttable.   
+
+ 
+
+This definition is also intended to bring into its ambit persons who may not seemingly occupy any position 
+
+in  a  company  but  are  in  regular  touch  with  the  company  and  its  officers  and  are  involved  in  how  the 
+
+company  operates.    It  is  intended  to  bring  within  its  ambit  those  who  would  have  access  to  unpublished 
+
+price  sensitive  information  about  any  company  or  class  of  companies  by  virtue  of  being  government 
+
+servants and occupying official positions that would put them in possession of unpublished price sensitive 
+
+information  –  for  example,  an  officer  in  the  government  who  would  know  ahead  of  the  market  about  a 
+
+proposed policy change that would impact market price say, a proposed change in foreign ownership limit 
+
+in specific sectors would be a connected person and thereby an insider.   
+
+ 
+
+So also, it is intended to cover, for example, a judge whose decision in a litigation could have a material 
+
+bearing on the price of the securities in the market when the judgement is made public, say, a decision on a 
+
+dispute over whether the offer price for an open offer under the takeover regulations should be higher or 
+
+lower.    All  such  persons  are  intended  to  be  “connected  persons”  and  thereby  insiders  who  would  be 
+
+prohibited  from  trading  in  securities  of  the  company  when  in  possession  of  unpublished  price  sensitive 
+
+information. 
+
+ 
+
+(f) 
+
+"generally  available  information"  means  information  that  is  accessible  to  the 
+
+public  on  a  non-discriminatory  basis  and  shall  include  research  and  analysis  based 
+
+thereon; 
+
+ 
+
+NOTE:  It  is  intended  to  define  what  constitutes  generally  available  information  so  that  it  is  easier  to 
+
+crystallize and appreciate what unpublished price sensitive information is.  Information that is accessible 
+
+to the public on a non-discriminatory basis say, information published on the website of a stock exchange, 
+
+ 
+
+Page 47 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+would  normally  be  considered  generally  available.    Research,  deductions  and  conclusions  based  on 
+
+generally  available  information  will  also  constitute  “generally  available  information”.      For  example, 
+
+organisations that provide research reports may add value to the information because of their research and 
+
+analysis  but  so  long  as  the  research  is  based  on  generally  available  information,  the  findings  of  such 
+
+research  would  not  become  unpublished  price  sensitive  information.    Such  research  reports  may  be 
+
+available  for  a  price  (to  compensate  for  their  enterprise  of  conducting  research)  and  so  long  as  such 
+
+research is available for purchase by clients without discrimination, the fact that it has to be paid for would 
+
+not make the access discriminatory.  So long as it can be shown that the research is based on information 
+
+in the public domain, the findings would also be “generally available information”.   
+
+ 
+
+So also, it is intended that information that is capable of being accessed by any one without breach of any 
+
+law would be considered generally available.  For example, a person legitimately watching and counting 
+
+the movement of goods from factories of a company and making his own analysis and assessment without 
+
+involving  a  breach  of  the  obligations  under  these  regulations  would  be  accessing  information  that  is 
+
+generally available. Such research would not render him to be in possession of unpublished price sensitive 
+
+information. However, a person who procures such information by breaking into the company’s systems or 
+
+by  reason  of  an  insider  passing  on  such  information  in  breach  of  the  obligation  to  keep  information 
+
+confidential, would be regarded as having availed of publicly accessible information. 
+
+ 
+
+(g)  
+
+―immediate relative‖ means a spouse of a person, and includes parent, sibling, and 
+
+child  of  such  person  or  of  the  spouse,  any  of  whom  is  either  dependent  financially  on 
+
+such person, or consults such person in taking decisions relating to trading in securities; 
+
+ 
+
+NOTE:  It  is  intended  that  to  presume  in  the  eyes  of  law  that  immediate  relatives,  who  are  closely 
+
+connected  to  connected  persons,  are  deemed  to  have  access  to  the  mind  of  the  person  whose  immediate 
+
+relatives they are.    Immediate relatives of any person are those who are financially dependent and also 
+
+those  who  consult  the  person  concerned  in  taking  decisions  on  securities  trading.    It  is intended  that  the 
+
+immediate  relatives  of  a  “connected  person”  too  become  connected  persons  for  purposes  of  these 
+
+regulations.  Indeed,  this  too  is  rebuttable  akin  to  the  takeover  regulations  where  such  an  approach  has 
+
+been  adopted  for  a  deeming  and  rebuttable  fiction  of  various  persons  having  a  common  objective  or 
+
+purpose of acquisition. 
+
+ 
+
+(h) 
+
+"insider" means any person who is: 
+
+ 
+
+i)  
+
+a connected person; or  
+
+ 
+
+Page 48 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+ii)  
+
+in possession of unpublished price sensitive information;  
+
+ 
+
+NOTE:  Since  “generally  available  information”  is  defined,  it  is  intended  that  anyone  in  possession  of 
+
+unpublished price sensitive information should be considered an “insider” regardless of how one came in 
+
+possession of such information. Various defences are provided for such a person to demonstrate that he has 
+
+not indulged in insider trading.  Therefore, this definition is intended to bring within its reach any person 
+
+who is in receipt of unpublished price sensitive information and the charging provisions would  deal with 
+
+whether  or  not  the  prohibition  has  been  violated.    The  onus  of  showing  that  a  certain  person  was  in 
+
+possession  of  unpublished  price  sensitive  information  at  the  time  of  trading  would,  therefore,  be  on  the 
+
+person leveling the charge after which the person who has traded when in possession of unpublished price 
+
+sensitive information may demonstrate that he was not in such possession or that he has not traded or that 
+
+his trading when in possession of such information was squarely covered by the available defences.   
+
+(i) 
+
+"promoter"  shall  have  the  meaning  assigned  to  it  under  the  Securities  and 
+
+Exchange  Board  of  India  (Issue  of  Capital  and  Disclosure  Requirements)  Regulations, 
+
+2009; 
+
+ 
+
+(j) 
+
+"public  servant"  shall  have  the  meaning  assigned  to  it  under  the  Prevention  of 
+
+Corruption Act, 1988 (49 of 1988); 
+
+ 
+
+(k) 
+
+"securities"  shall  have  the  meaning  assigned  to  it  under  the  Securities  Contracts 
+
+(Regulation) Act, 1956 (42 of 1956); 
+
+ 
+
+NOTE:  It  is  intended  to  adopt  the  well-settled  and  well-interpreted  definition  of  “securities”.  Since  the 
+
+possession  of  “unpublished  price  sensitive  information”  about  a  “company”  results  in  a  prohibition  on 
+
+trading in securities, this definition should be read in conjunction with these definitions.  For purposes of 
+
+what “securities” are, the time-tested definition of the term adopted across all securities laws is intended to 
+
+be adopted. It is intended that read with other definitions and charging provisions of these regulations, any 
+
+instrument that fits within the definition of “securities” would be covered by these regulations if they are 
+
+listed and are amenable to price discovery on a market platform.  Therefore, a security such as a derivative 
+
+instrument which is not issued by the company but which is based on an interest in a security issued by the 
+
+company  and  is  traded  on  stock  exchanges  too  would  be  covered  within  the  scope  of  these  regulations. 
+
+Securities  covered  would  be  those  that  are  listed  on  stock  exchanges  including  listed  securities  that  are 
+
+issued by market intermediaries such as mutual funds and collective investment schemes. 
+
+Page 49 of 74 
+
+ 
+
+ 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+(l) 
+
+"specified" means specified by the Board in writing; 
+
+ 
+
+NOTE:  It is intended that the Board be given flexibility to specify norms and guidance acting through the 
+
+Chairman  or  Wholetime  Members  by  way  of  circulars  on  specific  areas  where  the  Board  may  require  to 
+
+calibrate the regulatory measure provided for in these regulations.  Such specification should be in writing 
+
+and disseminated publicly.   
+
+ 
+
+(m) 
+
+―takeover  regulations‖  means  the  Securities  and  Exchange  Board  of  India 
+
+(Substantial Acquisition of Shares and Takeovers) Regulations, 2011; 
+
+ 
+
+(n) 
+
+"trading"  means  transacting  in  securities  whether  by  way  of  acquisition  or 
+
+disposal; 
+
+ 
+
+NOTE:  Since the regulations deal with insider trading, it is intended to use the term “trading” uniformly 
+
+instead of the term “dealing” which is a very wide term.  The change of nomenclature from “dealing” does 
+
+not mean that market abuse in the form of any dealing other than trading i.e. transacting in securities for 
+
+consideration would not be covered by securities laws.  Other provisions such as the SEBI (Prohibition of 
+
+Fraudulent and Unfair Trade Practices Relating to the Securities Market) Regulations, 2003 would cover 
+
+the scope of such other forms of market abuse.  So also it should be noted that in any case, any contrivance 
+
+or device that is aimed at executing an indirect act of insider trading without involving “trading” would 
+
+fall foul of Section 12A of the Securities and Exchange Board of India Act, 1992. 
+
+ 
+
+(o) 
+
+―trading day‖ means a day on which the recognized stock exchanges are open for 
+
+trading; 
+
+ 
+
+(p) 
+
+"unpublished  price  sensitive  information"  means  any  information  that  is  not 
+
+generally  available  which  upon  becoming  generally  available,  is  likely  to  materially 
+
+affect the price of the securities to which it relates and will ordinarily include information 
+
+relating to the following: – 
+
+ 
+
+(i) 
+
+financial results; 
+
+ 
+
+ 
+
+Page 50 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+(ii) 
+
+dividends; 
+
+ 
+
+(iii) 
+
+change in capital structure;  
+
+ 
+
+(iv)  mergers, de-mergers, acquisitions, delistings, disposals and expansion of business 
+
+and such other transactions; and 
+
+ 
+
+(v) 
+
+changes in key management personnel; 
+
+ 
+
+NOTE:  It is intended that information that is not generally available would be unpublished price sensitive 
+
+information if it is likely to materially affect the price upon coming into the public domain. Since this will 
+
+always  be  a  mixed  question  of  fact  and  law,  a  bright  line  indicating  the  types  of  matters  that  would 
+
+ordinarily give rise to unpublished price sensitive information should be listed to give illustrative guidance 
+
+about  the  nature  of  unpublished  price  sensitive  information  when  a  court  has  to  determine  whether  any 
+
+piece of information is unpublished price sensitive information.  These listed illustrations are ordinarily in 
+
+the nature of information that could affect the price upon becoming public and are not exhaustive. Merely 
+
+because  a  particular  type  of  event  is  listed  above  it  should  not  lead  to  inexorably  being  regarded  as 
+
+unpublished price sensitive information regardless of its potential price impact.  For example, where a very 
+
+large  company  makes  a  non-material  and  inconsequential  acquisition  of  a  tiny  business,  or  where  a 
+
+company  declares  the  same  rate  of  dividend  that  it  has  declared  for  several  years  as  per  publicly  stated 
+
+dividend policy.  
+
+ 
+
+(2)  Words  and  expressions  used  and  not  defined  in  these  regulations  but  defined  in  the 
+
+Securities  and  Exchange  Board  of  India  Act,  1992  (15  of  1992),  the  Securities  Contracts 
+
+(Regulation)  Act,  1956  (42  of  1956)  or  the  Depositories  Act,  1996  (22  of  1996)  and  rules  and 
+
+regulations  made  thereunder  shall  have  the  meanings  respectively  assigned  to  them  in  those 
+
+legislation. 
+
+ 
+
+ 
+
+ 
+
+Page 51 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+CHAPTER – II  
+
+ 
+
+RESTRICTIONS ON COMMUNICATION AND TRADING BY INSIDERS 
+
+ 
+
+Communication or procurement of unpublished price sensitive information. 
+
+3. 
+
+(1) 
+
+No insider shall communicate, provide, or allow access to any unpublished price 
+
+sensitive information to any person including other insiders except where such communication is 
+
+in furtherance of legitimate purposes, performance of duties or discharge of legal obligations.  
+
+ 
+
+NOTE:  This provision is intended to cast an obligation on all insiders who are essentially persons in possession of 
+
+unpublished price sensitive information to handle such information with care and to deal with the  information with 
+
+them when transacting their business strictly on a need-to-know basis.  This provision is also intended to impose an 
+
+obligation not to make selective disclosures of such information except within the framework for fair disclosure set 
+
+out in these regulations.  This standard is intended to lead to organisations developing practices based on need-to-
+
+know principles for treatment of information in their possession. 
+
+ 
+
+(2) 
+
+No person shall procure from or cause the communication by any insider of unpublished 
+
+price sensitive information except in furtherance of legitimate purposes, performance of duties or 
+
+discharge of legal obligations. 
+
+ 
+
+NOTE:  This  provision  is  intended  to  impose  a  statutory  prohibition  on  unlawfully  procuring  possession  of 
+
+unpublished  price  sensitive  information.    Inducement  and  procurement  of  unpublished  price  sensitive  information 
+
+not in furtherance of one’s legitimate duties and discharge of obligations would be illegal under this provision. 
+
+  
+
+(3) 
+
+Notwithstanding  anything  contained  in  this  regulation,  it  shall  be  legitimate  to  conduct 
+
+due diligence on a company in connection with the assessment of any transaction that would:– 
+
+ 
+
+(i) 
+
+entail  an  obligation  to  make  an  open  offer  under  the  takeover  regulations  where 
+
+the  board  of  directors  of  the  company  is  of  informed  opinion  that  the  proposed 
+
+transaction and conduct of due diligence therefor are in the best interests of the company; 
+
+ 
+
+NOTE:  It is intended to acknowledge the necessity for substantial transactions such as takeovers, mergers 
+
+and  acquisitions  involving  trading  in  securities  and  change  of  control  to  entail  due  diligence  to  assess  a 
+
+ 
+
+Page 52 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+potential  investment.    In  an open  offer  under  the  takeover regulations,  not  only  would  the  same  price  be 
+
+made  available  to  all  shareholders  of  the  company  but  also  all  information  necessary  to  enable  an 
+
+informed divestment or retention decision by the public shareholders is required to be made available to all 
+
+shareholders in the letter of offer under those regulations.   
+
+ 
+
+(ii) 
+
+not attract the obligation to make an open offer under the takeover regulations but 
+
+where  the  board  of  directors  of  the  company  is  of  informed  opinion  that  the  proposed 
+
+transaction and conduct of due diligence therefor are in the best interests of the company 
+
+and  the  diligence  findings  that  constitute  unpublished  price  sensitive  information  are 
+
+disseminated  to  be  made  generally  available  at  least  two  trading  days  prior  to  the 
+
+proposed transaction being effected in such form as the board of directors may determine. 
+
+ 
+
+NOTE:  It is intended to permit conduct of due diligence for transactions that do not entail an open offer 
+
+obligation  under  the  takeover  regulations  if  the  board  of  directors  of  the  company  are able  to  justify  the 
+
+view  that  it  is  necessary  to  further  the  best  interests  of  the  company.    The  board  of  directors  would  also 
+
+need  to  cause  public  disclosures  of  the  diligence  findings  constituting  unpublished  price  sensitive 
+
+information so that there is no asymmetry of access to information in the market. 
+
+ 
+
+(4) 
+
+For  purposes  of  sub-regulation  (3),  the  board  of  directors  shall  require  the  parties 
+
+conducting  due  diligence  to  execute  agreements  to  contract  confidentiality  and  non-disclosure 
+
+obligations  on  the  part  of  such  parties  and  such  parties  shall  keep  information  so  received 
+
+confidential,  save  and  except  for  conduct  of  due  diligence,  and  shall  not  otherwise  trade  in 
+
+securities of the company when in possession of unpublished price sensitive information. 
+
+ 
+
+Trading when in possession of unpublished price sensitive information. 
+
+4. 
+
+(1) 
+
+No  insider  shall  trade  in  securities  that  are  listed  on  a  stock  exchange  when  in 
+
+possession of unpublished price sensitive information relating to such securities. 
+
+ 
+
+NOTE:  This  is  the  primary  charging  prohibition  on  insider  trading.    It  is  intended  that  when  a  person  who  has 
+
+traded in securities has been in possession of unpublished price sensitive information, his trades would be assumed 
+
+to  have  been  motivated  by  the  knowledge  and  awareness  of  such  information  in  his  possession.    The  reasons  for 
+
+which he trades or the purposes to which he applies the proceeds of the transactions are not intended to be relevant 
+
+for  determining  whether  a  person  has  breached  the  prohibition.    Whether  he  traded  when  in  possession  is  what 
+
+ 
+
+Page 53 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+would  need  to  be  demonstrated  at  the  outset  to  bring  a  charge.    Once  this  is  established,  it  would be  open  to  the 
+
+insider to rely on the defences made available to him, failing which he would have violated the prohibition.  
+
+ 
+
+(2)  Where  an  insider  who  has  traded  in  securities  is  a  connected  person,  the  onus  of 
+
+establishing  that  he  was  not  in  breach  of  the  prohibition  in  sub-regulation  (1)  shall  be  on  such 
+
+connected person. 
+
+ 
+
+NOTE:  It is intended that when a connected person has traded, it is for him to demonstrate that he did not violate 
+
+the prohibition under sub-regulation (1) – for example, by demonstrating that the information in his possession was 
+
+not unpublished price sensitive information, or that the trades were not decided upon or executed by him, or that the 
+
+trades were pursuant to a trading plan, or that any of the other defences available to him under sub-regulation (3) 
+
+are  indeed  available  to  him.  This  standard  is  only  for  those  insiders  who  are  “connected  persons”  and  not  for 
+
+others who are alleged to have committed insider trading.  In those cases, the onus would be on the Board to show a 
+
+reasonable prospect of access to the information or to a connected person.   
+
+ 
+
+(3) 
+
+Notwithstanding anything contained in sub-regulation (1), it shall be open to the insider 
+
+who has traded when in possession of unpublished price sensitive information to demonstrate as 
+
+a valid defence that: –  
+
+ 
+
+NOTE:  The onus of proving these defences would be on the person adopting the defence. 
+
+ 
+
+(i) 
+
+the  nature  of  his  trades  was  contrary  to  the  manner  in  which  any  person  acting 
+
+reasonably  would  have  traded  when  seeking  to  take  advantage  of  the  nature  of  the 
+
+unpublished price sensitive information in his possession; 
+
+ 
+
+NOTE:  This  provision  is  intended  to  enable  a  person  who  has  traded  contrary  to  the  nature  of  the 
+
+information in his possession to establish his innocence.  For example, a person in possession of positive 
+
+information  may  demonstrate  that  he  has  actually  sold  securities  whereas  a  reasonable  man  seeking  to 
+
+profit from the unpublished nature of such information would have actually acquired securities.  Likewise, 
+
+a person who has acquired securities could show that the unpublished price sensitive information with him 
+
+was actually adverse. 
+
+ 
+
+(ii) 
+
+he was an innocent  recipient of unpublished price sensitive information  and had 
+
+no  reason  to  believe,  exercising  diligence  expected  of  a  reasonable  man,  that  the 
+
+ 
+
+Page 54 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+information in his possession was unpublished price sensitive information or the person 
+
+who communicated it to him violated any law or confidentiality obligation owed by such 
+
+person; 
+
+ 
+
+NOTE:  This  provision  is  intended  to  enable  a  person  who  has  traded  bona  fide  when  in  possession  of 
+
+unpublished price sensitive information that he had no cause to believe that the information with him was 
+
+unpublished price sensitive information.  For example, if a research report is in possession of a person who 
+
+is  accused  of  insider  trading  and  it  turns  out  that  the  research  report  was  a  product  of  access  to 
+
+unpublished price sensitive information, the person who has traded bona fide should demonstrate that he 
+
+had no reason to believe that what he read in the research report was a product of violation of law and that 
+
+he had no role in the violation that occurred in the authorship of the research report.  The person adopting 
+
+the defence may also show that he did not have reason to believe that the person putting him in possession 
+
+of  information  was  in  breach  of  a  duty  or  was  violating  these  regulations  in  giving  him  the  information.  
+
+The nature of the information and whether any reasonable man would believe it not to be unpublished price 
+
+sensitive information would be material in assessing this defence. 
+
+  
+
+(iii) 
+
+the  counterparty  to  the  transaction  is  identifiable  and  such  counterparty  was  in 
+
+possession  of the same  unpublished price sensitive information  without being  in  breach 
+
+of regulation 3 and both parties had made a conscious and informed trade decision; 
+
+ 
+
+NOTE:  This provision is intended to protect trades between two identically placed persons from violating 
+
+sub-regulation  (1).    Two  insiders  who  are  identically  placed  in  terms  of  possession  of  unpublished  price 
+
+sensitive  information  –  for  example,  transactions  involved  in  inter-promoter  or  inter-institutional  re-
+
+arrangements of existing shareholding.  Such transactions would not be prohibited on the ground that both 
+
+the  buyer  and  seller  are  in  possession  of  unpublished  price  sensitive  information  since  both  would  be 
+
+possession of the very same unpublished price sensitive information and one could not have been victimized 
+
+by the other with disparity in access to information. 
+
+ 
+
+(iv) 
+
+the  trade  was  an  exercise  of  stock  options  for  which  the  exercise  price  was  pre-
+
+determined in compliance with applicable regulations; 
+
+ 
+
+NOTE:  This provision is intended to protect exercise of employee stock options that are granted with an 
+
+exercise price upfront since stock options can be exercised only when the options have vested  – typically, 
+
+one  year  after  the  grant.    The  price  for  exercise  of  the  stock  option  is  fixed  earlier  and  therefore,  the 
+
+ 
+
+Page 55 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+exercise ought not to become violative because new unpublished price sensitive information comes into the 
+
+possession of the employee who has been granted stock options at a pre-determined price formula. 
+
+ 
+
+(v) 
+
+in the case of non-individual insiders: –  
+
+ 
+
+(a)  
+
+the individuals who were in possession of such unpublished price sensitive 
+
+information were different from the individuals taking trading decisions and such 
+
+decision-making  individuals  were  not  in  possession  of  such  unpublished  price 
+
+sensitive information when they took the decision to trade; and 
+
+ 
+
+(b) 
+
+appropriate and adequate arrangements were in place to ensure that these 
+
+regulations  are  not  violated  and  that  no  unpublished  price  sensitive  information 
+
+was  communicated  by  the  individuals  possessing  the  information  to  the 
+
+individuals taking trading decisions and there is no evidence of such arrangements 
+
+having been breached; 
+
+ 
+
+NOTE:  This  provision  is  intended  to  enable  business  organisations  or  groups  of  entities  that  trade  in 
+
+securities  to  put  in  place  arrangements  to  comply  with  these  regulations  such  as  Chinese  Walls  and 
+
+segregation of roles to ensure that unpublished price sensitive information is cordoned off and other arms 
+
+of the same organisation do not get access to the same. Therefore, if the organisation or group adheres to 
+
+these safeguards, they would not violate the prohibition in sub-regulation (1). 
+
+ 
+(vi) 
+
+the trades of the insider were made by another person authorised to so trade on the 
+
+insider’s behalf without reference to and without prior knowledge of the insider and that 
+
+other  person  who  traded  was  not  in  possession  of  the  unpublished  price  sensitive 
+
+information and appropriate and adequate arrangements were in place to ensure that these 
+
+regulations are not violated; 
+
+ 
+
+NOTE:  This  provision  is  intended  to  enable  insiders  to  create  a  blind  trust  or  appoint  discretionary 
+
+portfolio managers or investment advisors who act on their behalf and are fully authorised to take trading 
+
+decisions  of  their  own  accord  without  any  involvement  of  the  insider.    This  provision  is  also  intended  to 
+
+protect an insider from a violation of sub-regulation (1) when a lender or trustee to whom the insider has 
+
+pledged  or  encumbered  securities,  transacts  in  exercise  of  his  enforcement  rights.  The  creation  of  any 
+
+ 
+
+Page 56 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+pledge  as  a  circumventing  contrivance  or  device  would  indeed  result  in  this  defence  not  being  available 
+
+since that would be a violation of Section 12A of the Act. 
+
+ 
+
+(vii) 
+
+the trades were pursuant to a trading plan set up in accordance with regulation 5. 
+
+ 
+
+NOTE:  This  provision  is  intended  to  enable  insiders  to  formulate  a  trading  plan  under  regulation  5 
+
+pursuant to which trades may be effected in future by when the unpublished price sensitive information that 
+
+may  have  been  in  their  possession  when  formulating  the  trading  plan  would  become  generally  available 
+
+and  new  unpublished  price  sensitive  information  may  come  into  their  possession.    Since  the  decision  to 
+
+trade would be taken without being in possession of unpublished price sensitive information, this shall be a 
+
+valid defence. 
+
+ 
+
+(4) 
+
+The  Board  may  specify  such  standards  and  requirements  as  may  be  necessary  for 
+
+arrangements referred to in these regulations to be regarded as being appropriate and adequate in 
+
+respect of: –  
+
+ 
+
+ 
+
+ 
+
+(i) 
+
+standards for treatment of information on a need-to-know basis among insiders; 
+
+ 
+
+(ii) 
+
+execution of non-disclosure agreements between communicators and recipients of 
+
+unpublished price sensitive information; 
+
+ 
+
+(iii) 
+
+procedures for binding any person who necessarily has to be put in possession of 
+
+information to an obligation not to disclose further except on a need-to-know basis and in 
+
+furtherance  of  legitimate  purposes,  performance  of  duties  and  discharge  of  legal 
+
+obligations; and  
+
+ 
+
+(iv)  model  codes  of  conduct  laying  down  minimum  standards  to  be  adopted  by 
+
+companies and their insiders. 
+
+ 
+
+ 
+
+Page 57 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+Trading Plans. 
+
+5. 
+
+(1) 
+
+An  insider  shall  be  entitled  to  formulate  a  trading  plan  and  present  it  to  the 
+
+compliance  officer  for  approval  and  public  disclosure  pursuant  to  which  trades  may  be  carried 
+
+out on his behalf in accordance with such plan.  
+
+ 
+
+NOTE:  This provision intends to give an option to persons who may be perpetually in possession of unpublished 
+
+price sensitive information and enabling them to trade in securities in a compliant manner.  This provision would 
+
+enable the formulation of a trading plan by an insider to enable him to plan for trades to be executed in future.  By 
+
+doing  so,  the  possession  of  unpublished  price  sensitive  information  when a  trade  under  a  trading  plan  is actually 
+
+executed would not prohibit the execution of such trades that he had pre-decided even before the unpublished price 
+
+sensitive  information  came  into  being.    Trading  on  the  basis  of  such  a  trading  plan  would  not  grant  absolute 
+
+immunity  from  bringing  proceedings  for  market  abuse.  For  instance,  in  the  event  of  manipulative  timing  of  the 
+
+release of unpublished price sensitive information to ensure that trading under a trading plan becomes lucrative in 
+
+circumvention of regulation 4 being detected, it would be open to initiate proceedings for alleged breach of SEBI 
+
+(Prohibition of Fraudulent and Unfair Trade Practices Relating to the Securities Market) Regulations, 2003.  
+
+ 
+
+(2) 
+
+Such trading plan shall:–  
+
+ 
+
+(i) 
+
+not  entail  commencement  of  trading  on  behalf  of  the  insider  earlier  than  six 
+
+months from the public disclosure of the plan; 
+
+ 
+
+NOTE:  It is intended that to get the benefit of a trading plan, a cool-off period of six months is necessary. 
+
+Such  a  period  is  considered  reasonably  long  for  unpublished  price  sensitive  information  that  is  in 
+
+possession  of  the  insider  when  formulating  the  trading  plan,  to  become  generally  available.    It  is  also 
+
+considered to be a reasonable period for a time lag in which new unpublished price sensitive information 
+
+may come into being without adversely affecting the trading plan formulated earlier. In any case, it should 
+
+be remembered that this is only a statutory cool-off period and would not grant immunity from action if the 
+
+insider  were  to  be  in  possession  of  the  same  unpublished  price  sensitive  information  both  at  the  time  of 
+
+formulation of the plan and implementation of the same.  
+
+  
+
+(ii) 
+
+not entail trading for the period between the twentieth trading day prior to the last 
+
+day of any financial period for which results are required to be announced by the issuer of 
+
+the securities and the second trading day after the disclosure of such financial results; 
+
+ 
+
+ 
+
+Page 58 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+NOTE:  Since the trading plan is envisaged to be an exception to the general rule prohibiting trading by 
+
+insiders when in possession of unpublished price sensitive information, it is important that the trading plan 
+
+does  not  entail  trading  for  a reasonable  period around  the  declaration  of  financial  results  as  that  would 
+
+generate unpublished price sensitive information.  
+
+ 
+
+(iii) 
+
+entail trading for a period of not less than twelve months; 
+
+ 
+
+NOTE:  It  is  intended  that  it  would  be  undesirable  to  have  frequent  announcements  of  trading  plans  for 
+
+short periods of time rendering meaningless the defence of a reasonable time gap between the decision to 
+
+trade and the actual trade.  Hence it is felt that a reasonable time would be twelve months.  
+
+ 
+
+(iv) 
+
+not  entail  overlap  of  any  period  for  which  another  trading  plan  is  already  in 
+
+existence; and 
+
+ 
+
+NOTE:  It  is  intended  that  it  would  be  undesirable  to  have  multiple  trading  plans  operating  during  the 
+
+same time period.  Since it would be possible for an insider to time the publication of the unpublished price 
+
+sensitive information to make it generally available instead of timing the trades, it is important not to have 
+
+the ability to initiate more than one plan covering the same time period.  
+
+ 
+
+(v) 
+
+set out either the value of trades to be effected or the number of securities to be 
+
+traded  along  with  the  nature  of  the  trade  and  the  intervals  at,  or  dates  on  which  such 
+
+trades shall be effected.  
+
+ 
+
+NOTE:  It is intended that while regulations should not be too prescriptive and rigid about what a trading 
+
+plan  should  entail,  they  should  stipulate  certain  basic  parameters  that  a  trading  plan  should  conform  to 
+
+and within which, the plan may be formulated with full flexibility.  The nature of the trades entailed in the 
+
+trading  plan  i.e.  acquisition  or  disposal  should  be  set  out.  The  trading  plan  may  set  out  the  value  of 
+
+securities or the number of securities to be invested or divested.  Specific dates or specific time intervals 
+
+may be set out in the plan.  
+
+  
+
+(3) 
+
+The  compliance  officer  shall  review  the  trading  plan  to  assess  whether  the  plan  would 
+
+have  any  potential  for  violation  of  these  regulations  and  shall  be  entitled  to  seek  such  express 
+
+ 
+
+Page 59 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+undertakings  as  may  be  necessary  to  enable  such  assessment  and  to  approve  and  monitor  the 
+
+implementation of the plan.     
+
+ 
+
+NOTE:  It is intended that the compliance officer would have to review and approve the plan.  For doing so, he may 
+
+need the insider to declare that he is not in possession of unpublished price sensitive information or that he would 
+
+ensure  that  any  unpublished  price  sensitive  information  in  his  possession  becomes  generally  available  before  he 
+
+commences  executing  his  trades.    Once  satisfied,  he  may  approve  the  trading  plan,  which  would  then  have  to  be 
+
+implemented in accordance with these regulations.  
+
+ 
+
+(4) 
+
+The  trading  plan  once  approved  shall  be  irrevocable  and  the  insider  shall  mandatorily 
+
+have  to  implement  the  plan,  without  being  entitled  to  either  deviate  from  it  or  to  execute  any 
+
+trade in the securities outside the scope of the trading plan.  
+
+ 
+
+Provided that the implementation of the trading plan shall not be commenced if any unpublished 
+
+price sensitive information in possession of the insider at the time of formulation of the plan has 
+
+not become generally available at the time of the commencement of implementation and in such 
+
+event  the  compliance  officer  shall  confirm  that  the  commencement  ought  to  be  deferred  until 
+
+such  unpublished  price  sensitive  information  becomes  generally  available  information  so  as  to 
+
+avoid a violation of sub-regulation (1) of regulation 4. 
+
+ 
+
+NOTE:  It is intended that since the trading plan is an exception to the general rule that an insider should not trade 
+
+when in possession of unpublished price sensitive information, changing the plan or trading outside the same would 
+
+negate the intent behind the exception.  Other investors in the market, too, would factor the impact of the trading 
+
+plan  on  their  own  trading  decisions  and  in  price  discovery.    Therefore,  it  is  not  fair  or  desirable  to  permit  the 
+
+insider  to  deviate  from  the  trading  plan  based  on  which  others  in  the  market  have  assessed  their  views  on  the 
+
+securities.  
+
+ 
+
+The  proviso  is  intended  to  address  the  prospect  that  despite  the  six-month  gap  between  the  formulation  of  the 
+
+trading plan and its commencement, the unpublished price sensitive information in possession of the insider is still 
+
+not generally available.  In such a situation, commencement of the plan would conflict with the over-riding principle 
+
+that  trades  should  not  be  executed  when  in  possession  of  such  information.  If  the  very  same  unpublished  price 
+
+sensitive information is still in the insider’s possession, the commencement of execution of the trading plan ought to 
+
+be deferred.  
+
+ 
+
+ 
+
+Page 60 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+(5) 
+
+Upon  approval  of  the  trading  plan,  the  compliance  officer  shall  notify  the  plan  to  the 
+
+stock exchanges on which the securities are listed.     
+
+ 
+
+NOTE:  It  is  intended  that  given  the  material  exception  to  the  prohibitory  rule  in  regulation  4,  a  trading  plan  is 
+
+required to be publicly disseminated.  Investors in the market at large would also factor the potential pointers in the 
+
+trading  plan  in  their  own  assessment  of  the  securities  and  price  discovery  for  them  on  the  premise  of  how  the 
+
+insiders perceive the prospects or approach the securities in their trading plan.  
+
+ 
+
+ 
+
+ 
+
+Page 61 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+CHAPTER – III 
+
+ 
+
+DISCLOSURES OF TRADING BY INSIDERS 
+
+ 
+General provisions. 
+
+6. 
+
+(1) 
+
+Every public disclosure under this Chapter shall be made in such form as may be 
+
+specified. 
+
+ 
+
+(2) 
+
+The  disclosures  to  be  made  by  any  individual  under  this  Chapter  shall  include  those 
+
+relating to trading by such person’s immediate relatives, and by any other person for whom such 
+
+person takes trading decisions. 
+
+ 
+
+NOTE:  It is intended that disclosure of trades would need to be of not only those executed by the person concerned 
+
+but  also  by  the  immediate  relatives  and  of  other  persons  for  whom  the  person  concerned  takes  trading  decisions.  
+
+These  regulations  are  primarily  aimed  at  preventing  abuse  by  trading  when  in  possession  of  unpublished  price 
+
+sensitive information and therefore, what matters is whether the person who takes trading decisions is in possession 
+
+of such information rather than whether the person who has title to the trades is in such possession. 
+
+ 
+
+(3) 
+
+The  disclosures  made  under  this  Chapter  shall  be  maintained  by  the  company  in  such 
+
+form as may be specified. 
+
+ 
+
+(4) 
+
+The  disclosures  of  trading  in  securities  shall  also  include  trading  in  derivatives  of 
+
+securities and the traded value of the derivatives shall be taken into account for purposes of this 
+
+Chapter. 
+
+ 
+
+Disclosures by certain persons. 
+
+7. 
+
+(1) 
+
+Every  promoter,  employee  and  director  of  every  company  whose  securities  are 
+
+listed on any recognised stock exchange shall disclose to the company within thirty days of these 
+
+regulations taking effect, his holding of securities of the company. 
+
+ 
+
+NOTE:  It  is  intended  that  these  specific  insiders  being  closely  connected  with  the  company  should  disclose  their 
+
+holdings in securities of the company including derivatives positions to the company.  This is a one-time disclosure 
+
+at the commencement of these regulations and this is internal to the company to help the compliance officer monitor 
+
+ 
+
+Page 62 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+and  administer  compliance.    A  duty  is  cast  by  this  provision  on  the  employees  and  directors  to  make  accurate 
+
+disclosures of their holdings to the company. This is not a public disclosure requirement. 
+
+ 
+
+(2) 
+
+Every  person  on  appointment  as  an  employee  or  a  director  of  the  company  or  upon 
+
+becoming a promoter shall disclose to the company, within seven days of such appointment, his 
+
+holding of securities of the company. 
+
+ 
+
+NOTE:  This sub-regulation is intended to cover anyone who newly occupies such a position to make a disclosure 
+
+within seven days. This disclosure is internal to the company to help the compliance officer monitor and administer 
+
+compliance. A duty is cast by this provision on the employees and directors to  make accurate disclosures of their 
+
+holdings to the company.  This is not a public disclosure requirement. 
+
+ 
+
+(3) 
+
+Every such person shall disclose to the company the number of such securities acquired 
+
+or disposed of within two working days of such transaction if the value of the securities traded, 
+
+whether in one transaction or a series of transactions over any calendar quarter, aggregates to a 
+
+traded value in excess of Rs. 10,00,000 or such other value as may be specified. 
+
+ 
+
+NOTE:  Since  such  persons  are  closely  connected  to  the  company,  material  trades  by  them  are  required  to  be 
+
+disclosed to the company.  This is an internal disclosure within the company and not a public disclosure, and will 
+
+help  the  compliance  officer  to  monitor  and  administer  the  regulations.  A  duty  is  cast  by  this  provision  on  the 
+
+employees and directors to make accurate disclosures to the company if the thresholds for disclosures are triggered.  
+
+Whether such thresholds are triggered is for the employees to track and report accurately to the employer. This is 
+
+an internal requirement of disclosure from the employees and directors to the company. 
+
+ 
+
+(4) 
+
+Every  company  shall  notify  the  particulars  of  such  trading  to  the  stock  exchange  on 
+
+which  the  securities  are  listed  within  two  working  days  of  receipt  of  the  disclosure  or  from 
+
+becoming aware of such information. 
+
+ 
+
+Explanation. — It is clarified for the avoidance of doubts that the disclosure of the incremental 
+
+transactions after any disclosure under this sub-regulation, shall be made when the transactions 
+
+effected after the prior disclosure cross the threshold specified in sub-regulation (3).  
+
+ 
+
+ 
+
+Page 63 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+NOTE:  This  provision  is  intended  as  a  continual  disclosure  requirement.    As  and  when  the  trading  by  these 
+
+insiders  crosses  the  material  thresholds  specified,  a  public  disclosure  would  have  to  be  made  within  the  time 
+
+specified. A duty is cast by this provision on the company to make public disclosures of whatever has been disclosed 
+
+to  it  under  sub-regulation  (3)  by  the  employees  and  directors  i.e.  disclosures  above  a  materiality  threshold.    The 
+
+company is not required to audit the accuracy of the disclosures, particularly since it may not have the capacity to 
+
+check trading particulars of immediate relatives of the employees and directors.  However, if the company becomes 
+
+otherwise aware of such trading, it would be required to make the disclosures under this sub-regulation. 
+
+ 
+
+(5) 
+
+Any  company  whose  securities  are  listed  on  a  stock  exchange  may,  at  its  discretion 
+
+require any other connected person or class of connected persons to make disclosures of holdings 
+
+and  trading  in  securities  of  the  company  in  such  form  and  at  such  frequency  as  may  be 
+
+determined by the company in order to monitor compliance with these regulations. 
+
+ 
+
+NOTE: This is an enabling provision for listed companies to seek information from those to whom it has to provide 
+
+unpublished  price  sensitive  information.    This  provision  confers  discretion  on  any  company  to  seek  such 
+
+information. It is not mandatory to do so.  For example, a listed company may ask that a management consultant 
+
+who would advise it on corporate strategy and would need to review unpublished price sensitive information, should 
+
+make disclosures of his trades to the company.  This is an internal matter and will not result in a public disclosure.  
+
+However, this would enable the listed company to internally review and keep a check on whether there has been any 
+
+trading by persons who become connected persons by virtue of their association with the company. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 64 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+CHAPTER – IV 
+
+ 
+
+CODES OF FAIR DISCLOSURE AND CONDUCT 
+
+ 
+Code of Fair Disclosure.  
+
+8. 
+
+(1) 
+
+The  board  of  directors  of  every  company  shall  formulate  and  publish  on  its 
+
+official  website,  a  code  of  practices  and  procedures  for  fair  disclosure  of  material  information 
+
+that it would follow in  order to  adhere to  each of the principles set  out  in Schedule A to  these 
+
+regulations. 
+
+ 
+
+NOTE:  This provision intends to require every company whose shares are listed on stock exchanges to formulate a 
+
+stated framework and policy for fair disclosure of events and occurrences that could impact price discovery in the 
+
+market for its securities.  Principles such as, equality of access to information, publication of policies such as those 
+
+on dividend, inorganic growth pursuits, calls and meetings with analysts, publication of transcripts of such calls and 
+
+meetings, and the like are set out in the schedule. 
+
+ 
+
+(2) 
+
+Every such policy and every amendment thereto shall be promptly intimated to the stock 
+
+exchanges where the securities are listed. 
+
+ 
+
+NOTE:  This provision is aimed at requiring transparent disclosure of the policy formulated in sub-regulation (1). 
+
+ 
+
+Code of Conduct. 
+
+9. 
+
+(1) 
+
+The board of directors of every company and market intermediary shall formulate 
+
+a code of conduct to regulate, monitor and report trading by its employees and other connected 
+
+persons towards achieving compliance with  these  regulations, adopting the minimum  standards 
+
+set out in Schedule B to these regulations. 
+
+ 
+
+NOTE:  It  is  intended  that  every  company  whose  securities  are  listed  on  stock  exchanges  and  every  market 
+
+intermediary registered with SEBI is mandatorily required to formulate a code of conduct governing trading by its 
+
+employees.  The standards set out in the schedule are required to be addressed by such code of conduct. 
+
+ 
+
+(2) 
+
+Every other person who is required to handle unpublished price sensitive information in 
+
+the  course  of  business  operations  may  formulate  a  code  of  conduct  to  regulate,  monitor  and 
+
+ 
+
+Page 65 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+report  trading  by  employees  and  other  connected  persons  towards  achieving  compliance  with 
+
+these regulations, adopting the minimum standards set out in Schedule B to these regulations. 
+
+ 
+
+NOTE: This provision is intended to enable persons other than listed companies and market intermediaries that are 
+
+required  to  handle  unpublished  price  sensitive  information  to  formulate  a  code  of  conduct  governing  trading  in 
+
+securities  by  their  employees.    Some  of  these  persons  may  also  be  regulated  by  other  agencies  while  some  others 
+
+may themselves be playing the role of regulatory agencies.  Even entities that normally operate outside the capital 
+
+market may handle unpublished price sensitive information. This provision would enable all of them to formulate a 
+
+code  of  conduct.    The  existence  of  such  a  code  would  point  to  the  seriousness  with  which  the  organisations  treat 
+
+compliance  requirements  under  these  regulations.    However,  the  existence  or  the  absence  of  a  code  of  conduct 
+
+would not in any way alter the full force of applicability of these regulations including the prohibitions set out in 
+
+regulations 3 and 4. 
+
+ 
+
+(3) 
+
+Every  company,  market  intermediary  and  other  persons  formulating  a  code  of  conduct 
+
+under sub-regulation (2) shall identify and designate a compliance officer to administer the code 
+
+of conduct and other requirements under these regulations. 
+
+ 
+
+NOTE: This provision is intended to designate a senior officer as the compliance officer with  the responsibility to 
+
+administer the code of conduct and monitor compliance with these regulations. 
+
+ 
+
+ 
+ 
+
+ 
+
+Page 66 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+ 
+
+CHAPTER – V 
+
+ 
+
+MISCELLANEOUS 
+
+Sanction for violations. 
+
+10. 
+
+Any  contravention  of  these  regulations  shall  be  dealt  with  by  the  Board  following 
+
+principles of natural justice and the Board may take remedial or punitive measures in exercise of 
+
+its powers under the Act. 
+
+ 
+
+NOTE:  The  Act  sets  out  various  powers  to  issue  remedial  directions,  impose  punitive  sanctions  and  to  initiate 
+
+prosecution for the violation of these regulations.   
+
+ 
+
+Repeal and Savings. 
+
+11. 
+
+(1) 
+
+The  Securities  and  Exchange  Board  of  India  (Prohibition  of  Insider  Trading) 
+
+Regulations, 1992 are hereby repealed. 
+
+ 
+
+NOTE:  These regulations are intended to replace the earlier regulations on the subject. 
+
+ 
+
+(2)   Notwithstanding such repeal,— 
+
+ 
+
+(a)  
+
+the  previous  operation  of  the  repealed  regulations  or  anything  duly  done  or  suffered 
+
+thereunder,  any  right,  privilege,  obligation  or  liability  acquired,  accrued  or  incurred  under  the 
+
+repealed  regulations,  any  penalty,  forfeiture  or  punishment  incurred  in  respect  of  any  offence 
+
+committed against the repealed regulations, or any investigation, legal proceeding or remedy in 
+
+respect  of  any  such  right,  privilege,  obligation,  liability,  penalty,  forfeiture  or  punishment  as 
+
+aforesaid, shall remain unaffected as if the repealed regulations had never been repealed; and  
+
+ 
+
+(b) 
+
+anything done or any action taken or purported to have been done or taken including any 
+
+adjudication,  enquiry  or  investigation  commenced  or  show-cause  notice  issued  under  the 
+
+repealed regulations prior to such repeal, shall be deemed to have been done or taken under the 
+
+corresponding provisions of these regulations; 
+
+ 
+
+ 
+
+Page 67 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+NOTE:  This provision is intended to save actions, decisions, rights and liabilities that have already arisen under 
+
+the repealed regulations so that they do not lapse. 
+
+ 
+
+(3)   After  the  repeal  of  Securities  and  Exchange  Board  of  India  (Prohibition  of  Insider 
+
+Trading)  Regulations,  1992,  any  reference  thereto  in  any  other  regulations  made,  guidelines  or 
+
+circulars issued thereunder by the Board shall be deemed to be a reference to the corresponding 
+
+provisions of these regulations. 
+
+ 
+
+NOTE:  It  is  intended  that  any  reference  to  the  repealed  regulations  in  other  regulations,  guidelines  or  circulars 
+
+does not need to be replaced with reference to these regulations and the references shall automatically be assumed 
+
+to be references to the corresponding provisions of these regulations.  
+
+ 
+
+ 
+ 
+
+ 
+
+Page 68 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+SCHEDULE A 
+
+ 
+
+(See sub-regulation (1) of regulation 8) 
+
+ 
+
+Principles of Fair Disclosure for purposes of Code of Practices and Procedures for Fair 
+
+Disclosure of Material Information 
+
+ 
+
+1. 
+
+Prompt  public  disclosure  of  material  information  that  would  impact  price  discovery  no 
+
+sooner  than  credible  and  concrete  information  comes  into  being  in  order  to  make  such 
+
+information generally available. 
+
+ 
+
+2. 
+
+Uniform  and  universal  dissemination  of  material  information  to  avoid  selective 
+
+disclosure. 
+
+ 
+
+3. 
+
+Designation  of  a  senior  officer  as  a  chief  investor  relations  officer  to  deal  with 
+
+dissemination of information and disclosure of material information. 
+
+ 
+
+4. 
+
+Prompt  dissemination  of  material 
+
+information 
+
+that  gets  disclosed  selectively, 
+
+inadvertently or otherwise to make such information generally available. 
+
+ 
+
+5. 
+
+Appropriate and fair response to queries on news reports and requests for verification of 
+
+market rumours by regulatory authorities. 
+
+ 
+
+6. 
+
+Ensuring that information shared with analysts and research personnel is not unpublished 
+
+price sensitive information. 
+
+ 
+
+7. 
+
+Developing best practices to make transcripts or records of proceedings of meetings with 
+
+analysts  and  other  investor  relations  conferences  on  the  official  website  to  ensure  official 
+
+confirmation and documentation of disclosures made. 
+
+ 
+
+8. 
+
+ 
+ 
+
+ 
+
+Handling of all unpublished price sensitive information on a need-to-know basis. 
+
+ 
+
+Page 69 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+ 
+
+ 
+1. 
+
+SCHEDULE B 
+
+ 
+
+(See sub-regulation (1) and sub-regulation (2) of regulation 9) 
+
+Minimum Standards for Code of Conduct to Regulate, Monitor and Report Trading 
+
+by Insiders 
+
+The  compliance  officer  shall  report  to  the  board  of  directors  and  in  particular,  shall 
+
+provide reports to the Chairman of the Audit Committee, if any, or to the Chairman of the board 
+
+of directors at such frequency as may be stipulated by the board of directors. 
+
+ 
+
+2. 
+
+All information shall be handled within the organisation on a need-to-know basis and no 
+
+unpublished  price  sensitive  information  shall  be  communicated  to  any  person  except  in 
+
+furtherance of the insider’s legitimate purposes, performance of duties or discharge of his legal 
+
+obligations. The code of conduct may contain norms for appropriate Chinese Walls procedures, 
+
+and processes for permitting any designated person to ―cross the wall‖. 
+
+ 
+
+3. 
+
+Employees  and  connected  persons  designated  on  the  basis  of  their  functional  role 
+
+(―designated  persons‖)  in  the  organisation  shall  be  governed  by  an  internal  code  of  conduct 
+
+governing dealing in securities.  The board of directors shall in consultation with the compliance 
+
+officer specify the designated persons to be covered by such code on the basis of their role and 
+
+function in the organisation.   Due regard shall be had to  the access  that such role and function 
+
+would  provide  to  unpublished  price  sensitive  information  in  addition  to  seniority  and 
+
+professional designation. 
+
+ 
+
+4. 
+
+Designated  persons  may  execute  trades  subject  to  compliance  with  these  regulations.  
+
+Towards this end, a notional trading window shall be used as an instrument of monitoring trading 
+
+by  the  designated  persons.    The  trading  window  shall  be  closed  when  the  compliance  officer 
+
+determines that a designated person or class of designated persons can reasonably be expected to 
+
+have  possession  of  unpublished  price  sensitive  information.    Such  closure  may  be  imposed  in 
+
+relation  to  such  securities  to  which  such  unpublished  price  sensitive  information  relates.  
+
+Designated  persons  and  their  immediate  relatives  may  trade  in  securities  when  the  trading 
+
+window is not closed.   
+
+ 
+
+Page 70 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+5. 
+
+The timing for re-opening of the trading window shall be determined by the compliance 
+
+officer taking into account various factors including the unpublished price sensitive information 
+
+in question becoming generally available and being capable of assimilation by the market, which 
+
+in  any  event  shall  be  earlier  than  twenty-four  hours  after  the  information  becomes  generally 
+
+available. 
+
+ 
+
+6. 
+
+ When the trading window is open, trading by designated persons shall be subject to pre-
+
+clearance by the compliance officer, if the value of the proposed trades is above such thresholds 
+
+as  the  board  of  directors  may  stipulate.    No  designated  person  shall  apply  for  pre-clearance  of 
+
+any  proposed  trade  if  such  designated  person  is  in  possession  of  unpublished  price  sensitive 
+
+information even if the trading window is not closed.   
+
+ 
+
+7. 
+
+The  compliance  officer  shall  confidentially  maintain  a  list  of  such  securities  as  a 
+
+―restricted list‖ which shall be used as the basis for approving or rejecting applications for pre-
+
+clearance of trades. 
+
+ 
+
+8. 
+
+Prior to approving any trades, the compliance officer shall be entitled to seek declarations 
+
+to  the  effect  that  the  applicant  for  pre-clearance  is  not  in  possession  of  any  unpublished  price 
+
+sensitive information.   He shall also  have regard  to  whether any such declaration is  reasonably 
+
+capable of being rendered inaccurate. 
+
+ 
+
+9. 
+
+The code of conduct may specify any reasonable timeframe within which trades that have 
+
+been pre-cleared have to be executed by the designated person, failing which fresh pre-clearance 
+
+would be needed for the trades to be executed. 
+
+ 
+
+10. 
+
+The  code  of  conduct  may  specify  the  period  within  which  a  designated  person  who  is 
+
+permitted to trade may not execute a contra trade.  The compliance officer may be empowered to 
+
+grant  relaxation from  strict application of such restriction  for reasons  to  be recorded in  writing 
+
+provided  that  such  relaxation  does  not  violate  these  regulations.    Should  a  contra  trade  be 
+
+executed, inadvertently or otherwise, in violation of such a restriction, the profits from such trade 
+
+ 
+
+Page 71 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+shall  be  liable  to  be  disgorged  for  remittance  to  the  Board  for  credit  to  the  Investor  Education 
+
+and Protection Fund administered by the Board under the Act. 
+
+ 
+
+11. 
+
+The  code  of  conduct  may  stipulate  such  formats  as  the  board  of  directors  deems 
+
+necessary  for  making  applications  for  pre-clearance,  reporting  of  trades  executed,  reporting  of 
+
+decisions  not  to  trade  after  securing  pre-clearance,  recording  of  reasons  for  such  decisions  and 
+
+for  reporting  level  of  holdings  in  securities  at  such  intervals  as  may  be  determined  as  being 
+
+necessary to monitor compliance with these regulations. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 72 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+ 
+
+ANNEXURE 
+
+ 
+
+LIST OF PERSONS WHO PROVIDED THEIR INPUTS TO THE COMMITTEE  
+
+ 
+
+(in alphabetical order) 
+
+ 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+12. 
+
+ 
+Aimi Ramlee, Deputy Director, Asia Trader Forum 
+ 
+Amol  Kulkarni,  Policy  Analyst,  Centre  for  Investment,  Competition  and  Economic 
+Regulation; CUTS International 
+ 
+Ashok Singh, Manager, Listing Compliance, Bombay Stock Exchange 
+ 
+Anjali Aggarwal, Vice President, Corporate Professionals Capital Pvt. Ltd. 
+ 
+Ankit Shah, Chartered Accountant 
+ 
+Bharat Vasani, Chief, Legal & Group General Counsel, Tata Sons Ltd 
+ 
+Compliance Legal 
+ 
+Cyril Shroff, Partner, Amarchand & Mangaldas & Suresh A Shroff & Co 
+ 
+Devang  Joshi,  Assistant  Manager,  Compliance-India,  Franklin  Templeton  Asset 
+Management (India) Pvt. Ltd. 
+ 
+Dinesh Bhakade 
+ 
+Federation of Indian Chambers of Commerce & Industry   
+ 
+Girish V. Koliyote, Company Secretary, HDFC Ltd 
+ 
+
+13.  HSBC Securities and Capital Markets (India) Pvt. Ltd.  
+
+ 
+Krishnan Sitaraman, Senior Director-Compliance, CRISIL Ltd. 
+ 
+Kritika Daga, AGM, ICICI Bank Ltd. 
+ 
+Nidhi Sharma Wig, Company Secretary 
+ 
+Padmaja Shirke, Union KBC Asset Management Company Private Limited 
+ 
+Pankaj Mishra, AVP Compliance, Kotak Securities Ltd. 
+ 
+
+ 
+
+14. 
+
+15. 
+
+16. 
+
+17. 
+
+18. 
+
+ 
+
+Page 73 of 74 
+
+Report of the High Level Committee to Review the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+ 
+
+Parmeshwaran N Swamy, Compliance, Equity and F&O, J.P. Morgan 
+ 
+Pinky Talreja, Company Secretary and Lawyer 
+ 
+Pritesh  Majumdar,  Compliance  Officer  &  Company  Secretary,  DSP  Blackrock 
+Investment Managers Pvt. Ltd. 
+ 
+S.C. Jain, Company Secretary, Xpro India Limited 
+ 
+S.K Dixit, Director, Institute of Company Secretaries of India 
+ 
+Sandeep Parekh, Partner, FINSEC Law Advisors  
+ 
+Sandip Bhagat, Partner, S&R Associates 
+ 
+Sanjay Dalmiya 
+ 
+Umakanth Varottil, Assistant Professor, Faculty of Law, National University of 
+Singapore 
+ 
+Yogesh Chande, Advocate, Economic Laws Practice 
+
+ 
+
+Page 74 of 74 
+
+19. 
+
+20. 
+
+21. 
+
+22. 
+
+23. 
+
+24. 
+
+25. 
+
+26. 
+
+27. 
+
+28. 
+ 
+ 
+
+ 
+
+

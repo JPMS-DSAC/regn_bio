@@ -1,0 +1,1643 @@
+ 
+
+ 
+
+ 
+
+ 
+
+DISCUSSION PAPER ON 
+FRAMEWORK FOR 
+REGULATORY SANDBOX 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+CONTENTS 
+
+Objective 
+
+Framework for Regulatory Sandbox 
+
+Applicability 
+
+Regulatory exemptions 
+
+Eligibility Criteria for the project 
+
+Limitations 
+
+Potential Risk Mitigates 
+
+Application and Approval Process 
+
+Flowchart: Application and Approval Process 
+
+Evaluation Criteria 
+
+Table 2: Distribution of Marks 
+
+Submission of information and reports 
+
+Interim Reports 
+
+Final Report 
+
+Confirmation of reports 
+
+Monitoring and Supervision of the sandbox 
+
+Extending or Exiting the Sandbox 
+
+Rights and Obligations of the user 
+
+Revocation of the Approval 
+
+Additional issues for which comments are being sought 
+
+Annexure 1- Regulatory sandbox Application Form 
+
+requirements for which relaxation will not be considered 
+
+Requirements that may merit relaxation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+3 
+
+4 
+
+4 
+
+5 
+
+6 
+
+6 
+
+7 
+
+8 
+
+10 
+
+10 
+
+11 
+
+11 
+
+12 
+
+12 
+
+12 
+
+12 
+
+13 
+
+14 
+
+16 
+
+17 
+
+20 
+
+20 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+1 | P a g e  
+
+ 
+
+OBJECTIVE 
+
+ 
+
+ 
+
+1.  Participants  in  the  capital  market  in  India  have  been  early  adopters of  technology. 
+SEBI believes that encouraging adoption and usage of financial technology (‘FinTech’) 
+would have a profound impact on the development of securities market.  FinTech can 
+act as an instrument to further develop and maintain an efficient, fair and transparent 
+securities market ecosystem. 
+
+ 
+2.  With  a  view  to  facilitate  the  development  and  adoption  of  innovative  FinTech 
+solutions,  SEBI  vide  circular  SEBI/HO/MRD/2019/P/64  dated  May  20,  2019, 
+stipulated  a  framework  for  an  industry-wide  Innovation  Sandbox.  Under  this 
+framework,  FinTech  startups  and  entities  not  regulated  by  SEBI  may  use  the 
+Innovation Sandbox for offline testing of their proposed solution, subject to fulfillment 
+of the eligibility criteria.  
+
+ 
+3.  Moving a step ahead in the same direction, SEBI plans to introduce a framework, to 
+be  called  the  ‘Regulatory  Sandbox’.  Under  this  sandbox  framework,  financial 
+institutions  regulated  by  SEBI  shall  be  granted  certain  facilities  and  flexibilities  to 
+experiment  with  FinTech  solutions  in  a  live  environment  and  on  real  customers. 
+These features will be fortified with necessary safeguards for investor protection and 
+risk mitigation. 
+
+ 
+4.  Accordingly, this discussion paper aims to put forth the key principles and proposed 
+approach  for  operationalizing  such  ‘Regulatory  Sandbox’.  SEBI  invites  written 
+comments  on  the  sandbox  framework  proposed  in  this  discussion  paper.  Further, 
+SEBI  would  like  to  encourage  and  invite  any  general  comments  on  the  proposals, 
+including suggestions for additional information/clarification on any particular area 
+of the framework and any alternative proposal that SEBI should consider. In order to 
+facilitate fast assessment and implementation, interested participants are requested 
+to please support each comment with a clear rationale and underlying evidence or 
+illustration, as the case may be. 
+
+ 
+5.  Interested parties are requested to provide their comments latest by June 18, 2019 at 
+
+the email address : regsandbox@sebi.gov.in or in writing at the following address: 
+
+Shri. Bithin Mahanta 
+Deputy General Manager 
+Market Regulation Department, 
+SEBI Bhavan, Plot No. C4-A, G-Block, 
+Bandra Kurla Complex, Bandra (E),  
+Mumbai, India - 400051 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+2 | P a g e  
+
+ 
+
+ 
+
+ 
+
+ 
+
+FRAMEWORK FOR REGULATORY SANDBOX  
+
+ 
+6.  The term “Regulatory Sandbox” shall be defined as a live, testing environment where 
+new products, processes, services and business models can be deployed on a limited 
+set of eligible customers for a specified period of time with certain relaxations in the 
+extant SEBI regulations and guidelines.  
+
+ 
+
+7.  Innovation  through  investor-centric  experimentation  has  the  potential  to  create 
+better  financial products,  lower  the  costs  of  transaction  for  investors  and  promote 
+financial inclusion especially for Indian investors with limited means. However, there 
+have been instances when innovation without proper regulatory oversight has caused 
+damage to investors and economies. Therefore, it is imperative that new technology 
+intensive  business  models  and  innovations  are  deployed  with  proper  regulatory 
+oversight and risk mitigation safeguards. 
+
+8.  The  purpose  of  the  sandbox  environment,  as  has  been  discussed  in  the  SEBI’s 
+Committee  on  Financial  and  Regulatory  Technologies  (CFRT),  is  to  start  an  early 
+dialogue with companies experimenting with innovative technologies, so that more 
+innovation and technologically intensive products may be brought under the purview 
+of SEBI/ regulatory ambit at an early stage and potential adverse events, if any, can 
+be identified and avoided.  
+
+ 
+9.  The sandbox is intended to serve as a testing ground for new business models and 
+technologies  that  benefit  the  investors,  Indian  markets  and  the  Indian  economy  at 
+large. SEBI also envisages that the Regulatory Sandbox as a platform would facilitate 
+seamless information sharing between innovative firms and SEBI. 
+
+ 
+10. By participating in the sandbox, while the companies would get an opportunity to test 
+their solutions on real customers/ investors, on the other hand, it may help SEBI to 
+frame policies that may reduce the time and cost of deploying new investor-centric 
+solutions in the capital market. 
+
+11. The following benefits are envisaged through greater FinTech experimentation in the 
+
+Regulatory Sandbox: 
+
+i)  Greater  participation  of  investors  as  well  as  people  who  are  raising  capital  or 
+providing  services.  Increased  financial  inclusion  and  penetration  of  financial 
+products, especially in Tier II/III towns and cities and rural areas; 
+ 
+
+ii)  Ease  of  accessibility  for  retail  investors  (especially  those  with  limited  means), 
+resulting  in  greater  convenience,  reduced  operational  costs,  lower  fees  and 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+3 | P a g e  
+
+ 
+
+ 
+transaction  charges,  while  at  the  same  time  increasing  the  efficiency  and 
+transparency. 
+ 
+
+iii) Lower risk and more effective supervision. 
+
+ 
+
+APPLICABILITY 
+
+ 
+12. To begin with, it is proposed that all market participants registered with SEBI under 
+section  12  of  the  SEBI  Act  1992,  shall  be  eligible  for  testing  within  the  Regulatory 
+sandbox. A market participant can come on its own or  use the services of a fintech 
+firm.  The  registered  market  participant  shall  be  treated  as  the  principle  applicant, 
+even if it uses the services of a fintech firm, and shall be solely responsible for testing 
+of the solution in the sandbox.  
+
+13. In  the  subsequent phases, depending on the  response  received, SEBI may consider 
+permitting FinTech startups, FinTech firms and other entities that are not regulated 
+by  SEBI,  to  participate  in  the  Regulatory  Sandbox.  In  the  interim,  the  innovation 
+sandbox shall be available to all. 
+
+ 
+
+REGULATORY EXEMPTIONS 
+
+ 
+14. Within  the  overarching  principles  of  Market  Integrity  and  Investor  Protection,  no 
+exemptions  would  be  granted  from  extant  principles  of  Investor  Protection 
+framework,  Know-Your-Customer  (KYC)  and  Anti-Money  Laundering  (AML) 
+prescribed by SEBI. 
+ 
+
+15. With  the  intention  to  ensure  that  the  sandboxing  environment  has  minimum 
+regulatory burden, SEBI shall consider exemptions/ relaxations, if any, which could 
+be  either  in  the  form  of  a  comprehensive  exemption  from  certain  regulatory 
+requirements or selective exemptions on a case-by-case basis.  
+
+16. SEBI is considering a separate (new) regulatory regime for sandbox testing wherein 
+exemptions from various SEBI regulations may be provided after analyzing specific 
+sandbox  testing  applications.  This  could  enable  a  more  flexible  regulatory 
+environment for eligible participants to comply. 
+
+17. Depending  on  the  FinTech  Solution  to  be  tested,  SEBI  shall  determine  the  specific 
+regulatory  requirements  which  may  be  considered  for  relaxation  on  case-by-case 
+basis.  A  reference  list  is  placed  at  Annexure-2  with  examples  of  the  regulatory 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+4 | P a g e  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+requirements  that  will  be  mandatory  and  those  which  SEBI  may  consider  relaxing 
+during the sandbox testing. 
+ 
+
+18. Alternatively, market participants desirous of participating in the regulatory sandbox 
+may make an application for exemption / relaxation from relevant provisions of SEBI 
+regulations. Firms desirous of participating in the sandbox are required to apply for 
+relaxation of specific regulations that they feel are hampering their innovations or are 
+acting as barriers to entry of new products. 
+
+ 
+
+ 
+
+ 
+
+ELIGIBILITY CRITERIA FOR THE PROJECT 
+
+19. The eligibility criteria shall be as follows: 
+
+a)  Genuineness  of  innovation:  The  solution  should  be  truly  innovative  or 
+significantly different from existing offering and which adds significant value to 
+the existing offering in the Indian market.  
+
+ 
+
+b)  Genuine need to test: The applicant should have a genuine need for testing the 
+solution on real customers within the sandbox. The applicant should demonstrate 
+that the solution cannot be developed without relaxing certain regulations within 
+the sandbox. 
+
+ 
+
+c)  Limited  prior  testing:  Before  applying  for  testing  in  the  regulatory  sandbox, 
+limited  offline  testing  of  the  solution  should  have  been  carried  out  by  the 
+applicant.  
+
+ 
+
+d)  Direct benefits to users: The solution should offer identifiable benefits (direct or 
+indirect) to the investors or capital raising entities and to the capital market and 
+the Indian economy at large.  
+
+ 
+
+e)  No  risks  to  the  financial  system:  The  solution  should  have  proper  risk 
+management  strategy  to  incorporate  appropriate  safeguards  to  mitigate  and 
+control potential risks and contain the consequences, if any, of failure. 
+
+f)  Testing readiness of the solution: The applicant has the necessary resources to 
+support testing in the sandbox. The applicant must show well developed testing 
+plans with clear objectives, parameters and success criteria. 
+
+ 
+
+ 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+5 | P a g e  
+
+ 
+
+ 
+g)  Deployment post-testing: The applicant should demonstrate the intention and 
+ability  to  deploy  the  solution  in  India  on  a  broader  scale.  To  this  effect  the 
+applicant should share a proposed sandbox exit and transition strategy. 
+
+h)  Fit  and  proper  person:  The  applicant  shall  satisfy  the  fit  and  proper  criteria 
+
+including but not limited to the following: 
+
+ 
+
+ 
+
+Integrity, reputation and character; 
+
+i. 
+ii.  Absence of convictions and restraint orders; 
+iii. 
+iv.  Absence of categorization as a willful defaulter. 
+
+Competence including financial solvency and net worth; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20. The applicant must demonstrate eligibility to the satisfaction of SEBI by showing clear 
+
+evidence as listed above. 
+
+LIMITATIONS 
+
+21. The solutions/products shall not be permitted to be tested in the Regulatory Sandbox 
+
+under the following circumstances:   
+
+a)  The proposed FinTech solution is similar to those that are already being offered 
+in  the  markets,  unless  the  applicant  can  demonstrate  that  either  an  innovative 
+(efficient  alternative)  technology  is  being  used;  or  the  same  technology  is  used 
+more efficiently (process efficiency). 
+
+b)  The applicant has not carried out its due diligence, including testing the proposed 
+
+FinTech solution in an offline test environment. 
+
+ 
+
+c)  The  applicant  has  no  intention  of  deploying  the  FinTech  solution  in  India  on  a 
+
+broader scale after exiting from the Sandbox.  
+
+  
+
+ 
+
+POTENTIAL RISK MITIGATES 
+
+ 
+
+22. The applicant must identify the potential risks to any market participants that may 
+arise  from  the  testing  of  the  solution  in  the  sandbox  and  propose  appropriate 
+safeguards to manage the risks and contain the consequences of failure. 
+
+23. The  applicant  will  follow  appropriate  disclosure,  protection  and  compensation 
+requirements  related  to  their  users  agreed  upon,  on  a  case-by-case  basis.  The 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+6 | P a g e  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+applicant  is  required to  have  a clearly defined grievance redressal  mechanism and 
+user rights. 
+
+24. The  applicant  must  provide  adequate  disclosure  of  the  potential  risks  to  users 
+participating in the sandbox and seek prior confirmation from such users that they 
+fully understand and accept the attendant risks. 
+
+25. Market participants participating in the sandbox shall have the same protection rights 
+
+as the ones participating in the live market. 
+
+APPLICATION AND APPROVAL PROCESS 
+
+26. Monitoring and administering a Regulatory Sandbox is a resource intensive activity 
+on part of the regulators. A Rolling approach will be followed wherein the applicant 
+can apply anytime for participation in the regulatory sandbox. 
+
+27. The applicant should ensure that the eligibility criteria specified under  Para 19 are 
+
+satisfied before submitting the application and Annexure-1 to SEBI. 
+
+28. The  flowchart  below  depicts  the  application  and  approval  process.  SEBI  will 
+communicate with the applicant / sandbox participant in the course of evaluating the 
+sandbox application, and continue to do so during the testing phase. 
+
+29. Prior to submitting an application, the applicant can clarify any question regarding 
+
+the sandbox by contacting SEBI at <email id> 
+
+30. If  the  applicant  is  a  suitable  participant  for  the  sandbox  and  the  project  meets  the 
+eligibility criteria, it can proceed to submit the sandbox application form signed by 
+the  Chief Executive  Officer (CEO) of the  applicant  or officer duly  authorized by the 
+CEO or registered individual, to SEBI, by email at <email id>. 
+
+31. At the “Application Stage”, SEBI shall review the application and inform the applicant 
+of its potential suitability for a sandbox within 30 working days from the submission 
+of  the  complete  application.  SEBI  may  issue  individual  guidance  to  the  applicant 
+according  to  the  specific  characteristics  and  risks  associated  with  the  proposed 
+solution. 
+
+ 
+
+ 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+7 | P a g e  
+
+ 
+
+ 
+
+Applicant is informed that the 
+
+Sandbox application is not suitable 
+
+FLOWCHART: APPLICATION AND APPROVAL PROCESS 
+
+ 
+
+Applicant 
+application to SEBI 
+
+submits 
+
+a 
+
+sandbox 
+
+Application Stage: 
+
+SEBI reviews the application  
+
+Is application 
+
+potentially suitable 
+
+for sandbox? 
+
+NO 
+
+YES 
+
+Evaluation Stage: 
+
+Specific sandbox conditions determined 
+
+Is sandbox 
+application 
+approved?  
+
+YES 
+
+NO 
+
+Testing Stage 
+
+Testing of the solution begins 
+
+After completion of the evaluation 
+period, Sandbox exit criteria will be 
+
+triggered 
+
+ 
+
+ 
+
+ 
+
+32. At the “Evaluation Stage”, SEBI will work with the applicant to determine the specific 
+regulatory  requirements  and  conditions  (including  test  parameters  and  control 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+8 | P a g e  
+
+ 
+
+ 
+boundaries)  to  be  applied  to  the  proposed  solution  in  question.  The  applicant  will 
+then assess if it is able to meet these requirements. If the applicant is able and willing 
+to meet the proposed regulatory requirements and conditions, the applicant will be 
+granted a permission to develop and test the proposed FinTech Innovation(s) in the 
+sandbox within the parameters and control boundaries agreed upon with SEBI. 
+
+33. In the event that an application is rejected at any stage, the applicant will be informed 
+accordingly. The reasons for rejection could include failure to meet the objective of 
+the  sandbox  or  any  of  the  eligibility  criteria.  The  applicant  may  re-apply  for  the 
+sandbox when it is ready to meet the objective and eligibility criteria of the sandbox, 
+subject to a suitable cooling-off period. 
+
+34. Upon approval, the application proceeds towards the “Testing Stage”. The participant 
+shall notify its users that the solution is operating in a sandbox and disclose the key 
+risks associated with the financial service. The applicant is also required to obtain the 
+user’s acknowledgement that they have read and understood these risks. 
+
+35. During  the  testing  stage,  if  the  applicant  intends  to  make  material  changes  to  the 
+solution, the applicant should apply to SEBI at least 1 month in advance and provide 
+details of the proposed changes with reasons. SEBI’s approval will be required before 
+the proposed changes can be implemented.  
+
+ 
+
+36. Participant must submit interim reports on the progress of the test. 
+
+37. At the end of the testing period, the sandbox participant shall exit the sandbox and the 
+
+regulatory relaxations provided by SEBI shall expire. 
+
+38. SEBI  shall  assign  a  designated  officer  to  each  of  the  applicants.  Similarly,  each 
+
+applicant shall assign a contact person to coordinate with SEBI. 
+
+39. For a rejected application, a suitable cooling off period shall be observed before the 
+
+applicant is allowed to resubmit the application. 
+
+40. The  complete  application  must  be  submitted  to:  Chief  General  Manager,  Market 
+Regulation Department, SEBI Bhavan, Plot No.: C4-A, G-Block, Bandra Kurla Complex, 
+Bandra (E), Mumbai - 400051. 
+
+41. The  duration  of  the  sandbox  testing  stage  is  proposed  to  be  a  maximum  of  nine 
+
+months with a maximum extension (upon request) of three months. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+9 | P a g e  
+
+ 
+
+EVALUATION CRITERIA 
+
+ 
+
+42. The  applicants  will  be  evaluated  using  a  scoring  process  based  on  the  information 
+
+submitted in the application form. 
+
+43. The  Market  Regulation  Department,  under  the  guidance  of  the  CFRT,  shall  be  the 
+
+secretariat for the complete duration of the sandbox.  
+
+44. The  concerned departments of SEBI may perform initial evaluation  of the  sandbox 
+applications  and  present  the  same  to  the  above-mentioned  committee  for  final 
+evaluation and confirmation.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE 2: DISTRIBUTION OF MARKS 
+
+ 
+
+Sr.No. 
+
+Evaluation Criteria 
+
+Weightage 
+
+Evaluated by 
+
+ 
+1 
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+benefits 
+
+to 
+
+and/or 
+
+scenarios 
+
+innovative  solution 
+technology  and/or 
+
+ 
+Profile of the Applicant 
+Usage  of 
+including 
+processes 
+the 
+Identified 
+investors 
+the 
+securities/commodities markets 
+of  meaningful 
+Compilation 
+testing 
+and 
+expected/desired outcomes 
+Risk  measured/graded  testing 
+conditions and parameters so as 
+to  ensure  safety  and  protection 
+of the Markets 
+Risk  mitigation  for  high  risk 
+testing 
+and 
+parameters 
+Intent  and  feasibility  to  deploy 
+the  proposed  FinTech  Solution 
+post Sandbox testing 
+
+conditions 
+
+(%) 
+
+Department  Committee 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+10 
+10 
+
+10 
+
+10 
+
+10 
+
+10 
+
+10 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+10 | P a g e  
+
+ 
+
+Sr.No. 
+
+Evaluation Criteria 
+
+Weightage 
+
+Evaluated by 
+
+ 
+
+Sandbox 
+
+Post 
+testing 
+deployment, monitoring and exit 
+strategy (in case of non-viability 
+of solution) 
+Other  miscellaneous 
+considered relevant by SEBI 
+Total 
+
+factors 
+
+(%) 
+
+10 
+
+20 
+
+100 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 
+
+9 
+
+ 
+
+ 
+
+45. The applicant has to score minimum marks in each parameter and achieve a minimum 
+
+overall score to qualify for testing in the sandbox. 
+ 
+
+46. Since these are the early stages of implementation of the regulatory sandbox and the 
+learning curve, SEBI shall reserve the right to modify the parameters, weightages and 
+cut-offs  as  and  when  necessary.  Further,  SEBI  shall  reserve  the  right  to  reject  the 
+project based on its evaluation and judgment. 
+
+ 
+
+SUBMISSION OF INFORMATION AND REPORTS 
+
+47. During the testing period in the sandbox, SEBI may require the participant to submit 
+
+information relating to the test. 
+
+48. The participant must ensure proper maintenance of records during the testing period 
+to  support  reviews  of  the  test  by SEBI. Further,  the  participant  shall also  maintain 
+such records for a  period of  five  5  years  from completion  of testing/ exit  from  the 
+sandbox. 
+
+INTERIM REPORTS 
+
+49. The participant must submit interim reports to SEBI on the progress of the test, which 
+
+includes information on the following: 
+
+i)  Key performance indicators, key milestones and statistical information; 
+
+ii)  Key  issues  arising  as  observed  from  fraud  or  operational  incident  reports; 
+
+and 
+
+ 
+
+ 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+11 | P a g e  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iii)  Actions or steps taken to address the key issues identified above 
+
+ 
+
+ 
+
+50. The  frequency and specific details to be  included in interim reports  will be  agreed 
+between SEBI and the participant, taking into account the duration, complexity, scale 
+and risks associated with the test. 
+
+FINAL REPORT 
+
+51. The  Sandbox  Participants  must  submit  a  final  report  containing  the  following 
+
+information to SEBI within 30 calendar days from the expiry of the testing period: 
+
+ 
+
+ 
+
+ 
+
+i)  Key outcomes, key performance indicators against agreed measures for the 
+
+success or failure of the test and findings of the test; 
+
+ii)  A full account of all incident reports and resolution of user complaints; and 
+
+iii)  In the case of a failed test, lessons learnt from the test. 
+
+CONFIRMATION OF REPORTS 
+
+52. The interim and final reports must be confirmed by the CEO/ Registered individual or 
+
+by an officer duly authorized by the CEO/ Registered individual. 
+
+MONITORING AND SUPERVISION OF THE SANDBOX 
+
+53. An officer of SEBI shall be assigned to supervise and guide each applicant during the 
+
+course of product/solution deployment and testing in the sandbox. 
+
+EXTENDING OR EXITING THE SANDBOX 
+
+54. At the end of the testing period, the permission granted to the Sandbox Participant as 
+well  as  the  legal  and  regulatory  requirements  relaxed  by  SEBI  will  expire,  and  the 
+sandbox participant must exit from the Sandbox. 
+
+55. Upon completion of testing,  
+ 
+
+i)  SEBI shall decide whether to permit the product, process, service or solution to be 
+introduced in the market on a wider scale. Where allowed, participants intending 
+to carry out regulated businesses will be assessed based on applicable licensing, 
+approval and registration criteria under various SEBI regulations, as the case may 
+be. 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+12 | P a g e  
+
+ 
+
+ii)  Or the applicant may employ an exit strategy. 
+
+ 
+
+iii) Or the applicant may request for an extension period to continue testing in the 
+
+sandbox. The extension period shall be limited to a maximum of three months. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+56. In the event an extension of the testing period is required, the applicant should apply 
+to SEBI at least two months before the expiration of the testing period and state the 
+additional time required and clearly explain reasons for requiring the extension. 
+
+57. SEBI shall review the application and approval for extension of the testing period shall 
+be granted on a case-by-case basis. SEBI’s decision on the application for extension 
+shall be final. 
+
+58. The applicant may exit the sandbox on its own by giving SEBI a two-month notice in 
+writing of its intention to exit the sandbox. In such cases, upon exiting the sandbox, 
+the applicants must take the same actions outlined above. 
+
+59. The  applicant  shall  ensure  that  any  existing  obligation  to  the  users  of  the  FinTech 
+Innovation(s) under testing are completely fulfilled or addressed before exiting the 
+sandbox or discontinuing the sandbox.  
+ 
+
+60. The  applicant  is  required  to  maintain  records  of  acknowledgement  of  all  its  users 
+stating that obligations have been met, for a period of five years from the date of exit 
+from the sandbox.  
+
+ 
+
+RIGHTS AND OBLIGATIONS OF THE USER 
+
+ 
+61. Before  signing  up,  the  user  shall  read  the  full  documentation  provided  by  the 
+
+applicant and confirm that he/she is aware of the risks of using the solution. 
+ 
+
+62. The  applicant  is  required  to  furnish  complete  details  of  its  obligations  to  the  user 
+
+during the testing phase. 
+ 
+
+63. In the event the user encounters a serious issue or problem while using the solution, 
+
+the user shall report the same to SEBI, immediately.  
+
+ 
+
+ 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+13 | P a g e  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+REVOCATION OF THE APPROVAL 
+
+ 
+
+64. SEBI may revoke an approval, to participate in the sandbox, at any time before the 
+
+end of the testing period, if the applicant: 
+
+i)  Fails to carry out risk mitigates as mentioned in Paras 22-25 above. 
+
+ii)  Submits false, misleading or inaccurate information, or has concealed or failed 
+
+to disclose material facts in the applications; 
+
+iii) Contravenes any applicable law administered by SEBI or any applicable law in 
+
+India or abroad; 
+ 
+
+iv) Loss of reputation 
+
+v)  Is undergoing or has gone into liquidation; 
+
+vi) The digital security and integrity of the service or product is compromised and 
+
+the risk of a cyber-security attack is high. 
+ 
+
+vii) Carries on business in a manner detrimental to users or the public at large; or 
+
+ 
+
+viii)Fails to effectively address any technical defects, flaws or vulnerabilities in the 
+product, service or solution which gives rise to recurring service disruptions 
+or fraudulent activities.  
+ 
+
+ix) Fails to implement any directions given by SEBI. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+65. Further, severe penalty in addition to revocation of approval will be levied on those 
+firms which implement solutions in the Sandbox that, in spite of SEBI’s guidance and 
+caution: 
+
+i)  Undermine Know Your Customer (KYC) principles 
+ii)  Violate user’s/investor’s privacy 
+iii) Promote selling of Fraudulent/illegal products or services  
+iv) Promote mis-selling of products or services 
+v)  Violate Anti-Money Laundering (AML) norms 
+vi) Create difficulty in establishing an audit trail 
+vii) Create financial stability risk 
+viii) Are based on Intellectual Property theft 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+14 | P a g e  
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+66. Before revoking an approval to participate in the sandbox, SEBI shall: 
+
+i.  Give  the  participant  30 days’ notice in writing of its intention  to revoke  the 
+
+approval; and 
+
+ 
+
+ii. 
+
+iii. 
+
+Provide an opportunity for the participant to respond to SEBI on the grounds 
+for revocation. 
+ 
+Immediately suspend trials on new users i.e. no new users shall be permitted 
+to sign up for using/testing the solution. 
+
+67. Where any delay in revoking the approval would be detrimental to the interests of the 
+applicant, their users, the financial system or the public in general, SEBI shall revoke 
+the approval immediately and provide the opportunity for the participant to respond 
+after the effective date of revocation. If the response is accepted by SEBI, SEBI  may 
+reinstate the approval to participate in the sandbox. 
+
+68. Upon revocation of an approval, the participant must – 
+ 
+
+i) 
+
+immediately implement its exit plan to cease the provision of the product, process, 
+service or solution to new and existing users; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ii)  notify  its  users  about  the  cessation  and  their  rights  to  grievance  redressal 
+
+wherever applicable; 
+
+iii) comply with obligations imposed by SEBI to dispose of all confidential information 
+
+including user’s personal information collected over the duration of the testing; 
+
+iv) compensate any users who had suffered financial losses arising from the test in 
+accordance with the safeguards submitted by the participant  under paragraphs 
+22-25 above; and 
+
+v)  submit a report to SEBI on the actions taken, under paragraphs 49-51 within 30 
+
+days from the revocation. 
+ 
+
+vi) Comply with any other directions given by SEBI. 
+
+ 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+15 | P a g e  
+
+ 
+
+ 
+
+ADDITIONAL ISSUES FOR WHICH COMMENTS ARE BEING SOUGHT 
+
+ 
+
+ 
+
+69. Monitoring  and  administering  the  regulatory  sandbox  will  require  considerable 
+resources  from  SEBI.  Should  SEBI  charge  a  minimal  fee  for  every  applicant 
+participating in the sandbox? If yes, what should be the quantum of such a fee? If no, 
+why? Please justify your view with supporting rationale. 
+ 
+
+70. The  frequency  for  submission  of  interim  reports  should  be  such  that  SEBI  gets 
+adequate information and time to monitor the testing process while at the same time 
+not posing a hurdle or burden on the applicant’s testing process. What should be the 
+frequency for submission of interim reports? 
+ 
+
+71. For  a  rejected  application,  what  should  be  the  duration  of  the  cooling-off  period? 
+
+Please suggest a suitable time period with detailed rationale. 
+ 
+
+72. Any  other  comments  /  suggestions  that  SEBI  should  consider  for  encouraging 
+
+innovation through sandbox testing.  
+
+ 
+
+ 
+
+*** 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+16 | P a g e  
+
+ 
+
+ANNEXURE 1- REGULATORY SANDBOX APPLICATION FORM 
+
+ 
+
+Please note that the regulatory sandbox is meant to enable testing of innovative FinTech 
+solution that are regulated by SEBI.  For Clarification, if any Applicant may write to <email 
+id>  
+
+ 
+
+1.  Applicant’s Information 
+
+Name of the Organization 
+Address 
+Telephone No. 
+Website URL 
+SEBI Registration no. 
+Provide details of the fintech firms involved, if any 
+Name of the Authorized Representative 
+Designation 
+Contact No 
+Email id 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2.  Overview: Profile of the Applicant 
+
+Description 
+
+Response 
+
+Provide a brief description of the organization and its core 
+businesses including but not limited to: 
+
+registration with other regulators,  
+affiliation to prominent societies,  
+
+a. 
+b. 
+c.  Accreditations,  
+d. 
+e. 
+f. 
+
+significant achievements 
+financial standing including avenues for funding 
+Profile of key personnel 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sr. 
+No. 
+2.1 
+
+2.4 
+
+Sr. 
+No. 
+
+2.2  Does the applicant have presence in India? If yes then please 
+
+provide details. 
+
+2.3  Does the applicant’s business is already active abroad? If yes 
+
+then please provide details. 
+Current orders or proceedings against the applicant in India 
+and abroad (if any) 
+
+3.  About the proposed solution 
+
+Description 
+
+Response 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+17 | P a g e  
+
+ 
+
+ 
+
+3.1 
+
+Provide a short summary of the proposed solution to be tested 
+in the sandbox including but not limited to: 
+
+a.  Objective of the proposed FinTech solution or the 
+
+statement of purpose 
+
+b.  Key benefits to the users and markets 
+c.  Business Model, including asset deployment and sources 
+
+of revenue 
+
+d.  Target users 
+e.  Compliance obligations 
+f.  Time period for testing 
+
+3.2 
+
+Summary of technical Solution including but not limited to: 
+
+a.  Technical architecture 
+b.  Usage of Artificial Intelligence and Machine Learning, if 
+
+any 
+
+c.  Cyber resilience: VAPT results, if any 
+d.  Certification from Common Criteria Recognition 
+
+Arrangement (CCRA), if any 
+
+e.  Business Continuity Plan, if any 
+f.  Any other certifications, if any 
+
+3.3  Genuineness of innovation: Explain how applicant’s solution 
+
+constitutes a significantly different offering in the market place 
+
+3.4  Awareness of similar offering in other countries or for other 
+
+than securities/commodities markets 
+
+3.5  Timelines for pan-India Deployment post Sandbox testing 
+
+4.  Sandbox readiness 
+
+4.1 
+
+Illustrate the aspect of FinTech Solution that will be tested 
+during the Sandboxing 
+
+4.2  Mention the test criteria and expected outcomes 
+4.3  Describe the use case that you are proposing to test in the 
+
+sandbox. 
+
+4.4  Define success for a test. What are the Key Performance 
+
+Indicators that will indicate a successful test 
+Probable start and end date of sandbox testing 
+Customer Details including but not limited to: 
+
+4.5 
+4.6 
+
+a.  Number of participating customers 
+b.  Profile of customers (retail, institutional, etc.) 
+c.  Process for enrollment and acquisition of customers  
+d.  Requirement of KYC? 
+e.  User awareness required/conducted 
+f. 
+
+Is consent required /has consent been obtained? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+18 | P a g e  
+
+ 
+
+g.  Arrangements to limit loss if applicable e.g. Margin, stop 
+
+ 
+
+loss thresholds etc. 
+
+h.  User compensation if any? 
+i.  Value at risk per user 
+j.  Transaction thresholds per user 
+
+4.7  Risk assessment and mitigation options including but not 
+
+limited to: 
+
+a.  Failure of sandbox testing 
+b.  Financial loss to the customers 
+c.  Cyber attack 
+d.  AML and terrorism financing 
+
+ 
+
+4.8  Any legal and regulatory non-compliance for any other 
+
+regulator during the sandbox testing 
+
+ 
+
+ 
+
+5.1  Applicant’s legal and regulatory status (registration, licensing, 
+
+5.  Legal and Regulatory Assessment : other regulators 
+ 
+
+authorization, approval, recognition etc.) 
+Legal opinion sought on the proposed FinTech Solution, if any 
+
+5.2 
+5.3  Does the applicant currently have the relevant license to deploy 
+
+the proposed solution in the production environment? Please 
+provide the details. 
+
+6.  Deployment post-testing 
+
+6.1  Describe  how  the  regulatory  requirements  will  be  met  post 
+
+6.2 
+
+6.3 
+
+6.4 
+
+successful sandbox testing 
+Please provide a pan-India deployment strategy, post successful 
+Sandbox testing 
+Please provide monitoring strategy to monitor the outcomes in 
+the live scenario. 
+Please  provide  exit  and  transition  strategy  if  the  deployed 
+solution turns unviable. 
+
+7.  Relaxation of SEBI regulations and guidelines 
+7.1  Outline the  list of rules, regulation, guidelines, circulars etc. of 
+SEBI  that  you  feel  may  act  as  an  impediment  to  the  proposed 
+FinTech Solution, along with detailed rationale. 
+
+7.2  Does the applicant require SEBI to relax any specific regulatory 
+requirements  prescribed  by  SEBI,  for  the  duration  of  the 
+sandbox? Please provide the details along with rationale. 
+In the event of a successful test and before exit from the sandbox, 
+provide  details  on  how  the  applicant  intends  to  comply  with 
+SEBI’s regulatory requirements  
+
+7.3 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+19 | P a g e  
+
+ 
+
+Annexure 2- Regulatory Requirements for the Sandbox 
+
+ 
+
+ 
+
+ 
+
+Depending on the application of the participant and the proposed FinTech Solution, SEBI 
+shall  determine  the  specific  legal  and  regulatory  requirements  which  may  merit 
+relaxation during the sandbox testing. 
+
+The examples provided below are for illustrative purposes only and are not exhaustive. 
+
+ 
+
+REQUIREMENTS FOR WHICH RELAXATION WILL NOT BE CONSIDERED 
+ 
+
+Confidentiality of customer information  
+i. 
+ii. 
+Fit and proper criteria particularly on honesty and integrity  
+iii.  Handling of customer’s moneys and assets by intermediaries  
+iv. 
+v.  Risk checks (like price check, order value check, etc.)  
+vi. 
+
+Principles of KYC 
+
+Prevention of money laundering and countering the financing of terrorism 
+
+ 
+
+REQUIREMENTS THAT MAY MERIT RELAXATION 
+
+ 
+
+Track record 
+
+i.  Net worth 
+ii. 
+iii.  Registration fees 
+iv. 
+
+SEBI Guidelines, such as technology risk management guidelines and outsourcing 
+guidelines 
+Financial soundness 
+
+v. 
+
+Discussion Paper on Framework for Regulatory Sandbox 
+
+ 
+
+20 | P a g e  
+
+ 
+
+

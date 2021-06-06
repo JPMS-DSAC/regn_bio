@@ -1,0 +1,371 @@
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+Discussion paper on Co-location / Proximity hosting facility offered by the stock 
+
+exchanges 
+
+Objective  
+
+To  seek  public  comments  on  a  possible  solution  to  provide  greater  equality  and  fairness  in 
+order handling to the participants that do not use co-location services vis-à-vis participants that 
+place orders using automated trading system and are co-located at the stock exchange. 
+
+1.  Introduction 
+
+Adoption of various technological advancements in the Indian securities market has 
+1.1. 
+transformed the way trading takes place and has, in turn, resulted in the process becoming 
+easier, faster, transparent, and safer for the investors.  
+
+1.2.  However,  adoption  of  technological  advancements  in  securities  market  has  also 
+brought  to  fore  certain  new  challenges  for  market  participants,  investors  and  regulators. 
+This  paper  seeks  views  on  issues  related  to  one  such  recent  development  wherein  stock 
+exchanges  allow  stock  brokers  to  locate  their  trading  related  equipments  within  stock 
+exchange’s premises. 
+
+2.  Co-location 
+
+2.1. 
+Co-location  or  Co-hosting  is  a  service  offered  by  the  stock  exchange  (or  by  third-
+parties  appointed  by  the  stock  exchange)  to  its  stock  brokers  and  data  vendors  to  locate 
+their trading or data-vending systems within the stock exchange’s premises.  
+
+2.2. 
+The  concept  of  co-location  in  today’s  world  is  comparable  to  the  old  day’s  stock 
+exchange  trading  pit  /  floor  where  stock  brokers  used  to  locate  themselves  within  the 
+exchange premises to trade. Trading pits have been replaced with server farms which host 
+the  servers  of  the  trading  members.  The  facility  of  co-location  is  typically  subscribed  by 
+market  participants  that  deploy  latency  sensitive  strategies  viz.  High  Frequency  Traders, 
+Market Makers, etc.  
+
+2.3. 
+A  variant  of  co-location  facility,  commonly  known  as  Proximity  Hosting,  is  also 
+offered by the stock exchange or by third-party data centers wherein the trading or data-
+vending systems of the stock brokers / data vendors are located at close proximity to the 
+stock exchange’s premises and have a direct connectivity with the stock exchange trading 
+platform. 
+
+2.4. 
+Co-location is many times equated with high frequency trading as it has emerged as 
+a  solution  to  the  low-latency  requirement  of  High  Frequency  Traders.  The  growth  and 
+
+Page 1 of 6 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+success of the high frequency trading is largely attributed to their ability to react to trading 
+opportunities that may last only for a very small fraction of a second, and co-location with 
+its low latency has helped high frequency traders to capture such trading opportunities. 
+
+2.5.  Globally,  stock  exchanges  such  as  Tokyo  Stock  Exchange,  London  Stock  Exchange, 
+NASDAQ  OMX,  CBOE  Stock  Exchange,  Johannesburg  Stock  Exchange,  Taiwan  Stock 
+Exchange,  New  York  Stock  Exchange,  BM&FBovespa,  etc.,  offer  co-location  /  proximity 
+hosting to its stock brokers.  
+
+In  India,  BSE,  MCX-SX  and  NSE  lease  racks  to  their  stock  brokers  to  locate  trading 
+
+2.6. 
+servers within the exchange premises. 
+
+3.  Need For Speed? 
+
+3.1. 
+The  requirement  of  speedy  completion  of  the  process  of  trading  (i.e.  from  order 
+initiation to delivery of securities / funds) has propelled adoption of technology in securities 
+market. It may not be incorrect to say that the lesser time it takes to complete the process 
+of trading, the higher the probability of a trade going through.  Further, ‘speed’ at times is 
+also employed as a factor to create point-of-difference in the broking industry. The success 
+of trading and business models of some of the market participants such as high frequency 
+traders lies in the ability to receive information from and send orders to the stock exchange 
+as  fast  as  possible.  It  has  been  observed  that  investors,  apart  from  the  factor  of  cost 
+(brokerage), regard speed of access to the trading platform as an important factor in short-
+listing a stock broker.  
+
+3.2. 
+Typically, the time taken to place an order (TTotal) can be represented as summation 
+of time taken from dissemination of market data by the stock exchange till receipt of order 
+by the stock exchange from the stock broker.  
+
+TTotal =  Tdata + Tanalysis + Torder, 
+
+Where, Tdata = Time taken for the data disseminated by the stock exchange to reach stock 
+
+broker; 
+
+Tanalysis = Time taken by the stock broker to analyze the data and place order; 
+Torder = Time taken by the order of the stock broker to reach stock exchange. 
+
+3.3. 
+In cases where none of the participants use algorithmic trading (as was the case few 
+years  back  before  the  advent  of  algorithmic  trading),  Tanalysis  >>  Tdata  +  Torder,  as  Tanalysis  is 
+usually  in  the  range  of  seconds  while  Tdata  +  Torder  is  usually  in  milliseconds.  In  such  a 
+scenario  investors  are  not  highly  dependent  /  affected  by  the  latency  between  the  stock 
+broker  and  the  stock  exchange.  The  prime  focus  of  the  trading  community  till  some  time 
+back  was  to  reduce  Tanalysis  in  order  to  minimize  TTotal.  Usage  of  computers  /  trading 
+
+Page 2 of 6 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+algorithms has resulted in significant reduction in Tanalysis. As a result, the scenario changed 
+such that Tanalysis has became << Tdata + Torder.  
+
+3.4. 
+Algorithms used for the purpose of trading require fast connectivity with the stock 
+exchange in order to correctly price  orders and manage execution risk, and thereby, have 
+required minimizing the latency in receiving market data and transmitting order messages. 
+In  order  to  further  reduce  TTotal,  the  focus  of  the  trading  community  has  now  shifted  on 
+minimizing (Tdata + Torder). Co-location is being offered by the stock exchanges as a means to 
+further reduce such latency (Tdata + Torder).  
+
+3.5.  Until few years back, the stock brokers (and therefore the investors) broadly had the 
+following options to connect to the electronic trading platforms of the stock exchanges: (a) 
+Leased  line  connection  to  the  stock  exchange’s  PoP  (Point-of-Presence),  and,  (b)  VSAT 
+connection. It may be noted that the  different connectivity options demonstrate different 
+‘latency’  or  ‘roundtrip  latency’ on  account  of  multiple  factors  such  as  physical  distance  of 
+the stock broker from the stock exchange, nature of the transmission medium, number of 
+nodes between the source and the destination, amount of traffic, etc. (Roundtrip Latency is 
+the time taken from initiation of the order from the stock broker’s server till receipt of order 
+acceptance  confirmation  from  the  stock  exchange).  Distance  of the  stock  broker  from the 
+trading  engine  of  the  stock  exchange  is  considered  to  be  the  most  important  factor  that 
+determines latency between the stock broker and the stock exchange.  
+
+Right  from  the  days  of  pit-based  open  outcry  system,  investors  residing  at  places 
+3.6. 
+closer to the trading pit have enjoyed ‘low latency’ on account of physical proximity to the 
+stock  exchange’s  trading  system.  It  has  been  observed  that  a  stock  broker  situated  in 
+Mumbai  and  connected  through  leased  line  observes  an  average  roundtrip  latency  of  8 
+milliseconds.  Similar  figure  for  a  stock  broker  situated  in  New  Delhi  is  approximately  33 
+milliseconds  on  an  average.  VSAT  provides  a  relatively  slower  connection  as  average 
+roundtrip  latency  associated  with  it  is  approximately  680  milliseconds.  Thus,  even  before 
+co-location was introduced, parity with respect to latency did not exist. 
+
+3.7. 
+As  mentioned  above,  the  facility  of  co-location  /  proximity  hosting  envisages 
+minimizing the latency with a direct and / or private network connection to provide shortest 
+available  physical  distance  (cable  length)  between  the  trading  platform  of  the  stock 
+exchange and the trading / data vending systems of the stock brokers and data vendors. It is 
+observed  that  the  average  roundtrip  latency  associated  with  co-location  facility  is  2 
+milliseconds at one of the leading nationwide stock exchanges.  
+
+4.  Statistics on orders generated from the co-located space 
+
+4.1. 
+Advances in technology have fundamentally changed the way orders are generated 
+and executed in the market. A sizeable proportion of the total orders received by the stock 
+
+Page 3 of 6 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+exchanges  are  now  being  generated  by  algorithms.  Further,  such  increase  in  orders  from 
+trading algorithms is being contributed by orders generated from the co-located space. 
+
+4.2. 
+As may be seen from the following sample data sourced from the stock exchanges 
+for the month of February 2013, it is observed that  orders placed from terminals of stock 
+brokers  located  at  co-located  space  form  a  sizeable  chunk  of  the  total orders  received  by 
+the stock exchanges. 
+
+ 
+
+Orders  received  from  co-location  as  percentage  of  the  total  orders  received  by  the  stock 
+exchanges in their various segments in the month of February 2013 
+
+                                  Exchange 
+Segment 
+
+NSE 
+
+Cash Market (Equity) segment  73.88% 
+
+Equity Derivatives segment 
+
+94.16% 
+
+Currency Derivatives segment  26.05% 
+
+BSE 
+
+MCX-SX 
+
+7.06% 
+
+17.96% 
+
+N.A. 
+
+6.55% 
+
+15.71% 
+
+27.34% 
+
+5.   Perception of the market participants / regulators on co-location / proximity hosting 
+
+5.1.  High Frequency Trading and Co-location have received a lot of media and regulatory 
+attention  in the  recent past,  especially  post  the  May  06,  2010  Flash  Crash  in  US  Markets.  
+The discussions have primarily revolved around on whether high-frequency trading and Co-
+location add value to market quality. 
+
+5.2.  While  various  studies  across  the  world  have  indicated  that  such  technological 
+advances  improve  liquidity,  tighten  spreads,  etc.,  some  of  the  commonly  held  negative 
+perceptions with regard to the facility of co-location / proximity hosting are: 
+
+(a)  Co-located  market  participants  that  deploy  high  frequency  trading  algorithms  are 
+perceived  by  a  section  of  the  market  to  crowd-out  the  orders  of  participants  who  are 
+not  co-located.  They  also  hold the  view  that the  low-latency  advantage  when  coupled 
+with the capability of the high frequency algorithms to generate large number of orders 
+in a small time period has the potential to deny opportunity to the participants who are 
+not co-located.  
+
+(b) Further,  the  factor  of  closeness  to  the  stock  exchange’s  matching  engine  provides  co-
+located  trading  members  with  an  advantage  of  being  the  first  recipient  of  the  market 
+data and being among the first to place orders.  
+
+(c)  A section of the market views co-location facility as expensive and beyond the reach of 
+
+small participants on account of high fees charged by stock exchanges. 
+
+Page 4 of 6 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+(d) In addition to the above,  high frequency trading and co-location have been viewed by 
+
+some to contribute to the increased volatility in the securities market.  
+
+5.3. 
+Regulators  across  the  world  appear  to  be  broadly  considering  two  options  with 
+regard  to  co-location  –  (a)  prohibit  stock  exchanges  from  offering  co-location,  or  (b) 
+regulate the facility to ensure that the same is provided in fair, transparent and equitable 
+basis. Regulators in other jurisdictions such as SEC, CFTC, ESMA, ASIC, etc have engaged in 
+consultations  and  examination  of  the  various  issues  associated  with  the  facility  of  co-
+location.  International  Organization  of  Securities  Commissions  (IOSCO)  in  its  report 
+‘Regulatory Issues Raised by the Impact of Technological Changes on Market Integrity and 
+Efficiency’ dated October 2011, has discussed some of the concerns associated with the ‘co-
+location’.  IOSCO  has  inter-alia  recommended  in  the  said  report  that  regulators  should 
+require  the  trading  venue  operators  to  provide  fair,  transparent  and  non-discriminatory 
+access  to  their  markets  and  to  associated  products  and  services  (including  co-location 
+services). With regard to India, Forward Markets Commission (FMC) has recently prohibited 
+usage of co-location facility by the members of the commodities derivatives exchanges. 
+
+5.4. 
+SEBI has endeavoured that developments / innovations that may have market-wide 
+implications are not left unregulated and proper guidelines are in place to serve the interest 
+of  investors.  Given  the  vast  expanse of  our  country,  it  may not  be  incorrect  to  state  that, 
+irrespective of whether a stock exchange offers co-location or not, dissimilar latencies will 
+always  be  experienced  by  the  stock  brokers  /  investor  based  on  their  location.  As  it  is 
+understood  that  not  all  stock  brokers  /  investors  would  opt  for  co-location,  it  is  felt  that 
+focus should be to ensure that: 
+
+(a)  the facility is made available on a fair basis and on transparent terms.  
+
+(b) orders  generated  from  a  non-colocated  space,  on  reaching  the  stock  exchange,  are 
+provided  with  a  fair  chance  of  execution  vis-à-vis  orders  generated  from  co-located 
+space. 
+
+6.  Proposals 
+
+In view the above, comments are requested on the following proposals for the facility of co-
+location / proximity hosting: 
+
+6.1.  Stock exchange shall provide co-location / proximity hosting in a fair, transparent and 
+equitable manner, including ensuring that all stock brokers and data vendors located at co-
+location / proximity hosting experience similar latency between their systems and the stock 
+exchange’s trading platform. 
+
+6.2.  Stock exchange shall ensure that the size of the co-located / proximity hosting space 
+is  sufficient  to  accommodate  all  the  stock  brokers  and  data  vendors  that  are  desirous  of 
+
+Page 5 of 6 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+availing the facility. Stock exchange shall also avoid situation of monopolizing of rack space 
+by certain stock brokers or data vendors. 
+
+6.3.  With the view to ensure that stock brokers (and thereby the investors)  who are not 
+co-located  have  fair  and  equitable  access  to  the  stock  exchange’s  trading  systems,  stock 
+exchanges  facilitating  co-location  /  proximity  hosting  shall  implement  an  order  handling 
+architecture  comprising  of  two  separate  queues  for  co-located  and  non-colocated  orders 
+such  that  orders  are  picked  up  from  each  queue  alternatively.  It  is  expected  that  such 
+architecture  will  provide  orders  generated  from  a  non-colocated  space  a  fair  chance  of 
+execution  and  address  concerns  related  to  being  crowded-out  by  orders  placed  from  co-
+location. The proposed architecture is as described below: 
+
+6.3.1. 
+Stock exchange shall identify and categorize orders as (a) orders emanating 
+from servers of the stock broker placed at the co-location / proximity hosting facility, 
+and, (b) orders emanating from other terminals / servers of the stock brokers. 
+
+6.3.2. 
+maintained for each of the aforementioned categories of orders. 
+
+Separate  order-validation  mechanism  and  a  separate  queue  shall  be 
+
+6.3.3. 
+A  round-robin  methodology  shall  be  used  to  time-stamp  and  forward 
+validated  orders  from  the  two  order-queues  to  the  order-book,  i.e.,  if  an  order  is 
+taken  from  the  queue  of  orders  emanating  from  co-location  /  proximity  hosting 
+facility, then the next  order  shall be  from  the  other  queue.  In  the  event  any of  the 
+order-queues are empty, orders can be sequentially taken from the other queue till a 
+valid order arrives in the empty queue. 
+
+6.3.4. 
+the time priority during matching of orders.  
+
+The time-stamp given as per para 6.3.3 above shall be used to determine 
+
+Request for Public Comments 
+
+Public comments are invited on the above proposals. The comments may be emailed latest by 
+May 31, 2013 to maninderc@sebi.gov.in or sent by post to:- 
+
+Ms. Maninder Cheema 
+Deputy General Manager, 
+Market Regulation Department - Division of Policy, 
+Securities & Exchange Board of India, 
+SEBI Bhavan, Plot No. C4-A, "G" Block, 
+Bandra Kurla Complex, Bandra (East), 
+Mumbai, India - 400 051. 
+
+Page 6 of 6 
+
+

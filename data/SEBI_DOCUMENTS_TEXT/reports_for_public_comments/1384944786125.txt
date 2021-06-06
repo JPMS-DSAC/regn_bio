@@ -1,0 +1,2183 @@
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Securities and Exchange Board of India  
+
+ 
+
+ 
+
+Discussion Paper on 'Review of guidelines governing stock related 
+
+employee benefit schemes' 
+
+ 
+
+Background: 
+ 
+1.  SEBI  has  (i)  issued  SEBI  (ESOS  &  ESPS)  Guidelines,  1999  ("ESOS 
+
+Guidelines")  to  enable  listed  companies  to  reward  their  employees  through 
+
+stock  option  schemes  and  stock  purchase  schemes  and  (ii)  notified  SEBI 
+
+(Issue  of  Sweat  Equity)  Regulations,  2002  ("Sweat  Equity  Regulations")  to 
+
+regulate  issuance of  sweat  equity  shares  by  listed  companies  in accordance 
+
+with Section 79A of the Companies Act, 1956. The ESOS Guidelines provide 
+
+the  framework  for  two  stock  related  employee  benefit  schemes,  namely  (i) 
+
+“Employee  Stock  Option  Schemes”  –  “Part  A”  and  (ii)  “Employee  Stock 
+
+Purchase Scheme” – “Part B”. These Schemes can either be administered by 
+
+the company itself or through a Trust. 
+
+ 
+
+2.  Under  the  ESOS  Guidelines,  an  ESOS/ESPS  Trust  can  only  distribute 
+
+options/shares  to  its  employees  issued  by  the  company.  However,  ESOS 
+
+Guidelines,  till  recently,  were  silent  regarding  acquisition  of  shares  from 
+
+secondary market.  It  came to the notice of SEBI that some listed  companies 
+
+were  framing their own employees benefit schemes wherein  Trusts  were set 
+
+up  to  deal  in  their  own  securities  in  the  secondary  market,  which  was  not 
+
+envisaged within the purview of the ESOS Guidelines.  
+
+ 
+
+3.  It  was  apprehended  that  some  entities  may  frame  such  schemes  with  the 
+
+purpose  of  dealing  in  their  own  securities  with  the  object  of  inflating, 
+
+depressing, maintaining or causing fluctuation in the price of the securities by 
+
+engaging  in  fraudulent  and  unfair  trade  practices.  Such  dealing  in  the 
+
+company’s shares by the Trusts may also raise regulatory concerns regarding 
+
+compliance  with  SEBI  (Prohibition  of  Fraudulent  and  Unfair  Trade  Practices 
+
+ 
+
+Page 1 of 17 
+
+relating to the Securities Market) Regulations, 2003 and SEBI (Prohibition of 
+
+Insider Trading) Regulations, 1992.   
+
+ 
+
+4.  In  order  to  address  the  concerns  over  acquisition  of  shares  by  employee 
+
+welfare trusts from the secondary market, it was decided to prohibit the listed 
+
+companies from framing any employee benefit scheme involving acquisition of 
+
+own securities from the secondary market.  
+
+ 
+
+5.  Accordingly,  pursuant  to  the  approval  of  SEBI  Board  in  its  meeting  held  on 
+
+August  16,  2012,  SEBI  issued  a  circular  dated  January  17,  2013,  inter-alia, 
+
+prohibiting  secondary  market  acquisitions  by  employee  welfare  trusts  and 
+
+requiring  existing  employee  welfare  schemes  to  align  themselves  with  the 
+
+ESOS  Guidelines  by  June  30,  2013.  The  companies  having  non-compliant 
+
+schemes  were  directed  to  disclose  the  details  of  such  schemes,  their 
+
+beneficiaries and the holdings to stock exchanges within 30 days from date of 
+
+the circular.  
+
+ 
+
+6.  Subsequently,  representations  were  received  by  SEBI  from  various  industry 
+
+bodies  and  companies  citing  difficulties  in  ensuring  compliance  with  the 
+
+provisions of the aforesaid circular dated January 17, 2013. To address these 
+
+concerns, SEBI vide circular dated May 13, 2013 clarified, inter-alia, as under: 
+
+a.  The timeline for alignment was extended to December 31, 2013; 
+
+b.  Trusts  which  have  already  acquired  securities  of  the  company  from 
+
+secondary market before the date of first circular i.e. January 17, 2013 
+
+may  continue  to  hold  such  securities  beyond  December  31,  2013 
+
+provided such schemes have been aligned with the ESOS Guidelines; 
+
+c.  Non-ESOP  schemes  involving  securities  of  the  company  were 
+
+permitted  to  hold  the  securities  already  acquired  by  them  beyond 
+
+December 31, 2013 provided the schemes have been aligned or else 
+
+the  schemes  were  required  to  dispose-off  securities  of  the  company 
+
+by December 31, 2013; 
+
+d.  Additional  disclosures  regarding  details  of  schemes  to  the  stock 
+
+exchanges were prescribed in specified formats.   
+
+ 
+ 
+
+ 
+
+Page 2 of 17 
+
+Need for review: 
+
+ 
+
+7.  It  was 
+
+felt 
+
+that  secondary  market  acquisitions  by  Trusts  being  an 
+
+internationally  accepted  practice  should  be  considered  subject  to  necessary 
+
+safeguards  to  prevent  misuse.  It  was  also  noted  that  secondary  market 
+
+acquisitions allow companies to grant options to employees without having to 
+
+dilute  their  existing  share  capital.  Further,  it  was  also  recognized  that  there 
+
+are many kinds of employee benefit schemes involving own securities which 
+
+being outside the purview of extant ESOS Guidelines are unregulated. There 
+
+is also a need to provide for a suitable regulatory framework for such kind of 
+
+schemes. 
+
+ 
+
+8.  It was also felt that considering the provisions in Section 11A of the SEBI Act, 
+
+1992,  it  would  be  appropriate  to  convert 
+
+the  ESOS  Guidelines  into 
+
+Regulations.  
+
+ 
+
+Review process: 
+
+ 
+
+9.  Accordingly, a Group with representatives from corporates, industry body, and 
+
+trustee firms was formed by SEBI to deliberate on a framework for framing a 
+
+set  of  regulations  with  a  view  to  ensure  better  enforceability,  address  the 
+
+concerns  raised  with  regard  to  composition  of  employee  welfare  trusts, 
+
+disclosures, etc. and  to enable secondary market transactions with adequate 
+
+safeguards.  
+
+ 
+10. The  report  of  the  Group  was  placed  before  the  Primary  Market  Advisory 
+
+Committee  (PMAC)  of  SEBI  for  deliberations.  PMAC  suggested  some 
+
+improvisations  and  recommended  that  public  comments  be  sought  on  the 
+
+recommendations  of  the  report.  Accordingly,  various  issues  along  with  the 
+
+recommendations thereon are listed in the Annexure.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 3 of 17 
+
+Public comments: 
+ 
+11. Considering the importance of the stock related employee benefit schemes for 
+
+listed  companies,  public  comments  on  the  said  recommendations  in  the 
+
+Annexure  are  solicited.  Specific  comments/suggestions  as  per  the  format 
+
+given below would be highly appreciated.  
+
+ 
+
+Name of entity / person / intermediary:  
+ 
+
+ 
+
+Name of organization (if applicable) / investor: 
+ 
+
+ 
+
+Sr.No.  Pertains to serial number 
+-- of recommendation in 
+
+Proposed / 
+
+Rationale 
+
+suggested changes 
+
+ 
+
+Annexure in the 
+discussion paper 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12. Such comments may please be e-mailed on or before December 05, 2013, to 
+
+regsebs@sebi.gov.in or sent, by post, to:- 
+
+ 
+
+ 
+
+ 
+
+Shri. Amit Tandon 
+Deputy General Manager 
+Corporation Finance Department 
+Securities and Exchange Board of India  
+SEBI Bhavan 
+Plot No. C4-A, "G" Block 
+Bandra Kurla Complex 
+Bandra (East), Mumbai - 400 051 
+Ph: +912226449373/ +912226449334 
+ 
+ 
+
+************ 
+
+ 
+
+Page 4 of 17 
+
+Discussion 
+
+Existing 
+
+Sr. 
+No. 
+
+Point 
+
+Guidelines 
+Only ESOP 
+& ESPS 
+
+ The 
+
+Annexure 
+
+ 
+
+Recommendations 
+
+Rationale 
+
+The  trusts  which  are  set  up, 
+managed  or  financed  directly 
+or  indirectly  by  the  company 
+in  actual 
+and  which  deal 
+securities  of 
+the  company 
+should be regulated. 
+ 
+
+1  What 
+
+types  of 
+ESOP  Schemes 
+should 
+be 
+under 
+covered 
+proposed 
+new 
+Regulations 
+
+ 
+
+ 
+
+by 
+
+the 
+
+benefit 
+
+through 
+
+proposed 
+should 
+regulations 
+cover  all  the  schemes 
+for 
+of 
+‘employees’  which  are 
+set  up,  managed  or 
+financed 
+the 
+company  directly  or 
+indirectly 
+the 
+mechanism  of  a  Trust  
+and  which  deal 
+in 
+actual  securities  of  the 
+company  whether  by 
+of 
+way 
+purchase 
+from/sale 
+the 
+in 
+secondary  market  or 
+grant  of  shares  made 
+by the company.  
+ 
+
+ The 
+
+proposed 
+regulations  shall  not  be 
+made  applicable 
+to 
+Trusts/schemes  which 
+are  not  funded  by  the 
+company  or  not  having 
+any outstanding loan to 
+the  company  and  also 
+not 
+the 
+control/management  of 
+the company. 
+
+under 
+
+ 
+ 'Employees'  shall  not 
+
+include 
+promoters/persons 
+belonging  to  promoter 
+group  and  directors 
+holding, 
+or 
+indirectly,  more 
+than 
+10%  of  the  outstanding 
+equity  shares  of 
+the 
+company. 
+
+directly 
+
+ 
+separate 
+
+ A 
+
+section 
+should  be  carved  out 
+under 
+the  proposed 
+Regulations  for  Stock 
+Appreciation 
+Right 
+
+Page 5 of 17 
+
+(SAR)  Scheme.  Under 
+such  schemes,  a  Trust 
+purchases  shares  upon 
+grant  of  SARs 
+to 
+employees  and  sells 
+upon  vesting  of  SARs. 
+Employees 
+become 
+entitled  to  receive  the 
+appreciation 
+in  value 
+arising 
+from  sale  of 
+shares  acquired  under 
+the  Scheme  subject  to 
+a  grant  and  vesting 
+date to such employees 
+being  identified  in  the 
+Scheme 
+such 
+employees  being 
+in 
+employment  on  date  of 
+  Promoters 
+vesting. 
+should 
+be 
+to  such 
+beneficiaries 
+SAR scheme. 
+
+and 
+
+not 
+
+ 
+ The Regulations should 
+not  cover  the  following 
+Schemes involving:  
+ 
+a.  Phantom  options 
+which  do  not  involve 
+purchase  or  sale  of 
+Shares; and/or 
+
+ 
+
+b.  any  other  scheme 
+where  shares  of 
+the 
+company  are  neither 
+given  to  the  employee 
+nor  acquired  or  sold  by 
+the  Trust 
+the 
+giving 
+purposes 
+of 
+benefit 
+the 
+to 
+employees 
+  by  an 
+employer company. 
+
+for 
+
+ 
+ A 
+
+separate 
+
+section 
+should  be  carved  out 
+for  General  Employee 
+Benefit  Schemes  in  the 
+proposed Regulations. 
+   
+
+shall 
+
+ Beneficiaries  of  such 
+not 
+
+schemes 
+include 
+promoters/persons 
+belonging  to  promoter 
+
+No 
+provisions 
+
+the  shares  of 
+
+Incentive schemes connected 
+with 
+the 
+company  are  used  in  other 
+parts  of 
+the  world  as  an 
+effective  tool  to  attract  and 
+retain talent. 
+ 
+Retirement 
+if 
+dealing  in  securities  of  the 
+company,  to  be  covered  as 
+
+schemes, 
+
+2  How 
+
+would 
+Welfare  Scheme 
+like 
+the  ones 
+mentioned 
+below 
+be 
+covered? Should 
+there 
+a 
+different  sort  of 
+regulations 
+for 
+Trusts  covering 
+
+be 
+
+ 
+
+Page 6 of 17 
+
+below 
+
+General 
+
+ 
+a. 
+Employee 
+Benefit  Scheme:  
+Where  benefits 
+like 
+education, 
+scholarship, 
+medical,  etc  are 
+provided 
+to 
+employees using 
+appreciation 
+from  underlying 
+shares  or  from 
+other  funds  like 
+corpus, 
+in 
+investment 
+shares  of  other 
+companies, 
+mutual 
+fund, 
+FDs,  donations, 
+etc. OR  
+
+Retirement 
+b. 
+Benefit  Scheme:  
+Superannuation, 
+Provident  Fund, 
+Gratuity, etc. OR 
+
+c.  Any  other 
+such  employee 
+benefit scheme  
+
+be 
+
+ESOPs 
+can 
+administer
+ed  both  by 
+the 
+Company 
+and 
+through the 
+Trust 
+
+ 
+
+3  Mode  of  setting 
+up  of  schemes 
+viz. 
+
+Should  they  be 
+directly  granted 
+and 
+administered  by 
+the  company  or 
+should  there  be 
+a flexibility in the 
+to 
+Regulations 
+
+ 
+
+far  as  the  regulations  do  not 
+contravene 
+existing 
+statute. 
+
+any 
+
+ 
+
+group,  directors holding 
+directly  or 
+indirectly 
+more  than  10%  of  the 
+outstanding 
+equity 
+shares of the company. 
+
+ 
+
+under 
+
+ Retirement  Schemes 
+involving  securities  of 
+the  company  shall  be 
+covered 
+the 
+proposed regulations to 
+the  extent  the  norms, 
+prescribed  therein,  are 
+not  in  contravention  of 
+the  statute  governing 
+such schemes.  
+
+the  shares  of 
+
+Trust  mechanism  provides 
+better  corporate  governance 
+since 
+the 
+company would not belong to 
+the  company,  nor  would  they 
+be  under  the  control  of  the 
+Appropriate 
+promoters. 
+disclosures 
+the  stock 
+exchanges 
+investors 
+should be prescribed 
+
+to 
+and 
+
+ If 
+
+fresh  shares  are 
+
+issued:  
+
+Flexibility  should  be 
+available  for  grant  of 
+options directly to the 
+employees  or  though 
+Trust.  
+
+ 
+
+ If  shares  are 
+
+through 
+market purchase:  
+
+issued 
+secondary 
+
+Only option should be 
+through 
+Trust 
+mechanism.  
+
+Page 7 of 17 
+
+grant,  manage 
+and  administer 
+through a Trust 
+
+ 
+
+The  ESOP 
+Guidelines 
+provide 
+broad 
+guidelines 
+for 
+same 
+
+the 
+
+4  What  are 
+
+the 
+key  provisions, 
+duties 
+power, 
+to 
+which  need 
+be  captured 
+in 
+the 
+relevant 
+agreement 
+trust 
+including 
+deed  meant  for 
+administering 
+the 
+through 
+agencies/Trust 
+etc.  Supporting 
+explanation, 
+if 
+any 
+
+scheme 
+
+ 
+
+ 
+
+ The 
+
+could 
+
+agreement/Trust 
+deed should provide for 
+all  types  of  schemes.  
+There 
+be 
+additional  requirements 
+for schemes like SAR & 
+General 
+Benefit 
+Scheme.   
+ 
+
+should 
+the  minimum 
+ensure 
+
+The  Regulations 
+provide 
+for 
+requirements 
+effective governance.   
+ 
+ 
+
+to 
+
+ The 
+
+minimum 
+should 
+
+provisions 
+include  the following: 
+
+ 
+
+of 
+
+of 
+
+the 
+
+a)Details 
+the 
+scheme/s  proposed  to 
+be administered,  
+ 
+b)Constitution  of 
+trust,  
+ 
+c)Object and tenor,  
+ 
+d)Beneficiaries 
+(exclusion 
+promoters/persons 
+belonging  to  promoter 
+group,  directors holding 
+directly  or 
+indirectly 
+more  than  10%  of  the 
+outstanding 
+equity 
+shares  of  the  company 
+from 
+of 
+Beneficiaries),  
+ 
+e)Trustee 
+(appointment, 
+retirement),  
+ 
+f)Corpus/trust fund,  
+ 
+g)Manner 
+administering 
+scheme,  
+ 
+trustees 
+h)Powers  of 
+(Power 
+invest, 
+to 
+borrow, purchase & sell 
+shares in open market), 
+i) Rights of Trustee,  
+ 
+
+definition 
+
+of 
+the 
+
+details 
+
+Page 8 of 17 
+
+j) Liabilities of trustee, 
+  
+k)Procedure 
+and 
+manner 
+the 
+trust 
+property(ies) 
+would  be  dealt  with  on 
+its dissolution. 
+ 
+
+in  which 
+
+ Companies  shall  have 
+the  flexibility  of  adding 
+any other requirements;  
+Provided that no clause 
+in  the  deed  would  be 
+detriment to the interest 
+of  beneficiaries  and the 
+deed  should  be  self-
+contained  with  respect 
+to 
+of 
+beneficiaries' interest. 
+ 
+
+protection 
+
+Trust 
+
+shares  of 
+
+ Yes,  the  Trust  should 
+be  permitted  to  acquire 
+the 
+the 
+company  provided that 
+the 
+is 
+administering any of the 
+like  ESOP, 
+schemes 
+ESPS, 
+SAR 
+and 
+Benefit 
+General 
+the 
+Schemes 
+employees 
+the 
+company. 
+ 
+
+for 
+of 
+
+is 
+
+from 
+
+ Shareholders’  approval 
+to be obtained in cases 
+where  acquisition  of 
+shares 
+the 
+secondary  market.  The 
+should 
+shareholders 
+clearly 
+approve 
+maximum 
+of 
+% 
+secondary 
+market 
+purchases that could be 
+allowed 
+to 
+maximum 
+ceiling 
+proposed  herein  below. 
+Provided 
+no 
+approval 
+of 
+shareholders  would  be 
+required 
+the 
+purchases are made by 
+the Trust  out  of  its  own 
+funds  /  income  and  no 
+loans  are  outstanding 
+
+subject 
+
+that 
+
+ 
+
+if 
+
+Page 9 of 17 
+
+Only 
+provides 
+for  primary 
+allotment. 
+Secondary 
+market 
+purchases 
+prohibited 
+under  new 
+clause  22B 
+of  ESOS 
+Guidelines. 
+
+5  Whether 
+
+Secondary 
+Market 
+acquisitions 
+be 
+should 
+permitted 
+in 
+Company’s  own 
+related 
+or 
+entity’s 
+shares 
+for: 
+
+Employee 
+a. 
+Share 
+Benefit 
+Scheme  (ESOP 
+/ ESPS / SAR) 
+
+General 
+
+b. 
+Employee 
+Benefit Scheme 
+
+  
+c. 
+Retirement 
+Benefit  Scheme  
+ 
+
+ 
+
+ 
+
+Secondary  market  purchases 
+avoid  dilution  of  capital  and 
+do  not  impact  the  value  of 
+existing  shares  in  the  hands 
+of shareholders like EPS, etc.  
+is  very  crucial  and 
+This 
+important 
+in  cases  where 
+option of expansion of capital 
+base 
+to 
+corporate  or  is  not  desirable 
+from their perspective may be 
+on  account  of  undesirable 
+increase  in  capital  base  by 
+issue 
+shares, 
+servicing  a  bloated  equity, 
+etc. 
+
+is  not  available 
+
+fresh 
+
+of 
+
+at  the  time  of  making 
+the purchase of shares. 
+
+ 
+
+also 
+
+ Proviso to Section 77 of 
+the  Companies  Act, 
+1956 
+permits 
+funding by company for 
+its  own 
+purchase  of 
+shares  or 
+its  holding 
+company. 
+
+ 
+
+ Section  67  of 
+
+if 
+
+provides 
+
+the 
+Companies  Act,  2013 
+also 
+for 
+funding  by  company  in 
+accordance  with  any 
+scheme  approved  by 
+company 
+through 
+special  resolution  and 
+in 
+accordance  with 
+such  requirements  as 
+may  be  prescribed,  for 
+the  purchase  of,  or 
+subscription 
+fully 
+paid  up  shares  in  the 
+company  or  its  holding 
+the 
+company, 
+purchase  of,  or 
+the 
+subscription 
+the 
+for, 
+shares  held  by trustees 
+for  the  benefit  of  the 
+employees 
+such 
+the 
+shares  held  by 
+employee 
+the 
+company. 
+ 
+
+for, 
+
+or 
+
+of 
+
+6  Whether 
+
+on 
+
+there 
+should  be  any 
+limit 
+the 
+quantity 
+of 
+shares  acquired 
+through 
+Secondary 
+Market  for  both 
+ESOP  and  Non-
+ESOP  i.e.  other 
+welfare 
+Schemes? 
+yes 
+provide a limit 
+
+If 
+please 
+
+ 
+
+ 
+
+Secondary 
+market 
+purchases 
+prohibited 
+under  new 
+clause  22B 
+of  ESOS 
+Guidelines. 
+
+ There  should  be  limits 
+on  secondary  market 
+purchases 
+both 
+ESOP  and  Non  ESOP 
+schemes. 
+
+for 
+
+There has to be a limit based 
+upon  the  end  utilization  and 
+intent 
+since 
+acquisition  is  from  secondary 
+market 
+
+especially 
+
+ 
+
+from 
+
+ There shall be a ceiling 
+the  number  of 
+on 
+that  can  be 
+shares 
+the 
+acquired 
+to 
+secondary  market, 
+be expressed by way of 
+% of the paid up capital 
+of 
+the  company  as 
+detailed  below.  If  the 
+grant  under  the  various 
+Schemes  in  that  year 
+
+Page 10 of 17 
+
+such 
+
+limit, 
+exceeds 
+then  shares  should  be 
+acquired  by  way  of 
+fresh 
+of 
+shares by the company. 
+
+issuance 
+
+year 
+
+ 
+For 
+  ESOP  kinds  of  
+Schemes,  the  ceiling  on 
+secondary 
+market 
+acquisition should be: 
+ 
+ 2%  per  annum  of  the 
+paid  up  equity  capital 
+as  at  the  end  of  the 
+financial 
+and 
+subject 
+to  an  overall 
+cap  of  5%  of  the  paid 
+up equity capital. 
+ 
+case  of  General 
+In 
+Employees Benefit Trust,  
+ 
+ There  should  be  an 
+overall limit of 2% of the 
+paid up share capital on 
+secondary 
+market 
+purchases. 
+ 
+
+ The 
+
+un-appropriated 
+inventory  of  the  ESOP 
+Trust  to  be  capped  at 
+5% of paid up capital at 
+the end of any financial 
+year. 
+
+ 
+
+shall 
+for  all 
+
+ Further,  the  aforesaid 
+be 
+ceilings 
+applicable 
+the 
+employee  benefit  trusts 
+taken  together  at  the 
+company  level  and  not 
+at the level of individual 
+trust,  if  a  company  has 
+multiple 
+and 
+schemes.  
+
+trust 
+
+ 
+
+ Gifting  of  shares  by 
+Promoters  or  any  other 
+person to Trusts should 
+also be permitted. 
+ 
+
+7  Whether 
+
+there 
+should  be  a  limit 
+
+Proviso 
+to 
+Section  77 
+
+ The  limit  on  acquisition 
+secondary 
+
+through 
+
+There  should  not  be  any 
+specific  limits  mentioned  for 
+
+ 
+
+Page 11 of 17 
+
+funding 
+on 
+provided  by  the 
+Company 
+for 
+such  proposed 
+secondary 
+market 
+acquisition. 
+ 
+If  yes,  please 
+provide 
+proposed limit 
+
+ 
+
+to 
+
+8  What  should  be 
+norms  or  limits 
+(checks 
+& 
+balances) for the 
+Schemes 
+Specifically  with 
+respect 
+the 
+following? 
+ 
+a.  What  should 
+be  the  minimum 
+holding 
+period 
+for  purchase  of 
+shares  acquired 
+through 
+Secondary 
+Market to ensure 
+that  it  is  for  long 
+term  and 
+for 
+benefit 
+of 
+employees?  
+ESOP 
+•For 
+•For Non–ESOP 
+Should  there  be 
+a  complete  ban 
+on 
+of 
+sale 
+shares  by 
+the 
+Trust  specifically 
+if  the  intent  of 
+the  Trust  is  to 
+use 
+the 
+Secondary 
+Market 
+for 
+purpose 
+
+the 
+of 
+
+9 
+
+for 
+
+of 
+Companies 
+Act,  1956 
+also 
+permits 
+funding  by 
+company 
+only 
+acquiring 
+own shares 
+or  of 
+its 
+holding 
+company. 
+Provides 
+for 
+minimum 
+vesting 
+period  of  1 
+year 
+
+a 
+
+automatically 
+market 
+provides a check on the 
+level of funding. 
+
+ 
+
+it 
+
+provides 
+
+funding as this should be self 
+regulated  by  the  company  in 
+case 
+funds.  
+Irrespective  of  source  of 
+funding  to  the  trust,  funding 
+limit  has  to  be  linked  to  the 
+limit on acquisition. 
+
+ Minimum holding period 
+of  6  months  for  shares 
+acquired 
+through 
+secondary market. 
+ 
+
+This  will  ensure  that  there  is 
+no speculation.  
+
+shares 
+
+ However, this 6 months 
+period  shall  not  apply 
+are 
+where 
+transferred 
+to 
+employees  pursuant  to 
+exercise 
+Stock 
+options / SARs.  
+
+of 
+
+ 
+
+ No  off-market  transfer 
+should  be  permitted 
+to  employees 
+except 
+pursuant 
+the 
+Scheme. 
+
+to 
+
+ 
+
+ 
+
+No 
+provision 
+
+ No, there should not be 
+a complete ban on sale 
+of  shares  in  secondary 
+market by Trust. 
+ 
+
+ Sale  of  shares  should 
+be  allowed 
+the 
+purpose  of  achieving 
+the object of the Trust. 
+
+for 
+
+ 
+
+There  should  be 
+flexibility 
+available,  this  is  in  line  with 
+practices 
+followed 
+internationally  where  there  is 
+no 
+in 
+secondary market  
+
+restriction  on  sale 
+
+ For  SARs,  sale  of 
+be 
+
+shares 
+
+should 
+
+ 
+
+Page 12 of 17 
+
+-
+
+of 
+
+answer 
+
+objective 
+scheme 
+ 
+•  For  ESOP  
+•  For  Non 
+ESOP  
+ 
+If 
+to 
+above is no then 
+in 
+what 
+circumstances 
+should  the  Trust 
+be  allowed 
+to 
+sell 
+shares 
+acquired through 
+Secondary 
+Market? 
+
+allowed  on  vesting  of 
+SARs. 
+ 
+
+ For  General  Employee 
+
+its 
+/ 
+
+Benefits/Welfare 
+Trusts, the Trust should 
+internal 
+utilise 
+accruals 
+income 
+arising  out  of  dividend 
+on  underlying  shares, 
+interest on deposits etc. 
+for  undertaking  welfare 
+initiatives.  The  Trust 
+should  be  allowed  to 
+sell  shares  in  case  of 
+emergency  for  meeting 
+the  objectives  of 
+the 
+Trust.  Money  so  raised 
+shall be utilized within a 
+definite  time  period  as 
+stipulated  under 
+the 
+trust  deed.  The  same 
+should  be  approved  by 
+the  Trustees,  recording 
+their  reasoned  decision 
+with respect to the need 
+for  the  funds  to  meet 
+their  object  under  the 
+welfare  schemes  and 
+filing 
+the  same  with 
+Stock exchanges. 
+
+ 
+
+to 
+
+ The  Trust  should  be 
+allowed 
+also 
+participate in other exits 
+available 
+to 
+shareholders 
+like  buy 
+back and open offer. 
+
+ 
+
+ Necessary  disclosures 
+should  be  made  under 
+the 
+Insider  Trading 
+Regulations. 
+
+ 
+
+ Exemptions 
+
+to 
+
+be 
+provided 
+for  cashless 
+exercise  of  options  by 
+employees and winding 
+up the scheme. 
+ 
+
+10 
+
+If  the  Scheme  is 
+set  up  under  a 
+Trust whether an 
+
+No  specific 
+provision 
+
+ Independent 
+
+trustees 
+should  be  appointed.  
+Any  of 
+following  
+
+the 
+
+It  is  important  ensure  and 
+demonstrate  independency  in 
+the 
+and 
+the  Trust.  
+governance  of 
+
+administration 
+
+ 
+
+Page 13 of 17 
+
+Independent 
+(s) 
+Trustee 
+be 
+should 
+to 
+appointed 
+administer 
+it?  
+What  should  be 
+the  parameters 
+for  appointment 
+of 
+such 
+Independent 
+Trustee 
+
+No 
+provision 
+
+11  How  should  the 
+held 
+the 
+be 
+
+shares 
+under 
+Schemes 
+classified 
+(Promoter 
+/ 
+Public)?  Should 
+it  be  dependent 
+on  the  mode  of 
+setting  up  of  the 
+Schemes? 
+
+ 
+
+ 
+
+Independent  Trustee  is  one 
+mechanism  of  ensuring  the 
+same. 
+
+of 
+
+persons  or  entity  can 
+the 
+be  appointed  at 
+discretion 
+the 
+Remuneration 
+Committee 
+Company 
+Independent trustees: 
+ 
+a.  An 
+
+Independent 
+
+the 
+as 
+
+of 
+
+Non-Executive 
+Director 
+company; 
+ 
+
+of 
+
+the 
+
+b.  A 
+
+Professional 
+familiar 
+with 
+Employee welfare ; 
+
+ 
+c.  A 
+
+Professional 
+with 
+the 
+
+familiar 
+operation  of 
+Stock Markets; 
+
+ 
+
+d.  Professional  Trustee 
+
+Company.  
+
+ Shares  held  by 
+
+the 
+Trust should not be part 
+of the public float which 
+needs to be maintained 
+at  minimum  25%,  as 
+these  shares  are  not 
+available  to  the  public 
+freely. 
+ 
+
+prevent  misuse 
+
+To 
+of 
+Employee  Trusts  as  alternate 
+modes for promoter holding 
+
+ Even 
+
+though 
+
+independent, 
+
+trustees 
+are 
+the 
+shares  held  by  Trust 
+should  be  disclosed 
+along  with  promoter 
+holding.  Hence,  in  the 
+shareholding 
+pattern 
+filed under clause 35 of 
+the  Listing  Agreement, 
+it  should  be  shown 
+separately 
+under 
+Promoter and Promoter 
+Group.  The  intention  is 
+that the Trust holding is 
+not  considered  as  non-
+promoter  holding  (i.e. 
+public  float)  so  long  as 
+the  shares  are  held  by 
+Trust. 
+ 
+
+Page 14 of 17 
+
+ Any 
+
+Trust/scheme 
+which 
+is 
+funded/managed/contro
+lled  by 
+the  company 
+shall  not  be  eligible  to 
+exercise  voting  rights 
+on  the  shares  of  the 
+company held by them. 
+
+ 
+
+ Despite 
+
+required 
+
+such 
+characterisation, 
+the 
+trustees  should  neither 
+be  subjected 
+to  any 
+liability  of  a  Promoter 
+nor  be 
+to 
+comply  with  obligations 
+as 
+promoters  with 
+regard  to  triggering  of 
+‘Open  Offer’,  breach  of 
+creeping 
+acquisition 
+limit  and  other  liabilities 
+under 
+the  Takeover 
+Regulations  which  are 
+typically  applicable 
+to 
+promoters  and  PACs. 
+Further, 
+no 
+enforcement 
+proceedings  shall  be 
+initiated  against 
+the 
+Trust merely because it 
+is categorised as a part 
+of 
+the 
+promoters/promoter 
+group. Necessary carve 
+outs should be provided 
+the 
+in 
+respective 
+applicable 
+regulations 
+to amply clarify this.  
+
+ 
+
+ Also, 
+
+in 
+
+the  event 
+promoter  holding  in  the 
+is  already 
+company 
+75%, 
+the  Trust 
+cannot  acquire  any 
+shares 
+the 
+secondary market.   
+
+from 
+
+then 
+
+ 
+ When 
+
+the 
+
+Trust 
+transfers  the  shares  to 
+the  employees  upon 
+exercise of option, then, 
+such 
+shares  would 
+automatically  become 
+part 
+public 
+
+of 
+
+ 
+
+Page 15 of 17 
+
+No 
+provision 
+
+12  What  kinds  of 
+the 
+details  on 
+scheme  should 
+be 
+disclosed 
+publicly  (e.g.  to 
+stock 
+exchange)? 
+What  ought 
+be 
+continuous 
+disclosure 
+requirements 
+the 
+and 
+periodicity 
+for 
+such disclosures 
+
+to 
+the 
+
+ 
+
+is  critical 
+
+to  distinguish 
+It 
+between 
+and 
+promoter  obligations.    Hence 
+the proposed carve out. 
+
+disclosures 
+
+shareholding.  
+ 
+
+ Even where the Trust is 
+not  a  Person  Acting  in 
+Concert  (PAC)  –  The 
+be 
+Trust 
+subjected 
+all 
+Insider 
+disclosures  of 
+Trading  as  it  applies  to 
+Insiders / Promoters.  
+ 
+
+would 
+to 
+
+ The  Trust  would  have 
+to  abide  by  the  Insider 
+Trading 
+Regulations 
+such  as  no  purchase  / 
+sale  during  Trading 
+Window Closure period. 
+
+ 
+
+ However, 
+
+other 
+and 
+obligations 
+the 
+responsibilities  of 
+promoters/  PACs 
+in 
+terms  of  open  offer, 
+disclosures 
+under 
+takeover 
+etc. 
+should  not  apply  to  the 
+Trust or the Trustee. 
+ 
+
+code 
+
+13  Any  clause(s)  of 
+SEBI 
+
+existing 
+ESOP 
+that 
+Guidelines 
+need 
+may 
+amendment 
+in 
+the  light  of  the 
+recent 
+developments 
+and 
+suggested 
+revised clause 
+
+the 
+
+ 
+
+ 
+
+Not 
+applicable 
+
+Amendment 
+to 
+following clauses: 
+
+the 
+
+ The Regulations should 
+also allow that when an 
+employee  who 
+has 
+been granted options is 
+transferred  or  deputed 
+to  a  fellow  subsidiary  / 
+an  Associate  of 
+the 
+Company 
+prior 
+to 
+vesting  /  exercise,  the 
+vesting  /  exercise  shall 
+continue  as  per 
+the 
+terms of the Grant.   
+ 
+
+provide 
+
+flexibility 
+to 
+
+to 
+To 
+companies 
+transfer 
+employees  to  associates  as 
+the  companies  may  like  to 
+make strategic investments in 
+Associates and may not want 
+to deprive such employees of 
+the benefits of the company’s 
+employee  benefits  schemes 
+as  the  employee  benefits  of 
+this  nature  would 
+turn 
+make  positive  impact  on  the 
+growth of the company. 
+
+in 
+
+ The 
+
+‘Stock 
+term 
+Rights’ 
+Appreciation 
+and ‘General Employee 
+Benefit’ 
+be 
+separately  defined  and 
+necessary 
+regulations 
+governing  them  should 
+be incorporated. 
+
+should 
+
+ 
+
+Page 16 of 17 
+
+ For 
+
+accounting 
+treatment, 
+cross 
+a 
+reference shall be given 
+to  the  Guidance  Notes 
+on 
+Accounting 
+Treatment  of 
+share 
+based  compensation  to 
+employees,  issued  by 
+the 
+of 
+Chartered  Accountants 
+instead of defining them 
+in 
+proposed 
+Regulations.   
+
+Institute 
+
+the 
+
+ 
+
+under 
+
+ Retirement  Schemes 
+involving  securities  of 
+the  company  shall  be 
+covered 
+the 
+proposed regulations to 
+the  extent  the  norms, 
+prescribed  therein,  are 
+not  in  contravention  of 
+the  statute  governing 
+such schemes. 
+ 
+
+ There  should  be  one 
+Regulation 
+umbrella 
+the 
+encompassing  all 
+employee 
+benefit 
+schemes  like  i)  ESOP 
+ii)  ESPS  iii)  SARs  and 
+iv)  Employee  Welfare 
+Schemes. 
+ 
+
+Not 
+Applicable 
+
+14  Any 
+
+other 
+
+aspects or 
+which 
+matter 
+should 
+be 
+considered while 
+drafting  the  new 
+omnibus 
+Regulations 
+
+provide 
+
+To 
+smoother 
+transition  and  yet  enable 
+regulation as envisaged. 
+
+ 
+
+ 
+ 
+
+ 
+
+ In  order  to  obviate  the 
+hardship  that  may  be 
+caused to the corporate 
+to  migrate  to  the  new 
+Regulations, 
+Corporates  should  be 
+given 
+years 
+transition period.  
+
+a 
+
+2 
+
+_____***_____ 
+
+Page 17 of 17 
+
+

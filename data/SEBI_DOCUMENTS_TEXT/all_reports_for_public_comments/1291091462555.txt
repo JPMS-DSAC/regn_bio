@@ -1,0 +1,580 @@
+Securities  and Exchange Board of India 
+
+ 
+
+Consultative Paper 
+
+amendments to SEBI  
+
+on 
+
+ 
+
+(Prohibition of Insider Trading) Regulations 1992 
+
+ 
+ 
+1.   On  1st  January  2008,  SEBI  came  out  with  a  consultative  paper  to  introduce 
+“short swing profit” regulations by amendment to the SEBI (Prohibition of Insider 
+Trading) Regulations 1992 and sought public comments on the same. In addition 
+to the proposal of 1st January, public comment is being sought on several other 
+proposed amendments to the regulations.  
+
+ 
+2.  Amendments were carried out in 2002 to the SEBI (Prohibition of Insider Trading) 
+Regulations 1992 (the regulations) to introduce a wide range of prophylactics 
+and corporate governance norms.  
+
+3.  Over the course of the past few years since the amendment, there have been 
+some new learnings in terms of the way the regulations have played out in the 
+market.  The  key  amendments  brought  in  processes  which  would  reduce  the 
+possibilities of insider trading by means of an institutionalized methodology e.g. 
+pre-clearance of trades, black-out  windows  of  trading,  disclosure  of  buy/sell  by 
+certain  insiders,  appointment  of  compliance  officer  and  a  catena  of  other 
+provisions.  
+
+4.  There  have  been  several  instances  of  persons  of  high  integrity  committing 
+unintended violations of these provisions. Thus, we need to be sensitive to the 
+
+ 
+
+ 
+
+ 
+
+-1- 
+
+           
+
+Securities and Exchange Board of India
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+fact that perhaps the norms have been set so high that even experts are unable 
+to  keep  track  and  be  in  compliance  with  these  standards.  This  is  an  important 
+issue as criminal jeopardy is attached to such corporate governance violations. In 
+addition, there is a need to move towards a more principle based approach to 
+regulations rather than a rule based approach, particularly in matters of corporate 
+governance. 
+
+ 
+
+5.  In addition, some regulations are also proposed to be introduced.  
+
+ 
+Background  
+
+6.  The  2002  amendments  to  the  Regulations  provide  extensive  suggestions  and 
+regulations.  Most  of  the  good  governance  provisions  are  provided  for  as 
+mandatory provisions. Briefly, the good governance regulations provide for: 
+
+a) Officer, director and substantial shareholder to disclose their holding on 
+certain events or at certain intervals. 
+b) Appointment of a compliance officer. 
+c) Setting forth policies and procedure to restrict the possibility of abuse of 
+insider trading. 
+d) Monitoring and pre-clearance of trades by the designated persons. 
+e) Restrict trading by such insiders within a certain period of time i.e. 
+before corporate announcements, buybacks etc. are made. 
+f) The company has to convey all the significant insider activity and 
+corporate disclosure in a uniform publicly accessible means to the public – 
+and to the stock exchange. 
+g) Chinese walls within a firm to prevent one part of the firm which deals in 
+sensitive information from going to other parts of the firm which have an 
+inherent conflict of interest with such other parts. 
+h) Minimum holding period of securities by insiders. 
+i) No selective disclosure to analysts. Wide dissemination of information. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+-2- 
+
+           
+
+Securities and Exchange Board of India
+
+7.  Provided  below  is  an  analysis  of  some  of  the  provisions  of  good  governance 
+
+regulations and proposals for amendments. 
+
+Officer, director and substantial shareholder to disclose their holding on 
+certain events or at certain intervals. 
+
+8.  There should be some coordination between the requirements of acquisition/sale 
+of  shares  reported  in  these  regulations  with  the  requirements  of  the  takeover 
+regulations. In fact the takeover reporting is broader since it mandates reporting 
+by any person over certain thresholds and also requires reporting by a group – a 
+concept  not  introduced  in  these  Regulations.  However,  the  insider  trading 
+Regulations  provide  for  disclosure  of  smaller  amounts  and  provides  for 
+disclosure  on  selling  shares  (something  which  the  takeover  code  does  not 
+mandate).  
+Proposal:  It  is  suggested  that  a  purchase  disclosure  made  under  either 
+regulations (with the same or higher level of disclosure) should be deemed to be 
+is  also  proposed 
+good  disclosure  under 
+the 
+harmonization between the two in terms of threshold limits set.  
+Regulatory Impact Assessment: As there is a proposal to harmonise the two 
+regulations, there is expected to be neither a substantial change in the burden on 
+insiders nor will there be a dilution of the rights of investors. To the extent of 
+deemed disclosure, there will be a reduction in cost without any reduction in 
+benefit to investors. 
+
+the  other. 
+
+It 
+
+to 
+
+increase 
+
+Restriction on trading by insiders within a certain period of time i.e. before 
+corporate announcements, buybacks etc. are made. 
+
+9.  The  wordings  of  the  regulations  may  freeze  trading  in  sometimes  rather  large 
+windows. The Regulations should not asphyxiate legitimate trading by insiders. 
+As  trading  by  insiders  and  employees  aligns  their  interests  with  those  of  the 
+company and should be encouraged if there is no improper behaviour. Provided 
+below are the relevant clauses pertaining to the trading window: 
+
+ 
+
+ 
+
+ 
+
+-3- 
+
+           
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+3.2 Trading window 
+
+3.2.1 The company shall specify a trading period, to be called 
+"Trading Window", for trading in the company’s securities. The 
+trading window shall be closed during the time the information 
+referred to in para 3.2.3 is unpublished. 
+3.2.2 When the trading window is closed, the employees / directors 
+shall not trade in the company's securities in such period. 
+3.2.3 The trading window shall be, inter alia, closed at the time of:- 
+(a) Declaration of Financial results (quarterly, half-yearly and 
+annual) 
+(b) Declaration of dividends (interim and final) 
+(c) Issue of securities by way of public/ rights/bonus etc. 
+(d) Any major expansion plans or execution of new projects 
+(e) Amalgamation, mergers, takeovers and buy-back 
+(f) Disposal of whole or substantially whole of the 
+undertaking 
+(g) Any changes in policies, plans or operations of the 
+company 
+
+10. Issuance of (non cash) bonus/rights shares may have no real effect on the price 
+of the security and therefore there is no need to have an automatically restricted 
+window for that purpose. Since the list given in clause 3.2.3 is inclusive, where 
+the  management  believes  that  such  issue  will  be  in  fact  price  sensitive,  they 
+would be free to create an appropriate window freeze.  In addition sub-clauses 
+(d) to (g) above appear broad and could cause unnecessary problems. To give 
+an example, a company which makes a large gas find, in one grid, does not want 
+to disclose that fact so that it can buy the neighbouring grids at a bargain price. It 
+therefore,  for  a  valid  business  purpose  keeps  the  find  a  secret  for  six  months. 
+Even though the directors who know about the find would be expressly prohibited 
+from trading in the securities under the substantive provisions of the regulations, 
+
+ 
+
+ 
+
+ 
+
+-4- 
+
+           
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+all employees (who do not know) too would be barred from trading for six months 
+in the shares of the company.  An auto company comes out with secretive plans 
+for  introducing  ‘new  age’  models  almost  every  month.  Such  companies  would 
+never allow employees to trade in their shares because there is a closed window 
+for  any  ‘execution  of  new  projects’.  This  does  not  in  any  way  effect  the 
+substantive  provisions  which  restrict  insider  trading  –  which  will  of  course 
+continue to be strictly  prohibited. 
+Proposal: It is proposed that the phraseology of the above clauses be tightened 
+so  that  harmless  transactions  are  no  implicated  in  the  prohibitions  imposed.  In 
+addition, issue of bonus shares being a book entry, may have no impact on the 
+price  (there  is  correlation  rather  than  causal  connection  if  any),  reference  to 
+bonus issue and rights issues may be removed from the list. Management of a 
+company  would  in  any  case  create  such  window  freeze,  where  it  believes  that 
+such freeze would be necessary. This would be in line with a principles based 
+approach rather than a rule based approach.  
+Regulatory  Impact  Assessment:  Presently,  the  regulations  appear  rigid  and 
+broad  and  thus  restrict  harmless  acts  of  a  class  broader  than  classic  insiders. 
+Also certain non-price sensitive information invokes trading window bans. In both 
+cases  the  costs  outweigh  any  regulatory  benefits  and  are  proposed  to  be 
+rationalized and made more principle based.  
+
+Pre clearance of trades 
+
+11. Certain  provisions  are  made  for  clearing  of  trades  if  certain  officers/employees 
+engage in trading of shares of their own company. To cite from Schedule I, Part 
+A. 
+
+“3.3.1  All  directors/officers/designated  employees  of  the  company  who 
+intend  to  deal  in  the  securities  of  the  company  (above  a  minimum 
+threshold  limit  to  be  decided  by  the  company)  should  pre-clear  the 
+transactions as per the pre-dealing procedure as described hereunder. 
+
+ 
+
+ 
+
+ 
+
+-5- 
+
+           
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+3.3.2  An  application  may  be  made  in  such  form  as  the  company  may 
+notify  in  this  regard,  to  the  Compliance  officer  indicating  the  estimated 
+number  of  securities  that  the  designated  employee/  officer/  director 
+intends  to  deal  in,  the  details  as  to  the  depository  with  which  he  has  a 
+security account, the details as to the securities in such depository mode 
+and  such  other  details  as  may  be  required  by  any  rule  made  by  the 
+company in this behalf. 
+4.1 All directors/officers /designated employees shall execute their order in 
+respect of securities of the company within one week after the approval of 
+pre-clearance is given. If the order is not executed within one week after 
+the approval is given the employee/ director must pre clear the transaction 
+again. 
+4.2  All  directors/officers 
+their 
+investments in securities for a minimum period of 30 days in order to be 
+considered  as  being  held  for  investment  purposes.  The  holding  period 
+shall also apply to subscription in the primary market (IPOs). In the case of 
+IPOs,  the  holding  period  would  commence  when  the  securities  are 
+actually allotted. 
+
+/designated  employees  shall  hold 
+
+12. Once  securities  are  pre-cleared,  there  is  no  necessity  of  prescribing  just  one 
+week  for  the  trades  to  occur.  This  would  expose  the  employees  /  officers  to 
+unnecessary market timing risk. Experience from the market seems to suggest 
+that it is not uncommon in large institutions for officers to get their approval for 
+trading after several weeks or even months from the date of application. Given a 
+one week window to execute their orders would penalize employees with market 
+timing risk while trading in their own company’s stock.  
+Proposal:  The  company  should  be  free  to  determine  their  own  methodology 
+within  an  outer  time  frame.  The  window  permitting  execution  of  trades  may  be 
+changed  to  4  weeks  or  such  shorter  period  as  may  be  prescribed  by  the 
+company through internal policy. 
+
+ 
+
+ 
+
+ 
+
+-6- 
+
+           
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Regulatory Impact Assessment: Presently, the regulations appear restrictive 
+and thus impose a risk on employees to transact within a short window after 
+approval is received from the company. This exposes the employee to sell at 
+possibly inopportune times or restart the long process of obtaining another 
+permission. It is proposed to rationalize the trading window to reduce this market 
+risk which may be decided by a company with an outer limit. Thus where 
+companies are smaller and more responsive they may choose to retain a shorter 
+window, while slower/larger companies may choose to retain a longer duration 
+window for employees.  
+ 
+Designated or qualified brokers. 
+
+13. To  facilitate  compliance  with  the  new  reporting  of  transactions,  issuers  should 
+either designate a single broker through whom all transactions in issuer stock by 
+insiders must be completed or require insiders to use only brokers who will agree 
+to the procedures set out by the company. A designated broker can help ensure 
+compliance  with 
+the  company’s  pre-clearance  procedures  and  reporting 
+obligations  by  monitoring  all  transactions  and  reporting  them  promptly  to  the 
+issuer.  If  designating  a  single  broker  is  not  feasible,  issuers  should  require 
+insiders to obtain a certification from their broker that the broker will: 
+
+• 
+
+• 
+
+Verify with the issuer that each transaction entered on behalf of the insider 
+was precleared; and 
+Report immediately to the issuer the details of each of the insider’s 
+transactions in the issuer’s securities. 
+
+Proposal: It is proposed that the regulations be amended to introduce either 
+designated brokers’ empanelment or building a reporting system between a 
+company and specified brokers. Public comments may address the desirability of 
+such introduction as also which method may be specified. 
+Regulatory Impact Assessment: While imposing either standard proposed is 
+likely to impose some additional costs in terms of flexibility to execute trades by 
+
+ 
+
+ 
+
+-7- 
+
+           
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+insiders, the benefits of a closer connection between the executing broker and 
+the company would likely exceed such costs. 
+
+Derivatives amendments 
+
+14. Parts of the regulations refer to ‘shares’ instead of ‘securities’ for the purpose of 
+disclosures. For instance, one could, using derivatives, economically buy/sell the 
+shares without physically trading in those shares. Similarly, one can easily create 
+synthetic  securities  with  the  same  (or  higher)  economic  impact  as  an  equity 
+share  of  a  company  often  with  a  high  leverage.  By  reclassifying  shares  into 
+securities for the purpose of disclosure, one can eliminate the problem because 
+securities  are  defined  to  include  equity,  quasi-equity,  derivatives  and  any 
+combination  of  the  three.  Pure  debt  instruments  can  be  excluded  specifically 
+from the disclosure regulations, while they would continue to be included in the 
+substantive violation provisions of Regulations 3 and 4. Thus an insider holding 
+debt, and while aware of a problem in the solvency/rating of the company, sells 
+such debt securities would continue to be liable under the prohibition.  
+
+Proposal: It is proposed that the regulations be amended to broaden the class of 
+securities beyond shares as the present regulations leave out disclosure of a key 
+means of taking an exposure to the economic interest in shares and that too on a 
+leveraged basis (i.e. higher exposure).  
+Regulatory Impact Assessment: The drafting appears to miss the disclosure of 
+derivatives positions by insiders as exchange based derivatives trading began 
+only in June of 2000. The proposal corrects this important shortcoming in the 
+securities market regulation where the regulation.  
+
+Tippee liability 
+
+15. The regulations prohibit persons from tipping people about inside information by 
+insiders i.e. the tipper. However, there seems to be no liability for a person who 
+improperly receives a tip i.e. a tippee from trading. There is a vague prohibition 
+
+ 
+
+ 
+
+ 
+
+-8- 
+
+           
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+against  ‘procurement’  of  information.  However,  it  does  not  clearly  prohibit  a 
+tippee from trading. 
+Proposal: It is proposed that the language of the regulation may be improved by 
+way of clarification to specifically penalize a tippee of information from trading.  
+
+The penal clause 
+
+16.  Regulation 14 creates a substantive violation under S. 24 of the Act so that one 
+can  in  theory  go  to  jail  for  10  years  for  violating  simple  or  process  oriented 
+provisions. 
+
+Proposal: Presently, the corporate governance standards contained in 
+Regulations 12 and 13 is made a violation of not only S. 11 but also of S. 24 viz. 
+criminal prosecution. It is recommended that such a harsh consequence for 
+process based violations is inappropriate. It is proposed that criminal penalties 
+attached to corporate governance measures may be deleted while the other 
+powers of monetary penalties and directions are continued. In addition it is 
+proposed to let companies make a standardized disclosure in their annual report 
+as to how much of the Schedule they are not in compliance with. This will allow 
+the markets to decide whether to economically  penalise companies which do not 
+have these process oriented safeguards in place and will take us a step forward 
+towards the Efficient Capital Markets Hypothesis. It goes without saying that 
+criminality will continue to attach to substantive violation of insider trading 
+prohibitions. 
+Regulatory Impact Assessment: The costs of criminal sanction on lack of 
+proper processes and corporate governance employed appears excessive and 
+disproportionate to the violation and the proposal will rationalize the 
+proportionality attached to violations by restricting them to monetary penalties 
+and directions instead of criminal sanction.  
+
+Disclosure - key means of enforcement of process 
+
+ 
+
+ 
+
+ 
+
+-9- 
+
+           
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+ 
+
+17. Standards of corporate governance should be left at the helm of the managers of 
+the  company.  What  should  be  mandated  should  be  a  statement  in  the  annual 
+report of the degree of compliance with the standards set forth in the Schedule. 
+Thus  companies  which  do  not  follow  corporate  governance  guidelines  in 
+substance would be penalized by its shareholders. 
+Proposal: There should be a disclosure standard on which areas of the norms 
+set in the schedule have not been implemented by the company in its annual 
+report. This may be provided by amending Clause 49 (VI) of the listing 
+agreement to provide for such disclosure. 
+Regulatory Impact Assessment: As regulations move towards an increasingly 
+disclosure based and principle based regime where investors assess and value 
+companies based on good corporate governance and in view of the proposal to 
+negate criminality from good governance measures, the proposal to introduce fair 
+disclosure  of  non-compliance  will  likely  positively  impact  investor  information 
+while imposing a burden by means of market price on non-compliant companies 
+and their management.   
+
+ 
+Comments are invited from the public on the above proposals. The comments may be 
+sent by e-mail upto 27th March 2008 to the following addresses – 
+ 
+santoshs@sebi.gov.in (Mr. Santosh Shukla) Dy. Legal Adviser 
+vidishak@sebi.gov.in (Ms. Vidisha Krishan) Legal Officer 
+ 
+Comments may also be sent physically to the following address, so as to reach latest by 
+27th March 2008 –  
+ 
+
+Mr. Santosh Shukla, Deputy Legal Advisor, 
+Legal Affairs Department 
+Securities and Exchange Board of India 
+SEBI Bhavan,  
+C-4A, G-Block, Bandra Kurla Complex 
+Mumbai – 400051 
+
+ 
+
+ 
+
+-10- 
+
+           
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+

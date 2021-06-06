@@ -1,0 +1,668 @@
+Discussion paper on 'Proposed modifications to the existing framework for 
+
+buy back through open market purchase' 
+
+ 
+
+ 
+
+ 
+
+Background 
+
+(I) 
+
+ 
+
+(II) 
+
+Section  77A  of  the  Companies  Act,  1956  contains  the  basic  framework  for 
+companies to buy back its own securities. Section 77A (5) provides the methods 
+of buy back .Excerpts from the same are reproduced below: 
+
+“The buy-back under sub-section (1) may be - 
+(a) from the existing security holders on a proportionate basis ; or 
+(b) from the open market ; or 
+(c)  from  odd  lots,  that  is  to  say,  where  the  lot  of  securities  of  a  public 
+company,  whose  shares  are  listed  on  a  recognised  stock  exchange,  is 
+smaller than such marketable lot, as may be specified by the stock exchange 
+; or 
+(d)  by  purchasing  the  securities  issued  to  employees  of  the  company 
+pursuant to a scheme of stock option or sweat equity.” 
+ 
+
+Further,  Section  77A  (2)  (f)  gives  power  to  SEBI  to  frame  regulations  in  this 
+regard.  Accordingly,  the  existing  framework  for  buy  back  through  open  market 
+purchase is being reviewed. 
+ 
+
+Buy back is usually resorted to due to following reasons: 
+
+  Return surplus cash to the shareholders 
+  Support share price during periods of temporary weakness 
+ 
+
+Increase the underlying share value 
+ 
+
+ 
+
+Reasons for review 
+It  has  been  observed  that  buy  back  through  open  market  has  failed  to  achieve  its 
+objectives in spirit, due to the following reasons: 
+
+a)  Section 77A(4) of the Companies Act, 1956 specifies that every buy back shall 
+be  completed  within  a  period  of  12  months.  Companies,  instead  of  fixing  a 
+definitive period for buyback, usually keep the buyback offer open for the entire 
+period  of  12  months.  However,  even  after  keeping  the  buyback  offer  open  for 
+
+ 
+
+1 | P a g e  
+
+such  a  long  time,  there  have  been  instances  where  companies  did  not  buy  a 
+single  share  or  failed  to  achieve  the  minimum  buyback  quantity.  It  has  been 
+observed  that  the  companies  place  buy  orders  at  their  discretion  instead  of 
+placing them on regular basis and that too at a price away from the market price. 
+ 
+
+b)  There are no explicit provisions in the Companies Act, 1956 or in the SEBI (Buy 
+back  of  Securities)  Regulations,  1998  regarding  the  price  or  quantity  for  which 
+the  company  shall  place  orders  for  buying  back  its  shares  or  the  periodicity  of 
+placement of such orders. Therefore, on which days, for how long and in what 
+quantity the company will buy back its shares is entirely at the discretion of the 
+company’s management. This lack of clarity is further burdened with the fact that 
+disclosure is not made to the public shareholders as to how the discretion will be 
+exercised  and  what  are  consideration/basis  guiding  the  management  in  this 
+regard. 
+ 
+
+c)  It  has  also  been  observed  that  many  companies  took  shareholders/board 
+approval for buyback proposals and in some cases even published public notice 
+but did not take a single step to buy the shares.  
+ 
+
+d)  The  company  discloses  the  maximum  price  only  and  eventually  purchases  the 
+shares near market price which could be significantly lower than the announced 
+price.  This  may  convey  a  misleading  message  to  the  shareholders  and  to  the 
+market. Moreover, buy back from open market has not proved to be beneficial to 
+the shareholders as against the tender offer method in which the company buys 
+back shares at a premium to the market price. 
+ 
+
+e)  It has been observed that in 75 buyback cases through open market purchases, 
+which closed during the last three financial years (from April 01, 2007 to March 
+31,  2010),  an  average  of  49.91%  of  the  maximum  offer  size  (as  disclosed  in 
+public announcement to shareholders) was utilized by the companies for the buy 
+back.  This  suggests  that  despite  the  intention  disclosed  by  companies  to  their 
+shareholders at the time of making buyback offer, the buyback offer is not used 
+as an opportunity for enhancing the book value of the shares of the company.  
+ 
+
+f)  In view of the above, the following 'Modifications to the existing framework for 
+
+buy back through open market purchase are proposed: 
+
+ 
+
+ 
+
+Proposed Broad Framework for buy back through open market purchase 
+ 
+ 
+
+ 
+
+2 | P a g e  
+
+1.  Minimum buy back quantity: 
+
+1.1  Pursuant  to  the  order  of  the  Securities  Appellate  Tribunal  dated 
+26.09.2008 in the matter of Sasken Communications Limited and after 
+observing instances of companies not buying a single share or buying 
+negligible  quantity  after  buy-back  announcement, 
+the  Merchant 
+Bankers  are  being  advised  to  ensure  that  a  minimum  of  25%  of 
+maximum buy-back proposed/disclosed n bought back.  
+ 
+The  aforesaid  measure  has  resulted  in  significant  increase  in  the 
+percentage  of  buy-back  quantity  as  may  be  seen  from  the  following 
+table : 
+
+1.2 
+
+ 
+
+ 
+
+Year wise data on Buy-back offers made through Open Market 
+Purchase method: 
+
+Year 
+(Financial) 
+
+No. 
+of 
+buy-back 
+offers 
+in 
+open 
+market 
+purchase  
+
+2007-08 
+
+2008-09 
+
+2009-10 
+
+05 
+
+46 
+
+19 
+
+Maximum 
+number 
+shares 
+proposed 
+be 
+back 
+
+of 
+
+to 
+bought 
+
+Actual 
+number 
+shares 
+bought back 
+
+of 
+
+GAP 
+
+of 
+
+% 
+actual 
+number 
+of 
+shares 
+bought 
+back 
+
+565,274,864 
+
+  35,315,529 
+
+6.25%  93.75% 
+
+207,831,628 
+
+100,916,878 
+
+48.56%  51.44% 
+
+127,777,318 
+
+50,262,919 
+
+39.34%  60.66% 
+
+117,506,824 
+
+20010-11  12 
+Note:  In  two  cases  of  buy-back  offers  in  2009-10,  companies  failed  to 
+purchase even single share as market price was higher than maximum price 
+of offer and hence, excluded from the data.  
+
+60.58%  39.42% 
+
+  71,183,267 
+
+1.3 
+
+ 
+From the above table, it can be inferred that companies on an average 
+have bought back 49.96% of the maximum quantity proposed for buy-
+back  in  the  financial  years  2009  -10  and  2010-11  after  the  aforesaid 
+prescription.  Taking  the  above  into  consideration,  it  is  proposed  to 
+mandate 50% as the minimum quantity. 
+
+ 
+
+3 | P a g e  
+
+2.  Maximum period to complete the  buy back: 
+
+ 
+2.1.  Section 77A(4) of the Companies Act, 1956 prescribes that every buy 
+back shall be completed within twelve months from the date of passing 
+the  special  resolution  or    a  resolution  passed  by  the  Board  under 
+clause  (b)  of  sub  section  (2).  It  has  been  observed  from  the  data 
+pertaining to buy back for FY 2009-10 and 2010-11 that the companies 
+on  an  average,  have  bought  back  around  62%  of  the  proposed 
+buyback size. Of the above, around 49% have been bought back in the 
+first 3 months itself. 
+ 
+In  view  of  the  above,  it  can  be  inferred  that  the  companies  may  not 
+need  such  a  long  period  to  complete  the  buyback  offer  although 
+Companies Act,1956  provides for 12 months. Moreover, it is evident 
+that  the  companies  which  were  serious  about  the  buyback  program 
+have  been  able  to  buy  back  a  significant  portion  of  the  proposed 
+buyback within first 3 months.  
+ 
+
+2.2. 
+
+2.3.  Thus, it is proposed that companies complete the buy back in 3 
+months.  To  ensure  that  only  serious  companies  launch  the 
+buyback program, it is further proposed that these companies be 
+mandated to put 25% of the maximum amount proposed for buy 
+back in an escrow account. 
+ 
+ 
+
+3.  Post  buy back obligations 
+
+ 
+3.1. Section 77A(8) states that where a company completes a buy back of its 
+shares or other specified securities , it shall not make further issue of the 
+same kind of shares (including allotment of further shares under Section 
+81(1)(a) ) within a period of six months except by way of bonus issue or 
+in the discharge of subsisting obligations such as conversion of warrants , 
+stock option schemes , sweat equity or conversion of preference shares 
+or debentures into equity shares. 
+ 
+
+3.2. It  is  understood  that  the  companies  usually  launch  buyback  programs 
+when  they  have  idle  cash  resources  and  there  are  no  attractive 
+investment  opportunities  in  the  foreseeable  future.  Section  77A  (8)  of 
+Companies Act, 1956 prohibited raising  additional capital for a period of 
+to  6  months  vide 
+24  months  which  was  subsequently  reduced 
+
+ 
+
+4 | P a g e  
+
+amendment dated October 23,2001.and the same was only amended in 
+2001.  
+ 
+
+3.3. It  is  therefore,  proposed  that  listed  companies  coming  out  with 
+buyback programs may not be allowed to raise further capital for a 
+period of two years. 
+ 
+ 
+
+4.  Disincentive for not completing the buyback program successfully  
+
+ 
+4.1. Section  77A(2)  of  the  Companies  Act,1956  prohibits  only  back  to  back 
+buy  backs  through  board  resolution  i.e.  a  company  can  come  for 
+subsequent buy backs through shareholder’ resolution. 
+ 
+
+4.2. In  order  to  ensure  that  the  companies  do  not  launch  buyback 
+programs  for  stabilizing  the  share  price,  it  is  proposed  that 
+companies  who  are  not  able  to  buy  back  100%  of  the  proposed 
+amount (or the proposed maximum number of shares) may not be 
+allowed  to  come  with  another  buyback  for  a  period  of  atleast  one 
+year irrespective of the mode of approval for buy back.  
+ 
+ 
+
+5. Rationalisation of ongoing disclosure requirements: 
+
+ 
+5.1. The extant regulations prescribe the following disclosure requirements for    
+
+i.  Shares bought back, to the stock exchanges on daily basis by merchant 
+
+open market purchase method: 
+
+banker as well as the company 
+
+ii.  Shares bought back on fortnightly basis and every time an additional 5% 
+of  maximum  shares  on  offer  were  bought  back  through  publication  in 
+national daily. 
+
+iii.  Disclosure of post buy-back details on completion of buy back through 
+
+publication in national daily. 
+ 
+
+5.2. It  is  noted  that  other  jurisdictions  require  detailed  disclosures  regarding 
+the number of shares yet to be bought back, the amount yet to be utilized 
+and the average price paid per share, etc., during the buy-back process. 
+The  aforesaid  disclosures  also  form  part  of  the  quarterly  filings,  annual 
+filings, and director’s report and along with the disclosure of any material 
+event  during  the  buy-back  program  by  the  companies.  It  appears  that 
+
+ 
+
+5 | P a g e  
+
+such  disclosure  requirements  have  also  contributed 
+the  high 
+percentage of buy-back quantity with respect to the proposed quantity in 
+other jurisdictions. 
+ 
+
+to 
+
+5.3. In view of the same, the following is proposed: 
+i.  The company shall disclose the number of shares purchased and the 
+
+amount utilized to the exchanges on daily basis. 
+
+ii.  The  company shall disclose the following details regarding the buy- 
+back offer  to the exchanges on monthly basis and also include the 
+same while publishing quarterly and annual results –  
+
+a.  Total number of shares proposed to be bought back in the offer. 
+b.  Cumulative number of shares bought back till the end of previous 
+
+reporting period and amount utilised for the same. 
+
+c.  Number of shares bought back during the current reporting period 
+
+and amount utilised for the same.  
+
+d.  Cumulative  number  of  shares  bought  back  till  the  end  of  the 
+
+current reporting period and amount utilised for the same (b+c).  
+
+e.  Number  of  shares  yet  to  be  bought  back  and  amount  yet  to  be 
+
+utilised. 
+
+f.  Cumulative  number  of  shares  extinguished  and  destroyed  till  the 
+
+end of previous reporting period. 
+
+g.  Number  of  shares  extinguished  and  destroyed  during  the  current 
+
+reporting period  
+
+h.  Cumulative  number  of  shares  extinguished  and  destroyed  till  the 
+
+end of the current reporting period (f+g). 
+ 
+
+iii.  It  is  felt  that  the  current  requirement  of  publishing  the  disclosures  in  the 
+news  papers  on  fortnightly  basis  and  every  time  an  additional  5%  of 
+maximum shares on offer were bought back only adds to the cost of buy-
+back  program.  In  view  of  the  above  and  in  view  of  the  same  being 
+included  as  part  of  quarterly  financial  results  which  are  published,  it  is 
+proposed to do away with the requirement of fortnightly publication. 
+  
+
+iv.  In addition, the companies have to disclose on a monthly basis why the 
+proportionate  quantity  was  not  bought  during  the  month,  wherever 
+applicable.  
+ 
+ 
+ 
+ 
+
+ 
+
+6 | P a g e  
+
+6.  Limit for open market method: 
+
+ 
+
+6.1. In  open  market  purchase  method  of  buy-back,  which  spans  over  a 
+maximum  period  of  12  months,  the  shares  are  bought  back  at  the 
+prevailing  market  price,  which  changes  with  the  market  conditions. 
+However  in  tender  offer  method,  all  shares  are  bought  back  at  a  fixed 
+price which is generally at a premium to the market price. Thus, the tender 
+offer  method  of  buy-back  is  more  equitable  way  of  distributing  surplus 
+funds with the companies to its shareholders.  
+ 
+
+6.2. It  is  thus,  desirable  to  encourage  buy-back  using  tender  method  when 
+larger  amount  of  the  company’s  surplus  funds  is  proposed  to  be 
+distributed to its shareholders.  
+ 
+
+6.3. In  view  of  the  above,  it  is  proposed  that  buy-back  of  15%  or  more  of 
+(paid up capital + free reserves) must be only by way of a tender offer 
+method. 
+ 
+
+7.  Procedure  for  buy-back  of  physical  shares  (odd  lot)  in  Open  Market 
+
+Purchase Method: 
+ 
+
+7.1. The  extant  provisions  provide  that  provisions  pertaining  to  buyback 
+through  tender  offer  shall  be  applicable  mutatis  mutandis  to  odd  lot 
+shares. The physical shares are traded in a separate (Odd Lot) segment 
+on the exchange. The Buy-back program requires companies to buy-back 
+demat  as  well  as  physical  shares  and  accordingly  the  companies  place 
+orders in normal as well as odd lot segment. However, data revealed that 
+there  is  hardly  any  response  in  odd  lot  segment.  Physical  shares  in  the 
+system  increase  regulatory  as  well  as  servicing  cost  for  the  company. 
+SEBI's efforts have also been in the direction to reduce physical shares in 
+the  system.  It  is  therefore  necessary  to  encourage  and  facilitate 
+participation of shareholders holding physical shares in buy-back program, 
+more so when open market buy-back is more popular among companies. 
+ 
+
+7.2. In  tender  offer  method,  physical  share  certificates  are  accepted  directly 
+and  after  necessary  verifications,  the  payment  is  made  and  the  share 
+certificates are extinguished. Whereas in open market purchase method of 
+buy-back,  there  are  many  barriers  for  holders  of  physical  shares  to 
+participate in buy-back program which are given below: 
+
+a.  Open market process is akin to trading in the secondary market.   
+
+7 | P a g e  
+
+ 
+
+Shareholders  have  to  approach  a  broker  for  placing  his  order  on 
+the  exchange  for  participating  in  the  buy-back  program.  In  case 
+holder of physical shares does not have a trading account, which 
+would be most likely as such holders are not active investors, the 
+person has to open a trading account first by complying with KYC 
+norms before order can be placed. Moreover, the window for such 
+purchases may be restricted to few centres, 
+ 
+
+b.  Due to the fear of bad delivery of physical shares, the brokers too   
+         may be reluctant to  put through such transactions. 
+ 
+
+7.3. In order to mitigate the aforementioned problems in open market process, 
+
+following changes are proposed – 
+i.  Creation  of  separate  window  in  trading  system  for  buying 
+physical  shares.  This  window  will  remain  open  only  during  the 
+buy-back program. 
+ 
+
+ii.   Shareholders holding 500 shares or less in physical form will be 
+eligible to tender their shares in this window (It may be noted that 
+the trading in Odd Lot Segment on the exchange is also limited to 
+500 shares). 
+ 
+
+iii.  Such shareholders may be permitted to tender shares to a broker 
+designated for the purpose by the company, without the need to 
+open  a  trading  account  or  strict  compliance  with  KYC  norms. 
+However, 
+the  requirement  of  PAN/Aadhar  may  be  made 
+mandatory for such shareholders holding shares in the physical 
+form. 
+ 
+
+iv.  The shareholder can tender the shares to the designated broker 
+directly  or  to  the  company,  who  can  then  put  the  transaction 
+through the designated broker. 
+ 
+
+v.  Buy-back  price  for  such  shareholders  may  be  volume  weighted 
+average  price  (VWAP)  of  the  shares  bought  (in  the  normal 
+segment)  during  the  calendar  week  in  which  such  shares  were 
+received by the broker. In case no shares were bought back in the 
+normal market during the aforesaid week, the last week when the 
+company has bought may be considered. 
+ 
+
+ 
+
+8 | P a g e  
+
+vi.  The  Public  Announcement  shall  contain  information  mentioned 
+
+above. 
+ 
+ 
+
+8.  Removal  of  restriction  on  issuance  of  shares  pursuant  to  Employee 
+
+Stock Option (ESOP) schemes during the buy-back offer: 
+ 
+
+8.1  Companies  Act,1956  provides  that  a  company  shall  not  make 
+issuance of  shares for a period of six months after completion of buy-back 
+except by way of bonus or in discharge of subsisting obligations such as 
+conversion of warrants, stock option schemes, sweat equity or conversion 
+of preference shares or debentures into equity shares during this period.  
+ 
+8.2 The Companies Act, 1956 is, however, silent about issuance of shares 
+during buyback period. The regulations provide that the companies shall 
+not issue any shares including by way of bonus till the date of closure of 
+the  buy-back  offer.  There  have  been  requests  that  SEBI  may  consider 
+relaxing the same at least in respect of Employees Stock Option (ESOP) 
+schemes so that the employees can also participate. 
+ 
+8.3  In  view  of  the  above,  it  is  proposed  that  the  issuance  of  shares 
+pursuant  to  obligations  arising  out  of  Employee  Stock  Option 
+schemes may be allowed during the buy-back period subject to the 
+following- 
+ 
+a)  the  shares  are  not  allotted  to  directors  and  key  managerial 
+
+personnel of the company. 
+
+b)  there is no acceleration in the vesting period. 
+
+9.  Extinguishment of shares in buyback process: 
+
+ 
+
+9.1. Companies  Act,  1956  provides  that  the  shares  bought  back  shall  be 
+extinguished  within  seven  days  from  the  last  date  of  completion  of  buy-
+back. The Regulations provides that extinguishment shall be done within 
+fifteen  days  from  the  date  of  acceptance  subject  to  companies  ensuring 
+that all shares bought back are extinguished within seven days from the 
+last  date  of  completion  as  provided  in  the  Companies  Act,  1956.    The 
+regulations  further  provide  that  the  companies  shall  furnish  a  certificate 
+complying 
+the  certificates 
+extinguished to SEBI on a monthly basis. 
+
+the  aforesaid  provision  and  details  of 
+
+9 | P a g e  
+
+ 
+
+ 
+
+ 
+
+9.2. In open market purchase method which spans over a period of up to 12 
+months  companies  generally  extinguish  within  seven  to  fifteen  days  of 
+payout  during  the  buy-back  period.  It  is  noted  that  in  open  market 
+purchase  the  fifteen  days  time  period  for  extinguishment  and  frequent 
+reporting requirements may be one of the reasons for the companies not 
+purchasing frequently from the market. 
+ 
+
+9.3. In  view  of 
+
+the 
+
+following 
+
+the  above, 
+
+is  proposed  regarding 
+extinguishment  of  shares  in  open  market  purchase  method  of  buy-
+back- 
+ 
+i.  The companies shall extinguish/destroy shares bought back during 
+the  month,  on  or  before  fifteenth  day  of  the  succeeding  month 
+subject to the companies destroying the bought back shares in the 
+last month within seven days of the completion of the offer. 
+ 
+
+ii.  As detailed disclosure regarding extinguishment and destruction of 
+shares  have  been  proposed  above,  the  existing  requirement  of 
+furnishing  a  separate  certificate  by  the  company  to  SEBI  in  this 
+regard may be done away with. 
+ 
+ 
+
+10. Dealing in shares or other specified securities in the stock exchange 
+
+during the period of buy back.  
+ 
+
+as under: 
+
+10.1.  Section 19(1)(e) of SEBI(Buy back of Securities) regulations, 1998 reads 
+
+“The  company  shall  ensure  that  the  promoter  or  the  person  shall  not  deal  in 
+the shares  or  other  specified  securities  of  the  company  in  the  stock  exchange 
+during the period the buy-back offer is open.” 
+
+10.2. This  regulation  prohibits  the  promoters  of  the  company  in  dealing  in  the 
+securities of the company during the period when buy back is open. This 
+restriction  has  been  imposed  as  the  promoters,  being  part  of  the 
+management of the company, are generally in a position to influence the 
+time and price in placing the orders during the buyback period.  
+ 
+
+10.3. It is proposed to extend this restriction to dealing in the securities of 
+
+the company in off –market as well. 
+
+ 
+
+ 
+
+10 | P a g e  
+
+ 
+
+Public Comments 
+
+Comments  on  the  above  framework  may  be  emailed  on  or  before  January 
+31,2013  to chitrab@sebi.gov.in/anindyakd@sebi.gov.in  or sent by post to:- 
+
+Anindya Kumar Das 
+Deputy General Manager 
+Corporation Finance Department - Division of Corporate Restructuring 
+Securities & Exchange Board of India  
+SEBI Bhavan 
+Plot No. C4-A, "G" Block 
+Bandra Kurla Complex 
+Bandra (East) 
+Mumbai - 400 051 
+Ph: +912226449616 
+
+ 
+
+11 | P a g e  
+
+

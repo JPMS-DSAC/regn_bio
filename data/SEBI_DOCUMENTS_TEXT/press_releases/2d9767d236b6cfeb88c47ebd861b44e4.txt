@@ -1,0 +1,19 @@
+
+ 
+Feb 15, 2013
+
+PR No.:  
+22/2013
+
+
+Shri Rajeev Kumar Agarwal, Whole Time Member, SEBI, has passed an ad interim ex -parte order dated February 15, 2013 restraining Aventis Biofeeds Private Ltd, Moebius Credit and Capital Private Limited, Sunmate Trade Private Limited, Shreyans Credit and Capital Private Limited, Vision Millennium Exports Pvt Ltd., Navinya Multitrade Private Limited, Uni24 Techno Solutions Private Limited, Betul Minerals & Construction Private Limited and Betul Oils & Feeds Private Limited, from accessing securities market and prohibiting them from buying, selling or dealing in securities in any manner whatsoever, till further directions in the matter of dealing in the scrip of Ruchi Soya Industries Limited (‘Ruchi Soya’ or ‘the scrip’)
+SEBI had, suo moto, carried out an examination in the scrip of Ruchi Soya in view of surveillance alerts regarding ‘marking the close’.  The act of artificially impacting the closing price in cash market, which acts as the settlement price in derivative market is known as ‘marking the close’ in common parlance.
+During examination of the said scrip, it was observed that;
+1.  All the aforesaid entities are connected to each other;
+2.  These entities were collectively having long position in futures, to the extent of 71.96 lac shares of Ruchi Soya.
+3.  Four of the aforesaid connected entities collectively placed huge buy limit orders of 63 lac shares between 14:27:30 and 14:59:30 at a price of around ` 64 which was significantly below the prevailing market price of around Rs. 71 per share.  Subsequently, during the last two minutes of trading on September 27, 2012 (the last day of expiry of the derivative contracts in Ruchi Soya), these connected entities in a seemingly orchestrated manner revised their bid price for 62 lac shares to Rs. 88 and Rs. 88.20 which was higher than their existing bid price by 37% and higher than the prevailing market price by 22%, even though substantial sell orders were available at lower prices. 
+4.  Five of the aforesaid connected entities collectively placed huge sell orders of 105 lac shares between 14:24:15 and 14:48:10 with limit price of Rs. 88 and Rs. 88.20 which was significantly higher than the prevailing market price of around Rs. 71 per share and revised the order size to 81 lac shares collectively in the last three minutes of trading on September 27, 2012 to enable the aforesaid buying entities to establish the higher trading price in the market so as to artificially and forcefully push up the closing/settlement price on the expiry day.
+5.  As a result of this concerted effort, the closing price in the cash market went up by Rs. 8.15, which increased the entities’ positive square off gain on their long position in the derivatives of Ruchi Soya by approximately Rs. 5.86 crore (71.96 lac shares x Rs. 8.15).
+The above examination, prima facie, shows that the aforesaid connected entities indulged in ‘marking the close’ by moving the closing price of the scrip of Ruchi Soya in the cash market in an artificial, manipulative and unfair manner and thereby made unlawful gain on the long positions held by them in futures of the scrip.  Thus, the aforesaid entities have, prima facie, violated section 12A of the Securities and Exchange Board of India Act, 1992 and regulations 3 and 4 of the Securities and Exchange Board of India (Prohibition of the Fraudulent and Unfair Trade Practices Relating to Securities Market) Regulations, 2003.
+The full text of the order is available on the website: www.sebi.gov.in
+

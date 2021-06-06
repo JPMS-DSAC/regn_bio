@@ -1,0 +1,2822 @@
+ 
+
+Report of the SEBI Committee 
+
+on Corporate Governance 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+February 8, 2003 
+
+ 
+ 
+ 
+Preamble  
+ 
+Corporations pool capital from a large investor base both in the domestic and in the 
+international capital markets. In this context, investment is ultimately an act of faith 
+in the ability of a corporation’s management. When an investor invests money in a 
+corporation, he expects the board and the management to act as trustees and ensure 
+the safety of the capital and also earn a rate of return that is higher than the cost of 
+capital. In this regard, investors expect management to act in their best interests at all 
+times and adopt good corporate governance practices. 
+ 
+Corporate governance is the acceptance by management of the inalienable rights of 
+shareholders as the true owners of the corporation and of their own role as trustees 
+on  behalf  of  the  shareholders.  It  is  about  commitment  to  values,  about  ethical 
+business  conduct  and  about  making  a  distinction  between  personal  and  corporate 
+funds in the management of a company. 
+ 
+It was the belief of the Securities and Exchange Board of India (“SEBI”) that efforts to 
+improve  corporate  governance  standards  in  India  must  continue.  This  is  because 
+these  standards  themselves  were  evolving  in  keeping  with  market  dynamics. 
+Accordingly,  the  Committee  on  Corporate  Governance  (the  “Committee”)  was 
+constituted  by  SEBI,  to  evaluate  the  adequacy  of  existing  corporate  governance 
+practices and further improve these practices. The Committee comprised members 
+from various walks of public and professional life. This includes captains of industry, 
+academicians, public accountants and people from financial press and from industry 
+forums. 
+ 
+The issues discussed by the Committee primarily related to audit committees, audit 
+reports, independent directors, related parties, risk management, directorships and 
+director compensation, codes of conduct and financial disclosures. The Committee’s 
+
+This report contains 30 pages and two enclosures 
+
+Enclosures consist of 10 pages 
+
+ 
+
+ 
+
+relative 
+
+importance, 
+
+fairness,  accountability, 
+
+recommendations  in  the  final  report  were  selected  based  on  parameters  including 
+their 
+transparency,  ease  of 
+implementation, verifiability and enforceability. 
+ 
+The key mandatory recommendations focus on strengthening the responsibilities of 
+audit  committees;  improving  the  quality  of  financial  disclosures,  including  those 
+related  to  related  party  transactions  and  proceeds  from  initial  public  offerings; 
+requiring  corporate  executive  boards  to  assess  and  disclose  business  risks  in  the 
+annual reports of companies; introducing  responsibilities on boards to adopt formal 
+codes of conduct; the position of nominee directors; and stock holder approval and 
+improved disclosures relating to compensation paid to non-executive directors. 
+ 
+Non-mandatory  recommendations  include  moving  to  a  regime  where  corporate 
+financial  statements  are  not  qualified;  instituting  a  system  of  training  of  board 
+members; and the evaluation of performance of board members. 
+ 
+The  Committee  believes  that  these  recommendations  codify  certain  standards  of 
+“good’  governance into specific requirements, since certain corporate responsibilities 
+are  too  important  to  be  left  to  loose  concepts  of  fiduciary  responsibility.  When 
+implemented  through  SEBI’s  regulatory  framework,  they  will  strengthen  existing 
+governance practices and also provide a strong incentive to avoid corporate failures. 
+ 
+Some people have legitimately asked whether the costs of governance reforms are 
+too  high.  In  this  context,  it  should  be  noted  that  the  failure  to  implement  good 
+governance procedures has a cost beyond mere regulatory problems. Companies that 
+do not employ meaningful governance procedures will have to pay a significant risk 
+premium when competing for scarce capital in today’s public markets. 
+ 
+The  Committee  would  like  to  thanks  Mr.  G.N.  Bajpai,  Chairman  of  SEBI  and  Mr. 
+Pratip  Kar,  Executive  Director,  SEBI  for  their  support.  In  addition,  the  Committee 
+would  like  to  thank  Mr.  P.  K.  Bindlish,  General  Manager,  Mr.  Manoj  Kumar, 
+Assistant General Manager and other staff at SEBI along with Mr. Sumanth Cidambi 
+of Progeon Limited, who assisted in the preparation of this report. 
+ 
+ 
+ 
+ 
+N. R Narayana Murthy 
+Chairman 
+Committee on Corporate Governance, SEBI 
+ 
+ 
+Mumbai 
+February 8, 2003 
+ 
+ 
+
+This report contains 30 pages and two enclosures 
+
+Enclosures consist of 10 pages 
+
+ 
+
+Report of the Committee on Corporate Governance 
+February 8, 2003 
+
+Introduction 
+The Committee, Terms of Reference and Approach 
+Key Issues Discussed and Recommendations 
+Recommendations of the Naresh Chandra Committee 
+Other Suggestions and the Committee’s Response 
+Implementation and Way Forward 
+
+1 
+8 
+11 
+25 
+27 
+29 
+
+ 
+ 
+Table of Contents 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+ 
+ 
+Enclosure 1 
+
+ 
+Enclosure 2 
+
+ 
+
+SMDRP/POLICY/CIR-10/2000 dated February 21, 2000 containing 
+the recommendations of the Kumar Mangalam Birla Committee 
+on Corporate Governance 
+
+Members  of  the  Committee  to  Review  the  Performance  of  Corporate 
+Governance 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 1 of 40 
+February 8, 2003 
+
+Introduction 
+The need for corporate governance 
+A  corporation  is  a  congregation  of  various  stakeholders,  namely,  customers, 
+employees,  investors,  vendor  partners,  government  and  society.  A  corporation 
+should  be  fair  and  transparent  to  its  stakeholders  in  all  its  transactions.  This  has 
+become imperative in today’s globalized business world where corporations need to 
+access global pools of capital, need to attract and retain the best human capital from 
+various parts of the world, need to partner with vendors on mega collaborations and 
+need to live in harmony with the community. Unless a corporation embraces and 
+demonstrates ethical conduct, it will not be able to succeed. 
+Corporate governance is about ethical conduct in business. Ethics is concerned with 
+the code of values and principles that enables a person to choose between right and 
+wrong,  and  therefore,  select  from  alternative  courses  of  action.  Further,  ethical 
+dilemmas  arise  from  conflicting  interests  of  the  parties  involved.  In  this  regard, 
+managers  make  decisions  based  on  a  set  of  principles  influenced  by  the  values, 
+context and culture of the organization. Ethical leadership is good for business as the 
+organization  is  seen  to  conduct  its  business  in  line  with  the  expectations  of  all 
+stakeholders. 
+Corporate  governance  is  beyond  the  realm  of  law.  It  stems  from  the  culture  and 
+mindset  of  management,  and  cannot  be  regulated  by  legislation  alone.  Corporate 
+governance deals with conducting the affairs of a company such that there is fairness 
+to all stakeholders and that its actions benefit the greatest number of stakeholders. It 
+is about openness, integrity and accountability. What legislation can and should do, 
+is  to  lay  down  a  common  framework  –  the  “form”  to  ensure  standards.  The 
+“substance”  will  ultimately  determine  the  credibility  and  integrity  of  the  process. 
+Substance is inexorably linked to the mindset and ethical standards of management. 
+Corporations need to recognize that their growth requires the cooperation of all the 
+stakeholders; and such cooperation is enhanced by the corporation adhering to the 
+best corporate governance practices. In this regard, the management needs to act as 
+trustees  of  the  shareholders  at  large  and  prevent  asymmetry  of  benefits  between 
+various  sections  of  shareholders,  especially  between  the  owner-managers  and  the 
+rest of the shareholders. 
+Corporate  governance  is  a  key  element  in improving  the  economic  efficiency  of  a 
+firm.  Good  corporate  governance  also  helps  ensure  that  corporations  take  into 
+account the interests of a wide range of constituencies, as well as of the communities 
+within which they operate. Further, it ensures that their Boards are accountable to 
+the shareholders. This, in turn, helps assure that corporations operate for the benefit 
+of  society  as  a  whole.  While  large  profits  can  be  made  taking  advantage  of  the 
+asymmetry  between  stakeholders  in  the  short  run,  balancing  the  interests  of  all 
+stakeholders alone will ensure survival and growth in the long run. This includes, 
+for instance, taking into account societal concerns about labor and the environment. 
+
+ 
+1. 
+1.1 
+1.1.1 
+
+1.1.2 
+
+1.1.3 
+
+1.1.4 
+
+1.1.5 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 2 of 40 
+February 8, 2003 
+
+The failure to implement good governance can have a heavy cost beyond regulatory 
+problems.  Evidence  suggests  that  companies  that  do  not  employ  meaningful 
+governance  procedures  can  pay  a  significant  risk  premium  when  competing  for 
+scarce  capital  in  the  public  markets.  In  fact,  recently,  stock  market  analysts  have 
+acquired  an  increased  appreciation  for  the  correlation  between  governance  and 
+returns. In this regard, an increasing number of reports not only discuss governance 
+in general terms, but also have explicitly altered investment recommendations based 
+on the strength or weakness of a company's corporate governance infrastructure. 
+The  credibility  offered  by  good  corporate  governance  procedures  also  helps 
+maintain the confidence of investors – both foreign and domestic – to attract more 
+“patient”, long-term capital, and will reduce the cost of capital. This will ultimately 
+induce more stable sources of financing. 
+Often, increased attention on corporate governance is a result of financial crisis. For 
+instance, the Asian financial crisis brought the subject of corporate governance to the 
+surface  in  Asia.  Further,  recent  scandals  disturbed  the  otherwise  placid  and 
+complacent corporate landscape in the US. These scandals, in a sense, proved to be 
+serendipitous. They spawned a new set of initiatives in corporate governance in the 
+US and triggered fresh debate in the European Union as well as in Asia. The many 
+instances of corporate misdemeanours have also shifted the emphasis on compliance 
+with  substance,  rather  than  form,  and  brought  to  sharper  focus  the  need  for 
+intellectual  honesty  and  integrity.  This  is  because  financial  and  non-financial 
+disclosures  made  by  any  firm  are  only  as  good  and  honest  as  the  people  behind 
+them.  By  this  very  principle,  only  those  industrialists  whose  corporations  are 
+governed properly should be allowed to be a part of committees. This includes the 
+Prime Minister and Finance Minister’s advisory councils, committees set up by the 
+Confederation of Indian Industry (“CII”), the Securities and Exchange Board of India 
+(“SEBI”),  the  Department  of  Company  Affairs,  ministries,  and  the  boards  of  large 
+banks and financial institutions. 
+Corporate governance initiatives in India began in 1998 with the Desirable Code of 
+Corporate Governance – a voluntary code published by the CII, and the first formal 
+regulatory  framework  for  listed  companies  specifically  for  corporate  governance, 
+established  by  the  SEBI.  The  latter  was  made  in  February  2000,  following  the 
+recommendations of the Kumarmangalam Birla Committee Report. 
+The  term  “corporate  governance”  is  susceptible  to  both  broad  and  narrow 
+definitions.  In  fact,  many  of  the  codes  do  not  even  attempt  to  articulate  what  is 
+encompassed  by  the  term.  The  motives  for  the  several  corporate  governance 
+postulates  engaged  in  these  definitions  vary,  depending  on  the  participant 
+concerned.  The  focal  subjects  also  vary  accordingly.  The  important  point  is  that 
+corporate governance is a concept, rather than an individual instrument. It includes 
+debate on the appropriate management and control structures of a company. Further 
+it includes the rules relating to the power relations between owners, the Board of 
+Directors, management and, last but not least, the stakeholders such as employees, 
+suppliers, customers and the public at large. 
+
+ 
+ 
+1.1.6 
+
+1.1.7 
+
+1.1.8 
+
+1.1.9 
+
+1.1.10 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 3 of 40 
+February 8, 2003 
+
+The majority of the definitions articulated in the codes relate corporate governance 
+to “control” – of the company, of corporate management, or of company conduct or 
+managerial conduct. Perhaps the simplest and most common definition of this sort is 
+that  provided  by  the  Cadbury  Report  (U.K.),  which  is  frequently  quoted  or 
+paraphrased: “Corporate governance is the system by which businesses are directed 
+and controlled.” 
+The definition in the preamble of the OECD Principles is also all encompassing  ? 
+“[C]orporate  governance  .  .  .  involves  a  set  of  relationships  between  a  company’s 
+management,  its  board,  its  shareholders  and  other  stakeholders.  Corporate 
+governance also provides the structure through which the objectives of the company 
+are set, and the means of attaining those objectives and monitoring performance are 
+determined.” 
+The most common school of thought would have us believe that if management is 
+about running businesses, governance is about ensuring that it is run properly. All 
+companies  need  governing  as  well  as  managing.  The  aim  of  “Good  Corporate 
+Governance” is to enhance the long-term value of the company for its shareholders 
+and all other partners. The enormous significance of corporate governance is clearly 
+evident 
+this  definition,  which  encompasses  all  stakeholders.  Corporate 
+governance integrates all the participants involved in a process, which is economic, 
+and  at  the  same  time  social.  This  definition  is  deliberately  broader  than  the 
+frequently  heard  narrower  interpretation  that  only  takes  account  of  the  corporate 
+governance postulates aimed at shareholder interests. 
+Studies of corporate governance practices across several countries conducted by the 
+Asian Development Bank (2000), International Monetary Fund (1999), Organization 
+for Economic Cooperation and Development (“OECD”) (1999) and the World Bank 
+(1999)  reveal  that  there  is  no  single  model  of  good  corporate  governance.  This  is 
+recognized by the OECD Code. The OECD Code also recognizes that different legal 
+systems,  institutional  frameworks  and  traditions  across  countries  have  led  to  the 
+development of a range of different approaches to corporate governance. Common 
+to  all  good  corporate  governance  regimes,  however,  is  a  high  degree  of  priority 
+placed on the interests of shareholders, who place their trust in corporations to use 
+their 
+In  addition,  best-managed 
+corporations  also  recognize  that  business  ethics  and  corporate  awareness  of  the 
+environmental and societal interest of the communities within which they operate, 
+can have an impact on the reputation and long-term performance of corporations. 
+
+funds  wisely  and  effectively. 
+
+in 
+
+investment 
+
+The Kumarmangalam Birla Committee on Corporate Governance 
+SEBI had constituted a Committee on May 7, 1999 under the chairmanship of Shri 
+Kumarmangalam Birla, then Member of the SEBI Board “to promote and raise the 
+standards  of  corporate  governance”.  Based  on  the  recommendations  of  this 
+Committee,  a  new  clause  49  was  incorporated  in  the  Stock  Exchange  Listing 
+Agreements (“Listing Agreements”). 
+The  recommendations  of  the  Kumarmangalam  Birla  Committee  on  Corporate 
+Governance (the “Recommendations”) are set out in Enclosure I to this report. 
+
+ 
+ 
+1.1.11 
+
+1.1.12 
+
+1.1.13 
+
+1.1.14 
+
+1.2 
+1.2.1 
+
+1.2.2 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 4 of 40 
+February 8, 2003 
+
+Financial reporting and disclosures 
+Financial disclosure is a critical component of effective corporate governance. SEBI 
+set  up  an  Accounting  Standards  Committee,  as  a  Standing  Committee,  under  the 
+chairmanship of Shri Y. H. Malegam with the following objectives: 
+? 
+
+To  review  the  continuous  disclosure  requirements  under  the  listing 
+agreement for listed companies; 
+To provide input to the Institute of Chartered Accountants of India (“ICAI”) 
+for introducing new accounting standards in India; and 
+To  review  existing  Indian  accounting  standards,  where  required  and  to 
+harmonise these accounting standards and financial disclosures on par with 
+international practices. 
+
+? 
+
+? 
+
+SEBI  has  interacted  with  the  ICAI  on  a  continuous  basis  in  the  issuance  of  recent 
+Indian  accounting  standards  on  areas  including  segment  reporting,  related  party 
+disclosures,  consolidated  financial  statements,  earnings  per  share,  accounting  for 
+taxes on income, accounting for investments in associates in consolidated financial 
+statements, discontinuing operations, interim financial reporting, intangible assets, 
+financial reporting of interests in joint ventures and impairment of assets. 
+With  the  introduction  of  these  recent  Indian  accounting  standards,  financial 
+reporting  practices  in  India  are  almost  on  par  with  International  Accounting 
+Standards. 
+
+Implementation of corporate governance requirements 
+The  Recommendations  were  implemented  through  Clause 49  of  the  Listing 
+Agreements, in a phased manner by SEBI. 
+They  were  made  applicable  to  all  companies  in  the  BSE  200  and  S&P  C&X  Nifty 
+indices, and all newly listed companies, as of March 31, 2001. 
+The applicability of the Recommendations was extended to companies with a paid 
+up capital of Rs. 100 million or with a net worth of Rs. 250 million at any time in the 
+past five years, as of March 31, 2002. 
+In respect of other listed companies with a paid up capital of over Rs. 30 million, the 
+requirements were made applicable as of March 31, 2003. 
+The accounting standards issued by the ICAI, which are applicable to all companies 
+under  sub-section 3A  of  Section 211  of  the  Companies  Act, 1956,  were  specifically 
+made applicable to all listed companies for the financial year ended March 31, 2002, 
+under the Listing Agreements. 
+
+ 
+ 
+
+1.3 
+1.3.1 
+
+1.3.2 
+
+1.3.3 
+
+1.4 
+1.4.1 
+
+1.4.2 
+
+1.4.3 
+
+1.4.4 
+
+1.4.5 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 5 of 40 
+February 8, 2003 
+
+Compliance with the Code and SEBI’s experience 
+In terms of SEBI’s Circular No. SMD/Policy/CIR-03/2001 dated January 22, 2001: 
+? 
+
+Board of Directors; 
+
+Shareholders / Investors Grievance Committee; 
+
+All  companies  are  required  to  submit  a  quarterly  compliance  report  to  the 
+stock exchanges within 15 days from the end of a financial reporting quarter. 
+The report has to be submitted either by the Compliance Officer or by the 
+Chief Executive Officer of the company after obtaining due approvals. SEBI 
+has  prescribed  a  format  in  which  the  information  shall  be  obtained  by  the 
+Stock  Exchanges  from  the  companies.  The  companies  have  to  submit 
+compliance status on eight sub-clauses namely: 
+? 
+? 
+? 
+? 
+? 
+?  Management; 
+? 
+? 
+Stock  exchanges  are  required  to  set  up  a  separate  monitoring  cell  with 
+identified  personnel,  to  monitor  compliance  with  the  provisions  of  the 
+Recommendations. Stock exchanges are also required to submit a quarterly 
+compliance 
+the  Schedule  of 
+Implementation. The stock exchanges are required to submit a consolidated 
+compliance report within 30 days of the end of the quarter to SEBI. 
+
+Report on Corporate Governance. 
+
+Remuneration of directors; 
+
+report 
+
+from 
+
+the  companies  as  per 
+
+Audit Committee; 
+
+Board procedures; 
+
+Shareholders; and 
+
+? 
+
+Both  the  Mumbai  and  National  Stock  Exchanges  have  submitted  a  consolidated 
+quarterly  compliance  report  for  the  quarter  ended  September 30, 2002.  It  was 
+observed  that  1,848  and  741  companies  were  required  to  comply  with  the 
+requirements  of  the  Code,  for  the  Mumbai  and  National  Stock  Exchanges, 
+respectively.  Of these, compliance reports were submitted in respect of 1,026 and 
+595 companies, for the Mumbai and National Stock Exchanges, respectively. 
+The  status  of  compliance  with  respect  to  provisions  of  corporate  governance 
+analysed from data submitted by the Mumbai Stock Exchange for the quarter ended 
+September 30, 2002 is set out below. 
+
+Board of 
+Directors 
+
+Audit 
+
+Committee 
+
+Shareholders’ 
+
+Grievance 
+Committee 
+
+Remuneration 
+Committee 
+
+Board 
+
+procedures 
+
+Management  Shareholders 
+
+Total 
+
+Report on 
+Corporate 
+Governance 
+
+999 
+
+1,005 
+*Applicable to 1,848 companies 
+
+981 
+
+677 
+
+575 
+
+774 
+
+998 
+
+786 
+
+1,026 
+
+ 
+ 
+
+1.5 
+1.5.1 
+
+1.5.2 
+
+1.5.3 
+
+ 
+
+ 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 6 of 40 
+February 8, 2003 
+
+The key observations contained in the consolidated compliance report sent by the 
+Mumbai and National Stock Exchanges are set out below. 
+? 
+
+The  compliance  level  in  respect  of  requirements  relating  to  Board  of 
+Directors,  Audit  Committee,  Shareholders  Grievance  Committee  and 
+Shareholders is very high; 
+Many  companies  are  yet  to  comply  with  the  requirements  relating  to 
+Remuneration  Committee  (which  is  not  mandatory),  Board  Procedures, 
+Management and Report on Corporate Governance; and 
+Few companies have submitted that the provisions relating to Management 
+and Board Procedures are not applicable. 
+
+? 
+
+? 
+
+SEBI observed that the compliance with the requirements in clause 49 of the Listing 
+Agreement  is,  by  and  large,  satisfactory;  however,  an  analysis  of  the  financial 
+statements of companies and the report on corporate governance discloses that their 
+quality  is  not  uniform.  This  is  observed  on  parameters  such  as  the  nature  of 
+qualifications in audit reports, the quality of the corporate governance report itself 
+(which is often perfunctory in nature), and the business transacted and the duration 
+of audit committee meetings. Variations in the quality of annual reports, including 
+disclosures, raises the question whether compliance is in form or in substance; and 
+emphasise  the  need  to  ensure  that  the  laws,  rules  and  regulations  do  not  reduce 
+corporate governance to a mere ritual. This question has come under close scrutiny 
+in recent times. 
+SEBI has analysed a few recently published annual reports of companies to assess 
+the quality of corporate governance. The directors’  reports could be classified into 
+the following categories: 
+? 
+
+Reports  where  there  is  no  mention  about  the  compliance  with  corporate 
+governance requirements; 
+Reports that state that the company is fully compliant with clause 49 of the 
+Listing  Agreement,  but  where 
+independent  auditors  have  made 
+qualifications in their audit reports; 
+Reports that mention areas of non-compliance with clause 49 of the Listing 
+Agreement and provide explanation for non-compliance; and 
+Reports that mention areas of non-compliance with clause 49 of the Listing 
+Agreement  but  provide  no  explanation  for  auditor’s  qualification  or  for 
+reasons for non-compliance. 
+
+? 
+
+? 
+
+? 
+
+SEBI also observed that there is a considerable variance in the extent and quality of 
+disclosures made by companies in their annual reports. 
+
+Rationale for a review of the Code 
+SEBI believes that efforts to improve corporate governance standards in India must 
+continue. This is because these standards are themselves evolving, in keeping with 
+market  dynamics.  Recent  events  worldwide,  primarily  in  the  United  States,  have 
+renewed the emphasis on corporate governance. These events have highlighted the 
+need for ethical governance and management, and for the need to look beyond mere 
+systems  and  procedures.  This  will  ensure  compliance  with  corporate  governance 
+codes, in substance and not merely in form. 
+
+ 
+ 
+1.5.4 
+
+1.5.5 
+
+1.5.6 
+
+1.5.7 
+
+1.6 
+1.6.1 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 7 of 40 
+February 8, 2003 
+
+Again,  one  of  the  goals  of  good  corporate  governance  is  investor  protection.  The 
+individual investor is at the end of a chain of financial information, stretching from 
+corporate  accountants  and  management,  through  Boards  of  Directors  and  audit 
+committees,  to  independent  auditors  and  stock  market  analysts,  to  the  investing 
+public.  Many  of  the  links  in  this  chain  need  to  be  strengthened  or  replaced  to 
+preserve its integrity. 
+SEBI,  therefore,  believed  that  a  need  to  review  the  existing  code  on  corporate 
+governance arose from two perspectives, (a) to evaluate the adequacy of the existing 
+practices, and (b) to further improve the existing practices. 
+
+____________________________________ 
+
+ 
+ 
+1.6.2 
+
+1.6.3 
+
+ 
+
+ 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 8 of 40 
+February 8, 2003 
+
+The Committee, Terms of Reference and Approach 
+Constitution of the Committee 
+In the context of the rationale set out in Section 1.6 of this Report, SEBI believed it 
+necessary to form a committee on corporate governance, comprising representatives 
+from  the  stock  exchanges,  chambers  of  commerce,  investor  associations  and 
+professional bodies. 
+The SEBI Committee on Corporate Governance (the “Committee”) was constituted 
+under  the  Chairmanship  of  Shri  N.  R.  Narayana  Murthy,  Chairman  and  Chief 
+Mentor of Infosys Technologies Limited. 
+A list of names of the members of the Committee is set out in Enclosure II to this 
+report. 
+The  Committee  met 
+and 
+February 8, 2003, to deliberate the issues related to corporate governance and finalize 
+its recommendations to SEBI. 
+
+on  December 7, 2002, 
+
+thrice 
+
+January 7, 2003 
+
+Terms of Reference 
+The terms of reference of the Committee are set out below. 
+? 
+? 
+
+To review the performance of corporate governance; and 
+To determine the role of companies in responding to rumour and other price 
+sensitive  information  circulating  in  the  market,  in  order  to  enhance  the 
+transparency and integrity of the market. 
+
+The recommendations of the Committee are presented in this Report. 
+
+Approach 
+Members  of  the  Committee  met  to  deliberate  the  issues  related  to  corporate 
+governance,  primarily  relating  to  audit  committees,  audit  reports,  independent 
+directors, related parties, risk management, directorships and director compensation, 
+codes of conduct and financial disclosures. 
+The Committee felt that that the regulator should clearly define regulations and be 
+able to effectively enforce the recommendations. The regulations should be as few as 
+possible  and  the  role  of  the  regulator  should  primarily  be  that  of  a  catalyst  in 
+enforcement. 
+
+ 
+ 
+2. 
+2.1 
+2.1.1 
+
+2.1.2 
+
+2.1.3 
+
+2.1.4 
+
+2.2 
+2.2.1 
+
+2.2.2 
+
+2.3 
+2.3.1 
+
+2.3.2 
+
+ 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 9 of 40 
+February 8, 2003 
+
+? 
+
+The  issues  relating  to  corporate  governance  were  discussed  by  the  Committee.  
+Based  on  the  responses  /  suggestions  to  the  issues,  draft  recommendations  were 
+prepared. These recommendations were circulated to the members. Members were 
+asked to rate the recommendations on a scale of 1 (Least) through 10 (Most) across 
+the seven following parameters: 
+? 
+? 
+
+Importance – How important is the recommendation to the member? 
+Fairness  –  Does  the  recommendation  enhance  fairness  to  all  stakeholders,  by 
+minimizing asymmetry of benefits? 
+Accountability  –  Does  the  recommendation  make  corporate  management  more 
+accountable? 
+Transparency – Does the recommendation enhance transparency? 
+Ease of implementation – Is the recommendation easy to implement? 
+Verification – Is the recommendation objectively verifiable? 
+Enforcement – Can the recommendation be effectively enforced? 
+
+? 
+? 
+? 
+? 
+The ratings received from members were first aggregated across recommendations 
+and  tabulated.  Recommendations  whose  ratings  were  7  and  above  were  then 
+aggregated, on each of the seven parameters set out above. The rating score for each 
+such recommendation was aggregated. 
+The recommendations were then sorted in descending order of importance. The top 
+20  recommendations  were  presented  to  the  Committee  for  their  views.  These 
+recommendations were discussed in detail by the members and will form the basis 
+of the final recommendations of the Committee. 
+Certain recommendations that were not part of the top 20 recommendations were 
+also presented to the Committee. This was because of their important nature. 
+Certain recommendations that were already contained in the Report of the Naresh 
+Chandra  Committee  on  Corporate  Audit  and  Governance  (the  “Naresh  Chandra 
+Committee”) were also discussed briefly. The members of the Committee agreed in 
+principle with the recommendations set out by the Naresh Chandra Committee that 
+are directly related to corporate governance.  
+It  was 
+final 
+recommendations  to  SEBI,  the  Committee  would  also  recommend  that  the 
+mandatory  recommendations  in  the  report  of  the  Naresh  Chandra  Committee, 
+insofar  as  they  related  to  corporate  governance,  be  mandatorily  implemented  by 
+SEBI  through  an  amendment  to  clause 49  of  the  Listing  Agreement.  These 
+recommendations are contained in Section 4 of this Report. 
+The Committee accepted that ratings were not received from all members. It was of 
+the  view  that  members  who  have  not  submitted  their  ratings  should  not  raise 
+objections to the Committee’s recommendations at a later stage. 
+
+therefore  decided  by 
+
+the  Committee, 
+
+that 
+
+in  making 
+
+the 
+
+ 
+ 
+2.3.3 
+
+2.3.4 
+
+2.3.5 
+
+2.3.6 
+
+2.3.7 
+
+2.3.8 
+
+2.3.9 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 10 of 40 
+February 8, 2003 
+
+The Committee also acknowledged that the ratings methodology did not capture the 
+qualitative  comments  of  the  members.  Further,  it  was  also  accepted  that  a  few 
+recommendations could not be rated since they were more of a qualitative nature for 
+which it was difficult to assign a numerical weight. 
+
+____________________________________ 
+
+ 
+ 
+2.3.10 
+
+ 
+
+ 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 11 of 40 
+February 8, 2003 
+
+Key Issues Discussed and Recommendations 
+
+Background 
+The  key  issues  debated  by  the  Committee  and  the  related  recommendations  are 
+discussed below. 
+
+Audit Committees 
+Review of information by audit committees 
+Suggestions  were  received  from  members  that  audit  committees  of  publicly  listed 
+companies should be required to review the following information mandatorily: 
+? 
+? 
+
+Financial statements; 
+Management  discussion  and  analysis  of  financial  condition  and  results  of 
+operations; 
+Reports relating to compliance with laws and to risk management; 
+Management  letters  /  letters  of  internal  control  weaknesses  issued  by 
+statutory / internal auditors; and 
+Records of related party transactions. 
+
+? 
+? 
+
+? 
+The Committee noted that most of this information was already reviewed by audit 
+committees during the audit committee meeting. Further, it was already contained 
+as  a  recommendation  in  the  Kumarmangalam  Birla  Committee  on  Corporate 
+Governance. 
+The Committee also noted that the recommendation in the Birla Committee Report 
+cast a responsibility on the audit committee vis-à-vis their duties and role. Further, 
+the  compliance  report  of  the  Mumbai  Stock  Exchange  showed  that  approximately 
+only 53% of the companies complied with this requirement contained in the Birla 
+Committee Report. 
+
+ 
+ 
+3. 
+
+3.1 
+3.1.1 
+
+3.2 
+3.2.1 
+3.2.1.1 
+
+3.2.1.2 
+
+3.2.1.3 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 12 of 40 
+February 8, 2003 
+
+In view of the above deliberations, the Committee makes the following mandatory 
+recommendation: 
+
+Mandatory recommendation 
+Audit  committees  of  publicly  listed  companies  should  be  required  to  review  the 
+following information mandatorily: 
+? 
+
+Financial  statements  and  draft  audit  report,  including  quarterly  /  half-yearly 
+financial information; 
+Management  discussion  and  analysis  of  financial  condition  and  results  of 
+operations; 
+Reports relating to compliance with laws and to risk management; 
+Management letters / letters of internal control weaknesses issued by statutory 
+/ internal auditors; and 
+Records of related party transactions. 
+
+? 
+
+? 
+? 
+
+? 
+
+Financial literacy of members of the audit committee 
+Suggestions were received that all audit committee members should be “financially 
+literate”  and  at  least  one  member  should  have  accounting  or  related  financial 
+management  expertise.  It  was  also  suggested  that  all  audit  committee  members 
+should  be  able  to  read  and  understand  financial  statements  at  the  time  of  their 
+appointment rather than within a reasonable period. 
+The Committee was of the view that the first recommendation was acceptable.  It 
+was also of the view that the definition of the phrase “financially literate” should be 
+explained further. 
+Based  on  the  above  discussions,  the  Committee  accordingly  makes  the  following 
+mandatory recommendation: 
+
+Mandatory recommendation 
+All audit committee members should be “financially literate” and at least one member 
+should have accounting or related financial management expertise. 
+Explanation 1  –  The  term  “financially  literate”  means  the  ability  to  read  and 
+understand  basic  financial  statements  i.e.  balance  sheet,  profit  and  loss  account,  and 
+statement of cash flows. 
+Explanation 2 – A member will be considered to have accounting or related financial 
+management  expertise  if  he  or  she  possesses  experience  in  finance  or  accounting,  or 
+requisite professional certification in accounting, or any other comparable experience 
+or  background  which  results  in  the  individual’s  financial  sophistication,  including 
+being or having been a chief executive officer, chief financial officer, or other senior 
+officer with financial oversight responsibilities. 
+
+ 
+ 
+3.2.1.4 
+
+ 
+3.2.2 
+3.2.2.1 
+
+3.2.2.2 
+
+3.2.2.3 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 13 of 40 
+February 8, 2003 
+
+Audit Reports and Audit Qualifications 
+Disclosure of accounting treatment 
+It was suggested that in case a company has followed a treatment different from that 
+prescribed  in  an  accounting  standard,  independent  /  statutory  auditors  should 
+justify  why  they  believe  such  alternative  treatment  is  more  representative  of  the 
+underlying  business  transaction.  This  should  also  be  explained  clearly  in  the 
+footnotes to the financial statements. 
+The  Committee  noted  that  accounting  policies  and  principles  are  selected  by  a 
+company’s  management.    Consequently,  the  onus  should  be  on  management  to 
+explain  why  they  believe  such  alternative  treatment  is  more  representative  of  the 
+underlying  business  transaction.  The  auditor’s  responsibility  is  to  express  a 
+qualification  in  case  he  disagrees  with  the  explanation  given  by  the  company’s 
+management.  The  responsibility  should  not  be  cast  on  the  auditor  to  justify  such 
+departures  from  an  accounting  standard.  The  members  were  of  the  view  that  the 
+auditor may either concur or disagree with management’s viewpoint. The auditor 
+may draw reference to this footnote without necessarily making it the subject matter 
+of an audit qualification, unless he disagrees with the departure from the accounting 
+standard, in which case he would be required to issue a qualification. 
+In  light  of  the  above  deliberations,  the  Committee  was  of  the  view  that  the 
+suggestion should be modified to reflect this. The Committee therefore makes the 
+following mandatory recommendation: 
+
+Mandatory recommendation 
+In  case  a  company  has  followed  a  treatment  different  from  that  prescribed  in  an 
+accounting  standard,  management  should  justify  why  they  believe  such  alternative 
+treatment is more representative of the underlying business transaction.  Management 
+should also clearly explain the alternative accounting treatment in the footnotes to the 
+financial statements. 
+
+Audit qualifications 
+Suggestions  were  received  that  where  financial  statements  contain  qualifications, 
+companies  should  be  given  a  reasonable  period  of  time  within  which  to  cure  the 
+qualifications, by SEBI / Stock Exchanges.Mere explanations from companies may 
+not be sufficient. 
+The Committee noted that the above recommendation be dropped since adequate 
+safeguards already exist. It was also of the opinion that it may not be possible to cure 
+a taint in some cases and this would lead to undue hardship on companies. 
+Based  on  this  discussion,  the  Committee  accordingly  makes  the  following 
+recommendation: 
+
+Non-mandatory recommendation 
+Companies should be encouraged to move towards a regime of unqualified financial 
+statements.  This  recommendation  should  be  reviewed  at  an  appropriate  juncture  to 
+determine  whether  the  financial  reporting  climate  is  conducive  towards  a  system  of 
+filing only unqualified financial statements. 
+
+ 
+ 
+
+3.3 
+3.3.1 
+3.3.1.1 
+
+3.3.1.2 
+
+3.3.1.3 
+
+ 
+3.3.2 
+3.3.2.1 
+
+3.3.2.2 
+
+3.3.2.3 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 14 of 40 
+February 8, 2003 
+
+Related Party Transactions 
+Basis for related party transactions 
+Suggestions were received that for each related party, a statement shall be recorded 
+disclosing the basis / methodology for various types of transactions. 
+It  was  also  suggested  that  the  records  of  all  transactions  with  related  parties 
+including their bases / methodology should be placed before the independent audit 
+committee  at  each  Board  meeting  for  formal  approval/ratification.  This  should 
+include  any  exceptional  transactions  that  are  not  on  an  arm’s  length  principle 
+together with reasons for such deviation. 
+The  Committee  noted  that  a  statement  disclosing  the  basis  /  methodology  for 
+various types of transactions entered into with related parties should be prepared 
+and submitted for the information of the audit committee. It also opined that this 
+statement should include transactions which are not on an arm’s length principle. 
+The company’s management should explain to the audit committee the reasons for 
+the non-arm’s length nature of the transaction.   
+The Committee also noted that the definition of “arm’s length” should be clarified in 
+the  recommendation.    It  noted  that  a  reference  may  be  made  to  the  report  of  the 
+Department of Company Affairs’  Expert Group on Transfer Pricing Guidelines for a 
+suitable definition. 
+Based  on  the  above  discussions,  the  Committee  accordingly  makes  the  following 
+mandatory recommendation: 
+
+Mandatory recommendation 
+A  statement  of  all  transactions  with  related  parties  including  their  bases  should  be 
+placed before the independent audit committee for formal approval / ratification.  
+If  any  transaction  is  not  on  an  arm’s  length  basis,  management  should  provide  an 
+explanation to the audit committee justifying the same. 
+
+Definition of “related party” 
+It was suggested that SEBI should clarify the definition of the term “related party”. 
+The  Committee  noted  that  Accounting  Standard 18,  Related  Party  Transactions 
+(“AS 18”) issued by the ICAI contained the definition of this term. 
+Based on this discussion, the Committee adopted the definition of “related party” as 
+set out in AS 18 and makes the following mandatory recommendation: 
+
+Mandatory recommendation 
+The  term  “related  party”  shall  have  the  same  meaning  as  contained  in  Accounting 
+Standard 18,  Related  Party  Transactions,  issued  by  the  Institute  of  Chartered 
+Accountants of India. 
+
+ 
+ 
+
+3.4 
+3.4.1 
+3.4.1.1 
+
+3.4.1.2 
+
+3.4.1.3 
+
+3.4.1.4 
+
+3.4.1.5 
+
+ 
+3.4.2 
+3.4.2.1 
+3.4.2.2 
+
+3.4.2.3 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 15 of 40 
+February 8, 2003 
+
+Risk Management 
+Board disclosures 
+The Committee believes that it is important for corporate Boards to be fully aware of 
+the risks facing the business and that it is important for shareholders to know about 
+the process by which companies manage their business risks. 
+In light of this, it was suggested that procedures should be in place to inform Board 
+members about the risk assessment and minimization procedures. These procedures 
+should be periodically reviewed to ensure that executive management controls risk 
+through  means  of  a  properly  defined  framework.  These  risks  will  include  global 
+risks;  general,  economic  and  political  risks;  industry  risks;  and  company  specific 
+risks. 
+It was also suggested that management should place a report before the Board every 
+quarter documenting any limitations to the risk taking capacity of the corporation. 
+This document should be formally approved by the Board. 
+The Committee believes that this recommendation is important. This is because the 
+Management  Discussion,  and  Analysis  of  Financial  Condition  and  Results  of 
+Operations,  are  the  responsibility  of  a  company’s  management.  It  is,  therefore 
+important, that the audit committee be made aware of the risks faced by a company. 
+It  is  management’s  responsibility  to  demonstrate  to  the  audit  committee  the 
+measures taken to address business risks. Further, it was added that the Compliance 
+Officer of the company should certify the Risk Management report placed before the 
+audit committee. 
+The  Committee  also  noted  that  it  was  not  practicable  to  put  the  responsibility  of 
+review of risk management only on the audit committee. It agreed that there must be 
+a process by which key risks are reviewed by the entire Board of Directors and not 
+just  the  audit  committee.  Further,  there  must  be  evidence  demonstrating  that  this 
+review  process  has  actually  taken  place.  Investors  in  a  company  would  therefore 
+know how the company has identified and addressed its business risks. 
+It was also mentioned that verifiability and enforceability of this recommendation 
+was difficult. This was because companies could obtain a sign-off from the Board 
+members that such procedures were complied with. 
+Based  on  the  above  deliberations,  the  Committee  makes  the  following  mandatory 
+recommendation: 
+
+Mandatory recommendation 
+Procedures should be in place to inform Board members about the risk assessment and 
+minimization procedures. These procedures should be periodically reviewed to ensure 
+that  executive  management  controls  risk  through  means  of  a  properly  defined 
+framework. 
+Management should place a report before the entire Board of Directors every quarter 
+documenting  the  business  risks  faced  by  the  company,  measures  to  address  and 
+minimize such risks, and any limitations to the risk taking capacity of the corporation. 
+This document should be formally approved by the Board. 
+
+ 
+ 
+
+3.5 
+3.5.1 
+3.5.1.1 
+
+3.5.1.2 
+
+3.5.1.3 
+
+3.5.1.4 
+
+3.5.1.5 
+
+3.5.1.6 
+
+3.5.1.7 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 16 of 40 
+February 8, 2003 
+
+Training of Board members 
+It was also suggested that Board members be trained in the business model of the 
+company as well as the risk profile of the business parameters of the company. 
+The Committee noted that there is a real necessity for Board members to understand 
+the  components  of  the  business  model  and  the  accompanying  risk  parameters. 
+However,  the  Committee  also  noted  that  Board  members  can  always  ask  for 
+information relating to the business model of the company.   
+It  also  observed  that  the  process  of  Board  review  of  business  risks  will  be  a 
+mandatory  recommendation  of  the  Committee.  Therefore,  training  of  Board 
+members could be made recommendatory. 
+Based  on  the  above  deliberations,  the  Committee  makes  the  following  non-
+mandatory recommendation: 
+
+Non-mandatory recommendation 
+Companies should be encouraged to train their Board members in the business model 
+of the company as well as the risk profile of the business parameters of the company, 
+their responsibilities as directors, and the best ways to discharge them. 
+
+Proceeds from Initial Public Offerings (“IPO”) 
+Use of proceeds 
+It was suggested that companies raising money through an Initial Public Offering 
+should  disclose  the  uses  /  application  of  funds  by  major  category  (capital 
+expenditure, sales and marketing, working capital, etc) on a quarterly basis as part of 
+their quarterly declaration of (unaudited) financial results. 
+The Committee noted that that disclosure of unspecified uses of IPO proceeds would 
+be  a  more  transparent  measure.  A  statement  of  funds  utilised  for  purposes  other 
+than  those  stated  in  the  offer  document  /  prospectus  should  be  prepared  by 
+management. This statement should be certified by the independent auditors of the 
+company and approved by the audit committee. 
+Based  on  the  above  discussion,  the  Committee  makes  the  following  mandatory 
+recommendation: 
+
+Mandatory recommendation 
+Companies raising money through an Initial Public Offering (“IPO”) should disclose 
+to  the  Audit  Committee,  the  uses  /  applications  of  funds  by  major  category  (capital 
+expenditure, sales and marketing, working capital, etc), on a quarterly basis. 
+On  an  annual  basis,  the  company  shall  prepare  a  statement  of  funds  utilised  for 
+purposes  other  than  those  stated  in  the  offer  document/prospectus.  This  statement 
+should be certified by the independent auditors of the company. The audit committee 
+should make appropriate recommendations to the Board to take up steps in this matter. 
+
+ 
+ 
+3.5.2 
+3.5.2.1 
+
+3.5.2.2 
+
+3.5.2.3 
+
+3.5.2.4 
+
+3.6 
+3.6.1 
+3.6.1.1 
+
+3.6.1.2 
+
+3.6.1.3 
+
+ 
+
+ 
+ 
+
+3.7 
+3.7.1 
+3.7.1.1 
+
+3.7.1.2 
+
+3.7.1.3 
+
+Report of the Committee on Corporate Governance 
+Page 17 of 40 
+February 8, 2003 
+
+Code of Conduct 
+Written code for executive management 
+It was suggested that there should be a written code of conduct of Board members 
+(by  category  of  directors  –  executive  directors,  independent  directors,  nominee 
+directors and promoter directors). Further, there should be a written code of conduct 
+for  senior  financial  personnel  including  the  Chief  Financial  officer,  Treasurer  and 
+Financial Controller (or the officer who discharges these functions). 
+The Committee noted that the Birla Committee Report had defined the broad roles 
+and responsibilities of management. It was obligatory on the part of the Board of 
+Directors  of  a  company  to  define  a  code  of  conduct  for  itself  and  the  senior 
+management  of  the  company,  not  just  senior  financial  personnel.  Concerns  were 
+expressed  on  two  main  areas,  (a)  enforceability,  and  (b)  definition  of  senior 
+management.  The  Committee  also  noted  that  sample  codes  were  available  at 
+www.choan.edu. 
+Based on the deliberations and views expressed by several members, the Committee 
+makes the following mandatory recommendation: 
+
+Mandatory recommendation 
+It should be obligatory for the Board of a company to lay down the code of conduct for 
+all Board members and senior management of a company. This code of conduct shall 
+be posted on the website of the company. 
+All  Board  members  and  senior  management  personnel  shall  affirm  compliance  with 
+the  code  on  an  annual  basis.  The  annual  report  of  the  company  shall  contain  a 
+declaration to this effect signed off by the CEO and COO. 
+Explanation – For this purpose, the term “senior management” shall mean personnel of 
+the  company  who  are  members  of  its  management  /  operating  council  (i.e.  core 
+management  team  excluding  Board  of  Directors).  Normally,  this  would  comprise  all 
+members of management one level below the executive directors 
+
+3.8 
+3.8.1 
+3.8.1.1 
+
+3.8.1.2 
+
+Nominee directors 
+Exclusion of nominee directors from the definition of independent directors 
+It was suggested that nominee directors should be excluded from the definition of 
+independent directors. 
+The  Committee  felt  that  the  institution  of  nominee  directors  creates  a  conflict  of 
+interest that should be avoided. Such directors often claim that they are answerable 
+only to the institutions they represent and take no responsibility for the company’s 
+management or fiduciary responsibility to other shareholders. It is necessary that all 
+directors,  whether  representing  institutions  or  otherwise,  should  have  the  same 
+responsibilities and liabilities. 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 18 of 40 
+February 8, 2003 
+
+If the institution, whether as a lending institution or as investing institution, wishes 
+to appoint its nominee on the Board, such appointment should be made through the 
+normal process of election by the shareholders. 
+The Committee noted a dissenting view that FI nominees should not be granted any 
+Board  representation  rights.  Management  should  treat  them  on  par  with  other 
+investors  and  disseminate  the  same  information  that  other  shareholders  would 
+obtain. By virtue of their Board seat, FIs are placed in an advantageous position over 
+the other shareholders, in terms of company price-sensitive information. 
+Based  on  the  above  distinction,  the  Committee  makes  the  following  mandatory 
+recommendation: 
+
+Mandatory recommendation 
+There shall be no nominee directors. 
+Where  an  institution  wishes  to  appoint  a  director  on  the  Board,  such  appointment 
+should be made by the shareholders. 
+An institutional director, so appointed, shall have the same responsibilities and shall 
+be subject to the same liabilities as any other director. 
+Nominee of the Government on public sector companies shall be similarly elected and 
+shall be subject to the same responsibilities and liabilities as other directors. 
+
+ 
+
+ 
+ 
+3.8.1.3 
+
+3.8.1.4 
+
+3.8.1.5 
+
+ 
+
+ 
+ 
+
+3.9 
+3.9.1 
+3.9.1.1 
+
+Report of the Committee on Corporate Governance 
+Page 19 of 40 
+February 8, 2003 
+
+Non-Executive Director Compensation 
+Limits on compensation paid to independent directors 
+The  Committee  discussed  the  following  issues  relating  to  compensation  of 
+independent directors: 
+? 
+
+Whether limits should be set for compensation paid to independent directors 
+and how should these limits be determined; 
+What are the disclosures to be made to ensure transparency; and 
+In  case  of  stock-based  compensation,  the  vesting  timeframe  of  the  options 
+and  the  parameters  that  trigger  vesting  such  as  average  return  on  capital 
+employed, turnover criteria, etc. 
+
+? 
+? 
+
+3.9.1.2 
+
+Based on its deliberations, the Committee makes the following recommendation: 
+
+Mandatory recommendation 
+All  compensation  paid  to  non-executive  directors  may  be  fixed  by  the  Board  of 
+Directors and should be approved by shareholders in general meeting. Limits should 
+be set for the maximum number of stock options that can be  granted to non-executive 
+directors in any financial year and in aggregate. The stock options granted to the non-
+executive directors shall vest after a period of at least one year from the date such non-
+executive directors have retired from the Board of the Company. 
+Companies  should  publish  their  compensation  philosophy  and  statement  of  entitled 
+compensation 
+their  annual  report. 
+Alternatively,  this  may  be  put  up  on  the  company’s  website  and  reference  drawn 
+thereto in the annual report. 
+Companies should disclose on an annual basis, details of shares held by non-executive 
+directors, including on an “if-converted”  basis. 
+Non-executive directors should be required to disclose their stock holding (both own or 
+held by / for other persons on a beneficial basis) in the listed company in which they 
+are  proposed  to  be  appointed  as  directors,  prior  to  their  appointment.  These  details 
+should accompany their notice of appointment. 
+
+in  respect  of  non-executive  directors 
+
+in 
+
+ 
+
+ 
+ 
+
+3.10 
+3.10.1 
+3.10.1.1 
+
+Report of the Committee on Corporate Governance 
+Page 20 of 40 
+February 8, 2003 
+
+Independent Directors 
+Definition of independent directors 
+The Committee noted that the definition of independent directors should be clarified 
+in the recommendations. It observed that the definition of independent directors as 
+set  out  in  the  code  of  the  International  Corporate  Governance  Network  may  be 
+referred to. The Committee also noted that the Naresh Chandra Committee report 
+has attempted to define the term “independent director”. The Committee was of the 
+view that the same definition may be used to define independent directors. 
+
+3.10.1.2  An  issue  often  raised  in  the  context  of  independence  is  whether  independent 
+directors are entitled to any material benefits from the company other than sitting 
+fees,  remuneration,  and  travel  and  stay  arrangements.  Such  benefits  include  stock 
+options and performance bonuses that executive directors may be entitled to. The 
+central  issue  is  whether  such  benefits  serve  as  incentives  or  hindrances  to  the 
+objectivity of decision-making and hence, compromise its quality. It also needs to be 
+considered that restrictions such as these could disenchant a person from accepting 
+the  position  of  independent  director  that  carries  onerous  responsibilities  without 
+appropriate reward. 
+The Committee decided that the term “Independent director” shall have the same 
+meaning as contained in paragraph 4.1 of the Naresh Chandra Committee report. 
+Based on its deliberations, the Committee makes the following recommendation: 
+The term “independent director” is defined as a non-executive director of the company 
+who: 
+? 
+
+3.10.1.4 
+
+3.10.1.3 
+
+apart  from  receiving  director  remuneration,  does  not  have  any  material  pecuniary 
+relationships or transactions with the company, its promoters, its senior management or 
+its holding company, its subsidiaries and associated companies; 
+is not related to promoters or management at the board level or at one level below the 
+board;  
+has not been an executive of the company in the immediately preceding three financial 
+years;  
+is not a partner or an executive of the statutory audit firm or the internal audit firm that 
+is associated with the company, and has not been a partner or an executive of any such 
+firm for the last three years. This will also apply to legal firm(s) and consulting firm(s) 
+that have a material association with the entity. 
+is  not  a  supplier,  service  provider  or  customer  of  the  company.    This  should  include 
+lessor-lessee type relationships also;  and 
+is not a substantial shareholder of the company, i.e. owning two percent or more of the 
+block of voting shares. 
+
+? 
+
+? 
+
+? 
+
+? 
+
+? 
+
+The considerations as regards remuneration paid to an independent director shall be the same as 
+those applied to a non-executive director. 
+
+Whistle Blower Policy 
+Internal policy on access to audit committees 
+It  was  suggested  that  personnel  who  observe  an  unethical  or  improper  practice 
+should  be  able  to  approach  the  independent  audit  committee  without  necessarily 
+informing the Board. There should also be a mechanism for employees to be aware 
+of this privilege. 
+
+3.11 
+3.11.1 
+3.11.1.1 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 21 of 40 
+February 8, 2003 
+
+The Committee agreed with this suggestion. It also noted that the suggestion may be 
+accepted,  with  one  modification 
+i.e.  the  word  “board”  be  replaced  with 
+“supervisor”. 
+Based on the above, the Committee makes the following recommendation: 
+
+Mandatory recommendation 
+Personnel who observe an unethical or improper practice (not necessarily a violation of 
+law)  should  be  able  to  approach  the  audit  committee  without  necessarily  informing 
+their supervisors. 
+Companies shall take measures to ensure that this right of access is communicated to 
+all  employees  through  means  of  internal  circulars,  etc.  The  employment  and  other 
+personnel  policies  of  the  company  shall  contain  provisions  protecting  “whistle 
+blowers”  from unfair termination and other unfair prejudicial employment practices. 
+
+that  SEBI  should  monitor  compliance  with 
+
+Whistle blower policy 
+It  was  also  suggested 
+recommendation set out in Section 3.11.1 above. 
+The  Committee  noted  that  companies  should  affirm  periodically  (at  least  on  an 
+annual basis) that they have complied with this requirement. 
+The Committee also noted that it was necessary to provide protection to the internal 
+auditor  by  enhancing  his  independence.  This  can  be  done  by  mandating  that  the 
+appointment, removal and terms of remuneration of the chief internal auditor must 
+be subject to review by the Audit Committee. 
+Based  on  this  discussion,  the  Committee  makes  the  following  mandatory 
+recommendation: 
+
+the 
+
+ 
+ 
+3.11.1.2 
+
+3.11.1.3 
+
+ 
+3.11.2 
+3.11.2.1 
+
+3.11.2.2 
+
+3.11.2.3 
+
+3.11.2.4 
+
+Mandatory recommendation 
+Companies shall annually affirm that they have not denied any personnel access to the 
+audit committee of the company (in respect of matters involving alleged misconduct) 
+and that they have provided protection to “whistle blowers” from unfair termination 
+and other unfair or prejudicial employment practices. 
+The  appointment,  removal  and  terms  of  remuneration  of  the  chief  internal  auditor 
+must be subject to review by the Audit Committee. 
+Such affirmation shall form a part of the Board report on Corporate Governance that is 
+required to be prepared and submitted together with the annual report. 
+
+3.12 
+3.12.1 
+3.12.1.1 
+
+Subsidiary Companies 
+Audit committee requirements 
+It was suggested to the Committee that the requirements relating to non-executive / 
+independent directors and audit committees should be extended to subsidiaries of 
+listed companies. Further, the scope of the Audit Committee should be enlarged to 
+include  review  of  investments  made  by  subsidiaries  and  associates  to  ensure  that 
+Section 77 of Companies Act, 1956 is not violated. 
+
+ 
+
+ 
+ 
+3.12.1.2 
+
+Report of the Committee on Corporate Governance 
+Page 22 of 40 
+February 8, 2003 
+
+The Committee noted the following additional suggestions: 
+? 
+
+It may be difficult to monitor compliance with the suggestion, in the case of 
+associate  companies,  insofar  as  it  related  to  a  review  of  investments.  This 
+requirement  may,  therefore,  be  made  applicable  to  subsidiary  companies 
+only; 
+It should be recommended to the Central Government that the Companies 
+Act, 1956  should  be  amended  to  exclude  common  directorships  in  holding 
+and subsidiary companies, in computing the limits on directorships that an 
+individual may hold; 
+The provisions relating to the composition of the Board of Directors of the 
+holding  company  shall  also  be  made  applicable  to  the  composition  of  the 
+Board of Directors of subsidiary companies; 
+At least one-third of the Board of Directors of the subsidiary company shall 
+be non-executive directors of the parent company; 
+The Audit Committee of the parent company shall also review the financial 
+statements of the subsidiary company; 
+The minutes of the Board meeting of the subsidiary company shall be placed 
+for review at the Board meeting of the parent company; and 
+The  Board  report  of  the  parent  company  should  state  that  they  have 
+reviewed the affairs of the subsidiary company also. 
+
+? 
+
+? 
+
+? 
+
+? 
+
+? 
+
+? 
+
+3.12.1.3 
+
+Based  on  the  deliberations,  the  Committee  makes  the  following  mandatory 
+recommendation: 
+
+Mandatory recommendation 
+The  provisions  relating  to  the  composition  of  the  Board  of  Directors  of  the  holding 
+company should be made applicable to the composition of the Board of Directors of 
+subsidiary companies. 
+At  least  one  independent  director  on  the  Board  of  Directors  of  the  parent  company 
+shall be a director on the Board of Directors of the subsidiary company. 
+The Audit Committee of the parent company shall also review the financial statements, 
+in particular the investments made by the subsidiary company. 
+The  minutes  of  the  Board  meetings  of  the  subsidiary  company  shall  be  placed  for 
+review at the Board meeting of the parent company. 
+The  Board  report  of  the  parent  company  should  state  that  they  have  reviewed  the 
+affairs of the subsidiary company also. 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 23 of 40 
+February 8, 2003 
+
+Real Time Disclosures 
+Disclosure of critical business events 
+It  was  suggested  that  SEBI  should  issue  rules  relating  to  real-time  disclosures  of 
+certain  events  or  transactions  that  may  be  of  importance  to  investors,  within  3-5 
+business days. These would include events such as (a) a change in the control of the 
+company, (b) a company’s acquisition / disposal of a significant amount of assets, (c) 
+bankruptcy  or  receivership,  (d)  a  change  in  the  company’s  independent  auditors, 
+and (e) the resignation of a director. 
+The  Committee  noted  that  there  are  certain  practical  problems  in  ensuring  timely 
+disclosures. For example, a business transaction that is under negotiations may have 
+an impact on the market price. However, its disclosure may prejudice the underlying 
+business negotiations. 
+The  Committee  also  noted  the  issue  of  rumor  verification  by  stock  exchanges.  It 
+noted a view that Board decisions that were price sensitive should be disclosed to 
+the markets within 15 minutes. Stock exchanges are currently responsible for rumor 
+verification.  The  Committee  however  believed  that  this  issue  needs  to  be  studied 
+with  much  greater  depth  by  SEBI  and  the  stock  exchanges,  and  should  not  be 
+restricted to a corporate governance perspective alone. 
+The Committee was of the view that no recommendation would be made to SEBI in 
+respect of this suggestion. 
+
+Evaluation of Board Performance 
+Mechanism for evaluating non-executive board members 
+The Committee received the following suggestions: 
+? 
+
+The performance evaluation of non-executive directors should be done by a 
+peer group comprising the entire Board of Directors, excluding the director 
+being evaluated; and 
+Peer  group  evaluation  should  be  the  mechanism  to  determine  whether  to 
+extend / continue the terms of appointment of non-executive directors. 
+
+? 
+
+The  Committee  noted  that  evaluation  of  Board  members  is  in  a  germane  stage  in 
+India. It is necessary to have a robust process in place for such evaluation. It is also 
+necessary  to  ensure  continuity  of  top  leadership,  including  CEO  succession 
+planning.  However, 
+this  should  be  of  a 
+recommendatory  nature  at  first,  before  becoming  a  mandatory  requirement.  This 
+will  help  companies  develop  robust  processes  for  Board  evaluation.  This  may  be 
+made mandatory after a period of 4 – 5 years. 
+Based  on  the  above  deliberations,  the  Committee  makes  the  following  non-
+mandatory recommendation: 
+
+the  Committee  believes 
+
+that 
+
+Non-mandatory recommendation 
+The  performance  evaluation  of  non-executive  directors  should  be  by  a  peer  group 
+comprising the entire Board of Directors, excluding the director being evaluated; and 
+Peer  group  evaluation  should  be  the  mechanism  to  determine  whether  to  extend  / 
+continue the terms of appointment of non-executive directors. 
+
+ 
+ 
+
+3.13 
+3.13.1 
+3.13.1.1 
+
+3.13.1.2 
+
+3.13.1.3 
+
+3.13.1.4 
+
+3.14 
+3.14.1 
+3.14.1.1 
+
+3.14.1.2 
+
+3.14.1.3 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 24 of 40 
+February 8, 2003 
+
+Analyst Reports 
+Disclosures in reports issued by security analysts 
+It was suggested that rules should be put in place by SEBI regarding reports issued 
+by security analysts. 
+The Committee noted that the integrity and credibility of reports issued by security 
+analysts  could  be  compromised  owing  to  pressures  to  which  the  security  analyst 
+may be subject. This is because of the conflict of interest that arises between the stock 
+analysts  and  their  employing  brokerage  /  investment-  banking  firms,  on  the  one 
+hand  and  the  listed  companies  that  the  stock  analysts  write  reports  about,  on  the 
+other hand. 
+Based  on  the  discussions,  the  Committee  makes  the  following  mandatory 
+recommendation: 
+
+Mandatory recommendation 
+SEBI should make rules for the following: 
+? 
+
+? 
+
+Disclosure in the report issued by a security analyst whether the company that 
+is being written about is a client of the analyst’s employer or an associate of the 
+analyst’s  employer,  and  the  nature  of  services  rendered  to  such  company,  if 
+any; and 
+Disclosure in the report issued by a security analyst whether the analyst or the 
+analyst’s employer or an associate of the analyst’s employer hold or held (in the 
+12 months immediately preceding the date of the report) or intend to hold any 
+debt or equity instrument in the issuer company that is the subject matter of 
+the report of the analyst. 
+
+____________________________________ 
+
+ 
+ 
+
+3.15 
+3.15.1 
+3.15.1.1 
+
+3.15.1.2 
+
+3.15.1.3 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+4. 
+
+4.1 
+4.1.1 
+
+4.1.2 
+
+4.2 
+
+4.2.1 
+
+Report of the Committee on Corporate Governance 
+Page 25 of 40 
+February 8, 2003 
+
+Recommendations of the Naresh Chandra Committee  
+
+Background 
+Section 2.3.8 of this Report states that the Committee would also recommend that the 
+following  mandatory  recommendations  in  the  report  of  the  Naresh  Chandra 
+Committee, relating to corporate governance, be implemented by SEBI. 
+This section sets out such recommendations of the Naresh Chandra Committee that 
+were considered by this Committee. 
+
+Disclosure  of  Contingent  Liabilities  (Section 2.5  of  Naresh  Chandra 
+Committee Report) 
+The Committee makes the following mandatory recommendation: 
+
+Management  should  provide  a  clear  description  in  plain  English  of  each  material 
+contingent liability and its risks, which should be accompanied by the auditor’s clearly 
+worded comments on the management’s view. This section should be highlighted in 
+the significant accounting policies and notes on accounts, as well as, in the auditor’s 
+report, where necessary. 
+This is important because investors and shareholders should obtain a clear view of a 
+company’s  contingent  liabilities  as  these  may  be  significant  risk  factors  that  could 
+adversely affect the company’s future financial condition and results of operations. 
+
+4.3 
+
+4.3.1 
+
+CEO / CFO Certification (Section 2.10 of Naresh Chandra Committee 
+Report) 
+The Committee makes the following mandatory recommendation: 
+
+For  all  listed  companies,  there  should  be  a  certification  by  the  CEO  (either  the  Executive 
+Chairman or the Managing Director) and the CFO (whole-time Finance Director or other person 
+discharging this function) which should state that, to the best of their knowledge and belief: 
+? 
+
+They have reviewed the balance sheet and profit and loss account and all its schedules 
+and notes on accounts, as well as the cash flow statements and the Directors’  Report; 
+These statements do not contain any material untrue statement or omit any material fact 
+nor do they contain statements that might be misleading; 
+These  statements  together  present  a  true  and  fair  view  of  the  company,  and  are  in 
+compliance with the existing accounting standards and / or applicable laws / regulations; 
+They  are  responsible  for  establishing  and  maintaining  internal  controls  and  have 
+evaluated the effectiveness of internal control systems of the company; and they have also 
+disclosed to the auditors and the Audit Committee, deficiencies in the design or operation 
+of internal controls, if any, and what they have done or propose to do to rectify these; 
+They  have  also  disclosed  to  the  auditors  as  well  as  the  Audit  Committee,  instances  of 
+significant fraud, if any, that involves management or employees having a significant role 
+in the company’s internal control systems; and 
+They have indicated to the auditors, the Audit Committee and in the notes on accounts, 
+whether or not there were significant changes in internal control and / or of accounting 
+policies during the year. 
+
+? 
+
+? 
+
+? 
+
+? 
+
+? 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 26 of 40 
+February 8, 2003 
+
+Definition  of  Independent  Director  (Section 4.1  of  Naresh  Chandra 
+Committee Report) 
+This has been incorporated in clause 3.10.1.4 of this Report. 
+
+Independence  of  Audit  Committee  (Section 4.7  of  Naresh  Chandra 
+Committee Report) 
+The Committee makes the following mandatory recommendation: 
+All audit committee members shall be non-executive directors 
+
+Independent  Director  Exemptions  (Section 4.10  of  Naresh  Chandra 
+Committee Report) 
+The Committee makes the following recommendation: 
+Legal  provisions  must  specifically  exempt  non-executive  and  independent  directors 
+from  criminal  and  civil  liabilities  under  certain  circumstances.  SEBI  should 
+recommend that such exemptions need to be specifically spelt out for the relevant laws 
+by the relevant departments of the Government and independent regulators, as the case 
+may be. 
+However,  independent  directors  should  periodically  review  legal  compliance  reports 
+prepared by the company as well as steps taken by the company to cure any taint. In 
+the event of any proceedings against an independent director in connection with the 
+affairs  of  the  company,  defense  should  not  be  permitted  on  the  ground  that  the 
+independent director was unaware of this responsibility. 
+
+____________________________________ 
+
+ 
+ 
+
+4.4 
+
+4.4.1 
+
+4.5 
+
+4.5.1 
+
+4.6 
+
+4.6.1 
+
+ 
+
+ 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 27 of 40 
+February 8, 2003 
+
+Other Suggestions and the Committee’s Response 
+Background 
+The  Committee  also  received  certain  other  suggestions  relating  to  corporate 
+governance. These suggestions and the Committee’s response / recommendation are 
+set out in the following paragraphs. 
+Harmonization 
+It  was  suggested  that  SEBI  should  work  towards  harmonizing  the  provisions  of 
+clause 49 of the Listing Agreement and those of the Companies Act, 1956. 
+The  Committee  noted  that  major  differences  between  the  requirements  under 
+clause 49 and the provisions of the Companies Act, 1956 should be identified. SEBI 
+should then recommend to the Government that the provisions of the Companies 
+Act, 1956  be  changed  to  bring  it  in  line  with  the  requirements  of  the  Listing 
+Agreement. 
+Removal of Independent Directors 
+It was suggested that companies should inform SEBI / stock exchanges within five 
+business days of the removal / resignation of an independent director, along with a 
+statement certified by the managing director / director / company secretary about 
+the circumstances of such removal / resignation (specifically whether there was any 
+disagreement  with  the 
+independent  director  that  caused  such  removal  / 
+resignation). Any independent director sought to be removed or who has resigned 
+because  of  a  disagreement  with  management  should  have  the  opportunity  to  be 
+heard in general meeting. 
+The Committee noted that under the existing provisions, companies are required to 
+inform the stock exchanges of any changes in directors. The existing safeguards are 
+adequate and hence no further action is required. 
+Disgorgement of Profits 
+It was suggested that CEOs / COOs / CFOs should disgorge equity or incentive-
+based  compensation,  or  profits  arising  from  trading  in  company  stock,  if  a 
+restatement  of  financial  statements  is  required  or  if  there  is  any  corporate 
+misconduct leading to a financial liability. 
+The  Committee  noted  that  this  was  one  of  the  recommendations  of  the  Naresh 
+Chandra  Committee.  Therefore,  the  Committee  resolved  that  no  further  action  is 
+required at this stage. 
+Term of Office of Non-Executive Directors 
+It was suggested that there must be a cap on the term of office of a non-executive 
+director. 
+The Committee noted that persons should be eligible for the office of non-executive 
+director so long as the term of office did not exceed nine years (in three terms of 
+three  years  each,  running  continuously).  [Also  refer  to  recommendation  under 
+Section 3.9 of this Report] 
+
+ 
+ 
+5 
+5.1 
+5.1.1 
+
+5.2 
+5.2.1 
+
+5.2.2 
+
+5.3 
+5.3.1 
+
+5.3.2 
+
+5.4 
+5.4.1 
+
+5.4.2 
+
+5.5 
+5.5.1 
+
+5.5.2 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 28 of 40 
+February 8, 2003 
+
+The Committee also noted that it would be a good practice for directors to retire after 
+a particular age. Companies may fix the retirement age at either 65 or 70 years. 
+The  Committee  recommends  that  the  age  limit  for  directors  to  retire  should  be 
+decided  by  companies  themselves.  Corporate  Boards  should  have  an  adequate 
+mechanism of self-renewal, as part of corporate governance best practices. 
+Corporate Governance Ratings 
+It was suggested that corporate governance practices followed by companies should 
+be rated using rating models. It was also suggested that companies should be rated 
+based on parameters of wealth generation, maintenance and sharing, as well as on 
+corporate governance. 
+The  Committee  deliberated  and  noted  that  corporate  governance  ratings  are 
+desirable,  as  this  will  provide  a  process  of  independent  appraisal.  Certain  rating 
+agencies have begun work in this area; however, the process is still in a development 
+phase and may need to be evolved based on future experience. 
+The  Committee  is  therefore  of  the  view  that  for  the  time  being,  it  should  not  be 
+mandatory  for  companies  to  be  rated  on  corporate  governance  parameters. 
+However, it should be left to the management of companies to decide whether they 
+want to be rated or not, on corporate governance. 
+Media Scrutiny 
+The  Committee  considered  the  views  expressed  by  members  on  scrutiny  of  the 
+media, especially the financial press. A code of conduct for the financial media is 
+already prescribed by the Press Council of India. However, verifying adherence to 
+this  code  of  conduct  is  difficult  in  the  current  circumstances.  The  Committee 
+suggests that it is desirable for SEBI to review this issue in greater detail, keeping in 
+mind  issues  like  transparency  and  disclosures,  conflicts  of  interest,  etc,  before 
+making any final rule. 
+The  Committee  noted  that  SEBI  should  consider  discussing  this  issue  with 
+representatives of the media, especially the financial press. 
+
+____________________________________ 
+
+ 
+ 
+5.5.3 
+
+5.5.4 
+
+5.6 
+5.6.1 
+
+5.6.2 
+
+5.6.3 
+
+5.7 
+5.7.1 
+
+5.7.2 
+
+ 
+
+ 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 29 of 40 
+February 8, 2003 
+
+Implementation and Way Forward 
+The  Committee  noted  that  the  recommendations  contained  in  this  Report  can  be 
+implemented by means of an amendment to the Listing Agreement, with changes 
+made to the existing clause 49. 
+A primary issue that arises with implementation is whether the recommendations 
+should  be  made  applicable  to  all  companies  immediately  or  in  a  phased  manner 
+since the costs of compliance may be large for certain companies. Another issue is 
+whether to extend the applicability of these recommendations to companies that are 
+registered with BIFR. In the case of such companies, there is likely to be almost little 
+or no trading in their shares on the stock exchanges. 
+The  Committee  believes  that  the  recommendations  should  be  implemented  for  all 
+companies to which clause 49 apply. This would also continue to apply to companies 
+that have been registered with BIFR, subject to any directions that BIFR may provide 
+in this regard. 
+ 
+End Note 
+There are several corporate governance structures available in the developed world, 
+but  there  is  no  one  structure,  which  can  be  singled  out  as  being  better  than  the 
+others.  There  is  no  “one  size  fits  all”  structure  for  corporate  governance.  The 
+Committee’s recommendations are not, therefore, based on any one model, but, are 
+designed  for  the  Indian  environment.  Corporate  governance  extends  beyond 
+corporate law. Its fundamental objective is not mere fulfillment of the requirements 
+of law, but, in ensuring commitment of the Board in managing the company in a 
+transparent manner for maximizing long-term shareholder value.  
+Corporate  governance  has  as  many  votaries  as  claimants.  Among  the  latter,  the 
+Committee  has  primarily 
+investors  and 
+shareholders, as they are the prime constituencies of SEBI. Effectiveness of a system 
+of corporate governance cannot be legislated by law nor can any system of corporate 
+governance be static. In a dynamic environment, systems of corporate governance 
+need to continually evolve. The Committee believes that its recommendations raise 
+the standards of corporate governance in Indian firms and make them attractive for 
+domestic  and  global  capital.  These  recommendations  will  also  form  the  base  for 
+further evolution of the structure of corporate governance in consonance with the 
+rapidly  changing  economic  and  industrial  environment  of  the  country  in  the  new 
+millennium. 
+
+its  recommendations  on 
+
+focused 
+
+____________________________________ 
+
+ 
+ 
+6 
+6.1 
+
+6.2 
+
+6.3 
+
+6.4 
+
+6.5 
+
+ 
+
+ 
+
+ 
+
+Signatures Page: 
+Shri N R Narayana Murthy, Chairman & Chief Mentor, Infosys 
+Technologies Limited - Chairman of the Committee  
+
+Report of the Committee on Corporate Governance 
+Page 30 of 40 
+February 8, 2003 
+
+Shri Y H Malegam, Managing Partner, S B Billimoria & Co. 
+
+Shri Ravi Narain, Managing Director, NSE 
+
+Shri A C Muthiah, President, FICCI 
+
+Shri R K Somany, President, ASSOCHAM 
+
+Shri Ashok Soota, President, CII 
+
+Shri M K Doogar, Representative, PHDCCI  
+
+Shri Sumit Mazumder, President, BCCI 
+
+Shri Kamlesh S. Vikamsey, Member – Central Council, ICAI 
+
+Shri S Gangopadhyay, President, ICSI 
+
+Shri T. R. Ramaswami, CEO, AMBI 
+
+Dr. Manoj Vaish, Executive Director, BSE 
+
+Shri A K Narayan, President, Tamil Nadu Investors Association 
+
+Shri Nitin Shingala, Investors Grievances Forum 
+
+Prof. Manubhai Shah, Managing Trustee, CERC 
+
+Shri Omkar Goswami, Chief Economist, CII 
+
+Ms Sucheta Dalal, Consulting Editor, Financial Express 
+
+Shri R Gopalakrishnan, Executive Director, Tata Sons Ltd. 
+
+Shri D M Satwalekar, M D & CEO, HDFC Standard Life Insurance 
+
+Shri M K Chouhan, Chairman, Mahendra & Young Knowledge 
+Foundation 
+
+Ms. D N Raval, Executive Director, SEBI 
+
+Shri Pratip Kar,  Executive Director , SEBI 
+
+Shri P K Bindlish, General Manager, SEBI, Member Secretary 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SMDRP/POLICY/CIR-10/2000 
+February 21, 2000 
+
+ 
+ 
+The Presidents/Executive Directors 
+Managing Directors of all Stock Exchanges 
+ 
+Dear Sir/Madam, 
+ 
+SEBI had constituted a Committee on Corporate Governance under the Chairmanship of Shri Kumar 
+Mangalam Birla, Member, SEBI Board to promote and raise the standard of Corporate Governance in 
+respect  of listed companies.  The SEBI Board in its meeting held on January 25, 2000 considered the 
+recommendation of the Committee and decided to make the amendments to the listing agreement in 
+pursuance of the decision of the Board, it is advised that a new clause, namely clause 49, be incorporate 
+in the listing agreement as under: 
+ 
+49.  Corporate Governance  
+ 
+I. 
+ 
+A)  The company agrees that the board of directors of the company shall have an optimum 
+
+Board of Directors 
+
+combination of executive and non-executive directors with not less than fifty percent of the board 
+of directors comprising of non-executive directors. The number of independent directors would 
+depend whether the Chairman is executive or non-executive. In case of a non-executive chairman, 
+at least one-third of board should comprise of independent directors and in case of an executive 
+chairman, at least half of board should comprise of independent directors. 
+
+Explanation: For the purpose of this clause the expression ‘independent directors’  means directors 
+who  apart  from  receiving  director’s  remuneration,  do  not  have  any  other  material  pecuniary 
+relationship or transactions with the company, its promoters, its management or its subsidiaries, 
+which in judgement of the board may affect independence of judgement of the director. 
+ 
+
+B)  The company agrees that all pecuniary relationship or transactions of the non-executive directors 
+
+viz-a-viz. the company should be disclosed in the Annual Report. 
+
+Report of the Committee on Corporate Governance 
+Page 31 of 40 
+February 8, 2003 
+
+EXECUTIVE DIRECTOR  
+SECONDARY MARKET, DEPOSITORY, 
+RESEARCH & PUBLICATIONS DEPARTMENT 
+E-mail: pkar@sebi.gov.in 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 32 of 40 
+February 8, 2003 
+
+ 
+ 
+II 
+ 
+A)  The company agrees that a qualified and independent audit committee shall be set up and that :  
+ 
+
+Audit Committee 
+
+a)  The audit committee shall have minimum three members, all being non-executive directors, 
+with the majority of them being independent, and with at least one director having financial 
+and accounting knowledge; 
+
+b)  The chairman of the committee shall be an independent director; 
+c)  The chairman shall be present at Annual General Meeting  to answer shareholder queries; 
+d)  The audit committee should invite such of the executives, as it considers appropriate (and 
+
+particularly the head of the finance function) to be present at the meetings of the committee, but 
+on occasions it may also meet without the presence of any executives of the company.  The 
+finance director, head of internal audit and when required, a representative of the external 
+auditor shall be present as invitees for the meetings of the audit committee; 
+
+e)  The Company Secretary shall act as the secretary to the committee. 
+
+ 
+B)  The audit committee shall meet at least thrice a year. One meeting shall be held before finalisation 
+
+of annual accounts and one every six months. The quorum shall be either two members or one 
+third of the members of the audit committee, whichever is higher and minimum of two 
+independent directors.  
+
+ 
+C)  The audit committee shall have powers which should include the following :  
+ 
+
+a)  to investigate any activity within its terms of reference. 
+b)  to seek information from any employee. 
+c)  to obtain outside legal or other professional advice. 
+d)  to secure attendance of outsiders with relevant expertise, if it considers necessary. 
+
+ 
+D)  The company agrees that the role of the audit committee shall include the following. 
+ 
+
+a)  Oversight of the company’s financial reporting process and the disclosure of its financial 
+
+information to ensure that the financial statement is correct, sufficient and credible. 
+
+b)  Recommending the appointment and removal of external auditor, fixation of audit fee and also 
+
+approval for payment for any other services. 
+
+c)  Reviewing with management the annual financial statements before submission to the board, 
+
+focusing primarily on; 
+?  Any changes in accounting policies and practices. 
+?  Major accounting entries based on exercise of judgement by management. 
+?  Qualifications in draft audit report. 
+?  Significant adjustments arising out of audit. 
+?  The going concern assumption. 
+?  Compliance with accounting standards. 
+?  Compliance with stock exchange and legal requirements concerning financial statements  
+?  Any related party transactions i.e. transactions of the company of material nature, with 
+
+promoters or the management, their subsidiaries or relatives etc. that may have potential 
+conflict with the interests of company at large. 
+
+ 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 33 of 40 
+February 8, 2003 
+
+d)  Reviewing with the management, external and internal auditors, the adequacy of internal 
+
+control systems. 
+
+e)  Reviewing the adequacy of internal audit function, including the structure of the internal audit 
+
+department, staffing and seniority of the official heading the department, reporting structure 
+coverage and frequency of internal audit. 
+
+ 
+f)  Discussion with internal auditors any significant findings and follow up there on. 
+g)  Reviewing the findings of any internal investigations by the internal auditors into matters 
+where there is suspected fraud or irregularity or a failure of internal control systems of a 
+material nature and reporting the matter to the board. 
+
+h)  Discussion with external auditors before the audit commences nature and scope of audit as well 
+
+as have post-audit discussion to ascertain any area of concern. 
+
+i)  Reviewing the company’s financial and risk management policies. 
+j)  To look into the reasons for substantial defaults in the payment to the depositors, debenture 
+
+holders, shareholders (in case of non payment of declared dividends) and creditors. 
+
+ 
+E)  If the company has set up an audit committee pursuant to provision of the Companies Act, the 
+
+company agrees that the said audit committee shall have such additional functions / features as is 
+contained in the Listing Agreement. 
+
+ 
+III. 
+ 
+A)  The company agrees that the remuneration of non-executive directors shall be decided by the 
+
+Remuneration of Directors 
+
+board of directors. 
+
+ 
+B)  The company further agrees that the following disclosures on the remuneration of directors shall 
+
+be made in the section on the corporate governance of the annual report. 
+
+?  All elements of remuneration package of all the directors i.e. salary, benefits, bonuses, stock 
+
+ 
+ 
+
+ 
+
+ 
+
+options, pension etc. 
+
+criteria. 
+
+?  Details of fixed component and performance linked incentives, along with the performance 
+
+?  Service contracts, notice period, severance fees. 
+?  Stock option details, if any – and whether issued at a discount as well as the period over 
+
+which accrued and over which exercisable. 
+
+ 
+Board Procedure  
+
+IV. 
+ 
+A)  The company agrees that the board meeting shall be held at least four times a year, with a 
+
+maximum time gap of four months between any two meetings. The minimum information to be 
+made available to the board is given in Annexure–I. 
+
+ 
+B)  The company further agrees that a director shall not be a member in more than 10 committees or 
+
+act as Chairman of more than five committees across all companies in which he is a director. 
+Furthermore it should be a mandatory annual requirement for every director to inform the 
+company about the committee positions he occupies in other companies and notify changes as and 
+when they take place. 
+
+Report of the Committee on Corporate Governance 
+Page 34 of 40 
+February 8, 2003 
+
+ 
+ 
+V.  Management 
+  
+A)  The company agrees that as part of the directors’  report or as an addition there to, a Management 
+
+Discussion and Analysis report should form part of the annual report to the shareholders. This 
+Management Discussion & Analysis should include discussion on the following matters within the 
+limits set by the company’s competitive position: 
+
+a)  Industry structure and developments. 
+b)  Opportunities and Threats. 
+c)  Segment–wise or product-wise performance. 
+d)  Outlook  
+e)  Risks and concerns. 
+f) 
+g)  Discussion on financial performance with respect to operational performance. 
+h)  Material developments in Human Resources / Industrial Relations front, including number of 
+
+Internal control systems and their adequacy. 
+
+people employed. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+B)  Disclosures must be made by the management to the board relating to all material financial and 
+
+commercial transactions, where they have personal interest, that may have a potential conflict with 
+the interest of the company at large (for e.g. dealing in company shares, commercial dealings with 
+bodies, which have shareholding of management and their relatives etc.) 
+
+ 
+ 
+VI. 
+ 
+A)  The company agrees that in case of the appointment of a new director or re-appointment of a 
+
+Shareholders 
+
+director the shareholders must be provided with the following information: 
+
+a)  A brief resume of the director; 
+b)  Nature of his expertise in specific functional areas ; and  
+c)  Names of companies in which the person also holds the directorship and the membership of 
+
+Committees of the board. 
+
+ 
+B)  The company further agrees that information like quarterly results, presentation made by 
+
+companies to analysts shall be put on company’s web-site, or shall be sent in such a form so as to 
+enable the stock exchange on which the company is listed to put it on its own web-site. 
+
+ 
+C)  The company further agrees that a board committee under the chairmanship of a non-executive 
+
+director shall be formed to specifically look into the redressing of shareholder and investors 
+complaints like transfer of shares, non-receipt of balance sheet, non-receipt of declared dividends 
+etc.  This Committee shall be designated as ‘Shareholders/Investors Grievance Committee’.   
+
+ 
+D)  The company further agrees that to expedite the process of share transfers the board of the 
+
+company shall delegate the power of share transfer to an officer or a committee or to the registrar 
+and share transfer agents. The delegated authority shall attend to share transfer formalities at least 
+once in a fortnight. 
+
+Report of the Committee on Corporate Governance 
+Page 35 of 40 
+February 8, 2003 
+
+ 
+ 
+VII.  Report on Corporate Governance 
+ 
+
+The company agrees that there shall be a separate section on Corporate Governance in the annual 
+reports of company, with a detailed compliance report on Corporate Governance. Non compliance 
+of any mandatory requirement i.e. which is part of the listing agreement with reasons there of and 
+the  extent  to  which  the  non-mandatory  requirements  have  been  adopted  should  be  specifically 
+highlighted. The suggested list of items to be included in this report is given in Annexure-2 and list 
+of non-mandatory requirements is given in  Annexure – 3. 
+
+ 
+VIII.  Compliance 
+
+ 
+The company agrees that it shall obtain a certificate from the auditors of the company regarding 
+compliance  of  conditions  of  corporate  governance  as  stipulated  in  this  clause  and  annexe    the 
+certificate with the directors’  report, which is sent annually to all the shareholders of the company. 
+The same certificate shall also be sent to the Stock Exchanges along with the annual returns filed by 
+the company. 
+
+ 
+Schedule of Implementation: 
+ 
+The  above  amendments  to  the  listing  agreement  have  to  be  implemented  as  per  schedule  of 
+implementation given below: 
+ 
+
+?  By all entities seeking listing for the first time, at the time of listing.  
+?  Within financial year 2000-2001,but not later than March 31, 2001 by all entities, which are 
+included either in Group ‘A’of the BSE or in S&P CNX Nifty index as on January 1, 2000. 
+However to comply with the recommendations, these companies may have to begin the process 
+of implementation as early as possible.  
+
+?  Within financial year 2001-2002,but not later than March 31, 2002 by all the entities which are 
+
+presently listed, with paid up share capital of Rs. 10 crore and above, or networth of Rs 25 crore 
+or more any time in the history of the company. 
+
+?  Within financial year 2002-2003,but not later than March 31, 2003 by all the entities which are 
+
+presently listed, with paid up share capital of Rs.3 crore and above 
+
+?  As regards the non-mandatory requirement given in Annexure - 3, they shall be implemented 
+as per the discretion of the company.  However, the disclosures of the adoption/non-adoption 
+of the non-mandatory requirements shall be made in the section on corporate governance of the 
+Annual Report. 
+
+ 
+Yours faithfully, 
+ 
+ 
+ 
+ 
+PRATIP KAR 
+ 
+Encl. : Annexures. 
+ 
+
+ 
+
+Information to be placed before board of directors 
+ 
+1.  Annual operating plans and budgets and any updates. 
+2.  Capital budgets and any updates. 
+3.  Quarterly results for the company and its operating divisions or business segments. 
+4.  Minutes of meetings of audit committee and other committees of the board. 
+5.  The information on recruitment and remuneration of senior officers just below the board level, 
+
+including appointment or removal of Chief Financial Officer and the Company Secretary. 
+
+6.  Show cause, demand, prosecution notices and penalty notices which are materially important  
+7.  Fatal or serious accidents, dangerous occurrences, any material effluent or pollution problems. 
+8.  Any material default in financial obligations to and by the company, or substantial non-payment 
+
+for goods sold by the company. 
+
+9.  Any issue, which involves possible public or product liability claims of substantial nature, 
+including any judgement or order which, may have passed strictures on the conduct of the 
+company or taken an adverse view regarding another enterprise that can have negative 
+implications on the company. 
+
+10. Details of any joint venture or collaboration agreement. 
+11. Transactions that involve substantial payment towards goodwill, brand equity, or intellectual 
+
+property. 
+
+business. 
+
+12. Significant labour problems and their proposed solutions. Any significant development in Human 
+Resources/ Industrial Relations front like signing of wage agreement, implementation of Voluntary 
+Retirement Scheme etc. 
+
+13. Sale of material nature, of investments, subsidiaries, assets, which is not in normal course of 
+
+14. Quarterly details of foreign exchange exposures and the steps taken by management to limit the 
+
+risks of adverse exchange rate movement, if material. 
+
+15. Non-compliance of any regulatory, statutory nature or listing requirements and shareholders 
+
+service such as non-payment of dividend, delay in share transfer etc. 
+
+Report of the Committee on Corporate Governance 
+Page 36 of 40 
+February 8, 2003 
+
+ 
+ 
+Annexure 1 
+ 
+
+ 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 37 of 40 
+February 8, 2003 
+
+ 
+ 
+Annexure 2 
+ 
+Suggested List Of Items To Be Included In The Report On Corporate Governance In The Annual 
+Report Of Companies 
+ 
+1.  A brief statement on company’s philosophy on code of governance. 
+ 
+2. 
+
+ Board of Directors: 
+?  Composition and category of directors for example promoter, executive, non-executive, 
+
+independent non-executive, nominee director, which institution represented as Lender or as 
+equity investor. 
+
+?  Attendance of each director at the BoD meetings and the last AGM. 
+?  Number of other BoDs or Board Committees he/she is a member or Chairperson of. 
+?  Number of BoD meetings held, dates on which held. 
+
+?  Disclosures on materially significant related party transactions i.e. transactions of the company 
+
+of material nature, with its promoters, the directors or the management, their subsidiaries or 
+relatives etc. that may have potential conflict with the interests of company at large.  
+
+?  Details of non-compliance by the company, penalties, strictures imposed on the company by 
+Stock Exchange or SEBI or any statutory authority, on any matter related to capital markets, 
+during the last three years. 
+
+ 
+
+ 
+3.  Audit Committee. 
+
+?  Brief description of terms of reference 
+?  Composition, name of members and Chairperson 
+?  Meetings and attendance during the year 
+
+ 
+4.  Remuneration Committee. 
+
+?  Brief description of terms of reference 
+?  Composition, name of members and Chairperson 
+?  Attendance during the year 
+?  Remuneration policy 
+?  Details of remuneration to all the directors, as per format in main report. 
+
+ 
+5.  Shareholders Committee. 
+
+?  Name of non-executive director heading the committee 
+?  Name and designation of compliance officer 
+?  Number of shareholders complaints received so far 
+?  Number not solved to the satisfaction of shareholders 
+?  Number of pending share transfers 
+
+ 
+6.  General Body meetings. 
+
+?  Location and time, where last three AGMs held. 
+?  Whether special resolutions  
+?  Were put through postal ballot last year, details of voting pattern. 
+?  Person who conducted the postal ballot exercise 
+?  Are proposed to be conducted through postal ballot  
+?  Procedure for postal ballot 
+
+ 
+7.  Disclosures.  
+
+Report of the Committee on Corporate Governance 
+Page 38 of 40 
+February 8, 2003 
+
+ 
+ 
+8.  Means of communication. 
+
+?  Half-yearly report sent to each household of shareholders. 
+?  Quarterly results 
+?  Which newspapers normally published in. 
+?  Any website, where displayed 
+?  Whether it also displays official news releases; and  
+?  The presentations made to institutional investors or to the analysts. 
+?  Whether MD&A is a part of annual report or not. 
+
+ 
+9.  General Shareholder information 
+?  AGM : Date, time and venue 
+?  Financial Calendar  
+?  Date of Book closure 
+?  Dividend Payment Date 
+?  Listing on Stock Exchanges 
+?  Stock Code 
+?  Market Price Data : High., Low during each month in last financial year 
+?  Performance in comparison to broad-based indices such as BSE Sensex, CRISIL index etc. 
+?  Registrar and Transfer Agents 
+?  Share Transfer System 
+?  Distribution of shareholding 
+?  Dematerialization of shares and liquidity 
+?  Outstanding GDRs/ADRs/Warrants or any Convertible instruments, conversion date and 
+
+likely impact on equity 
+
+?  Plant Locations 
+?  Address for correspondence 
+
+ 
+
+ 
+
+Report of the Committee on Corporate Governance 
+Page 39 of 40 
+February 8, 2003 
+
+ 
+ 
+Annexure – 3 
+
+ 
+1.  Non-Mandatory Requirements  
+2. 
+a) 
+
+ 
+
+Chairman of the Board 
+A non-executive Chairman should be entitled to maintain a Chairman’s office at the company’s 
+expense and also allowed reimbursement of expenses incurred in performance of his duties.  
+
+ 
+b) 
+
+ 
+
+ 
+
+ 
+
+ 
+c) 
+
+ 
+
+Remuneration Committee 
+i.  The board should set up a remuneration committee to determine on their behalf and on 
+
+behalf of the shareholders with agreed terms of reference, the company’s policy on specific 
+remuneration packages for executive directors including pension rights and any 
+compensation payment.  
+
+ii.  To avoid conflicts of interest, the remuneration committee, which would determine the 
+
+remuneration packages of the executive directors should comprise of at least three directors, 
+all of whom should be non-executive directors, the chairman of committee being an 
+independent director.  
+
+iii.  All the members of the remuneration committee should be present at the meeting.  
+
+iv.  The Chairman of the remuneration committee should be present at the Annual General 
+
+Meeting, to answer the shareholder queries. However, it would be up to the Chairman to 
+decide who should answer the queries.  
+
+Shareholder Rights 
+3.  The half-yearly declaration of financial performance including summary of the significant 
+events in last six-months, should be sent to each household of shareholders. 
+
+6.  Currently, although the formality of holding the general meeting is gone through, in actual 
+practice only a small fraction of the shareholders of that company do or can really participate 
+therein.  This virtually makes the concept of corporate democracy illusory.  It is imperative that 
+this situation which has lasted too long needs an early correction. In this context, for 
+shareholders who are unable to attend the meetings, there should be a requirement which will 
+enable them to vote by postal ballot for key decisions. Some of the critical matters which should 
+be decided by postal ballot are given below :   
+7. 
+a)  Maters relating to alteration in the memorandum of association of the company like 
+
+ 
+
+changes in name, objects, address of registered office etc; 
+
+b)  Sale of whole or substantially the whole of the undertaking; 
+c)  Sale of investments in the companies, where the shareholding or the voting rights of the 
+
+company exceeds 25%; 
+
+d)  Making a further issue of shares through preferential allotment or private placement basis; 
+e)  Corporate restructuring; 
+f)  Entering a new business area not germane to the existing business of the company; 
+g)  Variation in rights attached to class of securities; 
+h)  Matters relating to change in management 
+
+ 
+
+4. 
+5.  d)  Postal Ballot 
+
+Report of the Committee on Corporate Governance 
+Page 40 of 40 
+February 8, 2003 
+
+ 
+
+ 
+
+

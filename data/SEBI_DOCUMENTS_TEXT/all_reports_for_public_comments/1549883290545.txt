@@ -1,0 +1,340 @@
+ 
+
+ 
+
+Discussion Paper on Applicability of Individual Scrip wise Price Bands/ 
+
+Circuit Filters on F&O scrips 
+
+ 
+A.  Background 
+ 
+1.  SEBI  vide  circular  SMDRPD/Policy/Cir-37/2001  dated  June  28,  2001  had 
+specified individual scrip wise price bands/ circuit filters of 20% either way, for 
+all  scrips  in  the  compulsory  rolling  settlement  except  for  the  scrips  on  which 
+derivatives  products  are  available  or  scrips  included  in  indices  on  which 
+derivatives products are available. 
+ 
+
+2.  Derivatives markets reflect expectation of spot prices in the future, and as such 
+price bands/ circuit filters are generally not applied on them. Further, imposition 
+of  price  bands/  circuit  filters  on  the  scrips,  in  the  cash  segment,  on  which 
+derivatives are available may lead to possible mis-alignment between the price 
+of underlying in cash segment and price of the derivatives. 
+ 
+
+3.  Notwithstanding the above, in order to prevent executing orders at non-genuine 
+prices,  on  account  of  fat-finger  error  or  otherwise,  SEBI  vide  circular 
+CIR/MRD/DP/34/2012  dated  December  13,  2012 
+read  with  circular 
+CIR/MRD/DP/25/2013  dated  September  03,  2013  mandated  dynamic  price 
+bands at 10% of the previous day’s closing price for the following securities: 
+
+ 
+(a) Stocks on which derivatives products are available, 
+(b)  Stocks  included  in  indices  on  which  derivatives  products  are 
+available, 
+(c) Index futures,  
+(d) Stock futures. 
+ 
+
+The  dynamic  price  bands  are to  be  relaxed  by  the  stock  exchanges  in  
+increments  of  5%, in  the  event  of  a  market  trend  in  either  direction. Stock 
+exchanges were also directed to frame suitable rules with mutual consultation 
+for such relaxation of dynamic price bands. The initial threshold set by the stock 
+exchanges  for  flexing  were  “10  trades  executed  with  multiple  UCC  on  both 
+sides  of  the  trade  at  or  above  7%  or  more  of  the  base  price  and  in  further 
+multiples of 5% of the price movement”. 
+ 
+
+4.  In  May  2014,  the  stock  exchanges  revised  the  criteria for flexing  of  dynamic 
+price bands as “10 trades executed with multiple UCC on both sides of the trade 
+at or above 9.90% or more of the base price and in further multiples of 5% of 
+the price movement”.  These measures were taken by the stock exchanges to 
+mitigate  disruption  caused  by  erroneous  orders  and  at  the  same  time  not 
+interfere  in  the  price  discovery  process.  In  exigencies  situation,  exchanges 
+
+ 
+Discussion Paper on Applicability of Individual Scrip wise Price Bands/ Circuit Filters on F&O scrips   1 | P a g e  
+
+consult  and  relax  the  dynamic  price  band  with  a  15  minutes  notice  to  the 
+market. 
+
+ 
+
+ 
+5.  Further,  as  a  measure  to  protect  against  excessive  price  movements  with 
+respect to those scrips on which no derivatives products are available but which 
+are part of index derivatives, subsequent to the recommendation of Secondary 
+Market  Advisory  Committee 
+(SMAC)  of  SEBI,  SEBI  vide  circular 
+CIR/MRD/DP/04/2014 dated February 06, 2014 mandated implementation of 
+appropriate individual scrip wise price bands/ circuit filters upto 20% on such 
+scrips. However, in terms of stock selection criteria for frontline indices (Nifty 
+and Sensex), index providers have stipulated inclusion of only those stocks in 
+the  said  indices  which  are  individually  available  for  trading  in  derivatives 
+segment. 
+ 
+
+B.  International Practices 
+ 
+6.  The  World  Federation  of  Exchanges  (WFE)  has  done  a  study  on  the 
+implementation  of  circuit  filter  types  across  the  world  in  2016.  It  is  observed 
+from the aforesaid report that for orderliness in the marketplace on account of 
+wild  swings  in  the  prices  of  certain  stocks,  various  jurisdictions  deploy 
+measures ranging from call auctions to temporary trading halts in the security 
+to no change in price bands. 
+ 
+
+7.  Jurisdictions  like  the  US,  UK,  Spain,  Germany,  Switzerland  etc.,  have  call 
+
+auctions on breach of the price band.   
+
+8.  The WFE report is placed as Annexure I.  
+
+ 
+
+ 
+ 
+
+C.  Data Analysis 
+ 
+9.  The  examination  of  price  movement  of  scrips,  on  which  derivatives  are 
+
+available,  during the last six months, reveals the following (source: NSE): 
+9.1. Forty scrips have witnessed intra-day movement of more than 20% 
+9.2. Out  of  this,  twenty  nine  scrips  have  witnessed  intra-day  movement 
+
+between 20%- 30%. 
+
+9.3. Five scrips have witnessed intra-day movement between 30%- 40% 
+9.4. Six scrips have witnessed intra-day movement of more than 40% 
+ 
+
+10. Concerns have been raised that investors’ wealth is getting wiped out in a single 
+day by recent falls in stocks on which derivative products are available, as no 
+price bands/ circuit filters are applicable on them. In view of recent abnormal 
+intra-day price movements, suggestions are being made to review the rules to 
+prevent such extraordinary price movements. 
+ 
+
+ 
+Discussion Paper on Applicability of Individual Scrip wise Price Bands/ Circuit Filters on F&O scrips   2 | P a g e  
+
+D.  Recent measures to strengthen fair price discovery  
+ 
+11. With a view to strengthen fair price discovery and promote orderliness in the 
+
+ 
+
+market, following measures have been taken recently: 
+
+ 
+
+11.1. Revision in criteria for flexing dynamic price bands: 
+
+In consultation with SMAC, the existing criteria for flexing the dynamic price 
+bands has been revised such that in case price of an F&O scrip  touches 
+9.9%, it may be flexed by incremental 5% provided there are minimum 25 
+trades & 5 UCCs on both sides. It is expected that this measure shall help 
+ensure that the flexing is carried out only on account of genuine market trend 
+and not arising out of few erroneous orders. 
+ 
+
+11.2. Review  of  criteria  for  moving  of  cash  settled  stock  derivatives  to  physical 
+
+addition 
+
+settlement: 
+SEBI  vide  circular  SEBI/HO/MRD/DOPI/CIR/P/2018/161  dated  December 
+31, 2018 had specified phased movement of cash settled stock derivatives 
+to physical settlement (for April 2019 expiry, July 2019 expiry and October 
+2019  expiry)  on  the  basis  of  average  daily  market  capitalisation  of  the 
+stocks.  
+ 
+circular 
+In 
+SEBI/HO/MRD/DOP1/CIR/P/2019/28 dated February 08, 2019 has further 
+directed  for  shifting  of  stock  derivatives  to  physical  settlement  from  new 
+expiry cycle on the basis of intra-day movement or volatility in such stock. 
+Shifting  of  such  stock  to  physical  settlement  is  expected  to  help  reduce 
+speculation  and  hence  excessive  intra-day  movement  /  volatility  in  such 
+stock. 
+ 
+ 
+
+schedule, 
+
+to 
+
+this 
+
+SEBI 
+
+vide 
+
+E.  Available Options 
+ 
+12. With a view to address the concerns arising out of significant price movements 
+in scrips having presence in derivatives segment, followings options are being 
+put forward  for consultation: 
+ 
+
+12.1. Option 1- Price Bands/ Circuit Filters (Hard limits) 
+
+ 
+Whether individual scrip wise price bands/ circuit filters of 20% either way 
+be adopted for all scrips, including scrips on which derivatives are available, 
+in the compulsory rolling settlement? 
+ 
+The perceived benefits and concerns/ challenges arising out of this proposal 
+are as follows. 
+
+ 
+Discussion Paper on Applicability of Individual Scrip wise Price Bands/ Circuit Filters on F&O scrips   3 | P a g e  
+
+Benefits: 
+
+ 
+
+ 
+
+ 
+
+Imposing  price  bands/  circuit  filters  on  scrips  on  which  derivatives 
+products are available may  arrest abnormal movement of the price 
+of the scrip beyond a certain limit. 
+It  may  also  afford  some  opportunity  to  listed  companies  and  its 
+promoters  to  assess  the  movement  of  the  stock  price  and  enable 
+them  to  make  market  announcement,  if  any,  to  address  market 
+sentiments, which may restore the price to its normalcy. 
+
+ 
+Concerns/ challenges: 
+
+  Presently,  only  those  stocks  which  satisfy  the  enhanced  eligibility 
+criteria (which includes criterion for liquidity) are being permitted in 
+derivatives segment. Imposition of price bands/ circuit filters on such 
+stocks may hamper fair price discovery and liquidity. 
+It may lead to mis-alignment between the price of underlying in cash 
+segment  and  price  of  the  derivative  products.  While  the  price 
+movement of the underlying scrip in cash segment would be bound 
+with the price band/ circuit filter, the price movement of the derivative 
+products may go much beyond. 
+
+ 
+
+ 
+
+12.2. Option 2- Combination of Dynamic and  Fixed price band/ circuit filter or call 
+
+auction mechanism  
+ 
+The current framework for dynamic price band may be allowed to continue 
+with  the  initial  threshold  set  by  the  stock  exchanges  for  flexing.  This 
+framework  would  be  available  upto  a  threshold  (say  30%  intraday 
+movement in either direction).   
+ 
+Upon reaching such threshold, following options may be considered: 
+ 
+
+i. 
+
+either a fixed price band/ circuit filter on the stock may be imposed. 
+
+or  
+
+ii. 
+
+a call auction shall be conducted for a fixed duration as per criteria to 
+be  prescribed  relating  to  minimum  trades,  volume,  etc.  The  price 
+discovered  in  such  call  auction  may  be  considered  for  continuous 
+market. 
+
+The perceived benefits and concerns/ challenges arising out of this proposal 
+are as follows. 
+ 
+Benefits: 
+
+ 
+
+Imposing  fixed  price  bands/  circuit  filters  on  scrips  upon  reaching 
+certain  threshold  may  arrest  drastic  movement  of  the  price  of  the 
+scrip beyond a certain limit. 
+
+ 
+
+ 
+Discussion Paper on Applicability of Individual Scrip wise Price Bands/ Circuit Filters on F&O scrips   4 | P a g e  
+
+ 
+
+Introducing call auction  may ensure wider participation of investors 
+thereby leading to better price discovery as compared to the current 
+system of flexing of dynamic price bands which is based on limited 
+number of trades and UCC.  
+
+ 
+
+ 
+Concerns/ challenges: 
+
+ 
+
+Imposing fixed price bands/ circuit filters may have same concerns/ 
+challenges as enumerated at Para 12.1 above. 
+
+  For a scrip which is also a constituent of an index, computation of the 
+index may become a challenge during the period of the call auction 
+on account of lack of availability of current market price of the scrip 
+during the period. 
+
+ 
+
+12.3. Option 3- No change in existing framework 
+
+ 
+The  present  framework,  including  the  recent  measures  to  strengthen  fair 
+price  discovery  as  enumerated  at  Para  11  above,  may  continue  if 
+considered as adequate to address the concerns arising out of significant 
+price movements in scrips having presence in derivatives segment. In that 
+case, no further measures may be required at this stage as the same may 
+hamper free market and fair price discovery. 
+ 
+
+F.  Public comments 
+
+ 
+
+Comments from public  are invited on the  proposed  options  given at  Para  12 
+above in the following format: 
+
+ 
+
+Name of entity/ person 
+Sl. 
+No. 
+ 
+
+Reference Para of the discussion 
+paper 
+ 
+
+Suggestions/ 
+comments 
+ 
+
+Rationale 
+
+ 
+
+ 
+In view of the extraordinary price movements witnessed in recent times, there 
+is a need to take a timely view in the matter. Accordingly, it is requested that 
+comments  should  reach  SEBI  latest  by  February  20,  2019  by  e-mail  to 
+manishkj@sebi.gov.in.  
+
+ 
+Discussion Paper on Applicability of Individual Scrip wise Price Bands/ Circuit Filters on F&O scrips   5 | P a g e  
+
+

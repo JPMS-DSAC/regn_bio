@@ -1,0 +1,1336 @@
+ 
+Consultation Paper 
+
+ 
+
+Continuous  disclosures  to  be  made  by  Infrastructure  Investment 
+Trusts  registered  under  the  SEBI  (Infrastructure  Investment  Trusts) 
+Regulations, 2014 
+ 
+1.  Real estate and infrastructure sectors are considered to be the two most fundamental sectors 
+for  the  growth  of  any  economy.  They  contribute  to  the  economy  directly  by  creating 
+employment opportunities and stimulating demand, and indirectly by facilitating the growth 
+of  industries  along  such  developments.  Therefore,  it  can  be  seen  that  growth  in  the  real 
+estate or infrastructure has a multiplier effect on the general economy of any nation.  
+ 
+
+2.  The  Government  of  India’s  announcement  of  REITs  and  InvITs  in  the  Union  Budget 
+
+2014-2015 has been hailed as a potential game changing event for these sectors.  
+ 
+
+3.  The SEBI (Infrastructure  Investment  Trusts)  Regulations,  2014  (InvIT regulations)  were 
+notified  on  September  26,  2014.  SEBI  had  also  issued  a  circular  dated  May  11,  2016 
+prescribing guidelines for public issue of units of InvITs. 
+ 
+
+4.  InvIT  regulations,  inter-alia,  provide for  initial  listing  requirements  and  certain  continuous 
+listing  requirements  to  be  complied  with  by  the  InvITs.  The  following  continuous 
+disclosures are outlined in the InvIT regulations itself: 
+ 
+
+i. 
+ii. 
+iii. 
+iv. 
+v. 
+vi. 
+
+ 
+
+Investment conditions and dividend policy 
+Related party transactions 
+Borrowings and deferred payments 
+Valuation of assets 
+Rights and meetings of unit holders 
+Certain disclosures with respect of price sensitive information 
+
+5.  Regulation 23(2) of the InvIT regulations provide that a publicly offered InvIT shall ensure 
+that the disclosures in the offer document are in accordance with the Schedule III of these 
+regulations and any circulars or guidelines issued by the SEBI in this regard. In view of the 
+same,  it  is  proposed  to  provide  certain  additional  disclosures  (continuous  financial 
+disclosures and other continuous disclosures) to be made by the InvITs.   
+ 
+
+6.  SEBI  had  constituted  a  committee  comprising  of  members  from  the  real  estate  and 
+infrastructure industry,  stock exchanges, investment banks, audit firm and law firm, which 
+evaluated  the  continuous  obligations  under  the  InvIT  regulations  and  under  the  SEBI 
+(Listing  Obligations  and  Disclosure  Requirements)  Regulations,  2014 
+(LODR 
+Regulations).  Further,  another  committee  was  also  constituted  by  SEBI  to  evaluate  the 
+
+ 
+
+Page 1 of 17 
+
+accounting  norms  for  InvITs.  The  combined  proposals,  of  both  the  above committees,  is 
+contained in this consultation paper. 
+ 
+These disclosures are contained herein in this paper under the following heads:  
+
+ 
+
+  Part A- Continuous financial disclosures to be made by the InvITs 
+  Part B- Other continuous disclosures to be made by the InvITs  
+  Part C - Framework for calculation of Net Distributable Cash Flows (NDCFs): 
+
+ 
+
+7.  The  InvIT  regulations  envisages  the  InvIT  to  hold  the  infrastructure  assets  through  a 
+special purpose vehicle (SPV) (which may be a company or a LLP) as well as directly. The 
+consultation paper has been prepared keeping the above said fact in mind. Thus, depending 
+upon  the  structure  of  holding  of  the  infrastructure  assets,  the  respective  Acts  i.e.  the 
+Companies  Act,  2013/  LLP  Act,  2008  shall  be  applicable  on  such  structures,  mutatis 
+mutandis.  Further,  the  consolidation  of  the  accounts  as  envisaged  in  the  paper  shall  be 
+applicable only when the InvIT holds stake in the SPVs. 
+
+ 
+
+  PART A - Continuous financial disclosures to be made by the InvITs 
+
+ 
+
+8.  Frequency of disclosures: 
+
+ 
+8.1. Regulation 10(22) of the InvIT regulations provides that the investment manager shall 
+ensure  that  the  accounts  of  the  InvIT  are  audited  by  the  auditor  not  less  than  twice 
+annually and such report is submitted to the designated stock exchange within forty five 
+days of end of financial year ending March 31st and half-year ending September 30th. 
+ 
+
+8.2. Proposal: As per the aforesaid regulations, the frequency of the disclosures to be made 
+to the  stock exchanges by an InvIT  are minimum i.e only on a half yearly basis. Thus 
+comments  are  being  sought  as  to  whether  the  disclosures  may  be  made  to  the  stock 
+exchange(s) on a half yearly basis or be reduced to quarterly basis.  
+
+ 
+
+9.  Time period within which disclosures shall be made : 
+
+ 
+9.1. The  InvIT  regulations  do  not,  inter-alia,  specify  the  time  period  within  which 
+disclosures have to be made to the stock exchanges by an InvIT. Here it is noted that a 
+balance needs to be drawn between the time taken to prepare these statements and also 
+the time within which disclosures need to be made to the stock exchange(s). Thus, it is 
+proposed  to  provide  the  timelines  within  which  the  disclosures  shall  be  made  to  the 
+stock exchange(s).  
+ 
+
+9.2. Proposal:  The  time  period  within  which  disclosures  of  financial  statements  may  be 
+
+made to the stock exchanges by the InvIT may be either of the following options:  
+ 
+ 
+
+ 
+
+Page 2 of 17 
+
+ 
+
+ 
+
+ 
+
+i.  For  disclosures,  other  than  the  annual  disclosures,  to  be  made  to  the  stock 
+exchange, such results would be submitted to the stock exchanges within 45 days 
+of end of each quarter/half year as applicable.  
+
+ii.  The  audited  standalone  financial  results  for  the  financial  year,  would  be 
+submitted  within  sixty  days  from  the  end  of  the  financial  year  along  with  the 
+audit report. 
+ 
+
+10. Financial statements which needs to be disclosed: 
+ 
+
+10.1.   In case of a company, the financial statements comprise of Balance Sheet, Profit and 
+loss account, cash flow statement, notes to accounts, etc. These are required to be given 
+on an annual basis.  
+ 
+
+10.2. Proposal:  To  ensure  better  dissemination  of  information  to  investors,  it is proposed 
+
+that the following may form part of financial statements to be submitted by InvIT  : 
+
+ 
+
+ 
+
+10.2.1. Annual financial statements  
+
+i.  Balance Sheet; 
+ii. 
+iii. 
+iv. 
+v.  Explanatory notes annexed to, or forming part of, any statements referred 
+
+Statement of Profit and Loss; 
+Statement of Changes in Equity; 
+Statement of Cash Flows; 
+
+above  
+ 
+
+10.2.2. Other Financial Statements (Quarterly/Half yearly, as applicable) 
+
+Statement of Profit and Loss; 
+
+i. 
+ii.  Explanatory notes annexed to, or forming part of, any statements referred 
+
+above  
+ 
+
+10.2.3. The InvIT would submit the above financial statements on both standalone and 
+
+consolidated basis.  
+
+ 
+
+10.2.4.  Financial statements of the investment manager and project manager would not 
+be required  to be given unless  their  net  worth is reduced  by 50% as compared to 
+their net worth as on date of the last annual financial year end. In such cases, all the 
+above  financial  statements  as  per  paragraph  10.2.1  and  10.2.2  is  required  to  be 
+given.  
+ 
+ 
+ 
+ 
+ 
+
+Page 3 of 17 
+
+ 
+
+11.  Audited or limited review financial statements 
+
+ 
+
+ 
+
+11.1. It has been represented that it might be too onerous for the InvIT to carry out audit 
+every half year, as getting the financial statements audited is a long drawn process which 
+requires a considerable period of time. In view of the same, it is proposed to review the  
+requirement with respect to the audit of the financial statements of InvIT, to provide an 
+option to the InvIT as under: 
+
+ 
+11.2. Proposal: The InvIT may submit either half yearly audited results or unaudited results 
+subject  to  limited  review  by  the  statutory  auditor  and  shall  be  accompanied  by  the 
+limited review report. 
+
+ 
+
+12. Accounting Standard to be followed 
+
+ 
+12.1. InvITs  would  attract  international  investors,  hence  the  financial  statements  prepared 
+by InvITs should be comparable internationally. Also, InvITs would have SPVs which 
+would  carry  on  the  infrastructure  activities.  These  SPVs  can  be  in  the  form  of  a 
+company or a LLP. In case these SPVs are in the form of a company, then the relevant 
+accounting  standards/Indian  Accounting  Standards  would  be  applicable  depending 
+upon the relevant rules notified by the Ministry of Corporate Affairs. Similarly, for  an 
+LLP,  the accounting  standards as  issued  by  the  Institute of  Chartered  Accountants  of 
+India (ICAI ) would be relevant.  
+ 
+
+12.2. Proposal:  The  accounting  standards  to  be  followed  for  preparation  of  financial 
+
+statements of InvITs would be as under: 
+ 
+a.  The financial statements for InvITs shall be prepared in accordance with the Indian 
+Accounting  Standards  converged  with  the  International  Financial  Reporting 
+Standards notified under the Companies (Indian Accounting Standards) Rules, 2015. 
+Additionally,  InvITs  shall  also  follow  the  relevant  accounting  standards,  as 
+prescribed by their sectoral regulators from time to time, with respect to the projects 
+being executed by them. 
+
+b.  For  the  SPV’s,  the  requirements  for  preparation  of  financial  statements  of  SPVs 
+would be as applicable to them. However, for consolidation purposes, such entities 
+would  have  to  provide  the  financial  information/data  to  the  parent  InvITs  in 
+accordance with the Ind AS.  
+ 
+
+13. Line items for financial statements: 
+
+ 
+13.1. In  order  to  ensure  consistency  and  uniformity  in  the  presentation  of  the  financial 
+
+statements and provide a better understanding of the financials to the investors, it  
+ 
+
+ 
+
+Page 4 of 17 
+
+ 
+
+ 
+might  be  prudent  to  prescribe  generic/basic  minimum  line  items  for  the  financial 
+statements.  
+ 
+
+ 
+
+13.2. Proposal:  Various  lines  items  for  each  of  the  statements  mentioned  at  paragraph 
+
+10.2.1 above would be as follows: 
+ 
+
+13.3. Line items for Balance Sheet: 
+
+ 
+
+I. Assets 
+
+a)  Property, plant and equipment; 
+b)  Capital work-in-progress 
+c)  Investment property; 
+d)  Intangible assets; 
+e)  Financial assets  
+f)  Inventories; 
+g)  Other receivables; 
+h)  Cash and cash equivalents; 
+i)  Deferred tax assets; 
+j)   Assets for current tax. 
+
+ 
+II. Equity and Liabilities 
+a)   Unit capital; 
+b)   Other payables; 
+c)  Provisions; 
+d)  Financial  liabilities  (excluding  amounts  shown  under  (b),  (c),  separately  disclosing 
+
+liabilities owed to sponsors; 
+
+e)  Liabilities for current tax; 
+f)  Deferred tax liabilities ; 
+g)  Other liabilities 
+
+ 
+
+13.4. Line items for statement of Profit and Loss account 
+ 
+
+I.Incomes and gains: 
+
+a)  Revenue from operations; 
+b)  Dividend;  
+c)  Interest;  
+d)  Other income (indicating nature).  
+
+ 
+
+II.Expenses and losses: 
+a)  Valuation expenses; 
+b)  Audit fees;  
+c)  Insurance & security expenses;  
+d)  Project management fees  
+
+ 
+
+Page 5 of 17 
+
+e)  Depreciation on property, plant and equipment; 
+f)  Amortization of intangible assets;  
+g)  Finance Cost (Interest); 
+h)  Custodian fees;  
+i)  Registration fees;  
+j)  Repairs and maintenance in case of infrastructure asset; 
+k)  Other expenses 
+
+ 
+
+III.Profit or loss for the period before income tax 
+
+ 
+
+IV.Tax expense (current tax and deferred tax) 
+
+ 
+
+V.Profit or loss for the period after income tax 
+
+ 
+
+VI.Items of other comprehensive income 
+
+ 
+
+VII.Additional line items (if applicable) 
+
+a)  Items that will not be reclassified to profit or loss  
+b)  Income tax relating to items that will not be reclassified to profit or loss 
+c)  Items that will be reclassified to profit or loss 
+d)  Income tax relating to items that will be reclassified to profit or loss 
+
+ 
+
+VIII.Total  comprehensive income for  the  period  (III+IV)  (Comprising  profit  (loss)  and 
+
+Other comprehensive income for the period) 
+
+ 
+
+13.5. Line items for the "Statement of changes in equity" 
+ 
+
+a)   Total comprehensive income for the period; 
+b)    For each component of equity, a reconciliation between the carrying amount at the 
+beginning and the end of the period, separately (as a minimum) disclosing changes 
+resulting from:  
+
+c)    Profit or loss; 
+d)   Other comprehensive income; 
+e)   Transactions  with  owners 
+
+in  their  capacity  as  owners,  showing  separately 
+
+contributions by and distributions to owners.  
+
+13.6. Line  items  for  the  "Cash  Flow  Statement”  :    Cash  Flow  Statement,  shall  be 
+prepared in accordance with the requirements of Ind AS 7-"Statement of Cash Flows" 
+and hence no line items would be prescribed. 
+
+ 
+
+13.7. Auditor’s report 
+
+ 
+13.7.1. Proposal: The auditor shall state whether: 
+
+ 
+
+Page 6 of 17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) 
+
+b) 
+
+c) 
+
+d) 
+
+e) 
+
+f) 
+
+ 
+
+i.  he has obtained all information and explanations which, to the best of his 
+
+knowledge and belief, were necessary for the purpose of his audit; 
+ 
+
+ii.  the Balance Sheet and the Statement of Profit and Loss are in agreement 
+
+with the books of account of the InvIT.  
+
+Further,  the  auditor  shall  give  his  opinion  on  standalone  as  well  as 
+consolidated financial statements, as to whether: 
+
+the Balance Sheet gives a true and fair view of the  state of affairs of the 
+InvIT as at the balance sheet date;  
+the  statement  of  profit  and  loss  gives  a  true  and  fair  view  of  the  
+surplus/deficit of the fund for the year/period ended at the balance sheet 
+date  
+the cash flow statement gives a true and fair view of the cash movements 
+of the InvIT for the year/period ended at the balance sheet date 
+the  Statement  of  changes  in  equity  gives  a  true  and  fair  view  of  the 
+movement  of  the  unitholders  funds  for  the  year/period  ended  at  the 
+balance sheet date 
+the statement of net assets at fair value gives a true and fair view of the 
+net assets attributable to the unitholders per unit at the balance sheet date 
+the statement of total return at fair value gives a true and fair view of the 
+total  return  to  the  unitholders  for  the  year/period  ended  at  the  balance 
+sheet date. 
+ 
+
+13.8. Other  instructions  which  need  to  be  followed  while  preparing  the  financial 
+
+statements: 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+a)  Explanations  and  justification  for  project  manager  and  investment  manager  fees 
+
+charged; 
+ 
+
+b)  The investments in each major infrastructure sub-sector, as defined by Ministry of 
+Finance vide  its  notification  no.  13/6/2009  dated October 07,  2013  as amended 
+from time to time (which constitutes not less than 5% of the total investment in 
+the  major  classification)  together  with  the  percentage  thereof  in  relation  to  the 
+total investment; 
+
+c)   Financial statements shall contain the corresponding amounts (comparatives) for 
+the  immediately  preceding  reporting  period  for  all  items  shown  in  the  financial 
+statements  including  notes  except  in  the  case  of  first  financial  statements  of  the 
+InvIT after incorporation; 
+
+Page 7 of 17 
+
+ 
+
+ 
+
+d)   Financial statements shall disclose all ‘material’ items, i.e., the items if they could, 
+individually  or  collectively,  influence  the  economic  decisions  that  users  make  on 
+the basis of the financial statements. Materiality depends on the size or nature of 
+the item or a combination of both, to be judged in the particular circumstances; 
+ 
+
+e)   Headings,  line  items,  sub-line  items  and  sub-totals  shall  be  presented  as  an 
+addition  or  substitution  on  the  face  of  the  financial  statements  when  such 
+presentation  is  relevant  to  an  understanding  of  an  InvIT’s  financial  position  or 
+performance  or  to  cater  to  industry/sector-specific  disclosure  requirements  or 
+when required  for compliance  with  the amendments  to the  InvIT  regulations  or 
+under the Indian Accounting Standards;  
+
+f)  “Components of half- yearly financial statements" covered under the scope of Ind 
+AS 34, Interim Financial Reporting, shall be prepared in accordance with that Ind 
+AS in so far as these relate to preparation of condensed financial statements; 
+
+ 
+
+g)  Contingent liabilities classified as: 
+
+ 
+
+(i) 
+(ii) 
+(iii) 
+(iv) 
+
+ 
+
+Claims against the trust not acknowledged as debt; 
+Guarantees excluding financial guarantees;  
+Other money for which the trust is contingently liable; 
+Any claims against InvIT pending litigation 
+
+h)  Commitments classified as: 
+
+ 
+
+ 
+
+(i)  Estimated  amount  of  contracts  remaining  to  be  executed  on  capital 
+
+account and not provided for; 
+
+(ii) Uncalled  liability  on  shares  and  other  investments  partly  paid  including 
+
+that of SPV; 
+
+(iii) Other commitments (specify nature). 
+
+i)  In  addition  to  the  related  party  disclosures  required  under  Ind  AS  24,  "Related 
+Party  Disclosures",  the  disclosures  required  under  Regulation  19  of  the    InvIT 
+regulations, shall also be made;  
+
+j)  The earnings per unit shall be in accordance with Ind AS 33,"Earnings Per Share"; 
+
+k)  The market value of the units traded on all the designated stock exchanges where 
+
+InvIT is listed: 
+
+(i) 
+(ii) 
+
+on the last date of reporting period; 
+highest value during reporting period based on intra-day and on closing 
+price with specified date; and 
+
+Page 8 of 17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(iii) 
+
+ 
+lowest value during reporting period intra-day and on closing price with 
+specified date 
+ 
+
+ 
+
+l)  Profit/(loss)  on  sale/redemption  of  investments  and  profit/(loss)  on  sale/  of 
+
+infrastructure assets should be shown on a gross basis; and 
+
+ 
+m) Any  item  of  income  or  expenditure  which  exceeds  one  per  cent  of  the  revenue 
+from  operations  or  Rs.10,00,000,  whichever  is  higher,  in  addition  to  the 
+consideration  of  ‘materiality’  as  specified  in  clause  13.8(d)  shall  be  disclosed 
+separately either on the face of financial statements or in the notes. 
+
+ 
+
+14. Manner of approval and authentication of financial statements:  
+
+ 
+In order to ensure that the financial statements of the InvIT are approved and authenticated 
+by its competent authority, it is proposed to lay down the provisions governing the same. 
+ 
+14.1. Proposal: The approval and the authentication of financial results shall be done by the 
+
+InvIT in the following manner:  
+
+ 
+
+ 
+
+i.  The  financial  results  to  be  submitted  to  the  stock  exchange  shall  be  signed  by  two 
+designated personnel of the investment manager certifying that the financial results do 
+not contain any false or misleading statement or figures and do not omit any material 
+fact which makes the statements or the figures contained therein misleading.  
+
+ii.  Subsequent  to  the  previous  step,  the  chairman  of  the  Board  of  Directors  of  the 
+
+investment manager shall sign on the financial statements.  
+
+ 
+
+15. Obligation to maintain proper books of account and records, documents etc. 
+
+ 
+
+15.1. Section  128  of  the  Companies  Act,  2013  provides  for  the  maintenance  of  books  of 
+accounts  and  also  requires  that  the  books  of  accounts  of  the  company  shall  be 
+maintained  for  a  period  of  not  less  than  eight  financial  years  immediately  preceding  a 
+financial year, or where the company had been in existence for a period less than eight 
+years,  in  respect  of  all  the  preceding  years  together  with  the  vouchers  relevant  to  any 
+entry in such books of account. 
+
+ 
+
+15.2. Proposal:  Every  InvIT  shall  maintain  proper  books  of  account,  records  and 
+documents  etc.  relating  to  a  period  of  not  less  than  eight  financial  years  immediately 
+preceding a financial year, or where the InvIT had been in existence for a period of less 
+than eight years, in respect of all the preceding years. 
+ 
+ 
+ 
+
+ 
+
+Page 9 of 17 
+
+ 
+
+  PART B- Other continuous disclosures to be made by the InvITs 
+ 
+
+ 
+
+16. Listing Agreement 
+
+ 
+
+16.1. Regulation  23(7)  of  the  InvIT  regulations  specifies  that  the  InvIT  shall  also  submit 
+such  information  to  the  designated  stock  exchanges  and  unit  holders  on  a  periodical 
+basis as may be required under the listing agreement.  
+ 
+
+16.2. SEBI vide its circular dated October 13, 2015 has specified the format of an  uniform 
+listing agreement.  However  the uniform  format  specified therein  draws  a  reference  to 
+LODR regulations and circulars issued there under. It is stated that for listing purposes 
+of InvIT, the reference to the LODR regulations in the said circular would be replaced 
+by a reference to InvIT regulations and circulars issued thereunder.  
+ 
+
+16.3. Proposal:  InvITs  shall  enter  into  a  simplified  listing  agreement  with  the  designated 
+stock exchange, as specified under the aforesaid SEBI circular.  However, with respect 
+to compliance  with  the  listing conditions,  instead  of  following the LODR  regulations, 
+InvITs shall follow the InvIT regulations. 
+
+ 
+
+17. Disclosure of Related Party Transactions (RPTs):  
+
+ 
+17.1. Regulation  19  of  the  InvIT  regulations  contains  comprehensive  provisions  with 
+regards  to  the  RPTs.  Further,  regulation  19(2)  of  the  said  regulations  requires  that  all 
+the RPTs of an InvIT shall be disclosed to the designated stock exchange(s)and the unit 
+holders periodically in accordance with the listing agreement and these regulations.   
+ 
+
+17.2. Proposal: It is clear that regulation 19 of the InvIT regulations are quite exhaustive in 
+nature and further provisions governing the RPTs may not be required. However, it is 
+proposed that the following disclosures with respect to the RPTs, may be made by the 
+InvIT. 
+ 
+
+a)  RPTs being acquisition/disposal of assets with details specified as under or any 
+other  matter  requiring  unit  holder  approval  shall  be  promptly  intimated  to  the 
+stock  exchange  after  the  approval  thereof  by  the  board  of  directors  of  the 
+Investment manager:  
+ 
+i.      Details of related party and its relationship with InvIT; 
+ii.  Nature of the transaction;   
+iii.  Value of the transaction;  
+iv. 
+v.  Current yield and the impact of the acquisition/disposal on the yield of the 
+
+Summary of valuation report;  
+
+units of InvIT;  
+
+vi.  Material conditions or obligations in relation to the transaction;  
+
+ 
+
+Page 10 of 17 
+
+ 
+
+ 
+
+vii.  Rate  of 
+
+interest, 
+
+if  external  financing  has  been  obtained  for  the 
+
+transaction/acquisition; and  
+
+viii.  Any fees or commissions received or to be received by any associate of the 
+
+related party in relation to the transaction.  
+
+ 
+
+18. Disclosure of Unit holding pattern  
+
+ 
+18.1.  In  order  for  the  unitholders  to  understand  the  holding  pattern  in  InvITs,  it  is 
+necessary  that  the unitholder  pattern is available  in  the public domain.  The disclosure 
+of the unit holding pattern would provide a broad picture of the number of  units and 
+the corresponding amounts held by the different class of unitholders  for the units held 
+by them. 
+ 
+
+18.2.  Proposal:    It  is proposed that  the unit  holding  pattern  shall  be disclosed  separately 
+for  each  class  of  unitholders,  within  the  following  periods  in  the  format  mentioned 
+below: 
+
+i. 
+ii. 
+iii. 
+
+ 
+
+ 
+
+One day prior to listing of units on the stock exchanges;  
+On quarterly basis, within 21 days from the end of each quarter; and  
+Within  10  days  of  any  capital  restructuring  of  InvIT  resulting  in  a  change 
+exceeding 2% of the total outstanding units of InvIT.  
+
+Statement showing Unit Holding Pattern of InvIT 
+
+Category   Category of Unitholder 
+( A)  
+( 1)  
+( a)  
+( b)  
+( c)  
+(d)  
+ 
+( 2)  
+( a)  
+
+Sponsor & Sponsor Group  
+Indian  
+Individuals / HUF  
+Central/State Govt.  
+Financial Institutions/Banks  
+Any Other (specify)  
+Sub- Total (A) (1)  
+Foreign  
+Individuals (Non Resident Indians / 
+Foreign Individuals)  
+Foreign government 
+Institutions  
+Foreign Portfolio Investors 
+Any Other (specify)  
+Sub- Total (A) (2)  
+
+( b)  
+( c)  
+(d) 
+( e)  
+ 
+
+ 
+
+No. of Units Held  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+As a % of C  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Page 11 of 17 
+
+Total unitholding of Sponsor and 
+Sponsor Group (A) = 
+(A)(1)+(A)(2)  
+Public Holding  
+Institutions  
+Mutual Funds  
+Financial Institutions/Banks  
+Central/State Govt.  
+Venture Capital Funds  
+Insurance Companies  
+Provident/pension funds 
+Foreign Portfolio Investors  
+Foreign  Venture Capital investors  
+Any Other (specify)  
+Sub- Total (B) (1)  
+Non-Institutions  
+ Central Government/State 
+Governments(s)/President of India 
+Individuals  
+NBRCs registered with RBI 
+Any Other (specify)  
+Sub- Total (B) (2)  
+Total Public Unitholding  (B) = 
+(B)(1)+(B)(2)  
+Total Units Outstanding (C) = 
+(A) + (B)  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+( B)  
+( 1)  
+( a)  
+( b)  
+( c)  
+( d)  
+( e)  
+(f) 
+( g)  
+( h)  
+( i)  
+ 
+( 2)  
+( a)  
+
+( b)  
+(c) 
+( d)  
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+19. Prior Intimations and disclosure of material and price sensitive information: 
+
+ 
+
+19.1. Regulation  23(6)  of  the  InvIT  regulations requires that  the investment  manager  shall 
+disclose to the stock exchange certain price sensitive information such as acquisition or 
+disposal of projects, additional borrowing at level of SPV/InvIT, legal proceedings, etc.  
+ 
+
+19.2.  Proposal:  
+
+ 
+
+A.  Prior  Intimation:  Two  working  day  prior  intimation  may  be  given  to  the 
+stock  exchanges  about  the  meeting  of  the  Board  of  Directors  of  the 
+investment manager at which the following is due to be considered: 
+
+a) 
+
+financial results viz. quarterly or half yearly or annual, as the case may be;  
+
+Page 12 of 17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+declaration/ recommendation of half yearly and annual distribution;  
+issue of any additional units i.e any further issuance of units, rights issue, 
+bonus issue, etc; 
+proposal for buy back of units; and 
+proposal for voluntary delisting from the stock exchange(s) 
+
+ 
+
+b) 
+c) 
+
+d) 
+e) 
+
+B.  Material and price sensitive information: Further, InvIT shall also disclose 
+
+the following material and price sensitive information:  
+
+initiation  or  material  update  of  any  litigation  in  relation  to  any 
+infrastructure asset of the InvIT;  
+appointment  or  removal  of  the  investment  manager,  project  manager, 
+auditors or  valuer;   
+any  material  amendment  to  the  trust  deed  or  investment  management 
+agreement;   
+any  change  in  investment  strategy  from  the  last  disclosed  investment 
+strategy  along  with  the  reasons  for  the  same  and  any  change  to  the 
+existing right of first refusal/offer granted to InvIT. 
+
+a) 
+
+b) 
+
+c) 
+
+d) 
+
+ 
+
+19. Credit Rating: 
+ 
+
+19.1.  Regulation 20(2)(a)of the InvIT regulations provide that if the aggregate consolidated 
+borrowings  and  deferred  payments  of  the  InvIT  net  of  cash  and  cash  equivalents 
+exceed twenty five per cent. of the value of the InvIT assets, for any further borrowing, 
+then  credit  rating  shall  be  obtained  from  a  credit  rating  agency  registered  with  the 
+Board; 
+
+ 
+
+19.2.  Proposal: Every rating wherever required to be obtained under the InvIT regulations 
+by  InvITs  with  respect  to  the  units  shall  be  reviewed  once  a  year,  by  the  registered 
+credit rating agency. 
+
+ 
+
+20. Composition of the Board of Directors of SPVs: 
+
+ 
+20.1.  InvIT  regulations  provide  that  the  SPV  means  any  company  or  LLP  in  which  the  
+InvIT holds or proposes to hold controlling interest and not less than fifty per cent of 
+the  equity  share  capital.  The  role  of  SPV  is  very  important  for  the  InvIT,  thus  it  is 
+proposed  to  have  certain  governance  requirements  for  SPVs  in  addition  to  what  has 
+been prescribed in the InvIT regulations. 
+ 
+
+20.2.  Proposal:  The  Investment  manager,  in  consultation  with  the  trustee,  shall  appoint 
+one or more  authorized representative on the Board of Directors/Governing Board of 
+the  SPV.  and  the  number  of    such  authorized  representatives  would  be  on  pro-rata 
+basis depending on the stake held in the SPV excluding director(s) nominated by  
+
+ 
+
+Page 13 of 17 
+
+ 
+government/ government undertaking for pro-rata calculation.  
+
+ 
+
+ 
+
+21. Website of InvIT:   
+
+ 
+21.1. In the age of technology and internet, it is considered imperative for every functional 
+entity to have an operational website of its own for dissemination of information to the 
+public at large and its own stakeholders. This, in a way reduces the need for the entity 
+to send hard copies of information/data relevant to its business to its stakeholders, as 
+the same can be accessed on its website. In view of the same, it is indicated that InvIT 
+may have its own website where it can display information/details/data with respect to 
+the functioning of its business.  
+
+ 
+
+21.2.  Proposal: It is proposed that the InvIT shall  maintain a functional website wherein 
+the contents of the said website would be updated upto 2 days and the website would 
+contain the relevant information about InvITs including the following: 
+ 
+
+a)  Details of its business;  
+b)  Financial  information  including  complete  copy  of  the  Annual  Report  including 
+
+Balance Sheet, Profit and Loss Account, etc.;  
+
+c)  Contact  information  of  the  designated  officials  of  the  company  who  are  
+
+responsible for assisting and handling investor grievances;  
+d)  Email ID for grievance redressal and other relevant details;  
+e)  Information,  report,  notices,  call  letters,  circulars,  proceedings,  etc.  concerning 
+
+units;   
+
+f)  All  information  and  reports  including  compliance  reports  filed  by  InvITs  with 
+
+respect to units;  and 
+
+g)  All intimations and announcements made by InvITs to the stock exchanges . 
+
+  Part C - Framework for calculation of Net Distributable Cash Flows (NDCFs): 
+
+ 
+
+22. Net Distributable Cash Flows 
+
+ 
+
+ 
+22.1. Regulation 18(6) of the InvIT regulations, inter alia, states that; 
+
+ 
+
+a)  not less than ninety per cent. of net distributable cash flows of the SPV shall be 
+distributed  to  the  InvIT  in  proportion  of  its  holding  in  the  SPV  subject  to  the 
+applicable  provisions  in  Companies  Act,  2013  or  Limited  Liability  Partnership 
+Act, 2008; 
+ 
+
+b)  not less than ninety per cent. of net distributable cash flows of the InvIT shall be 
+
+distributed to the unit holders; 
+
+ 
+Thus, the regulation requires both the SPV and the InvITs to distribute atleast 90% of  
+
+ 
+
+Page 14 of 17 
+
+ 
+NDCFs. However, in absence of any definition of the NDCF, clarifications were been 
+sought and therefore in order to provide clarity and consistency, a broad framework for 
+computation of NDCFs is proposed. 
+ 
+
+ 
+
+22.2. Proposal 
+
+ 
+The  proposed  framework 
+to  be  a  broad  guidance  and  every 
+InvIT/Investment  Manager  shall  define  net  distributable  cash  flows  for  itself.  The 
+definition as decided by InvIT/Investment manager should be : 
+ 
+
+intended 
+
+is 
+
+a)  subject to compliance with Companies Act, 2013 or Limited Liability Partnership 
+
+Act, 2008, or any Central Government Act, as applicable; and  
+
+b)  shall be disclosed in offer document and should be followed consistently pursuant 
+
+to listing.  
+
+ 
+The framework shall be followed in so far as whatever is applicable to the SPV/InvIT, 
+for  e.g.  the  sale  of  infrastructure  assets  under  SPV  may  not  be  possible  under  certain 
+kind of concession agreements and therefore such head under distribution may be kept 
+blank, etc. 
+
+ 
+
+22.3. The  broad  framework  for  calculation  NDCF  at  the  standalone  SPV  level  and  the 
+
+InvIT level shall be as under: 
+ 
+Calculation of Net Distributable Cash Flows at the standalone SPV level: 
+
+Description 
+
+Profit after tax as per profit and loss account (standalone) (A) 
+Add: Depreciation and amortisation as per profit and loss account 
+Add/less: Loss/gain on sale of Infrastructure Assets 
+Add: Proceeds from sale of Infrastructure Assets adjusted for the following: 
+ 
+  directly attributable transaction costs  
+  proceeds reinvested or planned to be reinvested as per para 18 (7) (a) of the 
+
+related debts settled or due to be settled from sale proceeds 
+
+InvIT Regulations 
+
+Amount  
+
+Xx 
+Xx 
+xx 
+xx 
+
+Add: Proceeds from sale of Infrastructure Assets not distributed pursuant to an 
+earlier plan to re-invest, if such proceeds are not intended to be invested 
+subsequently 
+Add/less: Any other item of non-cash expense / non cash income (net of actual 
+cash flows for these items), if deemed necessary by the Investment Manager.  
+For example, any decrease/increase in carrying amount of an asset or of a 
+
+xx 
+
+Xx 
+ 
+ 
+
+ 
+
+Page 15 of 17 
+
+Description 
+
+ 
+
+Amount  
+
+liability recognised in profit and loss account on measurement of the asset or the 
+liability at fair value, interest cost as per effective interest rate method, deferred 
+tax, lease rents recognised on a straight line basis, etc. 
+Less: Repayment of external debt (principal) / redeemable preference shares / 
+debentures, etc., if deemed necessary by the Investment Manager 
+Total Adjustments (B) 
+Net Distributable Cash Flows (C)=(A+B) 
+
+xx 
+
+xx 
+xx 
+
+Calculation of Net Distributable Cash Flows at the Consolidated InvIT level: 
+
+Description 
+Profit after tax as per profit and loss account (consolidated) (A) 
+Add: Depreciation and amortisation as per consolidated profit and loss account 
+Add/less: Loss/gain recognised on sale of Infrastructure Assets or equity shares 
+or interest in SPV 
+Add: Proceeds from sale of Infrastructure Assets or equity shares or interest in 
+SPV adjusted for the following: 
+ 
+  directly attributable transaction costs  
+  proceeds reinvested or planned to be reinvested as per para 18 (7) (a) of the 
+
+related debts settled or due to be settled from sale proceeds 
+
+InvIT Regulations 
+
+Add: Proceeds from sale of Infrastructure Assets or equity shares or interest in 
+SPV not distributed pursuant to an earlier plan to re-invest, if such proceeds are 
+not intended to be invested subsequently 
+Add/less: Any other item of non-cash expense / non cash income (net of actual 
+cash flows for these items), if deemed necessary by the Investment Manager.  
+For example, any decrease/increase in carrying amount of an asset or of a 
+liability recognised in profit and loss account on measurement of the asset or the 
+liability at fair value, interest cost as per effective interest rate method, deferred 
+tax, lease rents recognised on a straight line basis, etc. 
+Less: Repayment of external debt (principal) / redeemable preference shares / 
+debentures, etc., if deemed necessary by the Investment Manager 
+Total Adjustments (B) 
+Net Distributable Cash Flows (C) = (A+B) 
+
+Amount  
+xx 
+xx 
+xx 
+
+xx 
+
+xx 
+
+xx 
+
+xx 
+
+xx 
+xx 
+
+ 
+
+ 
+ 
+
+Page 16 of 17 
+
+ 
+
+ 
+
+Public Comments 
+
+ 
+
+ 
+
+i. 
+
+ 
+In  light  of  the  above,  public  comments  are  invited  on  the  proposals  contained  in  the 
+consultation  paper.  The  comments/  suggestions  may  be  provided  in  the  format  given 
+below:  
+ 
+ 
+ 
+ 
+ 
+
+Name of entity / person / intermediary/ Organization 
+
+Pertains 
+No. 
+
+to  Point 
+
+Suggestions 
+
+Sr. 
+No.  
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ii.  Further, comments may also be forwarded by email to invitd@sebi.gov.in or may be sent 
+
+by post to the following address latest by June 28, 2016. 
+
+ 
+
+Investment Management Department,  
+Division of Funds I  
+Securities and Exchange Board of India  
+SEBI Bhavan   
+C4-A, G Block  
+Bandra Kurla Complex  
+Mumbai - 400 021 
+
+ 
+ Issued on: June 15, 2016 
+ 
+
+ 
+
+Page 17 of 17 
+
+

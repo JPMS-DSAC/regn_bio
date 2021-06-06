@@ -1,0 +1,1080 @@
+PAPER  ON  MEASURES 
+
+DISCUSSION 
+EXCESS 
+DEMATERIALISATION OF SECURITIES  AND  PRE-LISTING  GREY  MARKET 
+IN  SECURITIES  ISSUED  IN  INITIAL  PUBLIC  OFFERS  (IPOs)  –  PROPOSED 
+AMENDMENTS  TO  THE  SEBI  (DEPOSITORIES  AND  PARTICIPANTS) 
+REGULATIONS, 1996  
+
+TO  CHECK 
+
+ 
+
+I. 
+ 
+1. 
+
+ 
+2. 
+
+ 
+3. 
+
+ 
+II 
+
+ 
+1. 
+
+BACKGROUND 
+
+The  past  few  years  have  seen  a  phenomenal  growth  in  the  securities 
+market,  leading  to  an  explosion  in  transaction  volumes  on  account  of 
+changes in the market microstructure due to technological developments. 
+The markets have also witnessed significant regulatory reforms. One such 
+reform  includes  introduction  of  the  depository  system.  The  advent  of 
+depositories  resolved  the  biggest  chunk  of  the  market  risk,  i.e.  bad 
+deliveries, delayed transfers, fake certificates, loss/theft of certificates, etc.   
+
+In the new system, the ownership of records is kept in electronic form and 
+the physical movement of securities is replaced by a book entry system. 
+This system was seen as a solution to the problems associated with the 
+process  of  physical  movement,  such  as,  long  delays  in  transfer,  bad 
+deliveries due to faulty completion of paper work, signature difference with 
+the  specimen  on  record  with  the  listed  companies  and  other  procedural 
+lapses. 
+
+However,  certain  irregularities  have  also  been  observed  in  the  demat 
+system like,   problem of securities having been issued in demat form by 
+listed companies in excess of listed capital/issued capital and transfer of 
+securities by the investors (through off-market) before trading permission 
+was  given  by  all  the  stock  exchanges  to  whom  listing  application  was 
+made  under  section  73(1)  of  the  Companies  Act,  1956,  by  the  issuer 
+companies.  
+
+PROBLEM  OF  SECURITIES  ISSUED  IN  DEMAT  FORM  BY  LISTED 
+COMPANIES IN EXCESS OF LISTED CAPITAL/ISSUED CAPITAL 
+
+In terms of section 9 (1) of the Depositories Act, 1996, all securities held 
+by a depository shall be dematerialised and shall be in a fungible form. In 
+the past, SEBI had come across some cases where the listed companies 
+had  dematted  more  securities  than  their  listed/issued  capital.  As  the 
+securities  in  the  dematerialized  environment  are  fungible,  once  these 
+fungible  securities  enter  the  market,  it  has  been  found  to  be  almost 
+impossible  to  distinguish  these  securities  from  the  other  securities.  This 
+has enabled duplicate or fake securities to find way into the system.  This 
+
+ 
+
+Page 1 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+is a matter of concern for the regulator and therefore, has been engaging 
+the attention of SEBI for quite some time.  
+
+There appears to be two kinds of “excess securities”  in the system. 
+
+ 
+2. 
+ 
+
+One is where the dematerialisation is in excess of listed capital 
+of  a  listed  company.  This  may  be  a  temporary  phenomenon 
+arising out of the fact that the company has made further issue 
+of  securities  and  dematerialised  such  fresh  capital  without 
+having received the listing approval from one or more or all of 
+the  stock  exchanges  where  the  securities  of  the  company  are 
+listed. The allotment of this “excess”  capital could be in demat or 
+physical 
+form.  This  “excess”  dematerialisation  may  get 
+regularized  once  the  final  listing  approval/s  are  granted  by  all 
+the  stock  exchanges.  However,  till  the  listing  approval  is 
+granted, these securities are “technically unlisted”  and therefore, 
+could not be delivered in the stock exchanges.  But due to the 
+fungibility,  if  these  securities  are  delivered,  it  would  not  be 
+possible to distinguish them from the original listed securities.  
+The  other  kind  of  ‘excess  securities’ is  where  the  securities in 
+existence (physical and demat) are in excess of issued capital 
+of  a listed  company.  This  would  imply  that  duplicate  securities 
+are in existence.   
+
+(i) 
+
+(ii) 
+
+ 
+
+III.  MEASURES TAKEN IN THE PAST TO ADDRESS THE CONCERNS 
+ 
+1. 
+
+In  order  to  address  the  concerns  arising  out  of  ‘dematerialisation  of 
+securities in excess of listed  capital’, SEBI had issued a circular on March 
+8,  2001  advising  the  stock  exchanges  to  amend  the  listing  agreement, 
+stating,  inter-alia,  that  “the  company  agrees  to  obtain  ‘in-principle’ 
+approval  for  listing  from  the  exchange  before  issuing  further  shares  or 
+securities”.  It  was  also  mandated in  the  said  circular  that  the  stock 
+exchanges  shall  inform  depositories  the  grant  of  ‘in-principle’ 
+listing 
+approval  immediately.  The  stock  exchanges  having  connectivity  with  the 
+depositories would upload this information electronically.  This circular was 
+modified  by  a  Circular  dated  September  29,  2003,  stating  that  “if  a 
+company  is  listed  on  any  stock  exchange  which  is  having  nationwide 
+trading terminals, it would be a sufficient compliance of the SEBI circular 
+(dated March 8, 2001), if it obtains ‘in-principle’  approval from such stock 
+exchange(s) for further issue of shares or securities. Where the company 
+is not so listed on any stock exchange having nationwide terminals, it shall 
+continue to obtain ‘in-principle’  approval from all the exchanges where it is 
+listed  as  was  provided  in  the  aforesaid  circular  dated  March  8,  2001”. 
+
+ 
+
+Page 2 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+in  September  2003  vide  Regulation  54(5)  of 
+
+Further, 
+the  SEBI 
+(D&P)(second Amendment) Regulations, 2003, it was provided that within 
+15  days  of  receipt  of  the  certificate  of  security  from  the  participant,  the 
+issuer shall confirm to the depository that securities comprised in the said 
+certificate  have  been  listed  on  the  stock  exchange  or  exchanges  where 
+the  earlier  issued  listed  securities  are  listed  and  shall  also  after  due 
+verification immediately mutilate and cancel the certificate and substitute 
+in its record the name of the depository as the registered owner and shall 
+send  a  certificate  to  this  effect  to  the  depository  and  to  every  stock 
+exchange  where  the  security  is  listed.  These  efforts  have  resulted  in 
+considerable reduction in the number of cases where the dematerialized 
+capital was in excess of the listed capital of a listed company.  However, a 
+blanket  ban  on  dematerialization  of  any  unlisted  securities  of  a  listed 
+company  was  not  feasible  in  view  of  the  provisions  of  section  8  of  the 
+Depositories  Act,  1996,  in  terms  of  which  the  investor  has  the  option  to 
+receive  security  certificate  or  hold  securities  with  depository  in  a 
+dematerialised form.  
+
+In  order  to  address  the  problem  arising  out  of  “’dematerialisation  of 
+securities in excess of issued  capital of a listed company’, SEBI  issued a 
+circular  dated  December  31,  2002,  mandating  all  companies  to  subject 
+themselves to secretarial audit on a quarterly basis. With the objective of 
+strengthening the regulatory framework to address the aforesaid problem, 
+SEBI brought in changes in the manner of handling share registry work by 
+inserting regulation 53A in SEBI (D&P) Regulations, 1996 with effect from  
+September  2,  2003.  This  regulation  provides  that  “All  matters  relating  to 
+transfer  of  securities,  maintenance  of  records  of  holders  of  securities, 
+handling  of  physical  securities  and  establishing  connectivity  with  the 
+depositories shall be handled and maintained at a single point i.e. either 
+in-house  by  the  issuer  or  by  a  Share  Transfer  Agent  registered  with  the 
+Board”.  Further,  with  the  insertion  of  Regulation  55A  in  SEBI  (D&P) 
+Regulations, 1996, on September 2, 2003, the requirement of submission 
+of  secretarial  audit  by  listed  companies  to  stock  exchanges,  with  effect 
+from  September  30,  2003,  has  been  made  a  regulatory  requirement.    A 
+circular  was  also  issued  on  March  3,  2004  re-emphasizing  the  need  to 
+comply with the provisions of Regulation 55A.   
+
+NEED FOR FURTHER PREVENTIVE STEPS 
+
+Despite the various measures initiated by SEBI as enumerated above, the 
+problems  arising  out  of  “excess  demat”  have  not  been completely 
+resolved.  Therefore, it is felt that certain further preventive steps would be 
+necessary, in the interest of securities market, to tackle this issue.  While 
+
+ 
+2. 
+
+ 
+IV 
+ 
+1. 
+
+ 
+
+Page 3 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+ 
+2.  
+
+ 
+
+ 
+
+the  measures  taken  in  the  past  include  casting  a  responsibility  on  the 
+listed  company  and  the  stock  exchanges,  the  issue  now  needs  a  fresh 
+look from the point of systemic issues with the depositories.  One of the 
+preventive steps could be to put certain responsibilities on the depositories 
+to  ensure  that the  securities  are  not  dematted  in  excess  of  listed/issued 
+capital. 
+
+Section 23F of the Securities Contracts (Regulation) Act, 1956 as inserted 
+by Securities Laws (Amendment) Act, 2004 provides for the following:  
+
+Penalty for excess dematerialisation or delivery of unlisted securities 
+ 
+23F.  If  any  issuer  dematerialises  securities  more  than  the  issued 
+securities of a company or delivers in the stock exchanges the securities 
+which  are  not  listed  in  the  recognised  stock  exchange  or  delivers 
+securities where no trading permission has been given by the recognised 
+stock exchange, he shall be liable to a penalty not exceeding twenty-five 
+crore rupees. 
+ 
+The  aforesaid  section  deals  with  two  distinct  things,  and  provides  for 
+imposition of deterrent penalty of upto Rs.25 crores.: 
+i. 
+ii. 
+
+dematerialization in excess of issued capital; and, 
+Delivering  unlisted  securities  or  securities  for  which  no  trading 
+permission has been given in the stock exchanges. 
+
+As far as improper dematerialization is concerned, the ‘person’  referred to 
+above could mean those who are involved in the process, i.e. the issuer, 
+its registrar, the depository participant and the depository, apart from the 
+investor who holds the securities. As such, it is felt that the responsibility 
+would be on each such person to ensure that dematerialization is not done 
+in  excess  of  issued  capital.  For  this  purpose,  a  system  of  tracking 
+distinctive numbers of securities admitted to a depository system seems to 
+be a sine qua non – to ensure that certificates which have already been 
+dematerialized are not again tendered and dematerialized. This provision 
+needs  to  be  clarified  further  in  the  SEBI  (D&P)  Regulations,  1996,  by 
+defining the responsibility of each such person in this regard.  
+ 
+As regards delivery of unlisted securities on a stock exchange, though in 
+terms  of  the  section  every  person  who  has  so  delivered  is  liable  for 
+monetary penalty, it is felt that innocent parties such as clients or brokers, 
+who may not be in the know, should not suffer penalty. The way to ensure 
+that such securities are not delivered on the stock exchange would be to 
+ensure  that  they  are  not  dematerialized  or  allotted  without  blocking 
+
+ 
+
+Page 4 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+unlisted  securities  allotted  in  demat  form  in  the  first  instance  and  by 
+making suitable provisions to prevent or lessen the possibility of fraudulent 
+demat of physical securities which are unlisted or which are forged. The 
+modalities  for  ensuring  this  have  been  discussed  in  the  subsequent 
+paragraphs. Any person who manipulates and circumvents even the new 
+system  (modalities)  and  delivers  unlisted  securities  could  then  be 
+punished.  
+
+The Securities Laws (Amendment) Act, 2004 also inserted Section 19E in 
+the Depositories Act, 1996 which reads as follows: 
+ 
+
+ 
+3. 
+
+Penalty for failure to reconcile records.—  
+
+19E. If a depository or participant or any issuer or its agent or any person, 
+who is registered as an intermediary under the provisions of Section 12 of 
+the Securities and Exchange Board of India Act, 1992 (15 of 1992), fails to 
+reconcile  the  records  of  dematerilaised  securities  with  all  the  securities 
+issued  by  the  issuer  as  specified  in  the  regulations,  such  depository  or 
+participant or issuer or its agent or intermediary shall be liable to a penalty 
+of one lakh rupees for each day during which such failure continues or one 
+crore rupees, whichever is less. 
+ 
+In  terms  of  the  aforesaid  provision,  the  primary  responsibility  for  correct 
+reconciliation of total issued securities with those dematerialized is on the 
+depository.  In  the  absence  of  further  clarification,  there  would  be 
+indiscriminate liability to penalty under this section on all concerned, while 
+there  would  be  no  system  whereby  the  other  players  would  be  able  to 
+ensure  proper  reconciliation.  In  such  a  case,  levy  of  penalty  on  any 
+innocent person other than the depository may not be justified. There is a 
+need  for  correctly  identifying  the  respective  responsibilities  of  the 
+depository,  depository  participant,  issuer,  share  transfer  agent  and  the 
+investor in the dematerialization process and casting an obligation on the 
+depository 
+require  suitable 
+amendments  to  SEBI  (D&P)  Regulations,  1996.  Once  the  system  is 
+established  by  the  depository,  each  of  the  other  persons  will  be 
+responsible to fulfill his part of the duty properly and will be liable for any 
+lapse in his sphere of duty. 
+ 
+PROPOSED AMENDMENTS TO SEBI (D&P) REGULATIONS, 1996 TO 
+PREVENT THE EXCESS DEMAT 
+
+the  systems.  This  would 
+
+to  develop 
+
+These issues were discussed by the Legal Advisory Committee of SEBI 
+(LAC). In the light of the foregoing and based on the recommendations of 
+
+V. 
+
+ 
+1. 
+
+ 
+
+Page 5 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+LAC,  it  has  been  proposed  to  make  certain  amendments  to  the  SEBI 
+(D&P)  Regulations,  1996,  as  detailed  in  the  Annexure  hereto.  The 
+proposed amendments cover three distinct classes of transactions which 
+are explained below : 
+(a) 
+
+Preventing excess dematerialization – Cases of direct allotment of 
+further securities in dematerialized form 
+There  are  cases  where  demat  allotments  are  made  by  issuers 
+which involve various irregularities and violations. At a later point of 
+time,  the  stock  exchanges  while  examining  the  listing  application, 
+detect  these  violations.  In  the  meantime,  the  securities,  being 
+fungible  with  existing  regularly  allotted  securities,  are  offloaded  in 
+the stock exchanges, even though listing permission is not given for 
+them. This is sought to be prevented by regulations 53C(1), (3) and 
+(4)  and  53D.  Post  amendment,  the  process  flow  of  a  demat 
+allotment may be as follows: 
+
+ 
+
+i.  The issuer takes in-principle approval from the stock exchanges 
+where securities of the same kind are listed under clause 24(a) 
+of the Listing Agreement.  Where such securities are listed on 
+BSE  or  NSE  or  both,  among  other  exchanges,  it  would  be 
+sufficient if the in-principle approval is taken only from BSE or 
+NSE  or  both,  as  the  case  may  be.1  The  issuer  shall  complete 
+other  approvals  and  other  pre-issue  procedures  before 
+approaching the exchange for in-principle approval.   
+
+ii.   The  issuer  makes  demat  allotment  of  the  securities  to  the 
+allottees. The depositories give credit  to the demat accounts of 
+the  allottees.  However,  they  will  be  required  to  block  /  freeze 
+such securities in the said demat accounts until confirmation as 
+in  (iv)  below  is  received  from  the  issuer  and  the  designated 
+stock exchange [proposed regulation 53C(3)]. 
+
+iii.  The issuer makes listing application for the new securities to all 
+the  stock  exchanges  where  the  original  securities  are  listed. 
+[clause 24(a) of the Listing Agreement]. 
+
+iv.  Post allotment, listing and trading permission is either granted or 
+refused by the exchanges.  If all the exchanges grant listing and 
+trading  permission  to  the  new  securities,  the  issuer  and  the 
+designated 
+fact 
+independently to the depositories with whom the issuer has an 
+agreement  [proposed  regulation  53C(1)].    In  case  the  original 
+securities  are  listed  in  BSE  or  NSE  or  both,  the  confirmation 
+
+stock  exchange 
+
+confirm 
+
+such 
+
+shall 
+
+                                                
+1 As per SEBI circular dated September 29, 2003, which has done away with the requirement of obtaining 
+in-principle approval from smaller exchanges where the securities are listed in NSE or BSE. 
+
+ 
+
+Page 6 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+ 
+
+ought to be given as soon as BSE or NSE or both, as the case 
+may be, grant the permissions.2 
+
+v.  After receipt of confirmations as above, the depositories shall lift 
+the  freeze  /  block  and  the  demat  securities  will  become  freely 
+transferable. 
+
+As a corollary to the above, the issue of securities subject to lock-in 
+period  also  arises.    At  present,  depositories  have  operational 
+mechanisms  to  block  such  securities  in  the  relevant  demat 
+accounts during the lock-in period.  But there is no obligation upon 
+them to do so.  It may be recalled that during the physical regime, 
+the  share  certificates  which  were  subject  to  lock-in  period  were 
+inscribed with a seal mentioning ‘locked in till ___’, which enabled 
+brokers  and  clearing  houses  to  identify  them.    In  the  demat  era, 
+such identification is not possible and, in the absence of any legal 
+obligation  on  the  depositories  to  block  such  securities  during  the 
+lock-in  period,  there  is  a  possibility  of  such  securities  being  off 
+loaded  in  the  market  before  expiry  of  the  lock-in  period,  as  has 
+already happened in some cases.  Proposed regulation 53D seeks 
+to  address 
+this  situation  by  casting  suitable  obligation  on 
+depositories. 
+ 
+
+(b)  Preventing  excess  dematerialization  –  Subsequent  demat  of 
+
+securities originally allotted in physical form 
+i. 
+
+It  is  more  difficult  to 
+tackle  this  situation  since  such 
+dematerialization  is  done  directly  by  the  issuer,  when  the 
+certificate  is  forwarded  by  a  depository  participant.  The 
+dematerialization process in existing provisions of regulation 
+54  requires  that  an  investor  holding  physical  securities  may 
+approach  a  depository  participant,  who  would  forward  the 
+certificate  to  the  issuer.  The  issuer  would  then  destroy  the 
+certificate  and  enter  the  name  of  depository  as  holder  of 
+those  particular  securities  (by  their  distinctive  numbers  as 
+required  by  section  150  of  the  Companies  Act)  in  its  books 
+after  giving  confirmation  to  the  depository  as  regards  the 
+listed status of those particular securities.  It has to be noted 
+that the depository participant who forwards the certificate to 
+the  issuer  would  have  to  forward  details  of  the  physical 
+security  certificate  to  the  depository  and  maintain  record  of 
+the details of such certificate and the investor who tendered 
+them  [regulations  54(2)  &  (3)].  Thus,  it  is  seen  that  existing 
+
+                                                
+2 flowing from SEBI circular dated September 29, 2003. 
+
+ 
+
+Page 7 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+provisions  require  the  depositories  to  maintain  details  of 
+distinctive  numbers  at  least  of  the  securities  dematerialized 
+with it. However –  
+
+a)  There is no express provision saying so. 
+b)  Even so distinctive numbers of securities of an issuer 
+which are still in physical form are not required to be 
+maintained by the depository. 
+
+c)  The problem is compounded because of existence of 
+
+two depositories, which may not have identical data. 
+
+ 
+
+ii. 
+
+It  is  seen  that  in  one  of  the  depositories  there  was  a 
+mechanism  of  communication  between  the  depository 
+participant  and  the  depository  even  before  forwarding  to 
+the issuer and that non genuine cases such as demat of 
+(duplicate  or  forged)  certificates  bearing  same  distinctive 
+number  as  those  already  dematted  are  capable  of  being 
+eliminated  at  the  first  stage  itself.  This  system  has  now 
+been  discontinued.  It  is  felt  based  on  SEBI’s  experience 
+that this system should be made compulsory for all demat 
+requests  and  for  all  depositories  after  plugging  the 
+loopholes  mentioned  in  (a)  to  (c)  above.  Any  other  view 
+could  make  the  provisions  of  regulations  54(2)  and  (3) 
+redundant  and  would  provide  no  means  of  checking 
+whether  the  dematerialized  securities  are  within  the  limit 
+of total issued capital.  Further, such a provision will only 
+be  clarificatory  of  section  19E  of  the  Depositories  Act 
+(Penalty for failure to reconcile records), which has been 
+inserted by the Securities Laws (Amendment) Act, 2004.   
+
+iii.  Accordingly,  regulations  54(4A)  to  (4C)  and  54A  are 
+proposed. Since the depositories do not have a system to 
+track  distinctive  numbers  and  share  the  information  with 
+depository  participants  today,  a  transitional  period  would 
+have  to  be  provided  for  them  to  collect  the  requisite 
+information 
+issuers  (listed  companies).  A 
+corresponding obligation is also sought to be imposed on 
+issuers. The process flow could take place in two stages, 
+as detailed below : 
+
+from 
+
+the 
+
+Stage I – For establishment of the new system 
+ 
+
+1)  The issuers would be required to provide information of 
+are 
+
+securities  which 
+
+distinctive 
+
+numbers 
+
+of 
+
+ 
+
+ 
+
+ 
+
+Page 8 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+dematerialized, in physical form, listed, unlisted, etc. as 
+in  the  proposed  regulation  54A(4)  within  the  time 
+specified  by  SEBI.  Flexibility  is  retained  for  SEBI  to 
+specify  different  time  limits  for  different  classes  of 
+issuers, so that this could be done in phases. 
+
+2)  The  depositories  shall  use  the  above  information  and 
+create  a  system  of  tracking  distinctive  numbers  of  the 
+securities  which  are  dematerialized.  This  would  also 
+require  tracking  distinctive  numbers  of  securities  which 
+are  validly  issued  and  remaining  in  physical  form.  To 
+prevent  fraudulent  demat  of  unlisted  securities,  they 
+would  also 
+track  distinctive  numbers  of  physical 
+securities  which  have  been  allotted  but  not  listed  in  all 
+stock exchanges where original securities are listed [or 
+BSE  or  NSE  or  both  alone,  where  relevant.  This  data 
+shall be made available online to depository participants 
+and  shall  be  established  within  such  time  as  may  be 
+specified  by  SEBI.  Flexibility  is  retained  for  SEBI  to 
+specify  different  time  limits  for  creation  of  record  in 
+respect  of  different  classes  of 
+[proposed 
+regulations 54A(2) & (3)]. 
+
+issuers 
+
+3)  Corresponding obligation is cast on the designated stock 
+exchange  and 
+to  continually  provide 
+information  about  developments  regarding  the  listing 
+status of the securities [proposed regulation 54A(5)].  
+
+issuers 
+
+4)  Companies  coming  out  with  initial  public  offers  (IPOs) 
+shall be required to give this information while entering 
+into  an  agreement  with 
+for 
+dematerialization of their securities.  
+
+the  depositories 
+
+5)  As far as requiring both depositories to set up a single 
+online system is concerned, SEBI may supplement this 
+with administrative instructions (circulars). 
+
+the 
+
+6)  It is to be noted that the depositories’  obligations do not 
+end  with  creating  the  system  of  tracking  the  distinctive 
+numbers. As in the proposed regulation 54A(1), it shall 
+be their responsibility to “establish and maintain systems 
+and safeguards designed to reconcile records of issued, 
+listed  and  dematerialized  securities  of  each  class  of 
+securities 
+prevent 
+dematerialization  of  securities  in  excess  of  total  issued 
+and  listed  securities”  of  which  the  distinctive  number 
+tracking  system  is  only  an  illustration.  SEBI  may 
+supplement 
+administrative 
+
+provision  with 
+
+issuer 
+
+every 
+
+and 
+
+this 
+
+of 
+
+to 
+
+ 
+
+Page 9 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+instructions  (circulars)  from  time  to  time,  if  found 
+necessary. 
+
+Stage II – Dematerialization after establishment of the new 
+system 
+
+1)  A  holder  of  physical 
+
+securities  desirous  of 
+dematerializing  them  has  to  surrender  the  physical 
+security  certificates  to  a  depository  participant  with  the 
+prescribed form [existing regulation  54(1)]. 
+
+2)  The  depository  participant  shall  check  the  distinctive 
+number  contained  in  the  certificate  with  the  data 
+contained  in  the  online  record  maintained  by  the 
+depository  under  proposed  regulation  54A(2)  to  verify 
+whether  the  same  distinctive  numbers  have  been 
+dematerialized earlier and whether they are listed on all 
+relevant stock exchanges. 
+
+3)  If the depository participant finds that the securities are 
+not  already  dematerialized  and  are  duly  listed  in  the 
+relevant  stock  exchanges,  it  shall  forward  the  security 
+certificate  to  the  issuer  with  requisite  details,  after 
+entering them in its record. It shall forward the details to 
+the depository also [existing regulations 54(2) to (4) and 
+proposed  regulation  54(4A)].    Where  the  depository 
+participant  is  not  so  satisfied,  it  shall  not  forward  the 
+security  to  the  issuer  but  shall  report  the  fact  to  the 
+issuer and the depository [proposed regulation 54(4B)]. 
+
+4)  The  issuer  upon  receipt  of  the  security  certificate 
+forwarded by the depository participant shall confirm to 
+the  depository  that  the  securities  comprised  in  the 
+certificate  have  been  listed  on  stock  exchanges  where 
+the  original  securities  are  listed  and  shall  after  due 
+verification mutilate and cancel the certificate and enter 
+the depositories name as the registered owner.  It shall 
+send a confirmation to this effect to the depository and 
+every  stock  exchange  where  the  security  is  listed  and 
+update  its  record  of  dematerialized  securities  [existing 
+regulations 54(5) and (7)]. 
+
+5)  Upon  receipt  of  confirmation  as  above  from  the  issuer, 
+the  depository  shall  enter  the  name  of  the  person  who 
+has  surrendered  the  security  certificate,  as  beneficial 
+owner in its records [existing regulation  54(6)]. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 10 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+VI 
+
+ 
+1. 
+
+2.  
+
+ 
+VII 
+ 
+1. 
+
+PROPOSED AMENDMENTS TO SEBI (D&P) REGULATIONS, 1996 TO 
+PREVENT PRE-LISTING GREY MARKET OPERATIONS IN IPOs 
+
+Section 68B of the Companies Act requires that every IPO in excess of 
+Rs.10 crores is to be made in demat form.  Practically all IPOs that take 
+place today are in demat form. Having regard to the recent developments 
+relating  to  transactions  in  the  grey  market  (off-market)  in  securities  of 
+IPOs  before  grant  of  listing  and  trading  permissions  by  the  concerned 
+stock  exchanges,  the  depositories  were  advised  by  SEBI  vide  circular 
+dated  January  19,  2006  to  activate  the  ISINs  only  on  the  date  of 
+commencement of trading on the stock exchanges. 
+ 
+Regulation 53D is proposed to supplement this by casting an obligation on 
+the depositories to prevent transfer of such securities till listing and trading 
+permission  are  given  by  all  the  stock  exchanges  to  whom  listing 
+application  is  made  under  section  73(1)  of  the  Companies  Act.  The 
+process  flow  after  insertion  of  the  proposed  regulation  would  be  as 
+follows: 
+
+a)  The  issuer  allots  securities  in  an  IPO  after  following  due 
+
+procedure.  
+
+IPO.  
+
+b)  The depositories give credit to the successful applicants in the 
+
+c)  However,  the  depositories  block  /  freeze  the  securities  in  the 
+demat  accounts  of  the  allottees  till  the  designated  stock 
+exchange and the issuer confirm to them that listing and trading 
+permissions have been granted by all stock exchanges to whom 
+listing  application  was  made  under  section  73(1)  of  the 
+Companies Act.  
+
+d)  Once confirmation as above is received, the depositories lift the 
+
+freeze and the securities will become freely transferable. 
+
+CONCLUSION 
+
+The above amendments broadly cover (a) capturing of distinctive numbers 
+in  the  depository  system  (b)  casting  responsibility  of  the  depositories  to 
+obtain  the  confirmation  from  the  issuer  and  the  designated  stock 
+exchange  regarding  grant  of 
+listing  permission,  before  permitting 
+dematerialisation (c) casting responsibility on the depository to block the 
+securities  in  the  demat  account  of  the  beneficiary  owner  till  trading 
+permission  is  granted  by  the  stock  exchanges,  in  case  of  fresh  issue  of 
+securities (d) casting responsibility on the depositories to reconcile records 
+of issued, listed, and dematted securities.  These proposed amendments 
+cast  responsibilities  on  the  depositories,  depository  participants,  issuer 
+
+ 
+
+Page 11 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+ 
+2. 
+
+ 
+3. 
+
+ 
+
+? 
+ 
+
+companies,  etc.  The  process  of  implementation  would  require  system 
+changes at the depositories, depository participants and RTI/STAs.    
+
+SEBI  has  been  following  a  policy  of  extensive  public  consultation  and 
+debate  before  formulating  and  implementing  any  new  regulation.  In 
+accordance  with  this  policy,  this  Discussion  Paper,  along  with  proposed 
+amendments  to  SEBI  (D&P)  Regulations,  1996,  is  being  made  available 
+on SEBI’s web site at www.sebi.gov.in for public comments.  
+
+All comments on this Discussion Paper should reach SEBI at the following 
+address or may be sent by e-mail to excessdemat@sebi.gov.in by July 10, 
+2006. 
+
+Shri V.S. Sundaresan, General Manager, 
+Securities and Exchange Board of India 
+29th Floor, World Trade Centre, Centre 1 
+Cuffe Parade, Mumbai 400005 
+ 
+ 
+
+******************* 
+
+ANNEXURE 
+
+ 
+
+ 
+
+PROPOSED AMENDMENTS TO SEBI (D&P) REGULATIONS, 1996 
+
+“53C. Issue of securities in the dematerialised form 
+
+ 
+
+(1)  Where an issuer allots further securities in dematerialized form of a 
+class of securities which are already listed on any recognized stock 
+exchange,  the  issuer  and  the  designated  stock  exchange  shall 
+confirm to the depositories that listing and trading permissions have 
+been  granted  for  the  further  securities  by  all  stock  exchanges  in 
+which the existing securities of the same class are listed, forthwith 
+upon grant of such permission: 
+Provided that where such class of securities is listed on recognised 
+stock  exchanges  which  have  nationwide  trading  terminals,  among 
+others, it would be sufficient for the issuer and the designated stock 
+exchange to provide the above confirmation in respect of listing and 
+trading  permissions  granted  by  such  recognised  stock  exchanges 
+having nationwide trading terminals alone. 
+
+(2)  Where  an  issuer  makes  an  initial  public  offering  (IPO)  of  its 
+securities,  the  issuer  and  the  designated  stock  exchange  shall 
+confirm to the depositories that listing and trading permissions have 
+been  granted  for  such  securities  by  all  stock  exchanges  to  which 
+
+ 
+
+Page 12 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+listing applications were made under sub-section (1) of section 73 
+of  the  Companies  Act,  1956,  forthwith  upon  grant  of  such 
+permission. 
+
+(3)   The depository shall block the securities allotted in dematerialized 
+form to any person in a case covered either by sub-regulation (1) or 
+sub-regulation  (2),  in  the  demat  account  of  such  person  until  the 
+confirmations as provided under those sub-regulations are received 
+from the issuer and the designated stock exchange. 
+
+(4)   For the purposes of this regulation –  
+
+(a) ‘designated  stock  exchange’  shall  mean  the  stock  exchange 
+designated as such by the issuer for its IPO or any subsequent 
+issue of securities under the Securities and Exchange Board of 
+India (Disclosure and Investor Protection) Guidelines, 2000 and 
+if no such stock exchange is specified, then any stock exchange 
+designated by the issuer for the purpose of these regulations: 
+Provided  that  when  the  securities  of  the  issuer  are  listed  on 
+stock  exchanges  which  have 
+trading 
+terminals,  the  issuer  shall  designate  one  of  them  under  the 
+second part of this clause; and 
+
+installed  nationwide 
+
+(b) ‘stock  exchanges  which  have  installed  nationwide  trading 
+terminals’  mean  the  Bombay  Stock  Exchange  Limited,  the 
+National  Stock  Exchange  of  India  Limited  and  any  other  stock 
+exchange which may be specified as such by the Board. 
+
+ 
+53D. Issue of securities subject to lock-in period 
+(1) Where any allotment of securities in an IPO or any allotment of further 
+securities  made  in  dematerialized  form  is  subject  to  lock-in  period 
+under any regulations or guidelines made under the Act, the depository 
+shall block such securities in the demat account of the person to whom 
+the allotment was made, till the lock-in period is over.  
+
+(2) Sub-regulation (1) shall apply subject to such relaxation regarding the 
+lock-in  period  as  may  be  available  under  the  relevant  regulations  or 
+guidelines.” 
+
+ 
+“54 (4A) The participant shall not furnish the certificate of security to the 
+issuer under sub-regulation (4), unless it examines the online records of 
+distinctive numbers of securities maintained by the depository under sub-
+regulation (2) of regulation 54A and finds upon such examination –  
+(a) 
+
+that  the  securities  pertaining  to  the  certificate  have  not  already 
+been dematerialized; and  
+that  listing  and  trading  permissions  have  been  given  to  such 
+securities by the stock exchanges mentioned in sub-regulation (1) 
+of regulation 53C or the proviso thereto. 
+
+(b) 
+
+? 
+
+? 
+
+ 
+
+Page 13 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+? 
+
+ 
+? 
+
+ 
+? 
+
+ 
+54(4B) 
+If  upon  such  examination  the  participant  finds  that  the 
+securities  pertaining  to  that  certificate  have  already  been  dematerialized 
+or  that  they  have  not  been  listed  on  the  stock  exchanges  mentioned  in 
+sub-regulation (1) of regulation 53C, it shall forthwith – 
+(a) 
+(b) 
+
+report the fact to the issuer and to the depository; and 
+return  the  certificate  to  the  beneficial  owner  after  putting  an 
+indelible  stamp  on  its  face  mentioning  ‘NOT  ELIGIBLE  FOR 
+DEMATERIALISATION’. 
+
+54(4C)  
+Nothing  contained  in  sub-regulations  (4A)  and  (4B)  shall 
+apply to any class of securities which is not listed on any recognized stock 
+exchange.” 
+
+to 
+
+reconcile 
+
+records  of 
+
+“54A.  Systems 
+dematerialized securities 
+(1) Every depository shall establish and maintain systems and safeguards 
+designed  to  reconcile  records  of  issued,  listed  and  dematerialized 
+securities  of  each  class  of  securities  of  every  issuer  and  to  prevent 
+dematerialization  of  securities  in  excess  of  total  issued  and  listed 
+securities. 
+
+listed  and 
+
+issued, 
+
+(2) The  systems  and  safeguards  shall  include  keeping  a  record  of  the 
+distinctive  number  of  securities  which  have  been  already 
+dematerialized, those which are existing in the physical form and out 
+of  those,  the  securities  which  have  been  listed  on  all  the  stock 
+exchanges  mentioned  in  sub-regulation  (1)  of  regulation  53C  or  the 
+proviso thereto and the securities which have been allotted but not so 
+listed. 
+
+(3) The record of distinctive number of shares mentioned in sub-regulation 
+(2) shall be accessible online to all participants of the depository and 
+shall be established by the depositories in respect of all issuers within 
+such date as may be specified by the Board: 
+
+ 
+
+Provided  that  the  Board  may  specify  different  dates  for  creation  of 
+such record in respect of different issuers or classes of issuers. 
+
+(4) All issuers shall provide the following information to the depositories, 
+
+within such date as may be specified by the Board: 
+(a) 
+
+the  distinctive  numbers  of  their  securities  which  are  already 
+dematerialized; 
+the  distinctive  numbers  of  their  securities  which  are  in  physical 
+form; 
+the  distinctive  numbers  of  their  securities  for  which  listing 
+permission have been granted by stock exchanges mentioned in 
+
+(b) 
+
+(c) 
+
+ 
+
+Page 14 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+(d) 
+
+sub-regulation (1) of regulation 53C or the proviso thereto, as the 
+case may be; and 
+the  distinctive  numbers  of  their  securities  for  which  listing 
+permission  as  above  has  been  rejected  or  is  pending  or  is  not 
+given for any other reason. 
+ 
+Provided that different dates may be specified by the Board for 
+different issuers or classes of issuers. 
+Provided  further  that  the  information  mentioned  in  clauses  (c) 
+and (d) shall be authenticated by the designated stock exchange. 
+
+ 
+(5)  The designated stock exchange and the issuer shall forthwith provide 
+information of all developments relating to issue of further securities in 
+physical  form  made  after  commencement  of  the  Securities  and 
+Exchange Board of India (Depositories and Participants) (Amendment) 
+Regulations,  2006  and  the  status  of  their  listing  along  with  their 
+distinctive numbers, to the depositories to enable them to update their 
+records for the purpose mentioned in sub-regulation (1). 
+
+ 
+(6)  Any issuer proposing to enter into an agreement with a depository for 
+dematerialization  of 
+the 
+Securities  and  Exchange  Board  of 
+(Depositories  and 
+Participants)  (Amendment)  Regulations,  2006,  shall 
+the 
+information mentioned in sub-regulation (4) to the depositories prior to 
+entering into the agreement. 
+
+its  securities  after  commencement  of 
+
+India 
+
+furnish 
+
+(7)  Nothing  contained  in  this  regulation  shall  apply  to  any  class  of 
+
+securities which is not listed on any recognised stock exchange.” 
+
+************************* 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Page 15 of 15 
+
+ 
+ 
+ 
+ 
+Discussion paper to check excess demat 
+
+

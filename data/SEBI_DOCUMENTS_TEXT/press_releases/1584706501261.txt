@@ -1,0 +1,260 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PR No.18/2020 
+
+ 
+
+Regulatory measures taken by SEBI in view of ongoing market volatility 
+
+1.  In the recent past, world over, the stock markets have been quite volatile owing to 
+
+concerns  relating  to  COVID-19  pandemic  and  the  resultant  fear  of  economic 
+
+slowdown. The movement in the Indian stock market has been broadly in tandem 
+
+with the other global markets. 
+
+  
+
+2.  On account of our existing robust risk management framework, despite significant 
+
+movements in the market, there has not been any disruption in the settlement cycles 
+
+of the Stock Exchanges / Clearing Corporations.  
+
+ 
+
+3.  Taking note of the continued abnormally high volatility in the market, SEBI discussed 
+
+with  the  Stock  Exchanges,  Clearing  Corporations  and  Depositories  appropriate 
+
+measures that may be taken in the existing circumstances.  
+
+ 
+
+4.  Pursuant  to  the  said  discussions  and  keeping  in  view  the  objective  of  ensuring 
+
+orderly  trading  and  settlement,  effective  risk  management,  price  discovery  and 
+
+maintenance of market integrity, measures as per Annexure A have been taken.  
+
+ 
+
+5.  These measures will kick-in w.e.f. the beginning of trading on March 23, 2020 and 
+
+will be in effect for a period of one month. The position would be reviewed thereafter 
+
+and appropriate view taken thereupon.  
+
+ 
+
+6.  The stock exchanges / clearing corporations will be issuing necessary instructions 
+
+to the market participants in this regard.  
+
+ 
+
+ 
+
+ 
+
+7.  SEBI and Stock Exchanges will continuously monitor the market developments and 
+
+review the position and take any further suitable actions as may be required. 
+
+ 
+
+ 
+
+ 
+
+Annexure-A 
+
+1.  Stocks in derivatives segment (F&O stocks) 
+
+ 
+
+(i)  Revision of Market Wide Position Limit (MWPL) 
+
+For stocks in F&O segment meeting the following criteria, MWPL may be revised 
+to 50% of the existing levels: 
+
+a)  Average  Daily  Price  High  Low  variation  percentage  (during  last  5 
+
+trading days) should be more than or equal to 15%,  
+
+OR 
+
+b)  Average  MWPL  utilization  percentage  (during  last  5  trading  days) 
+
+should be more than or equal to 40% 
+
+The aforesaid revised MWPL shall be for the purpose of introducing ban period 
+on  fresh  positions  and  not  for  determining  the  enhanced  eligibility  criteria  for 
+the 
+derivatives 
+circular 
+SEBI/HO/MRD/DP/CIR/P/2018/67 dated 11 April, 2018.   
+
+mentioned 
+
+SEBI 
+
+stocks 
+
+as 
+
+in 
+
+End-of-day  positions,  as  on  the  date  of  issuance  of  the  circulars  by  the  stock 
+exchanges / clearing corporations in this regard, would not be impacted. 
+
+In  the  event  MWPL  utilization  in  a  security  crosses  95%,  derivative  contracts 
+enter  into a  ban period,  wherein,  all  clients /  trading members are  required  to 
+trade in the derivative  contracts of said scrips only to decrease their positions 
+through  offsetting  positions.  Any  increase  in  open  positions  would  attract 
+appropriate  penal  and/or  disciplinary  action  of  the  stock  exchanges  /  clearing 
+corporations. 
+
+Accordingly, stock exchanges / clearing corporations shall put in place effective 
+mechanism to monitor whether the market wide open interest for scrips meeting 
+the aforesaid criteria exceeds 95% of the reduced market wide position limit as 
+arrived  at  above.  Further,  the  stock  exchanges  /  clearing  corporations  shall 
+check on an intra-day basis (monitoring of Peak intraday OI or periodic intraday 
+monitoring  of  OI)  whether  any  member  or  client  has  exceeded  his  existing 
+positions or has created a new position in the scrips in the new ban period. 
+
+ 
+
+ 
+
+In  addition,  the  current  penalty  structure  adopted  by  the  stock  exchanges  / 
+clearing corporations may be enhanced to 10 times of the minimum and 5 times 
+of  the  maximum  penalties  specified  by  the  stock  exchanges  /  clearing 
+corporations, to function as an effective deterrent in the current market context. 
+
+The above framework may be applicable w.e.f. March 23, 2020 for a period of 1 
+month. 
+
+(ii) Increase in margin for stocks meeting the aforesaid criteria (as mentioned 
+
+at Sr. No. 1(i)) 
+
+  For such stocks, margin rate in Cash Market shall be increased to minimum 
+
+40% in a phased manner as follows: 
+
+o  Minimum 20% to be effective from March 23, 2020 
+
+o  Minimum 30% to be effective from March 26, 2020 
+
+o  Minimum 40% to be effective from March 30, 2020 
+
+  Proposed margins  would  only  be  applied  in Cash  Market  (i.e.,  derivatives 
+contracts  on  these  stocks  will  continue  to  be  charged  margins  as  per  the 
+extant framework). 
+
+  Proposed margins rate may be applicable for a period of 1 month. 
+
+ 
+
+2.  Increase in margin for Non-F&O Stocks in Cash Market 
+
+(i)  For stocks with price band of 20% and witnessing an  intraday (high-low) price 
+movement of more than 10% for 3 or more days in last 1 month, minimum margin 
+rate shall be increased in a phased manner as follows: 
+
+ 
+
+ 
+
+ 
+
+30% to be effective from March 23, 2020 
+
+40% to be effective from March 26, 2020 
+
+40% or Max intraday high-low variation (during last 1 month), whichever is 
+higher, to be effective from March 30, 2020 
+
+(ii) The above margin rates may be applicable for a period of 1 month. 
+
+3.  Index Derivatives 
+
+Revised position limits in equity index derivatives (futures and options) 
+
+(i)  Mutual  Funds  /  FPIs  /  Trading  Members  (Proprietary)  /  Clients  may  take 
+
+exposure in equity index derivatives subject to the following limits: 
+
+ 
+
+ 
+
+a.  Short positions in index derivatives (short futures, short calls and long 
+puts) shall not exceed (in  notional value) the Mutual Funds’ / FPIs’ / 
+Trading Members’ (Proprietary) / Clients’ holding of stocks. 
+
+b.  Long positions in index derivatives (long futures, long calls and short 
+puts)  shall  not  exceed  (in  notional  value)  the  Mutual  Funds’  /  FPIs’ 
+holding of cash, government securities, T-Bills and similar instruments. 
+
+ 
+
+(ii)  Further to 3(i) above, additional position limits mentioned hereunder shall be 
+
+available to Trading Members (Proprietary) / FPIs / Mutual Funds / Clients: 
+
+a.  Equity Index Futures Contracts: Rs. 500 Crores. 
+
+b.  Equity Index Options Contracts: Rs. 500 Crores. 
+
+ 
+
+(iii) If any of the aforesaid entities exceed the respective limits prescribed at 3(i)  
+and 3(ii) above, an additional deposit shall be payable by the entity equivalent 
+to double the amount of margin chargeable on excess position beyond the 
+limits prescribed at 3(i)  and 3(ii) above and the same shall be retained by 
+stock exchanges / clearing corporations for a period of 3 months. 
+
+ 
+
+(iv) The existing positions as on the date of issuance of the circulars by the stock 
+exchanges / clearing corporations would not be impacted (i.e., the positions 
+shall  be  permitted  to  be  held  till  expiry  or  close-out,  whichever  is  earlier). 
+However, if a fresh position is taken, then the entire positions (including the 
+grandfathered positions) shall be subject to limits mentioned above. 
+
+ 
+
+(v) The above framework may be applicable for a period of 1 month, w.e.f. March 
+23, 2020 for institutions and trading members (proprietary).  For others, the 
+applicability will begin w.e.f. March 27, 2020. 
+
+4.  Flexing of dynamic price bands for F&O stocks 
+
+(i)  Currently, stocks in the F&O segment are subject to dynamic price bands. The 
+bands are relaxed in the event of market trends in either direction. One of the 
+conditions  followed  by  stock  exchanges  for  relaxing  the  price  band  is  that  a 
+minimum of 25 trades should be executed with 5 different UCCs on each side of 
+the trade at or above 9.90% and so on.  
+
+(ii)  In addition to the existing requirements, the dynamic price bands may be flexed 
+only after a cooling-off period of 15 minutes from the time of meeting the existing 
+criteria specified by stock exchanges for flexing. 
+
+ 
+
+ 
+
+

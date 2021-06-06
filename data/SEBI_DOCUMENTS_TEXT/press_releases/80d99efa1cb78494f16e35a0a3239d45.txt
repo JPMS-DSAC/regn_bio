@@ -1,0 +1,106 @@
+
+ 
+Sep 23, 2016
+
+PR No.:  
+139/2016
+
+
+The SEBI Board met in Mumbai today and took the following important decisions: 
+I. Amendment to SEBI Regulations to permit Foreign Portfolio Investors (FPIs) to trade directly in Corporate Bonds without a broker
+The SEBI (Foreign Portfolio Investor) Regulations, 2014 were notified on January 07, 2014. Regulation 21(4)(d) of the FPI Regulation states that “The transaction of business in securities by a foreign portfolio investor shall be only through stock brokers registered by the Board.”. Further, the broker is required to be a qualified member of a Recognized Stock Exchange (RSE) in accordance with Rule 8 of the Securities Contracts (Regulation) Rules, 1957.   
+Category I and Category II FPIs will have an option to directly access corporate bond market without brokers as has been allowed to domestic institutions such as Banks, Insurance Companies, Pension Funds etc. Access to Over-the -Counter (OTC), Request for Quote (RFQ) and Electronic Book Provider (EBP) platforms of RSE will be provided to FPIs only for proprietary trading and participation of FPIs will help in deepening the Corporate Bond market.
+Proposal for amendment to Rule 8 (4) of Securities Contracts (Regulation) Rules, 1957 will be taken up with the Government of India to permit FPIs to become a member of a RSE for the limited purpose of proprietary trading. Necessary amendments to the SEBI (Foreign Portfolio Investor) Regulations, 2014 shall be made in this regard.
+II. Amendments proposed to the SEBI (Infrastructure Investment Trusts) Regulations, 2014 and SEBI (Real Estate Investment Trusts) Regulations, 2014
+In order to facilitate growth of Infrastructure Investment Trusts (InvIT) and Real Estate investment Trust (REIT), SEBI Board, after extensive public consultation, has approved certain changes in the captioned regulations. The changes, inter alia, include following:
+Amendments to InvIT Regulations
+i.         Allowing InvIT to invest in two level SPV structure through Holding Company (Holdco), subject to sufficient shareholding in the  Holdco and the underlying SPV and other safeguards including the following:
+a. InvIT to have right to appoint majority directors in the SPV(s),
+b. Holdco to distribute 100% cash flows realised from underlying SPVs and at least 90% of the remaining cash flows
+ii.        Reducing mandatory sponsor holding in InvIT to 15%
+iii.       Remove the limit on the number of sponsors of InvIT
+iv.       Rationalizing the requirements for private placement of InvIT
+v.        Amending the definition of the valuer
+vi.       Clarifying the definition of  “associates” and “related parties” in the regulations
+Amendments to REIT Regulations 
+i.         Allowing REIT to invest in two level SPV structure through Holding Company (Holdco), subject to sufficient shareholding in the  Holdco and the underlying SPV and other safeguards including the following:
+a.REIT to have right to appoint majority directors in the SPV(s),
+b.Holdco to distribute 100% cash flows realised from underlying SPVs and at least 90% of the remaining cash flows
+ii.        Clarifying the definition of  “real estate property” in the regulations, subject to certain conditions
+iii.       Remove the limit on the number of sponsors and introducing the concept of sponsor group
+iv.       Allowing REITs to invest upto 20%, in under construction assets
+v.        Amending the definition of the valuer
+vi.       Clarifying the definition of  “associates” and “related parties” in the regulations
+ 
+III. Consultation Paper for "Amendments/ clarifications to the SEBI (Investment Advisers) Regulations, 2013"
+SEBI notified the SEBI (Investment Advisers) Regulations, 2013 ("IA Regulations") on January 21, 2013. Under IA Regulations, exemptions from registration as an investment adviser were granted to certain entities who were providing investment advice as an incidental activity to their primary activity.
+In order to specify uniform standards and to address the gaps or overlaps in legal or regulatory standards governing all the intermediaries/persons engaged in providing investment advisory services, SEBI Board has approved bringing out a consultation paper proposing certain changes and clarifications in the IA Regulations inter-alia, on the following points:
+i.         Re-look on the exemption from registration as an investment adviser provided to Mutual Fund Distributors, SEBI registered intermediaries, etc. for providing investment advice as an incidental activity to their primary activity. 
+ii.        Granting of time period of three years to mutual fund distributors who seeks to migrate as an investment adviser so as to enable them to obtain necessary certification and to comply with other requirements specified in IA Regulations.
+iii.       Segregation of investment advisory services through a separate subsidiary within a period of three years.
+iv.       Clarification in respect of investment product and investment advice given in electronic/broadcasting media.
+v.        Applicability of advertisement code to be followed by any person including the investment advisers while issuing advertisement.
+vi.       Restriction on providing trading tips via bulk SMS, email, etc. and restriction on soliciting investors by offering schemes/competitions/games/leagues/etc. related to securities market and covering these activities under the advertisement code as well as under SEBI (Prohibition of Fraudulent and Unfair Trade Practices Relating to Securities Market) Regulations, 2003.
+vii.      Clarity between the activities of investment adviser and research analyst.
+viii.     Clarity on mode of acceptance of fee.
+ix.       Requirement of providing ‘Rights and Obligations’ document to the clients.
+x.        Requirements for providing Online Investment Advisory Services and Use of Automated Tools.
+The consultation paper will be placed on SEBI website seeking public comments.
+ 
+IV. SEBI (Portfolio Managers) Regulations, 1993 to provide a framework for registration of fund managers for overseas funds, pursuant to introduction of Section 9A in the Income Tax Act, 1961
+Pursuant to the announcement by Hon’ble Finance Minister in Union Budget 2015-16, Income Tax Act, 1961 has been amended by inserting Section 9A in the Act (popularly known as ‘Safe Harbour Norms’).  This section inter-alia provides that fund management activity carried out through an Eligible Fund Manager located in India acting on behalf of an Eligible Investment Fund (‘overseas fund)’ shall not constitute business connection in India of such fund subject to the fund and the fund manager meeting certain specified conditions mentioned therein, including registration of the Eligible Fund Manager with SEBI as a portfolio manager or investment adviser.
+With this in view, SEBI had issued a consultation paper on June 21, 2016 to seek public comments for laying down a framework for registration of Eligible Fund Managers.
+Considering the public comments, the SEBI Board has approved amendments to SEBI (Portfolio Managers) Regulations, 1993 to provide an enabling framework for registration of Eligible Fund Managers.
+The salient points are:
+1.       Insertion of a separate Chapter II-A “Eligible Fund Managers” which will apply to Eligible Fund Managers exclusively pertaining to their activities as portfolio managers to Eligible Investment Funds.
+2.       Procedure for an existing SEBI registered Portfolio Manager to function as an Eligible Fund Manager
+3.       Procedure for registration of an existing foreign based fund manager desirous of relocating to India or a fresh applicant to function as an Eligible Fund Manager
+4.       Obligations and Responsibilities of Eligible Fund Managers, such as:
+a.       Satisfy the requirements specified under Section 9A of Income Tax Act 1961 or any amendment, notification, clarification, guideline issued thereon;
+b.       Segregation of funds and securities
+c.        Provide material disclosures to Eligible Investment Funds
+d.       Provide information to SEBI on a quarterly basis in the format as specified by the Board;
+ 
+5.       Since Eligible Investment Funds will be governed by the norms or disclosure requirements of the jurisdiction from where they raise funds, certain provisions of SEBI (Portfolio Managers) Regulations, 1993 shall not be applicable on Eligible Fund Managers w.r.t their activities as portfolio managers to Eligible Investment Funds, such as:
+a.       Disclosure Document by the portfolio manager to the client, the content of such document
+b.       Minimum investment requirement
+c.        Conditions for Termination of the contract.
+6.       Inclusion of CFA from CFA Institute as an eligible qualification for principal officer of a portfolio manager.
+ 
+V. Employee Reservation in Issues
+SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2009 (ICDR Regulations) provides that an issuer can make reservation for employees which shall not exceed five per cent of the post issue capital of the issuer. Further, the regulation provides that the value of allotment to any employee in pursuance of reservation, shall not exceed two lakhs rupees.
+SEBI is in receipt of representations requesting SEBI to consider relaxing the ICDR Regulations to enable employees to apply for shares beyond the limit of Rs.2 lakh per employee and to allow under-subscription in the employee reservation portion to be allotted to employees over and above the extant limit of Rs.2 lakh on a proportionate basis.
+SEBI Board has considered and approved the proposal to allow allotment to employees in excess of the extant limit of Rs.2 lakh per employee under employee reservation quota. The application for shares of the value in excess of Rs.2 lakh shall be considered as application for additional shares and shall be considered only in the event of under-subscription in the employee reservation portion. The unsubscribed shares available in the employee reservation portion shall be allotted on a proportionate basis to the employees who have applied for the additional shares. Value of total allotment to an employee under the employee reservation portion, including the additional allotment shall not exceed Rs.5 lakh.
+VI. Consultative Paper on Corporate Governance Issues in Compensation Agreements
+Instances of private equity funds entering into compensation agreements  with promoters, directors and key managerial personnel  of listed investee companies, based on performance of such companies have recently come to light. However, when such reward agreements are executed  without prior approval of shareholders,  it could potentially lead to unfair practices.
+The matter was placed before the Board, which approved the proposal for initiation of public consultation process on corporate governance issues in compensation agreements in case of listed companies. The consultation paper proposes to seek public comments on the possible amendments to SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (Listing Regulations), including
+(i) adding a new provision that would require disclosures and prior approval of  shareholders  by way of an ordinary resolution and
+(ii) in case of existing profit sharing agreements, such agreements shall be informed to the stock exchanges for public dissemination and
+(iii) approval shall be obtained from their boards and shareholders within stipulated timelines.   
+ 
+VII.  Permanent registration to be granted to market intermediaries
+The Board noted that SEBI has already provided for permanent registration to stock brokers and sub-brokers subject to meeting, on a continuous basis, the conditions of registration including compliance with applicable  rules and regulations, meeting fit and proper criteria, redressal of grievances of investors, compliance with capital adequacy requirements, etc. Based on experience gained and in  order to facilitate “easy of doing business” for market intermediaries, SEBI Board decided to grant permanent registration henceforth to the following categories of intermediaries:
+
+Merchant Banker
+Registrar to an Issue & Share Transfer Agent
+Bankers to an Issue
+Underwriters
+Credit Rating Agency
+Debenture Trustee
+Depository Participant
+KYC Registration Agency (KRA)
+Portfolio Managers
+Investment Advisers
+Research Analysts
+
+SEBI has been following a two-step process for grant of registration to market intermediaries namely initial registration for a period of 3 years / 5 years as the case may be followed by grant of permanent registration.
+Considering satisfaction of “fit and proper person” criteria on a continuous basis and sophisticated on-site and offsite supervision mechanism put in place by SEBI in terms of inspections, reporting etc., SEBI Board decided that henceforth permanent registration shall be granted to the above category of intermediaries.
+ 
+VIII.New Local Offices
+To improve access of investors of North Eastern region and spread financial literacy, the Board approved opening new Local Offices of SEBI at Agartala which will cover the States of Manipur, Mizoram and Tripura.  It has also been approved to open a Local Office at Vijayawada, capital of newly created State of Andhra Pradesh.
+ 
+IX. Increase in limit of foreign investment in Indian stock exchanges
+To Increase in limit of foreign investment in Indian stock exchanges the following amendments are made:
+i. Regulation 17 (3) of SECC Regulation has been amended to increase the limit of shareholding of foreign institutional investors mentioned therein in Indian Stock Exchanges from 5% to 15%.
+ii. Regulation 17 (4) of SECC Regulations has been amended to allow a foreign portfolio investor to acquire shares of unlisted stock exchanges through transactions outside of recognized stock exchange including the initial allotment. 
+

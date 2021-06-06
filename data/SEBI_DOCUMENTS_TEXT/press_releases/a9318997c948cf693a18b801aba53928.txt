@@ -1,0 +1,64 @@
+
+ 
+Jan 11, 2016
+
+PR No.:  
+10/2016
+
+
+The SEBI Board met in Mumbai today and took the following decisions:
+1.  Review of prudential limits on investments by Mutual Funds
+The Board deliberated the proposals relating to review of prudential limits at issuer and sector level and the need to introduce such limits for group level exposure. It considered that review of single issuer, sector level exposure limit and introduction of group level exposure limits for investment in debt instruments would:
+1.  Mitigate risks arising on account of high levels of exposure in the wake of events pertaining to credit downgrades.
+2.  Put mutual funds in a better position to handle adverse credit events.
+3.  Provide mutual fund investors with enhanced diversification benefits.
+In light of the above, the Board decided as follows:
+1.  Amend SEBI (Mutual Funds) Regulations, 1996 to merge credit exposure limits for single issuer of money market instruments and non-money market instruments at the scheme-level.
+2.  Amend SEBI (Mutual Funds) Regulations, 1996 so that single issuer limit is reduced to 10% of NAV extendable to 12% of NAV after trustee approval.
+3.  Reduce exposure limit to a single sector from the current 30% of NAV to 25% of NAV.
+4.  Reduce additional exposure limit provided for Housing Finance Companies (HFCs) in finance sector from 10% of NAV to 5% of NAV.
+5.  Introduce group level limits for debt schemes through issuance of appropriate circular and the ceiling be fixed at 20% of NAV extendable to 25% of NAV after trustee approval. A group, for this purpose, refers to group as defined under section 2 (mm) of SEBI (Mutual Funds) Regulations, 1996 and includes an entity, its subsidiaries, fellow subsidiaries, its holding company and its associates. All Government owned PSU entities, PFI & PSU banks will be excluded from group level limits.
+6.  Trustees to review exposure of a mutual fund, across all its schemes, towards individual issuers, group companies and sectors. Trustee should satisfy themselves on the levels of exposure and confirm the same to SEBI in the half-yearly trustee report.
+7.  Applicability
+
+The aforesaid investment restriction shall be applicable to all fresh investments by a new scheme or an existing scheme. 
+Appropriate time shall be given for AMC to confirm that such mutual fund schemes confirm to the aforesaid investment restrictions.
+
+2.  Introduction of "Primary Market Debt Offering through private placement on electronic book"
+The Board considered and approved the proposal for introduction of "Primary Market Debt Offering through private placement on electronic book”. The key benefits of such an electronic book inter-alia, are improvement in efficiency and transparency of the price discovery mechanism vis-à-vis over-the-telephone market and reduction of cost and time taken for such issuance.
+Some of the features of the proposed new system are:
+
+Electronic book mechanism shall be mandatory for private placement of bonds above Rs.500 crore. 
+The mechanism shall be voluntary for private placement issues where there is a single investor.
+Requirement of minimum bid size for institutional investors is left to the discretion of the issuer.
+The issuer shall provide the draft Private Placement Memorandum to the bidders without incorporating coupon details.
+Electronic Book Provider (EBP) shall provide all bids/ application to the issuer after end of bidding. Further, EBP shall disclose aggregate volume data on anonymous basis to avoid any speculation.
+Recognized stock exchanges (RSEs) will be eligible to act as EBP. 
+Any dispute between issuer and bidders or between EBP or bidders before listing of privately placed bonds in RSE shall be settled as per their agreement.
+
+3.  Exit opportunity to dissenting shareholders under Companies Act, 2013 
+Companies Act, 2013 provides that a company, which has raised money from public through prospectus and still has any un-utilised amount out of the money so raised, shall not change its objects for which it raised the money through prospectus or vary the terms of a contract referred to in the prospectus unless a special resolution is passed by the company. The Act also provides that dissenting shareholders, shall be those shareholders who have not agreed to the proposal and they shall be given an exit opportunity by promoters and shareholders having control over the company, in such manner and conditions as may be specified by SEBI by making regulations in this behalf. Accordingly, following a consultative process, the Board approved the proposal to amend the SEBI (ICDR) Regulations, 2009 for laying down the framework in this regard. The salient features of the said framework are:
+(i)            The provisions shall be applicable on a prospective basis i.e. for issues which opened after the commencement of the related provisions in the Companies Act, 2013, i.e. April 01, 2014.
+(ii)          It would be applicable in those cases where the proposal is dissented by at least 10% of the shareholders and if the amount to be utilized for the objects for which the prospectus was issued is less than 75% of the amount raised (including the amount earmarked for general corporate purposes as disclosed in the offer document).
+(iii)         Investors holding shares as on the date of the board meeting in which the proposal to change the objects is approved and those who cast their vote against the resolution shall be eligible to avail of the exit opportunity under this provision.
+(iv)         The exit price shall be based on the pricing parameters applicable in case of exit offer given to the existing shareholders in terms of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011, which is applicable for both frequently and infrequently traded shares. The relevant date for pricing shall be the date of the board meeting in which the proposal for change in objects is approved.
+(v)          Companies with no identifiable promoters or shareholders having control would be exempted from this requirement.
+(vi)         Further, the acquisition under this framework shall be exempted from the applicability of following regulatory provisions:
+
+Mandatory open offer obligations stipulated under SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011;
+Restriction on acquiring shares beyond 75% under the provisions of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 subject to compliance with minimum public shareholding requirements within a period of twelve months in terms of Rule 19A(2) of Securities Contracts (Regulation) Rules, 1957;
+Contra trade restrictions on promoters / controlling shareholders / dissenting shareholders, under the SEBI (Prohibition of Insider Trading) Regulations, 2015. 
+
+(vii)        The procedural details such as appointment of merchant banker, determination of price, tendering of shares, submission of compliance certificate etc. shall be specified in the regulations. 
+4.  Disclosure requirements for issuance and listing of Green Bonds
+The financing needs of renewable energy space in the country require new channels to be explored which can provide not only the requisite financing, but may also help in reducing the cost of the capital. Further, India’s Intended Nationally Determined Contribution (INDC) document puts forth the stated targets for India's contribution towards climate improvement and following a low carbon path to progress. The document also impresses upon the need of financing needs for achieving the stated goals.
+The Board considered and approved the proposal for disclosure requirements for issuance and listing of Green Bonds, which have been formalized after consultation with the public. Some of the salient features are as under:
+
+The issuance and listing of Green Bonds will be governed under SEBI (Issue and Listing of Debt Securities) Regulations, 2008 and such issuer of Green Bond shall have to make incremental disclosures/follow procedures.
+The definition of green bonds may be as specified by SEBI from time to time.
+Requirement of independent third party reviewer/certifier/validator, for reviewing/certifying/validating the pre-­issuance and post-issuance process including project evaluation and selection criteria. However, this is kept optional.
+Escrow account is not mandatory, however issuer shall provide the details of the system/procedures  to be employed for tracking the proceeds of the issue including the investments  made and/or investments  earmarked for eligible projects and the same shall be verified  by the external auditors.
+Issuer to make disclosures including use of proceeds, list of projects to which Green Bond proceeds have been allocated etc. in the annual report/periodical filings made to the Stock Exchanges.
+
+It is expected that these measures by SEBI will facilitate in taking investment decisions by investors who have a mandate to focus on green investments and will also provide uniformity in disclosure standards.
+

@@ -1,0 +1,3230 @@
+Consultation Paper on Crowdfunding in India 
+
+ 
+
+1.0 Introduction 
+1.1 This consultation paper aims to provide a brief overview of the global scenario of 
+crowdfunding including the  various prevalent models under it, the associated benefits 
+and risks, the regulatory approaches in different jurisdictions etc. The paper also covers 
+the extant legal structure governing the fund raising for start ups and SMEs in India. The 
+paper  discusses  legal  and  regulatory  challenges  in  implementing  the  framework  for 
+Crowdfunding. This paper proposes framework for ushering in crowdfunding by giving 
+access to capital market to provide an additional channel of early stage funding to Start-
+ups and SMEs and seeks to balance the same  with investor protection. Through this 
+consultation paper SEBI intends to invite comments and suggestions from industry and 
+market  participants  regarding  the  different  possible  structures  for  crowdfunding  within 
+the existing legal framework and other associated issues. 
+ 
+1.2  The  Consultation  Paper  has  been  put  forward  for  discussion  only  and  does  not 
+necessarily mean that a Crowdfunding Regulation would be introduced in the form as 
+proposed in the consultation paper or in any other form. 
+ 
+2.0 What is Crowdfunding? 
+2.1 Crowdfunding is solicitation of funds (small amount) from multiple investors through 
+a web-based platform or social networking site for a specific project, business venture 
+or social cause. 
+ 
+2.2  Crowd  sourced  funding  is  a  means  of  raising  money  for  a  creative  project  (for 
+instance,  music,  film,  book  publication),  a  benevolent  or  public-interest  cause  (for 
+instance,  a  community  based  social  or  co-operative  initiative)  or  a  business  venture, 
+through small financial contributions from persons who may number in the hundreds or 
+
+ 
+
+Page 1 of 66 
+
+thousands.  Those  contributions  are  sought  through  an  online  crowd-funding  platform, 
+while the offer may also be promoted through social media.1
+ 
+3.0 Types of Crowd-Funding 
+3.1  As  per  IOSCO  Staff Working  Paper  -  Crowd-funding:  An  Infant  Industry  Growing 
+Fast,  2014  ('IOSCO  Paper'),  Crowd-funding  can  be  divided  into  four  categories: 
+donation  crowdfunding,  reward  crowdfunding,  peer-to-peer 
+lending  and  equity 
+crowdfunding. 
+
+ 
+
+Social 
+
+Lending/Donation 
+
+Crowdfunding 
+
+Crowdfunding 
+
+Reward 
+
+Crowdfunding 
+
+Peer-to-Peer 
+
+Lending 
+
+Equity 
+
+Crowdfunding 
+
+ 
+
+ 
+
+ 
+ 
+ 
+Source: IOSCO Staff Working Paper - Crowd-funding: An Infant Industry Growing Fast , 2014 
+
+Community Crowdfunding 
+
+Financial Return Crowdfunding 
+
+ 
+
+3.2  Donation Crowdfunding 
+3.2.1 Donation crowdfunding denotes solicitation of funds for social, artistic, philanthropic 
+ 3.2.2  For example, In the US, Kickstarter, Indiegogo etc. are some of the platforms that 
+
+or other purpose, and not in exchange for anything of tangible value. 
+
+support donation based crowdfunding. 
+ 
+
+                                                           
+1 Crowd Based Equity Funding – Discussion Paper - Corporations and Markets Advisory Committee, Australia, September , 2013 
+
+ 
+
+Page 2 of 66 
+
+some existing or future tangible reward (such as an existing or future consumer product 
+or a membership rewards scheme) as consideration. 
+
+3.3   Reward Crowdfunding 
+3.3.1    Reward  crowdfunding  refers  to  solicitation  of  funds,  wherein  investors  receive 
+ 3.3.2   Most  of  the  websites  which  support  donation  crowdfunding,  also  enable  reward 
+3.4  Peer-to-Peer lending 
+3.4.1      In  Peer-to-Peer  lending,  an  online  platform  matches  lenders/investors  with 
+
+borrowers/issuers in order to provide unsecured loans and the interest rate is set by the 
+platform. Some Peer-to-Peer platforms arrange loans between individuals, while other 
+platforms pool funds which are then lent to small and medium-sized businesses.  
+
+crowdfunding, e.g. Kicktstarter, Rockethub etc. 
+
+ 
+
+from UK are Zopa, Funding Circle etc. 
+
+and May 2013 some 49,000 investors in the UK funded peer-to-peer loans worth more 
+than £378m. 2
+ 
+ 
+
+ 3.4.2 Some of  the  leading  examples from the  US  are  Lending  Club,  Prosper  etc.  and 
+ 3.4.3   A report by the Open Data Institute in July 2013 found that between October 2010 
+3.4.4   Some of the platforms charge a fee based on the loan origination and have an 
+ 3.4.5  Though,  Peer-to-peer 
+
+involve  securities, 
+loan/notes/contracts can be traded on a peer-to-peer platform or a secondary market. 
+Thus, these loans may become securities, with the contract between the lender and the 
+borrower being the security note. 3
+ 
+ 
+                                                           
+2  Crowd Based Equity Funding – Discussion Paper - Corporations and Markets Advisory Committee, Australia, 
+September , 2013 
+3 IOSCO Staff Working Paper - Crowd-funding: An Infant Industry Growing Fast , 2014 
+
+incentive to push investors into larger loans which may not suit an investor’s risk profile. 
+
+lending  did  not  appear 
+
+to 
+
+ 
+
+Page 3 of 66 
+
+3.4.6   In peer-to-peer lending, there is no investor protection by way of a compensation 
+
+scheme to cover defaults in this market as there is with deposit guarantee schemes for 
+bank deposits. Retail investors, who do not have the capacity to absorb defaults, may 
+lose significant proportions of their investments, if there are any defaults.  
+
+ 
+
+platforms  are  classified  as  banks  (due  to  their  credit  intermediation  function)  and  are 
+therefore regulated as banks. 
+
+ 3.4.7   As per IOSCO paper, in some Jurisdiction like Germany and Italy, peer-to-peer 
+3.5   Equity Based Crowdfunding 
+3.5.1   In Equity Based Crowdfunding, in consideration of funds solicited from investors, 
+ 3.5.2    It refers  to fund raising by a business, particularly early-stage funding, through 
+
+Equity Shares of the Company are issued. 
+
+offering equity interests in the business to investors online. Businesses seeking to raise 
+capital  through  this  mode  typically  advertise  online  through  a  crowdfunding  platform 
+website,  which  serves  as  an  intermediary  between  investors  and  the  start-up 
+companies. 
+
+ 3.5.3   Traditionally, Start-ups are funded through private equity, angel investor or loan 
+
+arrangements with a financial institution. Any offering of public equity takes place only 
+after the product or business becomes commercially viable. However, in Equity based 
+Crowdfunding solicitation is done at an earlier stage. 
+ 
+Some examples of equity crowdfunding platforms are Syndicate Room, Crowdcube and 
+Seedrs.  
+
+ 3.5.4   In a few jurisdictions (like China), these platforms are restricted to offer this type 
+
+of capital raising to sophisticated investors or to a limited number of individual investors. 
+In China, an equity raising offer made to less than 200 individuals does not need to fulfil 
+the public equity raising requirements.  
+
+ 
+
+Page 4 of 66 
+
+4.0 Benefits of Crowdfunding 
+
+ii. 
+
+i.  Crowdfunding provides a much needed new mode of financing for start-ups and 
+SME  sector  and  increases flows  of  credit  to  SMEs  and  other  users  in  the  real 
+economy. 
+Financial crisis (2008) resulted in failure of number of Banks and, consequently 
+the Basel III Capital adequacy norms have been made applicable to Banks. As a 
+result, Banks have become increasingly constrained in their ability to lend money 
+to the ventures or start-ups which may have high risk element. Hence, there is a 
+need for funding for SME through alternative sources.  
+
+iii.  SMEs are able to raise funds at lower cost of capital without undergoing through 
+
+rigorous procedures in this mode. 
+
+iv.  Crowdfunding provides new investment avenue and provides a new product for 
+
+v. 
+
+vi. 
+
+portfolio diversification of Investors. 
+It  increases  competition  in  a  space  traditionally  dominated  by  a  few  providers 
+(providing finance to Start-ups and SMEs). 
+The operators of a crowdfunding platform may engage in vetting or due diligence 
+of  projects  to  be  included  on  their  website,  to  maintain  the  reputation  of  the 
+website. 
+
+ 
+5.0  Risks of Crowdfunding 
+
+5.1  Substitution of Institutional Risk by Retail Risk 
+5.1.1  Presently, the risk in financing Start-ups and SMEs is borne by the Venture Capital 
+
+Funds (VCFs) and Private Equity (PE) Investors.  In crowdfunding, these entities solicit 
+investments in smaller sums from large number of investors. Hence, the risk taking by 
+VCF/PE  (informed  investors)  is  substituted  with  retail  investors,  whose  risk  tolerance 
+level may be very low. Retail investors may not be able to understand the risk in these 
+investments and will be unable to bear the loss of investments.  
+
+ 
+
+5.1.2  This may be more dangerous, considering the fact that investments in SMEs and 
+
+Start-up may involve high risk and low liquidity and are generally treated as aggressive 
+and long term investments. VCF/PE Investors will be able to negotiate a better pricing 
+
+ 
+
+Page 5 of 66 
+
+and  some  influence  on  management,  which  would  be  absent  in  the  Crowdfunding 
+Route, where smaller contributions are sought from multiple investors.  Uninformed and 
+unsophisticated investors (retail investors) may act with a ‘herd mentality’.  
+
+ 
+
+5.2  Risk of default  
+
+5.2.1  There is no or less recourse to the investors against the issuer, in case of default 
+
+or fraud. Funds are not directly solicited by the issuer and issuer also do not come out 
+with any offer document. Funds are solicited by the platform and such platform may or 
+may not conduct proper due diligence of the issuer.  If a platform is being temporarily 
+shut down, or closed permanently, no recourse is available to the investors.  
+
+ 
+
+5.2.2    There  is  no  collateral  (even  in  case  of  peer  to  peer  lending),  as  in  case  of 
+
+Corporate Bonds. Further, in peer to peer lending, there are no investor protection by 
+way of a compensation scheme to cover defaults like deposit guarantee schemes for 
+bank deposits.   
+
+ 
+
+5.2.3  Public funding is  sought on the basis of future possibilities as against the clear 
+
+evidence  of  a  viable  existing  business  model,  which  is  needed  under  the  existing 
+regulations. Investments in companies without viable business model increase the risk 
+of failure and loss to equity investors.  
+
+ 
+
+5.2.4  The risk of failure is further increased by the fact that the funding is potentially by 
+
+participants who do not have the skills and experience needed to assess the risk before 
+investing/lending,  as  compared  to  the  VCF/PE  Investors,  banks  or  other  financial 
+institutions who provides funds under the traditional business model. 
+
+ 
+
+ 
+
+Eg:  Bubble  and  Balm  was  a  fair  trade  soap  company,  who  were  also  the  first 
+company  to  raise  funding  for  their  start-up  through  the  equity  crowd-funding 
+platform Crowdcube, based in the UK, in 2011. It raised £75,000 in return for 15 
+per cent of the company’s equity from 82 investors, who contributed between £10 
+and £7,500 each.  In July 2013 the business closed overnight, leaving no way of 
+
+Page 6 of 66 
+
+contacting the company or a way to recover losses. The investors lost 100% of 
+their investment.4
+ 
+
+promoters  of  projects  or  of  false  websites  being  established,  simply  to  defraud  the 
+investors or to entice individuals to provide credit card details etc. Thus, there is a risk of 
+misuse as well as cyber-security and/or identity theft. 
+
+5.3  Risk of Fraud 
+5.3.1  There is possibility of genuine websites being used by fraudsters claiming to be 
+5.4  Central role of the Internet:  
+5.4.1  Crowdfunding platform is an internet based market place for issuers to sell their 
+
+own securities to raise capital. Thus the central role of the Internet and its wide reach 
+would  increase  the  number  of persons potentially  affected,  which  can  be  significantly 
+greater than the traditional means of fundraising. Younger investors may get influenced 
+simply because of its link to social media and the Internet. 
+
+complying with requirement of local laws of various jurisdictions. 
+
+ 5.4.2    Funds  could  be  raised  from  investors  residing  at  various  countries  without 
+5.5  Systemic Risk: 
+
+a)  Due  to  the  “individual”  nature  of  crowdfunding,  there  is  a  possibility  that 
+
+investors may not practice good diversification principles. 
+
+b)  There  may  be  no  secondary  market  in  which  investors  can  sell  their 
+
+investments and exit and hence, there is a risk of illiquidity.  
+
+c)  There is also possibility of Money laundering. 
+d)  These platforms could expose other financial sectors to the risk of default, as 
+occurred during the subprime mortgage crisis. If the rapid growth rate in peer-
+to-peer lending continues, these risks could become systemic.  
+
+e)  There  are  Cross-border  implications,  if  the  funds  are  solicited  through 
+internet, as there are disparities in Contract Act or securities law application in 
+different jurisdictions. 
+
+                                                           
+4IOSCO Staff Working Paper - Crowd-funding: An Infant Industry Growing Fast , 2014 
+
+ 
+
+Page 7 of 66 
+
+5.6  Information Asymmetry 
+
+a)  There  is  high  chance  of  information  asymmetry  associated  with  these 
+platforms, where one party invests/trades based on some information which is 
+unknown  to  other  set  of  investors.  Since  there  is  lack  of  hard  information, 
+there is too much reliance on soft information based on the social networking 
+platforms in this model, which increases the risks.  
+
+b)  There  is  no  monitoring  of  these  platforms,  as  to  which  account  the  money 
+
+goes. 
+
+c)  There is lack of transparency and reporting obligations on issuers including 
+
+with respect to the use of funds raised. 
+
+d)  There  is  possibility  of  omission  of  information  and  misinformation  providing 
+distorted view of the issuer or the actual investment, which may result in over-
+estimation of the actual return. This may induce the investors to invest in a 
+product that would not align with their risk tolerance.  
+
+borrowers/issuers, without complying with any of the rigid requirements of Banks.  
+
+5.7  Substitution of Existing Regulatory Framework 
+5.7.1    Peer  to  Peer  Lending  acts  as  a  Bank  by  matching  lenders/investors  with 
+ 5.7.2    The  Disclosure and  due  diligence  involved  in  Crowdfunding  platform  cannot  be 
+
+compared  with  existing  framework  of  public  offering  through  filing  of  Prospectus  with 
+adequate information, which is also subject to the scrutiny of the Regulators. Further, 
+other public issue requirements for equity shares like to have minimum track record for 
+the  issuers,  minimum  promoters'  contribution,  lock  in,  and  for  debt  securities  like 
+requirement  to  have  trustees,  rating  by  Credit  rating  agencies  etc.  may  not  be 
+applicable in the crowdfunding platforms.  
+
+ 
+
+5.7.3    Further,  even  private  placement  requirements  have  been  tightened  in  India 
+
+recently i.e. requirement  to have Private Placement Offer Letter,  restriction on number 
+of  investors  to  whom  it  can  be  made,  restrictions  on  mode  of  placements,  etc. 
+Crowdfunding Platforms may not adhere to any of the said requirements. 
+
+ 
+
+ 
+
+Page 8 of 66 
+
+6.0 Regulatory framework for Crowdfunding in various Jurisdictions: 
+
+Some  jurisdictions  are  in  the  initial  stages  of  introduction  with  concept  papers  for 
+feedback of the industry. 
+
+6.0.1  As of date, very few jurisdictions have come out with regulations for crowdfunding. 
+ 6.0.2  Two areas that have seen rapid growth in recent years are Peer-to-Peer Lending 
+
+and  Equity  Crowdfunding.  Financial  Reward  (FR)  crowd-funding  globally  has  grown 
+rapidly  in  the  last  5  years,  with  data  suggesting  that  the  peer-to-peer  lending  market 
+doubles  each  year.  It  accounts  for  approximately  $6.4  billion  outstanding  globally. 
+Collectively,  the  US,    UK  and  China  make  up  96%  of  the  overall  FR  crowdfunding 
+market, with USA accounting for 51%, China for 28% and UK for 17%.5
+. 
+ 
+
+6.1  Regulatory Practices 
+
+In  Donation  crowdfunding  and  Reward  crowdfunding,  only  donations  or  grants  are 
+solicited and no financial return in the form of a yield or return on investment is expected 
+by the donor/grantor. Hence, such funding mostly falls outside the purview of Securities 
+market regulator. (In India, payment of  donations are mainly governed by the provisions 
+of Income Tax Act). Peer-to-Peer Lending, depending upon whether pure lending or any 
+debt  securities  are  issued,  are  regulated  by  Banking  or  Securities  market  regulator. 
+Crowd Sourced Equity Funding are mostly regulated by Securities market regulator. 
+
+ 6.2  Regulation of Peer-to-Peer lending 
+6.2.1  Peer-to-Peer lending is also termed as 'direct consumer lending' or 'marketplace 
+
+lending'.  The  Peer-to-Peer  lending  is  approached  differently  by  various  regulators, 
+treated as banking by some jurisdictions  and as an intermediary in some others, while 
+some jurisdictions like Israel and Japan have prohibited it altogether. 
+
+ 6.2.2  As per IOSCO Paper5
+
+Lending varies with nations, these can be broadly divided into different categories. 
+
+, though the nature of regulations concerning Peer-to-Peer 
+
+                                                           
+5  'Crowd-funding: An Infant Industry Growing Fast' Staff Working paper of IOSCO Research Department  
+
+ 
+
+Page 9 of 66 
+
+Regulatory 
+Regime 
+Unregulated 
+
+Intermediary 
+Regulation 
+
+Banking 
+Regulations 
+
+US Model 
+
+Prohibited 
+
+Description 
+
+In these jurisdictions either  
+the  regulation  has  classified  peer-to-peer  lending  as 
+an exempt market  or there is a lack of definition in  
+legislation 
+This  regulates  peer-to-peer  lending  platforms  as  an 
+intermediary. This usually requires registration of such 
+platform  as  an  intermediary,  and  other  regulatory 
+requirements depending on the jurisdiction. 
+This  regulated  peer-to-peer 
+banks. 
+
+lending  platforms  as 
+
+This is a two tier system. This requires the registration 
+of  peer-to-peer    lending  platforms  with  the  SEC,  as 
+well as applying for a licence to conduct business on a 
+state by state basis.   
+Both  peer-to-peer lending  
+and equity crowd-funding are banned under legislation 
+
+Countries 
+
+Brazil, China, 
+Egypt,  South 
+Korea 
+
+Australia, 
+Argentina, 
+Brazil,  New 
+Zealand 
+France, 
+Germany, 
+Italy 
+USA 
+
+Israel, Japan 
+
+ 6.3  Regulation of Equity Crowdfunding 
+
+requirements 
+
+regarding  public  solicitation 
+
+In case of Equity Crowdfunding, most jurisdictions have enabled it as an exemption to 
+general 
+through  prospectus/offering 
+memorandum. While in some jurisdictions such exemption is given only to offer made to 
+“accredited/informed/wealthiest”  investors,  others    exempts  solicitation  made  through 
+“Crowdfunding Platform” capping the amount that can be raised or the amount that can 
+be invested by each investor. 
+
+ 
+
+Page 10 of 66 
+
+6.4  Regulation of Crowdfunding in various Jurisdictions: 
+6.4.1   United States 
+
+Jumpstart Our Business Startups Act, 2012 or (JOBS Act) has already proposed a basic 
+regulatory framework to regulate Crowdfunding Platforms.  
+ 
+Previously, in U.S. there was a ban on ‘general solicitation’ or ‘general advertising’ of 
+investment in securities, other than a prospectus-based offer.  
+ 
+Title II of the JOBS Act deals with equity offers to accredited investors. Pursuant to SEC 
+Rules under that Title, in effect from September 2013, US entrepreneurs may publicly 
+advertise  and  market  their  company’s  investment  opportunity,  of  whatever  size,  to 
+‘accredited  investors’  (in  effect,  individuals  with  over  $1 million  in  liquid  net  worth  or 
+annual incomes over $200,000), including through the Internet or social media, as well 
+as through print, radio or television. 
+ 
+Title  III  of  the  JOBS  Act  deals  with  Crowd  Sourced  equity  Funding  (CSEF)  offers  to 
+investors generally. It is intended to allow start-up and other companies to use online 
+intermediaries to obtain modest amounts of capital. Title III of the Act, the crowdfunding 
+provision, has not yet come into force.  
+ 
+Under this act, for a transaction to be qualified as a crowdfunding transaction, it must 
+meet specified requirements, including the following: 
+
+• 
+
+• 
+
+the amount raised not to exceed $1 million in a 12-month period (this amount is 
+to be adjusted for inflation at least every five years). 
+individual investments in a 12-month period are limited to: 
+
+o 
+
+the greater of $2,000 or 5 percent of annual income or net worth, if annual 
+income or net worth of the investor is less than $100,000; and  
+
+o  10 percent of annual income or net worth (not to exceed an amount sold 
+of $100,000), if annual income or net worth of the investor is $100,000 or 
+more  (these  amounts  are  to  be  adjusted  for  inflation  at  least  every  five 
+years); and  
+
+ 
+
+Page 11 of 66 
+
+• 
+
+transactions must be conducted through an intermediary that either is registered 
+as a broker or is registered as a new type of entity called a “funding platform.” 
+
+•  Crowdfunding requires the issuing company (emerging growth company) to file a 
+disclosure document with SEC at least 21 days prior to first sale, and requires 
+scaled  financial  disclosure,  including  audited  financial  statements  for  raises  of 
+over $500,000. 
+
+•  Annual reports must be filed with SEC by the issuer company which completes a 
+
+crowdfunding round. 
+
+•  Funding  platforms  (but  not  broker-dealers)  cannot:  offer  investment  advice  or 
+make  recommendations  to  investors.  They  cannot  solicit  transactions  for 
+securities  offered  or  displayed  on  its  platform,  or  compensating  employees  or 
+agents  for  doing  so.  They  cannot  hold  or  manage  any  investor  funds  or 
+securities. 
+
+ 
+In the US, Kickstarter enabled creative individuals—musicians, filmmakers, writers—to 
+fund their work, often with the only return being an advance copy or limited edition of a 
+DVD or other art work, concert tickets, or a signed thank-you note. 6
+ 
+
+6.4.2   New Zealand 
+
+The recently enacted Financial Markets Conduct Act, 2013 (the Act) contains provisions 
+designed to facilitate CSEF.  
+ 
+The new regulations in New Zealand enables companies to raise up to a maximum of $ 
+2  Million  from  20  investors  in  a  year  through  crowdfunding  without  having  to  issue  a 
+prospectus. It covers both the varieties of crowdfunding: Equity Crowdfunding and Peer-
+to-Peer Lending.  
+ 
+The  market  regulator,  Financial  Markets  Authority,  has  asked  both,  equity  crowd-
+funding platforms and peer-to-peer lenders, to apply for a license to operate. 
+ 
+
+                                                           
+6 Crowd Based Equity Funding – Discussion Paper - Corporations and Markets Advisory Committee, Australia, September , 2013 
+
+ 
+
+Page 12 of 66 
+
+6.4.3   Australia 
+
+6.4.4   Canada 
+
+The  Corporations  and  Market  Advisory  Committee  (Australian  Government)  recently 
+came  out  with  a  Concept  Paper  on  Crowdfunding  and  is  currently  in  the  process  of 
+framing rules for equity based crowdfunding. 
+ 
+The current regulations allow a startup to raise not more than $ 20 Million or transfer 
+equity  to  more  than  20  people  in  any  given  12  months.  This  system  restricts  this 
+channel to a set of sophisticated investors. These rules are under revision.   
+ 
+
+Crowdfunding  is  divided  into  Non-Equity  and  Equity  Crowdfunding  platforms  in 
+Canada. Equity Crowdfunding involves the issuance of securities and consist of peer-to-
+peer (P2P) lending and equity transactions. 
+ 
+Canadian  Securities  Administrators  (CSA),  an  umbrella  organization  for  different 
+provincial  and  territorial  securities  regulators  in  Canada,  has  published  National 
+Instrument  (in  2014)  involving  prospectus  exemptions  that  include  the  Offering 
+Memorandum exemption (the OM exemption) which is used by registered dealers to sell 
+securities on the internet to the public. The OM exemption is available in all jurisdictions 
+in Canada, except Ontario, and has been in place for many years. 
+ 
+There  are  registration  requirements  for  Crowd  Sourced  Equity  Funding  Platforms,  
+including Integrity, proficiency and solvency requirements, and for the persons operating 
+them. 
+ 
+Registration  requirement  addresses  concerns  relating  to  possible  conflicts  of  interest 
+and  self-dealing  by  intermediaries  and  to  avoid  fraudulent  offerings  of  securities  to 
+investors through the Internet. 
+
+ 
+
+Page 13 of 66 
+
+6.4.5   United Kingdom 
+
+In March, 2014 Financial Conduct Authority (FCA) came out with regulations governing 
+the  crowdfunding  in  Britain.  The  new  regime  will  be  applicable  to  the  firms  operating 
+loan-based crowdfunding platforms and investment-based crowdfunding platforms. 
+ 
+Loan-Based Crowdfunding Platforms: These include peer-to-peer lending platforms 
+or  peer-to-business  lending  platforms  on  which  consumers  can  invest  in  loan 
+agreements. 
+ 
+Investment-Based  Crowdfunding  Platforms:  These  include  the  platforms  on  which 
+consumers can buy investments, such as equity or debt securities that are not listed or 
+traded  on  a  recognized  exchange,  or  units  in  an  unregulated  collective  investment 
+scheme. In other words, these are' non-readily realized securities'. 
+ 
+Under the new regulation, investment-based crowdfunding platforms are treated slightly 
+differently to loan-based crowdfunding platforms by the FCA. The new regulations have 
+become effective from April 1, 2014. As a result, the regulation of the consumer credit 
+market has been transferred from the Office of Fair Trading to the FCA. This includes 
+responsibility for regulating loan-based crowdfunding. 
+ 
+New Regulations: 
+Loan-Based Crowdfunding Platforms:  
+•  The  new  regulations  intend  to  safe  guard  the  interests  of  the  investors  by  ring 
+fencing  the  investments  from  the  platform's  finances.  Therefore  in  case  anything 
+happens to the platform, the investments would not be hurt. The platforms also need 
+to have a contingency plan or a third party in place to ensure seamless operations. 
+
+•  Platforms  must  also  have  capital  reserves  to  cushion  the  effect  of  defaults.  Each 
+platform  will  need  to  hold  £20,000  from  October  this  year  and  £50,000  from  April 
+2017.  
+
+ 
+
+Page 14 of 66 
+
+•  The new regulations also  take a robust view on disclosures. The marketing of the 
+products  should  not  be  misleading  and  all  the  risks  should  be  adequately 
+highlighted. 
+
+•  Unlike savings or bank accounts, neither loan or investment-based crowdfunding is 
+covered  by  the  £85,000  Financial  Services  Compensation  Scheme.  Thus  loan-
+based crowdfunding is still very much an investment, rather than savings product. 
+Investors can cancel their agreement without any penalty within a cooling period of 
+14 days if the firm does not provide access to a secondary market. 
+
+• 
+
+•  The  new  regulations  provide  access  to  the  financial  services  ombudsman  for  all 
+
+complaints. 
+
+ 
+
+How are the new Rules different? 
+
+Many established lending-based platforms are already regulated by FCA and therefore 
+largely  compliant  to  the  new  regulations.  However,  the  regulations  put  a  structure  in 
+place for the platforms to manage their risks properly and not promise some ludicrous 
+return.   
+
+Investment-Based Crowdfunding Platforms:  
+Very  similar  rules  apply  to  investment-based  crowdfunding  as loan-based -  i.e.  the 
+marketing  must  be  fair  and  not  misleading,  risks  should  be  highlighted  and  systems 
+must be in place to separate your money from theirs - and ensure there are adequate 
+capital reserves. 
+
+The 14 day cooling off period and access to financial ombudsman also apply. 
+
+Aside  from  systems  requirements,  there  are  new  rules  on  who  is  actually  allowed  to 
+invest their money in crowdfunding. These include: 
+
+retail clients who are advised, 
+retail clients classified as corporate finance contacts or venture capital contacts, 
+retail clients certified as sophisticated or high net worth, or 
+retail clients who confirm that they will not invest more than 10 per cent of their net 
+investible assets in these products.  
+
+Page 15 of 66 
+
+• 
+• 
+• 
+• 
+
+ 
+
+So the onus is really on the investor to ensure they fall into one of the above brackets, 
+rather than the platform. Investors must to tick a box to confirm they fall into one of the 
+above categories.  
+
+The investors must also pass an online appropriateness test to prove they are aware of 
+the risks. October 1, 2014 is the deadline for the platforms to launch investor tests.  
+
+An investor can also reclassify herself as 'sophisticated' once he/she has made at least 
+two investments in investment-based crowdfunding. 
+
+How are the new Rules different? 
+
+•  The  new  regulations  for  investment-based  crowdfunding  make  sure  that  investors 
+don't  get  undue  exposure  and  at  the  same  time  there  is  a  scope  for  increasing 
+exposures in incremental phase by following a learning curve. 
+
+•  The definition of a 'sophisticated' investor is not just restricted to the net worth but 
+also takes in consideration the experience and the confidence that an investor has in 
+such investments.  
+
+•  Disclosures by the investors play a very crucial role.  
+
+6.4.6   France 
+
+The old regulations in France allowed a company to raise up to $ 1,40,000 for equity. 
+This amount has been raised to $ 14,00,000. But there is no maximum investment cap 
+specified  for  a  particular  investor,  which  makes  the  investors  decide  on  their  risk 
+appetite. 
+ 
+The new laws allows  platforms to register as a crowdfunding investment advisor, which 
+will enable platforms to get paid by companies as well as the investors. 
+ 
+Like US, France has also brought in the concept of accredited investors. Previously, the 
+companies were only able to give the complete information (valuation, dates, percent of 
+ownership, etc.) concerning their fundraising to 150 potential investors. The new rules 
+have done away with that cap, allowing for an unlimited number of investors to pitch in 
+cash. 
+
+ 
+
+Page 16 of 66 
+
+The need for an external audit is done away, but there is a huge impetus on extensive 
+disclosures by issuers both at the time of fund raising and periodically.  
+ 
+Companies  will  also  be  allowed  to  take  loans  from  individuals  for  a  total  of  up  to  €1 
+million, though the loan amount is capped at €1,000 per investor per company. 
+
+Financial Services Agency (FSA), Japan has promulgated an amendment in Financial 
+Instruments  and  Exchange  Act  on  May  23,  2014  to  facilitate  and  promote,  inter  alia, 
+Equity Crowdfunding in Japan.  
+ 
+The amendments pertinent to Crowdfunding are given as under: 
+I.  Relaxation  of  entry  requirements  of  Financial 
+
+Instruments  Business 
+
+6.4.7   Japan 
+
+ 
+
+Operators (FIBO). 
+
+(FIBO:  An  entity  allowed  to  engage  in  the  activities  of  trading,  intermediation,  brokerage, 
+undertaking in primary and secondary public offerings, and other businesses involving only the 
+securities which they are authorized for.) 
+ 
+
+Revised Regulations: 
+
+•  Relaxation of Entry Requirements 
+
+o  Restrictions  on  the  conduct  of  other  businesses  would  not  be  imposed  on 
+crowdfunding  platform  operators  that  handle  only  'small  amounts'    and  the 
+minimum capital required for registration would be reduced7
+. 
+'small amounts' mean that the total amount offered is less than 100 million yen 
+and the amount of investment per person is 500,00 yen or less. 
+
+o 
+
+ 
+•  Establishment of Rules to protect Investors 
+
+o  To  prevent  fraudulent  behavior,  crowdfunding  platform  operators  would  be 
+obligated  to  conduct  checks on  the  businesses  of  the  start-ups  and  to  provide 
+information of issuers, etc. appropriately through the Internet.  
+ 
+
+                                                           
+7 Type I FIBO: 50 million yen (current) reduced to 10 million yen, Type II FIBO: 10 million yen (current) reduced to 5 million yen 
+
+ 
+
+Page 17 of 66 
+
+7.0 Indian Scenario 
+
+7.1.  Existing Legal Framework 
+7.1.1  The provisions in the existing legal framework for raising funds by companies are 
+
+regulated under Companies' Act 2013 and Securities Act i.e. SEBI Act, 1992, Securities 
+Contracts (Regulation) Act, 1956, Depositories Act, 1996. Raising of pooled managed 
+investment funds by various entities such as Alternative Investment Fund (AIF), Mutual 
+Fund (MF) etc. is regulated under Securities Laws. 
+
+7.2.  Public Issue of Securities by Companies 
+7.2.1    Companies  making  public  issue  of  securities  need  to  comply  with  public  issue 
+ 7.2.2  Companies Act requires a company proposing to make a public issue to make a 
+
+requirements  prescribed  in  Companies  Act,  2013  and  Rules  made  thereunder,  apart 
+from the requirements of SEBI Regulations. 
+
+listing application to recognized stock exchanges. It requires the issuing company to file 
+a Prospectus with Registrar of Companies. Further, detailed disclosure requirements for 
+Prospectus are also specified. 
+
+ 7.2.3  Under Section 24 of the Companies Act, 2013, the provisions relating to issue and 
+
+transfer of securities by listed companies or those companies which intend to get their 
+securities  listed  on  any  recognized  stock  exchange  in  India  shall  be  administered  by 
+SEBI.  Hence,  SEBI  regulates  public  issuance  of  securities  and  those  private 
+placements which are proposed to be listed on stock exchange(s). 
+
+ 7.2.4  SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2009 (ICDR) 
+
+requires issuers making public issue of specified securities to comply with requirements 
+prescribed there-in which includes appointment of merchant banker, registrar to issue, 
+filing  of  draft  offer  document  with  SEBI,  eligibility  requirement  such  as  track  record, 
+minimum  promoter’s  contribution, 
+to  have  a 
+monitoring agency, etc., apart from detailed disclosure requirements. 
+ 
+
+lock-in  requirements,  requirement 
+
+ 
+
+Page 18 of 66 
+
+7.2.5  However, in case of debt securities, there is a simpler regime and the issuer need 
+
+to  comply  with  SEBI  (Issue  and Listing  of  Debt  Securities)  Regulations,  2008  (ILDS), 
+which  requires  compliance  with  basic  requirements  like  having  a  Debenture  trustee, 
+Credit Rating, disclosure requirements, etc. 
+ 
+Further, once securities are listed in a Recognized Stock Exchange, the issuer has to 
+comply with the continuous listing requirements. 
+
+7.3.  Private Placements of Securities by Companies 
+7.3.1    Taking  into  account  the  recent  misuse  of  private  placement  route  by  some 
+
+companies  which  issued  huge  number  of  debt  securities  to  public  under  the  garb  of 
+private placements, Companies Act, 2013 and Rules made thereunder, have put some 
+restrictions on private placements, which was previously lightly regulated.  
+
+ 7.3.2    As  per  Chapter  III  -  The  Companies  (Prospectus  and  Allotment  of  Securities) 
+
+Rules,  2014  ,  in  case  of  a  private  placement  of  securities,  private  placement  offer  or 
+invitation cannot be made to more than 200 persons in the aggregate in a financial 
+year  (excluding  Qualified  Institutional  Buyers  and  employees  of  the  company  being 
+offered securities under a scheme of employees stock option). 
+
+ 7.3.3  Such offer can be made only to such persons whose names are recorded by 
+
+the company prior to the invitation to subscribe, and that such persons shall receive 
+the  offer  by  name,  and  that  a  complete  record  of  such  offers  shall  be  kept  by  the 
+company  and  complete  information  about  such  offer  shall  be  filed  with  the  Registrar 
+within a period of thirty days of circulation of relevant private placement offer letter. 
+
+ 7.3.4  All monies payable towards subscription of securities through private placement 
+
+shall  be  paid  through  cheque  or  demand  draft  or  other  banking  channels  but  not  by 
+cash. Further, rules require that the payment to be made for subscription to securities 
+shall be made from the bank account of the person subscribing to such securities and 
+the company shall keep a record of all such bank accounts. The company shall allot its 
+
+ 
+
+Page 19 of 66 
+
+securities within sixty days from the date of receipt of the application money for private 
+placement, else money has to be repaid to the investors. 
+
+public advertisements or utilize any media, marketing or distribution channels or 
+agents to inform the public at large about such an offer. 
+
+ 7.3.5    Company  offering  securities  through  private  placement  shall  not  release  any 
+ 7.3.6    Ministry  of  Corporate  Affairs  has  also  notified  Companies  (Prospectus  and 
+
+Allotment of Securities) Rules, 2014. As per the said Rules, a private placement offer 
+letter  shall  be  accompanied  by  an  application  form  serially  numbered  and  addressed 
+specifically  to  the  person  to  whom  the  offer  is  made  and  no  person  other  than  the 
+person  so  addressed  in  the  application  form  shall  be  allowed  to  apply  through  such 
+application  form.  The  value  of  such  offer  or  invitation  per  person  shall  be  with  an 
+investment size of not less than Rs.20,000 of face  value of the securities. 
+
+30 days of allotment along with a complete list of all security holders containing the full 
+name, address, Permanent Account Number and E-mail ID of such security holder. 
+
+ 7.3.7  A return of allotment of securities shall be filed with Registrar of Companies within 
+ 7.3.8  Companies Act, 2013 mentions that any offer or invitation that is not in compliance 
+
+with the provisions of Section 42 shall be treated as a public offer and all provisions of 
+Companies  Act,  2013,  and  the  Securities  Contracts  (Regulation)  Act,  1956  and  the 
+Securities and Exchange Board of India Act, 1992 shall be required to be complied with, 
+including the above mentioned requirements.  
+
+ 7.3.9    However,  as  mentioned  above,  Companies  Act,  2013  provides  a  window  for 
+
+making private placement offers to Qualified Institutional Buyers (QIBs) and the 'limit of 
+200'  is  not  applicable  to  such  QIBs.  QIBs  are  the  entities  such  as  a  MF,  Foreign 
+Portfolio Investor (FPI), AIF, Scheduled Commercial Bank, IRDA registered Insurance 
+company  etc.  as  defined  in  SEBI  (Issue  of  Capital  and  Disclosure  Requirements) 
+Regulations, 2009. 
+
+ 
+
+Page 20 of 66 
+
+7.4.  Provisions regarding SME Funding 
+7.4.1  SEBI has taken various steps in the recent past to enable Start-ups and SME to 
+
+raise funds through various routes such as SME Segment of Exchanges, Institutional 
+Trading Platform (ITP), Category I- SME Fund under AIF Regulations. These channels 
+are briefly defined in the following sections: 
+
+ 7.4.2  SME Segment 
+7.4.2.1    SEBI  has  specified  framework  for  a  SME  segment  (platform)  on  Recognized 
+
+Stock Exchanges, where Small and Medium Enterprises (SME) can list their securities. 
+A company which has its post-issue face value capital not exceeding ten crore rupees 
+shall list only in SME platform. A company, which has its post issue face value capital 
+more than ten crore rupees and upto twenty five crore rupees, has an option to list in 
+SME  platform.  In  case  the  post-issue  face  value  capital  exceeds  Rupees  twenty  five 
+crore  rupees,  the  issuer  should  compulsorily  list  only  on  main  board  of  the  Stock 
+Exchanges.  
+
+ 7.4.2.2  However, a listed issuer whose post-issue face value capital is less than twenty 
+
+five  crore  rupees  may  migrate  to  SME  platform  if  its  shareholders  approve  such 
+migration by passing a special resolution through postal ballot. An issuer listed on SME 
+exchange  proposing  to  issue  further  capital  pursuant  to  which  their  post-issue  face 
+value capital may increase beyond Rs. 25 crore shall migrate to the main board, subject 
+to obtaining in-principle approval of the main board before issue of such securities. 
+
+ 7.4.2.3  Various relaxations have been provided to SMEs listing on SME segment under 
+
+SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2009. Some of them 
+are:   
+
+•  Draft Offer document may be filed directly with the exchange and not necessarily 
+
+with SEBI. 
+
+•  Eligibility criteria for an issuer under Regulation 26 is not applicable to companies 
+
+listing under SME segment. 
+
+ 
+
+Page 21 of 66 
+
+•  Minimum  application  value  of  Rs.5000-7000  is  not  applicable  (min.  application 
+
+value shall not be less than Rs. one lakh per application). 
+
+•  Minimum number of prospective allottees is fifty (instead of 1,000 in Main board). 
+
+ 7.4.2.4    Similarly,  relaxations  have  also  been  provided  with  respect  to  the  continuous 
+
+listing requirements for Companies listed in SMEs: 
+
+•  Requirement to file half yearly financial results instead of quarterly  
+•  Exemption from publishing financial results in newspaper 
+•  SME  companies  may  send  abridged  annual  report  to  their  shareholders. 
+However,  the  same  need to be displayed  on  the  website of  the exchange  and 
+company. 
+
+ 
+
+companies listed on SME segment for a minimum period of three years from the date of 
+listing to ensure liquidity in the market. 
+
+ 7.4.2.5    Apart  from  the  above,  there  is  a  compulsory  market  making  requirement  for 
+7.4.2.6    SME  Segments  were  launched  on  BSE  and  NSE  on  December  14,  2012 and 
+ 7.4.3  Institutional Trading Platform (ITP) 
+7.4.3.1    SEBI  has  permitted  listing  of  Small  and  Medium  Enterprises  (SME),  including 
+
+September 18, 2012 respectively. There are 60 SMEs listed on the BSE SME Exchange 
+and 5 SMEs listed on the NSE SME Exchange (Emerge) as on June 11, 2014. 
+
+start-up companies, on the SME exchange Institutional Trading Platform (ITP), without 
+being  required  to  make  an  initial  public  offer.  The  main  features  of  the  ITP  Platform 
+following are: 
+
+•  Only  such  SMEs  which  do  not  have  their  securities  listed  on  any  recognized 
+stock exchange are permitted to list their specified securities exclusively on the 
+ITP. 
+
+•  The listing process of ITP does not involve an IPO, or private placement or any 
+
+issue of securities.  
+
+ 
+
+Page 22 of 66 
+
+•  While such companies are listed on the platform, they are not permitted to raise 
+
+capital.  
+
+•  Since the trading lot has been mandated as 10 lakh, participation in this platform 
+
+is restricted to informed investors.   
+
+•  The companies listed in ITP are SMEs and start-up companies which get visibility 
+
+by listing in the stock exchanges, without any public issue of their securities.  
+
+•  The  regulatory  framework  for  ITP  also  envisages  that  the  SMEs  listed  in  this 
+platform will mandatorily exit the platform if (a) a period of 10 years have elapsed 
+since the company was listed in the ITP (b) the paid-up capital of the company is 
+more than twenty five crore rupees (c) the revenue of the company is more than 
+three hundred crore rupees (d) company reaches market capitalization of more 
+than five hundred crore rupees.  
+ 
+
+than a sustained listing over a long term horizon. 
+
+7.4.3.2  This platform is merely meant to provide the initial impetus for such SMEs rather 
+ 7.4.3.3    In  addition  to  the  visibility  to  SMEs,  this  framework  also  provides  a  trading 
+
+platform  for  the  scrips  of  Start-up  Companies  held  by  Alternative  Investment  Funds 
+(AIFs),  VCFs  etc.  and  enhances  the  liquidity  in  such  scrips,  which  in-turn  provide 
+enabling environment for SME and start-up enterprises to flourish.  
+ 
+BSE launched its ITP on February 11, 2014. There are 6 companies listed on ITP of 
+BSE. NSE launched its ITP on October 28, 2013 and there is 1 company listed on it as 
+on June 11, 2014. 
+ 
+
+7.5. Provisions related to Alternative Investment Funds: 
+7.5.1    SEBI (Venture Capital Funds) Regulations (“VCF Regulations”) were framed in 
+
+1996 to encourage funding by entrepreneurs’ early-stage companies in India. However, 
+since registration of VCF was not mandatory under VCF Regulations, all players in the 
+alternative funds industry were not registered with SEBI.  Hence, it was felt that there 
+was  a  regulatory  gap  which  needed  to  be  addressed.  Further,  SEBI  Board  had 
+
+ 
+
+Page 23 of 66 
+
+approved the proposal for a clear regulatory framework for privately pooled investment 
+vehicles under AIF framework to inter-alia pave way for increased investment in start-
+ups, SMEs, etc. and also provide for a mechanism to monitor and assess systemic risks 
+and  risks  to  financial  market  stability  posed  by  the  activities  of  some  funds  such  as 
+Hedge funds. 
+
+Alternative  Investment  Funds  (AIF)  through  SEBI  (Alternative  Investment  Funds) 
+Regulations, 2012 on May 21, 2012. 
+
+ 7.5.2   Considering the same, SEBI notified the framework for registering and regulating 
+ 7.5.3   These Regulations cover all privately pooled investment vehicles in India raising 
+
+funds  from  Indian  or  foreign  investors  for  investing  in  accordance  with  a  defined 
+investment  policy  for  the  benefit  of  its  investors.  However,  Mutual  Funds,  Collective 
+Investment Schemes, Family Trusts, Employee Welfare trusts, Securitization trusts, any 
+other funds regulated by other regulators, etc. are exempted from the ambit of the AIF 
+Regulations.  
+
+ 7.5.4   These regulations seek to cover the funds broadly under 3 categories.  
+
+•  Category I – which includes Venture Capital Funds, SME Funds, Social Venture 
+Funds,  Infrastructure  Fund,  etc.  (which  invests  in  sectors  or  areas  which  the 
+government or regulators may consider as socially or economically desirable);  
+
+•  Category II – which includes private equity funds or debt funds (which does not 
+undertake  leverage  or  borrowing  other  than  to  meet  day-to-day  operational 
+requirements) and  
+
+•  Category III – which includes Hedge Funds - (employ leverage including through 
+
+investment in derivatives) 
+
+ 7.5.5 
+
+  As  per 
+
+the  said  Regulations,  AIF  should  be  prohibited  by 
+
+trust 
+deed/memorandum  and  articles  of  association/partnership  deed  from  making  an 
+invitation to the public to subscribe to its securities. AIF shall not accept from an investor 
+an investment of value less than Rs. 1 Crore and no scheme of the AIF shall have more 
+
+its 
+
+ 
+
+Page 24 of 66 
+
+than 1,000 investors. Further, each scheme of the AIF shall have a minimum corpus of 
+Rs. 20 crore. Further, the manager or sponsor shall have a continuing interest in the AIF 
+of certain percentage of the corpus.  
+
+Funds (ii) Social Venture Funds, (iii) SME Funds, (iv) Infrastructure Funds.  
+
+Social Venture Funds: 
+
+ 7.5.6    Category  I  AIFs  are  further  categorized  in  4  sub-categories:  (i)  Venture  Capital 
+i. 
+
+An  AIF  which  invests  primarily  in  securities  or  units  of  social  ventures  and  which 
+satisfies  social  performance  norms  laid  down  by  the  fund  and  whose  investors  may 
+agree  to  receive  restricted  or  muted  returns  may  get  itself  registered  as  a  Social 
+Venture  Fund  under  SEBI  (Alternative  Investment  Funds)  Regulations,  2012.  It  can 
+accept investment which is not less than one crore and such investor may accept muted 
+returns. Such funds are also entitled to accept grants, provided that utilization of such 
+grants shall be restricted to social ventures. Further, the amount of grants that may be 
+accepted by the fund from any person shall not be less than Rs. 25 Lakhs and no profits 
+or gains shall accrue to the provider of such grants. 
+ 
+There 
+a corpus of Rs. 820-900 Crores as on June 11, 2014.  
+
+are 
+
+3 
+
+Social 
+
+SEBI  with  
+
+Venture 
+
+Funds 
+
+registered  with 
+
+ii. 
+
+SME Funds: 
+
+An investment fund which invests primarily in unlisted securities of investee companies 
+which are SMEs or securities of those SMEs which are listed or proposed to be listed on 
+a SME exchange or SME segment of an exchange may get itself registered as an SME 
+Fund. Such funds: 
+
+•  shall  invest  at  least  75%  of  the  investible  funds  in  unlisted  securities  or 
+partnership interest of venture capital undertakings or investee companies which 
+are SMEs or in companies listed or proposed to be listed on SME exchange or 
+SME segment of an exchange 
+
+•  may  enter  into  an  agreement  with  merchant  banker  to  subscribe  to  the 
+unsubscribed portion of the issue or to receive or deliver securities in the process 
+
+ 
+
+Page 25 of 66 
+
+of  market  making  under  Chapter  XB  of  the  Securities  and  Exchange  Board  of 
+India (Issue of Capital and Disclosure Requirements) Regulations, 2009 
+
+ 
+There are 5  SME funds registered with SEBI with corpus in the range of Rs.  1,625 -
+2,125 Crores as on June 11, 2014. 
+
+iii.  Angel Funds:  
+
+Under  SEBI  (Alternative  Investment  Funds)  Regulations,  2012,  a  sub-category  has 
+been  created  under  Category  I  –  Venture  Capital  Funds  called  “Angel  Funds”  vide 
+amendment  dated  September  16,  2013.  Such  funds  can  raise  funds  from  angel 
+investors and make investments in start-ups/early stage companies. 
+ 
+In order to ensure that investment by such angel funds is genuine 'angel investment' in 
+India, it is prescribed that the investee companies: 
+
+a.  are incorporated in India and are not more than 3 years old; and 
+b.  have a turnover not exceeding Rs 25 crore; and 
+c.  are unlisted, and  
+d.  are  not  promoted,  sponsored  or  related  to  an  Industrial  Group  whose  group 
+
+turnover is in excess of Rs. 300 crore, and 
+
+e.  has no  family connection with the investors proposing to invest in the company.  
+
+ 
+Investment in an investee company by an angel fund shall not be less than Rs. 50 lakhs 
+and more than Rs. 5 crore. Such conditions are expected to ensure that the investments 
+are genuine investments in start-ups/ early stage companies in India.  
+ 
+Minimum  Corpus  of  an  Angel  Fund  shall  be  Rs.10  Crores.  Minimum  investment from 
+each investor shall be Rs. 25 Lakhs. As Angel investments are highly risky investments, 
+necessary restrictions are imposed on the eligibility of the investors in order to ensure 
+that  only 
+investors  who  have  prior  experience/  adequate  awareness  of  such 
+investments and who have sufficient capital invest in such funds. Reduced mandatory 
+minimum sponsor/manager contribution is made applicable to Angel Funds comparing 
+to other AIFs, i.e. 2.5% of the corpus/ Rs. 50 lakhs, whichever is lesser. 
+
+ 
+
+Page 26 of 66 
+
+There is 1 Angel Fund registered with SEBI as on June 11, 2014. 
+ 
+
+8.0  Is Crowdfunding really needed ? 
+8.1  As mentioned earlier, the 2008 financial crisis resulted in failure of number of Banks 
+and, consequently, the new capital adequacy regulations for banks, such as Basel III 
+were implemented. As a result, credit providers have become increasingly constrained 
+in their ability to lend money to the real economy.  
+ 
+8.2  IOSCO Paper states that the amount of bank loans made in Western Europe and 
+the  USA  dropped  significantly  at  the  beginning  of  the  crisis.  While  there  have  been 
+some  signs  of  recovery  in  the  US  (although  the  growth  rate  is  still  below  pre-crisis 
+levels), in Western Europe the growth rate in loans to the non-financial corporate sector 
+has been negative, especially to SMEs in the EU. In this funding vacuum, peer-to-peer 
+lending and other Crowdfunding Platforms are growing in popularity, as bank liquidity is 
+reduced and new regulatory requirements make obtaining loans for small and medium 
+enterprises and individuals difficult. 
+ 
+8.3    In  India,  during  the  last  few  years,  the  IPO  market  has  not  been  very  active. 
+Though,  SEBI,  has  been  at  the  forefront  in  facilitating  fund  raising  by  SMEs  through 
+measures like SME segment in Stock Exchanges, Category I- SME funds under AIF, 
+Institutional  Trading  Platform,  etc.,  still  there  is  need  to  encourage  innovative  way  of 
+fund  raising  to  provide  an  impetus  to  genuine  SMEs/Start-ups  and  to  explore  other 
+alternative models of fund raising with appropriate framework in consonance with retail 
+investor protection. 
+ 
+8.4    Since  the  "Crowdfunding"  phenomenon  is  gaining  its  popularity,  its  importance 
+cannot be ignored. To regulate crowdfunding, it is very important to take note that while 
+it  is  necessary  to  ensure  that  Start-ups/SMEs  could  raise  funds  at  ease,  it  is  equally 
+important to ensure that no systemic risks are created wherein retail investors are lured 
+by some unscrupulous players by substituting the existing framework, which has been 
+developed over a period of time through experience and observation.  Hence, there is 
+
+ 
+
+Page 27 of 66 
+
+necessity  to  strike  a  proper  balance  between  investor  protection  and  the  role  equity 
+markets can play in supporting economic development and growth. 
+
+8.5    While  some  regulators  are  criticized  by  media  from  “taking  the  crowd  out  of 
+crowdfunding',8  there  are  also  media  reports  explaining  the  risks  in  the  model  and 
+stating  that  regulators  who  are  today  denounced  for  their  intervention  will  then  be 
+castigated for their neglect.9
+ 
+ 
+8.6  IOSCO Paper states that "A risk posed by moving to regulate a previously exempt 
+sector  is  the  perceived  rubber  stamping  of  the  industry  through  regulation,  creating 
+credibility in the peer-to-peer lending and equity crowd-funding markets. 
+ 
+This could attract less experienced investors to these markets who may not understand 
+the risks involved in these types of investment. 
+
+ 
+8.7  Therefore  it  would  be  appropriate for  regulators  to  take  appropriate  stand  in  this 
+regard and send out a message to the various stakeholders recognizing this emerging 
+route of funding. India, so far, does not face a significant exposure to crowdfunding but 
+given that this mode of fund raising is growing at a scorching pace, it is important that 
+regulators keep an open eye and a vigilant attitude.   
+ 
+
+Question  1:  Given  that  Crowdfunding  is  still  in  nascent  stages  and  most  of  the 
+jurisdictions  around  the  world  have  taken  a  guarded  view  by  allowing  it  in  a 
+restricted manner, do you think India is ready for crowdfunding or is it premature 
+to introduce such risky investment channel ? 
+
+ 
+
+                                                           
+8http://www.theguardian.com/technology/2014/mar/06/crowdfunding-regulator-10-percent-rule 
+ 
+9http://www.johnkay.com/2014/03/25/regulators-will-get-the-blame-for-the-stupidity-of-crowds 
+
+ 
+
+Page 28 of 66 
+
+9.0  Proposal for Crowdfunding in India 
+
+9.0.1   SEBI has provided various frameworks for raising of funds by startups, SMEs etc. 
+
+as specified in the paragraph 7. In addition to the available frameworks, SEBI seeks to 
+provide  fresh  avenues  for  startups  and  SMEs  set  up  by  young  entrepreneurs  and 
+technology professionals to raise early stage funding through internet based platforms, 
+potentially  more  efficiently  and  cost  effectively  than  through  public  issue  or  private 
+placement offering. 
+
+ 9.0.2   Crowdfunding is an innovative way to provide modest amount of funding to young 
+
+entrepreneurs  and  technology  professionals  needing  early  stage  or  seed  capital  for 
+startup companies which may  spur entrepreneurship and ultimately  assist in boosting 
+the growth of real economy.  
+
+ 9.0.3   A company raising funds through online crowdfunding platforms or websites offers 
+
+equity  or  debt  interests  in  its  business  to  investors  who  make  small  contributions, 
+through a crowdfunding platform or social media. In most of the cases funding is sought 
+online on the basis of future projections rather than a viable business model in operation 
+which increases the risk of failures and therefore loss to the investors. 
+
+ 9.0.4    If  the  costs  associated  with  regulatory  provisions  for  investor  protection  are 
+
+excessive, crowdfunding may not become a viable capital raising method. At the same 
+time  investors  would  be  concerned  about  the  risks  of  crowdfunding  and  may  not  be 
+prepared to invest if there are no adequate safeguards in place. Therefore the proposal 
+seeks to strike a balance between retail investor protection and capital market access to 
+such  ventures  by  providing  adequate  investor  safeguard  without  creating  too  many 
+entry barriers or significant regulatory burdens on the issuers.  
+
+ 9.0.5    Pure  Donation Based  Crowdfunding  (where  issuers  directly  seek  donation from 
+
+the grantors), Reward Based Crowdfunding (where issuers directly offers rewards like 
+movie tickets, new computer game, download of a book etc.) and Peer-to-Peer lending 
+do  not  fall  within  the  regulatory  purview  of  SEBI,  as  they  do  not  generally  involve 
+
+ 
+
+Page 29 of 66 
+
+issuance  of  securities  for  financial  return,  and  may  require  authorization  from  other 
+regulators. For example, Peer-to-Peer lending may fall under the purview of RBI.  
+
+framework in other jurisdictions, this proposal seeks to explore the possibilities of having 
+Security Based Crowdfunding framework in India within the existing legal framework. 
+
+ 9.0.6  Taking  into  account  various  provisions  under  the  Indian  law  and  crowdfunding 
+ 9.0.7   Crowdfunding is intended to facilitate raising of modest amount by startups and 
+
+SMEs  for  early  stage  funding  and  it  is  not  necessary  or  appropriate  to  allow  certain 
+complex  or  hybrid  products.  Under  the  Security  Based  Crowdfunding,  the  possible 
+routes which are being explored are as follows: 
+ 
+
+1.  Equity based Crowdfunding (EbC) 
+2.  Debt based Crowdfunding (DbC) 
+3.  Fund based Crowdfunding (FbC) 
+
+ 9.0.8      In  all  the  approaches,  the  Crowdfunding  Platform  plays  a  central  role  where 
+
+investors  can  meet  promising  start  up  companies.  The  web  based  crowdfunding 
+platform  will  facilitate  raising  of  capital  through  its  website  from  investors  who  have 
+access to such platform. The first 2 routes are primarily based on the Private Placement 
+route  as  defined  under  Section  42,  Companies  Act  2013.  The  FbC  route  is  primarily 
+modeled on SEBI (AIF) Regulations, 2012.  
+
+ 9.0.9   Before dealing with these routes it is important that the following are established: 
+
+the investors that are allowed to invest through the crowdfunding platforms, 
+the types of entities that are allowed to raise funds through this channel and the 
+disclosure requirements, 
+the  types  of  entities  that  are  allowed  to  set  up  internet  based  Crowdfunding 
+Platforms to enable online solicitation from such investors, 
+
+• 
+• 
+
+• 
+
+and the different associated aspects.  
+ 
+
+ 
+
+Page 30 of 66 
+
+9.1   Who can be the Investor? 
+9.1.1  Various  jurisdictions  have  imposed  different  restrictions  on  investments  and 
+
+categories of investors who are allowed to invest in companies which are displayed on 
+such internet based crowdfunding websites or platforms, such as: 
+ 
+Jurisdiction 
+
+Limitations on Investment under Crowdfunding 
+
+USA 
+
+UK 
+
+In a 12 month period, investors are allowed to invest 
+•  $2,000 or 5 percent of their annual income or net worth, whichever is 
+greater,  if  both  their  annual  income  and  net  worth  are  less  than 
+$100,000. 
+
+•  10 percent of their annual income or net worth, whichever is greater, 
+if  either  their  annual  income  or  net  worth  is  equal  to  or more  than 
+$100,000.  
+
+•  No  limit  for  investors  advised  by  professionals,  linked  to  corporate 
+finance or venture capital firms, or those certified as sophisticated or 
+high net worth. 
+
+•  Not more than 10% of assets - excluding homes and pensions, for 
+
+other investors. 
+
+Australia 
+
+France 
+Canada 
+
+One  of  the  option  proposed  is  that  the  investor  needs  to  be 
+sophisticated i.e. have assets of worth at least $ 2.5 million or have a 
+gross income of at least $ 250,000 for each of the last 2 financial years.  
+€1,000 per campaign 
+A maximum of $2,500 in a single investment and $10,000 per year 
+
+the inherent risks involved in the speculative nature of start-up companies and illiquid 
+nature of their securities and can bear the loss of the entire investment. 
+
+ 9.1.2  It is necessary that the investors who seek to invest in crowdfunding understand 
+ 9.1.3  In Indian scenario, considering the necessity to provide alternative funding sources 
+
+to Start-ups and at the same time to ensure that retail investors are not made to bear 
+
+ 
+
+Page 31 of 66 
+
+the  risks  of  Start-up  ventures,  it  is  proposed  to  permit  only  Accredited  Investors  to 
+participate in crowdfunding. 
+
+ 9.1.4  The Accredited Investors: 
+9.1.4.1  The  proposed  accredited  investors  who  may  be  allowed  to  invest  through 
+
+crowdfunding platforms are as under: 
+
+•  Qualified  Institutional  Buyers  (QIBs)  as  defined  in  SEBI  (Issue  of  Capital  and 
+
+Disclosure Requirements) regulations, 2009 as amended from time to time, 
+
+•  Companies incorporated under the Companies Act of India, with a minimum net 
+
+worth10
+
+ of Rs. 20 Crore, 
+
+•  High  Net  Worth  Individuals  (HNIs)  with  a  minimum  net  worth  Rs.  2  Crores  or 
+more (excluding the value of the primary residence or any loan secured on such 
+property), and 
+
+•  Eligible Retail Investors (ERIs): 
+
+o  who receive investment advice from an Investment Adviser, or 
+o  who avail services of a Portfolio manager, or 
+o  who  have  passed  an  Appropriateness  Test  (may  be  conducted  by  an 
+
+institution accredited by NISM or the crowdfunding platforms), 
+
+and 
+o  who have a minimum annual gross income of Rs. 10 Lacs, 
+o  who have filed Income Tax return for at least last 3 financial years, 
+o  who  certify  that  they  will  not  invest  more  than  Rs.  60,000  in  an  issue 
+
+through crowdfunding platform, 
+
+o  who  certify  that  they  will  not  invest  more  than  10%  of  their  net  worth 
+through  crowdfunding.  (Net  worth  excludes  the  value  of  the  primary 
+residence or any loan secured on such property). 
+
+ 9.1.4.2  Thus those retail investors who have knowledge, experience or have access to 
+
+investment advice and have resources to cope with the losses on their investments in a 
+                                                           
+10 Net Worth is calculated as the aggregate value of paid up equity capital plus free reserves (excluding reserves 
+created  out  of  revaluation)  reduced  by  the  aggregate  value  of  accumulated  losses  and  deferred  expenditure  not 
+written off, including miscellaneous expenses not written off. 
+
+ 
+
+Page 32 of 66 
+
+start up, are eligible to invest as ERI in crowdfunding and come within the category of 
+accredited investors. 
+ 
+
+Question 2: Are the Accredited Investors mentioned in paragraph 9.1.4 suitable to 
+participate in the risky investments of crowdfunding? Is there a need to expand or 
+reduce the categories of investors or expand or reduce safeguards? Specify along 
+with the rationale. 
+
+ 9.1.5  Investment Limits: 
+9.1.5.1   Chapter  III  -  The  Companies  (Prospectus  and  Allotment  of  Securities)  Rules, 
+
+2014 specifies that in case of a private placement of securities the offer or invitation to 
+subscribe shall not be made to more than 200 investors in a financial year. Any offer or 
+invitation made to QIBs or to employees of the company under a scheme of employees 
+stock option shall not be considered while calculating the limit of 200 persons.  
+ 
+Therefore,  EbC  and  DbC  shall  allow  private  placement  offers  through  internet  based 
+crowdfunding platforms to any number of QIBs and a maximum of 200 HNIs and ERIs 
+combined.  
+
+9.1.5.2  In some jurisdictions, e.g.in Italy professional investors must own at least 5% of 
+
+the  equity  in  a  crowdfunded  venture.  The  apparent  intention  is  to  give  some  form  of 
+comfort  to  retail  investors  that  the  issuer  is  genuine  as  one  or  more  sophisticated 
+investors  have  chosen  to  invest.  It  is  therefore  proposed  that  QIBs,  Companies  and 
+HNIs  should  be  required  to  own  at  least  a certain  percentage  in every  issue  through 
+EbC and DbC. 
+
+ 9.1.5.3    Chapter  III  -  The  Companies  (Prospectus  and  Allotment  of  Securities)  Rules, 
+
+2014  specifies  that  in  case  of  a  private  placement  of  securities,  the  minimum  offer 
+value per person must be at least Rs. 20,000 of the face value of the securities. In 
+view of the above, we propose that: 
+
+ 
+
+Page 33 of 66 
+
+•  A  QIB  is  required  to purchase  at  least  5 times  of  the  minimum  offer  value per 
+person as specified in the aforementioned rule. Collectively all the QIBs shall 
+hold a minimum of 5% of the securities issued. 
+
+•  A Company is required to purchase at least 4 times of the minimum offer value 
+
+per person as specified in the aforementioned rule. 
+
+•  A  HNI  is  required  to  purchase  at  least  3  times  the  minimum  offer  value  per 
+
+person. 
+
+•  An ERI is required to purchase at least the minimum offer value per person. The 
+maximum  investment  by  an  ERI  in  an  issue  shall  not  exceed  Rs.  60,000.  The 
+total  of  all  investments  in  crowdfunding  for  an  eligible  retail  investor  in  a  year 
+should not exceed 10% of its net worth. 
+
+ 
+
+Question 3: Are the Investment Limits specified in paragraph 9.1.5 justifiable with 
+respect to the respective investor classes? Are they too high or too low? Specify 
+along with rationale. 
+
+Question 4:  Is  the  limit of  investors  upto 200  besides  QIBs  or  employees  of  the 
+company under a scheme of employees stock option, as specified in Chapter III - 
+The Companies (Prospectus and Allotment of Securities) Rules, 2014, adequate or 
+is there a need to amend such rules to allow upto 1,000 investors, excluding QIBs 
+or employees of the company under a scheme of employees stock option? 
+
+ 9.1.6  Investment Conditions: 
+
+•  The ERIs and HNIs must sign a 'Risk Acknowledgement' that they understand 
+the  risk  of  illiquid  nature  of  investment  and  potential  loss  of  entire  investment, 
+and that they can bear the loss. 
+
+•  The issue has to be in Demat form thus all the accredited investors need to hold 
+
+a demat account. 
+
+•  The payment  has to be made  through a  cheque  or  a demand  draft or  another 
+
+banking channel. Payment by Cash and Credit Cards shall not be accepted. 
+
+•  The ERIs must be an Indian citizen / NRI. 
+•  ERIs must fulfill the eligibility requirements as specified in the paragraph 9.1.4.1. 
+
+ 
+
+Page 34 of 66 
+
+• 
+
+Investments by foreign investors shall, however, be subject to guidelines as may 
+be specified by RBI  and government of India from time to time. 
+
+ 
+
+Question  5:  Are  the  Investment  Conditions  mentioned  in  the  paragraph  9.1.6 
+enough to warn and guard investors regarding the risky nature of crowdfunding? 
+Specify changes, if any, along with the rationale. 
+
+ 9.2  Who can raise funds from Crowdfunding Platform and Limitations on capital 
+raised? 
+9.2.1 Crowdfunding is intended to solve the funding problems of early stage startups and 
+ 9.2.2  As  crowdfunding  shall  entail  substitution  or  relaxation  of  requirements  of 
+
+SMEs. The existing various sources of funding through capital markets for startups and 
+SMEs in India have been summarized in paragraph 7. 
+
+prospectus or listing etc. various jurisdictions have imposed different set of limitations 
+on  the  amount  allowed  to  be  raised  through  online  crowdfunding  platforms  and  the 
+conditions to be satisfied by the issuing companies. Some of these are listed as under: 
+ 
+Jurisdiction 
+USA 
+UK 
+New Zealand  NZ$2 million from 20 investors in any 12 month period 
+
+Limitation on capital Raised 
+$1,000,000 in a period of 12 months 
+€2.5 million in a period of 12 months 
+
+Australia 
+
+France 
+Canada 
+
+Not more than $2 million or transfer equity to more than 20 people in a  
+12 month period 
+€1m (£827,951) per campaign per year 
+$1.5 million over one year 
+
+ 9.2.3  Some  jurisdictions  have  also  imposed  restrictions  on  the  nature  of  companies 
+
+which can raise capital from such crowdfunding platforms, e.g. in Italy crowdfunding is 
+restricted  only  to  innovative  startups.  To  be  innovative  a  firm  must  be  recognized  as 
+
+ 
+
+Page 35 of 66 
+
+such by the Chamber of Commerce and to be startup a firm can be no more than 48 
+months in existence.  
+
+ 9.2.4 Crowdfunding can provide an alternative source of capital for startups and SMEs 
+
+that either have limited access to capital or have exhausted other available sources of 
+capital. It is, therefore, proposed that the additional channel of crowdfunding platform to 
+raise modest amount of funds is allowed to be accessed by early stage startup or SME 
+which is an unlisted public company incorporated in India, under EbC or DbC routes as 
+mentioned in paragraph 9.4, provided it is: 
+
+•  a  company  intending  to  raise  capital    not  exceeding  Rs.  10  Crores  in  a  period  of  12 
+months.  Companies  which  intend  to  make  issue  more  than  size  of  Rs.10  Crores  may 
+raise funds by complying with the provisions of SEBI (ICDR) Regulations and list them 
+on a SME Platform or main board of a recognized stock exchange, 
+
+•  a company which is not promoted, sponsored or related to an industrial group which has 
+
+a turnover in excess of Rs. 25 Crores or has an established business, 
+
+•  a company which is not listed on any exchange, 
+•  a company which is not more than 48 months old, 
+•  a  company  which  proposes  to  engage  in  non-financing  ventures,  i.e.  funds  raised 
+through  the  crowdfunding  platform  will  not  be  further  used  for  providing  loans  or 
+investments in other entities, and 
+
+•  a  company  which  is  not  engaged  in  real  estate  and  activities  which  are  not  permitted 
+
+under industrial policy of Government of India. 
+
+ 9.2.5 Further, to ensure only genuine entities raise funds through this mode: 
+
+•  The  issuing  company,  its  directors,  promoters  or  associates  have  not  been  prohibited 
+from accessing or operating in the capital markets or restrained from buying, selling or 
+dealing in securities under any order or direction passed by the SEBI. 
+
+•  The  issuing  company,  its  directors,  promoters  or  associates  are  not  mentioned  as  a 
+
+'defaulter' or a  'wilful defaulter' by RBI or CIBIL. 
+
+•  The director(s) or promoter(s) are not disqualified to be appointed as director(s) under 
+
+the Companies Act 2013. 
+
+ 
+
+Page 36 of 66 
+
+•  The issuing company, its directors, promoters or associates are 'fit and proper' persons 
+
+as specified under the Schedule II of the SEBI (Intermediaries) Regulations, 2008. 
+ 
+
+9.2.6 In addition to above, the issuers must also comply with the following: 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+In a given period of 12 months, Issuers shall not use multiple crowdfunding platforms to 
+raise funds. 
+Issuers shall not directly or indirectly advertise their offering to public in general or solicit 
+investments from the public. 
+Issuer  shall  compulsorily  route  all  crowdfunding  issues  through  a  SEBI  recognized 
+Crowdfunding Platform. 
+Issuers shall not directly or indirectly incentivize or compensate any person to promote 
+its offering. 
+Issuers  shall  provide  provisions  for  oversubscription.  This  may  include  maximum 
+oversubscription  amount  to  be  retained,  which  should  not  exceed  25%  of  the  actual 
+issue  size;  intended  usage  of  the  oversubscribed  amount.  The  total  amount  retained. 
+including the actual issue size and oversubscription, shall not exceed the limit of Rs. 10 
+Crores. 
+
+ 
+
+Question  6:    Given  that  the  companies  coming  for  crowdfunding  lack  any 
+significant  track  record,  are  the  conditions  and  requirements  mentioned  in 
+paragraph  9.2  enough  to  fend  off  fraudulent  issuers?  Specify  changes,  if  any, 
+along with the rationale. 
+
+ 9.3  Disclosure Requirements on Issuer 
+9.3.1  It  is  proposed  that  Crowdfunding  follow  a  disclosure  based  regime.  It  is  very 
+
+important that the companies seeking to raise funds through crowdfunding disclose true 
+and  factual  information  to  facilitate  investors  in  an  informed  decision  making.  The 
+disclosures are required (i) when an issuer approaches the crowdfunding platform with 
+the intention of raising funds from the accredited investors registered with the platform, 
+and (ii) at regular intervals on an ongoing basis. 
+
+ 
+
+Page 37 of 66 
+
+9.3.2  Though  different  jurisdictions  have  specified  different  set  of  disclosures  for  the 
+
+issuers,  the  basic  spirit  behind  this  is  to  enable  the  investors  to  make  an  informed 
+decision  regarding  their  investments  and  to  keep  a  track  of  the  growth  of  their 
+investments on a continuing basis. The disclosure requirements in different jurisdictions 
+are as follows: 
+
+Jurisdiction  Required disclosures 
+
+•  The name, legal status, physical address and Web site address of 
+
+the issuer; 
+
+•  The names of the directors and officers (and any persons occupying 
+
+a similar status or performing a similar function), and each person 
+holding more than 20 percent of the shares of the issuer; 
+
+•  a description of the business of the issuer and the anticipated 
+
+business plan of the issuer; 
+
+•  a description of the financial condition of the issuer83; 
+•  a description of the stated purpose and intended use of the proceeds 
+of the offering sought by the issuer with respect to the target offering 
+amount; 
+
+USA 
+
+•  statement on excess investment; 
+•  description on other offerings, related party transactions and 
+
+• 
+
+• 
+
+• 
+
+financial condition; 
+the target offering amount, the deadline to reach the target offering 
+amount and regular updates regarding the progress of the issuer in 
+meeting the target offering amount; 
+intermediary identification and compensation; 
+the price to the public of the securities or the method for determining 
+the price; and 
+
+•  a description of the ownership and capital structure of the issuer. 
+In addition, Section 4A(b)(1)(I) specifies that the Commission may 
+• 
+require additional disclosures for the protection of investors and in 
+the public interest. 
+
+ 
+
+Page 38 of 66 
+
+UK 
+
+New 
+Zealand 
+
+France 
+
+Canada 
+
+Investors should be presented with information that is "fair, clear and 
+not misleading" when deciding whether or not to make an investment. 
+No specific disclosures mandated by the regulator. 
+Issuers making Crowd Sourced Equity Funding(CSEF) offers through 
+licensed CSEF intermediaries will be exempt from the normal 
+requirements to register a product disclosure document. 
+A document with information concerning the company, its activities and 
+its financial situation. 
+•  Detailed business plan 
+•  Disclosure of the issuer’s cash with third party confirmation if the 
+
+issuer has not incurred any expenditures and its only asset is cash; 
+or 
+
+•  Annual financial statements if the issuer has incurred expenditures; 
+
+or 
+
+•  Audited annual financial statements if the issuer has raised more 
+
+than $500,000 under the crowdfunding prospectus exemption or any 
+other prospectus exemption since its formation and has expended 
+more than $150,000 since that time. 
+
+ 
+
+9.3.3  Though the disclosures may not be as elaborate as IPO disclosures, which would 
+
+increase  the  cost  of  compliance,  some  basic  details  of  the  company  need  to  be  
+provided.  Therefore  it  is  proposed  that,  a  company  intending  to  raise  funds  through 
+crowdfunding platform submit an Private Placement Offer Letter to the Crowdfunding 
+Portal, which inter alia may contain the following: 
+
+i.  Name of the company & Registered office address 
+ii. 
+
+A  description  of  the  current/new  venture  for  which  the  funds  are  being  raised 
+(Anticipated Business Plan) 
+Issue Size and specified target offering amount and intended usage of funds 
+A description on the valuation of securities offered  
+Past history of funding, if any 
+
+iii. 
+iv. 
+v. 
+vi.  History of any prior refusal from any Crowdfunding Platform  
+
+ 
+
+Page 39 of 66 
+
+vii. 
+
+A  description  of  financial  condition  of  the  company  including  Audited  financial 
+statements  of  1  year,  if  any  (Balance  sheet,  Profit  and  Loss  Account,  Cash  Flow 
+Statements) 
+Price of securities offered and the rights and liabilities attaching to the securities 
+
+viii. 
+ix.  Ownership details and capital structure 
+x.  Details  regarding  Board,  Management  and  Group  entities,  persons  with  a 
+
+shareholding of 20% or more, etc., 
+Principal risks to the issuer's business 
+
+xi. 
+xii.  Grievance  redressal  and  Dispute  resolution  mechanism,  such  as  arbitration 
+
+mechanism 
+Such other information as SEBI may specify 
+
+xiii. 
+
+ 
+
+9.3.4   The  Private  Placement  Offer  Letter  submitted  by  the  issuer  shall  be  circulated 
+
+online  only  to  those  selected  accredited  investors  who  are  registered  with  the 
+crowdfunding platform and have made a commitment, not numbering more than 200, 
+and excluding QIBs.  
+
+ 
+
+Question 7: Are the disclosure requirements for a company interested in raising 
+funds through crowdfunding platform mentioned in paragraph 9.3.3, enough to 
+enable investors in an informed decision making ? Specify changes, if any, along 
+with the rationale. 
+
+ 9.3.5  Though future projections are not allowed in offer document of a public issue, but 
+
+in crowdfunding, owing to the lack of any meaningful business history or financial track 
+record,  decision  making  is  significantly  based  on  the  future  projections  made  by  the 
+issuer. So it becomes important that a realistic view into the future growth path of the 
+issuer is provided to the prospective investors. These projections should be based on 
+some trusted third party research and realistic assumptions. 
+
+ 
+
+ 
+
+Question 8: Due to the lack of history and track record, it is important that the 
+issuers  provide  future  projections  of  their  business  to  facilitate  investors  in 
+
+Page 40 of 66 
+
+decision making. What should be the criteria to ensure that the projections are 
+realistic and achievable and not misguiding in nature? 
+
+ 
+
+9.3.6  The issuing companies shall also be required to submit information on an ongoing 
+
+basis.  It  is  proposed  that  the  issuing  companies  submit  biannual  disclosures  to  the 
+Crowdfunding Platform, which inter alia may contain the following: 
+
+i. 
+
+Audited  financial  statements  (Balance  sheet,  Profit  &  Loss  statement,  Cash  flow 
+statement etc.) 
+
+ii.  Utilization of funds raised in accordance to the object of the issue as specified at the 
+
+iii. 
+
+iv. 
+v. 
+
+time of the issue  
+A  detailed  view  of  the  current  state  of  business  and  the  progress made  since  last 
+disclosure 
+Any other funding raised since the last disclosure 
+Any  penalty,  pending  litigation  or  regulatory  action  against  the  company  or 
+promoter(s) or director(s) 
+ 
+ 
+
+9.3.7  Such  ongoing  disclosures  shall  be  displayed  by  the  platform  on  its  website  and  will  be 
+
+available to accredited investors who are registered with such platform.  
+ 
+
+Question  9:  What  should  be  the  continuous  disclosure  requirements  for  a 
+company once it gets displayed on the platform? How it should be ensured that 
+there is no information asymmetry between various prospective investors?  
+
+ 9.4  Who can set up a Crowdfunding Platform? 
+9.4.1  It  is  necessary  that  crowdfunding  platforms  are  not  established  or  not  used  to 
+
+facilitate fund raising by fraudulent entities. It is therefore important to specify integrity, 
+experience and solvency requirements applicable to crowdfunding platform owner and 
+the key persons associated with it. Therefore it is proposed that any online offering or 
+issue  or  sale  through  the  internet  can  be  made  only  through  a  SEBI  recognized 
+crowdfunding platform.  
+
+9.4.2 If it is intended to develop a framework for Crowdfunding Platform, the criteria for 
+
+eligibility or recognition need to be specified. 
+
+ 
+
+Page 41 of 66 
+
+9.4.3  The entities who can set up a crowdfunding platform or website and their roles and 
+
+responsibilities in different jurisdictions are as follows: 
+
+Jurisdiction  Roles and Responsibilities of Crowdfunding Platform 
+USA 
+
+If the online platform just lists an entrepreneur’s or company’s pitch, uses 
+a third party to manage the transfer of both cash and stock, and offers 
+general support services that don’t fall into these categories of activities, 
+it  can  register  as  a  crowdfund  investment  portal.  If  it  conducts  any  of 
+these activities, it must register as a full broker-dealer. 
+It has the following responsibilities: 
+
+• 
+
+•  directors, officers or  partners  (or any  person  occupying  a  similar 
+status or performing a similar function) are prohibited from having 
+any financial interest in an issuer using its services 
+required  to  take  steps  to  reduce  the  risk  of  fraud  by  obtaining  a 
+background  and  securities  enforcement  regulatory  history  check 
+on each officer, director, and person holding more than 20 percent 
+of  the  outstanding  equity  of  every  issuer  whose  securities  are 
+offered by such intermediary 
+Intermediary and its associated persons prohibited from accepting 
+an  investment  commitment  unless  the  investor  has  opened  an 
+account with the intermediary and the intermediary has obtained 
+from the investor consent to electronic delivery of materials 
+Intermediary  required  to  deliver  to  the  investors  educational 
+materials at the time of account opening 
+Intermediary required to disclose its compensation structure to the 
+investor 
+Intermediary  required  to  make  issuers'  information  available  at 
+least 21 days prior to the issue 
+Intermediary  to  ensure  that  an  investor's  investment  limit  is  not 
+breached before it makes an investment 
+Intermediary to provide communication channels on its website for 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+ 
+
+Page 42 of 66 
+
+• 
+
+investors  to  connect  amongst  themselves  as  well  as  for  an 
+investor to connect to an issuer 
+Intermediary to ensure that all proceeds are only provided to the 
+issuer  when  the  aggregate  capital  raised  from  all  investors  is 
+equal  to  or  greater  than  a  target  offering  amount,  in  case  it  is a 
+broker. In case of funding portal, since it cannot receive funds, it 
+would  direct  the  funds  to  a  qualified  third  party  like  bank,  which 
+then makes the transfer to the issuer once the proceeds equal or 
+exceed the target amount 
+
+•  Funding  portals  required  to  maintain  a  fidelity  bond  as  a 
+
+contingency fund 
+
+Crowdfunding platforms will be able to make direct offers to retail clients 
+for  a  period  of  12  months  so  long  as  the  investor  signs  a  Restricted 
+Investor Statement. 
+Crowdfunding  platforms  therefore  need  to  ensure  that  they  (a)  include 
+the name of the firm; (b) provide accurate information on the firm and not 
+emphasize potential benefits of the investment without also giving a fair 
+indication  of 
+in  an  easily 
+understandable  way;  and  (d)  not  disguise  or  hide  any  important 
+statements or warnings.  
+The FCA does not prescribe the level of due diligence which needs to be 
+undertaken  by  crowdfunding  platforms  to  assess  the  benefits  and  risks 
+involved with each particular investment. 
+
+the  risks;  (c)  present 
+
+the 
+
+information 
+
+UK 
+
+•  The  provider  has  fair,  orderly,  and  transparent  systems  and 
+
+procedures for providing the service: 
+
+•  The service is designed primarily for offers by persons other than 
+
+New Zealand 
+
+the provider and its associated persons: 
+
+•  The provider has an adequate policy for identifying and managing 
+the risk of fraud by issuers using the service (the anti-fraud policy) 
+that, at a minimum— 
+
+ 
+
+Page 43 of 66 
+
+(i) checks, against publicly available and readily accessible 
+information,  the  identity  of  the  issuer  and  information 
+provided by the issuer relating to the identity and character 
+of its directors and senior managers; and 
+(ii)  excludes  an  issuer  from  using  the  service  if  the 
+provider— 
+
+(A) is not satisfied as to the identity of the issuer or 
+of the issuer's directors and senior managers; or 
+(B)  has  reason  to  believe  that  any  of  the  issuer's 
+directors  or  senior  managers  are  not  of  good 
+character; or 
+(C)has reason to believe that the issuer is not likely 
+to  comply  with  the  obligations  imposed  on  it  under 
+the service 
+
+•  The  provider  has  adequate  disclosure  arrangements  to  give 
+investors,  or  to  enable  investors  to  readily  obtain,  timely  and 
+understandable information to assist investors to decide whether 
+to  acquire  the  shares  (for  example,  through  initial  disclosure,  or 
+question  and  answer  forums,  or  other  information  that  is  made 
+available) 
+
+•  The  provider  has  an  adequate  policy  (a fair  dealing  policy)  for 
+excluding  an  issuer  from  using  the  service  if  the  provider  has 
+information  (for  example,  from  checks  or  assessments  it  carries 
+out  (if  any))  that  gives  it  reason  to  believe  that  the  issuer,  in 
+relation to any dealing in shares using the service, has— 
+
+(i)  engaged  in  conduct  that  is  misleading  or  deceptive  or 
+likely to mislead or deceive; or 
+(ii)  made  a 
+contravention of section 22 of the Act; or 
+(iii)  made 
+unsubstantiated 
+contravention of section 23 of the Act: 
+
+false  or  misleading 
+
+representation 
+
+representation 
+
+in 
+
+an 
+
+in 
+
+ 
+
+Page 44 of 66 
+
+•  The  provider  has  adequate  systems  and  procedures 
+implementing the anti-fraud policy and the fair dealing policy: 
+
+for 
+
+•  The provider has adequate systems and procedures for ensuring 
+that  each  issuer  does  not  raise  more  than  $2 million  in  any  12-
+month period under the service: 
+
+•  The provider has adequate systems and procedures for handling 
+conflicts between the commercial interests of the provider (or of its 
+associated  persons)  and  the  need  for  the  provider  to  have  fair, 
+orderly, and transparent systems and procedures for providing the 
+service. 
+If a broking service is to be provided by the provider in the course 
+of providing the service, the provider is, or will be, registered under 
+the Financial  Service  Providers 
+(Registration  and  Dispute 
+Resolution)  Act  2008 for  the  broking  service  on  and  from 
+commencing to provide the broking service. 
+
+• 
+
+financial, 
+
+(including 
+
+•  The  website  operator needs  to  demonstrate  that  it  has  sufficient 
+technological  and  human 
+resources 
+resources)  and  adequate  other  arrangements 
+(including 
+arrangements  for  handling  of  conflicts  of  interest  involving  the 
+licensee)  to  ensure  that,  to  the  extent  that  it  is  reasonably 
+practicable to do so, the market a fair, orderly and transparent. 
+In  case,  a  CSEF  (Crowd  Sourced  Equity  Funding)    website  is 
+promoter of a company seeking funds through that website, it can 
+call  for  additional  disclosures  like  details  of  any  benefits  to  that 
+promoter. 
+
+• 
+
+•  Advertising restrictions on the CSEF website. 
+They are supposed to provide the following services: 
+
+•  Non-guaranteed placement 
+•  Order receipt-transmission on behalf of third parties (ORT) 
+•  Order execution on behalf of third parties  
+
+Page 45 of 66 
+
+Australia 
+
+France 
+
+ 
+
+•  Operation of a multilateral trading facility 
+• 
+
+Investment advice 
+
+Portals  must  comply  with  general  registrant  requirements  applicable  to 
+EMDs  (with  certain  exceptions),  including  minimum  capital,  insurance, 
+regulatory reporting, record-keeping and record-retention requirements. 
+Portals will be required to: 
+
+•  conduct  background  checks  on 
+
+issuers,  directors,  officers, 
+
+promoters and control persons, 
+
+•  understand the general structure, features and risks of a security 
+
+Canada 
+
+• 
+
+offered, 
+review  the  information  presented  by  the  issuer  on  the  portal's 
+website  to  confirm  that  the  information  adequately  sets  out  the 
+general features and structure of the security, issuer-specific risks, 
+parties  involved,  any  identified  conflicts  of  interest,  and  the 
+intended use of funds, 
+
+•  deny access to an issuer if it has reason to believe that the issuer 
+
+or its offering is fraudulent, and 
+
+•  provide investor education materials in plain language and obtain 
+
+a signed risk acknowledgement form from investors 
+  
+  
+  
+  
+  
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+  
+ 
+ 
+ 
+ 
+
+ 
+
+to set up a crowdfunding platform. 
+
+9.4.4 Recognition of Crowdfunding Platform  
+9.4.4.1  It is proposed that the entities who fall in any of the following classes be allowed 
+9.4.4.2  Class I Entities: 
+9.4.4.3  In addition to the entities mentioned above, it is proposed that the another class of 
+
+•  Recognized Stock Exchanges with nationwide terminal presence (RSEs) 
+•  SEBI registered Depositories  
+
+entities  with  relevant  experience  and   domain  knowledge  be  allowed  to  launch 
+
+ 
+
+Page 46 of 66 
+
+crowdfunding  platforms  to  ensure  a  healthy  competition  in  the  market,  provided  they 
+satisfy the requirements specified by SEBI. 
+
+9.4.4.4  Class II Entities: 
+
+•  Technology Business Incubators(TBIs)  
+
+o 
+
+such  as  NSTEDB 
+
+o  promoted  by  Central  Government  or  any  State  Government  through 
+bodies 
+(National  Science  &  Technology 
+Entrepreneurship  Development  Board)  under  Department  of  Science  & 
+Technology 
+functioning  as  a  society  registered  under  societies  act  of  1860/or  as  a 
+non-profit making section 8 company,  
+o  having at least 5 years of experience, 
+o  having a minimum net worth of Rs. 10 Crores 
+o  should have attained self-sufficiency and, 
+o  should display only those companies which share a common focus thrust 
+
+areas as the TBI 
+
+9.4.4.5    A  joint  venture  of  a  Class  I  entity  and  a  Class  II  entity  is  also  acceptable  for 
+
+setting up a Crowdfunding Platform as this would bring the best of both classes.  
+
+ 
+
+Question 10: While Class I entities are already under SEBI's purview and have a 
+successful  track  record  in  securities  market,  Class  II  entities  have  a  specialized 
+domain  knowledge  in  the  field  of  start  up  mentoring  and  funding.  Is  a  joint 
+venture between the two classes a better idea than to allow them to launch their 
+own crowdfunding platforms separately?  
+
+Question  11:  Any  suggestions  on  some  other  possible  entities  which  can  be 
+included in Class II with a tentative list of qualifying criteria?  
+
+ 9.4.4.6  To enable Fund based Crowdfunding (FbC), it is proposed that the new class of 
+
+Crowd Fund AIFs be allowed to be displayed on the platforms launched by RSEs and 
+depositories.  In  addition  to  these  platforms,  a  dedicated  class  of  platform  owners  is 
+
+ 
+
+Page 47 of 66 
+
+proposed  to  enable  FbC  launching  crowdfunding  platforms  provided  they  satisfy  the 
+requirements specified by SEBI. 
+
+9.4.4.7  Class III Entities: 
+
+•  Associations and Networks of PE or Angel Investors 
+
+o  with a track record of a minimum of 3 years 
+o  with  a  minimum  member  strength  of  100  active  members  from  the 
+
+o  which are registered as Section 8 companies under Companies Act 2013 
+
+relevant industry 
+
+with a paid up share capital of Rs. 2 Crores 
+
+9.4.4.8   Thus the platforms launched by Class I & Class III Entities can enable the FbC. 
+
+ 
+
+Question  12:  Any  suggestions  on  some  other  possible  candidates  which  can  be 
+included in Class  III for the purpose of providing platform for FbC? Also specify 
+their tentative qualifying criteria? 
+
+ 9.4.4.8    To  prevent  fraudulent  offering  of  securities  via  the  internet,  it  is  proposed  to 
+
+provide  that  no  entity  can  raise  funds  through  crowdfunding  without  channeling  their 
+issues  through  a  recognized  Crowdfunding  Platform,  subject  to  the  approval  of 
+Screening Committee. 
+ 
+
+9.4.5  Requirements on Crowdfunding Platform: 
+
+Taking  into  consideration  the  risky  nature  of  securities  offered,  the  Crowdfunding 
+platforms must play the role of a gatekeeper and take reasonable measures to reduce 
+the risk of frauds. This requires adequate capital, technological and human resources to 
+carry out the business in a complying manner. Thus it is proposed that the obligations of 
+such platforms shall be as under:  
+
+ 
+
+ 
+
+Page 48 of 66 
+
+• 
+
+• 
+
+• 
+
+• 
+
+to conduct screening and basic due diligence of the business of the start up. 
+However, no amount of due diligence can provide any form of guarantee of 
+the commercial success. 
+to  conduct  background  and  regulatory  checks  on  the  issuers,  whole  time 
+directors, promoters, shareholders holding more than 20% of equity shares in 
+the company 
+review  the  information  presented  by  the  issuer  on  the  portal's  website  to 
+confirm  that  the  information  adequately  sets  out  the  general  features  and 
+structure of the security, issuer-specific risks, parties involved, any identified 
+conflicts of interest, and the intended use of funds 
+to conduct due diligence of investors such as net worth requirement and KYC 
+requirement, if any, while maintaining the privacy of the investors 
+
+•  deny  access  to  an  issuer  if  it  has  reason  to  believe  that  the  issuer  or  its 
+
+offering is fraudulent 
+
+•  maintain  a  record  of  all  the  issues  brought  by  the  companies  and 
+subsequently  the  disclosures  of  the  issuing  companies  and  make  it  easily 
+accessible to the investors 
+
+•  collect and transmit information to SEBI as may be called for 
+
+ 
+
+Question  13:  Any  suggestions  on  some  additional  or  reduced    requirements  on 
+Crowdfunding Platforms? 
+
+ 9.4.6    Further,  to  ensure  a  seamless  operation  and  avoid  any  conflict  of  interest  a 
+
+Crowdfunding Platform shall also be required to satisfy the following conditions: 
+ 
+
+•  Platform needs to own the Domain ID/website/URL and mention the same in the 
+application  for  recognition  with  SEBI  and  should  have  adequate  systems  and 
+procedures to manage the daily operations as well as the emergency situations. 
+
+•  Platform  needs  to  have  adequate  human,  technology  and  risk  management 
+
+capabilities 
+
+•  Platform needs to have fair, orderly and transparent processes 
+•  Platform needs to have procedure to address possible conflicts which may arise 
+
+between issuers and the platform 
+
+•  Fund raising by subsidiaries/associates or other entities related to the Platform 
+
+Owners shall not be allowed 
+
+ 
+
+Page 49 of 66 
+
+•  An elaborate contingency/termination plan need to be formulated with minimum 
+impact on the investors, to ensure a seamless operation in the event of closure 
+or financial distress in the crowdfunding platform 
+
+•  Crowdfunding platforms shall not offer investment advice, solicit, manage funds 
+or securities, incentivize employees for such sale of securities displayed on the 
+platform or make recommendations to investors.  
+
+•  Only  accredited  investors  registered  with  a  crowdfunding  platform  can  invest 
+through that crowdfunding platform. Only Indian start-up companies or SMEs or 
+Crowd Funds can raise funds through these crowdfunding platforms. 
+
+•  Platform  shall  provide  a  Grievance  Redressal  mechanism  for  the  investors  as 
+
+well as the issuers 
+
+•  The task of due diligence of the issuing companies is very crucial to differentiate 
+a genuine issuer from a fraud. The due diligence, among other things, will involve 
+track  record  of  the  Promoters,  Directors,  Key  Managerial  Personnel,  business 
+carried on by the company, proposed business plans, Opportunities, Strategies, 
+Litigations, etc.  
+
+•  Apart from the basic due diligence, it is important that the platform puts in place 
+some sort of filtering mechanism to differentiate between the quality of ideas and 
+business plans. For this purpose, it is proposed that every crowdfunding platform 
+will  have  a  'Screening  Committee'  with  a  variety  of  experience  from  different 
+domains and sectors. 
+
+ 
+
+9.4.6.1  It is proposed that the Screening Committee of a Crowdfunding Platform may 
+
+have  a  strength  of  a  minimum  of  10  persons,  which  may  have  follow  the  following 
+composition: 
+
+•  at least 40% of the committee should be composed of professional with expertise 
+
+in mentoring of startups and early stage ventures, 
+
+•  at  least  30%  of  the  committee  should  be  composed  of  professionals  with 
+
+experience in banking or capital markets, 
+
+ 
+
+Page 50 of 66 
+
+ 
+
+•  not  more  than  30%  of  the  committee  should  be  composed  of  persons  of  high 
+caliber and qualifications which are nominated by the owner of the crowdfunding 
+portal, but not on its payrolls. 
+
+Question 14: Are the measures mentioned in paragraph 9.4.6 enough to ensure a 
+seamless operation of the Crowdfunding Platform and avoidance of any conflict 
+of interest? Suggest changes, if any, along with the rationale. 
+
+Question  15:  Any  suggestions  on  the  role  and  responsibility  of  the  screening 
+committee and its composition etc.? 
+
+intermediaries 
+
+like  brokers,  depository  participants  (DP), 
+
+ 9.4.7    Along  with  the  companies  raising  fund  by  crowdfunding  platform,  the  investors 
+
+also need to be subjected to a moderate level of due diligence. This is to make sure that 
+investors, particularly ERIs, are accredited and that they invest in accordance to the net 
+worth  conditions  specified  by  SEBI.  The  task  of  due  diligence  of  investors  in 
+crowdfunding could be given to the platform or some third parties which can be SEBI 
+registered 
+Investment 
+Advisers,  Portfolio  Managers  etc.  ERIs  and  HNIs  may  be  required  to  submit,  among 
+other  things,  a  net  worth  certificate  from  a  Chartered  Accountant  to  Stock  Broker 
+/Investment  Adviser/Portfolio  Manager  and  also  make  a  declaration  or  sign  a  'Risk 
+Acknowledgement' regarding the understanding of risks in their investments.  
+
+9.4.8    Crowdfunding  Platforms  may  charge  a  nominal  fee  from  the  company  seeking 
+
+funds through the platform and the accredited investors looking for a good investment 
+opportunity  in  the  companies  which  shall  be  displayed  on  the  website  only  after  a 
+comprehensive due diligence and screening. 
+
+ 
+
+ 
+
+Question  16:  Given  that  only  Accredited  Investors  may  be  allowed  to  invest 
+through  Crowdfunding  Platforms,  it  is  important  that  their  due  diligence  is 
+conducted  properly  to  confirm  their  eligibility.  Are  the  entities  mentioned  in 
+paragraph 9.4.4 capable in doing the same? Any suggestions in this regard? 
+
+Page 51 of 66 
+
+Question 17: Making the platform's revenue directly dependent on the fee from 
+the  issuers  may  lead  to  a  conflict  of  interest.  What  could  be  the  possible 
+alternative revenue mechanisms for the platforms which may eliminate or reduce 
+such conflicts? 
+
+Question  18:  Should  there  be  any  restriction  on  the  fee  charged  by  a 
+crowdfunding  platform  to  an  issuer  for  getting  access  to  the  platform  or  an 
+accredited investor for registration or should this be left as a commercial decision 
+by the platform based on market forces? 
+
+ 9.5  Equity based Crowdfunding (EbC) 
+9.5.1  This route, as the name suggests, enables the issuers to raise upto Rs. 10 Crores 
+
+online by issuing equity shares through a recognized crowdfunding platform and offering 
+equity  stake  in  their  business  to  the  accredited  investors  who  are  registered  with  the 
+platform. 
+
+platform may do so after it duly satisfies the due diligence and screening criteria set by 
+the platform.  
+
+ 9.5.2    A  company  desirous  of  raising  funds  by  EbC  route  through  a  crowdfunding 
+ 9.5.3  These issues shall be further subject to the following conditions: 
+
+•  No single investor shall hold more than 25% stake in a company. 
+•  The promoter(s) shall be required to maintain a minimum of 5% equity stake in 
+
+the company for at least 3 years. 
+
+follow the procedure as specified in paragraph 9.8. The Private Placement Offer Letter 
+will contain, inter alia, the disclosures as mentioned in paragraph 9.3. 
+
+ 9.5.4    The  issuers  shall  comply  with  the  requirements  specified  in  paragraph  9.2  and 
+ 9.5.5   The investors who invest in equity issues through EbC shall have rights of a equity 
+
+shareholder as given in the Companies Act. 
+ 
+
+ 
+
+Page 52 of 66 
+
+Question  19:  Any  suggestions  on  the  requirements  in  EbC  to  make  it  more 
+transparent and investor friendly? 
+
+online  by  issuing  debentures  or  debt  securities  through  a  recognized  crowdfunding 
+platform to the accredited investors who are registered with the platform. 
+
+ 9.6  Debt based Crowdfunding (DbC) 
+ 9.6.1  This route, as the name suggests, enables the issuers to raise upto Rs. 10 Crores 
+ 9.6.2    A  company  desirous  of  issuing  debt  securities  by  DbC  route  through  a 
+ 9.6.3  These issues shall be further subject to the following conditions: 
+
+crowdfunding platform may do so after it duly satisfies the due diligence and screening 
+criteria set by the platform and fulfills requirements as specified in paragraph 9.2. 
+
+•  The  debt  securities  issued  should  comply  with  requirements  specified  under 
+
+Companies Act or rules made thereunder applicable to debentures or bonds. 
+
+•  The issuer shall appoint a debenture trustee to hold the assets on behalf of the 
+
+investors. 
+
+•  The issuer shall need to create a Debenture Redemption Reserve (DRR) of 25% 
+
+of the value of the debentures. 
+
+ 9.6.4  The issuers shall follow the procedure as specified in paragraph 9.8. The Private 
+
+Placement Offer Letter in DbC shall contain, inter alia, the disclosures as mentioned in 
+paragraph 9.3 and a summarized term sheet as specified in the SEBI (Issue and Listing 
+of Debt Securities) Regulations, 2008. 
+
+ 9.6.5  The debentures holders shall have rights as given under the Companies Act.   
+
+ 
+
+Question  20:  Any  suggestions  on  the  requirements  in  DbC  to  make  it  more 
+transparent and investor friendly? 
+
+ 
+
+Page 53 of 66 
+
+Question 21: Is there any need to prescribe the limit on the leverage a company 
+can take through DbC? 
+
+Question  22:  Is  there  a  need  to  change  the  rules  regarding  appointment  of 
+Trustee  and  creation  of  Debenture  Redemption  Reserve  in  case  of  private 
+placement  of  debt  with  no  intention  of  listing  which  seeks  to  issue  debentures 
+through recognized crowdfunding platform? 
+
+ 9.7  Fund based Crowdfunding (FbC) 
+9.7.1  Under this route, the funds of the accredited investors registered with a recognized 
+
+platform will be collected online through the platform and pooled under the AIF to invest 
+in  shares  or  debt  securities  in  crowdfunded  ventures  which  are  displayed  on  a 
+recognized crowdfunding platform. 
+
+ 9.7.2    For  this  purpose,  it  is  proposed  to  provide  a  separate  class  of  funds  under 
+
+Category I AIFs to offer Fund based Crowdfunding as Category I AIF- Crowd Funds. 
+The minimum and maximum corpus of such funds would be Rs. 10 Crores and Rs. 25 
+Crores respectively. 
+
+ 9.7.3  As per the SEBI (AIF) Regulations, 2012, such funds will be able to solicit funds 
+
+online from a maximum of 1,000 accredited investors. The requirement of the minimum 
+investment of Rs. 1 Crore by every investor for an AIF is also proposed to be relaxed for 
+this new class and brought to Rs. 25 Lacs. Under the proposal, funds can be solicited 
+online  from  upto  1,000  accredited  investors  registered  with  a  platform  by  displaying 
+Crowd Funds on the crowdfunding platforms set up by class I or III entities as specified 
+in paragraph 9.4.4.  
+
+ 9.7.4  All the accredited investors viz. QIBs, Companies, HNIs and ERIs will be able to 
+
+invest in these funds. These pooled monies will be then invested by Crowd Fund AIFs 
+into  start  ups  and  SMEs  displayed  on  a  recognized  crowdfunding  platform  under  the 
+terms  or  objectives  of  the  scheme.  The  sponsor  or  manager  need  to  maintain  a 
+
+ 
+
+Page 54 of 66 
+
+continuing interest of at least 2.5% of the corpus in the form of investment in the fund 
+and such interest shall not be through the waiver of management fees. 
+
+ 9.7.5    This  new  class  of  Category  I  AIF-Crowd  Funds,  can  also  solicit  funds  online 
+
+through crowdfunding platforms from the registered accredited investors, for deploying 
+them further into donation based crowdfunding. Thus Crowd Funds may also invest in 
+those  companies  displayed  on  the  crowdfunding  platforms  which  are  incorporated  as 
+not-for-profit  entities  or  social  enterprises  set  up  as  Section  8  companies  under 
+Companies  Act  2013,  for  charitable  or  community  benefit  or  other  public  interest 
+projects, with investors focusing more on altruistic reasons or general benefits, rather 
+than any expectation of financial return to them.  
+
+minimum per capita investment can be set at Rs. 50,000. The grantor of donation shall 
+not be entitled to any dividend or profit or gain. 
+
+ 9.7.6    Further  for  accepting  donation  from  the  registered  accredited  investors,  the 
+ 9.7.7  These Category I AIF Crowd Funds shall register with SEBI under the SEBI (AIF) 
+
+Regulations  and  the  application  shall  be  made  in  the  format  as  specified  in  the  First 
+Schedule  to  the  said  regulation  under  Form  A.  The  disclosures  in  the  Placement 
+Memorandum  of  the  Crowd  Funds  shall  be  similar  to  Category  I  AIF-  VCFs.  The 
+ongoing disclosures and valuation requirements shall also be similar to the VCFs. The 
+disclosures  are  mainly  related  to  disclosures  on  fees  and  charges,  management  of 
+conflicts  of  interest,  investments  and  leverage,  a  prudent  spread  of  risk  and  other 
+safeguards.  
+
+ 9.7.8  The  Crowd  Funds  can,  post  registration  with  SEBI,  get  displayed  on  any 
+
+Crowdfunding Platform set up by either Class I or Class III entities,  to raise funds from 
+a maximum of 1000 accredited investors (including QIBs, Companies, HNIs and ERIs) 
+registered  with  the  platform  through  issue  of  placement  memorandum.  The  Crowd 
+Funds may not be required to be subjected to the scrutiny of the Screening Committee 
+of  the  platform.  The  Crowd  Funds  can  channel  the  funds  raised  from  its  investors 
+
+ 
+
+Page 55 of 66 
+
+through the platform into various companies which are displayed on the crowdfunding 
+platform. Units of such funds may be issued only in dematerialized form. 
+
+ 9.7.9 In contrast to EbC where the accredited investors directly hold equity of issues and 
+
+are  shareholders  of  the  company  and  therefore  have  legal  ownership,  in  FbC  the 
+investments of registered accredited investors are pooled and routed online through a 
+Crowd Fund. The fund holds the equity in its name on behalf of the investors who are 
+issued units of the fund rather than equity of the issuer, and thus have only beneficial 
+ownership in the equity of the company. 
+
+ 9.7.10  FbC  addresses  several  regulatory  issues  like  the  restriction  on  the  number  of 
+
+offers  made  in  private  placement,  minimum  investment  of  Rs.  20,000  worth  of  face 
+value of securities by every investor etc. It also transfers the duty of investment decision 
+making  from  ERIs  and  HNIs,  who  are  not  well  versed  with  different  investment 
+strategies, to the fund managers, who are experts in this type of investment analysis.  
+
+ 9.7.11  The  requirement  on  ERIs  to  be  consulted  by  a  SEBI  registered  Investment 
+
+Adviser or Portfolio Manager may not be applicable for investment through FbC. 
+ 
+
+Question  23:  Any  suggestions  on  the  requirements  in  FbC  to  make  it  more 
+transparent and investor friendly? 
+
+ 9.8  Procedure for offering through a Crowdfunding Platform 
+ 9.8.1  There  is  restriction  on  public  offering  other  than  a  prospectus  based  offer  and 
+9.8.2  A step-wise illustrative procedure is given as under: 
+
+mandatory  listing  except  for  private  placement  of  securities.  Therefore  it  has  been 
+proposed  that  the  offer  can  be  made  through  a  web  based  recognized  crowdfunding 
+platform only to accredited investors who have been given access to the platform.  
+
+ 
+
+Page 56 of 66 
+
+•  An  issuer,  satisfying  the  requirements  as  specified  in  paragraph  9.2  and 
+interested in raising funds, gets displayed on a recognized crowdfunding platform 
+by submitting requisite documents and undergoing due diligence and screening 
+by the platform. 
+
+•  The crowdfunding platform also maintains a list of accredited investors who have 
+been given access to the platform to invest in the companies displayed on it. The 
+accredited  investors  are  allowed  to  register  only  after  examination  of  KYC 
+compliances and fulfillment of other requirements like net worth, appropriateness 
+test, signing of Risk Acknowledgement etc. as mentioned in paragraph 9.1. Post 
+registration,  these  accredited  investors  are  given  a  Login  ID  and  password  to 
+access the platform. 
+
+•  Post  screening  by  the  Screening  Committee  of  the  crowdfunding  platform,  the 
+companies interested in raising funds through the platform can put up a notice 
+containing the brief of their business plan on the platform along with the funds 
+required. 
+
+•  This notice will be subjected to an open discussion on a forum or public board, 
+like a chat room or chat board, provided by the platform, amongst the interested 
+accredited investors and the issuer in which the proposed business plan will be 
+analyzed  and  critiqued  from  different  perspectives.  This  feature  is  provided  to 
+gauge the interest of the accredited investors and support an informed decision 
+making by the prospective investors. 
+
+•  The  notice  is  intended  to  draw  the  attention  of  accredited  investors  registered 
+with the platform and not an invitation to subscription. After perusing the plan and 
+discussing  it,  the  interested  accredited  investors  can  make  a  commitment  or 
+pledge to the company about the funds they intend to invest.  
+
+•  Once  adequate  demand  is  gauged,  the  issuer  may  make  the  formal  offer  for 
+subscription to those who have made commitment, not numbering more than 200 
+HNIs,  ERIs  and  Companies  collectively,  and  any  number  of  QIBs,  with  the 
+detailed online Private Placement Offer Letter, which inter alia may contain the 
+disclosures  mentioned  in  paragraph  9.7.  This  shall  amount  to  an  invitation  or 
+offer  for  subscription  and  shall  be  in  compliance  with  the  Section  42  of  the 
+
+ 
+
+Page 57 of 66 
+
+Companies  Act,  2013  and  other  rules  and  regulations  pertaining  to  private 
+placement of securities. 
+
+•  Pursuant to perusing the Private Placement Offer Letter, the accredited investors 
+may  choose  to  invest  in  the  company  or  may  decide  to  withdraw  their 
+commitment.  
+
+•  The  subscription  amount  shall  be  collected  from  the  accredited  investors  who 
+choose  to  invest  pursuant  to  perusal  of  Private  Placement  Offer  Letter  of  the 
+issuer and kept in a separate bank account. The crowdfund platform owner or a 
+reputed designated third party shall open an escrow account with a Scheduled 
+Commercial Bank to hold the subscription funds of the investors. 
+
+•  The issue shall remain open for a maximum period of 15 days. 
+•  The crowdfunding issue will be considered successful only if it is able to achieve 
+a minimum pre-specified threshold, expressed in terms of percentage of original 
+issue  size  as  mentioned  in  the  Private  Placement  Offer  Letter.  This  threshold 
+shall never fall below 50%. The subscription amount shall be transferred to the 
+issuer by the platform owner or the designated third party, only if the threshold is 
+achieved. 
+
+•  The  issuer  shall  allot  the  securities  to  the  accredited  investors  who  have 
+subscribed to the issue within 15 days from the date of receipt of the subscription 
+money. In case it fails to do so, it shall refund the entire sum to the subscribers 
+within 15 days from the date of completion of 15 days. In case the issuer fails to 
+refund  the  money  within  the  aforesaid  period,  it  shall  be  liable  to  refund  that 
+money with interest at the rate of 12% per annum from the expiry of fifteenth day 
+of securities allotment.  
+
+•  The issuer shall file a return with RoC as required under Companies Act 2013. 
+• 
+
+In case of FbC, the procedure as mentioned in paragraph 9.7 and particularly in 
+9.7.8, shall be applicable. 
+
+ 
+
+ 
+
+Question 24: Any suggestion to simplify the procedure as specified in paragraph 
+9.8 within the existing legal framework? 
+
+Page 58 of 66 
+
+9.9  Secondary Market 
+9.9.1    Crowdfunding  is  intended  to  facilitate  capital  raising  through  online  medium  by 
+
+startups and SMEs and not for the resale of securities. There is no requirement of listing 
+for trading and no listing obligation on the issuer. Crowdfunding platforms only allow an 
+issuer to sell its own securities to raise capital and seldom provide a secondary market 
+for  such  securities.  Therefore  many  jurisdictions  have  imposed  restriction  on  a 
+secondary market of securities issued through crowdfunding. 
+
+9.9.2  However different jurisdictions have prescribed provisions for providing some exit 
+
+to the securities holders of crowdfunded ventures as given under: 
+
+Jurisdiction  Provisions for Secondary Market  
+
+Securities  issued  in  crowdfunding  may  not  be  transferred  by  the  
+purchaser  for  one  year  after  the  date  of  purchase,  except  when 
+transferred:  (1)  To  the  issuer  of  the  securities;  (2)  to  an  accredited 
+investor; (3) as part of an offering registered with the Commission; or (4) 
+to a family member of the purchaser or the equivalent, or in connection 
+with certain events, including death or divorce of the purchaser, or other 
+similar circumstances, in the discretion of the Commission. 
+After  purchasing  unlisted  equity  in  a  company,  even  if  it  remains  a 
+going-concern,  investors  will  usually  find  there  is  no, or  only  a  limited, 
+secondary  market  for  their  investments.  Consumers  investing  in  such 
+equity need to understand that they will probably have to wait until an 
+event occurs, such as the sale of the company, a management buy-out 
+or a flotation, before getting a return. Consumers should realize that, in 
+the  event  of  their  death,  ownership  of  these  investments  will  probably 
+need to be transferred to their beneficiaries. 
+
+This matter has not yet been clarified. Requested for public comments.  
+
+This matter has not yet been clarified. Requested for public comments. 
+• Securities of a reporting issuer are subject to a four-month hold period 
+(subject to certain other conditions being met). 
+•  Securities  of  a  non-reporting  issuer  are  subject  to  an  indefinite  hold 
+
+Page 59 of 66 
+
+USA 
+
+UK 
+
+New 
+Zealand 
+Australia 
+
+Canada 
+
+ 
+
+period and can only be resold under a prospectus exemption or under a 
+prospectus. 
+
+ 
+
+9.9.3    In  the  Indian  scenario  also,  it  is  difficult  to  provide  a  secondary  market  trading 
+
+framework for the companies displayed on a crowdfunding platform, as then it would be 
+treated as a Stock Exchange.  Hence, companies displayed on Crowdfunding Platforms 
+will not be treated as “Listed Companies” and there will be no secondary market liquidity 
+in such scrips and investors should be made aware about such risks before investing in 
+such companies. 
+
+9.9.4    The  securities  issued  in  crowdfunding  by  the  issuer  can  be  transferred  by  the 
+
+investors as under: 
+
+• 
+
+• 
+• 
+
+to the issuer of the security in accordance with the provisions of Companies Act 
+2013 and the rules made thereunder, pertaining to the buyback of securities by 
+unlisted public limited companies, 
+to another accredited investor registered with the platform, 
+to  a  family  member  or  relative  or  friend  of  the  accredited  investor  or  the 
+equivalent. 
+
+stake in the company for at least three years from the date of the issue. 
+
+9.9.5  The promoter(s), however, shall be required to maintain a minimum of 5% equity 
+9.9.6    The investor may get exit only when there is sale of the company, a management 
+9.9.7  If there is any shareholder agreement between promoters of the issuing company 
+
+buyout or a floatation of IPO or listing of company on a recognized stock exchange in 
+SME segment or main board. 
+
+and any AIF giving rights to such shareholders to sell their shares to the promoters etc., 
+same shall be disclosed to all the accredited investors. 
+
+ 
+
+ 
+
+Page 60 of 66 
+
+Question 25: Any suggestion on additional avenues of exit or liquidity of securities 
+in crowdfunding? 
+
+ 9.10  Protection from Cybercrimes 
+9.10.1  Crowdfunding  Platform/Website  is  the  center  point  of  interaction  between  the 
+
+companies and the prospective investors. Moreover it will also function as the repository 
+of  all  the  information  and  disclosures  provided  by  the  companies  periodically.  It 
+occupies  a  very  crucial  position  in  the  entire  infrastructure.  Therefore  it  needs  to  be 
+secure and safe from all types of cyber-attacks. 
+
+necessary steps need to be taken by the owners of the Crowdfunding Platform.  
+
+9.10.2  To  protect  the  Crowdfunding  platform  from  hacking/identity  theft,  etc.,  the 
+9.10.3  To provide communication security over the Internet, the crowdfunding platforms 
+
+should  be  layered  over  Transport  Layer  Security (TLS)/  Secure  Sockets  Layer (SSL). 
+Platform  owner  should  ensure  safety,  secrecy,  integrity  and  retrievability  of  the  data. 
+The  platform  owner  shall  have  a  adequate  back-up,  and  Disaster  management  and 
+recovery and restoration plans. 
+
+9.10.4  It is desirable that platform owners draft a security policy which shall, then, be put 
+
+in public for comments and analysis. There shall be regular audits by reputed external 
+auditors who is CISA (Certified Information Systems Auditor) or otherwise appropriately 
+qualified that  the  security  measures  taken  by  the  Platform  Owners  are  adequate and 
+meet the requirements and that risk management systems are in place to identify and 
+mitigate the risks arising out of the regular operations. 
+
+ 
+
+ 
+
+ 
+
+Question 26: What kind of security features and IT Policies should be put in place 
+to  make  the  crowdfunding  platform  safe  and  secure  from  all  sorts  of  cyber 
+crimes? 
+
+Page 61 of 66 
+
+9.11  Tax Treatment 
+
+Taxation of funds raised through crowdfunding shall be in accordance with the current 
+tax provisions applicable to the unlisted companies raising funds through equity or debt 
+or an AIF. 
+
+ 
+
+ 
+
+Question  27:  Crowdfunding  is  intended  to  perform  the  role  of  an  alternate 
+funding option for entrepreneurs and investment option for investors in unlisted 
+companies  or  Crowd  Funds.  With  this  view,  what  kind  of  taxation  treatment 
+would be suitable for the different stakeholders involved? 
+
+ Role of SEBI 
+
+10.0 
+10.1  SEBI  has  been  established  with  a  triple  mandate  of  protecting  the  investors' 
+interests along with developing and regulating the Indian securities market. These are 
+the guiding principles behind our policies and regulations. Therefore, to enable the small 
+issuers  to  raise  funds  and  facilitate  the  investors  in  an  informed  decision  making, 
+appropriate safeguards and disclosures are proposed to be put in place.  
+
+10.2    SEBI's  role  in  crowdfunding,  which  is  proposed  to  provide  a  cost  effective  and 
+efficient method of fund raising, will mainly be limited to: 
+
+recognition of the Crowdfunding Portals 
+
+• 
+•  oversight and regulation of the Crowdfunding market in India 
+•  playing  no  role  in  vetting  of  the  Private  Placement  Offer  letter  of  the  issuing 
+
+• 
+
+companies 
+issuance of guidelines/circular regarding information required to be disclosed in 
+Private  Placement  Offer  Letter  or  on  an  ongoing  basis  or  requirements  of  due 
+diligence and screening or any other matter 
+
+•  conduct  of  periodic  inspections  or  audits  of  Crowdfunding  Platforms  and 
+
+enforcement of Crowdfunding Regulations 
+
+ 
+
+ 
+
+Page 62 of 66 
+
+11.0  Cost and Benefit Analysis of the Proposal 
+11.1    The  proposed  structure  for  crowdfunding  will  provide  an  enabling  framework. 
+Crowdfunding may provide  an alternative source of capital for entrepreneurs that either 
+have limited access to capital or have exhausted other available sources of capital. This 
+also saves the entrepreneur from a lot of effort required in  obtaining capital and allows 
+him/her to focus on the business.  
+
+11.2  One of the objectives of the regulations is to reduce the costs involved in raising 
+funds  for  entrepreneurs.  Under  the  existing  regulations,  an  issuer  is  required  to  pay 
+underwriter fees, legal and accounting fees, registrar and transfer agent fees, merchant 
+banker  fees, marketing  &  advertising  fees  or  distribution  commissions  and  other  fees 
+some of which may not be applicable in crowdfunding. 
+
+11.3  Crowdfunding facilitates such entrepreneurs in raising funds without incurring too 
+much  of  the  costs  by  doing  away  with  the    requirement  of  appointing  a  merchant 
+banker, marketing & advertising expenses and book building etc. Further, there shall be 
+no  listing  requirements  and  no  prospectus  needs  be  filed  with  SEBI.  However,  a 
+company seeking display in recognized crowdfunding platform may be required to pay 
+fees to such platform, which is expected to be substantially lower in comparison to the 
+current issue expenditure. The fees to a platform may be dependent on various factors 
+like number of platforms in the market, number of companies seeking display at such 
+crowdfunding platforms etc.  
+
+11.4  Crowdfunding not only helps the issuers to raise money but also serves as a way 
+of  advertising  for  these  companies.  It  helps  in  increasing  their  visibility  which  can 
+directly or indirectly lead to the growth in their businesses. Crowdfunding is expected to 
+spur entrepreneurship and benefit the entire economy.  
+
+11.5    Crowdfunding  also  enables  investors  to  make  relatively  modest  investments 
+across a range of opportunities with relatively low transaction costs and obtain equity 
+positions in companies that may eventually prove to be successful and profitable, which 
+they  are  not  able  to  do  under  the  current  regulations.  Platforms  may  also  charge  a 
+nominal  fee  to  its  registered  accredited  investors  for  carrying  out  their  due  diligence. 
+
+ 
+
+Page 63 of 66 
+
+Platforms may also be required to pay some fee for recognition. Consultation process 
+may assist in crystallizing such charges for the new framework. 
+
+ 
+
+12.0  Public comments: 
+12.1. Public comments and suggestions are solicited on the consultation paper. It does 
+not  necessarily  imply  that  all  or  any  of  the  comments  will  be  invariably  accepted  for 
+formulation of regulation. Interested persons may send their comments by e-mail to Mr. 
+Aditya Sarda (adityas@sebi.gov.in) or Mr. Ankit Goel (ankitg@sebi.gov.in) on or before 
+July 16, 2014
+ 
+12.2  Comments and suggestions should be given in the following format: 
+
+.  
+
+Name of Entity / Person / Intermediary 
+
+Question  No./  Suggestion 
+on Paragraph No. 
+ 
+ 
+ 
+ 
+Issued on:  June 17, 2014
+. 
+
+Proposal 
+Changes 
+ 
+ 
+ 
+
+/ 
+
+Suggested 
+
+Rationale 
+
+ 
+ 
+ 
+
+*********** 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclaimer:  References  to  various  jurisdictions  in  this  document  have  been  based  on  the  regulations/guidelines/consultation 
+papers, etc. of the respective country regulators and news articles/websites and other secondary sources. The references in no way 
+indicate validation of any country regulations on the subject. The purpose of the said references is only to provide the reader  a 
+better picture of the global scenario with respect to crowdfunding. This paper should not be construed as a legal advice. Though 
+utmost  care  has  been  taken  in  the  preparation  of  the  paper,  SEBI  takes  no  responsibility  for  the  accuracy  or  validity  of  the 
+information provided. 
+
+ 
+
+ 
+
+Page 64 of 66 
+
+Annexure-1 
+
+Consolidated List of all Questions  
+
+Question 
+
+Given that Crowdfunding is still in nascent stages and most of the jurisdictions around the world have 
+taken a guarded view by allowing it in a restricted manner, do you think India is ready for crowdfunding or 
+is it premature to introduce such risky investment channel ? 
+Are the Accredited Investors mentioned in paragraph 9.1.4 suitable to participate in the risky investments 
+of crowdfunding? Is there a need to expand or reduce the categories of investors or expand or reduce 
+safeguards? Specify along with the rationale. 
+Are the Investment Limits specified in paragraph 9.1.5 justifiable with respect to the respective investor 
+classes? Are they too high or too low? Specify along with rationale. 
+Is  the  limit  of  investors  upto  200  besides  QIBs  or  employees  of  the  company  under  a  scheme  of 
+employees  stock  option,  as  specified  in  Chapter  III  -  The  Companies  (Prospectus  and  Allotment  of 
+Securities) Rules, 2014, adequate or is there a need to amend such rules to allow upto 1,000 investors, 
+excluding QIBs or employees of the company under a scheme of employees stock option? 
+Are  the  Investment  Conditions  mentioned  in  the  paragraph  9.1.6  enough  to  warn  and  guard  investors 
+regarding the risky nature of crowdfunding? Specify changes, if any, along with the rationale. 
+Given that the companies coming for crowdfunding lack any significant track record, are the conditions 
+and requirements mentioned in paragraph 9.2 enough to fend off fraudulent issuers? Specify changes, if 
+any, along with the rationale. 
+Are the disclosure requirements for a company interested in raising funds through crowdfunding platform 
+mentioned  in  paragraph  9.3.3,  enough  to  enable  investors  in  an  informed  decision  making  ?  Specify 
+changes, if any, along with the rationale. 
+Due to the lack of history and track record, it is important that the issuers provide future projections of 
+their  business to facilitate investors in decision making. What should be the criteria to ensure that the 
+projections are realistic and achievable and not misguiding in nature? 
+What  should  be  the  continuous  disclosure  requirements  for  a  company  once  it  gets  displayed  on  the 
+platform? How it should be ensured that there is no information asymmetry between various prospective 
+investors? 
+While Class I entities are already under SEBI's purview and have a successful track record in managing 
+issues  and  securities,  Class  II  entities  have  a  specialized  domain  knowledge  in  the  field  of  start  up 
+mentoring and funding. Is  a joint venture between the two classes a better idea than to allow them to 
+launch their own crowdfunding platforms separately? 
+Any suggestions on some other possible entities which can be included in Class II with a tentative list of 
+qualifying criteria? 
+
+Page 65 of 66 
+
+Question 
+
+No. 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q5 
+
+Q6 
+
+Q7 
+
+Q8 
+
+Q9 
+
+Q10 
+
+Q11 
+
+ 
+
+Any suggestions on some other possible entities which can be included in Class  III for the purpose of 
+providing platform for FbC? Also specify their tentative qualifying criteria? 
+Any suggestions on some additional or reduced requirements on Crowdfunding Platforms? 
+Are  the  measures  mentioned  in  paragraph  9.4.6  enough  to  ensure  a  seamless  operation  of  the 
+Crowdfunding Platform and avoidance of any conflict of interest? Suggest changes, if any, along with the 
+rationale. 
+Any suggestions on the role and responsibility of the screening committee and its composition etc.? 
+Given  that  only  Accredited  Investors  may  be  allowed  to  invest  through  Crowdfunding  Platforms,  it  is 
+important  that  their  due  diligence  is  conducted  properly  to  confirm  their  eligibility.  Are  the  entities 
+mentioned in paragraph 9.4.4 capable in doing the same? Any suggestions in this regard? 
+Making the platform's revenue directly dependent on the fee from the issuers may lead to a conflict of 
+interest.  What  could  be  the  possible  alternative  revenue  mechanisms  for  the  platforms  which  may 
+eliminate or reduce such conflicts? 
+Should there be any restriction on the fee charged by a crowdfunding platform to an issuer for getting 
+access to the platform or an accredited investor for registration or should this  be left as a commercial 
+decision by the platform based on market forces? 
+Any suggestions on the requirements in EbC to make it more transparent and investor friendly? 
+Any suggestions on the requirements in DbC to make it more transparent and investor friendly? 
+Is there any need to prescribe the limit on the leverage a company can take through DbC? 
+Is  there  a  need  to  change  the  rules  regarding  appointment  of  Trustee  and  creation  of  Debenture 
+Redemption Reserve in case of private placement of debt with no intention of listing which seeks to issue 
+debentures through recognized crowdfunding platform? 
+Any suggestions on the requirements in FbC to make it more transparent and investor friendly? 
+Any  suggestion  to  simplify  the  procedure  as  specified  in  paragraph  9.8  within  the  existing  legal 
+framework? 
+Any suggestion on additional avenues of exit or liquidity of securities in crowdfunding? 
+What kind of security features and IT Policies should be put in place to make the crowdfunding platform 
+safe and secure from all sorts of cyber crimes? 
+Crowdfunding  is  intended  to  perform  the  role  of  an  alternate  funding  option  for  entrepreneurs  and 
+investment  option  for  investors  in  unlisted  companies  or  Crowd  Funds.  With  this  view,  what  kind  of 
+taxation treatment would be suitable for the different stakeholders involved? 
+
+Page 66 of 66 
+
+Q12 
+
+Q13 
+
+Q14 
+
+Q15 
+
+Q16 
+
+Q17 
+
+Q18 
+
+Q19 
+Q20 
+Q21 
+
+Q22 
+
+Q23 
+
+Q24 
+
+Q25 
+
+Q26 
+
+Q27 
+
+ 
+
+ 
+
+

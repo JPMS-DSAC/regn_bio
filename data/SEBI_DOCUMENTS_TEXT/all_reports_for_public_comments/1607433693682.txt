@@ -1,0 +1,934 @@
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+Securities and Exchange Board of India 
+
+ 
+
+Consultation Paper - Compliance Standards for Index 
+
+Providers 
+
+1.  Objective 
+
+To solicit the comments / views from market participants on compliance standards 
+for  index  providers,  to  enhance  greater  level  of  transparency,  promoting  the 
+reliability of benchmark determinations, addressing benchmark governance and 
+accountability mechanisms, by providing a broad framework for index providers 
+managing / maintaining Indices. 
+
+ 
+
+2.  Background 
+
+2.1. To  create  an  overarching  framework  of  Principles  for  Benchmarks  used  in 
+financial  markets,  the  International  Organization  of  Securities  Commissions 
+(IOSCO) published a report in July 2013, proposing a framework of standards 
+for financial benchmarks (or indices) based on international best practices.  The 
+framework  promotes 
+independence  of  benchmark 
+administration  and  addresses  governance,  quality, 
+transparency  and 
+accountability issues. IOSCO report does not expect a one-size-fits-all method 
+of implementation of the framework, nor does it restrict an administrator from 
+adopting  its  own  unique  methodologies  or  adapting  the  methodologies  to 
+changing market conditions.  IOSCO adherents are expected to either comply 
+with the IOSCO principles or explain any non-compliance. 
+ 
+
+reliability  and 
+
+2.2. In addition to the principle prescribed by IOSCO, several foreign jurisdictions 
+have  articulated  their  own  framework  tailored  to  the  requirements  in  their 
+respective jurisdiction. 
+
+ 
+
+2.3. In light of above, it is proposed to prescribe a set of compliance standards for 
+index  providers  in  order  to  ensure  quality  and  integrity  of  the  indices 
+administered, maintained or calculated by the index providers. 
+
+ 
+
+3.  Index  Methodology  -  Broad  Market  Indices  (Domestic  and  International 
+
+practices) 
+ 
+3.1. The  broad  market  indices  are  constructed  to  represent  the  performances  of 
+large  universe  of  companies  traded  on  an  exchange  (domestic  or 
+international).    Thus,  the  process  and  criteria  for  selection  of  representative 
+stocks  in  such  broad  market  indices  is  of  critical  importance.  A  high  level 
+
+ 
+
+Page 1 of 14 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+Securities and Exchange Board of India 
+
+ 
+
+summary1  of  the  approaches  adopted  by  index  providers  in  India  and 
+internationally is briefly described below.  
+ 
+
+3.2. Stock Universe and Stock Selection Process/ Criteria 
+
+ 
+
+3.2.1. Nifty 50: (Source: https://www.nseindia.com) 
+
+Universe: Constituents of NIFTY 100 index are eligible for inclusion in 
+the NIFTY 50 index.  The Nifty 50 consists of the largest 50 stocks by free 
+float  market  capitalization  and  liquidity,  subject  to  stock  selection 
+criteria as given below.  
+
+ 
+
+Stock selection criteria: 
+i. 
+
+Stock should be available for trading in NSE’s Futures & Options 
+segment. 
+
+ii.  The  company’s  trading  frequency  should  be  100%  in  the  last  six 
+
+months. 
+
+iii.  For  inclusion  in  the  index,  the  security  should  have  traded  at  an 
+average impact cost of 0.50 % or less during the last six months for 
+90% of the observations for a portfolio of Rs. 10 crores. 
+
+iv.  Companies will be eligible for inclusion in NIFTY 50 index provided 
+the average free-float market capitalization is at least 1.5 times the 
+average free-float market capitalization of the smallest constituent 
+in the index. 
+
+v.  As part of the semi-annual reconstitution of the index, a maximum 
+of 10% of the index size (number of companies in the index) may be 
+changed  in a calendar year. However, the limit of maximum 10% 
+change shall not be applicable for any exclusion of a company on 
+account of scheme of arrangement as stated above. 
+
+ 
+3.2.2. S&P BSE SENSEX 30: (Source: https://asiaindex.co.in) 
+
+Universe: Constituents of S&P BSE 100 index are eligible for inclusion 
+in the S&P BSE Sensex 30 index.  The S&P BSE Sensex 30 consist of 30 
+largest, most liquid and financially sound companies that are listed at 
+BSE. 
+
+ 
+ 
+
+                                                           
+1 The information presented in this paper (unless specified otherwise) has been compiled from public available 
+information (respective websites) of index providers / stock exchanges. 
+
+ 
+
+Page 2 of 14 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+Stock selection criteria: 
+i.  The stock must have traded on every trading day at BSE during 6 
+
+month during reference period. 
+
+ii.  All  companies  meeting  the  eligibility  factors  are  ranked  based  on 
+their average 6 month float adjusted market capitalization.  Top 75 
+companies are identified. 
+
+iii.  All  companies  meeting  the  eligibility  factors  are  ranked  based  on 
+their average 6 month total market capitalisation.  Top 75 companies 
+are identified. 
+
+iv.  All  companies  identified  based  on  above  are  then  combined  and 
+sorted  on  their  annualized  traded  value.  Companies  with  a 
+cumulative annualized traded value greater than 98% are excluded 
+v.  The remaining companies are then sorted by average 6 month float 
+adjusted  market  capitalization.  Companies  with  a  weight  of  less 
+than 0.5% are excluded. 
+
+vi.  Remaining companies from step (v.) are then ranked based on their 
+average  6  month  float  adjusted  market  capitalization  and  are 
+selected for index inclusion according to the following rules: 
+(a).  The top 21 companies (whether a current index constituent or 
+inclusion  with  no  sector 
+
+index 
+
+for 
+
+not)  are  selected 
+consideration. 
+
+(b).  Existing  constituents  ranked  22-39  are  selected  in  order  of 
+highest rank until the target constituent count of 30 is reached. 
+(c).  If  after  this  step,  the  target  constituent  count  is  not  achieved, 
+then  non-constituents  ranked  22-30  are  selected  giving 
+preference 
+is 
+underrepresented  in  the  index  as  compared  to  the  sector 
+representation in S&P BSE All Cap. 
+
+companies  whose 
+
+sector 
+
+those 
+
+to 
+
+(d). If  after  this  step,  the  target  constituent  count  is  still  not 
+achieved, non-constituents are selected in order of highest rank 
+until target constituent count is reached. 
+
+vii.  Annualized traded value is calculated by taking the median of the 
+monthly  medians  of  the  daily  traded  values  over  the  six-month 
+period.  The annualization is calculated using 250 trading days in a 
+year. 
+
+viii. All additions and deletions are made at the discretion of the index 
+
+committee. 
+
+ 
+
+Page 3 of 14 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+3.2.3. FTSE 100: (Source: https://www.ftserussell.com) 
+
+Universe: The FTSE 100 consist of the largest 100 UK companies by full 
+market  capitalization  (i.e.  before  the  application  of  any  investability 
+weightings) which will qualify for inclusion in the index. 
+ 
+Stock selection criteria: 
+i.  Minimum  free  float:  To  be  eligible  for  inclusion  in  the  FTSE  UK 
+Index Series, a security must have a minimum free float of 25% if 
+the issuing company is UK incorporated and greater than 50% if it 
+is non-UK incorporated.  However, a new company may be initially 
+included  in  the  FTSE  UK  Index  Series  with  a  free  float  below  the 
+above parameters (provided it is above 5%*) where the free float is 
+expected to meet the minimum requirements within 12 months of 
+the company’s first day of trading. 
+
+ii.  Size: In order to determine index membership, all companies with 
+eligible securities will be ranked by their full market capitalization 
+(i.e. before the application of any investability weightings). 
+
+iii.  Liquidity:  Each security will be tested for liquidity by calculation of 
+its monthly median of daily trading volume.  The daily volume for 
+each security is calculated as a percentage of the shares in issue for 
+that day adjusted by the free float at the end of the month. These 
+daily values are then ranked in descending order and the median is 
+taken by selecting the value for the middle ranking day if there is an 
+odd number of days and the mean of the middle two if there is an 
+even number of days.  Each security needs to meet the prescribed 
+liquidity threshold in order to form part of the index. 
+
+iv.  A security will be inserted at the periodic review if it rises 90th or 
+
+above. 
+
+v.  A security will be deleted at the periodic review if it falls to 111th or 
+
+below. 
+
+ 
+3.2.4. S&P 500: (Source: https://www.spglobal.com) 
+
+Universe: The constituents are selected from the constituent list of S&P 
+Total Market Index. 
+ 
+Stock selection criteria: 
+i.  Eligibility  market  capitalization:  To  be  included,  companies  must 
+
+have an unadjusted mcap of US$ 8.2 billion. 
+
+Page 4 of 14 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ii.  Public  float:  Investable  Weight  Factor  (free-float  factor)  of  a 
+company  should  be  at  least  0.1  and  must  have  a  float  market 
+capitalization of at least US$ 4.1 billion. 
+
+iii.  Liquidity:  Using composite pricing and volume, the ratio of annual 
+dollar value traded (defined as average closing price over the period 
+multiplied  by  historical  volume) 
+to  float  adjusted  market 
+capitalization  should  be  at  least  1.0  and  a  stock  should  trade  a 
+minimum of 250,000 shares in each of the six months leading upto 
+the evaluation date. 
+
+iv.  Financial  viability:  Companies  must  have  positive  as-reported 
+earnings  over  the  most  recent  quarter,  as  well  as  over  the  most 
+recent four quarters (summed together). 
+
+v.  Sector representation: Sector balance, as measured by a comparison 
+of  each  GICS  sector's  weight  in  index  with  its  weight  in  the  S&P 
+Total  Market  Index,  in  the  relevant  market  capitalization  range  is 
+also considered in the selection of companies for the indices. 
+
+ 
+3.2.5. Nasdaq 100: (Source: https://www.nasdaq.com) 
+
+Universe:  The  Nasdaq  100  index  is  designed  to  measure  the 
+performance  of  100  of  the  largest  Nasdaq  listed  non-financial 
+companies. 
+ 
+Stock selection criteria: 
+i.  Eligibility  market  capitalization:  There  is  no  market  capitalization 
+
+eligibility criterion. 
+
+ii.  Liquidity eligibility:  Each security must have a minimum average 
+daily  trading  volume  of  200,000  shares  (measured  over  the  three 
+calendar  months  ending  with  the  month  that  includes  the 
+Reconstitution reference date). 
+
+iii.  Seasoning eligibility: The security must have traded for at least three 
+full calendar months, not including the month of initial listing, on 
+an eligible exchange, which includes Nasdaq (Nasdaq Global Select 
+Market, Nasdaq Global Market, or Nasdaq Capital Market), NYSE, 
+NYSE American or CBOE BZX. 
+
+iv.  Float eligibility criteria:  There is no float eligibility criterion. 
+v.  A Reconstitution is conducted on an annual basis, at which time all 
+eligible Issuers, ranked by market capitalization, are considered for 
+Index inclusion based on the following order of criteria. 
+
+Page 5 of 14 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+vi.  The top 75 ranked Issuers will be selected for inclusion in the Index. 
+vii.  Any other Issuers that were already members of the Index as of the 
+Reconstitution reference date and are ranked within the top 100 are 
+also selected for inclusion in the Index. 
+
+viii. In the event that fewer than 100 issuers pass criteria (vi) and (vii) 
+above, the remaining positions will first be filled, in rank order, by 
+current  index  members  that  were  in  the  top  100  at  the  previous 
+Reconstitution  but  are  ranked  in  positions  101-125  in  the  current 
+Reconstitution. 
+
+ 
+
+3.3. Calculation method and Weighting 
+
+ 
+3.3.1. Nifty 50: Index is calculated on free-float market capitalization method 
+and  weightages  are  calculated  based  on  the  free-float  market 
+capitalization. 
+ 
+
+3.3.2. S&P  BSE  Sensex  30:  Index  is  calculated  on  free-float  market 
+capitalization method and weightages are calculated based on the free-
+float market capitalization. 
+ 
+
+3.3.3. FTSE 100:  Index is calculated on free-float market capitalization method 
+and  weightages  are  calculated  based  on  the  free-float  market 
+capitalization  (adjusted  for  free  float  and  foreign  ownership  limits 
+where applicable to UK investors). 
+ 
+
+3.3.4. S&P 500:  Index is calculated on free-float market capitalization method 
+and  weightages  are  calculated  based  on  the  free-float  market 
+capitalization. 
+ 
+
+3.3.5. Nasdaq  100:  Index  is  calculated  on  modified  market  capitalization 
+method  and  weightages  are  calculated  based  on  the  modified  market 
+capitalization. 
+
+ 
+
+3.4. Review Frequency 
+
+3.4.1. Nifty 50: Index is reviewed semi-annually and changes come into effect 
+
+in March and September. 
+ 
+
+Page 6 of 14 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+3.4.2. S&P BSE Sensex 30: Index is reviewed semi-annually and changes come 
+
+into effect in June and December. 
+ 
+
+3.4.3. FTSE 100: The FTSE UK Index Series is reviewed on a quarterly basis 
+and changes come into effect in March, June, September and December. 
+ 
+
+3.4.4. S&P 500: S&P Total Market index (parent index for S&P 500) is reviewed 
+on an annual basis.  However, S&P 500 is reconstituted at the discretion 
+of the Committee and is based on eligibility criteria. 
+ 
+
+3.4.5. Nasdaq 100: Nasdaq selects constituents once annually in December. 
+
+ 
+
+3.5. Stock/ Sector Weight Capping 
+
+ 
+3.5.1. Nifty 50:  Stock and sector weight capping is currently not applicable to 
+this  index.  The  index  however  complies  with  portfolio  concentration 
+norms for ETFs/ Index Funds announced by SEBI on January 10, 2019 
+which  mandates  that  the  weightage  of  any  constituent  in  such  index 
+shall not exceed  25% and weightage of top 3 constituents in the index 
+together  shall  not  exceed  65%  as  on  the  last  trading  day  of  calendar 
+quarter March, June, September and December. 
+ 
+
+3.5.2. S&P BSE Sensex 30:  Stock and sector weight capping is currently not 
+applicable  to  this  index.  The  index  would  however  comply  with 
+portfolio  concentration  norms  for  ETFs/  Index  Funds  announced  by 
+SEBI  on  January  10,  2019  which  mandates  the  weightage  of  any 
+constituent in such index shall not exceed 25% and weightage of top 3 
+constituents  in  the  index  together  shall  not  exceed  65%  as  on  the  last 
+trading day of calendar quarter March, June, September and December. 
+ 
+
+3.5.3. FTSE  100:    Stock  and  sector  weight  capping  is  not  applicable  to  this 
+index.  However,  additional  variants  of  the  index  with  capping 
+restrictions are available. 
+ 
+
+3.5.4. S&P 500:  Stock and sector weight capping is currently not applicable to 
+this  index.  However,  additional  variants  of  the  index  with  capping 
+restrictions are available. 
+ 
+
+Page 7 of 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+Securities and Exchange Board of India 
+
+ 
+
+3.5.5. Nasdaq 100:  Weightage of any constituent stock cannot exceed 20% of 
+the  index  and  the  aggregate  weight  of  the  constituents  stocks  whose 
+weights exceed 4.5% cannot exceed 40%. 
+
+ 
+
+4.  Benchmark Indices – a representative of market 
+
+ 
+4.1. Attributes of Benchmark Indices vis-à-vis all listed stocks  
+
+ 
+
+ 
+Nifty 50:  Nifty 50 index represents 50 largest & most liquid companies and 
+represents approximately 68% of average free float market capitalization, 59% 
+of average total market capitalization and 57% of average daily turnover of all 
+stocks traded at NSE for 6 months ending September 2020. 
+ 
+ Sensex 30: Sensex 30 index represents 30 largest & most liquid companies and 
+represents  approximately  59.3%  of  average  free  float  market  capitalization, 
+49% of average total market capitalization and 34.2% of average daily turnover 
+of all stocks traded at NSE for 6 months ending September 2020. 
+ 
+
+4.2. Sectoral Exposure of Benchmark Indices vis-à-vis all listed stocks 
+
+Sectoral exposure patterns of Benchmark indices are broadly in line with that 
+of  universe  of  all  stocks  listed  on  exchanges  in  India.  Globally,  sectoral 
+exposure of popular indices varies depending on different geographies, nature 
+and number of companies that constitutes the index. 
+ 
+
+4.3. Trends in Sector exposure of Benchmark Indices vis-à-vis all listed stocks 
+
+Various  index  providers  follow  different  criteria  However  at  a  broad  level, 
+selection of stocks is primarily based upon market capitalization and liquidity 
+by all the index providers) for selection of stocks in broad market indices in 
+line with index methodology documents published on their websites.  Across 
+different geographies, prominence of one or two sectors is generally observed 
+in each of the broad market indices.  Any change in the weightage of a sector 
+amongst the listed space gets reflected in the corresponding benchmark index 
+also. Accordingly, over a period of time, sectoral representation of stocks in 
+the  indices  tend  to  undergo  a  change  in  line  with  overall  share  of  various 
+sectors in the listed universe. Further, most of the broad market indices do not 
+have any sector cap as the indices are supposed to reflect the performance of 
+the listed stocks  in the market. However, index providers create variants of 
+broad market indices to offer indices that comply with the product guidelines 
+
+ 
+
+Page 8 of 14 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+(generally for launch of ETFs and Index funds) which may specify sectoral or 
+stock caps. 
+
+ 
+
+ 
+
+5.  International framework in respect of benchmarks / benchmark administrators 
+
+ 
+5.1. International practices: Framework with respect to benchmarks / benchmark 
+
+administrators, in some of the foreign jurisdictions is summarized below: 
+
+ 
+5.1.1.  European  Union:  Regulation  (EU)  2016/1011,  inter-alia,  aims  to  ensure 
+benchmarks are robust and reliable, and to minimise conflicts of interest 
+in benchmark-setting processes. It contains requirements for benchmark 
+administrators,  contributors  of  input  data  to  benchmarks  and  users  of 
+benchmarks. The requirements of the aforesaid regulation are similar to 
+the IOSCO Principles; however, it is a binding legislation. Administrators 
+(EU  and  non-EU)  of  benchmarks  that  fall  within  the  scope  of  the  EU 
+regulation  are  required  to  apply  to  their  EU  regulator  for  a  license  to 
+provide such benchmark in the EU. The Regulation also applies to non-
+EU benchmarks (i.e. if a benchmark is used in the EU but provided by a 
+company based outside of the EU). 
+ 
+
+5.1.2.  Australia: In March 2018, the Corporations Act of 2001 was amended to 
+introduce a new regulatory regime for certain benchmarks identified by 
+ASIC as ‘significant’ or systemically important to the Australian financial 
+market.  ASIC  has  designated  the  following  financial  benchmarks  as 
+‘significant’ for the purpose of the Australian benchmark regulation: 
+
+ 
+
+the Australian Bank Bill Swap Rate; 
+the S&P/ASX 200 Index; 
+
+i. 
+ii. 
+iii.  the ASX Bond Futures Settlement Price; 
+iv.  the Australian Interbank Overnight Cash Rate; 
+v. 
+
+the Australian Consumer Price Index. 
+
+ 
+
+The benchmark administrators, as such, are subject to ASIC's Financial 
+Benchmark  (Administration)  Rules  2018  and  the  ASIC  Financial 
+Benchmark (Compelled) Rules 2018.  
+ 
+
+5.1.3.  USA:  USA  has  not  implemented  laws  specifically  aimed  at  financial 
+benchmarks  and  benchmark  administrators.  The  manipulation  or 
+
+ 
+
+Page 9 of 14 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+Securities and Exchange Board of India 
+
+ 
+
+attempted manipulation of financial benchmarks are treated in the same 
+manner as any traditional manipulation or fraudulent activity. 
+ 
+
+5.1.4.  Japan: The Financial Services Agency of Japan cabinet office ordinance 
+and  enforcement  order  2015  –  introduced  a  limited  regulation  based 
+upon  the  IOSCO  Principles  for  the  administrators  of  specified 
+benchmarks that are widely used as the basis of financial transactions. 
+Currently the only specified benchmark in Japan is TIBOR. 
+
+ 
+5.1.5.  Singapore: Securities & Futures (Financial Benchmarks) Regulation 2018 
+/  Securities  &  Futures  (Designated  Benchmarks)  Order  2018  –  The 
+regulation,  which  came  into  force  in  October  2018,  is  similar  to  that 
+passed by the Australian government. It uses the IOSCO Principles as its 
+framework and limits the requirements to those benchmarks designated 
+as significant by the Monetary Authority of Singapore. Currently the only 
+designated benchmarks are SIBOR and SOR. 
+
+ 
+
+6.  Proposal 
+
+ 
+
+6.1. Framework for Compliance Standards for Index Providers in India 
+
+Based on IOSCO principles, practices observed in the foreign jurisdictions and 
+suitability for domestic markets, the suggested framework for Index Providers 
+in India is as under: 
+ 
+6.1.1.  In respect of Indices based on which any product including derivatives, 
+Exchange Traded Funds (ETFs), Market Linked Debentures (MLDs)  are 
+available/ traded on Indian stock exchanges, stock exchanges shall ensure 
+that: 
+
+ 
+
+i.  The  Index  Provider  is  compliant  with  ‘Principles  for  Financial 
+Benchmarks’  set  out  by  International  Organization  for  Securities 
+Commissions (IOSCO), both on initial and continuous basis. 
+
+ii.  The  Index  Provider  shall  get  the  IOSCO  compliance  certification 
+from an independent third party (globally renoned audit firms or 
+business consultant) on a bi-annual basis (once in two years) and the 
+same should be available on its website. 
+
+iii.  They enter into appropriate agreement which, inter alia, provides 
+
+for the following conditions: 
+
+Page 10 of 14 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+(a).  The  Index  Provider  shall  continuously  comply  with  IOSCO 
+
+Principles for Financial Benchmarks. 
+
+(b).  The  Index  Provider  shall  immediately  inform  the  stock 
+exchange(s)  of  any  change  in  status  of  its  compliance  with 
+IOSCO principles in case there are derivatives traded on stock 
+exchanges  based  on  the  indices  provided  by  the  index 
+providers. Further, on a bi-annual basis (once in two years), the 
+Index Provider shall confirm to the stock exchange(s) regarding 
+the  status  of  its  compliance  with  IOSCO  principles.  The 
+aforesaid  status  of  compliance  of  the  Index  Provider  with 
+IOSCO principles shall also be disclosed on the website of the 
+stock exchange(s). 
+
+(c).  For  other  products  available  and  traded  on  stock  exchanges 
+including  ETFs  and  MLDs,  ETF  provider/  MLD    issuer  shall 
+immediately  inform  the  stock  exchange(s)  of  any  change  in 
+status  of  compliance  of  the  underlying  indices  with  IOSCO 
+principles. Further, on a bi-annual basis (once in two years), the 
+Index Provider shall confirm to the ETF provider/ MLD issuer 
+regarding 
+IOSCO 
+principles.The  aforesaid  status  of  compliance  of  the  Index 
+Provider with IOSCO principles shall also be disclosed on the 
+website of the Product Issuer(s). 
+
+its  compliance  with 
+
+the  status  of 
+
+ 
+6.1.2.  In respect of Indices  provided by the index providers  that are used by 
+Mutual  Funds  for  benchmarking  of  funds  performances  or  issuance  of 
+Index Funds, Asset Management Company shall ensure: 
+ 
+
+i.  The  Index  Provider  is  compliant  with  ‘Principles  for  Financial 
+Benchmarks’  set  out  by  International  Organization  for  Securities 
+Commissions (IOSCO), both on initial and continuous basis. 
+
+ii.  The  Index  Provider  shall  get  the  IOSCO  compliance  certification 
+from an independent third party on a bi-annual basis (once in two 
+years) and the same should be available on its website. 
+
+iii.  They enter into appropriate agreement which, inter alia, provides 
+
+for the following conditions: 
+(a).  The  Index  Provider  shall  continuously  comply  with  IOSCO 
+
+Principles for Financial Benchmarks. 
+
+Page 11 of 14 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+(b).  The  Index  Provider  shall  immediately  inform  the  Asset 
+Management  Company  of  any  change  in  status  of  its 
+compliance with IOSCO principles.  
+Explanation:  The  index  providers  mentioned  in  point  6.1.2 
+above  shall  exclude  those  index  providers  which  are  already 
+covered under point 6.1.1 above. 
+
+ 
+
+6.1.3.  In respect of Indices which are constructed based on data provided by 
+Indian  stock  exchange(s),  stock  exchange  shall  assess  whether  any 
+product  including  derivatives,  based  on  such  Indices,  available  in  a 
+foreign jurisdiction hampers trading of a similar product  in the Indian 
+market.  In  case  the  stock  exchange  is  of  the  view  that  such  product 
+available in a foreign jurisdiction hampers trading of a similar  product 
+in  India,  they  shall  terminate  the  existing  agreement  with  such  Index 
+Provider. 
+
+In cases where the stock exchange decides to continue with the existing 
+data sharing agreement or enters into an agreement, post notification of 
+these standards, stock exchange shall ensure: 
+
+i.  The  Index  Provider  is  compliant  with  IOSCO  Principles  for 
+
+Financial Benchmarks, both on initial and continuous basis. 
+
+ii.  The  data  sharing  agreement  entered  into  between  stock  exchange 
+
+and Index Provider, shall inter alia, provide for the following:  
+(a).  The  Index  Provider  shall  license  Indices  to  only  those 
+
+jurisdictions, which fulfill the following criteria:  
+  The jurisdiction is a Member of Financial Action Task Force 
+
+(FATF); 
+
+  The  jurisdiction  has  not  been  identified  by  FATF  as  a 
+
+jurisdiction with strategic AML/CFT deficiencies; 
+
+  The  jurisdiction  which  has  signed  a  Memorandum  of 
+
+Understanding (MoU) with SEBI for sharing and exchange 
+
+of information; 
+
+  Any other condition, as may be specified by SEBI from time 
+
+to time.   
+
+(b).  If  any  Exchange  Traded  derivative,  based  on  such  Indices,  is 
+proposed  to  be  made  available  in  a  foreign  jurisdiction,  the 
+Index  Provider  shall  seek  prior  approval  from  the  concerned 
+Indian stock exchange(s), giving appropriate justification how 
+
+Page 12 of 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+Securities and Exchange Board of India 
+
+ 
+
+the product to be launched in a foreign jurisdiction would not 
+hamper trading of any product in the Indian market. The above 
+justification  shall  be  assessed  by  the  stock  exchange(s)  before 
+according approval. 
+
+(c).  The Index Provider shall continuously comply with the above 
+stated  conditions  at  6.1.3  (ii)  (a)  and  6.1.3  (ii)  (b)  above.  The 
+Index Provider shall immediately inform the stock exchange of 
+any  change  in  status  of  its  compliance  with  the  aforesaid 
+conditions. Further, on an annual basis, the Index Provider shall 
+confirm  to  the  stock  exchange  of  the  status  of  its  compliance 
+with  the  aforesaid  conditions.  The  aforesaid  status  of 
+compliance  of  the  Index  Provider  with  the  above  stated 
+conditions  shall  also  be  disclosed  on  the  website  of  the  stock 
+exchanges. 
+
+(d). Appropriate  framework  for  termination  of  the  data  sharing 
+
+agreement for: 
+  Breach  of  the  aforesaid  clauses  of  the  data  sharing 
+
+agreement, or 
+
+  Any  material  impact  on  trading  of  product(s)  in  India 
+
+arising out of aforesaid product in foreign jurisdiction. 
+
+iii.  The  conditions  mentioned  at  sub-clauses  6.1.3  above  shall  not  be 
+applicable  to  issuance  of  any  Exchange  Traded  Funds  or  similar 
+products  on  an  Index  by  any  entity,  subject  to  prior  written 
+permission of the Indian stock exchange(s) whose data may be used 
+for creating and/ or computing the Index. 
+
+ 
+
+7.  Public Comments 
+
+7.1. In  order  to  take  into  consideration  views  of  various  stakeholders,  public 
+comments are solicited on the above proposal keeping in mind the following: 
+ 
+7.1.1.  Whether  the  above  Compliance  Standards  for  Index  Providers  would 
+provide  for  greater  level  of  disclosure  and  transparency,  promote  the 
+reliability  of  benchmark  determinations,  and  address  benchmark 
+governance and accountability mechanisms? 
+ 
+
+7.1.2.  Whether above Compliance Standards for Index Providers are sufficient 
+Index  Providers  while 
+
+to  provide 
+
+for 
+
+broad 
+
+framework 
+
+ 
+
+Page 13 of 14 
+
+भारतीय प्रततभूतत और तितिमय बोर्ड 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+managing/maintaining Indices including provisions for licensing indices 
+in foreign jurisdictions? 
+
+ 
+7.1.3.  Whether  there  is  need  for  a  formal  regulatory  framework  for  Index 
+
+Providers? 
+
+ 
+7.1.4.  Whether SEBI should specify certain indices as significant and apply the 
+regulatory  framework  to  only  those  indices  as  is  done  in  some 
+international jurisdictions as mentioned above? 
+
+ 
+
+7.2. Comments may please be emailed to Shri Sudeep Mishra, General Manager, 
+Market Regulation Department and sent by email at sudeepm@sebi.gov.in or 
+through post (address given below), latest by January 07, 2021, in the format 
+below: 
+
+Name/ Organization 
+Contact number 
+Email address 
+
+Details of respondent 
+
+ 
+ 
+ 
+
+ 
+
+Comments on discussion paper 
+
+Comments/ Suggestions 
+
+ 
+
+Rationale 
+
+ 
+
+Kindly  mention  the  subject  of  the  communication  as  "Comments  on 
+Discussion paper on Compliance Standard for Index Providers.” 
+ 
+Postal Address: 
+
+ 
+
+Shri Sudeep Mishra 
+General Manager 
+Market Regulations Department 
+Securities and Exchange Board of India  
+SEBI Bhavan, Plot No. C4-A, G Block, 
+Bandra Kurla Complex, Bandra (East),  
+Mumbai - 400 051 
+
+************ 
+
+Page 14 of 14 
+
+ 
+
+ 
+
+

@@ -1,0 +1,339 @@
+ 
+
+CIRCULAR 
+
+ 
+
+ 
+ 
+
+                   November 14, 2019 
+
+SEBI/HO/CDMRD/DOP/CIR/P/2019/135 
+ 
+ 
+To, 
+ 
+The Managing Directors/Chief Executive Officers 
+All Recognized Stock Exchanges having Commodity Derivatives Segment 
+ 
+Sir/Madam, 
+ 
+Subject: Modifications in the contract specifications of commodity derivatives 
+contracts  
+ 
+1.  SEBI vide its circular ref. no. SEBI/HO/CDMRD/CIR/2016/88 dated September 20, 2016 
+had  inter-alia  prescribed  at  Para  3(c)  provisions  regarding  permission  to  allow 
+modifications in contract specifications at the exchange level. 
+
+ 
+2.  In order to streamline the process and after consultation with the exchanges, it has been 
+decided  to  categorise  the  modifications  in  contract  specification  parameters  in  the 
+following three categories: 
+
+ 
+
+a.  Category A:  Non-material modifications which can be made at the exchange level in 
+
+yet to be launched and running contracts. 
+
+b.  Category B:  Material modifications which can be made at the exchange level in yet to 
+be  launched  contracts  or  running  contracts  which  have  nil  open  interest.    These 
+modifications shall require approval from Product Advisory Committee and approval 
+of Regulatory Oversight Committee to be obtained post facto. 
+
+c.  Category C:  Material modifications which can be made only after approval from SEBI.  
+These modifications shall require deliberations and approval from Product Advisory 
+Committee and Regulatory Oversight Committee before seeking permission from SEBI. 
+ 
+
+3.  The  list  of  various  contract  specification  parameters  as  per  the  above  stated  categories 
+along  with  the  timelines  for  advance  intimation  of  modification  to  SEBI  and  market 
+participant is given at Annexure I.  
+ 
+
+4.  The  permission  to  modify  contract specification  parameters  of   commodity derivatives  
+contracts   is  subject  to  the  condition  that  before introduction of any modification in 
+contract  specifications  the  Exchanges  shall  inform  SEBI  and    market  participants  along 
+with reasons for the modifications as per the timeline mentioned in Annexure I. However, 
+this shall not apply to certain modifications which are required to be effected immediately 
+considering the exigencies of the situation as per surveillance measure. 
+ 
+
+ 
+
+Page 1 of 4 
+
+ 
+
+ 
+
+ 
+
+5.  The  Circular  ref.  no.  SEBI/HO/CDMRD/CIR/2016/88  dated  September  20,  2016  stands 
+
+amended to this effect. 
+ 
+
+6.  The provisions of this circular shall be effective from December 01, 2019. 
+ 
+7.  This Circular is issued in exercise of powers conferred under Section 11(1) of Securities 
+and Exchange Board of India Act, 1992, read with Section 10 of the Securities Contracts 
+(Regulation) Act, 1956 to protect the interests of investors in securities and to promote the 
+development of, and to regulate the securities market. 
+
+ 
+
+8.  This circular is available on SEBI website at www.sebi.gov.in under the category ‘Circulars’ 
+
+and “Info for Commodity Derivatives”. 
+
+ 
+
+ 
+
+Yours faithfully, 
+ 
+ 
+ 
+Priyanka Mahapatra 
+Deputy General Manager 
+Division of Products 
+Commodity Derivatives Market Regulation Department 
++91-22-26449274 
+priyankam@sebi.gov.in 
+ 
+ 
+ 
+                                                     
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Page 2 of 4 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Annexure I 
+
+Categorisation of contract specification parameters in commodity derivatives 
+contracts 
+
+Number of days of 
+advance intimation 
+to be given to SEBI 
+and market 
+participants 
+
+10 days 
+
+30 days 
+
+Category 
+
+ Type of Modification 
+
+Parameter 
+
+Category A  Non-material 
+
+in  yet 
+
+modifications  which  can 
+be made at the exchange 
+level 
+to  be 
+launched  and  running 
+contracts 
+ 
+
+Category B  Material  modifications 
+which can be made at the 
+exchange  level  in  yet  to 
+be launched contracts or 
+running  contracts  which 
+have nil open interest. 
+These 
+modifications 
+shall  require  approval 
+from  Product  Advisory 
+Committee and approval 
+of  Regulatory  Oversight 
+Committee 
+be 
+obtained post facto. 
+
+to 
+
+  Symbol 
+  Description 
+  Contract 
+Day(Y/L) 
+
+Commencement 
+
+  Quotation/Base value (Y/L) 
+  Maximum Order Size 
+  Tick  Size  (Minimum  Price 
+
+Movement) 
+
+  Strike Interval (Y/L) 
+  Number of Strikes 
+  Initial Margin 
+  Extreme Loss Margin  
+  Delivery Period Margin 
+  Pre-expiry Margin  
+  Other Margins  
+  Underlying Quotation (Y/L) 
+  Last  Trading  Day  /Due 
+
+Date/Expiry Date#  
+
+  Trading Unit 
+  Price Quote (Basis) 
+  Delivery Centre  
+  Delivery Unit 
+  Additional Delivery Centre(s) 
+  Quality Specifications 
+  Quantity Variation 
+  Tolerance Limit  
+  Trading Session 
+  Premium/Discount  
+  Underlying 
+
+Price  Quote 
+
+(basis) 
+
+  Maximum  Allowable  Open 
+
+Position  
+
+ 
+
+Page 3 of 4 
+
+ 
+
+ 
+
+30 days 
+
+Category C  Material  modifications 
+which  can  be  made  only 
+after approval from SEBI. 
+modifications 
+These 
+shall 
+require 
+deliberations 
+and 
+approval  from  Product 
+Advisory Committee and 
+Regulatory 
+Oversight 
+Committee 
+before 
+seeking permission from 
+SEBI. 
+ 
+
+ 
+
+  Contract Launch Calendar 
+  Trading Period 
+  Daily Price Limit 
+  Delivery Logic  
+Contract/ 
+  Settlement 
+Settlement 
+Logic/Final 
+settlement  Method  Exercise 
+of Options  
+
+of 
+
+  Mechanism of Exercise 
+  Due  Date  Rate 
+
+(Final 
+
+Settlement Price) 
+
+  Tender Period  
+  Start  Date  of  Near  Month 
+Delivery 
+
+Staggered 
+Period/Tender Period 
+
+  Option Type 
+
+closure 
+
+ 
+(Y/L)-Modification can only be carried out in yet to be launched contracts 
+ 
+#-Changes in due date/expiry date may be required to be done in the running contracts in the event of 
+sudden 
+no. 
+SEBI/HO/CDMRD/DRMP/CIR/P/2016/90 dated September 21, 2016 prescribes that Exchange may 
+advance expiry date of running contract in case physical market is closed in the notified basis centre 
+on  the  expiry  day  of  the  contract,  due  to  festivals,  strikes,  erratic  weather  conditions,  etc.  Decision 
+about advancing expiry of running contract shall be intimated to the trade participants at least 10 days 
+before the revised expiry date.  
+ 
+
+of  markets 
+
+Circular 
+
+ref. 
+
+SEBI 
+
+on 
+
+expiry 
+
+date. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 4 of 4 
+
+ 
+
+

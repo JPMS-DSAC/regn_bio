@@ -1,0 +1,849 @@
+ 
+
+Discussion Paper on “Brightline Tests for Acquisition of ‘Control’ 
+
+ 
+
+ 
+
+under SEBI Takeover Regulations” 
+
+ 
+
+Objective 
+
+1.  This discussion paper seeks comments of the public for certain proposals related to 
+
+Brightline Tests for Acquisition of ‘Control’ under the SEBI (Substantial Acquisition of 
+
+Shares and Takeovers) Regulations, 2011 (hereinafter referred to as the "Takeover 
+
+Regulations”). 
+
+ 
+
+Background 
+
+2.  The Takeover Regulations prescribe that an acquirer acquiring substantial shares or 
+
+voting rights i.e., 25% or more, has to make an open offer to the public shareholders 
+
+of  the  target  company.  Irrespective  of  the  shares  or  voting  rights  acquired,  the 
+
+acquirer  also  has  to  make  an  open  offer  upon  acquiring  control  of  the  target 
+
+company. 
+
+ 
+
+3.  Definition of 'Control' 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Regulation 2(1)(e) of Takeover Regulations, 2011 has defined 'control' as  
+Regulation 2(1)(e): “control” includes the right to appoint majority of the directors 
+or  to  control  the  management  or  policy  decisions  exercisable  by  a  person  or 
+persons acting individually or in concert, directly or indirectly, including by virtue 
+of their shareholding or management rights or shareholders agreements or voting 
+agreements or in any other manner:  
+ 
+Provided that a director or officer of a target company shall not be considered to 
+be in control over such target company, merely by virtue of holding such position. 
+
+4.  From the definition of control as defined under the Takeover Regulations, 2011, it is 
+
+observed that regulation 2(1)(e) defines "control" as inclusive of  
+
+  The right to appoint a majority of directors 
+
+  The right to control the management 
+
+  The right to control the policy decision 
+
+ 
+
+5.  Such rights can be exercisable by one person or by more than one person who are 
+
+persons  acting  in  concert.  Further,  such  rights  can  be  exercisable  directly  or 
+
+indirectly. The right can accrue to a person in any of the following manner: 
+
+  Shareholding 
+
+  Management rights 
+
+  Shareholders agreements 
+
+Page 1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+ 
+
+  Voting agreements 
+
+ 
+
+In any other manner 
+
+ 
+
+Historical Perspective  
+
+6.  It may be mentioned that the Bhagwati Committee which was constituted to review 
+
+the  SEBI  (Substantial  Acquisition  of  Shares  and  Takeovers)  Regulations,  1994, 
+
+recommended a broad definition of control and opined that it should be left to SEBI 
+
+to  decide  whether  there  has  been  an  acquisition  of  control  on  the basis  of facts  of 
+
+each  case.  The  Takeover  Regulations  Advisory  Committee  (TRAC),  in  its  report 
+
+dated July 19, 2010 also reiterated the above views of the Bhagwati Committee.  
+
+ 
+
+Need for Bright Lines on Control 
+
+7.  The  term  "control"  which  is  defined  in  regulation  2(1)(e)  of  Takeover  Regulations, 
+
+2011 provides for the broad contours which would constitute control and at the same 
+
+time it has left the scope open to include factors to be covered within the ambit of the 
+
+definition.   
+
+ 
+
+8.  Assessing  whether  an  entity  controls  a  company  is  straightforward  in  cases  where 
+
+the rights accrue to the entity through its shareholding/voting rights in the company. 
+
+In  cases  of  rights  accruing  through  contractual  agreements,  such  assessment 
+
+becomes  complex  and  requires  consideration  of  facts  and  circumstances  of  the 
+
+case.  Therefore,  the  nature  of  definition  of  control  is  based  on  certain  defined 
+
+principles rather than rule-based. It is only while applying these principles on a set of 
+
+facts, that there is a rise of multitude of opinions and has led to litigations. 
+
+ 
+
+9.  It has been represented by market participants to SEBI to provide a list of protective 
+
+rights  which  would  not  amount  to  acquisition  of  control.  However,  other  such 
+
+participants were of the view that it may not be possible to prepare an exhaustive list 
+
+of such rights which would address all situations. 
+
+ 
+
+10. Further,  control  is  also  defined  under  other  laws  in  India.  Certain  Acts  such  as 
+
+Companies Act, 2013, Insurance Laws (Amendment) Act, 2015 and FDI Policy and 
+
+have a similar definition of control as under Takeover Regulations. The Companies 
+
+Act, 2013 defines “control” as: 
+
+“control”  shall  include  the  right  to  appoint  majority  of  the  directors  or  to  control  the 
+
+management or policy decisions exercisable by a person or persons acting individually 
+
+or  in  concert,  directly  or  indirectly,  including  by  virtue  of  their  shareholding  or 
+
+management rights or shareholders agreements or voting agreements or in any other 
+
+manner.” 
+
+ 
+ 
+
+Page 2 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+11. The Insurance Laws (Amendment) Act, 2015 defines “control” as: 
+
+"control"  shall  include  the  right  to  appoint  a  majority  of  the  directors  or  to  control  the 
+
+management  or  policy  decisions  including  by  virtue  of  their  shareholding  or 
+
+management rights or shareholders agreements or voting agreements.” 
+
+ 
+
+12. Similarly, Consolidated FDI Policy Circular of 2015 defines “control” as: 
+
+“control”  shall  include  the  right  to  appoint  a  majority  of  the  directors  or  to  control  the 
+
+management  or  policy  decisions  including  by  virtue  of  their  shareholding  or 
+
+management rights or shareholders agreements or voting agreements.” 
+
+ 
+
+13. Also,  with  the  advent  of  Competition  Act  in  2002,  it  is  seen  that  control  has  been 
+
+tested  by  the  Competition  Commission  of  India  from  its  own  perspective.  The 
+
+definition  of  'control'  under  the  Competition  Act,  2002  is  provided  by  way  of  an 
+
+Explanation to section 5 of the said Act as under- 
+
+“Explanation — For the purposes of this section,—  
+
+(a) "control" includes controlling the affairs or management by—  
+
+(i) one or more enterprises, either jointly or singly, over another enterprise or group;  
+
+(ii) one or more groups, either jointly or singly, over another group or enterprise;” 
+
+14. It  is  seen  that  the  above  definition  of  'control'  in  the  Competition  Act,  2002  is  a 
+
+purposive  definition  and  applies  for  the  specific  purpose  of  combination  of 
+
+enterprises  by  way  of  inter  alia,  acquisition  of  one  or  more  enterprises  or  'control' 
+
+over  an  enterprise  by  one  or  more  persons.  From  the  language  of  Explanation  to 
+
+section  5  of  the  Competition  Act,  2002,  and  regulation  2(1)(e)  of  the  Takeover 
+
+Regulations,  it  is  noted  that  both  contain  inclusive  definition.  It  is,  however,  noted 
+
+that while the definition under 2(1)(e) is specific with regard to control by way of (a) 
+
+right "to appoint majority of the directors" or (b) controlling 'the management or policy 
+
+decisions',  the  definition  under  section  5  is  only  specific  with  regard  to  “controlling 
+
+the  affairs  and  management‟.  It  is  further  noted  that  while  under  the  Takeover 
+
+Regulations  controlling  the  “management  or  policy  decisions”  is  relevant  factor, 
+
+under the Explanation to section 5 of the Competition Act controlling “the affairs and 
+
+management"  is  relevant factor. The  expression  “affairs  and  management”  may  be 
+
+of  much  wider  connotation  than  the  expression  "management  or  policy  decisions". 
+
+There could be a situation wherein by controlling "the affairs and management" in a 
+
+company, a person may be in a position to control "management or policy decisions" 
+
+but it may not always be the case. 
+
+ 
+
+ 
+ 
+
+Page 3 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+15. Similarly, sectoral regulators such as Civil Aviation may also apply the test of control 
+
+   
+
+ 
+
+ 
+
+to  determine  whether  the  control  over  the  target  company  remains  with  an  Indian 
+
+national. International Financial Reporting Standard (IFRS) also defines the principle 
+
+of  control  and  establishes  control  as  the  basis  of  determining  which  entities  are 
+
+consolidated  in  the  consolidated  financial  statements.  Under  IFRS,  the  principle  of 
+
+control sets out the following three elements of control: 
+
+(a) power over the investee; 
+
+(b) exposure, or rights, to variable returns from involvement with the investee; and 
+
+(c)  the  ability  to  use  power  over  the  investee  to  affect  the  amount  of  the  investor’s 
+
+returns. 
+
+ 
+
+16. One regulatory agency may be guided by the findings of other regulatory agency on 
+
+a  particular  issue  only  if  the  two  laws  are  pari  materia  in  their  substance  and  are 
+
+being applied on the same set of facts and circumstances. 
+
+ 
+
+17. In view of the above, it is possible that in a given scenario multiple regulators may all 
+
+be  applying  the  test  of  control  from  different  perspectives  and  arriving  at  differing 
+
+results which may lead to ambiguity and confusion in the market. 
+
+ 
+International Scenario 
+18. Regarding  the  aspect  of  control,  it  is  observed  that  in  countries  such  as  Australia, 
+
+Germany,  New  Zealand,  Russia,  Hong  Kong,  Singapore,  South  Africa  and  UK, the 
+
+change of control is considered to be the same as acquisition of voting rights above 
+
+the  specified  thresholds  irrespective  of  whether  such  holdings  confer  de  facto 
+
+control. 
+
+ 
+
+19. Further, in countries such as Japan, Malaysia, Switzerland and USA, control has not 
+
+been defined for the purpose of takeovers. 
+
+ 
+
+20. Further, in countries such as Canada, France,  Ghana, Norway and Spain, an entity 
+
+is  deemed  to  be  in  control  of  a  company,  if  it  has  the  right  or  exercises  control, 
+
+directly or indirectly, over the majority of voting rights at the general meetings of the 
+
+company  or  has  the  ability  to  control  the  composition  of  a  majority  of  the  board 
+
+members of the company. 
+
+ 
+
+21. Countries  such  as  Brazil,  China,  Denmark,  Indonesia,  Italy  and  Nigeria  have  a 
+
+similar  definition  to  India’s,  wherein,  control  is  deemed  to  be  exercised  not  only 
+
+through voting rights and appointment of board members, but also through the ability 
+
+ 
+ 
+
+Page 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+to exercise influence over the company’s policies or its shareholder meetings, even 
+
+if the entity holds voting rights below the specified thresholds. 
+
+ 
+
+ 
+ 
+
+ 
+
+22. From the above, it is seen that in most of the countries, control has been defined in 
+
+terms  of  the  specified  voting  rights  irrespective  of  de  facto  control.  Some  of  the 
+
+countries have also included the ability to control the composition of board members 
+
+and  further,  ability  to  exercise  influence  over  the  company’s  policies/shareholder 
+
+meetings.  
+
+ 
+
+23. In view of the above, it is seen that there is a need to identify bright lines for control. 
+
+The following options may be considered:- 
+
+ 
+
+Option 1:- Framework for Protective Rights  
+
+24. In the matter of Subhkam Ventures (I) Pvt. Ltd. wherein SEBI had taken a view that 
+
+the  rights  conferred  upon  the  acquirer,  through  the  agreements,  amounted  to 
+
+'control'  over  the  target  company.  Hon'ble  SAT,  in  its  judgment  dated  January  15, 
+
+2010,  rejected  SEBI's  view  stating  that  none  of  the  clauses  of  the  agreements, 
+
+individually or collectively, demonstrated control in the hands of the acquirer. Hon’ble 
+
+SAT had observed that: 
+
+“…Control,  according  to  the  definition,  is  a  proactive  and  not  a  reactive  power.  It  is  a 
+
+power by which an acquirer can command the target company to do what he wants it to 
+
+do. Control really means creating or controlling a situation by taking the initiative. Power 
+
+by which an acquirer can only prevent a company from doing what the latter wants to 
+
+do is by itself not control. In that event, the acquirer is only reacting rather than taking 
+
+the initiative. It is a positive power and not a negative power….The test really is whether 
+
+the acquirer is in the driving seat….By no stretch of logic, can such an affirmative vote 
+
+confer  control  over  the  day  to  day  working  of  the  company…Affirmative  vote  of  the 
+
+investor in these matters is necessary for protecting its investment….Such fetters fall far 
+
+short of the existence of “control” over the target company. It must be remembered that 
+
+every  fetter  of  any  nature  in  the  hands  of  any  person  over  a  listed  company  cannot 
+
+result in “control” of that person over that company…” 
+
+ 
+
+25. However, Hon'ble Supreme Court, in its judgment dated November 16, 2011, stated 
+
+that ‘keeping in view the above changed circumstances, it is in the interest of justice 
+
+to dispose of the present appeal by keeping the question of law open  and it is also 
+
+clarified  that  the  impugned  order  passed  by  the  SAT  will  not  be  treated  as  a 
+
+precedent.’  
+
+ 
+
+ 
+
+ 
+ 
+
+Page 5 
+
+ 
+
+ 
+ 
+Principle 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+26. The  basic  principle  that  can  be  followed  is  that  veto  rights  not  amounting  to 
+
+acquisition of control may be protective in nature rather than participative in nature 
+
+i.e. such rights may be aimed with the purpose of allowing the investor to protect his 
+
+investment  or  prevent  dilution  of  his  shareholding.  At  the  same  time,  the  Investor 
+
+should neither have the power to exercise control over the day-to-day running of the 
+
+business  nor  the  policy  making  process.  Having  rights  in  decisions  involving  a 
+
+significant  change  in  the  current  business  activity  or  that  apply  on  exceptional 
+
+circumstances would also be treated as a protective right.  
+
+ 
+
+27. In terms of the aforesaid principles, an illustrative list of rights have been categorized 
+
+below as protective in nature. These rights would be provided as a guidance to the 
+
+market within the existing definition of control:- 
+
+Protective  Rights  -  Rights which  do  not  amount  to  exercise  of  "control",  neither 
+individually nor collectively, with any other right listed below:-  
+a)  Appointment of Chairman/ Vice Chairman - The Chairman/ Vice Chairman may be a 
+nominee of the Investor provided he does not hold any executive position and does 
+not have any casting vote and is counted as a representative of the Investor. 
+ 
+
+b)  Appointment of Observer - The investor may appoint his nominee as the observer of 
+
+the Board who does not have any voting or participation rights. 
+ 
+
+c)  Covenants specified by Lenders provided these rights are customary to the lending 
+business and the lender has granted the loan strictly on commercial basis. Further, 
+such lender should be in the business of lending such as banks, NBFCs, etc. 
+ 
+
+ 
+
+d)  Commercial  Agreements  -  The  rights  conferred  on  parties  to  a  Commercial 
+
+Agreement would not amount to control provided that  
+
+i)  The  mutual  commercial  benefit  should  flow  from  both  the  sides  i.e.  the 
+
+commercial agreement should not be one-sided. 
+
+ii)  The  Board  of  the  Target  Company  has  approved  the  decision  to  enter  into 
+
+such an agreement. 
+
+iii)  The Board of the Target Company / Target Company, should have the right to 
+
+terminate the agreement. 
+
+iv)  The Board of the Target Company / Target Company should have the right to 
+
+enter into similar arrangement with any other party. 
+ 
+
+e)  Veto/Affirmative  Rights  -  Veto  rights  in  matters  that  are  not  part  of  the  ordinary 
+course of business or involve governance issues would be considered as protective 
+in nature and would not amount to exercise of control over the target company:-  
+
+ 
+ 
+
+Page 6 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+i)  amendments  to  memorandum  and  articles  of  association  of  the  target 
+
+company which adversely impact the investor’s rights; 
+
+ii)  any  alteration  to  the  capital  structure  of  the  company.  These  may  include 
+issue  of  capital  or  convertible  securities,  buyback,  reduction  of  capital, 
+merger,  demerger,  arrangement  or  compromise  with 
+its  creditors  or 
+shareholders or effecting any scheme of amalgamation or reconstruction, etc.  
+
+iii)  effecting any change in the statutory auditors of the company;  
+iv)  material  divestment,  transfer  or  disposal  of  an  undertaking  or  material 
+
+subsidiary of the target company. 
+
+v)  related party transactions other than those entered into in the ordinary course 
+
+of business and which are on arms’ length basis. 
+
+vi)  material  acquisition  of  any  companies,  bodies  corporate,  business, 
+
+undertaking or joint ventures. 
+
+vii) assuming or incurring any indebtedness or providing any loans or issuing any 
+guarantees  or  creating  any  security  in  excess  of  the  thresholds  permissible 
+without special shareholder approval under the Companies Act, 2013. 
+
+viii)winding up of the company or making a general assignment for the benefit of 
+the creditors of the company and/or the subsidiaries or admitting in writing the 
+inability of the company to repay its debts when they become due. 
+
+ix)  write-off  of  any  of  the  receivables,  loans  and  advances,  investment  or 
+
+investments or inventories outside the ordinary course of business; 
+ 
+ 
+
+f)  Quorum  rights  for  meetings  involving  the  matters  listed  above.  If  two  meetings  are 
+not  quorate,  the  next  meeting  would  be  deemed  to  have  quorum  despite  the 
+absence of the investor nominees. 
+ 
+
+28. The grant of the above rights may be subject to the following conditions:- 
+
+a)  The investor bestowed with the rights mentioned above, must invest at least 10% or 
+
+more in the target company. 
+ 
+
+ 
+
+b)  Every  company  should  formulate  a  policy  defining  the  parameters  that  will  be 
+"material" or "outside the ordinary course of business" for clauses 24(e)(i), 24(e)(iv), 
+24(e)(v), 24(e)(vi) and 24(e)(ix) which shall be disclosed to the shareholders. Grant 
+of  the  protective  rights  mentioned  under  para  24  above,  to  an  investor  shall  be 
+subject  to  obtaining  the  public  shareholder's  approval  (majority  of  minority)  in  this 
+regard.  Such  rights  shall  also  be  incorporated  in  Articles  of  Association  of  the 
+company after obtaining shareholders’ approval. 
+ 
+
+c)  In  case  of  IPOs,  the  existing  agreements  would  need  to  be  cancelled/modified  or 
+suspended  till  the  approval  of  public  shareholders  (majority  of  minority)  is  taken 
+post-listing of shares. 
+ 
+ 
+
+ 
+ 
+
+Page 7 
+
+ 
+
+ 
+
+ 
+ 
+Option 2:- Adopting a numerical threshold  
+
+ 
+
+ 
+
+ 
+
+   
+
+29. Considering  the  international  practices  and  the  current  regulatory  environment  in 
+
+India,  the  definition  of control  may  be  amended  such  that  control  is  defined  on  the 
+
+basis  of  the  right  or  entitlement  to  exercise  certain  specified  voting  rights  of  a 
+
+company, or the right to appoint certain number of directors of a company. 
+
+ 
+
+30. In  India,  the  Companies  Act  recognizes  any  holding  in  excess  of  25%  as  the 
+
+threshold  at  which  special  resolutions  can  be  blocked.  Further,  the  threshold  for 
+
+substantial  acquisition  under  the  Takeover  Regulations  is  25%.    It  would,  thus,  be 
+
+appropriate  that  25%  may  also  be  specified  as  the  threshold  level  for  trigger  of 
+
+control in Indian listed companies. 
+
+ 
+
+ 
+
+31. Further,  with  respect  to  the  control  being  exercised  through  the  right  to  appoint 
+
+majority  of  directors,  it  may  be  mentioned  that  Regulation  17  of  SEBI  (Listing 
+
+Obligations and Disclosure Requirements) Regulations, 2015 mandates that at least 
+
+one-third of the board of directors shall comprise of independent directors where the 
+
+chairperson of the board of directors is a non-executive director, and at least half of 
+
+the board of directors shall comprise of independent directors where the listed entity 
+
+does not have a regular non-executive chairperson. 
+
+ 
+
+32. Thus,  there  would  a  large  number  of  listed  companies  in  which  at  least  half  of  the 
+
+board  members  are  independent  and  thereby,  right  to  appoint  majority  of  directors 
+
+would  not  be  applicable  to  such  cases.  Therefore,  an  entity  having  the  right  to 
+
+appoint majority of non-independent directors may be considered to be in control of 
+
+the company. 
+
+ 
+
+33. In view of the above, the definition of ‘control’ under the Takeover Regulations may 
+
+be amended such that control is defined as: 
+
+“(a)  the  right  or  entitlement  to  exercise  at  least  25%  of  voting  rights  of  a  company 
+
+irrespective of whether such holdings gives de facto control 
+
+and/or 
+
+(b) the right to appoint majority of the non-independent directors of a company.” 
+
+ 
+Pros and Cons of the above two options:- 
+34. Investor having the protective rights as mentioned under Option 1 would continue to 
+
+be  a  public  shareholder  and  acquisition  of  the  said  rights  would  not  amount  to 
+
+acquisition  of  ‘control’  under  the  Takeover  Regulations,  2011.  However,  this  only 
+
+being an indicative list, acquisition of other rights would be examined on the basis of 
+
+the  facts  and  circumstances  of  the  case.  In  case  such  rights  are  deemed  to  be 
+
+ 
+ 
+
+Page 8 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+participative in nature, it would amount to acquisition of ‘control’ and necessitate an 
+
+open  offer  under  regulation  4  of  the  Takeover  Regulations,  2011.  However,  this 
+
+approach  may  lead  to  further  complexities  in  assessment  of  control  and  lead  to 
+
+ambiguity in interpretation.  
+
+ 
+
+35. In case Option 2 is adopted, the acquisition of control through other means such as 
+
+special  rights,  etc.  would  not  necessitate  an  open  offer  requirement  under  the 
+
+Takeover Regulations. However, it would reduce the uncertainty in the assessment 
+
+of  acquisition  of  ‘control’  and  bring  clarity.  Further,  the  extent  of  influence  by  the 
+
+investor over the board of directors would also be ascertainable in all cases. 
+
+ 
+
+Public Comments 
+
+ 
+
+36. Considering  the  implications  of  the  said  matter  on  the  market  participants,  public 
+
+comments are solicited on the following:- 
+
+(a)  "Whether  option  1  or  option  2  or  any  other  option  is  preferable  in  the  Indian 
+context." 
+(b) Any other suggestions/comments. 
+ 
+Specific  comments/suggestions  as  per  the  format  given  below  would  be  highly 
+
+appreciated: 
+
+Name of entity/person/intermediary: 
+
+Name of organization (if applicable): 
+ 
+Sr. No. 
+ 
+
+ 
+
+Proposed/suggested changes 
+
+Rationale 
+
+ 
+
+ 
+
+37. Such  comments  may  please  be  e-mailed  on  or  before  April  14,  2016,  to 
+
+control@sebi.gov.in or sent by post, to:- 
+
+ 
+
+Ms. V. Divya Veda 
+
+Deputy General Manager 
+
+Corporation Finance Department 
+
+Securities and Exchange Board of India, 
+
+SEBI Bhavan, Plot No.C4-A, ‘G’ Block,  
+
+Bandra Kurla Complex, Bandra (East), Mumbai - 400051 
+
+Ph :+91-22-26449302  
+
+ 
+
+ 
+
+ 
+ 
+
+Page 9 
+
+

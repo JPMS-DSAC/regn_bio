@@ -1,0 +1,663 @@
+ 
+
+CIRCULAR 
+
+ 
+
+SEBI/ HO/ MIRSD/ DOS3/ CIR/ P/ 2019/ 70 
+
+ 
+
+                              June 13, 2019 
+
+To 
+ 
+All Credit Rating Agencies (CRAs) registered with SEBI 
+All Debenture Trustees (DTs) registered with SEBI 
+ 
+Dear Sir/ Madam, 
+
+ 
+
+Sub: Guidelines for Enhanced Disclosures by Credit Rating Agencies (CRAs) 
+
+ 
+
+ 
+1.  In order to further strengthen the disclosures made by CRAs and enhance the rating 
+
+standards, it has been decided to prescribe the following disclosures: 
+
+ 
+
+ 
+
+I.  Computation of Cumulative Default Rates (CDR) 
+
+ 
+A.  With a view to aligning the methodology of calculation of default rates with that 
+followed  globally  and 
+in  partial  modification  of  SEBI  Circular 
+CIR/MIRSD/CRA/6/2010  dated  May  3,  2010,    the  default  rates  shall  be 
+computed in the following manner: 
+ 
+
+a.  CDR shall be calculated issuer-wise using the Marginal Default Rate (MDR) 
+
+approach, using monthly static pools. 
+
+b.  The  above  may  be  adjusted  for  rating  withdrawals.  For  securities,  the 
+withdrawn rating shall be included in the computation of default rates till the 
+completion  of  the  cohort  or  the  maturity  of  the  instrument,  whichever  is 
+earlier. Accordingly, all DTs shall continue to report any delays/ default in 
+payment on debentures to the CRA(s) having rated the said debenture for 
+the lifetime of the instrument, irrespective of the rating on that instrument 
+being withdrawn. 
+
+c.  Ratings of non-cooperative issuers shall be included in the cohort under the 
+
+rating category in which the instrument is currently being rated. 
+ 
+
+B.  Based on the above approach, a CRA shall disclose, on an annual basis, the 
+average one-year, two-year and three-year cumulative default rates (based on 
+weighted average) each for: 
+ 
+
+a.  Last 10-financial years period (Long-run average default rates) 
+b.  24, 36 and 48 most recent cohorts, respectively (Short-run average default 
+
+rates) 
+
+ 
+
+Page 1 of 10 
+
+ 
+
+ 
+
+C.  The format of the above disclosures is specified at Annexure A. Consequently, 
+Annexure B. VII of SEBI Circular SEBI/HO/MIRSD/ DOP2/CIR/P/2018/86 dated 
+May 30, 2018 stands deleted.  
+
+ 
+
+D.  The above disclosures shall be made on a consolidated basis for all financial 
+
+instruments rated by a CRA. 
+
+ 
+E.  Further,  the  historical  data  on  the  default  rates  disclosed  every  year  shall  be 
+
+archived and made available on the website of each CRA for last 10 years. 
+
+ 
+In order to achieve a consistent approach, CRAs, in consultation with SEBI, shall 
+frame a uniform Standard Operating Procedure (SOP) in respect of tracking and 
+timely recognition of default, which shall be disclosed on the website of each CRA. 
+
+ 
+
+Introducing Probability of Default (PD) benchmarks for CRAs 
+ 
+A.  In order to enable investors to discern the performance of a CRA vis-à-vis a 
+standardised  PD  benchmark  scale,  CRAs,  in  consultation  with  SEBI,  shall 
+prepare and disclose standardized and uniform PD benchmarks for each rating 
+category  on  their  website,  for  one-year,  two-year  and  three-year  cumulative 
+default rates, both for short-run and long-run.  
+ 
+
+B.  These benchmarks shall be prepared based on the following key principles: 
+
+ 
+
+II. 
+
+III. 
+
+a.  Marginal Default Rate (MDR) approach, using monthly static pool, for last 
+
+10-year period. 
+
+b.  The short-run benchmarks may account for spikes due to economic cycles 
+or unforeseen events, and hence, may have a wider band. The same shall 
+be computed based on a confidence interval of 99.7% over the weighted 
+average  of  1-year,  2-year  and  3-year  default  rates  pertaining  to  last  10-
+year period, making adjustments to achieve ordinality, wherever required.  
+c.  The long-run benchmarks iron out economic cycles since these are over a 
+longer tenure (10-year period) and may, therefore, be narrower. The same 
+shall  be  computed  based  on  a  confidence  interval  of  95%  over  the 
+weighted  average default rates  (1-year, 2-year and  3-year)  pertaining to 
+10-year  period,  making  adjustments  to  achieve  ordinality,  wherever 
+required. 
+
+d.  The same may be adjusted for rating withdrawals. For securities, the rating 
+shall be included in the computation of default rates till the completion of 
+the cohort or the maturity of the instrument, whichever is earlier. 
+
+e.  Ratings of non-cooperative issuers shall be included in the cohort under 
+
+the rating category in which the instrument is currently being rated. 
+
+f.  The PD benchmark for the rating categories AAA, AA and A shall be as 
+under, subject to any unexpected legal events/ mitigating circumstances 
+impacting the default rates, with certain permitted tolerance levels: 
+
+ 
+
+Page 2 of 10 
+
+ 
+
+i.  For AAA: 
+
+ 
+
+ 
+
+ii. 
+
+iii. 
+
+  Zero for 1-year and 2-year default rate.  
+  Zero for 3-year default rate, with a tolerance level of 1%. 
+For  AA: 
+  Zero for 1-year default rate.  
+  Zero for 2-year default rate with a tolerance level of 2%. 
+For A: 
+  Zero for 1-year default rate with a tolerance level of 3%. 
+ 
+
+g.  For ratings on non-structured instruments, various instruments of an issuer 
+with  equal  seniority  level  and  having  same  rating  shall  not  be  included 
+separately for default rate calculation. However, various instruments of an 
+issuer  having  different  seniority  levels  shall  be  included  as  separate 
+instances, subject to a cap of three instances across all rating categories 
+put together.  
+
+ 
+
+h.  For  ratings  on  structured  instruments,  various  instruments,  issued  by  a 
+trust, with the same degree of seniority and hence having same rating shall 
+not be  included separately for default rate calculation. However,  various 
+instruments,  issued  by  a  trust,  having  different  seniority  levels  shall  be 
+included as separate instances. Further, in order to avoid under-estimation 
+of  default  rates  in  case  of  significantly  higher  number  of  tranches  of 
+differing  seniority  but  same  rating,  a  cap  of  three  tranches  per  rating 
+category per issuer may be applied. 
+
+ 
+
+C.  The  above  standardised  and  uniform  PD  benchmarks  shall  be  disclosed  on 
+the website of each CRA for ratings of long-term and short-term instruments, 
+on  a  consolidated  basis  for  all  financial  instruments  rated  by  a  CRA,  by 
+December 31, 2019. 
+ 
+
+D.  CRAs may review their rating methodologies in order to align the same with 
+
+the proposed PD benchmarks. 
+
+ 
+E.  The above PD benchmarks and tolerance levels may be re-indexed from time 
+
+to time.  
+
+ 
+
+IV.  Rating symbol for Instruments having explicit Credit Enhancement feature 
+
+ 
+A.  SEBI, vide circulars dated May 03, 2010 and June 15, 2011, had mandated 
+certain disclosures and standardised the rating symbols in respect of rating of 
+structured  finance  products,  namely,  instruments/  pay-outs  resulting  from 
+securitization transactions, by using suffix ‘SO’. 
+ 
+
+ 
+
+Page 3 of 10 
+
+ 
+
+ 
+
+B.  It is observed that CRAs are also assigning ‘SO’ suffix to ratings of instruments 
+other than securitized  or asset backed transactions. The  ‘SO’ rating to such 
+instruments is based on some form of explicit credit enhancement from a third 
+party/  parent/  group  company,  in  the  form  of  corporate  guarantee/  letter  of 
+comfort/ pledge of shares, etc. There is a need to differentiate ratings of such 
+instruments from the ratings of securitized debt and asset backed transactions. 
+It has therefore been decided that: 
+
+ 
+
+ 
+
+a.  CRAs shall now assign the suffix ‘CE’ (Credit Enhancement) to rating of 
+instruments  having  explicit  credit  enhancement.  In  this  regard,  the 
+standardised  symbols  and  definitions,  annexed  as  Annexure  B,  shall 
+henceforth  be  used  for  new  ratings/  reviews  by  the  CRAs.  For  existing 
+outstanding ratings, the CRAs shall:   
+
+ 
+
+i. 
+ii. 
+iii. 
+
+disclose new rating symbols and definitions on their websites; 
+update their rating lists on their websites; and  
+inform  their  clients  about  the  change  in  the  rating  symbols  
+and    definitions    and    specifying    that    this    should    not    be  
+construed  as  a  change in the ratings. 
+ 
+
+b.  Disclosure  of  unsupported  and  supported  ratings  -  To  bring  more 
+transparency  and  to  enable  investors  to  understand  the  extent  of  credit 
+enhancement  provided  by 
+third  party/  parent/  Group  Company, 
+disclosures of both the ratings i.e. unsupported ratings without factoring in 
+the explicit credit enhancement and supported rating after factoring in the 
+explicit  credit  enhancement  shall  be  disclosed  in  the  Press  release. 
+Further, the Press Release shall also contain a detailed explanation of all 
+the covenants of the instrument. 
+
+ 
+
+c.  The  CRAs  shall  devise  a  model  to  assess  the  adequacy  of  credit 
+enhancement  structure  under  various  scenarios 
+including  stress 
+scenarios. Such assessment shall also be disclosed in the press release 
+regarding the rating action. 
+
+V.  Disclosure of rating sensitivities in press release 
+
+ 
+A.  The disclosure of factors to which the rating is sensitive, is critical for the end-
+users  to  understand  the  factors  that  would  have  the  potential  to  impact  the 
+credit worthiness of the entity. Accordingly, in order to improve transparency, 
+the  CRA  shall  have  a  specific  section  on  ‘Rating  Sensitivities’  in  the  Press 
+Release  which  shall  explain  the  broad  level  of  operating  and/  or  financial 
+performance levels that could trigger a rating change, upward and downward. 
+Such  factors  shall  be  disclosed  in  quantitative  terms  to  the  extent  possible, 
+discernible to the investors, and should not read like a general risk factor.  
+ 
+
+ 
+
+Page 4 of 10 
+
+VI.  Disclosure on liquidity indicators 
+
+ 
+
+ 
+
+ 
+A.  SEBI Circular SEBI/ HO/ MIRSD/ DOS3/CIR/P/2018/140 dated November 13, 
+2018,  inter-alia,  mandated  inclusion  of  a  specific  section  on  Liquidity  in  the 
+Press Release, highlighting parameters such as liquid investments, access to 
+unutilised  credit  lines,  liquidity  coverage  ratio,  adequacy  of  cash  flows  for 
+servicing maturing debt obligation, etc. 
+
+ 
+
+B.  In  order  to  make  the  disclosures  meaningful  to  the  end  users,  it  has  been 
+decided  to  mandate  disclosure  of  liquidity  indicators  using  standardised 
+terminology. Accordingly, CRAs shall, in addition to the disclosures mandated 
+vide aforesaid circular, shall also disclose the liquidity indictors using one of 
+the following indicators and give an explanation thereon: 
+
+ 
+
+ 
+
+a.  Superior / Strong 
+b.  Adequate 
+c.  Stretched 
+d.  Poor 
+
+An indicative description for these liquidity indicators is enclosed as Annexure 
+C. 
+ 
+
+VII.  Tracking deviations in bond spreads 
+
+ 
+A.  SEBI circular No. SEBI/ HO/ MIRSD/ DOS3/CIR/P/2018/140 dated November 
+13,  2018,  inter-alia,  provided  that  CRAs  may  treat  sharp  deviations  in  bond 
+spreads of debt instruments vis-à-vis relevant benchmark yield as a material 
+event, while reviewing material events. It is reiterated that CRAs shall devise 
+a model to track deviations in bond spreads in line with the said circular.  
+
+ 
+
+2.  This  circular  is  issued  in  exercise  of  the  powers  conferred  by  Section  11  (1)  of 
+Securities  and  Exchange  Board  of  India  Act,  1992  read  with  the  provisions  of 
+Regulation  20  of  SEBI  (Credit  Rating  Agencies)  Regulations,  1999,  to  protect  the 
+interest of investors in securities and to promote the development of, and to regulate, 
+the securities market. 
+
+ 
+Yours faithfully, 
+ 
+ 
+Surabhi Gupta 
+General Manager 
+Tel. No: 022-26449315 
+Email id: surabhig@sebi.gov.in 
+
+ 
+
+ 
+
+ 
+
+Page 5 of 10 
+
+ 
+
+ANNEXURE A 
+
+ 
+
+ANNEXURE A.1. – Long-run average default rates for long term instruments 
+
+Rating Category   1-Year Default 
+
+Rate 
+ 
+
+2-year 
+Cumulative 
+Default Rate 
+
+3-year 
+Cumulative 
+Default Rate 
+
+AAA 
+AA 
+A 
+
+BBB 
+BB 
+B 
+C 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ANNEXURE A.2. – Long-run average default rates for short term instruments 
+
+Rating Category   1-Year Default Rate 
+
+A1+ 
+A1 
+A2 
+A3 
+A4 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ANNEXURE A.3. – Short-run average default rates for long term instruments 
+
+Rating Category   1-Year Default 
+
+Rate 
+ 
+
+2-year 
+Cumulative 
+Default Rate 
+
+3-year 
+Cumulative 
+Default Rate 
+
+AAA 
+AA 
+A 
+
+BBB 
+BB 
+B 
+C 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 6 of 10 
+
+ANNEXURE A.4. – Short-run average default rates for short term instruments 
+
+ 
+
+ 
+
+ 
+
+Rating Category   1-Year Default Rate 
+
+ 
+
+A1+ 
+A1 
+A2 
+A3 
+A4 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Page 7 of 10 
+
+ 
+
+ANNEXURE B 
+
+ 
+
+Rating Symbols and Definitions for Long Term Credit Enhanced Instruments 
+ 
+Long term Credit Enhancement instruments: The instruments with original 
+maturity exceeding one year  
+ 
+Rating symbols should have CRA’s first name as prefix. 
+ 
+AAA (CE) - Instruments with this rating are considered to have the highest degree 
+of  safety      regarding  timely  servicing  of  financial  obligations.  Such  instruments 
+carry lowest credit risk.  
+ 
+AA (CE) - Instruments with this rating are considered to have high degree of safety 
+regarding timely servicing of financial obligations. Such instruments carry very low 
+credit risk.  
+ 
+A (CE) - Instruments with this rating are considered to have adequate degree of 
+safety  regarding timely servicing of financial  obligations. Such instruments carry 
+low credit risk.  
+ 
+BBB (CE) - Instruments with this rating are considered to have moderate degree 
+of safety regarding timely servicing of financial obligations. Such instruments carry 
+moderate credit risk.  
+ 
+BB  (CE)  -  Instruments  with  this  rating  are  considered  to  have  moderate  risk  of 
+default regarding timely servicing of financial obligations.  
+ 
+B (CE) - Instruments  with this rating  are considered to  have  high  risk of default 
+regarding timely servicing of financial obligations.   
+ 
+C (CE) - Instruments with this rating are considered to have very high likelihood of 
+default regarding timely payment of financial obligations.  
+ 
+D (CE) - Instruments with this rating are in default or are expected to be in default 
+soon. 
+ 
+Modifiers {"+" (plus)  / "-"(minus)} can be  used with the rating symbols for 
+the  categories  AA  (CE)  to  C  (CE).  The  modifiers  reflect  the  comparative 
+standing within the category. 
+ 
+ 
+
+ 
+
+Page 8 of 10 
+
+ 
+
+ 
+
+Rating Symbols and Definitions for Short Term Credit Enhanced Instruments 
+ 
+Short  term  Credit  Enhanced  Instruments:  The  instruments  with  original 
+maturity of up to one year  
+ 
+Rating symbols should have CRA’s first name as prefix. 
+ 
+A1 (CE) – Instruments with this rating are considered to have very strong degree 
+of safety regarding timely payment of financial obligation. Such instruments carry 
+lowest credit risk.  
+ 
+A2 (CE)  -  Instruments  with  this  rating  are  considered  to  have  strong  degree  
+of  safety  regarding  timely    payment  of  financial  obligation. Such instruments 
+carry low credit risk.  
+ 
+A3 (CE) - Instruments with this rating are considered to have moderate degree of 
+safety  regarding  timely  payment  of  financial  obligation.    Such  instruments  carry 
+higher credit risk as compared to instruments rated in the two higher categories.  
+ 
+A4 (CE) - Instruments with this rating are considered to have minimal degree of 
+safety  regarding  timely  payment  of  financial  obligation.  Such  instruments  carry 
+very high credit risk and are susceptible to default. 
+ 
+D (CE) - Instruments with this rating are in default or expected to be in default on 
+maturity. 
+ 
+Modifier {"+" (plus)} can be used with the rating symbols for the categories 
+A1 (CE) to  A4 (CE).  The modifier reflects the comparative standing within 
+the category. 
+
+ 
+
+Page 9 of 10 
+
+ 
+
+ 
+
+ 
+
+ANNEXURE C 
+
+ 
+
+Indicative illustration of usage of descriptors for liquidity assessment 
+
+1.  Liquidity:  Superior/  Strong  -  Liquidity  is  marked  by  strong  accruals  against 
+negligible  repayment  obligations  and  liquid  investments  to  the  tune  of  Rs.xxx 
+Crore. With a gearing of xx times as of March 31, xxxx, the issuer has sufficient 
+gearing headroom, to raise additional debt for its capex. Its unutilized bank lines 
+are  more  than  adequate  to  meet  its  incremental  working  capital  needs  over  the 
+next one year.  
+ 
+
+2.  Liquidity:  Adequate  -  Adequate  liquidity  characterized  by  sufficient  cushion  in 
+accruals  vis-à-vis  repayment  obligations  and  moderate  cash  balance  of  Rs.xx 
+Crore. Its capex requirements are modular and expected to be funded using debt 
+of Rs.xx Crore for which it has sufficient headroom. Its bank limits are utilized to 
+the extent of 80% and has sought enhancement in bank lines, supported by above 
+unity current ratio.  
+ 
+
+3.  Liquidity:  Stretched  -  Liquidity  is  marked  by  tightly  matched  accruals  to 
+
+repayment obligations, highly utilized bank limits and modest cash balance.  
+ 
+
+4.  Liquidity:  Poor  -  Poor  liquidity  marked  by  lower  accruals  when  compared  to 
+repayment  obligations,  fully  utilized  bank  limits  and  modest  cash  balance.  This 
+could constrain the ability of the company to repay is debt obligations on a timely 
+basis. 
+ 
+ 
+
+ 
+
+Page 10 of 10 
+
+

@@ -1,0 +1,291 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CIRCULAR 
+
+ 
+
+         December 09, 2016  
+
+ 
+ 
+ 
+CFD/DCR2/CIR/P/2016/131 
+ 
+To 
+ 
+All Recognised Stock Exchanges 
+All Depositories 
+All Registered Merchant Bankers 
+All Registrars to the Issue 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Streamlining the Process for Acquisition of Shares pursuant to Tender-Offers 
+made for Takeovers, Buy Back and Delisting of Securities. 
+ 
+
+1.  SEBI had issued circular No. CIR/CFD/POLICY CELL/1/2015 dated April 13, 2015 
+
+on  Mechanism  for  acquisition  of  shares  through  stock  exchange  mechanism 
+
+pursuant  to  tender-offers  for  the  purpose  of  takeovers,  buy  back  and  delisting  of 
+
+securities. 
+
+ 
+
+2. 
+
+In the current mechanism, the shareholders submit their bids through stock brokers 
+
+and  subsequently,  the  brokers  transfer  the  shares  to  the  special  account  of  the 
+
+clearing  corporation.  Likewise,  the  consideration  payable  to  shareholders  for  the 
+
+shares accepted in the offer are routed through stock brokers. Also, the shares not 
+
+accepted in the offer are returned to shareholders through the stock brokers. 
+
+ 
+
+3. 
+
+It has now been decided in consultation with the stock exchanges and depositories 
+
+that  transfer  of  shares  of  shareholders  under  the  tender  offers  would  be  made 
+
+directly to the account maintained by the clearing corporation. After such transfer of 
+
+securities, the clearing corporation will be allowed to utilize the securities towards 
+
+the settlement obligations under such offers. Further, consideration for the accepted 
+
+shares in the tender offer and shares tendered but not accepted  under such offer 
+
+would be credited directly to shareholders' bank and demat accounts respectively.  
+
+ 
+
+Page 1 of 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.  The aforesaid measures will reduce the systematic risk for investors and ease the 
+
+process of implementation.   
+
+ 
+
+5.  The  procedural  aspects  for  tendering  and  settlement  of  shares  under  the  revised 
+
+system are specified in the Annexure. 
+
+ 
+
+6.  The  said  revised  procedure  shall  be  applicable  to  all  the  offers  for  which  Public 
+
+Announcement is made on or after January 02, 2017.  
+
+7.  Stock  Exchanges  and  Depositories  shall  take  necessary  steps  and  put  in  place 
+
+necessary infrastructure and systems for implementation of the mechanism and to 
+
+ensure compliance with requirements of this circular.  
+
+8.  The  amendments  in  the  procedure  are  carried  out  in  exercise  of  the  powers 
+
+conferred under section 11 (1) of the Securities and Exchange Board of India Act, 
+
+1992 read with regulation 13(1A) of Delisting Regulations, regulation 9(3A) of Buy 
+
+Back Regulations, regulation 18(6A) of Takeover Regulations as amended. 
+
+ 
+
+9.  This  Circular  along  with  the  Annexure  is  available  on  the  SEBI  website  at 
+
+www.sebi.gov.in under the category "Legal framework". 
+
+ 
+
+Yours faithfully,  
+
+Amit Tandon  
+
+Deputy General Manager  
+
++91-22-26449373  
+
+amitt@sebi.gov.in  
+
+ 
+
+Page 2 of 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEXURE 
+
+ 
+ 
+
+Amendments to Procedure for tendering and settlement of shares through Stock 
+
+Exchange 
+
+ 
+
+1.  Amendment to Procedure for Placing of Orders and Basis of Acceptance. 
+
+1.1   The clause (h) and (i) shall be substituted with the following:  
+
+ 
+h.  “The securities pay-in shall be as per the early pay-in mechanism currently available 
+
+in the secondary market.” 
+
+ 
+
+i. 
+
+“The shares tendered by the shareholder under the offer shall be transferred directly 
+
+to  Clearing  Corporation  of  the  stock  exchange  providing  Acquisition  Window  (CC) 
+
+using early pay-in mechanism prior to placing the bid by the seller broker.”  
+
+ 
+
+1.2    After clause (i), the following clauses shall be inserted: 
+
+  
+
+ia.  “Depositories shall provide information to CC about the shareholder on whose behalf 
+
+the  member  has  placed  sell  order.  This  information  shall  include  investor  PAN, 
+
+beneficiary account details and bank details including IFSC code.”   
+
+ 
+
+ib.  “The  cumulative  quantity  tendered  shall  be  made  available  online  to  the  market 
+
+throughout  the  trading  session  at  specific  intervals  by  Stock  Exchange  providing 
+
+acquisition window during the tendering period on the basis of shares transferred to 
+
+CC using early pay-in mechanism.” 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 3 of 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.  Amendment to Procedure for Execution of trades and settlement 
+
+2.1   The clause (l) and (m) shall be substituted with the following:  
+
+  
+
+l. 
+
+“Once  the  basis  of  acceptance  is  finalised,  CC  would  transfer  unaccepted  shares 
+
+directly to the shareholders account. If the securities transfer instruction is rejected in 
+
+the depository system, due to any issue then such securities will be transferred to the 
+
+seller broker’s depository pool account for onward transfer to the shareholder.” 
+
+ 
+
+m.  “Acquirer will transfer the funds pertaining to the offer to CC's bank account. CC will 
+
+then settle the trades by making direct funds payout to shareholders. If shareholders 
+
+bank account details are not available or if the funds transfer instruction is rejected by 
+
+RBI/bank, due to any issue then such funds will be transferred to the seller broker’s 
+
+settlement account for onward transfer to shareholder.” 
+
+ 
+
+2.2   Clause (n) shall be deleted. 
+
+ 
+
+2.3   Clause (o) shall be substituted with the following: 
+
+ 
+
+o.  “The seller broker would then issue contract note for the shares accepted in the offer.” 
+
+ 
+
+2.4   Sub-clause (iv) of clause (p) shall be substituted with the following: 
+
+‘Details of Early Pay-in account of CC’. 
+
+ 
+
+*********************** 
+
+ 
+
+Page 4 of 4 
+
+

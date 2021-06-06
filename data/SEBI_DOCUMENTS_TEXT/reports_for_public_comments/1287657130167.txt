@@ -1,0 +1,2775 @@
+Draft for Public Comments 
+
+ Draft Listing Agreement for Securitized Debt Instruments 
+
+ 
+Securities and Exchange Board of India (SEBI) had notified the Regulations for Public 
+Offer  and  Listing  of  Securitized  Debt  Instruments  on  May  26,  2008.  The  Regulations, 
+inter alia, specified initial disclosure requirements for offer documents for public issues of 
+securitized debt instruments and privately placed securitized debt instruments that are 
+proposed to be listed on stock exchanges.  
+ 
+Further  to  the  initiative,  in  order  to  enable  listing  of  such  instruments  on  stock 
+exchanges,  SEBI  has  prepared  a  draft  Listing  Agreement  for  Securitized  Debt 
+Instruments  containing  continuous  disclosure  requirements.  The  draft  has  now  been 
+placed on the SEBI Website for public comments/ suggestions till October 31, 2010. 
+ 
+The draft Listing Agreement seeks to disseminate performance related information on a 
+monthly basis. This format includes pool level, asset-level and tranche level information 
+so as to enable investors to asses the performance of underlying pools. While disclosure 
+of loan level details is proposed to be mandatory for pools with less than 20 loans per 
+asset class, for others, quartile analysis of the performance of loans is proposed.  
+ 
+The  draft  Listing  Agreement  for  Securitized  Debt  Instruments  places  the  burden  of 
+disclosures  on  the  Special  Purpose  Distinct  Entity  (SPDE)  which  is  the  issuer  of 
+securitized debt. In order to facilitate flow of information, the draft requires the SPDE to 
+enter into back to back arrangements with the originator, servicer and the trustee.  
+ 
+Public  comments/  suggestions  may  be  sent  by  e-mail  up  to  October  31,  2010  to  Shri 
+Vikas  SS,  Assistant  General  Manager  (vikas@sebi.gov.in)  and/  or  Ms.  Nila  Kumar 
+Hariharan,  Manager  (nilakumarh@sebi.gov.in).  Alternatively,  the  same  may  be  sent 
+physically to the following address, so as to reach latest by October 30, 2010:  
+
+The Deputy General Manager, 
+
+Division of Funds – I, Investment Management Department, 
+
+Securities and Exchange Board of India, 
+
+SEBI Bhavan, C-4A, G-Block, 
+
+Bandra Kurla Complex, Mumbai – 400051. 
+
+  
+Mumbai 
+October 06, 2010 
+
+Draft 
+
+LISTING AGREEMENT FOR SECURITISED DEBT INSTRUMENTS 
+
+ 
+
+ 
+This agreement made at ___________ (place) this ______________________ day 
+of___________20_____between_____________________  a  Special  Purpose 
+Distinct Entity (SPDE) duly formed and registered under _______________ (mention 
+relevant Act) and having its Registered office at ___________________ (hereinafter 
+called  “the  SPDE”)  and  the  _______________  (name  of  the  Stock  Exchange) 
+(hereinafter called ‘the Exchange’).  
+ 
+WHEREAS,  
+ 
+By a Memorandum of Agreement dated ___________ executed by and between the 
+SPDE and ______________, a _________________ (mention entity type) within the 
+meaning  of  __________________________  (mention  relevant  Act)  and  having  its 
+registered office at ___________(hereinafter called “the Originator”), the SPDE has 
+agreed  to  purchase  receivables  from  the  Originator,  the  aggregate  balance 
+outstanding  principal  whereof  (excluding  any  overdue  EMIs  and/  or  penal  interest 
+thereon)  as  on  __________was  `_______________  (Rupees__________  only) 
+together with the securities therefor. 
+ 
+In  pursuance  of  the  said  memorandum  of  agreement  dated  _____________,  the 
+Originator  has  executed  a  Deed  of  Assignment  of  dated  _______________ 
+(hereinafter referred to as the “Deed of Assignment”) with the SPDE, duly registered 
+in  the  office  of  Sub-Registrar  of  Assurances,  ________________  (place)  whereby 
+the  Originator  transferred,  assigned  and  conveyed  the  various  receivables  and  the 
+securities therefor; 
+ 
+The  SPDE  has  issued  the  Offer  Document  dated  _______________  whereby  it 
+proposed  to  securitize  the  said  receivables  and  issue  Pass  Through  Certificates 
+evidencing undivided beneficial interest of the subscribers in the receivables and in 
+the  securities  therefor.  The  SPDE,  in  pursuance  of  the  said  Offer  Document  has 
+received  and  retained  subscription  amount  of  `___________  (Rupees  ________ 
+____________ only) from investors. 
+ 
+In terms of the said Offer Document, the SPDE is to set apart, transfer, hold, manage 
+and administer the receivables and the securities therefor; either by itself or through 
+a  servicer;  in  trust  for  the  benefit  of  the  Investors  to  whom  the  Pass  Through 
+Certificates  are  to  be  issued  evidencing  their  undivided  beneficial  interest  in  the 
+receivables and the securities therefor and in the cash flows therefrom. 
+ 
+By  a  Memorandum  of  Agreement  dated  __________executed  between  the  SPDE 
+and  _____________  (name  of  the  entity),  a  _________________  (mention  entity 
+type) within the meaning of __________________________ (mention relevant  Act) 
+and  having  its  registered  office  at  ___________  (hereinafter  called  “the  Servicer”), 
+the  servicer  agreed  to  undertake  coordination  with  the  obligors,  management  and 
+
+Page 1 of 21 
+
+collection of the asset pool and making allocations and distributions to holders of the 
+securitized debt instruments and reinvestment, if any, in accordance with the scheme 
+and any other matters in accordance with Securities And Exchange Board Of India 
+(Public  Offer  And  Listing  Of  Securitized  Debt  Instruments)  Regulations,  2008 
+(hereinafter referred to as “the Regulations”). 
+ 
+By  a  Memorandum  of  Agreement  dated  __________executed  between  the  SPDE 
+and __________, a _________________ (mention entity type) within the meaning of 
+__________________________  (mention  relevant  Act)  and  having  its  registered 
+office  at  ___________(hereinafter  called  “the  Trustee”),  the  Trustee  agreed  to 
+comply with all obligations and conditions as required by the Regulations. 
+ 
+The SPDE has filed with the Exchange an application for listing its Securitised Debt 
+Instruments  that  have  been  issued  by  way  of  an  offer  document  prepared  in 
+compliance with Schedule V of the Securities and Exchange Board of India (Public 
+Offer and Listing of Securitised Debt Instruments) Regulations, 2008 annexed hereto 
+and made a part thereof.  
+ 
+NOW THEREFORE in consideration of the Exchange having agreed to list the said 
+securities, the SPDE hereby agrees to covenants stipulated in this Listing Agreement 
+and agrees with the Exchange as follows :- 
+ 
+1.  The SPDE agrees:  
+
+ 
+
+(a)  to  intimate  to  the  Exchange,  of  its  intention  to  issue  new  securitised  debt 
+instruments either through a public issue or on private placement basis (if it 
+proposes to list such privately placed debt securities on the Exchange) prior 
+to issuing such securities;  
+
+(b)  to make an application to the Exchange for the listing of such new issue of 
+securitised debt instruments and to submit such provisional documents as 
+required by the Exchange; 
+
+(c)  to  ensure  that  any  scheme  of  arrangement/  amalgamation/  merger/ 
+reconstruction/ reduction of capital to be presented to any Court or Tribunal 
+does  not  in  any  way  violate,  override  or  circumscribe  the  provisions  of 
+securities laws or the Exchange requirements;  
+
+  Explanation:  For  the  purposes  of  this  sub-clause,  ‘securities  laws’  mean 
+the  SEBI  Act,  1992,  the  Securities  Contracts  (Regulation)  Act,  1956,  the 
+Depositories  Act,  1996  and  the  provisions  of  the  Companies  Act,  1956 
+which  are  administered  by  SEBI  under  section  55A  thereof,  the  rules, 
+regulations, guidelines etc. made under these Acts and the instant Listing 
+Agreement.  
+
+(d)  that  no  material  modification  shall  be  made  to  the  structure  of  the 
+securitised debt instruments in terms of coupon, conversion, redemption, or 
+otherwise  without  prior  approval  of  the  Exchanges  where  the  securitised 
+debt  instruments  are  listed.  The  SPDE  shall  make  an  application  to  the 
+exchange only after the approval by Trustees.  
+
+ 
+
+(e)  at  all  times  abide  by  the  requirements  of  the  Securities  and  Exchange 
+Board  of  India  Act,  1992,  the  Securities  Contracts(  Regulation)  Act,1956 
+and  rules  and  the  regulations  made  thereunder  as  applicable  to  further 
+issuance, if any, of securitised debt instruments. 
+ 
+
+2.  The SPDE agrees that it shall, either by itself or through the servicer, :-  
+
+ 
+
+(a)  ensure timely interest/ redemption payment;  
+(b)  create    and    maintain    credit  enhancement    for    listed  securitized  debt 
+
+instruments at all times; 
+
+(c)  create and register the charges on the assets where secured debt securities 
+
+are issued; (as applicable) 
+
+(d)  ensure  that  services  of  ECS  (Electronic  Clearing  Service),  Direct  Credit, 
+RTGS  (Real  Time  Gross  Settlement)  or  NEFT  (National  Electronic  Funds 
+Transfer)  are  used  for  payment  of  interest  and  redemption  or  repayment 
+amounts as per applicable norms of the Reserve Bank of India. The SPDE 
+shall  issue  ‘payable-at-par’  warrants/  cheques  for  payment  of  interest  and 
+redemption amount;  
+ 
+
+3.  The SPDE agrees that:  
+ 
+
+(a)  it  will  not  forfeit  unclaimed  interest  and  such  unclaimed  interest  shall  be 
+transferred  to  the  ‘Investor  Education  and  Protection  Fund’  set  up  as  per 
+section 205C of the Companies Act, 1956; and 
+
+(b)  unless the terms of issue provide otherwise, the SPDE shall not select any 
+of its listed securities for redemption otherwise than pro rata basis or by lot 
+and shall promptly furnish to the Exchange.  
+ 
+
+4.  The  SPDE  agrees  and  undertakes  to  designate  any  person  as  Compliance 
+
+Officer who:  
+
+ 
+
+(a)  shall be responsible for ensuring compliance with the regulatory provisions 
+applicable to such issuance of securitised debt instruments and report the 
+same at the meeting of the Trustees of the SPDE held subsequently;  
+
+(b)  shall  directly  report  to  the  Securities  and  Exchange  Board  of  India,  Stock 
+Exchanges,  Registrar  of  Companies,  etc.,  and 
+the 
+implementation of various clauses, rules, regulations and other directives of 
+these authorities;  
+
+investors  on 
+
+(c)  shall be responsible for filing the information in the CorpFiling system or any 
+other platform, where applicable, as may be mandated by SEBI from time to 
+time.  The  compliance  officer  and  the  SPDE  shall  ensure  the  correctness 
+and  authenticity  of  the  information  filed  in  the  system  and  that  it  is  in 
+conformity with applicable laws and terms of the Listing Agreement;  
+
+(d)  shall  monitor  the  designated  e-mail  ID  of  the  grievance  redressal  division 
+which  shall  be  exclusively  maintained  for  the  purpose  of  registering 
+complaints by investors. The company shall display the email ID and other 
+
+ 
+
+relevant details prominently on their websites and in the various materials / 
+pamphlets/ advertisement campaigns initiated by them for creating investor 
+awareness.  
+
+ 
+5.  The SPDE agrees that credit to demat accounts of the allottees  shall be made 
+
+within two working days from the date of allotment. 
+
+ 
+
+6.  The SPDE agrees that, in case of listing of securitised debt instruments issued to 
+
+public: 
+ 
+
+(a)  allotment of securities offered to public shall be made within 30 days of the 
+
+closure of the public issue; 
+
+(b)  it shall pay interest @ 15% per annum if the allotment has not been made 
+and/or the refund orders have not been despatched to the investors within 
+30 days from the date of closure of the issue. 
+ 
+
+7.  The  SPDE  agrees  that  it  shall  be  a  condition  precedent  for  issuance  of 
+securitised  debt  instruments  that  it  shall  deposit  before  the  opening  of 
+subscription  list  and  keep  deposited  with  the  Exchange  (in  cases  where  the 
+securitised debt instruments are offered for subscription whether through an offer 
+document or otherwise) an amount calculated at the rate of 1% (one per cent) of 
+the amount of securitised debt instruments offered for subscription to the public, 
+as  the  case  may  be  for  ensuring  compliance  by  the  company,  within  the 
+prescribed  or  stipulated  period,  of  all  prevailing  requirements  of  law  and  all 
+prevailing listing requirements and conditions as mentioned in, and refundable or 
+forfeitable  in  the  manner  stated  in  the  Rules,  Bye-laws  and  Regulations  of  the 
+Exchange for the time being in force.  
+ 
+Provided that 50% (fifty per cent) of the above mentioned security deposit should 
+be  paid  to  the  Exchange  in  cash.  The  balance  amount  can  be  provided  for  by 
+way of a bank guarantee.  
+ 
+Provided further that the amount to be paid in cash is limited to `3crores. 
+
+ 
+8.  The SPDE agrees that as soon as its securitised debt instruments are listed on 
+the Exchange, it will pay to the Exchange fees as prescribed by the Exchange, 
+and thereafter, so long as the securities continued to be listed on the Exchange, it 
+will pay to the Exchange on or before April 30, in each year an Annual Listing Fee 
+computed on the basis of the securities of the SPDE which are outstanding as on 
+March 31 and listed on the Exchange. The SPDE also agrees that it shall pay the 
+additional  fee,  at  the  time  of  making  application  for  listing  of  securitised  debt 
+instruments arising out of further issue.  
+
+ 
+9.  The  SPDE  agrees  and  undertakes,  as  a  pre-condition  for  continued  listing  of 
+securities,  hereunder,  to  comply  with  any  regulations,  requirements,  practices 
+and  procedures  as  may  be  laid  down  by  the  Exchange  for  the  purpose  of 
+
+ 
+
+dematerialisation of securities hereunder in pursuance of the prevailing statutes 
+and/or statutory regulations, to facilitate scripless trading.  
+ 
+
+10. The SPDE agrees to close transfers or fix a record date for purposes of payment 
+of  interest  and  payment  of  redemption  or  repayment  amount  or  for  such  other 
+purposes as the Exchange may agree to or require and to give to the Exchange 
+the notice in advance of at least two clear working days, or of as many days as 
+the  Exchange may from time to  time  reasonably  prescribe, stating the  dates  of 
+closure  of  transfers  (or,  when  transfers  are  not  to  be  closed,  the  date  fixed  for 
+taking  a  record  of  its  securitised  debt  instrument  holders)  and  specifying  the 
+purpose or purposes for which the transfers are to be closed (or the record is to 
+be taken). 
+ 
+
+11. The  SPDE  agrees  to  comply  with  such  provisions  as  may  be  specified  by  the 
+Exchange  for  clearing  and  settlement  of  transactions  in  securitised  debt 
+instruments. 
+
+ 
+12. In addition to the foregoing provisions and not in derogation thereof, the SPDE 
+agrees to comply with the provisions of the relevant Acts including the Securities 
+Contracts  (Regulation)  Act,  1956,  the  Securities  Contracts  (Regulation)  Rules, 
+1957 and guidelines issued by the Securities and Exchange Board of India and 
+also  such  other  guidelines  as  may  be  issued  from  time  to  time  by  the 
+Government, Reserve Bank of India and/ or the Securities and Exchange Board 
+of India.  
+ 
+
+13. The SPDE undertakes to promptly notify to the Exchange:  
+
+ 
+
+(a)  of  any  attachment  or  prohibitory  orders  restraining  the  SPDE  from 
+transferring securitised debt instruments from the account of the registered 
+holders and furnish to the Exchange particulars of the numbers of securities 
+so  affected  and  the  names  of  the  registered  holders  and  their  demat 
+account details;  
+
+(b)  of any action which will result  in the redemption, conversion, cancellation, 
+
+retirement in whole or in part of any securitised debt instruments;  
+
+(c)  of any action that would affect adversely payment of interest on securitised 
+
+debt instruments;  
+
+(d)  of  any  change  in  the  form  or  nature  of  any  of  its  securitised  debt 
+instruments that are listed on the Exchange or in the rights or privileges of 
+the holders thereof and make an application for listing of the said securities 
+as changed, if the Exchange so requires;  
+
+(e)  of  any  other  change  that  would  affect  the  rights  and  obligations  of  the 
+
+holders of securitised debt instruments;  
+
+(f)  of  any  expected  default  in  timely  payment  of  interest  or  redemption  or 
+repayment  amount  or  both  in  respect  of  the  securitised  debt  instruments 
+listed on the Exchange as soon as the same becomes apparent; 
+
+ 
+
+(g)  of any other information not in the public domain necessary to enable the 
+holders of the listed securities to clarify its position and to avoid the creation 
+of a false market in such listed securities; 
+
+(h)  the  date  of  the  meetings  of  its  Trustees  at  which  the  recommendation  or 
+declaration  of  issue  of  securitised  debt  instruments  or  any  other  matter 
+affecting the rights or interests of holders of securitised debt instruments is 
+proposed to be taken up, at least two days in advance; 
+
+(i)  of any changes in the General Character or nature of business / activities, 
+disruption  of  operation  due  to  natural  calamity,  revision  in  ratings  and 
+commencement of commercial production / commercial operations; 
+
+(j)  delay/ default in Payment of Interest / Principal Amount for a period of more 
+
+than three months from the due date; and 
+
+(k)  failure to create charge on the assets within the stipulated time period; and 
+(l)  any  other  information  having  bearing  on  the  operation/performance  of  the 
+
+SPDE as well as price sensitive information. 
+ 
+
+14. The SPDE agrees that it shall forward to the investor and the Exchange, either by 
+itself or through the servicer, any such information sought and provide access to 
+relevant books of accounts as required by the investor or the Exchange. 
+ 
+Explanation: SPDE may, subject to the consent of the investor/ Exchange, send 
+all the information in electronic form/ fax. 
+
+ 
+15. The SPDE agrees to furnish statements, either by itself or through the servicer, 
+on a monthly basis in the format specified in Annexure I within 7 days from the 
+end of the month/ actual payment date.  
+ 
+
+16. The  SPDE  agrees  that  it  shall,  either  by  itself  or  through  the  servicer,  file  the 
+information,  statements  and  reports  etc  in  such  manner  and  format  and  within 
+such  time  as  may  be  specified  by  SEBI  or  the  stock  exchange  as  may  be 
+applicable.  
+
+ 
+17. PROVIDED  ALWAYS  AND  SPDE  HEREBY  IRREVOCABLY  AGREE  AND 
+DECLARES  that  SPDE  will  not  without  the  concurrence  of  Exchange  and  the 
+previous permission in writing from SEBI withdraw its adherence to the clauses of 
+this agreement for listing of its securities.  
+ 
+
+18. THE  SPDE  FURTHER  AGREES  that  it  may  apply  for  relaxation  from  strict 
+application of the provisions of this agreement, in case it is unable to comply with 
+any of the provisions of this agreement on account of provisions of the Act/ Rules 
+or Regulations/ any other document under which it is formed or governed, or in 
+order  to  avoid  undue  hardship  to  the  security  holders,  in  which  case  the 
+Exchange may grant the relaxation sought for, with the prior approval of SEBI.  
+ 
+
+19. AND  THE  SPDE  FURTHER  AGREES  and  declares  that  any  of  its  securities 
+listed on the Exchange shall remain on the list till the maturity or redemption of 
+
+ 
+
+debt instruments or till the same are delisted as per the procedure laid down by 
+SEBI  and  the  Exchange  in  which  case  this  agreement  shall  stand  terminated 
+AND  THAT  nothing  herein  contained  shall  restrict  or  be  deemed  to  restrict  the 
+right of the Exchange to delist, suspend or remove from the list the said securities 
+at  any  time  and  for  any  reason  which  the  Exchange  considers  proper  in 
+accordance with the applicable legal provisions.  
+ 
+
+20. AND THE SPDE FURTHER AGREE that if it fails to comply with the provisions of 
+this  agreement  or  relevant  Securities  Laws  prescribed  by  the  statutory  and 
+regulatory  bodies,  the  Exchange  has  the  right  to  take  suitable  action  under 
+applicable legal provisions.  
+
+ 
+Explanation:  For  this  purpose,  ‘Securities  Laws’  mean  the  SEBI  Act,  1992,  the 
+Securities  Contracts  (Regulation)  Act,  1956,  the  Depositories  Act,  1996  and  the 
+provisions  of  the  Companies  Act,  1956  which  are  administered  by  SEBI  under 
+section  55A  thereof,  the  rules,  regulations,  guidelines  etc.  made  under  these  Acts 
+and the Listing Agreement for debt securities. 
+ 
+IN  WITNESS  WHEREOF  the  SPDE  on  the  one  has  caused  these  presents  to  be 
+executed  and  by  its  authorized  signatory  to  be  hereunto  affixed  as  of  the  day  and 
+year first above written.  
+ 
+The  signatory  of  ________________  was  hereunto  authorized  pursuant  to  a 
+resolution passed at a meeting held on _______ day of_______. 
+ 
+Signature of the authorized representative of the SPDE_______________________ 
+ 
+in the presence of _____________Signature 
+ 
+
+----X---X---X--- 
+
+ 
+
+Note- Explanation for the terms used in the tables is given at the end 
+
+Annexure-I 
+
+Disclosures for the month of __________ 
+
+A. Snapshot 
+
+A1. Pool snapshot 
+
+Originator 
+SPDE 
+Asset class (es) 
+Deal structure (Par/Premium) 
+Original Pool size 
+
+Current Pool size 
+
+Original Weighted Average Life 
+Current weighted average life 
+Door-to-door maturity 
+Initial weighted average 
+seasoning 
+ 
+ 
+
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+
+ 
+
+Total billing during the month 
+Total collections during the month 
+Cumulative collections efficiency ratio 
+Excess Spread percentage 
+Change in reserve account balance 
+Number of loans prepaid or foreclosed 
+during the month 
+Amount of loans prepaid or foreclosed 
+during the month 
+Original weighted average LTV 
+Current weighted average LTV 
+
+Total number of overdue loans 
+
+A2. Tranche snapshot 
+
+A1 Tranche  A2 Tranche  A3 tranche  A4 Tranche  A5 Tranche 
+
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+
+ 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+
+  
+
+Tranche Class Name 
+ISIN 
+Stock exchange 
+Legal Maturity of tranche 
+Rating agency 
+Original Rating 
+Current Rating 
+Record Date 
+Payment Date 
+Coupon rate 
+Principal excess/shortfalls 
+Interest excess/shortfalls 
+ 
+ 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+Note:- The asset classes are defined as Asset class-1, Asset Class-2 etc. for illustration purposes. The 
+asset class (E.g. Home loans/two-wheeler loans,etc.) shall be named as such in the respective columns 
+ 
+ 
+
+B. Pool level details 
+
+Particulars 
+
+B1. Loan details 
+
+Asset Class-1 
+Value 
+of 
+loans 
+
+Number 
+of loans 
+
+Asset Class-2 
+Value 
+of 
+loans 
+
+Number 
+of loans 
+
+Total 
+
+Number 
+of loans 
+
+Value of 
+loans 
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+Original Number /value of 
+Loans  
+Loans- opening balance 
+Loans Naturally terminated 
+Loans Prepaid 
+Loans Foreclosed 
+Loans- Closing balance 
+ 
+Note- If the number of loans under an asset class exceeds 20; provide an additional table B11 with the 
+same details as in Table B1, split into 4 quartiles for every asset class. The quartiles must be formed 
+after sorting the loans in the descending order of current outstanding principal balance.   
+E.g. If there are 40 loans for an asset class, the top 10 loans would become 1st quartile (Q1), next 10 
+would become 2nd quartile (Q2) and so on. 
+If the number of loans under an asset class is less than 20, provide loan-level details as in table D1.  
+ 
+ 
+ 
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+B2. Yield, maturity & LTV details 
+
+Particulars 
+
+Asset Class-1  Asset Class-2 
+
+Original Weighted Average Yield or Coupon 
+Current Weighted Average Yield or Coupon 
+Original Weighted Average Maturity 
+Current Weighted Average Maturity 
+Original Loan to Value (LTV) Ratio 
+Current Loan to Value (LTV) Ratio 
+Door-to-door maturity 
+ 
+ 
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+B3. Credit enhancement details 
+
+Excess Spread Percentage 
+Excess Spread Amount 
+Nature of credit enhancement facilities – whether guarantee/ deposit/ overdraft/ 
+others. If others, please specify 
+
+-  Liquidity facility 
+-  First Loss Facility  
+-  Second Loss facility 
+
+Liquidity facility 
+
+-  Opening Balance / Guarantee available at beginning of the month 
+-  Closing Balance / Guarantee available at end of the month 
+
+-  Opening Balance / Guarantee available at beginning of the month 
+-  Closing Balance / Guarantee available at end of the month 
+
+First Loss facility  
+
+Second Loss facility 
+
+-  Opening Balance / Guarantee available at beginning of the month 
+-  Closing Balance / Guarantee available at end of the month 
+
+Change in reserve account balance 
+ 
+ 
+
+B4. Waterfall mechanism 
+
+Receipts 
+  
+Collections pertaining to current billing 
+Collections pertaining to previous overdues 
+Prepayment collection 
+Collection of prepayment premium 
+Other collections net of deductions 
+Liquidity facility - Utilization for current payout 
+First Loss facility - Utilization for current payout 
+Second Loss facility- Utilization for current payout 
+  
+Total Receipts 
+  
+Payments 
+  
+Statutory / regulatory dues 
+Costs/ charges incurred by Trustee 
+Costs/ charges incurred by Designated Bank 
+Liquidity Facility Fee / Interest 
+Collection and Processing Agent 
+Miscellaneous 
+Payment to Senior Contributors 
+ A1 Tranche 
+ A2 Tranche 
+ A3 Tranche 
+Payment of excess to Residual Contributors / Subordinate Payouts 
+Payments to Liquidity  Facility 
+Payments to Second Loss Facility  
+Payments to First Loss facility 
+  
+Total Payments 
+ 
+
+Total 
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ 
+
+ 
+
+ 
+ 
+
+Month (Starting from next 
+
+month) 
+
+B5. Future cash flows schedule till maturity 
+
+ Asset class 1 
+
+Asset class 2 
+
+Total 
+
+Principal 
+  
+  
+  
+
+Interest  Principal 
+  
+  
+  
+
+  
+  
+  
+
+Interest  Principal 
+  
+  
+  
+
+  
+  
+  
+
+Interest 
+  
+  
+  
+
+  
+  
+  
+
+B6. Collection efficiency report 
+
+  
+
+Asset Class-1  Asset Class-2  Total 
+
+Cumulative billing 
+Cumulative collections 
+Current billing 
+     Billing pertaining to > 90 DPD and repossessed 
+contracts 
+     Billing pertaining to < 90 DPD 
+Current collections [excluding prepayments and other 
+collections] 
+      Collections pertaining to > 90 DPD and 
+repossessed contracts 
+      Collection pertaining to < 90 DPD 
+Prepayment collection 
+Collection of prepayment premium 
+Other collections net of deductions 
+Closing overdues 
+      Closing pertaining to repossessed contracts 
+      Overdues pertaining to other contracts 
+Profit / Loss on Repossesion Contracts 
+Cumulative collection efficiency ratio (CCER) 
+ 
+ 
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ Particulars 
+Number of loans 
+Principal overdue 
+Interest overdue 
+Future principal due of overdue loans 
+Future interest due of overdue loans 
+ 
+ 
+
+ Particulars 
+Number of loans 
+Principal overdue 
+Interest overdue 
+Future principal due of overdue loans 
+Future interest due of overdue loans 
+ 
+ 
+
+ Particulars 
+Number of loans 
+Principal overdue 
+Interest overdue 
+Future principal due of overdue loans 
+Future interest due of overdue loans 
+ 
+
+B7. Details of overdue loans 
+
+Assets Class-1 
+
+Assets Class-2 
+
+Total 
+overdue 
+  
+  
+  
+  
+  
+
+Total 
+overdue 
+  
+  
+  
+  
+  
+
+Total 
+overdue 
+  
+  
+  
+  
+  
+
+Total 
+
+Overdue upto 
+90 days 
+  
+  
+  
+  
+  
+
+Overdue upto 
+90 days 
+  
+  
+  
+  
+  
+
+Overdue upto 
+90 days 
+  
+  
+  
+  
+  
+
+Overdue 91 
+to 180 days 
+  
+  
+  
+  
+  
+
+Overdue> 
+180 days 
+  
+  
+  
+  
+  
+
+Overdue 91 
+to 180 days 
+  
+  
+  
+  
+  
+
+Overdue > 180 
+days 
+  
+  
+  
+  
+  
+
+Overdue 91 
+to 180 days 
+  
+  
+  
+  
+  
+
+Overdue > 
+180 days 
+  
+  
+  
+  
+  
+
+ 
+
+ 
+
+ 
+ 
+
+Particulars 
+
+Number of PTCs 
+Original collateral 
+Current collateral  
+ 
+ 
+
+Original Principal 
+Outstanding 
+Opening Principal 
+outstanding 
+Principal payments made 
+Principal payments 
+received 
+Principal excess/ 
+Shortfall 
+Closing outstanding 
+Principal  
+Cumulative Principal 
+Shortfalls 
+Previous factor (principal) 
+Current factor (principal) 
+ 
+ 
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+Original Interest Outstanding 
+Opening interest outstanding 
+Interest payments due  
+Interest payments received 
+closing interest Outstanding 
+Previous factor (interest) 
+Current factor (interest) 
+Current Coupon rate 
+Coupon amount 
+Current Interest Shortfall 
+Cumulative Interest Shortfall  
+ 
+ 
+
+Original Rating 
+Rating change 
+(Upgraded/Downgraded/No 
+change) 
+
+-  1st change 
+-  2nd change 
+-  3rd change 
+
+Current Rating 
+ 
+ 
+
+C2. Principal payments 
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+C3. Interest payments 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+C4. Credit rating  
+  
+  
+
+  
+ 
+ 
+ 
+  
+
+  
+ 
+ 
+ 
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+ 
+ 
+ 
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+ 
+ 
+ 
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+ 
+ 
+ 
+  
+
+C. Tranche level details (Provide details for every tranche under the pool) 
+
+Note:- The tranches are defined as A1 Tranche, A2 tranche,etc. for illustration purposes. The tranches 
+
+are required to be named as in the offer document 
+
+C1. General details 
+
+A1 Tranche  A2 Tranche  A3 tranche  A4 Tranche  A5 Tranche 
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+Month (Starting from next month) 
+
+  
+  
+  
+
+ 
+
+C5. Future cash flows schedule till maturity 
+
+A1 Tranche 
+
+Principal 
+  
+  
+  
+
+Interest 
+  
+  
+  
+
+A2 Tranche 
+
+Principal 
+  
+  
+  
+
+Interest 
+  
+  
+  
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+*In case interest rate if fixed but maturity changes according to interest rate-mention as 'floating maturity' 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Note:- The loan level disclosures are to be made for an asset class only if the number of loans under the Asset Class is less than 20 
+
+D. Loan level details 
+
+Sr 
+N
+o 
+
+Asse
+t 
+Clas
+s 
+
+Original 
+Princip
+al 
+balance 
+
+Current 
+Princip
+al 
+balance 
+
+Interest 
+rate- 
+Fixed or 
+Floating
+*  
+
+Curren
+t 
+Interes
+t Rate 
+(in 
+p.a.) 
+
+Origina
+l 
+maturit
+y of 
+loan (in 
+months
+) 
+
+Holding 
+period  
+by 
+originat
+or prior 
+to 
+securitiz
+ation(in 
+months) 
+
+D1. Loan level data 
+
+Remaini
+ng 
+maturity 
+as on 
+date(in 
+months) 
+
+Principal 
+payments  
+due till 
+date 
+
+Princip
+al 
+paymen
+ts made 
+till date 
+
+Princip
+al 
+paymen
+t due 
+for the 
+month 
+
+Interes
+t 
+payme
+nts 
+due till 
+date 
+
+Interest 
+payment
+s made 
+till date 
+
+Interes
+t 
+payme
+nt due 
+for the 
+month 
+
+Overd
+ue 
+status-
+1. Not 
+overd
+ue 
+2. <90 
+days 
+3. 90-
+180 
+days 
+4. > 
+180 
+days 
+ 
+ 
+ 
+ 
+ 
+ 
+
+If 
+over
+due, 
+prin
+cipal 
+over
+due 
+till 
+date 
+
+If 
+over
+due, 
+inter
+est 
+over
+due 
+till 
+date 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Page 1 of 21 
+
+Explanation of Terms 
+
+ 
+
+A. Snapshot 
+
+A1. Pool 
+snapshot 
+
+Particulars 
+Originator 
+
+SPDE 
+Asset class 
+Deal Structure 
+Original Pool size 
+Current Pool size 
+
+Data 
+format 
+Text 
+
+Description 
+
+Name of the originator including the group to which it belongs, if applicable 
+Special Purpose Distinct Entity as defined in SEBI (Public Offer and Listing of Securitized Debt 
+Instruments) Regulations, 2008 
+The asset class(es) underlying the securities e.g. Home loans/Auto loans,etc. 
+Whether the structure of the deal is par/premium structure 
+
+Text 
+Text 
+Text 
+Numeric  Value of the loans in the pool at the time of issuance  
+Numeric  Value of the loans in the pool as on date 
+
+As at the date of issuance, the weighted average amount of time in months until the tranche is repaid in 
+full, based on its total original balance and assumptions specified at issuance concerning prepayments, 
+defaults and other relevant variables 
+The current weighted average maturity date of the loans collateralizing the pool weighted by their 
+current principal balance 
+
+Dynamic 
+Numeric  The number of months since the date of disbursement till the date of collection of final prinicipal/interest  Dynamic 
+Dynamic 
+Numeric  Total amount due from all the loans underlying the pool for the month 
+
+Nature 
+Static 
+
+Static 
+Static 
+Static 
+Static 
+Dynamic 
+
+Static 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Original Weighted Average life  Numeric 
+
+Current Weighted Average Life  Numeric 
+Door-to-door maturity 
+Total billing during the month 
+Total collections during the 
+month 
+Cumulative collection 
+efficiency ratio (CCER) 
+
+Excess Spread Percentage 
+
+Numeric 
+
+Change in reserve account 
+balance 
+Number of loans prepaid or 
+foreclosed during the month 
+Value of loans prepaid or 
+foreclosed during the month 
+Original weighted average 
+LTV(Loan-to-value) 
+
+Numeric  Total collections pertaining to the dues for the current month 
+
+Numeric  Total collections during the month / Total overdues as on date 
+
+The amount of funds remaining as a percentage (%) of the Current Loan Principal Balance after the 
+period’s collections have been fully applied to cover the issuer’s obligations (i.e. senior fees, bond 
+interest due, swap payments) pursuant to the priority of payments given in the transaction 
+documentation 
+The difference between the Ending Account Balance and the Beginning Account Balance of the month 
+in all credit enhancement accounts taken together such that a positive amount represents a net deposit 
+to the account and a negative quantity represents a net withdrawal from the account 
+
+Numeric 
+
+Numeric  Number of loans underlying the pool which have either been prepaid or foreclosed during the month 
+
+Dynamic 
+
+Numeric  Value of loans underlying the pool which have either been prepaid or foreclosed during the month 
+
+Numeric 
+
+The ratio obtained by dividing the Original Total Value of the Loans by the weighted average market 
+value of the underlying assets securing the loans 
+
+Dynamic 
+
+Static 
+
+Current 'weighted average 
+
+Numeric  The ratio obtained by dividing the current Total Value of the Loans by the weighted average market 
+
+Dynamic 
+
+ 
+
+ 
+
+ 
+
+A2. Tranche 
+snapshot 
+
+ 
+ 
+
+B1. Loan 
+details 
+
+LTV(Loan-to-value) 
+Total number of overdue loans  Numeric  Cumulative loans overdue as on the last date of the month 
+Initial weighted average 
+seasoning 
+
+Weighted average of the holding period in months of the securitized loans by originator prior to 
+securitization weighted by original principal balance 
+
+value of the underlying assets securing the loans based on the latest available valuations  
+
+Numeric 
+
+Dynamic 
+
+Static 
+
+Tranche Class Name 
+
+Alpha-
+numeric  The designation (letter(s) and/or number(s)) given to the tranche  
+
+Numeric 
+ISIN 
+Stock exchange 
+Text 
+Legal Maturity of the tranche  Date 
+Text 
+Rating agency 
+Alpha-
+Original Rating (Indicate all 
+ratings assigned) 
+numeric 
+Alpha-
+numeric  The rating assigned by the rating agency or agencies for the tranche as on date 
+
+The security identification code assigned to the class/tranche of security pursuant to the securities 
+Static 
+code established by an exchange 
+The identified stock exchange/s where the security is listed 
+Static 
+The date before which a specific tranche of the security must be repaid in order not to be in default  Static 
+Name of the rating agency or agencies as stated in the prospectus 
+Static 
+The original rating assigned by the rating agency or agencies for each tranche of the pool issued 
+as defined in the prospectus 
+
+Current Rating 
+
+Static 
+
+Record Date 
+
+Payment Date 
+
+Date 
+
+Date 
+
+Coupon rate 
+
+Numeric 
+
+Principal excess/ Shortfall 
+
+Numeric 
+
+Interest excess/shortfall 
+
+Numeric 
+
+The date on which registered holders of the security are determined for the purpose of making 
+payments to such registered holders on the next succeeding payment date 
+The periodic date on which the recurring payment of the tranche is scheduled to occur; the period 
+between the 2 payment dates referred to as 'the month' 
+The coupon rate for the tranche whether fixed or floating 
+- In case of fixed interest, specify the coupon rate 
+- In case of floating interest specify as benchmark + ____bps E.g. 10 year G-Sec Rate+ 300 bps= 
+____ % (current rate) 
+The difference between the amount of Total Scheduled Principal distribution and the amount of 
+principal paid to the tranche  during the month 
+Specify excess or shortfall in parenthesis alongside the figure 
+The difference between the Coupon Amount and the amount of the interest paid or accrued for the 
+month on the tranche 
+
+Static 
+
+Dynamic 
+
+Static 
+
+Static 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Original Number /Value of 
+Loans  
+Loans-opening balance 
+Loans naturally terminated 
+Loans prepaid  
+
+B. Pool level details 
+
+Numeric  Number & value of securitized loans in the  pool at the time of issuance 
+Numeric  Number & value of securitized loans in the  pool at the beginning of the month 
+Numeric  Number & value of loans naturally terminated which were due for termination during the month 
+Numeric  Number & value of loans pre-paid before the maturity of the loans during the month 
+
+Static 
+Dynamic 
+Dynamic 
+Dynamic 
+
+ 
+
+ 
+
+ 
+
+B2. Yield, 
+maturity &  
+LTV details 
+
+ 
+
+B3. Details 
+of Credit 
+enhanceme
+nt/liquidity 
+facilities 
+
+Loans foreclosed 
+Loans-closing balance 
+
+Numeric  Number & value of loans foreclosed during the month 
+Numeric  Number & value of securitized loans in the  pool at the end of the month 
+
+Original Weighted Average 
+Yield or Coupon 
+Current Weighted Average 
+Yield or Coupon 
+Original Weighted Average 
+Life 
+Current Weighted Average 
+Life 
+
+Numeric 
+
+Numeric 
+
+Numeric 
+
+Numeric 
+
+Original Loan to Value (LTV)   Numeric 
+
+Current Loan to Value (LTV)   Numeric 
+
+Door-to-door maturity 
+
+Numeric 
+
+The original weighted average rate of interest (coupon or contract rate) and/or other income on the 
+loans collateralizing the pool weighted by the original principal balance of the loans 
+The current weighted average rate of interest (coupon or contract rate) and/or other income on the 
+loans collateralizing the pool weighted by the current principal balance of the loans 
+The original weighted average maturity date of the loans collateralizing the pool weighted by their 
+original principal balance 
+The current weighted average maturity date of the loans collateralizing the pool weighted by their 
+current principal balance 
+The ratio obtained by dividing the Original Total Value of the Loans by the weighted average 
+market value of the underlying assets securing the loans 
+The ratio obtained by dividing the current Total Value of the Loans by the weighted average 
+market value of the underlying assets securing the loans based on the latest available valuations  
+The number of months since the date of disbursement till the date of collection of final 
+principal/interest 
+
+Excess Spread Percentage 
+
+Numeric 
+
+Excess Spread Amount 
+Nature of credit 
+enhancement facilities   
+Liquidity Facility- Opening 
+Balance / Guarantee 
+available at beginning of the 
+month 
+Liquidity Facility- - Closing 
+Balance / Guarantee 
+available at end of the 
+month 
+First Loss facility- Opening 
+Balance / Guarantee 
+available at beginning of the 
+month 
+
+Numeric 
+
+Text 
+
+Numeric 
+
+Numeric 
+
+Numeric 
+
+The amount of funds remaining as a percentage (%) of Current Loan Principal Balance after the 
+period’s collections have been fully applied to cover the issuer’s obligations (i.e. senior fees, bond 
+interest due, swap payments) as per priority of payments given in the transaction documentation 
+The amount of funds remaining in absolute terms of the Current Loan Principal Balance after the 
+period’s collections have been fully applied to cover the issuer’s obligations (i.e. senior fees, bond 
+interest due, swap payments) as per priority of payments given in the transaction documentation 
+Whether the credit enhancement facility is in the nature of a guarantee/ deposit/ overdraft/ others. 
+If others, please specify 
+Liquidity facilities' enable SPVs to assure investors of timely payments. These include 
+smoothening of timing differences between payment of interest and principal on pooled assets and 
+payments due to investors. Provide the balance of funds on deposit in the Liquid facilities account 
+at the beginning of the month/ Guarantee available at beginning of the month 
+
+The balance of funds on deposit in the Liquid facilities account at the end of the month/ Guarantee 
+available at end of the month 
+A 'first loss facility' represents the first level of financial support to a SPV as part of the process in 
+bringing the securities issued by the SPV to investment grade. Provide the balance of funds on 
+deposit in the First Loss Facility account at the beginning of the month/ Guarantee available at 
+beginning of the month 
+
+Dynamic 
+Dynamic 
+
+Static 
+
+Dynamic 
+
+Static 
+
+Dynamic 
+
+Static 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+ 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+ 
+
+ 
+
+ 
+
+B4. 
+
+Waterfall 
+Mechanism 
+
+First Loss Facility - Closing 
+Balance / Guarantee 
+available at end of the 
+month 
+Second Loss Facility - 
+Opening Balance / 
+Guarantee available at 
+beginning of the month 
+Second Loss facility- Closing 
+Balance / Guarantee 
+available at end of the 
+month 
+
+Change in reserve account 
+balance 
+
+Receipts 
+Collections pertaining to 
+current month 
+Collections pertaining to 
+previous overdues 
+Prepayment collection 
+Collection of prepayment 
+premium 
+Other collections net of 
+deductions 
+Liquid facility - Utilization for 
+current payout 
+First Loss facility - Utilization 
+for current payout 
+Second Loss facility- 
+Utilization for current payout 
+Total Receipts 
+Statutory / regulatory dues 
+Costs/ charges incurred by 
+Trustee 
+Costs/ charges incurred by 
+Designated Bank 
+
+Numeric 
+
+Numeric 
+
+Balance of funds on deposit in the First Loss Facility account at the end of the month/ Guarantee 
+available at end of the month 
+A "second loss facility" represents a credit enhancement providing a second (or subsequent) tier of 
+protection to an SPV against potential losses. Provide the balance of funds on deposit in the 
+Second Loss facility account at the beginning of the month/ Guarantee available at beginning of 
+the month 
+
+Dynamic 
+
+Dynamic 
+
+Numeric 
+
+Numeric 
+
+The balance of funds on deposit in the Second Loss facility account at the end of the month/ 
+Guarantee available at end of the month 
+The difference between the Ending Account Balance and the Beginning Account Balance of the 
+month in all credit enhancement accounts taken together such that a positive amount represents a 
+net deposit to the account and a negative quantity represents a net withdrawal from the account 
+
+Numeric  Total collections pertaining to the dues for the current month 
+
+Numeric  Total collections pertaining to the dues for the previous months 
+Numeric  Collection of principal Prepayments during the month 
+
+Numeric  Collection of premiums  pertaining to the prepayments made during the month 
+
+Numeric  Other collections during the month net of deductions not included above 
+
+Numeric  Amount withdrawn from the Liquid facility for payout to investors during current month 
+
+Numeric  Amount withdrawn from the First Loss facility for payout to investors during current month 
+
+Numeric  Amount utilized from the Second Loss facility for payout to investors during current month 
+Numeric  Total of all receipts during the month 
+Numeric  Statutory / regulatory dues paid for the month 
+
+Numeric  Costs/ charges incurred by Trustee for the month 
+
+Numeric  Costs/ charges incurred by Designated Bank for the month 
+
+Dynamic 
+
+Dynamic 
+
+  
+
+Dynamic 
+
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+ 
+
+ 
+
+B5. Future 
+cash flows 
+schedule till 
+maturity 
+
+Liquidity Facility Fee / 
+Interest 
+Collection and Processing 
+Agent fees 
+Miscellaneous payments 
+Payment to Senior 
+Contributors (A1, A2, A3,etc. 
+tranche holders) 
+Payment of excess to 
+Residual Contributors / 
+Subordinate Payouts 
+Payments to Liquidity facility 
+Payments to Second Loss 
+facility 
+Payments to First Loss 
+facility 
+Total payments 
+
+Numeric  Fee / Interest for maintaining liquidity facility the month 
+
+Numeric  Collection and Processing Agent fees paid out for the month 
+Numeric  Any miscellaneous payments not included above 
+
+Numeric  Payment made to each class of tranche holders during the month 
+
+Numeric  Payment of excess made to the residual contributors / subordinate payouts during the month 
+Numeric  Transfer to Liquid facility using excess reserves after current payout 
+
+Numeric  Transfer to Second Loss facility using excess reserves after current payout 
+
+Numeric  Transfer to First Loss facility using excess reserves after current payout 
+Numeric  Total of all payments made during the month 
+
+Details of future cash flows 
+of the pool 
+
+Numeric 
+
+Details of the projected cash flows for every asset class in the pool subdividing the cash flows into 
+interest and principal payments for every month till maturity 
+
+ 
+
+ 
+
+Numeric  Total amount collected during the month excluding prepayments and other collections 
+
+      Collections pertaining to 
+> 90 DPD and repossessed 
+contracts 
+
+Numeric 
+
+DPD- Days past Due Total amount collected during the month excluding prepayments and other 
+collections pertaining to the loans where 
+- interest or principal or both have been due for more than 90 days OR 
+- the contracts are repossessed 
+
+B6. 
+
+Collection 
+efficiency 
+
+report 
+
+Cumulative billing 
+Cumulative collections 
+Current billing 
+     Billing pertaining to > 90 
+DPD and repossessed 
+contracts 
+     Billing pertaining to < 90 
+DPD 
+Current collections [excluding 
+prepayments and other 
+collections] 
+
+Numeric  Cumulative total amount due from all the loans underlying the pool as on date 
+Numeric  Cumulative total amount collected from all the loans underlying the pool as on date 
+Numeric  Total amount due from all the loans underlying the pool for the month 
+
+Total amount due from the loans underlying the pool for the month where  
+- interest or principal or both have been due for more than 90 days OR 
+- the contracts are repossessed 
+Total amount due from the loans underlying the pool for the month excluding the loans mentioned 
+in the above row 
+
+Numeric 
+
+Numeric 
+
+Dynamic 
+
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+ 
+
+ 
+
+      Collection pertaining to < 
+90 DPD 
+Prepayment collection 
+Collection of prepayment 
+premium 
+Other collections net of 
+deductions 
+Closing overdues 
+      Closing pertaining to 
+repossessed contracts 
+      Overdues pertaining to 
+other contracts 
+Profit / Loss on Repossesion 
+Contracts 
+Cumulative collection 
+efficiency ratio (CCER) 
+
+B7. Details 
+of overdue 
+
+loans 
+
+Number of loans 
+
+Principal overdue 
+
+Interest overdue 
+Future principal due of 
+overdue loans 
+Future interest due of 
+overdue loans 
+
+  
+
+C1. General 
+Details 
+
+  
+
+Number of PTCs (Pass 
+Through Certificates) 
+Original collateral 
+Current collateral  
+
+ 
+
+ 
+
+ 
+ 
+
+DPD- Days past Due 
+Total amount collected during the month excluding prepayments and other collections excluding 
+the loans mentioned in the above row 
+
+Numeric 
+Numeric  Total prepayments received from the loans underlying the pool during the month 
+
+Numeric  Total Prepayment Premium collected pertaining to the loans pre-paid during the month  
+
+Numeric  Other collections from the loans except for the ones mentioned above net of deductions 
+Numeric  Total loans overdue as on date 
+
+Numeric  Total loans overdue as on date pertaining to repossessed contracts 
+
+Numeric  Total loans overdue as on date pertaining to contracts other than repossessed contracts 
+
+Numeric 
+
+Any Profit / Loss made on Repossesion Contracts during the month 
+Include profit/ Loss in parenthesis across the figure 
+
+Numeric  Total collections during the month / Total overdues as on date 
+
+Numeric 
+
+Numeric 
+
+Numeric 
+
+Numeric 
+
+Numeric 
+
+Number of loans overdue as on the last date of the month for upto 90 days, 91-180 days & more 
+than 180 days respectively for every assets class & on a total basis 
+Cumulative Prinicipal overdue on the loans overdue as on the last date of the month for upto 90 
+days, 91-180 days & more than 180 days respectively for every assets class & on a total basis 
+Cumulative Interest overdue on the loans overdue as on the last date of the month for upto 90 
+days, 91-180 days & more than 180 days respectively for every assets class & on a total basis 
+Total prinicpal overdue in future from all loans which are overdue as on date for upto 90 days, 91-
+180 days & more than 180 days respectively for every assets class & on a total basis 
+Total interest overdue in future from all loans which are overdue as on date for upto 90 days, 91-
+180 days & more than 180 days respectively for every assets class & on a total basis 
+
+C. Tranche level details (Provide details for every tranche under the pool) 
+
+  
+
+  
+
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+  
+
+Numeric  The number of Pass Through Certificates under every  tranche 
+Numeric  Value of the collateral underlying the loans for every tranche at the time of issuance 
+Numeric  Value of the collateral underlying the loans for every tranche based on current market valuations 
+
+Static 
+Static 
+Dynamic 
+
+ 
+
+Original Principal 
+Outstanding 
+Opening Principal 
+outstanding 
+Principal payments due 
+Principal payments made 
+Principal excess/ Shortfall 
+
+C2. 
+Principal 
+payments  
+
+Numeric  The Original Principal Balance of the tranche at issuance 
+
+Numeric  The par, or notional, balance of the prinicpal of the tranche at the beginning of the month 
+Numeric  The total amount of principal payments due during the month 
+Numeric  The total amount of principal payments made during the month 
+Numeric  The par, or notional, balance of the tranche at the end of the month 
+
+The difference between the amount of Total Scheduled Principal distribution and the amount of 
+principal paid to the tranche  during the month 
+Specify excess or shortfall in parenthesis alongside the figure 
+
+Closing outstanding Principal   Numeric 
+Cumulative Principal 
+Shortfalls 
+Previous factor (principal) 
+Current factor (principal) 
+
+Numeric  The cumulative amount of Principal Shortfall as on date 
+Numeric  Total prinicpal Outstanding at beginning of month ÷ Original Principal Outstanding  
+Numeric  Total current prinicpal Outstanding at beginning of month ÷ Original Principal Outstanding 
+
+Original Interest Outstanding  Numeric  The Original interest Balance of the tranche at issuance 
+Opening interest outstanding  Numeric  The balance of the interest of the tranche at the beginning of the month 
+Interest payments due  
+Interest payments received 
+closing interest Outstanding 
+Previous factor (interest) 
+Current factor (interest) 
+
+Numeric  The total amount of interest payments due during the month 
+Numeric  The total amount of interest payments made during the month 
+Numeric  The balance of the interest at the end of the month 
+Numeric  Total interest Outstanding at beginning of month ÷ Original interest Outstanding  
+Numeric  Total current interest Outstanding at beginning of month ÷ Original interest Outstanding 
+
+Current Coupon rate 
+Coupon amount 
+
+The coupon rate for the tranche whether fixed or floating 
+- In case of fixed interest, specify the coupon rate 
+- In case of floating interest specify as benchmark + ____bps E.g. 10 year G-Sec Rate+ 300 bps= 
+____ % (current rate) 
+
+Numeric 
+Numeric  Amount of scheduled interest due for the month for the tranche 
+
+Current Interest Shortfall 
+
+Numeric 
+
+Cumulative Interest Shortfall   Numeric 
+
+The difference between the Coupon Amount and the amount of the interest paid or accrued for the 
+month on the tranche 
+The cumulative difference between Coupon Amount of interest due and the amount of interest paid 
+or accrued till date for the tranche 
+
+C3. Interest 
+payments 
+
+ 
+
+ 
+ 
+
+Static 
+
+Dynamic 
+Dynamic 
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+Dynamic 
+Dynamic 
+
+Static 
+Dynamic 
+Dynamic 
+Dynamic 
+Dynamic 
+Dynamic 
+Dynamic 
+
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+ 
+
+C4. Credit 
+Rating  
+
+ 
+
+ 
+
+C5. Future 
+cash flows 
+schedule till 
+maturity 
+
+D1. Loan 
+level data 
+
+1st change/ 2nd change, etc. 
+
+Current Rating 
+
+Alpha-
+numeric  Mention every subsequent changed rating received by the instrument till date 
+Alpha-
+numeric 
+
+The rating assigned by the rating agency or agencies for the tranche as on date for all rating 
+agencies 
+
+Details of future cash flows 
+for every tranche 
+
+Numeric 
+
+Details of the projected cash flows for every tranche subdividing the cash flows into interest and 
+principal payments for every month till maturity 
+
+Asset Class 
+Original Principal balance 
+Current Principal balance 
+Interest rate- Fixed or 
+Floating*  
+Text 
+Current Interest Rate (in p.a.)  Rate 
+Original maturity of loan (in 
+months) 
+Holding period  by originator 
+prior to securitization (in 
+months) 
+Remaining maturity as on 
+date(in months) 
+Principal payments  due till 
+date 
+Principal payments made till 
+date 
+Principal payment due for the 
+month 
+
+D. Loan level details 
+
+Name of the asset class to which the loan belongs. E.g. (Home loan, 2-wheeler loan, etc.) 
+
+Text 
+Numeric  Original principal balance of the loan at the time of grant of loan 
+Numeric  Principal balance due of the loan at the end of the month 
+
+Whether the interest rate on the loan is fixed/ floating. In case interest rate if fixed but maturity 
+changes according to interest rate-mention as 'floating maturity' 
+Mention interest rate currently applicable on the loan 
+
+Numeric  Maturity of the loan at the time of grant of loan 
+
+Numeric  Number of months the loan was in the books of the originator before being securitized 
+
+Numeric  Maturity of the loan as at the end of the month 
+
+Numeric  Amount of principal payments due till the end of month as per the agreement whether paid or not 
+
+Numeric  Amount of principal payments made till the end of month including any prepayments made 
+
+Numeric  Amount of principal payments made during the month including any prepayments made 
+
+Original Rating (Indicate all 
+ratings assigned) 
+Rating change 
+(Upgraded/Downgraded/No 
+change) 
+
+Alpha-
+numeric 
+
+The original rating assigned by the rating agency or agencies for each tranche of the pool issued 
+as defined in the prospectus 
+
+Static 
+
+Text 
+
+Whether the rating of the tranche has been upgraded/ downgraded by any rating agency in 
+comparison with the initial rating  
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Static 
+Static 
+Dynamic 
+
+Static 
+Dynamic 
+
+Static 
+
+Static 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+ 
+
+Interest payments due till 
+date 
+Interest payments made till 
+date 
+Interest payment due for the 
+month 
+
+Numeric  Amount of interest payments made till the end of month  
+
+Numeric  Amount of interest payments made during the month  
+
+ 
+
+ 
+
+Numeric  Amount of interest payments due till the end of month as per the agreement whether paid or not 
+
+Dynamic 
+
+Overdue status 
+If overdue, principal overdue 
+till date 
+If overdue, interest overdue 
+till date 
+
+Text 
+
+Numeric 
+
+Numeric 
+
+State the overdue status as either of the following- 
+1. Not overdue 
+2. <90 days 
+3. 90-180 days 
+4. > 180 days 
+If the loan is overdue, mention the amount of principal payments overdue on the loan at the end of 
+the month 
+If the loan is overdue, mention the amount of interest payments overdue on the loan at the end of 
+the month 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+ 
+
+

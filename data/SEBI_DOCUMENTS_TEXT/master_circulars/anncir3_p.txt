@@ -1,0 +1,3453 @@
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEXURE 3 
+
+ON 
+
+SETTLEMENT 
+
+MASTER CIRCULAR FOR STOCK EXCHANGES  
+
+1.  This Master Circular includes circulars issued upto March 31, 2010. 
+
+2.  Master  Circular  is  a  compilation  of  all  the  existing/applicable  circulars 
+issued by Market Regulation Department of SEBI to Stock Exchanges and 
+shall come into force from the date of its issue. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+MASTER CIRCULAR – SETTLEMENT 
+ 
+SECTION – 1: ACTIVITY SCHEDULE................................................................................4 
+1.1   Rolling settlement ......................................................................................................4 
+1.2  Activity Schedule for T+2 Rolling Settlement ..........................................................4 
+Systems for effecting settlement on T+2 basis ..........................................................4 
+1.3 
+
+SECTION – 2: CLOSE-OUT AND AUCTION / NO DELIVERY PERIOD / BOOK 
+CLOSURE AND RECORD DATES......................................................................................6 
+2.1 
+Close-out Procedure...................................................................................................6 
+2.2   Close out procedure for cases where “No Delivery Period” is abolished..................6 
+2.3   Close-out Procedure in case of indefinitely suspended/delisted scrips......................6 
+2.4   Close-out mark up in respect of Debentures and Bonds traded on the Stock 
+ 
+Exchanges ..................................................................................................................7 
+2.5   Auction.......................................................................................................................7 
+2.6  
+Proceeds from Auction/ Close-out.............................................................................7 
+
+SECTION – 3 :DELIVERY VERSUS PAYMENT (DVP) / HAND DELIVERY 
+BARGAINS ..............................................................................................................................8 
+3.1  Hand Delivery Bargains/ DVP...................................................................................8 
+
+SECTION – 4 : INVESTOR PROTECTION FUND / CUSTOMER PROTECTION 
+FUND........................................................................................................................................9 
+4.1   Guidelines for Investor Protection Fund at Stock Exchanges....................................9 
+4.2   Constitution and Management of the IPF/CPF ..........................................................9 
+4.3   Contribution to IPF/CPF ............................................................................................9 
+4.4  Manner of filling /inviting claims from investors....................................................10 
+4.5   Eligible Claims.........................................................................................................11 
+4.6   Determination of Legitimate Claims........................................................................11 
+4.7   Threshold limit for claims........................................................................................11 
+4.8   Disbursements of claims from the IPF/CPF.............................................................12 
+4.9   Miscellaneous...........................................................................................................12 
+4.10   Settlement of Claims................................................................................................13 
+4.10.1 Dealing through the registered sub-broker of a defaulting broker ...........................13 
+4.10.2 Stock broker having multiple memberships .............................................................13 
+
+ 
+
+Page 2 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+6.1  
+6.2  
+
+4.11   Investor Services Fund.............................................................................................13 
+4.12  Utilization of Investor Protection Fund/ Investor Service Fund ..............................13 
+4.13   Utilization of Interest Income earned on IPF...........................................................14 
+SECTION – 5: MODE OF PAYMENT AND DELIVERY ................................................15 
+5.1  Mode of Payment and Delivery ...............................................................................15 
+SECTION – 6: SETTLEMENT IN CASE OF HOLIDAYS................................................16 
+Settlement of Transaction in case of Holidays.........................................................16 
+Settlement in case of Unscheduled Holidays...........................................................16 
+SECTION – 7 : TRADE GUARANTEE FUND/ SETTLEMENT GUARANTEE FUND
+.................................................................................................................................................18 
+7.1   Trade Guarantee Fund/ Settlement Guarantee Fund................................................18 
+7.2 
+The Objective of the Fund .......................................................................................18 
+Corpus of the fund....................................................................................................18 
+7.3 
+7.4 
+Contribution to the Fund..........................................................................................20 
+7.5   Management of the fund : ........................................................................................21 
+7.7 
+Recoupment of the corpus........................................................................................22 
+7.8  Utilisation of Settlement Guarantee Fund................................................................22 
+SECTION -8: TRANSFER OF FUNDS AND SECURITIES.............................................24 
+Transfer of Funds and Securities from member to client.........................................24 
+SECTION – 9: TRANSFER DEED.......................................................................................26 
+
+8.1 
+
+9.1   Affix stamp of member affiliation to stock exchange on reverse of transfer deed 
+(Physical Shares)......................................................................................................26 
+ 
+9.2   Trasfer Deed with or without Inscription.................................................................26 
+9.3   Delay in transfer of shares by companies ................................................................27 
+SECTION – 10 : UNIFORM NORMS FOR GOOD/BAD DELIVERY NORMS...........31 
+10.1  Transfer Deeds .........................................................................................................31 
+10.2  Share Certificates .....................................................................................................42 
+10.3  Miscellaneous...........................................................................................................45 
+10.4   Clarification with to 97 and 100 of the Norms for G/B Norms ...............................48 
+REFERENCE – List of Circulars..........................................................................................50 
+
+ 
+
+Page 3 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+SECTION – 1: ACTIVITY SCHEDULE 
+
+1.1   Rolling settlement 
+
+ 
+In April 2002, the Indian capital markets introduced T+3 rolling settlement cycle.  
+The settlement cycle of T+3 under the Rolling Settlement System, was shortened 
+further to T+2 rolling settlement, w.e.f. April 01, 2003. 
+
+1.2  Activity Schedule for T+2 Rolling Settlement1 
+
+ 
+The activity schedule is as under: 
+ 
+
+S. No.  Day  Time 
+1 
+
+T 
+
+ 
+By 1.00 pm 
+
+2 
+
+T+1  By 2.30 pm 
+
+3 
+
+T+2 
+
+10.30 
+
+Until 
+am  
+By 10.30 am 
+
+By 1.30 pm 
+
+Description of activity 
+Trade Day 
+Completion  of  custodial  confirmation  of 
+trades  to  CC/CH.  (There  is  no  separate 
+extended time limit for late confirmations).  
+Completion  of  process  and  download 
+obligation files to brokers/ custodians by the 
+CC/CH. 
+Accept  Pay-in  instructions  from  investors 
+into pool account  
+Submit  final  pay-in  files  to  the  depository 
+and the clearing bank.   
+Pay-out of securities and funds.  
+
+ 
+
+1.3 
+
+Systems for effecting settlement on T+2 basis2 
+
+The  stock  exchanges  shall  also  put  in  place  the  following  systems  for  effecting 
+settlement on T+2 basis. 
+
+a.  A  facility  of  late  confirmation  of  trades  by  the  custodians  shall  be 
+provided. However, the time limit for late confirmation shall be fixed in a 
+manner  that  the  download  of  the  final  obligation  files  to  brokers  is  not 
+delayed. 
+
+b.  The stock exchanges would levy an additional charge to discourage late 
+
+confirmations by the custodians. 
+
+                                                 
+1 Circular No. MRD/Dop/SE/Dep/Cir-18/2005 dated September 02, 2005. 
+2 Circular No. SMD/POLICY/Cir - /03 dated February 6, 2003 
+
+ 
+
+Page 4 of 50 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+c.  The  stock  exchanges  would  provide  a  system  for  handling  shortages  of 
+funds  and  securities  in  an  expeditious  manner  to  adhere  to  the  time 
+schedule for pay-out. 
+
+d.  The stock exchanges would also amend their byelaws to mandate the pay 
+out of funds and securities to the clients by the broker within 24 hours of 
+the payout. 
+
+e.  The  stock  exchanges  shall  design  an  alternative  clearing  and  settlement 
+system 
+in  respect  of  companies  whose  shares  have  not  been 
+dematerialised to align the clearing and settlement system for such stocks 
+with the T + 2 rolling settlement. 
+
+f.  The  stock  exchanges  shall  not  normally  permit  changes  in  the  Client  ID 
+and  would  keep  a  strict  vigil  on  cases  of  client  code  modification  and 
+would implement a monetary penalty structure that would escalate with 
+the number of such incidences. Besides, the exchanges may take necessary 
+action  against  members  making  repeated  changes.  However,  genuine 
+mistakes may be allowed to be rectified. 
+
+g.  Stock  exchanges  would  encourage  members 
+
+to  adopt  automatic 
+downloading of pay-in files for securities and funds. The members would 
+also be encouraged to adopt direct transfer of securities/ funds to clients’ 
+account on pay-out. 
+
+The  stock  exchanges  may  also  provide  the  following  facilities  desirable  for 
+further smoothing clearing and settlement process, though these may not be pre-
+conditions for introduction of T + 2 rolling settlement. 
+
+a.  Facility of online confirmation of trades by custodians. 
+b.  System to capture the details of the client’s depository account and bank 
+
+account. 
+
+c.  System  for  online  transmitting  the  client  wise  pay-in  obligation  to 
+depository  so  that  the  depository  in  turn  could  download  the  security 
+pay-in  instructions  to  depository  participants  in  respect  of  the  investor 
+maintaining account with them. 
+
+d.  System wherein the pay-out files could be sent to the clearing banks with 
+
+a request to online credit to the bank accounts of the clients. 
+
+e.  The  stock  exchanges  would  support  development  of  front  end  software 
+for  brokers  to  map  the  Client  ID  through  abbreviated  keys  to  facilitate 
+faster order entry for inserting the unique client code speedily. 
+
+ 
+
+Page 5 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+SECTION – 2: CLOSE-OUT AND AUCTION / NO DELIVERY PERIOD / 
+BOOK CLOSURE AND RECORD DATES 
+ 
+
+2.1 
+
+Close-out Procedure3 
+ 
+The Close out Procedure is as below:- 
+ 
+"The close out Price will be the highest price recorded in that scrip on the exchange 
+in the settlement in which the concerned contract was entered into and upto the 
+date of auction/close out 
+OR 
+ 
+20% above the latest available closing price at the exchange on the day on which 
+auction offers are called for. 
+ 
+ 
+
+WHICHEVER IS HIGHER.” 
+
+2.2   Close out procedure for cases where “No Delivery Period”4 is abolished 
+
+ 
+In  cases  where  “no  delivery  period”  is  abolished  any  short  delivery  by  any 
+member in the previous settlement where delivery was to be on cum basis can be 
+closed out to the extent of the short delivery. In case of such direct close-out, the 
+mark-up price would be 10%. 
+ 
+The reference price for such close out shall be the latest available closing price at 
+the exchange.5 
+ 
+
+2.3   Close-out Procedure in case of indefinitely suspended/delisted scrips6 
+
+ 
+In  the  case  of  close  out  for  scrips  which  have  been  indefinitely  suspended/ 
+delisted, the reference price would be the twenty-six weeks average traded price 
+while the close out mark up would be 20%.  
+ 
+ 
+                                                 
+3 Circular No. SMD/Policy/Cir-08/2002 dated April 16, 2002. 
+   Circular No. SMD/Policy/IECG/5548/96 dated December 09, 1996. 
+4 Circular No. SMD/Policy/Cir-08/2002 dated April 16, 2002. 
+5 Circular No. SMD/Policy/Cir-08/2002 dated April 16, 2002 
+6 Circular No. SMD/Policy/Cir-21/02 dated September 04, 2002. 
+ 
+
+Page 6 of 50 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+2.4   Close-out mark up in respect of Debentures and Bonds traded on the Stock 
+
+Exchanges7 
+ 
+The  debentures  and  bond  issued  by  the  companies  which  are  traded  at  the 
+exchanges  do  not  experience  daily  price  variation  in  fashion  similar  to  the 
+equities.  Therefore  close  out  mark  up  of  5%  would  be  applied  in  case  of 
+debentures and bonds which are assigned a credit rating of triple A and above. 
+However,  for  the  other  debentures  and  the  bonds  without  the  triple  A  credit 
+rating, the existing close out mark up of 20% shall be applicable as is applicable 
+in the case of equities. 
+ 
+
+2.5   Auction8 
+
+i. 
+
+ 
+ii. 
+
+ 
+
+ 
+
+In  no  case  the  auction  would  be  held  more  than  once  unless  the  same  is 
+approved by a special resolution of the Governing Board.  The outstanding 
+position at the end of the first auction cycle shall be automatically closed out. 
+
+In no case the auction shall be held beyond a period of one week from the 
+pay  in  day  of  the  settlement  in  which  the  concerned  contract  had  been 
+entered into. 
+
+2.6  
+
+Proceeds from Auction/ Close-out9 
+ 
+The Proceeds from Auction/ Close-out should be used to settle the claim of the 
+aggrieved party. Any amount remaining thereof should be credited to the 
+Investor Protection Fund instead of crediting it to the defaulting party’s account. 
+ 
+
+                                                 
+7 Circular No. SEBI/SMD/SE/Cir-26/2003/25/06 dated June 25, 2003. 
+8 Circular No. SMD/Policy/IECG/5548/96 dated December 09, 1996. 
+9 Circular No. SMD/Policy/Cir-10/99 dated May 04, 1999. 
+Page 7 of 50 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+SECTION – 3 :DELIVERY VERSUS PAYMENT (DVP) / HAND DELIVERY 
+BARGAINS 
+ 
+
+3.1  Hand Delivery Bargains/ DVP10 
+
+ 
+All  transactions  executed  on  the  stock  exchanges  shall  be  settled  through  the 
+Clearing  Corporation/House  of  the  stock  exchanges  except  for  the  following 
+exceptional  circumstances  under  which  Hand  Delivery  Bargains/DVP  may  be 
+permitted  by  the  stock  exchanges  without  attracting  any  margins  and  any 
+penalty: 
+
+a.  Total  connectivity  failure  to  the  exchange/STP.  (Specific  connectivity 
+issues  of  the  custodians  and  members  shall  not  be  considered  as  valid 
+exceptions). 
+
+b.  International  Holidays  that  may  be  decided  upfront  by  the  stock 
+
+exchanges in consultation with the custodians. 
+
+c.  Closing down of national/international centres due to calamities 
+
+                                                 
+10 Circular No. MRD/DoP/SE/Cir- 17/2005 dated September 2, 2005. 
+ 
+
+Page 8 of 50 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+SECTION – 4 : INVESTOR PROTECTION FUND / CUSTOMER 
+PROTECTION FUND  
+ 
+ 
+
+4.1   Guidelines for Investor Protection Fund at Stock Exchanges 
+
+ 
+The Central Government, vide notification No. F. No. 14/4/SE/85 dated August 
+22,  1985,  has  stipulated  the  setting  up  of  the  Investor  Protection  Fund  (IPF)/ 
+Customer  by  Stock  Exchanges.  This  fund  should  take  care  of  legitimate 
+investment claims which are not of speculative nature of the clients of defaulting 
+member(s).  
+ 
+
+4.2   Constitution and Management of the IPF/CPF 
+
+ 
+
+ 
+
+ 
+
+1.  The  Investor  Protection  Fund/Customer  Protection  Fund  (hereinafter 
+referred to as IPF/CPF) shall be administered by way of a Trust created 
+for the purpose.  
+
+ 
+2.  The IPF/CPF Trust shall consist of atleast one public representative, one 
+representative  from  the  registered  investor  associations  recognized  by 
+SEBI and the Executive Directors/Managing Directors/Administrators of 
+the Stock Exchange. 
+
+3.  The Stock Exchange shall provide the secretariat for the IPF/CPF Trust.  
+
+4.  The Stock Exchange shall ensure that the funds in the IPF/CPF are well 
+segregated  and  that  the  IPF/CPF  is  immune  from  any  liabilities  of  the 
+Stock Exchange. 
+
+ 
+
+4.3   Contribution to IPF/CPF  
+
+5.  The following contributions shall be made by the Stock Exchange to the 
+
+ 
+
+ 
+
+IPF/CPF:-  
+
+ 
+
+a.  1% of the listing fees received, on a quarterly basis.  
+ 
+b.  100 % of the interest earned on the 1% security deposit kept by the issuer 
+companies at the time of the offering of securities for subscription to the 
+public, immediately on refund of the deposit. 
+
+Page 9 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+c.  The difference of amount of auctions / close-out price in pursuance of 
+
+circular no. SMDRP/Policy/Cir-10/1999 dated May 04, 1999.  
+
+ 
+d.  The  amount  received  from  the  proceeds  of  the  sale  of  the  securities 
+written  off  as  per  para  4  &  5  of  SEBI  circular  No.  FITTC/FII/02/2002 
+dated May 15, 2002. 
+
+ 
+e.  The  amounts  specified  in  pursuance  of  Regulation  28(12)  (e)  (ii), 
+Regulation 28(13) and Regulation 29 (2) of SEBI (Substantial Acquisition 
+of Shares and Takeovers) Regulations, 1997. 
+
+ 
+
+6.  As  regards  the  contribution  towards  the  IPF  based  on  the  transaction 
+charges collected from the members of the exchange, the Stock Exchanges 
+shall continue with the present practice followed by the respective Stock 
+Exchanges. 
+
+4.4  Manner of filling /inviting claims from investors 
+
+7.  In accordance with its bye-laws, rules or regulations, the Stock Exchange 
+shall  publish  a  notice  inviting  the  legitimate  claimants  to  file  claims 
+against  the  defaulter  member  brokers  within  a  specified  period  of  time, 
+called as the “specified period”.  
+
+ 
+8.  The  specified  period  shall  not  be  less  than  one  month  or  twenty  five 
+
+working days, whichever is more. 
+
+ 
+9.  The Stock Exchange shall publish the notice in all the editions of atleast 
+one  English  national  daily  with  wide  circulation  and  in  atleast  one 
+regional language daily with wide circulation at the place where the Stock 
+Exchange is situated.  
+
+ 
+10. The notice calling for claims shall also be displayed on the premises of the 
+Stock Exchange as well as on the web-sites of the Stock Exchange for the 
+entire specified period.  
+
+ 
+11. The notice shall contain the specified period, the maximum compensation 
+
+limit for a single claim of an investor, etc. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 10 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+4.5  
+
+Eligible Claims  
+ 
+
+ 
+
+ 
+
+12. The  claims  received  against  the  defaulter  members  during  the  specified 
+
+period shall be eligible for compensation from the IPF/CPF.  
+
+ 
+13. The  IPF/CPF  Trust  however,  may,  if  it is satisfied that the claims could 
+not  have  been  filed  during  the  specified  period  for  reasons  beyond  the 
+control of the claimant, entertain claims received even after the specified 
+period. 
+
+ 
+14. The claims of the investors/clients shall be eligible for compensation from 
+the IPF/CPF and in no case the claims of a broker or an associate of the 
+member broker of the Stock Exchange shall be eligible for compensation 
+out of the IPF/CPF. 
+
+15. The claims of the investors/clients arising out of speculative transactions 
+shall not be eligible for compensation from the IPF/CPF. The claim should 
+not be a sham or collusive. 
+
+ 
+
+4.6   Determination of Legitimate Claims  
+
+16. The  IPF/CPF  Trust  may  adopt  the  arbitration  mechanism  at  the  Stock 
+Exchange  to  determine  the  legitimacy  of  the  claims  received  from  the 
+claimants. 
+
+ 
+17. The IPF/CPF Trust may also seek the advice of the Defaulters Committee 
+
+to sanction and ratify the payments to be made to the investors.  
+
+ 
+
+4.7   Threshold limit for claims  
+
+ 
+
+ 
+
+the 
+
+18. The  Stock  Exchanges  are  free  to  fix  suitable  compensation  limits,  in 
+consultation  with 
+the  amount  of 
+compensation available against a single claim of an investor arising out of 
+default by a member broker of a Stock Exchange shall not be less than Rs. 
+1  lakh  in  case  of  major  Stock  Exchanges  viz.,  BSE  and  NSE,  and    Rs. 
+50,000/- in case of other Stock Exchanges. 
+
+IPF/CPF  Trust.  However, 
+
+ 
+19. The Stock Exchange, in consultation with the IPF/CPF Trust, shall review 
+and progressively increase the amount of compensation available against 
+a single claim from an investor, atleast every three years. 
+
+Page 11 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+20. The  Stock  Exchange  shall  disseminate  the  compensation  limit  fixed  by 
+them and any change thereof, to the public through a Press Release and 
+also through its web site.  
+
+ 
+
+ 
+
+4.8   Disbursements of claims from the IPF/CPF  
+
+21. The IPF/CPF Trust shall disburse the amount of compensation from the 
+IPF/CPF to the investor and such a compensation shall not be more than 
+the maximum amount fixed for a single claim of an investor. 
+
+ 
+22. The  IPF/CPF  need  not  wait  for  the  auction  of  the  card  of  the  defaulter 
+member  broker  to  realise  the  assets  and  the  liabilities  position  of  the 
+defaulter member before the disbursements of the claims.  
+
+ 
+23. The  IPF/CPF  Trust  shall  disburse  the  compensation  to  the  investors  as 
+
+and when claims have been crystallised against the defaulter.  
+
+ 
+24. The Stock Exchange shall ensure that the amount realised by the auction / 
+close-out of the card / realisation of assets of the defaulter members are 
+credited to the IPF/CPF after satisfying the claims of the Stock Exchange 
+and the SEBI in accordance with the bye-laws of the Stock Exchange. 
+
+ 
+
+4.9   Miscellaneous11 
+
+25. Post-demutualisation,  the  balance  of  the  IPF/CPF  lying  un-utilised  with 
+the Stock Exchanges, shall continue to be utilised only for such purposes 
+as prescribed by SEBI. 
+
+ 
+26. However, if the Stock Exchange is wound up post-demutualisation, then 
+the  balance  in  the  IPF/CPF  lying  un-utilised  with  the  Stock  Exchange 
+shall  be  transferred  to  SEBI.  The  funds  will  be  maintained  in  a  separate 
+account and SEBI would act as trustee of these funds. The funds shall be 
+utilised for purposes of Investor education, awareness, research etc. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+                                                 
+11 Circular No. MRD/DoP/SE/Cir-38/2004 dated October 28, 2004. 
+
+Page 12 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+4.10   Settlement of Claims 
+
+ 
+
+4.10.1 Dealing through the registered sub-broker of a defaulting broker12 
+
+ 
+With  respect  to  entertaining  the  claims  against  the  defaulter  member  for 
+compensation  from  the  Investor  Protection  Fund/  Customer  Protection  Fund 
+(IPF/ CPF) where the clients have dealt through the registered sub-broker of the 
+defaulting broker, the clients of the registered sub-broker would also be eligible 
+for claims against the defaulting member broker for compensation from the IPF/ 
+CPF. 
+ 
+
+4.10.2 Stock broker having multiple memberships13 
+
+ 
+In  case  of  stock  broker  having  multiple  memberships,  who  has  been  declared 
+defaulter, any amount remaining to his credit after satisfying the eligible claims 
+at the stock exchange/ SEBI/ other stock exchanges, shall be credited to the IPF/ 
+CPF of such exchange. 
+ 
+
+4.11   Investor Services Fund 14 
+ 
+
+The Exchange is directed to set aside atleast 20% of the listing fees for providing 
+services to the investing public. The exchange is also directed to provide daily 
+quotation,  other  publications,  computerised  services  and  other  services  to  the 
+members of the stock exchange at cost price. 
+ 
+
+4.12  Utilization of Investor Protection Fund/ Investor Service Fund15 
+
+ 
+To  bring  about  a  uniformity/  consistency  regarding  the  functioning  of  the 
+Investor Protection Fund/ Investor Service Fund of stock exchanges, it is advised 
+that all stock exchanges should open/ maintain atleast one service center for the 
+benefit of the public/ Investors. However, the major stock exchanges are free to 
+open as many investor centers as required. These investor centers will provide 
+the following basic minimum facilities to the investors: 
+ 
+                                                 
+12  Circular No. SMD/Policy/Cir-15/2002 dated June 26, 2002. 
+13 Circular No. MRD/DoP/SE/Cir-21/2006 dated December 14, 2006 
+14 Ref. No. SE/10118 dated October 12, 1992. 
+15 Circular No. SMD/Policy/Cir-32/97 dated December 03, 1997. 
+
+Page 13 of 50 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+i.  The  Center  will  provide  4  financial  newspapers  with  atleast  one  in  the 
+
+regional language. 
+
+ii.  The Investor Services Center will install computer software(marketed by 
+some  vendors)  which  provide  information  about  Corporates  including 
+annual  reports,  general,  financial  &  other  important  information.  The 
+information  will  be  made  available  through  computers  with  one  master 
+terminal  and  some  dummy  terminals  through  which  investors  could 
+access this information. Other facilities like copying will be made available 
+to the investors at minimum cost. 
+
+iii.  The  Center  will  provide  facilities  for  receiving/recording  investor 
+complaints.  Special  Staff  recruited/deployed  by  the  Exchange  for  this 
+purpose  will  register  the  complaints  and  provide  counselling  service  to 
+the investors. Status of complaints will be maintained and updated in the 
+computer system of the Center. 
+
+iv.  The  Center  will  provide  for  other  infrastructure  facilities  such  as 
+
+telephone, photocopier, furniture, sitting space etc. 
+
+v.  The Investor Service Center will provide published material of the Stock 
+Exchange  for  the  benefit  of  the  investors.  It  should  also  provide  the 
+prospectus and application forms for the forthcoming public issues. 
+
+vi.  The Center will provide for dummy terminals to display the prices of the 
+scrips listed on the Exchange on real-time basis, to enable investors watch 
+the price movements of the stocks. 
+
+vii.  The  Center  will  maintain  a  library  on  relevant  laws,  financial  analysis, 
+
+market trend analysis etc. for the education of the investors. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+4.13   Utilization of Interest Income earned on IPF16 
+  
+
+In order to promote investor education and to create greater investor awareness, 
+all  the  stock  exchanges  are  permitted  to  utilize  interest  income  earned  on 
+Investor Protection Fund for investor education, awareness and research. 
+
+                                                 
+16 Circular No. SMD/DBA-1/SS/Policy/Cir-34/2000 dated August 2, 2000. 
+
+Page 14 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+SECTION – 5: MODE OF PAYMENT AND DELIVERY 
+
+5.1  Mode of Payment and Delivery17 
+
+Brokers and sub-brokers should not accept cash from the client whether 
+against obligations or as margin for purchase of securities and / or give 
+cash against sale of securities to the clients.   
+
+ii.  All payments shall be received / made by the brokers from / to the clients 
+strictly by account payee crossed cheques / demand drafts or by way of 
+direct  credit  into  the  bank  account  through  EFT,  or  any  other  mode 
+allowed  by  RBI.  The  brokers  shall  accept  cheques  drawn  only  by  the 
+clients  and  also  issue  cheques  in  favour  of  the  clients  only,  for  their 
+transactions.  However,  in  exceptional  circumstances  the  broker  or  sub-
+broker may receive the amount in cash, to the extent not in violation of the 
+Income Tax requirement as may be in force from time to time. 
+
+iii. 
+
+Similarly in the case of securities also giving / taking delivery of securities 
+in “demat mode” should be directly to / from the “beneficiary accounts” 
+of the clients except delivery of securities to a recognized entity under the 
+approved scheme of the stock exchange and / or SEBI.    
+
+ 
+
+i. 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+                                                 
+17 Circular No. SEBI/MRD/SE/Cir- 33/2003/27/08 dated August 27, 2003. 
+
+Page 15 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+SECTION – 6: SETTLEMENT IN CASE OF HOLIDAYS 
+
+ 
+
+6.1  
+
+6.2  
+
+ 
+
+ 
+
+Settlement of Transaction in case of Holidays18 
+ 
+Often  the  holidays  of  Banks  and  Stock  Exchanges,  holidays  among  Stock 
+Exchanges in different states, are not common. This results in situations where 
+Stock  Exchanges  are  burdened  with  multiple  settlements  on  the  working  day 
+immediately  following  the  day(s)  of  closure.  Thus  with  the  view  to  enable 
+smooth  Settlement  process  and  enable  Exchanges  meet  their  obligations  the 
+Advisory  Committee  on  Derivatives  and  Market  Risk  Management  (RMG)  in 
+consultation  with  the  Stock  Exchanges  and  the  Depositories  has  provided  the 
+following guidelines: 
+ 
+
+i.  The Stock Exchanges shall clear and settle the trades on a sequential basis 
+i.e., the pay-in and the pay-out of the first settlement shall be completed 
+before  the  commencement  of  the  pay-in  and  pay-out  of  the  subsequent 
+settlement(s). 
+
+iii. 
+
+ii.  The  cash/Securities  pay  out  from  the  first  settlement  shall  be  made 
+available  to  the  member  for  meeting  his  pay-in  obligations  for  the 
+subsequent settlement/s.  
+Further,  in-order  to  meet  his  pay-in  obligations  for  the  subsequent    
+settlement, the member may need to move securities from one depository 
+to another. The Depositories shall, therefore, facilitate the inter-depository 
+transfers within one hour and before pay-in for the subsequent settlement 
+begins.  
+
+iv.  The  Stock  Exchanges/Depositories  shall  follow  a  strict  time  schedule  to 
+
+ensure that the settlements are completed on the same day.  
+
+v.  The Clearing Corporation/Clearing House of the Stock Exchanges shall 
+
+execute Auto DO facility for all the settlements together, so as to make the 
+funds and the securities available with the member on the same day for all 
+the settlements, thereby enabling the availability of the funds/securities at 
+the client level by the end of the same day. 
+
+Settlement in case of Unscheduled Holidays19 
+ 
+If the settlement holiday is unscheduled (on account of strike etc.) the clubbing of 
+settlement at the last minute may not be possible and the provision of SEBI letter 
+                                                 
+18 Circular No. SEBI/MRD/Policy/AT/Cir- 19/2004 dated April 21, 2004. 
+19 Circular No. SMDRPD/Policy/Cir-43/2001 dated August 20, 2001. 
+
+Page 16 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+(ref. No. SMD/Policy/25249/2001 dated march 19, 2001 to Stock Exchanges) 
+referred in the circular shall be applicable. 
+
+ 
+
+Page 17 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+SECTION – 7 : TRADE GUARANTEE FUND/ SETTLEMENT GUARANTEE 
+FUND 
+ 
+
+7.1   Trade Guarantee Fund/ Settlement Guarantee Fund20 
+
+7.2 
+
+7.3 
+
+ 
+In order to ensure timely completion of the settlement, all the stock exchanges 
+were  advised  to  set  up  clearing  house/clearing  corporation  or  settlement 
+guarantee  fund.  The  failure  of  one  member  has  cascading  effects  on  others  as 
+well. Thus objective behind the establishment of clearing corporation/settlement 
+guarantee fund is to ensure that there is no delay in settlement due to failure of 
+any member to honour his commitment to the exchange on time. 
+ 
+
+The Objective of the Fund 
+ 
+The  objective  of  the  SGF  is  to  guarantee  settlement  of  all  transactions  of  the 
+members of the exchange inter-se through the stock exchange. In the event of a 
+member failing to honour his settlement commitments, the SGF will undertake to 
+fulfill the commitment of that member and will complete the settlement without 
+affecting  the  normal  settlement  process.  In  the  case  of  clearing  corporation,  all 
+the trades are settled through the clearing corporation and clearing corporation 
+becomes  the  counter  party  for  all  the  trades.  The  clearing  corporation  also 
+guarantees settlement of all trades. 
+ 
+
+Corpus of the fund 
+  
+The  corpus  of  the  fund  should  be  adequate  to  meet  out  all  the  contingencies 
+arising on account of failure of any member/members. The risk/liability to the 
+fund  depends  on  various  factors  such  as  trade  volume,  delivery  percentage, 
+maximum  settlement  liability  of    the  members,  the  history  of  defaults  at  the 
+exchange, capital adequacy of the members, and the degree of surveillance and 
+safety measures i.e. imposition of mark to market margins, trade restrictions etc., 
+implemented by the exchange. A fixed formula, therefore, cannot be prescribed 
+to  estimate  the  risk/liability  of  the  fund.    However,  in  order  to  assess  the  fair 
+quantum of the corpus of SGF, an assessment on the following factors prevailing 
+at the particular Stock Exchange  may be necessary. 
+
+                                                 
+20 Circular No. SMD/POLICY/SGF/CIR-13/97 dated June 09, 1997. 
+  Circular No. SEBI/SMD/SE/21 /2003/05/06 dated June 5, 2003. 
+  Circular No. SMDRP/POLICY /CIR -16/2001 dated March 9, 2001 
+
+Page 18 of 50 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+1.  Risk Management system in force at the Exchange  
+ 
+
+i. 
+
+ii. 
+
+iii. 
+iv. 
+
+ 
+
+ 
+
+ 
+
+threshold limits. 
+
+The extent of implementation of  various margins systems and  the 
+level of  
+The  percentage  of  margins  (paid  by  the  members)  to  their  pay-in 
+liabilities  
+Control on off-market transactions 
+Capital  adequacy  of  members  (Base  minimum  capital  and  the 
+additional  
+The effectiveness of the surveillance system at the Exchange. 
+
+capital deposited with the Exchange) 
+
+v. 
+vi.  Minimum expenses limit fixed by the Exchange. 
+  
+
+ 
+
+2.  The track record of defaults of members  (Gross amount of default and the net 
+
+amount) in the last 10 years. 
+
+ 
+3.  The  track  record  of  disciplinary  action  for  financial  defaults  taken  by  the 
+
+Exchange in the last 10 years 
+
+ 
+4.  The settlement liability of the top 10 members ( settlement liability wise ) in 
+
+the highest settlement in the last 1 year.. 
+
+ 
+5.  Implementation  of  suggestions  made  in  the  SEBI  Inspection  Reports  by  the 
+
+ 
+6.  The projected volume of business and  deliveries at the Exchange for the next 
+
+Stock Exchange. 
+
+three years. 
+
+ 
+A  realistic  assessment  on  the  adequacy  of  the  above  factors  relating  to  the 
+particular  Stock  Exchange  need  to  be  made.  In  case  of  any  deficiency  /  non-
+satisfactory  level  of  performance  of  the  Exchange,  the  expected  level  of 
+risk/liability    to  the  SGF  will  increase  and  accordingly  it  will  require  a  higher 
+level of corpus. 
+   
+Further  in  order  to  assess  the  minimum  level of corpus of SGF,  the following 
+norms may be considered. 
+ 
+a. 
+
+It  may  be  assumed  that  in  a  worst  case,  the  top  ten  members  (highest 
+settlement  in  last  one  year  settlement  liability-wise)  of  the  exchange 
+would default simultaneously in a settlement. 
+
+ 
+
+ 
+
+Page 19 of 50 
+
+•  Margins deposited with the Exchange. 
+•  The  short  fall  will  be  first  met  from  Income  of  the  SGF  (interest  on 
+turnover  based 
+
+deposits  and  recurring  sources  such  as 
+contributions from members etc). 
+
+•  The,  balance,  shortfall,  if  any  might  be  recovered  from  the  corpus  of 
+
+the 
+
+SGF.  
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+It  may be assumed that there will be a maximum loss of 20% in the value 
+on the net basis in the process of reversing the trade or squaring off the 
+position. 
+
+The loss may be assumed to be recovered from the following sources : 
+
+ 
+b. 
+
+ 
+ 
+c. 
+ 
+
+In the normal course, the total income from the interest earned on cash portions 
+of the corpus of SGF and other recurring contributions to SGF by member should 
+be adequate to take care of the unexpected liability as per (b) above, For example 
+if  the  total  loss  on  settlement  liabilities  of  the  top  ten  brokers  is  Rs  2  Crs  in  a 
+particular  settlement,  income  generation  from  the  fund  (including  recurring 
+income) should not be less than Rs 2 Crs p.a. 
+ 
+
+7.4 
+
+Contribution to the Fund 
+ 
+The basic objective of the fund is to provide safety to the members against the 
+risk of failure of any other member/s in the settlement, therefore the contribution 
+to  the  corpus  of  SGF  should  be  made  by  the  members.  The  exchange  may 
+contribute towards the corpus of the fund out of the free reserves and by way of 
+appropriation  of  the  members  fund  lying  with  it.  The  base  minimum  capital 
+contributed by the members may be used for building up the corpus of the SGF. 
+For  better  liquidity,  it  should  be  ensured  that  the  securities  accepted  towards 
+contribution to the base minimum capital consist of only NIFTY (NSE 50 Index) 
+Scrips  which  are  freely  usable  by  SGF  in  meeting  out  any  risk  /  liability.  The 
+members  may  also  be  required  to  contribute  to  the  fund  by  way  of  bank 
+guarantee revocable at the instance of SGF against the default by any member.   
+In  order  to  generate  regular  income  to  the  fund,  the  members  should  pay 
+turnover  based  contribution  to  this  fund.  This  contribution  made  by  the 
+members should not be recovered from investors. 
+ 
+
+ 
+
+Page 20 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+7.5   Management of the fund: 
+
+The  management  of  the  SGF  should  be  in  the  hands  of  an  independent 
+committee  represented  by  members  and  outsiders.  The  constitution  of  the 
+committee should be approved by SEBI. 
+
+ 
+
+Page 21 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+7.6   Access to the fund: 
+
+In the event of a failure of member/s to honour their settlement commitment, the 
+SGF will fulfill the commitment only after declaring the member/s as defaulter/s 
+and  such  member/s  would  not  be  eligible  to  continue  to  trade  and  default 
+proceedings  as  per  the  bye-laws  of  the  exchange  would  have  to  be  initiated 
+against him. 
+
+7.7 
+
+Recoupment of the corpus 
+
+It  should  be  ensured  that  the  corpus  of  the  SGF  will  not  fall  below  the  initial 
+corpus or 75% of the closing value of the fund as on date immediately preceding 
+March 31, which ever is higher and it will increase in proportion of increase in 
+membership / turnover. 
+
+7.8  Utilisation of Settlement Guarantee Fund 
+
+In  cases  where  amount  shortages  in  a  settlement  for  a  trading  member  are  in 
+excess of the base minimum capital (BMC) prescribed, the trading facility of the 
+member shall be withdrawn and the securities pay-out due to the member shall 
+be  withheld.  The  trading  facility  of  the  member  shall  be  withdrawn  and  the 
+securities pay-out due to the member shall be withheld, even in cases where the 
+amount  of  shortages  exceed  20%  of  the  BMC  and  is  less  than  the  BMC  on  six 
+occasions within a period of three months. 
+
+On complete recovery of the shortages, the member shall be permitted to trade 
+with a reduced gross exposure as follows: 
+
+ 
+
+Cumulative Funds Shortage 
+
+20% of BMC –  50% of BMC 
+50% of BMC – 100% of BMC 
+
+current 
+
+Exposure limit allowed  
+(%of 
+limit) 
+80% 
+60% 
+
+exposure 
+
+ 
+
+ 
+
+This  reduced  gross  exposure  level  shall  be  maintained  for  the  member  for  ten 
+rolling  settlements.  If  the  cumulative  funds  shortages  for  the  next  ten  rolling 
+settlements  (previously  four  rolling  settlements),  is  less  than  20%  of  BMC,  the 
+exposure  limits  shall  be  restored.    However,  if  a  member  provides  a  deposit 
+equivalent to his cumulative fund shortages as the 'funds shortage collateral' in 
+his  clearing  account  the  exposure  limit  may  be  restored  immediately  upon 
+meeting the shortage. Such deposit shall be kept with the Exchange for a period 
+of ten rolling settlements and shall be released only if no further funds shortages 
+are  reported  for  the  member  in  next  ten rolling settlements. The member shall 
+
+Page 22 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+not  be  given  any  exposure  benefit  or  any  interest  payment  on  the  amount  so 
+deposited  as  'funds  shortage  collateral'.  Members  may  deposit  the  ‘funds 
+shortage collateral' by way of cash, fixed deposit receipts or bank guarantee. 
+The outstanding amount would carry a penal interest of not less than 0.07% 
+(previously 0.09%) per day. 
+ 
+The amounts lying in the aforesaid funds would not be available for settling any 
+loss suffered in connection with the margin trading facility. However, the 
+aforesaid funds will continue to be available for all transactions done on the 
+exchange, whether normal or through margin trading facility.21 
+ 
+ 
+
+                                                 
+21 Circular No. SEBI/MRD/SE/SU/Cir-15/04 dated March 19, 2004. 
+
+Page 23 of 50 
+
+ 
+
+ 
+
+8.1 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+SECTION -8: TRANSFER OF FUNDS AND SECURITIES 
+
+Transfer of Funds and Securities from member to client22 
+ 
+The  member  shall  transfer  Funds  and  Securities  from  their  respective  pool 
+account to the respective beneficiary account of their client within 1 working day 
+after the pay-out day.  
+ 
+The Securities lying in the pool account beyond the above period would not be 
+eligible  for  delivery  in  the  subsequent  settlement(s)  and  would  also  be  not 
+eligible for pledging or stock lending purpose, until the same is credited to the 
+beneficiary accounts. 
+ 
+The Securities lying in the pool account beyond the stipulated 1 day shall attract 
+a  penalty  at  the  rate  of  6  basis  point  per  week  on  the  value  of  securities.  The 
+penalty  so  collected  by  the  depositories  shall  be  credited  to  a  separate  account 
+with  the  depository  and  earmarked  for  defraying  the  expenses  in  connection 
+with  the  investors’  education  and  awareness  programs  conducted  by  the 
+depositories. 
+ 
+The  securities,  which  are  lying  in  these  accounts  beyond  the  specified  time 
+period,  shall  initially  be  identified  based  on  FIFO  (First-In  First-Out)  basis. 
+However, with effect from March 5, 2001, the securities shall be identified based 
+on  the  settlement  number  basis.  The  clearing  corporation/houses  of  the  stock 
+exchanges  shall  provide  the  settlement-wise  details  of  securities  to  the 
+depositories and the depositories shall maintain the settlement-wise records for 
+the purpose. 
+ 
+Further  with  effect  from  April  2,  2001,  stock  exchanges  shall  introduce  the 
+settlement  system  for  direct  delivery  of  securities  to  the  investors.  Clearing 
+corporation/clearing house (CC/CH) shall ascertain from each clearing member, 
+the  beneficial  account  details  of  their  respective  clients  who  are  due  to  receive 
+pay out of securities.  Based on this, the CC/CH shall send pay out instructions 
+to the depositories so that the client receives pay out of securities directly to the 
+extent  of  instructions  received  from  the  respective  clearing  members.    To  the 
+
+                                                 
+22 Circular No. MRD/DoP/SE/Dep/Cir-30/2004 dated August 24, 2004. 
+   Circular No. SEBI/MRD/Policy/AT/Cir- 19/2004 dated April 21, 2004. 
+   Circular No. SMDRP/Policy/Cir-05/2001 dated February 01, 2001. 
+ 
+
+Page 24 of 50 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+extent of instruction not received, the securities shall be credited to the CM pool 
+account. 
+
+ 
+
+Page 25 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+SECTION – 9: TRANSFER DEED 
+ 
+
+9.1   Affix stamp of member affiliation to stock exchange on reverse of transfer 
+
+deed (Physical Shares)23 
+ 
+While delivering shares in the market, the delivering broker is required to affix, 
+on the reverse of the transfer deed a rubber stamp indicating his name, clearing 
+number allotted to him by the Stock Exchange of which he is a member and date 
+of such delivery.  The following steps are to be followed in order to facilitate the 
+last purchaser, in the event of any problems of bad delivery etc., to approach the 
+first introducing broker for rectification of defect(s). 
+  
+(1)  All  the  brokers  should  have  their  SEBI  Registration  number  preprinted  on 
+
+their contract notes. 
+
+(2) All brokers should affix rubber stamp on the reverse of transfer deeds with 
+their  trade  name  and  SEBI  registration  number  as  it  appears  in  the  SEBI 
+Registration  Certificate.  Also  the  stamp  should  indicate  the  name  of  the 
+Stock  Exchange  of  the  which  the  Broker  is  a  member.  The  rubber  Stamp 
+should be as under: 
+
+Name & Name of the Stock Exchange : e.g. J.V.Shah, BOM 
+SEBI Registration Number: 
+The  brokers  should  also  be  instructed  to  invariably  fill  in  the  date  of 
+delivery while delivering the shares in the market. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ (3) All the stock Exchanges should incorporate the SEBI Registration numbers of 
+
+the brokers in the various computer reports generated by them. 
+
+ 
+
+ 
+
+9.2   Trasfer Deed with or without Inscription24 
+
+ 
+All  Trasfer  Deeds  with  or  without  the  inscription  of  the  name  of  the  Stock 
+Exchange  on  the  reverse  shall  be  treated  as  good  delivery  provided  they  are 
+complete in all other respects and otherwise in order. 
+ 
+
+                                                 
+23  Ref.SMD-I/22532 dated October 19, 1993. 
+24 Ref. SMD/6059 dated October 17, 1994. 
+
+Page 26 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+9.3   Delay in transfer of shares by companies25 
+
+ 
+A)    Pending Transfer of Share  
+ 
+
+i) 
+
+from 
+
+the 
+
+transferee 
+
+In case the transfer deed and the share certificates are with the company 
+awaiting  transfer  beyond  30  days  and  in  cases  where  the  same  are 
+returned  by  the  company  to  the  investor  with  a  company  objection 
+including  due  to  signature  difference  (other  than  court  cases  where 
+injunction has been ordered), companies shall effect the transfer of shares 
+on  obtaining 
+the  proof  of  purchases  duly 
+acknowledged  by  the  stock  exchange/broker.    If  so  desired,  a  company 
+may  also  obtain  indemnity  bond  from  the  transferee.    Before  effecting 
+transfer, the company shall within 10 days of the date of such direction, 
+send letters under registered post AD/Speed Post AD to the transferor(s) 
+asking  for  their  confirmations/no-objection,  so  as  reach  the  company 
+within 15 days from the date of receipt of the letter by the transferor.  If 
+the confirmation is received /no-objection is not received within 15 days 
+from  the  transferor(s),  the  transfer  would  be  effected  immediately 
+thereafter.    The  valid  objection,  if  any  should  be  accompanied  by 
+correspondingly  old  prohibitory  order  from  a  competent  authority.  
+Immediately after effecting the transfer of shares, the benefits (i.e. Bonus, 
+rights, dividend) held back by the company shall be handed over to the 
+transferee.    If  such  benefits  have  been  passed  on  to  the  transferor,  the 
+concerned  stock  exchange  shall  arbitrate  through  the  brokers  of  the 
+transferor and the transferee to determine the rightful claimant.  Keeping 
+in view the provisions of Section 206 A of the Companies Act and Section 
+27  of  the  Securities  Contracts  (Regulation)  Act,  1956,  in  such  cases,  the 
+Stock Exchanges should entertain claims for resolving through arbitration 
+even if they are beyond the stipulated time of 4 months. 
+
+In respect of complaints (other than court cases where injunction has been 
+ordered) where the original transfer deeds have been lost in the process of 
+rectification on account of company objection, companies shall transfer the 
+shares  as  per  the  first  proviso  to  sub-section  (1)  of  Section  108  of  the 
+Companies  Act  on  obtaining  from  the  transferee  the  proof  of  purchases 
+duly acknowledged by the stock exchange/broker on an indemnity bond 
+from the transferee.  Before effecting transfer, the company shall within 10 
+days of the date of such direction, send letters under registered post AD 
+/Speed  post  AD  to  the  transferor(s)  asking  for  their  confirmations/no  -
+objection, so as reach the company within 15 days from the date of receipt 
+
+ 
+ii) 
+
+                                                 
+25 Circular No. SMDRP/POLICY/CIR-46/2001 dated September 27, 2001 
+
+Page 27 of 50 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+of the letter by the transferor.  If the confirmation is received/no objection 
+is not received within 15 days, the transfer would be effected immediately 
+thereafter.    The  valid  objection,  if  any,  by  the  transferor  shall  be 
+accompanied by correspondingly old prohibitory order from a competent 
+authority.  Immediately after effecting the transfer of shares, the benefits 
+(i.e. Bonus, rights, dividend) held back by the company shall be handed 
+over  to  the  transferee.    If  such  benefits  have  been  passed  on  to  the 
+transferor,  the  concerned  stock  exchange  shall  arbitrate  through  the 
+brokers  of  the  transferor  and  the  transferee  to  determine  the  rightful 
+claimant.    Keeping  in  view  the  provisions  of  the  Section  206  A  of  the 
+Companies  Act  and  Section  27  of  the  Securities  Contracts  (Regulation) 
+Act, 1956, in such cases, the Stock Exchanges should entertain claims, even 
+if they are beyond the stipulated time. 
+
+In  respect  of  companies  where  shares  and  transfer  deeds  are  lying  with 
+the  investor  or  introducing  broker-member(IM),  and  IM  has  already 
+paid/replaced shares to buyer/broker due to bad delivery on account of 
+objection memo raised by the company, but there was a delay on the part 
+of the company in raising objection beyond the stipulated time period of 1 
+month, shares shall be tranferred by the company to the investor/IM, as 
+applicable, provided no objection certificate of the buyer/buying broker is 
+provided. 
+
+ 
+
+ 
+iii) 
+
+i) 
+
+ 
+ii) 
+
+ 
+
+ 
+
+B)  Procedure for dealing with Company objections in future 
+ 
+
+In respect of complaints where shares and transfer deeds are lying with 
+the investor of introducing the broker-member (IM) and IM has already 
+paid/replaced shares to buyer /broker due to bad delivery on account of 
+objection memo raised by the company, but there was a delay on the part 
+of the company in raising objection beyond the stipulated time period of 1 
+month.  In  such  cases  the  company  would  be  liable  to  compensate  the 
+aggrieved party for the opportunity losses during the intervening period. 
+
+In  cases  of  company  objection  due  to  signature  difference  (Other  than 
+court  cases  where  injunction  is  ordered),  companies  shall  effect  the 
+transfer  of  shares  by  following  the  procedure  mentioned  below.    Before 
+effecting  transfer,  the  company  shall  within  10  days  of  receipt  of  shares 
+from  the  transferee,  send  letters  under  registered  post  AD/  Speed  Post 
+AD to the transferor(s) asking for their confirmations/no-objection, so as 
+to reach the company within 15 days from the date of receipt of the letter 
+by  the  transferor.    If  the  confirmation  is  received/no  objection  is  not 
+received  within  15  days,  the  transfer  would  be  effected  immediately 
+
+Page 28 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+thereafter.  The valid objection, if any, should be followed/accompanied 
+by a prohibitory order from a competent authority and should reach the 
+company  within  30  days  thereafter,  failing  which  the  transfer  would  be 
+effected.    Immediately,  after  effecting  the  transfer  of  shares,  the  benefits 
+(i.e. Bonus, rights, dividend) held back by the company shall be handed 
+over  to  the  transferee.    If  such  benefits  have  been  passed  on  to  the 
+transferor,  the  concerned  stock  exchange  shall  arbitrate  through  the 
+brokers  of  the  transferor  and  the  transferee  to  determine  the  rightful 
+claimant.    Keeping  in  view  the  provisions  of  Section  206  A  of  the 
+Companies  Act  and  Section  27  of  the  Securities  Contracts  (Regulation) 
+Act,  1956,  In  such  cases,  the  Stock  Exchanges  are  hereby  advised  to 
+entertain claims even if they are beyond the stipulated time. 
+
+In  cases  where  transfer  deed  and  the  share  certificates  are  with  the 
+company and the company has not effected transfer of shares, within the 
+stipulated time period of one month, without communicating the investor 
+any  valid  objection.  In  such  cases  the  company  would  be  liable  to 
+compensate  the  opportunity  losses  occurred  to  the  investor(buyer).    In 
+addition, the company shall transfer the shares immediately and keeping 
+in view the provisions of Section 206A of the Companies Act and Section 
+27 of the Securities Contracts (Regulation) Act, 1956, provide all benefits 
+(i.e.  bonus  shares,  dividend)  which  accrued  to  the  investor  during  the 
+intervening period on account of such delay. 
+
+ 
+iii) 
+
+ 
+ 
+iv)  Once  a  share  certificate  is  returned  by  a  transfer  agent  as  a  "company 
+Objection"  keeping  in  view  the  provisions  of  Section  206  A  of  the 
+Companies  Act  and  Section  27  of  the  Securities  Contracts  (Regulation) 
+Act, 1956, all benefits must be held in abeyance by the company till such 
+time  the  transfer  actually  takes  place  or  a  valid  no  objection  is  received 
+from the Transferee on his receiving replacement. 
+
+ 
+v)  Every time an introducing broker replaces a bad delivery share or pays for 
+the share to the receiving broker/buyer investor as per market norms, a 
+No Objection Certificate to transfer the shares in the name of introducing 
+member  from  the  receiving  broker/buyer  investor  shall  be  given  to  the 
+introducing  member  broker/seller  investor,  as  applicable,  through  the 
+Bad Delivery Cell mechanism. 
+
+ 
+
+C)  Duplicate Share Certificate 
+
+Page 29 of 50 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Where  the  investor  has  complained  about  issuing  of  duplicate  share 
+certificate(s)  by  the  company  on  the  basis  of  allegedly  forged/stolen 
+documents  furnished  by  a  third  party,  the  company  shall  verify  and 
+satisfy itself of the claim of the investor, within 15 days of receipt of the 
+claim and take steps including invoking of indemnity bond to issue shares 
+and corresponding benefits to the rightful owner in terms of section 84 of 
+the  Companies  Act  read  with  Rule  3  of  the  Companies  (Issue  of  Share 
+Certificates) Rules, 1960. 
+
+Page 30 of 50 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+SECTION – 10 : UNIFORM NORMS FOR GOOD/BAD DELIVERY NORMS26 
+ 
+
+10.1  Transfer Deeds 
+
+ 
+
+Description 
+
+No
+. 
+1. 
+
+Transfer Deeds in the prescribed form and printed with the words “For 
+the _____________ Stock Exchange.” 
+ 
+Stock Exchange emblem may or may not be printed.  Month and year of 
+printing may or may not be put on the reverse of the Transfer Deed. 
+
+2.  Mutilated Transfer Deed with the signatures of the transferor, witness, 
+Directors  and  officer  of  the  Company/distinctive  numbers/  any 
+material portion badly torn overwritten, or defaced. 
+ 
+Typical Cases : 
+A)  Material portion defined here only pertains to the material portions 
+at  the  time  of  delivery  and  not  prospective  one.    For  a  buyer 
+Consideration  column,  Specimen  signature  column,  Name,  Address, 
+Occupation will also be the material portion. 
+ 
+Material portion includes of transferor’s name and signature, company 
+name, folio no., certificate number, distinctive nos., number of shares, 
+name and signature of the transferee, specimen signature of transferee 
+ 
+B)   Transfer Deed torn in the prospective material portion 
+•  Torn  and  pasted  with  self-adhesive  tape  on  which  the  required 
+
+details can filled in without any difficulty. 
+
+•  Transfer Deed torn in non material portion and held together  by a 
+
+transparent tape. 
+
+3. 
+
+•  Transfer Deed torn end-to-end in any angle. 
+Transfer  Deeds  with  correction  in  the  material  portion  like,  erasure, 
+overwriting,  alteration  or  crossing  out  by  transferor  /  Authorised 
+Signatory. 
+ 
+
+Good/Bad 
+
+GOOD 
+
+BAD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GOOD 
+ 
+GOOD 
+BAD 
+
+if 
+
+GOOD 
+properly 
+authenticat
+ed  under 
+full 
+the 
+
+                                                 
+26 Circular no. SMD/RCG/2796/96 dated July 16, 1996 
+Circular no. SMD/POLICY/CIR/7-97 dated April 16, 1997 
+Circular no. SMD/POLICY/GBDN/CIR-25/97 dated October 09, 1997. 
+ 
+ 
+
+Page 31 of 50 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+Transfer  Deeds  with  correction  in  the  material  portion  like,  erasure, 
+overwriting, alteration or crossing out in material portion. 
+ 
+Undernoted  corrections/  alterations  are  not  considered  in  material 
+portion. 
+ 
+ 
+ 
+ 
+ 
+A)  Minor spelling mistake in the following fields are valid without the 
+transfer’s  authorisation  provided  the  word  can  be  properly 
+identified : 
+a.   Name of the company. 
+b.   Number of shares in words. 
+c.   names of the Shareholders 
+ 
+Illustration     Good           Bad 
+Telco             Teelco        Tisco 
+Fifty               Feefty          feefteen 
+Ramesh         Rameesh       Rajesh 
+ 
+
+B)  Eraseure,  overwriting,  alteration  or  crossing  out  in  one  or  two 
+
+character in folio numbers. 
+ 
+
+ 
+C)  Erasure,  overwriting,  alteration  or  crossing  out  in  one  or  two 
+
+character of “Distinctive Numbers”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+D)  Erasure,  overwriting,  alteration  or  crossing  out  in  one  or  two 
+
+character of “Certificate Numbers “. 
+ 
+ 
+ 
+
+Page 32 of 50 
+
+ 
+ 
+ 
+
+ 
+
+signatures 
+of 
+the 
+transferors. 
+  Good 
+if 
+properly 
+authenticat
+ed  under 
+the 
+full 
+signatures 
+of  all  the 
+transferor(
+s). 
+ 
+ 
+Good. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Good. 
+ 
+ 
+Good if 
+certificate 
+number 
+does not 
+contain 
+any 
+erasure, 
+overwritin
+g , 
+alteration 
+,or 
+crossing 
+out. 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+ 
+ 
+E)   Erasure, overwriting, alteration or crossing out in Number of Shares 
+
+ 
+ 
+ 
+
+in figure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+F)   Erasure, overwriting, alteration or crossing out in Number of Shares 
+
+in figures. 
+Erasure,  overwriting,  alteration  or  crossing  out  in  one  or  two 
+character in “Numbers of Shares “in words. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+G)    List  of  certificate  numbers  and  distinctive  numbers  attached  to 
+
+transfer deed signed by all transferors.  
+ 
+ 
+
+ 
+  
+ 
+
+4. 
+
+If the name of the transferor (s) in the share certificate & the name in the 
+transfer deed(s) differs materially. 
+ 
+
+ 
+
+Page 33 of 50 
+
+Good if 
+distinctive 
+number 
+does not 
+contain 
+any 
+erasure, 
+alteration 
+or crossing 
+out. 
+ 
+Good if 
+Numbers 
+in words 
+does not 
+contain 
+any 
+erasure, 
+overwritin
+g, 
+alteration 
+or crossing 
+out. 
+ 
+Good if 
+Numbers 
+of Shares 
+of figurews 
+does not 
+contain 
+any 
+erasure, 
+overwritin
+g, 
+alteration 
+or crossing 
+out.  
+ 
+Good 
+BAD 
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+Differences of the following type (vice-versa) 
+A)  Addition or Deletion of 1 or 2 alphabets 
+B)  Krishna Chandra Chelura - C C Krishna 
+C)  Corporation - Corpn/Corp. 
+D)  Ashok Gupta - Gupta Ashok 
+ 
+Transfer  Deeds  signed  as  ‘Choonilal’  whereas  in  share  certificate  the 
+name is spelt as ‘Chunilal’. 
+ 
+Other  than  any  apparent  difference  in  seller’s  signature  must  be 
+accepted. 
+ 
+In case of apparent difference like S Rao signing as David 
+ 
+In case S Rao signing as Subhash since the first letter of the signature 
+matches with the initial. 
+Transferor’s  signature  in  English,  Hindi  or  any  one  of  the  Scheduled 
+languages in India. 
+Assamese,  Bengali,  Gujarati,  Hindi,  Kannada,  Kashmiri,  Malayalam, 
+Marathi,  Oriya,  Punjabi,  Sanskriti,  Tamil,  Telugu  and  Urdu    -    as  per 
+Constitution of India - English Schedule ( Article 314 (I) and 451). 
+Signature  of  the  Transferor  is  in  an  Indian  language  other  than  the 
+Scheduled  languages  of  India  or  when  the  Transferor  has  affixed  his 
+thumb  impression.    If  attested  by  any  person  authorised  to  attest 
+signatures under the Seal/Stamp of his office. 
+Transfer  Deeds  in  respect  of  joint  holdings  signed  by  all  the  joint 
+holders in any order . 
+Provided the signatures are against the relative names filled up in the 
+Transfer Deed. 
+Transfer  Deeds  without  the  name  of  the  Company,  name(s)  of 
+Transferor(s),  Folio  No.,  share  certificate  no.,  Distinctive  no.,  and 
+number of shares being written. 
+In  one  lot  with  one  Transfer  Deed  name  on  one  certificate  reading  as 
+“Ramesh  C  Talati”  an  on  another  certificate  as  “Ramesh  Chunilal 
+Talati” but Register Folios same on both. 
+In one lot, separate transfer deeds are required for each registered folio. 
+If the transferor’s name is identical and folios are different and there is 
+only one transfer deed. 
+In  one  lot  with  one  Transfer  Deed  names  on  different  certificates 
+reading  as  Ramesh  Chunilal  Talati  and  Talati  Ramesh  Chunilal  but 
+Register Folio is same. 
+Income Tax Authority or Collector signs as Transferor. 
+
+ 
+
+Page 34 of 50 
+
+ 
+GOOD 
+BAD 
+GOOD 
+GOOD 
+
+GOOD 
+ 
+ 
+ 
+ 
+BAD 
+ 
+GOOD 
+
+GOOD 
+
+GOOD 
+
+GOOD 
+
+BAD 
+
+GOOD 
+ 
+GOOD 
+GOOD 
+
+GOOD 
+
+GOOD 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+12. 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+13. 
+
+15. 
+
+ 
+(Number and Date of the relative Order necessary). 
+Instead  of  Executor’s  signature,  his  Agent’s  Signature  is  put  on  the 
+Transfer Deed. (Number and Date of Registration of Poser of Attorney 
+necessary). 
+
+14.  Executor’s  signature  without  his  rubber  stamp.  (Number  and  Date  of 
+
+Registration of Power of Attorney necessary). 
+In the case of Units transfer deed in the name of a Minor  and signed by 
+natural  Guardian.  (In  the  case  of  Court  Guardian,  a  court  order  is 
+required). 
+Shares cannot be held in the name of a Minor unless accompanied by 
+Court Order granting permission for sales/purchase which is beneficial 
+to the Minor. 
+
+16.  Transfer  Deeds  signed  by  an  individual  against  whom  insolvency 
+
+proceedings are pending. 
+•  Unless the transfer deed is duly certified and countersigned by the 
+
+Official Assignee. 
+
+ 
+
+17.  Transfer deeds signed under Power of Attorney where the power given 
+
+is subject to conditions. 
+•  Transfer deed signed by Director of the Company and Under board 
+Resolution not mentioned on the front or the reverse of the transfer 
+deed. 
+Transfer  deed  signed  by  an  authorised  signatory  under  Power  of 
+Attorney . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•  Transfer deed signed by an authorised signatory of a custodian and 
+the  P  A  registration  no  is  mentioned  on  face  or  the  reverse  of  the 
+transfer deed. 
+
+•  Where  the  transfer  deeds  are  signed  by  an  authorised  signatory 
+under  a  Board  Resolution  and  the  stamp  UNDER  BOARD 
+
+ 
+
+Page 35 of 50 
+
+GOOD 
+
+GOOD 
+
+GOOD 
+ 
+GOOD  -  if 
+accompani
+ed  by  the 
+relevant 
+Court 
+Order 
+sale. 
+BAD 
+ 
+GOOD 
+
+for 
+
+BAD 
+ 
+GOOD 
+ 
+GOOD 
+only if P A 
+regn 
+no, 
+date 
+signature 
+and  stamp 
+of 
+the 
+introducin
+g  Member 
+is 
+mentioned 
+on 
+the 
+reverse  of 
+the 
+Transfer 
+Deed. 
+ 
+GOOD 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+RESOLUTION  is mentioned on the face or the reverse of the transfer 
+deed. 
+
+17.  Transfer deeds signed under Power of Attorney where the power given 
+
+is subject to conditions. 
+•  Transfer deed signed by Director of the Company and Under board 
+Resolution not mentioned on the front or the reverse of the transfer 
+deed. 
+( Stamp of introducing member is not required to be affixed on the 
+
+ 
+reverse of the transfer deed) 
+•  Transfer  deed  signed  by  an  authorised  signatory  under  Power  of 
+
+Attorney . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•  Transfer deed signed by an authorised signatory of a custodian and 
+the  P  A  registration  no.  is  mentioned  on  face  or  the  reverse  of  the 
+transfer deed. 
+( Stamp of introducing member is not required to be affixed on the 
+
+ 
+reverse of the transfer deed) 
+ 
+•  Where  the  transfer  deeds  are  signed  by  an  authorised  signatory 
+under  a  Board  Resolution  and  the  stamp  UNDER  BOARD 
+RESOLUTION  is mentioned on the face or the reverse of the transfer 
+deed. 
+( Stamp of introducing member is not required to be affixed on the 
+
+ 
+
+ 
+reverse of the transfer deed) 
+ 
+
+18.  Transfer Deed signed by a custodian on behalf of a client 
+
+ 
+•  In  the  signature  column  the  custodian  does  not  put  the  stamp  as 
+
+‘Constituted Attorney’ on behalf of the transferor. 
+
+•  Transfer Deed signed by a Custodian on behalf of the client and in 
+the signature column it puts the stamp “By Constituted Attorney to 
+the transferor” with the P/A number given on the reverse of the TD 
+with the stamp and signature of the custodian. 
+
+The  above  mentioned  details  entered  on  the  face  of  the  TD  and  not 
+mentioned on the reverse of the TD 
+
+18.  Transfer Deed signed by a custodian on behalf of a client 
+
+ 
+
+Page 36 of 50 
+
+ 
+GOOD 
+BAD 
+ 
+GOOD 
+ 
+GOOD 
+only if P A 
+regn 
+no, 
+date 
+signature 
+and  stamp 
+of 
+the 
+introducin
+g  Member 
+is 
+mentioned 
+on 
+the 
+reverse  of 
+the 
+Transfer 
+Deed. 
+ 
+GOOD 
+ 
+ 
+ 
+ 
+ 
+GOOD 
+
+ 
+ 
+BAD 
+ 
+GOOD 
+ 
+ 
+GOOD 
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+•  In  the  signature  column  the  custodian  does  not  put  the  stamp  as 
+
+‘Constituted Attorney’ on behalf of the transferor. 
+
+•  Transfer Deed signed by a Custodian on behalf of the client and in 
+the signature column it puts the stamp “By Constituted Attorney to 
+the transferor” with the P/A number given on the reverse of the TD 
+with the stamp and signature of the custodian. 
+
+The  above  mentioned  details  entered  on  the  face  of  the  TD  and  not 
+mentioned on the reverse of the TD 
+
+19.  Shares sold by FIIs and transfer deed signed by a Custodian on behalf 
+
+of the FII. 
+(Copy of RBI approval is not required to be attached with each market 
+lot). 
+
+19.  Shares sold by FIIs and transfer deed signed by a Custodian on behalf 
+
+of the FII. 
+(Copy of RBI approval is not required to be attached with each market 
+lot). 
+ 
+In case of GDR, 
+•  photocopies of the RBI approval attached to the deliveries ;  OR 
+•  if RBI approval number and date is mentioned on the transfer deed 
+
+and attested by the introducing member. 
+
+20. 
+
+21.  Consideration amount and date of execution of the transfer deeds are 
+
+filled in. 
+
+22.  Transfer  Deeds  signed  by  or  on  behalf  of  a  Company  against  which 
+
+liquidation proceedings are pending. 
+ 
+•  Unless  the  Transfer  Deed  is  certified  and  countersigned  by  the 
+
+Liquidators. 
+
+23.  The name of the delivering broker with his SEBI Registration number 
+
+and date not mentioned at the back of the Transfer Deed. 
+In case the shares are delivered to the Clearing House by the Custodian 
+and  the  Transfer  de4ed  bears  the  stamp  of  Custodian  along  with  the 
+Clearing  Number  of  the  Broker  on  whose  behalf  the  shares  are 
+delivered. 
+The date should be the pay-in date/ delivery date only. 
+
+24.  Shares held by a TRUST and Signed on the Transfer Deed as ‘NAME 
+
+OF TRUST - PROPRIETOR’. 
+ 
+TD signed as “NAME OF TRUST - TRUSTEE’. 
+ 
+Shares  held  in  the  name  of  a  trust,  if  accompanied  by  a  copy  of  the 
+
+ 
+
+Page 37 of 50 
+
+ 
+BAD 
+ 
+GOOD 
+ 
+ 
+GOOD 
+ 
+
+GOOD 
+
+GOOD 
+
+ 
+GOOD 
+GOOD 
+ 
+BAD 
+
+BAD 
+ 
+ 
+GOOD 
+
+BAD 
+ 
+ 
+GOOD 
+
+BAD 
+ 
+ 
+BAD 
+ 
+GOOD 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+resolution  or  the  relevant  portion  of  the  trust  deed  authorising  the 
+trustees to transact in securities on behalf of the trust. 
+If  shares  held  are  duly  registered  by  the  company  in  the  name  of  the 
+HUF ( Shares held by HUF and signed by KARTA). 
+
+25. 
+
+26.  Transferor’s signature witnessed by a person but his full name not give. 
+
+(as long as the name and address of the witness are perfectly legible). 
+
+27.  Witness’s  name,  address  and  signature  is  in  a  language  other  than 
+
+English specified by the Ministry of Finance. 
+ 
+Assamese,  Bengali,  Gujarati,  Hindi,  Kannada,  Kashmiri,  Malayalam, 
+Marathi,  Oriya,  Punjabi,  Sanskrit,  Tamil,  Telugu  and  Urdu  -  as  per 
+Constitution of India - English Schedule ( Article 314(I) and 451). 
+If signed in a language other than specified by the Ministry of Finance. 
+
+28.  Attestation  stamp  in  any  one  of  the  Scheduled  languages  in  India, 
+
+Indian languages : 
+Assamese,  Bengali,  Gujarati,  Hindi,  Kannada,  Kashmiri,  Malayalam, 
+Marathi,  Oriya,  Punjabi,  Sanskrit,  Tamil,  Telugu  and  Urdu  -  as  per 
+Constitution of India - English Schedule ( Article 314(I) and 451). 
+
+29.  Transferor’s signature attested by a Bank official 
+
+•  only the designation mentioned. 
+•  If the name, Designation of the attesting authority signing alongwith 
+
+30.  Attestation by Gram Panchayat or a Surpanch or Village Magistrate or 
+
+the complete address is given 
+
+Village Munsiff under his seal. 
+
+31.  Signature  attested  by  any  person  authorised  to  attest  signatures  with 
+
+his full name and address with the Official Seal/Stamp of his office. 
+
+32.  Transferor’s signature is attested by a Notary Public. 
+
+(The  necessary  seal,  rubber  stamp,  adhesive  stamps  as  prescribed  for 
+such attestation should be affixed in cases where Notary attestation is 
+required i.e. In cases where Rectification of objections is required due to 
+signature differences). 
+
+33.  Transfer Deed is signed by the transferor 
+
+•  signature  is  clearly  of  a  name  different  than  the  name  of  the 
+
+•  If  signature  is  same  for  two  different  shareholders  under  two 
+
+transferor. 
+
+different Transfer Deeds. 
+
+34.  Marketable lot with more than five transfer deeds. 
+
+Upto five transfer deeds used to make a marketable lot. 
+
+35.  New shares which are issued on prorata basis and old shares standing 
+in  the  folio  and  name  of  same  transferor  and  accompanied  by  one 
+transfer deed for a marketable lot.  (The new share dividend declared 
+for  the  previous  year  i.e.  the  old  new  compensatory  value  (ONCV) 
+
+Page 38 of 50 
+
+ 
+
+ 
+
+GOOD 
+
+GOOD 
+
+GOOD 
+ 
+ 
+ 
+ 
+ 
+BAD 
+GOOD 
+
+ 
+BAD 
+GOOD 
+
+GOOD 
+
+GOOD 
+
+GOOD 
+
+ 
+BAD 
+BAD 
+
+BAD 
+GOOD 
+GOOD 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+would be payable on the entire market lot). 
+
+36.  Company’s name has been changed but it has not been corrected on the 
+
+share certificate. 
+ 
+
+37.  Abbreviated name of a Company filled up in the transfer deed. 
+
+If  from  the  abbreviated  name  the  identity  of  the  company  can  be 
+ascertained.    The  name  of  the  Company  should  be  identifiable  .,  e.g. 
+TELCO, TISCO, L&T, etc. 
+
+38.  Exact position of Tds to be attached on top of the certificate.  TD should 
+
+be placed on the top of the share certificate. 
+
+39.  Transferor and witness is the same. 
+40.  Transfer  Deed  in  the  prescribed  form  and  name  of  a  particular  Stock 
+
+Exchange filled in or not. 
+
+41.  Transfer Deed not in the prescribed form. 
+42.  Witness and attesting authority identical. 
+43.  Transfer  Deeds  bearing  signatures  of  witnesses,  the  address  of  the 
+witness  being  in  a  different  city  or  town  or  Centre  other  than  that  of 
+Transferor or Transferee. 
+
+44.  Prescribed Authority (ROC) seal overlapping and stamped twice. 
+
+Even  if  the  signature  of  the  Registrar  of  Companies  is  partly  printed 
+and the date stamp is also partly printed but both the signature and the 
+date should be apparent. 
+
+46. 
+
+45.  The  Endorsement  of  the  Prescribed  Authority  (e.g.  Registrar  of 
+Companies ) bears the same date as the date from which the Register of 
+Members of the Company is closed. 
+If  the  Endorsement  of  the  Prescribed  Authority  (e.g.  Registrar  of 
+Companies) bears a date prior to the date of issue of share certificate or 
+the date of allotment of shares. 
+Provided the Endorsement of the Prescribed Authority bears a date of 
+or after the date from which the Register of Members of the Company 
+closed last. 
+
+47.  Transfer Deed endorsed by the Prescribed Authority on a date prior to 
+closure of the Register of Members of the Company delivered after the 
+date of closure of Register of Members. 
+
+48.  Transfer  Deeds  accompanying  debenture  certificates  or  any  other 
+permissible listed security (other than equity) whether date-stamped by 
+the Prescribed Authority or not. 
+Provided for the convertible portion a separate date-stamped Transfer 
+Deed is delivered. 
+
+49.  Transferor’s signature on the transfer deed with the date on which he 
+
+has signed. 
+
+GOOD 
+
+GOOD 
+
+ 
+
+BAD 
+GOOD 
+
+BAD 
+GOOD 
+GOOD 
+
+GOOD 
+
+GOOD 
+
+Good 
+
+Bad 
+
+Good 
+
+GOOD 
+
+ 
+
+Page 39 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+50.  Witness is a Non-Resident and the address given is of a foreign country.  GOOD 
+51.  Distinctive numbers range “To” partly filled in the transfer deed., e.g. 
+GOOD 
+
+52. 
+
+4589201 - 300 etc. 
+In the case of mutual funds, the ROC stamp and signature are missing 
+(except in case of Schemes of Unit Trust of India). 
+
+53.  Certificates  with  multiple  folios  per  market  lot  attached  to  separate 
+
+GOOD 
+
+GOOD 
+
+transfer deed (subject to guideline no.35 above). 
+
+54.  Logo of the Stock Exchange on the reverse of the transfer deed missing.  GOOD 
+55.  Attestation of the transferor’s signature is not mandatory. 
+GOOD 
+
+except in the case where the transfer has been returned by the company 
+due to SIGNATURE DIFFERENCE. 
+
+56.  Units issued with the terms ‘either or survivor’, if signed by all holders 
+
+GOOD 
+ 
+GOOD 
+GOOD 
+
+Good 
+ 
+
+Good 
+ 
+Good 
+
+GOOD 
+ 
+BAD 
+
+GOOD 
+ 
+ 
+BAD 
+
+ 
+BAD 
+
+ 
+
+ 
+
+57.  Transferor’s  signature  on  the  transfer  deed  is  facsimile  signature  for 
+
+ 
+If signed by any one of the holders 
+
+Registered Custodians. 
+58.  Certified Transfer Deed 
+
+ 
+Provided  the  name  and  address  of  the  Transferor  the  distinctive 
+numbers  of  the  shares  covered  by  the  Transfer  Deed  and  date  of 
+certification are given. 
+
+59.  Any erasure or alteration in the Certified Transfer Deed. 
+
+When authenticated by an authorised signatory of the Company. 
+
+60.  Certified  Transfer  Deeds  and  share  certificates  delivered  in  part  for 
+
+61. 
+
+62. 
+
+62
+A 
+
+bargains in market trading unit. 
+In case of shares under lock in-period, if the transfer deed date is prior 
+to  the  lock-in  period  last  date  but  the  date  of  introduction  into  the 
+market is after the last date of lock-in period. 
+If the transfer deed date is prior to the lock-in period last date and the 
+date  of  introduction  into  the  market  is  before  the  last  date  of  lock-in 
+period. 
+ 
+Some companies allot record numbers for shares issued by them apart 
+from distinctive number ranges.  For these shares, if record number is 
+filled up along with distinctive number ranges on the transfer deed. 
+If  only  the  record  number  has  been  filled  up  instead  of  distinctive 
+number ranges on the transfer deed. 
+Transfer  deeds  (dated  July  1,  1997  and  thereafter)27  bearing  rubber 
+stamps on the reverse thereof other than those of members of the stock 
+exchanges/clearing  house/clearing  corporations,  SEBI  registered  sub-
+                                                 
+27 Circular No. SMD/POLICY/SUB BROKER/CIR-12/97 dated June 2 1997. 
+
+Page 40 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+brokers and Remisiers registered with the stock exchanges. 
+ 
+ 
+
+ 
+
+Page 41 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+10.2  Share Certificates 
+
+ 
+
+63.  Name of the company or emblem is not readable in the common seal or 
+
+there is no common seal on the share certificate -  
+
+64.  The last date for payment of call has expired and the call has not been 
+paid or if the call has been paid, the necessary Call Report has not been 
+attached. 
+The call payment receipt with the stamp of the Bank before or on the 
+due date if attached to the securities is good delivery for three months 
+from the last date of call payment or next book closure announced by 
+the company whichever is later. 
+All  call  payment  receipts  after  due  date  must  be  endorsed  as 
+“cheque/draft realised” by the Bank/co./Registrars. 
+
+65.  All  securities  with  stickers  issued  by  the  companies  in  lieu  of 
+
+66. 
+
+67. 
+
+68. 
+
+endorsement. 
+If call money paid but not endorsed on share certificate even after the 
+book closure but transfers affected after the call payment date. 
+If the final call is endorsed but the initial or the initial and the second 
+call not endorsed. (i.e. if marked “FULLY PAID”). 
+In case of fully convertible debentures, after the debentures have been 
+converted  into  equity,  if  the  call  money  endorsement  has  been  done 
+only for the equity portion and not for the debenture portion. 
+
+69.  Call paid endorsements made by the Company with the call amount, 
+date  of  payment  and  signature  of  the  Authorised  Signatory  with  or 
+without the Rubber Stamp of the Company. 
+In  the  case  of  partly  paid  shares,  when  a  call  has  been  made  but  not 
+paid and delivery effected during the period of ten days before the last 
+date fixed for payment. 
+If the call receipts are attached to the documents. 
+
+70. 
+
+71.  Application Receipts and Call money receipts not bearing bank stamps 
+
+GOOD. 
+
+BAD 
+ 
+ 
+GOOD 
+ 
+GOOD 
+
+GOOD 
+
+BAD 
+
+GOOD 
+
+GOOD 
+
+GOOD 
+
+ 
+ 
+BAD 
+GOOD 
+BAD 
+
+ 
+BAD 
+ 
+GOOD 
+
+and payment details. 
+ 
+
+72.  Any  significant  correction,  erasure,  overwriting,  crossing  out  or 
+alteration in the quantity of shares, in the last registered holders name 
+or in any material particulars on the share certificate. 
+Unless  the  Authorised  Signatory  who  has  signed  on  the  certificate, 
+authenticates  the  correction  Or  the  correction 
+initialed  and 
+authenticated by any other officer under the Company’s rubber stamp. 
+ 
+
+is 
+
+73.  Certificates badly torn as is not to be in deliverable condition or share  BAD 
+
+ 
+
+Page 42 of 50 
+
+74. 
+
+75. 
+
+(v)  Corrections in transfer Number or Date of transfers, if legible and 
+
+(vi)  Share  Certificates  with  bar  codes  not  concealing  any  material 
+
+decipherable. 
+
+not authenticated. 
+
+information. 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+certificate  torn  through  and  through  or  badly  torn  as  to  obliterate  or 
+render  illegible  or  create  the  impression  of  cancelling  the  numbers  or 
+directors or other signature or the date or any other particulars or if it is 
+written  upon  or  damaged  or  mutilated  by  advertisements,  printing, 
+rubber stamp or otherwise or if a material part of the certificate be torn 
+out or cut off. 
+Share certificates defaced or mutilated in portion: 
+The  following  will  be  considered  as  material  portion  in  the  case  of 
+share certificate: 
+(i)   Share certificate torn end to end and pasted with transparent self-
+
+adhesive tape. 
+
+(ii)  Where shares have been transferred to a new holder and if torn at 
+
+the original holders name portion. 
+
+(iii)  Folio  number  and  name  overwritten  in  one  or  two  characters  and 
+
+not authenticated by the authorised signatory. 
+
+(iv)  If  the  share  certificate  is  torn  at  the  company  name  portion  but  is 
+
+If  the name of the  Company has been disfigured in the body of the 
+share certificate so as to affect it materially. 
+If the name of the company is identifiable. 
+
+76.  Certificates  in  the  case  of    UNITS  discharged  by  the  transferor  for 
+
+purpose of repurchase and then cancelled by him and initialled. 
+
+77.  Share  certificate  contains  one  name  but  the  transfer  deed  consists  of 
+
+two signatures. 
+If both the signatures on the transfer deed are identical in nature or can 
+be  identified  as  signature  of  the  same  person.    If  the  transferor  has 
+signed twice but has struck off the 2nd signature. 
+
+78.  Share  certificate  contains  name  of  one  transferor  but  transfer  deed 
+
+contains two names and signature respectively. 
+
+79.  Preferential / promoters  quota shares under lock-in period delivered 
+
+which are not transferable. 
+
+80.  Share certificate issued without the signature of Secretary / Authorised  
+
+signatory. 
+ 
+If the shares are transferred subsequently and the authorised signatory 
+has signed against such transfer. 
+
+81.  Signature  missing  in  the  initial  column  but  signed  by  Authorised 
+
+signatory in the required column on the reverse of the certificate. 
+
+ 
+
+Page 43 of 50 
+
+BAD 
+ 
+BAD 
+GOOD 
+ 
+GOOD 
+GOOD 
+GOOD 
+GOOD 
+
+BAD 
+ 
+GOOD 
+BAD 
+
+BAD 
+ 
+ 
+GOOD 
+
+BAD 
+
+BAD 
+
+BAD 
+ 
+ 
+GOOD 
+
+GOOD 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+82.  Endorsement  effected  on  the  reverse  of  the  certificate  and  struck  off 
+
+and again endorsed. 
+
+83.  Certificate  with  company’s  old  registered  office  crossed  out  and  new 
+
+address stamped without authentication. 
+
+84.  Certificate without mentioning the place of issue. 
+85.  Revenue  stamp  affixed  on  the  certificate  concealing  any  material 
+
+portion of the certificate. 
+Provided any material portion like lock-in period date, NRI details are 
+not affected. 
+
+86.  Revenue  stamps  affixed  /  impressed  by  the  Company  on  the  share 
+
+certificate has come off. 
+
+87.  Any alteration or erasure or correction without initials in the transfer 
+endorsement on the back of the share certificate as for example made in 
+the year 1960 and subsequently the shares have again been transferred 
+by the Company, say in 1961. 
+
+88.  Share  certificates  with  irrelevant  or  extraneous  rubber  stamp  or 
+
+writings on the scrip. 
+Provided the rubber stamp or the writings does not affect any material 
+portion of the scrip. 
+ 
+Increase or decrease of the Capital and if the certificate does not carry 
+the endorsement on the face of the certificate. 
+
+89. 
+
+90.  Absence of holder’s discharge on the Letter of Allotment. 
+91.  Share Certificate and Transfer Deed not attached together. 
+92.  Shares standing in the name of Non-Resident Individuals. 
+
+Provided the declaration stamp as per the RBI guideline is affixed and 
+countersigned by the introducing member. 
+
+93.  Name of the holder printed in two lines which looks like joint holding 
+
+or one line of address printed and looking like second holder. 
+
+94.  Lock  in  period  mentioned  in  the  certificate,  without  specific  date  of 
+
+95.  Shares issued in the name of Sole Proprietor / Partnership firm signed 
+
+release of lock in. 
+
+by the Proprietor / Partner. 
+
+ 
+
+ 
+
+to 
+
+GOOD 
+subject 
+proper 
+authenticat
+ion  by  the 
+Company 
+by  putting 
+round 
+a 
+stamp 
+of 
+the 
+Company. 
+GOOD 
+
+GOOD 
+GOOD 
+
+GOOD 
+
+GOOD 
+
+GOOD 
+
+GOOD 
+
+GOOD 
+BAD 
+GOOD 
+
+GOOD 
+
+BAD 
+
+BAD 
+
+Page 44 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+Units / debentures issued in the name of Sole Proprietor / partnership 
+firm signed by the Proprietor / partner. 
+In  case  the  shares  of  a  company  are  not  pari  passu  with  the  existing 
+equity  shares  of  the  company  in  two  financial  years  then  new  share 
+dividend declared for the previous year i.e. the old new compensatory 
+value (ONCV) for two years has to be paid. 
+The full dividend declared will have to be paid (interim + final). 
+
+GOOD 
+
+96. 
+
+ 
+
+10.3  Miscellaneous 
+
+ 
+
+No. 
+97 
+
+98 
+99 
+
+Description 
+
+ 
+Validity period of Company Objection by the last buying broker to be notified to 
+the Exchange/ Introducing Broker is 12 months from the date of the objection 
+memo. In all other pending cases of company objections bearing a date prior to 
+July 16, 1996, the validity period will be as per rules – of the respective exchanges – 
+as existing prior to July 16, 1996. 
+Objections must be accompanied with Share Certificates. 
+Shares lodged for transfer after book closure (but before one year from the date of 
+date stamping the transfer deed) are returned under objection can be lodged as 
+company objection. 
+
+100  Where the shares have been duly transferred by the company in the name of the 
+transferee,  and  thereafter  the  company  sends  a  letter  informing  transferee  that 
+the shares have been transferred based on fraudulent documents, such cases can 
+be  lodged  as  company  objection  subject  to  the  following  conditions  and 
+procedure : 
+• 
+
+In  cases  where  the  company  has  transferred  certificates  which  are  fake  and 
+later  sends  a  letter  informing  that  the  shares  have  been  transferred  on 
+fraudulent certificates, such cases will NOT be treated as company objections 
+and the company will be responsible for the transfer. 
+In cases where the shares are under stop transfer, stay order, non-transferable 
+(lock-in period) or shares are partly paid and the company has transferred the 
+shares and later sends a letter informing that the shares have been transferred 
+on  fraudulent  documents,  such  cases  will  NOT  be  treated  as  company 
+objections and the company will be responsible for the transfer. 
+In cases where the certificates are genuine but the transfer deed is forged (i.e. 
+the  company  has  transferred  the  shares  in  good  faith)  the  shares  can  be 
+accepted as company objection. In such cases the company should necessarily 
+enclose the copies of both sides of the transfer deeds based on which shares 
+were transferred by the company in favor of the holder and which later on 
+
+• 
+
+• 
+
+ 
+
+Page 45 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+has  been  found  to  be  based  on  forged  documents,  and  all  subsequent 
+transfers thereafter along with the objection. 
+
+ 
+Procedure :  
+(In  order  to  simplify  the  understanding  of  the  procedure,  the  following 
+illustration has been used:  
+
+A ---> B ---> C ---> D ---> X ---> Y ---> Z 
+
+ 
+The shares were first sold through ‘A’ in the market. After passing through ‘B’ 
+and  ‘C’  the  shares  were  lodged  by  ‘D’  to  the  company  for  transfer.  After 
+receiving the shares duly transferred from the company in his name ‘D’ sold the 
+shares in the market. These shares after passing through ‘X’ and ‘Y’ are finally 
+sent  by  ‘Z’  to  the  company  for  transfer  in  his/her  name.  After  receiving  the 
+shares from the company duly transferred in his name, ‘Z’ has received a letter 
+from  the  company  stating  that  the  shares  transferred  in  the  name  of  ‘D’  were 
+based on fraudulent documents.  
+• 
+• 
+• 
+
+‘Z’ will report the objection along with  the company objection against ‘D’. 
+‘D’ will rectify/replace the shares within 21 days as per the BDC procedures. 
+‘D’  may  in  turn  lodge  the  bad  delivery  for  rectification  through  the  BDC 
+against ‘A’. 
+
+The validity period of reporting such cases will be 36 months from the date of 
+latest transfer by the company (in the above example 36 months from the date 
+the shares were transferred in the name of ‘Z’).  
+The  company  will  also  furnish  copies  of  both  sides  of  transfer  deed  based  on 
+which  shares  were  transferred  in  favor  of  ‘Z’  and  ‘D’  along  with  the  objection 
+memo.   
+ 
+In case of joint holding, and in event of death of any of the holders, transfer can 
+take place on the basis of death certificate accompanying the transfer deed only 
+for  a  period  of  two  years  from  the  date  of  the  death  or  ensuing  book  closure, 
+whichever is later. 
+The Introducing member of a recognised stock exhange may certify/attest copy 
+of  the  death  certificate  and  also  issue  an  identity  certificate  in  case  where  the 
+name of the deceased on the share certificate is not identical with the name on the 
+death certificate - GOOD 
+
+101 
+
+102  While rectifying objections due to signature differences, a fresh signature by the 
+
+transferor (if the same transfer deed is re-submitted) alongwith attestation is 
+mandatory.  Fresh transfer deed is mandatory if objection is rectified after book 
+closure date. 
+In case Rights/Bonus shares tendered as corporate benefits are reported as bad 
+delivery, if it is odd lot, the value of shares based on the rate prevalent on the day 
+
+Page 46 of 50 
+
+103 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+of reporting bad delivery will be paid. 
+Rectification/replacement of transfer deed under objection should be in market lot 
+only (even if transfer deed under objection is submitted in non-market lot). 
+If Jumbo transfer deed is submitted as company objection, original transfer deeds 
+need not be returned by the receiving member.  
+
+ 
+
+104 
+
+105 
+
+107 
+
+106  When documents are returned under signature difference, the transfer deed can be 
+attested by the introducing member.  If the introducing member is a corporate, the 
+Director or authorised signatory can attest the transfer deed, under his company's 
+stamp, with SEBI Registration Number. 
+For reporting as company objections, the transferee portion of the transfer deed 
+should be duly filled in. 
+For reporting as company objection, the following documents are required: 
+A. 
+. 
+. 
+. 
+B 
+. 
+. 
+. 
+For reporting missing/lost/stolen shares as objection the following documents 
+are required : 
+A. If they are returned as objection from the company due to above reason:  
+•  company  objection  memo  stating  that  the  shares  are  missing/lost/  stolen 
+accompanied  by  a  copy  of  Court  Order  or  FIR  or  copy  of  acknowledged 
+police complaint  
+
+If they are returned as objection from the company due to the above reason: 
+company objection memo stating that the shares are fake/ forged 
+copies of both sides of the transfer deeds 
+copies of both sides of the share certificates   
+Otherwise one of the following documents are required: 
+public notice given by the company/registrar 
+notification from any stock exchange 
+letter of intimation from the company to stock exchange.   
+
+108 
+
+109 
+
+letter of intimation from the company to stock exchange 
+
+•  copies of both sides of the transfer deeds 
+•  copies of both sides of the share certificates 
+B. Otherwise one of the following documents are required : 
+•  public notice given by the company /registrar 
+•  notification from any stock exchange 
+• 
+ 
+In  cases  where  duplicate  shares  have  been  issued  to  a  third  party  under  the 
+provisions of section 108 (1) A of the Companies Act, the company should also 
+provide the name and address of the third party to whom the duplicate shares 
+have been issued along with the date of request for duplicate shares by the third 
+party. 
+ 
+
+ 
+
+Page 47 of 50 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+110  Attestation  is  required  where  signature  of  transferor  is  in  an  Indian  language 
+other than the Scheduled languages in India or when the transferor has affixed 
+his thumb impression (guideline no. 7) In other cases, attestation is compulsory 
+only  when  shares  come  under  objection  due  to  signature  difference.  Hence, 
+guideline Nos. 28, 29, 30, 31 & 32 apply only to transfer deeds which come under 
+objection due to signature difference. 
+
+ 
+Note:-  
+Text in BOLD has been amended vide circular dated August 19, 1996 
+Text in Italics has been amended vide circular dated April 16, 1997 
+Text underlined has been amended vide circular dated October 09, 1997. 
+ 
+
+ 
+
+10.4   Clarification with to 97 and 100 of the Norms for G/B Norms28 
+
+ 
+It has come to the notice of SEBI that there is a conflicting interpretation of clause 
+97  and  clause  100  of  uniform  norms  for  Good/Bad  delivery  with  respect  to 
+validity period of company objection memos. Keeping in view the above and as 
+discussed  with  representatives  of  the  Stock  Exchanges,  in  such  cases  the 
+provisions of clause 97 will prevail. 
+
+                                                 
+28 Circular no. SMDRP/POLICY/CIR-42/2001 dated August 10, 2001 
+
+Page 48 of 50 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+SECTION  11  -  Abolition  of  no-delivery  period  for  all  types  of  corporate 
+actions 29 
+ 
+11.1 Pursuant to the recommendations made by the Secondary Market Advisory 
+Committee of SEBI at its meeting held on June 30, 2009, it is decided to do 
+away with ‘no-delivery period’ for all types of corporate actions in respect 
+of the scrips which are traded in the compulsory dematerialized mode and 
+accordingly, short deliveries, if any, of the shares traded on cum-basis may 
+be  directly  closed  out.  In  case  of  such  direct  close-out,  the  mark-up  price 
+would  be  as  stated  in  SEBI  circular  no.  SMD/POLICY/Cir-08/2002  dated 
+April 16, 2002. 
+
+ 
+11.2  The  aforesaid  will  come  into  effect  from  August  1,  2009,  and  accordingly 
+will apply to all corporate actions for which the record date / book closure 
+falls on or after August 10, 2009. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+29 Circular No. MRD/DoP/SE/Cir-07/2009 datad July 21, 2009 
+ 
+
+Page 49 of 50 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+
+REFERENCE – List of Circulars 
+ 
+1.  Ref. No. SE/10118 dated October 12, 1992. 
+2.  Ref.SMD-I/22532 dated October 19, 1993. 
+3.  Ref. SMD/6059 dated October 17, 1994. 
+4.  Circular No. SMD/RCG/2796/96 dated July 16, 1996 
+5.  Circular No. SMD/Policy/IECG/5548/96 dated December 09, 1996. 
+6.  Circular No. SMD/POLICY/CIR/7-97 dated April 16, 1997. 
+7.  Circular No. SMD/POLICY/SUB BROKER/CIR-12/97 dated June 2 1997 
+8.  Circular No. SMD/POLICY/SGF/CIR-13/97 dated June 09, 1997. 
+9.  Circular No. SMD/POLICY/GBDN/CIR-25/97 dated October 09, 1997. 
+10. Circular No. SMD/Policy/Cir-32/97 dated December 03, 1997. 
+11. Circular No. SMD/Policy/Cir-10/99 dated May 04, 1999. 
+12. Circular No. SMD/DBA-1/SS/Policy/Cir-34/2000 dated August 2, 2000. 
+13. Circular No. SMDRP/Policy/Cir-05/2001 dated February 01, 2001. 
+14. Circular No. SMDRP/POLICY /CIR -16/2001 dated March 9, 2001 
+15. Circular No. SMDRP/POLICY/CIR-42/2001 dated August 10, 2001. 
+16. Circular No. SMDRPD/Policy/Cir-43/2001 dated August 20, 2001. 
+17. Circular No. SMDRP/POLICY/CIR-46/2001 dated September 27, 2001. 
+18. Circular No. SMD/Policy/Cir-08/2002 dated April 16, 2002. 
+19. Circular No. SMD/Policy/Cir-15/2002 dated June 26, 2002. 
+20. Circular No. SMD/Policy/Cir-21/02 dated September 04, 2002. 
+21. Circular No. SMD/POLICY/Cir - /03 dated February 6, 2003 
+22. Circular No. SEBI/SMD/SE/21 /2003/05/06 dated June 5, 2003. 
+23. Circular No. SEBI/SMD/SE/Cir-26/2003/25/06 dated June 25, 2003. 
+24. Circular No. SEBI/MRD/SE/Cir- 33/2003/27/08 dated August 27, 2003. 
+25. Circular No. SEBI/MRD/SE/SU/Cir-15/04 dated March 19, 2004 
+26. Circular No. SEBI/MRD/Policy/AT/Cir- 19/2004 dated April 21, 2004. 
+27. Circular No. MRD/DoP/SE/Dep/Cir-30/2004 dated August 24, 2004. 
+28. Circular No. MRD/DoP/SE/Cir-38/2004 dated October 28, 2004. 
+29. Circular No. MRD/DoP/SE/Cir- 17/2005 dated September 2, 2005. 
+30. Circular No. MRD/Dop/SE/Dep/Cir-18/2005 dated September 02, 2005. 
+31. Circular No. MRD/DoP/SE/Cir-21/2006 dated December 14, 2006 
+32. Circular No. MRD/DoP/SE/Cir-07/2009 datad July 21, 2009 
+ 
+ 
+ 
+
+ 
+
+Page 50 of 50 
+
+

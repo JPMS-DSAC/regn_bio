@@ -1,0 +1,661 @@
+ 
+
+ 
+
+Consultation paper on design of commodity indices and product design for 
+
+futures on commodity indices 
+
+ 
+
+1.  Objective 
+
+ 
+
+ 
+
+1.1. The objective of this consultation paper is to seek comments / views from 
+
+the  public  on  commodity  index  design  and  product  design  for  futures  on 
+
+commodity indices. 
+
+ 
+
+2.  Background 
+
+ 
+
+2.1. In  the  Union  Budget  Speech  for  the  year  2016-17,  the  Hon’ble  Finance 
+
+Minister had announced that “new derivatives products will be developed 
+
+by  SEBI  in  the  Commodity  Derivatives  Market”.  Introduction  of  new 
+
+commodity derivatives products has been a subject of deliberation as it is 
+
+considered to be conducive for the overall development of the commodity 
+
+derivatives  market,  attracting  broad  based  participation,  enhancing 
+
+liquidity, facilitating hedging and bringing in more depth to the commodity 
+
+derivatives market. 
+
+ 
+
+2.2. The  matter  was  discussed  in  the  Commodity  Derivatives  Advisory 
+
+Committee (CDAC) of SEBI and it had inter-alia recommended introduction 
+
+of  options,  derivatives  products  on  commodity  indices  and  in  later  stage 
+
+introduction  of  products  such  as  weather  derivatives,  freight  derivatives 
+
+etc.,  in  the  Indian  commodity  derivatives  markets  to  deepen  as  well  as 
+
+broaden them. Accordingly, SEBI vide circular dated September 28, 2016 
+
+allowed introduction of options in Commodity Derivatives Market. Further, 
+
+vide circular dated June 13, 2017, SEBI issued Product Design and Risk 
+
+Management Framework for options on commodity futures. 
+
+ 
+
+2.3. Index allows stakeholders to trade in an entire segment or basket, e.g. the 
+
+entire  base  metal  segment,  through  a  single  product.  This  facility  is  of 
+
+ 
+
+Page 1 of 9 
+
+ 
+
+ 
+
+immense  use  to  SMEs  and  other  small  users  who  are  exposed  to  the 
+
+volatility in prices of the entire segment. Index trading allows funds to track 
+
+commodity  basket  prices,  rather  than  a  single  commodity  price.  Retail 
+
+investors can participate in these funds and get the benefits of trading in 
+
+commodity basket. 
+
+ 
+
+ 
+
+2.4. It  was  envisaged  that  Index-based  products  will  also  encourage  the 
+
+participation of institutions such as mutual funds, insurance companies etc., 
+
+in  the  commodity  derivatives  market.  Further,  trading  in  derivatives 
+
+products  on  commodity  indices  may  also  increase  liquidity  in  underlying 
+
+commodity derivatives products (futures and options) as entities would like 
+
+to carry out arbitrage trades across index products and constituents or may 
+
+use one product to hedge their positions in other.  
+
+ 
+
+2.5. The  CDAC  recommended  that  to  begin  with,  futures  contracts  on 
+
+commodity indices may be launched by exchanges. 
+
+ 
+
+2.6. Accordingly, draft norms for design of commodity indices and draft product 
+
+design for futures on commodity indices have been  prepared as given in 
+
+subsequent paragraphs. 
+
+ 
+
+A.  Design of Index 
+
+ 
+
+A.1.  Underlying:  Indices  {composite  i.e.,  comprising  of  commodities  from 
+
+more  than  one  sector  and  sectoral}  meeting  the  eligibility  criteria 
+
+prescribed  herein  are  permitted.  Exchanges  shall  ensure  that  such 
+
+indices  are  compliant  with  IOSCO  Principles  for  Financial  Benchmarks 
+
+for  being  eligible  to  launch  derivatives  upon  and  make  necessary 
+
+disclosures in this regard on their websites. Further the exchanges shall 
+
+also  ensure  that  an  index  is  not  susceptible  to  manipulation  and 
+
+ 
+
+Page 2 of 9 
+
+ 
+
+ 
+
+exchanges  shall  make  mandatory  disclosure  with  respect  to  the  Index 
+
+design parameters on their website.   
+
+ 
+
+A.2.  Name: The name of index should include the name of the exchange on 
+
+which the constituents of index are traded. 
+
+ 
+
+A.3.  Eligibility  criteria:  The  constituent  futures  contracts  of  an  index  shall 
+
+meet the following eligibility criteria at the time of inclusion/re-balancing- 
+
+ 
+
+ 
+
+a.  Futures contracts should be in existence on the respective exchange 
+
+for  at 
+
+least  previous 
+
+twelve  months/previous  calendar 
+
+year/previous financial year.  
+
+ 
+
+b.  The contracts shall be traded for at least 90% of trading days during 
+
+the  previous  twelve  months/previous  calendar  year/previous 
+
+financial year. 
+
+ 
+
+c.  The  average  daily  turnover  of  the  constituent  futures  contracts 
+
+during 
+
+the  previous 
+
+twelve  months/previous  calendar 
+
+year/previous financial year is at least :  
+
+ 
+
+INR  75  Crore 
+
+for  agricultural  and  agri-processed 
+
+commodities  
+
+ 
+
+INR 500 Crore for all other commodities.  
+
+However, the above turnover requirements may not be applicable for 
+
+sectoral  indices  subject  to  exchanges  ensuring  that  constituent 
+
+futures have adequate liquidity. 
+
+A.4.  Re-balancing:  
+
+ 
+
+ 
+
+Page 3 of 9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a.  The  index  constituents  and  their  weightage  will  be  periodically  (say 
+
+half-yearly or annually) selected and rebalanced.  
+
+ 
+
+b.  However, in case of extraordinary event such as ban /  suspension of 
+
+trading  of  an  index  constituent,  following  action  will  be  taken  by 
+
+exchange- 
+
+Reselection  of  commodities 
+
+(excluding  banned/suspended 
+
+commodities) 
+
+Recalculation of weightage 
+
+ 
+
+ 
+
+ 
+
+The index changes shall be implemented only after market hours. 
+
+ 
+
+c. 
+
+If any of the commodity futures constituent of an index fails to meet the 
+
+eligibility criteria, it shall cease to be a constituent of the index, when 
+
+index is re-balanced. 
+
+ 
+
+A.5.  Weight of constituents:  
+
+ 
+
+a. 
+
+Index  constituents  will  be  assigned  weightage  based  on  their 
+
+production value and liquidity value with appropriate weightages pre-
+
+decided by exchange for production value and liquidity value (provided 
+
+that weightage of either shall not be less than 25%). The liquidity value 
+
+will  be  total  traded  value  of  the  index  constituent  on  the  exchange 
+
+platform in the preceding twelve months prior to the construction / re-
+
+balancing  of  the  index.  The  production  value  will  be  average  of  the 
+
+value  of  deliverable  supply  of  underlying  commodity  for  past  five 
+
+financial years prior to the construction / re-balancing of the index. 
+
+b.  Maximum weightage for any index constituent in a composite index will 
+
+be at most 20% and minimum weightage will be at least 1%. However, 
+
+these  weightage  caps  may  not  be  applicable  for  sectoral  indices 
+
+ 
+
+Page 4 of 9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+subject to exchanges ensuring that a single constituent does not get 
+
+heavily weighted in an index. 
+
+ 
+
+c. 
+
+In  case  of  index  having  multiple  commodity  groups,  exchanges  may 
+
+put  in  place  maximum  and  minimum  weightages  for  a  commodity 
+
+group.  
+
+A.6.  Computation and roll over 
+
+ 
+
+a.  The  index  value  will  be  computed  using  the  nearest  expiry  futures 
+
+prices of the index constituents.  
+
+ 
+
+b.  Exchange shall put in place a transparent methodology for gradual roll 
+
+over of all index constituents from nearest expiry month to next month 
+
+taking  into  account  the  liquidity  in  the  underlying  nearest  expiry/next 
+
+contracts. 
+
+A.7.  Real time dissemination: The index value shall be updated on real time 
+
+continuous basis and shall be displayed on the Exchange website. 
+
+ 
+
+A.8.  Dissemination of methodology: Exchange shall ensure a transparent 
+
+methodology  of  index  construction,  calculation,  roll  over,  periodic 
+
+rebalancing etc. and disseminate the same on its website. 
+
+ 
+
+B.  Product Design of Futures on Index 
+
+ 
+
+B.1.  Trading Hours: The trading hours will be in line with the trading hours 
+
+for underlying futures. In case trading hours vary for constituents, trading 
+
+hours for index derivatives shall be kept such that it is available for trading 
+
+whenever any of the constituent futures contract is available for trading. 
+
+ 
+
+Page 5 of 9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+B.2.  Size of the Contract: At least INR 5 lakh at the time of introduction in the 
+
+market.  
+
+B.3.  Tenor of the Contract: To begin with maximum tenor of contracts shall 
+
+be 6 months. 
+
+B.4.  Available  Contracts:  Stock  Exchanges  shall  decide  the  number  of 
+
+contracts,  duration  of  contracts  and  launch  calendar  based  on  market 
+
+requirements. 
+
+B.5.  Position Limits: 
+
+a.  Client level: Client level position limits shall be higher of: 
+
+5% of the total open interest in the market in commodity index futures 
+
+Or 
+
+1000 lots   
+
+ 
+
+b.  Trading Member level: Trading member level position limits shall be 
+
+higher of: 
+
+15% of the total open interest in the market in commodity index futures 
+
+Or 
+
+3000 lots   
+
+ 
+
+B.6.  Daily Price Limit: Stock Exchanges shall decide appropriate daily price 
+
+limits for commodity index futures. 
+
+ 
+
+B.7.  Settlement  Mechanism:  Final  Settlement  for  futures  on  commodity 
+
+index shall be done in cash.  
+
+ 
+
+ 
+
+Page 6 of 9 
+
+ 
+
+ 
+
+B.8.  Final  Settlement Price:  The final  settlement  price  shall  be the  closing 
+
+price of the underlying index on the day of expiry. The closing price of the 
+
+underlying  index  shall  be  based  on  last  half  an  hour  VWAP  (Volume 
+
+Weighted Average Price) of the constituents of the underlying index. 
+
+ 
+
+B.9.  Expiry:  The stock exchanges shall have the flexibility to set the expiry 
+
+date for  contracts.  However,  the  expiry  date  may  not  coincide  with  the 
+
+roll-over period of the constituents of the underlying index.  
+
+B.10. Application:  Before  launching  any  futures  contract  on  an  index,  a 
+
+Recognised  Stock  Exchange  with  commodity  derivative  segment  shall 
+
+submit  its  proposal  with  contract  specifications  and  risk  management 
+
+framework to SEBI, for approval. 
+
+ 
+
+ 
+
+ 
+
+C.  Risk  Management  Framework:  Exchanges  shall  adopt  risk  management 
+
+framework  compliant  with  the  CPMI-IOSCO  Principles  for  Financial  Market 
+
+Infrastructures, including the following: 
+
+ 
+
+C.1.  Margining  model  and  quantum  of  initial  margins:  Exchanges  shall 
+
+adopt  initial  margin  models  and  parameters  that  are  risk-based  and 
+
+generate  margin  requirements  sufficient  to  cover  potential  future 
+
+exposure  to  participants/clients  in  the  interval  between  the  last  margin 
+
+collection  and  the  close  out  of  positions  following  a  participant/client 
+
+default. The model should:  
+
+a) 
+
+use a conservative estimate of the time horizons for close out of 
+
+the positions (including in stressed market conditions), 
+
+b) 
+
+have  an  appropriate  method  for  measuring  credit  exposure  that 
+
+accounts for relevant risk factors and portfolio effects, and 
+
+c) 
+
+to  the  extent  practicable  and  prudent,  limit  the  need  for 
+
+destabilising, pro-cyclical changes.  
+
+ 
+
+ 
+
+Page 7 of 9 
+
+ 
+
+ 
+
+Initial margin requirement shall be adequate to cover at least 99% VaR 
+
+(Value at Risk) and Margin Period of Risk (MPOR) shall be at least two 
+
+days. In case of portfolio based margining, this requirement applies to 
+
+each portfolio’s distribution of future exposure.  
+
+Accordingly,  exchanges  shall  fix  prudent  price  scan  range,  and/or 
+
+plausible changes in any other parameters impacting futures price.  
+
+ 
+
+ 
+
+C.2.  Margining at client level: Exchanges shall impose initial margins at the 
+
+level of portfolio of individual client. 
+
+ 
+
+ 
+
+C.3.  Real  time  computation:  Though  the  margining  models  may  update 
+
+various scenarios of parameter changes (underlying price, volatility etc.) 
+
+at  discrete  time  points  each  day  (at  least  every  two  hours),  the  latest 
+
+available  scenarios  shall  be  applied  to  client  portfolios  on  a  real  time 
+
+basis. 
+
+ 
+
+ 
+
+D.  Disclosure:  Exchange  shall  make  necessary  disclosures  such  as  the  open 
+
+interest of top 10 largest participants/group of participants in index derivatives 
+
+(both  long  and  short)  and  the  details  of  their  combined  open  interest  in 
+
+underlying constituents etc., to the public. 
+
+ 
+
+E.  Surveillance:  The Exchanges shall augment their monitoring and surveillance 
+
+capacity. 
+
+ 
+
+3.  Public comments: Public comments are invited on the proposal contained in 
+
+this consultation paper. Comments/suggestions may kindly be provided in the 
+
+format given below: 
+
+ 
+
+ 
+
+Page 8 of 9 
+
+ 
+
+ 
+
+ 
+
+Name of Entity/Person intermediary/ Organization 
+
+Sr. No. 
+
+Para   No.   of Paper   Suggestions * 
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* Any other suggestions on the subject, including on issues not covered in this 
+
+paper, may also be given 
+
+ 
+
+The comments may be sent by email to cdmrd_dmp@sebi.gov.in or alternatively 
+
+may be sent to following address latest by one month from the date of issue of the 
+
+consultation paper i.e. January 16, 2019.  
+
+ 
+
+ 
+
+Shri Vikas Sukhwal,  
+
+Deputy General Manager,  
+
+Division of New Products and Market Policy,  
+
+Commodity Derivatives Market Regulation Department  
+
+Securities and Exchange Board of India  
+
+SEBI Bhavan, Plot C4-A, G-Block,   
+
+Bandra Kurla Complex,   
+
+Mumbai – 400051 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 9 of 9 
+
+

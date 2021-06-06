@@ -1,0 +1,99 @@
+
+ 
+Apr 02, 2012
+
+PR No.:  
+40/2012
+
+
+The SEBI Board met today in Mumbai and took the following decisions:
+I. Policy on Market Infrastructure Institutions (MIIs) and Exit Process for non-operational or derecognized Stock Exchanges
+A.     Decisions regarding “Review of Ownership and Governance of Market Infrastructure Institutions”
+The Board considered the Report of the Dr. Bimal Jalan Committee on “Review of Ownership and Governance of Market Infrastructure Institutions (MIIs) and while broadly accepting most of the recommendations of the Committee took the following main decisions:
+Networth and Ownership Norms for MIIs:
+
+The Stock Exchanges will have minimum  net worth of Rs.100 crores and the Existing Stock Exchanges will be given 3 years to achieve this networth of Rs.100 crores.  The minimum networth for the Clearing Corporation(CC) and the Depository will be Rs. 300 crores and Rs.100 crores respectively. All existing clearing corporations shall be mandated to build up to the prescribed networth of Rs. 300 crores over a period of three years from the date of notification/ circular.
+(i) The Stock Exchanges will have diversified ownership and no single investor will be allowed to hold more than 5% except the Stock Exchange, Depository, Insurance Company, Banking Company or public financial institution which may hold upto 15%.
+
+ (ii) 51% of the holding of the Stock Exchanges will be held by public.
+(iii) In case of CCs at least 51% holding will be held by Stock Exchanges. No single stock exchange, however, will hold more than 51% in any CC. A Stock Exchange holding 51% in a CC cannot hold more than 15% in any other CC. To ensure diversified ownership for shareholders other than Stock Exchanges, the limit of 5% and 15% shall apply as in the case of Stock Exchanges. Any Stock Exchange currently holding more than 51% shall be given three years time to bring its holding to the prescribed limit.
+(iv) In case of depositories minimum 51% holding will be held by sponsors and the existing list of sponsors will continue. No other entity will be allowed to hold more than 5% of equity share capital. A single Stock Exchange will, however, not hold more than 24%.
+(v) The shareholding limits prescribed for each category of investors shall be inclusive of all exposure (both on and off balance sheet) of a shareholder to the MII that facilitates or permits equity or rights over equity at any future date. If any shareholder has exposure more than the prescribed limit of shareholding, such exposure shall have to be reduced to the permissible limit within a period which may extend upto three years from the date of getting approval from SEBI. The voting rights of no shareholder will, however, exceed the prescribed maximum shareholding limit at any point in time.
+ Governance structure: 
+
+Autonomy of Regulatory Departments in MII will be maintained in order to avoid conflicts of interest between regulatory and business functions of the MII - 
+
+ a.      Member 
+i)        The heads of departments of Member Regulation will directly report to an independent committee of the board of the Stock Exchange as well as to MD/CEO (dual reporting).
+ii)      The long term goal would however be to set up an independent SRO at an appropriate time in future and provide the seed fund for the same.
+  b.     Listing Regulation
+ i)        In order to prevent a regulatory race to the bottom SEBI will prescribe the minimum listing standards to be followed by Exchanges.
+ii)      The head of departments of Listing Regulation will directly report to an independent committee of the board of the Stock Exchange as well as to MD/CEO (dual reporting).
+ c.      Trading Regulation
+ The surveillance function will report to an independent committee of the Board of the Exchange as well as to the MD/CEO.
+ All the independent committees will have a majority of Independent directors and will be headed by one of them.
+ d.     Besides the above a Conflict Resolution Committee (CRC) will be formed by SEBI with majority External and Independent members to deal with all issues concerning conflicts of interest. Issues of conflicts will be referred by Exchanges or may be taken up suo motu by CRC. The independent committee of Exchanges responsible for regulatory functions shall have regular interaction with CRC.
+ e.      Separation of Risk Management to independent Clearing Corporation
+ Among the functions of the Exchange it is the Clearing Corporation (CC) or Clearing House that fully bears the risk of payment and delivery by providing a guaranteed settlement of all transactions on the Exchange. It has therefore been decided, inter alia, that the central role of the clearing function will be separated into an independent corporation with its own prescribed net worth:
+ i)        Clearing and settlement must compulsorily be carried out through a recognized clearing corporation for which Regulations will be made by SEBI.
+ii)      To ensure effective supervision of CCs through regulations of SEBI.
+iii)    CC will constitute a risk committee comprising independent members which shall report to the Board of the CC as well as directly to SEBI on issues and matters so identified and prescribed.
+iv)    An expert committee will be set up by SEBI to examine the viability of introducing a single clearing corporation or interoperability between different CCs.
+ 2. The Board of Stock Exchanges/ C.C. will not have any Trading Member/Clearing Member representative. However, an Advisory Committee shall be constituted by the Board, comprising of Trading Members/ Clearing Members, to take benefit of experience of such Members. All recommendations of the Advisory Committee shall be placed in the ensuing Board meeting for consideration and appropriate decision.
+ 3. The Public Interest Directors representation on Board of Stock Exchange will be 50%, and will be 2/3 of the Board strength on the Board of CC. The rest of the Board will constitute of shareholder Directors.
+ 4. Appointment of all Directors to the Board of Stock Exchanges/ CC will be subject to approval by SEBI. Appointment of MD/CEO of Depository will also be subject to approval by SEBI.
+ 5. The compensation structure for key management personnel are to be based on the principles of sound compensation practices issued by international fora like Financial Stability Board. The decisions in this regard are directed towards curbing incentives that result in excessive risk taking in the short term  –
+ i)        A compensation committee consisting of majority Public Interest Directors and chaired by a PID will determine the compensation of Key Management Personnel.
+ii)      The variable pay component will not exceed one-third of total pay.
+iii)    Of the variable pay 50% of it will be paid on a deferred basis after three years
+iv)    ESOPs and other equity linked options in the MII will not form part of the compensation for the identified key management personnel.
+v)      The remuneration to key management personnel will be approved by SEBI. Also, the terms and conditions of the remuneration shall not be changed without the approval of SEBI.
+vi)    The compensation policy may have ‘clawback’ arrangements.
+ Profits of MIIs:
+
+To bolster the risk management capacity of C.C. the Stock Exchange will be mandated to transfer 25% of their profits to the Settlement Guarantee Fund of the CCs where their trades are settled.
+In case of depository 25% of the profits will be transferred to Investor Protection Fund of the depositories.
+The non-core activities of MIIs will have to be segregated to a separate legal entity and when a related business of an MII delivers a service to another MII it will provide equal and fair access to all.
+
+Listing:
+
+The Stock Exchanges may be permitted to list when they put in place the appropriate mechanisms for tackling conflicts of interest.
+The Stock Exchanges will not be allowed to list on itself.
+No Stock Exchange shall be permitted to list within three years from the date of approval by SEBI.
+Depository may also be allowed to list but not the clearing corporation considering its risk bearing role.
+
+ 
+B.    Process for exit of non-operational stock exchanges
+ i)        The Board decided the process of de-recognition and exit of stock exchanges.  A stock exchange without any trading at its own platform or where the annual trading is less than ` 1000 crores may apply for voluntary de-recognition and exit.  If the stock exchange eligible  for voluntary de-recognition is not able to achieve a turnover of ` 1000 crores on continuous basis or does not apply for voluntary de-recognition and exit within a period of two years from the date of notification, SEBI shall proceed with  the compulsory de-recognition and exit of such stock exchange.
+ii)      With regard to exit option to shareholders of exclusively listed companies, a mechanism of dissemination board at stock exchange is decided on the lines of bulletin board.
+iii)    With regard to treatment of assets of the de-recognised stock exchanges, the Board decided that the stock exchanges may be permitted to exit subject to certain conditions such as payment of statutory dues to SEBI/Govt. contribution of certain percentage of assets of the exchange towards Investor Protection and Education Fund etc.
+iv)    The trading members of the de-recognised stock exchange will continue to avail trading opportunity through its existing subsidiary company, which will function as a normal broking entity, at those Exchanges having nationwide trading terminals.
+II. Regulation of Alternative Investment Funds
+With a view to extending the perimeter of regulation to unregulated funds and ensuring  systemic stability, increasing market efficiency, encouraging formation of new capital and providing investor the Board approved proposal to frame SEBI  (Alternative Investment Funds) Regulations, 2012. Earlier, SEBI had put a concept paper along with the draft AIF Regulations on SEBI website on August 1, 2011. Salient features of the AIF Regulations, as approved by the Board, include the following:
+Scope of the Regulations and applicability to existing funds
+a. AIFs whether operating as Private Equity Funds, Real Estate Funds, Hedge Funds, etc. must register with SEBI under the AIF Regulations.
+b. SEBI (Venture Capital Funds) Regulations, 1996 (“VCF Regulations”) shall be repealed. However, existing VCFs shall continue to be regulated by the VCF Regulations till the existing fund or scheme managed by the fund is wound up. Existing VCFs, however, shall not raise any fresh funds after notification of these Regulations except commitments already made by investors as on date of the notification. Such VCFs may also seek re-registration under AIF regulations subject to approval of 66.67% of their investors by value.
+c. Existing funds not registered under the VCF Regulations will not be allowed to float any new scheme without registration under AIF Regulations. However, schemes floated by such funds before coming into force of AIF Regulations, shall be allowed to continue to be governed till maturity by the contractual terms, except that no rollover/ extension or raising of any fresh funds shall be allowed.
+d. Existing funds not registered under the VCF Regulations which seek registration but are not able to comply with all provisions of AIF Regulations may seek exemption from the Board from strict compliance with the AIF Regulations.
+Categories of funds
+e. The Regulation seeks to cover all types of funds broadly under 3 categories. An application can be made to SEBI for registration as an AIF under one of the following 3 categories:-
+i. Category I AIF – those AIFs with positive spillover effects on the economy,  for which certain incentives or concessions might  be considered by SEBI or Government of India or other regulators in India; and which shall include Venture Capital Funds, SME Funds, Social Venture Funds and Infrastructure Funds. These funds shall be close ended, shall not engage in leverage and shall follow investment restrictions as prescribed for each category. Investment restrictions for VCFs are similar to restrictions in the existing VCF Regulations. Depending upon the specific need of each type of funds, Category I funds shall be given concessions.
+ii. Category II AIF – those AIFs for which no specific incentives or concessions are given by the government or any other Regulator; which shall not undertake leverage other than to meet day-to-day operational requirements as permitted in these Regulations; and which shall include Private Equity Funds, Debt Funds, Fund of Funds and such other funds that are not classified as category I or III.  These funds shall be close ended, shall not engage in leverage and have no other investment restrictions. This forms the residual category, funds which cannot be classified either as Category I or III will be classified as Category II.
+iii. Category III AIF – those AIFs which Funds including hedge funds that are considered to have negative externalities such as exacerbating systemic risk through leverage or complex trading strategies. These funds can be open ended or close ended, may engage in leverage subject to limits as may be specified by the Board. Category III funds shall be regulated through issuance of directions regarding areas such as operational standards, conduct of business rules, prudential requirements, and restrictions on redemption, conflict of interest as may be specified by the Board.
+Other salient features
+f. AIF Regulations will be applicable to all pooled investment vehicles other than Mutual Funds, CIS Schemes, Family Trusts, ESOP Trusts, Employee Welfare Trusts, holding companies, funds managed by Asset Reconstruction Companies, Securitisation Trust or any such pool of funds which is directly regulated by any other regulator in India.
+g. The Alternative Investment Fund shall not accept from an investor an investment of value less than rupees one crore. Further, the AIF shall have a minimum corpus of Rs. 20 crore.
+h. The fund or any scheme of the fund shall not have more than 1000 investors.
+i. The manager or sponsor shall have a continuing interest in the AIF of not less than 2.5% of the initial corpus or Rs.5 crore whichever is lower and such interest shall not be through the waiver of management fees.
+j. Category I and II AIFs shall be close-ended and shall have a minimum tenure of 3 years. However, Category III AIF may either be close-ended or open-ended.
+k. Schemes may be launched under an AIF subject to filing of information memorandum with the Board along with applicable fees.
+l. Units of AIF may be listed on stock exchange subject to a minimum tradable lot of rupees one crore. However, AIF shall not raise funds through Stock Exchange mechanism.
+m. AIFs shall not be permitted to invest more than 25% of the investible funds in one Investee Company. Further, AIFs shall not invest in associate companies.
+n. All AIFs shall have QIB status as per SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2009.
+o. The Regulations provide for transparency and disclosures and mechanism for avoidance of conflict of interest.
+p. AIFs shall provide, on an annual basis, the investors with financial information of portfolio companies as also material risks and how these are managed.
+q. SEBI shall have right to inspect or investigate the AIFs and to issue necessary directions.
+r. SEBI will take up with government to extend the tax pass through status to  AIFs.
+The SEBI (Alternative Investment Fund) Regulations shall become effective from the date of their notification in the Gazette of Government of India.
+ Mumbai
+

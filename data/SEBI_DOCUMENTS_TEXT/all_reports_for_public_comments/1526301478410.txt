@@ -1,0 +1,936 @@
+Consultation  paper  for  review  of  SEBI  (Listing  Obligations  and 
+Disclosure Requirements) Regulations, 2015 
+
+ 
+
+1.  Objective: 
+
+ 
+
+The objective of this consultation paper is to seek comments on the changes proposed in the SEBI 
+(Listing  Obligations  and  Disclosure  Requirements)  Regulations,  2015  (hereinafter  referred  as 
+LODR Regulations) with respect to listed companies which have listed its Non-convertible debt 
+securities (NCDs) or Non-convertible redeemable preference shares (NCRPS) or both. 
+
+ 
+
+2.  Introduction: 
+
+ 
+
+LODR Regulations were notified on September 02, 2015. The said Regulations, inter-alia, provide 
+for principles governing various disclosures and obligations of listed entities. Chapter V of the 
+said Regulations lays down obligations of listed entity which has listed its NCDs or NCRPS or both, 
+whereas Chapter VI casts obligations on listed entity which has listed its specified securities and 
+either NCDs or NCRPS or both. Also, Regulation 63 of Chapter VI prescribes that all provisions of 
+chapter IV and certain Regulations of Chapter V shall apply to entities which have listed both its 
+specified securities as well as NCDs and/or NCRPS. 
+ 
+It has been proposed to review the SEBI LODR regulations for the reasons as mentioned below: 
+ 
+
+2.1. SEBI is in receipt of feedback and representations, from various stakeholders across the 
+market,  expressing  difficulties  in  complying  with  various  provisions  of  SEBI  LODR 
+Regulations,  some  of  which  are  reportedly  repetitive,  unwarranted  and  also 
+cumbersome to comply with. It is felt that keeping this in view, a review is necessary in 
+order to ensure ease of compliance on the part of the issuers who have listed their debt 
+securities.   
+
+ 
+
+2.2. Further, in recent years there has been a spate of incidents regarding non-compliance 
+
+with the SEBI LODR Regulations by the issuers of debts securities. 
+
+ 
+
+ 
+Therefore, in order to ensure safeguard of interest of investors, a need has been felt to 
+review and strengthen the SEBI LODR Regulations wherever necessary pertaining to NCDs 
+and NCRPS. 
+
+ 
+
+ 
+
+Page 1 of 17 
+
+ 
+
+3.  Review of LODR Regulations: 
+ 
+The provisions which are proposed to be reviewed in this paper are as under: 
+
+ 
+
+ 
+3.1. Intimation to stock exchange(s): 
+
+ 
+3.1.1. Current requirement : 
+
+ 
+
+3.1.1.1.  Regulation  50(1):  Listed  entity  shall  give  prior  intimation  to  the  stock 
+exchange(s) at least eleven working days before the date on and from which 
+the  interest  and  redemption  amount  is  payable  on  debentures,  bonds  and 
+redeemable shares. 
+ 
+
+3.1.1.2.  Regulation  50(2):  Listed  entity  shall,  prior  to  issuance  of  NCDs  or  NCRPS, 
+intimate the stock exchange(s) about its intention to raise funds through these 
+securities which it proposes to list either through a public issue or on private 
+placement  basis.  Further,  the  above  intimation  may  be  given  prior  to  the 
+meeting  of  board  of  directors  wherein  the  proposal  to  raise  funds  through 
+these securities shall be considered. 
+
+ 
+
+3.1.1.3.  Regulation 50(3): Listed entity shall intimate to the stock exchange(s), at least 
+two working days in advance of the meeting of its board of directors, at which 
+the  recommendation  or  declaration  of  issue  of  NCDs  or  any  other  matter 
+affecting  the  rights  or  interests  of  holders  of  NCDs/NCRPs  is proposed to be 
+considered. 
+ 
+
+3.1.2. Changes proposed: 
+
+ 
+
+Regulation  50(1):  The  provisions  with  respect  to  the  intimation  under 
+Regulation 50(1) is proposed to be deleted and instead these requirement may 
+be incorporated as part of Regulation 57 which provides for other submissions 
+to  stock  exchange(s).  It  is  proposed  to  insert  the  following  provision  under 
+Regulation 57:  
+ 
+Regulation  57(4):  A  listed  entity  shall  within  5  working  days  prior  to  the 
+beginning  of  the  quarter  provide  details  for  all  the  non-convertible  debt 
+
+ 
+
+Page 2 of 17 
+
+ 
+
+securities  and/or  non-convertible  redeemable  preference  shares  for  which 
+interest/dividend shall be payable or redeemable during the quarter. 
+ 
+Regulation 57(5): The listed entity shall within 2 working days from end of the 
+quarter provide a certificate confirming about payment of interest or dividend 
+or  principal  obligations  for  NCDs/  NCRPS  which  were  due  as  per  Regulation 
+57(4). 
+ 
+The  listed  entity  shall  also  intimate  complete  list  of  non-payment  of  interest  or 
+dividend or principal obligations for NCDs/ NCRPS which were due as per Regulation 
+57(4) and all such dues for the period before. 
+ 
+Rationale:It has been pointed out by the market participants that due dates of 
+payment  of  interest  and  redemption  of  principal  are  part  of  Information 
+memorandum  circulated  to  investors  as  this  document  is  submitted  to  the 
+stock  exchanges  at  the  time  of  listing.  Further,  certain  listed  entities, 
+particularly,  the  finance  companies  have  multiple  tranches  of  securities 
+outstanding at any particular point of time. Therefore, it would be cumbersome 
+for  them  to  provide  separate  intimation  for  each  of  the  tranches  under 
+Regulation  50(1).  Also  repeated  intimation  by  the  listed  entity,  to  the  stock 
+exchange, about its intention to raise funds through NCDs or NCRPS, prior to 
+every  meeting  of  the  board  of  directors  makes  the  compliance  process  very 
+cumbersome for such listed entities.  
+ 
+
+3.1.2.1.  Regulation  50(2):  It  is  proposed  to  delete  this  Regulation  and  make  the 
+provisions of this Regulation more inclusive and make it a part of disclosures to 
+be made under Regulation 51. 
+ 
+Rationale: It is felt that disclosure under this Regulation may not be of much 
+relevance to the debt holders and/or preference shareholders.  
+ 
+
+3.1.2.2.  Regulation  50(3):  It  is  proposed  to  delete  this  Regulation  and  make  the 
+provisions of this Regulation as part of disclosures to be made under Regulation 
+51. 
+ 
+Rationale:  This  would  ease  compliance  on  the  part  of  the  issuers,  without 
+compromising on the availability of information to the investors. 
+ 
+
+ 
+
+Page 3 of 17 
+
+ 
+
+ 
+
+3.2. Disclosure  of  information  having  bearing  on  performance/operation  of  listed  entity 
+
+and/or price sensitive information: 
+
+ 
+3.2.1. Current requirement : 
+ 
+
+3.2.1.1.  Regulation 51(1) and Regulation 51(2): Regulation 51(1) and (2) read with Part 
+B of schedule III to the LODR Regulations provides that the listed entity shall 
+promptly inform the stock exchange(s) of all information having bearing on the 
+performance/operation of the listed entity, price sensitive information or any 
+action that shall affect payment of interest or dividend or redemption of NCRPS 
+or NCDs.  The detailed list of such events/ information has been provided in 
+Part B of Schedule III of LODR Regulations. 
+
+ 
+3.2.2. Changes proposed: 
+
+ 
+
+The disclosures, as inserted in Part B of Schedule III of LODR Regulations are 
+proposed to be carried out in the following manner: 
+ 
+
+3.2.2.1.  The  listed  entity  shall  first  disclose  to  stock  exchange(s)  of  all  events,  as 
+specified  in  revised  Part  B  of  Schedule  III,  or  information  as  soon  as 
+reasonably  possible  but  not  later  than  the  time  indicated  for  the  specific 
+events. 
+ 
+Provided  that  in  case  the  disclosure  of  occurrence  of  the  event  or 
+information  is  made  after  the  specified  time  for  the  intimation,  the  listed 
+entity shall, along with such disclosures provide explanation for delay. 
+
+ 
+
+3.2.2.2.  The  listed  entity  shall,  with  respect  to  disclosures  referred  to  in  this 
+Regulation, make disclosures updating material developments on a regular 
+basis, till such time the event is resolved/closed, with relevant explanations. 
+ 
+
+3.2.2.3.  The  listed  entity  shall  provide  specific  and  adequate  reply  to  all  queries 
+
+raised by stock exchange(s) with respect to any events or  information 
+ 
+Provided  that  the  stock  exchange(s)  shall  disseminate  information  and 
+clarification as soon as reasonably practicable.  
+
+ 
+
+Page 4 of 17 
+
+ 
+
+ 
+
+3.2.2.4.  The  listed  entity  suo  moto,  may  confirm  or  deny  any  reported  event  or 
+
+information to stock exchange(s).  
+ 
+
+3.2.2.5.  The  listed  entity  may  disclose  on  its  website  all  such  events  or  information 
+which has been disclosed to stock exchange(s) under this Regulation, and such 
+disclosures may be hosted on the website of the listed entity for a minimum 
+period of five years and thereafter as per the archival policy of the listed entity, 
+as disclosed on its website. 
+
+ 
+
+Disclosure of events or Information: NCDs/NCRPS 
+ 
+
+3.2.2.6.  A. The following shall be events/information which shall be disclosed by the 
+listed entity without any application of guidelines of materiality as soon as 
+reasonably possible but not later than twenty four hours from occurrence of 
+event or information :- 
+ 
+(1)  Any delay or expected delay in payment of interest or dividend according 
+
+to due date/pre-agreed date;   
+
+(2)  Any delay or expected delay in repayment /redemption of principal amount 
+
+according to due date/pre-agreed date;   
+
+(3)  Any  default  or  expected  default  in  payment  of  interest  or  dividend 
+
+according to due date/pre-agreed date;   
+
+(4)  Any  default  or  expected  default 
+
+in  payment  of  principal  amount 
+
+/redemption according to due date/pre-agreed date;   
+
+(5)  Details of any letter or comments made by debenture trustees regarding 
+payment/non-payment of interest on due dates, payment/non-payment of 
+principal  on  the  due  dates  or  any  other  matter  concerning  the  security, 
+listed entity and /or the assets along with its comments thereon, if any;  
+
+(6)  Any proposal or action that shall adversely affect payment of interest on 
+non-convertible debt securities or payment of dividend on non-convertible 
+redeemable preference shares; 
+
+(7)  Any proposal to change or any change in terms including rights or privileges 
+or  nature  or  form  of  non-convertible  debt  securities  or  non-convertible 
+redeemable  preference  shares  including  any  such  proposal  with  any 
+investor(s)/lender(s);  
+
+ 
+
+Page 5 of 17 
+
+(8)  Any proposal or action for changing the terms of issue or  redemption or 
+
+ 
+
+both; 
+
+(9)  Any proposal or action with respect to exercising call/put option (right to 
+
+redeem) or any similar option by the listed entity; 
+
+(10) Any proposal or action of listed entity which shall result in the redemption, 
+conversion,  cancellation,  retirement  in  whole  or  in  part  of  any  non-
+convertible  debt  securities  or  reduction,  redemption,  cancellation, 
+retirement  in  whole  or  in  part  of  any  non-convertible  redeemable 
+preference shares;   
+
+(11) Periodic rating obtained from credit rating agency or any  revision in the 
+
+rating or any expected revision in rating; 
+
+(12) Delay or failure to create charge on the assets within the stipulated time 
+
+for non-convertible debt securities;  
+
+(13) Any  attachment  or  prohibitory  orders  restraining  the  listed  entity  from 
+transferring non-convertible debt securities or non-convertible redeemable 
+preference shares; 
+
+(14) Any proposal to change or change or breach of any covenants under the 
+
+terms of NCDs and/or NCRPS; 
+
+(15) Any proposal or action for forfeiture of unclaimed interest or dividend or 
+principal  amount  or  forfeiture  of  any  non-convertible  debt  securities 
+and/or non-convertible redeemable preference shares;  
+
+(16) Any proposal to change or change of Debenture trustee or Credit rating 
+
+agency or Registrar and Share Transfer Agent; 
+
+(17) Initiation  or  status  update  with  respect  to  reference  to  NCLT  under  the 
+
+Insolvency and Bankruptcy Code 2016; 
+
+(18) Any proposal for borrowings to be made through issuance of NCDs and/or 
+NCRPS, other debt instruments viz. term loans, commercial papers, external 
+commercial borrowings, Foreign currency convertible borrowings, medium 
+term  note  programme,  rupee  denominated  offshore  bonds  or  any  other 
+mode of borrowings; 
+
+(19) Intimation in advance of the meeting of its board of directors, at which the 
+recommendation  or  declaration  of  issue  of  NCDs  or  any  other  matter 
+affecting the rights or interests of holders of NCDs/NCRPs is proposed to be 
+considered and also outcome of such meetings.   
+
+(20) In  case  where  an  event  occurs  or  an  information  is  available  with  the 
+listed entity, which has not been indicated in Part B of Schedule III, but 
+
+ 
+
+Page 6 of 17 
+
+which  may  be  material,  the  listed  entity  is  required  to  make  adequate 
+disclosures in this regard. 
+
+ 
+
+Explanation.- For the purpose of this part, ‘default’ shall mean non-payment 
+of interest or dividend or principal amount or redemption amount in full on the 
+pre-agreed  date  and  shall  be  recognized  at  the  first  instance  of  delay  in 
+servicing of any interest or dividend or principal or redemption.  
+
+ 
+
+ 
+
+B. The provisions mentioned at Paragraph A(1), A(6), A(7), A(9), A(10), A(12) 
+of Part A of Schedule III shall also be applicable to listed entities which have 
+listed their NCDs or NCRPS without application of materiality.  
+
+C. Disclosures as per Paragraph B of Part A of Schedule III after application of 
+materiality as determined in terms of Regulation 30(4) of LODR in so far as 
+they have a bearing on payment of interest or dividend or principal amount or 
+redemption. 
+
+ 
+Rationale:  The  disclosure  of  information  having  bearing  on  performance/ 
+operation  of  listed  entity  and/or  price  sensitive  information  needs  a  review 
+because  an  event  which  may  be  material  on  its  own  need  not  necessarily  be 
+material  event/information  even  though  it  may  be  price  sensitive.  The  above 
+disclosures shall not only ensure alignment with listed entities who have listed their 
+specified  securities  but  will  also  provide  a  defined  timeline  for  disclosure  of 
+material  event/information.  It  would  also  help  in  ensuring  timely  availability  of 
+crucial information to all the stakeholders regarding NCDs/NCRPS which may affect 
+the investment decisions/interests of the investors. 
+ 
+
+3.3. Financial Results: 
+
+ 
+3.3.1. Current requirement : 
+
+ 
+
+3.3.1.1.  Regulation 52(4): The listed entity, while submitting half yearly/ annual financial 
+results, shall, inter-alia , disclose  the following line items along with the financial 
+results: 
+(a)   credit rating and change in credit rating; 
+(b) asset cover available in case of non-convertible debt securities,; 
+(c)  debt-equity ratio; 
+
+Page 7 of 17 
+
+ 
+
+ 
+
+(d) previous  due  date 
+
+ 
+for 
+NCRPS/repayment of principal of NCRPS /NCD and whether same is paid 
+or not; 
+
+for  the  payment  of 
+
+interest/  dividend 
+
+(e)  next  due  dates 
+
+for 
+
+for 
+NCRPS/repayment of principal of NCRPS /NCD and whether same has been 
+paid or not. 
+
+interest/  dividend 
+
+the  payment  of 
+
+ 
+
+3.3.1.2.  Provisos to Regulation 52(4): The first proviso to Regulation 52(4) provides that 
+the requirement of disclosures of debt service coverage ratio, asset cover and 
+interest service coverage ratio shall not be applicable for banks or non-banking 
+financial companies registered with the Reserve Bank of India, unsecured debt 
+instruments  issued  by  regulated  financial  sector  entities  eligible  for  meeting 
+capital requirements as specified by respective regulators. 
+ 
+Second  proviso  to  Regulation  52(4)  requires  that  the  provision  of  this 
+Regulation shall not be made applicable in case of unsecured debt instruments 
+issued  by  regulated  financial  sector  entities  eligible  for  meeting  capital 
+requirements as specified by respective regulators.  
+ 
+
+3.3.1.3.  Regulation 52(6) (e): Regulation52(6) (e) provides that the listed entity which 
+has  listed  its  non-convertible  redeemable  preference  shares  shall,  inter-alia, 
+make additional disclosures such as breach of any covenants under the terms 
+of the non-convertible redeemable preference shares. 
+
+ 
+
+3.3.2. Changes proposed: 
+
+ 
+
+3.3.2.1. Regulation 52(4): It is proposed to remove requirements of 52(4)(a), (d) and 
+
+(e).  
+ 
+Rationale:  It  is  felt  that  requirement  to  disclose  credit  rating  and  change  in 
+credit rating is not a financial requirement and need not be provided along with 
+the financial statements. The change in credit rating needs to be disclosed to 
+stock exchange under Regulation 51 as it a material information.  
+ 
+Feedback  has  also  been  received  from  the  market  participants  that  the 
+disclosures  required  under  Regulation52(4)  (a),  (d)  and  (e)  have  to  be  given 
+series wise and considering that the issuers have numerous series of listed ISINs 
+
+ 
+
+Page 8 of 17 
+
+outstanding at a given point of time, the disclosures sought under the aforesaid 
+clauses cannot be provided as a line item Further, due dates for payment of 
+interest/ dividend/repayment of principal of NCRPS /NCD  is already required 
+to be intimated in terms of Regulation 50 and whether the payment has been 
+made or not is required to be intimated in terms of Regulation 57(1). Therefore, 
+the requirements under Regulation 52(4)(d) & (e) are proposed to be deleted.  
+ 
+
+ 
+
+3.3.2.2. Deletion of first and second proviso to Regulation 52(4): It is proposed to 
+delete the first and second proviso related to requirements of this Regulation.  
+ 
+Rationale: SEBI vide circular dated August 10, 2016 has provided that banking 
+companies  and  insurance  companies  shall  follow  the  formats  as  prescribed 
+under  their  respective  Acts/Regulations  as  specified  by  their  Regulators  and 
+therefore the provisos are proposed to be deleted. 
+ 
+
+3.3.2.3. Disclosure of Regulation 52(6) (e) under Schedule III: It is proposed to include 
+the disclosure with respect to breach of covenants under the terms of issuance 
+of NCDs and /or NCRPS under Schedule III disclosures. 
+ 
+Rationale:  It  is  felt  that  the  disclosure  required  under  Regulation  52(6)(e)  is 
+material information affecting the rights of investors and should be provided 
+for both NCDs and NCRPS under schedule III read with Regulation 51. 
+ 
+
+3.4. Utilisation of funds:  
+
+ 
+3.4.1.  Current requirement: 
+
+ 
+Regulation 52(7) requires that the listed entity shall submit to the stock exchange on a 
+half  yearly  basis  along  with  the  half  yearly  financial  results,  a  statement  indicating 
+material deviations, if any, in the use of proceeds of issue of NCDs and NCRPS from the 
+objects stated in the offer document. 
+
+Regulation  56(1)(a)  inter  alia  provides  that  the  listed  entity  shall  forward  a  copy  of 
+certificate from the listed entity's auditors in respect of utilisation of funds during the 
+implementation period of the project for which the funds have been raised. 
+ 
+ 
+ 
+
+Page 9 of 17 
+
+ 
+
+ 
+
+ 
+
+3.4.2. Changes proposed: 
+
+ 
+
+ 
+
+With regard to intimation for material deviation in the use of proceeds, it is proposed 
+that the same may be required to be submitted quarterly. Further, requirement of 
+submission of auditor’s certificate in respect of utilization of funds, as required under 
+Regulation  56(1)  is  proposed  to  be  deleted  and  instead  incorporated  as  a  part  of 
+Regulation 52(7). 
+ 
+Rationale: Material deviations in the use of proceeds is a serious issue and needs to 
+be  intimated  more  frequently  than  the  instant  provision.  Accordingly,  it  has  been 
+proposed  to  reduce  the  timeline  for  such  intimation  from  half  yearly  to  quarterly. 
+Further,  the  proposal  of  deleting  the  requirement  of  submission  of  auditor’s 
+certificate in respect of utilization of funds in terms of Regulation 56(1) and making it 
+a part of Regulation 52(7), would result in coherence in respect to submissions related 
+to use of proceeds. 
+
+ 
+
+3.5. Annual Report: 
+
+ 
+3.5.1.  Current requirement: 
+
+ 
+
+3.5.1.1. Regulation  53:  Regulation  53  provides  for  the  disclosures  to  be  made  in  the 
+Annual  Report  by  the  listed  entities  which  has  listed  its  NCDs  and/or  NCRPS. 
+However, it does not provide the time line for submission of  the same to Stock 
+Exchanges. 
+ 
+
+3.5.1.2. Regulation 58(1): Regulation 58(1) provides that the listed entity shall send the 
+
+following documents: 
+
+(a)  Soft  copies  of  full  annual  reports  to  all  the  holders  of  NCRPS  who  have 
+registered their email address(es) for the purpose;  
+
+(b) Hard copy of statement containing the salient features of all the documents, 
+as specified in Section 136 of Companies Act, 2013 and rules made thereunder to 
+those holders of NCRPS who have not so registered;  
+
+(c)  Hard  copies  of  full  annual  reports  to  those  holders  of  NCDs/  NCRPS,  who 
+request for the same.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 10 of 17 
+
+ 
+
+ 
+
+(d)  Half  yearly  communication  as  specified  in  sub-regulation  (4)  and  (5)  of 
+regulation 52, to holders of NCDs/ NCRPS.  
+  
+
+3.5.1.3. Regulation  56  (1):  Regulation  56(1)  provides  that  the  listed  entity  shall 
+
+promptly provide a copy of the annual report to the Debenture Trustee. 
+ 
+
+3.5.2.  Changes proposed: 
+
+ 
+
+3.5.2.1. Regulation 53: It is proposed that listed entities who have issued NCDs and/or 
+NCRPS  shall  submit  the annual  report to  the  stock  exchange  and  Debenture 
+Trustees within twenty one days of it being approved and adopted in the AGM 
+as per companies Act, 2013. 
+ 
+Rationale:    Regulation  53  does  not  specify  any  time  limit  for  submission  of 
+annual  report  whereas  Regulation  34  of the  LODR  Regulations provides  that 
+the listed entity issuing equity shares and specified securities shall submit the 
+annual  report  to  the  stock  exchange  within  twenty  one  days  of  it  being 
+approved and adopted in the AGM as per companies Act, 2013.Therefore, in 
+order to ensure parity across all listed issuers, it is proposed to define a timeline 
+under  Regulation  53  to  make  the  conditions  uniform  for  submission  of  the 
+annual report to the stock exchanges.  
+ 
+It is proposed that all the provisions pertaining to submission of Annual report 
+may be provided under one Regulation. Hence, the requirement with respect 
+to submission of annual report to Debenture Trustee is proposed to be made a 
+part of Regulation 53. 
+ 
+
+3.5.2.2. Regulation 58(1):  
+
+ 
+It is proposed that the Soft copies of annual reports required to be sent to the 
+holders of non-convertible preference share who have registered their email 
+address(es) for the purpose shall also be sent to the email addresses available 
+in depository account information. The same is proposed to be incorporated as 
+part of Regulation 58(1)(a). Further, Regulation 58(1) (b), (c) & (d) are proposed 
+to be deleted. 
+ 
+
+ 
+
+Page 11 of 17 
+
+ 
+
+ 
+Rationale:  As  per  provisions  of  Companies  act,  all  holders  whose  email  id  is 
+available with depositories may be provided only soft copy of Annual Report. 
+Thus the same is proposed to be streamlined.  
+ 
+Further, it is felt that the documents required in terms of Regulation 58(1) are 
+relevant to the holders of equity shares of a company and may not be required 
+to be sent to holders of NCDs/ NCRPS in hard copy.  
+ 
+Moreover, as per Regulation 52(4) and Regulation 52(8), the financial results of 
+the company along with other relevant information is already available in the 
+public domain via the stock exchange website, newspapers etc.  Therefore the 
+Regulation 58(1) (b), (c) & (d) are proposed to be deleted. 
+ 
+
+3.6. Credit Rating: 
+
+ 
+3.6.1.  Current requirement : 
+
+ 
+
+Regulation  55:  Regulation  55  provides  that  each  rating  obtained  by  the  listed 
+entity with respect to NCDs shall be reviewed at least once a year by a credit rating 
+agency registered by the Board. 
+
+ 
+
+3.6.2.  Changes proposed: It is proposed that the credit rating assigned to NCRPS shall 
+
+also be reviewed once a year under Regulation 55.  
+ 
+Rationale: The proposed change would align the requirement of review of rating of 
+NCDs with that of NCRPS. 
+
+ 
+
+3.7. Documents and Intimation to Debenture Trustees: 
+
+ 
+3.7.1.  Current requirement : 
+
+ 
+Regulation  56(1):  Regulation  56(1)  of  the  LODR  Regulations  inter-alia  provides 
+that  the  listed  entity  shall  promptly  forward  to  the  Debenture  Trustee  the 
+following documents:  
+
+(a)  a copy of the annual report at the same time as it is issued along with a copy 
+of certificate from the listed entity's auditors in respect of utilisation of funds 
+
+ 
+
+Page 12 of 17 
+
+ 
+
+ 
+
+during the  implementation period  of  the  project  for  which  the  funds  have 
+been raised. 
+
+ 
+
+(b)  a copy of all notices, resolutions and circulars relating to-  
+
+(i)  new  issue  of  NCDs  at  the  same  time  as  they  are  sent  to  shareholders/ 
+holders of NCDs;  
+(ii) the meetings of holders of NCDs at the same time as they are sent to the 
+holders  of  NCDs  or  advertised  in  the  media  including  those  relating  to 
+proceedings of the meetings;  
+
+(c)  intimations regarding :  
+
+ 
+(i) any revision in the rating;  
+(ii) any default in timely payment of interest or redemption or both in respect 
+of the NCDs;  
+(iii) failure to create charge on the assets;  
+
+ 
+(d) a  half-yearly  certificate  regarding  maintenance  of  hundred  percent  asset 
+cover in respect of listed NCDs, by either a practicing company secretary or a 
+practicing chartered accountant, along with the half yearly financial results:  
+
+ 
+
+3.7.2.  Changes proposed: 
+
+3.7.2.1. Regulation  56(1):  It  is  proposed  that  the  listed  entity  shall  forward  the 
+material information/documents  as  disclosed  under  Part  B  of  Schedule  III  of 
+Regulation 51 in so far as much it relates to interest, principal, issue and terms 
+of  NCDs,  rating,  creation  of  charge  on  the  assets,  notices,  resolutions  and 
+meetings of holders of NCDs, to the debenture trustee at the same time as it 
+has intimated to the stock exchange.  
+ 
+Rationale:  The  proposal  has  been  made  to  rationalize  the  requirement  of 
+reporting  of  material  event/  information.  Further,  disclosure  of  material 
+information/documents  related  to  interest,  principle,  issue  of  NCDs,  rating, 
+creation of charge on the assets, notices, resolutions and meetings of holders 
+of NCDs, to the debenture trustee at the same time as it has been intimated to 
+the stock exchange, would ease compliance on part of issuers. 
+ 
+Further,  the  submission  of  half  yearly  certificate  regarding  maintenance  of 
+asset cover to debenture trustee in terms of Regulation 56(1)(d) would be a 
+
+ 
+
+Page 13 of 17 
+
+duplication as the said information is noted by the trustee under  Regulation 
+52(5). Hence, the same is proposed to be deleted.  
+ 
+Thus Regulation 56(1) (a), (b), (c) & (d) are proposed to be deleted. 
+
+ 
+
+3.8. Other submissions to stock exchange(s): 
+
+ 
+3.8.1.  Current requirement : 
+
+ 
+Regulation 57(1): Regulation 57(1) provides that the listed entity shall submit a 
+certificate to the stock exchange within two days of the interest or principal or 
+both  becoming  due  that  it  has  made  timely  payment  of  interests  or  principal 
+obligations or both in respect of the non-convertible debt securities stating the 
+fact about non-payment along with the reasons for the same. 
+ 
+Changes  proposed:  The  listed  entity  shall  submit  a  certificate  to  the  stock 
+exchange within two days of the interest or principal or both becoming due in case 
+of non-payment of such interests or principal obligations or both in respect of the 
+non-convertible debt securities. 
+ 
+Rationale: It has been observed that listed entities are submitting certificates to 
+the  stock  exchanges  under  Regulation  57(1)  only  when  they  have  made  timely 
+payment  of  their  debt  obligations  and  not  otherwise.  However,  the  legislative 
+intent of the provision is that disclosures have to be made to the stock exchanges 
+irrespective  of  payment  being  made  by  the  listed  entity.  Therefore  intimation 
+regarding  non-payment  of  interest  or  dividend  or  principal  obligations  will  also 
+emphasize the submission of material information under Regulation 51. 
+
+ 
+
+3.9. Structure of NCDs and NCRPS: 
+
+ 
+3.9.1. Current requirement : 
+
+ 
+Regulation 59(1) and Regulation 59(2): Regulation59 (1) and (2) provides that the 
+listed entity shall not make material modification without prior approval of the stock 
+exchange(s) where the NCDs/ NCRPS are listed. Also, such approval shall be taken 
+only after: 
+
+i. 
+
+Approval of board of directors and debenture trustee in case of NCDs and ; 
+
+ 
+
+Page 14 of 17 
+
+ii. 
+
+Complying with provisions of Companies Act, 2013 including approval of the 
+consent of requisite majority of holders of that class of securities. 
+ 
+
+ 
+
+3.9.2. Changes proposed: It is proposed that the listed entity shall not make any material 
+modification  without  obtaining  consent  in  writing  of  the  holders  of  not  less  than 
+three-fourths,  by  number,  of  holders  of  that  class  of  securities  for  which 
+modification in structure is proposed. Further, such consent has to be an affirmative 
+one and a mere non response shall not be treated as deemed consent. The consent 
+so received from the prescribed number of holders shall be vetted by the debenture 
+trustee who shall then issue a certificate to the issuer confirming the same. The said 
+certificate shall then be submitted by the listed entity to the stock exchange.  
+
+ 
+
+Rationale: The proposed change is to remove ambiguity regarding the process to be 
+followed  for  making  material  modification  to  the  structure  of  NCD  and  NCRPS. 
+Further,  it  is  felt  that  such  a  change  would  provide  adequate  safeguards  to  the 
+interests of investors thus enabling a robust framework for such structural change. 
+ 
+
+3.10. Website: 
+
+ 
+3.10.1. Current requirement : 
+
+Regulation  62  of  the  LODR  Regulations  provides  that  the  listed  entity  shall 
+maintain a functional website containing information such as details of business 
+about the listed entity, its financial statements, details about default by issuer to 
+pay  interest  on  or  redemption  amount;  failure  to  create  charge  etc.  The 
+Regulation further provides that the listed entity has to ensure that the contents 
+of website are correct and updated at any given point of time. 
+
+ 
+
+3.10.2. Changes proposed: It is proposed that the listed entity shall update any change in 
+the content of its website within two working days from the date of such change in 
+content.  
+ 
+Rationale: This has been proposed to align the requirement of timely updation on 
+website  by  the  issuers  of  listed  debt  securities  with  that  required  for  specified 
+securities in terms of Regulation 46 of LODR Regulations. 
+ 
+ 
+ 
+
+ 
+
+Page 15 of 17 
+
+ 
+
+3.11.  Applicability of Chapters IV and V: 
+
+ 
+3.11.1. Current requirement : 
+
+ 
+
+ 
+Regulation 63(1) and Regulation 63(2):Regulation 63(1) read with Regulation 63(2) 
+provides that an entity which has listed its ‘specified securities’ and ‘non-convertible 
+debt securities’ or ‘non-convertible redeemable preference shares’ or both on any 
+recognized stock exchange, shall be comply with all provisions in Chapter IV of these 
+Regulations  and  certain  provisions  of  Chapter  V  including  Regulations  such  as 
+Regulation 50(2), (3), 51, 53, 54, 55 etc.  
+ 
+
+3.11.2. Changes  proposed:  It  is proposed to  include  Regulation 62  within the  ambit of 
+Regulation 63(2) as the disclosures to be made on the website of listed entity are 
+significantly different in case of equity listed and debt listed issuers. Hence, in order 
+to have better availability of information in the public domain, it is proposed that 
+issuers  who  have  listed  both  their  specified  securities  as  well  as  debt  securities 
+would have to comply with Regulation 62. 
+ 
+Rationale: This would ensure better availability of information in the public domain. 
+
+ 
+
+4.  Public Comments: 
+
+In light of the above, public comments are invited on the proposals contained in this consultation 
+paper.  The  comments, may  be  sent  by  email  or  through post,  latest by  June  11,  2018,  in  the 
+following format: 
+
+Details of Responder 
+
+Name1/Organization:  
+1if responding in personal capacity 
+Contact number: 
+Email address: 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Sr. No. 
+ 
+
+Para No. 
+ 
+
+Comments on consultation paper 
+Comment/proposed change 
+ 
+
+Rationale 
+ 
+
+Page 16 of 17 
+
+ 
+
+ 
+Ms. Richa G. Agarwal                                                                
+Deputy General Manager  
+Department of Debt and Hybrid Securities 
+Securities and Exchange Board of India  
+SEBI Bhavan   
+C4-A, G Block  
+Bandra Kurla Complex  
+Mumbai - 400 051  
+ 
+Email Address:  bonds@sebi.gov.in 
+
+While sending email kindly ensure the subject is "Comments on the Consultation paper for review 
+of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015" 
+
+Issued on: May 14, 2018 
+
+ 
+
+ 
+
+Page 17 of 17 
+
+

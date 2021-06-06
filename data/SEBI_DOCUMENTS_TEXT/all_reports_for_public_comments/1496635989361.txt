@@ -1,0 +1,579 @@
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India 
+
+Discussion Paper on Draft Code of Conduct for Index Providers 
+
+ 
+
+Objective  
+
+To solicit the comments/views from market participants on the issue of code of conduct 
+for  index  providers  to  enhance  greater  level  of  transparency,  increased  disclosure 
+requirements  and  to  provide  broad  framework  for  Index  Providers  while 
+managing/maintaining Indices.  
+
+Background 
+
+ 
+The International Organization of Securities Commissions (IOSCO) published a report 
+in July 2013, proposing a framework of standards for financial benchmarks (or indices) 
+based  on  international  best  practices.  The  framework  promotes  reliability  and 
+independence  of  benchmark  administration  and  addresses  governance,  quality, 
+transparency and accountability issues. IOSCO report does not expect a one-size-fits-all 
+method of implementation of the framework, nor does it restrict an administrator from 
+adopting its own unique methodologies or adapting the methodologies to changing 
+market conditions.  IOSCO adherents are directed to either comply with the IOSCO 
+principles or explain any non-compliance. 
+ 
+Based  on  the  IOSCO  report,  SEBI  constituted  sub-group  comprising  of  expert  from 
+various sections of market participants to suggest a framework for regulation of Index 
+Providers in India. The Sub-group has prepared a Code  of conduct for Index Providers 
+(“Code”) broadly based on the IOSCO framework for adoption in India. While the Code 
+sets  out  uniform  expectations,  it  does  not  expect  a  one-size-fits-all  method  of 
+implementation by Index Providers. Indeed, given the large universe of indices and 
+possible impact on market dynamics, implementation of the Code may not be identical 
+for each Index; rather, these would be broad standards that could be met in different 
+ways, depending on specificities of each Index. Application of these principles should 
+be proportional to the size and risks posed by each Index and/or Index Providers and 
+the index-setting process.  
+ 
+The purpose of the proposed Code is to set forth standards to be adopted by the Index 
+Providers in order to ensure the high quality and integrity of the Indices administered, 
+maintained or calculated by the Index Providers. 
+
+Code (“Code”) for Index Providers 
+
+This Code prescribes a framework of standards that Index Providers should follow to 
+promote the reliability of the Index Administration Process and to address governance, 
+quality, transparency and accountability issues and is applicable to Indices (as defined 
+herein).  
+
+A.  Applicability of Code of Conduct:  
+
+ 
+
+ 
+
+1 | P a g e  
+
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India 
+
+“Index  Providers  providing  Administrative  services  (such  as  determining  Index 
+composition, governing an Index methodology and/ or otherwise providing index 
+maintenance  services)  in  India  for  Indian  markets  are  required  to  adhere  to  the 
+proposed Code of Conduct. 
+ 
+Foreign entities from jurisdictions with any type of membership of Financial Action 
+Task Force (FATF), can provide Administrative services (such as determining Index 
+composition, governing an Index methodology and/ or otherwise providing index 
+maintenance services) for Indian indices where such indices are being used as the 
+basis of Products in India. Such entities are required to adhere to the proposed Code 
+of Conduct”.  
+
+B.  Governance 
+
+An Index Provider should have appropriate governance arrangements in place in 
+order to protect the integrity of the Index Administration Process, mitigate conflicts 
+of  interest,  and  segregate  those  responsible  for  index  governance  from  those 
+responsible for commercializing the indices by implementing appropriate firewalls 
+and employing separate reporting lines for each function.  
+
+1.  Overall Responsibility of an Index Provider 
+
+An Index Provider should have primary responsibility for all aspects of its Index 
+Administration Process such as the development, calculation and maintenance 
+of  an  Index  and  the  establishment  of  credible  and  transparent  governance, 
+oversight and accountability procedures. Regardless of the particular structure 
+for Index Administration, an Index Provider should be the entity with overall 
+responsibility for the integrity of its Index. An Index Provider jointly owning an 
+Index  with another entity should establish  clear roles  and  responsibilities  for 
+each party and design clear standards for its activities to facilitate delivering the 
+Index according to the Index Provider’s Methodology. 
+
+2.  Oversight of Third Parties 
+
+Where activities relating to the Index Administration Process are undertaken 
+by  parties  other  than  the  Index  Provider  or  its  affiliates,  an  Index  Provider 
+should have in place an appropriate framework to monitor such third parties’ 
+activities with the objective of complying with this Code. The framework should 
+include  clearly  defined  written  arrangements  setting  out  the  roles  and 
+obligations  of  the  parties  involved.  This shall  not  apply  in  relation  to  a  third 
+party  from  whom  an  Index  Provider  sources  data  if  that  third  party  is  a 
+Regulated Market or Exchange. 
+
+3.  Conflicts of Interest 
+
+The Index Provider should have policies and procedures to manage conflicts of 
+interest and to protect the integrity and independence of the various functions 
+performed  in  connection  with  administering  its  Indices.  An  Index  Provider 
+should document, implement and enforce, as far as practicable, these policies 
+2 | P a g e  
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India 
+
+and  procedures  for  identification,  disclosure,  management,  mitigation  or 
+avoidance of conflicts of interest. The Index Provider should have policies that 
+prevent  personal  interests  or  business  connections  from  compromising  the 
+performance  of its  functions, put  in place effective  procedures to control the 
+exchange  of  information  among  staff  engaged  in  activities  involving  any 
+potential  risk  of  conflicts  of  interest,  require  its  employees  to  comply  with 
+applicable  laws  and  regulations  and  protect  confidential  and  material  non-
+public information.  This policy should apply to individuals responsible for any 
+aspect  of  the  oversight  function  with  respect  to  the  Indices  as  well  as  those 
+individuals engaged in the day-to-day governance and operations of calculating 
+and maintaining Indices. 
+ 
+Policies should: 
+  Specify who has access to Sensitive Information 
+  Specify processes for deployment of a firewall for Sensitive Information 
+  Specify  trading  restrictions  and  pre-clearance  requirements  for  securities 
+impacted by pending index changes for appropriate personnel both of which 
+should adhere to applicable laws.  
+
+4.  Control Framework  
+
+An Index Provider should have in place a control framework for calculating, 
+maintaining  and  distributing  the  Index.  The  control  framework  should  be 
+documented;  and,  upon  request,  made  available  to  the  relevant  Regulatory 
+Authorities as appropriate on need to know basis. The control framework should 
+have  an  effective  whistle-blowing  mechanism  in  order  to  facilitate  early 
+awareness of potential misconduct. The Control framework should include the 
+following components: 
+  Policies and procedures as prescribed in Section B-3.  
+  Quality of the Index and Methodology: The Index Provider should have in 
+place robust processes and a Methodology for calculating and maintaining 
+the  Index.  As  set  forth  in  Section  C,  the  methodology  document  should 
+include  a  scenario  where  discretionary  judgment  could  be  exercised  in 
+connection  with  rebalance  decisions  and/or  the  revision  of  constituents 
+within indices. 
+
+  Robust  mechanism to  ensure  clear accountability and  effective  complaint 
+
+management.  
+
+  Robust  infrastructure  for  management  of  operational  risk:  An  Index 
+Provider should have a sound framework for documenting, maintaining and 
+testing business continuity and recovery procedures.  
+
+  Whistle-blowing  mechanism:  A  whistle-blower  policy  should  be  made 
+available to each employee. The objective of the policy is to encourage and 
+support the making of disclosures by employees who observe any unethical 
+practice or grave misconduct. 
+
+  The Index Provider should provide training to all its employees on ethics 
+
+and conflicts of interest on a periodic basis. 
+
+  A framework addressing the protection of Sensitive Information and trading 
+
+restrictions mentioned in Section B-3 shall be in place. 
+
+3 | P a g e  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India 
+
+5.  Internal Oversight 
+
+An Index Provider should have an oversight function for all aspects of the Index 
+Administration Process. The oversight function should be separate and distinct 
+from the direct day-to-day process of Index calculation and maintenance and, 
+as such, be independent of the actual Index calculation process.  
+The oversight function should be entrusted to individuals who are experienced 
+and knowledgeable in the subject matter. 
+
+The oversight function should Include: 
+
+  Review of any need for change in the Index design or computation 
+Methodology  due  to  changes  in  market  dynamics  or  any  other 
+reason. It should evaluate the proposed approach for the change, if 
+any, along with its impact on the existing Subscribers. 
+
+  Overseeing results of audits and direct implementation of remedial 
+
+actions recommended by those audits 
+
+  Review of procedures for cessation of an Index. 
+  Overseeing  standard  procedures  followed  in  the  exercise  of  Expert 
+
+Judgment. 
+
+  An  Index Provider should periodically review the  conditions in the 
+underlying Interest which the Index measures to determine whether 
+the  Interest  has  undergone  structural  changes  that  might  require 
+changes to the design of the Methodology. 
+
+C.  Quality of the Index  
+
+6.  Index Design 
+
+An  Index  design  should  take  into  account  factors  which  result  in  a 
+representation of the Interest that the Index seeks to measure. The design of the 
+Index  should  also  seek  to  eliminate  factors  that  the  Index  Provider  believes 
+might result in a distortion of the price, rate or value of that Index.     
+
+7.  Data Sufficiency  
+
+To  calculate  an  Index,  an  Index  Provider  should  use  data  that,  in  its  view, 
+considering  the  availability  of  data,  are  sufficient  to  represent  the  Interest 
+measured by the Index. As far as reasonably practicable, such data should be 
+based  on  observable  transactions  that  are  traded  or  reported  on  Regulated 
+Markets  or  Exchanges.  This  does  not  restrict  an  Index  Provider  from 
+constructing  Indices  based  on  non-transaction  data  which  are  anchored  by 
+actual market activity.  
+
+8.  Data Inputs  
+
+An  Index  Provider  should  establish  and  make  publicly  available  clear 
+guidelines  regarding  the  data  inputs  and  how  such  data  are  used  for  the 
+calculation and maintenance of an Index. An Index Provider should use inputs 
+
+ 
+
+4 | P a g e  
+
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India 
+
+consistent with the approach to ensure quality, integrity and continuity of its 
+Index calculations and maintenance as set out in the Index Methodology.  
+
+9.  Data Submitters and Submissions 
+
+An  Index  Provider  may  obtain  Submissions  from  across  a  wide  universe  of 
+market segments. The Index Provider  should perform due diligence on its Data 
+Submitters and provide Non-regulated Data Submitters with a Data Submitters 
+Code of Conduct which should address quality, oversight, conflicts of interest 
+management, record-keeping and whistleblowing. 
+
+10. Transparency of Index Calculation and Maintenance  
+
+An Index Provider should make the Methodology documents publicly available 
+to facilitate an understanding of how the Index seeks to measure the Interest 
+and how the Index is calculated and maintained. The Index Provider should put 
+in  place  clear  guidelines  in  cases  when  the  Index  Provider  uses  Expert 
+Judgment to maintain an Index. 
+ 
+In order to bring about the transparency in the dissemination of information 
+about changes to Index  constituents, an Index  Provider, should  provide clear 
+guidelines  specifying  the  timing  of  announcements  for  changes  to  Index 
+constituents (e.g. replacement of constituents in the Indices) in its Methodology 
+document. 
+
+D.  Quality of the Methodology  
+
+11. Content of the Methodology  
+
+An  Index  Provider  should  document  and  make  publicly  available  the 
+Methodology  used  for  Index  calculation  and  maintenance  to  allow  an 
+understanding of how the Index is derived and to assess its representativeness, 
+relevance and appropriateness as a reference for financial instruments. 
+ 
+In  its  Methodology  document,  an  Index  Provider,  in  order  to  bring  about 
+transparency  in  the  dissemination  of  information  about  Index  constituent 
+changes  (adds,  deletions  or  replacements)  in  the  indices,  should  provide  for 
+clear  guidelines  addressing  time  frames  for  changes  to  Index  constituents 
+which are designed to allow sufficient implementation time. 
+
+12. Changes to the Methodology  
+
+An Index Provider should seek market feedback as appropriate for significant 
+changes  to  the  Index  Methodology.  An  Index  Provider  should  review  the 
+Methodology  for  an  Index  on  a  periodic  basis  and  may  propose  to  make 
+changes,  if  necessary,  to  adhere  to  its  objective.  Wherever  applicable  and 
+practical,  the  Index  Provider  should  consult  and  discuss  the  change  in 
+Methodology with stakeholders  (e.g., Market  Participants, Subscribers)  before 
+implementing  the  change  in  Methodology.  The  Index  Provider  should  also 
+
+ 
+
+5 | P a g e  
+
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India 
+
+provide advance notice of the implementation of the proposed change in the 
+Methodology. 
+
+13. Transition  
+
+An Index Provider should have policies and procedures to address the need for 
+possible  cessation  of  an  Index.  These  policies  and  procedures  may  be 
+proportional  to the  estimated  impact  on  Market  Participants  and Subscribers.  
+The Index Provider should provide reasonable notice and inform Subscribers 
+about the possible cessation of an Index. Wherever reasonably practical and if 
+required by the Subscriber for the Index that is to be discontinued completely, 
+the Index Provider should maintain the Index for a reasonable period of time. 
+The Index Provider, if feasible, should also provide an alternative Index within 
+a reasonable timeframe. 
+
+14. Internal Controls over Data Collection 
+
+An Index Provider should maintain appropriate internal controls to address the 
+processes for selection of data sources and Data Submitters, for data collection, 
+and  for  the  protection  of  data  integrity  and  confidentiality,  including  the 
+maintenance of appropriate firewalls.  
+
+E.  Accountability  
+
+15. Complaints Procedure  
+
+An  Index  Provider  should  establish  and  make  publicly  available,  complaints 
+redress  policy  by  which  Subscribers  may  submit  complaints  concerning 
+whether a specific Index is representative of the underlying Interest it seeks to 
+measure,  application  of  the  Methodology  to  a  specific  Index  calculation  and 
+other decisions in relation to an Index Administration Process. 
+ 
+ 
+
+16. Audits  
+
+An  Index  Provider  should  arrange  for  periodic  review  and  report  on  its 
+adherence  to  the  stated  criteria,  including  the  Methodology  criteria.  For  this 
+purpose, the Index Provider should use an independent auditor with appropriate 
+experience  and  capability.  The  Index  Provider  should  make  available  on  its 
+website such auditor’s certification no less frequently than bi-annually for access 
+by its market participants, subscribers or the Regulatory Authorities. 
+
+17. Audit Trail  
+
+The Index Provider should retain written records and Audit Trails for five years. 
+
+18. Reporting Requirement 
+
+Index providers are required to submit a monthly/ quarterly report providing 
+details regarding compliance with the code of conduct to SEBI.   
+
+6 | P a g e  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India 
+
+F.  Licensing Indices in foreign jurisdictions 
+
+19. While licensing indices in foreign jurisdictions index providers are required to 
+
+follow either of the following broad parameters; 
+
+ 
+Option- A 
+ 
+“Any  new  license  of  Indian  Indices  by  an  Indian  Index  provider  in  other 
+jurisdiction  will  be  subject  to  meeting  all  of  the  following  criteria  for  the 
+Jurisdiction/Stock Exchange: 
+
+  Membership of Financial Action Task Force (FATF). 
+  Jurisdictions which have not been identified by FATF as jurisdictions with 
+
+strategic AML/CFT deficiencies including its member countries. 
+
+  Jurisdiction  where  MoU  is  signed  for  information  sharing,  information 
+
+exchange etc.  
+
+  The  proposed counterpart Exchange  shall be  recognized Stock  Exchange 
+
+with minimum 5 years of track record in business.  
+
+  Any other condition as may be specified.  
+
+Or  
+ 
+Option B 
+ 
+“Any  new  license  of  Indian  Indices  by  an  Indian  Index  provider  in  other 
+jurisdiction  will  be  subject  to  meeting  the  following  criteria  for  the 
+Jurisdiction/Stock Exchange: 
+
+ 
+
+ 
+
+  Any type of membership of FATF including member, affiliated members 
+and  countries  having  observer’s  status.  Foreign  jurisdiction  is  defined  as 
+under; 
+
+“foreign jurisdiction" means a country, other than India, whose securities market 
+regulator is a signatory to International Organization of Securities Commission’s 
+Multilateral  Memorandum  of  Understanding  (IOSCO's  MMOU)  (Appendix  A 
+signatories)  or  a  signatory  to  bilateral  Memorandum  of  Understanding  with  the 
+Board, and which is not identified in the public statement of Financial Action Task 
+Force as:  
+ 
+
+  a jurisdiction having a strategic Anti-Money Laundering or Combating the 
+Financing of Terrorism deficiencies to which counter measures apply; or  
+  a  jurisdiction  that  has  not  made  sufficient  progress  in  addressing  the 
+deficiencies  or  has  not  committed  to  an  action  plan  developed  with  the 
+Financial Action Task Force to address the deficiencies; 
+
+7 | P a g e  
+
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India 
+
+20. Disclosure Requirement 
+
+Index  providers  are  required  to  inform  SEBI  immediately  upon  signing 
+agreement with foreign jurisdiction for licensing indices. The index providers 
+are required to necessarily intimate SEBI before any product is launched in the 
+foreign jurisdiction based on such indices in foreign market. 
+
+21. Public Comments 
+
+In  order  to  take  into  consideration  views  of  various  stakeholders,  public 
+comments are solicited keeping in mind the following issues; 
+  
+
+1.  Whether above code of conduct for index providers mitigate the concerns 
+of  misuse  of  information  associated  with  rebalancing/reconstitution  of 
+indices? 
+ 
+
+2.  Whether  above  code  of  conduct  for  index  providers  provide  for  greater 
+level of disclosure and transparency regarding stocks moving on and out 
+of indices? 
+
+ 
+
+3.  Whether above code of conduct are sufficient to provide broad framework 
+for  Index  Providers  while  managing/maintaining  Indices  including 
+provisions for licensing indices in foreign jurisdictions? 
+
+ 
+ 
+Comments/ suggestions may be provided in the format given below:-  
+ 
+
+Name of entity / person / intermediary/ Organization 
+
+Sr. No. 
+
+Issues 
+
+Suggestions  
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+Comments  may  please  be  emailed  on  or  before  June  20,  2017  to 
+vishalp@sebi.gov.in or sent by post, to:-  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vishal M Padole 
+Assistant General Manager 
+Division of Policy, Market Regulation Department 
+Securities and Exchange Board of India  
+SEBI Bhavan, Plot No. C4-A, "G" Block , 
+Bandra Kurla Complex, Bandra (East),  
+Mumbai - 400 051  
+
+ 
+
+**************** 
+
+8 | P a g e  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

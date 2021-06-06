@@ -1,0 +1,2749 @@
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+CIRCULAR 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             November 27, 2015 
+
+CIR/IMD/DF1/ 10 /2015 
+ 
+ 
+All Listed Entities 
+All the Recognized Stock Exchanges 
+ 
+ 
+Dear Sir/Madam, 
+ 
+Sub:  Format  for  statements/reports  to  be  submitted  to  Stock Exchange 
+(s) by listed entity which has listed its securitised debt instruments  
+
+ 
+
+1.  Regulation  82(3)  of  Securities  and  Exchange  Board  of  India  (Listing 
+Obligations  and  Disclosure  Requirements)  Regulations,  2015  (“Listing 
+Regulations”),  specifies  that  the  listed  entity  shall  submit  statements/reports 
+to  stock  exchange  within  seven  days  from  the  end  of  the  month/  actual 
+payment date, either by  itself or through the servicer, on a monthly basis  in 
+the format as specified by the Board from time to time.  
+ 
+
+2.  Accordingly,  formats  for  statements/reports  as  per  the  Annexure  I  to  this 
+circular  are  being  prescribed  which  requires  the  listed  entity  to  provide  pool 
+level, tranche level and loan level details. 
+
+ 
+3.  The  Stock  Exchanges  are  advised  to  bring  the  provisions  of  this  circular  to 
+the notice of Listed Entity and also to disseminate the same on its  website. 
+This circular shall come into force on December 01, 2015. 
+ 
+
+4.  This  circular  is  issued  under  regulation  82(3)  read  with  regulation  101(2)  of 
+
+Listing Regulations, 2015.   
+
+ 
+5.  This  circular  is  available  on  SEBI  website  at  www.sebi.gov.in  under  the 
+
+categories “Legal Framework” and under the drop down “Corp Debt Market”. 
+
+ 
+ 
+Yours faithfully, 
+ 
+    Richa Goel Agarwal 
+                 Deputy General Manager  
+richag@sebi.gov.in 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Page 1 of 14 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+
+ANNEXURE I 
+
+Note- Explanation for the terms used in the tables is given at the end 
+
+Disclosures for the month of __________ 
+
+A. Snapshot 
+
+A1. Pool snapshot 
+
+Originator 
+SPDE 
+Asset class (es) 
+Deal structure (Par/Premium) 
+Original Pool size 
+
+Current Pool size 
+
+Original Weighted Average Life 
+Current weighted average life 
+Door-to-door maturity 
+Initial weighted average 
+seasoning 
+ 
+
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+
+ 
+
+Total billing during the month 
+Total collections during the month 
+Cumulative collections efficiency ratio 
+Excess Spread percentage 
+Change in reserve account balance 
+Number of loans prepaid or foreclosed 
+during the month 
+Amount of loans prepaid or foreclosed 
+during the month 
+Original weighted average LTV 
+Current weighted average LTV 
+
+Total number of overdue loans 
+
+ 
+
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+
+ 
+
+  
+
+A1 Tranche  A2 Tranche  A3 tranche  A4 Tranche  A5 Tranche 
+
+A2. Tranche snapshot 
+
+Tranche Class Name 
+ISIN 
+Stock exchange 
+Legal Maturity of tranche 
+Rating agency 
+Original Rating 
+Current Rating 
+Record Date 
+Payment Date 
+Coupon rate 
+Principal excess/shortfalls 
+Interest excess/shortfalls 
+ 
+ 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+B. Pool level details 
+
+Note:- The asset classes are defined as Asset class-1, Asset Class-2 etc. for illustration purposes. The 
+asset class (E.g. Home loans/two-wheeler loans,etc.) shall be named as such in the respective columns 
+ 
+
+Particulars 
+
+Asset Class-1 
+
+Asset Class-2 
+
+Total 
+
+B1. Loan details 
+
+  
+Original Number /value of 
+Loans  
+Loans- opening balance 
+Loans Naturally terminated 
+Loans Prepaid 
+Loans Foreclosed 
+Loans- Closing balance 
+ 
+
+Number 
+of loans 
+
+Value 
+of 
+loans 
+
+Number 
+of loans 
+
+Value 
+of 
+loans 
+
+Number 
+of loans 
+
+Value of 
+loans 
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+B2. Yield, maturity & LTV details 
+
+Particulars 
+
+Asset Class-1  Asset Class-2 
+
+Total 
+
+Original Weighted Average Yield or Coupon 
+Current Weighted Average Yield or Coupon 
+Original Weighted Average Maturity 
+Current Weighted Average Maturity 
+Original Loan to Value (LTV) Ratio 
+Current Loan to Value (LTV) Ratio 
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+Door-to-door maturity 
+ 
+ 
+
+  
+
+  
+
+  
+
+B3. Credit enhancement details 
+
+Excess Spread Percentage 
+Excess Spread Amount 
+Over collateral, if any 
+Nature of credit enhancement facilities – whether guarantee/ deposit/ overdraft/ 
+others. If others, please specify 
+
+- 
+- 
+- 
+
+Liquidity facility 
+First Loss Facility  
+Second Loss facility 
+
+Liquidity facility 
+
+-  Opening Balance / Guarantee available at beginning of the month 
+-  Closing Balance / Guarantee available at end of the month 
+
+First Loss facility  
+
+-  Opening Balance / Guarantee available at beginning of the month 
+-  Closing Balance / Guarantee available at end of the month 
+
+Second Loss facility 
+
+-  Opening Balance / Guarantee available at beginning of the month 
+-  Closing Balance / Guarantee available at end of the month 
+
+Change in reserve account balance 
+ 
+ 
+
+B4. Waterfall mechanism 
+
+Receipts 
+  
+Collections pertaining to current billing 
+Collections pertaining to previous overdues 
+Prepayment collection 
+Collection of prepayment premium 
+Other collections net of deductions 
+Liquidity facility - Utilization for current payout 
+First Loss facility - Utilization for current payout 
+Second Loss facility- Utilization for current payout 
+  
+Total Receipts 
+  
+Payments 
+  
+Statutory / regulatory dues 
+Costs/ charges incurred by Trustee 
+Costs/ charges incurred by Designated Bank 
+Liquidity Facility Fee / Interest 
+Collection and Processing Agent 
+Miscellaneous 
+Payment to Senior Contributors 
+ A1 Tranche 
+ A2 Tranche 
+ A3 Tranche 
+Payment of excess to Residual Contributors / Subordinate Payouts 
+Payments to Liquidity  Facility 
+Payments to Second Loss Facility  
+Payments to First Loss facility 
+  
+Total Payments 
+ 
+ 
+
+  
+  
+ 
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+B5. Future cash flows schedule till maturity 
+
+Month (Starting from next 
+
+ Asset class 1 
+
+Asset class 2 
+
+Total 
+
+month) 
+
+  
+  
+
+Principal 
+  
+  
+
+Interest  Principal 
+  
+  
+
+  
+  
+
+Interest  Principal 
+  
+  
+
+  
+  
+
+Interest 
+  
+  
+
+ 
+
+ 
+
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+B6. Collection efficiency report 
+
+  
+
+Asset Class-1  Asset Class-2  Total 
+
+Cumulative billing 
+Cumulative collections 
+Current billing 
+     Billing pertaining to > 90 DPD  contracts 
+     Billing pertaining to repossessed contracts 
+     Billing pertaining to < 90 DPD 
+Current collections [excluding prepayments and other 
+collections] 
+      Collections pertaining to > 90 DPD contracts 
+      Collections pertaining to repossessed contracts 
+      Collection pertaining to < 90 DPD 
+Prepayment collection 
+Collection of prepayment premium 
+Other collections net of deductions 
+Closing overdues 
+      Closing pertaining to repossessed contracts 
+      Overdues pertaining to other contracts 
+Profit / Loss on Repossession Contracts 
+Cumulative collection efficiency ratio (CCER) 
+ 
+ 
+
+  
+  
+  
+  
+ 
+  
+
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+B7. Details of overdue loans 
+
+Assets Class-1 
+
+  
+  
+  
+  
+ 
+  
+
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+ 
+  
+
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+ Particulars 
+Number of loans 
+Principal overdue 
+Interest overdue 
+Future principal due of overdue loans 
+Future interest due of overdue loans 
+ 
+ 
+
+ Particulars 
+Number of loans 
+Principal overdue 
+Interest overdue 
+Future principal due of overdue loans 
+Future interest due of overdue loans 
+ 
+ 
+
+ Particulars 
+Number of loans 
+Principal overdue 
+Interest overdue 
+Future principal due of overdue loans 
+Future interest due of overdue loans 
+ 
+ 
+
+ 
+
+Total 
+overdue 
+  
+  
+  
+  
+  
+
+Overdue upto 
+90 days 
+  
+  
+  
+  
+  
+
+Overdue 91 
+to 180 days 
+  
+  
+  
+  
+  
+
+Overdue> 
+180 days 
+  
+  
+  
+  
+  
+
+Assets Class-2 
+
+Total 
+overdue 
+  
+  
+  
+  
+  
+
+Overdue upto 
+90 days 
+  
+  
+  
+  
+  
+
+Overdue 91 
+to 180 days 
+  
+  
+  
+  
+  
+
+Overdue > 180 
+days 
+  
+  
+  
+  
+  
+
+Total 
+
+Total 
+overdue 
+  
+  
+  
+  
+  
+
+Overdue upto 
+90 days 
+  
+  
+  
+  
+  
+
+Overdue 91 
+to 180 days 
+  
+  
+  
+  
+  
+
+Overdue > 
+180 days 
+  
+  
+  
+  
+  
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+ 
+
+ 
+ 
+
+C. Tranche level details (Provide details for every tranche under the pool) 
+
+Note:- The tranches are defined as A1 Tranche, A2 tranche,etc. for illustration purposes. The tranches 
+
+are required to be named as in the offer document 
+
+C1. General details 
+
+Particulars 
+
+Number of PTCs 
+Original collateral 
+Current collateral  
+ 
+ 
+
+A1 Tranche  A2 Tranche  A3 tranche  A4 Tranche  A5 Tranche 
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+Original Principal 
+Outstanding 
+Opening Principal 
+outstanding 
+Principal payments made 
+Principal payments 
+received 
+Principal excess/ 
+Shortfall 
+Closing outstanding 
+Principal  
+Cumulative Principal 
+Shortfalls 
+Previous factor (principal) 
+Current factor (principal) 
+ 
+ 
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+Original Interest Outstanding 
+Opening interest outstanding 
+Interest payments due  
+Interest payments received 
+closing interest Outstanding 
+Previous factor (interest) 
+Current factor (interest) 
+Current Coupon rate 
+Coupon amount 
+Current Interest Shortfall 
+Cumulative Interest Shortfall  
+ 
+ 
+
+Original Rating 
+Rating change 
+(Upgraded/Downgraded/No 
+change) 
+
+- 
+- 
+- 
+
+1st change 
+2nd change 
+3rd change 
+
+Current Rating 
+ 
+ 
+
+C2. Principal payments 
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+C3. Interest payments 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+C4. Credit rating  
+  
+
+  
+
+  
+ 
+ 
+ 
+  
+
+  
+ 
+ 
+ 
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+ 
+ 
+ 
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+ 
+ 
+ 
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+ 
+ 
+ 
+  
+
+C5. Future cash flows schedule till maturity 
+
+Month (Starting from next month) 
+
+  
+  
+  
+
+ 
+
+A1 Tranche 
+
+A2 Tranche 
+
+Principal 
+  
+  
+  
+
+Interest 
+  
+  
+  
+
+Principal 
+  
+  
+  
+
+Interest 
+  
+  
+  
+
+ 
+
+Sr 
+N
+o 
+
+Ass
+et 
+Clas
+s 
+
+Origina
+l 
+Princip
+al 
+balanc
+e 
+
+Curren
+t 
+Princip
+al 
+balanc
+e 
+
+Interest 
+rate- 
+Fixed 
+or 
+Floatin
+g*  
+
+Curre
+nt 
+Intere
+st 
+Rate 
+(in 
+p.a.) 
+
+Origin
+al 
+maturi
+ty of 
+loan 
+(in 
+month
+s) 
+
+Holding 
+period  
+by 
+originat
+or prior 
+to 
+securiti
+zation(i
+n 
+months
+) 
+
+D. Loan level details 
+
+D1. Loan level data 
+Principal 
+Remaini
+ng 
+payment
+s  due till 
+maturity 
+as on 
+date 
+date(in 
+months) 
+
+Princip
+al 
+payme
+nts 
+made 
+till date 
+
+Princip
+al 
+payme
+nt due 
+for the 
+month 
+
+Intere
+st 
+paym
+ents 
+due 
+till 
+date 
+
+Interest 
+paymen
+ts made 
+till date 
+
+Intere
+st 
+paym
+ent 
+due 
+for 
+the 
+month 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+*In case interest rate if fixed but maturity changes according to interest rate-mention as 'floating maturity' 
+ 
+Notes- For every asset class, loan level details in the above format shall be furnished for top 20 loans in descending order of value of principal outstanding. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Overd
+ue 
+status
+- 
+1. Not 
+overd
+ue 
+2. <90 
+days 
+3. 90-
+180 
+days 
+4. > 
+180 
+days 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+If 
+over
+due, 
+prin
+cipa
+l 
+over
+due 
+till 
+date 
+
+If 
+ove
+rdu
+e, 
+inte
+rest 
+ove
+rdu
+e till 
+date 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 6 of 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Explanation of Terms 
+
+ 
+
+A. Snapshot 
+
+Description 
+
+Data 
+format 
+Text 
+
+Text 
+
+Particulars 
+Originator 
+
+SPDE 
+
+Asset class 
+Deal Structure 
+Original Pool size 
+Current Pool size 
+
+Original Weighted Average life  Numeric 
+
+Current Weighted Average Life  Numeric 
+Door-to-door maturity 
+Total billing during the month 
+Total collections during the 
+month 
+Cumulative collection 
+efficiency ratio (CCER) 
+
+Excess Spread Percentage 
+
+Numeric 
+
+Change in reserve account 
+balance 
+Number of loans prepaid or 
+foreclosed during the month 
+Value of loans prepaid or 
+foreclosed during the month 
+Original weighted average 
+LTV(Loan-to-value) 
+
+Name of the originator including the group to which it belongs, if applicable 
+Special Purpose Distinct Entity as defined in SEBI (Public Offer and Listing of Securitized Debt 
+Instruments) Regulations, 2008 
+The asset class(es) underlying the securities e.g. Home loans/Auto loans,etc. Nomenclature and 
+classification of asset classes shall be as defined by the issuer in the offer document 
+Whether the structure of the deal is par/premium structure 
+
+Text 
+Text 
+Numeric  Value of the loans in the pool at the time of issuance  
+Numeric  Value of the loans in the pool as on date 
+
+The original weighted average maturity of the loans collateralizing the pool in months weighted by their 
+original principal balance 
+The current weighted average maturity date of the loans collateralizing the pool in months weighted by 
+their current principal balance 
+
+Dynamic 
+Numeric  The number of months since the date of disbursement till the date of collection of final prinicipal/interest  Dynamic 
+Numeric  Total amount due from all the loans underlying the pool for the month 
+Dynamic 
+
+Numeric  Total collections pertaining to the dues for the current month 
+
+Numeric  Total collections until  the current month  excluding pre payments/ Total overdues as on date 
+
+The amount of funds remaining as a percentage (%) of the Current Loan Principal Balance after the 
+period’s collections have been fully applied to cover the issuer’s obligations (i.e. senior fees, bond 
+interest due, swap payments) pursuant to the priority of payments given in the transaction 
+documentation 
+The difference between the Ending Account Balance and the Beginning Account Balance of the month 
+in all credit enhancement accounts taken together such that a positive amount represents a net deposit 
+to the account and a negative quantity represents a net withdrawal from the account 
+
+Numeric 
+
+Nature 
+Static 
+
+Static 
+
+Static 
+Static 
+Static 
+Dynamic 
+
+Static 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Static 
+
+Dynamic 
+Dynamic 
+
+Static 
+
+A1. Pool 
+snapshot 
+
+ 
+
+ 
+
+Numeric  Number of loans underlying the pool which have either been prepaid or foreclosed during the month 
+
+Dynamic 
+
+Numeric  Value of loans underlying the pool which have either been prepaid or foreclosed during the month 
+
+Dynamic 
+
+Numeric 
+
+The ratio obtained by dividing the Original Total Value of the Loans by the weighted average market 
+value of the underlying assets securing the loans 
+The ratio obtained by dividing the current Total Value of the Loans by the weighted average market 
+value of the underlying assets securing the loans based on the latest available valuations. Where 
+valuation is not available, estimates/self-assessments may be used. 
+
+Current 'weighted average 
+LTV(Loan-to-value) 
+Total number of overdue loans  Numeric  Cumulative loans overdue as on the last date of the month 
+Initial weighted average 
+seasoning 
+
+Numeric 
+
+Numeric 
+
+Weighted average of the holding period in months of the securitized loans by originator prior to 
+securitization weighted by original principal balance 
+
+ 
+
+Page 7 of 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Tranche Class Name 
+
+Alpha-
+numeric  The designation (letter(s) and/or number(s)) given to the tranche  
+
+Static 
+
+Numeric 
+ISIN 
+Stock exchange 
+Text 
+Legal Maturity of the tranche  Date 
+Text 
+Rating agency 
+Alpha-
+Original Rating (Indicate all 
+numeric 
+ratings assigned) 
+Alpha-
+numeric  The rating assigned by the rating agency or agencies for the tranche as on date 
+
+The security identification code assigned to the class/tranche of security pursuant to the securities 
+Static 
+code established by an exchange 
+The identified stock exchange/s where the security is listed 
+Static 
+The date before which a specific tranche of the security must be repaid in order not to be in default  Static 
+Name of the rating agency or agencies as stated in the prospectus 
+Static 
+The original rating assigned by the rating agency or agencies for each tranche of the pool issued 
+as defined in the prospectus 
+
+Current Rating 
+
+A2. Tranche 
+
+snapshot 
+
+Record Date 
+
+Payment Date 
+
+Date 
+
+Date 
+
+Coupon rate 
+
+Numeric 
+
+Principal excess/ Shortfall 
+
+Numeric 
+
+Interest excess/shortfall 
+
+Numeric 
+
+The date on which registered holders of the security are determined for the purpose of making 
+payments to such registered holders on the next succeeding payment date 
+The periodic date on which the recurring payment of the tranche is scheduled to occur; the period 
+between the 2 payment dates referred to as 'the month' 
+The coupon rate for the tranche whether fixed or floating 
+- In case of fixed interest, specify the coupon rate 
+- In case of floating interest specify as benchmark + ____bps E.g. 10 year G-Sec Rate+ 300 bps= 
+____ % (current rate) 
+The difference between the amount of Total Scheduled Principal distribution and the amount of 
+principal paid to the tranche  during the month 
+Specify excess or shortfall in parenthesis alongside the figure 
+The difference between the Coupon Amount and the amount of the interest paid or accrued for the 
+month on the tranche 
+
+  
+
+  
+
+  
+
+  
+
+B. Pool level details 
+
+B1. Loan 
+
+details 
+
+Original Number /Value of 
+Loans  
+Loans-opening balance 
+Loans naturally terminated 
+Loans prepaid  
+Loans foreclosed 
+Loans-closing balance 
+
+Numeric  Number & value of securitized loans in the  pool at the time of issuance 
+Numeric  Number & value of securitized loans in the  pool at the beginning of the month 
+Numeric  Number & value of loans naturally terminated which were due for termination during the month 
+Numeric  Number & value of loans pre-paid before the maturity of the loans during the month 
+Numeric  Number & value of loans foreclosed during the month 
+Numeric  Number & value of securitized loans in the  pool at the end of the month 
+
+B2. Yield, 
+maturity &  
+LTV details 
+
+Original Weighted Average 
+Yield or Coupon 
+Current Weighted Average 
+Yield or Coupon 
+Original Weighted Average 
+Life 
+Current Weighted Average 
+Life 
+
+Numeric 
+
+Numeric 
+
+Numeric 
+
+Numeric 
+
+The original weighted average rate of interest (coupon or contract rate) and/or other income on the 
+loans collateralizing the pool weighted by the original principal balance of the loans 
+The current weighted average rate of interest (coupon or contract rate) and/or other income on the 
+loans collateralizing the pool weighted by the current principal balance of the loans 
+The original weighted average maturity date of the loans collateralizing the pool weighted by their 
+original principal balance 
+The current weighted average maturity date of the loans collateralizing the pool weighted by their 
+current principal balance 
+
+ 
+
+Page 8 of 14 
+
+ 
+
+ 
+
+ 
+
+Static 
+
+Dynamic 
+
+Static 
+
+Static 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+  
+
+Static 
+Dynamic 
+Dynamic 
+Dynamic 
+Dynamic 
+Dynamic 
+
+Static 
+
+Dynamic 
+
+Static 
+
+Dynamic 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Original Loan to Value (LTV)   Numeric 
+
+Current Loan to Value (LTV)   Numeric 
+
+Door-to-door maturity 
+
+Numeric 
+
+The ratio obtained by dividing the Original Total Value of the Loans by the weighted average 
+market value of the underlying assets securing the loans 
+The ratio obtained by dividing the current Total Value of the Loans by the weighted average 
+market value of the underlying assets securing the loans based on the latest available valuations  
+The number of months since the date of disbursement till the date of collection of final 
+principal/interest 
+
+Static 
+
+Dynamic 
+
+Dynamic 
+
+Excess Spread Percentage 
+
+Numeric 
+
+Excess Spread Amount 
+
+Numeric 
+
+Over-collateral 
+Nature of credit 
+enhancement facilities   
+Liquidity Facility- Opening 
+Balance / Guarantee 
+available at beginning of the 
+month 
+Liquidity Facility- - Closing 
+Balance / Guarantee 
+available at end of the 
+month 
+First Loss facility- Opening 
+Balance / Guarantee 
+available at beginning of the 
+month 
+First Loss Facility - Closing 
+Balance / Guarantee 
+available at end of the 
+month 
+Second Loss Facility - 
+Opening Balance / 
+Guarantee available at 
+beginning of the month 
+Second Loss facility- Closing 
+Balance / Guarantee 
+available at end of the 
+month 
+
+Numeric 
+
+Text 
+
+Numeric 
+
+Numeric 
+
+Numeric 
+
+Numeric 
+
+Numeric 
+
+Numeric 
+
+Change in reserve account 
+balance 
+
+Numeric 
+
+The amount of funds remaining as a percentage (%) of Current Loan Principal Balance after the 
+period’s collections have been fully applied to cover the issuer’s obligations (i.e. senior fees, bond 
+interest due, swap payments) as per priority of payments given in the transaction documentation 
+The amount of funds remaining in absolute terms of the Current Loan Principal Balance after the 
+period’s collections have been fully applied to cover the issuer’s obligations (i.e. senior fees, bond 
+interest due, swap payments) as per priority of payments given in the transaction documentation 
+The difference between the principal balance on the loans in the pool and the principal balance on 
+the outstanding PTCs 
+Whether the credit enhancement facility is in the nature of a guarantee/ deposit/ overdraft/ others. 
+If others, please specify 
+Liquidity facilities' enable SPVs to assure investors of timely payments. These include 
+smoothening of timing differences between payment of interest and principal on pooled assets and 
+payments due to investors. Provide the balance of funds on deposit in the Liquid facilities account 
+at the beginning of the month/ Guarantee available at beginning of the month 
+
+The balance of funds on deposit in the Liquid facilities account at the end of the month/ Guarantee 
+available at end of the month 
+A 'first loss facility' represents the first level of financial support to a SPV as part of the process in 
+bringing the securities issued by the SPV to investment grade. Provide the balance of funds on 
+deposit in the First Loss Facility account at the beginning of the month/ Guarantee available at 
+beginning of the month 
+
+Balance of funds on deposit in the First Loss Facility account at the end of the month/ Guarantee 
+available at end of the month 
+A "second loss facility" represents a credit enhancement providing a second (or subsequent) tier of 
+protection to an SPV against potential losses. Provide the balance of funds on deposit in the 
+Second Loss facility account at the beginning of the month/ Guarantee available at beginning of 
+the month 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+The balance of funds on deposit in the Second Loss facility account at the end of the month/ 
+Guarantee available at end of the month 
+The difference between the Ending Account Balance and the Beginning Account Balance of the 
+month in all credit enhancement accounts taken together such that a positive amount represents a 
+net deposit to the account and a negative quantity represents a net withdrawal from the account 
+
+Dynamic 
+
+Dynamic 
+
+B3. Details 
+
+of Credit 
+enhanceme
+nt/liquidity 
+
+facilities 
+
+ 
+
+Page 9 of 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+B4. 
+
+Waterfall 
+
+Mechanism 
+
+Receipts 
+Collections pertaining to 
+current month 
+Collections pertaining to 
+previous overdues 
+Prepayment collection 
+Collection of prepayment 
+premium 
+Other collections net of 
+deductions 
+Liquid facility - Utilization for 
+current payout 
+First Loss facility - Utilization 
+for current payout 
+Second Loss facility- 
+Utilization for current payout 
+Total Receipts 
+Statutory / regulatory dues 
+Costs/ charges incurred by 
+Trustee 
+Costs/ charges incurred by 
+Designated Bank 
+Liquidity Facility Fee / 
+Interest 
+Collection and Processing 
+Agent fees 
+Miscellaneous payments 
+Payment to Senior 
+Contributors (A1, A2, A3,etc. 
+tranche holders) 
+Payment of excess to 
+Residual Contributors / 
+Subordinate Payouts 
+Payments to Liquidity facility 
+Payments to Second Loss 
+facility 
+Payments to First Loss 
+facility 
+Total payments 
+
+Numeric  Total collections pertaining to the dues for the current month 
+
+Numeric  Total collections pertaining to the dues for the previous months 
+Numeric  Collection of principal Prepayments during the month 
+
+Numeric  Collection of premiums  pertaining to the prepayments made during the month 
+
+Numeric  Other collections during the month net of deductions not included above 
+
+Numeric  Amount withdrawn from the Liquid facility for payout to investors during current month 
+
+  
+
+Dynamic 
+
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Numeric  Amount withdrawn from the First Loss facility for payout to investors during current month 
+
+Dynamic 
+
+Numeric  Amount utilized from the Second Loss facility for payout to investors during current month 
+Numeric  Total of all receipts during the month 
+Numeric  Statutory / regulatory dues paid for the month 
+
+Numeric  Costs/ charges incurred by Trustee for the month 
+
+Numeric  Costs/ charges incurred by Designated Bank for the month 
+
+Numeric  Fee / Interest for maintaining liquidity facility the month 
+
+Numeric  Collection and Processing Agent fees paid out for the month 
+Numeric  Any miscellaneous payments not included above 
+
+Numeric  Payment made to each class of tranche holders during the month 
+
+Numeric  Payment of excess made to the residual contributors / subordinate payouts during the month 
+Numeric  Transfer to Liquid facility using excess reserves after current payout 
+
+Numeric  Transfer to Second Loss facility using excess reserves after current payout 
+
+Numeric  Transfer to First Loss facility using excess reserves after current payout 
+Numeric  Total of all payments made during the month 
+
+Dynamic 
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+Dynamic 
+
+B5. Future 
+cash flows 
+
+Details of future cash flows 
+of the pool 
+
+Numeric 
+
+Details of the projected cash flows for every asset class in the pool subdividing the cash flows into 
+interest and principal payments for every month till maturity 
+
+Dynamic 
+
+ 
+
+Page 10 of 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+schedule till 
+maturity 
+
+Cumulative billing 
+Cumulative collections 
+Current billing 
+     Billing pertaining to > 90 
+DPD contracts 
+     Billing pertaining to 
+repossessed contracts 
+     Billing pertaining to < 90 
+DPD 
+Current collections [excluding 
+prepayments and other 
+collections] 
+
+Numeric  Cumulative total amount due from all the loans underlying the pool as on date 
+Numeric  Cumulative total amount collected from all the loans underlying the pool as on date 
+Numeric  Total amount due from all the loans underlying the pool for the month 
+
+Numeric 
+
+Numeric 
+
+Numeric 
+
+Total amount due from the loans underlying the pool for the month where   interest or principal or 
+both have been due for more than 90 days  
+Total amount due from the loans underlying the pool for the month where the contracts are 
+repossessed 
+Total amount due from the loans underlying the pool for the month excluding the loans mentioned 
+in the above row 
+
+Dynamic 
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Numeric  Total amount collected during the month excluding prepayments and other collections 
+
+Dynamic 
+
+DPD- Days past Due 
+Total amount collected during the month excluding prepayments and other collections pertaining to 
+the loans where interest or principal or both have been due for more than 90 days OR 
+ 
+ 
+Total amount collected during the month excluding prepayments and other collections pertaining to 
+the loans where the contracts are repossessed 
+DPD- Days past Due 
+Total amount collected during the month excluding prepayments and other collections excluding 
+the loans mentioned in the above row 
+
+Numeric 
+Numeric  Total prepayments received from the loans underlying the pool during the month 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+Dynamic 
+
+      Collections pertaining to 
+> 90 DPD contracts 
+
+Numeric 
+
+      Collections pertaining to 
+repossessed contracts 
+
+Numeric 
+
+B6. 
+
+Collection 
+efficiency 
+
+report 
+
+      Collection pertaining to < 
+90 DPD 
+Prepayment collection 
+Collection of prepayment 
+premium 
+Other collections net of 
+deductions 
+Closing overdues 
+      Closing pertaining to 
+repossessed contracts 
+      Overdues pertaining to 
+other contracts 
+Profit / Loss on Repossesion 
+Contracts 
+Cumulative collection 
+efficiency ratio (CCER) 
+
+Numeric  Total Prepayment Premium collected pertaining to the loans pre-paid during the month  
+
+Dynamic 
+
+Numeric  Other collections from the loans except for the ones mentioned above net of deductions 
+Numeric  Total loans overdue as on date 
+
+Numeric  Total loans overdue as on date pertaining to repossessed contracts 
+
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Numeric  Total loans overdue as on date pertaining to contracts other than repossessed contracts 
+
+Dynamic 
+
+Numeric 
+
+Any Profit / Loss made on Repossesion Contracts during the month 
+Include profit/ Loss in parenthesis across the figure 
+
+Numeric  Total collections during the month / Total overdues as on date 
+
+Dynamic 
+
+Dynamic 
+
+B7. Details 
+of overdue  Number of loans 
+
+Numeric 
+
+Number of loans overdue as on the last date of the month for upto 90 days, 91-180 days & more 
+than 180 days respectively for every assets class & on a total basis 
+
+Dynamic 
+
+ 
+
+Page 11 of 14 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+loans 
+
+Principal overdue 
+
+Numeric 
+
+Interest overdue 
+Future principal due of 
+overdue loans 
+Future interest due of 
+overdue loans 
+
+Numeric 
+
+Numeric 
+
+Numeric 
+
+Cumulative Prinicipal overdue on the loans overdue as on the last date of the month for upto 90 
+days, 91-180 days & more than 180 days respectively for every assets class & on a total basis 
+Cumulative Interest overdue on the loans overdue as on the last date of the month for upto 90 
+days, 91-180 days & more than 180 days respectively for every assets class & on a total basis 
+Total prinicpal overdue in future from all loans which are overdue as on date for upto 90 days, 91-
+180 days & more than 180 days respectively for every assets class & on a total basis 
+Total interest overdue in future from all loans which are overdue as on date for upto 90 days, 91-
+180 days & more than 180 days respectively for every assets class & on a total basis 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+  
+
+  
+
+  
+
+  
+
+C. Tranche level details (Provide details for every tranche under the pool) 
+
+Numeric  The number of Pass Through Certificates under every  tranche 
+Numeric  Value of the collateral underlying the loans for every tranche at the time of issuance 
+
+Current collateral  
+
+Numeric 
+
+Value of the collateral underlying the loans for every tranche based on current market valuations. 
+Where valuation is not readily available, estimates/ self-assessments may be used. 
+
+Dynamic 
+
+  
+
+Static 
+Static 
+
+Static 
+
+Dynamic 
+Dynamic 
+Dynamic 
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+Dynamic 
+Dynamic 
+
+Static 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Number of PTCs (Pass 
+Through Certificates) 
+Original collateral 
+
+C1. General 
+Details 
+
+Original Principal 
+Outstanding 
+Opening Principal 
+outstanding 
+Principal payments due 
+Principal payments made 
+Principal excess/ Shortfall 
+
+C2. 
+Principal 
+payments  
+
+Numeric  The Original Principal Balance of the tranche at issuance 
+
+Numeric  The par, or notional, balance of the prinicpal of the tranche at the beginning of the month 
+Numeric  The total amount of principal payments due during the month 
+Numeric  The total amount of principal payments made during the month 
+Numeric  The par, or notional, balance of the tranche at the end of the month 
+
+The difference between the amount of Total Scheduled Principal distribution and the amount of 
+principal paid to the tranche  during the month 
+Specify excess or shortfall in parenthesis alongside the figure 
+
+Numeric  The cumulative amount of Principal Shortfall as on date 
+Numeric  Total prinicpal Outstanding at beginning of month ÷ Original Principal Outstanding  
+Numeric  Total current prinicpal Outstanding at beginning of month ÷ Original Principal Outstanding 
+
+Closing outstanding Principal   Numeric 
+Cumulative Principal 
+Shortfalls 
+Previous factor (principal) 
+Current factor (principal) 
+
+Original Interest Outstanding  Numeric  The Original interest Balance of the tranche at issuance 
+
+Opening interest outstanding  Numeric  The balance of the interest of the tranche at the beginning of the month 
+
+C3. Interest 
+payments 
+
+Interest payments due  
+
+Numeric  The total amount of interest payments due during the month 
+
+Interest payments received 
+
+Numeric  The total amount of interest payments made during the month 
+
+closing interest Outstanding 
+
+Numeric  The balance of the interest at the end of the month 
+
+Previous factor (interest) 
+
+Numeric  Total interest Outstanding at beginning of month ÷ Original interest Outstanding  
+
+Current factor (interest) 
+
+Numeric  Total current interest Outstanding at beginning of month ÷ Original interest Outstanding 
+
+ 
+
+Page 12 of 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Current Coupon rate 
+
+Numeric 
+
+The coupon rate for the tranche whether fixed or floating 
+- In case of fixed interest, specify the coupon rate 
+- In case of floating interest specify as benchmark + ____bps E.g. 10 year G-Sec Rate+ 300 bps= 
+____ % (current rate) 
+
+Coupon amount 
+
+Numeric  Amount of scheduled interest due for the month for the tranche 
+
+Dynamic 
+
+Dynamic 
+
+Current Interest Shortfall 
+
+Numeric 
+
+The difference between the Coupon Amount and the amount of the interest paid or accrued for the 
+month on the tranche 
+
+Dynamic 
+
+Cumulative Interest Shortfall   Numeric 
+
+The cumulative difference between Coupon Amount of interest due and the amount of interest paid 
+or accrued till date for the tranche 
+
+Dynamic 
+
+Original Rating (Indicate all 
+ratings assigned) 
+
+Alpha-
+numeric 
+
+The original rating assigned by the rating agency or agencies for each tranche of the pool issued 
+as defined in the prospectus 
+
+Static 
+
+Rating change 
+(Upgraded/Downgraded/No 
+change) 
+
+C4. Credit 
+Rating  
+
+Text 
+
+Whether the rating of the tranche has been upgraded/ downgraded by any rating agency in 
+comparison with the initial rating  
+
+1st change/ 2nd change, etc. 
+
+Alpha-
+numeric  Mention every subsequent changed rating received by the instrument till date 
+
+Current Rating 
+
+Alpha-
+numeric 
+
+The rating assigned by the rating agency or agencies for the tranche as on date for all rating 
+agencies 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C5. Future 
+cash flows 
+schedule till 
+maturity 
+
+D1. Loan 
+level data 
+
+Details of future cash flows 
+for every tranche 
+
+Numeric 
+
+Details of the projected cash flows for every tranche subdividing the cash flows into interest and 
+principal payments for every month till maturity 
+
+Dynamic 
+
+D. Loan level details 
+
+Name of the asset class to which the loan belongs. E.g. (Home loan, 2-wheeler loan, etc.) 
+
+Text 
+Numeric  Original principal balance of the loan at the time of grant of loan 
+Numeric  Principal balance due of the loan at the end of the month 
+
+Whether the interest rate on the loan is fixed/ floating. In case interest rate if fixed but maturity 
+changes according to interest rate-mention as 'floating maturity' 
+Mention interest rate currently applicable on the loan 
+
+Asset Class 
+Original Principal balance 
+Current Principal balance 
+Interest rate- Fixed or 
+Floating*  
+Text 
+Current Interest Rate (in p.a.)  Rate 
+Original maturity of loan (in 
+months) 
+Holding period  by originator 
+prior to securitization (in 
+months) 
+Remaining maturity as on 
+date(in months) 
+
+Numeric  Maturity of the loan at the time of grant of loan 
+
+Numeric  Number of months the loan was in the books of the originator before being securitized 
+
+Numeric  Maturity of the loan as at the end of the month 
+
+ 
+
+Page 13 of 14 
+
+Static 
+Static 
+Dynamic 
+
+Static 
+Dynamic 
+
+Static 
+
+Static 
+
+Dynamic 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Principal payments  due till 
+date 
+Principal payments made till 
+date 
+Principal payment due for the 
+month 
+Interest payments due till 
+date 
+Interest payments made till 
+date 
+Interest payment due for the 
+month 
+
+Numeric  Amount of principal payments due till the end of month as per the agreement whether paid or not 
+
+Dynamic 
+
+Numeric  Amount of principal payments made till the end of month including any prepayments made 
+
+Dynamic 
+
+Numeric  Amount of principal payments made during the month including any prepayments made 
+
+Dynamic 
+
+Numeric  Amount of interest payments due till the end of month as per the agreement whether paid or not 
+
+Dynamic 
+
+Numeric  Amount of interest payments made till the end of month  
+
+Numeric  Amount of interest payments made during the month  
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Dynamic 
+
+Overdue status 
+If overdue, principal overdue 
+till date 
+If overdue, interest overdue 
+till date 
+
+Text 
+
+Numeric 
+
+Numeric 
+
+State the overdue status as either of the following- 
+1. Not overdue 
+2. <90 days 
+3. 90-180 days 
+4. > 180 days 
+If the loan is overdue, mention the amount of principal payments overdue on the loan at the end of 
+the month 
+If the loan is overdue, mention the amount of interest payments overdue on the loan at the end of 
+the month 
+
+ 
+
+ 
+
+Page 14 of 14 
+
+ 
+
+ 
+
+ 
+
+

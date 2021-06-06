@@ -1,0 +1,55 @@
+
+ 
+Aug 10, 2014
+
+PR No.:  
+89/2014
+
+
+The SEBI Board met in New Delhi today and took the following decisions:
+ 
+I. SEBI (Real Estate Investment Trusts) Regulations, 2014
+
+The Board approved the SEBI (Real Estate Investment Trusts) Regulations, 2014 (“REIT Regulations”) thereby providing a framework for registration and regulation of Real Estate Investment Trusts (“REIT's”).
+Salient features of the REIT Regulations, as approved by the Board, include the following:
+a. REITs shall be set up as a trust and registered with SEBI. It shall have parties such as Trustee, Sponsor(s) and Manager. b. The trustee of a REIT shall be a SEBI registered debenture trustee who is not an associate of the Sponsor/manager. c. REIT shall invest in commercial real estate assets, either directly or through SPVs. In such SPVs a REIT shall hold or proposes to hold controlling interest and not less than 50% of the equity share capital or interest. Further, such SPVs shall hold not less than 80% of its assets directly in properties and shall not invest in other SPVs. d.Once registered, the REIT shall raise funds through an initial offer. Subsequent raising of funds may be through follow-on offer, rights issue, qualified institutional placement, etc. The minimum subscription size for units of REIT shall be Rs 2 lakhs. The units offered to the public in initial offer shall not be less than 25% of the number of units of the REIT on post-issue basis. e. Units of REITs shall be mandatorily listed on a recognized Stock Exchange and REIT shall make continuous disclosures in terms of the listing agreement. Trading lot for such units shall be Rs 1 Lakh. f. For coming out with an initial offer, the value of the assets owned/proposed to be owned by REIT shall be of value not less than Rs 500 crore. Further, minimum issue size for initial offer shall be Rs 250 crore. g. The Trustee shall generally have an overseeing role in the activity of the REIT. The manager shall assume operational responsibilities pertaining to the REIT. Responsibilities of the parties involved are enumerated in the Regulations. h. A REIT may have multiple sponsors, not more than 3, subject to each holding at least 5% of the units of the REIT. Such sponsors shall collectively hold not less than 25% of the units of the REIT for a period of not less than 3 years from the date of listing. After 3 years, the sponsors, collectively, shall hold minimum 15% of the units of REIT, throughout the life of the REIT. i. Not less than 80% of the value of the REIT assets shall be in completed and revenue generating properties. Not more than 20% of the value of REIT assets shall be invested in following : 
+              i.                developmental properties,
+            ii.                mortgage backed securities,
+           iii.                listed/ unlisted debt of companies/body corporates in real estate sector,
+           iv.                equity shares of companies listed on a recognized stock exchange in India which derive not less than 75% of their operating income from Real Estate activity,
+             v.                government securities,
+           vi.                money market instruments or Cash equivalents.
+ 
+However investments in developmental properties shall be restricted to 10% of the value of the REIT assets
+j. A REIT shall invest in at least 2 projects with not more than 60% of value of assets invested in one project. Detailed investment conditions are provided in the Regulations. k. REIT shall distribute not less than 90% of the net distributable cash flows, subject to applicable laws, to its investors, atleast on a  half yearly basis. l. REIT, through a valuer, shall undertake full valuation on a yearly basis and updation of the same on a half yearly basis and declare NAV within 15 days from the date of such valuation/updation. m. The borrowings and deferred payments of the REIT at a consolidated level shall not exceed 49% of the value of the REIT assets. In case such borrowings/ deferred payments exceed 25%, approval from unit holders and credit rating shall be required. n. Detailed provisions for related party transactions. valuation of assets, disclosure requirements, rights of unit holders, etc. are provided in the Regulations. However, for any issue requiring unit holders’ approval, voting by a person who is a related party in such transaction as well as its associates shall not be considered. 
+ 
+II. SEBI (Infrastructure Investment Trusts) Regulations, 2014
+
+The Board approved the SEBI (Infrastructure Investment Trusts) Regulations, 2014 (“InvIT Regulations”) thereby providing a framework for registration and regulation of Infrastructure Investment Trusts (“InvITs”). 
+Salient features of the InvIT Regulations, as approved by the Board, include the following:
+a. Infrastructure is as defined by Ministry of Finance vide its notification dated October 07, 2013 and shall include any amendments/additions made thereof. b. InvITs shall be set up as a trust and registered with SEBI. It shall have parties such as Trustee, Sponsor(s), Investment Manager and Project Manager.c. The trustee of an InvIT shall be a SEBI registered debenture trustee who is not an associate of the Sponsor/Manager.d. InvITs shall invest in infrastructure projects, either directly or through SPV. In case of PPP projects, such investments shall only be through SPV. e. An InvIT shall hold or propose to hold controlling interest and more than 50% of the equity share capital or interest in the underlying SPV, except where the same is not possible because of a regulatory requirement/ requirement emanating from the concession agreement. In such cases sponsor shall enter into an agreement with the InvIT, to ensure that no decision taken by the sponsor, including voting decisions with respect to the SPV, are against the interest of the InvIT/ its unit holders.f.  Sponsor(s) of  an InvIT shall, collectively, hold not less than 25% of the total units of the InvIT on post issue basis for a period of at least 3 years, except for the cases where a regulatory requirement/concession agreement requires the sponsor to hold a certain minimum percent in the underlying SPV. In such cases the consolidated value of such sponsor holding in the underlying SPV and in the InvIT shall not be less than the value of 25% of the value of units of InvIT on post-issue basis.g. The proposed holding of an InvIT in the underlying assets shall be not less than Rs 500 crore and the offer size of the InvIT shall not be less then Rs 250 crore at the time of initial offer of units. h. The aggregate consolidated borrowing of the InvIT and the underlying SPVs shall never exceed 49% of the value of InvIT assets. Further, for any borrowing exceeding 25% of the value of InvIT assets, credit rating and unit holders' approval is required.i. An InvIT which proposes to invest at least 80% of the value of the assets in the completed and revenue generating Infrastructure assets, shall : 
+              i.                raise funds only through public issue of units.
+            ii.                have a minimum 25% public float and at least 20 investors.
+           iii.                have minimum subscription size and trading lot of Rs ten lakhs and Rs five lakhs respectively.
+           iv.                distribute not less than 90% of the net distributable cash flows, subject to applicable laws, to the investors, atleast on a half yearly basis.
+             v.                through a valuer, undertake a full valuation on a yearly basis and updation of the same on a half yearly basis and declare NAV within 15 days from the date of such valuation/updation.
+j. A publicly offered InvIT may invest the remaining 20% in under construction infrastructure projects and other permissible investments, as defined in the regulations. However, the investments in under construction infrastructure projects shall not be more than 10% of the value of the assets. k. An InvIT which proposes to invest more than 10% of the value of their assets in under construction infrastructure projects shall :
+              i.                raise funds only through private placement from Qualified Institutional Buyers and body corporates.
+            ii.                have minimum investment and trading lot of Rs. 1 crore.
+           iii.                have minimum of 5 investors with each holding not more than 25% of the units
+           iv.                distribute not less than 90% of the net distributable cash flows, subject to applicable laws, to the investors, atleast on a yearly basis
+             v.                undertake full valuation on yearly basis and declare NAV within 15 days from the date of such valuation.
+l. Conditions for InvITs investing in under construction projects 
+              i.For PPP project(s)
+
+has achieved completion of at least 50% of the construction of the infrastructure project as certified by an independent engineer; or
+has expended not less than 50% of the total capital cost set forth in the financial package of the relevant project agreement.
+
+            ii.                For Non-PPP project(s), the Infrastructure Project has received all the requisite approvals and certifications for commencing construction of the project;
+m. Listing shall be mandatory for both publicly offered and privately placed InvITs and InvIT shall make continuous disclosures in terms of the listing agreement.n. Detailed provisions for related party transactions. valuation of assets, disclosure requirements, rights of unit holders, etc. are provided in the Regulations. However, for any issue requiring unit holders approval,  the voting by any person who is a related party in such transaction as well as its associates shall not be considered.
+ 
+III. Granting single registration to stock brokers / clearing members With a view to further simplify the registration requirements for stock brokers / clearing members, the Board has approved single registration for operating in all stock exchanges / clearing corporations. Accordingly, initial certificate of registration as stock broker / clearing member shall be granted by SEBI and subsequent permissions to act as a stock broker / clearing member of other stock exchanges / clearing corporations, shall be granted by the respective stock exchange / clearing corporation after following the prescribed procedure.
+ 
+As per the existing regulations the stock broker / clearing member have the requirement of obtaining multiple certificates from SEBI for operating in different segments like equity, equity derivative, currency derivative and debt and separate certificate for each category of operations viz. Trading Member, Trading Cum Self Clearing Member and professional Clearing Member.
+Thus there will  be a simple one time process of registration for operating as a stock broker or clearing member in any stock exchange or clearing corporation in India.
+

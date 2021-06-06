@@ -1,0 +1,5190 @@
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+MASTER CIRCULAR 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+April 13, 2012 
+
+ 
+
+ 
+ 
+
+ 
+CIR/MRD/DP/10 /2012    
+ 
+ 
+To, 
+ 
+All Depositories 
+ 
+ Dear Sir / Madam, 
+ 
+
+Sub: Master Circular for Depositories 
+
+  
+Securities  and  Exchange  Board  of  India  (SEBI)  has  been  issuing  various 
+circulars/directions  from  time  to  time.  In  order  to  enable  the  users  to  have  an 
+access to all the applicable circulars/directions at one place, Master Circular for 
+Depositories has been prepared. 
+ 
+This Master Circular is a compilation of the circulars/communications issued by 
+SEBI up to March 31, 2012 and shall come into force from the date of its issue. 
+ 
+ 
+ 
+ 
+
+Harini Balaji  
+Deputy General Manager 
+022-26449372 
+harinib@sebi.gov.in 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+1 
+
+ 
+
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Table of Contents 
+
+ 
+
+Section-1 - Beneficial Owner (BO) Accounts  
+
+1.1  Opening of BO Account by non-body corporates 
+
+1.1.1  Proof of Identity (PoI)  
+1.1.2  Proof of Address (PoA)  
+1.1.3  Acceptance of third party address as correspondence  
+
+address 
+
+1.2  Exemptions from and clarifications relating to mandatory requirement 
+
+1.3  Fees/Charges to be paid by BO  
+1.4  Transfer of funds and securities from Clearing Member pool account to 
+
+1.5  Printing of Grievances Redressal Mechanism on Delivery Instruction 
+
+of PAN 
+
+BO Account 
+
+Form Book 
+
+1.6  Exemption  to  Depository  Participants  (DPs)  from  providing  hard 
+
+copies of transaction statements to BOs 
+
+1.7  Safeguards on transfer of securities in dematerialized mode 
+ 
+
+Section-2 - Issuer related  
+
+2.1  Charges to be paid by Issuers  
+2.2  Activation  of  International  Securities  Identification  Number  (ISIN)  in 
+
+case of IPO 
+
+2.3  Registrar and Transfer Agents 
+2.4  Mandatory admission of debt instruments on both the Depositories 
+2.5  American  Depository  Receipts  (ADRs)/Global  Depository  Receipts    
+
+ 
+
+(GDRs) 
+
+2.6  Electronic Clearing System (ECS) facility 
+
+2.6.1   Dividend Distribution 
+2.6.2   Refund in public/rights issues 
+ 
+
+ 
+
+2 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+Section-3 – Depositories/ Depository Participant (DP) Related  
+
+3.1  Limitation period for filing an arbitration reference 
+3.2  Designated e-mail ID for redressal of investor complaints 
+3.3  Approval of amendments to Bye Laws / Rules of Stock Exchanges and 
+
+Depositories 
+
+3.4  Preservation of Records 
+3.5  Foreign investments in infrastructure companies in securities markets 
+3.6  Activity schedule for depositories for T+2 rolling Settlement   
+3.7  Settlement of transactions in case of holidays 
+3.8  Supervision of branches of depository participants 
+3.9  Designated e-mail ID for regulatory communication with SEBI 
+3.10  Disclosure of investor complaints and arbitration details on Depository 
+
+website 
+
+website 
+
+ 
+
+3.11   Disclosure of regulatory orders and arbitration awards on  Depository 
+
+Section-4 – Other communications to Depositories  
+ 
+
+4.1.  Amendment in DP-BO Agreement  
+4.2.  Activity of Demat of warehouse receipts  
+4.3.  Pledge of Shares through depository system 
+4.4.  Transmission of shares 
+4.5.  SMS alerts for demat accounts operated by Power of Attorney 
+4.6.  Opening of demat account in case of HUF 
+4.7.  Exemption  from  sending  quarterly  statements  of  transactions  by 
+depository  participants  (DPs)  to  clients  in  respect  of  demat  accounts 
+with no transactions and no security balances 
+
+4.8.  Withdrawal by issuers from the depository 
+4.9.  Discontinuation   of  sending   transaction   statements   by   depository 
+
+participants to clients 
+
+4.10. Further  issue  of  shares  under  Section  86  of  Companies  Act  and 
+Companies  (Issue  of  Share  capital  with  Differential  Voting  Rights) 
+Rules, 2001 
+
+4.11.     Updation  of  bank  accounts  details, MICR code and IFSC of bank 
+
+branches by Depository Participants (DPs) 
+
+4.12.    Establishment  of  connectivity  by  Clearing  House  /  Clearing 
+
+Corporation (CH/CC) with the Depository – Clarification 
+
+4.13. Computing  and  monitoring  of  the  Aggregate  Value  of  Portfolio  of 
+Securities  (AVPS)  of  the  BOs  held  in  dematerialised  form  by  Stock 
+Broker DPs 
+
+ 
+
+3 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+SCHEDULE  
+
+4.14. Deadline time for accepting non pay-in related instructions 
+4.15. Clarification  on  our  circular  no.  SMDRP/Policy/Cir-28/99  dated 
+
+August 23, 1999 
+
+4.16. Voting rights in respect of securities held in pool account 
+4.17. Operation of minor’s demat account 
+
+ 
+
+4 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Section 1: Beneficial Owner (BO) Accounts  
+
+                 
+
+     1.1 Opening of BO Account by non body corporates 
+1.1.1  Proof of Identity (PoI)  
+
+1.1.1.1  With effect from July 02, 2007, PAN is the sole identification number 
+for  all  transactions  in  the  securities  market,  irrespective  of  the 
+amount  of  transaction1.  A  copy  of  the  PAN  card  with  photograph 
+may be accepted as Proof of Identity. In this regard, intermediaries  
+shall:- 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+1.1.1.2 
+
+I.  Put necessary systems in place so that the databases of the clients 
+
+and their transactions are linked to the PAN details of the client.  
+
+II.  Build  necessary  infrastructure  to  enable  accessibility  and  query 
+based on PAN thereby enabling retrieval of all the details of the 
+clients.  
+
+III. Collect copies of PAN cards issued to the existing as well as new 
+clients by the Income Tax Department and maintain the same in 
+their record after verifying with the original. 
+
+IV. Cross-check the aforesaid details collected from their clients with 
+
+the  details  on  the  website  of  the  Income  Tax  Department  i.e.    
+http://incometaxindiaefiling.gov.in/challan/enterpanforchallan.j
+sp2. 
+
+ 
+For  individuals  falling  under  the  category  exempted  from  the 
+mandatory requirement of PAN (Para 1.2), a copy of any one of the 
+following may be accepted as Proof  of Identity3 
+
+I. Passport 
+II. Voter ID Card 
+III. Driving license 
+IV. PAN card with photograph  
+ V.  Identity card/document with applicant’s Photo, issued by  
+
+a)   Central/State Government and its Departments, 
+b)   Statutory/Regulatory Authorities, 
+c)   Public Sector Undertakings,   
+
+                                                 
+1 Reference circular MRD/DoP/Cir-5/2007 dated April 27, 2007.  
+2 IT Department since changed the link for verification:   
+http://incometaxindiaefiling.gov.in/portal/knowpan.do      
+3 Reference Circular MRD/DoP/Dep/Cir-29/2004 dated August 24, 2004 and circular         
+
+SMDRP/POLICY/Cir-36 /2000 dated August 4, 2000.  
+
+ 
+
+5 
+
+ 
+
+ 
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+d)  Scheduled Commercial Banks,  
+e)  Public Financial Institutions, 
+f)  Colleges affiliated to Universities, 
+g)  Professional Bodies such as ICAI, ICWAI, ICSI, Bar Council 
+
+etc.,  to their Members; and  
+
+h.  Credit cards/Debit cards issued by Banks 
+
+ 
+1.1.2 Proof of Address (PoA)4         
+A  copy  of  any  one  of  the  following  documents  may  be  accepted  as  proof  of 
+address: 
+I. 
+II.  Passport 
+III.  Voter ID Card 
+IV.  Driving license 
+V.  Bank Passbook  
+VI.  Verified copies of  
+
+Ration Card 
+
+a)  Electricity bills (not more than 2 months old), 
+b) Residence Telephone bills (not more than 2 months old) and  
+
+      c) Lease and License agreement / Agreement for sale. 
+
+VII.  Self-declaration by High Court and Supreme Court judges, giving the 
+
+new address in respect of their own accounts. 
+
+VIII. Identity card/document with address, issued by  
+
+a)  Central/State Government and its Departments, 
+b)  Statutory/Regulatory Authorities, 
+c)  Public Sector Undertakings,  
+d)  Scheduled Commercial Banks,  
+e)  Public Financial Institutions, 
+f)  Colleges affiliated to universities; and 
+g)  Professional  Bodies  such  as  ICAI,  ICWAI,  Bar  Council  etc., 
+
+to their Members. 
+
+ 
+
+DP shall ensure that all documents pertaining to proof of identity and proof of 
+address are collected from all the account holders.5 Submission of the aforesaid 
+documents  is  the  minimum  requirement  for  opening  a  BO  Account.  DPs  must 
+verify  the  copy  of  the  aforementioned  documents  with  the  original  before 
+accepting the same as valid. While opening a BO Account, DPs shall exercise due 
+
+                                                 
+4 Reference Circular MRD/DoP/Dep/Cir-29/2004 dated August 24, 2004 and circular 
+SMDRP/POLICY/Cir-36 /2000 dated August 4, 2000. 
+5 Reference Circular MRD/DoP/Dep/Cir-09/06 dated July 20, 2006 
+
+ 
+
+6 
+
+ 
+
+ 
+
+ 
+
+1.2  Exemptions  from  and  clarifications  relating  to  mandatory 
+
+requirement of PAN 
+ 
+1.2.1  Mandatory requirement of Permanent Account Number (PAN) 8  
+ 
+The  demat  accounts  for  which  PAN  details  have  not  been  verified  are 
+“suspended  for  debit”  until  the  same  is  verified  with  the  Depository 
+Participant  (DP).  With  effect  from  August  16,  2010  such  PAN  non-
+compliant demat accounts were also "suspended for credit" other than the 
+credits  arising  out  of  automatic  corporate  actions.  It  was  clarified  that 
+other  credits  including  credits  from  IPO/FPO/Rights  issue,  off-market 
+transactions or any secondary market transactions would not be allowed 
+into such accounts. 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+diligence6 while establishing the identity of the person to ensure the safety and 
+integrity of the depository system. 
+ 
+1.1.3 Acceptance of third party address as correspondence address7 
+ 
+SEBI has no objection to a BO authorizing the capture of an address of a third 
+party  as  a  correspondence  address,  provided  that  the  Depository  Participant 
+(DP) ensures that all prescribed ‘Know Your Client’ norms are fulfilled for the 
+third party also. The DP shall obtain proof of identity and proof of address for 
+the third party. The DP shall also ensure that customer due diligence norms as 
+specified in Rule 9 of Prevention of Money Laundering Rules, 2005 are complied 
+with in respect of the third party. 
+ 
+The  depository  participant  should  further  ensure  that  the  statement  of 
+transactions and holding are sent to the BO’s permanent address at least once in 
+a year. 
+ 
+However,  the  above  provision  shall  not  apply  in  case  of  PMS  (Portfolio 
+Management Services) clients.  
+
+1.2.2  Central and State Government and officials appointed by Courts9 
+
+                                                 
+6 Reference point 5 of part II on ‘Customer Due Diligence’ of master circular no. ISD/AML/CIR-
+1/2008 dated December 19, 2008. 
+7 Reference circular CIR/MRD/DP/37/2010 dated December 14, 2010 
+8 Reference Circular MRD/DP/22/2010 dated July 29, 2010. 
+9 Reference Circular MRD/DoP/Cir-20/2008 dated June 30, 2008. 
+
+ 
+
+7 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+PAN card may not be insisted upon in case of transactions undertaken on 
+behalf  of  Central  Government  and/or  State  Government  and  where 
+transactions  are  conducted  by  officials  appointed  by  Courts  e.g.  Official 
+liquidator, Court receiver etc.10 
+ However DPs, before implementing the above exemption, shall verify the 
+veracity  of  the  claim  of  the  organizations  by  collecting  sufficient 
+documentary evidence in support of their claim for such an exemption. 
+
+1.2.3  Investors in Sikkim11 
+Investors residing in the state of Sikkim are exempted from the mandatory 
+requirement  of  furnishing  PAN  card  details  for  their  demat  accounts.12 
+DPs  shall  verify  the  veracity  of  the  claim  of  the  investors  that  they  are 
+residents  of  Sikkim,  by  collecting  sufficient  documentary  evidence  in 
+support of their address.13  
+
+ 
+
+ UN entities and multilateral agencies exempt from paying taxes/  
+ filling tax returns in India14 
+
+1.2.4 
+ 
+UN  entities/  multilateral  agencies  exempt  from  paying  taxes/filing  tax 
+returns  in  India  are  also  exempt  from  the  mandatory  requirement  of 
+submitting  their  PAN  card  details,  subject  to  the  DPs  collecting 
+documentary evidence in support of such claims. 
+ 
+1.2.5 
+
+ FIIs/Institutional Clients15 
+
+Custodians shall verify the PAN card details of institutional clients with the 
+original PAN card and provide duly certified copies of such verified PAN 
+details  to  the  brokers.  This  requirement  is  applicable  in  respect  of 
+institutional  clients,  namely,  FIIs,  MFs,  VCFs,  FVCIs,  Scheduled 
+Commercial  Banks,  Multilateral  and  Bilateral  Development  Financial 
+Institutions,  State 
+Insurance 
+Companies registered with IRDA and Public Financial Institution as defined 
+under section 4A of the Companies Act, 1956. 
+
+Industrial  Development  Corporations, 
+
+1.2.6  HUF,  Association  of  Persons 
+unregistered  
+etc.11    
+
+(AoP),  Partnership  Firm, 
+Trust,  Registered  Trust,  Corporate  Bodies,  minors, 
+
+                                                 
+10 Reference Rule 114C (1)(c) of Income Tax Rules. 
+11 Reference Circular MRD/DoP/Dep/Cir-09/06 dated July 20, 2006. 
+12 Reference Hon’ble High Court of Sikkim judgment dated March 31, 2006. 
+13 Reference Circular MRD/DoP/Dep/Cir-29/2004 dated August 24, 2004. 
+14 Reference Circular MRD/DoP/Dep/Cir-09/06 dated July 20, 2006. 
+15 Reference Circular MRD/DoP/Dep/SE/Cir-13/06 dated September 26, 2006. 
+
+ 
+
+8 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+The BO account shall be in the name of natural persons, PAN card details of 
+the respective HUF, AoP, Partnership Firm, Unregistered Trust, etc shall be 
+obtained.  The  PAN  number  of  Registered  Trust,  Corporate  Bodies  and 
+minors  shall  be  obtained  when  accounts  are  opened  in  their  respective 
+names. 
+
+1.2.7  Difference in maiden name and  current name of investors. 11    
+
+DPs  can  collect  the  PAN  card  proof  as  submitted  by  the  account  holder 
+subject to the DPs verifying the veracity of the claim of such investors by 
+collecting sufficient documentary evidence in support of the identity of the 
+investors.16   
+
+1.2.8  NRI/PIOs17 
+
+Citizens of India residing outside India, foreign citizens and other persons 
+(like companies/ trusts/ firms) having no office of their own in India may 
+obtain PAN card based on the copy of their passport as ID proof and a copy 
+of  passport/  bank  account  in  the  country  of  residence  as  address  proof, 
+based on the Directorate of Income Tax (Systems) guidelines.18  
+
+ 
+1.3   Fees/Charges to be paid by BO  
+ 
+
+1.3.1  Account opening, custody and credit of securities19 
+ 
+With effect from February 1, 2005 
+ 
+I. No investor shall pay any charge towards opening of a Beneficial Owner 
+
+(BO) Account except for statutory charges as applicable; 
+
+account; and 
+
+     II. No investor shall pay any charge for credit of securities into his/her BO     
+ 
+    III. No custody charge shall be levied on any investor who is opening a BO           
+ 
+ 
+
+ account. 
+
+1.3.2  Account Closure20 
+
+No Account closure charges shall be levied on BO on the closure of any 
+account.  
+
+                                                 
+16 Reference Circular MRD/DoP/Dep/Cir-29/2004 dated August 24, 2004. 
+17 Reference Circular MRD/DoP/Dep/SE/Cir-17/06 dated October 27, 2006. 
+18 Reference Income Tax (Systems) PAN Circular No. 4 dated October 11, 2006.  
+19Reference Circular MRD/DoP /SE/Dep/Cir-4/2005 dated January 28, 2005. 
+20 Reference Circular D&CC/FITTC/CIR - 12/2002 dated October 30, 2002. 
+
+ 
+
+9 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Inter Depository Transfer21 
+
+1.3.3 
+Inter-depository transfer of shares does not attract Stamp duty and it does 
+not require compliance with section 108 of the Companies Act 1956. 
+
+1.3.4  Transfer of a BO Account22 
+ 
+
+With effect from January 09, 2006   
+
+ 
+
+ 
+
+No charges shall be levied by a depository on any DP and by a DP on any 
+BO when the BO transfers all the securities lying in his account to another 
+branch  of  the  same  DP  or  to  another  DP  under  the  same  depository  or 
+another  depository,  provided  the  BO  Account(s)  at  transferee  DP  and  at 
+transferor DP are one and the same, i.e. identical in all respects. In case the 
+BO Account at transferor DP is a joint account, the BO Account at transferee 
+DP should also be a joint account in the same sequence of ownership. 
+ 
+
+1.3.5  Account Maintenance Charges collected upfront on annual/ half 
+
+yearly basis on demat accounts23 
+
+In  the  event  of  closing  of  the  demat  account  or  shifting  of  the  demat 
+account  from  one  DP  to  another,  the  AMC  collected  upfront  on 
+annual/half yearly basis by the DP, shall be refunded by the DP to the BO 
+for  the  balance  of  the  quarter/s.  For  instance,  in  case  annual  AMC  has 
+been  paid  by  the  BO  and  if  the  BO  closes/shifts  his  account  in  the  first 
+quarter,  he  shall  be  refunded  the  amount  of  the  balance  3  quarters  i.e. 
+3/4th of the AMC. Likewise, if a BO closes/shifts his account in the third 
+quarter, he shall be refunded the amount for the balance one quarter i.e. 
+1/4th of the AMC. 
+
+For  the  purpose  of  the  above  requirement  the  year  shall  begin  from  the 
+date of opening of the account in quarterly rests. 
+
+The  above  requirements  shall  be  applicable  to  all  existing  and  new 
+accounts held with DPs which collect annual/half yearly upfront AMC. It 
+is  clarified  that  the  above  requirements  shall  not  be  applicable  to  those 
+DPs who collect quarterly/ monthly AMC. 
+
+ 
+
+ 
+
+                                                 
+21 Reference Circular SMDRP/Policy/Cir-29/99 dated August 23, 1999. 
+22Reference Circular MRD/DoP/Dep/Cir-22 /05 dated November 9, 2005. 
+23Reference Circular MRD/DP/20/2010 dated July 1, 2010. 
+
+ 
+
+10 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+1.3.6  Dissemination of tariff/charge structure of DPs on the website of 
+
+ 
+
+depositories 24 
+
+DPs shall submit to their depository the tariff/charge structure every year, 
+latest  by  30th  April,  and  also  inform  the  depository  the  changes  in  their 
+tariff/charge  structure  as  and  when  they  are  effected  with  a  view  to 
+enabling  the  BOs  to  have  a  comparative  analysis  of  the  tariff/charge 
+structure of various DPs. 
+
+For  this  purpose  depositories  shall  put  in  place  necessary  systems  and 
+procedures including formats, periodicity, etc. for collection of necessary 
+data from the DPs and dissemination of the same on their website which 
+would  enable  the  investors  to  have  a  comparative  analysis  of  the 
+tariff/charge structure of various DPs. 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.4   Transfer  of  funds  and  securities  from  Clearing  Member  pool 
+
+account  to BO Account25 
+
+ 
+Clearing  members  shall  transfer  the  funds  and  securities  from  their  respective 
+Pool  account  to  the  respective  beneficiary  account  of  their  clients  within  1 
+working  day  after  the  pay-out  day.  The  securities  lying  in  the  pool  account 
+beyond the stipulated period shall attract a penalty at the rate of 6 basis point per 
+week on the value of securities. The penalty so collected by the depositories shall 
+be  credited  to  a  separate  account  with  the  depository  and  earmarked  for 
+defraying  the  expenses  in  connection  with  the  investors’  education  and 
+awareness programs conducted by the depository. 
+ 
+The  securities  lying  in  the  pool  account  beyond  the  above  period  shall  not  be 
+eligible  either  for  delivery  in  the  subsequent  settlement(s)  or  for  pledging  or 
+stock lending purpose, until the same are credited to the beneficiary accounts. 
+
+The securities lying in the Clearing member’s pool account beyond the specified 
+time  period  shall  be  identified  based  on  the  settlement  number.  The  clearing 
+corporation/houses  of  the  stock  exchanges  shall  provide  the  settlement-wise 
+details  of  securities  to  the  depositories  and  the  depositories  shall  maintain  the 
+settlement-wise records for the purpose. 
+                                                 
+24 Reference Circular MRD/Dep/Cir- 20/06 dated December 11, 2006. 
+25Reference  Circular  SMDRP/Policy/Cir-05/2001  dated  February  1,  2001  &  Circular 
+
+SEBI/MRD/Policy/AT/Cir-19/2004 dated April 21, 2004. 
+
+ 
+
+11 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+ 
+ 
+Further,  stock  exchanges  shall  execute  direct  delivery  of  securities  to  the 
+investors.  Clearing  corporation/clearing  house  (CC/CH)  shall  ascertain  from 
+each  clearing  member,  the  beneficial  account  details  of  their  respective  clients 
+due to receive pay out of securities. Based on this, the CC/CH shall send pay out 
+instructions  to  the  depositories  so  that  the  client  receives  pay  out  of  securities 
+directly  to  the  extent  of  instructions  received  from  the  respective  clearing 
+members.  To  the  extent  of  instruction  not  received,  the  securities  shall  be 
+credited to the CM pool account. 
+
+1.5  Printing  of  Grievances  Redressal  Mechanism  on  Delivery 
+
+Instruction Form Book 26  
+
+ 
+To  promote  investor  awareness  regarding  mechanism  for  redressing  investor 
+grievances,  the  information  placed  below  shall  be  printed  on  the  inside  back 
+cover  of  the  Delivery  Instruction  Form  (DIF)  Book  issued  by  all  Depository 
+Participants. 
+ 
+There  will  be  occasions  when  you  have  grievances  against  a  listed  company/  intermediary 
+registered with SEBI. In the event of such grievance you should first approach the concerned 
+company/  intermediary  against  whom  you  have  a  grievance.  However,  you  may  not  be 
+satisfied with their response. 
+Therefore you should know whom you should turn to get your grievance redressed. SEBI takes 
+up  grievances  related  to  issue  and  transfer  of  securities  and  non-payment  of  dividend  with 
+listed Companies. In addition, SEBI also takes up grievances against the various intermediaries 
+registered with it and related issues. Given below are types of grievances for which you could 
+approach SEBI. 
+
+Nature of grievance – Regarding 
+
+Type-I: Refund order/ Allotment 
+Advice  
+
+Type-II: Non-receipt of dividend. 
+
+Type-III:  Non-receipt  of  share 
+certificates after transfer 
+
+Type-IV: Debentures 
+
+Type-V:  Non-receipt  of  letter  of 
+offer for rights  
+
+Type VI: Collective Investment Schemes 
+
+                                                 
+26 Reference Circular No. SEBI/MRD/DOP/Cir-22/2004 dated July 14, 2004. 
+ 
+
+ 
+
+12 
+
+ 
+
+ 
+ 
+Type  VII:  Mutual 
+Funds/ 
+Venture  Capital  Funds/  Foreign 
+Venture 
+Investors/ 
+Foreign  Institutional  Investors/ 
+Portfolio Managers, Custodians 
+
+Capital 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Type  VIII:  Brokers/Debenture  Trustees  /Depository 
+Participants/  Merchant  Bankers  /Registrars  and  Transfer 
+Agents  /  Bankers  to  Issue/  Underwriters/  Credit  Rating 
+Agencies/ Securities lending Intermediaries 
+
+Type  IX:  Exchanges/  Clearing 
+and  Settlement  Organizations/ 
+Depositories 
+
+Type X: Derivative Trading 
+
+Type  XI:  Buyback  /Delisting  /Substantial  Acquisition  /Takeovers  /Corporate  Governance 
+/Corporate Restructuring /Compliance with Listing Conditions 
+
+For  faster  action  send  Type  I  to  Type  XI  complaints,  to  the  OIAE  Division  of  SEBI  at  Mumbai  or 
+Regional Offices at the following addresses: 
+
+Address of SEBI Offices 
+
+SEBI, Head Office, Plot No.C4-A, 'G' Block, Bandra Kurla Complex, Bandra (East), Mumbai - 
+400 051. (cid:31) 022-26449000 / 40459000 (iggc@sebi.gov.in) 
+
+of 
+
+Investor  Assistance 
+
+Office 
+Bhavan, 
+Plot No.C4-A, 'G' Block, Bandra Kurla Complex, Bandra (E), Mumbai 400 021 
+(cid:31)(cid:31)022-26449188 / 26449199 (investorcomplaints@sebi.gov.in) 
+
+Education, 
+
+SEBI 
+
+and 
+
+SEBI, Northern Regional Office, 5th Floor, Bank of Baroda Building,16, Sansad Marg, New 
+Delhi - 110 001(cid:31) 011- 23724001-05 (sebinro@sebi.gov.in) 
+
+SEBI, Eastern Regional Office, L&T Chambers, 3rd Floor, 16, Camac Street, Kolkata - 700 016  
+(cid:31)(cid:31)033-23023000. (sebiero@sebi.gov.in) 
+
+SEBI, Southern Regional Office, 3rd Floor, D Monte Bldg, No. 32, D' Monte Colony, TTK Road, 
+Alwarpet, Chennai 600 018 (cid:31) 044-24995676/5525/7385/7480 (sebisro@sebi.gov.in) 
+
+SEBI, Ahmedabad Regional, Office Unit No: 002, Ground Floor, SAKAR I, Near Gandhigram 
+Railway Station, Opp. Nehru Bridge Ashram Road, Ahmedabad -      380 009 Tel : 079-26583633-
+35   E-mail : sebiaro@sebi.gov.in 
+
+The following types of grievances should be taken up with: 
+
+With  the  Stock  Exchange:  At  the  Investor  Information  Centre  of  all  the  recognised  Stock 
+Exchanges 
+
+  Related 
+
+to 
+
+traded/listed  with 
+
+securities 
+the 
+
+(cid:31)    Trades  effected  on  the  exchange  w.r.t  the  companies 
+listed on it or by the members of exchange  
+
+ 
+
+13 
+
+ 
+
+ 
+ 
+
+exchanges  
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+With the Department Of Company Affairs (DCA/ concerned Registrar of Companies (ROC) 
+
+  Against 
+
+companies  
+
+unlisted 
+
+(cid:31)  Fixed deposit in manufacturing companies  
+(cid:31)  Forfeiture of shares    
+
+  For non-receipt of annual 
+report, AGM Notice             
+
+With the Reserve Bank of India 
+
+  Fixed deposits in Banks  
+
+(cid:31)  Fixed deposits in Non Banking Finance Companies  
+
+For more information visit our website - http\\:investor.sebi.gov.in 
+ 
+
+ 
+
+ 
+
+The following types of grievances should be taken up with: 
+With  the  Stock  Exchange:  At  the  Investor  Information  Centre  of  all  the  recognised  Stock 
+Exchanges 
+
+securities 
+the 
+
+(cid:31)    Trades  effected  on  the  exchange  w.r.t  the  companies 
+listed on it or by the members of exchange  
+
+  Related 
+
+to 
+
+traded/listed  with 
+exchanges  
+
+With the Department Of Company Affairs (DCA/ concerned Registrar of Companies (ROC) 
+(cid:31)  Fixed deposit in manufacturing companies  
+(cid:31)  Forfeiture of shares  
+
+  Against 
+
+companies  
+
+unlisted 
+
+  For non-receipt of annual 
+
+report, AGM Notice  
+With the Reserve Bank of India 
+
+  Fixed deposits in Banks  
+
+(cid:31)  Fixed deposits in Non Banking Finance Companies  
+
+For more information visit our website - http\\:investor.sebi.gov.in 
+
+ 
+ 
+1.6  Exemption  to  DPs  from  giving  hard  copies  of  transaction   
+
+statements to BOs 27 
+
+DPs are permitted to provide transaction statements and other documents to the 
+BOs under Digital signature, as governed under the Information Technology Act, 
+2000, subject to the DP entering into a legally enforceable arrangement with the 
+BO for the said purpose.  While such practice in the aforesaid manner shall be 
+deemed  to  be  in  compliance  of  the  provisions  of  the  Regulation  43  of  SEBI 
+
+                                                 
+27 Reference Circular MRD/DoP/Dep/Cir-27/2004 dated August 16, 2004. 
+
+ 
+
+14 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+(Depositories  &  Participants)  Regulations,  1996;  if  the  BO  is  still  desirous  of 
+receiving statements in hard copy, DPs shall be duty bound to provide the same. 
+ 
+ 
+1.7  Safeguards to address the concerns of the investors on transfer 
+
+ 
+
+of securities in dematerialized mode28  
+
+ 
+Following  safeguards  shall  be  put  in  place  to  address  the  concerns  of  the 
+investors arising out of transfer of securities from the BO Accounts:  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a.  The  depositories  shall  give  more  emphasis  on  investor  education 
+particularly with regard to careful preservation of Delivery Instruction 
+Slip  (DIS)  by  the  BOs.  The  Depositories  may  advise  the  BOs  not  to 
+leave “blank or signed” DIS with the Depository Participants (DPs) or 
+any other person/entity. 
+
+  
+b.  The DPs shall not accept pre-signed DIS with blank columns from the 
+
+BO(s). 
+
+c.  If the DIS booklet is lost / stolen / not traceable by the BO, then the BO 
+shall  immediately  intimate  the  DP  in  writing  about  the  loss.    On 
+receipt of such intimation, the DP shall cancel the unused DIS of the 
+said booklet. 
+
+ 
+d.  The DPs shall not issue more than 10 loose DIS to one accountholder in 
+a financial year (April to March). The loose DIS can be issued only if 
+the BO(s) come in person and sign the loose DIS in the presence of an 
+authorised DP official 
+
+e.  The DP shall also ensure that a new DIS booklet is issued only on the 
+strength of the DIS instruction request slip (contained in the previous 
+booklet)  duly  complete  in  all  respects,  unless  the  request  for  fresh 
+booklet is due to loss, etc., as referred to in clause (c) above 
+
+f.  The  DPs  shall  put  in  place  appropriate  checks  and  balances  with 
+regard  to  verification  of  signatures  of  the  BOs  while  processing  the 
+DIS.  
+
+                                                 
+28  Reference  Circular  SEBI/MRD/Dep/Cir-03/2007  dated  February  13,  2007  and  Circular 
+SEBI/MRD/Dep/Cir-03/2008 dated February 28, 2008. 
+
+ 
+
+15 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+g.  The  DPs  shall  cross  check  with 
+
+circumstances before acting upon the DIS. 
+
+the  BOs  under  exceptional 
+
+h.  The  DPs  shall  mandatorily  verify  with  a  BO  before  acting  upon  the 
+DIS, in case of an account which remained inactive i.e., where no debit 
+transaction  had  taken  place  for  a  continuous  period  of  6  months, 
+whenever  all  the  ISIN  balances  in  that  account  (irrespective  of  the 
+number of ISINs) are transferred at a time. However, in case of active 
+accounts,  such  verification  may  be  made  mandatory  only  if  the  BO 
+account has 5 or more ISINs and all such ISIN balances are transferred 
+at a time. The authorized official of the DP verifying such transactions 
+with the BO, shall record the details of the process, date, time, etc., of 
+the verification on the instruction slip under his signature. 
+
+16 
+
+ 
+
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+SECTION 2: ISSUER RELATED   
+
+ 
+2.1  Charges paid by Issuers 29,30 
+ 
+With  effect  from  April  27,  2011  depositories  may  levy  and  collect  the  charges 
+towards  custody  from  the  issuers,  on  the  basis  of  average  no.  of  folios    (ISIN 
+position)  during the previous  financial year, as per the details given below: 
+
+Issuers to pay @ Rs.8.00 (*) per folio (ISIN position) in the respective depositories, 
+subject to a minimum as mentioned below: 
+ 
+ 
+
+ 
+
+Nominal 
+securities  (Rs.)  
+
+value 
+
+of 
+
+admitted 
+
+Upto 5 crore 
+Above 5 crore and upto 10 crore 
+Above 10 crore and upto 20 crore 
+Above 20 crore 
+
+Custodial 
+
+Annual 
+Fee 
+payable  by  a  Issuer  to  each 
+Depository (Rs.)  (*) 
+
+  6,000 
+15,000 
+30,000 
+50,000 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+* Plus service tax as applicable 
+The  average  no.  of  folios  (ISIN  positions)  for  an  Issuer  may  be  arrived  at  by 
+dividing  the  total  number  of  folios  for  the  entire  financial  year  by  the  total 
+number of working days in the said financial year. 
+ 
+If the issuer fails to make the payment, Depositories may charge penal interest 
+subject to a maximum of 12% per annum.  
+ 
+ 
+2.2  Activation of ISIN in case of IPO31  
+Depositories  shall  activate  the  ISINs  only  on  the  date  of  commencement  of 
+trading on the stock exchanges.   
+ 
+2.3  Registrar and Share Transfer Agent 
+ 
+                                                 
+29  Reference  Circular  MRD/DoP/SE/Dep/Cir-2/2009  dated  February  10,  2009  and  Circular 
+
+SEBI/MRD/SE/DEP/Cir-4/2005 dated January 28, 2005.  
+30 Reference Circular CIR/MRD/ DP/05/2011 dated April 27, 2011. 
+31 Reference Circular SEBI/MRD/DEP/Cir-2/06 dated January 19, 2006. 
+
+ 
+
+17 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+2.3.1  Appointment of a single agency for share registry work32 
+All work related to share registry pertaining in terms of both physical and 
+electronic shares shall be maintained at a single point i.e. either in-house 
+by the company or by a SEBI registered Registrar and Transfer Agent.  
+
+2.3.2  Inter-Depository transfers33 
+In  case  of  inter-Depository  transfers  of  securities,  the  Registrars  shall 
+communicate the confirmation of such transfers within two hours, failing 
+which  such  transfers  shall  be  deemed  to  have  been  confirmed.  The 
+Registrars shall not reject inter-Depository transfers except where 
+
+a. A Depository does not have adequate balance of securities in its account 
+or  
+b. There is mismatch of transfer requests from the Depositories. 
+
+2.3.3 Common Registrars and Share Transfer agents34  
+Every company shall appoint the same Registrars and Share Transfer agents 
+for both the depositories.  
+
+2.3.4  Dematerialisation requests29, 66,  
+Registrars and Share Transfer agents shall accept partial dematerialisation 
+requests  and  will  not  reject  or  return  the  entire  dematerialization  request 
+where only a part of the request had to be rejected. In cases where a DP has 
+already  sent  information  about  dematerialisation  electronically  to  a 
+Registrar  but  physical  shares  have  not  yet  been  delivered,  the  Registrar 
+shall  accept  the  demat  request  and  carry  out  dematerialization  on  an 
+indemnity given by the DP and proof of dispatch of document given by DP.  
+ 
+
+2.4  Mandatory  admission  of  debt  instruments  on  both  the 
+
+Depositories35 
+
+ 
+
+ 
+Debt instruments shall necessarily be admitted on both the Depositories.  
+
+2.5  American  Depository  Receipts  (ADRs)/Global  Depository 
+
+Receipts (GDRs) 
+                                                 
+32 Reference Circular D&CC/FITTC/Cir-15/2002 dated December 27, 2002. 
+33 Reference Circular no. SMDRP/Policy/Cir-28/99 dated August 23, 1999. 
+34 Reference Circular SMDRP/Policy/Cir-28/99 dated August 23, 1999. 
+35  Reference  Circular  D&CC/FITTC/Cir-13/2002  dated  November  1,  2002  and  Circular 
+
+MRD/DoP/SE/Dep/Cir-36/04 dated October 27, 2004. 
+
+ 
+
+18 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+2.5.1  Delivery of underlying shares of GDRs/ADRs in dematerialised 
+form36 
+Underlying  shares  of  GDRs/ADRs  shall  be  compulsorily  delivered  in 
+dematerialised  form.  Pursuant  to  RBI  directions  in  this  regard,  a  non-
+resident holder of ADRs/GDRs issued by a company registered in India, on 
+surrender  of  such  ADRs/GDRs,  can  acquire  the  underlying  shares  when 
+such shares are released by the Indian Custodian of the ADR/GDR issue. 
+Further, the company whose shares are so released, or a Depository shall 
+enter  in  the  register  or  books,  wherein  such  securities  are  registered  or 
+inscribed, an address outside India of the non-resident holder of shares.  
+ 
+
+2.5.2  Tracking of underlying shares of  GDRs/ADRs37 
+To ensure easy tracking of the underlying shares released on conversion of 
+the “depositories receipts” all such shares shall be credited to a separate 
+Depository  Receipts  (DRs)  account  of  the  respective  investor.  In  this 
+regard,  Depositories  shall  ensure  that  the  following  information  is 
+provided  to  the  domestic  custodian  holding  the  underlying  shares  on  a 
+regular basis: 
+
+1.  Total number of shares at the beginning of the month 
+2.  Number of shares transferred into the account (credited) during 
+
+the month 
+
+3.  Number  of  shares  transferred  out  of  the  account  (debited) 
+
+during the month. 
+
+4.  Balance at the end of the month. 
+ 
+
+ 
+
+ 
+ 
+ 
+
+This  service  can  be  availed  of  only  by  foreign  investors  other  than  the 
+OCBs. 
+
+ 
+2.6  Electronic Clearing System (ECS) facility 
+ 
+
+2.6.1   Dividend Distribution 38 
+Companies  shall  use  ECS  facility  for  distribution  of  dividends  and  other 
+cash benefits to the investors. If ECS facility is not available, companies may 
+use  warrants  for  distribution  of  dividends.  In  order  to  avoid  fraudulent 
+
+                                                 
+36 Reference Circular SMDRP/Policy/Cir-9/99 dated May 6, 1999. 
+37  Reference  Circular  D&CC/FITTC/Cir-09/2002  dated 
+
+D&CC/FITTC/Cir-10/2002 dated September 25, 2002. 
+
+July  4,  2002  and  Circular 
+
+38  Reference  Circular  D&CC/FITTCIR-3/2001  dated  October  15,  2001  and  Circular 
+
+D&CC/FITTC/Cir- 04/2001 dated November 13, 2001. 
+
+ 
+
+19 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+encashment of dividend and other cash benefits, all companies shall print 
+the  bank  account  details,  furnished  by  the  Depositories,  on  the  payment 
+instruments.  
+
+2.6.2   Use of ECS for refund in public/rights issues.39&61 
+For locations where facility of refund through ECS is available details of 
+applicants shall be taken directly from the database of the depositories in 
+respect  of  issues  made  completely  in  dematerialised  form.  Accordingly, 
+DPs shall maintain and update on real time basis the MICR (Magnetic Ink 
+Character Recognition) code of Bank branch of BOs and other bank details 
+of the applicants in the database of depositories.  This is to ensure that the 
+refunds through ECS are made in a smooth manner and that there are no 
+failed/wrong credits. 
+
+                                                 
+39  Reference  Circular  SEBI/MRD/DEP/Cir-3/06  dated  February  21,  2006  and  circular 
+no. 
+
+February 
+
+Letter 
+
+and 
+
+1, 
+
+2008 
+
+SEBI/CFD/DILDIP/29/2008/01/02 
+MRD/DEP/PP/123624/08 dated April 23, 2008. 
+20 
+
+dated 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+SECTION-3: DEPOSITORIES/ DEPOSITORY PARTICIPANT (DP) 
+
+RELATED  
+
+ 
+3.1  Limitation period for filing an arbitration reference40 
+ 
+The limitation period for filing an arbitration reference shall be governed by the 
+law of limitation, i.e., The Limitation Act, 1963. The modified limitation period 
+shall also be applicable to cover inter alia the following cases:  
+ 
+
+i. where the limitation period (in terms of Limitation Act 1963) have not 
+yet  elapsed  and  the  parties  have  not  filed  for  arbitration  with  the 
+depository,  
+or,  
+
+ii. where the arbitration application was filed but was rejected solely on 
+the ground of delay in filing within the earlier limitation period; and the 
+limitation period (in terms of Limitation Act 1963) have not yet elapsed. 
+ 
+
+ 
+3.2  Designated e-mail ID for redressal of investor complaints 41 
+
+Depositories  and  registered  DPs  shall  designate  an  exclusive  e-mail  ID  for  the 
+grievance  redressal  division/compliance  officer  exclusively  for  registering 
+investor complaints. 
+ 
+The  designated  email  ID  and  other  relevant  details  shall  be  prominently 
+displayed 
+various 
+materials/pamphlets/advertisement  campaigns  initiated  by  the  Depositories 
+and DPs for creating investor awareness. 
+ 
+3.3  Approval of amendments to Bye Laws / Rules of Stock Exchanges 
+
+websites 
+
+and 
+
+in 
+
+the 
+
+on 
+
+the 
+
+and Depositories42  
+
+ 
+
+ 
+
+Depositories  and  exchanges  shall  submit  the  following  information  while 
+seeking  SEBI  approval  for  amendment  to  Bye  Laws/  Rules/  Regulations  and 
+amendments thereto: 
+                                                 
+40 Reference Circular no.CIR/MRD/DP/4/2011 dated April 7, 2011 
+41 Reference Circular MRD/DoP/Dep/SE/Cir-22/06 dated December 18, 2006. 
+42 Reference Circular LGL/Cir-2/2003 dated February 19, 2003. 
+
+ 
+
+21 
+
+ 
+
+ 
+ 
+  
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+i  The objective/purpose of amendments. 
+ii 
+
+ Whether  the  amendment  is  consequential  to  any  directive/circulars/ 
+guidelines from SEBI/ Government and the details thereof. 
+
+iii  Whether such amendments necessitate any consequential amendments 
+
+to any other Bye Laws/ Rules/ Regulations. 
+
+iv  The proceedings of the Governing Board or Governing Council, as the 
+case  may  be,  wherein  these  proposed  amendments  were  approved  by 
+the Exchanges/ Depositories. 
+
+v  If  documents  other  than  Bye  Laws/  Rules/  Regulations  are  sent  for 
+approval,  the  justification  and  need  for  forwarding  the  same  to  SEBI, 
+indicating whether it forms a part of any Bye Law/ Rule/ Regulation. 
+
+ 
+Further,  all  Exchanges  shall  ensure  that  requests  for  dispensation  of  the 
+requirement  of  pre-publication  shall  be  accompanied  with  proper  justification 
+and indicate how the public interest or interest of trade shall be served by such 
+dispensation of pre-publication.  
+ 
+3.4  Preservation of Records43 
+ 
+i.  Depositories and Depository Participants are required to preserve the records 
+
+and documents for a minimum period of 5 year. 
+
+ii.  Depositories  and  DPs  shall  preserve  respective  original  forms  of  documents 
+either in physical form or an electronic record, copies of which have been taken 
+by  CBI,  Police  or  any  other  enforcement  agency  during  the  course  of  their 
+investigation till the trial is completed.   
+
+3.5  Foreign  investments  in  infrastructure  companies  in  securities 
+
+ 
+
+markets44  
+
+ 
+Pursuant  to  Government  of  India  Policy,  foreign  investments  in  infrastructure 
+companies in the securities markets, namely Stock Exchanges, Depositories and 
+Clearing Corporations shall be as under: 
+  
+
+                                                 
+43Reference  Circular  SEBI/MRD/DEP/Cir-24/05  dated  December  22,  2005, 
+
+circular 
+SEBI/MRD/SE/Cir-16/2005  dated  August  04,  2005  and  circular  MRD/DoP/DEP/Cir-  20 
+/2009 dated December 9, 2009. 
+
+44 Reference Circular MRD/DSA/SE/Dep/Cust/Cir-23/06 dated December 22, 2006. 
+
+ 
+
+22 
+
+ 
+
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+a)     Foreign  investment  shall  be  allowed  in  such  companies  up  to  49% 
+with  a  separate  Foreign  Direct  Investment  (FDI)  cap  of  26%  and 
+Foreign Institutional Investment (FII) cap of 23%; 
+
+b)    FDI shall be allowed with specific prior approval of FIPB; 
+c)    FII shall be allowed only through purchases in the secondary market; 
+d)    FII  shall  not  seek  and  will  not  get  representation  on  the  Board  of 
+
+Directors; 
+
+e)    No  foreign  investor,  including  persons  acting  in  concert,  will  hold 
+
+more than 5% of the equity in these companies. 
+
+ 
+The  aforesaid  limits  for  foreign  investment  in  respect  of  recognised  Stock 
+Exchanges  shall  be  subject  to  5%  shareholding  limit  as  prescribed  under  the 
+Securities Contracts (Regulation) (Manner of Increasing and Maintaining Public 
+Shareholding in Recognised Stock Exchanges) Regulations, 2006. 
+
+3.6  Activity schedule for depositories for T+2 rolling Settlement45 
+ 
+The activity schedule for T+2 Rolling Settlement is as under: 
+ 
+
+Day  Time 
+
+Description of activity 
+
+ 
+
+Sr. 
+No. 
+1 
+
+T 
+
+  
+By 1.00 pm 
+
+2 
+
+T+1 
+
+By 2.30 pm 
+
+Trade Day 
+Completion  of  custodial  confirmation  of 
+trades  to  CC/CH.  (There  is  no  separate 
+extended time limit for late confirmations).  
+Completion  of  process  and  download 
+obligation files to brokers/ custodians by the 
+CC/CH. 
+
+3 
+
+T+2  By 11.00 am  Pay-in of securities and funds.  
+Pay-out of securities and funds.  
+
+By 1.30 pm 
+
+ 
+All  Depositories  shall  adhere  to  the  aforementioned  activity  schedule  to 
+implement T+2 rolling settlement. DPs shall adhere to the designated activities 
+within the prescribed time limits as under:  
+ 
+
+1.  DPs shall accept instructions for pay-in of securities from clients in the 
+physical form atleast upto 4 p.m. and in electronic form atleast upto 6 
+
+                                                 
+45Reference  Circular  DCC/FITTC/Cir-19/2003  dated  March  4,  2003  and  Circular 
+
+MRD/DoP/SE/Dep/Cir-18/2005 dated September 2, 2005. 
+
+ 
+
+23 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+p.m. on T+1. 
+
+m. on T+2. 
+
+2.  DPs  shall  complete  execution  of  pay-in  instructions  latest  by  10:30  a. 
+
+3.  Depositories shall download the processed pay-in files to the Exchange 
+
+/ Clearing House / Clearing Corporation latest by 11:00 a.m. on T+2. 
+
+4.  Pay-out  of  securities  by  the  Exchange  /  Clearing  House  /  Clearing 
+Corporation to the Depositories shall be executed by 1:30 p.m. on T+2. 
+5.  Pay-out  of  securities  shall  be  completed  by  the  Depositories  by  2:00 
+
+p.m. on T+2. 
+
+ 
+All instructions received by the DPs shall have an execution date, which may be 
+either a current date or a future date. Instructions shall be valid till the pay-in 
+deadline or till 'end of day' (EOD) of the execution date, whichever is earlier. DPs 
+shall ensure that the validity period of instructions is brought to the notice of the 
+client while accepting the instructions. In case the client account does not have 
+sufficient balance before pay-in deadline or till EOD, such instructions shall fail. 
+ 
+3.7  Settlement of transactions in case of holidays46  
+ 
+Due  to  lack  of  uniformity  of  holidays  and  force  majeure  conditions  which 
+necessitate  sudden  closure  of  one  or  more  Stock  Exchanges  and  banks  in  a 
+particular  state,  result  in  situations  where  multiple  settlements  have  to  be 
+completed  by  the  Stock  Exchanges  on  the  working  day  immediately  following 
+the  day(s)  of 
+the  Stock 
+Exchanges/Depositories are advised to follow the guidelines and adhere to the 
+time line. 
+  The Stock Exchanges shall clear and settle the trades on a sequential basis i.e., 
+the pay-in and the pay-out of the first settlement shall be completed before the 
+commencement of the pay-in and pay-out of the subsequent settlement/s. 
+
+the  banks.  Accordingly 
+
+closure  of 
+
+the 
+
+  The cash/Securities pay out from the first settlement shall be made available to 
+the member for meeting his pay-in obligations for the subsequent settlement/s.  
+  Further, in-order to meet his pay-in obligations for the subsequent settlement, 
+the member may need to move securities from one depository to another. The 
+Depositories shall, therefore, facilitate the inter-depository transfers within one 
+hour and before pay-in for the subsequent settlement begins.  
+
+  The Stock Exchanges/Depositories shall follow a strict time schedule to ensure 
+
+that the settlements are completed on the same day.  
+
+  The  Clearing  Corporation/Clearing  House  of  the  Stock  Exchanges  shall 
+
+                                                 
+46 Reference  Circular SEBI/MRD/Policy/AT/Cir- 19/2004 dated April 21, 2004 
+
+ 
+
+24 
+
+ 
+
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+execute  Auto  DO  facility  for  all  the  settlements  together,  so  as  to  make  the 
+funds and the securities available with the member on the same day for all the 
+settlements,  thereby  enabling  the  availability  of  the  funds/securities  at  the 
+client level by the end of the same day. 
+
+ 
+3.8  Supervision of branches of DPs47 
+
+ 
+
+To  ensure  compliance  with  Regulation  46  of  the  SEBI  (Depositories  and 
+Participants)  Regulations,  1996,  and  Clause  19  of  the  Code  of  Conduct  for 
+Participants  contained  in  the  Third  Schedule  to  the  Regulations  the  DP  shall 
+ensure  that  it  has  satisfactory  internal  control  procedure  in  place,  inclusive  of 
+their  branch  offices.  DPs  are  therefore  required  in  terms  of  these  provisions  to 
+put in place appropriate mechanisms to ensure that their branches are carrying 
+on  the  operations  in  compliance  with  the  applicable  regulations,  bye-laws,  etc. 
+DPs are also required to put in place suitable internal control systems to ensure 
+that  all  branches  exercise  due  diligence  in  opening  accounts,  complying  with 
+KYC  requirements,  in  ensuring  systems  safety  in  complying  with  client 
+instructions, manner of uploading client instructions, in verifying signatures and 
+maintaining  client  records,  etc.  DPs  shall  also  ensure  that  the  branches  are 
+suitably integrated.  
+
+ 
+
+Depositories shall examine the adequacy of the above mechanisms during their 
+inspections  of  DPs.  The  Depositories  shall  also  carry  out  surprise  inspections/ 
+checks  of  the  DP  branches  apart  from  the  regular  inspection  of  the  DPs. 
+Depositories  shall  also  put  in  place  appropriate  mechanisms  for  monitoring 
+opening of branches by DPs.  
+ 
+3.9  Designated e-mail ID for regulatory communication with SEBI48  
+Depositories  shall  create  a  designated  e-mail  id  for  regulatory  communication 
+and inform it to SEBI. This e-mail id shall be exclusive and shall not be person-
+centric. 
+ 
+3.10  Disclosure of investor complaints and arbitration details on 
+
+ 
+
+Depository website 49  
+
+Depositories  shall  disclose  the  details  of  complaints  lodged  by  Beneficiary 
+Owners (BO’s)/ investors against Depository Participants (DPs) in their website. 
+                                                 
+47 Reference Circular MIRSD/DPS-III/Cir-9/07 dated July 3, 2007. 
+48 Reference Circular MIRSD/DPS- III/Cir-23/08 dated July 25, 2008. 
+49 Reference Circular SEBI/MRD/ OIAE/ Dep/ Cir- 4/2010 dated January 29, 2010. 
+
+ 
+
+25 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+The aforesaid disclosure shall also include details pertaining to arbitration and 
+penal action against the DPs. 
+The format for the reports for the aforesaid disclosure consists of the following 
+reports: 
+
+a.  Report 1A: Complaints received against DPs during 2009-10 
+b.  Report 1B: Redressal of Complaints received against DPS during 2008-09 
+c.  Report 1C: Redressal of Complaints received against DPs during 2009-10 
+d.  Report 2A: Details of Arbitration Proceedings (where Investor is a party) 
+
+during 2008-09:  
+
+during 2009-10 
+
+e.  Report 2B: Details of Arbitration Proceedings (where Investor is a party) 
+
+f.  Report 3A: Penal Actions against DPs during 2008-09 
+g.  Report 3B: Penal Actions against DPs during 2009-10 
+h.  Report  4A:  Redressal  of  Complaints  lodged  by  investors  against  Listed 
+
+i.  Report  4B:    Redressal  of  Complaints  lodged  by  investors  against  Listed 
+
+Companies during 2008 -09 
+
+Companies during 2009 -10 
+
+ 
+
+26 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+Report 1A: Complaints received against Depository Participants (DPs)# during 2009-10: Updated on mmm dd yyyy 
+(to be updated weekly) (In excel sheet) 
+ 
+Sl. 
+No. 
+
+Status of Complaint 
+
+Name of  DP 
+
+SEBI Ref. 
+
+Status** 
+
+Name of 
+
+ 
+
+Date of 
+
+Date of 
+Receipt 
+
+Name of 
+
+Details of Complaint 
+Type of 
+Complaint*
+
+Complainant  
+
+Status 
+Date## 
+
+ 
+
+No. (if 
+
+applicable  
+
+Arbitrator(s) 
+
+Arbitration 
+
+Award 
+
+1 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Date of 
+Filing 
+
+Arbitration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+# including against its authorized persons, employees, etc. 
+## Status date is the date of resolution/reference to arbitration/finding it non-actionable. If under process, it is the date of updation 
+of this sheet.  
+*/** As per Table 1A 
+
+ 
+
+27 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+ 
+Report  1B:    Redressal  of  Complaints  received  against  Depository  Participants  (DPs)  during  2008-09:  Updated  on 
+mmm dd yyyy (to be updated every quarter) (In excel sheet) 
+ 
+Sl. 
+No. 
+
+Of the Complaints received during 2008-09 
+
+No. of 
+Complai
+
+No. of 
+BOs 
+
+Status of DP 
+
+Name 
+
+(active/ 
+
+inactive/ in 
+process of 
+termination 
+/withdrawal) 
+
+accounts  
+
+at the 
+
+beginning 
+
+of the 
+year 
+
+nts 
+
+received 
+against 
+the DP 
+
+* 
+
+Resolved 
+through 
+
+the 
+
+Depository 
+
+Non 
+actiona
+ble** 
+
+Arbitrat
+
+ion 
+Advise
+
+d 
+ 
+
+Pending 
+
+No. of Complaints 
+No. of 
+Arbitrati
+on filed 
+by BOs 
+
+with 
+
+for 
+
+redressal 
+
+Depository 
+
+Decide
+d by 
+the 
+
+Arbitrat
+
+ors 
+
+ 
+
+ 
+
+of 
+the 
+DP 
+
+Decided 
+
+Pending 
+
+for 
+
+Arbitrator
+
+Redressal 
+
+by 
+
+s in 
+
+favour of 
+the BOs 
+
+with 
+
+Arbitrators 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+*including against its authorized persons, employees, etc. 
+**Non actionable means the complaint that are incomplete / outside the scope of Depository 
+(Arrange the DPs in descending number of complaints filed against them during the period)  
+
+Total 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+29 
+
+ 
+
+1 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+Report 1C:  Redressal of Complaints received against Depository Participants (DPs) during 2009-10: Updated on mmm dd yyyy 
+(to be updated every quarter) (In excel sheet) 
+ 
+Sl. 
+No
+. 
+ 
+
+Of the Complaints received during 2008-09 
+
+No. of 
+Complai
+
+No. of 
+BOs 
+
+Status of DP 
+
+of 
+the 
+DP 
+
+(active/ 
+
+Decided 
+
+Pending 
+
+Resolved 
+through 
+
+Name 
+
+nts 
+
+for 
+
+inactive/ in 
+process of 
+termination 
+/withdrawal) 
+
+accounts 
+
+at the 
+beginnin
+g of the 
+
+year 
+
+received 
+against 
+the DP *
+
+the 
+
+Depository 
+
+Non 
+actiona
+ble** 
+
+Arbitrat
+
+ion 
+Advise
+
+d 
+ 
+
+Pending 
+
+No. of Complaints
+No. of 
+Arbitrati
+on filed 
+by BOs 
+
+with 
+
+for 
+
+redressal 
+
+Depository 
+
+Decide
+d by 
+the 
+
+Arbitrat
+
+ors 
+
+Arbitrator
+
+Redressal 
+
+with 
+
+Arbitrators 
+
+by 
+
+s in 
+
+favour of 
+the BOs
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+*including against authorized persons, employees, etc. 
+**Non actionable means the complaint that are incomplete / outside the scope of Depository  
+(Arrange the DPs in descending number of complaints filed against them during the period)  
+
+ 
+
+- 30 -
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+Report 2A: Details of Arbitration Proceedings (where BO is a party) during 2008-09: Updated on mmm dd yyyy (to be updated 
+every quarter) (In excel sheet) 
+ 
+
+Sl. 
+No. 
+
+Name of 
+Arbitrator 
+
+No. of 
+Awards 
+Passed  
+
+No. of Awards in favor 
+
+of BOs 
+
+Filed by  
+
+DP 
+
+Filed by 
+
+BO 
+
+No. of 
+Awards 
+appealed 
+
+ 
+
+No. of 
+Awards 
+
+Implemented
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+1 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N 
+Total 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+- 31 -
+
+No. of cases pending for redressal  at the end of 
+
+period 
+
+Pending 
+
+For more than 
+
+6 months 
+
+For more than 3 
+
+months, but 
+less than 6 
+
+months 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+ 
+(In case of panel of arbitrators, the cases / awards would appear against every member of the panel) 
+(Arrange the arbitrators in descending number of awards passed by them during the period) 
+Report 2B: Details of Arbitration Proceedings (where BO is a party) during 2009-10: Updated on mmm dd yyyy (to be updated 
+every quarter) (In excel sheet) 
+ 
+
+Sl. 
+No. 
+
+Name of 
+Arbitrator 
+
+No. of 
+Awards 
+Passed  
+
+No. of Awards 
+in favor of BOs 
+
+Filed 
+by  DP 
+
+Filed 
+by BO 
+
+No. of 
+Awards 
+appealed
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+1 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N 
+Total 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+No. of Awards 
+Implemented 
+
+No. of cases pending for redressal  at the end of period 
+
+Pending 
+
+For more than 6 
+
+months 
+
+For more than 3 
+
+months, but less than 
+
+6 months 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+- 32 -
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+(In case of panel of arbitrators, the cases / awards would appear against every member of the panel) 
+(Arrange the arbitrators in descending number of awards passed by them during the period) 
+
+ 
+
+- 33 -
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+Report 3A: Penal Actions against Depository Participants (DPs) during 2008-09: Updated on mmm dd yyyy (to be updated every 
+quarter) (in excel sheet) 
+ 
+
+Sl. 
+No. 
+
+Name of 
+
+DP 
+
+Registration 
+
+No. 
+
+No. of Complaints 
+
+received 
+
+Action against DP, its authorized person and employees together 
+
+No. of Penal Orders issued 
+
+Monetary Penalties levied 
+
+(Rs. lakh) 
+
+No. of Arbitration Awards 
+
+issued against DP 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+For complaints 
+
+For others 
+
+For complaints 
+
+For 
+
+others 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+- 34 -
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N 
+ 
+ 
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+Report 3B: Penal Actions against Depository Participants (DPs) during 2009-10: Updated on mmm dd yyyy (to be updated every 
+quarter) (in excel sheet) 
+ 
+
+Sl. 
+No. 
+
+Name of 
+
+DP 
+
+Registration 
+
+No. 
+
+No. of Complaints 
+
+received 
+
+Action against DP, its authorized person and employees together 
+
+No. of Penal Orders issued 
+
+Monetary Penalties levied 
+
+(Rs. lakh) 
+
+No. of Arbitration Awards 
+
+issued against DP 
+
+For complaints 
+
+For others 
+
+For complaints 
+
+For 
+
+others 
+
+1 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 35 -
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+ 
+Report 4A: Redressal of Complaints lodged by investors against Listed Companies during 2008 -09: Updated on mmm dd yyyy 
+(to be updated every quarter) (In excel format) 
+ 
+Sl. No.  Name of the Company 
+
+No. of Complaints 
+
+Received 
+
+Redressed through 
+
+Depository 
+
+Non-Actionable* Pending for  Redressal with Depository
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+- 36 -
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+N 
+Total 
+*Non actionable means the complaint that are incomplete / outside the scope of Depository 
+(Arrange the companies in descending number of complaints filed against them during the period) 
+ 
+ 
+Report 4B:  Redressal of Complaints lodged by investors against Listed Companies during 2009 -10: Updated on mmm dd yyyy 
+(to be updated every quarter) (In excel format) 
+ 
+Sl. No.  Name of the Company 
+
+No. of Complaints 
+
+ 
+ 
+
+ 
+ 
+
+Received 
+
+Redressed through 
+
+Depository 
+
+Non-Actionable* Pending for  Redressal with Depository
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+2 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+- 37 -
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+N 
+Total 
+ 
+*Non actionable means the complaints that are incomplete / outside the scope of Depository 
+(Arrange the companies in descending number of complaints filed against them during the period)
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+- 38 -
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Table 1 A 
+
+Details 
+
+Type 
+Type I  Account Opening Related 
+Denial in opening an account 
+Account opened in another name than as requested  
+Non receipt of Account Opening Kit 
+Delay in activation/ opening of account 
+Non Receipt of copy of DP Client Agreement/Schedule A of Charges 
+ 
+
+I a  
+I b 
+I c 
+I d 
+I e 
+
+ 
+
+Type II  Demat/Remat Related
+
+Delay in Dematerialisation request processing 
+Delay in Rematerialisation request processing 
+Delay in/ Non-Receipt of Original certificate after demat rejection 
+Non Acceptance of demat/remat request 
+ 
+
+Type III  Transaction Statement Related  
+
+Delay in/ Non-Receipt of Statements from DP 
+Discrepancy in Transaction statement 
+ 
+
+Type IV  Improper Service Related  
+
+Insistence on Power of Attorney in its favour 
+Deactivation/ Freezing/ Suspension related 
+Defreezing related 
+Transmission Related 
+Pledge Related 
+SMS Related 
+Non-updation  of  changes  in  account  (address/  signatories/bank 
+details/ PAN/ Nomination etc.) 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+II a  
+II b 
+II c 
+II d 
+
+III a 
+III b 
+
+IV a 
+IV b 
+IV c 
+IV d 
+IV e 
+IV f 
+IV g 
+
+ 
+
+ 
+
+V a 
+V b 
+V c 
+
+VI a 
+VI b 
+VI c 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Type V  Charges Related  
+
+Wrong/ Excess Charges
+Charges paid but not credited 
+Charges for Opening/closure of Account
+ 
+
+Type VI  Delivery Instruction Related  (DIS ) 
+
+Non acceptance of DIS for transfer  
+Delay in/ non Execution of DIS 
+Delay in Issuance / Reissuance of DIS Booklet 
+ 
+ 
+
+Type VII  Closure 
+
+Non closure/ delay in closure of account  
+Closure of a/c without intimation by DP 
+ 
+
+Type VIII  Manipulation/ Unauthorised Action
+
+VII a 
+VII b 
+
+VIII a 
+
+Unauthorised Transaction in account 
+
+- 39 -
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+VIII b  
+VIII c  
+
+ 
+
+Manipulation 
+Unauthorised  changes 
+details/PAN etc.) 
+ 
+
+in  account 
+
+(address/  signatories/bank 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Type 
+I  
+I a 
+I b 
+I c 
+
+II 
+III 
+IV 
+V 
+ 
+
+Type IX  Company/ RTA related  
+
+IX a 
+IX b 
+IX c 
+
+ 
+
+Action – Cash  
+Action – Non–Cash 
+Initial Public Offer/ Follow-on Public Offer Related  
+ 
+
+Type X  Others   
+
+** Status 
+
+ 
+
+Description 
+Non actionable 
+Complaint incomplete 
+Outside the scope of Depository 
+Pertains to non-responding company. 
+ 
+Resolved 
+Under Process 
+Referred to Arbitration 
+Forwarded to Company/RTA for appropriate action. 
+
+ 
+
+- 40 -
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+ 
+3.8   Disclosure  of  regulatory  orders  and  arbitration  awards  on 
+
+Depository website 50 
+
+ 
+Depositories  shall  post  all  their  regulatory  orders  and  arbitration  awards  issued 
+since  April  1,  2007.    Further,  all  regulatory  orders  and  arbitration  awards  as  and 
+when issued shall be posted on their website immediately. 
+ 
+
+                                                 
+50 Reference Circular SEBI/MRD/ DP/ 19/2010 dated June 10, 2010. 
+
+ 
+
+- 41 -
+
+Depositories are advised to modify all the relevant clauses of the said agreement to state 
+that DP after giving two days notice shall have a right to stop processing of instructions 
+of BOs till such time he makes the payment along with the interest instead of the clause 
+that the DP has the right to discontinue the depository services till such time he makes 
+the payment along with interest. 
+ 
+This  modification  shall  also  be  made  applicable  to  all  the  DP-BO  agreement  already 
+signed. 
+
+4.2. Activity of Demat of warehouse receipts52 
+
+The  aforesaid  activity  is  not  in  compliance  with  Regulation  28  of  SEBI  (D&P) 
+Regulations, 1996 and therefore depositories cannot carry out this activity. Depositories 
+are  therefore  advised  to  take  suitable  steps  in  this  regard,  either  to  hive-off  or  to 
+discontinue the activity. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Section 4: Other Communications to Depositories  
+
+4.1. Amendment in DP-BO Agreement51 
+
+4.3. Pledge of Shares through depository system53 
+
+ Section 12 of the Depositories Act and Regulation 58 of the SEBI (Depositories 
+and Participants) Regulations, 1996 along with the relevant Bye Laws of the 
+Depositories  clearly  enumerate  the  manner  of  creating  pledge.  It  is  felt  that 
+there is a need to communicate to the BOs that any procedure followed other 
+than as specified under the aforesaid provisions of law shall not be treated as 
+pledge. 
+ 
+In  order  to  clarify  the  same,  the  depositories  are  advised  to  issue  a 
+communiqué to the DPs advising them to inform BOs about the procedure for 
+pledging of shares held in demat form as enumerated in the relevant sections 
+of the Depositories Act and SEBI (Depositories and Participants) Regulations, 
+1996. Depositories may also advise DPs that an off-market transfer of shares 
+leads to change in ownership and cannot be treated as pledge. Further, this 
+issue may also be taken up in the investor awareness programs wherein the 
+manner  of  creation  of  pledge  can  be  effectively  communicated  to  the  BOs 
+directly. 
+ 
+
+4.4. Transmission of shares54 
+
+                                                 
+51 Reference MRD/DP/SG-OW/2010/2012 dated January 20, 2012 
+52 Reference MRD/DP/SG-OW/202/2012 and MRD/DP/SG-OW/203/2012 dated January 4, 2012 
+53 Reference MRD/DoP/MAS – OW/16723/2010 dated August 17, 2010 
+54 Reference: MRD/DoP/Dep/VM/182963/2009 dated November 12, 2009 
+
+ 
+
+- 42 -
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+Depositories are advised to ensure compliance with the following: 
+ 
+
+1.  In cases of transmission of shares of a deceased security holder, where 
+
+the shareholding in the BO account of the deceased member, as 
+calculated on the date of application for transmission, is within the 
+threshold limit of Rupees One lakh in value, the DPs shall not insist on 
+additional documents other than any one or more of the documents 
+mentioned below. 
+
+ 
+
+i. 
+
+ii. 
+
+Affidavit – to the effect of the claim of legal ownership of the shares 
+ 
+Deed of indemnity – indemnifying the depository and DP 
+
+iii.  NOC from other legal heir(s), wherever applicable, along with the 
+
+Claim Form/TRF and copy of death certificate duly 
+notarized/attested by a Gazetted officer or Family Settlement Deed 
+as an alternate to the NOC duly executed by all the legal heirs of the 
+deceased Beneficial Owner, provided that: 
+
+  The Family Settlement Deed clearly vest the securities in favour of the 
+
+person seeking transmission in his/ her name. 
+
+ 
+  Vesting of securities in favour of the person seeking transmission in his/ 
+
+her name is not contingent upon any other onerous conditions in such 
+Family Settlement Deed. 
+
+ 
+Note: If the division of shares as per the Family Settlement Deed is amongst 
+more than one person, then the Family Settlement Deed can be considered as 
+an NOC for transmission of shares to each legal heirs applying for 
+transmission. However, if DPs still have problems in comprehending the 
+contents of the Family Settlement Deed, they should refer the matter to 
+Depositories for necessary advice on case-to-case basis. 
+ 
+
+2.  DP(s) shall automatically open new account in the name of the 
+
+surviving members(s), in the same order as in the original account, on 
+an application by the surviving member(s) based on existing 
+
+- 43 -
+
+ 
+
+ 
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+ 
+
+documents required as per the KYC norms. Submission of new account 
+opening form shall not be insisted upon. 
+
+3.  A uniform time frame of 7 days, after receipt of all requisite 
+
+documents, shall be prescribed for processing of Transmission 
+requests. 
+
+4.  In case of multiple successors, NOC of non-applicants shall be 
+
+recorded on the TRF of the applicant instead of insisting separate TRF 
+from each of the successors. 
+
+5.  Nomination facility shall be encouraged by the Depositories 
+
+specifically targeting BOs who have not opted for nomination. As 
+regards new accounts, it shall be provided for at the account opening 
+stage itself. In case the person (both an existing and new account 
+holder) is not interested to nominate, then such person would have to 
+give a positive declaration to that effect. 
+
+ 
+ 
+
+4.5. SMS alerts for demat accounts operated by Power of Attorney55 
+
+ 
+Subscription to SMS Alert facility for depository accounts operated through 
+Power  of  Attorney  (POA)  would  be  mandatory  except  in  case  of  accounts 
+held by non-individuals, foreign nationals, and NRIs. 
+ 
+
+4.6. Opening of demat account in case of HUF56 
+
+ 
+It is noted that as per law, in case of HUF, shares can be held in the name of 
+Existing  Karta  on  behalf  of  HUF.  Therefore,  HUF  demat  accounts  can  be 
+opened in the name of Existing Karta but not in the name of Deceased Karta 
+and HUF entity. 
+ 
+
+4.7. Exemption  from  sending  quarterly  statements  of 
+
+transactions  by 
+depository participants (DPs) to clients in respect of demat accounts with 
+no transactions and no security balances57 
+
+ 
+
+                                                 
+55 Reference: SEBI/MRD/DEP/VM/169784 /09 dated July 15, 2009 
+56 Reference: SEBI/ MRD/CDSL/ 149156 /2009 dated January 01, 2009 
+57 Reference: MRD/CDSL/VM/155773/2009 dated February 27, 2009, MRD/DoP/NSDL/VM/168994 /2009 
+dated July 07, 2009and MRD/CDSL/VM/168989 /2009 dated July 07, 2009 
+
+ 
+
+- 44 -
+
+ 
+
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+SEBI  has  provided  exemption  to  Depository  Participants  from  sending 
+quarterly transaction statements to the clients in respect of demat accounts 
+with  no  transactions  and  no  security  balances  subject  to  the  following 
+conditions: 
+ 
+
+  Client is informed in advance that it will not be receiving Transaction 
+Statements  for  such  accounts  till  there  are  any  transactions  or 
+security holdings in the demat account.  
+
+  KYC and PAN requirement in respect of all such depository accounts 
+
+are complied.  
+
+  No Annual Maintenance Charges are levied for such an account.  
+  Information which is required to be disseminated by Participants by 
+way of a  note in the  Transaction Statements will  be  required to  be 
+communicated to such Clients separately.  
+
+  The Internal Auditor of the Participant shall comment in its internal 
+
+audit report on compliance of the aforesaid requirements.  
+
+ 
+
+ 
+
+Further, depository may like to consider whether, DPs should send a 
+consolidated Transaction Statements for the entire financial year in case of the 
+BOs to whom quarterly Transaction Statements are not sent. 
+
+4.8. Withdrawal by issuers from the depository58 
+
+ 
+As  regards  voluntary  withdrawal  by  issuers  from  the  depository,  it  is 
+informed  that  listed  companies  may  not  be  allowed  to  withdraw  from  the 
+depository system unless they delist their securities from the stock exchanges.  
+ 
+As  regards  companies  under  liquidation  are  concerned,  it  is  informed  that 
+deactivation  of  the  ISIN  may  be  only  done  in  cases  where  companies  have 
+been  liquidated.  In  other  cases  where  companies  are  being  liquidated, 
+deactivation of ISIN resulting in total freezing may not be desirable as it will 
+disallow investors to hold shares in dematerialized form 
+ 
+
+4.9. Discontinuation   of  sending   transaction   statements   by   depository 
+
+participants to clients59 
+SEBI allowed discontinuation of sending transaction statements by depository 
+participants to clients subject to the following conditions: 
+
+  Transaction 
+
+statements  were 
+
+returned  undelivered  on 
+
+three 
+
+consecutive occasions. 
+
+                                                 
+58 Ref: MRD/DoP/NSDL/VM/ 162378 /2009 dated May 06, 2009 
+59 Reference:MRD/NSDL/VM/158886 /2009 dated March 30, 2009 
+
+ 
+
+- 45 -
+
+ 
+
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+  The  depository  participant  (DP)  maintains  proof  that  the  transaction 
+
+statements were returned undelivered. 
+
+  The transaction statements were returned undelivered for the reasons 
+which  clearly  establish  that  the  client  no  longer  resides  at  the  given 
+address  (i.e.  party  shifted,  etc.)  and  not  for  other  reasons  (i.e. 
+residence/office closed, address incorrect, address incomplete, etc.). 
+
+  The  DP  informs  such  clients  through  alternative  means  (such  as 
+outbound  call,  SMS  or  email)  that  their  transaction  statements  are 
+returned undelivered and they need to communicate the proper (new) 
+address. 
+
+  The  DP  ensures  that  on  receipt  of  request  for  address  modification 
+from  the  client  as  per  the  stipulated  procedure,  the  dispatch  of 
+transaction statements is immediately started. Further, the DP ensures 
+that transaction statements that were not delivered and dispatched due 
+to  discontinuation  are  also  dispatched  immediately  without  any 
+additional cost to the clients. 
+ 
+Further  issue  of  shares  under  Section  86  of  Companies  Act  and 
+Companies (Issue of Share capital with Differential Voting Rights) Rules, 
+200160 
+
+ 
+In  all  cases  of  shares  issued  by  companies  under  Section  86(a)  (ii)  of 
+Companies  Act  and  Companies  (Issue  of  Share  Capital  with  Differential 
+Voting  Rights)  Rules,  2001,  separate  ISIN  may  be  allotted  to  differentiate 
+such shares from ordinary shares. 
+ 
+ 
+4.11. 
+
+Updation  of  bank  accounts  details,  MICR  code  and  IFSC  of  bank 
+
+branches by Depository Participants (DPs)61 
+
+4.10. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Please   refer   to   SEBI   Circular   No.   SEBI/MRD/DEP/Cir- 3/06   
+dated February 21, 200639   whereby   depositories   were   advised   to   
+instruct      Depository  Participants  (DPs)  to  update  the  MICR  code  and 
+bank details of the client in database of depositories. 
+
+It  has  been  informed  by  RBI  that  they  have  been  receiving  complaints 
+from managers to the issues that the funds routed through the electronic 
+mode  are  getting  returned  by  destination  banks  because  of  incorrect  or 
+old account numbers provided by beneficiary account holders. 
+
+  RBI has stated that Investors will have to ensure through their DPs that 
+bank  account  particulars  are  updated  in  master  record  periodically,  to 
+
+                                                 
+60 Reference: MRD/DoP/MC/141442 /2008 dated October 17, 2008 
+61 Reference: MRD/DEP/PP/123624 /2008 dated April 23, 2008 
+
+ 
+
+- 46 -
+
+ 
+
+ 
+ 
+
+ 
+
+4.12. 
+
+ 
+
+ 
+
+ 
+4.13. 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ensure  that  their  refunds,  dividend  payments  etc.  reach  the  correct 
+account,  without  loss  of  time.  RBI  has  also  suggested  incorporation  of 
+Indian Financial System  Code (IFSC)  of  customer's  bank  branches apart 
+from  9  digit  MICR  code;  since  IFSC  of  bank's  branches  is  used  for 
+remittance through National Electronic Funds Transfer (NEFT).  
+
+It is advised that necessary action be taken in this matter to ensure that 
+correct  account  particulars  of  investors  are  available  in  the  database  of 
+depositories. 
+
+Establishment  of  connectivity  by  Clearing  House 
+
+/  Clearing 
+
+Corporation (CH/CC) with the Depository – Clarification62 
+ 
+  On examination of the provisions of Regulations 19(a) and 31 of the SEBI 
+(Depositories  and  Participants)  Regulations,  1996,  it  is  advised  that 
+registration  of  a  CC/CH  of  a  stock  exchange  as  a  DP  with  SEBI  is  not 
+mandatory  and  a  pre-requisite  for  it  to  obtain  connectivity  with  the 
+depositories.  However,  if  the  CC/CH  of  a  stock  exchange  desires  to 
+function as any other "Depository Participant", i.e. to open BO accounts for 
+investors  or  clearing  member  account,  registration  as  DP  with  SEBI  is 
+mandatory. 
+In  view  of  the  above,  Depositories  are  advised  to  provide  continuous 
+electronic  means  of  communication  /  connectivity  to  the  CH/CC  of  the 
+Exchanges without insisting for a mandatory registration as DP with SEBI 
+with  a  condition  that  such  entities  would  not  be  permitted  to  open  BO 
+accounts for investors or clearing member account. 
+
+ 
+
+Computing  and  monitoring  of  the  Aggregate  Value  of  Portfolio  of 
+Securities (AVPS) of the BOs held in dematerialised form by Stock Broker 
+DPs 
+
+ 
+For  the  purpose  of  computing  the  AVPS  of  the  beneficial  owners  held  in 
+dematerialised  form  under  Regulation  19(a)(viii)  of  SEBI  (Depositories  and 
+Participant)  Regulations,  1996,  the  securities  held  by  bank  and  financial 
+institutions  as  well  as  promoters  holdings  of  a  company  held 
+in 
+dematerialised form, may be excluded63. 
+In view of the potential risk to the system and also to maintain the integrity of 
+the market, the depositories are advised to develop an appropriate systemic 
+alert  in  the  depository  system,  so  as  to  enable  the  system  to  generate  and 
+convey automatic alerts to those SBDPs that reach a pre-determined level of 
+exposure. These alerts would serve as forewarnings to the SBDPs to the fact 
+
+                                                 
+62 Reference: MRD/DoP/ Dep/82334 /2006 dated December 14, 2006 
+63 Reference: SMDRP/RKD /NSDL/2494 /98 dated November 18, 1998, SMDRP/CDSL / 18300 /2000 dated 
+November 16, 2000 
+
+ 
+
+- 47 -
+
+ 
+
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+that they are approaching their respective maximum exposure limits. [Note: 
+For this purpose, the depositories may monitor the value of securities with its 
+SBDPs on an "end of the day" basis.]64 
+ 
+4.14. 
+
+Deadline time for accepting non pay-in related instructions65  
+
+ 
+
+4.14.1.  The  depositories  are  advised  that  any  overrun  of  the  time 
+specified for 'spot delivery contract' in the SCRA would result in the 
+contract becoming illegal under section 16 of the SCRA (unless it is 
+put through the stock exchange). The DP-BO agreement cannot add 
+anything  to  or  subtract  anything  from  this  position.  However,  it 
+should  be  the  responsibility  of  the  DP  to  ensure  that  the  client's 
+contract  is  not  rendered  illegal  on  account  of  delayed  execution  of 
+the delivery instruction. 
+
+4.14.2.     Keeping  the  hardships  to  change  all  the  existing  DP-BO 
+agreements to enforce the above into consideration, it is advised that 
+suitable  bye  laws  can  be  made  under  section  26(2)(e)  and  (d)    of 
+Depositories Act,   1996 for imposing   such   obligation   on   the   
+DPs.      Therefore,      it  is  advised  to  amend/insert  bye  laws  which 
+should expressly provide that the DPs shall execute the non pay-in 
+related  instructions  on  the  same  day  or  on  the  next  day  of  the 
+instruction. Further, pending such amendment, suitable instructions 
+may be issued to DPs to adhere to such time limit. 
+
+4.14.3.   The  above  clause  may  be  suitably  incorporated  in  the  DP-BO 
+
+agreement while opening new accounts. 
+
+ 
+
+4.15. 
+
+August 23, 199966. 
+
+Clarification  on  our  circular  no.  SMDRP/Policy/Cir-28/99  dated 
+
+ 
+Please refer to para 4 of the captioned circular which is reproduced below :- 
+ 
+"In  cases  where  a  DP  has  already  sent  information  about  dematerialisation 
+electronically to a Registrar but physical shares have not been received, the registrar 
+will accept the demat request and carry out dematerialization on the indemnity given 
+by the DP and proof of dispatch of document given by DP." para2.3.4 
+ 
+It is clarified that the above provision shall be applicable to all the securities 
+like scrips, bonds, debentures, debenture stock or other marketable securities 
+eligible  to  be  held  in  dematerialised  form  in  a  depository  as  defined  in 
+Regulation 28 of the SEBl (Depository and Participants) Regulations, 1996. 
+
+                                                 
+64 Reference:MRD/DRK/SU/16034/2003 dated August 22, 2003 
+65 Reference: MRD/VSS/ARR/ 12255/2004 dated June 10, 2004 
+66 Reference: D&CC/ 1099 / 2002  dated November 01, 2002 
+
+ 
+
+- 48 -
+
+ 
+
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+Operation of minor’s demat account68  
+
+Voting rights in respect of securities held in pool account67 
+
+ 
+4.16. 
+ 
+It was informed that the corporate benefits availed by the clearing member, 
+clearing  corporation  and  intermediaries  shall  be  held  in  trust  on  behalf  of 
+beneficiary  owners.  Therefore, the clearing member,  clearing  corporation  as 
+well  as  the  intermediaries  cannot  have  voting  rights  in  respect  of  securities 
+held in the pool account. 
+ 
+4.17. 
+ 
+Under  [The]  Hindu  Minority  and  Guardianship  Act,  1956,  permission  of 
+Court is required in the case of transfer by a natural guardian of immovable 
+property of a minor.  However, shares are not immovable properly.   Section 
+2(7)  of  Sale  of  Goods  Act.  1930  includes  shares  within  the  definition  of 
+"goods''.   Neither the Indian Contract Act nor the Sale of Goods Act provide 
+for  transfer  by  sale  or  otherwise  by  guardian  /natural  guardian  of 
+goods/movable property in the name of minor to the effect that permission of 
+court is required in the matter of such transfer.   In the case of accounts  of 
+minor in banks also, the guardian is entitled to open, operate and even close 
+the  account also.     The DP  account  can,  therefore, be operated by a  natural 
+guardian  without  any  order  from  the  court  though  the  same  is  neither 
+expressly permitted nor prohibited. 
+ 
+
+                                                 
+67 Reference: SMDRP/NSDL/26563/2001 dated April 10, 2001 
+68 Reference: SMDRP/NSDL/4615 /2000 dated March 13, 2000 
+
+ 
+
+- 49 -
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+ 
+ 
+SCHEDULE   
+ 
+CIRCULARS 
+
+  SMDRP/Policy/Cir-28/99 dated August 23, 1999  
+  SMDRP/POLICY/Cir-36/2000 dated August 4, 2000 
+  D&CC/FITTC/CIR-3/2001 dated October 15, 2001 
+  D&CC/FITTC/Cir-  04/2001 dated November 13, 2001 
+  SMDRP/Policy/Cir-05/2001 dated February 1, 2001 
+  D&CC/FITTC/Cir-13/2002 dated November 1, 2002 
+  D&CC/FITTC/Cir-09/2002 dated July 4, 2002  
+  D&CC/FITTC/Cir-10/2002 dated September 25, 2002 
+  D&CC/FITTC/Cir-15/2002 dated December 27, 2002 
+  D&CC/FITTC/CIR - 12/2002 dated October 30, 2002  
+  DCC/FITTC/Cir-19/2003 dated March 4, 2003 
+  LGL/Cir-2/2003 dated February 19, 2003 
+  MRD/DoP/Dep/Cir-29/2004 dated August 24, 2004  
+  MRD/DoP/Dep/Cir-27/2004 dated August 16, 2004 
+  MRD/DoP/SE/Dep/Cir-36/04 dated October 27, 2004 
+  SEBI/MRD/DOP/Cir-22/2004 dated July 14, 2004 
+  SEBI/MRD/Policy/AT/Cir-19/2004 dated April 21, 2004 
+  SEBI/MRD/SE/DEP/Cir-4/2005 dated January 28, 2005 
+  SEBI/MRD/DEP/Cir-24/05 dated December 22, 2005  
+  SEBI/MRD/SE/Cir-16/2005 dated August 04, 2005 
+  MRD/DoP/Dep/Cir-22 /05 dated November 09, 2005 
+  MRD/DoP/SE/Dep/Cir-18/2005 dated September 2, 2005 
+  MRD/DoP/Dep/SE/Cir-22/06 dated December 18, 2006 
+  MRD/DSA/SE/Dep/Cust/Cir-23/06 dated December 22, 2006 
+  SEBI/MRD/DEP/Cir-3/06 dated February 21, 2006  
+  SEBI/MRD/DEP/Cir-2/06 dated January 19, 2006 
+  MRD/Dep/Cir- 20/06 dated December 11, 2006 
+  MRD/DoP/Dep/Cir-09/06 dated July 20, 2006 
+  MRD/DoP/Dep/SE/Cir-17/06 dated October 27, 2006 
+  MRD/DoP/Dep/SE/Cir-13/06 dated September 26, 2006 
+  MRD/DoP/Dep/Cir-09/06 dated July 20, 2006 
+  MRD/DoP/Cir- 5/2007 dated April 27, 2007  
+  MIRSD/DPS-III/Cir-9/07 dated July 3, 2007 
+  SEBI/MRD/Dep/Cir-03/2007 dated February 13, 2007 
+  SEBI/CFD/DILDIP/29/2008/01/02 dated February 1, 2008 
+  MIRSD/DPS- III/Cir-23/08 dated July 25, 2008 
+  SEBI/MRD/Dep/Cir-03/2008 dated February 28, 2008 
+
+ 
+
+- 50 -
+
+ 
+
+ 
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+  MRD/DoP/Cir-20/2008 dated June 30, 2008 
+  MRD/DoP/SE/Dep/Cir-2/2009 dated February 10, 2009 
+  CIR/MRD/DP/19/2010 dated June 10, 2010 
+  CIR/MRD/DP/20/2010 dated July 1, 2010 
+  CIR/MRD/DP/22/2010 dated July 29, 2010 
+  CIR/MRD/DO/37/2010 dated December 14, 2010 
+  CIR/MRD/DP/04/2011 dated April 07, 2011 
+  CIR/MRD/DP/05/2011 dated April 27, 2011 
+ 
+
+ 
+COMMUNICATIONS 
+  
+
+  SMDRP/RKD /NSDL/2494 /98 dated November 18, 1998 
+  SMDRP/NSDL/4615 /2000 dated March 13, 2000 
+  SMDRP/CDSL / 18300 /2000 dated November 16, 2000 
+  SMDRP/NSDL/26563/2001 dated April 10, 2001 
+  D&CC/ 1099 / 2002  dated November 01, 2002 
+  MRD/DRK/SU/16034/2003 dated August 22, 2003 
+  MRD/VSS/ARR/ 12255/2004 dated June 10, 2004 
+  MRD/DoP/ Dep/82334 /2006 dated December 14, 2006 
+  MRD/DEP/PP/123624 /2008 dated April 23, 2008 
+  MRD/DoP/MC/141442 /2008 dated October 17, 2008 
+  SEBI/ MRD/CDSL/ 149156 /2009 dated January 01, 2009 
+  MRD/CDSL/VM/ 155773 /2009 dated February 27, 2009 
+  MRD/NSDL/VM/158886 /2009 dated March 30, 2009 
+  MRD/DoP/NSDL/VM/ 162378 /2009 dated May 06, 2009 
+  MRD/DoP/NSDL/VM/168994 /2009 dated July 07, 2009 
+  MRD/CDSL/VM/168989 /2009 dated July 07, 2009 
+  SEBI/MRD/DEP/VM/169784 /09 dated July 15, 2009 
+  MRD/DoP/Dep/VM/182963/2009 dated November 12, 2009 
+  MRD/DoP/MAS – OW/16723/2010 dated August 17, 2010 
+  MRD/DP/SG-OW/202/2012 and MRD/DP/SG-OW/203/2012 dated 
+
+January 4, 201 
+
+  MRD/DP/SG-OW/2010/2012 dated January 20, 2012 
+
+ 
+
+- 51 -
+
+

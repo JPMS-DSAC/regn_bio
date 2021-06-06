@@ -1,0 +1,834 @@
+ 
+ 
+Securities and Exchange Board of India 
+
+ 
+ 
+
+Discussion Paper 
+
+Discussion Paper : Risk Management – Safer Markets for Investors 
+
+The core of risk management for any clearing corporation (CC) is collaterals (minimum of 50% in 
+
+cash/cash equivalents including fixed deposits) deposited by the stockbroker or TMCM with the 
+
+CC.  Participants  bring  risk  to  the  system  by  way  of  trades  which  the  CC  is  obligated  to  settle 
+
+with  guarantee  and  the  CC  in  turn  tries  to  mitigate  this  risk  by  collateralization.  The  present 
+
+system in India, as it has evolved, still has various unaddressed risks and there is scope to take 
+
+further steps to mitigate them.  
+
+Risk Management System in Indian Stock Exchanges 
+
+The risk management system in case of Indian stock exchanges is based on two pillars. While 
+
+margins calculated on open positions and collateral deposited against it forms the first line of 
+
+defence,  deposit  based  capital  (base  minimum  capital,  liquid  networth)  given  by  trading 
+
+member  (TM)/clearing  member  (CM)  becomes  the  second  line  of  defence  against  failure  of 
+
+any market participant. 
+
+As against net positions serving as the basis for levying margins on brokers for positions taken 
+
+by  them  and  their  clients  as  implemented  in  other  jurisdictions,  in  India  VaR  (Value  at  Risk) 
+
+based margins are imposed at a client level i.e. net for a client and gross across all clients for 
+
+the  broker,  thereby  ignoring  any  netting-off  that  may  occur  between  client-client  and  client-
+
+proprietary  positions.  VaR  based  margins  are  updated  5  times  per  day  to  keep  the  margin 
+
+requirements in sync with the current level of market volatility. In addition to VaR based initial 
+
+margins there are additional requirements specified, as a second level of defence, in the form 
+
+of  an  exposure  margin/extreme  loss  margins  which  provides  extra  cushion  in  case  of  tail  risk 
+
+events and finally mark-to-market losses are collected and paid in cash on a daily basis. 
+
+Indian  stock  exchanges  have  a  deposit  based  capital  requirement  over  and  above  entry  level 
+
+and  continuing  networth  criteria  for  market  participants  undertaking  the  trading/clearing 
+
+activity.  Such  net  worth  requirements  vary  based  on  the  nature  of  the  business  activity, 
+
+trading  or  clearing  or  both,  of  the  participant.  Further  in  addition  to  the  minimum  capital 
+
+requirements,  Stock  Exchanges/Clearing  Corporations  have  been  empowered  to  collect 
+
+additional deposits in order to satisfy itself on the parameter of credit risk. This is as against a 
+
+balance  sheet  based  capital  adequacy  requirement  prevalent  in  many  other  jurisdictions.  In 
+
+Europe,  market  participants  are  subject  to  European  Union  Capital  Adequacy  Directive  (an 
+
+equivalent  of  the  Basel  Accord),  while  jurisdictions  like  the  U.S  and  Canada  practice  a  capital 
+
+adequacy  regime  which  is  based  on  the  liquidity  or  net  capital  requirement  -an  approach 
+
+requiring  securities  firms  to  maintain  minimum  levels  of  highly  liquid  assets  to  adequately 
+
+satisfy all their obligations and provide a cushion against potential losses arising from general 
+
+risks. 
+
+ 
+
+Page 1 of 10 
+
+ 
+
+ 
+ 
+Securities and Exchange Board of India 
+
+ 
+ 
+
+Discussion Paper 
+
+Further,  the  extant  system  of  risk  management  could  be  fine  tuned  for  more  efficient  use  of 
+
+capital  and  enhancing  safety  of  investors.  The  paper  highlights  four  such  steps  that  can  be 
+
+considered: 
+
+Incentivising Internet Based Trading models posing minimal risk 
+Mitigation of risk to client collateral 
+T+1 settlement as a measure to reduce overall risk in the system 
+
+A. 
+B. 
+C. 
+ 
+While it is true in general that trades pose risk to the CC which is mitigated by way of margins 
+
+levied  against  which  collateral  is  collected,  the  risk  posed  by  trades  of  various  categories  of 
+
+clients varies across categories of clients. An example of this is the category of internet based 
+
+trading  (IBT)  clients  in  the  cash  segment  where  the  funds  or  securities  of  clients  are  upfront 
+
+blocked  at  the  time  of  order  itself  thereby  posing  no  further  settlement  risk  to  the  CC.  The 
+
+margining framework that has evolved for mitigation of risk to CC has given rise to another risk, 
+
+the  risk  of  clients  losing  their  collateral  in  the  event  of  default/bankruptcy  of  the  broker  or 
+
+TMCM, and accordingly there is a need to take steps to mitigate this.  
+
+Further,  the  overall  risk  in  the  system  is  dependent  on  the  number  of  unsettled  trades  in  the 
+
+system at any point of time. A shorter settlement cycle can go a long way in reducing the risk in 
+
+the system.  
+
+Each  of  these  issues  is  further  discussed  below  with  questions  formulated  to  elicit  responses 
+
+from the reader. 
+
+A.  Internet Based Trading model 
+
+The  risk  management  practice  followed  for  non-leveraged  products  like  those  in  equity  cash 
+
+segment, by some brokers offering Internet Based Trading (IBT) facility to their clients leads to 
+
+such  trades  posing  minimal  risk  to  CC.  Typically,  such  brokers  are  financial  institutions  that 
+
+operate as bank, broker and Depository Participant. The framework followed involves checking 
+
+for availability of and blocking either 100% cash in the connected bank account in case of buy 
+
+orders  or  shares  in  the  connected  demat  account  in  case  of  sell  orders.  Thus,  risk  posed  by 
+
+trades  of  such  clients  to  the  broker  is  zero  as  there  is  an  order  level  check  for  availability  of 
+
+funds/securities as well as blocking of the same on execution of the trades. However, broker is 
+
+still required to post margin to CC for such trades as the funds or securities are with the broker 
+
+and not the CC. Thus CC is still exposed to risk of default by the broker till the time pay-in has 
+
+been made to CC. Even if the broker does an early pay-in of securities/funds, the margin freed 
+
+up  by  such  early  pay-in  is  returned  back  by  the  CC  after  a  lag  of  time  and  not  as  soon  as  the 
+
+early pay-in  has been made (though fresh positions can be taken on margin freed up). Also at 
+
+times  the  brokers  hesitate  in  making  the  early  pay-in  during  the  day  till  the  end  of  trading  to 
+
+ 
+
+Page 2 of 10 
+
+ 
+ 
+Securities and Exchange Board of India 
+
+ 
+ 
+
+Discussion Paper 
+
+ascertain  if  actual  pay-in  is  required  to  be  made  to  the  CC  as  the  final  obligations  to  CC  are 
+
+computed on a net basis across obligations of all clients and proprietary positions. 
+
+Since  the  funds  and  securities  of  clients  in  IBT  model  are  blocked  in  segregated  accounts  of 
+
+clients, an arrangement for such zero risk trades with the CC may lead to potential lower costs. 
+
+This will require that the CC has immediate visibility of the funds or securities blocked for pay-in 
+
+as well as legal certainty of lien over such blocked funds or securities or that it will without fail 
+
+be  tendered  at  the  time  of  pay-in.    Further,  as  the  model  involves  client  assets  kept  in 
+
+segregated bank or demat account, the model also accords greater protection of client assets. 
+
+Such a system may provide enormous benefit to such clients that are not doing day trading and 
+
+only  investment  activity  both  in  terms  of  lower  trading  costs  and  high  safety  towards  their 
+
+assets. 
+
+Since  this  trade  model  brings  no  additional  risk  to  the  system,  there  is  a  case  to  incentivize 
+
+more and more investors to use this model so as to reduce the overall risk in the system. Some 
+
+of the incentives in this regard can be as follows: 
+
+i.  Waiver  of  any  margin  requirements  by  the  CC  for  such  trade  model  as  the 
+
+funds/securities are already blocked on behalf of CC.  
+
+ii.  CC to release any blocked margin for IBT trades as soon as the early pay-in is made. 
+
+iii.  As  IBT  trades  bring  no  risk  to  the  system,  such  trades  may  be  charged  lower  clearing 
+
+charges by the CC. 
+
+The  savings  due  to  such  incentives  may  then  be  passed  on  to  the  end  clients  in  the  form  of 
+
+lower  brokerage  charges  or  deposit  charges  thereby  incentivizing  investors  to  use  the  IBT 
+
+model. It is understood that in certain jurisdictions IBT has facilitated the spread of investment 
+
+culture among retail investors. 
+
+Issues for discussion 
+
+1.  What  arrangement  can  be  put  in  place  by  designated  large  financial  institutions  in 
+coordination  with  CC  to  ensure  legal  certainty  that  funds/securities  blocked  by  broker 
+
+are without fail made available to CC at the time of pay-in? 
+
+2.  Which of the above/combination of the above three incentives would be most effective 
+
+in incentivising IBT mode in equity cash segment? 
+
+3.  Are there any other suggestions in this regard? 
+4.  Any other incentive mechanism for the same? 
+
+ 
+
+Page 3 of 10 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Securities and Exchange Board of India 
+
+B.  Mitigation of risk to client collateral 
+
+ 
+ 
+
+Discussion Paper 
+
+While  Brokers/TMCMs  participate  in  securities  market  for  their  business,  clients  access 
+
+securities  market  to  invest  their  savings.  The  risk  that  clients  face  in  securities  market  is  the 
+
+price risk/market risk of the securities they invest in. Market structure should be sound enough 
+
+not to expose clients to other risks (operational risk, credit risk of broker/TM). Changes to this 
+
+effect  will  go  a  long  way  in  further  instilling  confidence  among  the  investors  in  the  securities 
+
+market  framework  and  facilitate  greater  market  penetration.  One  such  risk  incidental  to 
+
+participating in the securities market is the risk to client collateral, and needs to be mitigated. 
+
+ 
+
+Extant SEBI guidelines for client collateral protection 
+
+SEBI  has  mandated  segregation  of  client  money's/securities,  deposited  as  collateral  with 
+
+broker/TMCM,  who  are  required  to  ensure  that  client  collateral  is  not  used  for  any  purposes 
+
+other  than  meeting  the  respective  client’s  margin  requirements/pay-ins  while  maintaining 
+
+records to ensure proper audit trail of client collateral. Further, broker/TMCMs are required to 
+
+issue  a  daily  statement  of  collateral  utilization  to  clients for  their  transactions  in  cash  and 
+
+derivative  segments  and  report  to  Exchange/CC,  the  margins  collected  for  client  trades  in 
+
+derivatives segments. 
+
+ 
+
+Recent events 
+
+The debacles of MF Global and Peregrine have caused investors to lose their confidence in the 
+
+present regulatory framework and regulatory bodies all over the world are considering various 
+
+alternatives to safeguard client’s money effectively.  
+
+ 
+
+In  this  regard,  the  recently  notified  CPSS-IOSCO  Principles  for  Financial  Market  Infrastructures 
+
+(FMIs) cast the responsibility on CC to "effectively protect a  participant’s  customers’ positions 
+
+and related collateral from the default or insolvency of that participant" by having segregation 
+
+and portability arrangements. The following has been inter-alia recommended by CPSS-IOSCO: 
+
+ 
+
+ 
+
+A  CCP  should,  at  a  minimum,  have  segregation  and  portability  arrangements  that 
+
+effectively  protect  a  participant’s  customers’  positions  and  related  collateral  from  the 
+
+default  or  insolvency  of  that  participant.  If  the  CCP  additionally  offers  protection  of  such 
+
+customer  positions  and  collateral  against  the  concurrent  default  of  the  participant  and  a 
+
+fellow customer, the CCP should take steps to ensure that such protection is effective.  
+
+Collateral framework 
+
+In the derivatives segments, for any client trade, client is mandated to give collateral, under the 
+
+pain of penalty, to its broker/TMCM who in turn gives collateral to CC. This is in contrast to the 
+
+ 
+
+Page 4 of 10 
+
+ 
+ 
+Securities and Exchange Board of India 
+
+ 
+ 
+
+Discussion Paper 
+
+cash  segment  where  no  such  stipulation  exists  upon  the  client.  Despite  the  daily  certification 
+
+provided by CM to the CC that collateral placed against margin of each client has been collected 
+
+from the client, the system of acknowledging the same by the CC does not exist. CCs in India do 
+
+not  recognize  clients/client  collateral  and  obtain  an  undertaking  from  broker/TMCM  that  the 
+
+collateral  provided  by  them  even  for  client  trades  belongs  to  the  broker/TMCM.  Thus,  for  a 
+
+client trade, broker/TMCM can either: 
+
+ a)  give  separate  collateral  to  CC  and  back-to-back  keep  the  client  collateral  with  itself.  It  is 
+
+found  that  several  brokers  follow  a  good  practice  of  keeping  client  collateral  in  segregated 
+
+accounts; or,  
+
+b)  can  pass  on  the  collateral  received  from  client  to  CC  as  own  (broker’s/TMCM’s)  collateral 
+
+after authorization from the client in this regard.  
+
+ 
+
+While alternative (a) is sub-optimal in terms of costs due to maintaining twice the collateral as 
+
+required (both at broker/TMCM end and at CC end), alternative (b) does not protect interests 
+
+of  client  due  to  the  possibility  that  its  collateral  can  be  utilised  by  CC  on  default  of  the 
+
+Broker/TMCM even when the client has fulfilled his obligation. Even in alternative (a), in view of 
+
+the  fact  that  the  collateral  deposited  by  the  client  is  with  the  broker/TMCM  and  not  with  the 
+
+CC,  protection  of  client’s  money  is  not  accorded  any  priority  within  the  Exchange/CC  system 
+
+and  client  only  has  normal  legal  recourse  to  get  back  its  collateral.  The  framework  appears 
+
+biased against clients in that while the interests of Broker/TMCM and CC are protected within 
+
+the  CC  framework,  client  may  have  to  take  recourse  outside  the  CC  framework  to  protect  its 
+
+interests which would also be at a higher cost and time delay. 
+
+ 
+
+The  issue  of  client  collateral  protection  appears  to  be  in  a  trade-off  with  capital  efficiency  as 
+
+seen in the alternatives (a) and (b) above. This trade-off may be due to the interpretation that 
+
+client  securities  (one  part  of  client  collateral)  placed  with  the  broker  through  a  pledge  in  the 
+
+Depository system cannot be reassigned to the CC thereby forcing clients to transfer securities 
+
+to  the  demat  account  of  the  broker  for  onward  transmission  to  CC,  which  leaves  the  legal 
+
+ownership of the client over its securities tenuous and unprotected. 
+
+ 
+
+Proposed models  
+
+Model A (with client collateral at an arm's length distance from broker/TM) 
+
+CCs  to  provide  a  facility  wherein  clients  can  deposit  collateral  with  designated  Professional 
+
+Clearing Members (PCMs) (PCMs are those Clearing Members who do not have trading rights) 
+
+which can be utilised only on account of specific clients' obligations. In case of broker/TM/PCM 
+
+default, the positions and collateral of the non-defaulting clients are amenable to be ported to 
+another broker/TM/PCM. 
+
+ 
+
+Page 5 of 10 
+
+ 
+ 
+Securities and Exchange Board of India 
+
+Structure 
+
+ 
+ 
+
+Discussion Paper 
+
+•  PCM to keep client collateral in segregated accounts. 
+
+•  Broker/TM of the client to have information of the client collateral kept with PCM. 
+
+•  CC/PCM  to  allocate  limit  to  the  broker/TM  against  collateral  deposited  by  client  with 
+
+PCM to be utilised towards positions of the specific client. Broker/TM to ensure that the 
+
+positions of clients allowed by it are commensurate with the collateral deposited by the 
+
+client with the PCM. 
+
+•  The responsibility to fulfill all obligations arising out of client trades (margins and pay-in 
+
+obligations) to rest with broker/TM and finally with PCM. 
+
+•  Collaterals  deposited  by  clients  availing  such  facility  shall  be  utilized  towards  the 
+
+margin/pay-in requirements of the specific client only and will be readily made available 
+
+to broker/TM by the PCM in case of non-performance of  obligations (default/shortfall) 
+
+by the client. 
+
+•  At the time of non-performance of broker/TM of its obligations, CC to port positions of 
+
+non-defaulting clients of such broker/TM to another broker/TM under the PCM. In case 
+
+of  non-performance  of  PCM  of  its  obligations,  CC  shall  utilise  the  margins  backing 
+
+positions of non-defaulting clients to another PCM. In case of close-out of any positions 
+
+by CC, the margins will be returned by CC to the respective clients after adjusting with 
+
+the loss/gain due to close-out, if any. 
+
+Features 
+
+•  Portability:  In  case  of  default  by  a  Broker/TM,  since  client  collateral  is  segregated  at 
+
+PCM end, client positions can be easily ported to another Broker/TM who will then have 
+
+to  risk  manage  the  ported  client’s  positions  as  per  the  available  collateral.  In  case  of 
+
+PCM default, porting of positions and corresponding margins by CC can be done. 
+
+•  Practicality:  
+
+o  This model seems to be suitable for big clients with large positions/collateral. 
+
+o  Limitation  of  reach  may  make  it  difficult  for  clients  to  post  monies/securities 
+
+directly with PCM.  
+
+o  This model will also entail additional costs of maintaining segregated accounts at 
+
+PCM end.  
+
+ 
+
+Model B (with CC enshrining margins backing client trades as client margins in value terms) 
+
+CC to recognize collateral against margin as deposited by Broker/TMCM with CC on account of 
+
+each individual client’s positions as client collateral. CC shall not utilise the collateral deposited 
+
+with it on any client account for fulfilling the dues which a CM may owe to the CC in respect of 
+
+trades  of  the  member  on  its  own  account  or  on  account  of  trades  of  any  other  client  of  the 
+
+member.  Further,  in  case  of  CM  default,  collateral  deposited  by  the  defaulting  member  on 
+
+account of any client’s trades will be available to be used by the CC only when the specific client 
+
+ 
+
+Page 6 of 10 
+
+ 
+ 
+Securities and Exchange Board of India 
+
+ 
+ 
+
+Discussion Paper 
+
+is in default. This proposed practice is immediately possible in the derivative segment wherein 
+
+the  collection  of  collateral  against  margin  is  explicitly  acknowledged  as  having  been  collected 
+
+from each individual client. Such one-to-one correspondence may be offered by CCs in the cash 
+
+segment too for similar arrangements wherein a certification is provided by the CM to the CC. 
+
+The  IBT  mode,  as  discussed  earlier,  is  devoid  of  such  risks  and  is  amenable  to  a  zero  margin 
+
+regime.  
+
+Structure 
+
+•  Broker/TMCM to collect collateral from clients. 
+•  Broker/TMCM to pay margin for client as well as proprietary trades to CC. 
+• 
+
+In India, a CC has real time data of client level positions on PAN basis and of the required 
+
+margin for each client on a broker-client code basis that is mapped to the PAN. 
+
+•  CC  to  keep  collateral  provided  for  proprietary  trades  and  collateral  provided  for  each 
+client’s trades segregated from each other, either physically or operationally, say legally 
+
+segregated operationally commingled (LSOC). 
+
+•  On  Broker/TMCM  default,  CC  to  use  only  collateral  provided  against  margins  for 
+proprietary trades by Broker/TMCM. Further, Broker/TMCM is responsible to inform CC 
+
+within a stipulated time to identify and inform CC the client(s) who are in default, if any, 
+
+after which CC may use collateral against margins corresponding to trades of clients in 
+
+default too. 
+
+•  Positions  and  related  margin  of  non-defaulting  clients  in  case  of  Broker/TMCM  default 
+to  be  ported  to  another  Broker/TMCM  so  as  to  enable  non-defaulting  clients  to 
+
+continue  keeping  their  positions  and  the  related  collateral.  In  such  a  case,  non-
+
+defaulting  client  will  need  normal  legal  recourse  only  for  the  purpose  of  getting  their 
+
+excess collateral from the defaulting Broker/TMCM. 
+
+Features 
+
+•  Portability:  In  case  of  default  by  a  Broker/TMCM,  since  positions  and  corresponding 
+margin is recognized client wise at CC end, positions and margins of client is amenable 
+
+to porting by CC to another Broker/TMCM.  
+
+•  Practicality:  Since  the  model  does  not  require  any  significant  change  in  account 
+
+structures,  it  is  more  practical  and  can  be  implemented  for  all  clients  that  have  an 
+
+arrangement of giving collateral against margin to the broker before/upon the trade. It 
+
+will separate such clients from those that have funding arrangements with a broker and 
+
+therefore  bear  the  risk  of  getting  clubbed  along  with  the  proprietary  positions  of  the 
+
+broker upon a situation of default.  
+
+•  Costs:  The  incremental  costs  involved  in  implementing  the  model  might  be  less  as 
+
+compared to the incremental benefits of the model (the model would be able to accord 
+
+protection of client margins for millions of clients within the CC framework).  
+
+ 
+
+ 
+
+Page 7 of 10 
+
+ 
+ 
+Securities and Exchange Board of India 
+
+ 
+ 
+
+Discussion Paper 
+
+Issues for discussion  
+
+5.  Since rules for segregation of client collateral, usage of client monies by broker/TMCM, 
+and arbitration/legal recourse in case of improper usage and loss to client are already 
+
+in place, is there need to take further steps for protection of client collateral? 
+
+6.   The proposed models try to protect client from credit risk of broker/TMCM. Wouldn't 
+
+this be akin to allowing client to participate in the market without taking any risks? 
+
+7.  While  model  A  accords  protection  to  entire  collateral  of  client,  model  B  only  protects 
+margin of client backing client positions. However, model B is easier to implement than 
+
+model A. Which model should be implemented – model A, model B, both or none? 
+
+8.  Currently,  client  collateral 
+
+is  recognized  only  at  broker/TM 
+
+level  and  not  at 
+
+CM/PCM/CC  level.  In  case  of  any  attachment  order  by  any  authority  (courts/other 
+
+bodies)  of  client  assets,  this  lack  of  client  level  recognition  of  assets  at  PCM/CC  level 
+
+protects  the  assets  at  PCM/CC  level  thereby  limiting  any  hindrance  to  settlement 
+
+process.  However,  with  the  proposed  models  requiring  recognition  of  client  assets  at 
+
+PCM/CC level, would this pose risk to the settlement process at CC? If yes, what could 
+
+be the possible solutions to allay this risk?  
+
+Model A specific 
+
+9.  While the model protects interests of client on broker/TM default, it  should not be at 
+the  cost  of  ignoring  broker/TM  interests  on  client  default.  Thus,  the  model  should 
+
+ensure  both  -(i)  that  client  collateral  is  protected  in  case  client  has  fulfilled  its 
+
+obligations and (ii) that client collateral is definitely available to broker/TM in case of 
+
+non-performance of obligations by client. How should PCM determine the event of non-
+
+performance of obligation by client – (i) take broker/TM’s word as true (ii)Take client’s 
+
+confirmation too (iii) Cast responsibility on TM/broker to prove client non-performance 
+
+(iv)  Cast  responsibility  on  client  to  prove performance  of  obligation  within  a  specified 
+
+time failing which collateral will be released? 
+
+10. Currently,  in  case  of  dispute,  since  the  client  collateral  is  with  broker/TM,  the 
+
+broker/TM  uses  that  to  fulfill  any  obligation  towards  CC  on  account  of  client  trades 
+
+pending  decision  on  dispute.  In  case  decision  of  dispute  goes  in  favour  of  client, 
+
+TM/broker settles client claim. Thus, regardless of which party was at fault, the cost till 
+
+decision  of  litigation  is  borne  by  the  client.  In  case  in  the  proposed  model,  PCM  does 
+
+not  release  collateral  to broker/TM  pending  dispute,  broker/TM  will  have  to  use  own 
+
+assets to fulfill obligation towards CC on account of client trades. It will be fair not to 
+
+release  collateral  even  to  client  in  case  of  dispute,  thereby  affecting  both  the  parties 
+
+equally. Will this be unfair to broker/TM? 
+
+ 
+
+Page 8 of 10 
+
+ 
+ 
+Securities and Exchange Board of India 
+
+ 
+ 
+
+Discussion Paper 
+
+Issues for discussion 
+
+ 
+
+11. Should  the  pay-in/pay-out  to  client  be  done  through  the  broker/TM  or  directly 
+through PCM? While a direct pay-in/pay-out through PCM would obviate the need for 
+
+PCM  to  depend  on  TM  for  information  on  client  non-performance  in  most  cases, 
+
+however,  there  may  be  practical  limitations  to  achieve  this  in  terms of  reach  to  end 
+
+client for daily pay-in/pay-out. 
+
+12. Should  it  be  made  mandatory  for  all  TMs  to  tie-up  with  a  designated  PCM  for 
+providing  this  service  to  its  desiring  clients  or  should  clients  desiring  such  facility  be 
+
+asked to trade through TMs of designated PCMs providing this service? 
+
+Model B specific 
+
+13. Though  positions  and  margins  are  segregated  at  CC  end  to  enable  portability  to 
+another Broker/TMCM, however, this new entity  must have contractual relationship 
+
+with the ported client so as to enable it to risk manage the ported positions as well as 
+
+to  undertake  obligations  from  ported  client.  Such  interim  or  transition  period  may 
+
+require an empanelled group of broker/TMCMs to temporarily risk manage positions 
+
+of such clients with certain conditions? 
+
+14. Whether  it  is  feasible  to  legally  enshrine  that  margin  posted  for  client  trades  by 
+Broker/TMCM  can  be  used  by  CC  only  in  case  of  concerned  client  default  and  be 
+
+ported along with client positions, even though the ownership title of the collateral, 
+
+when in securities form, is not clear and that the ability of broker to reassign these to 
+
+CC in the first instance is itself in doubt. The legality of providing benefit of collateral 
+
+related  to  client  positions  to  the  client,  irrespective  of  collateral  being  that  of 
+
+broker/TMCM or client is a related question. 
+
+15. Currently,  in  the  event  of  a  default/shortfall,  the  CC  has  available  to  it  all  the 
+
+collateral  deposited  by  the  concerned  member  to  fulfill  its  settlement  guarantee 
+
+obligation  regardless  of  whether  it  was  to  cover  client  positions  or  proprietary 
+
+positions  of  the  member.  Will  such  a  model  restricting  CC  from  using  collaterals 
+
+backing  client  trades  to  fulfill  its  settlement  guarantee  obligation  lead  to  unsettling 
+
+the soundness of the CC/greater systemic risk? 
+
+ 
+
+ 
+C.  T+1 settlement 
+
+The  financial  crisis  of  2008  has  brought  into  focus  the  risks  prevalent  in  the  system,  the 
+
+magnitude of which also relates to the length of the settlement cycle. A shortened settlement 
+
+ 
+
+Page 9 of 10 
+
+ 
+ 
+Securities and Exchange Board of India 
+
+ 
+ 
+
+Discussion Paper 
+
+cycle  not  only  reduces  that  but  also  reduces  and  frees  up  the  capital  required  to  collateralize 
+
+that risk. Some of the arguments for a shortened settlement cycle are as follows: 
+
+•  The value (and thus the risk) by which a position can diverge from the original contract 
+
+terms is proportional to the time to settlement. A 2 day VaR is 1.414 times a 1 day VaR. 
+
+•  A shortened settlement cycle of T+1 also reduces the number of outstanding unsettled 
+
+trades at any instant of time and thus decreases the unsettled exposure to CC by 50%. 
+
+•  Narrower  the  settlement  cycle,  narrower  is  the  time  window  for  a  counterparty 
+
+insolvency/bankruptcy to impact the settlement of a trade.  
+
+•  The  capital  blocked  in  the  system  to  cover  the  risk  of  trades  will  get  proportionately 
+
+reduced with the number of outstanding unsettled trades at any point of time. 
+
+•  Systemic risk depends on the number of outstanding trades and concentration of risk at 
+critical  institutions  as  CCPs  and  becomes  critical  when  this  magnitude  of  outstanding 
+
+transactions  increases.  Thus,  in  this  era  of  increasing  trade  volumes,  a  shortened 
+
+settlement cycle will help in reducing systemic risk. 
+
+•  A  by-product  of  the  risk  management system  in  the  securities  market  is the  credit  risk 
+that  end  clients  take  on  their  market  intermediaries  which  depends  on  the  amount  of 
+
+collateral  deposited  by  them  with  the  market  intermediaries.  A  shortened  settlement 
+
+cycle reduces the amount of collateral and thereby the resulting risk. 
+
+•  Saving in operational costs as many processes move from manual to automation mode. 
+
+Issues for discussion 
+
+16. Since retail clients make use of payment by cheque, is implementation of T+1 feasible? 
+17. Will the cost of modifications of existing trading and settlement systems for increased 
+
+automation and efficiency be lesser than the benefits envisaged by the move? 
+
+18. How  will  time-zone 
+
+issues  for  foreign 
+
+investors  and  cost  of  standardizing 
+
+communications of institutional trades be handled? 
+
+ 
+
+The comments / suggestions on this paper may be emailed to feedback-drmnp@sebi.gov.in  
+or may be sent to the following address, latest by May 20, 2013: 
+
+ 
+
+Deputy General Manager 
+Market Regulation Department – Division of Risk Management and New Products 
+Securities and Exchange Board of India, SEBI Bhavan 
+C4-A, G-Block, Bandra Kurla Complex, 
+Mumbai- 400051 
+
+ 
+
+Page 10 of 10 
+
+

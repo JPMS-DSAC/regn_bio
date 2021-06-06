@@ -1,0 +1,2217 @@
+ 
+
+ 
+
+Consultation Paper on Review of the Regulatory Framework for Credit Rating 
+
+Agencies (CRAs) 
+
+ 
+
+1.  Objective 
+
+The  objective  of  the  consultation  paper  is  to  seek  comments/  views  from  the  public  on  the 
+proposals  that  are  expected  to  improve  market  efficiency  by  reducing  the  information 
+asymmetry  in  the  market  and  enhancing  the  governance,  accountability  and  functioning  of 
+Credit  Rating  Agencies  (CRAs)  for  carrying  out  the  rating  activities  in  an  efficient  and 
+professional manner, thereby, yielding timely and accurate ratings. 
+ 
+ 
+
+2.  Background 
+
+SEBI  intends  to  review  the  regulatory  framework  for  CRAs  and  put  in  place  provisions 
+pertaining to  enhanced disclosures  by  issuer  companies that  shall  augment the  effectiveness 
+of the rating process and outcomes and enable CRAs to be proactive and come out with fair, 
+objective and unbiased ratings, mitigating the issues of conflict of interest. In pursuance of the 
+same,  the  regulatory  framework  and  practices  prevalent  in  other  jurisdictions  were  also 
+referred.  SEBI  also  held  discussions  with  various  market  participants/  stakeholders  to 
+understand  their  concerns  and  suggestions.  After  taking  into  account  these  suggestions  and 
+practices  abroad,  this  paper  has  been  prepared  where  the  proposals  are  listed  for  public 
+comments, along with detailed rationale for the same.  
+ 
+
+ 
+
+3.  Proposals 
+
+ 
+3.1.  Enhanced net-worth requirement for CRAs: 
+
+Minimum  net  worth  requirement  to  be  eligible  for  grant  of  registration  as  a  CRA  to  be 
+increased to Rs. 50 Crores, from current requirement of Rs 5 crores. 
+
+Rationale: 
+ 
+Currently,  as  per  SEBI  (CRA)  Regulations,  1999,  an  applicant  is  required  to  have  a 
+minimum  net-worth  of  Rs.  5  Crores  to  be  eligible  forgrant  of  registration  as  a  CRA. 
+Thiswas  stipulated  by  SEBI  in  1999.  The  systemic  importance  of  CRAs  as  well  as  the 
+roles,  responsibilities  and  business  undertaken  by 
+increased 
+significantly  as  a  result  of  evolution  of  the  financial  markets  and  change  in  market 
+dynamics. Therefore, the present obligations of the CRAs warrant an increased networth 
+requirement  to  ensure  that  CRAs  have  adequate  financial  capabilitiesthat  would  enable 
+them  to  invest  in  building  intellectual  capital,  developing  efficient  systems  and 
+infrastructure and adopting better technologyto ensure the highest standards of analytical 
+rigour. 
+
+them  have  since 
+
+ 
+
+Page 1 of 15 
+
+ 
+
+Accordingly, it is proposed that the minimum net worth requirement to be eligible for grant 
+of  registration  as  a  CRA  may  be  increased  to  Rs.  50  Crores.  The  existing  registered 
+CRAs having a net worth of less than rupees Rs. 50 crores, shall be provided a period of 
+three years to meet the said networth requirement. 
+ 
+
+3.2.  Enhanced Eligibility criteria for Promoter of a CRA 
+
+ 
+If  a  CRA  is  promoted  by  a  company  or  a  body  corporate  (other  than  a  public  financial 
+institution, scheduled commercial bank, foreign bank or foreign credit rating agency), then 
+such promoter should also have a sound track record of carrying on business in financial 
+services for a period of not less than five years. 
+
+ 
+
+Rationale: 
+
+Considering the important role played by CRAs, it is imperative that CRAs are promoted 
+by experienced and financially robust entities, with long-term commitment and interest in 
+the  financial  markets  whose  line  of  business  is  not  misaligned  with  the  activity  of  credit 
+rating. Therefore the promoter being a body corporate should have a sound track record 
+of carrying on business in financial services for a period of not less than five years. 
+
+3.3.  Requirements  of  disclosure  of  financial  results  on  the  Exchange(s)  for  issuers  of 
+listed debt to be brought in line with the corresponding requirements for issuers of 
+listed equity. 
+
+ 
+
+Rationale: 
+ 
+While issuers of listed equity are required to disclose financial results on a quarterly and 
+year-to-date basis (as per Regulation 33 of SEBI (LODR) Regulations, 2015), issuers of 
+listed  debt  are  required  to  disclose  financial  results  on  a  half-yearly  basis  (as  per 
+Regulation  52).  This  results  in  information  regarding  financial  performance  of  issuers  of 
+listed  debt  not  being  available  in  a  timely  manner  to  the  public  at  large.  This  constrains 
+the  ability  of  the  CRA  as  well  as  the  public  at  large  to  assess  the  creditworthiness  and 
+repayment ability of the Issuer in a timely manner.  
+
+Accordingly  the  requirement  of  disclosure  of  financial  results  for  Issuers  of  listed  debt 
+needs to be brought in line with that of issuers of listed equity and, hence, it is proposed 
+that  issuers  of  listed  debt  shall  disclose  on  the  Exchange(s)  the  below  mentioned 
+financial  results  in  the  format  as  prescribed  in  Schedule  III  to the  Companies  Act,  2013 
+(excluding notes and detailed sub-classification): 
+
+  Statement of Profit and Loss on a quarterly and year-to-date basis  
+  Statement of Assets and Liabilities/ Balance Sheet on a half-yearly basis  
+
+ 
+
+Page 2 of 15 
+
+ 
+
+ 
+
+ 
+
+3.4.  Mandatory  disclosure  of  annual  consolidated  financial  results  to  the  Exchange(s) 
+
+in case of issuers having only listed debt. 
+
+ 
+
+Rationale: 
+ 
+Support  from  the  holding/  parent  company  is  a  major  consideration  while  rating 
+instruments of subsidiaries. Hence, an analysis of the financials of the holding company 
+and the group as a whole helps the public at large in getting a holistic picture about the 
+creditworthiness of the entire group.  
+ 
+Vide Gazette Notification dated Feb 16, 2015, Companies (Indian Accounting Standards) 
+Rules,  2015  and  Ind  AS  110,  it  has  been  made  mandatory  to  prepare  consolidated 
+financial statements for companies (that control one or more entities)whose equity or debt 
+securities are listed or are in the process of being listed. 
+ 
+While  SEBI  (LODR)  Regulations,  2015  mandate  submission  of  annual  consolidated 
+financial  results  for  listed  equity,  the  same  is  not  mandated  for  issuers  of  listed  debt. 
+Mandating  the  same  for  entities  having  listed  debt  shall  aid  investors  in  factoring  in 
+possibility  of  parent  support  for  servicing  the  debt  obligations,  in  case  company’s  cash/ 
+cash  instruments  are  insufficient  to  service  forthcoming  debt  obligations,  and  put  listed 
+debt  at  par  with  listed  equity  in  this  respect  and  bring  it  in  line  with  Indian  accounting 
+standards. 
+ 
+Therefore, it is proposed that submission of annual consolidated financial results may be 
+mandated for issuers of listed debt. 
+ 
+
+ 
+
+3.5. Restriction on Crossholding in SEBI registered CRAs: 
+
+ 
+
+a.  No  CRA  shall,  directly  or  indirectly,  hold  more  than  10%  of  shareholding  and/  or 
+voting  rights  in  another  CRA  and  shall  not  have  representation  on  the  Board  of  the 
+other CRA. 
+ 
+
+b.  Acquisition of shares and/ or voting rights in a CRA resulting in change in control may 
+
+be permitted with the prior approval of SEBI. 
+ 
+
+c.  A shareholder holding 10% or more shares and/ or voting rights in a registered CRA 
+shall  not  hold  10%  or  moreshares  and/  or  voting  rights,  directly  or  indirectly,  in  any 
+other CRA. However, it shall not apply to holdings by broad-based domestic financial 
+institutions.  
+ 
+
+ 
+Rationale: 
+ 
+Currently, there is no restriction on a CRA acquiring shares/ voting rights in another CRA 
+or a person acquiring shares/ voting rights in more than one CRA. However, significant 
+crossholdings  may  give  rise  to  conflict  of  interest  wherein  the  independence  of  such  a 
+
+Page 3 of 15 
+
+ 
+
+ 
+
+ 
+
+CRA to function may get affected in terms of rating process followed, instruments having 
+dual ratings from these CRAs. 
+ 
+Having  some  thresholds  on  cross-holding  in  CRAs  may  mitigate  concerns  regarding 
+conflict of interest, independence of operations, etc. 
+ 
+A  threshold  of  10  per  cent  for  acquisition  of  shares  and/  or  voting  rights  has  been 
+proposed keeping in view  certain statutory rights and protections under the Companies 
+Act, 2013 available to such shareholders. Further, a threshold of 10 per cent, subject to 
+certain exemptions, is also applicable on cross-holdings in banks, as stipulated by RBI. 
+The  extant  SEBI  (CRA)  Regulations  also  recognize  the  influence  exercised  by 
+shareholders with 10 per cent or more holding and puts additional restrictions on CRAs 
+for  rating  of  securities  issued  by  such  entities, their  associates,  in  order  to  mitigate the 
+potential conflict of interest. 
+ 
+However,  introducing  restrictions  on  cross-holding  in  CRAs  may  limit  consolidations 
+within  the  industry.  Some  consolidations  may  lead  to  synergies/  economies  of  scale, 
+diversification of business risks,  transfer of technical know-how to the target entity,  etc. 
+Hence,  in  order  to  facilitate  such  scenarios,  acquisition  of  shareholding  and/or  voting 
+rights resulting in change in control may be permitted with the prior approval of SEBI.  
+ 
+In this regard, certain instances of restrictions on crossholding/ shareholding have been 
+observed, the same are as under: 
+ 
+India: 
+As  per 
+the  Securities  Contracts  (Regulation)  (Stock  Exchanges  and  Clearing 
+Corporations)  Regulations,  2012,a stock  exchange  shall  not  acquire  or hold  more  than 
+15 per cent of equity paid up capital in another recognized stock exchange. 
+ 
+In the banking sector, it is seen that while there is a restriction of 10 per cent of equity 
+capital/ voting rights on crossholding, consolidations can happen with the prior approval 
+of RBI. 
+ 
+Internationally: 
+As per the CRA Regulations of the European Securities and Markets Authority (ESMA), 
+a shareholder with at least 5 per cent of capital/ voting rights in a registered CRA cannot 
+have  more  than  5  per  cent  of  capital/  voting  rights,  directly  or  indirectly,  in  any  other 
+CRA. 
+ 
+
+ 
+ 
+ 
+ 
+
+Page 4 of 15 
+
+ 
+
+ 
+
+ 
+
+3.6.  Appeal by Issuers against ratings provided by CRAs 
+
+ 
+
+   Appeal by Issuers against the rating(s) provided to its instrument(s) by the CRA, shall be 
+reviewed  by  a  Rating  Committee  of  the  CRA  that  shall  be  different  from  the  rating 
+committee that had initially assigned the rating to the instrument(s) and shall consist of a 
+majority of independent members. 
+
+Rationale: 
+
+As  per  the  Rating  Process  followed  by  the  CRAs,  the  issuers  have  an  opportunity  to 
+appeal  against  the  rating  assigned  to  its  instruments  by  the  CRA,  which  is  thereafter 
+considered  for  a  review  by  a  Rating  Committee  of  the  CRA  which,  as  per  the  present 
+practice, may be the same or different from the Committee that had initially assigned the 
+rating to the instrument(s).  
+ 
+It  is  felt  that  in  the  interest  of  transparency  and  fairness,  issuers  should  get  a  just 
+opportunity of review by an independent Rating Committee of the CRA so that the facts 
+presented by the issuers can be reviewed impartially. In this regard, it is proposed that all 
+cases  of  appeal  by  issuers  against  the  rating  assigned  to  their  instruments  by  the  CRA 
+shall be reviewed by a separate Appeal Committee of the CRA. Such Appeal Committee 
+shall be different from the Rating Committee that had initially assigned the rating (that the 
+issuer is appealing against) and shall consist of a majority of independent members.   
+ 
+ 
+
+3.7.  Withdrawal of ratings permitted after a specified minimum period. 
+
+A  CRA  may  be  allowed  to  withdraw  the  ratings  subject  to  the  CRA  having  rated  that 
+instrument continuously for 5 years or 50% of tenure of instrument, whichever is higher. 
+At the time of withdrawal the CRA shall assign a rating to such security and issue a press 
+release also stating the reasons for withdrawal. 
+
+ 
+Rationale: 
+ 
+Currently,  the  CRA regulations,  do  not  allow  withdrawal  of  ratings  by  CRAs  and  require 
+CRAs  to  continuously  monitor  the  rating  of  securities  during  the  lifetime  of  securities. 
+However,  vide  SEBI  Circular  dated  March  31,  2017,  it  was  clarified  that  withdrawal  of 
+ratings  is  permitted  for  bank  loans/  facilities  and  open-ended  mutual  fund  schemes, 
+subject  to  certain  conditions  and  disclosure  of  reason(s)  for  withdrawal  in  the  Press 
+Release. 
+ 
+SEBI  has  received  representations  from  Issuers  requesting  permission  for  withdrawing 
+ratings  as Issuers  at  times  might  not  be  satisfied  with  the  services  being  offered  by  the 
+current CRA and might want to seek services of another CRA in rating its instruments. It 
+
+Page 5 of 15 
+
+ 
+
+ 
+
+ 
+
+has also been observed that internationally, there is no such requirement of a CRA rating 
+an instrument throughout its lifetime. 
+ 
+It  is  thereby  proposed  that  on  receipt  of  request  for  withdrawal  from  the  issuer,  a  CRA 
+may withdraw the rating subject to the CRA having rated that instrument continuously for 
+5 years or 50% of the tenure whichever is higher. The CRA would assign a rating to such 
+security at the time of withdrawal and issue a press release mentioning the reason(s) for 
+withdrawal. 
+ 
+
+3.8. Any  activity,  other  than  the  rating  of  financial  instruments  and  economic/  financial 
+
+ 
+
+research, shall be hived off by the CRA to a separate entity. 
+ 
+Rationale: 
+ 
+As per the SEBI (CRA) Regulations, 1999, CRAs can undertake the ratings of securities. 
+However,  CRAs  are,  currently,  also  additionally  undertaking  rating/  grading  of  non-
+financial instruments/ facilities/ projects/ entities, providing advisory services, etc. 
+ 
+It is pertinent to mention that undertaking such activities may pose regulatory and systemic 
+risks  as  such  activities  are  outside  the  jurisdiction  of  SEBI  and,  hence,  are  not  being 
+monitored.  In  order  to  address  these  concerns,  it  is  proposed  that  CRAs  may  segregate 
+the  activities,  other  than  the  rating  of  financial  instruments  and  economic/  financial 
+research, and hive off the same to a separate entity. 
+ 
+A similar provision was also brought in SEBI (Depositories and Participants) Regulations, 
+1996, wherein assignments, not incidental to the activity of depository, are required to be 
+segregated and hived off to a separate entity. 
+
+ 
+
+3.9.  Disclosure  of  non-accepted  ratings  only  for  a  period  of  6  months  of  non-
+
+acceptance 
+
+ 
+
+ 
+
+ 
+
+Details  of  non-accepted  ratings,  disclosed  on  the  website  of  the  CRAs,  may  be  made 
+available only for a period of 6 months of such disclosure. 
+
+Rationale: 
+
+As  per  extant  requirements,  ratings  not  accepted  by  the  issuer  shall  be  disclosed  as   
+non-accepted rating on the CRA’s website. The details to be disclosed include the name 
+of  the  issuer,  name/  type  of  instrument,  size  of  the  issue,  rating  and  outlook  assigned, 
+etc. 
+ 
+
+Page 6 of 15 
+
+ 
+
+ 
+
+ 
+
+Since non-accepted ratings are not monitored and reviewed by the CRA, post the initial 
+rating  exercise,  they  cease  to  accurately  reflect  the  creditworthiness  of  the  issuer/ 
+borrower and, therefore, do not remain meaningful after a period. Further, the instrument 
+may  subsequently  be  rated  by  other  CRA(s)  and,  post  acceptance  by  the  issuer/ 
+borrower,  be  continuously  monitored  by  these  CRA(s)  in  line  with  the  regulatory 
+requirements.  In  the  above  situations,  availability  of  non-accepted  ratings  on  a  CRA's 
+website  may  be  confusing  or  misleading  for  the  investors.  In  view  of  the  same,  it  is 
+proposed  that  details  of  non-accepted  ratings  be  made  available  on  the  website  of  the 
+CRAs only for a period of 6 months of such non-acceptance. 
+
+ 
+
+3.10. Enhanced disclosure norms for CRAs 
+
+ 
+An  Annual  Rating  Summary  Sheet  presenting  a  snapshot  of  rating  action  carried  out 
+during  the  year,  shall  be  uploaded  by  the  CRAs  on  their  websites  on  an  annual  basis, 
+separately for securities and financial instruments other than securities.  
+ 
+Rationale: 
+ 
+Currently,  CRAs  disclose  detailed  information  about  the  rating  actions  carried  out  by 
+CRAs  on  a  half-yearly/  annual  basis,  however  the  information  is  quite  detailed  and 
+exhaustive. In order to have a summarized view of the ratings/ actions taken by a CRA, 
+for  ease  of  perusal  by  the  investors  in  seeing  the  performance  of  the  CRA,  a  summary 
+sheet  presenting  a  snapshot  of  the  rating  actions  (new  ratings,  upgrades,  downgrades, 
+default cases, etc.) shall be uploaded by the CRAs on their website on an annual basis, 
+separately for securities and financial instruments other than securities.   
+ 
+The format of the same is presented at Annexure A. 
+ 
+
+3.11. Rationalization of existing disclosures for CRAs 
+
+ 
+The  disclosure  requirements  laid  down  in  the  Circular  CIR/  MIRSD/  CRA/  6/  2010  dated 
+May  3,  2010  need  to  be  rationalized  by  segregating  it  for  securities,  and  financial 
+instruments other than securities.  
+ 
+Further, CRAs shall also specify the Instrument Type (e.g. NCD, Preference Shares,  CP, 
+CD,  etc.),  Sector  of  Issuer,  Status  of  listing,  trigger  of  the  rating  action,  date  of  event/ 
+intimation in cases of default. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Page 7 of 15 
+
+ 
+
+ 
+
+ 
+
+Rationale: 
+ 
+The disclosures need to be such that are easily comprehensible to the investors. For ease 
+of  understanding  by  the  investors,  the  current  disclosures  need  to  be  segregated  for 
+ratings of securities and financial instruments other than securities.  
+ 
+The disclosures also need to reflect the promptness of the CRA in taking the rating action. 
+It  is,  thereby,  proposed  to  include  the  following  additional  information  in  the  various 
+disclosures mandated vide Circular dated May 03, 2010. 
+ 
+
+  Type of Instrument being rated (e.g. NCD/ Preference Shares/ CP/ CD, etc.) being 
+
+rated and Issue Size 
+  Sector of the Issuer  
+  Whether the instrument is listed or not 
+  Separate  tables  for  upgrades  and  downgrades  in  the  disclosure  pertaining  to 
+
+movement of ratings 
+
+  Trigger event that resulted in the rating movement 
+  Current Outstanding Rating in disclosure of History of Outstanding Ratings 
+  Date of event/date of intimation triggering change in rating in case of default cases 
+  Debt-weighted  default  rates  in  case  of  average  default  rates  for  last  5  financial 
+
+years 
+
+ 
+With respect to disclosure of debt-weighted default rates, it may be noted that  CRAs are 
+required to disclose default rates in accordance with Point 2.2.3 of the said Circular, which 
+is  the  number  of  defaults  among  rated  entities  in  the  static  pool  as  a  percentage  of  the 
+total number of entities in the static pool. It is proposed that in addition to this, CRAs shall 
+also disclose the debt-weighted default rate which shall be defined as the amount of rated 
+debt that defaulted in the static pool as a percentage of the total amount of rated debt in 
+the  static  pool.  The  averaging  for  debt-weighted  default  rate  shall  be  based  on  the 
+weighted average method where weights shall be the amount of debt rated in each static 
+period. This will help reflect the significance of a default from an issuer with high quantum 
+of rated debt on the overall default statistics. 
+ 
+Further, it is proposed to delete Annexure IV of the said Circular as the information in this 
+Annexure has been incorporated in the proposed modified Annexure II.  
+ 
+In  accordance  with  the  above  suggested  modifications,  the  proposed  formats  of  the 
+modified  disclosures,  with  the  added  columns  highlighted  in  bold,  are  presented  at 
+Annexure B. 
+ 
+ 
+ 
+
+Page 8 of 15 
+
+ 
+
+ 
+
+ 
+4.  Public Comments: 
+
+ 
+
+ 
+
+Public  comments  are  invited  on  the  proposals  contained  in  the  Consultation  Paper  in  the 
+following format: 
+ 
+
+Name of entity/ person/ intermediary/ organization: __________________ 
+
+Sr.No. 
+
+Pertains to Point No. 
+
+ 
+ 
+
+ 
+ 
+
+Comments/ 
+suggestions 
+ 
+ 
+
+Rationale 
+
+ 
+ 
+
+ 
+Comments/ suggestions may be forwarded by email to cra@sebi.gov.in or may be sent by post 
+to the following address latest by September 29, 2017. 
+ 
+Deputy General Manager  
+Market Intermediaries Regulation and Supervision Department- 4  
+Securities and Exchange Board of India  
+SEBI Bhavan, Plot No. C4-A, "G" Block, Bandra Kurla Complex  
+Bandra (East), Mumbai - 400 051  
+Ph: 022-26449315  
+ 
+Issued on: September 08, 2017 
+
+ 
+
+Page 9 of 15 
+
+ 
+
+ 
+
+Annexure  A:  Proposed  Format  for  Annual  Rating  Summary  Sheet, 
+segregated for securities and financial instruments other than securities 
+
+ 
+
+ 
+
+ 
+ 
+S.No.  Parameter 
+
+No. of ratings 
+
+1.   
+2.   
+
+New Ratings 
+Upgrades 
+Total Upgrades 
+
+a.   
+b.    Upgrades 
+
+3.   
+
+Investment 
+Investment Grade 
+Downgrades 
+Total Downgrades 
+
+a.   
+b.    Downgrades 
+
+from  Non-
+to 
+
+from 
+Investment  to  Non  - 
+Investment Grade 
+Defaults 
+Total Defaults 
+
+from  Non- 
+
+a.   
+b.    Default 
+
+4.   
+
+Investment Grade  
+
+c. 
+
+  Default from 
+
+5.   
+
+ 
+ 
+ 
+ 
+
+Investment Grade: 
+AAA 
+AA 
+A 
+BBB 
+Rating  Distribution 
+for 
+outstanding 
+ratings  as  on  31st 
+March 
+AAA 
+a.   
+AA 
+b.   
+A 
+c. 
+ 
+BBB 
+d.   
+BB 
+e.   
+f. 
+B 
+ 
+g.    C 
+h.    D 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Page 10 of 15 
+
+Amount of debt rated 
+(Rs. millions) 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+Annexure  B:  Rationalization  of  Disclosures  of  Circular  MIRSD/  CRA/  6/  2010  dated  May 
+03, 2010, segregated for Securities and Financial Instruments other than Securities 
+
+ 
+
+ 
+
+Annexure I - Details of new credit ratings assigned during last six-months 
+
+New Ratings assigned between Apr – Sep/ Oct – Mar 
+
+S. No 
+
+Name 
+the Issuer 
+
+of 
+
+Sector 
+(Finance  & 
+Banking, 
+Textiles, 
+etc.) 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Instrument 
+Type 
+(NCD, 
+Preference 
+Shares, 
+CP, 
+etc.) 
+ 
+ 
+
+CD, 
+
+ 
+
+Issue  Size 
+(Rs. 
+millions) 
+
+Listing 
+Status 
+(Listed/ 
+Unlisted) 
+
+Rating 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Annexure II–Movement* of Each Credit Rating 
+
+Annexure II A - Upgrades 
+
+Rating Upgrades between Apr – Sep/ Oct – Mar 
+
+S. 
+N
+o 
+
+Nam
+e  of 
+the 
+Issu
+er 
+
+Sector 
+(Finan
+ce  & 
+Bankin
+g, 
+Textile
+s, etc.) 
+
+Type  of 
+Instrume
+nt  being 
+rated 
+(NCD/  
+Preferen
+ce 
+Shares/ 
+CP/  CD, 
+etc.) 
+
+Listing 
+Status 
+(Listed/ 
+Unliste
+d) 
+
+Rating 
+prior  to 
+Revisi
+on  
+
+Rating 
+post 
+Revisi
+on 
+
+Notch 
+Differen
+ce 
+
+Date of 
+Press 
+Releas
+e 
+for 
+Rating 
+Upgra
+de 
+
+Trigger 
+Event 
+(Quarterly 
+Results, 
+Exchange 
+Disclosur
+es, 
+Annual 
+Surveillan
+ce etc.) 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+Page 11 of 15 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annexure II B – Downgrades 
+
+Rating Upgrades between Apr – Sep/ Oct – Mar 
+
+S. 
+N
+o 
+
+Nam
+e  of 
+the 
+Issu
+er 
+
+Sector 
+(Finan
+ce  & 
+Bankin
+g, 
+Textile
+s, etc.) 
+
+Type  of 
+Instrum
+ent 
+being 
+rated 
+(NCD/  
+Preferen
+ce 
+Shares/ 
+CP/  CD, 
+etc.) 
+
+Rating 
+prior to 
+Revisi
+on  
+
+Rating 
+post 
+Revisi
+on 
+
+Listing 
+Status 
+(Listed
+/ 
+Unliste
+d) 
+
+Date  of 
+Press 
+Release 
+for 
+Rating 
+downgra
+de 
+
+Notch 
+Differen
+ce 
+
+ 
+
+Trigger 
+Event 
+(Quarterly 
+Results, 
+Exchange 
+Disclosur
+es, 
+Annual 
+Surveillan
+ce etc.) 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+*Will cover only rating changes. Reaffirmations shall be excluded 
+
+ 
+
+Annexure III - Movement of each credit rating from investment grade to non-
+
+investment grade and vice versa 
+
+Rating Movement from Investment Grade and Non-Investment Grade between Apr – Sep/ Oct – 
+
+From Investment Grade to Non-Investment Grade 
+
+Mar 
+
+S. 
+No 
+
+Name  of 
+the Issuer 
+
+Sector 
+(Finance  & 
+Banking, 
+Textiles, etc) 
+
+Instrument 
+Type  of 
+(NCD/  
+being 
+Preference  Shares/ 
+CP/ CD, etc.) 
+
+rated 
+
+Listing 
+Status 
+(Listed/ 
+Unlisted) 
+
+Rating  prior 
+to Revision  
+
+Rating 
+post 
+Revision 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+From Non- Investment Grade to Investment Grade 
+
+S. 
+No 
+
+Name  of 
+the Issuer 
+
+Sector 
+(Finance  & 
+Banking, 
+Textiles, etc) 
+
+Instrument 
+Type  of 
+being 
+(NCD/  
+Preference  Shares/ 
+CP/ CD, etc.) 
+
+rated 
+
+Listing 
+Status 
+(Listed/ 
+Unlisted) 
+
+Rating  prior 
+to Revision  
+
+Rating 
+post 
+Revision 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Page 12 of 15 
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+Annexure V – History of Credit Rating of all Outstanding Securities 
+
+History of Credit Rating of all Outstanding Securities 
+
+N
+a
+m
+e 
+of 
+th
+e 
+Is
+su
+er 
+
+Sec
+tor 
+(Fin
+anc
+e  & 
+Ban
+kin
+g, 
+Tex
+tiles 
+etc) 
+
+Instr
+ume
+nt 
+Type 
+(NC
+D, 
+Pref
+eren
+ce 
+Shar
+es, 
+CP, 
+CD 
+etc) 
+ 
+ 
+
+Outst
+andin
+g 
+Issue 
+Size 
+(Rs. 
+millio
+ns) 
+
+Listi
+ng 
+Stat
+us 
+(Lis
+ted/ 
+Unli
+ste
+d) 
+
+Ini
+tial 
+Ra
+tin
+g 
+
+Da
+te 
+of 
+Ini
+tial 
+Ra
+tin
+g 
+
+Dat
+e  of 
+1st 
+Re
+visi
+on 
+
+Rat
+ing 
+afte
+r  1st 
+Re
+visi
+on 
+
+Rat
+ing 
+afte
+r 
+2nd 
+Re
+visi
+on 
+
+…
+…
+… 
+
+Dat
+e  of 
+2nd 
+Re
+visi
+on 
+
+Dat
+e  of 
+3rd  
+Re
+visi
+on 
+
+Rat
+ing 
+afte
+r 3rd  
+Re
+visi
+on 
+
+Curre
+nt 
+Outst
+andin
+g 
+Ratin
+g 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+  
+
+ 
+
+ 
+
+S
+. 
+N
+o 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+Annexure VI – List of Defaults Separately for Each Rating Category 
+
+Annexure VI A – Long Term Scale 
+
+Category-wise List of Defaults in a Financial year – Long Term Scale 
+
+S. 
+N
+o 
+
+Na
+me 
+of 
+the 
+Issu
+er 
+
+Sect
+or  
+
+Instrum
+ent 
+Type  
+
+Issue 
+Size 
+(Rs. 
+millio
+ns) 
+
+Listing Status 
+(Listed/ 
+Unlisted) 
+
+ 
+
+ 
+
+Ratin
+g 
+prior 
+to 
+Defa
+ult 
+
+Trigg
+er 
+Even
+t 
+
+Date  of 
+trigger 
+of 
+event/ 
+receivi
+ng 
+intimat
+ion 
+
+Date  of 
+Default 
+Recogni
+tion 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Rating prior to default - AAA category 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Rating prior to default - AA category 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Page 13 of 15 
+
+1 
+
+2 
+
+  
+
+  
+
+1 
+
+  
+
+ 
+
+ 
+
+2 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+1 
+
+2 
+
+1 
+
+2 
+
+1 
+
+2 
+
+1 
+
+2 
+
+1 
+
+2 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Rating prior to default - A category 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Rating prior to default - BBB category 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Rating prior to default - BB category 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Rating prior to default - B category 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Rating prior to default - C category 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Annexure VI B – Short Term Scale 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Category-wise List of Defaults in a Financial year – Short Term Scale 
+
+S. 
+N
+o 
+
+Nam
+e  of 
+the 
+Issu
+er 
+
+Sect
+or  
+
+Instrume
+nt Type  
+
+Issue 
+Size 
+(Rs. 
+million
+s) 
+
+Listing 
+Status 
+(Listed/ 
+Unliste
+d) 
+
+ 
+
+ 
+
+Ratin
+g 
+prior 
+to 
+Defa
+ult 
+
+Trigg
+er 
+Event 
+
+Date  of 
+trigger 
+of 
+event/ 
+receivin
+g 
+intimati
+on 
+
+of 
+
+Date 
+Default 
+Recogniti
+on 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Rating prior to default - A1 category 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Rating prior to default - A2 category 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Rating prior to default - A3 category 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Page 14 of 15 
+
+1 
+
+2 
+
+1 
+
+2 
+
+1 
+
+2 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+Rating prior to default - A4 category 
+
+1 
+
+2 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annexure VII – Average Default Rates for the last 5-Financial Year Period  
+
+Annexure VII A- STRUCTURED INSTRUMENTS 
+
+ 
+
+Weighted by No. of Issuers in Static 
+
+Weighted by Amount of Debt in 
+
+Pool 
+
+Static Pool  
+
+Rating Category 
+
+1-Year Default 
+
+3-Year 
+
+1-Year Default 
+
+3-Year 
+
+Rate 
+
+Cumulative 
+Default Rate 
+
+Rate 
+
+Cumulative 
+Default Rate 
+
+AAA 
+AA 
+A 
+
+BBB 
+BB 
+B 
+C 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Annexure VII B- NON - STRUCTURED INSTRUMENTS 
+
+ 
+
+Weighted by No. of Issuers in Static 
+
+Weighted by Amount of Debt in 
+
+Pool 
+
+Static Pool  
+
+Rating Category 
+
+1-Year Default 
+
+3-Year 
+
+1-Year Default 
+
+3-Year 
+
+Rate 
+
+Cumulative 
+Default Rate 
+
+Rate 
+
+Cumulative 
+Default Rate 
+
+AAA 
+AA 
+A 
+
+BBB 
+BB 
+B 
+C 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Page 15 of 15 
+
+

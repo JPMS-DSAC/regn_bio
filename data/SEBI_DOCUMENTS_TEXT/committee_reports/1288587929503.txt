@@ -1,0 +1,2714 @@
+Assessment of Long Term Performance of Credit
+
+Rating Agencies in India
+
+A Study by
+
+National Institute of Securities Markets,
+
+Navi Mumbai 400 705
+
+March 2009
+
+1
+
+Contents
+
+1
+2
+
+3
+4
+
+5
+
+Terms of Reference
+Executive Summary
+Acknowledgements
+CRAs: Relevance and Perspective
+Raters and Ratings: Evolution and the
+Current State of the Art
+Critical Evaluation of Ratings
+Emerging Trends and Alternate Ap-
+proaches
+Conclusions and Recommendations
+References
+Annexure
+Sample Questionnaire
+
+3
+4
+8
+9
+15
+
+31
+37
+
+39
+50
+53
+
+2
+
+Terms of Reference
+
+This Study has been commissioned by NISM as desired by the Committee set
+up at the behest of HLCCFM, to look into the legal and policy framework for
+regulating the activities of Credit Rating Agencies (CRAs), vide letter bearing
+Reference No. F.No.12/11/07-PM, dated 16.1.2009.
+The Terms of Reference are listed as under:
+
+1. Assessment of the performance of CRAs in India in terms of parameters
+
+like default and transition data
+
+2. How much information asymmetry is bridged by CRAs
+
+3. How far CRAs assessment helps ﬁnancial regulation
+
+4. Accountability, corporate governance issues of CRAs
+
+5. Disclosures of methodologies of rating
+
+6. Rating of complex products like structured obligation
+
+7. Uniformity or otherwise in deﬁnition and rating nomenclature of CRAs in
+
+India
+
+8. Consistency of rating data with accounting data
+
+9. Overall evaluation of what CRAs have done in terms of value addition or
+
+the Indian economy
+
+CRAs have agreed to nominate oﬃcials and provide data and inputs for facili-
+tating this Study.
+A time frame of two months, commencing has been granted for submission of
+the report.
+NISM constituted a two-man Project Team to carry out the Study.
+The Team used an array of approaches, including a Literature Survey, accessing
+Actual Data with CRAs, Structured Questionnaires with CRAs, Unstructured
+Interviews with various CRAs, Issuers, Institutional Investors, and Subject Ex-
+perts. The outcome of these interactions were gauged against the results of this
+independent study to identify strong and weak areas and suggest improvements
+in the processes and provide inputs for policy formulation and regulation.
+
+3
+
+Executive Summary
+
+CRAs have been in operation since the late 1890s, signifying an existence of over
+100 years. Rating standards by Moody’s and S&P were known to be stringent.
+From 1970 onwards, ﬁnancial literature has been commenting on the superior
+information eﬃciency of the markets, in comparison to information disseminated
+by the CRAs. With the advent of securitization and its oﬀshoots, a complex
+web of contracts are stitched together to service structured obligations. CRAs
+overestimated the enforceability of the structured obligations and ﬁssures in
+the structures resulted in the post-Enron, post-Worldcom debacle. Lack of
+corporate governance standards and vigilance by accountants were identiﬁed as
+the root cause, while the CRAs were accused of abetting the intricate structures
+with high credit ratings. CRAs (together with accountants) have once again
+come under sharp criticism after the sub-prime debacle, with the root cause
+being poor originations standards of banks and excessive, opaque structures
+designed by aggressive merchant banks. Structured ﬁnance, which commenced
+with class markets, moved into mass markets with the impetus from investment
+bankers. It is said that CRAs once again overestimated the credibility of the
+contracting parties to honour the structured obligations and were led to base
+their ratings on complex quantitative ‘black-box’ models, with data from benign
+periods. This has led to investors being saddled with poor quality, illiquid paper
+with systemic implications.
+
+The situation in India is diﬀerent on account of conservative origination stan-
+dards and lower complexity levels in securitized transactions (mostly Pass-
+Through-Certiﬁcates or PTCs) with very little systemic implications. There
+is, however, the possibility of asymmetric information between the issuers and
+all others due to reasons mentioned in this study.
+
+CRAs have been operating in India since 1988. CRISIL, ICRA and Fitch India
+have collaborative arrangements with S&P, Moody’s and Fitch respectively.
+CARE is promoted by IDBI & Canara Bank. This demonstrates the pedigree
+and parentage of Indian CRAs. The quality of their staﬀ is also observed to
+be competent. Brickworks, the latest entrant, was established in 2008. Thus,
+a total of 5 major CRAs operate in India at present. Most of the ratings by
+CRAs relate to Bank Loans, on account of ascertaining the Credit-related capital
+adequacy.
+
+The two known incidents of CRAs under public scrutiny were the CRB (the
+NBFC) collapse in the mid 1990s and the default by BPL on its loans from LIC.
+Barring these two incidents, there has been no widespread criticism of the CRAs.
+The objective of this study is to gauge the robustness of the operations of the
+CRAs with a view to suggest measures for improvements in their performance.
+
+PhD level studies in India have shown that (i) Ratings in India are more lenient
+than their counterparts in USA (ii) CRAs in India are more subjective in their
+
+4
+
+assessment and (iii) the deterioration in ratings is not captured in time by CRAs,
+if compared with ﬁnancial information in the public domain. These studies were
+completed in 2001.
+
+The present study is another attempt to assess the performance of CRAs, par-
+ticularly in the light of the signiﬁcant events in the global ﬁnancial system and
+the criticism being faced by CRAs in USA. It covered 5 CRAs, 40 Ratings, 34
+Analysts and 10 Institutional Investors.
+
+Under study, a simple model, built around Net Worth, Leverage and Interest
+Cover, was used to detect deteriorations in creditworthiness. When compared
+with the actual ratings, it was found that the actual ratings did not always reﬂect
+the falling creditworthiness in a timely manner. The team has also suggested
+use of Artiﬁcial Neural Networks (ANN) which can be deployed by CRAs and
+Investors, to cross-verify the rating process and do a quality audit.
+
+Over the years, CRAs have been disseminating information on ratings and ratio-
+nales, free of cost to the investing public, Many ﬁrms are coming into the public
+domain through the rating exercise, especially SMEs that approach banks for
+loans. Hitherto, it was diﬃcult to obtain information unlisted ﬁrms. The credit
+rating exercise is likely to instill discipline into SMEs early enough at their stage
+of growth. For the investing community, any additional information at a zero-
+or low-cost, presents an opportunity to bridge the information gap on ﬁrms and
+industries. As regards structured obligations, CRAs have already introduced
+‘complexity grading’ to forewarn investors about the intricacy of structures.
+
+While the CRAs have been staﬀed with very competent personnel, it is also
+felt that there is room for improvement in the work systems, to address the
+problem of asymmetric information. Ab initio, there is asymmetric information
+between the management of rated companies and their auditors. In turn, the
+CRAs depend on auditors. Further information is obtained from the bankers.
+The CRAs also rely on projections made by the company managements. Due
+to this over-reliance on information from the company and the auditors, other
+formal and informal sources of information are not utilized. Many good banks go
+beyond Financial Statement Analysis before taking credit decisions. Hence, the
+asymmetric information problem will continue to exist. It is strongly suggested
+that the Due Diligence Review Process (DDR) goes beyond Financial Statement
+Analysis. More broadly, development of DDR skills is important to improve the
+eﬃciency of CRAs, Merchant Banks, Lending Banks, Accountants and Auditors.
+The existing approach of relying on company managements may be insuﬃcient
+in detecting falling creditworthiness in weaker or not-so-well governed ﬁrms.
+
+There is no standard process of analysis across various Analyst teams. There
+is also a variation between the rating judgments of the individual Analysts and
+the ﬁnal ratings arrived at by consensus. Notes of dissent are not recorded,
+resulting in loss of valuable check-points for further monitoring. There seems
+
+5
+
+to be a high level of subjectivity in the ﬁnal ratings process.
+
+Operational Audits, covering matters of record-keeping, minutes, surveillance,
+periodicity of reviews etc need to be made mandatory. This will result in the
+reviews being conducted at shorter levels, as also a proper monitoring trail.
+
+For the beneﬁt of the public, it is necessary to display the various rating symbols
+of various CRAs on a common website (say of regulators), on a comparable scale.
+
+While rating structured obligations, CRAs need to constantly update their rat-
+ing models current with realistic cash ﬂow estimates, and communicate the same
+to investors, so as to mitigate the eﬀects of model risk and counterparty risk.
+
+Some investment institutions blindly rely on the ratings given by CRAs. Most
+of the investment institutions, however, use the credit ratings as a ﬁlter and
+perform their own DDR before making the ﬁnal investment decision. This
+system of additional cross checks is a healthy practice on the part of users of
+ratings.
+
+During the year 2008-09, a turbulent period for ﬁnancial systems all over the
+world, a number of Indian companies opted for Corporate Debt Restructuring
+(CDR). A risk-averse market also saw the reluctance of many investors in opting
+for the conversion of their FCCB into stocks, while opting for the redemption of
+the instrument itself. This placed additional strain on the ﬁnancial resources of
+issuers, coupled with the fact that it became extremely diﬃcult to raise equity
+from the markets after January 2008. The tumultuous year showed the strain
+on the ﬁnances of many companies.
+It also threw up questions on the lax
+attitude of corporations towards governance and accounting – where form was
+given precedence over substance. In light of the above, Accountants, Auditors,
+CRAs, Banks, Merchant Banks and Investors need to exercise extra vigil in
+gauging the creditworthiness of issuer companies.
+
+A survey of CRAs and their Analysts revealed that there was a very low level
+of awareness among Indian accountants of International Financial Reporting
+Standards (IFRS) which Indian corporations need to comply with eﬀective from
+ﬁnancial year 2011. Awareness levels and competence needs to be raised on a war
+footing across the entire ﬁnancial community, with an emphasis on substance,
+not merely formats. This would be a major step in strengthening the Indian
+ﬁnancial system.
+
+It is often said that Balance Sheets seldom repay loans – but people do. This
+brings back the issues of good governance and accounting to the fore. The ex-
+isting ‘form-over-substance’ style of governance goes against the grain of true
+corporate governance. To address this deeper issue, the subject of corporate
+governance – or lack of it, merits further research for a timely detection of
+falling corporate governance standards. Some suggested parameters to detect
+
+6
+
+‘form-over-substance’ governance styles are: aggressive expansion, diversiﬁca-
+tion, mergers & acquisitions, frequent fund-raising sprees, leverage and related
+party transactions, to name a few. The outcome of such research could result
+in inputs to strengthen the ﬁnancial markets and CRAs in particular.
+
+The paragraphs above represent the gist of our ﬁndings, based on the Terms
+of Reference. Details of this study, carried out from January through March,
+2009, are contained in this report.
+
+7
+
+Acknowledgements
+
+Thanks are due to several persons who have contributed to this study.
+
+Dr KP Krishnan and CKG Nair of the Ministry of Finance, Government of
+India, provided the critical preliminary inputs. MS Ray and Suresh Menon of
+SEBI also provided vital inputs. Pratip Kar, former ED-SEBI, also provided
+tremendous insight into the various aspects of Credit Rating. The Board of
+Governors, NISM also provided guidance from time to time in shaping this
+Report.
+
+From the rating community, Raman Uberoi and Ajay Dwivedi of CRISIL, Amit
+Tandon and Dipesh Patel of Fitch, Naresh Takkar and Anjan Ghosh of ICRA,
+DR Dogra, Rajesh Mokashi, Sathees Kumar and Naveen Jain of CARE and
+Ramaswamy Annam and Rajender Walia of Brickworks provided the bulk of
+the data and information based on which the ﬁndings of this report are based.
+Thanks also to the various Analysts from all the rating agencies that helped in
+providing data through the Questionnaire. Some of the issuers and investors
+also participated in the deliberations and thanks are due to them too.
+
+Each of the persons mentioned above have spared their valuable time despite
+their busy schedules.
+
+Thanks are due to the students of NMIMS University, School of Business Man-
+agement, who participated in the various excercises on credit ratings during the
+course of their studies in Fixed Income Securities and Computational Finance.
+
+Thanks are due to various libraries, such as NMIMS, IICM, and the British
+Council Library for the researching facilities.
+
+For NISM
+
+Dr Sunder Ram Korivi
+Mr Suneel Sarswat
+Dr T Geetha
+
+Vashi - Navi Mumbai, March 31, 2009
+
+8
+
+Chapter 1
+
+CRAs: Relevance and Perspective
+
+The study is a proactive initiative, with a view to assess the preparedness of
+the CRAs to communicate signals and reduce the informational asymmetries
+that generally exist between issuers and investors. CRAs have been rating
+instruments and subjecting them to periodic review, sometimes necessitating
+a transition to a lower or higher grade. The timeliness of the transition is
+also a matter of informational asymmetry. Thus far, CRAs have obtained the
+approval of SEBI, giving them the status of approved rating agencies. The RBI
+also has put regulations in place with reference to credit rating agencies and
+credit information companies. There are ﬁve Credit Rating Agencies registered
+with SEBI, viz. CRISIL, ICRA, CARE, Fitch and Brickworks. Of this, CRISIL
+has been the oldest, having been in operation since 1988 followed by ICRA
+(1991), CARE (1994), Duﬀ & Phelps, subsequently taken over by Fitch (1999)
+and Brickworks (2008). This makes it an opportune time to assess the quality
+of services that the CRAs have been rendering to the investing community in
+risk mitigation. SEBI put in place the Regulations for CRAs in 1999 this has
+been followed by a Code of Conduct for CRAs. The desire for this study is
+truly proactive since its pre-dates the outbreak of the ‘sub-prime’ type of crisis
+of a scale and magnitude witnessed in USA and Western Europe.
+In those
+countries, CRAs are facing the heat for the high ratings for complex structures,
+laced with enhancements, through guarantees, by entities that ultimately did
+not have suﬃcient risk capital. This left several investors, including institutional
+investors saddled with substantial investment losses and illiquid paper. It is not
+the objective of this exercise to pass any moral judgement on the performance
+of the CRAs in India. The CRAs, on their part, have consented to cooperate in
+such a study. The study presents a timely opportunity for introspection by all
+concerned entities – policy makers, regulators, investors, rating agencies, issuers
+and intermediaries.
+
+CRAs have enjoyed operating in an unfettered manner, and are free to inde-
+pendently report their ﬁndings. This is true of sovereign ratings as well as
+other instruments including those issued by state governments, local govern-
+ments, corporate entities, ﬁnancial institutions and special investment vehicles.
+A rating exercise, by itself, is a complex process and is a mix of objective and
+subjective judgment. On their part, the regulators have also appreciated the
+CRAs’ need to operate in an independent manner and kept up with the spirit
+of independence. The rating exercise would also involve many methodological
+aspects, some of which are intellectual proprietary in nature. It is to be under-
+stood and appreciated that CRAs may not be in a position to reveal the intimate
+Intellectual Property (IPR) part of the rating process. Further, the intended
+study itself is of a broad macro nature of the CRAs in totality, without going
+too much into the mechanical, micro details. To gain a further perspective, it
+may be useful to gauge the feedback from some users of the ratings, viz.
+life
+
+9
+
+insurance companies, provident funds, pension and superannuation funds etc.
+It would be useful to conduct an ethnographic study to understand and experi-
+ence the manner in which the ratings are used and match up to the expectation
+of this crucial investing community. On the whole, the exercise will be useful
+in broadly evaluating the useful role by CRAs in de-risking or mitigating risk
+related to the investment climate in India, and hence made a contribution to
+economic development.
+
+The study could begin with a brief historical perspective, mainly revolving
+around the lessons to be drawn. Rating involves higher-level judgement, and
+a mechanical, check-list approach to gauge the eﬃciency of CRAs transaction-
+by-transaction is not desirable. A wide range of instruments are rated, ranging
+from simple to complex. In case it is found that the simpler products are not
+analyzed appropriately, it could raise doubts on the ability to raise more com-
+plex products. This applies to initial ratings as well as migrations/transitions
+on renewal of ratings. Even the migration speeds become relevant in order to
+gauge reaction times.
+It would be pertinent to look for correlations between
+ratings of simple products and the actual performance of the rated instruments,
+vis--vis the corresponding variables for the complex products.
+
+This is a classic case wherein CRAs operate in domains regulated by diﬀerent
+entities. SEBI recognizes CRAs, who rate instruments that are purchased in
+the capital markets (regulated by SEBI), and a diverse community of investors
+including banks (regulated by RBI), insurance companies (regulated by IRDA),
+pension funds (regulated by PFRDA). This necessitates inter-regulatory coor-
+dination. It is also necessary to identify areas wherein the policy-makers could
+facilitate an optimal environment for removal of asymmetric information. It re-
+lates to the design, structure and extent of the regulatory structure pertaining
+to the operations of CRAs, and an enquiry as to whether the prevailing policy
+regulatory regime has helped or harmed the functioning of CRAs. There also
+exists the conﬂict-of-interests issue, wherein the CRAs garner fees from the is-
+suer (not the user), thereby creating an obligation which could impinge upon the
+independence. Further, CRAs also engage in consulting and advisory services,
+resulting in personal relationships which further impair independent thinking.
+
+Today, the need for ratings permeates boundaries beyond credit rating; for
+instance, Brickworks rates the services of hospitals, something of immediate use
+to the regulators of health insurance (IRDA) as health policy makers and the
+general public. It is also learnt that the relationship that prevails between the
+CRAs is one of mutual respect and healthy competition.
+
+This study aims at reporting various facts to be conﬁrmed on the role of CRAs
+in India, with a view to also make recommendations to enhance the operating
+environment for CRAs so that they can collate and disseminate value-added
+information to the investing community in the times to come.
+
+The High-Level Coordination Committee on Financial Markets (HLCCFM) met
+
+10
+
+on December 23, 2008 and obtained the consent of the CRAs for the conduct
+of this study. The Committee has, vide its letter dated January 16, 2009,
+mandated NISM to carry out this study over a 2-month time frame, with the
+following terms of reference:
+
+1. How far CRAs assessment helps ﬁnancial regulation
+
+2. Accountability, corporate governance issues of CRAs
+
+3. Consistency of rating data with accounting data
+
+4. Disclosures of methodologies of rating
+
+5. Assessment of the performance of CRAs in India in terms of parameters
+
+like default and transition data
+
+6. Uniformity or otherwise in deﬁnition and rating nomenclature of CRAs
+
+in India
+
+7. How much information asymmetry is bridged by CRAs
+
+8. Rating of complex products like structured obligation
+
+9. Overall evaluation of what CRAs have done in terms of value addition
+
+or the Indian economy
+
+10. Approaches followed for credit enhancements
+
+11. Experiences with structured obligations and desirability of such prac-
+
+tices
+
+12. Matters related to conﬂicts of interest faced by rating agencies
+
+13. Cases of instruments being rated higher than the issuer
+
+Each of the CRAs volunteered a nodal oﬃcer for interacting with the NISM
+study team.
+
+Based on the internal discussions at the Board of Governors level at NISM, the
+scope was extended to cover the last 4 points mentioned above.
+
+‘Rating the raters’ has been a hotly debated issue in the press after every crisis
+of conﬁdence in ﬁnancial markets. There is also a widespread view that the ﬁ-
+nancial markets are more aware of the weakness in issuing companies and factor
+this information into asset prices before the ﬁnancial markets react. This places
+the role and functioning of CRAs under critical public review. To address this
+question, it needs to be considered as to whether there is any person or entity
+that is superior to the CRAs in skill and knowledge to pass judgement. It would
+be more practical, therefore, to ascertain whether reasonable standards of due
+diligence have been exercised in order to mitigate credit risk. This logically
+
+11
+
+results in the need for CRAs to put in place approaches and methodologies that
+are disclosed to the public and that such methods could result in providing con-
+sistent results that can be fairly relied upon to base a credit judgement. It is not
+clearly as to how much importance is given to probability of default and subjec-
+tive judgement factors. As regards Government Securities, there is certainty as
+to the dates and amounts that can be received on each due date; this is not true
+in the case of other instruments.
+
+Notably, regulators in India have not speciﬁed methodologies but have left it
+to the choice of the CRAs. Practices tend to vary around a broad theme of
+approaches and methodologies.
+
+SEBI (Credit Rating Agencies) Regulations were issued in 1999. This was
+amended in 2003 and followed up with a Code of Conduct, also in 2003. Each
+of these eﬀorts by SEBI preceded the sub-prime crisis in USA and Europe, and
+can be construed as pro-active measures. Some of SEBI’s observations are as
+under:
+
+1. CRAs need to undergo thorough Operational Audits in order to tone up
+their systems. This is in addition to the ﬁnancial audits they undergo for
+balance sheet purposes.
+
+2. Dissent notes are not captured
+
+3. CRAs also need to cross-verify their analysis with the Registrar of Com-
+panies (ROC), Debenture Trustees, Stock Exchanges, and Institutional
+Investors etc.
+
+4. The Appeals Committee needs to be constituted with members who are
+completely diﬀerent from the original committee that recommended the
+rating being disputed
+
+5. There are issues related to conﬂict of interest, in relation to composition
+
+of review committees.
+
+6. Compensation paid to analysts is not revealed
+
+7. Rating Symbols are diﬀerent across CRAs
+
+8. CRAs adhere to the SEBI Code of Conduct but all of them do not adhere
+
+to the IOSCO Code of Conduct for CRAs
+
+9. As regards the ‘issuer pays’ model, it continues to be the best option, until
+
+a better method arises.
+
+10. There is also a need for the general public to know the Ownership Struc-
+
+ture of the CRAs to reduce the possibility of conﬂict of interest.
+
+11. The usage of the word Credit Rating needs to be restricted only to CRAs
+
+registered with SEBI.
+
+12
+
+12. The general public also needs to be educated on the usage of ratings.
+Disclaimers need to be made upfront by CRAs on the use of the ratings.
+
+The SEBI (CRA) Regulations provide for a continuous, periodic review and
+monitoring. The exact periodicity and rating methodologies are best left to the
+judgement of the CRAs.
+
+There was a case wherein an issuer defaulted on a debt obligation and a lead-
+ing Domestic Financial Institution (DFI) brought the fact to the notice of the
+concerned. This brought a probable lacuna in the rating process to the notice
+of the regulators.
+
+The activities of CRAs cover multiple jurisdictions – banks and insurance com-
+panies who lend/invest in to rated instruments. It is desired that SEBI be the
+nodal agency for the registration and inspection of CRAs. Members from other
+regulatory bodies such as RBI, IRDA, PRFDA could be a part of the joint
+inspection team.
+
+This SEBI inspection was an intensive, detailed and exhaustive by a strong
+inspection team which spent considerable amount of time with each CRA. The
+study served as a valuable eye-opener on the operational and procedural aspects.
+
+The current study by NISM is on the rating processes, methodological aspects,
+and the eﬀectiveness of the CRAs’ rating exercises. This is based on a three-
+way interaction with the CRAs, the investors and the issuers. The study is also
+aimed at making suggestions for the better functioning of the CRAs so as to
+serve the ﬁnancial markets with quality information on a consistent basis. It is
+based on a detailed Questionnaire as well as unstructured interviews and was
+conducted over a period of 2 months.
+
+In recent times, 3 PhD level theses were carried out in areas related to CRAs in
+India. The authors are Mamta Arora of University of Delhi (South Campus),
+Sen Choudhury of IGIDR and T Geetha of IIT Bombay.
+
+Mamta Arora concluded that the CRAs use more of judgement and subjectivity
+in their rating exercises. Sen Choudhury concluded that the rating process of
+Indian CRAs is less robust and they showed a greater degree of leniency in
+comparison to their western counterparts such as Moody’s and S&P.
+
+On the subject of ﬁnancial markets beating the CRAs in reacting to adverse
+news, it has been observed that the CRAs have exhibited slower response. The
+major study in this genre was by T Geetha (PhD thesis, IIT Bombay) concluded
+in 2001, whose preliminary ﬁndings were presented at the UTI Capital Markets
+Conference in 2000. The researcher has concluded that the markets react faster
+in incorporating fresh news into asset price movements. A combination of ac-
+counting and econometric tools was used in that study. It was also found that,
+in actual practice, the CRAs use a lot of subjectivity in their ﬁnal judgement.
+
+13
+
+This current study also uses a similar methodology to validate that conclusion
+and suggests viable alternatives. The objective is to place a simple tool in the
+hands of the public that will enable a cross-veriﬁcation of the reports by CRAs
+in a cost-eﬀective manner and raise the quality standards bar of the CRAs. The
+study also suggests practical ways in which the CRAs can improve their rating
+processes and help reduce the information gap.
+
+14
+
+Chapter 2
+
+Raters and Ratings: Evolution and the Current
+
+State of the Art
+
+The Raters
+
+A credit rating agency (CRA) is a commercial concern engaged in the business
+of credit rating of any debt obligation or of any project or program requiring
+ﬁnance in the form of debt or otherwise. CRA is diﬀerent from a mercantile
+credit agency, which usually supplies general information on corporates. It is
+also diﬀerent from a credit bureau, which collates information on credit record
+of corporates or even individuals. Nor is it a credit-assessing agency like the
+credit department of a commercial bank. The most signiﬁcant aspect of credit
+rating is that it is an opinion made available for public, inﬂuencing decisions by
+participants in ﬁnancial markets.
+
+The following information on the origin and growth of credit rating has been
+collected from two sources, viz., Cantor and Packer, 1995 and ICRA, 1994. The
+precursors of bond rating agencies were the mercantile credit agencies, which
+rated merchants’ ability to pay their ﬁnancial obligations. After the ﬁnancial
+crisis of 1837 in the US, Louis Tappan established the ﬁrst mercantile credit
+agency in New York in 1841. Robert Dun subsequently acquired the agency,
+which ﬁrst published its ﬁrst ratings guide in 1859. In 1849, John Bradstreet
+formed another mercantile rating agency, which published a ratings book in
+1857. In 1933, the two agencies were merged into Dun and Bradstreet, which
+became the owner of Moody’s Investors Service (Moody’s) in 1962. Credit goes
+to John Moody for introducing formally the credit rating symbols in 1909 using
+‘Aaa through C’ notations when Moody’s started rating US railroad bonds.
+
+Meanwhile, Henry Varnum Poor published, ‘The History of Railroads and Canals
+of the United States’ in 1860. The railroads were the principal engine propelling
+the Industrial Revolution. In 1906, Standard Statistics began publishing ﬁnan-
+cial information on US industrial companies. Rating for various other corporate
+bonds followed in 1923.
+In 1941, Poor’s Publishing Company and Standard
+Statistics Company merged to form Standard & Poor’s Corporation (S&P).
+S&P was a publicly owned corporation till 1966 when its controlling interest
+was acquired by McGraw Hill Incorporated which acts as the holding company.
+
+While the rating of corporate bonds started in the early twentieth century,
+sovereign ratings represent a relatively new line of business for the agencies.
+The ﬁrst industrial country to be rated was France, by S&P in 1959. Both
+Moody’s and S&P rated Venezuela, a non-industrial country, in October 1977.
+Fitch IBCA entered the business of sovereign rating only in 1975. In cases where
+a sovereign does not seek a rating, but a corporate entity of such a country seeks
+a rating, CRAs do assign an implicit sovereign rating. The scope of rating in
+
+15
+
+international arena broadened in 1960s to include sovereign states and public
+agencies raising funds in international ﬁnancial markets.
+
+With the increasing number of companies and sovereigns entering into the in-
+ternational capital market for raising funds, the credit rating operations of both
+Moody’s and S&P have expanded and, hence, they maintain oﬃces in major
+countries of the world. Besides these two world famous credit rating agencies in
+USA, there are a few more famous agencies that oﬀer sovereign ratings. These
+are Canadian Bond Rating Service, Dominion Bond Rating Service Ltd., Duﬀ &
+Phelps Credit Rating Co., The Fitch IBCA Group, Japan Credit Rating Agency
+Ltd. and Thomson Bank Watch Incorporated. While normally CRAs assign a
+rating on the request of an issuer, there are occasions when unsolicited ratings
+are assigned, and in many such cases, the fact that they are unsolicited is made
+explicit with an asterisk.
+
+There is also the criticism against the structure of CRAs in USA, with an
+oligopolistic market largely carved out between Moody’s. S&P and Fitch. This
+quest for market shares is viewed as a reason for a lack of commonality in the
+rating symbols. Also, the argument put forward for maintaining the oligopoly
+is that size begets experience and expertise, hence a larger number of smaller
+ﬁrms is undesirable in the interests of quality standards.
+
+All of these agencies are represented in India through their collaborations:
+
+: CRISIL
+
+S&P
+Moody’s : ICRA
+Fitch
+Fitch
+
+: CARE (for 1 year only)
+: Fitch India (formerly Duﬀ & Phelps India)
+
+These collaborations bring in ﬁnancial capital, and more importantly, know-
+how, experience, depth of expertise, research capabilities and manpower syner-
+gies. The global orientation received by CRAs in India is further enhanced by
+two factors
+
+Aﬃliation to the Association of Credit Rating Agencies in Asia (ACRAA), an
+ADB sponsored body. Indian CRAs are founder members.
+
+Alignment with the IOSCO Code of Conduct, to the extent they coincide with
+the SEBI Code of Conduct for CRAs.
+
+These collaborations, aﬃliations and alignments enable the Indian CRAs to
+beneﬁt from an exposure to an international environment.
+
+It is also a notable feature that Indian CRAs, in turn, provide technical ex-
+pertise and knowhow to CRAs in Mexico and other countries in the SAARC
+and ASEAN regions. This provides an emerging markets perspective. Indian
+CRAs have a leadership position in Asia, behind only Japan, whose CRAs show
+a greater aﬃnity in interacting with CRAs from the developed (G7) countries.
+
+16
+
+As on date, there are 5 CRAs in India:
+
+CRISIL (est. 1988), ICRA (est. 1991), CARE (est.1993), Fitch India (formerly
+Duﬀ & Phelps India, est. 1996, taken over by Fitch in 1999), Brickworks (est.
+2008).
+
+Notably, India has 5 CRAs in comparison to 3 of USA. Thus, competition is
+stiﬀer since there are more CRAs for a ﬁnancial market that is smaller than USA
+in value, and hence dilutes oligopolistic power. However, in terms of number
+of ﬁrms and issues, India could be a market of considerable size. During the
+current downturn from 2008, the number of rating assignments has increased,
+and to some extent, issuers have got away with discounts in rating fees (which
+range from Rs.1 lakh to 2 lakhs per rating assignment). This is evidence of a
+dilution of the oligopolistic power.
+
+At a smaller level, there is SMERA (Small & Medium Rating Agency) which
+rates loans availed by Small & Medium Enterprises. The rating fees are around
+Rs.40,000 per assignment, which the large CRAs ﬁnd to be unviable; hence such
+assignments are either rejected or outsourced to smaller Chartered Accountant
+ﬁrms, supplemented by a cursory telephonic veriﬁcation. The quality of person-
+nel at SMERA or smaller agencies may not be the same as those at the SEBI
+registered CRAs. Outsourcing is a matter of policy and should generally be
+discouraged for reasons of quality as well as privacy.
+
+Another phenomenon is the presence of Credit Information Companies (CIC)
+which are recognized by the RBI through the Credit Information Companies
+Regulation Act. Their services are availed by credit granting institutions for
+the sanctioning and monitoring of facilities to individuals who borrow loans,
+housing loans and avail of credit card facilities. The Credit Information Bureau
+of India Limited (CIBIL) is one such example.
+
+The Rating Process
+In 1934, Benjamin Graham, David Dodd and Sydney Cottle wrote their book
+‘Securities Analysis’ a classic work that marked the beginning of the ﬁeld. Until
+then, ﬁnancial analysis was sketchy and bereft or analytical principles or rigour.
+They also pioneered the ﬁrst steps in the Quantitative School of ﬁnancial infor-
+mation for decisions on Securities investment. Securities Analysis is the classic
+textbook used in Columbia University till this day. This 1934 classic has come
+to the forefront once again in recent times, indicating how the tenets of conser-
+vative value investing protect the investor from overpaying when investing in
+securities, tenets which are overlooked as unfashionable during the periods of
+economic boom. The Graham approach involves an analysis over the past 10
+years to ascertain the track record of an issuer.
+
+Also in parallel, during the 1930s, a notable development was the emergence
+of Philip Fisher, who wrote his book ‘Conservative Investors Sleep Well’. This
+is a recommended textbook at Stanford Business School. He stressed on the
+Qualitative aspects such as Management Vision and Integrity, Marketing &
+
+17
+
+Sales Capabilities, Employee Morale Levels, Product Development etc. The
+hallmark of this approach is the use of informal information in addition to formal
+sources so as to obtain a more complete evaluation of a company’s prospects.
+This technique, currently known as the process of Due Diligence Review (DDR)
+is critical in any ﬁnancial appraisal. With the onset of outsourcing, ﬁnancial
+appraisal skill seems to be a dying art, viewed as a poor cousin to investment
+banking and ﬁnancial engineering. Thus, Philip Fisher’s Qualitative School
+neatly complemented the Quantitative School of Graham et al.
+
+The 1930s are known for the disillusionment of the investing public with the
+quality of information disseminated by the ﬁnancial community. It was also a
+period in which the dissatisfaction with the accounting community was made
+public. Thus, the 1930s are a period which witnessed the formation of the SEC,
+the imposition of the Glass-Steagall Act that separated Commercial Banking
+from Investment Banking. The repeal of the Glass-Steagall Act recently has
+exposed the systemic risks, seen from the downfall of Citigroup and other banks
+in the USA. European banks are further weakened by a total absence of an act
+similar to the Glass-Steagall Act.
+
+Academic interest in ﬁnancial analysis reemerged with studies by Edward Alt-
+man who used the statistical technique of Multiple Discriminant Analysis (MDA),
+which has the ability to ﬁlter data into two baskets: Safe and Default categories.
+It is a scoring model (revolving around a Z-score), with diﬀerent weights to dif-
+ferent ratios and variables. Based on the relevance of the various weights and
+variables, subsequent researchers have been able to tweak the Altman Z-Score
+Model to devise their own scoring models.
+
+Supplementary to such studies, the Linear Probability Models (LPM) became
+popular in predicting bond defaults. These models were further improved upon
+by the LOGIT and PROBIT models, which are comparable.
+
+In later developments, Credit Risk Measuring approaches such as Credit-metrics,
+Loss-Given-Default (LGD) and the KMV Models have extensively been used to
+measure credit default probabilities and assign ratings and rating transitions. In
+particular, Moody’s, and Standard and Poor (S&P) have equipped themselves
+with these techniques.
+
+A study of the sub-prime crisis in USA is illustrative of the functioning, through
+a paper by Vikrant Vig et al, presented at the Conference on Securities Markets
+organized by NISM in December 2008. The US CIC compiles a score and
+discriminates loan applicants into two baskets – credit-worthy or otherwise.
+The cut-oﬀ score was 620 for obtaining a mortgage loan.
+It was found that
+most of the defaults that occurred were by applicants who had obtained a score
+marginally above 620 (say, 621 to 630). This led to the massive sub-prime
+crisis and its global consequences. The lesson here is that the CIC and the
+applicants got around the system and weakened the mortgage loan systemically.
+Abetted by lax standards of loan origination in a quest to boost balance sheet
+
+18
+
+size and adventurous investment bankers, elaborate structured obligations were
+created. Whereas the CICs failed in the loan-ﬁltering process, the CRAs failed
+in detecting risks in the design of the pretty securitization structures.
+
+By analogous reasoning, it is assumed that the maximum potential for default is
+by borrowers who artiﬁcially manage to get a rating barely above the acceptable
+credit rating or credit score. For example, the highest defaults would be in the
+BBB category and need a stronger level of sanctioning procedures and scrutiny
+of collateral security.
+
+At the 2003 Conference by ISMA held in Madrid, one of the Hedge Fund man-
+agers mentioned that the International Rating Agencies lagged behind the mar-
+ket information. This was stated in the light of the collapse of WorldCom and
+Xerox, in the aftermath of the Enron fallout.
+
+The RBI has rightly been very critical of the role of Direct Selling Agents (DSAs)
+which are ill-equipped to ﬁlter bad loan proposals due to the commission struc-
+tures that are based on commissions. This perverse incentive structure results
+directly into a moral hazard and could pose a systemic risk. Likewise, in Mu-
+tual Funds (regulated by SEBI) and Insurance (regulated by IRDA), cases of
+mis-selling are more widespread than on evidence, due to the possibility of un-
+reported complaints. This could be the genesis of premature redemptions and
+adverse claims. Along the same lines, tough norms need to be placed for recog-
+nition and renewal of registration of CRAs, SMERA and CICs. Although they
+operate in diﬀerent segments, the basic Due Diligence Process (DDR) remains
+the same. This argument is extendable to auditors also, who are the ﬁrst level
+in the ﬁltering process. While there will always be asymmetric information be-
+tween the issuer/borrower vis--vis the CRA and lender, steps need to be taken
+to minimize the asymmetry. Here, the DDR skills of the personnel will be the
+most important risk mitigating device.
+
+CRAs and regulators need to be doubly careful in the ‘blind spots’ or grey
+regulatory zones. AIG for instance, was an insurance company whose unreg-
+ulated aﬃliate strayed into Credit Default Swaps (CDS) that were traded in
+the unregulated OTC markets. Investment losses directly hit the capital and
+the vulnerability showed up after it was too late. In this regard, complexity
+grading is a good step and must be factored in to expose the heightened risks
+(counterparty risk) that is in addition to the basic credit risk, since one of the
+counterparties in the structured obligation who may be unregulated and hence
+possess inadequate risk capital.
+
+The Rating Process was gauged ﬁrsthand through site visits to the various
+CRAs. A very detailed Questionnaire was administered and the generalised
+ﬁndings are compiled in the following page.
+
+19
+
+Activity
+Business Development (BD)
+Common Member – BD and
+Analysis
+Fee structure and payment
+Knowledge of Fee structure to
+Analysts
+Disclosure of Interest by Analysts
+Separate Criteria Team
+Common Member – Criteria and
+Analysis
+Training and Training Manuals
+Research Support
+
+Outsourcing
+Nature of Assignments
+Advisory Services
+
+Rating Inputs
+
+Site Inspection Team
+Internal Meeting
+Internal Rating Committee Mem-
+bers
+Rating Methodology
+
+Consistency of Result
+
+Surveillance Schedule
+
+Outlooks
+
+External Committee Members
+Disclosure of Interest by Commit-
+tee Members
+Appeals
+Public Dissemination
+
+Turnaround time to complete rat-
+ing
+
+20
+
+Procedure
+Separate from Analysis
+No
+
+Upto Rs.2 lakh. 100% in Advance
+No
+
+Self Declaratory
+Not in all cases
+Yes, it is possible
+
+Yes
+Some research output is
+Yes.
+sold outside. But CRAs do not
+buy/rely on research from outside
+For SME ratings in some cases
+Mainly debt instruments rating.
+Either shut down or hived oﬀ to
+separate company
+Financial Statements, Site Visits,
+Management Meeting. Some third
+party visits such as Auditors and
+Bankers
+Minimum 2 members
+All analysts or a group of 4 to 6
+4 to 6
+
+Mix of ﬁnancial analysis and sub-
+jective factors. No ﬁxed weights
+No. Rating could change if Team
+Composition is diﬀerent, due to
+subjective factors prevalent
+Continuous by tracking team or
+event driven
+Some CRAs put an outlook (pos-
+itive or negative) but updates are
+not always prompt
+Not in all cases
+Yes
+
+Yes. Maximum 2 appeals
+Accepted ratings, via press release
+and website, together with name of
+contact person
+3 to 8 weeks. Average time is 4
+weeks
+
+Rating Methodology
+
+The Rating Methodology is generalised in the table below. It explains what is
+done and what is not done, with a view to provide a comparison between the
+current state of the art and the scope for improvement.
+
+What is Done
+Financial Statements Analysis
+Site Visit
+Management Meeting
+
+Nature of queries is general and
+clariﬁcatory
+Financial Projections
+from issuers
+Meeting third parties: Auditors
+and Bankers
+Formal sources of information
+
+sought
+
+Rumours cannot be factored in
+unless conﬁrmed
+Building a consensus on ratings
+at rating committee meetings
+
+such
+
+tools
+
+The basis of rating is a blend of
+objective and subjective factors
+Sophisticated
+as
+Credit-metrics, LGD and KMV
+models are used by S&P and
+Moody’s in USA
+Rating is an outcome of judge-
+ment
+Rating could be based on inputs
+of Analyst, followed by discussion
+and review
+
+What is Not Done
+Audited Statements not questioned
+Usually not more than 1 Site visit
+Usually not more than 1 Manage-
+ment meeting. Subsequent interac-
+tions by email
+Nature of queries is not too probing
+
+Projected ﬁgures are not probed too
+much
+Besides Auditors and Bankers, not
+much of corroboration is sought
+Informal sources of information not
+tapped
+Rumour veriﬁcation mechanism is
+reactive, not proactive
+Dissenting view is subsumed by the
+consensus view. Dissent note or rea-
+sons for dissent are not recorded
+No ﬁxed weight between objective
+and subjective factors
+No sophisticated models are used.
+Final ratings could be based more on
+judgement
+
+Neither a precise model nor a black
+box
+Depending on the composition of the
+teams and the pattern of the discus-
+sions, ratings could change, based on
+perception of inputs
+
+A careful look at the right hand side (What is Not Done) reveals that there
+is scope for improvement. It is no surprise, therefore, that ﬁnancial markets,
+which, in totality have a greatest number of surveyors and is equipped and
+empowered to price even unconﬁrmed news into asset prices, react faster to
+new information than the CRAs. By contrast, CRAs are required to be more
+guarded and restrained in either upgrading or downgrading issues on account
+of protocols – namely, to wait for a conﬁrmation. Until then, the CRAs can, at
+best, place an issue under Rating Watch.
+
+21
+
+During the same period as this study, SEBI conducted site inspection visits to
+the CRAs. It was a through, detailed inspection of the records and procedures.
+It was found that the record-keeping was not suﬃcient, particularly proofs of
+CRA’s visits to rated entities, minutes of meetings with clients, minutes of
+meetings of rating committees etc. It was also observed that a more in-depth
+probing by the CRAs need to be conducted.
+
+Interactions with some rated entities conﬁrmed these ﬁndings. Some entities
+were pleasantly surprised to get an AAA within a month, after one site visit
+and management interaction. Queries to the Projections were raised and settled
+through email. In this regard, it was felt that CRISIL was a more probing than
+the other CRAs. Further enquiry with other rated entities revealed that the
+oﬃcers of CRISIL are far superior to the other agencies; hence it would be
+unfair to paint all CRAs with the same brush. However, CRISIL also have
+lesser rating mandates to other CRAs since some large entities that are rated
+have signiﬁcant shareholding in CRISIL and ICRA. As per the SEBI inspection
+reports, it is found that CRISIL has further strengthened its systems especially
+after 2007.
+
+There is a view that the ratings by S&P and Moody’s are more stringent than
+those of their Indian counterparts. More speciﬁcally, it is said that an AAA by
+an Indian CRA could be equivalent to an AA by their US counterpart. The table
+above reﬂects areas for improvement. Apart from this, there is another dynamic
+– that of the treatment of Non-Performing Loans (NPL) as they are called
+in USA, corresponding to the terminology of Non-Performing Assets (NPA)
+in India.
+In USA, a ﬁrm that has declared itself insolvent under ‘Chapter
+11’ can get fresh loans for fresh assets; the NPL tag does not cut its funding
+lifeline. Going by such an environment, the rating agencies can be as tough as
+possible without harming the future prospects of the rated entity. However, in
+India, there are no such supporting devices the NPA tag will result in an en-
+masse withdrawal of credit lifelines and permanently destroy the future of the
+rated entity. Hence, Indian CRAs may be more cautious in conﬁrming adverse
+indications before a downgrade.
+It comes as no surprise, therefore, that the
+markets react faster than the CRAs. However, this cannot be veriﬁed in case of
+unlisted entities/instruments. Generally, investors in such debt instruments are
+large Domestic Financial Institutions (DFIs) who adopt a buy-and-hold strategy
+and are not aﬀected by short term swings in the fortunes of companies, so long
+as the payment obligations are not seriously threatened. At this stage, it is
+more pertinent to remedy the existing lacunae in the rating processes than to
+focus on the market-eﬃciency-versus-CRA-eﬃciency.
+
+22
+
+On the balance, the arguments that the ﬁnancial markets respond faster to
+incorporate new information into asset prices is tabulated as under:
+
+Markets
+Markets are answerable to no one
+and are free to over-react
+
+Mispricing and volatility are in-
+herent. Rumours are incorpo-
+rated instantly
+Markets consider all risks
+
+Markets factor in price correc-
+tions and market microstructure
+issues
+Markets have more traders and
+more noise. Markets are also
+known to overreact, especially to
+short term noise.
+Everyone brings news into the
+market, hence
+is
+more comprehensive. .
+
+surveillance
+
+Details of transactions factored
+instantly
+
+CRAs
+CRAS are responsible to the invest-
+ing public and for being fair to is-
+suers
+Knee jerk reactions could result in
+repeated re-ratings, hence rumours
+need veriﬁcation
+CRA are responsible only for credit
+risk
+CRAs factors in signiﬁcant credit
+risks
+
+teams
+
+Long term bond investors gener-
+ally buy and hold longer. Need
+not react immediately if long term
+prospects not endangered
+CRA surveillance
+are
+smaller, with limited information
+resources and cannot act on un-
+conﬁrmed news.
+Too much of
+re-rating also damages credibility
+of both issuer and CRA
+CRAs get to know of bulk deals,
+block deals and insider trades si-
+multaneously or after the market
+trades are completed
+
+The table above shows that Markets, collectively, are information-superior.
+However, this does not render CRAs redundant nor can the motives of CRAs
+be questionable a priori. The main function of CRAs is to factor credit risk so
+that the bond investors can base their judgement on factual data. The major
+point is, CRAs will always trail the market, but need to take all possible steps
+to improve their functioning by a comprehensive and contemporary DDR pro-
+cess. Investors will be doing themselves a favour by keeping CRAs informed
+of all delays/defaults as and when they occur. Investors, in turn, could also
+access the ﬁles maintained by CRAs on an ongoing basis. CRAs also need to
+maintain databases for further processing through advanced applications such
+as Data Warehousing and Data Mining. It is also a part of the overall Knowl-
+edge Management (KM) initiatives within their organizations and serves as an
+aid to Research and Training.
+
+23
+
+Without any attempt to defend the CRAs, it must be stated that large insti-
+tutions in Bonds, Debentures and Loans do not react instantaneously to ad-
+verse quarterly changes since they have suﬃcient collateral security and enjoy
+a direct rapport with the investee/companies (issuers) so as to enforce perfor-
+mance. Moreover, in most cases, corporate debt instruments are illiquid and
+the investing institutions adopt a buy-and-hold strategy. Hence, instantaneous
+downgrades are not expected.
+
+The role and performance of CRAs has resulted into a raging debate in the
+recent times, which have been highly turbulent, especially after October 2008.
+Some of the observations and issues raised by experts are encapsulated below
+for consideration during this study.
+
+Some myths in Credit Rating need to be demystiﬁed and placed in a right,
+healthy perspective.
+
+First, the myth that rating is an opinion and therefore, the CRAs are not
+accountable to any failure to detect weakness. This is a loose interpretation. A
+correct interpretation would be that CRAs remain accountable to the investing
+public, regardless of the freedom provided to them on matters of methodology.
+
+Second, the myth that the rating of an instrument is unconnected with the
+standing of the issuer needs to be revisited carefully. While it is true in the
+case of Structured Obligations (SO) with a maze of credit enhancements, in
+the case of plain vanilla debt, the credibility and cash ﬂow projections of the
+entity are closely intertwined with the ability to honour obligations on its debt
+instruments.
+
+In general, CRAs are believed to have a good model for ﬁrst time ratings.
+However, the important and diﬃcult part is to maintain the currency of the
+rating throughout its tenor. This will establish whether ratings are proactive or
+reactive. A reactive approach needs to be eschewed, since it implies a hurriedly
+convened meeting ex-post-facto. The track record of an issuer is important and
+adds to the credibility of the issue. The past repayment track record needs to
+be considered favourably, except in cases where the new debt instruments of a
+very high magnitude are on oﬀer. Timeliness and currency of the ratings are of
+utmost importance especially since the investors would like to buy or sell debt
+investments based on reliable information. CRAs have an important gap-ﬁlling
+role between the investors and the debenture trustees. The real test of a CRA
+is quick response time.
+
+As regards projections, it is believed that very long term projections are not
+useful (viz., beyond 5 years).
+
+Rating symbols need to be placed at one central point for reference by the
+general public. The meanings of the symbols need to be clariﬁed and placed in
+a comparable table.
+
+24
+
+From the investors’ perspective, Ratings are a fortiﬁcation to their own due
+diligence process, and not to be considered as a crutch or substitute to appraisal.
+It is necessary for the investing community to place facts before the CRAs and
+elicit responses. This will tone up the systems and operations of the CRAs.
+
+The primary role of CRAs is rating of credit instruments. IPO Grading was
+introduced on an experimental basis, mainly at the behest of the Investors
+Associations. Most of the issues received poor grading ratings and also failed
+to raise funds (say 1 to 2 marks on a total of 5). It is a diﬀerent matter that
+the turn of events and the high valuations prescribed by Merchant Bankers led
+to the total drying up of the IPO market post January 2008.
+
+In view of the events in the ﬁnancial markets it needs to be concluded that the
+US systems are no longer the standard of reference. With all the chronicled
+experience available on hand, India should now seek to create its own standards
+and mechanisms in addressing the issues related to CRAs.
+
+In the next chapter, the actual performance of CRAs is gauged by an analysis
+of select data.
+
+25
+
+Appendix to Chapter 2
+Apart from the detailed elicited through the structured Questionnaire, interac-
+tions with the top managements of CRAs revealed the following information.
+
+CRISIL
+
+The basic concept of ‘Default’ is not deﬁned and remains a subjective term. Con-
+sistency demands that it needs to be deﬁned, so as to be reliably measured and
+understood in the same sense by all the concerned stakeholders.
+Also, it is observed that some sudden downgrades are taking place to the extent of
+greater than 1 notch, within a short time span. This is a matter of concern and
+needs to be addressed.
+It is learnt that the choice of the rating agency is, to an extent, guided by the
+investors, especially institutional investors and lenders. This tends to reduce the
+instances of conﬂict of interest in the appointment of rating agencies, who also oﬀer
+advisory services to the rated entity.
+Sometimes, a ‘tendering’ process is followed for choice of a rating agency. This may
+not be the best method for selecting an agency, as comparison of capabilities is lost.
+The number of management declarations being relied upon by the auditors could
+be a metric for ascertaining the robustness of the audit process.
+There is a need to come up with a comprehensive set of metrics, open to all stake-
+holders.
+Rating symbols need to be standardized.
+The way the rating committee is formed also needs to be understood, in order to
+determine the robustness of the rating process.
+Brickworks awards an AAA+, a symbol not hitherto not used or awarded. Such
+practices, like AAA+ or AAAA need to be standardized.
+A study of the business model for rating agencies is required.
+All ratings are not public.
+There is no common website for CRA information and comparison.
+Competence reduces asymmetric information when adverse information is not
+shared by the issuer.
+Regulation will facilitate a commonly accepted matrix.
+A rating exercise generally raises the competence of the issuer company in de-risking
+the business.
+Advisory services shifted to a separate company
+
+26
+
+ICRA
+
+Assignments can be completed in 3 weeks if all information is received
+Rating criteria are published
+After sales services are important. In constant touch with investors
+Dissemination of information is free of cost
+Analysts disclose their interests as per the SEBI Code
+Rating transitions published
+Surveillance is on an annual basis or earlier, if situation demands
+A reasonable due diligence is carried out. Third party conﬁrmation is more an
+exception
+Constantly adding manpower resources
+Cannot assign ratings based on unconﬁrmed
+Can reduce information asymmetry if both issuer and investors keep ICRA in the
+loop
+No ﬁxed weights for rating criteria
+Ratings could change since they are based on the judgement of the team. Due to
+subjectivity, judgement could vary.
+Bankers of borrowers are more concerned if ratings are downgraded, since they have
+to set aside more capital to cover additional credit risk
+CRAs depend on the audit report and their job is not to police. The primary
+responsibility for ﬁnancial statements is on the managements of issuer companies
+Issuers shop for informal ratings and get the ﬁnal rating done by the most favourable
+CRA. The solution to this is to get all ratings published
+Advisory services shifted to a separate company
+
+27
+
+CARE
+
+The business is manned by Finders, Minders and Grinders
+
+Press releases contain the names of analysts and contact persons
+A Quarterly review is carried out on all ratings
+A detailed review is carried out if there is a speciﬁc reason. Event driven also
+Ratings are completed in 3 to 4 weeks provided the clients cooperate. Clients
+usually cooperate, since it is relevant to their working capital enhancements and
+banks insist on them for the Basel II compliance norms
+Rating committee meeting every week
+Due to competition and economic slowdown, there are instances of fee undercutting
+A 150-strong analyst team provides comprehensive inputs and serve as a cross check.
+(However, this may bring in the view of analysts who do not have an arm’s length
+relationship with the issuer).
+There is an external committee consisting of 6 members
+DFIs take ratings as one of the inputs. They do their own DDR
+Rating scale uniformity required across CRAs
+An operational audit, in addition to a ﬁnancial audit, will enable better housekeep-
+ing and sprucing up of systems.
+CRAs have provided early warnings to the ﬁnancial markets by giving non-
+investment grade ratings to Collective Investment Schemes (CIS) and IPOs.
+SEBI and other regulators could take the initiative to prevail upon issuers to display
+better governance and disclosure standards.
+
+28
+
+Fitch India
+
+No external committee members. Everything is internal
+Minimum quorum for a meeting is 4.
+Not overawed by the reputation of the issuer
+Have international experts and expertise intertwined with operational personnel
+International best practices ingrained in day-to-day operations.
+Look at origination standards critically
+Provide draft Press Release to issuers only to rectify factually incorrect details
+Juniors vote ﬁrst so as to avoid inﬂuence of seniors (this is a special procedure for
+Asia)
+All dissents and rationale to be recorded in writing to remove emotional bias
+Rationale for Appeals to be structured, logical and in writing
+The issuer decides which CRA is to be appointed. Investors sometimes have a say
+Decline assignments upfront if it is found that client’s information is inadequate
+As a matter of policy, no advisory services are rendered
+Surveillance is on a rolling basis. It is a part of the tracking analyst’s job to keep
+ratings fresh and current. There is also a provision for event-driven review of ratings
+Review meetings schedule to be adhered to strictly to keep ratings current
+Internal teams share information with each other
+The rating agency is the bridge between the issuer and investors
+Generally, the audited results are trusted
+Both qualitative and quantitative factors are taken into consideration. Ratings are
+based on a simple EXCEL spreadsheet, to prevent model risk. It is not meant to
+be a black box
+Training is through a mentoring process plus training and manuals
+As regards Structured Finance, levels of complexity are low. Emphasis is on quality
+standards of the originators. This is the ﬁrst ﬁlter for credit quality
+Some originators are too aggressive in their pursuit for attaining balance sheet size.
+However, there are also good quality originators and all of them cannot be painted
+with the same brush
+Loan against shares is a grey area. Pledging of shares by promoters has revealed
+the quality of governance and raised questions on the end-use of funds
+Investors constantly seek improvement
+Criteria determined in the US and displayed in public domain
+A ‘Satyam’ cannot be prevented since the audit report is generally relied upon
+Turnaround time for completing rating assignments is a maximum of 8 weeks
+
+29
+
+Brickworks
+
+New CRA, having expertise from former employees of CRISIL and ICRA
+Basic Research teams as well as sector specialist teams
+All surveys are done by a minimum team size of 2 members
+Reduced dependence on external experts
+Consensus developed at each stage of rating
+Investors can seek clariﬁcations on ratings
+Evidence is collected from sources other than Financial Statements also
+Attempts made to build direct lines of information with issuers to reduce asymmetry
+Identiﬁes who is responsible in an issuer organization, for taking the onus of repay-
+ment
+Ratings are subjective despite the availability of suﬃcient numerical information
+Delays are counted as defaults.
+The shorter the instrument tenor, the more severe is the impact of delay/default.
+Hence, short term instruments are subjected to greater scrutiny
+Client-CRA relationship could help in reducing information gap
+Credibility is the key to success in the long term
+
+30
+
+Chapter 3
+
+Critical Evaluation of Ratings in India
+
+Choice of Variables
+
+A good scoring model for rating companies should be based on debt-service,
+tangible net worth, adequacy of reserves and proﬁtability. These ratios indicate
+whether a company will be in a position to repay the debt as per the terms
+of the contract. Hence, the ratios with high correlation with the credit ratings
+are used in computation of the Financial Credit Score (FCS) (Gupta, 1993;
+Bathory, 1984).
+
+I
+
+I
+
+I
+
+I
+
+T L , P BI T
+
+I
+
+, RS
+
+T A , P BT
+
+LT D , C+ST D
+
+and P BI T
+T L , T D
+
+However, it is possible that some ratios that are highly correlated with ratings
+are also highly correlated with each other. In order to avoid the problem of
+multi-co linearity, therefore, only a few of these have been chosen for the com-
+putation of FCSs. T. Geeta has found out that the ratios C
+LT D , D
+E ,
+T A and T D
+P BDI T , N W
+T A are signiﬁcantly correlated. Similarly,
+P BDI T , P BDI T
+are highly correlated with each other. This study
+has considered N W
+T A has not
+been taken into account, since NW is inclusive of share capital, reserves and
+surplus and proﬁts after taxes. The inverse of interest-cover ratio P BDI T
+(i.e.,
+P BDI T ) has also been used, though this ratio did not emerge as signiﬁcant in
+the case of the sample we considered. If this ratio assumes magnitudes below
+zero or above unity, the ﬁrm can be deemed as unworthy of obtaining credit.
+Thus, the ratios for the computation of the FCS are chosen in a manner such
+that the ratios are signiﬁcantly correlated with the ratings and their magnitudes
+can facilitate convenience in obtaining the credit ratings.
+
+P BDI T for computing the score. P BT
+
+T A and
+
+I
+
+I
+
+I
+
+Details of the Sample and the Data
+
+The sample comprises group of the 40 companies from various sectors that
+have been included in the empirical investigation. The empirical analysis for
+this group of companies is based on the data for 2006 to 2008 depending on
+the availability of data. The ﬁnancial ratios used in the computation of FCS
+for all the companies have been collected from various public domain websites
+like rediﬀ.com, yahoo.com, moneycontrol.com etc. The ratings for 40 companies
+have been taken from CRA’s websites.
+
+31
+
+Computation and Ranking of FCS
+
+The steps involved in calculating the FCS are as follows.
+
+1. The ﬁrst step is obtaining the ratio N W
+
+T L . This ratio usually ranges between
+0 and 1. If all the assets of the company are ﬁnanced only by debt, then net
+worth of a company will be zero. In this extreme case, N W
+T L will be equal
+to zero. This ratio can take a ceiling limit of unity, when all assets of the
+company are covered by the net worth of the company (i.e., total debt is
+equal to zero). In abnormal conditions, this ratio can also assume negative
+values. This will hold true if the company has accumulated losses (i.e.,
+negative Reserves and Surplus, RS) or losses in the running ﬁnancial year
+(i.e., negative PAT). However, under such circumstances, the company is
+not creditworthy. Higher (lower) is the N W
+T L ratio, better (worse) will be
+the FCS of the company.
+
+2. In the next step, T D
+
+T A is calculated. A negative relationship is postulated
+between T D
+T A ratio and the FCS. This is because higher is the debt in
+relation to the assets, greater is the risk in lending to such a company,
+other things remaining the same. The lowest value which T D
+T A ratio can
+take is zero. In general, it lies between 0 and 1. When total assets are
+ﬁnanced only by debt (net worth is equal to zero), T D
+T A ratio assumes a
+value equal to unity. (It is pertinent to note here that TD does not include
+current liabilities. Current liabilities is subtracted from current assets and
+shown as net current assets or working capital in the asset side of the
+Balance Sheet.) If net worth is negative, T D
+T A can exceed unity. A company
+with T D
+
+T A ratio greater than unity is deemed to be credit unworthy.
+
+I
+
+3. The third step in calculating FCS is obtaining inverse of interest coverage
+ratio, i.e.,
+P BDI T . This ratio ought to range between zero and one for
+a credit-worthy company. However, this ratio can also take a negative
+value if the denominator of this ratio (proﬁts) are negative. Due to the
+fact that this ratio can take values which are both positive or negative,
+an asymmetric treatment to this ratio is given. This is explained in step
+4. Higher (lower) is the interest to be paid in relation to proﬁts, lower
+(higher) will be the ﬁnancial credit score.
+
+4. The Financial Credit Score has been deﬁned in this study as stated in
+
+below equations for FCS.
+
+F CS = N W
+
+F CS = N W
+
+T L − T D
+T L − T D
+
+T A −
+T A + 2 ∗
+
+I
+
+P BDI T , (if
+
+I
+
+P BDI T , (if
+
+I
+
+P BDI T ≥ 0)
+P BDI T < 0)
+
+I
+
+We have multiplied the
+companies which may have this ratio as ‘+1’ and ‘-1’.
+
+P BDI T ratio by 2, in order to diﬀerentiate the
+
+I
+
+32
+
+It was found that, there were cases wherein the ratings given by the CRAs
+for these 40 companies remained static and did not capture the deterioration
+signals by a downgrade. By implication, the investing public who did not cross-
+verify the ratings, was at a risk of overestimating the creditworthiness, due to
+dependence on the CRA.
+
+In the USA, GE is losing its AAA status for the ﬁrst time, and is reconciled to
+settle for an AA. The ﬁnancial arm of GE has made losses due to the ﬁnancial
+sector meltdown, demonstrating the vulnerability from conglomeracy.
+
+During the period from 2002 to 2007, easy liquidity conditions prevailed and
+many ﬁrms raised capital both equity as well as debt. After January 2008,
+ﬁrms began to struggle in their fund-raising eﬀorts. This was true of large play-
+ers such as Hindalco and Tata Motors, and it is even more true in the case of
+smaller ﬁrms. During the ﬁrst half of calendar year 2008, rising input costs
+placed a strain on the proﬁtability of ﬁrms and in the second half, after the
+Lehman Brothers collapse and the panic in the global ﬁnancial markets, credit
+lines dried up as lenders and investors became more risk averse. As a result
+of this, many ﬁrms opted for Corporate Debt Restructuring (CDR). Many cor-
+porations that had issued FCCBs with an option for redemption, needed to
+raise cash for redemptions. There were a large number of downgrades especially
+in the January-March 2009 period. Cracks in corporate governance and their
+impact on accounting also began to show up. It was found that the auditing
+and CRA community were basing their ﬁnancial statement analysis on account-
+ing information that was guided by managements whose governance standards
+are found wanting.
+In other cases, ﬁrms like Wockhardt that had leveraged
+for diversiﬁcation found themselves unable to tap sources of ﬁnance that were
+hitherto easily available.
+
+Of the 40 rated instruments studied in this survey, downgrades were delayed in
+5 cases, and very timely in 2 cases; no further rating was action required in the
+balance 33 cases. Hence, there is scope for improvement in the performance of
+CRAs.
+
+The lessons from the paper by Vikrant Vig are instructive. The paper observes
+that the maximum defaults in the sub-prime crisis were loans applications that
+obtained a credit score from 621 to 629, just above the cutoﬀ score of 620.
+This safe zone exhibited the maximum asymmetric information, or, perhaps,
+the applicants managed to beat the system due to the leniency of the CRAs.
+By a similar reasoning, if institutional investors in India are permitted to invest
+in securities rated AA and above, there is a possibility that many securities
+meriting only an A or A- could obtain an AA due to lax CRA standards. Under
+such a situation, extra layers of DDR are required both on the part of the CRA
+as well as the investors. Particular care needs to be taken by investors when
+investing in bonds rated AA.
+
+33
+
+Survey of Analysts
+
+A detailed Questionnaire was used to cover the Analysts. The observations are
+summarized in the paragraphs below.
+
+Most of the Analysts state that the level of cooperation from the issuers was
+good at the time of the ﬁrst rating, and also at the time of renewal. Thus, there
+is room for CRAs to probe further. This also implies that the CRAs need to
+improve their approach to be more vigilant, especially in the light of a large
+number of cases of Corporate Debt Restructuring (CDR). This dependence on
+the issuers for information, without a system of cross-checks, contributes to
+asymmetric information.
+
+The Quality of Accounting Information is stated as Good for listed compa-
+nies and Poor to Fair for unlisted ﬁrms. The levels of preparedness of Indian
+accountants to meet IFRS a couple of hours from now, is very low.
+
+The general ﬁt between the ratings proposed by the Analyst and the Final
+Rating ranges from 60% to 90%. This shows the need to arrive at a better
+mechanism for the ﬁnal rating process, to reduce the variation.
+
+In some CRAs there is a voting system, whereas at others, a consensus is devel-
+oped. There is no consistent system for recording dissent, leading to information
+loss at the time of subsequent reviews.
+
+Institutional Investors – an Ethnographic Survey
+
+The major institutional investors in bonds are insurance companies (which also
+oﬀer annuity products), pension funds, superannuation funds, trusts and debt-
+oriented mutual funds.
+Investments by insurance companies are directed by
+the LIC Act for LIC, the GIC Act for GIC, and the Insurance Act, 1938 for
+other insurance companies. In this regard, the private insurance had a greater
+leeway in investing in the corporate sector (i.e., instruments other than G Sec).
+Subsequently, LIC and GIC had made requests to IRDA for untying their hands
+and permitting them to also have greater exposure in the corporate sector. The
+Insurance Act provides for investments in corporate debt instruments rated AA
+and above.
+
+It is found that LIC considers the ratings given by CRAs at face value and does
+not perform a re-check.
+
+Tata AIG also does not question the ratings given by CRAs. They go by the
+ratings rationale given by the CRAs and then come to a decision.
+
+In the case of Metlife, however, a simple credit matrix is has been devised
+and the ratings given by the CRA serve as an initial criterion for developing a
+short list (debt rated AA and above). Thereafter, those issues that meet the
+stipulations in the credit matrix of the respective insurance companies come into
+play. This seems to be a sound approach. Liquidity is also a major consideration;
+
+34
+
+it is found that although issues by Tata Sons and Tata Investment Corporation
+are rated AAA, liquidity is not readily presumed, hence not preferred as a ﬁrst
+choice.
+
+Future Generali and SBI Life also perform an independent check before
+investing in bonds, despite ratings by CRAs.
+
+As regards GIC, it earlier used to perform the investment function on behalf of
+its 4 subsidiaries. With liberalization, its subsidiaries, particularly New India
+Assurance and National Insurance have portfolios that are larger than GIC.
+Both New India as well as National Insurance do not question the ratings given
+by CRAs.
+
+Among the Mutual Funds, UTI Mutual Fund, one of the oldest and largest,
+the ratings are treated as one of the inputs and a supplementary check is done,
+based on ﬁnancial ratio analysis. This is true of the debt fund. Other funds
+like Morgan Stanley also perform additional checks. They perceive that, unlike
+S&P and Moody’s in the USA, Indian CRAs may not be independent minded.
+
+As regards pension and superannuation funds, it is revealed that the investments
+are directed by the Income Tax Act, for such funds to retain their tax-exempt
+status. Almost the entire investment is directed towards G Sec or Infrastructure
+Bonds issued by quasi-government bodies or PSUs, hence there is no signiﬁcant
+investment activity in corporate securities. This information came from Actu-
+aries advising such funds.
+
+Issuer Survey
+
+It is observed that the Issuers often approach more than one CRA. This is
+evidence of an informal ’rate shopping’.
+
+There is a drastic increase in ratings of Bank Loans, a fair increase in Structured
+Obligations and a decline in Commercial Paper.
+
+Structured Finance and CRAs
+Special attention was given to structured ﬁnance or structured obligations, in
+view of the turmoil caused by such products in the global economy, and the
+resultant criticism on the CRA community there.
+
+Our close interaction with the Analyst community resulted in some important
+ﬁndings and suggestions from them.
+
+1. Structured Finance or Structured Obligations in India are mainly of the
+plain-vanilla Pass-Through-Certiﬁcate PTC genre. Apart from conserva-
+tive origination standards, the credit enhancements are also mainly from
+quasi-government or government organizations.
+Institutional investors
+hold these securities and they do not percolate widely through the bank-
+ing system. Two Indian banks suﬀered market losses on instruments pur-
+chased by their London branches, and had nothing to do with Indian
+
+35
+
+paper. CRAs have already evolved a ‘Complexity Grading’ to forewarn
+investors on complex structured obligations.
+
+2. However, as a pro-active step, it is necessary to consider the following
+suggestions for safeguarding the Indian ﬁnancial system from the dan-
+gers of structured obligations. The suggestions, endorsed by the Analyst
+community, are as under:
+
+3. A transparent process of the various stress tests that the credit rating
+
+involves, including fat tail risk.
+
+4. A clear deﬁnition of the complexity level of the ﬁnancial instruments.
+
+5. The strict norm of making the name of the client public, if he chooses not
+
+to be rated, in case of lower ratings.
+
+6. The analysis of future cash ﬂows, to be generated by the complex ﬁnancial
+instruments, under various scenarios. Involving the highest of stress levels.
+
+7. Stress testing of the credit enhancement levels of the complex ﬁnancial
+
+instruments.
+
+8. Identiﬁcation of the percentage of the junk assets pooled in to form the
+
+pool of loans.
+
+9. Usage of white box testing models, which reveal all the data, it has used
+
+to stress test these instruments.
+
+10. As a business, CRAs need to focus on the quality of the instrument rated,
+
+rather than the quantity.
+
+11. A thorough review of actual risk exposures of institutions and robustness
+
+of counterparty risk assessment.
+
+12. Guard against over-valuation of assets, particularly real-estate and other
+
+collateral assets.
+
+13. Extra care to guard against opacity in ﬁnancial accounting and auditing
+
+practices.
+
+14. Understanding the implications of moving class products to mass markets,
+
+thereby increasing systemic risk.
+
+15. Guard against hidden credit risk: weak loan pools, when repackaged, do
+not reﬂect true vulnerability to cyclical downturn, hence credit risk gets
+underpriced.
+
+16. Critically evaluate legal risk and counterparty risk to get a realistic estima-
+tion of cash ﬂows, especially in guarantees and other credit enhancements.
+
+17. Review risk disclosures more stringently in respect of structured obliga-
+
+tions
+
+36
+
+Chapter 4
+
+Emerging Trends and Alternate Approaches
+
+Since precise methodologies by CRA are not in public domain, analysts and
+investors can use Artiﬁcial Neural Network (ANN) as a model for ratings. This
+could serve as an independent check on the creditworthiness of a rated instru-
+ment.
+
+A smaller version of neural network model was developed as part of the compu-
+tational ﬁnance exercises conducted during this study period, based on available
+data.
+
+We considered following six variables, as deﬁned by Moody’s, as inputs to devise
+a model, as follows:
+
+1. Interest Coverage
+
+2. Leverage
+
+3. Return on Assets
+
+4. Volatility Adjusted Leverage
+
+5. Revenue Stability
+
+6. Total Assets
+
+How the Model Works
+
+Data is to be collected for a large sample size of rated instruments, over a
+long time series. This mass of data is to be fed into the computer memory to
+’train the computer’. The trained computer then generates a rating for any new
+instrument, based on the variables it possesses.
+
+The results given by the model are free of bias (assuming there is no sample
+bias) and can be used as a valuable input in the ﬁnal rating process.
+
+Experiment
+
+Given the time frame, data covering 5 years (FY 2004 to 2008), the following 5
+companies were used to ’train’ and generate ratings using this neural network
+model:
+
+1. Tata Motors
+2. Tata Steel
+3. TCS
+4. Unitech
+5. Reliance Industries
+Based on the trained computer model, ratings were generated. The ratings
+
+37
+
+generated by this model were compared with the actual rating awarded by
+CRAs. This was based on a smaller sample data gathered within the limited
+time frame. However, the test results are encouraging. The output from the
+model could be more reliable if the model is based on as large a mass of data
+as possible. Further research in this direction could be carried out in the near
+future.
+
+In fact, the period post-October 2008 is of particular interest, since it repre-
+sents some of the most turbulent months in global ﬁnance, with a signiﬁcant
+impact on the Indian business sector. This could result in adverse swings on
+the proﬁtability of Indian companies, and inability to raise fresh capital due to
+the market conditions. As and when this new data is also fed into the computer
+to ’train’ the system, the results generated by the model will reﬂect reality in a
+better manner.
+
+Moody’s Rating Predictor (MRP), announced in 2006, is a process of constantly
+adjusting the weights for various parameters at regular intervals. This has
+dramatically improved the ratings results. However, the process itself should
+not result in the creation of a black box, so as to prevent model risk.
+
+The search for a better rating model is a journey of constant improvement.
+
+38
+
+Chapter 5
+
+Observations and Recommendations
+
+CRAs are supposed to bridge the information gap between the issuers and in-
+vestors. When this does not happen, the CRA is the last in the loop, when
+a default occurs. It is important to understand the nature of this problem, in
+order to surmount the same.
+
+Mechanics of Asymmetric Information
+
+1. Lower/Middle managers in issuing companies suppress bad news
+
+2. Senior Managers and Directors have pressure to show quarterly informa-
+
+tion. This is the second stage of news suppression
+
+3. Auditors get to know less adverse information than the managements of
+
+companies
+
+4. CRAs depend on Auditors
+
+5. CRAs are last in the loop when bankers and investors in debt instruments
+
+report defaults, or when insiders sell
+
+It is important to note that the CRAs are not able to unearth a ’Satyam’.
+
+The Mechanics of Asymmetric Information described above explains the phe-
+nomenon of Asymmetric Information. The problem is of a wider magnitude in
+smaller ﬁrms.
+
+The ﬁndings of the study are ﬁtted in line with the Terms of Reference. This
+is followed by Recommendations which list out concrete action points for the
+betterment of the CRAs and the ﬁnancial markets in which they operate.
+
+Observations on the Points Raised in the Terms of Refer-
+ence
+
+1. How far CRAs assessment helps ﬁnancial regulation
+
+At present, bulk of the work is with respect to the ratings of loans, for
+banks to assign Credit-risk based capital for Basel II requirements. This
+has brought several smaller entities within the fold of rating for the ﬁrst
+time.
+
+Firms that are subjected to a credit rating exercise beneﬁt from the ratings
+rationale and tone up their operations. This is especially true of ﬁrms that
+face a rating exercise for the ﬁrst time. Even in the case of unaccepted
+ratings, the rated ﬁrms do tacitly admit that they deserved a lower rating.
+
+39
+
+While a lower standard of probing does not impact the ﬁnal rating of a
+good issuer, it does enable weaker borrowers to get away despite ﬁnan-
+cial/business/management quality weaknesses. In this regard, the stan-
+dards of scrutiny need to be raised. If the scrutiny levels are raised, the
+CRAs will be able to contribute more information to minimize asymmetric
+information.
+
+Investors are free to contact the CRAs and seek more information on the
+rated entities, free of cost.
+
+CRAs disseminate plenty of information on their web sites as well as in
+print. It is easy for a member of the public to know more about a rated
+company from the web sites.
+
+Some lending banks and insurance companies use the ratings as a ﬁlter and
+sometimes perform an additional check through an independent Due Dili-
+gence Review or credit matrix. However, this is not true of all investors.
+
+By increasing the depth in probing and timely changes in ratings, CRAs
+can serve the ﬁnancial markets with better information.
+
+CRAs have assigned very poor ratings to Collective Investment Schemes
+and some IPOs, hence driving poor quality issuers out of the market.
+
+2. Accountability, corporate governance issues of CRAs
+
+All agencies have separated business development from analysis.
+
+Code of Conduct. All of them do not follow the IOSCO Code in toto.
+
+CRA disseminate ratings rationale through press releases and website up-
+dates, with the names of the contact persons of analysts.
+
+The lack of quality in accounting and auditing cannot absolve the CRAs
+from their responsibility.
+
+Some CRAs have discontinued advisory services. Others continue advisory
+services and non-rating activities in sister companies.
+
+The external committee members may be able to bring in a bias in ratings,
+due to a conﬂict of interest. This is especially true if their views have a
+high weight in the ﬁnal consideration.
+
+Interested persons who are excluded from the rating teams could come
+back to air their views in larger review meetings where entry is unre-
+stricted.
+
+40
+
+Junior analysts must be given an equal weight in their views. Dissent
+must be permitted and be recorded in writing.
+
+CRAs practice disclosure norms as per the SEBI ownership must be made
+public in respect of all CRAs, not just the public, listed ones.
+
+3. Consistency of rating data with accounting data
+
+The high dependence on ﬁnancial statements is a cause for concern. This
+is especially true in the light of the falling audit eﬃciency. This increases
+the chances of asymmetric information vis--vis the market information.
+
+The basic accounting ﬁgures: Total Income and PBDIT are contaminated
+due to the inﬂux of ‘other income’ being merged into the Total Income.
+
+There are several instances where the Interest Coverage ratio has deteri-
+orated but the ratings have remained the same, without any downgrade,
+despite adverse business prospects, mergers & acquisitions and forays into
+diversiﬁed areas.
+
+The true leverage of ﬁrms may be hidden on account of the promoters
+raising funds for unknown reasons, by pledging their shares.
+
+4. Disclosures of methodologies of rating
+
+All CRAs reveal the processes ﬂows. But they do not disclose the actual
+methodologies.
+
+Ultimately, there is no ﬁxed methodology, as qualitative factors could
+outweigh the quantitative factors at a meeting.
+
+The consensus approach buries dissent, especially if dissent notes are not
+recorded. This could result in information loss, especially at the time of
+subsequent reviews.
+
+Bias could also come in from seniors in the internal or external rating
+committees.
+
+5. Assessment of the performance of CRAs in India in terms of
+
+parameters like default and transition data
+
+CRAs do publish studies on Default and Transition Data
+
+Our analysis, based on Quarterly Data, shows that there are many cases
+where a downgrade was in order, but the ratings were maintained.
+
+41
+
+6. Uniformity or otherwise in deﬁnition and rating nomenclature
+
+of CRAs in India
+
+The rating symbols given by CRAs are compatible with each other barring
+Brickworks
+
+There is no common website where the various ratings are placed in a
+comparable table.
+
+It is necessary to organize the various symbols in a comparable format to
+help the retail investors
+
+7. How much information asymmetry is bridged by CRAs
+
+Unaccepted ratings are not published; hence information is asymmetric to
+that extent
+
+CRAs generally give information based on Credit risk. Markets factor in
+other risks also.
+
+With better probing and improved standards of Due Diligence Reviews,
+the asymmetric information could be further bridged.
+
+It is found in many cases where the Quarterly Proﬁt Statements showed
+adverse trends, the ratings have been maintained at higher levels. In other
+words, there were many cases where downgrades were justiﬁable, but not
+carried out.
+
+‘Rating-watch’ could be eﬀectively used as an interim measure during the
+process of veriﬁcation of unconﬁrmed rumours
+
+The quality of the rating depends on the quality of ﬁnancial statements.
+This, in turn, depends on the quality of the audits and the governance
+standards of the managements of issuing companies.
+
+There is a way of getting around the asymmetric information problem.
+Until the Due Diligence Review standards of the CRAs and auditors im-
+prove, it would be safe to assume a slightly lower rating than the one
+actually assigned. This is especially true owing to the fact that Corporate
+Governance standards are low, barring a few companies. According to
+some experts, if international agencies were to actually rate Indian do-
+mestic paper, the ratings assigned by them would actually be a notch
+lower.
+
+Many banks and insurance companies provide loans that are in the genre
+of social banking, or within the overall framework of development ﬁnance,
+
+42
+
+e.g.
+loans to State Electricity Boards (SEBs). Considering the weak ﬁ-
+nancials of the SEBs, the Credit risk on the balance sheet of the lending
+banks and institutions could be far higher than what is declared. This
+issue needs to be addressed by the policy makers. CRAs could play a
+vital role in assessing these risks.
+
+8. Rating of complex products like structured obligation
+
+Most Indian loan originators have been conservative. This is the ﬁrst ﬁl-
+ter in structured ﬁnance transactions. Merchant bankers are also not too
+aggressive. Structured obligations have also taken oﬀ recently in India,
+during the last 5 years. In view of these factors and the relatively fewer
+transactions that have taken place, a sub-prime loan crisis of the mag-
+nitude witnessed in USA and Europe has not occurred. The securitized
+transactions are simple structures and there are no complex derivatives
+which are ﬂoating around to contaminate the ﬁnancial markets.
+
+9. Overall evaluation of what CRAs have done in terms of value
+
+addition or the Indian economy
+
+CRAs have a cadre of analysts whose skills can be further honed to dis-
+seminate quality information to the ﬁnancial markets. They provide some
+basic information which could be used as a ﬁlter, with additional cross
+checks wherever necessary (say, in case of companies with poor governance
+records).
+
+CRAs have driven out poor issuers, especially CIS and IPOs by awarding
+poor ratings and discouraging promoters with a poor record from accessing
+the markets.
+
+Most of the recent ratings are for loans by banks. The borrowers were rated
+for the purpose of determining Credit-risk based capital as per Basel II
+norms. This brought many smaller ﬁrms within the fold of credit rating.
+The rating exercise could stand the rated entities in good stead so that
+they could tone up their management systems and business models.
+
+10. Approaches followed for credit enhancements
+
+As of now, most of the credit enhancements are from State Governments.
+There are no instances of enhancements by a private party with thin cap-
+ital. This precludes the cascading of defaults (Credit Default Swaps =
+CDS) and the consequence of systemic risks. Besides, origination stan-
+dards, particularly for housing loans, are quite high and experienced orig-
+inators like HDFC and LIC Housing Finance are conservative lenders. Be-
+sides, as mentioned in the paragraphs above, the securitization structures
+in India are simple.
+
+43
+
+11. Experiences with structured obligations and desirability of such
+
+practices
+
+As mentioned above, the structures are simple, and based on conservative
+origination practices. In India, Merchant Bankers as well as Originating
+Banks have both been conservative. Unlike what was seen in USA and
+Europe, Originating Banks do not lower their appraisal standards with
+the attendant moral hazard of ‘originate-to-distribute’.
+
+12. Matters related to conﬂicts of interest faced by rating agencies
+
+Business development teams are separate from the analyst teams
+
+No analyst knows the fees structure
+
+Rating Fees are taken from the client 100% in advance
+
+It is quite possible that a particular analyst who has an investment inter-
+est/relative(s) in the rated entity is kept out of the rating team, but his
+inputs could bias the proceedings of subsequent open meetings.
+
+The role and nature of external experts needs to be watched carefully,
+since it is quite possible that they may be able to substantially inﬂuence
+ratings, especially if the junior analysts have lesser inﬂuence in the ratings
+processes.
+
+Ownership structure of all CRAs, including unlisted entities, need to be
+made public.
+
+CRAs need to be encouraged to adhere to the SEBI Code of Conduct as
+well as the IOSCO Code.
+
+13. Cases of instruments being rated higher than the issuer
+
+At present, ratings are for instruments. The concept of issuer-rating ap-
+plies in case of IPOs, where the ratings have been poor, for low-quality
+oﬀerings.
+
+In structured obligations, there is a theoretical possibility of instruments
+being rated higher, wherein either the obligor or the credit enhancer (guar-
+antor) has a higher credit standing than the issuer. In India, the obliga-
+tions of SEBs are guaranteed by the State Governments, and hence, a
+higher rating for such instruments is justiﬁed.
+
+Such a situation is qualitatively diﬀerent from the one prevalent in USA
+where sub-prime loans from weak originators were upgraded on the strength
+of guarantees by ﬁnancial entities, in an unregulated market. It turned
+
+44
+
+out that one of the aﬃliates of AIG, which oﬀered credit enhancements
+(CDS) was exposed to risks beyond its capital. Thus, high ratings to in-
+struments were based on enhancements that turned out to be higher than
+the actual strength of the enhancer.
+In this manner, an aﬃliate of an
+Insurance company strayed far away from insurance and got exposed to
+market risk and credit risk. Capital adequacy for unregulated entities go
+undeﬁned and in the light of over-trading, such entities implode.
+
+This brings to the fore an important lesson for regulators: aﬃliates of
+regulated entities also need to be monitored closely by one or more reg-
+ulators, since ﬁnancial engineers and lawyers tend to exploit regulatory
+arbitrage opportunities in precisely such grey areas.
+
+Other observations made during the course of study:
+
+Undercutting of Fees
+
+It is observed Undercutting of Fees between CRAs is taking place. Issuers may
+take advantage of such situations.
+
+Outsourcing of Rating Operations
+
+To prevent instances like the damage caused by unscrupulous salesmen of In-
+surance, Mutual Funds and Personal Loan Products, it is necessary to place
+safeguards or prescribe standards on outsourcing of Credit Rating or Credit
+Information to any third party. This is in the interests of quality and conﬁden-
+tiality. Every person engaged in Credit Rating or Credit Information must be
+an employee of a registered CRA or CIC. The registered CRA or CIC needs to
+
+bear the ﬁnal onus of responsibility on quality of work as well as conﬁdentiality.
+
+Manner of Decision Making in Ratings
+
+Practices vary in the weights given to the view of Junior Analysts.
+In some
+CRAs, the views of Junior Analysts are given the same weight as Seniors. In
+others, the ﬁnal decision rests with the Senior-most members in the ﬁnal rating
+committee members. Again, some CRAs go for voting whereas others consider
+each input with diﬀerent weights. Dissent notes are not available for future
+reference.
+
+45
+
+Recommendations
+
+1. Standard Deﬁnitions of Default
+
+There is no standard deﬁnition of default. Practices vary from CRA to
+CRA. Some consider even a single day’s delay as a default. Others consider
+the grace period in case the debt covenants provide for it. Furthermore,
+the severity of the delay or default is inversely related to the tenor of
+the instrument. Delays in coupon payments in case of long-term debt
+instruments could be condoned or considered more sympathetically. There
+is a need for a framework to be agreed upon by all CRAs and regulators
+to have a standardized and operational deﬁnition of default.
+
+2. Comparability of Ratings and Display on Common Site
+
+It is felt that the oligopolistic situation in USA has been maintained on
+account of the diﬀering symbols used by various CRAs there. For a market
+in India, where ﬁnancial literacy is at a nascent stage, multiple rating
+symbols could confuse the investing community.
+It could also result in
+‘rating inﬂation’ and foster unhealthy competition. Rating scales, brought
+under comparable bands, need to be hosted on the websites of SEBI, RBI,
+IRDA and PFRDA and also on the sites of investors’ associations.
+
+3. Timeliness of Ratings
+
+‘Rating Outlooks’ (both positive and negative) and ‘Rating Watch’ have
+a limited life and must be replaced by a ﬁrm rating within a reasonable
+span of time, say a month.
+
+4. Compulsory Separation of Advisory Services to Separate Com-
+
+panies
+
+Some CRAs have a clear-cut policy of staying away completely from ser-
+vices other than credit rating. This is a healthy sign. Yet, some other
+agencies continue to oﬀer services other than ratings. It is to be ensured
+that the registered CRA, as a corporate entity, must not engage in any
+services other than ratings.
+
+5. Policy on Appeals
+
+In the interest of unbiased judgement, it is necessary to constitute an
+Appeals Committee that is diﬀerent from the one that was involved in the
+initial rating exercises.
+
+46
+
+6. Policy on External Committees
+
+The presence of External Committee Members brings with it a whole
+baggage of conﬂict of interest. Some CRAs have demonstrated that it is
+possible to develop the expertise either with full time employees from the
+domestic CRAs or in collaboration with the overseas CRAs.
+
+Alternately, External Committee members could be deployed for providing
+inputs, leaving the ﬁnal ratings to an Internal Committee.
+
+7. Measures to Prevent Shopping for Ratings
+
+Issuers attempt to seek informal ratings from various CRAs and pass the
+ﬁnal rating mandate to the agency that could potentially oﬀer the highest
+rating. To curb this unhealthy practice, it is necessary to come to a stage
+where all ratings, including unaccepted ratings, are published.
+
+8. Training in Due Diligence Review (DDR), Accounting, and Au-
+
+diting Standards
+
+There is excessive dependence on the auditors and bankers, to corroborate
+the information provided in the Financial Statements. There is a need to
+develop DDR skills to assess the overall credit worthiness of an entity. This
+calls for a national level eﬀort to upgrade the skills of personnel in audit,
+accounting and credit appraisal. It combines the use of information from
+formal as well as informal sources. Young potential employees tend to
+gravitate towards merchant banking and investment management, leaving
+a paucity of talent in accounting, audit and credit appraisal, which are
+actually the backbone of ﬁnancial systems.
+India is only 2 years away
+from the implementation of IFRS and the preparedness is woefully lacking,
+amongst professionals as well as academics. Skills in DDR are a crucial
+step in reducing asymmetric information.
+
+9. Operational Audit for CRAs
+
+Along the lines of the compulsory Internal Audit for Stock Brokers, it is
+found necessary to stipulate an Operational Audit to ascertain that the
+rating processes leave a documentary trail. This could cover details of
+site inspections, management meetings, rating committee meetings, dis-
+sent notes, surveillance and monitoring schedules, minutes of the appeal
+process. It addresses the basic issue of good housekeeping and could be
+performed twice in a year. Some CRAs have taken the initiative to ap-
+point a person with the task of Quality Control, and he is involved in all
+rating exercises.
+
+47
+
+10. Public Education on Usage of Ratings
+
+There is a danger that ratings may be accepted blindly without a self-
+check or giving due importance to the time gap between two review dates.
+Ratings are not to be construed as a guarantee. This is true of all inter-
+mediaries: Merchant Bankers, Bankers, and Mutual Funds etc – no one
+can provide a guarantee. Ratings must be one of the inputs in the decision
+making process. Of course, this does not absolve the responsibility of the
+CRAs for negligence.
+
+There is also the practice of issuers using ratings for marketing purposes
+– exhibited on all their business literature and oﬃce stationery.
+
+11. Policy on Disclaimer on Ratings
+
+There could be information gaps that arise due to factors beyond any-
+body’s control. In line with the Risk Factors highlighted on various prod-
+ucts, CRAs also need to mention a disclaimer on all rating announcements
+as well as on the website. This is to the minds of the reader (user) of Rat-
+ings to the fact that credit related information is dynamic and subject to
+changes. Rating disclosures could also mention the latest review date.
+
+12. Public Disclosure on Ownership Pattern of CRAs
+
+It is important for the members of the public to know that the relationship
+of the CRA is at arm’s length with that of the rated entity, in letter and
+spirit. Hence, shareholding ownership patterns of all CRAs need to be
+made public.
+
+13. Policy on Unsolicited Ratings
+
+There have been instances in USA where S&P and Moody’s have deliber-
+ately given low ratings to various issues on an unsolicited basis. This was
+used as a means of arm-twisting the issuers. This is a classic instance of
+abuse of independence provided to CRAs. Unsolicited ratings must not
+be permitted, in case the CRA community makes a representation to this
+eﬀect in the future.
+
+14. Code of Conduct for CRAs
+
+Some CRAs follow the IOSCO Code in addition to the SEBI Code of
+Conduct. One needs to look at the desirability and uniformity for the
+IOSCO code adherence in full, in addition to the SEBI Code.
+
+48
+
+15. Enforcing Corporate Governance in Spirit
+
+Bad governance can contaminate ﬁnancial statements, and hence annul
+the entire credit rating exercise.
+It is sad to know that CRAs heavily
+depend on the audited ﬁnancial statements and do very little to gain the
+maximum from cross-veriﬁcation from formal and informal sources. While
+this is a lacuna on the part of auditors and CRAs, much needs to be done
+on Corporate Governance, since a governance code works only on paper.
+It is much easier and practical for the Regulators rather than CRAs to
+enforce governance.
+
+At the beginning of this chapter, the Mechanics of Information Asymmetry
+was described. Good governance is the starting point in order to remedy
+the situation.
+
+It is necessary for CRAs, Merchant Bankers and Regulators to initiate
+studies on patterns of deviant behaviour. Some important variables being
+conglomeracy, forays into real estate & construction, aggressive chase for
+growth through mergers & acquisitions, leveraged balance sheet size, dicta-
+torial management, ‘inner circle of management’, cartelization, inﬂuence-
+peddling, unfair trade practices and so on. Put simply, corporate gover-
+nance addresses the issue of abuse of the corporate structure for personal
+gain. The links between these traits of bad governance and defaults need
+to be studied as part of more detailed research. Today, the entire ediﬁce
+of corporate ﬁnance – shareholder wealth maximization is under ques-
+tion. The focus is shifting towards stakeholder satisfaction and societal
+well being. Auditors and CRAs are the watchdogs of society as also the
+conscience keepers of the nation, hence corporate governance is even more
+relevant as the ﬁrst ﬁlter. It is often said, in credit wisdom, that balance
+sheets do not repay loans – it is the people behind the organization.
+
+49
+
+References
+
+Altman E.I., (1968), Financial Ratios, Discriminant Analysis and the Predic-
+tion of Corporate Bankruptcy, Journal of Finance, Sept., pp. 589-609.
+
+Altman E.I., (1995), Credit Scoring Models and the Valuation of Fixed Income
+Securities and Commercial Loans, in Sondhi A.C. (ed.), Credit Analysis of Non
+Traditional Debt Securities, Association of Investment Management and Re-
+search, USA.
+
+Arora, Mamta (2001) Credit Rating in India – An Evaluation, PhD Thesis,
+Department of Financial Studies, University of Delhi (South Campus)
+
+Bathory A., (1984), Predicting Corporate Collapse - Credit Analysis in the De-
+termination and Forecasting of Insolvent Companies, Financial Times Business
+Information Ltd., London.
+
+Blanco, Roberto, Simon Brennan and Ian W. Marsh (2005), An Empirical Anal-
+ysis of the Dynamic Relationship Between Investment-Grade Bonds and Credit
+Default Swaps, Journal of Finance.
+
+Boyadjian H.J., Warren J.F., (1991), Risks - Reading Corporate Signals, John
+Wiley & Sons, Singapore.
+
+Cantor R. and Packer F., (1995), The Credit Rating Industry, The Journal of
+Fixed Income, Vol.5, No.3, Institutional Investor Inc., New York.
+
+Dahiya S. K. John, M. Puri, and G. Ramirez. (2003) Debtor in Possession
+Financing and
+Ederington, Louis H., and Jeremy C Goh (1998), Bond Rating Analysts and
+Stock Analysts Who Knows What When, Journal of Quatitative Financial Anal-
+ysis, December.
+Bankruptcy Resolution: Empirical Evidence, Journal of Financial Economics
+
+Financial Times, (1996), Emerging Markets - Credit Ratings, Financial Times
+Publishing, Pearson Professional Ltd.
+
+Fish M., (1999), Should Credit Rating Agencies be Regulated, Chartered Finan-
+cial Analyst, May, ICFAI, Hyderabad.
+
+Gupta L.C., (1983), Financial Ratios for Monitoring Corporate Sickness, Ox-
+ford University Press.
+
+Gupta L.C., (1993), Corporate Financial Health - Building Reliable Ratio Indi-
+cators, Manas Publications, Delhi.
+
+50
+
+John Kose, Anthony W Lynch and Manju Puri (2003), Journal of Business,
+University of Chicago Press
+
+Mays E.(ed.), (1998), Credit Risk Modeling - Design and Application, Glenlake
+Publishing Company, Ltd., Chicago.
+
+Miller, Merton H. (1990), Leverage, Nobel Prize Memorial Lecture, c(cid:13)The Nobel
+Foundation, Stockholm, reproduced from Jagdeep Bhandari and Lawrence Weiss
+(Eds.), Corporate Bankruptcy – Economic and Legal Perspectives, Cambridge
+University Press, 1996
+
+Moody’s Credit Rating Predictor Model (2006 November)
+
+Moody’s KMV (2004, April)Moody’s KMV RiskcalcT M v3.1 Model, Next-Generation
+Technology for Predicting Private Firm Credit Risk
+
+Partnoy, Frank (2005), How and Why Credit Rating Agencies are Not Like
+Other Gatekeepers, Brookings-Nomura
+Pinches G. and Singleton J., (1977), The adjustment of stock prices to bond
+rating changes”, Journal of Finance, pp.29-44.
+
+Pinches G.E. and Mingo K.A., (1973), A Multivariate Analysis of Industrial
+Bond Ratings, The Journal of Finance, March, Vol.XXVIII, No.1, pp.18.
+
+Raghunathan V. and Varma J.R., (1992), CRISIL Rating: When does AAA
+mean B?, Vikalpa, Vol. 17, No.2, Apr. - Jun., pp. 35-43.
+
+Raman, K.K. (1981), Financial Reporting and Municipal Bond Rating Changes,
+The Accounting Review, American Accounting Association
+
+Rangarajan C., (1997), Transformation of the Indian Financial System and
+Signiﬁcance of Credit Rating, in Kapila R. and Kapila U. (ed.), Banking and
+Financial Sector Reforms in India, Academic Foundation Publication, Vol.2,
+1997, pp. 89-96.
+
+Ravi Mohan, (2000), ”Credit Rating - A Paradigm Shift”, Chartered Financial
+Analyst, ICFAI, Hyderabad.
+
+Reddy Y.V., (2000), Credit Rating: Changing Perspectives, Fourth Prof. Na-
+garaj Memorial Lecture delivered at Osmania University Arts College Seminar
+Hall, Hyderabad, April 8.
+
+Salmon, Felix, Recipe for Disaster: The Formula that Killed Wall Street,
+http://www.wired.com/print/techbiz/it/magazine/17-03/wp quant , accessed on
+18.3.2009
+
+51
+
+Sarkar A.K. (1994), Credit Rating in India: A New Feather in the Capital
+Market’s Cap, Management Accountant, July.
+
+Satija, Kalpana C, Credit Rating Agencies – An Overview and Analysis in the
+Light of Various Acts and Guidelines (Unpublished Paper), Gujarat National
+Law School, Gadhinagar.
+
+Sen Choudhury (1999), Comparative Analysis Between International and Indian
+CRAs, PhD Thesis, IGIDR, Mumbai.
+
+Sikdar S., Hazarika P.L., (1992), Reporting and Evaluation of Corporate Fi-
+nancial Health: A Quantitative Analysis, The Management Accountant, Sept.,
+pp. 718-723.
+
+The Economic Times, (1999), Want a AAA from CRISIL? Have an Interest
+Cover of Six, 3rd Nov.
+
+T Geetha (2001), Performance of CRAs in India, PhD Thesis, IIT Bombay.
+
+Varma J.C., (1993), Credit Rating, Bharat Law House, New Delhi.
+
+Varma J.C., (2000) Credit Rating, Bharat Law House, New Delhi.
+
+Venkatesh S. and Gupta S., (1997), Investment Rating: On the Border, The
+Economic Times, Oct. 6.
+
+Weinstein M.I., (1978), The Eﬀect of a Rating Change Announcement on Bond
+Price, Journal of Financial Economics, pp.329-350.
+
+52
+
+Annexure
+
+Questionnaire for CRA
+
+1 General Information
+
+Respondent Name:
+
+Aﬃliation:
+
+1. Please provide following informations:
+
+No of Instruments Rated each year
+Municipal Bonds
+PSU Bonds
+Corporate Bonds
+Commercial Paper
+Structured Obligations
+IPO
+Corporate Governance
+Bank Loans
+Others (specify)
+
+2006-07
+
+2007-08
+
+2008-09 (YTD)
+
+2. Provide an illustrative listing of issuers and instruments rated/graded by
+
+you”
+
+Issuers
+Sovereign (Governments)
+Urban Local Bodies
+PSU
+Private Sector Corporations
+Listed Companies
+Unlisted entities
+Banks
+Mutual Funds
+Special Investment Vehicles / SPV
+
+Instruments
+G Sec / T Bills / Bonds
+Bonds
+Bonds
+Debt
+Debt / CP / Loans / IPO / CG
+Loans
+Bonds / CD
+Liabilities
+Structured Obligations
+
+Note: Please attach a copy of your latest Annual Report
+
+3. List some of the challenges faced during the rating exercises
+
+53
+
+4. Brief comment on how the challenges were overcome
+
+5. General level of Cooperation extended by assessed ﬁrms: Excellent / Very
+
+Good / Good / Fair / Poor
+
+• At ﬁrst assessment:
+• On renewals
+
+6. Which are the more complex instruments that have come up for rating,
+
+over the years?
+
+7. Have you received queries or feedback on your ratings?
+
+• From sophisticated, institutional investors or regulators or govern-
+
+ment bodies?
+
+• From the general public
+• From banks, whose loan applicants are rated
+
+8. How do you deal with queries or feedback in improving your processes?
+
+9. What steps are taken for improving?
+
+• Dissemination of rating information, clarifying/simplifying rating sym-
+
+bols
+
+• Investor education on general rating methodology, usage and caveats
+
+• Any other steps for strengthening the ﬁnancial system
+
+10. In your opinion, what is the robustness of your rating processes? Excellent
+
+/ Very Good / Good / Fair / Poor
+
+54
+
+11. In the light of the current economic turmoil, what improvements or ad-
+ditional factors would you like to consider when rating instruments in fu-
+ture? What are your lessons from the sub-prime crisis in US and Western
+Europe?
+
+12. What are the general procedures for recruitment, selection, training, re-
+
+training and skill development initiatives?
+
+13. What is the level of usage of the following techniques (please mark √ on
+
+frequently medium sometimes never
+
+apropriate cell)
+
+Technique
+Discriminant Analysis
+Multiple Discriminant Analysis
+Logit/Probit
+Credit Metrics
+Loss Given Default (LGD)
+KMV
+
+14. How does the CRA create a speedy mechanism to incorporate new infor-
+
+mation?
+
+15. Does the CRA have an alarm system to provide alerts on signiﬁcant,
+
+relevant events?
+
+16. What is the frequency of a rating exercise and a rating transition? What
+
+triggers a review?
+
+17. How does the CRA deal with the conﬂict in interest between rating and
+
+advisory services for the same entity?
+
+18. Have you come across attempts of malpractices by the ﬁrms being rated?
+
+(a) Inﬂuencing the ratings or exertion of pressure
+
+55
+
+(b) Rate shopping
+
+(c) Incentives in the form of assignments that are conﬂicting in nature?
+
+19. In general, what is the quality of Accounting Information?
+
+20. How is the Accounting Information corroborated or veriﬁed from alternate
+
+sources?
+
+21. In the light of the Satyam episode, what changes have you made in eval-
+
+uation processes?
+
+22. What support would CRAs require from policy makers or regulators?
+
+Please Suggest.
+
+23. Are there any rules or regulations which are constraining or no longer
+
+serve a purpose?
+
+24. Have rating agencies come to a consensus on rating symbols? How feasible
+
+is it?
+
+56
+
+2 Analytical Information
+
+Respondent Name:
+
+Aﬃliation:
+
+1. How many analysts are assigned to a company in each rating exercise?
+
+2. How many assignments does an analyst handle in a year, on average?
+
+3. What is the average completion time for each rating assignment?
+
+4. List some of the challenges faced during the rating exercises
+
+5. General level of Cooperation extended by assessed ﬁrms: Excellent / Very
+
+Good / Good / Fair / Poor
+
+• At ﬁrst assessment:
+• On renewals:
+
+6. What data does the CRA measure and how do they measure these?
+
+7. What are the general methodologies followed and how does one decide on
+
+the choice of methodology?
+
+8. Are CRAs updating skills and knowledge? How eﬀectively have these
+
+skills been used?
+
+9. What is the general ﬁt between your individual opinion and the ﬁnal
+
+rating?
+
+57
+
+10. Quality of Accounting Information over the years: Excellent / Very Good
+
+/ Good / Fair / Poor
+
+11. In the light of the current economic turmoil, what additional factors would
+
+you like to consider when rating instruments in future?
+
+12. What support would you require from policy makers or regulators? Please
+
+Suggest.
+
+13. Illustrate a case of rating transitions over a period of time, for each type
+
+of instrument, for the following industries:
+
+(a) Realty
+
+(b) Construction
+
+(c) Retail
+
+(d) Cement
+
+(e) Steel
+
+58
+
+

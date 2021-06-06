@@ -1,0 +1,294 @@
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+CONSULTATIVE PAPER ON e-VOTING FACILITY PROVIDED 
+
+BY LISTED ENTITIES 
+
+Background and Rationale for review 
+ 
+1.  Under  Regulation  44  of  Securities  and  Exchange  Board  of  India  (Listing 
+Obligations  and  Disclosure  Requirements)  Regulations,  2015  (LODR 
+Regulations) listed entities are required to provide remote e-voting facility to 
+their  shareholders  for  all  shareholders’  resolutions.  However,  it  has  been 
+observed 
+the  public  non-institutional 
+shareholders/retail shareholders is at a negligible level.   
+ 
+
+the  participation  by 
+
+that 
+
+2.  There  are  multiple  e-voting  service  providers  (ESPs)  providing  e-voting 
+facility  to  listed  entities  in  India.  This  necessitates  registration  on  various 
+ESPs  and  maintenance  of  multiple  user 
+IDs  and  passwords  by 
+shareholders. 
+
+ 
+
+3.  Multiple 
+
+for 
+
+login  credentials,  apart 
+
+the 
+shareholders to remember, are also prone to misuse. It is important that the 
+entire process of e-voting is secure, convenient and simple to use for the 
+shareholders. 
+
+from  being  cumbersome 
+
+ 
+
+4.  In  view  of  the  above  inefficiencies  in  the  present  e-voting  process  which 
+have  prevented  its  optimum  utilization  by  shareholders,  it  is  proposed  to 
+review  the  e-voting  mechanism  as  provided  by  various  ESPs  and  seek 
+public comments in this regard. 
+
+ 
+
+Current regulatory provisions pertaining to e-voting by listed companies 
+
+5.  Section 108 of the Companies Act, 2013 read with rule 20 of the Companies 
+(Management  and  Administration)  Rules,  2014  deals  with  the  exercise  of 
+right  to  vote  by  members  by  electronic  means  (e-voting).  The  provisions 
+seek  to  ensure  wider  shareholders  participation  in  the  decision  making 
+process in companies.  
+ 
+
+6.  Regulation  44  of  Securities  and  Exchange  Board  of  India  (Listing 
+Obligations  and  Disclosure  Requirements)  Regulations,  2015  (LODR 
+Regulations) provides that listed entities are required to provide remote e-
+voting facility to their shareholders for all shareholders’ resolutions. 
+
+Analysis & Policy Proposals: 
+
+7.  Depositories viz. CDSL and NSDL as well as Depository Participants offer 
+internet  based  facilities  (hereinafter  referred  to  as  web  based  services) 
+whereby demat account holders are allowed to access information related 
+
+ 
+
+Page 1 of 4 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+to their holdings and transactions in their demat accounts and/or carry out 
+secured electronic transactions. 
+
+8.  To enable e-voting through a single login credential and thus increase the 
+efficiency of the voting process, after consultation with the Depositories and 
+ESPs,  an  alternate  mechanism  is  suggested,  wherein,  demat  account 
+holders  may  access  e-voting  portals  of  multiple  ESPs  through  the  web 
+based  services  provided  by  Depository  Participants  or  Depositories.  The 
+existing and proposed architecture is depicted below –  
+
+ 
+
+ 
+
+9.  Demat account  holders  would  be  able  to  cast  their  vote  on different  ESP 
+portals  without  having  to  register  again  with  the  ESPs,  thereby,  not  only 
+facilitating  seamless  authentication  but  also  enhancing  ease  and 
+
+ 
+
+Page 2 of 4 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+convenience of participating in e-voting process. This can be done through 
+either of the following two ways –  
+ 
+
+a.  Direct  registration  with  Depositories  –  Shareholders  can  register 
+directly  on  the  depository.  After  the  initial  one-time  registration, 
+shareholders would be able to access the e-voting facilities through 
+Mobile / E-mail based OTP verification. Shareholders would be able 
+to access the e-voting links of ESPs without further authentication by 
+ESPs for participating in the e-voting process. 
+ 
+
+b.  Through  Demat  Accounts  with  Depository  Participants  –  Demat 
+account holders will have the option of accessing various ESP portals 
+directly  from  their  demat  accounts,  through  the  facility  provided  by 
+respective  depository.  The  Depositories  may  authenticate  the 
+investors through Mobile / E-mail based OTP verification for allowing 
+such access. Shareholders would be able to access the e-voting links 
+of ESPs without further authentication by ESPs for participating in the 
+e-voting process. 
+
+ 
+
+10. The  authentication  of  shareholders  would  happen  at  the  depository  level 
+and ESPs shall allow the demat account holders to cast their vote based on 
+the validation carried out by the Depository.  
+ 
+
+11. Depositories  shall  share  necessary  details  and  logs  such  as  source  IP 
+address, PAN, Demat Account number, Name of the account holder, Mobile 
+no., Email ID etc., of the demat account holders with other ESPs. Similarly, 
+ESPs shall also share the electronic logs and other related information with 
+respect to the e-voting transactions with the depositories. 
+
+ 
+
+12. Demat  account  holders  seeking  access  to  the  e-voting  system  of  ESPs 
+through  the  web  based  service  provided  by  its  Depository  /  Depository 
+Participants  shall  mandatorily  update  their  mobile  number  and  email 
+ID registered  in  their  demat  accounts.  Depositories  should  also  have  the 
+mechanism to periodically monitor the validity of such information. 
+
+ 
+
+13. This facility shall be available to all the shareholders holding the securities 
+in  demat  mode.  ESPs  may  continue  to  provide  the  facility  of  e-voting  to 
+physical shareholders as per the existing process. 
+
+ 
+
+14. Depositories  shall  establish  a  dedicated  helpline  to  resolve  technical 
+
+difficulties faced by shareholders relating to the e-voting facility. 
+
+ 
+
+15. ESPs shall  send the  details of the vote cast to  the shareholders via  SMS 
+and  /  or  Email,  as  follows:  “You  have  cast  your  vote  in  favour  of  the 
+resolution no(s)…. and against the resolution no(s)….in respect of…. shares 
+
+ 
+
+Page 3 of 4 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+in ….(company). In case of any discrepancy, you may contact…..or mail at 
+……” 
+ 
+
+ 
+
+16. ESP  Portals  shall  provide  relevant  links  regarding  the  resolutions  of  the 
+listed  companies.  Such  links  shall  provide  access  to  listed  companies’ 
+websites through exchange corporate search link, proxy advisors’ websites 
+etc.  This  would  enable  better  deliberation  and  decision  making  by  the 
+shareholders while casting their votes. 
+
+ 
+
+Public comments 
+
+Comments on the above proposal may be sent on or before March 31, 2020 in 
+the following format: 
+
+ 
+
+ 
+
+Name of entity / person / intermediary/ Organization: 
+
+Sr. No. 
+
+Issues 
+
+Suggestions  
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Comments may be sent: 
+
+1.  By email at evoting@sebi.gov.in  
+
+2.  By post to the following address:  
+
+Shri. T. Chakravarti, 
+General Manager 
+Corporation Finance Department, CMD-II, 
+Securities and Exchange Board of India  
+SEBI Bhavan, Plot No. C4-A, "G" Block, 
+Bandra Kurla Complex, Bandra (East),  
+Mumbai -400 051 
+
+ 
+ 
+
+ 
+
+Page 4 of 4 
+
+ 
+
+

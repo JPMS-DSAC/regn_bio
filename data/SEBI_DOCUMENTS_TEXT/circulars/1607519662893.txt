@@ -1,0 +1,193 @@
+SEBI/HO/CFD/CMD/CIR/P/2020/242 
+
+ 
+
+ 
+
+         
+
+       
+
+   December 09, 2020 
+
+CIRCULAR 
+
+ 
+
+To, 
+
+All Recognized Depositories 
+All Registered Depository Participants through Depositories 
+All Listed Companies through recognized Stock Exchanges 
+All E-voting Service Providers through listed companies. 
+ 
+Dear Sir/Madam, 
+
+Sub:  e-Voting Facility Provided by Listed Entities  
+
+1.  Under  Regulation  44  of  Securities  and  Exchange  Board  of  India  (Listing  Obligations  and 
+Disclosure Requirements) Regulations, 2015, listed entities are required to provide remote e-
+voting facility to its shareholders, in respect of all shareholders’ resolutions. However, it has 
+been  observed  that  the  participation  by  the  public  non-institutional  shareholders/retail 
+shareholders is at a negligible level.  
+ 
+
+2.  Currently,  there  are multiple  e-voting  service  providers  (ESPs)  providing e-voting facility  to 
+listed  entities  in  India.  This  necessitates  registration  on  various  ESPs  and  maintenance  of 
+multiple user IDs and passwords by the shareholders.  
+
+ 
+
+3.  In order to increase the efficiency of the voting process, pursuant to a public consultation, it 
+has been decided to enable e-voting to all the demat account holders, by way of a single login 
+credential, through their demat accounts/ websites of Depositories/ Depository Participants. 
+Demat account holders would be able to cast their vote without having to register again with 
+the ESPs, thereby, not only facilitating seamless authentication but also enhancing ease and 
+convenience of participating in e-voting process. The same shall be implemented in a phased 
+manner as under: 
+
+ 
+
+Phase – 1  
+
+Following process for e-voting shall be implemented within 6 months of the date of the circular.   
+
+3.1.  Direct  registration  with  Depositories  –  Shareholders  can  register  directly  with  the 
+depository.  Shareholders  would  be  able to  access the  e-voting  page  of various  ESPs 
+through  the  websites  of  the  Depositories  without  further  authentication  by  ESPs  for 
+participating in the e-voting process. 
+
+OR 
+
+3.2.  Through  Demat  Accounts  with  Depository  Participants  –  Demat  account  holders  will 
+
+have the option of accessing various ESP portals directly from their demat accounts.  
+
+ 
+
+Page 1 of 3 
+
+ 
+
+ 
+
+They would be routed to the webpage of the respective Depositories from their demat 
+accounts,  which  in  turn  would  enable  access  to  the  e-voting  portals  of  various  ESPs 
+without further authentication by ESPs for participating in the e-voting process. 
+
+4.  The authentication of shareholders would happen at the depository level and ESPs shall allow 
+the  demat  account  holders  to  cast  their  vote  based  on  the  validation  carried  out  by  the 
+Depository. 
+
+ 
+
+5.  Depository shall send a confirmatory SMS to the shareholders that the vote has been cast 
+
+based on the confirmation received from the ESP. 
+
+ 
+
+6.  The  listed  entity  shall  provide  the  details  of  the  upcoming  AGMs  requiring  voting  to  the 
+Depository. The depository shall send SMS/email alerts in this regard, to the demat account 
+holders, atleast 2 days prior to the date of the commencement of e-voting. 
+
+Phase – 2  
+
+7.  In  order  to  further  enhance  the  convenience  and  security  of  the  e-voting  system,  the 
+depository  shall  validate  the  demat  account  holder  through  a  One  Time  Password  (OTP) 
+verification process as under.  
+ 
+6.1  Direct registration with Depositories – Depositories shall allow login through registered 
+Mobile number / E-mail based OTP verification as an alternate to login through username 
+and password. 
+ 
+
+6.2  Through Demat Accounts with Depository Participants –  A second factor authentication 
+using Mobile / E-mail based OTP shall be introduced before the demat account holders 
+can access the websites of the Depositories through their demat accounts. 
+
+ 
+
+The above shall be implemented within 12 months from the completion of the process in 
+phase 1. 
+ 
+
+7  Depository may advise the demat account holders to update their mobile number and email 
+
+ID in order to access the e-voting facility. 
+ 
+
+8  Depositories  shall  establish  a  dedicated  helpline  to  resolve  technical  difficulties  faced  by 
+shareholders relating to the e-voting facility. Further, the listed company shall ensure that the 
+ESPs engaged by them also provide a dedicated helpline in this regard. 
+
+ 
+
+9 
+
+In order to enable better deliberation and decision making by the shareholders while casting 
+their votes, ESP Portals shall provide specific weblinks to the following: 
+
+  disclosures by the company on the websites of the stock exchanges 
+ 
+
+report on the websites of the proxy advisors. 
+
+ 
+
+Page 2 of 3 
+
+ 
+Applicability 
+ 
+
+ 
+
+10  The  aforementioned  facility  shall  be  available  to  all  individual  shareholders  holding  the 
+
+securities in demat mode. 
+  
+
+11  ESPs may continue to provide the facility of e-voting as per the existing process to all physical 
+shareholders and shareholders other than individuals viz. institutions/ corporate shareholders. 
+ 
+
+12  Depositories and Exchanges are advised to bring the circular to the notice of its Depository 
+
+Participants and listed companies respectively. 
+
+ 
+
+13  All  listed  companies  are  advised  to  notify  the  above  process  available  to  demat  account 
+
+holders for e-voting in the notice sent to the shareholders. 
+ 
+
+14  This  circular  is  being  issued  in  exercise  of  powers  conferred  under  Section  11  (1)  of  the 
+Securities and Exchange Board of India Act, 1992 and shall be in addition to the provisions of 
+the Companies Act, 2013. 
+
+ 
+
+ 
+Yours faithfully, 
+ 
+ 
+ 
+Surabhi Gupta 
+General Manager 
+Corporation Finance Department 
+Tel No. 022-26449315 
+Email id: surabhig@sebi.gov.in 
+
+  
+
+ 
+ 
+ 
+
+ 
+
+Page 3 of 3 
+
+

@@ -1,0 +1,721 @@
+ 
+
+ 
+
+Securities and Exchange Board of India (“SEBI”) seeks public comments on 
+
+the ‘Interim recommendation on Know Your Client Requirements for Foreign 
+
+Portfolio  Investors  (FPIs)’  submitted  by  the  working  group  to  redraft  SEBI 
+
+(FPI)  Regulations,  2014  under  the  Chairmanship  of  Shri  Harun  R.  Khan, 
+
+Deputy Governor (retd.), Reserve Bank of India.  
+
+1.  BACKGROUND 
+
+ 
+
+1.1  SEBI  (Foreign  Portfolio  Investors)  Regulations,  2014  (“FPI  Regulations”)  were 
+
+notified in the year 2014 vide notification dated January 07, 2014. A need was felt to 
+
+review the FPI Regulations to incorporate the provisions of the circulars/ FAQs and 
+
+Operational Guidelines issued thereunder to the extent possible and to simplify the 
+
+language and complexities in the said regulations.  
+
+1.2  SEBI has   constituted a  working group  under the Chairmanship of  Shri. Harun R. 
+
+Khan (Retd. Deputy Governor of Reserve Bank of India) assisted by Custodians law 
+
+firms, Chartered Accountants firms and SEBI officers.  
+
+1.3  SEBI requested the working group that pending detailed examination of the issues 
+
+referred to the working group, an interim report containing recommendations on the 
+
+issues arising out of the SEBI circular dated April 10, 2018 on KYC requirements for 
+
+FPIs be submitted. 
+
+1.4  Accordingly, the working group held wide consultations with various stakeholders on 
+
+different  dates  and  has  arrived  at  certain  suggestions/  recommendations.  The 
+
+working group has submitted its interim report on KYC requirements for FPIs. 
+
+ 
+
+ 
+
+ 
+
+2.  PUBLIC COMMENTS 
+
+Comments  from  the  public  are  invited  on  the  recommendations  contained  in  the 
+
+aforesaid Report in the following format: 
+
+ 
+
+ 
+
+Name: 
+
+Sr. No.  Relevant  Section  and  sub-
+
+Comments  and 
+
+Rationale  
+
+heading  
+
+ 
+
+ 
+
+ 
+
+suggested 
+
+changes, if any 
+
+ 
+
+ 
+
+The comments may either be forwarded by email to kycforfpi@sebi.gov.in  or may be 
+
+sent by post to the following address latest by September 17, 2018 at 12:00 Noon. 
+
+ 
+
+Achal Singh  
+
+Deputy General Manager 
+
+Division of Foreign Portfolio Investors & Custodians 
+
+Securities and Exchange Board of India 
+
+SEBI Bhavan, Plot No. C4-A, "G" Block, 
+
+Bandra Kurla Complex,  
+
+Bandra (East), Mumbai -400 051 
+
+ 
+
+ 
+
+Issued on: September 08, 2018 
+
+ 
+
+2 | P a g e  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INTERIM REPORT OF THE WORKING GROUP 
+
+ON KNOW YOUR CLIENT REQUIREMENTS FOR 
+
+FOREIGN PORTFOLIO INVESTORS 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SEBI WORKING GROUP ON FPI REGULATIONS 
+
+INTERIM  REPORT 
+REQUIREMENTS FOR FPIS  
+
+  ON  SEBI  CIRCULAR  OF  APRIL  10,  2018  ON  KYC 
+
+The  SEBI  Working  Group  (“Group”)  on  Re-drafting  of  FPI  Regulations,  under  the 
+chairmanship  of  Shri  H  R  Khan,  was  formed  by  SEBI  in  March  2018  and  has 
+representations from  reputed Law  firms,  Tax  firms,  Custodians  and  SEBI  officers. The 
+initial brief for the Group was about reviewing and redrafting FPI regulations, FAQs and 
+Operating Guidelines (OG) related to FPI registration and operations in India.  
+
+On April 10th 2018, SEBI issued a circular (“April 10 Circular”) on KYC Requirements for 
+FPIs and given the widespread discussions and debate the circular has generated on  its 
+likely implications for investments in in India through the FPI route, SEBI requested the 
+Group to look into various aspects of the circular on priority basis and suggest changes, 
+if and as, necessary to appropriately address the concerns and respond to the feedback 
+received  from various stakeholders like FPIs, Custodians, Asset Managers and the Asia 
+Securities Industry & Financial Markets Association (ASIFMA) on the circular.  
+
+The group held wide consultations with various stakeholders on different dates. Officials 
+of the Ministry of Finance (MOF) from the Department of Economic Affairs (DEA) and the 
+Department  of  Revenue  (DOR)  were  also  consulted.  The  Group  also  met  with  some 
+lawyers  and  industry  representatives  to  receive  their  feedback  and  suggestions  which 
+were further deliberated by the Group.   
+
+The Group took note of April 10 Circular, which, inter-alia, implied using the definition of 
+Beneficial Owners (BOs) under the PMLA Rules 2005 for determining the eligibility of Non 
+Resident Indians (NRIs)/ Overseas Citizens of India (OCIs) participation in FPIs. 
+
+It  was  brought  to  the  notice  of  the  Group  that  the  Department  of  Revenue  (DOR), 
+Government of India  have  since  communicated to SEBI  that  the principle  laid  down  in 
+Rule 9(3) of the Prevention of Money-laundering (Maintenance of Records) Rules 2005 
+is  for  the  purpose  of  customer  due  diligence  and  need  not  apply  mutatis  mutandis  to 
+determine the eligibility for of foreign investors as FPIs. It also, inter-alia, stated that there 
+was no legal compulsion for SEBI to adopt the definition of Beneficial Owner in Rule 9(3) 
+of PMLA Rules, 2005 for eligibility purposes.  
+
+This is broadly in line with the thinking of the Group that the BO criteria under PMLA may 
+be made applicable only for the purpose of KYC and not as  eligibility criteria for  FPIs, 
+including those having NRIs/OCIs/ Resident Indians (RIs) as their constituents. Likewise, 
+the Group is also of the view that clubbing of investment limit for FPIs need not be done 
+on  the  basis  of  BO  as  per  PMLA.  Accordingly,  the  Group  considered  separate  set  of 
+
+  
+
+Page | 1  
+
+norms for determining  the  eligibility conditions where NRIs/OCIs/RIs are constituents of 
+FPIs and also the basis for clubbing of investment limits.  
+
+Post  the  wide  spread  consultations  and  deliberations,  the  Group  has  come  up  with 
+following  recommendations  with  regard  to  the  April  10  Circular  and  these    have  been 
+grouped under four sections relating to: 
+
+A.  Non-Resident Indians (NRIs)/ Overseas Citizens of India (OCIs)/ Resident Indians 
+
+(RIs) 
+
+B.  Clubbing of Investment limit 
+
+C.  Identification and verification of Beneficial Owners 
+
+D.  Other aspects 
+
+ 
+
+  
+
+Page | 2  
+
+Section A: Recommendations relating to NRIs / OCIs / RIs  
+
+1.  Eligibility conditions where NRIs/OCIs/RIs are constituents of FPIs  
+
+Regime prior to the April 10 Circular: Entities owned by Non-Resident Indians (NRIs)/ 
+Resident Indians (RIs) could be registered as non-investing FPIs for the purpose of 
+acting as an investment manager for other FPIs (i.e. investing FPIs). In the answers 
+given to questions numbers 91, 114 and 127 in the FAQs on FPI Regulations, 2014 
+issued by SEBI, it was clarified that entities owned by NRIs / Persons of Indian Origin 
+(PIOs) are specifically permitted to act as investment managers with the condition that 
+such entities would not be allowed to make investments on behalf of self.  
+
+Condition imposed by the April 10 circular: The April 10  circular clarifies that NRIs, 
+OCIs and RIs cannot be beneficial owners (BOs) of investing FPIs. According to the 
+circular, BO should be identified in accordance with Rule 9 of the Prevention of Money-
+laundering  (Maintenance  of  Records),  Rules,  2005  (hereinafter  referred  as  PMLA 
+Rules). It has been explained to the group that drawing from the definition of BO given 
+in  Rule  9  of  PMLA  Rules,  it  was  felt  that    since  NRIs  and  RIs  are  prohibited  from 
+becoming  FPIs  in  accordance  with  Regulations  4(a)  and  4(e)  of  the  SEBI  FPI 
+Regulations,  the  same  should  also  not  be  permitted  indirectly  by  becoming  BOs of 
+FPIs.  
+
+Recommendation:   
+
+It  was  brought  to  the  notice  of  the  Group  that  the  Department  of  Revenue  (DOR), 
+Government of India have since communicated to SEBI that the principle laid down in 
+Rule 9(3) of the Prevention of Money-laundering (Maintenance of Records) Rules 2005 
+is for the purpose of customer due diligence and need not apply mutatis mutandis to 
+determine the eligibility for of foreign investors as FPIs. It also, inter-alia, stated that 
+there was no legal compulsion for SEBI to adopt the definition of Beneficial Owner in 
+Rule 9(3) of PMLA Rules, 2005 for eligibility purposes.  
+
+This is broadly in line with the thinking of the Group that the BO criteria under PMLA 
+may be made applicable only for the purpose of KYC and not as eligibility criteria for  
+FPIs, including those having NRIs/OCIs/ Resident Indians (RIs) as their constituents. 
+Accordingly,  the  Group  has  considered  separate  set  of  norms  for  determining  the 
+eligibility conditions where NRIs/OCIs/RIs are constituents of FPIs.  
+
+The Group recommends that NRIs/OCIs/RIs may be allowed to be constituents of FPIs 
+subject to the following conditions: 
+
+i.  Single  NRI/  OCI/  RI  holding  is  below  25%  of  the  Assets  Under  Management 
+
+(AUM) in the FPI 
+ 
+
+ii.  Aggregate NRI/ OCI/ RI holdings is below 50% of Assets Under Management 
+
+(AUM) in the FPI 
+
+  
+
+Page | 3  
+
+ 
+
+iii.  NRI/ OCI/ RI should not be in Control of an FPI. However, there should be no 
+restriction on NRIs / OCIs / RIs investment managers to be in control of the FPI 
+provided any of the following conditions is satisfied: 
+
+ 
+
+a)  The  investment manager  entity  of  the  FPI  is  appropriately  regulated  in  its 
+
+home jurisdiction and registers itself with SEBI as a non-investing FPI, or 
+
+ 
+
+b)  The  investment  manager  is  incorporated  or  setup  under  Indian  laws  and 
+
+appropriately registered with SEBI, or 
+
+ 
+
+c)  Where such FPIs are ‘offshore funds’ as approved by SEBI  
+
+ 
+
+Explanation: 
+
+Investment  manager  would  mean  an  entity  performing  the  role  of  investment 
+management, investment advisory or any equivalent role, including trustees. 
+
+Control  includes  the  right  to  appoint  majority  of  the  directors  or  to  control  the 
+management or policy decisions exercisable by a person or persons acting individually 
+or in concert, directly or indirectly, including by virtue of shareholding or management 
+rights or shareholders agreements or voting agreements or in any other manner. 
+
+Existing  FPIs  not  in  conformity  with  the  above  requirements  may  be  allowed 
+reasonable time to take appropriate actions to comply with the conditions.  
+
+Many FPIs are open-ended funds and due to reasons such as redemption by existing 
+investors, portfolio rebalancing etc., it is possible that ownership or entitlement of a RI 
+/ NRI / OCI may temporarily cross the eligibility conditions (as recommended at (i) and 
+(ii) above). 
+
+The Group recommends that in case of such temporary breaches, FPI may be provided 
+90  days  to  comply  with  above  eligibility  condition/s.  In  case  the  FPI  remains  non-
+compliant with this requirement after 90 days, no fresh purchases may be permitted 
+and it may have to liquidate its existing position in Indian securities market in the next 
+180 days. 
+
+In  the  April  10  circular,  it  has  been  stated  that  in  accordance  with  Rule  9  of  PMLA 
+Rules, in a case where no BO is identified based on controlling ownership interest or 
+control criteria, the SMO of the FPI would be regarded as the BO. In such cases, an 
+NRI/OCI/RI would not be allowed to be SMO of FPI as per the Circular. According to 
+the Group, as mentioned above, the BO criteria under PMLA may be made applicable 
+only  for  the  purpose  of  KYC.  Accordingly,  the  Group  also  recommends  that  there 
+should be no restriction on NRI / OCI / RI to be the SMO of a FPI. 
+
+  
+
+Page | 4  
+
+2.  PIOs not to be subject to restrictions imposed by the April 10 Circular 
+
+Regime prior to the April 10 Circular: In the FAQs issued on SEBI FPI Regulations, 
+2014, PIOs have been subjected to the same restrictions as applicable to NRIs. 
+
+Restrictions imposed by the April 10 Circular: The April 10 Circular imposes restrictions 
+only on NRIs, OCIs and RIs, there is no specific reference to the Persons of Indian 
+Origin (PIOs) in the April 10 Circular. However, since the FAQs are still valid and the 
+fact that the definition of NRIs under the Income Tax Act, 1961 includes PIOs as well, 
+there is a confusion whether the restrictions imposed by the April 10 Circular on NRIs 
+/ OCIs / RIs would be applicable to PIOs as well. 
+
+Recommendation:  
+
+The Group deliberated whether we could consider limiting the eligibility conditions only 
+to  NRIs  since  OCI  status  may  be  used  by  PIOs  not  necessarily  for  availing  of  any 
+benefit  from  an  investment  purposes  but  also  for  other  benefits  such  as  ease  of 
+immigration. However, since the definition of NRI under FEMA 20 includes OCIs, it was 
+felt that current restrictions may be imposed upon NRIs and OCIs only and it may be 
+clarified that PIOs (without OCI status) should be excluded from the applicability of the 
+restriction under April 10 Circular.  
+
+Further,  “PIO”  as  a  concept  has  been  done  away  with  in  the  Foreign  Exchange 
+Management Act (FEMA). It is recommended that no restrictions may be placed on the 
+erstwhile Persons of Indian Origin (PIOs) and the relevant FAQs answered earlier may 
+be superseded.   
+
+The Group also suggested that suitable definition of NRI and OCI may be included in 
+FPI Regulations.    
+
+ 
+
+ 
+
+  
+
+Page | 5  
+
+SECTION B:  
+
+3.  Recommendation  relating  to  clubbing  of  investment  limit  of  FPIs  having 
+
+Common ownership or control  
+
+Regime prior to the April 10 Circular: Clubbing of investment limit for FPIs was on the 
+basis  of  common  ownership  or  control  of  more  than  50  percent,  as  mentioned  in 
+Operational Guidelines for Designated Depository Participants. 
+ 
+Conditions imposed by the April 10 Circular: In terms of paragraph 2(a)(vi) of the April 
+10  Circular,  clubbing  of  investment  limit  for  FPIs  is  on  the  basis  of  Beneficial 
+Ownership  (as  per  PMLA  Rules)  of  FPIs.  This  effectively  means  that  the  current 
+clubbing provisions will also be applicable where  BOs are identified on the basis of 
+Control/SMO. 
+ 
+
+ 
+
+Recommendation:  
+
+ 
+
+a)  As mentioned above, the BO criteria under PMLA may be made applicable only 
+
+for the purpose of KYC and not for clubbing of investment limits. 
+
+b)  Clubbing of investment limit for FPIs may be on the basis of common ownership 
+i.e. all entities having direct or indirect common shareholding / beneficial interest, 
+of more than 50% OR based on common control (as defined under explanation to 
+para 1 above).  
+
+c)  Clubbing of investment limit of FPIs having common control may not be applicable 
+
+in any of the following cases where: 
+
+ 
+
+(i)  FPIs are appropriately regulated public retail funds or  
+
+ 
+
+(ii)  FPIs are appropriately regulated public retail funds majority owned by public 
+
+retail fund on look through basis or 
+
+ 
+
+(iii)  FPIs are public retail funds and investment managers (IMs) of such FPIs are 
+
+appropriately regulated.  
+
+d)  Public retail fund would generally mean (i) mutual funds or unit trusts which are 
+open  for  subscription  to  retail  investors  and  do  not  have  specific  investor  type 
+requirements  e.g.  accredited  investors  etc,  (ii)  insurance  companies  where 
+segregated  portfolio  with  one  to  one  correlation  with  a  single  investor  is  not 
+maintained and (iii) pension funds. 
+
+e)  In order to appropriately monitor investment concentration where common control 
+is identified for such public retail fund, Indian depositories will maintain details of 
+controlling entities on the basis of name, nationality, passport number/ national ID 
+etc. and provide appropriate reports to SEBI on periodic basis. 
+
+  
+
+Page | 6  
+
+ 
+
+f)  Clubbing of investment limit of FPIs having common control identified on the basis 
+
+of “SMO” may not be made applicable. 
+ 
+
+g)  Investment  manager  would  mean  an  entity  performing  the  role  of  investment 
+
+management, investment advisory or any equivalent role. 
+ 
+
+SEBI may consider making suitable changes in FPI Regulations. 
+
+ 
+
+Page | 7  
+
+ 
+
+ 
+
+  
+
+SECTION  C:  Recommendations  on  identification  and  verification  of  Beneficial 
+Owners  
+
+4.  Need to bring uniformity of requirement across all Category I FPIs  
+
+Regime  prior  to  the  April  10  Circular:  All  Category  I  FPIs  were  exempted  from 
+submitting beneficial ownership list, proof of identify and address documents for senior 
+managing officials, authorized signatories and beneficial owners (“BOs”).  
+
+New norms under the April 10 Circular: In paragraph 2(a)(iv) of the April 10 Circular, 
+if any FPI is coming from a “high risk jurisdiction”, the intermediary (DDP) is required 
+to apply a lower materiality threshold of 10% for identification of BO of such FPI and 
+ensure that KYC documentation as applicable for category III FPIs is obtained from 
+such FPIs. The April 10 Circular does not specifically exempt category I FPIs coming 
+from “high risk jurisdiction” from meeting such lower materiality threshold and category 
+III FPI KYC documentation requirements.  
+
+Recommendation:   
+
+a)  Category  I  FPIs  are  either  government/government  related  entities  and  are 
+perceived  to  be  low  risk  entities.  Considering  the  same,  it  is  recommended  that 
+Category I FPIs coming from all jurisdictions be exempt from: 
+
+ 
+
+i.  Providing  additional  KYC  documentation  requirements  as  applicable  to 
+
+Category III FPIs, including BO declaration.  
+
+ 
+
+ii.  Providing declaration related to issuance of bearer shares considering that 
+
+majority shareholding of such Category I FPIs is with the Government.  
+ 
+
+b)  KYC review of Category I FPIs should be done at the time of continuance of their 
+
+FPI registration. 
+
+ 
+
+c)  For the purpose of KYC requirements, an entity would be considered to be a ‘foreign 
+government  agency’  only  if  more  than  75%  ownership  entitlement  and  control  is 
+held  by  the  Government  of  a  foreign  country  [(including  FPIs  from  non-high  risk 
+jurisdiction)].  This  will  ensure  that  no  other  significant  shareholder  is  able  to 
+participate.  
+ 
+
+5.  Definition of Senior Managing Official  
+
+Regime prior to the April 10 Circular: The term senior managing official (“SMO”) was 
+not defined under the FPI Regulations and/or the PML Act or rules issued thereunder. 
+ 
+Conditions  imposed  by  the  April  10  Circular:  In  paragraph  2(a)(vi)  of  the  April  10 
+Circular,  it  has  been  provided  that  where  no  material  shareholder/owner  entity  is 
+
+  
+
+Page | 8  
+
+identified in the FPI using the materiality threshold (for controlling ownership interest 
+basis and also on control basis (for companies and trusts), BO shall be the SMO of the 
+FPI.  
+ 
+Recommendation: In absence of clear definition, the term SMO could be subject to 
+different 
+inconsistent  approaches.  Hence,  Group 
+recommends below definition of the term: 
+
+interpretations  resulting 
+
+in 
+
+“The term senior managing official (SMO) means an individual as designated by the 
+FPI who holds a senior management position and makes key decisions relating to the 
+FPI.” 
+
+ 
+
+6.  Identification of BO of listed entities 
+
+Regime  prior  to  the  April  10  Circular:  Rule  9(3)(f)  of  the  PMLA  Rules  provides  that 
+“where the client or the owner of the controlling interest is a company listed on a stock 
+exchange,  or  is  a  subsidiary  of  such  a  company,  it  is  not  necessary  to  identify  and 
+verify the identity of any shareholder or beneficial owner of such companies”.  
+
+Requirement  under  the  April  10  Circular:    The  April  10  Circular  requires  all  FPIs  to 
+identify and verify its BO, and does not specifically provide any exemption from meeting 
+such requirement if the FPI or its holding company or controlling interest owner is a 
+company  listed  on  a  stock  exchange.  In  the  absence  of  any  specific  guidance  in 
+relation to listed entities in the April 10 Circular, and paragraph 2(a)(i) of the April 10 
+Circular providing that BO should be identified in accordance with Rule 9 of the PMLA 
+Rules,  there  could  be  inconsistent  views  be  taken  by  the  market  on  whether  BO  is 
+required to be identified if the FPI or its holding company or controlling interest owner 
+is a company listed on a stock exchange. 
+
+Recommendation: It is suggested that SEBI  may  specifically clarify that exemption 
+under Rule 9(3)(f) of the PMLA Rules is only available to an FPI or its BO which is a 
+company listed on a stock exchange in following kinds of jurisdictions and such stock 
+exchange is recognized and supervised by its home regulators: 
+ 
+
+a. a  country  whose  securities  market  regulator  is  a  signatory  to  International 
+Organization  of  Securities  Commission’s  Multilateral  Memorandum  of 
+Understanding (Appendix A Signatories) or a signatory to bilateral Memorandum 
+of Understanding with SEBI, or 
+
+ 
+
+b. a country which  is not identified in the public statement of Financial Action Task 
+
+Force as 
+
+ 
+
+ 
+
+  
+
+Page | 9  
+
+(i)  a  jurisdiction  having  a  strategic  Anti-Money  Laundering  or  Combating  the 
+Financing of Terrorism deficiencies to which counter measures apply; or 
+ 
+(ii)  a  jurisdiction  that  has  not  made  sufficient  progress  in  addressing  the 
+deficiencies or has not committed to an action plan developed with the Financial 
+Action Task Force to address the deficiencies. 
+
+ 
+
+7.  BO declaration for partnerships on control basis  
+
+The  PMLA  Rules  as  well  as  the  April  10  Circular  provides  that  BOs  in  case  of 
+partnership  firms  are  required  to  be  identified  on  ownership  or  entitlement  basis. 
+Neither the PMLA Rules, nor the April 10 Circular, requires partnership firms to identify 
+BOs on a control basis. Considering general partners (GPs) in an offshore partnership 
+structure are typically in control of the partnership (LP), the Group recommends it may 
+be  clarified  that  such  BO  declaration  on  control  basis  is  not  required  for  a  GP/LP 
+structure or otherwise.  
+
+ 
+
+Recommendation: In case the view is taken that partnership firm set up as General 
+Partner/Limited Partnership is required to identify BO on control basis then appropriate 
+changes may be made in KYC requirements. 
+
+ 
+
+ 
+
+  
+
+Page | 10  
+
+SECTION D: Other Aspects 
+
+8.  Timelines for compliance:  
+
+The remediation based on the KYC circular is going to be an extensive exercise given 
+large number of FPIs in the market, Global custodian (GC) structure and a  revised 
+KYC circular may have to be issued based on recommendations of this  Group and 
+other feedbacks received by SEBI. Based on above, we recommend SEBI to allow 6 
+months time from the time the revised circular is published for appropriate compliance 
+with the new requirements. 
+
+9.  Applicability of April 10 circular to FPI investment through Offshore Derivative 
+
+Instrument (ODI) 
+
+Some questions were raised on applicability of the KYC circular on FPI investments 
+through ODIs. In  order to bring clarity on applicability of April 10 circular,  it may be 
+clarified that the compliance requirement is also applicable to ODI subscribers.  
+
+ 
+
+10. Impact of FPIs not meeting the stipulations of KYC circular 
+
+To  provide  clarity  on  impact  of  non-compliance  with  the  KYC  circular  on  FPIs,  it  is 
+recommended that: 
+
+If an FPI fails to comply with the applicable KYC requirements by the given deadline, 
+the concerned Custodian shall not allow such FPI to make fresh purchases till the time 
+KYC documentary requirements, as applicable, are complied with. However, such FPI 
+shall be allowed to continue to sell the securities already purchased by it.  
+
+Such FPI shall be allowed to disinvest its holdings within a period of 180 days from 
+the expiry of the timeline permitted by SEBI.  
+
+In case FPI remains non-compliant with this requirement even after 180 days from the 
+said deadline, its FPI registration will no longer be valid and it would need to disinvest 
+its holdings immediately. 
+
+ 
+
+11. Disclosure of personal information:  
+
+Regime  prior  to  the  April  10  Circular:  Personal  information  (birthdate/  address/ID 
+number) were not required to be disclosed as per BO format.  
+ 
+Conditions imposed by the recent circular: In the current BO details format personal 
+information (birthdate/ address/ID number) must be disclosed for Category II FPIs. 
+ 
+
+  
+
+Page | 11  
+
+Recommendation:  
+
+It was recommended that  social security number in the last column in the BO table 
+may  also  mean  equivalent  national  ID  number  and  SEBI  may  formulate  a  suitable 
+policy for sharing of personal information of the BOs.  
+ 
+
+12. Requirement of intermediate entities where no natural person as BO is identified 
+
+based on ownership or entitlement or control: 
+ 
+Regime prior to the April 10 Circular: No requirement to provide details of intermediate 
+entities  holding  above  material  threshold  and  only  natural  person  details  was 
+mandatory. 
+Conditions  imposed  by  the  April  10  Circular:  Point  2(a)(v)  of  current  circular  the 
+materiality  threshold  (referred  at  (iii)  &  (iv)  above)  to  identify  the  beneficial  owner 
+should  be  first  applied  at  the  level  of  FPI  and  next  look  through  principle  shall  be 
+applied to identify the beneficial owner of the material shareholder/ owner entity. Only 
+beneficial  owner  with  holdings  equal  &  above  the  materiality  thresholds  in  the  FPI 
+need to be identified through the aforesaid look through principle. 
+ 
+Recommendation: SEBI may clarify where no natural person is identified based on 
+ownership  or  entitlement  or  control,  whether  details  of  intermediate  entities holding 
+above material threshold are not required or otherwise.              
+
+In case the view is taken that beneficial owner and material shareholder/ owner entity 
+with holdings equal & above the materiality thresholds in the FPI need to be identified 
+through the look through principle and for intermediate material shareholder/ owner 
+entity/ies,  name  and  percentage  holding  shall  be  disclosed,  SEBI  may  clarify  by 
+appropriately amending its circular. 
+
+ 
+
+13. Other issues: 
+
+The group is also examining separately whether any recommendations to merge the 
+FPI  and  NRI/OCI  routes  of  investment  can  be  made  to  Government  of  India  and 
+Reserve Bank of India. The group also recommended that SEBI may suitably clarify 
+actions to be taken by FPIs for divestment or re-classification of holdings as FDI in 
+case of breach of investment limits, after consulting Reserve Bank of India. The group 
+also  recommends  that  SEBI  may  consult  Government  of  India  to  evolve  more 
+objective criteria for defining High Risk Jurisdictions. 
+
+The Group suggests that the recommendations contained in this Interim Report should 
+be put in public domain for comments/ feedback from other stakeholders before SEBI 
+takes final view in the matter. 
+
+  
+
+Page | 12  
+
+

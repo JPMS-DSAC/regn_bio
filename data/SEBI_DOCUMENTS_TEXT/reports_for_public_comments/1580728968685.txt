@@ -1,0 +1,768 @@
+ 
+
+Discussion Paper on proposed amendments in SEBI (Substantial Acquisition of 
+
+Shares and Takeovers) Regulations, 2011 
+
+ 
+
+1.  Objective 
+
+1.1 The  objective  of  this  discussion  paper  is  to  seek  comments  /  views  from  the  public  on 
+
+the  proposed  amendments  in  Securities  and  Exchange  Board  of  India  (Substantial 
+
+Acquisition  of  Shares  and  Takeovers)  Regulations,  2011  (“Takeover  Regulations”)  in 
+
+relation to: 
+
+i.  Completion of acquisition through bulk and block deals during the open offer 
+
+period; 
+
+ii.  Depositing  100%  escrow  in  case  of  open  offers  made  pursuant  to  indirect 
+
+acquisitions; and 
+
+iii.  Payment of interest in case of delay in open offers. 
+
+1.2 The  aforementioned  issues  have  been  discussed  in  the  meeting  of  Primary  Market 
+
+Advisory  Committee,  wherein  it  was  decided  to  seek  public  comments  before  carrying 
+
+out changes in the regulations.  
+
+2.  Completion  of  acquisition  through  bulk  and  block  deals  during  the  open  offer 
+
+period 
+
+Background 
+
+2.1 The  Takeover  Regulations  were  notified  based  on  recommendations  made  by  the 
+
+Takeover  Regulations  Advisory  Committee  (TRAC).  The  TRAC  report  had  inter  alia 
+
+recommended the following relating to completion of transaction that triggered the open 
+
+offer - “The agreement that attracts an open offer obligation may be acted upon during 
+
+the pendency of the open offer provided 100 % of the consideration payable under the 
+
+open  offer  is  placed  in  escrow.”  The  provisions  relating  to  completion  of  acquisition 
+
+during  the  open  offer  period  were  accordingly  provided  in  Regulation  22(1)  and  (2)  of 
+
+ 
+
+Page 1 of 12 
+
+ 
+
+Takeover Regulations in 2011. 
+
+2.2 Therefore, the Acquirer is not permitted to complete the transaction triggering the open 
+
+offer  until  expiry  of  the  open  offer.  The  only  exceptions  were  provided  in  Regulation 
+
+22(2)  which  provided  that  the  acquirer  may  act  upon  the  agreement  and  the  acquirer 
+
+may  complete  the  acquisition  of  shares  or  voting  rights  in,  or  control  over  the  target 
+
+company, subject to meeting the following two conditions: 
+
+a. Acquirer depositing 100% of the offer size in escrow in cash; and 
+
+b. After expiry of 21 working days from the Detailed public statement (DPS). 
+
+FAQs on Takeover Regulations 
+
+2.3 Further, the FAQs on Takeover Regulations were also issued by SEBI in 2011. One of 
+
+FAQs  provided  that  the  acquisitions  resulting  from  any  agreement  attracting  the 
+
+obligation to make an open offer cannot be completed by way of transactions settled on 
+
+stock exchange such as bulk/block deals. 
+
+Amendments in Regulation 22 in 2013 
+
+2.4 The issue relating to completion of acquisition through stock exchanges were discussed 
+
+in  the  Board  meeting  held  on  January  18,  2013.  It  was  noted  that  Regulation  22(1) 
+
+prohibits completion of the acquisition which triggered the open offer obligations till the 
+
+offer formalities are complete. However, it specifically relates to an acquisition pursuant 
+
+to  an  agreement  and  is  not  applicable  in  cases  of  transactions  involving  direct  market 
+
+purchases.  The  expression  “such  agreement”  in  regulation  22(2)  endorses  the  above 
+
+stated interpretation. Therefore, it was proposed to expressly state that acquisition made 
+
+through  stock  exchange  can  be  completed  in  accordance  with  the  normal  settlement 
+
+process applicable to the stock exchange mechanism. However, the shares so acquired 
+
+shall  be  kept  in  a  separate  escrow  account  and  exercise  of  voting  rights  on  such 
+
+acquisitions would be subject to provisions of Regulation 22(2).  
+
+2.5 The following regulation 22(2A) was introduced in the Takeover Regulations, 2011 w.e.f. 
+
+March 26, 2013: 
+
+ 
+
+Page 2 of 12 
+
+ 
+
+2A) Notwithstanding anything contained in sub-regulation (1), an acquirer may acquire 
+
+shares of the target company through preferential issue or through the stock exchange 
+
+settlement process, other than through bulk deals or block deals, subject to ,- 
+
+(i) such shares being kept in an escrow account, 
+
+(ii) the  acquirer  not  exercising  any  voting  rights  over  such  shares  kept  in  the  escrow 
+
+account: 
+
+Provided that such shares may be transferred to the account of the acquirer, subject 
+
+to the acquirer complying with requirements specified in sub-regulation (2). 
+
+Issue 
+
+2.6 
+
+It  is  noted  that  that  there  is  still  some  confusion  on  whether  the  completion  of 
+
+acquisition  through  stock  exchange  settlement  process  is  permitted  for  bulk  deals  and 
+
+block deals.  
+
+Analysis 
+
+2.7  Regulation  22(2)  and  Regulation  22(2A)  are  non-obstante  clauses  and  operating  in 
+
+different context. While Regulation 22(2) deals with completion of acquisition pursuant to 
+
+an  agreement,  Regulation  22(2A)  is  relating  to  completion  of  acquisition  through  the 
+
+stock exchange settlement process. The purpose of insertion of Regulation 22(2A) was 
+
+to  make  it  clear  that  the  acquisition  through  stock  exchange  settlement  can  be 
+
+completed during the open offer, subject to the conditions mentioned in this regulation. 
+
+However, the amendment provided an exclusion to bulk deals and block deals. 
+
+2.8  The following are the various scenarios, - 
+
+i.  Trigger of open offer pursuant to agreement (e.g. SPA): The agreement can 
+
+be  executed  through  either  on  the  stock  exchanges  by  way  of  block  deal  or 
+
+through off-market. In this regard, it is noted that the transaction executed through 
+
+block deal on the stock exchange platform is more transparent than the off-market 
+
+route.  
+
+While  Regulation  22(2)  of  the  Takeover  Regulations  allows  the  completion  of 
+
+acquisition pursuant to agreement, it appears that the prohibition on block deals 
+
+ 
+
+Page 3 of 12 
+
+ 
+
+provided in Regulation 22(2A) has created some confusion in the market. In this 
+
+regard, we may consider bringing in more clarity by deleting the exclusion of block 
+
+deal provided in Regulation 22(2A). 
+
+ii.  Trigger  of  open  offer  pursuant  to  placement  of  purchase  orders  on  stock 
+
+exchanges  that  are  not  pursuant  to  agreement:  The  open  offer  might  trigger 
+
+due  to  placement  of  large  purchase  orders  on  the  stock  exchanges.  Such 
+
+transactions are not covered under Regulation 22(2) of Takeover Regulations.  
+
+Usually, such transactions would be of large purchase orders and might be either 
+
+bulk deal or a negotiated transaction as block deal. However, completion of such 
+
+transaction  is  currently  prohibited  in  terms  of  Regulation  22(2A)  of  Takeover 
+
+Regulations.  
+
+2.9  Our comments on block deals and bulk deals are as follows: 
+
+i.  Block  Deals:  Block  deal  is  a  separate  trading  window  permitted  by  SEBI  for 
+
+execution  of  large  size  trades  through  a  single  transaction.  SEBI      vide  circular   
+
+MRD/DoP/SE/Cir-19/2005   dated   September   02, 2005 prescribed guidelines 
+
+for  execution  of  large size  trades  through a separate  trading  window,  termed  as 
+
+“block deal”. The block deal window mechanism has been reviewed by SEBI by 
+
+way  of  circular  dated  October  26,  2017.  The  following  has  inter  alia  been 
+
+specified in the said circular: 
+
+a)  The minimum order size for execution of trades in the Block deal window shall 
+
+be Rs.10 Crore; 
+
+b)  There  will  be  two  block  deal  windows  (morning  block  deal  window  between 
+
+08:45  AM  to  09:00  AM  with  reference  price  being  the  closing  price  of  the 
+
+previous  day;  and  afternoon  block  deal  window  between  02:05  PM  to  02:20 
+
+PM with reference price being volume weighted average market price (VWAP) 
+
+of the trades executed in the stock in the cash segment between 01:45 PM to 
+
+02:00 PM); 
+
+c)  The orders placed shall be within ±1% of the applicable reference price in the 
+
+respective windows; 
+
+ 
+
+Page 4 of 12 
+
+ 
+
+d)  Every  trade  executed  in  the  block  deal  windows  must  result  in  delivery  and 
+
+shall not be squared off or reversed. 
+
+e)  The stock exchanges shall disseminate the information on block deals such as 
+
+the  name  of  the  scrip,  name  of  the  client,  quantity  of  shares  bought/sold, 
+
+traded price, etc.to the general public on the same day, after the market hours; 
+
+ii.  Bulk  Deals:  A  “bulk”  deal  constitutes  of  “all  transactions  in  a  scrip  (on  an 
+
+exchange)  where  total  quantity  of  shares  bought/sold  is  more  than  0.5%  of  the 
+
+number of equity shares of the company listed on the exchange. SEBI has issued 
+
+a  circular  (reference  no.  SEBI/MRD/SE/Cir-7/2004)  on  January  14,  2004  on 
+
+disclosures of details of “bulk” deals with a view to impart greater transparency to 
+
+the market on such transactions executed on the stock exchanges. The following 
+
+has inter alia been specified in the said circulars: 
+
+a)  The disclosure shall be made with respect to all transactions in a scrip where 
+
+total quantity of shares bought/sold is more than 0.5% of the number of equity 
+
+shares of the company listed on the stock exchange; 
+
+b)  The brokers shall disclose to the stock exchange the name of the scrip, name 
+
+of the client, quantity of shares bought/sold and the traded price; 
+
+c)  The stock exchanges shall disseminate the aforesaid information on the same 
+
+day after market hours to the general public. 
+
+2.10  Therefore,  it  may  be  noted  that  block  deals  and  bulk  deals  are  regulated,  settled 
+
+through  stock  exchanges  and  there  are  reporting  requirements  applicable  for  such 
+
+transactions on a daily basis. 
+
+2.11  While  completion  of  acquisition  through  stock  exchanges  was  permitted  in  2013,  it 
+
+appears that there was not adequate rationale provided for exclusion of block deals and 
+
+bulk deals. The exclusion provided in the amendment in 2013 may  possibly because of 
+
+the FAQ that has been in place since 2011. 
+
+2.12  Considering that the market purchases are permitted, and block deals and bulk deals 
+
+are  regulated  and  transparent  compared  to  off-market  transactions,  we  may  consider 
+
+allowing completion of acquisitions through bulk and block deals, during the offer period. 
+
+ 
+
+Page 5 of 12 
+
+ 
+
+2.13  Further, the following would be the benefits to the Acquirer, by permitting completion of 
+
+acquisition through block deals and bulk deals during the offer period: 
+
+i.  The  Acquirer  will  be  able  to  directly  acquire  significant  stake  in  the  target 
+
+company through stock exchanges instead of negotiating through the off-market 
+
+route; and 
+
+ii.  The  Acquirer  will  be  able  to  complete  the  acquisition  quickly  instead  of  placing 
+
+small orders for a longer period of time, with appropriate checks and balances as 
+
+prescribed  under  Regulation  22(2A)  such  as  shares  being  kept  in  an  escrow 
+
+demat  account  and  the  acquirer  not  exercising  any  voting  rights  over  such 
+
+shares, unless 100% cash is deposited in the account. 
+
+Proposal 
+
+2.14  The following is proposed: 
+
+i.  We  may  allow  completion  of  acquisition  through  stock  exchange  settlement 
+
+process for all types of transactions including bulk deals and block deals.  
+
+ii.  The existing FAQ in this regard may also be deleted. 
+
+3.  Depositing  100%  escrow  in  case  of  open  offers  made  pursuant  to  indirect 
+
+acquisitions 
+
+Background 
+
+3.1  The provisions of Regulation 17 of Takeover Regulations stipulates the requirement of 
+
+creation  of  an  escrow  account  towards  security  for  performance  of  obligations  by 
+
+Acquirers. It further stipulates that such account shall be created and requisite amount be 
+
+deposited within 2 working days prior to the date of the Detailed Public Statement (DPS). 
+
+3.2  The provisions of above Regulation is applicable for all open offers whether triggered on 
+
+account of direct acquisition/deemed direct acquisition or indirect acquisition. 
+
+3.3  Regulation 22 of Takeover Regulations states that the Acquirer shall not complete the 
+
+acquisition  of  shares  or  voting  rights  in  or  control  over  the  target  company  whether  by 
+
+ 
+
+Page 6 of 12 
+
+ 
+
+way of subscription of shares or a purchase of shares attracting the obligation to make an 
+
+open offer, until the expiry of the offer period. 
+
+3.4  Regulation 22(2), however, allows parties to an agreement to act on the agreement and 
+
+the acquirer may complete the acquisition of shares or voting rights in or control over the 
+
+target  company  during  the offer  period  after expiry  of 21  working  days  from  the  date of 
+
+DPS if the acquirer deposits 100% of the consideration payable under the open offer in 
+
+cash. 
+
+3.5  Thus,  provisions  of  Regulation  22  allow  Acquirers  to  take  control  over  the  target 
+
+company during the offer period itself subject to expiry of 21 working days after date of 
+
+DPS and 100% escrow in cash.  
+
+3.6  In case of an open offer which gets triggered on account of indirect acquisition of voting 
+
+rights in or control over the target company and where none of the parameters as set out 
+
+in  Regulation  5(2)  of  Takeover  Regulations  are  met,  public  announcement  (PA)  to  the 
+
+offer  is  required  to  be  made  within  four  working  days  from  the  earlier  of,  the  date  on 
+
+which  the  primary  acquisition  is  contracted,  and  the  date  on  which  the  intention  or  the 
+
+decision to make the primary acquisition is announced in the public domain. A relaxation, 
+
+however,  with  respect  to  date  of  publication  of  DPS  has  been  provided  in  proviso  to 
+
+Regulation  13(4).  The  proviso  to  Regulation  13(4)  states  that  such  DPS  shall  be  made 
+
+not later than 5 working days after the completion of primary acquisition and the Acquirer 
+
+acquires indirect control over the Target Company. 
+
+3.7  From the proviso to Regulation 13(4) it is clear that the primary acquisition, which would 
+
+result  in  indirect  acquisition  of  the  target  company,  can  be  completed  before  the 
+
+publication  of  DPS.  This  is  further  clarified  in  the  explanation  to  the  said  proviso  which 
+
+states that in the event the acquirer does not succeed in acquiring the ability to exercise 
+
+or direct the exercise of voting rights in or control over the Target Company, the acquirer 
+
+is not obliged to make a DPS for the open offer for acquiring shares. 
+
+3.8  Thus,  in  case  of  open  offers  which  get    triggered  on  account  of  indirect  acquisitions 
+
+where PA is made in terms of Regulation 13(2)(e) of Takeover Regulations, the Acquirer 
+
+acquires control over the Target Company before the date of DPS and is not  required to 
+
+deposit 100% of the consideration payable under the open offer in the escrow account. 
+
+ 
+
+Page 7 of 12 
+
+ 
+
+3.9  It is observed that the Takeover Regulations have stricter compliances with respect to 
+
+deposit of money in escrow account for direct and deemed direct acquisitions in case the 
+
+acquirer  wishes  to  complete  the  underlying  transaction  during  the  offer  period  itself 
+
+compared  to  open  offers  which  get  triggered  on  account  of  indirect  acquisitions  where 
+
+only  amount  as  stipulated  under  Regulation  17  has  to  be  deposited  in  the  escrow 
+
+account. 
+
+3.10  While the Regulations provide a leeway with respect to the timing of DPS in cases of 
+
+open offers triggered on account of indirect acquisitions where the target company is not 
+
+a significant part of the primary transaction, it is felt  that there should be no leeway with 
+
+respect to the amount of money to be deposited in escrow account as a security once the 
+
+control over the target company is acquired on the completion of primary acquisition. 
+
+3.11  Since  the  Acquirer  acquires  indirect  control  over  the  Target  Company  by  virtue  of 
+
+completing the primary acquisition and enjoys the benefits arising out of being in control 
+
+over the Target Company, an amount equal to 100% of the consideration payable under 
+
+an open offer must be set aside as a security for the performance of obligations under an 
+
+open offer similar to direct acquisitions. 
+
+Issue 
+
+3.12  The  current  framework  of  Takeover  Regulations  does  not  stipulate  mandatory 
+
+requirement  of  deposit  in  an  escrow  account  a  sum  equivalent  to  100%  of  the 
+
+consideration payable under an open offer in case of indirect acquisition of shares/ voting 
+
+right in, or control over the target company where PA of the offer has been made under 
+
+Regulation 13(2)(e). 
+
+3.13   It is felt that Takeover Regulations should not differentiate between direct acquisitions 
+
+and  indirect  acquisitions  when  providing  safeguards  for  shareholders  who  wish  to  avail 
+
+the exit opportunity provided by an open offer. 
+
+Proposal 
+
+3.14  In view of the above, it is proposed that in case of indirect acquisitions PA of an open 
+
+offer  is  made  in  terms  of  Regulation  13(2)(e)  of  Takeover  Regulations,  an  amount  of 
+
+ 
+
+Page 8 of 12 
+
+ 
+
+100%  of  the  consideration  payable  under  the  open  offer  must  be  deposited  2  working 
+
+days before the date of DPS.   
+
+3.15  Further, such escrow account may be in the form of cash and/or bank guarantee. 
+
+4.  Payment of interest in case of delay in open offers 
+
+Background  
+
+4.1  Takeover  Regulations  was  notified  in  2011,  pursuant  to  repeal  of  the  Securities  and 
+
+Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 
+
+1997, based on the report of the TRAC dated July 19, 2010.  The main objectives of the 
+
+Takeover  Regulations  are  inter  alia  to  protect  the  interests  of  investors  in  securities 
+
+markets  and  to  ensure  a  fair,  equitable  and  transparent  framework  for  protecting  their 
+
+interests.  
+
+4.2  The  Takeover  Regulations  provide  detailed  and  specific  timelines  for  completion  of 
+
+open  offer,  starting  from  the  date  of  event  triggering  the  open  offer  requirements.  The 
+
+Takeover Regulations provide certain flexibilities in terms of timelines as indicated below: 
+
+4.2.1  Indirect Acquisitions: In cases of indirect acquisitions where the target company 
+
+is not a significant part of the primary transaction, the timeline for making detailed 
+
+public statement (DPS) has been extended till 5 working days of the completion of 
+
+the  primary  transaction  (in  terms  of  Regulation  13(4)  of  Takeover  Regulations). 
+
+However, it has been clearly mentioned in the Takeover Regulations that the offer 
+
+price has to be enhanced after including interest at the rate of 10% per annum for 
+
+this period (in terms of Regulation 8(12) of Takeover Regulations). The same was 
+
+also mentioned in the report of TRAC. The relevant extract is reproduced below: 
+
+“However, as the acquirer would be fixing the price payable for the offer as on the 
+
+date of the primary acquisition, and would have the benefit of delaying payment to 
+
+the  shareholders  (due  to  time  lag  in  completing  the  primary  acquisition),  all  the 
+
+shareholders tendering shares in the open offer would need to be compensated by 
+
+way of an increase in the offer price at the rate of [10 %] per annum for the period 
+
+between the announcement of primary acquisition and date on which the detailed 
+
+public statement is actually made if such period is more than five business days.” 
+
+ 
+
+Page 9 of 12 
+
+ 
+
+4.2.2  Statutory Approvals: In terms of Regulation 18(11) of the Takeover Regulations, 
+
+the open offers can be delayed subject to extension of time granted by SEBI, if the 
+
+delay  is  due  to  non-receipt  of  statutory  approvals.  However,  in  such  cases,  the 
+
+proviso  to  Regulation  18(11)  of  Takeover  Regulations  clearly  provides  that  the 
+
+acquirer has to pay interest to the shareholders for the delay. In this regard, it may 
+
+be noted that the requirement to pay interest is applicable even if the delay is not 
+
+attributable to any willful default, failure or neglect on the part of the acquirer. 
+
+4.3  Further, it is noted that there are instances wherein delayed open offer has been made. 
+
+In  such  cases  of  delayed  open  offer,  SEBI  while  processing  the  draft  letter  of  offer 
+
+ensures that the open offer price is enhanced after adding of interest at the rate of 10% 
+
+per annum for the period of delay. 
+
+4.4  However, there are several instances wherein open offer gets delayed by the acquirer 
+
+on  account  of  several  other  reasons,  including  but  not  limited  to  (i)  inter-se  dispute 
+
+among parties to the agreement; (ii) valuation disputes; (iii) investor complaints; (iv) delay 
+
+in  commencing  the  tendering  process;  (v)  delay  in  making  payment  by  acquirer  upon 
+
+tendering the shares under open offer; (vi) various stages of litigations etc.  
+
+Issues 
+
+4.5  In view of the above, the following are the issues for consideration:  
+
+a)  Payment of interest to shareholders 
+
+b)  Rate of interest;  
+
+c)  Shareholders entitled for interest. 
+
+Issue (a): Payment of interest to shareholders 
+
+4.6  It  may  be  noted  that  the  Takeover  Regulations  do  not  envisage  delays  in  open  offers 
+
+other  than  on  account  of  non-receipt  of  statutory  approvals  as  mentioned  in  regulation 
+
+18(11).  However,  the  open  offers  are  delayed  on  account  of  other  reasons  as 
+
+enumerated  at  paragraph  no.  4.4  above,  which  are  presently  not  envisaged  in  the 
+
+Takeover Regulations.  
+
+ 
+
+Page 10 of 12 
+
+ 
+
+4.7  While  in  some  cases,  the  acquirer  voluntarily  agrees  to  compensate  the  shareholders 
+
+by  paying  interest  for  the  delay,  the  issue  of  payment  of  interest  for  such  delays  is  not 
+
+expressly mentioned in the Takeover Regulations, other than by way of order/ directions 
+
+under Regulation 32 of Takeover Regulations on a case to case basis.  
+
+Proposal 
+
+4.8  It is proposed that in case of delay in the open offer due to the reasons outlined at para 
+
+4.4, the acquirer may be required to pay interest.  
+
+Issue (b): Rate of interest 
+
+4.9  The  rate  of  10%  per  annum  has  been  indicated  as  interest  in  respect  of  indirect 
+
+acquisitions (Regulation 8(12) of Takeover Regulations). 
+
+4.10  In  case  of  delayed  open  offer  the  market  practice  has  been  10%.  Further,  SEBI  has 
+
+also  been  considering  interest  rate  of  10%  for  the  delayed  open  offers,  and  also  for 
+
+extension of time granted to open offers on account of non-receipt of statutory approvals 
+
+in terms of Regulation 18(11) of Takeover Regulations.  
+
+Proposal  
+
+4.11  It is proposed that we may consider the rate of interest as 10 % per annum. 
+
+Issue (c): Shareholders entitled for interest 
+
+4.12  In  respect  to  interest  payment,  a  question  also  arises,  as  to  whom  the  interest 
+
+payment should be payable. In this regard there are two approaches: 
+
+i. 
+
+It  may  be  noted  that  pursuant  to  Supreme  court  order  in  the  matter  of  Clariant 
+
+International  Limited  and  another  vs.  SEBI  [Appeal  (Civil)  No.  3183/2003]  acquirers 
+
+have  been  making 
+
+interest  payment  only 
+
+to 
+
+the  original  shareholders 
+
+(shareholders  as  on  triggering  date  of  the  open  offer  and  continuing  as  on  the 
+
+date of tendering) with regard to delay due to litigations etc. 
+
+ii. 
+
+In case of indirect acquisitions and delays on account of  non-receipt of statutory 
+
+approval,  the  offer  price  is  enhanced  after  addition  of  interest.  Therefore,  the 
+
+revised offer price, after addition of interest for the entire period, is paid to all the 
+
+ 
+
+Page 11 of 12 
+
+ 
+
+shareholders  who  have  tendered  their  shares  in  the  open  offer  (irrespective  of 
+
+date of purchase of shares).  
+
+Proposal 
+
+4.13   Considering  the  above,  it  is  proposed  that  the  revised  open  offer  price  may  be 
+
+calculated  after  addition  of  interest  (10%)  and  the  revised  offer  price  is  paid  to  all  the 
+
+shareholders  (in  line  with  the  approach  currently  followed  for  indirect  acquisitions  and 
+
+delays on account of non-receipt of statutory approvals).  
+
+5.  Public Comments 
+
+5.1  Public comments are invited on the aforesaid proposals in the following format:  
+
+Name of entity/ person/ intermediary:  
+ 
+
+ 
+
+Name of organization (if applicable): 
+ 
+
+ 
+
+Contact details: Address, Mobile No. etc. 
+ 
+
+Sr. 
+No. 
+
+ 
+
+ 
+
+Proposals 
+
+Proposed/ 
+
+Rationale 
+
+suggested changes 
+
+ 
+
+Page No. Para No. 
+
+ 
+
+ 
+
+5.2   Comments  may  be  forwarded  by  e-mail  to  sastreview2020@sebi.gov.in  or  sent  by 
+
+post at the following address latest by March 02, 2020. 
+
+Sh. Rajesh Gujjar 
+General Manager 
+Corporation Finance Department 
+Securities and Exchange Board of India  
+SEBI Bhavan 
+Plot No. C4-A, "G" Block 
+Bandra Kurla Complex 
+Bandra (East), Mumbai - 400 051 
+
+******* 
+
+ 
+
+ 
+
+Page 12 of 12 
+
+

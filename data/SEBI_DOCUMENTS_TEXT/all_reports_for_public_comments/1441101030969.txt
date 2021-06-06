@@ -1,0 +1,3665 @@
+ 
+
+ 
+
+Report of the Committee on Clearing 
+
+Corporations 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+July 2015 
+
+ 
+
+ 
+
+  Securities and Exchange Board of India                
+
+Letter of Transmittal 
+
+ 17 July, 2015 
+
+Shri U K Sinha 
+Chairman  
+Securities and Exchange Board of India 
+Mumbai 
+ 
+ 
+Dear Sir 
+ 
+Report of the Committee on Clearing Corporations 
+ 
+We  have  great  pleasure  in  submitting  the  Report  of  the  Committee  on  Clearing 
+
+Corporations set up by SEBI. 
+
+ 
+
+We sincerely thank you for entrusting us with this task of contemporary relevance. 
+
+ 
+
+Yours faithfully, 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ii 
+ 
+
+ 
+
+Acknowledgements 
+
+ 
+
+This report of the Committee on Clearing Corporations has been made possible with the 
+
+support  and  contributions  of  many  individuals.  The  Committee  would  like  to  gratefully 
+
+acknowledge their significant efforts and contributions. 
+
+ 
+
+The  Committee  sincerely  thank  for  the  valuable  support  provided  by  Chief  General 
+
+Manager Shri Pramod Kumar Bindlish. The Committee places on record its deep sense of 
+
+appreciation for the exemplary dedication and enormous efforts put in by the core team 
+
+from the Market Regulation Department comprising Shri Shashi Kumar Valsakumar, GM, 
+
+Ms. Maninder Cheema, DGM, Ms. Yogita Jadhav, Shri Peter Mardi, Shri Meetesh Patel, Shri 
+
+Atul Mittal and Shri Ramaneesh Goyal in providing comprehensive research and secretarial 
+
+assistance, for conduct of meetings of the Committee, preparing materials for discussion 
+
+and compiling draft materials.  
+
+ 
+
+ 
+
+ 
+
+i 
+
+  Securities and Exchange Board of India                
+
+Abbreviations 
+
+ 
+
+CC - Clearing Corporation  
+
+CCP-Central Counter Party 
+
+CSD- Central Securities Depository  
+
+CCIL- Clearing Corporation of India Ltd. 
+
+CPMI - Committee on Payment and Market Infrastructure 
+
+CM - Clearing Member 
+
+DSRC-Depository Systems Review Committee 
+
+EMIR - European Market Infrastructure Regulation 
+
+ESMA - European Securities and Markets Authority 
+
+EU- European Union  
+
+FMI - Financial Market Infrastructures 
+
+ICCL - Indian Clearing Corporation Ltd 
+
+IOSCO - International Organization of Securities Commissions 
+
+MSEI (formerly MCX-SX)-Metropolitan Stock Exchange of India 
+
+MCX-SXCCL - MCX-SX Clearing Corporation Ltd. 
+
+MII- Market Infrastructure Institution 
+
+NSCCL - National Securities Clearing Corporation Ltd 
+
+PFMI - Principle for Financial Market Infrastructure 
+
+RBI - Reserve Bank of India 
+
+ 
+
+ii 
+ 
+
+  Securities and Exchange Board of India                
+
+SE - Stock Exchange 
+
+SEBI - Securities and Exchange Board of India 
+
+SECC - Stock Exchange and Clearing Corporation Regulations 2012 
+
+SCRA - Securities Contract (Regulation) Act 1956 
+
+SGF-Settlement Guarantee Fund 
+
+USA - United States of America 
+
+ 
+
+ 
+
+iii 
+ 
+
+ 
+
+ 
+
+  Securities and Exchange Board of India                
+
+Executive Summary 
+
+The Securities and Exchange Board of India (hereinafter referred as 'SEBI') constituted a 
+
+Committee,  under  the  Chairmanship  of  Shri.  K  V  Kamath,  to  examine  the  viability  of 
+
+introducing a single clearing corporation (CC) or interoperability between different CCs, as 
+
+well  as  issues  pertaining  to  investments,  calculation  of  liquid  assets  in  Net  worth  of 
+
+recognised CC and Transfer of  Profits by recognised SEs to the fund of recognized CC’s. 
+
+ 
+
+The  Committee  deliberated  extensively  on  the  various  terms  of  reference  and  while 
+
+framing its recommendations has taken into account the present Indian securities market 
+
+eco-system, the views expressed by different stakeholders and the global experience with 
+
+regard to Clearing Corporations. 
+
+ 
+
+On  the  issue  of  viability  of  introducing  a  single  clearing  corporation  or  interoperability 
+
+between different CCs, the Committee has recommended that at this juncture, moving to 
+
+a single CC may not be appropriate for the securities market. Preserving the current market 
+
+structure  and  maintaining  separate  clearing  corporations  for  each  exchange  would  be 
+
+prudent  at  this  stage.  However,  SEBI  may  keep  the  interoperability  option  open  and 
+
+consider the proposal for implementation when ground conditions are met, which, inter 
+
+alia,  include  clear  intent  of  the  participants  coming  together  and  having  a  suitable  
+
+framework in place to the satisfaction of SEBI. 
+
+ 
+
+On the issue of investment by a recognized CC and the manner of utilization of profits of 
+
+CCs, the Committee has recommended that the investment policy of a CC should be built 
+
+on  the  premise  of  highest  degree  of  safety  and  least  market  risk.  The  Committee 
+
+recommends  that  CC  may  be  permitted  to  invest  in  Fixed  Deposits  (FDs)  /  Central 
+
+Government  Securities  (G  Secs).  Other  instruments  like  Non-Convertible  Debentures 
+
+(NCDs), Commercial Papers (CPs), money market mutual funds etc. may not be permitted 
+
+ 
+
+iv 
+ 
+
+  Securities and Exchange Board of India                
+
+as  investment  vehicle  as  they  carry  credit/liquidity  risks.  The  investment  policy  may  be 
+
+reviewed at least on an annual basis by the CC.  
+
+ 
+
+On the issue of reviewing the existing regulation of transfer of profits every year by the 
+
+recognized  Stock  Exchanges  to  the  fund  of  recognized  CC,  the  Committee  has 
+
+recommended that since the requirement of core Settlement Guarantee Fund (SGF) has 
+
+already been met, the 25% profit transfer requirement might not be required. Also, the 
+
+Risk Management Review Committee (RMRC) of SEBI may review the stress test model, 
+
+used  to  determine  the  Minimum  Required  Corpus  (MRC)  of  core  SGF,  for  making  such 
+
+departure.  
+
+ 
+
+With regard to the contribution already set aside by the Stock Exchanges towards the 25% 
+
+profit  transfer  requirement,  the  Committee  has  recommended  that  the  same  may  be 
+
+utilized by exchange to cover the member contribution to the core SGF since this would 
+
+result in lower transaction costs and would be in the overall interest of the market.  SEBI 
+
+may specify the details in this regard including in respect of contributions already made by 
+
+CCs  on  behalf  of  members.  Further,  the  requirement  of  member  contribution  may  be 
+
+reviewed after 5 years, or earlier, if warranted. The Committee recommended that SEBI 
+
+may specify the details in this regard and may appropriately make necessary amendments 
+
+to the SECC Regulations 2012.  
+
+ 
+
+On the issue of transfer of Depositories’ profits to their Investor Protection Fund (IPF), the 
+
+Committee recommended that depositories may transfer 5%, or such percentage as may 
+
+be prescribed by SEBI from time to time, of their profits from depository operations every 
+
+year  to  the  IPF  since  the  date  of  amendment  of  SEBI  (Depositories  and  Participants) 
+
+(Amendment) Regulations, 2012 requiring transfer of profits.  SEBI may consider necessary 
+
+amendment to SEBI (Depositories and Participants) Regulations, 1996 to enable the same. 
+
+ 
+
+v 
+ 
+
+  Securities and Exchange Board of India                
+
+The percentage of profits to be transferred every year by depositories to the IPF may be 
+
+reviewed by SEBI on a periodic basis. 
+
+On the issue of defining ‘the liquid assets’ of CCs for the purpose of calculation of Net worth 
+
+of  a  clearing  corporation,  the  Committee  recommended  that  the  liquid  assets  should 
+
+comprise  Fixed  Deposits  (FDs)/Central  Government  Securities  (G  Secs).  Further,  other 
+
+instruments like NCDs, CPs, money market mutual funds etc. carry credit/liquidity risks and 
+
+hence, may not be considered towards calculation of liquid assets in net worth of CC. 
+
+ 
+
+ 
+
+vi 
+ 
+
+ 
+
+Table of Contents 
+
+ 
+
+Content 
+
+ 
+
+Background 
+
+Methodology 
+
+Introduction 
+
+Viability of introducing a single Clearing Corporation (CC) 
+or interoperability between different CCs 
+Investment Policy of Clearing Corporations 
+
+Transfer of 25% profits of stock exchanges to the 
+Settlement Guarantee Fund of Clearing Corporation 
+ 
+Transfer of 25% profits of Depositories to their Investor 
+Protection Fund(IPF) 
+Liquid assets for  calculation of Net worth of Clearing 
+Corporation 
+
+Chapter 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+Page 
+
+1 - 2 
+
+3 - 4 
+
+5 - 7 
+
+8 - 22 
+
+23 - 35 
+
+ 
+
+36 - 47 
+
+48 – 52 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vii 
+
+ 
+
+  Securities and Exchange Board of India                
+
+CHAPTER 1 
+
+Background 
+
+The Securities and Exchange Board of  India (hereinafter referred as 'SEBI')  constituted a 
+
+Committee  under  the  Chairmanship  of  Shri.  K.  V.  Kamath,  to  examine  the  viability  of 
+
+introducing a single clearing corporation or interoperability between different CCs, as well 
+
+as pertaining to Investments, calculation of liquid assets in Net worth and Transfer of Profits 
+
+of recognised CCs. The other members of the Committee were: 
+
+a.  *Shri. G Padmanabhan- Executive Director -RBI 
+
+b.  **Ms. Nanda Dave-Chief General Manager-RBI 
+
+c.  Prof. V. Ravi Anshuman, Professor, Finance and Control, IIM Bangalore 
+
+d.  Prof. Deepak B. Phatak- Professor, IIT Mumbai 
+
+e.  Prof.  B.  Sambamurthy-Ex  Director,  Institute  for  Development  and  Research  in 
+
+Banking Technology(IBRDT) 
+
+f.  Shri S. V. Murali Dhar Rao, Executive Director, SEBI (Member Secretary). 
+
+*  Shri  G  Padmanabhan  Executive  Director-RBI  stepped  down  as  Member  of 
+
+Committee upon attaining Superannuation. 
+
+**Ms. Nanda Dave CGM-RBI was nominated as Member of Committee in place of 
+
+Shri G Padmanabhan-Executive Director-RBI. 
+
+Under  the  terms  of  reference,  the  Committee  needed  to  review  and  make 
+
+recommendations on the following issues: 
+
+a.  The  viability  of  introducing  a  single  Clearing  Corporation  (CC)  or  interoperability 
+
+between different CCs.  
+
+b.  Investment by a recognized CC and the manner of utilization of profits of CCs. 
+
+ 
+
+1 
+ 
+
+  Securities and Exchange Board of India                
+
+c.  To examine and review the existing regulation of transfer of profits every year by 
+
+the recognized Stock Exchanges to the fund of recognized CC.  
+
+d.  To define ‘the liquid assets’ of CCs for the purpose of calculation of Net worth of a 
+
+clearing corporation.  
+
+Any other matter that Committee considers relevant or incidental thereto. Accordingly, the 
+
+issue of Transfer of Depositories’ profits to their Investor Protection Fund (IPF) was referred 
+
+to the Committee. 
+
+ 
+
+ 
+
+ 
+
+2 
+ 
+
+  Securities and Exchange Board of India                
+
+CHAPTER 2 
+
+Methodology 
+
+The  Committee  was  apprised  of  the  evolution  of  the  Clearing  Corporations  in  Indian 
+
+securities  market  and  the  steps  taken  by  SEBI  in  order  to  develop  the  Indian  securities 
+
+market  eco-system,  especially  by  delineating  the  Clearing  Corporations  from  the  Stock 
+
+Exchanges and defining the role and responsibilities of the Clearing Corporation.  
+
+ 
+
+The  Committee  examined  the  international  practices  with  regard  Interoperability  of 
+
+Clearing  Corporations.  Further,  to  facilitate  the  deliberations  of  the  Committee  an 
+
+approach paper was prepared by SEBI on - the 'European Experience on Interoperability', 
+
+the  present  structure  of  Indian  Markets  and  risk  management  framework  and  the  risks 
+
+arising out of interoperability/ Single Clearing Corporation. 
+
+ 
+
+The  Committee  also  took  note  of  the  international  standards  -  Principles  of  Financial 
+
+Market  Infrastructures  (PFMI),  published  by  the  Committee  on  Payment  and  Market 
+
+Infrastructure (CPMI) and International Organization of Securities Commissions (IOSCO) on 
+
+the regulation, supervision and monitoring of the payment and settlement systems, record 
+
+keeping agencies etc. which play an important role in supporting and strengthening the 
+
+global financial system so that it can withstand shocks. 
+
+ 
+
+Subsequently,  this  committee  also  held  discussions  with  representative  of  the  three 
+
+Clearing Corporations - Indian Clearing Corporation Ltd, MCX-SX Clearing Corporation Ltd. 
+
+and  National  Securities  Clearing  Corporation  Ltd.  Further,  the  committee  also  met 
+
+representatives from ICICI Securities, National Securities Depository Ltd, DSP Merill Lynch, 
+
+Forum Trading Solution and Clearing Corporation of India Ltd.  
+
+ 
+
+3 
+ 
+
+  Securities and Exchange Board of India                
+
+This  report  brings  out  the  recommendations  of  the  Committee.  The  committee,  while 
+
+framing its recommendations has taken into account the present Indian securities market 
+
+eco-system, the views expressed by different stakeholders and the global experience with 
+
+regard to Clearing Corporations. 
+
+ 
+
+ 
+
+ 
+
+4 
+ 
+
+  Securities and Exchange Board of India                
+
+CHAPTER 3 
+
+Introduction 
+
+Evolution of the Securities Market 
+
+Advancement in technology has had a significant impact on the global securities market. 
+
+Rapid  adoption  of  such  technology  has  enabled  investors,  spread  across  different 
+
+geographies to trade in several classes of assets in a matter of milliseconds. The journey 
+
+from an open-outcry trading system to an online screen based trading mechanism available 
+
+today  has  been  challenging  but  such  systems  have  benefited  all  the  stakeholders  in the 
+
+securities market by reducing costs and increasing efficiency.  
+
+This momentous increase in trading and the resultant importance of market infrastructure 
+
+has caused the regulators around the world to relook at the Risk Management and Clearing 
+
+and  Settlement  Mechanism  in  place.  The  Indian  Securities  Market  also  witnessed  a 
+
+transformation, wherein, the importance of institutions engaged in providing clearing and 
+
+settlement services was recognised.  
+
+Towards this end SEBI  constituted a Committee on "Review of Ownership and Governance 
+
+of Market Infrastructure Institutions" under the Chairmanship of Dr. Bimal Jalan, (Former 
+
+Governor, Reserve Bank of India), to examine the issues arising from the ownership and 
+
+governance of Market Infrastructure Institutions (MIIs).  
+
+Based  on  the  recommendations  of  this  committee  SEBI  framed  the  Securities  Contracts 
+
+(Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 2012 published on 
+
+June  20,  2012  (hereinafter  referred  to  as  'SECC  Regulations').  The  SECC  Regulations 
+
+provided  the  broad  framework  for  regulation,  supervision  and  monitoring  of  the  Stock 
+
+Exchanges and Clearing Corporations.  
+
+ 
+
+5 
+ 
+
+  Securities and Exchange Board of India                
+
+In  light  of  the  SECC  Regulations,  SEBI  recognized  three  Clearing  Corporations  -  Indian 
+
+Clearing  Corporation  Ltd.  (hereinafter  referred  to  as  'ICCL'),  National  Securities  Clearing 
+
+Corporation Ltd (hereinafter referred to as 'NSCCL') and MCX-SX Clearing Corporation ltd. 
+
+(hereinafter referred to as 'MCX-SXCCL') to clear and settle for their respective Exchanges. 
+
+Further,  the  CPMI  and  IOSCO  also  prescribed  international  standards  (PFMIs)  for 
+
+systemically important financial market Infrastructures including Clearing Corporations, so 
+
+as  to  strengthen  such  institutions  which  can  support  the  global  financial  markets.  28 
+
+Jurisdictions  have  committed  to  adopt  the  PFMIs  in  their  regulatory  and  supervisory 
+
+functions over the systemically important financial market infrastructures.  
+
+The  process  flow  of  the  current  clearing  and  settlement  in  the  Indian  Securities  Market  is 
+
+highlighted below –  
+
+Funds 
+(Cheque) 
+
+Securities 
+(DIS) 
+
+C1 
+
+Buy 
+order 
+
+Broker - 1 
+
+EOD 
+File 
+
+T1 
+
+Sell 
+order 
+
+ 
+Broker -2 
+
+O1 
+
+O2 
+
+Stock  
+
+Exchange 
+
+EOD 
+File 
+
+T1 
+
+Securities 
+(DIS) 
+
+Funds 
+(Cheque) 
+
+Clearing Bank 
+
+Br-1 
+Br-1 
+A/c 
+A/c 
+
+Br -2 
+Br -2 
+A/c 
+A/c 
+
+EOD 
+File 
+
+T1 
+
+Clearing Corporation 
+
+A/c 
+A/c  
+with 
+with 
+CB 
+CB 
+
+A/c with 
+A/c with 
+Dep 
+Dep 
+
+Margins 
+Margins  
+Collate
+Blocked 
+ral for 
+Br 
+Br 
+Br 
+Br 
+Margin
+1 
+2 
+1 
+2 
+
+Depository 
+
+Br 1 
+Br 1 
+A/c 
+A/c 
+
+Br 2 A/c 
+Br 2 A/c 
+
+ 
+
+ 
+
+6 
+ 
+
+  Securities and Exchange Board of India                
+
+Note -  
+
+C1 – Client 
+
+O1 – Order  
+
+T1 - Trade 
+
+EOD – End of Day  
+
+Br – Broker 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)  As soon as an order (O1) is placed by the broker, and the same converts into a trade 
+
+(T1) a measure of risk is introduced into the system. The trades are then transferred 
+
+to the Clearing Corporation (CC) for clearing and settlement requirements. The CC 
+
+acting as a central counter party assumes the risk of settlement of the trade. 
+
+b)  The  risk  that  the  CC  faces  is  from  the  clearing  member  defaulting  on  the  pay-in 
+
+obligations at the time of settlement. 
+
+c)  In order to capture this risk, a mechanism of collateral based margining has been 
+
+put in place. This mechanism seeks to block a certain percentage of the collateral, 
+
+calculated as a measure of volatility, based on the value of the trade. 
+
+d)  Further, the members are required to bring additional margins in order to cover the 
+
+change in price of the scrip from the day of trade till the day of final settlement. 
+
+e)  In  case  of  default  by  the  clearing  member,  the  CC  steps  in  and  makes  good  the 
+
+settlement and conducts the necessary processes to recover the monies from the 
+
+defaulting member. 
+
+ 
+
+7 
+ 
+
+  Securities and Exchange Board of India                
+
+CHAPTER 4  
+
+ 
+
+Viability of introducing a single Clearing Corporation (CC) or 
+
+interoperability between different CCs 
+
+ 
+
+4.1.  Background 
+
+ 
+
+Clearing Corporations have been a fundamental constituent of the securities market 
+
+for  decades.  Evolution  of  regulations  has  allowed  for  the  entry  and  exit  of  market 
+
+infrastructure intermediaries, thus changing the capital market landscape. There is an 
+
+increased 
+
+level  of  competition  at  the 
+
+level  of  various  market 
+
+infrastructure 
+
+intermediaries, such as exchanges, clearing corporations and depositories. 
+
+ 
+
+The  genesis  of  a  single  clearing  corporation  or  interoperability  between  existing 
+
+clearing corporations stems from the current suboptimal utilization of capital, wherein, 
+
+margins,  need  to  be  deployed  at  the  individual  clearing  corporations  by  market 
+
+participants even if transactions are offsetting in nature till the time pay-ins are made. 
+
+Further, the lack of flexibility for the market participants in choosing the venue for the 
+
+clearing and settlement services results in higher cost to the market participant. 
+
+ 
+
+Propagators of Interoperability of CCs highlight that interoperability gives the trading 
+
+members the option to clear trades with the clearing corporation of their choice. In the 
+
+Indian context for e.g.: An investor could trade on, say BSE Ltd, and get the trade cleared 
+
+through the Clearing Corporation of the National Stock Exchange, or vice versa which 
+
+would  result  in  efficient  use  of  capital  for  trading  members  who  take  positions  on 
+
+multiple  stock  exchanges.  Some  of  these  positions  may  be  offsetting  in  nature  and 
+
+would hence result in a much lower outgo on margins and collateral. Additionally, when 
+
+8 
+ 
+
+ 
+
+  Securities and Exchange Board of India                
+
+clearing corporations aren’t linked to just one exchange but offer clearing services to 
+
+other venues as well, competition among trading venues is enhanced. 
+
+ 
+
+Propagators  of  single  Clearing  Corporation  highlight  that  while  participants  could 
+
+always compete on the front end of the securities business, there are considerable cost 
+
+efficiencies and risk reduction advantages to commoditising back office functions of a 
+
+centralized infrastructure model that could achieve economies of scale by centralized 
+
+trade netting, reducing cost and risk. 
+
+ 
+
+Interoperability is mainly a European initiative due to the fragmented market structure 
+
+in  Europe  with  more  than  11  CCs  operating  in  the  European  markets.  To  date, 
+
+interoperability has predominantly been a European phenomenon, reflecting an effort 
+
+in  the  European  Union  (EU)  to  foster  a  more  integrated  financial  market.  Market 
+
+participants and regulators have encouraged interoperability as a way of lowering the 
+
+costs to participants in accessing the markets served by CCs across EU countries, which 
+
+otherwise often required the use of multiple nationally oriented intermediaries.  
+
+ 
+
+Presently, interoperability is applicable only for cash markets. Both in Europe as well as 
+
+in  the  USA,  trading  happens  through  multiple  trading  facilities  (called  Multilateral 
+
+Trading  Facilities  in  Europe  and  Alternate  Trading  Systems  in  the  USA)  which  are 
+
+essentially  brokerage  firms  which  provide  trade  execution  facility  and  operate  as 
+
+deemed exchanges  with  independent  clearing  arrangements.  Globally,  the  facility of 
+
+interoperability  is  not  available  for  derivatives  as  derivatives  are  created  by  an 
+
+Exchange with specific trading, risk management and clearing features and hence such 
+
+products are traded and cleared only on the respective Exchange.  
+
+ 
+
+The European experience helps to illustrate the forces that led to the implementation 
+
+of  the  existing  links,  and  some  of  the  impediments  to  their  establishment.    As  per 
+
+ 
+
+9 
+ 
+
+  Securities and Exchange Board of India                
+
+reports, pursuant to interoperability arrangements the increased rivalry triggered has 
+
+proven to be beneficial with up front clearing fees falling by up to 80% during the past 
+
+two years (2010-12), according to industry reports. In addition, Euro CC, LCH Clearnet, 
+
+Six Securities Services; and EMCF have reported a 30-40% reduction in settlement and 
+
+operational costs since the debut of interoperability by Bats Chi.1 
+
+ 
+
+4.2. 
+
+Interoperability in Other International Jurisdictions 
+
+ 
+
+4.2.1  USA 
+
+The equities market structure in the US today consists of competing stock exchanges 
+
+and trading platforms that are required to make market information publicly available 
+
+on terms that are fair and reasonable, but a single CC and a single CSD serving under 
+
+common ownership serve the national equities market. While the Cash equity market 
+
+has  a  single  CC  and  CSD,  the  CC  of  the  futures  markets  continues  to  be  with  the 
+
+exchanges. 
+
+ 
+
+4.2.2  Asia  
+
+Most of the countries in the Asian region have a single equities exchange, CC and CSD. 
+
+Korea, Singapore, Hong Kong all have a single equity exchange, CC and CSD. Australia 
+
+and Japan have alternate trading venues; however they clear and settle through the 
+
+existing CC and CSD. Pakistan has exchange clearing but a single CSD. China Securities  
+
+Depository  and  Clearing  Corporation  is  the  central  counterparty  and  guarantees 
+
+securities  and  cash  settlement  for  the  transactions  on  both  Shanghai  and  Shenzhen 
+
+stock exchanges. 
+
+ 
+
+                                                           
+1 www.iss-mag.com--Interoperability, Predictions For 2013 
+
+ 
+
+10 
+ 
+
+  Securities and Exchange Board of India                
+
+Thus,  it  is  observed  that  interoperability  pre  dominantly  remains  a  European 
+
+phenomenon owing to their fragmented structure, while single CC/exchange CC is the 
+
+preferred mode in other jurisdictions. 
+
+ 
+
+ 
+
+4.3. 
+
+Interoperability: How it works? /Interoperability models2 
+
+ 
+
+Interoperability facilitates novated trades between market participants that maintain 
+
+clearing  arrangements  with  different  CCPs.  To  achieve  this,  a  link  is  established 
+
+between  the  two  CCPs: the  original trade  contract  is  novated  at  three  levels,  rather 
+
+than two as compared to when a trade takes place between participants of the same 
+
+CCP.  
+
+ 
+
+The three contracts are between: 
+
+ 
+
+• 
+
+• 
+
+• 
+
+ 
+
+the buyer and its CCP; 
+
+the two CCPs; and 
+
+the seller and its CCP. 
+
+Accordingly, each CCP provides a guarantee to the other that its side of the trade will 
+
+be  fulfilled;  and  each  CCP  provides  a  guarantee  to  its  participant  in  relation  to  the 
+
+performance of the other CCP. 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+                                                           
+2 http://www.rba.gov.au/publications/bulletin/2012/jun/pdf/bu-0612-7.pdf 
+
+ 
+
+11 
+ 
+
+  Securities and Exchange Board of India                
+
+ 
+
+ 
+
+ 
+
+  
+
+  Trading venue sends trades to the CCP selected by the Trading Firm 
+
+  Each  CCP  manages  its  exposure  to  the  other’s  inability  to  fulfill  obligations  by 
+
+collateralization 
+
+ 
+
+If  CCP1  is  bankrupt,  CCP2  will  use  collateral  from  CCP1  to  cover  any  losses  and 
+
+expenses involved in closing out CCP1’s obligations to CCP2 and vice versa. 
+
+ 
+
+Interoperability arrangements are commonly classified according to the symmetry of 
+
+the  risk-management  requirements  and  of  the  CCPs’  access  to  trade  feeds.  For 
+
+instance, a CCP link may be set up either as a ‘participant’ link, or as a ‘peer-to-peer’ 
+
+link. 
+
+•  A participant link involves one CCP becoming a participant of the other, without 
+
+a reciprocal arrangement. The participant CCP therefore provides collateral to 
+
+the other CCP, but not vice versa. To protect itself from a default by the linked 
+
+CCP, a participant CCP would have to make arrangements for additional default 
+
+resources  from  elsewhere.  A  participant  link  is  more  likely  to  be  established 
+
+ 
+
+12 
+ 
+
+  Securities and Exchange Board of India                
+
+where the participant CCP has stronger incentives to establish a link than the 
+
+CCP to which it is linking. 
+
+•  A peer-to-peer link involves each CCP becoming a participant of the other, with 
+
+collateral flowing in both directions (i.e. each linked CCP providing collateral to 
+
+the other). The CCPs would likely have different participant obligations placed 
+
+on them than regular participants; this would typically exempt the linked CCP 
+
+from loss-sharing arrangements with other participants (e.g. contributions to a 
+
+mutualized default fund), to reduce the direct exposures between each CCP and 
+
+the other CCP’s participants. 
+
+In  view  of  the  foregoing  the  Committee  examined  various  models  for  Interoperability/ 
+
+Single CC and gave its observations: 
+
+ 
+
+Model I  
+
+This  model  envisages  that  clearing  corporations  will  provide  clearing  and  settlement 
+
+services to more than one exchange for all their segments. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SE1 – All segments 
+
+SE2 – All segments 
+
+CC1 
+
+CM1 
+
+CM2 
+
+SE1 & SE2 - Stock Exchanges 
+
+CC1 - Clearing Corporation 
+
+CM1 & CM2 - Clearing members 
+
+ 
+
+13 
+ 
+
+  Securities and Exchange Board of India                
+
+The Committee observed that the proposed model is basically a single clearing corporation 
+
+serving all the exchanges. This model is best suited for optimal utilization of margin and 
+
+collaterals  and  will  bring  about  economies  of  scale.  However,  the  downside  of  such  a 
+
+configuration  is  that  it  will  result  in  a  monopolistic  structure.  Further,  the  clearing 
+
+corporation  will  become  a  too-big-to-fail  market  infrastructure  institution.  Moreover,  in 
+
+equity markets, given the large number of market participants, the challenges to maintain 
+
+fairness of pricing, reasonable cost of transaction and a non-monopolistic disposition will 
+
+be difficult to achieve. The potential downside of this model could be addressed by giving 
+
+the  single  clearing  corporation  a  public  good  orientation  with  sufficient  checks  and 
+
+balances. 
+
+ 
+
+Model II (Part A)  
+
+This model envisages that the stock exchanges will seek clearing and settlement services of 
+
+a particular clearing corporation for specific segments, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SE1 - Cash 
+Segment 
+
+SE2 - Cash 
+Segment 
+
+SE1 – F & O 
+
+Segment 
+
+SE2 – F & O 
+
+Segment 
+
+CC1 
+
+CM1 
+
+CM2 
+
+CC2 
+
+CM1 
+
+CM2 
+
+SE1 & SE2 - Stock Exchanges 
+
+CC1 & CC2 - Clearing Corporations 
+
+CM1 & CM2 - Clearing members 
+
+ 
+
+ 
+
+14 
+ 
+
+  Securities and Exchange Board of India                
+
+The  Committee  observed  that  the  proposed  model  envisages  that  stock  exchanges  will 
+
+utilize the clearing and settlement services of a particular clearing corporation for specific 
+
+segments. In other words one clearing corporation will clear only cash segment and all the 
+
+exchanges  will  clear their  cash  segments through  that  specific  clearing  corporation.  The 
+
+most  noteworthy  outcome  of  this  model  will  be  vertical  specialization  of  clearing 
+
+corporations based on product classes. 
+
+ 
+
+Model II (Part B)   
+
+A  derivation  of  the  above  model  may  be  envisaged  wherein  the  stock  exchanges  will 
+
+perform  the  clearing  and  settlement  of  any  of  their  segments  through  any  clearing 
+
+corporation. However, the option of clearing the same segment through multiple clearing 
+
+corporations will not be available. Thus effectively, the exchanges have the choice to clear 
+
+a specific asset class through a particular clearing corporation. 
+
+ 
+SE1 - Cash 
+ 
+Segment 
+
+SE1 – Currency 
+Segment 
+
+SE1–F &O 
+Segment 
+
+SE2 –F &O 
+Segment 
+
+SE2 - Cash 
+Segment 
+
+SE2 – Currency 
+Segment 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CC1 
+
+CM1 
+
+CM2 
+
+CM1 
+
+CC2 
+
+CM2 
+
+SE1 & SE2 - Stock Exchanges 
+
+CC1& CC2 - Clearing Corporations 
+
+CM1 & CM2 - Clearing members 
+
+ 
+
+The Committee observed that as per the proposed model, the exchanges have the choice 
+
+to  clear  a  specific  asset  class  through  a  particular  clearing  corporation.  However,  the 
+
+ 
+
+15 
+ 
+
+  Securities and Exchange Board of India                
+
+exchanges will not be able to clear and settle through multiple clearing corporations for a 
+
+particular asset class. Thus, though this model provides an option to an exchange to choose 
+
+a clearing corporation, it does not give any flexibility to clearing members to choose the 
+
+clearing corporation. Thus, the clearing member will have no option but to clear through 
+
+the  clearing  corporation  decided  by  the  exchange.  Hence  it  will  not  meet  the  desired 
+
+objective. 
+
+Moreover, in the present scenario, the clearing corporations are owned by the respective 
+
+exchanges and there appears to be no incentive that would induce the exchanges to opt 
+
+for other clearing corporations. 
+
+ 
+
+Model III  
+
+This model envisages that a stock exchange may tie up with multiple clearing corporations 
+
+for clearing and settlement of the trades of a particular segment. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SE1 - Cash 
+Segment 
+
+SE2 - Cash 
+Segment 
+
+SE1 – F & O 
+
+Segment 
+
+SE2 – F & O 
+
+Segment 
+
+CC1 
+
+CC2 
+
+CM1 
+
+CM2 
+
+CM1 
+
+CM2 
+
+16 
+ 
+
+  Securities and Exchange Board of India                
+
+SE1 & SE2 - Stock Exchanges 
+
+CC1 &CC2 - Clearing Corporation 
+
+CM1 & CM2 - Clearing members 
+
+ 
+
+The  Committee  observed  that  the  proposed  model  is  a  pure  interoperable  model.  But 
+
+implementation of the model would require a substantial amount of work, especially to 
+
+address the risks arising out of interoperability. 
+
+ 
+
+4.4.  Deliberations  by  the  Committee  on  single  CC  and  the  possible  risks 
+
+arising out of interoperability and inter CC default management 
+
+The  Committee,  while  weighing  the  options,  namely,  the  present  structure  of  clearing 
+
+corporation,  interoperability  or  centralized  Clearing  Corporation  observed  that  while  a 
+
+single  clearing  corporation  could  help  bring  down  margin  requirements  of  market 
+
+participants considerably, it needs to be considered whether this will come at the cost of 
+
+putting the entire market at risk, amongst other things. 
+
+The Committee, upon examining the existing market structure in India, the prevalent risk 
+
+management systems and interaction with the various market participants deliberated on 
+
+the possible risks arising in the event of such complete interoperability. It observed that 
+
+while interoperability is supposed to increase competition, capital efficiency and reduce 
+
+cost, it also raises concerns about the risk management systems that should be in place to 
+
+ensure compatibility between the different clearing houses and to contain the additional 
+
+risks.  
+
+The Committee noted the risks arising out of links established between CCs (both individual 
+
+and network of links)3 as per CPSS-IOSCO recommendations for CCPs. 
+
+                                                           
+3 CPSS-IOSCO recommendations for CCPs -November 2004 
+
+ 
+
+17 
+ 
+
+  Securities and Exchange Board of India                
+
+Risks arising out of links established between CCs 
+
+Risk 
+
+ 
+
+Risk Event Scenario 
+
+Effect on  
+
+ 
+
+Probability  
+
+Impact 
+
+Individual Link  Counter party Credit Risk- Failure of 
+
+a Counter Party 
+
+Liquidity  risk  -  need  for  additional 
+
+resources 
+
+Operational 
+
+risk-all 
+
+aspects: 
+
+additional operational risk for a Sub 
+
+CCP  due  to  its  dependency  on  the 
+
+other CCP 
+
+Legal Risks: Between CCPs  
+
+Settlement Risks 
+
+Network 
+
+of 
+
+Network  effect  – 
+
+inter-linkages 
+
+Links 
+
+between CCs allow risk to spread. 
+
+Single point of failure 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+---- 
+
+How  the  CCs  manage  their  exposure  to  each  other’s  default  is  at  the  heart  of  an 
+
+interoperability agreement. 
+
+ 
+
+4.5.  Different options to manage the replacement costs risks between the 
+
+CCs4 
+
+The Committee also studied the different options to manage the replacement costs risks 
+
+between the CCs: 
+
+                                                           
+4 Paper on "Investigation of risks arising from the emergence of multi -cleared trading platforms"-Joint Regulatory 
+Authorities of LCH. Clearnet 
+
+18 
+ 
+
+ 
+
+  Securities and Exchange Board of India                
+
+a. CCs require a margin from each other and contribute to each other’s default fund 
+
+In this option, each CC will cover the risk of default of the other CC both in normal and in 
+
+extreme  market  circumstances  i.e.  where  initial  margin  is  insufficient  to  cover  losses. 
+
+However  in  this  option,  a  CC  would  be  directly  impacted  by  the  default  of  the  other  in 
+
+situations where the default fund, including the linked CCs contribution to the default fund, 
+
+is used. 
+
+The  Contributing  CCs  may  then  have to  replenish  its  contributions by calling  for further 
+
+contributions  from  its  own  members  on  the  assumption  that  it  would  be  permitted  to 
+
+assign member default contributions to another CC.  
+
+This  arrangement  would  require each  CC  to  hold  potentially large  amounts  of  collateral 
+
+with its linked CC which may be inefficient. It is a conservative option and not used today. 
+
+ 
+
+b.  CCs  require  margin  from  each  other  and  instead  of  a  contribution  to  each  other’s 
+
+default  funds,  require  from  each  other  the  provision  of  additional  resources  to  cover 
+
+losses in case of extreme market circumstances. 
+
+In this case also each CC will hold margin to cover the risk of default of the other CC both 
+
+in normal and extreme market circumstances. However, the additional resources posted 
+
+by each CC will not be treated as a default fund contribution by the CC holding the collateral 
+
+and so cannot be used to meet losses incurred as a result of a default of a clearing member.  
+
+The difficulty may however be in calibrating adequately these additional resources. If they 
+
+are too small, these resources could prove insufficient to cover the default risk of the linked 
+
+CC in stress conditions. If they are too large, the cost of each CC holding potentially large 
+
+amounts of collateral with the others in the network will be much higher. 
+
+ 
+
+ 
+
+19 
+ 
+
+  Securities and Exchange Board of India                
+
+c. CCs require margin from each other, but no contribution to each other’s default fund 
+
+and no additional resources to cover losses in case of extreme market circumstances. 
+
+In this case the replacement cost risk is covered in the normal market conditions but not in 
+
+extreme market conditions. The issue of cost of each CC holding potentially large amounts 
+
+of collateral with the others remains although to a lesser extent than in options ‘a’ and ‘b’. 
+
+ 
+
+d. Not charge any margin to each other 
+
+The CCs do not margin each other, assuming that the CCs have a low probability of default 
+
+in order to carry out their role. The safe management of a default will rely upon the CCs 
+
+involved having robust legal arrangements to enable transfer of resources between each 
+
+other in case of default of one of the CCs to facilitate the surviving CC to fulfil its obligations. 
+
+ 
+
+e. Expected loss calculation 
+
+CCs calculate a possible loss based on stress testing results, taking into account the post 
+
+default backing of the linked CC (e.g. Default fund, insurance) and then calculate a recovery 
+
+rate, which is the percentage of overall mark to market losses that will be left once the CCs 
+
+resources have been used up and which therefore has to be covered by collateral. Eurex 
+
+and  Clearing  Corporations  use  this  model.  This  approach  requires  a  great  deal  of 
+
+transparency about members’ positions for the host CC to carry out the stress test. 
+
+The Committee also noted the various inter CC default management practices in case of 
+
+link arrangements practised by few Global CCs and also the proposal submitted by ICCL. 
+
+ 
+
+ 
+
+ 
+
+20 
+ 
+
+  Securities and Exchange Board of India                
+
+4.6. 
+
+Recommendations of the Committee 
+
+Currently, there are three Clearing Corporations in India, viz. NSCCL, ICCL and MCX-SX CCL. 
+
+Having a single Clearing Corporation would result in huge concentration of risk in the capital 
+
+markets and also there is a risk that the single CC may misuse the monopoly it would enjoy.  
+
+Multiple CCs promote healthy competition. 
+
+A CC’s primary objective is to mitigate counterparty risk and provide a risk management 
+
+framework  for  its  members  across  its  suite  of  products.  Multiple  CCs  with  healthy 
+
+competition across them would prevent the concentration of risk. A single CCP across all 
+
+stock exchanges covering cash equities, futures and options, currency derivatives, and debt 
+
+instruments would introduce significant concentrated risk into the capital markets system 
+
+implying  a  “too  big  to  fail”  scenario.  Having  a  single  CC  may  also  lead  to  an  increased 
+
+systemic risk due to high dependency on one CC. 
+
+Interoperable  CCs  provide  the  necessary  risk  mitigation  rather  than  one  single  clearing 
+
+corporation with concentrated risk, while giving the members the option to clear trades 
+
+with the clearing corporation of their choice resulting in efficient use of capital. 
+
+However, given the Indian scenario, where each of the MIIs is at different stages of maturity 
+
+in  terms  of  their  volumes,  risk  management  methodology  and  size  of  the  default  fund, 
+
+maintaining  separate  clearing  corporations  may  continue  to  foster  innovation  and 
+
+competition across the clearing landscape. Further, the advent of the commodity markets 
+
+and supervision thereof by SEBI would also pose a question on the structure of Clearing 
+
+Corporations/Clearing  Houses  in  the  commodities  markets  which  was  also  deliberated 
+
+upon by the Working Group set up by the Government of India. 
+
+Therefore, the Committee recommends that at this juncture, moving to a single CC may not 
+
+be  appropriate  for  the  securities  market.  Preserving  the  current  market  structure  and 
+
+maintaining  separate  clearing  corporations  for  each  exchange  would  be  prudent  at  this 
+
+stage. However, SEBI may keep the interoperability option open and consider the proposal 
+
+ 
+
+21 
+ 
+
+  Securities and Exchange Board of India                
+
+for implementation when ground conditions are met, which inter alia include clear intent of 
+
+the  participants  coming  together  and  having    a  suitable    framework  in  place  to  the 
+
+satisfaction of SEBI. If necessary, SEBI may also undertake some more research, conduct 
+
+simulation exercise under various scenarios and explore new models before taking a final 
+
+decision on introducing interoperability between different CCs. 
+
+ 
+
+22 
+ 
+
+  Securities and Exchange Board of India                
+
+CHAPTER 5 
+
+Investment Policy of Clearing Corporations 
+
+ 
+
+5.1  Background 
+
+ 
+
+A Clearing Corporation will generally invest its own financial resources as well as the margin 
+
+and default contributions of its members. The investment of such resources usually entails 
+
+some risk of loss or illiquidity or both. The investment policy of CCs should therefore be 
+
+regulated with a view to the inherent liquidity exposures to which they are subject. 
+
+It is observed that CCs are not generally subject to external limitations on their investment 
+
+strategies;  however,  in  some  cases  the  CC  may  publish  an  investment  policy  or  include 
+
+provisions  governing  its  investment  strategy  in  relation  to  member  margin  and  default 
+
+contributions  in  its  rules.  However,  the  CC  retains  a  great  deal  of  discretion  as  to  its 
+
+investment policy. The investment policy of a CC should assign the highest priority to the 
+
+principles of capital preservation and liquidity maximization. The investment policy should 
+
+also ensure that no conflicts of interest arise with the commercial interests of the CC. 
+
+In  the  Indian  context,  it  may  be  pertinent  to  mention  that  pursuant  to  the  Bimal  Jalan 
+
+Committee  Report  on  Review  of  Ownership  and  Governance  of  Market  Infrastructure 
+
+Institutions,  the  Clearing  Corporations  are  critically  important  entities  having  separate 
+
+ownership, net worth, governance norms etc. which have been notified through the SECC 
+
+Regulations 2012. As such, the Clearing Corporations are a public utility with an endeavour 
+
+to earn only reasonable profits. The CPMI-IOSCO FMI Principles (which are to be followed 
+
+by the CCs) have also made similar observations especially with respect to investment risks 
+
+"When  making  its  investment  choices,  the  FMI  should  not  allow  pursuit  of  profit  to 
+
+compromise its financial soundness and liquidity risk management" 
+
+ 
+
+23 
+ 
+
+  Securities and Exchange Board of India                
+
+The Committee noted that presently, the SECC Regulations do not prescribe any norms for 
+
+the investments to be made by the CCs, except in case of investments of SGF which have 
+
+been broadly defined. The CCs in Indian securities markets have their investment policy 
+
+which is approved by their Board. In the absence of specific regulatory requirements, the 
+
+CCs  retain  a  great  deal  of  discretion  as  to  the  investment  policy.  It  therefore  becomes 
+
+imperative to review the investment policies of the CCs in the Indian securities market. 
+
+The CPMI IOSCO Principle on investment risk under the PFMIs state the following: 
+
+ 
+
+CPMI-IOSCO Principle 16: Custody and investment risks  
+
+An FMI should safeguard its own and its participants’ assets and minimize the risk of loss 
+
+on and delay in access to these assets. An FMI’s investments should be in instruments with 
+
+minimal credit, market, and liquidity risks. 
+
+An FMI’s strategy for investing its own and its participants’ assets should be consistent with 
+
+its overall risk-management strategy and fully disclosed to its participants. 
+
+ 
+
+ When  making  its  investment  choices,  the  FMI  should  not  allow  pursuit  of  profit  to 
+
+compromise its financial soundness and liquidity risk management. Investments should be 
+
+secured by, or be claims on, high-quality obligors to mitigate the credit risk to which the FMI 
+
+is exposed. Also, because the value of an FMI’s investments may need to be realised quickly, 
+
+investments should allow for quick liquidation with little, if any, adverse price effect.  
+
+ 
+
+Investment risk is the risk of loss faced by an FMI when it invests its own or its participants’ 
+
+resources, such as collateral. These risks can be relevant not only to the costs of holding and 
+
+investing  resources  but  also  to  the  safety  and  reliability  of  an  FMI’s  risk-management 
+
+systems. The failure of an FMI to properly safeguard its assets could result in credit, liquidity, 
+
+and reputational problems for the FMI itself. 
+
+ 
+
+ 
+
+24 
+ 
+
+  Securities and Exchange Board of India                
+
+5.2 The Committee also studied the Investment Policies of some of the global 
+
+CCPs in other jurisdictions as given below: 
+
+ 
+
+5.2.1  ESMA (European Securities Market Authority)5 
+
+ 
+
+ESMA has prescribed standards for investment policy in view of the Regulation (EU) No 
+
+648/2012  of  the  European  Parliament  and  of  the  Council  of  4  July  2012  on  OTC 
+
+Derivatives, CCPs and Trade Repositories (EMIR) which required ESMA to develop draft 
+
+regulatory  standards  (RTS)  and  implementing  technical  standards  (ITS)  in  relation  to 
+
+several  provisions  of  EMIR.  These  technical  standards  were  published  in  the  Official 
+
+Journal on 23 February 2013 and entered into force on 15 March 2013.  
+
+ 
+
+As  per  the  Technical  Standards  on  investment  policy  under  the  EMIR  framework 
+
+CHAPTER XI, (Article 47 of Regulation (EU) No 648/2012 on Investment Policy)  
+
+ESMA  remains  of  the  expectation  that  CCPs  should  not  seek  to  use  their  treasury 
+
+function as a profit centre but instead invest only to protect their financial resources. 
+
+ 
+
+ESMA has defined highly liquid financial instruments with minimal market and credit 
+
+risk,  highly  secure  arrangement  for  the  deposit  of  cash  and  other  assets  and 
+
+concentration limits on individual obligors. 
+
+ 
+
+A CCP’s investments must be capable of being liquidated rapidly with minimal adverse 
+
+price effect. Where a CCP deposits assets with a third party, it must ensure that the 
+
+assets belonging to the Clearing Members are identifiable separately from the assets 
+
+belonging  to  the  CCP  and  from  assets  belonging  to  that  third  party  by  means  of 
+
+                                                           
+5 Official Journal of the European Union- Vol 56, 23rd February 2013; 
+http://www.esma.europa.eu/system/files/2012-600_0.pdf 
+
+ 
+
+25 
+ 
+
+  Securities and Exchange Board of India                
+
+differently  titled  accounts  on  the  books  of  the  third  party  or  any  other  equivalent 
+
+measures that achieve the same level of protection. A CCP must have prompt access to 
+
+the financial instruments when required. 
+
+ 
+
+A CCP may not invest its capital or the sums arising from the requirements laid down 
+
+on margin, default fund, dedicated own resources, liquidity risk management in its own 
+
+securities or those of its parent undertaking or its subsidiaries. 
+
+ 
+
+Concentration limits  
+
+ A  CCP  shall  establish  and  implement  policies  and  procedures  to  ensure  that  the 
+
+financial instruments in which its financial resources are invested remain sufficiently 
+
+diversified.  
+
+A  CCP  shall  determine  concentration  limits  and  monitor  the  concentration  of  its 
+
+financial resources at the level of:  
+
+ (a) individual financial instruments;  
+
+(b) types of financial instruments;  
+
+(c) individual issuers;  
+
+(d) types of issuers;  
+
+(e) counterparties with which arrangements are established.  
+
+ 
+
+ When considering types of issuers a CCP shall take into account the following:  
+
+(a) geographic distribution;  
+
+(b) interdependencies and multiple relationships that an entity may have with a CCP;  
+
+(c) the level of credit risk;  
+
+(d) exposures the CCP have to the issuer through products cleared by the CCP.  
+
+ 
+
+26 
+ 
+
+  Securities and Exchange Board of India                
+
+The policies and the procedures shall determine the risk mitigation measures to be applied 
+
+when the concentration limits are exceeded.  
+
+ 
+
+When determining the concentration limit for a CCP’s exposure to an individual issuer or 
+
+custodian,  a  CCP  shall  aggregate  and  treat  as  a  single  risk,  the  exposure  to  all  financial 
+
+instruments  issued  by,  or  explicitly  guaranteed by,  the  issuer  and  all financial  resources 
+
+deposited with the custodian.  
+
+A CCP shall monitor on a regular basis the adequacy of its concentration limit policies and 
+
+procedures. In addition, a CCP shall review its concentration limit policy and procedure at 
+
+least annually and whenever a material change occurs that affects the risk exposure of the 
+
+CCP. 
+
+If  the  CCP  breaches  a  concentration  limit  set  out  in  its  policies  and  procedures,  it  shall 
+
+inform the competent authority immediately. The CCP shall rectify the breach as soon as 
+
+possible.  
+
+ 
+
+5.2.2  Euro CCP 
+
+Regulation Euro CCP Investment Policy ("REIP") records the policies and procedures which 
+
+Euro CCP has put in place to safeguard (1) the cash provided by the Clearing Participants to 
+
+Euro CCP held in the Non-segregated Cash Collateral Account(s) and/or Segregated Client 
+
+Cash Collateral Account(s) (2) the cash held in the Clearing Fund and (3) the cash held as 
+
+part of Euro CCP’s own capital. 
+
+ 
+
+i. 
+
+ 
+
+ 
+
+Euro CCP may invest into the following transaction types:  
+
+a)  hold cash intraday and overnight in current cash accounts with Central Banks in the 
+
+countries belonging to the European Economic Area and Switzerland; 
+
+27 
+ 
+
+  Securities and Exchange Board of India                
+
+b)  acquire  through  an  outright  buy  government  securities  issued  by  the  prescribed 
+
+countries  and  in  prescribed  currencies.  These  securities  may  have  a  (remaining) 
+
+tenor of up to 12 months;  
+
+c)  hold cash intraday and overnight in current cash accounts with prescribed Credit 
+
+Institutions,  provided  that  collateral,  in  the  form  of  securities  issued  by  the 
+
+prescribed countries is received by EuroCCP.  
+
+d)  place deposits with prescribed Credit Institutions with a tenor of no more than 12 
+
+months, provided that collateral, in the form of securities issued by the prescribed 
+
+countries, is received by EuroCCP.  
+
+e)  enter into reverse repurchase agreements with a tenor of no more than 12 months 
+
+with Credit Institutions for the purchase and sale of government securities issued 
+
+by the prescribed countries. 
+
+ 
+
+ii. 
+
+Euro CCP may hold the securities resulting from approved transactions with prescribed 
+
+custodians only. 
+
+ 
+
+iii. 
+
+EuroCCP shall not enter into approved transactions or maintain cash or custody account 
+
+without legal agreements governing these transactions and accounts.  
+
+ 
+
+iv. 
+
+The REIP is reviewed on a quarterly basis by the Board of EuroCCP and on an annual 
+
+basis by the Risk Committee.  
+
+ 
+
+v. 
+
+EuroCCP must instruct an external auditor to provide a report on the compliance with 
+
+the REIP at least once every calendar Year 
+
+ 
+
+vi. 
+
+Collateral holdings are required to be diversified at all times across permitted securities 
+
+and  diversified  across  approved  issuing  countries,  in  order  to  prevent  inappropriate 
+
+ 
+
+28 
+ 
+
+  Securities and Exchange Board of India                
+
+concentrations  of  investments.  As  such  EuroCCP  is  required  to  comply  with  the 
+
+following concentration limits:  
+
+ 
+
+a)  Concentration  limits  Maximum  value  of  total  collateral  value  per  respective 
+
+security  
+
+The maximum value of collateral held in one unique security may not be worth more 
+
+than 20% of the total collateral value. 
+
+ 
+
+b)  Maximum value of total collateral value per issuing country  
+
+The  maximum  value  of  all  securities  held  as  collateral  issued  by  one  country 
+
+excluding  France  and  Germany  may  not  be  worth  more  than  25  %  of  the  total 
+
+collateral value. 
+
+ 
+
+c)  Maximum  value  of  total  collateral  value  per  issuing  country  being  France  or 
+
+Germany  
+
+The maximum value of all securities held as collateral issued by France or Germany 
+
+may not be worth more than 50 % of the total collateral value. 
+
+ 
+
+vii. 
+
+The REIP as amended from time to time will be published on the Euro CCP website. 
+
+ 
+
+ 
+
+5.2.3  EUREX CLEARING6 
+
+ 
+
+Eurex Clearing maintains a strict treasury policy that determines the re-investment of cash 
+
+collateral provided by the Members. 
+
+ 
+
+A restrictive treasury policy applies for cash deposits, namely: 
+
+                                                           
+6 http://www.eurexclearing.com 
+
+ 
+
+29 
+ 
+
+  Securities and Exchange Board of India                
+
+ Secured placement to the extent possible (reverse repo is the preferred instrument) 
+
+ Minimum counterparty rating of A- 
+
+ Minimum security rating of AA- 
+
+ Issuer must be a government, agency or supranational 
+
+ Placement tenor restricted; majority to be invested with a tenor of one business day 
+
+ 
+
+Eurex Clearing passes on interest earned from cash investments to its Clearing Members 
+
+on a monthly basis. 
+
+ 
+
+5.2.4 
+
+ NASDAQ OMX Stockholm AB7 
+
+ 
+
+i.  NASDAQ OMX Clearing AB´s Investment Policy sets guidelines for the investments of cash 
+
+received from members of the clearinghouse as collateral and/or contributions to Default 
+
+fund or Loss Sharing Pool. In addition, the Investment Policy governs investments made by 
+
+NASDAQ OMX Clearing AB (NOMX) including investments of regulatory capital used by the 
+
+clearinghouse to support its operating funds or capital funds or any own funds contributed 
+
+by NOMX to the Default fund. 
+
+ 
+
+ii.  The Investment Policy stipulates how NOMX is allowed to invest above mentioned cash 
+
+contributions  and  regulatory  funds.  The  Investment  Policy  establishes  a  framework  for 
+
+investments and is compliant with the new regulations set forth by CPMI-IOSCO and EMIR. 
+
+ 
+
+iii.  The overall objective of the investment policy is to preserve and protect the value of the 
+
+members´ cash margin and contributions to Default Fund or Loss Sharing Pool as well as 
+
+secure the value of NOMX´s own contributions to the regulatory capital. For that reason 
+
+the investment policy is conservative and when investing the cash NOMX shall minimize 
+
+                                                           
+7 http://www.nasdaqomx.com 
+
+ 
+
+30 
+ 
+
+  Securities and Exchange Board of India                
+
+the credit, market, concentration and liquidity risk in order to ensure that any funds can be 
+
+realized with minimum impact on invested value and within a very short time frame. 
+
+ 
+
+iv.  Debt instruments bought as investments must be issued or explicitly guaranteed by: 
+
+ 
+
+  Government 
+
+  Central bank 
+
+  Multilateral Development bank 
+
+  EFSF (European Financial Stability Facility) or ESM (European Stability Mechanism) 
+
+ 
+
+v.  NASDAQ  OMX  Clearing AB´s  own  assets  shall  be  invested  in eligible  investments  in  SEK. 
+
+(Swedish krona.) 
+
+ 
+
+vi.  In order to reduce the credit risk, the cash received shall be invested within the constraints 
+
+of the Investment Policy. The requirements are as follows: 
+
+ 
+
+  Minimum rating requirements by investment type 
+
+  Maximum CDS spread for issuer and counterparty 
+
+  Maximum term by investment type 
+
+  Maximum total exposure to a single issuer 
+
+  Maximum total counterparty risk 
+
+ 
+
+vii. 
+
+The duration of the portfolio has a stipulated maximum in order to limit the interest 
+
+rate exposure. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+31 
+ 
+
+  Securities and Exchange Board of India                
+
+5.2.5  ASX Clearing Corporation Investment Policy8 
+
+ 
+
+ASX  Clearing  Corporation  (ASXCC),  a  wholly-owned  subsidiary  within  the  ASX  Group, 
+
+manages the investment of clearing participant cash margins and default funds for both 
+
+ASX central counterparties (CCPs), ASX Clear and ASX Clear (Futures). The ASX CCPs assume 
+
+the credit, market and liquidity risk of investing these funds. The investment activities of 
+
+ASXCC are governed by the ASXCC Investment Policy and associated investment mandate, 
+
+which is approved at least annually by the ASXCC and CCP Boards. The investment activities 
+
+of ASXCC form part of the Reserve Bank of Australia’s (RBA’s) annual assessment of ASX’s 
+
+clearing facilities. 
+
+ 
+
+The  principal  objective  of  the  investment  mandate  is  to  ensure  that  the  investment 
+
+portfolio is made up of highly liquid financial instruments with a high credit quality and low 
+
+levels of market risk. The primary driver of ASXCC’s investment policy is the need to ensure 
+
+timely  and  certain  access  to  funds  at  all  times,  including  in  the  event  of  a  clearing 
+
+participant default. 
+
+ 
+
+Investments are restricted to highly liquid, short term investments with counterparties of 
+
+high  credit  standing.  The  credit  quality  of  investment  counterparties  takes  into  account 
+
+both  short  and  long  term  publically  available  credit  ratings  -  eligible  counterparties  are 
+
+required to have a minimum external short-term credit rating equal to or above ‘A-1’ with 
+
+Standard & Poor’s. Counterparty limits are then assigned to each counterparty. 
+
+ 
+
+Approved investment products currently comprise - 
+
+  Australian Commonwealth Government Securities 
+
+  Australian State Government Securities 
+
+                                                           
+8 http://www.asx.com.au 
+
+ 
+
+32 
+ 
+
+  Securities and Exchange Board of India                
+
+  Bank Bills, Negotiable Certificates of Deposits (NCDs) and Senior Debt Securities 
+
+  Bank fixed term deposits and overnight cash accounts 
+
+  Reverse Repurchases 
+
+ 
+
+All  securities  are  required  to  be  on  the  RBA’s  eligible  securities  list  for  re-purchase 
+
+purposes. Exposures within the investment portfolio are managed using several different 
+
+limits.  These  include  limits  on  portfolio  average  maturity,  maximum  investment  tenor, 
+
+concentration limits, maximum exposure to a single investment counterparty and market 
+
+risk limits. The policy also specifies a minimum level of cash and cash equivalent holdings. 
+
+ 
+
+Adherence  to  investment  limits  is  monitored  on  a  daily  basis  by  the  ASX  CCPs’  risk 
+
+management division. 
+
+ 
+
+5.2.6 
+
+Indian CCs 
+
+The Committee also studied the Investment Policies of three Clearing Corporations (CCs) 
+
+Indian Clearing Corporation Ltd, MCX-SX Clearing Corporation Ltd. and National Securities 
+
+Clearing Corporation Ltd. The Committee noted that the investments made by the three 
+
+CCs are broadly in Commercial Paper, Certificates of Deposit, Long term debt securities of 
+
+Institutions  and  Corporates,  Public  Sector  Bonds,  Treasury  Bills,  Government  Securities, 
+
+Securities guaranteed by the Government, Intercorporate Deposits, Units of Mutual Funds 
+
+(Cash Management Schemes, Liquid Schemes, Money Market Schemes, Debt Schemes, Gilt 
+
+Schemes  or  any  other  similar  debt  schemes)  and  Fixed  Deposit  with  Banks  with  limits 
+
+thereon. 
+
+ 
+
+The  Committee  also  noted  that  SEBI  has  recently  issued  circular  on  core  Settlement 
+
+Guarantee fund to be created by the CCs which inter alia requires  maintaining a Minimum 
+
+Required Corpus at all times based on the stress tests. Since cash and Bank FDs would be 
+
+ 
+
+33 
+ 
+
+  Securities and Exchange Board of India                
+
+accepted as the contribution to the core SGF, the same necessitates prudent management 
+
+of the SGF.  
+
+ 
+
+As regards the investment policy of the Core SGF corpus the Circular stipulates that: 
+
+The CCs shall follow prudential norms of Investment policy for Core SGF corpus and establish 
+
+and implement policies and procedures to ensure that Core SGF corpus is invested in highly 
+
+liquid  financial  instruments  with  minimal  market  and  credit  risk  and  is  capable  of  being 
+
+liquidated rapidly with minimal adverse price effect.  
+
+ 
+
+The instruments in which investments may broadly be made are Fixed Deposit with Banks 
+
+(only those banks which have a net worth of more than INR 500 Crores and are rated A1 (or 
+
+A1+) or equivalent, , Treasury Bills, Government Securities and money market/liquid mutual 
+
+funds subject to suitable transaction/investment limits and monitoring of the same. The CCs 
+
+shall further ensure that the financial instruments in which the Core SGF corpus is invested 
+
+remain sufficiently diversified at all times. 
+
+ 
+
+SEBI may prescribe the investment norms in this regard from time to time. 
+
+ 
+
+5.3  Recommendations of the Committee 
+
+In the default waterfall, as the CCP resources  forming part of the core SGF precede the 
+
+non-Defaulting  Members’  contribution,  a  question  arises  whether  CCPs  can  invest  the 
+
+resources  not  forming  part  of  core  SGF  in  less  conservative  instruments/unrelated 
+
+activities. However, keeping in mind the critical role performed by the CC, the Committee 
+
+felt that CCs should focus on their main activity with regard to implementation of prudent 
+
+Risk  Management  Measures  and  Clearing  and  Settlement  Systems,  instead  of  profit 
+
+generating activities.  
+
+ 
+
+ 
+
+34 
+ 
+
+  Securities and Exchange Board of India                
+
+The Committee therefore recommends that the investment policy of a CC should be built on 
+
+the premise of highest degree of safety and least market risk. The Committee recommends 
+
+that CC may be permitted to invest in Fixed Deposits (FDs) / Central Government Securities 
+
+(G Secs). Other instruments like NCDs, CPs, money market mutual funds etc. may not be 
+
+permitted as investment vehicle as they carry credit/liquidity risks. 
+
+The investment policy should be reviewed at least on an annual basis by the CC. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+35 
+ 
+
+  Securities and Exchange Board of India                
+
+CHAPTER 6 
+
+ 
+
+Transfer of 25% profits of Stock Exchanges to the Settlement 
+
+Guarantee Fund of Clearing Corporation 
+
+ 
+
+6.1  Background 
+
+ 
+
+SEBI vide gazette notification dated June 20, 2012 notified the SEBI (Stock Exchanges and 
+
+Clearing  Corporations)  Regulations  (hereinafter  referred  to  as  'SECC  Regulations')  2012. 
+
+Regulation 33 of the said regulations prescribed the requirement to transfer, every year, 
+
+25% of the profit of the stock exchange to the SGF maintained by the clearing corporation.  
+
+ 
+
+Transfer of profits 
+
+33. Every recognized stock exchange shall credit twenty five per cent of its profits every 
+
+year  to  the  Fund  as  specified  in  regulation  39,  of  the  recognized  clearing  corporation(s) 
+
+which clears and settles trades executed on that stock exchange. 
+
+Additionally, SEBI vide press release no. 66/2012 dated June 21, 2012 on "Ownership and 
+
+Governance norms for Market Infrastructure Institutions", inter-alia, stated that it (SEBI) is 
+
+in the process of setting up an Expert Committee, which shall also look into the norms for 
+
+adequacy of the core corpus of the SGF/TGF and its sourcing, including transfer of profits 
+
+by stock exchanges to the SGF/TGF in the long run. 
+
+In this context, the Committee was given to understand that the Committee on "Review of 
+
+Ownership  and  Governance  of  Market  Infrastructure  Institutions"9 chaired  by  Dr.  Bimal 
+
+Jalan,  deliberated  on  the  issue  of  Market  Infrastructure  Institutions  (MII)  being  a  public 
+
+                                                           
+9 http://www.sebi.gov.in/commreport/ownershipreport.pdf  
+
+ 
+
+36 
+ 
+
+  Securities and Exchange Board of India                
+
+utility which should endeavour to earn only reasonable profits at par with average earnings 
+
+of the corporate sector in India.  
+
+Therefore the Jalan committee recommended that a cap may be fixed on the maximum 
+
+return that can be earned by MII on its net worth and can be distributed / allocated to the 
+
+shareholders of MII out of the total returns earned by MII.  
+
+Any  return/profits  above  such  maximum  attributable  amount  was  to  be  transferred  to 
+
+Investor Protection Fund(IPF) or Settlement Guarantee Fund (SGF) as the case may be and 
+
+the  same  was    not  to  form  part  of  shareholders’  funds/  net  worth  for  the  purposes  of 
+
+determining returns and book value of the shares.  
+
+It was opined that this would strengthen the MII to withstand shocks, make them robust 
+
+and may lead to reduction of the charges levied by MIIs on the users. The cap may be fixed 
+
+by SEBI after taking into consideration ‘risk free return’ based on the yield on a 10 year GOI 
+
+bond  and  a  ‘risk  premium’  to  account  for  the  risks  faced  by  MIIs  including  equity  risk 
+
+premium  and  liquidity  risk  due  to  non-listing  of  MIIs.  It  should  also  take  into  account 
+
+differential tax rate applicable to unlisted entities as the Committee has recommended that 
+
+the MIIs should not be permitted to list. 
+
+The recommendations of Dr. Bimal Jalan committee on 'capping of profits of MIIs' were 
+
+placed before the SEBI board with the view that, “though it is necessary to ensure that the 
+
+profit motive of the MIIs does not come in conflict with their regulatory role, putting a cap 
+
+on distributable profits of MIIs may adversely affect efficiency, motivation and innovation. 
+
+Therefore, from a regulatory and a risk management point of view, the stock exchanges 
+
+may be mandated to transfer 25% of their profits to the Settlement Guarantee Fund of the 
+
+clearing  corporation  where  the  trades  of  the  exchange  are  cleared  and  settled.  Such  a 
+
+transfer will also bolster the risk management capacity of the clearing corporations. The 
+
+clearing corporation may be permitted such investment and utilization of profit as may be 
+
+governed by the corresponding policy prescribed by SEBI.“ 
+
+ 
+
+37 
+ 
+
+  Securities and Exchange Board of India                
+
+It  was  also  given  to  understand  that  while  implementing  the  Regulation  33,  there  were 
+
+several  issues  raised  by  the  Stock  Exchanges/  Clearing  Corporations  broadly  highlighted 
+
+below 
+
+A.  Whether the transfer of profit (Regulation 33) to the SGF of clearing corporation should 
+
+be refundable or non-refundable in nature 
+
+B.  Whether the transfer of profits should be continual transfer or need based transfer 
+
+C.  Whether the requirement of transfer of 25% of profit is very high. 
+
+Regarding  the  Issue  of  Refundable  vs.  Non  Refundable,  the  committee  noted  that 
+
+Regulation  33  of  SECC  Regulations  2012  does  not  specify  the  nature  of  the  'exchange 
+
+contribution (Profits)' that is required to be transferred to SGF of the CC.  
+
+To draw an analogy, presently member deposits (exposure based and non-exposure based) 
+
+available  with  the  clearing  corporation,  are  counted  towards  the  SGF  and  available  for 
+
+utilization  in  case  of  the  member  defaults.  However,  these  deposits  are  refundable  in 
+
+nature, and the member can claim the deposits upon surrender of membership. 
+
+ 
+
+Presently, there are three recognized clearing corporations i.e. ICCL, NSCCL and MCX-SXCCL 
+
+which provide clearing and settlement services to their respective exchanges BSE, NSE and 
+
+MSEI (formerly MCX-SX). The point under consideration would be whether the transfer of 
+
+profits by the exchange towards the SGF of clearing corporation should be irrevocable, in 
+
+case  exchange  decides  to  avail  clearing  and  settlement  services  of  a  different  clearing 
+
+corporation.  
+
+ 
+
+The Committee is of the view that it would be rational to make the exchange contribution 
+
+to  be  "refundable"  based  on  certain  conditions  and  subject  to  regulator’s  approval, 
+
+considering that if an exchange decides to close down business, the unutilized portion of 
+
+the exchange contribution may be refunded or if the exchange considers availing of clearing 
+
+and settlement services of another CC, the unutilized portion of the exchange contribution 
+
+ 
+
+38 
+ 
+
+  Securities and Exchange Board of India                
+
+may be permitted to be transferred back to the exchange or to the new CCP which will 
+
+provide clearing and settlement. 
+
+Regarding the issue of continual transfer vs. need based transfer of profits, the Committee 
+
+felt that a view in this matter could be reached, if it was possible to establish that the SGF 
+
+for which the transfer of profits is mandated, is adequate. A strong balance sheet net worth 
+
+combined  with  an  adequately  funded  SGF  of  a  clearing  corporation  gives  the  regulator 
+
+comfort with regard to the sustainability of the clearing corporation. Though it might be 
+
+difficult to assess the adequacy of the SGF, a strong balance sheet net worth of a clearing 
+
+corporation alleviates some concerns with regard to its adequacy. 
+
+The Principles of Financial Market Infrastructures (PFMI) require that for credit risk, CCPs 
+
+should  maintain  financial  resources  sufficient  to  cover  a  wide  range  of  potential  stress 
+
+scenarios that should include, but not be limited to, the default of the one/two participants 
+
+and their affiliates that would potentially cause the largest aggregate credit exposure to 
+
+the CCP in extreme but plausible market conditions.  
+
+The Committee noted that, SEBI, vide circular no. CIR/MRD/DRMNP/25/2014 dated August 
+
+27,  2014  issued  the  Core  SGF,  Default  Waterfall  and  Stress  Test  guidelines10 in  order  to 
+
+bring  greater  clarity  and  uniformity  as  well  as  align  the  same  with  international  best 
+
+practices while enhancing the robustness of the present risk management system in the 
+
+clearing corporations.  
+
+The circular requires Clearing Corporations (CCs) to carry out stress tests (in accordance 
+
+with the stress testing norms prescribed in PFMI) and maintain Core SGF for each segment 
+
+sufficient enough to meet the loss estimated by the various stress tests carried out for the 
+
+segment, thus ensuring that CCs maintain financial resources for credit risk in compliance 
+
+with PFMI. Further, the circular prescribes manner in which the contributions to the Core 
+
+SGF will be made by various contributors - CC, Stock Exchange and members. Para 8 of the 
+
+                                                           
+10 http://www.sebi.gov.in/cms/sebi_data/attachdocs/1409136206919.pdf  
+
+39 
+ 
+
+ 
+
+  Securities and Exchange Board of India                
+
+said  guidelines  on  Contributions  to  Core  SGF  specify  that  at  least  25%  of  the  minimum 
+
+required corpus of Core SGF (as determined by stress tests) shall be contributed by Stock 
+
+Exchange. The same is reproduced below - 
+
+8.b) Stock Exchange contribution: Stock Exchange contribution to Core SGF shall be at least 
+
+25%  of  the  MRC  (can  be  adjusted  against  transfer  of  profit  by  Stock  Exchange  as  per 
+
+Regulation 33 of SECC Regulations, which may be reviewed in view of these guidelines). 
+
+ 
+
+The circular also provides for adjustment of the contribution required from stock exchange 
+
+in terms of the circular against any transfer of profit carried out by Stock Exchange under 
+
+Regulation 33 of SECC Regulations. 
+
+Additionally,  Para  14  of  the  said  guidelines  also  prescribe  a  requirement  for  further 
+
+contribution to / Recoupment of core SGF.  
+
+14) Requisite contributions to Core SGF by various contributors (as per clauses 7 and 8) for 
+
+any month shall be made by the contributors before start of the month.  
+
+ 
+
+In the event of usage of Core SGF during a calendar month, contributors shall, as per usage 
+
+of their individual contribution, immediately replenish the Core SGF to MRC.  
+
+ 
+
+In case there is failure on part of some contributor(s) to replenish its (their) contribution, 
+
+same shall be immediately met, on a temporary basis during the month, in the following 
+
+order:  
+
+(i) By CC  
+
+(ii) By SE 
+
+ 
+
+The Committee noted that as per the results of stress tests, the corpus of Core SGFs for 
+
+various segments of the three Clearing Corporations for July 2015 is as under: 
+
+ 
+
+40 
+ 
+
+  Securities and Exchange Board of India                
+
+Table 1 
+
+Clearing Corporation 
+
+Segment 
+
+Core SGF Corpus 
+(INR Crore) for July, 
+2015 
+
+National Securities 
+Clearing Corporation 
+Limited (NSCCL) 
+
+ 
+
+Equity Cash 
+
+Equity Derivatives 
+
+Currency Derivatives 
+
+Debt 
+
+Total 
+
+Equity Cash 
+
+Equity Derivatives 
+
+Currency Derivatives 
+
+Debt 
+
+Total 
+
+Equity Cash 
+
+Equity Derivatives 
+
+Indian Clearing 
+Corporation Limited 
+(ICCL) 
+
+ 
+
+MCX-SX Clearing 
+Corporation Limited 
+(MCX-SX CCL) 
+
+149 
+
+547 
+
+78 
+
+4 
+
+778 
+
+105.47 
+
+14.59 
+
+37.13 
+
+1.13 
+
+158.32 
+
+0.25 
+
+0.25 
+
+Currency Derivatives 
+
+34.42 
+
+Debt 
+
+Total 
+
+0.25 
+
+35.17 
+
+ 
+
+ 
+
+ 
+
+Regarding the Issue of the  25% of profit being very high it was given to understand that 
+
+suggestions  were  received  from  market  participants  to  modify  Regulation  33  so  as  to 
+
+reduce the requirement of 25% to either 2% or 5% of the net profits. 
+
+ 
+
+41 
+ 
+
+  Securities and Exchange Board of India                
+
+In  this  context,  it  is  worth  mentioning  that  Forward  Markets  Commission  (FMC)  vide 
+
+circular  FMC/2/2013/C/105  No.  2/2/2008-MKT-II  dated  August  23,  2013 11 and  Circular 
+
+FMC/2/2014/C/28  F.  No.  2/2/2008-MKT-II  Dated  14thMarch,  2014 12  prescribed 
+
+guidelines for creation of SGF. The circulars inter-alia prescribed the following– 
+
+ 
+
+1.(a)"The initial contribution to SGF by the Exchange will be equivalent to 5% of the sum 
+
+total of the Gross Revenues of the Exchange for the preceding financial years starting from 
+
+Financial Year 2007-08 or from the date when the Exchange was set-up, till Financial Year 
+
+2012-13, subject to a minimum of Rs. 10 crores." 
+
+ 
+
+The maximum contribution by an exchange in the  Settlement Guarantee Fund in a year 
+
+shall be up to 5% of the gross revenue (net of Income Tax to be paid by the exchange). In 
+
+cases where exchanges have sufficient funds available in the Settlement Guarantee Fund 
+
+to  meet  the  contingent  risk,  then  there  is  no  need  for  exchanges  to  make  any  further 
+
+contribution. 
+
+ 
+
+The FMC directive on "transfer of revenues" removes any ambiguity of whether the funds 
+
+to be transferred should be calculated on profits before tax or after tax. Additionally, it also 
+
+removes any ambiguity on adjustments of previous period losses, for calculation of profits.  
+
+ 
+
+The  issue  of  reducing  the  25  percentage  falls  back  on  the  idea  of  whether  the  clearing 
+
+corporation  has  accumulated  adequate  financial  resources  to  withstand  shocks.  With 
+
+regard to the issue of reducing the 25 percentage, the committee considers assessing the 
+
+adequacy of the clearing corporation's two main financial defenses - Net worth and SGF. 
+
+                                                           
+11 http://www.fmc.gov.in/show_file.aspx?linkid=SGF-580045388.pdf  
+
+ 
+12 http://www.fmc.gov.in/show_file.aspx?linkid=61_23_08_2013-885109021.pdf  
+
+ 
+
+42 
+ 
+
+  Securities and Exchange Board of India                
+
+The Net worth of the three clearing corporations, as at the end of March, 2014  is given 
+
+below -  
+
+ 
+
+Table 2 
+
+Sr. 
+
+Clearing Corporations  
+
+Net worth (in INR crore) 
+
+No. 
+
+1 
+
+2 
+
+3 
+
+ 
+
+NSCCL 
+
+ICCL 
+
+MCX-SXCCL 
+
+994 
+
+427 
+
+29 
+
+The Committee is of the view that the Net worth of clearing corporations, which is above 
+
+the  minimum  prescribed  in  the  SECC  Regulations,  may  be  a  starting  point  to  draw 
+
+regulatory comfort when ascertaining the adequacy of the financial strength of a clearing 
+
+corporation.  Further,  the  new  SGF  guidelines,  which  are  modeled  on  the  CPMI  IOSCO's 
+
+Principle of Financial Market Infrastructures (PFMIs), may also provide a second measure 
+
+of regulatory comfort.  
+
+ 
+
+The Committee noted that given that both the requirements viz 25% transfer of profits by 
+
+Exchanges  to  SGF  of  CC  and  the  requirements  under  new  SGF  guidelines  which  also 
+
+required the exchange to mandatorily contribute 25% of the required funds were towards 
+
+strengthening  the  SGF.  Therefore  in  order  to  reduce  the  cost  burden  and  to  remove 
+
+duplicate actions in law, the above two contributions by the exchange were allowed to be 
+
+set off against each other.  
+
+Considering the above, it is observed that, since two instances in law require an action from 
+
+the exchanges towards the same end, it would bring clarity and remove ambiguity for the 
+
+contribution by exchange towards SGF, if one of them is removed.  
+
+ 
+
+ 
+
+ 
+
+43 
+ 
+
+  Securities and Exchange Board of India                
+
+6.2  Recommendations of the Committee 
+
+ 
+The Committee notes that since the requirement of core SGF has already been met, the 25% 
+
+profit transfer requirement might not be required. While the departure from the Regulatory 
+
+requirement  is  desirable,  the  Risk  Management  Review  Committee  (RMRC)  of  SEBI  may 
+
+review the stress test model, used to determine the Minimum Required Corpus (MRC) of 
+
+core SGF, for making such departure.  
+
+ 
+
+Regarding the refundability of the transfer of profits, the Committee recommends that the 
+
+said transfer shall be refundable in nature. In the event of the exchange deciding to close 
+
+down its business or deciding to avail clearing and settlement services of another CC, the 
+
+unutilized portion of the exchange contribution to core SGF may be transferred back to the 
+
+exchange. 
+
+ 
+
+With regard to the contribution already set aside by the Stock Exchanges towards the 25% 
+
+profit transfer requirement, the Committee recommends that the same may be utilized by 
+
+exchange to cover the member contribution to the core SGF since this would result in lower 
+
+transaction costs and would be in the overall interest of the market.  SEBI may specify the 
+
+details in this regard including in respect of contributions already made by CCs on behalf of 
+
+members. 
+
+ 
+
+ The Committee also noted that as per SEBI’s mandate, it is obligatory on part of the Stock 
+
+Exchange/Clearing Corporation to make good the shortfall in the core SGF at any point of 
+
+time. SEBI may thereafter take a view on the remaining unutilized amount already set aside 
+
+by  the  Stock  Exchange  after fulfilling  its contribution  and  member’s  contribution  to  core 
+
+SGF. 
+
+  
+
+ 
+
+44 
+ 
+
+  Securities and Exchange Board of India                
+
+The  Committee  recommends  that,  the  requirement  of  member  contribution  may  be 
+
+reviewed after 5 years, or earlier if warranted. 
+
+ 
+
+SEBI may appropriately make necessary amendments to the SECC Regulations 2012. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.3  Transfer of Depositories’ profits to their Investor Protection 
+
+Fund (IPF)  
+
+6.3.1  Background 
+
+As the Committee was reviewing the requirement of 25% profit transfer by Stock Exchange 
+
+to CC, the Committee was requested to also review the requirement of Transfer of 25% 
+
+Depositories’ profits to their Investor Protection Fund (IPF)  
+
+ 
+
+The Committee note that in terms of 53 of the SEBI (DEPOSITORIES AND PARTICIPANTS) 
+
+(AMENDMENT) REGULATIONS, 2012 on Investor Protection Fund: 
+
+ 
+
+(1)  Every  depository  shall  establish  and  maintain  an  Investor  Protection  Fund  for  the 
+
+protection of interest of beneficial owners: 
+
+ 
+
+Provided that this Fund shall not be used by the depository for the purpose of indemnifying 
+
+the beneficial owner under section 16 of the Depositories Act, 1996. 
+
+ 
+
+(2)  Every  depository  shall  credit  twenty  five  per  cent  of  its  profits  every  year  to  the 
+
+Investor Protection Fund. 
+
+ 
+
+ 
+
+45 
+ 
+
+  Securities and Exchange Board of India                
+
+(3) The contribution to and utilization of the Investor Protection Fund shall be in accordance 
+
+with the norms specified by the Board." 
+
+ 
+
+The  Depository  Systems  Review Committee  (DSRC-  constituted by SEBI) while  reviewing 
+
+the  depository  operations,  observed  that  the  contribution  of  25%  of  annual  profits  by 
+
+depositories to IPF appears to have been stipulated on the lines of the provisions of the 
+
+Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) Regulations, 
+
+2012 wherein exchanges are required to contribute 25% of their annual profit to the fund 
+
+created by clearing corporations for the purpose of guaranteeing settlement of trades. The 
+
+object  of  settlement  guarantee  fund,  however,  is  materially  different  from  that  of  the 
+
+Investor Protection Fund under the depositories’ regulations.  
+
+ 
+
+The DSRC noted that an IPF created under the Depositories and Participants (Amendment) 
+
+Regulations, 2012 is primarily for investors’ awareness, education and training. The risks to 
+
+the depositories on account of fraud, etc., are covered by insurance which is taken by the 
+
+depositories.  In  case  of  failure/  closure  of  DPs,  the  investors  are  protected  as  the 
+
+Beneficiary Owners’ data is available with the depositories and the investors are allowed 
+
+to shift their accounts to other DPs. In view of this, the committee noted that the fund does 
+
+not envisage providing compensation for any loss to the investors. 
+
+ 
+
+The DSRC felt the need to synergise the funds created with the stock exchanges and the 
+
+depositories for the purpose of investors’ awareness, education and training. It observed 
+
+that since the IPF with the depositories does not provide for any sort of protection like the 
+
+guarantee settlement fund, there is no need for an IPF with substantial contribution from 
+
+the depositories alone. It was also of the view that the profit from depository operations 
+
+need  only  be  considered  for  the  purpose  of  contribution  to  the  IPF.  Other  income  i.e. 
+
+income received from investments & other non-operative activities may be excluded from 
+
+computation  of  profits  because  mostly  income  under  this  head  is  received  out  of 
+
+ 
+
+46 
+ 
+
+  Securities and Exchange Board of India                
+
+investments  made  from  accumulated  reserves  &  surplus  of  past  years,  which  was  not 
+
+distributed to stake holders. 
+
+ 
+
+Based on the above deliberations, the DSRC recommended inter alia the following:  
+
+ 
+
+review  the  quantum  of  funds  required  to  be  transferred  to  IPF  by  depositories  and 
+
+arrive upon a sizable limit for corpus of IPF 
+
+ 
+
+The recommendations of the DSRC were broadly approved by the SEBI Board. With regard 
+
+to the quantum of funds to be transferred by the Depositories to their IPF, it was desired 
+
+that this Committee may provide its recommendation. 
+
+The  Committee  deliberated  on  this  issue  and  noted  that  for  investor  protection,  the 
+
+depositories take insurance to manage the risk of indemnifying Beneficial Owners for any 
+
+loss suffered due to negligence of depository or its participant. As such, the corpus of IPF 
+
+can  be  used  mainly  for  activities  such  as  investor  education  like  workshops,  awareness 
+
+programs etc. which does not warrant a large corpus.   
+
+ 
+
+6.3.2  Recommendations of the Committee 
+
+The committee recommends that depositories may transfer 5%, or such percentage as may 
+
+be prescribed by SEBI from time to time, of their profits from depository operations every 
+
+year  to  the  IPF  since  the  date  of  amendment  of  SEBI  (Depositories  and  Participants) 
+
+(Amendment)  Regulations,  2012  requiring  transfer  of  profits.  Further,  SEBI  may  consider 
+
+necessary amendment to SEBI (Depositories and Participants) Regulations, 1996 to enable 
+
+the same. The percentage of profits to be transferred every year by depositories to the IPF 
+
+may be reviewed by SEBI on a periodic basis. 
+
+ 
+
+ 
+
+ 
+
+47 
+ 
+
+  Securities and Exchange Board of India                
+
+CHAPTER 7 
+
+ 
+
+Liquid Assets for calculation of Net worth of Clearing 
+
+Corporation 
+
+ 
+
+7.1  Background 
+
+Considering  the  sensitive  and  risk-bearing  role  of  the  clearing  corporations,  a  clearing 
+
+corporation, must hold a sufficient amount of liquid net assets preferably funded by equity 
+
+so that it can continue operations and services as a going concern even if it incurs general 
+
+business losses, or for the purposes of an orderly wind-down of its critical operations and 
+
+services, where necessary, or for the purpose of absorbing credit risk etc. Thus, liquid assets 
+
+held  must  be  funded  by  equity  (such  as  equity  capital,  disclosed  reserves,  or  retained 
+
+earnings) rather than debt.  
+
+ 
+
+Accordingly,  Regulation  14(3)  of  SCR  (SECC)  Regulations,  2012  (hereinafter  SECC 
+
+Regulations), specifies the minimum net worth requirement for Clearing Corporations as: 
+
+ 
+
+Every recognized clearing corporation shall achieve a minimum net worth of three hundred 
+
+crore rupees within a period of three years from the date of recognition granted under these 
+
+regulations.’ 
+
+ 
+
+A CC acts as the central counterparty, novating both legs of a trade, acting as a seller for 
+
+the  buy-side  of  a  transaction  and  acting  as  a  buyer  for  the  sell-side  of  a  transaction. 
+
+Extending this idea of novation, a CC is expected to continue to guarantee fulfillment of a 
+
+trade  even  if  a  party  on  either  side  of  transaction  defaults  or  in  a  graver  scenario,  if  a 
+
+ 
+
+48 
+ 
+
+  Securities and Exchange Board of India                
+
+clearing member (hereinafter CM) defaults and its obligations on a whole host of trades 
+
+are not honored by it.  
+
+A robust minimum net worth criterion serves the twin purposes of i) ensuring that only 
+
+serious  financially  sound  entities  come  forward  for  setting  up  this  kind  of  an  important 
+
+financial market infrastructure and ii) serving as an assurance to the participating CMs that 
+
+the CC is capable of covering defaults by CMs, if any.   
+
+ 
+
+Currently, SECC Regulations have set the minimum net worth requirement of CCs at Rs. 300 
+
+crore. A CC which handles huge volumes of trade poses greater systemic risk and may thus 
+
+be required to shore up a bigger amount as net worth.  
+
+ 
+
+The Committee noted that Regulation (EU) No 648/2012 of the European Parliament and 
+
+of the Council of 4 July 2012 on OTC derivatives, central counterparties ("CCPs‟) and trade 
+
+repositories  ("the  Regulation")  required  the  European  Banking  Authority(EBA)  to  draft 
+
+regulatory  technical  standards  (RTS)  on  the  capital  requirements  for  CCPs  under  EMIR 
+
+Framework. EBA, in close cooperation with the European System of Central Banks (ESCB) 
+
+and  the  European  Securities  and  Markets  Authority  (ESMA)  adopted  the  draft  technical 
+
+standards  on  capital  requirements  for  Central  Counterparties  (CCPs)  under  the  EMIR 
+
+Regulation on December 19, 2012. 
+
+ 
+
+Article  2  of  the  EBA  Final  RTS  on  Capital  Requirements  for  Central  Counterparties 13 is 
+
+noteworthy in this  context  -  ‘A  CCP should  hold  capital,  including  retained  earnings  and 
+
+reserves, which shall be at all times more than or equal to the sum of: (a) the CCP's capital 
+
+requirements  for  orderly  winding  down  or  restructuring  its  activities  (arrived  at  by 
+
+multiplying the monthly gross operational expenses by the time span for winding down or 
+
+restructuring its activities), (b) the CCP's capital requirements for overall operational and 
+
+                                                           
+13 EBA Consultation Paper on Draft Regulatory Technical Standards on Capital Requirements for CCPs 
+(EBA/CP/2012/08)  
+
+49 
+ 
+
+ 
+
+  Securities and Exchange Board of India                
+
+legal risks, (c) the CCP's capital requirements necessary for covering credit, counterparty 
+
+and  market  risks  'not  covered'  by  specific  financial  resources,  (d)  the  CCP's  capital 
+
+requirements  for  business  risk  (subject  to  a  floor  equal  to  25%  of  its  annual  gross 
+
+operational expenses). 
+
+ 
+
+As the central counterparty who guarantees every trade, it is the CC’s primary responsibility 
+
+to cover default. In fact putting CC capital at risk at the first stage of the waterfall (after the 
+
+defaulter‘s resources) provides the CC with a strong incentive to control risk, monitor its 
+
+members, and choose margin levels prudently. A case may thus be made that the CC’s net  
+
+worth  (or  a  set fraction of  it) should  be  utilized before  seeking  contributions  from  non-
+
+defaulting CMs. 
+
+ 
+
+This has been accounted for in the recent SEBI Circular CIR/MRD/DRMNP/25/2014 dated 
+
+August 27, 2014 which has prescribed norms for Core Settlement Guarantee Fund (Core 
+
+SGF), Default Waterfall and Stress Testing. As per the Circular, CC resources (equal to 5% 
+
+of  the  segment  Minimum  Required  Corpus)  form  the  third  stage  of  waterfall  (after  the 
+
+defaulter‘s resources and Insurance, if any). 
+
+ 
+
+Views  expressed  in  an  EBA  (European  Banking  Authority)  discussion  paper  on  the  Draft 
+
+Regulatory  Technical  Standards  on  the  capital  requirements  for  CCP  may  be  noted-‘"A 
+
+CCP’s equity capital should also reflect a strong cash, cash equivalent or securities position 
+
+to allow it to meet its current and projected operating expenses under a range of scenarios."  
+
+ 
+
+The Committee also noted that Principle 15 of the PFMIs defines general business risk as 
+
+the potential impairment of a CCP’s financial position as a business concern resulting in 
+
+losses charged against capital.  
+
+This view has also been echoed earlier in the Report of the Committee, constituted by SEBI, 
+
+on 'Review of Ownership and Governance of Market Infrastructure Institutions' chaired by 
+
+ 
+
+50 
+ 
+
+  Securities and Exchange Board of India                
+
+Dr Bimal Jalan. The committee had, inter alia, the following to recommend about the net 
+
+worth requirements of Clearing Corporations: 
+
+ 
+
+"Keeping in view the clearing and settlement function, a need is felt to prescribe a higher 
+
+net  worth  requirement  for  clearing  corporations,  as  compared  to  stock  exchanges  and 
+
+depositories..... Further, in order that such a net worth is available, in a worst case scenario, 
+
+it is suggested that it may be maintained in the form of liquid assets at all times. Liquid 
+
+assets would be those assets that are permitted to be deposited by a stockbroker in a stock 
+
+exchange (clearing corporation) towards margin obligations. Until such time the clearing 
+
+corporation achieves the prescribed net worth, it shall not be permitted to pay any dividend 
+
+to its shareholders. 
+
+ 
+
+As mentioned above, the liquidity of the net worth so prescribed and maintained is equally 
+
+important as the amount of the net worth. In case of default, when the net worth of the 
+
+CC might be required to be accessed to fulfill the remaining obligations of the defaulting 
+
+member, an illiquid net worth may prove to be disruptive.  
+
+ 
+
+The committee observed that the function of a Clearing Corporation is to provide a safety 
+
+shield  and the  purpose of  the Net worth  is  to  provide  a  solid bedrock  for  eventualities. 
+
+Learnings  from  the 2008-09  crisis  indicate that  instruments  which  were considered  safe 
+
+turned out to be unsafe. Therefore the instruments to be considered towards calculation 
+
+of liquid assets should be able to withstand the highest measures of liquidity and safety. 
+
+ 
+
+For the purpose of liquid assets, only  Central Government Securities and Fixed Deposits 
+
+may be considered as other instruments like NCDs, CPs etc. carry credit/liquidity risks. 
+
+Further,  while  considering  Central  Government  Securities  for  calculating  liquid  assets  is 
+
+prudent, state government securities/bonds should not be considered towards the liquid 
+
+assets calculations. 
+
+ 
+
+51 
+ 
+
+  Securities and Exchange Board of India                
+
+7.2  Recommendations of the Committee   
+
+The  Committee  recommends  that  the  liquid  assets  should  comprise  Fixed  Deposits 
+
+(FDs)/Central Government Securities (G Secs).  
+
+Further,  other  instruments  like  NCDs,  CPs,  money  market  mutual  funds,  etc.  carry 
+
+credit/liquidity risks and hence, may not be considered towards calculation of liquid assets 
+
+in net worth of CC. 
+
+ 
+
+ 
+
+********* 
+
+ 
+
+52 
+ 
+
+

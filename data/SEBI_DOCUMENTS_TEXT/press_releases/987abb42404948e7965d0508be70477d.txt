@@ -1,0 +1,67 @@
+
+ 
+Sep 30, 2016
+
+PR No.:  
+143/2016
+
+
+SEBI took over the Regulation of the Commodity Derivatives market on September 28, 2015 as a result of merger of FMC with SEBI. The merger of two Regulators is an unique and rare event across the world. It was also a heartening moment for SEBI as an organization that Government had reposed faith in its regulatory capacity while entrusting regulation of a new sector.  Taking over the Regulation of the new sector and bringing it at par with the Regulation  of the securities market was a lengthy process which involved Gap Analyses, widespread consultation with stakeholders, amendment to various Regulations, integration of trade data with our integrated surveillance system, upgrading the risk management framework, improving governance system of Exchanges and laying down an elaborate mechanism for investor grievance redressal and arbitration, capacity building and necessary organizational restructuring.
+We have made substantial progress in the past one year. The Government has also taken the e-Agri market initiative to link spot markets for agricultural commodities across the country. This will also improve linkage of futures market with spot market.
+At the time of the merger, priorities of SEBI were:-
+1)         Ensuring proper risk management so as to avoid any major instance of misconduct.
+2)         Ensuring non-disruptive transitions of the Exchanges as well as brokers to the new regulatory regime.
+3)         Improving the surveillance of the market and putting in place an enforcement mechanism to ensure market integrity – integration of markets with integrated surveillance system of SEBI.
+4)         Putting in place an adequate mechanism for grievance redressal and arbitration.
+5)         Building capacity within and outside the Regulator.
+Various steps were taken to ensure the above
+ 
+Strengthening of risk management
+Few of the important steps and their impact are mentioned as under:
+1)         Position limits in the agri commodities were reduced to align with the existing liquidity and to curb excessive speculative interest and consequential breach of market integrity.
+2)         Daily Circuit filter limits were also reduced in the agri commodities from 6% to 4% to reduce volatility.
+3)         A new risk management system was put in place on September 1, 2016 introducing new concepts/ tools to deal with the risk prevalent in the commodities markets. Some important features of the new system are as under:-
+ 
+          i)          Enhancement in initial margins to have better risk coverage.
+         ii)         Concentration margins  on big positions
+        iii)        Tools for handling default such as liquidation in normal market, auction of positions, voluntary tear-up and partial tear up etc.
+ 
+4)      To bring the risk management system at par with securities market, SEBI mandated forming of clearing corporations by the exchanges. Three years’ time was provided to the Commodities markets, in this regard.  However, to make the existing system adequately robust, even before the formation of clearing corporation, the following measures have been taken regarding Settlement Guarantee Fund:
+        i) Uniform default waterfall
+       ii) Stress test criteria and
+      iii) Criteria for contribution by exchanges to SGFs.
+ 
+Surveillance of market and Enforcement
+Immediately after taking over the Regulations of the Commodities markets, the markets were integrated with the Integrated Surveillance System of SEBI which is being used for the securities market.  This enhanced the vigil over the commodities markets very substantially and enabled SEBI in taking action against the instances of misconduct. Action in the case of 18 entities was also taken under Section 11B of the SEBI Act, debarring them from participating in the market as an interim measure.
+Online registration of Brokers 
+To facilitate time bound, speedy and easy transition of brokers from the old system to the new system, online registration was successfully implemented.
+Strengthening of delivery infrastructure
+1) Ensuring good delivery, which is so necessary for winning the confidence of the participants in the Commodities markets, has always been a challenge.  Considering this, SEBI in the beginning itself made “good delivery” a legal responsibility of the Exchanges which used to be a moral responsibility earlier.  The Exchanges were also mandated to put in place necessary infrastructure to ensure discharge of this legal responsibility.
+ 
+2) Further, to improve the standard of warehouses and develop the warehousing sector elaborate guidelines for `minimum standards’ and `governance’ have been laid down by SEBI recently. Key features  of the norms for WSPs (Warehouse Service Provider) are as follows:-
+a) Minimum net worth requirement of Rs. 25 crores for multi commodity WSPs.
+b) Storage value of goods in warehouse not to exceed 33 times of the net worth of WSP.
+c) Fit and proper criteria.
+d) Compulsory accreditation of assayers.
+Grievance Redressal Measures
+The Grievance redressal system of the Commodities Markets has been brought almost at par with the securities market. Formation of Investor Grievance Redressal Committee (IGRC), setting up of Investor Service Centre at important places and formation of panel of arbitrators at the exchanges are notable steps in this direction.
+ 
+Capacity Building
+a) NISM has been entrusted with responsibility of training the officers.  So far, 220 Officers were given training on Commodity Derivatives by NISM.
+b) SEBI has also collaborated with US Regulator of Commodities i.e., Commodity Futures Trading Commission (CFTC) in this regard.
+c) A certification course at NISM for commodity market professionals is being put in place.
+Other Developmental Efforts 
+i) Though the top priority of SEBI at the time of merger was risk management and enforcement, SEBI is conscious of the fact that the further development of the market is important from the angle of improving the liquidity of the market and making the benefits of the market reach to all the stakeholders.  SEBI, therefore, constituted an Advisory Committee headed by Prof. Ramesh Chand, Member of NITI Aayog, which had representatives from different segments of the stakeholders.
+ii)  SEBI has allowed trading in options and now the exchanges have been allowed to submit the proposal for option contracts.
+iii) On the recommendation of SEBI, the Government has notified following new commodities for futures trading. 
+1. Diamond
+2. Brass
+3. Pig Iron
+4. Eggs
+5. Cocoa
+6. Tea
+ 
+iv) This committee is deliberating on the most important issues of the market such as improving hedgers participation, improving liquidity of the contracts,  having  objective criteria for introducing new commodities to futures trading, improving price polling mechanism and bringing new participants, institutional as well as non-institutional, to the market.
+Other major regulatory initiatives
+Some of the other circulars that SEBI has issued are on aspects of business continuity plan (BCP) and disaster recovery (DR), annual system audit, testing of software, exit policy for commodity exchanges, client code modification and cyber security and cyber resilience framework.
+

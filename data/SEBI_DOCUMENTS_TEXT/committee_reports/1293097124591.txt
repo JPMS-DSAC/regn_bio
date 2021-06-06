@@ -1,0 +1,1644 @@
+“Review of SEBI (DIP) Guidelines 2000- Proposals - Series III”
+
+“Report on Simultaneous equity offering in Indian and International markets”
+
+1.  This report, entitled “Report on Simultaneous equity offering in Indian and International
+markets”  contains  the  recommendations  made  a  group  set  up  by  SEBI,  comprising
+representatives  of  BSE,  NSE,  NSDL,  CDSL,  RAIN  and  AMBI,    to  examine  the
+feasibility of “simultaneous offerings”, the issues involved in facilitating such offerings
+and to work out the procedures for these offerings.1
+
+2.  These  recommendations  cover  the  need  for  simultaneous  issues,  the  regulatory
+
+constraints, systemic bottlenecks and other incidental matters.
+
+3.  This paper does not reflect the views of SEBI, nor has SEBI formed an opinion on these
+recommendations. The paper is being hosted on the website for the purpose of eliciting
+public comments. SEBI would take cognizance of the public comments received, before
+taking a final view on the issues mentioned in the paper.
+
+4.  Comments  on  the  recommendations  may  be  sent  to  the  Primary  Market  Department,
+SEBI or emailed to Ms. Sangeeta Uchil, AGM, at  Sangeetau@sebi.gov.in or Ms. Neelam
+Bhardwaj,  DGM,    at  neelamb@sebi.gov.in  or  faxed  to  91-22-22045633  on  or  before
+April 21, 2003.
+
+                                                  
+1  The  presentation  format  of  the  report  has  been  modified  by  SEBI  to  some  extent,  without  affecting  the
+recommendations significantly.
+
+31
+
+REPORT
+
+ON
+
+SIMULTANEOUS EQUITY OFFERING IN INDIAN
+
+AND INTERNATIONAL MARKETS
+
+31
+
+Background
+
+1.  SEBI  is  examining  the  feasibility  of  allowing  companies  the  flexibility  of  listing  its
+securities  simultaneously  in  the  Indian  and  international  markets.    SEBI  had  received
+suggestions  from  companies  and  intermediaries  in  the  capital  market,  for  allowing
+simultaneous offering of securities. The suggestions indicate that this facility is available
+to  companies  in  some  overseas  markets  and  it  would  be  desirable  to  examine  this
+concept in the Indian context also, as it would :
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+v. 
+
+Provide simultaneous access to domestic and international equity markets to fund
+the development and expansion of Issuers;
+
+increase the transparency of financial and operational information regarding the
+Issuers, which is available to public investors;
+
+enable  Indian  companies  to  make  large  sized  offerings,  utilizing  demand  from
+non-India registered investors;
+
+provide  access  to  a  wider  investor  base,  which  provides  greater  stability  and
+liquidity; and
+
+provide valuation benchmarks for companies in industries where there are few or
+no valuation benchmarks in India, for example, in the telecom and biotechnology
+sectors.
+
+31
+
+The advantages of a dual-listing to all the stakeholders can be summarised as under:
+
+Issuer Company
+
+Existing Shareholders
+
+•  Mobilizing funds for investment
+
+/expansion
+
+•  Enlarged Investor base will enhance
+
+stability, liquidity & valuation.
+
+•  International Reputation in more
+mature and substantially larger
+markets.
+
+•  Global Recognition enhancing their
+
+corporate image and business
+potential.
+
+New Investors
+•  Able/easier to invest in the leading
+
+companies with high growth
+potential
+
+•  Larger market size and liquidity
+•  Increase the transparency of financial
+and operational information reported
+
+•  Provides Valuation benchmarks for
+
+companies
+
+•  Improve Liquidity and thus
+
+valuation and pricing
+
+•  Benchmarking valuation with
+
+global comparables
+
+•  Increase transparency from US
+
+SEC/global disclosure
+requirements
+
+Dual
+Listing
+
+Country
+•  Capital Inflow
+•  Enlarged size of total market
+
+capitalization
+
+•  Quick adaptation of international best
+
+practices following listing on global
+bourses by Indian companies
+
+•  Increased profile of Indian companies
+
+31
+
+ISSUES FOR DELIBERATION
+
+The group comprising of officials of BSE, NSE, NSDL, CDSL, RAIN and AMBI have examined
+the areas which may need to be addressed for facilitating Simultaneous offerings. The same are
+as under :
+
+2.  Uniform Prospectus disclosure requirements
+2.1 Fundamentally,  there  is  no  difference  in  the  approaches  of  SEBI  and  other  regulators
+globally, i.e. all regulators desire that the offer documents should contain material disclosures
+that would enable an investor to take an informed decision regarding investment in the issue.
+Hence, the endeavor should be to use a common offer document for both the markets.
+
+2.2 However,  various  jurisdictions  have  different  requirements  on  the  format  for  regulatory
+disclosures, additional country specific risk factors, format for accounting disclosures, format
+of  the  cover  page,  settlement  and  trading  mechanism,  different  application  and  bidding
+processes etc.
+
+2.3 Also, the securities offered in the two markets being slightly different (Depository receipts
+
+and Ordinary shares), the investors will have slightly different rights and tax implications.
+
+2.4 The international practice for simultaneous offerings in other Asian markets is to have two
+offering circulars say one for ADR/ GDR Offering and one for the Domestic ordinary share
+offering.  An extensive due-diligence exercise is conducted by the Book Runner along with
+legal counsel familiar with securities laws of other jurisdictions. Both the offering documents
+will  comply  fully  with  the  disclosure  requirements  of  the  respective  regulators.  The
+documents  being  circulated  to  investors  in  both  the  markets  will  contain  substantially  the
+same disclosures, although they may not be stylistically similar. Disclosures with respect to
+the  company,  strategy,  management  discussion  and  analysis  and  company  and  business
+environment  related  risk  factors  should  be  same.  Each  offer  document  will  have  the
+description  of  the  securities  offered  in  the  other  market.  Book  Runner  will  certify  in  the
+
+31
+
+document  that  the  disclosures  in  the  two  offer  documents  are  similar  and  no  material
+information has been omitted in any of them.
+
+3.  Minimum  public  offering  of  10%  or  25%  of  the  Capital  as  per  Rule  19(2)(b)  of  the
+
+Securities (Contract) Regulation Rules, 1957 and SEBI guidelines
+
+3.1  It is proposed that the minimum offer to be made for ordinary shares listed in India should be
+as per the requirements of Rule 19(2)(b) of the Securities (Contract) Regulation Rules, 1957
+and SEBI guidelines (10% or 25%, as the case may be). The overseas offering should be in
+addition  to  this  offer.  By  offering  minimum  10%  or  25%  in  the  domestic  markets,  the
+requirements  of  Rule  19(2)(b)  of  Securities  Contract  Regulation  Rules    (SCRR)  would  be
+fulfilled.
+
+4.  Flexible Price range to be provided as guidance to investors instead of the hard floor
+
+price in the Red Herring Prospectus (RHP) (as is the case now)
+
+1.1 Companies should be allowed the flexibility of indicating a price band of up to 20%, instead
+of the present requirement of mentioning a floor price in the RHP. It is further recommended
+that  although  the  price  band  should  be  disclosed  in  the  Red  herring  to  be  filed  with  the
+Registrar of Companies, the issuer should have the flexibility to revise the price band till one
+day before the last day of the closure of the Book.
+
+1.2 In case of a listed company proposing to go in for another issue through this route, the market
+price of the shares on the exchange can act as indicators to the pricing of the new issue. In
+such circumstances, it needs to be seen whether indication of floor price or price band would
+be of any relevance.
+
+5.  Common Book
+5.1 In order to have a fair book building in both the markets, a common book of demand for the
+ordinary shares and  DRs is proposed.  The bidding period for Domestic and Global offering
+shall  be  same.  The  book  will  open  and  close  (say  at  2400  hours)  at  same  Indian  Standard
+Time. The book in Indian markets will be built on NSE/BSE platforms as per SEBI guidelines
+
+31
+
+while the international book will be built as per the international market practices. The two
+books will be synchronized for the purpose of pricing.
+
+6.  Confidential book building
+6.1  The  book  of  demand  should  be  kept  confidential  as  per  the  international  market  practice.
+
+Closed Book-building will help in:
+?  True discovery of price, based on investor's evaluation of the Issue and not at the floor of
+
+? 
+? 
+
+the indicative price band;
+
+Investors cannot bid with a herd mentality;
+
+Investors and associates of the Issuer can not play with the price by putting in frivolous
+bids
+
+7.  Common Pricing in Both the markets
+7.1 The pricing for the Ordinary shares and DRs should be same.
+
+8.  Flow-back of shares permitted from the Domestic to the Global offering, and vice-versa
+8.1  Red  Herring  Prospectus  would  state  the  percentage  and  quantum  of  offer  made  in  each
+market.  In  case  both  domestic  offering  and  DR  offerings  are  oversubscribed,  then  the
+allocation would be as per the percentage stated in the Red Herring Prospectus. However,
+flow-back  should  be  provided  for  between  the  Indian  and  Global  offering,  in  case  of
+undersubscription in any of the markets. Flow-back enables the Issuer and Underwriter to
+adjust  the  Book  Size  based  on  the  demand,  thereby  enabling  the  right  supply  of  stock  in
+each  of  the  markets.    Without  this  flow-back  provision,  there  could  be  situations,  where
+there will be an over-supply in the Domestic offering leading to a pressure on the price, and
+an under-supply overseas, leading to a marginal premium for shares in the Global offering,
+or vice-versa.  To avoid any situations of this nature, or vice-versa, it is important to provide
+for flow-back of shares from one offering, to the other, and vice-versa. In order to achieve
+this
+?  FIPB approval needs to be taken for the entire Offering size (Domestic plus Global)
+?  Minimum subscription to be calculated after considering subscription in both offers.
+
+31
+
+?  Option to be given to eligible investors (Registered FIIs) to spill-over their bids from
+
+one market to another i.e. from DR to domestic or vice-versa.
+
+?  The  Book  Runner  will  announce  the  final  offering  size  in  each  market  after  the
+
+closure of the book and at the time of pricing.
+
+?  Final DR size as announced by Book Runner should be considered for the purpose of
+
+calculation of headroom for reverse fungibility of ordinary shares into DRs.
+
+?  Definition  of  Qualified  Institutional  Buyers  (QIBs)  under  SEBI  (Disclosure  and
+Investors Protection) Guidelines to be expanded to include all non individual ADR
+holders as QIBs. The 60% minimum allotment to QIB’s under the compulsory Book
+Building  under  SEBI  Guidelines  and  19(2)(b)  of  SCRR  to  be  calculated  after
+considering QIB participation in both offers.
+
+8.2 One of the members of the committee had submitted a dissent note to this recommendations.
+
+The dissent note is reproduced below :
+“Simultaneous listing by itself is a good aid to companies looking at an international listing.
+However we feel there should be no fungibility between the two books and like in the case of
+NALCO, the two books should be kept separate and fungibility should be not allowed.”
+
+9.  Synchronization of listing and trading of the securities in the two markets
+9.1At  present,  each  stock  exchange  has  its  own  listing  requirements.  Generally  all  issuers  list
+their securities on BSE and NSE in addition to Regional Stock Exchange. Typically, it takes
+two  to  three  days  to  get  the  listing  and  trading  approvals  from  the  Stock  Exchanges.    To
+reduce this time gap, the following may be done
+?  Central  Listing  Authority  (CLA)  to  give  Letter  of  Recommendation  (LoR)  to  all  stock
+Exchanges  where  shares  are  proposed  to  be  listed.  Based  on  the  LOR,  SEs  will  grant
+listing & trading approval without much delay..
+
+?  Stock Exchanges to give in-principal approval, based on LoR for listing, before filing of
+
+Red Herring Prospectus with RoC.
+
+?  Stock Exchanges to grant trading permission before  demat credit and despatch of refund
+orders as long as the Registrar ensures that Demat credit is given to the investors on or
+before first day of trading.
+
+31
+
+?  The  final  allotment  would  be  available  on  the  website  of  the  Registrar/Issuer  so  that
+
+applicant can view the allotment details.
+
+?  Stock  Exchanges  should  have  uniform  information  requirements  approving  basis  of
+allocation  and  granting  listing  and  trading  approval.  Relevant  proposals  for  procedural
+requirements in this regard is given at Annexure 2.
+
+10. Over-allotment  option  (‘Greenshoe’)  to  the  Book  Runners  at  the  time  of  closing  the
+
+Offering, with a view to stabilise the after-market price
+
+10.1The  provision  of  a  greenshoe  would  help  investors,  including  retail  investors,  as  the
+Underwriters  will  stabilize  the  prices  in  aftermarket,  reducing  immediate  aftermarket
+volatility. The maximum size of the option should be 15% of the total offering (domestic plus
+global). However, the Greenshoe  cannot  exceed  15%  of  the  offering  made  in  each  market
+individually (after flow back and as announced at the time of pricing).
+
+11. Allocation of 60% to QIBs
+11.1As the substantial portion of the issue would be sold to institutional investors in DR offering,
+hence allocation of 60% of the domestic offering to the QIB investors in domestic markets
+may not be insisted upon. A minimum allocation 15% to HNI/Corporates and 25% to retail
+investors will be done on the basis of  final domestic offering size,  as  announced  by  Book
+Runners at the time of pricing. Flow back will be permissible from one category to another as
+per the extant SEBI guidelines.
+
+12. Relevance of RoC filing
+12.1As  per  the  Companies  Act,  only  delivery  of  the  Prospectus  to  the  RoC  for  registration  is
+required,  while  the  issue  of  acknowledgement  card  is  a  procedure  followed  and  made
+mandatory by practice. The Offer document should be made to follow EDIFAR filing which
+makes  Offer  Document  public  and  the  need  for  the  RoC  filing  should  be  reviewed.  It  is
+proposed that the issuer should be able to go ahead with issue after filing the Offer document
+with the RoC, without waiting for any acknowledgement card / approval. This will help in
+synchronizing the timelines for domestic and global offering.
+
+31
+
+13. Forfeiture of Margin Money in case of withdrawal of Bids
+13.1In case the investor withdraws the bid after bid closure then the margin paid, if any, would
+be liable to be forfeited. This will help in reducing the settlement time for domestic offering.
+
+14. 90% Minimum Subscription Clause
+14.1The Prospectus would disclose the minimum funds required by Company in terms of Section
+69 of the Companies Act. As per Schedule II of the Act, 90% minimum subscription would
+be  defined  as  90%  of  the  minimum  funds  required  as  defined  in  the  Prospectus.  If  the
+Company  is  able  to  raise  90%  of  the  fund  requirement  through  Domestic  and  DR  issues
+combined, then the requirements of minimum subscription under Section 69 of the Schedule
+II of the Companies Act would be met. Hence, due requirements of Section 69 and Schedule
+II of the Companies Act would be met.
+
+15. Research Black-out as per international practice
+15.1As per International practice in case of IPO, (though this practice varies among investment
+to
+banks/jurisdictions),  no  research 
+commencement of road shows and up to 40 days after closing. Hence, the blackout period
+for distribution of research, in case of IPO, prior to the day of opening of the issue may be
+21 days and continue till 40 day after the date of bid closing
+
+is  published  and  distributed  2  weeks  prior 
+
+15.2Further,  Research  houses  publish  research  on  existing  listed  companies.  These  reports  are
+useful  source  of  information  and  analysis  for  investors.  As  per  international  practice,  for
+follow-on offerings, same rules as applicable for IPO apply. However, if the research house
+is  already  covering  the  Issuer  through  research,  then  research  is  allowed  with  certain
+restrictions during this period also. This would be in line with SEC Regulations. Hence, in
+case of offering by an existing listed company and if the Research house is already covering
+the Issuer through research, then it should be allowed to write research reports during the
+Issue period.
+
+16 Simultaneous trading in both jurisdictions
+
+31
+
+16.1 Currently in the Indian markets, the shares trade on T+16 (T being closure of issue) days.
+However, in overseas market the shares trade on either the next day of within 2-3 days. It
+would be desirable to have commencement of trading on both exchanges simultaneously. It
+is  proposed  to  make  the  e-IPO  guidelines  issued  by  SEBI,  with  certain  modifications,
+mandatory  for  all  simultaneous  issues.  This  would  reduce  the  time  from  T+16  to  T+6.
+Details of this proposal are as at Annexure 1.
+
+31
+
+Synchronization of listing and trading the securities in the two markets
+
+The time to listing for Indian offerings is T+16, as depicted in the following flow-chart:
+
+Annexure 1
+
+T
+
+T + 1
+
+T + 6
+
+T + 9
+
+Pricing and
+Allocation
+•  Confirmation of
+
+Allocation
+(CAN) sent to
+QIBs
+
+Book Closes
+•  Retail investors
+
+pay the entire
+consideration at
+the time of
+Bidding
+
+•  Non-
+
+Institutional
+investors pay a
+margin
+
+Basis finalised with
+Stock Exchange; and
+Confirmations are sent
+•  Stock Exchange
+
+approves the basis
+of allocation drawn
+by the Registrar
+
+•  CANs sent to Non-
+
+institutional
+investors
+
+Registrar draws the Basis
+
+of Allocation; and
+Prospectus finalised
+•  Banker forwards the
+application form to
+the Registrar
+
+•  Banker confirms
+
+realisation of funds
+from retail investors
+
+•  Registrar draws the
+basis of allocation
+
+•  Underwriting
+
+agreement signed
+
+•  Prospectus finalised
+and filed with RoC
+
+T + 11 to T + 13
+Pay-in Period; and
+Liaision with
+depository
+
+•  Investors make
+
+payment for
+their shares
+
+•  Registrar
+
+reconciles the
+demat account
+data with the
+depositories and
+completes other
+documentary
+formalities
+
+T + 14
+
+T + 15 to T + 16
+
+Listing and
+Trading
+•  Stock
+
+Exchanges
+grant listing
+and trading
+permission
+
+•  Trading
+
+commences
+
+Pay-in closes, Designated
+Date
+Company files Listing
+Application
+•  Only high-value
+
+investors make payment
+on the last pay-in date
+
+•  Underwriter makes
+
+payment for any
+devolvement
+
+•  All the funds are credited
+
+to the Public Issue
+Account
+
+•  Company allots equity
+
+shares through a
+corporate action
+
+•  Company instructs
+
+NSDL to credit the demat
+accounts of all investors
+
+•  Company files final
+
+listing application
+
+Typically the time to listing for an ADR offering is T+3, which for IPOs at times is stretched to
+T+5.    International  investors  expect  ‘when-issued’  trading  to  commence  immediately  after
+pricing.  However, they are willing to be exposed to market risk for a few days of no ‘when-
+issued’  trading.
+
+Hence, it is important to compress the present settlement time of T+16 to a maximum of T+6, to
+consider a dual listing of an Indian Company. The following will aid in reducing the settlement
+time to T+5 days:
+
+(cid:173)  Use best practices of secondary market for primary markets
+
+31
+
+(cid:173)  Domestic Offering only through Book Building
+(cid:173)  Application only in Demat Mode
+
+Stockinvest facility should be discontinued.
+
+(cid:173) 
+(cid:173)  Application Form can be made concise by using the DP ID and Client ID of investors
+as the key reference, as the investor would have shared his / her specific data with the
+depository,  for  account  opening.  All  other  information  of  the  applicant  such  as
+address,  bank  account  details  etc.  would  be  used  as  per  the  details  available  with
+NSDL/CDSL.
+
+(cid:173)  NSDL/CDSL to share the investor details with the Registrar. This will enable speedy
+
+uploading of shares after allotment.
+Forfeiture of margin money in case of withdrawal of bids after the book closure
+
+(cid:173) 
+(cid:173)  As  per  secondary  market  practice,  the  shares  should  first  drop  into  broker’s  pool
+account and thereafter into investor’s demat account on confirmation of the payment
+of  full  application  money  to  the  broker.  In  the  Bidding,  allocation,  allotment  and
+credit  of  securities    to  the  bidders,  the  following  intermedaries  are  involved  –  i.e.
+Brokers,  usage  of  facilities  of  Stock  Exchanges  for  Bidding,  Registrar,  Bankers,
+Clearing house of stock exchanges, Depositories and the Book Runners. In order to
+expedite the process, It is suggested that, if technically feasible, a common software
+programme  may  be  developed  which  can  be  used  by  all  these  intermediaries  and
+which can produce reports as may be required by each intermediary.
+
+(cid:173) 
+
+Chapter  XI-A  of  the  SEBI  (Disclosure  and  Investor  Protection)  Guidelines  provides  the
+framework  for  offering  securities  in  public  issue  through  the  stock  exchange  mechanism.  We
+believe  that  this  framework  can  be  used  with  certain  modifications,  alongwith  the  aforesaid
+suggestions,  can  reduce  the  timeframe  between  the  Book  Closure  and  listing  and  trading  of
+securities.    The  changes  in  Chapter  XI-A  of  the  SEBI  (Disclosure  and  Investor  Protection)
+Guidelines are enclosed as per Annexure 1(A).
+
+Based on the aforesaid changes, the Post Bidding timeline would be as under:
+
+31
+
+T+3
+Domestic
+?  Stock
+
+Exchange
+approve
+the basis
+of
+allocation
+
+?  Final
+
+Prospectu
+s printed
+and
+dispatche
+d
+
+?  CANs
+sent to
+Institutio
+nal
+investors
+?  Allocati
+on details
+electronic
+ally
+communi
+cated by
+Registrar
+/Compan
+y to
+Brokers
+
+T+5
+
+Domestic
+?  Broker
+to credit
+shares
+to the
+demat
+account
+of
+investor
+s
+
+T+6
+Domestic
+?  Trading
+commen
+ces
+
+Global
+?  Pay-in
+
+and
+settlemen
+t of ADR
+?  Trading
+commen
+ces
+
+T+4
+Domestic
+?  Pay-in
+(only
+high-
+value)
+
+?  Bankers to
+
+confirm
+clearance
+of funds
+
+?  Board
+
+Meeting
+?  Company
+to instruct
+NSDL/CD
+SL to
+credit
+shares to
+the demat
+account of
+brokers
+?  Stock
+
+Exchange
+to issue
+the listing
+and
+trading
+permissio
+n
+
+T
+
+?  Book
+
+Closes (is
+condition
+al on the
+closing of
+the
+Global
+offering)
+
+T+2
+
+Domestic
+?  Registr
+
+ar
+draws
+the
+allocati
+on list
+(for
+non-
+QIB
+and
+retail
+investor
+s)
+?  All
+
+entered
+bids
+assume
+d as
+valid
+
+Global
+?  Final
+Prospec
+tus
+printed
+and
+despatc
+hed
+
+T+1
+
+?  Price
+
+determinati
+on
+
+?  Determinat
+
+ion of
+Offering
+size in
+Global and
+Domestic
+market
+
+Domestic
+?  QIB
+
+Allocation
+communica
+ted
+
+?  Underwriti
+
+ng
+agreement
+signed
+
+?  Prospectus
+
+finalised
+and filed
+with SEBI
+and RoC
+
+Global
+?  Underwriti
+
+ng
+agreement
+signed
+
+?  Prospectus
+
+finalized
+and filed
+with SEC
+?  Allocatio
+
+n
+communic
+ated
+
+In the above table, days refer to working days in local time in respective countries.
+
+31
+
+Annexure 1 (A)
+
+Suggested amendments to Chapter XI-A of the SEBI (DIP)
+Chapter XI-A
+In order to reduce the settlement time from 16 days to 6 days, following changes (marked
+in track changes mode) are suggested in the Chapter XI-A of the SEBI  DIPGuidelines for
+offering Securities in Public Issues through the Stock Exchange Mechanism.
+1  A  company  proposing  to  issue  capital  to  public  through  the  on-line  system  of  the  stock
+exchange for offer of securities shall comply with the requirements as contained in this Chapter
+in  addition  to  other  requirements  for  public  issues  as  given  in  these  Guidelines,  wherever
+applicable.
+
+2. Agreement with the Stock exchange.
+
+2.1  The  company  shall  enter  into  an  agreement  with  one  or  more  of  the  Stock
+Exchange(s) which have the requisite system of on-line offer of securities.
+Provided  that,  where  the  Regional  Stock  Exchange  has  the  requisite  system  of  on-line
+offer  of  securities,  the  company  shall  also,  enter  into  an  agreement  with  the  Regional
+Stock Exchange for offering securities to public through on-line system.
+
+2.2  The  agreement  mentioned  in  the  above  clause  shall  specify  inter-alia,  the  rights,
+duties, responsibilities and obligations of the company and stock exchange (s) inter se.
+The  agreement  may  also  provide  for  a  dispute  resolution  mechanism  between  the
+company and the stock exchange.
+
+.3 Appointment of Brokers
+
+3.1  The  Book  Runners/Lead  Managers  stock  exchange,  shall  appoint  brokers  of  the
+exchange, who are registered with SEBI, for the purpose of accepting  bidsapplications
+and placing orders with the company.
+
+3.2 For the purposes of this Chapter, the brokers, so appointed accepting applications and
+application monies, shall be considered as ‘collection centres’.
+
+3.3.  The  broker/s  so  appointed,  shall  collect  the  money  from  his/their  client  for  every
+order placed by him/them and in case the client fails to pay for shares allocated as per the
+Guidelines, the broker shall pay such amount.
+
+3.4  The  company/lead  manager  Book  Runner  shall  ensure  that  the  brokers  having
+terminals  are  appointed  in  compliance  with  the  requirement  of  mandatory  collection
+centres, as specified in clause 5.9 of Chapter V of the Guidelines.
+
+31
+
+3.5 The company/lead manager Book Runner shall ensure that the brokers so appointed
+are financially capable of honouring  their  commitments  arising  out  of  defaults  of  their
+clients, if any.
+
+3.6. The company shall pay to the broker/s a commission/fee for the services rendered by
+him/them. The exchange shall ensure that the broker does not levy a service fee on his
+clients in lieu of his services.
+
+4 Appointment of Registrar to the Issue
+
+4.1  The  company  shall  appoint  a  Registrar  to  the  Issue  having  electronic  connectivity
+with the Stock Exchange/s through which the securities are offered under the system.
+
+5 Listing
+
+5.1 Subject to the requirement of listing on the Regional Stock Exchange, the company
+may apply for listing of its securities on an exchange other than the exchange through
+which it offers its securities to public through the on-line system. TO BE REPLACED
+WITH CENTRAL LISTING APPROVAL AS PER SEBI’s CURRENT VIEW
+
+6. Responsibility of the Lead Manager
+
+6.1 The Lead Manger shall be responsible for co-ordination of all the activities amongst
+various intermediaries connected in the issue / system.
+
+6.2  The  names  of  brokers  appointed  for  the  issue  alongwith  the  names  of  the  other
+intermediaries  namely  Lead  managers  to  the  issue  and  Registrars  to  the  Issue  shall  be
+disclosed in the prospectus and application form.
+
+7 Mode of operation
+
+7.1. The company shall, after filing the offer document with ROC and before opening of
+the issue, make an issue advertisement in one English and one Hindi daily with nation
+wide  circulation,  and  one  regional  daily  with  wide  circulation  at  the  place  where  the
+registered office of the issuer company is situated.
+
+7.2 The advertisement shall contain the salient features of the offer document as specified
+in Form 2A of the Companies (Central Government’s) General Rules and Forms, 1956.
+The  advertisement  in  addition  to  other  required  information,  shall  also  contain  the
+following:
+the date of opening and closing of the issue
+
+i. 
+ii.  the method and process of application and allotment
+iii.  the  names,  addresses  and  the  telephone  numbers  of  the  stock  brokers  and  centres  for
+
+accepting the applications.
+
+7.32A Company shall circulate the application forms to the Brokers.
+
+31
+
+7.43 During the period the issue is open to the public for subscription, the applicants may
+approach  the  brokers  of  the  stock  exchange/s  through  which  the  securities  are  offered
+under  on-line  system,  to  place  an  order  for  subscribing  to  the  securities.  Every  broker
+shall accept orders from all clients who place orders through him;
+
+b.directly send the application form alongwith the cheque/Demand Draft for the sum payable
+towards application money to the Registrar to the Issue at the indicated office.   or place
+the order to subscribe through a stock- broker under the on-line system. Such application
+should reach the Registrar’s office on or before the closure of the bidding period.
+
+7.4 In case of issue of capital of Rs. 10 crores or above the Registrar to the Issue shall
+open centres for collection of direct applications at the four metropolitan centres situated
+at Delhi, Chennai, Calcutta and Mumbai.
+
+7.5 The broker shall collect the client registration form duly filled up and signed from the
+applicants  before  placing  the  order  in  the  system  as  per  "Know  your  client  rule"  as
+specified by SEBI and as may be modified from time to time.
+
+7.56 The bidder shall submit the application to broker. The application shall be for shares
+in demat form only. The applicant need to enclose a proof of correct DP ID and Client ID
+as may be acceptable to the broker. The broker shall, thereafter, enter the buy order in the
+system, on behalf of the clients and enter details including the name,  address, telephone
+number,  and  category  of  the  applicant,  the  number  of  shares  applied  for,  Bid-cum
+Application Form number, Bid price, amount paid, beneficiary ID, DP code etc. and give
+an order number/order confirmation slip to the applicant.
+
+7.67 The applicant may withdraw applications up to the closure of bidsin  terms  of  the
+Companies Act, 1956. In case an applicant withdraws the bid after closure of the book
+then the margin money, if any, paid by the Bidder is liable to be forfeited by the Broker.
+
+7.78 The broker may collect an amount to the extent of up to 100% of the application
+money  as  margin  money  from  the  clients  before  he  places  an  order  on  their  behalf.
+Application money will be the maximum of the three bid options. Uniform margin money
+shall be collected by brokers for each category of investors as per the instructions of the
+lead manager.
+
+7.89  The  broker  shall  open  a  separate  bank  account  ([“Escrow  Account”)]  with  the
+clearing  house  bank  for  primary  market  issues  and  the  amount  collected  by  the  broker
+from his clients as margin money shall be deposited in this account.
+
+7.910 The broker shall, at the end of each day while the issue is open for subscription,
+download/forward the order data to the Registrar to the Issue on a daily basisThe Stock
+Exchange would send the order data to the Registrar and Book Runners from time to time
+and at the end of each day while the issue is open for subscription.. This data shall consist
+of only valid orders (excluding those that are cancelled). On the date of closure of the
+issue,  the  final  status  of  orders  received  shall  be  sent  to  the  Registrar  to  the  issue  and
+Book Runners/company.
+
+31
+
+7.10 The Order book will be kept confidential. Only book runners will have access to the
+same.
+
+7.11  On  the  closure  of  the  issue,  the  Regional  Stock  Exchange,  alongwith  the  Lead
+merchant  banker  and  Registrars  to  the  Issue  shall  ensure  that  the  basis  of  allocation  is
+would be finalised in fair and proper manner on the lines of the norms with respect to
+basis of allotment as specified in Chapter VII of the Guidelines, as may be modified from
+time to time.
+
+7.12  After  finalisation  of  basis  of  allocation,  the  Registrar  to  the  Issue/company  shall
+send  the  computer  file  containing  the  allocation  details  i.e.  the  allocation  numbers,
+allocated quantity etc., of successful applicants to the  Broker to the Issue  along with.
+The Exchange shall process and generate the  broker-wise  funds  pay-in  obligation.  The
+Registrar / Company shall also send the above details to Stock Exchange and shall send
+the file containing the allocation details to member brokers.
+
+7.12A Company / Book Runner shall announce the pay-in day and intimate the same to
+Brokers and Stock Exchange. It would be responsibility of the Broker to fund the Escrow
+Account to the extent of allocation to his clients by high value time on the pay-in date.
+
+7.13 On receipt of the basis of allocation data, the brokers shall immediately intimate the
+fact of allocation to their client /applicant. The broker shall ensure that each successful
+client/applicant pays submits the duly filled-in and signed application form to him along
+with  the  amount  payable  towards  the  application  money  by  the  pay-in  date.  Amount
+already  paid  by  the  applicant  as  margin  money  shall  be  adjusted  towards  the  total
+allocation money payable. The broker shall, thereafter, hand over the application forms of
+the successful applicants who have paid the application money, to the exchange, which
+shall submit the same to  to the Registrar to Issue/company for their records.
+
+7.14 The broker shall refund the excess margin money, if any,  collected earlier, within 3
+days of receipt of basis of allocation, to the applicants who did not receive allocation.
+
+7.15 The brokers shall give details of the amount received from each client and the names
+of clients who have not paid the application money to Registrar / Book Runner and the
+exchange. The brokers shall also give soft copy of this data to the exchange.
+
+7.176 In the event of the successful applicants failing to pay the application money, the
+broker through whom such client placed orders, shall bring in the funds to the extent of
+the  client’s  default. The  broker  will  ensure  that  the  Escrow  Account  is  funded  to  the
+extent of allocation made to his client on the pay-in date.If the broker does not bring in
+the funds, he shall be declared as a defaulter by the exchange and action as prescribed
+under  the  Bye-Laws  of  the  Stock  Exchange  shall  be  initiated  against  him.  In  such  an
+event, the Book Runners, who would  have underwriten the issue, would bring-in put in
+the shortfall. In such a case, if the minimum subscription as disclosed in the prospectus is
+not received, the issue proceeds shall be refunded to the applicants.
+
+31
+
+7.176. On the pay- in day, the broker shall deposit the amount collected from the clients
+in  the  separate  bank  account  opened  for  primary  issues  with  the  clearing  house/bank.
+Without any instruction from the broker, The the clearing house shall debit the primary
+issueEscrow aAccount of each broker to the extent of allocation made to his clients and
+credit the amount so collected from each broker to the "Issue Account" on pay-in date.
+
+7.17 In the event of the successful applicants failing to pay the application money, the
+broker through whom such client placed orders, shall bring in the funds to the extent of
+the client’s default. If the broker does not bring in the funds, he shall be declared as a
+defaulter  by  the  exchange  and  action  as  prescribed  under  the  Bye-Laws  of  the  Stock
+Exchange shall be initiated against him. In such a case, if the minimum subscription as
+disclosed  in  the  prospectus  is  not  received,  the  issue  proceeds  shall  be  refunded  to  the
+applicants.
+
+7.18 The subscriber shall have an option to receive the security certificates or hold the
+securities in dematerialised form as specified in the Guidelines
+
+7.19 The concerned Exchange shall not use the Settlement/Trade Guarantee Fund of the
+Exchange for honoring brokers commitments in case of failure of broker to bring in the
+funds.
+
+7.20 On payment and receipt of the sum payable on application for the amount towards
+minimum subscription, the company shall allot the shares to the applicants as per these
+Guidelines. The Registrar to the issue shall post the share certificates to the investors or,
+instruct the depository to credit the  “escrow pool depository account” of each  investor,
+as the case may be. bBroker opened for this the purpose of the Issue. Broker shall then
+transfer  the  shares  to  the  client/applicantinvestor’s   depository  account  after  receipt  of
+confirmation of full payment. For this purpose bBroker would be considered as Agent of
+the client/applicant. Broker shall confirm to the Book-runner/Registrar that shares have
+been credited to the account of applicants not later then the day of start of trading, in case
+full payment had been received. Any cases of dispute, amongst the broker and the clients,
+would be referred to arbitration as per the by-laws / regulations of the stock exchange.
+
+7.21 The Allotment details would be put on the Website of the Registrar/Issuer. Further,
+online  messaging  facility  of  NSDL/CDSL  can  be  used  to  communicate  the  Allotment
+details to Brokers, as an alternative of physical Confirmation of Allocation Note.
+
+7.22. Allotment of securities shall be made not later than 15 days from the closure of the
+issue failing which interest at the rate of 15% shall be paid to the investors.
+
+7.22 23 In cases of applicants who have applied directly or by post to the Registrar to the
+issue, and have not received allocation, the Registrar to the issue shall arrange to refund
+the application monies paid by them within the time prescribed.
+
+7.234  The  brokers  and  other  intermediaries  engaged  in  the  process  of  offering  shares
+through the on-line system shall maintain the following records for a period of 5 years :
+i. 
+
+orders received
+
+31
+
+ii. 
+iii. 
+iv. 
+v. 
+
+applications received
+details of allocation and allotment
+details of margin collected and refunded
+details of refund of application money
+
+7.25  SEBI  shall  have  the  right  to  carry  out  an  inspection  of  the  records,  books  and
+documents  relating  to  the  above,  of  any  intermediary  connected  with  this  system  and
+every  intermediary  in  the  system  shall  at  all  times  co-operate  with  the  inspection  by
+SEBI. In addition the stock exchange have the right of supervision and inspection of the
+activities of its member brokers connected with the system.
+
+31
+
+Finalisation of Basis of Allocation
+
+&
+
+Listing and Trading Requirements of Exchanges
+
+Annexure 2
+
+Sr. No.
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+8. 
+T is the Bid Closing date
+
+Requirement
+Issuer to submit draft  Red Herring
+Prospectus along with certain pre-issue
+documents as per the following list.
+Exchange to issue in-principle approval
+
+Issuer signs the Listing Agreement
+
+Issuer to give all other pre-issue
+documents as per the following list.
+
+Issuer to submit documents for
+finalisation of  Basis of Allotment as per
+the following list.
+Issuer to submit documents for listing as
+per the following list.
+Exchanges to give listing approval
+Trading Commences
+
+New Requirement
+To be submitted
+simultaneously with filing with
+SEBI
+Within 15 days of filing draft
+Red Herring Prospectus
+At the time of filing of Red
+Herring Prospectus with RoC.
+To be submitted at the time
+of filing of Red Herring
+Prospectus with RoC.
+T+3
+
+T+4
+
+T+5
+T+6
+
+All documents would be filed with exchanges on T+4 days. The Exchanges would grant listing
+and  trading  permission  on  T  +  5  and  trading  to  commence  from  T  +  6  day,  provided  all
+requirements are completed by all concerned.
+
+Lead  Manager  /  Issuer  /  Book  Runner  etc.  to  constantly  coordinate  with  Exchange
+officials.
+
+Pre Issue Requirements at the time of SEBI Filing
+
+Sr.
+No.
+
+1
+2
+3
+
+Particulars
+
+Information relating to Articles of Association
+Letter of application
+Form of application – Pertaining to company information
+
+31
+
+4
+
+5
+
+6
+
+Resolutions
+?  Certified true copy of the resolution passed by the Board of Directors
+
+for further issue of securities.
+
+?  Certified true copy of the resolution passed by the shareholders at the
+
+AGM / EGM authorizing the issue of securities to the public.
+
+?  Certified true copy of the resolution passed by the Board of Directors
+
+for listing the securities of the company on the stock Exchanges and for
+affixing the Common Seal on the listing agreement.
+
+Material Documents
+?  Certified true copy of the Memorandum and Articles of Association of the
+company after incorporating the changes if any suggested by the Exchange
+(3 copies).
+
+?  Certified true copy of the rating letter issued by rating agency for debt
+
+securities (applicable only in case of debt instruments).
+
+?  Certified true copies of the Annual Reports of the company for the last 5
+
+years.
+
+Other information
+?  Details of disciplinary action taken if any by other stock exchanges and
+
+regulatory authorities against the company, the promoters/promoting
+companies, other companies promoted by the promoters and group
+companies in the past 3 years.
+
+?  Details of defaults in respect of payment of interest and/or principal to the
+
+debenture/bond/fixed deposit holders by the company, the
+promoters/promoting companies,  other companies promoted by the
+promoters and group companies. Details of all litigations against the
+company, the promoters/promoting companies, other companies promoted
+and group companies in the last 3 years. The nature of litigation and the
+status of litigation need to be mentioned.
+
+?  Name and residential address of the Board of Directors of the company.
+?  List of authorized signatories along with their specimen signatures.
+
+31
+
+7
+
+8
+
+9
+
+Shareholding details
+?  Shareholding pattern of company as on March 31 for the last 3 financial
+years in format given as per clause 35 of the listing agreement. The total
+foreign holding and list of persons holding more than 1% of the share
+capital under each category of shareholders must also be given.
+
+?  Shareholding pattern of company (pre issue) in format given as per clause
+
+35 of the listing agreement. The total foreign holding and list of persons
+holding more than 1% of the share capital under each category of
+shareholders must also be given.
+
+?  Details regarding the shareholding of the promoters/promoting companies
+in the company as on March 31 of the last 3 financial years in the format
+given below:
+?  Name
+?  Address
+?  No. of shares held
+?  Percentage shareholding
+In case the company has been promoted by promoting companies then
+the details of the shareholding of the promoters in the promoting
+company as on March 31 of the last 3 financial years shall also be
+provided in the above format.
+
+? 
+
+Certificates from Company stating that:
+?  The net worth has not been wiped out.
+? 
+? 
+Miscellaneous
+?  Certified true copy of the Service Agreements with the Managing Director
+
+It has not been referred to BIFR
+It has not received any winding up petition from any court.
+
+Circulars offering securities for subscription or sale during the last five
+years
+
+?  Advertisements offering securities for subscription or sale during the last
+
+five years
+
+?  Copy of every letter, Report, Balance Sheet, Valuation, Contract, Court
+
+Order or other documents any part of which is reproduced or referred to in
+any Prospectus, Offer for Sale, Circular or Advertisement offering securities
+for subscription or sale during the last five years.
+
+?  Statement containing particulars of the dates of the parties to all material
+
+contracts, agreements (including agreements for technical advice and
+collaboration), concessions and similar other documents (except those entered
+into in the ordinary course of the business carried on or intended to be carried
+on by the Issuer) together with a short description of the terms, subject-matter
+and general nature of the documents.
+
+?  Certified true copy of all the material contracts and documents mentioned in
+
+the offer document and not forming a part of the above documents.
+
+31
+
+Documents to be submitted at the time of filing of Red Herring Prospectus with RoC
+
+Sr.
+No
+.
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+10
+11
+12
+13
+
+Particulars
+
+Certified true copy of the Debenture Trust Deed (applicable only in case of debt
+instruments).
+Certified true copies of the due diligence certificates submitted by the Lead
+Manager to SEBI (at the time of filing draft offer document with SEBI, at the
+time of incorporating changes if any as suggested by SEBI, at the time of filing
+with Registrar of Companies and before the issue open date).
+Certified true copy of the comments / observations given by SEBI on the draft
+offer document.
+Certified true copy of the approval received from the Reserve Bank of India for
+issue of securities to Non Resident Indians.
+Certified true copy of the approval received from the Reserve Bank of India for
+export of share certificates to Non Resident Indians. (Not required now)
+Certified true copies of letters of consent to act in the following positions along
+with copies of the agreement:
+?  Book running Lead Managers to the issue
+?  Lead Managers to the issue
+?  Co-Managers to the issue
+?  Bankers to the issue
+?  Registrars to the issue
+?  Advisors to the issue
+?  Brokers to the issue
+?  Under-writers to the issue
+Certified true copies of tripartite agreements entered into by the company with
+the depositories and registrars.
+Certified true copy of the Memorandum of Understanding entered into with the
+registrars and transfer agents of the company.
+Specimen share certificates marked cancelled (6 sets).
+ISIN code allotted by the depository for pre issue capital.
+Listing Fees
+Cheque /demand draft towards initial listing fees.
+Compliance with Clause 49 (Corporate Governance) requirement
+
+31
+
+Documents to be submitted for approving the Basis of Allocation/Allotment.
+Sr.
+No. Particulars
+1
+2
+3
+
+Draft Basis of Allotment for public and other categories
+Summary of Rejection List
+Summary  of  Lead  Manager/Book  Runner/Broker  showing  total  application  and
+amount received
+List of Top 100 allottees
+The Managing Director/Company Secretary of the company has to declare that
+there is no injunction/prohibitory order of a competent court of law on the issue
+or on part of any particular category of the issue. (should be given on Company’s
+letter head).
+Proof of payment of 1% Security Deposit with the Exchange.
+
+4
+5
+
+6
+
+31
+
+Documents to be submitted at the time of listing:
+(i) Documents to be submitted on T+1 day
+Sr. No.
+1. 
+2. 
+
+Due diligence certificates from BR / LM
+Final Prospectus
+
+Particulars
+
+(ii) Documents to be submitted no later than T+4 days
+Sr. No.
+
+Particulars
+BR / LM confirmation in case of devolvement
+Information related to the issue (Post)
+Distribution schedule for post issue capital
+Board resolution for allotment
+Bankers certificate for collection of money
+Details of basis of allotment
+Auditors certificate for allotment being made as per the basis of allotment
+approved (Note 1)
+Issuer certificate for shares under lock-in
+Shareholding pattern – Regarding Promoter and Non-promoter holding
+BR’s confirmation for refunds etc.
+Depository’s confirmation for credit of beneficiary account
+Copies of all advertisements issued pre and post issue
+Regional stock exchange letter granting listing and trading permission (Note
+2)
+Annual Listing fee
+Undertakings from the company and/or Auditors
+?  Register of Members of the Bank/Company is open for registering
+
+transfer of shares.
+
+?  The  Auditor's certificate that the expenditure on the  IPO has not
+
+exceeded the overall ceiling fixed as per clause VIII of Government Letter
+No.F.14/1/SE/85 dated the 7th May, 1985. (Note 3)
+
+?  Due Diligence Certificate from the Lead Manager to the Issue together
+with a  statement  showing inter-se allocation of  responsibility amongst
+Lead Managers
+
+?  Declaration that the Issuer has not entered into any buy-back agreement or
+
+arrangement with any of  the applicants/allottees of the shares in its IPO
+
+Any other document as required
+
+31
+
+Documents not required for simultaneous offerings (provided the issue is 100%
+in demat and bookbuilding mode)
+Sr. No
+
+Particulars
+Distribution schedule for public issue portion
+Details of region wise collection of application money
+Auditors certificate for shares in lock-in
+Specimen of allotment advice
+Confirmation that refund orders shall be payable at par at all places where
+application money is received.
+Confirmation that allotment money shall be payable at all centers where
+application money is received.
+
+1
+2
+3
+4
+5
+
+6
+
+Reports submitted to SEBI
+1
+Monitoring Reports
+
+Notes:
+SEBI and Stock Exchanges need to review the following requirements for grant of
+listing and trading approvals:
+
+1.  One of the requirements for listing is submission of Auditors certificate confirming
+that  allotment  being  made  as  per  the  basis  of  allotment  approved  by  Stock
+Exchanges.  In  view  of  the  paucity  of  time,  it  is  suggested  that  this  certificate
+should be replaced with a confirmation from the Registrar to the Issue.
+
+2.  Regional stock exchange letter granting listing and trading permission is one of the
+pre-condition for grant of listing and trading permission by other Stock Exchanges.
+However  in  view  of  creation  of  Central  Listing  Authority,  all  stock  exchanges
+should grant listing and trading approval upon receipt of letter of recommendation
+from CLA.
+
+3.  The  Auditor's certificate that the expenditure on the  IPO has not exceeded the
+overall  ceiling  fixed  as  per  clause  VIII  of  Government  Letter  No.F.14/1/SE/85
+dated the 7th May, 1985. Is one of the requirements for grant of listing and trading
+permission. Government of India, Ministry of Finance, Department of Economic
+Affairs,  CM  and  ECE  Division  has  withdrawn  this  requirements.  Hence,  Stock
+Exchanges should not insist on production of such certificate from the Auditors.
+
+31
+
+Procedure
+
+Definitions:
+
+BRLM
+Broker DP ID   
+Client ID
+Bidders
+QIB
+CAN
+
+ 
+
+            Upload Of Credit
+
+:
+:
+:
+:
+:
+:
+:
+
+Escrow Securities Account     :
+
+Client Master Listing             :
+
+Status Code
+
+:
+
+Annexure 3
+
+Book Running Lead Manager
+Depository Participant’s Identification No.
+Beneficiary Owner’s Identification No.
+Bidders
+Qualified Institutional Bidder
+Confirmation of Allocation Notice
+The  allotment  of  the  securities  to  the  Clearing
+Member’s account/ BO’s Account.
+Escrow  Securities  Account  to  be  opened  by  the         
+Broker  with  DP  in  NSDL/  CDSL  in  which  demat
+credit for all the successful bidders will be uploaded
+where after the securities will be transferred to the
+BO’s account.
+Out-put generated by DP relating to the Beneficiary
+Owner, which gives the complete particulars of the
+BO in whose name the account has been opened.
+Nature of BO’s Account (i.e. NRI, FII, RI, etc.)
+
+31
+
+PROCESS:
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+9. 
+
+10. 
+
+11. 
+
+BRLM/ Broker  will collect the Bids from the Beneficiary Owners for the securities
+applied by them.
+The Broker will upload  the bids in the NSE/ BSE terminal which can extend upto
+three options.
+While capturing the bids, the Broker will also capture DP ID, Client ID, Name of the
+first applicant and the status code.
+The Broker will ensure that the DP ID and Client ID is properly entered for which, if
+required, he will obtain the Client Master Listing from the beneficiary Owner.
+The Broker while capturing the bids will also indicate in a field separately identifying
+whether the investor has paid full money/ margin money/ no money.
+The Broker shall be fully responsible for the DP ID and Client ID entered by him for
+the bids received and entered in the system.
+The money collected by the Broker will be deposited in a separate Escrow Account to
+be  opened  by  the  Broker  with  the  respective  Bank  in  the  clearing  houses  of  NSE/
+BSE.
+NSE/ BSE will forward the bids received to the BRLM on a daily basis.
+All  the  details  captured  by  the  Broker  should  be  available  in  the  data  provided  by
+NSE/ BSE to the BRLM.
+On  the  day  the  issue  closes,  BRLM  will  forward  electronic  data  for  all  the  bids
+received to the Registrars for finalisation of the basis of allocation.
+a. The Registrar will upload DP ID & Client IDs for the individual bids received and
+obtain  the  name(s)  –  address  and  all  other  particulars  relating  to  the  Bidder  from
+NSDL/ CDSL.
+Note  :This  is  being  done  since  the  address  is  not  captured  by  the  Broker  and  for
+processing and mailing of CANs, the address of the investor would be required.
+
+b. The  validity  of  the  DP  ID  and  Client  ID  furnished  by  the  Broker  will  stand
+established during this upload.
+
+31
+
+c.  Where  the  validity  fails  then  the  Broker  can  be  intimated  in  advance  about  the
+failure of the validation and the need for him to verify with his client the correct DP
+ID and Client ID particulars.
+
+d.  Download of the name(s), address and other particulars from the Depository will
+also be useful in finalising the Return of Allotment  for filing with the ROC.
+
+12. 
+
+13. 
+
+14. 
+15. 
+
+16. 
+
+17. 
+
+18. 
+
+19. 
+
+20. 
+
+The Basis of Allocation will be finalized by the Registrar, the Book Running Lead
+Managers and the Issuer in consultation with Stock Exchange.
+The  Registrar  will  prepare  the  CANs  and  forward  the  same  either  physically  or
+electronically to Brokers for onward delivery to Bidders /or directly to Investors.
+The Broker shall deliver CANs to the investors.
+The Registrar will arrange to forward to all the Brokers, details of allocation to their
+client  in  a  structured  data  base  identifying  therein  the  DP  ID,  Client  ID,  name,
+number  of  Shares  applied,  number  of  shares  allotted,  application  money  received,
+amount payable on allotment and amount to be refunded to the Bidders.
+The Broker, based on the above statement shall duly verify at his end and arrange to
+deposit the balance amount in the Escrow account payable by him in respect of his
+clients, as per the allocation finalized in consultation with Stock Exchanges.
+The  Registrar  will  also  arrange  to  submit  to  the  BRLM  the  Brokers  pay-in
+obligations, which will be forwarded by the BRLM to the respective clearing houses
+in NSE/ BSE.
+On the pay-in date, the Clearing House will debit the Escrow Account of the Broker
+to the extent of the pay-in obligation of the Broker and transfer the said money to the
+Issuer’s account.
+To the extent of allocation made for each of the individual Broker, the credit will be
+uploaded by the Registrar to the Broker’s Escrow Securities Account opened for the
+purpose  of  receiving  credit  for  the  securities,  which  have  been  allotted  to  the
+respective client of the Broker.
+The  Broker  will  thereafter  arrange  to  transfer  the  securities  received  in  his  Escrow
+account  to  the  individual  BO  account  immediately  the  following  day,  so  that  the
+securities are available for trade.
+
+31
+
+21. 
+
+22. 
+
+The Broker shall withhold transfer of shares only in respect of cases where payment
+obligation has not been met by his clients relating to this specific transaction.
+The Broker shall provide the confirmation to the BRLM/ Registrar that all the shares
+for  which  the  credit  was  received  in  the  Escrow  Account  has  been  respectively
+transferred  to  the  clients’  account,  as  per  the  details  furnished  by  the  Registrar.
+Exceptions, if any, shall be reported giving reasons for not transferring the securities.
+
+OTHER GENERAL ISSUES
+
+1. 
+
+2. 
+
+3.
+
+4.
+
+5.
+
+Software modifications will have to be done by NSE/ BSE for the bids being accepted
+in the terminal. It is necessary that the layouts in which the files will be provided by
+the BSE/ NSE are identical.
+NSDL/ CDSL will have to modify the software, permitting the Registrar to upload the
+credit to the Escrow account of the concerned Broker.
+NSDL and CDSL should modify the software for downloading the BO particulars for
+the DP ID and Client ID uploaded by the Registrar for validation.
+The  Registrar  will  provide  a  structured  data  to  the  Broker,  identifying  the  various
+information required by the Broker for identifying the amount to be collected from
+individual clients for whom the bids have been entered.
+The  Registrar  will  send  the  data  in  such  format  as  required  by  NSE/  BSE  through
+BRLM for the Broker’s pay-in obligations.
+
+31
+
+

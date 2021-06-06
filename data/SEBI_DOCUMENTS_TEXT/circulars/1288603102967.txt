@@ -1,0 +1,79 @@
+ 
+GENERAL MANAGER 
+DERIVATIVES AND NEW PRODUCTS DEPARTMENT 
+
+SEBI/DNPD/Cir- 51/2010 
+January 11, 2010 
+
+To 
+Managing Director / Chief Executive Officer  
+Stock Exchanges / Equity Derivatives Segment of Stock Exchanges  
+and their Clearing Houses/Corporations 
+ 
+Dear Sir, 
+
+SUB: Market Wide Position Limits across Stock Exchanges 
+
+ 
+In  consultation  with  Stock  Exchanges  and  based  on  the  recommendations  of  the 
+Secondary Market Advisory Committee of SEBI, it has been decided to streamline 
+the  operationalisation  of  Market  Wide  Position  Limits  (MWPL)  of  the  derivative 
+contracts on individual securities traded across Stock Exchanges as under:  
+At  the  latest  on 
+the Trading Day  
+6.30 PM  
+
+Activity 
+
+7.00 PM 
+
+Each  Exchange  to  disseminate  on  web  the  following  for 
+every security:  
+a. ISIN of the security, 
+b. Name and symbol of the security,  
+c. MWPL (in terms of no. of shares) of the security, and 
+d. Open Interest (in terms of no. of shares) of the security. 
+Each  Exchange  to  disseminate  on  web  the  following  for 
+every security, after aggregating across Exchanges: 
+a. ISIN of the security, 
+b. Name and symbol of the security,  
+c. MWPL (in terms of no. of shares) of the security,  
+d.  Open  Interest  (in  terms  of  no.  of  shares)  of  the  security, 
+and 
+e.  Permissible  limits  for  next  day  in  terms  of  SEBI  Circular 
+SEBI/DNPD/Cir-26/2004/07/16 dated July 16, 2004. 
+
+7.15 PM  
+
+Each Exchange to report any discrepancy in the above data 
+to other Exchanges and after correction, disseminate the final 
+data on the web. 
+
+ 
+2.  The above data shall be disseminated in a machine readable, open format (XML 
+
+format). 
+ 
+
+3.  The methodology for computation of MWPL, as prescribed by SEBI Circular No. 
+
+SEBI/DNPD/Cir-31/2006 dated September 22, 2006 shall remain unchanged. 
+ 
+
+4.  This Circular is issued in exercise of the powers conferred under Section 11 (1) of 
+the Securities and Exchange Board of India Act 1992, read with Section 10 of the 
+Securities Contracts (Regulation) Act, 1956 to protect the interests of investors in 
+securities  and  to  promote  the  development  of,  and  to  regulate  the  securities 
+market and shall come into effect from January 31, 2010. 
+
+ 
+5.  This Circular is available on SEBI website at www.sebi.gov.in under the category 
+
+“Derivatives- Circulars”. 
+
+ 
+Yours faithfully, 
+ 
+Sujit Prasad 
+
+

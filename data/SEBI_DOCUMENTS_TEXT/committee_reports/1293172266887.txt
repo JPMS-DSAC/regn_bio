@@ -1,0 +1,814 @@
+EXECUTIVE SUMMARY
+
+Indian  securities  markets  have  undergone  many  changes  during  the  last  decade.  Exponential
+growth  in  trading  volumes  is  pushing  existing  trading  systems  and  processes  to  capacity  and
+increasing  settlement  risk.  With  Indian  market  moving  to  a  T+3  rolling  settlement  cycle  in  line
+with global markets, SEBI is continuing its efforts to increase the efficiency and transparency in
+Indian  markets.  This  would  result  in  lowering  of  trade  costs  and  make  Indian  markets  a  more
+attractive destination for global investors. Indeed it has been SEBI endeavor to make the Indian
+markets, one of the most competitive and efficient markets of the world.
+
+The  move  from  a  5  day  settlement  period  to  a  three  day  period  requires  firms  to  streamline
+trading processes by way of a foolproof, faster, cost effective and universally acceptable mode of
+communication  among  market  participants.  With  changes  happening  in  rapid  succession,
+derivatives markets looking to expand, the settlement risk are increasing and this is pushing the
+need for Straight Through Processing (STP) and making it a pre-requisite for success of smooth
+functioning of securities market with a settlement period of T + 3 or less.
+
+Straight-through Processing (“STP”) involves electronically capturing and processing
+transactions  in  one  pass,  from  the  point  of  first  “deal”  to  final  settlement.    Current
+practices involve costly multiple data re-entry from paper documents and other sources that are
+susceptible to errors, discrepancies, delays and possible fraud.
+
+STP enables orders to be processed, confirmed cleared and settled in a shorter time period, more
+cost effectively and with fewer errors than under traditional methods such as phone, fax, email
+etc.  that  require  human  intervention.  It  is  the  human  element  that  slows  the  trade  processes,
+introduces errors and delays settlement.
+
+Broadly the benefits of STP can be listed as:
+
+1. Reduced Settlement Cycle
+Reducing the settlement cycle, the time between execution to settlement, will eliminate many of
+the risks associated with trade processing. Achieving seamlessness  will  be  an  enabler  for  these
+shorter settlement cycles to assist both domestic and cross-border trades in Indian securities. You
+cannot get to T+1 without seamless connectivity.
+
+2. Transparency / Audit ability
+
+Managing  trades  within  a  single  automated  process  will  improve  the  transparency  of  the  trade
+status  for  all  parties  and  will  enable  organisations  (and  possibly  the  regulator)  to  monitor  the
+process in terms of effectiveness, adherence to regulation and will enhance problem resolution.
+
+3. Reduces Counterparty Risk
+Once a trade has been executed there is an element of uncertainty between all parties on the
+status of the trade and, indeed, whether the trade will settle until it is matched at the exchange.
+We see in many markets that, for a great proportion of the trades, matching does not take place
+until settlement date, leaving no time to repair the trade for settlement on time. Trades agreed by
+all parties and set-up ready for settlement will also reduce the exposure in the event of counter
+party failure.
+
+4. Reduces Operational Risk
+Automating  the  process  from  execution  through  to  settlement  will,  by  definition,  reduce  the
+manual processes and provide a more timely and accurate process. In avoiding the delays and
+errors  in  this  manual  process  you  and  your  trading  counterparts  will  substantially  reduce  the
+exceptions. Exception processing is costly.
+
+5. More timely exception processing
+Whilst STP will not eliminate all the errors, the point that is often missed is that the earlier the
+trade is processed the earlier the exception will be identified. This will enable the timely resolution
+of any problems on the trade date to avoid settlement failure and the costly process of resolution,
+correction and interest claims.
+
+6. Performance Measurement
+It  is  often  said  that  you  cannot  manage  what  you  cannot  measure.  This  is  true  of  the  trade
+process and counterparty performance. Management of information throughout the process will
+be the key to determine success, not only in your own process, but also that of your counterparts.
+Measure against an industry code of practices and peer groups will help to create the discipline in
+the market. We should not discount the possibility of publishing performance tables - a case of
+naming and shaming - to further concentrate the mind.
+
+7. Improve attractiveness of Indian market
+Markets throughout the world are continually looking for new investment opportunities. Foreign
+Investment  into  India  will  be  determined,  not  only,  on  investment  opportunity  but  also  on  the
+
+operational efficiency and risk profiles of the Indian market. Introducing a process with regulatory
+oversight will only enhance India's profile and therefore its attractiveness to foreign investment.
+
+Critical success factors for STP:
+
+?  Open  standard  protocols  and  message  standards  that  are  in  compliance  with  best
+
+international standards, and
+
+?  Cooperation between the different market participants and users to ensure that common
+
+practices are established and followed.
+
+?  A  robust  financial  infrastructure  that  links  the  main  exchanges  and  clearing  houses
+
+together, including direct computer linkage with the payment system.
+
+?  Cooperation  with  the  regulatory  and  tax  authorities  in  ensuring  that  electronic
+
+data/documents and electronic signatures are legally acceptable.
+
+The Committee was set out to
+
+? 
+
+? 
+
+? 
+
+Identify components of the current life-cycle of trade from origination to settlement that
+involves manual intervention.
+
+Identify and establish messaging standards for information communication
+
+Identify  options  for  establishment  of  a  communications  backbone  that  will  enable  data
+transfer  across  participants  in  a  secure  and  efficient  manner  and  matter  connected
+therewith.
+
+Subsequent to a detailed comparison of the trade cycle for both domestic as well as cross border
+trades, the committee identified certain areas that needed to be automated on a priority basis.
+These are as follows:
+
+?  Broker  contract  note  information  transfer  from  broker-dealer  to  sub-custodian  and  the
+
+mutual fund/FII
+
+?  Pre-match advice to the broker-dealer
+
+?  Domestic Mutual Funds’  trade data flow to/from the sub-custodian
+
+It was agreed that in these processes, certain participants were already enjoying a fair degree of
+automation especially in case of cross border/FII trades.
+
+The Committee studied a few international experiences in achieving STP.  It was observed that
+most  organizations  develop  their  own  front  and  back  office  systems  which  communicate  in  a
+particular manner. Also, some firms are highly automated while others are not so automated. This
+will  affect  achieving  higher  levels  of  STP.  Further  complicating  the  issue  is  the  availability  and
+proliferation of message standards like FIX, ISO7775, etc. Thus, as there is no standard for the
+industry as a whole, there is no interoperability between disparate systems which have made it
+very difficult to get complete and satisfactory connectivity. Here the committee was unanimous
+that  in  an  industry  wherein  there  are  no  solutions  already  in  place,  it  would  be  worthwhile  to
+mandate  messaging  standards  so  that  interoperability  can  be  achieved  leading  to  better
+connectivity between participants. An analogy that can be drawn here is that almost all people
+know to speak but proper communication is possible only if they speak the same or a common
+language.  A  common  messaging  standard  like  ISO15022  will  go  a  long  way  in  overcoming  this
+problem.  Message  templates  based  on  ISO  15022  formats  are  appended  to  this  report  in
+Annexure  IV.  The  proposed  ISO  15022  XML  standards  will  also  address  derivatives  and
+enhancement of scope of STP to this product suite will follow migration to XML.
+
+Recommendations:
+1. On-line Connectivity between the depositories to permit easier settlement.
+2. Recognition of electronic contract notes as a legal document as an alternative to
+    paper based contract notes.
+3. Adoption of ISO 15022 standards for financial messaging.
+4. Amendment to the laws/regulations/bye-laws etc. to provide for recognition of paperless form
+of data and records. The Committee has already identified and made a list of bye-laws/regulations
+etc. that need to be changed in order to move to a paperless environment. The list is given as
+Annexure III. The list may not be exhaustive and any other amendments to any other law may
+be brought to the notice of the Board so that the same may be amended.
+
+5. There are certain issues relating to the payment system that need to be addressed on a priority
+basis. However, these do not fall under the purview of SEBI and the matter has to be referred to
+RBI  for  action  at  their  end.  The  first  is  the  strong  need  to  have  the  Real  Time  Gross
+Settlement system in place so that settlement of funds takes place fast. The RBI has already
+indicated that the RTGS system would be in place by June 2003. This would help in creating better
+synergy  between  settlement  of  funds  and  securities  at  the  same  time  and  true  Delivery  v/s
+
+Payment system is achieved. Meanwhile, the Electronic Funds Transfer (EFT) facility of the RBI
+may be increased in terms of its coverage and the value so that payments may be made faster.
+
+Introduction
+
+The Indian securities market has seen a rapid expansion since the decade of the nineties in terms
+of  the  amount  of  capital  raised  from  the  primary  market,  the  number  of  stock  exchanges  and
+other intermediaries, market capitalisation, trading volumes and turnover on stock exchanges and
+investor population.
+Far-reaching developments have taken place in the secondary market also over the past decade.
+The  number  of  recognized  stock  exchanges  increased  to  24.  Diverse  forms  of  organizational
+structures have been chosen by these exchanges. Some of them are body corporate, association
+of  persons,  companies  limited  by  shares  or  guarantees.  Considerable  corporatisation  and
+professionalisation of broking industry has already taken place. Market  capitalisation of securities
+of Indian companies traded was INR 6122.24 billion as on March 31, 2002. The daily turnover on
+the  stock  exchanges  was  around  Rs.60  billion  in  2002.    The  stock  exchanges  are  fully
+computerised  and  have  screen  based  automated  trading.  The  trading  in  the  securities  market
+have been dematerialised, for a large number of securities and more than 99% of the deliveries
+are  in  dematerialised  securities.  Margining  system  has  now  been  moved  to  a  Value  at  Risk
+approach.
+
+Currently,  the  markets  are  following  a  T  +  3  approach  for  settlement  of  trades.  All  trades
+executed  are  settled  on  T  +  3  basis  wherein  pay-in  of  funds  and  securities  takes  place  in  the
+morning and pay-out of funds and securities takes place in the evening. However, the systems
+followed for settlement and other trade processing are primarily manual in nature and have the
+following lacunae:
+
+-  Manual intervention.
+-  Trade mismatches.
+-  Short sales and cancellation of trades
+
+This is a very undesirable scenario and reflects poorly on the efficiency of the capital markets in
+India.
+
+Recently, the Government has announced its intention of reducing the settlement cycles from T +
+3 to T + 2 and finally to T + 1 over the next few years. Shorter settlement cycles will mean more
+pressure on trade processing systems so that funds/securities are ready for pay-in/pay-out on the
+next  day.  In  a  manual  environment,  with  the  current  volumes,  it  is  almost  impossible  to  meet
+tighter  settlement  deadlines  without  automating  trade  processing  and  removal  or  reduction  of
+manual intervention.
+
+To  overcome  the  difficulties  of  the  manual  processing  and  smoothly  transcend  into  shorter
+settlement  cycles,  it  is  vital  to  have  Straight  through  Processing  (STP)  and  Real  Time  Gross
+Settlement  (RTGS)  in  place.  STP,  the  move  to  automate  trade  processes  from  initiation  to
+execution to settlement, promises to help market participants adapt to changes successfully and
+economically. To assess the feasibility and suitability of introducing STP in Indian markets, SEBI
+set up the Committee on 19-February-2002 under the Chairmanship of Shri R.M. Joshi, Executive
+Director, SEBI.
+
+The  SEBI  Committee  for  implementation  of  STP  in  Indian  markets  was  constituted  with  the
+aforementioned term. The Committee in their first meeting decided to approach the matter under
+reference through following steps:
+
+? 
+
+? 
+? 
+
+Identification  of  components  of  the  current  life-cycle  of  a  trade  that  involves  manual
+intervention
+Identifying and establishing messaging standards for information communication
+Identifying options for establishment of a communications backbone that will enable data
+transfer across participants in a secure and efficient manner.
+
+The Committee comprised the following:
+Shri R.M. Joshi, Executive Director, Securities And Exchange Board Of India
+Shri S. Ganesh Kumar, DGM, Reserve Bank of India
+Shri Vikram Subrahmanyam, Vice-President, Citibank
+Shri Anand Natrajan, Vice-President, Standard Chartered Bank
+Shri Hitendra Patil, Vice-President, Central Depository Services (India) Ltd.
+Shri Jayesh Sule, Vice-President, National Securities Depository Ltd.
+Shri S.T. Gerela, CEO Settlements, The Stock Exchange, Mumbai.
+Shri Raghavan Putran, Director, National Stock Exchange of India Ltd.
+Ms. Nina Nagpal, Vice-President, JM Morgan Stanley Securities India Limited
+The committee also invited other persons from various organizations or associations to provide
+input on various issues.
+
+The committee's mandate has been confined to STP only. The committee has deliberated on a
+few  issues  and  its  report  is  based  on  reducing  manual  intervention  in  the  trade  process,
+reduction of paper and standardization of messaging protocols. However, the report also finds
+mention of issues like RTGS, stamp duty, etc. These are mentioned only as ancillary issues and
+do  not  directly  impact  the  introduction  of  STP.  Report  of  the  committee  regarding  matters
+under reference is produced below:
+
+Components of Post Trade Life Cycle
+In the present system, the client places an order with the broker, who in turn inputs them into
+the screen based trading system of the stock exchanges. After the deal is confirmed, the stock
+exchange gives the data to the broker who prints contract notes from his database for each
+client.  Thus  electronic  form  of  data  is  converted  into  physical  form.  He  also  sends  an  ETC
+(Electronic Trade Confirmation) message to the client, in case of FII trades, who may accept
+or reject the deal based on his internal tolerances. The contract notes are also faxed to the
+clients who input these into their system for valuation and accounting (in case of institutional
+clients). At this time, paper form of data is again converted into electronic form at the clients'
+level. A copy of the contract note is also sent to the local custodian for his record who again
+enters the entire contract note into his system, again resulting in re-entry of the same data.
+The lifecycle of a domestic/cross border trade deal is depicted in Annexure 1.
+
+The  Committee  studied  the  transaction  cycle  and  identified  areas  that  would  require
+automation on a priority basis.
+
+The following were identified for addressal in the first wave:
+?  Broker  contract  note  information  transfer  from  broker-dealer  to  sub-custodian  and  the
+
+mutual fund
+
+?  Pre-match advice to the broker-dealer
+?  Domestic Mutual Funds’  trade data flow to/from the sub-custodian
+
+The  following  elements  of  a  trade  life  cycle  are  automated  to  a  large  extent,  although
+messaging standards tend to be disparate and communication is determined bilaterally:
+
+?  Trade Confirmation between Custodian and Clearing Corporation
+?  Securities  settlement  instruction  between  Custodian/Depository  Participant  and  the
+
+Depository
+
+Contract Notes:
+The  Committee  studied  the  transaction  cycle  and  identified  areas  that  would  require
+automation  on  a  priority  basis.  Contract  Notes  are  currently  generated  in  physical  form  by
+brokers and manually delivered to the investors and custodians. Contract notes are then input
+into transaction processing systems by the investor and the custodian. The process of manual
+generation, delivery and input is operationally cumbersome, and fraught with operational risk,
+especially when volumes increase.
+
+Efficiency improvement in data transfer requires the following:
+?  Delivery of contract note information electronically in a secure and standard form
+?  Legal recognition to a digitally signed electronic contract on the same footing as a physical
+
+contract note.
+
+?  Consequent  to  the  enactment  of  the  Information  Technology  Act,  2000  (with  the
+consequential amendment to the Bankers' Books Evidence Act, 1891), SEBI permitted use
+of electronic contract notes (ECN) in the market as per circular dated December 15, 2000.
+Further,  SEBI  is  already  recommending  to  its  Board  to  allow  maintenance  of  records  in
+electronic form which would cover all the Regulations of SEBI.
+
+Market participants may be permitted to use electronic contract notes subject to them carrying
+the same details as a physical contract note. Also, the new ECN may include features/fields for
+Form  A  and  Form  B  type  of  contract  notes  to  differentiate  between  client  and  proprietary
+trades. The Committee is aware that under the current scenario there is a lack of adequate
+Certifying Agencies (CA) to digitally certify contract notes. However, as implementation of STP
+gets underway, we expect the market to come up with more CAs. An observation made here
+was that there were a few international players having the expertise of generating contract
+notes in electronic form. However, these ECNs were certified by CAs not registered in India. In
+this regard, a reference may also be made to the government to grant legal recognition to
+ECNs certified by an overseas CA as existing players related to capital market are global and
+do  not  have  an  existence  in  India.  The  Committee  has  listed  in  Annexure  III  the  various
+rules and regulations as well as other statutes that require amendment. The Committee is of
+the  opinion  that  SEBI  should  take  steps  to  make  a  reference  to  the  respective  legislative
+authorities so that amendments, if any required, may be done at the earliest.
+
+The members of the committee were of the view that Stamp-duty payable on Contracts may
+need to be waived as a result of the conversion of the Contract Notes to Electronic form. This
+matter  comes  under  the  purview  of  respective  State  Governments  in  which  the  contract  is
+
+executed / initiated. Keeping in view the fact that issuance and maintenance of contract notes
+in  electronic  form  requires  a  considerable  one  time  and  recurring  investment,  imposition  of
+stamp duty would push up the transaction cost which is not desirable and may defeat the very
+purpose of introducing STP. SEBI may, therefore, consider writing to all State Governments for
+relaxing this Stamp-duty so as to reduce the transaction cost.
+
+Communication/connectivity:
+
+During a typical trade, a client initiates a trade request with a broker. The broker, upon receipt
+of the request, handles execution of the trade and then notifies the client as to the outcome.
+During execution, a series of messages are sent back and forth between the client and the
+broker to confirm the trade and provide critical details such as portfolio allocations, quantity
+and pricing. Next, the fund manager / broker must submit this information to the custodian
+bank and proceed through a series of communiqués to settle the trade and transfer money as
+necessary. Bringing together the internal and external processes from execution to settlement
+would  necessarily  involve  multiple  communications  with  multiple  counter  parties.  Thus,  the
+importance of standardized communication format need not be emphasized further. Uniformity
+in computer protocols and messaging standards that are in compliance with best International
+Standards and accommodate both cross border and domestic trading are vital to the success
+of STP. The Committee considered various messaging protocols like FIX, ISO15022, etc. It was
+agreed that given the universality of ISO 15022 messaging standards as a common language
+in  the  financial  services  sector,  ISO  15022  may  be  adopted  as  the  messaging  standard.
+Further upgradations to better standards or more universal standards may be made as and
+when they evolve in the market.
+
+It was recognised that internationally an initiative to migrate to XML standards was under way.
+A  working  group  (WG10)  constituted  by  the  ISO  Committee  in  charge  of  international
+standards for the securities industry is currently working on evolving ISO 15022 to the new
+ISO 15022 XML standards.  The committee recognises that the market may need to migrate at
+a  later  stage  to  the  new  standards.  However  the  new  standards  should  not  hold  back  the
+current migration strategy. It is the opinion of the committee that translation of ISO 15022 to
+ISO 15022 XML is unlikely to be complex.
+
+The group mapped the messaging requirements with the ISO 15022 standards. These were
+found  to  generally  meet  the  Indian  market  requirement.  The  messaging  standards  were
+already  made  public  through  the  approach  paper  released  on  July  19,  2002.  The  same  are
+
+again  given  in  Annexure  IV  after  customizing  them  for  Indian  conditions.  The  ISO15022
+standards  would  require  minor  modifications  to  suit  the  Indian  context.  The  same  is  being
+taken  up  in  the  Securities  Market  Practices  Group  (SMPG)  meetings  to  obtain  a  local  SMPG
+agreement. In India, SMPG is headed by National Securities Depository Ltd.
+
+The Committee deliberated on the carrier of the messages (solution provider) as well as the
+base line security standards that the solution provider should satisfy. The Committee realized
+that  in  absence  of  any  local  solution  provider  the  market  would  have  to  look  towards  the
+international  players.  The  committee  was  of  the  view  that  no  one  shall  be  prohibited  from
+offering  their  services  and  the  market  participants  would  be  free  to  choose  the  solution
+providers.
+
+The Committee also considered various alternatives and their viability which are summarized
+below:
+1. RBI Infinet: This was one of the most preferred options of the members as RBI had a
+network in place which would facilitate banking as well as securities transactions. However,
+RBI was currently targeting Infinet only for the banks and would definitely not allow use of
+Infinet to brokers, funds and institutional investors. In fact, Infinet was devised by RBI only for
+banks  and  banking  related  transactions  with  a  window  for  the  Negotiated  Deal  Segment
+(NDS). In such a scenario, it would not be feasible to recommend Infinet as a communication
+solution.
+
+2. Industry utilities:
+The  stock  exchanges  and  depositories  have  invested  in  substantial  infrastructure  and  have
+connectivity  with  many  market  participants.  These  institutions  could  examine  offering  a
+communication  and  messaging  service  that  meets  the  market  participants’ 
+requirements.
+During the meetings, the Committee was informed by  NSDL that it has set-up an Internet
+based  service  called  SPEED-e.  Using  this  common  infrastructure,  demat  account  holders
+(including  brokers)  can  submit  delivery  instructions  to  their  Depository  Participants  (DPs)
+electronically,  thus  eliminating  the  need  to  submit  instructions  in  paper  form.    The  facility
+features 128 bit SSL for server authentication and data encryption. The facility also features
+Public Key Infrastructure (PKI) whereby the instructions submitted by the account holders are
+digitally signed. The facility allows both interactive and batch file based operation with digital
+signature.
+
+NSDL  further  informed  that  it  is  developing  a  new  module  in  SPEED-e  for  transmission  of
+digitally signed electronic contract notes between brokers and custodians. The custodians will
+
+receive the electronic contract notes in ISO 15022 format. This module could be extended to
+offer further STP solutions to the market.
+
+3. Virtual Private networks (VPNs):
+There  are  various  VPN  service  providers  operating  in  the  country,  who  enable  inter-
+connectivity across market participants by using a public network or a virtual private network
+across participants, with the necessary security protection. Discussions on the matter indicate
+a  prima  facie  feasibility,  from  a  connectivity  perspective,  of  using  these  providers  as
+connectivity enablers.
+
+While provision of a secure means of communication is extremely important and the provider
+must  offer  data  security  or  protection  as  per  standards  that  will  need  to  be  agreed,  the
+following requirements will also need to be incorporated into a VPN based delivery option:
+
+a.  Have adequate disaster recovery systems in place.
+b.  Provide  for  data  validation,  routing  and  audit  trailing  mechanism,  and  maintenance  of
+
+database.
+
+It is again reiterated that the provider would need to satisfy the requirements given in Annexure
+II.
+
+4. Virtual Matching Utilities (VMUs)
+
+International service providers (such as OMGEO) offer trade flow automation services, and have
+expressed  initial  interest  at  extending  this  service  to  the  Indian  market.  These  options  offer
+possibly  the  most  ready  solution  in  the  market.  Reuters  had  also  contacted  SEBI  and  informed
+that they were working on a STP solution globally and that the same could be made available in
+India.
+
+The Committee decided that it would not recommend the cause of any provider. These providers
+are free to offer their services in the market and SEBI would neither encourage nor discourage
+any  of  these  entities.  However,  as  detailed  before,  these  entities  would  have  to  adhere  to  the
+basic communication requirements as laid down in Annexure II.
+
+The Committee members felt that there had to be interconnectivity between various participants
+so that STP could be effected completely i.e. true seamlessness could be achieved. In this regard
+they brought to the notice of SEBI the BSNL (formerly DoT) guidelines that levy a very stiff charge
+for interconnectivity between two Closed-user groups. For e.g. a custodian could not connect his
+
+network directly with the Depository to seamlessly pass settlement instructions. The Committee
+members apprised SEBI that such charges can be waived by BSNL for certain categories of users
+and SEBI may take necessary action in this regard.
+
+In this regard, the ANMI and BSE Brokers Association suggested to the Committee that till such
+time that real time connectivity is established between the depositories, batch runs between the
+depositories may be increased form the current two batches.
+
+Interoperability:
+For an industry wide success of STP, interoperability between alternative solutions/system is
+imperative. The standardization of messaging standards is a step towards achieving this.
+
+VIABILITY AND ROAD MAP FOR STP
+
+During  discussions  of  the  Committee  with  the  other  market  participants  i.e.  fund  managers,
+representatives of Brokers Associations it was pointed out that presently STP is in operation in a
+limited  way.    That  means  there  is  already  some  amount  of  connectivity  between  market
+participants like investors, brokers, custodians and stock exchange/depositories for e.g.  FIIs are
+connected  to  custodian  via  SWIFT  and  some  sort  of  connectivity  between  custodian  and  stock
+exchanges  and  broker  and  stock  exchanges  also  exists.  However,  messaging  standards  are
+different and non-standardised.
+
+Hence, it is a matter of having connectivity with all the markets participants with a common set of
+messaging standard in order to implement STP in real sense. Since it has been decided by the
+committee to adopt ISO 150 22 messaging standard and various alternatives available in the area
+of connectivity amongst the market participants (it is however, reiterated that choosing of solution
+provider  is  left  to  the  market  participants),  the  only  issue  remaining  is  interconnecting  these
+entities so that seamlessness is achieved. In this regard a road map for STP implementation is
+suggested below:
+
+MILESTONES
+
+RESPONSIBILITY COMPLETED
+
+Agree gaps in the current process cycle and
+prioritize automation
+Agree messaging standards and obtain local
+SMPG agreement
+Establish baseline security standards for
+adoption by message carrier
+Publish messaging and security standards
+
+Identify availability of message carrier with a
+service that meets the criteria
+Brokers, custodians and fund houses sign up to
+message carrier
+
+STP Committee
+
+STP Committee
+
+SEBI
+
+SEBI
+
+SEBI
+
+Participants
+
+BY
+31 July 2002
+
+30 September
+2002
+30 September
+2002
+30 September
+2002
+15 September
+2002
+30 October
+2002
+
+Completion of development of messages (and
+interfaces) by brokers and custodians
+Convert to live (inter se pilot fund managers and
+brokers/custodians)
+
+Participants
+
+Participants
+
+20 November
+2002
+02 December
+2002
+
+Key Dependencies/Comments
+
+?  The  carrier  must  be  able  to  deliver  a  consistent  communications  platform  that  meets  the
+
+security criteria recommended, and offers connectivity to all participants.
+
+?  The carrier must be cost-efficient.
+?  While  there  is  no  constraint  on  the  number  of  carriers,  each  carrier  must,  before  launch,
+establish continuous connectivity with other carriers, so that a participant needs only to sign
+up to one carrier.
+
+****
+
+Acknowledgements:
+At the outset, the Committee would like to place on record the appreciation and gratitude to Shri
+D.R. Mehta, former Chairman and Shri G.N. Bajpai, Chairman SEBI for his initiative and inspiration
+and  continuous  encouragement  which  made  the  committee  come  to  its  conclusion  faster  than
+anticipated and provided immense motivation.
+
+The Committee would like to make special mention of Mr. S. Sriram, Manager, UTI Mr. Drupad
+Mahadevia, ANMI and Mr. H. Shriram, Vice President, Prudential ICICI who gave insight into the
+domestic issues that needed to be addressed to implement STP in India. Mr. Ravi Kanth Konteti,
+Vice-President, JP Morgan Investor Services who gave his inputs regarding the role of cross border
+trades and global custody with respect to STP.
+
+The  committee  is  also  thankful  to  all  the  committee  members  without  whose  support,  co-
+operation and comments, this report would not have been possible.
+
+The Committee is also thankful to the staff members of the FII division of SEBI for their assistance
+in organizing the meetings of the committee as well providing all other necessary assistance to
+make this report possible.
+
+Securities Transaction Cycle
+
+Annexure I
+
+T+3
+
+Timeline
+
+Pay-in
+
+Pay-out
+
+T
+
+Trade
+
+T+1
+
+Clearing
+
+GC
+
+RI/FI/FII
+
+LC
+
+TM
+
+RI/FI/FII
+
+RI/FI/FII
+
+LC
+
+Banks
+
+Banks
+
+Contract
+Notes
+
+LC
+
+DPs
+
+DPs
+
+TM
+
+TM
+
+TM
+
+Order
+
+Confirmation
+
+Obligation
+
+Depos
+
+Depos
+
+Depos
+
+SE
+
+Trade
+
+CC
+
+CC
+
+CC
+
+CC
+
+Direct pay-out
+
+RI: Retail Investor, GC:Global Custodian, LC:Local Custodian
+
+InterBanks
+
+InterDepo
+
+Basic Requirements for the communication platform
+
+Annexure II
+
+Description of the service required
+The  primary  requirement  of  this  solution  is  the  provision  of  a  communication  platform,  which
+would have the ability to deliver standardized messages from and to multiple market participants.
+Hence, the target market of the application would be –
+?  Custodians
+?  Brokers
+? 
+
+Investors (Local Institutional Investors –  Mutual Funds / Insurance funds, Foreign Investors
+etc.)
+
+?  Exchanges / Clearing Houses
+?  Depositaries
+?  Banks
+
+The Committee has attempted to arrive at a few basic features that a solution should possess.
+These are listed below:
+
+1)  The application would be hosted by the Solution Provider (SP).
+2)  The  various  entities  (Broker-dealers,  Custodians,  Funds,  Clearing  Houses,  Exchanges  and
+
+Depositaries) would have the ability to access the system / database via various routes –
+a)  Dial Up VPN access.
+b)  Leased line VPN access
+c)  Internet based access
+
+3)  Any  eligible  solution  /  system  being  offered  should  automatically  be  compatible  with  other
+eligible  solutions,  so  as  to  ensure  inter-operability  across  multiple  solutions  so  that  a  single
+market  participant  does  not  have  to  interface  with  multiple  systems.  The  data  transfer
+between the different solutions should be online or near real time.
+
+4)  An eligible solution would facilitate a process flow similar to the following:
+
+a)  Market Participants (MP) would generate files containing messages from their back office
+systems, which would conform to the standards defined by the committee (Appended as
+Annexure IV). Each file could contain multiple messages meant for multiple users, and
+be of various types.
+
+b)  MPs  would  be  able  to  access  the  system  (through  their  preferred  mode  of  access  as
+
+explained above) and upload the said files.
+
+c)  The system would perform basic validations, which would ensure that only valid messages
+compatible with the messaging standards are accepted. Any messages not accepted would
+have to be communicated to the sender with the appropriate reason codes, through the
+use of error queues / error messages etc. Only the specific message would be rejected and
+not the entire file.
+
+d)  Once  the  validation  has  been  performed,  the  system  should  also  be  able  to  identify
+messages  meant  for  users  with  other  providers  and  route  them  to  other  providers  /
+systems (as mentioned in point 3 above).
+
+e)  As  and  when  the  receivers  access  the  system,  they  would  be  able  to  download  the
+
+messages meant for them, which they can then upload into their back office systems.
+
+f)  All messages would be stamped with time and date of dispatch and delivery. Users should
+
+be able to access delivery confirmations of all messages sent to / received by them.
+
+5)  The application / network would have to have the highest level of security as the information
+
+is extremely sensitive:
+a)  At  the  network  levels,  the  channel  would  have  to  be  secure  during  all  transmission,
+whatever  the  mode  of  access.  A  minimum  level  of  128-bit  SSL  encryption  should  be
+maintained.
+
+b)  At  the  application  level  PKI  and  digital  signatures  (using  digital  certificates  issued  by
+recognized  certification  authorities)  would  have  to  be  employed  for  authentication  (non
+repudiation).
+
+c)  Audit trails would be maintained, which would be subject to external audits.
+
+6)  Connectivity provided by the Solution Provider should be as per DoT regulations.
+7)  Redundancies would have to be built in, from a database / network perspective. Contingency
+access options would be made available to users. Disaster recovery solutions are to be made
+available.
+
+8)  Various reports would be made available, e.g. activity reports, error messages, history reports
+etc.  Online  query  access  to  be  provided  to  users.  Audit  trails  would  include  information  of
+messages sent to / received from different systems / platforms.
+
+9)  The system / provider would be subject to audits, by external auditors including SEBI.
+10) Messages and their audit trails would be saved in the database (which would be hosted along
+with  the  application),  for  a  reasonable  period  and  users  should  be  able  to  access  them
+whenever necessary.
+
+11) The user database would be a live database, which continuous updations to the same.
+12) The Solution Provider would have the ability to upgrade and adapt to the changing needs of
+the market / new technology eg. XML standards for messaging, changes in settlement cycles,
+validation routes etc.
+
+Regulations, Rules governing Contract notes
+
+Annexure III
+
+1.  NSE Bye-laws
+
+?  Chapter III  2 (e),  contract note regulations
+?  Chapter VII, Dealings by trading Members  - Jurisdiction
+?  Chapter IX , clause 8 on contract notes
+?  Chapter X- Rights and Liabilities of members and constituents
+?  Chapter XI  - Arbitration
+
+2.  NSE Regulations –  Part A
+?  3.5       Contract Note
+?  5.3A  Jurisdiction of courts
+?  7.1.2     Inspection
+
+3.  BSE Bye-laws
+
+?  219 (a), (b)       Contract notes issued by Firms
+?  223                   Signing of contract notes
+?  226 (a), (b), (c)  Bombay Jurisdiction
+?  274                    Operation of contract notes
+
+4.  BSE Regulations
+
+?  14.2      Form (A) and Form (B) contract notes
+?  14.3      Form (C) confirmation memo issued by Sub-broker acting for clients/ constituents
+?  248 (a), (b), (c), 249 (i. ) (a), (b) –  Arbitration
+?  274       Operation of contract notes
+
+5.  Bombay Stamp Act  1958
+
+?  Articles 43 (f) of schedule I
+
+6.  Service Tax  - As per the Central Sales Tax Act, 1956
+
+?  Section 83 of the Finance Act 1994 (Service Tax) provisions
+
+7.  Securities Contracts (Regulations) Act, 1956
+
+?  Section 13, 14 –  Contracts in notified areas
+
+8.  Securities Contracts (Regulations) Rules, 1957
+
+?  Rules 15-16 Books of Account and other documents maintenance
+
+9.  SEBI (Stock brokers and sub-brokers ) Regulation, 1992
+
+?  17 General obligations and responsibilities
+
+Shri R.M. Joshi
+
+Chairman
+
+Shri P.K. Bindlish
+Member
+
+Shri S. Ganesh Kumar
+Member
+
+Shri Anand Natrajan
+Member
+
+Shri Hitendra Patil
+Member
+
+Shri Jayesh Sule
+Member
+
+Shri S.T. Gerela,
+Member
+
+Shri Raghavan Putran,
+Member
+
+Ms.  Nina Nagpal,
+Member
+
+Shri Vikram Subrahmanyam
+Member
+
+

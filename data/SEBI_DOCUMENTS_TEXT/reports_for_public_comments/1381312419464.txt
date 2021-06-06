@@ -1,0 +1,1035 @@
+Review of policy for trade cancellation / annulment  
+
+Objective  
+
+To review the existing mechanism for trade annulment and seek views and suggestions of the 
+investors and market participants to improve the framework of trade annulment with the view 
+to ensure orderly trading and market integrity. 
+
+A.  Introduction 
+
+1.  The trades undertaken on the stock exchange are treated as final and their settlement is 
+guaranteed  by  the  clearing  corporation  of  the  stock  exchange.  Rules  /  Bye  Laws  / 
+Regulations  of  the  stock  exchange  and  the  clearing  corporation  govern  the  execution 
+and settlement of the trades.  
+
+2.  Stock  exchanges,  however,  under  exceptional  situations  have  annulled  trades 
+undertaken  on  their  platform.  Byelaws  of  Indian  stock  exchanges  empower  them  to 
+annul  trades.  Indian  stock  exchanges  have  annulled  trades  in  the  past  on  account  of 
+fraud  or  wilful  misrepresentation  or  material  mistake  in  the  trade.  Example  of  few 
+instances of trade cancellation are as follows: 
+(a) Trade annulled by stock exchanges on account of erroneous orders / trades 
+
+Stock 
+Exchange  
+
+Sr. 
+No.  
+(i)   BSE 
+
+Details of annulled trades  
+
+Reason  
+
+All  trades  of  equity  derivatives 
+segment on October 26, 2011 were 
+annulled  
+
+Malfunctioning  of  trading 
+algorithm of a stock broker  
+
+(b) Trade annulled by stock exchanges on account of fraud or market manipulation 
+
+Stock 
+Exchange 
+
+Sr. 
+No. 
+(i)   NSE 
+
+(ii)  NSE 
+
+(iii)   BSE 
+
+Details of annulled trades 
+
+Reason 
+
+Trades  executed  in  the  scrip  of 
+Maruti  Organics  Ltd.  in settlement 
+no 1996027 
+Trades  in  Kamal    Overseas  Ltd. 
+from April 23 – April 29, 1997 and  
+April 30 ‐ May 06, 1997 
+Trades in scrip of Balaji Bonds and 
+Holding  Ltd  from  September  11  ‐
+September 22, 2000 
+
+Market manipulation 
+
+Market  manipulation  and 
+falsification of documents 
+
+Delivery  of  Fake 
+certificates 
+
+share 
+
+ 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 1 of 17 
+
+B.  Market manipulation 
+
+3.  A  transparent  and  un‐biased  discovery  of  the  fair  price  of  securities  is  one  of  the 
+important  functions  served  by  the  stock  exchanges.  Stock  exchanges  achieve  this  by 
+bringing  together  interested  buyers  and  sellers  in  an  unbiased,  anonymous  and 
+transparent manner. 
+
+4.  SEBI (Prohibition of Fraudulent and Unfair Trade Practices relating to securities market) 
+Regulations,  2003  define  what  can  construe  as  manipulative,  fraudulent  and  unfair 
+trade practices in Indian Securities Market. 
+
+5.  In  order  to  deter  market  manipulation,  the  stock  exchanges  have  deployed  online 
+surveillance mechanism which involves monitoring positions, prices and volumes in real 
+time.  Effective  investigation  and  penal  actions  against  market  manipulators  further 
+deter market manipulation and improve confidence in the market mechanism. 
+
+C.  Error trades and concerns raised due to error trades  
+
+6.  Error Trades (or freak trades) are not a new problem for the securities market. Securities 
+markets  have  faced  the  challenge  posed  by  error  trades  from  the  days  of  pit‐based 
+trading  when  an  incorrect  hand‐signal  (or  an  incorrect  interpretation  of  the  hand 
+signals) would result in an erroneous purchase/sale of security.  
+
+7.  Advancements in technology have fundamentally changed the way orders are placed by 
+the market participants. In the age of computerised trading, errors have taken the form 
+of fat‐finger errors and system faults (malfunction in trading systems / algorithms of the 
+stock brokers or malfunction in stock exchanges’ trading platforms). While some of such 
+incidents  of  errors  trades  were  observed  to  cause  localised  damage  resulting  in  price 
+variations  in  few  securities,  other  such  incidents  have  impacted  orderly  trading  by 
+causing  large‐scale  and  market‐wide  price  movements,  and  in  certain  cases,  even 
+leading to a situation of default of members. 
+
+8.  "Error Trades" may result from system or human errors with the order parameters such 
+as  ‘name/code  of  the  security’,  ‘volume  to  be  traded’,  ‘price  of  order’,  etc.  Such 
+unintended trades can have an adverse affect on price formation of the securities, and 
+may  even  impact  price  formation  of  the  related  securities  such  as  derivatives  of  the 
+securities,  ETFs,  etc.  Price  volatility  resulting  from  erroneous  trades  can  also 
+automatically  trigger  the  execution  of  contingent  orders  e.g.,  “stop  loss”  orders  or 
+“limit” orders.  
+
+9.  Prevention  of  erroneous  orders  forms  an  important  part  of  the  risk  management 
+framework  of  the  stock  exchanges.  Hygiene  checks  such  as  price  bands  (including 
+dynamic  price  bands),  order  quantity  limit,  value  per  order  limit,  client  /  broker  level 
+trade  limit,  etc  have  been  used  to  avoid  entry  of  erroneous  orders  in  the  stock 
+exchange’s  systems.  In  addition,  upfront  real‐time  margining  and  the  mechanism  of 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 2 of 17 
+
+compulsory risk reduction mode after 90% utilisation of collateral in our markets also 
+help  in  limiting  the  damage  caused  by  erroneous  orders  placed  by  non‐institutional 
+clients.  
+
+D.  Recent instances of erroneous trades  
+
+10. The  following  are  few  of  the  recent  incidents  that  were  observed  in  Indian  securities 
+
+market: 
+
+Date  
+
+Details of the incident  
+
+Sr. 
+No.  
+(i)  
+
+Stock 
+Exchange  
+BSE 
+
+(ii)   NSE 
+
+(iii)   NSE 
+
+October 
+26, 2011  
+
+April  20, 
+2012  
+October 
+05, 2012  
+
+(iv)   NSE 
+
+February 
+01, 2013  
+
+A trading algorithm malfunctioned resulting in a large 
+movement in the SENSEX futures within a span of less 
+than 3 minutes.  
+An error by a trading algorithm resulted in fall in prices 
+of Infosys futures by 19%.  
+On  account  of  erroneous  orders  of  a  stock  broker 
+resulting  in  multiple  trades  for  an  aggregate  value  of 
+over  Rs.  650  crore,  the  Nifty  circuit  breakers  got 
+triggered  and  trading 
+in  the  NSE’s  cash  market 
+segment was halted.  
+Malfunction  of  a  trading  software  of  a  stock  broker 
+resulted  in  erroneous  orders  in  scrips  of  Tata  Motors 
+and UltraTech Cement.  
+
+11. Similar instances of trading disruptions have also been observed in other jurisdictions. 
+
+Few such incidents are:  
+(a)  Flash Crash in US Securities Market on May 06, 2010: Dow Jones Industrial Average 
+Index (a US securities market index) plunged about nine percent and recovered the 
+losses within minutes.  
+
+(b)  Trading  disruption  in  NYSE  on  August  01,  2012  due  to  an  error  with  the  Knight 
+Capital’s trading algorithm – The error caused disruption in prices of 148 stocks and 
+ultimately resulted in Knight Capital bearing a loss of $440million. 
+
+(c)  Cancellation of trades in Kraft Foods undertaken on NASDAQ on October 03, 2012 – 
+A  trading  glitch  caused  by  a  faulty  trading  algorithm  resulted  in  the  company’s 
+shares  to  soar  by  nearly  30  per  cent.  Trades  in  Kraft  food  were  cancelled  by 
+NASDAQ. 
+
+(d)  Trading error on Stockholm Stock Exchange on November 28, 2012: The Stockholm 
+Stock Exchange, which is operated by NASDAQ OMX, was forced to halt trading for 
+four  hours  in  derivatives  on  November  28,  2012  following  an  order  in  OMX30 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 3 of 17 
+
+December future contracts of approximate value of 460 trillion SEK (131 times the 
+nation’s GDP). 
+
+(e)  Erroneous orders placed on August 16, 2013 at Shanghai Stock Exchange: A series 
+of  orders  from  a  broker  caused  the  market  index  to  surge  nearly  6  percent  in  3 
+minutes  before  dropping  back.  The  Chinese  securities  market  regulator  has 
+apportioned the cause to a design flaw in a broker's computer. 
+
+(f) 
+
+Erroneous orders placed at US exchanges by trading system of Goldman Sachs on 
+August 20, 2013: Orders with inaccurate price limits were sent to exchanges due to 
+malfunction of the internal system of Goldman Sachs. 
+
+E.  Mechanism to handle error trades 
+
+12. Erroneous orders / trades may occur despite all preventive measures. Different market 
+authorities  (Regulators  and  Stock  exchanges)  have  adopted  different  approaches  to 
+handle incident of error trades in their jurisdictions. Further, their approach also varies 
+depending on the magnitude and nature of error trades.  
+
+13. The approach adopted by securities market regulators and the stock exchanges can be 
+broadly  categorised  as  (a)  no  modifications  /  cancellations  of  trades,  (b)  price 
+adjustments  of  the  erroneous  trades,  and  (c)  cancellation  of  the  erroneous  trades. 
+Extant framework adopted by Indian stock exchanges on trade cancellation / annulment 
+is placed at Annexure 1. Trade cancellation policies of the some of the stock exchanges 
+in the other jurisdictions are also placed at Annexure 2.  
+
+14. At present, SEBI has not prescribed any regulatory framework with regard to 'annulment 
+of trades'. Indian stock exchanges are empowered by their byelaws to annul trades that 
+they  deem  fit.  A  facility  is  available  to  the  stock  brokers  to  initiate  trade  cancellation 
+request whereupon the counterparty or counterparties to the trade receive the request 
+in an anonymous manner. Such requests are examined on a case‐to‐case basis. 
+
+15. In  the  event,  all  the  parties  to  the  trade  are  in  favour  of  such  annulment,  stock 
+exchanges usually annul such trades after scrutinizing the request. Stock exchange may 
+also on its own decide to annul trades if such annulment is viewed to be in the interest 
+of the market at large. For example, BSE annulled all the trades of its equity derivatives 
+segment on October 26, 2011 when a large downward movement was observed in the 
+SENSEX  futures  due  to  the  malfunctioning  of  trading  algorithm  of  a  stock  broker. 
+Currently, no time limit is prescribed for exchanges to complete the decision to annul or 
+not 
+
+16. Globally,  stock  exchanges  that  have  adopted  a  ‘no  trade  modification  or  cancellation 
+policy' expect the policy to encourage stock brokers to put in place appropriate checks 
+to prevent occurrence of such errors. Further, the policy is also expected to promote 
+market certainty by requiring the stock broker that has committed an error to accept 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 4 of 17 
+
+the  responsibility  and  consequences  of  the  error  trades.  On  the  other  hand,  stock 
+exchanges that allow modification / cancellation of error trades handle such trades as 
+exceptions and have well defined polices to cover errors resulting from either or both 
+human and system fault. Such policy may also cover situations leading to certain degree 
+of  order  imbalances.  Other  set  of  stock  exchanges  have  adopted  a  middle‐path  by 
+defining ‘no‐bust’ ranges above and below the prevailing price within which erroneous 
+trades may not be cancelled under error trade policies. 
+
+F.  IOSCO’s Report on Policies on Error Trades (October 2005) 
+
+17. IOSCO in its report published in October 2005 defined error trades as transactions that 
+are executed in error either due to the actions of a market user or through malfunction 
+of a trading system. The report inter‐alia includes the following recommendations for 
+designing error trade policies: 
+
+Adoption 
+Policies  
+
+of 
+
+  Exchanges should evaluate the need for and consider adopting 
+
+error trade policies.  
+
+  Exchanges  should  have,  and  regulators  should  take  into 
+account,  an  exchange’s  need  for  flexibility  in  the  design  of 
+error trade policies. 
+
+Comprehensiveness    Exchange  error  trade  policies  should  be  comprehensive  in 
+order to promote the predictability, fairness and consistency of 
+actions taken under the policy.   
+
+Predictability 
+Timeliness  
+
+and 
+
+  Policies  concerning  the  resolution  of  error  trades  should  be 
+
+designed to provide a predictable and timely process. 
+
+Transparency 
+
+  Exchange  error  trade  policies  should  be  made  transparent  to 
+
+market users.  
+
+  Cancellation  decisions 
+
+involving  material  transactions  and 
+resulting from the invocation of error trade policies should be 
+made transparent to market users.  
+
+  Exchanges  should  be  encouraged  to  develop  and  adopt 
+measures  to  specifically  identify  or  “highlight”  error  trade 
+messages to market users. 
+
+Cooperation  with 
+other markets 
+
+  Exchanges should be prepared to share information with other 
+
+markets when possible concerning the cancellation of trades. 
+
+Prevention 
+
+  Exchanges should evaluate the need for measures to prevent 
+
+error trades. 
+
+Role  of  the  Market 
+Supervisor 
+
+  Market  supervisors  should  support  the  implementation  of 
+error  trade  policies  that  are  consistent  with  the  above 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 5 of 17 
+
+recommendations.   
+
+  Market  supervisors  should  take  affirmative  steps  to  help 
+ensure  that  there  is  adequate  surveillance  conducted  in  the 
+markets  they  supervise  to  detect  whether  error  trades  are 
+related to problematic market activity. 
+
+ 
+
+G.  Views of Financial Sector Legislative Reforms Commission (FSLRC) 
+
+18. The Commission while discussing on the matter of 'Finality of financial transactions' in 
+its report 'Volume I: Analysis and Recommendations' dated March 2013 has inter‐alia 
+noted  that  "transactions  on  an  Infrastructure  Institution  cannot  be  easily  undone.  In 
+netting  and  settling  systems,  if  any  individual  transaction  is  undone,  all  dependant 
+transactions will also have to be undone. This would create uncertainty for all persons 
+using  such  institutions.  Problems  could  also  arise  on  exchanges  where  trades  are 
+executed at one point of time but the exchange of securities and money happens at a 
+later point of time. If a person refuses to uphold the trade or goes bankrupt after making 
+a trade but before completing it, a transaction may fail. Failure of a transaction in the 
+exchange may have domino effect on other transactions. The Commission is of the view 
+that transactions on an Infrastructure Institution should be final and not undone under 
+any circumstances." (emphasis supplied) 
+
+19. Thus, FSLRC does not appear to be in favour of unwinding of trades as such annulment is 
+usually a complex process that may necessitate cancellation of all dependent / resultant 
+trades.  
+
+H.  Issues for consideration  
+
+20. The broad issues to be deliberated are: 
+
+  Whether it may be justified to cancel / modify trades that have resulted from orders 
+
+designated by stock exchanges as “Valid for execution”? 
+
+  Whether erroneous orders resulting from lapses in internal risk controls of the stock 
+
+broker can qualify for trade annulment? 
+
+21. Stock brokers in Indian securities market are responsible for all the orders placed from 
+their terminals and it is their responsibility to put in place mechanism to ensure that all 
+orders are risk‐managed before being released to the stock exchanges.  
+
+22. In other words, incidents of error related to placement of orders indicate lapses in the 
+risk  management  mechanism  of  the  stock  broker.  A  provision  to  cancel  erroneous 
+trades may prove counterintuitive as it may provide a way to patch‐up things instead of 
+penalizing  the  stock  broker  for  the  fault  of  running  a  weak  risk  management  system. 
+Erroneous trades may point to a need to further strengthen the risk checks at the end of 
+stock brokers and the stock exchanges so as to minimise occurrence of such errors.  
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 6 of 17 
+
+23. While lapses at the end of stock broker should be discouraged and avoided at all costs, 
+there  is  also  a  view  that  large  error  trades  that  impact  the  sanctity  of  the  price 
+formation, may be treated as exception and therefore allowed to be annulled. 
+
+24. A related issue is the ability to identify and establish an order or trade as ‘erroneous’. 
+The issue of establishing erroneous trades/orders is difficult as all orders are validated 
+by  the  stock  exchanges  using  pre‐trade  risk  checks  before  accepting  orders  for 
+matching.  Purely  on  technical  terms,  stock  exchanges  may  find  it  difficult  to  identify 
+whether an order that was received from a stock broker was placed intentionally or the 
+same was resultant of an error.  
+
+25. In  addition  to  the  above,  while  framing  any  policy  related  to  'trade  annulment',  it  is 
+important to consider that a decision to cancel such erroneous trades may impact other 
+large set of market users such as arbitrageurs, who may have taken new positions or 
+liquidated  their  existing  positions  based  on  the  price  formation  post  such  erroneous 
+trades. Such traders/investors may find them at the losing end for no fault of theirs in 
+the event such ‘erroneous’ trades are cancelled or modified.  
+
+26. In order to address some of the adverse consequences of trade cancellation on resultant 
+/ dependant trades, the policy of 'Price Reset of erroneous trades' is an option used in 
+some markets. Such mechanism of Price Reset would involve adjustment of the price of 
+the  executed  trades  to  a  new  'Determined  Price’.  For  example,  stock  exchanges  may 
+adjust  the  price  of  error  trades  to  the  Volume  Weighted  Adjusted  Price  of  last  30 
+minutes. 
+
+27. The process of price reset may prove to be less disruptive to the market as it would not 
+involve annulling error trades, and thereby, would be less damaging to the market users 
+who may have taken new positions or liquidated their existing positions based on the 
+price formation post erroneous trades. 
+
+I.  Proposal 
+
+28. In  view  of  the  foregoing  and  with  the  objective  to  have  a  uniform  policy  for  trade 
+
+annulment, the following is proposed: 
+(i) 
+
+In  order  to  provide  certainty  to  the  trades  executed  on  the  stock  exchange's 
+trading platform, the trades should not be annulled under normal circumstances. 
+Trade  annulment  should  only  be  considered  under  exceptional  circumstances 
+(fraud, market manipulation, regulatory action, error that impact the sanctity of 
+price discovery, etc). In such cases stock exchange may also suo‐moto undertake 
+examination of trades for cancellation. 
+
+(ii) 
+
+Stock  exchange  shall  clearly  define  the  circumstances  under  which  request  for 
+trade annulment or price reset shall be entertained. Such situations may include 
+(a) where all counterparties to the trades (erroneous trades) are in agreement 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 7 of 17 
+
+for such an action and there are no apparent concerns of market manipulation, 
+or (b) where all the market participants may not be in favour of such action but 
+erroneous  /  manipulative  trades  have  resulted  in  severe  market  disruption, 
+thereby, impacting the sanctity of the related and resultant trades. 
+
+Stock exchange shall define minimum parameters to identify erroneous orders / 
+trades. 
+
+The framework prescribed by the stock exchange shall specify who can invoke 
+the mechanism (e.g. stock brokers, clearing members, clients, etc) and provide 
+details on the procedure to invoke the mechanism. 
+
+Stock exchange shall specify the time within which such request for annulment 
+or price reset shall be received (say 30 minutes from the trade execution). 
+
+On receipt of such request for annulment, stock exchanges shall suitably and in a 
+timely manner inform other market participants of such request.  
+Stock exchange shall analyse the potential effect of trade annulment within the 
+segment,  across  segments  and  preferably  across  stock  exchanges.  Stock 
+exchange  may  also  consider  to  undertake  a  price  reset  of  the  trades,  if  price 
+reset is less disruptive than trade annulment. 
+
+(iii) 
+
+(iv) 
+
+(v) 
+
+(vi) 
+
+(vii) 
+
+(viii) 
+
+Stock  exchange  shall  adopt  a  transparent  and  time‐bound  approach  to  decide 
+upon  such  cases  /  requests  (say,  before  settlement  becomes  final  and 
+irrevocable).  
+
+(ix)  While deciding upon the request for trade annulment or price reset, the stock 
+exchanges  shall  indicate  the  status  of  the  contingent  trades  (i.e.,  trades  that 
+resulted  as  an  outcome  of  error  trades),  combination  trades  and  trades  of 
+related securities post trade cancellation or price reset. Stock exchange may also 
+consider to annul the complete trading session across segments, if required, to 
+ensure sanctity of the process of price discovery. 
+
+(x) 
+
+(xi) 
+
+(xii) 
+
+Stock  exchanges  shall  examine  cases  of  erroneous  orders  /  trades  and  apply 
+deterrent penalties in form of fines or suspension of trading rights of the stock 
+broker. 
+
+Stock exchange shall publish the details of its decision on the website and shall 
+share such details with other stock exchanges. 
+
+Stock  exchange  shall  also  provide  a  mechanism  to  request  a  review  of  its 
+decision.  
+
+ 
+
+ 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 8 of 17 
+
+Request for Public Comments 
+
+Public  comments  are  invited  on  the  above  proposals.  The  comments  may  be  emailed  on  or 
+before October 31, 2013 to maninderc@sebi.gov.in or sent by post to:‐ 
+
+Ms. Maninder Cheema 
+Deputy General Manager, 
+Market Regulation Department ‐ Division of Policy, 
+Securities & Exchange Board of India, 
+SEBI Bhavan, Plot No. C4‐A, "G" Block, 
+Bandra Kurla Complex, Bandra (East), 
+Mumbai, India ‐ 400 051. 
+ 
+
+ 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 9 of 17 
+
+Policy on annulment of trades in Indian securities market 
+
+Annexure 1 
+
+1.  NSE 
+
+ 
+
+The trading systems of Capital Market, Equity derivatives and Currency derivatives of 
+the exchange provides a facility to a member to initiate a trade cancellation request in 
+electronic form whereupon the member on the other side of the trade receives the 
+details of the trade cancellation request in an anonymous manner.  
+
+  Upon receiving trade cancellation requests from both the buying and selling members, 
+such requests are scrutinized and processed by the exchange based on the guidelines 
+laid down by the exchange. 
+
+  Where the request is not accepted by the member on the other side of the trade: No 
+
+further processing is done and the request stands ipso facto rejected. 
+
+  Where  the  request  is  accepted  by  the  member  on  the  other  side  of  the  trade:  The 
+details of such trades are scrutinized by the Exchange and based on various details of 
+the relevant trade, the trade cancellation request is further examined and evaluated 
+by the Exchange, if the request is found to be eligible. The following criteria are applied 
+to ascertain eligibility of a request: 
+(a)  The initiation of the trade cancellation request and acceptance by the member on 
+the other side of the trade should take place within fifteen minutes after the close 
+of normal market. 
+
+(b)  Members  will  be  required  to  fax  their  trade  cancellation  requests  as  per  the 
+
+format specified. 
+
+(c)  Where the initiating member and the member on the other side of the trade for a 
+trade cancellation request is the same, such request shall not be entertained by 
+the Exchange and shall consequently be not processed by the Exchange. 
+
+(d)  The  Exchange  may  seek  additional  information  from  such  members  for  further 
+scrutiny,  if  found  necessary. This  information  may  relate  to  use  of  the  facilities 
+extended  by  the  Exchange  as  safety  measure  such  as  order  limits,  market  price 
+protection etc. Accordingly, members are advised to make prudent use of the said 
+features to minimize the possibility of errors. 
+
+If a request made by a member is found to be ineligible on any of the above accounts, 
+then the request is ipso facto rejected. If the request made by the member is found to 
+be eligible, i.e. meeting the criteria laid down above, it is dealt with in accordance with 
+the evaluation policy of the Exchange. 
+
+ 
+
+ 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 10 of 17 
+
+2.  BSE 
+
+  Byelaw 193 of Cash Segment:  
+
+(a) 
+
+The Governing Board may, on its own motion or pursuant to an application by 
+any person, annul a bargain or several bargains falling within any particular class 
+of bargains if the Governing Board is satisfied that there exists sufficient cause to 
+do so. Such annulment shall be final and shall come into force forthwith. 
+
+(b)  The expression “sufficient cause” in clause (a) above shall, without prejudice to 
+the  generality  of  the  expression,  include  fraud,  wilful  misrepresentation  or 
+material mistake. 
+
+(c) 
+
+The  Governing  Board  may,  subject  to  such  terms,  conditions,  limitations  and 
+procedures as it may prescribe, delegate all or some of its powers under this bye‐
+law  to  the  Executive  Director  or  committee(s)  as  headed  by  the  Executive 
+Director as the Governing Board thinks fit and proper. 
+
+  Byelaw of 1.46 of Derivatives segment:  
+
+(a) 
+
+The Governing Council and/or the Chief Executive Officer and/or any committee 
+empowered by the Governing Council in this behalf may, on its own motion or 
+pursuant to an application by any person, annul a trade or several trades falling 
+within any particular class of trades if the Governing Council, the Chief Executive 
+Officer or such committee is satisfied that there exists sufficient cause to do so. 
+Such annulment shall be final and shall come into force forthwith. 
+
+(b)  The expression "sufficient cause" in clause (a) above shall, without prejudice to 
+the  generality  of  the  expression,  include  fraud,  wilful  misrepresentation  or 
+material mistake. 
+
+(c) 
+
+The Derivatives Segment shall make Regulations relating to annulment of trades. 
+Such Regulations shall specify the parameters for defining a class of trades.  
+
+3.  MCX‐SX 
+
+ 
+
+The  trading  system  of  the  Exchange  has  a  facility  to  initiate  a  trade  cancellation 
+request by members in electronic form whereupon the counterparty member on the 
+other  side  of  the  trade  receives  the  details  of  the  trade  cancellation  request  in  an 
+anonymous manner. Upon receiving trade cancellation requests from both the buying 
+and  selling  members,  such  requests  are  scrutinized  and  processed  by  the  Exchange 
+based on guidelines laid down by the stock exchange. 
+
+  Regulation 3.4.7 of Currency Derivatives Segment is reproduced below: 
+
+"3.4.7. Where a trade cancellation is permitted and Trading Member wishes to cancel a 
+trade, it may be done only with the approval of the CD Segment of the Exchange and in 
+the following manner: 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 11 of 17 
+
+(a) 
+
+The  Trading  Member  wishing  to  cancel  the  trade  shall  initiate  a  cancellation 
+request to the CD Segment of the Exchange. The counter Trading Member to the 
+trade, too, shall have to put in his cancellation request separately. 
+
+(b)  Where a Trading Member initiates such request the onus shall be on the Trading 
+
+Member to ensure that he receives a written request from the constituent. 
+
+(c)  Where a trade cancellation request comes to CD Segment of the Exchange from 
+only one party to trade and is pending with the CD Segment of the Exchange as a 
+result of it being not confirmed by the counter party to such trade till such time 
+as  may  be  notified  by  the  CD  Segment  of  the  Exchange,  such  request  may  be 
+cancelled at the discretion of the CD Segment of the Exchange. 
+
+(d)  The  CD  Segment  of  the  Exchange  shall  not  consider  any  request  for  a  Trade 
+Cancellation after such period after the market close on a trading day as may be 
+notified from time to time. 
+
+(e) 
+
+(f) 
+
+The  CD  Segment  of  the  Exchange  shall  not  give  the  reasons  for  rejection  or 
+approval of any such trade cancellation request. 
+
+The  CD  Segment  of  the  Exchange  may  cancel  a  trade  suo‐moto  without  any 
+request  by  either  of  the  parties  to  the  trade  at  any  time  without  giving  any 
+reason thereof which cancellation shall be final and binding up on the parties to 
+the trade. In the event of such cancellation, Trading Member shall be entitled to 
+cancel relative contract(s) with his constituents." 
+
+If the counterparty trading member does not accept the trade cancellation request, no 
+further processing will be done and the trade cancellation request stands rejected. In 
+case the counter party accepts the trade cancellation request, details of such trades 
+will be scrutinized by the Exchange based on following criteria: 
+
+The initiation of the trade cancellation request and acceptance by the counter party 
+member on the other side of the trade should take place within reasonable time (15 
+minutes) after the close of normal market 
+
+Trade cancellation request is not self‐trade (same member on both side) 
+
+The  initiating  member  will  provide  in  writing  that  the  erroneous  trade  is  due  to 
+genuine punching error and will have to give evidence of the trade in the correct series 
+along  with  the  request,  if  such  request  for  trade  cancellation  is  due  to  trades  in 
+erroneous series. 
+
+The  Exchange  may  seek  additional  information  from  such  members  for  further 
+scrutiny, if found necessary. Such trade cancellation request will be further examined 
+and evaluated by the Exchange. If the request is found to be eligible and based on the 
+merits of the case such request may be considered for cancellation. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 12 of 17 
+
+Policy of the stock exchanges related to 'trade's annulment' in other jurisdictions  
+
+Annexure 2 
+
+1.  Singapore  
+
+(i)  Cash Segment:  
+
+(a)  Trading Member who makes the error must immediately contact the counterparty 
+Trading  Member  and  seek  its  agreement  to  cancel  the  trade.  They  must  then 
+inform SGX‐ST of the error by both telephone (within 30 minutes of error occurred) 
+and in writing (on the same day with details on the security name, price, volume, 
+trade number, time of error trade and reasons for error).  
+
+(b)  SGX‐ST may review the error trade if both Trading Members cannot agree to the 
+
+cancellation of an error trade and the trade loss is more than S$5000.  
+
+(ii)  Listed Futures and Options:  
+
+(a)  In the event of an error trade, the Exchange will only exercise its discretion to  
+
+  cancel an error trade partially or fully; or  
+  adjust the trade price of the error trade partially or fully to the nearest limit of 
+the error trade price range (if the trade price falls outside the error trade price 
+range for the Contract for that day)  
+
+2.  Taiwan 
+
+(i)  There is no trade cancellation mechanism in Taiwan.  
+(ii)  The only exception is trading in incorrect accounts, where brokers can just cancel and 
+
+correct the trading accounts.  
+
+(iii)  For  other  errors,  brokers  can  only  book  to  its  error  account  and  unwind  from  the 
+
+market. 
+
+3.  Japan 
+
+(i)  Where  a  transaction  is  affected  because  of  an  erroneous  order,  if  it  is  extremely 
+difficult to conduct the settlement and the Exchange deems that the market is likely to 
+be  confused,  the  Exchange  may  cancel  the  transaction  specified  by  the  Exchange  as 
+prescribed by the Exchange.  
+
+(ii)  Where  transaction  records  in  the  Exchange's  systems  are  lost  due  to  unavoidable 
+reasons including act of providence, if the Exchange deems it difficult to restore all the 
+lost  records,  the  Exchange  may  cancel  transactions  which  it  designates  on  a  case  by 
+case basis.  
+
+(iii)  Where  the  Exchange  cancels  a  transaction,  such  transaction  shall  be  deemed  as  if  it 
+
+were never affected at all.  
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 13 of 17 
+
+(iv)  Even  where  a  trading  participant  suffers  damage  because  the  Exchange  cancels  a 
+transaction, the trading participant shall be unable to claim for compensation for the 
+damage against the trading participant which has placed an erroneous order; provided, 
+however,  that  the  same  shall  not  apply  to  cases  where  deliberate  action  or  gross 
+negligence is deemed to have been seen in a trading participant.  
+
+(v)  Where  a  trading  participant  suffers  damage  because  the  Exchange  cancels  a 
+transaction, the trading participant shall be unable to claim for compensation for the 
+damage  against  the  Exchange;  provided,  however,  that  the  same  shall  not  apply  to 
+cases where deliberate action or gross negligence is deemed to have been seen in the 
+Exchange. 
+
+4.  UK (London) 
+
+(i)  Where  an  erroneous  order  is  executed,  the  member  firm  may  submit  a  request  to 
+contra i.e. cancel the trade, however, the other side of the trade is under no obligation 
+to  agree  to  the  contra.  As  the  trading  on  Exchange  is  anonymous  this  process  is 
+intermediated by the Exchange.  
+
+(ii)  Exchange enforced cancellations ‐This may occur in two scenarios (a) where the parties 
+don't  agree  to  a  contra,  a  member  firm  can  request  an  enforced  cancellation;  or  (b) 
+where the Exchange acts on its own volition. In considering a cancellation, the Exchange 
+has regard to the following:  
+‐ only considers requests relating to on order book executions;  
+‐requests must be made within 30 minutes;  
+‐trades must be manifestly erroneous and have impact on the market;  
+‐the potential loss must be at least £100,000 for a single stock and at least £200,000 for 
+more than one stock. 
+
+(iii) Some of the MTFs have much simpler rules where, for example, trades are automatically 
+bust  if  they  are  executed  at  more  than  a  fixed  percentage  (e.g.  5%)  away  from  the 
+reference price. 
+
+5.  NYSE ARCA 
+
+(i)  "Clearly  Erroneous  Executions":  when  there  is  an  obvious  error  in  any  term,  such  as 
+price,  number  of  shares  or  other  unit  of  trading,  or  identification  of  the  security.  A 
+transaction made in clearly erroneous error and cancelled by both parties or determined 
+by the Corporation to be clearly erroneous will be removed from the Consolidated Tape. 
+(ii)  Requests for review must be received within thirty (30) minutes of execution time and 
+shall include information concerning the time of the transaction(s), security symbol(s), 
+number of shares, price(s), side (bought or sold), and factual basis for believing that the 
+trade  is  clearly  erroneous.  Upon  receipt  of  a  timely  filed  request  that  satisfies  the 
+numerical  guidelines  of  the  Rule,  the  counterparty  to  the  trade  is  notified  by  the 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 14 of 17 
+
+Corporation  as  soon  as  practicable,  but  generally  within  30  minutes.  An  Officer  may 
+request additional supporting written information to aid in the resolution of the matter. 
+If requested, each party to the transaction shall provide, within thirty (30) minutes of 
+the request, any supporting written information. Either party to the disputed trade may 
+request the supporting written information provided by the other party on the matter. 
+
+(iii) Other market centres will generally have an additional 30 minutes from receipt of their 
+participant's timely filing, but no longer than 60 minutes from the time of the execution 
+at  issue,  to  file  with  the  Exchange  for  review  of  transactions  routed  to  the  Exchange 
+from that market centre and executed on the Exchange. 
+
+(iv)  A transaction executed during the Core Trading Session or the Opening and Late Trading 
+Session shall be found to be clearly erroneous if the price of the transaction to buy (sell) 
+that is the subject of the complaint is greater than (less than) the Reference Price by an 
+amount that equals or exceeds the Numerical Guidelines set forth below. The Reference 
+Price  will  be  equal  to  the  consolidated  last  sale  immediately  prior  to the  execution(s) 
+under review except for: (A) Multi‐Stock Events involving twenty or more securities, (B) 
+transactions  not  involving  a  Multi‐Stock  Event  that  trigger  a  trading  and  subsequent 
+transactions in which case the Reference Price shall be determined in accordance with 
+the  defined  rule;  and  (C)  in  other circumstances,  such  as,  for  example,  relevant  news 
+impacting  a  security  or  securities,  periods  of  extreme  market  volatility,  sustained 
+illiquidity,  or  widespread  system  issues,  where  use  of  a  different  Reference  Price  is 
+necessary  for  the  maintenance  of  a  fair  and  orderly  market  and  the  protection  of 
+investors and the public interest. 
+
+‐ 
+
+Reference Price, Circumstance or 
+Product: 
+Between $0.00 and $25.00 
+Between $25.01 and $50.00 
+Greater than $50.00 
+Multi‐Stock 
+Event 
+Filings 
+involving  five  or  more,  but  less 
+than  twenty,  securities  whose 
+executions  occurred  within  a 
+period of five minutes or less 
+Event 
+Multi‐Stock 
+‐ 
+Filings 
+involving 
+twenty 
+or  more 
+securities  whose 
+executions 
+occurred  within  a  period  of  five 
+minutes or less 
+Leveraged ETF/ETN securities 
+
+Core Trading Session 
+Numerical Guidelines 
+(Subject transaction's % 
+difference from the 
+Reference Price: 
+10% 
+5% 
+3% 
+10% 
+
+Opening and Late Trading 
+Session Numerical 
+Guidelines (Subject 
+transaction's % difference 
+from the Reference Price: 
+
+20% 
+10% 
+6% 
+10% 
+
+30%, subject to the certain 
+
+conditions  
+
+30%, subject to the certain 
+
+conditions  
+
+  
+
+Core Trading Session 
+Numerical Guidelines 
+
+multiplied by the leverage 
+
+multiplier (i.e. 2x) 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 15 of 17 
+
+(v)   Multi‐Stock  Events  Involving  Twenty  or  More  Securities:  During  Multi‐Stock  Events 
+involving twenty or more securities the number of affected transactions may be such 
+that immediate finality is necessary to maintain a fair and orderly market and to protect 
+investors  and  the  public  interest.  In  such  circumstances,  the  Exchange  may  use  a 
+Reference Price other than consolidated last sale. With the exception of those securities 
+under  review  that  are  subject  to  an  individual  security  trading  pause,  and  to  ensure 
+consistent  application  across  market  centres  when  this  paragraph  is  invoked,  the 
+Exchange  will  promptly  coordinate  with  the  other  market  centres  to  determine  the 
+appropriate review period, which may be greater than the period of five minutes or less 
+that triggered application of this paragraph, as well as select one or more specific points 
+in time prior to the transactions in question and use transaction prices at or immediately 
+prior  to  the  one  or  more  specific  points  in  time  selected  as  the  Reference  Price.  The 
+Exchange will nullify as clearly erroneous all transactions that are at prices equal to or 
+greater  than  30%  away  from  the  Reference  Price  in each affected  security  during  the 
+review  period  selected  by  the  Exchange  and  other  markets  consistent  with  this 
+paragraph. 
+
+(vi) Additional  Factor: Except  in  the  context  of  a  Multi‐Stock  Event  involving  five  or  more 
+securities,  and  individual  security  trading  pauses  below  an  Officer  may  also  consider 
+additional factors to determine whether an execution is clearly erroneous, including but 
+not limited to, system malfunctions or disruptions, volume and volatility for the security, 
+derivative securities products that correspond to greater than 100% in the direction of a 
+tracking  index,  news  released  for  the  security,  whether  trading  in  the  security  was 
+recently  halted/resumed,  whether  the  security  is  an  IPO,  whether  the  security  was 
+subject  to  a  stock‐split,  reorganization,  or  other  corporate  action,  overall  market 
+conditions,  Opening  and  Late  Session  executions,  validity  of  the  consolidated  tapes 
+trades  and  quotes,  consideration  of  primary  market  indications,  and  executions 
+inconsistent  with  the  trading  pattern  in  the  stock.  Each  additional  factor  shall  be 
+considered with a view toward maintaining a fair and orderly market and the protection 
+of investors and the public interest. 
+
+6.  CME 
+
+(i)  CME in its absolute and sole discretion, may adjust trade prices or cancel any trade if it 
+believes that allowing the trade(s) to stand as executed could have a material, adverse 
+effect on the integrity of the market. 
+
+7.  CFTC (Proposed Rule) 
+
+(i)  Trading platforms must establish policies for adjusting the price of trades or breaking 
+
+trades that have been executed due to an error.  
+
+(ii)  Policies must favor price adjustments rather than trade cancellation.  
+(iii) To  the  extent  possible,  decisions  by  the  trading  platform  to  be  made  on  the  basis  of 
+
+readily available objective criteria in order to facilitate rapid or immediate decisions. 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 16 of 17 
+
+(iv) Market participants must report error trades to the trading platform within five minutes 
+
+after the trades are executed.  
+
+(v)  Trading platforms must notify market participants of a potential adjust‐or‐bust situation 
+
+immediately.  
+
+(vi) Trading platforms must make a decision and notify market participants of that decision 
+
+within a specified period of time.  
+
+ 
+
+Securities and Exchange Board of India  
+
+ 
+
+Page 17 of 17 
+
+

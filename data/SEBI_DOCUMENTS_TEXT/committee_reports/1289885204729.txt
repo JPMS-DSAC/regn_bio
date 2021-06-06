@@ -1,0 +1,1908 @@
+                                                                                                      
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+THE RBI-SEBI STANDING TECHNICAL COMMITTEE 
+
+REPORT OF 
+
+ON 
+
+INTEREST RATE FUTURES 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+RESERVE BANK OF INDIA 
+
+AND 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+JUNE 2009
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+Contents 
+
+ 
+
+ 
+
+1 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+2             
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+Page. No 
+
+ 
+
+ 
+
+ 
+
+4  
+
+ 
+
+ 
+
+9 
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chapter 
+ 
+Background  
+1.1 Brief Overview of the Debt Market in India 
+1.2 Need for Interest Rate Futures 
+1.3 Benefits of Exchange-Traded Interest Rate Derivatives 
+1.4 Constitution of the Group 
+1.5 Terms of Reference 
+1.6 Acknowledgement 
+
+Product Design, Margins and Position Limits for 
+ 
+10-Year Notional Coupon-bearing Government of    
+India (GoI) Security Futures   
+2.1 Underlying 
+2.2 Coupon  
+2.3 Trading Hours 
+2.4 Size of the Contract 
+2.5 Quotation 
+2.6 Tenor of the Contract 
+2.7 Available Contracts 
+2.8 Daily Settlement Price 
+2.9 Settlement Mechanism 
+2.10 Deliverable Grade Securities  
+2.11 Conversion Factor 
+2.12 Invoice Price 
+2.13 Last Trading Day 
+2.14 Last Delivery Day 
+2.15 Initial Margin 
+2.16 Extreme Loss Margin  
+
+Page 2 of 28 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+3 
+ 
+
+ 
+
+ 
+4 
+ 
+5 
+ 
+
+ 
+
+ 
+
+ 
+
+2.17 Calendar Spread Margin 
+2.18 Model for Determining Standard Deviation 
+2.19 Formula for Determining Standard Deviation 
+2.20 Position Limits 
+ 
+Risk Management Measures 
+3.1 Introduction 
+3.2 Portfolio Based Margining 
+3.3 Real-Time Computation 
+3.4 Liquid Networth 
+3.5 Liquid Assets 
+3.6 Mark-to-Market Settlement 
+3.7 Margin Collection and Enforcement 
+3.8 Safeguarding Client’s Money 
+3.9 Periodic Risk Evaluation Report 
+ 
+Regulatory and Legal aspects 
+
+ 
+
+ 
+
+ 
+
+Miscellaneous Issues 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+ 
+
+ 
+
+18 
+
+  
+
+ 
+
+ 
+
+22 
+
+23 
+
+Annex A (Illustration of margin computation)                     24                
+ 
+Annex B (List of Committee Members) 
+ 
+ 
+ 
+
+            27 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 3 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+Chapter 1 
+
+ 
+
+ 
+
+Background 
+
+ 
+
+1.1  Brief Overview of the Debt Market in India 
+
+Debt market comprises the primary as well as the secondary market for 
+debt instruments - both sovereign and corporate. A well functioning debt 
+market  is  critical  for  inter-temporal  resource  allocation  and  is  therefore 
+significant for all economic agents. 
+
+ 
+
+The  development  of  financial  markets  started  in  the  early  1990’s.  Since 
+then,  a  series  of  reforms  -  both  structural  as  well  as  institutional  –  have 
+been initiated with a view to having market determined interest rates. The 
+other  objectives  of  these  reforms  have  been  to  improve  transparency, 
+efficiency and accessibility of the debt market.  
+ 
+The  Government  started  the  reforms  by  borrowing  from  the  market  at 
+rates determined through auctions. Previously, this was being carried out 
+at  pre-announced  rates.  Other  reforms  include  introduction  of  new 
+instruments  such  as  -    zero  coupon  bonds,  floating  rate  bonds,  capital 
+index  bonds;  establishment  of  specialized  institutions  such  as  Discount 
+and Finance House of India (DFHI) and Securities Trading Corporation of 
+India  (STCI),  setting  up  of  the  Negotiated  Dealing  System  (NDS),  
+implementation  of  the  Patil  Committee  recommendations  for  corporate 
+bonds, etc.  
+ 
+While  these  reforms  have  resulted  in  increased  trading  volumes  in  the 
+debt market (total turnover in Government of India (GoI) dated securities 
+increased from Rs. 1,770,980 crore in 2006-07 to Rs. 2,957,070 crore in 
+2007-08), yet the trading volume has remained low in comparison to the 
+
+Page 4 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+developed markets. There is a strong need to further deepen and widen 
+the market by offering a wide range of products. 
+ 
+
+ 
+
+1.2   Need for Interest Rate Futures 
+
+Interest  rate  risk  affects  not  only  the  financial  sector,  but  also  the 
+corporate and household sectors. As observed in the Report on Interest 
+Rate Futures, banks, insurance companies, primary dealers and provident 
+funds  bear  a  major  portion  of  the  interest  rate  risk  on  account  of  their 
+exposure to government securities. As such these entities need a credible 
+institutional hedging mechanism1. Today, with a large stock of household 
+financial savings on the assets side and an increasing quantum of housing 
+loans  on  the  liabilities  side,  interest  rate  risk  is  becoming  increasingly 
+important  for  the  household  sector  as  well.  Moreover,  because  of  the 
+Fisher effect2, interest rate products are the primary instruments available 
+to  hedge  inflation  risk  which  is  typically  the  single  most  important 
+macroeconomic  risk  faced  by  the  household  sector3.  In  this  context, 
+therefore, it is important that the financial system provides the household 
+sector  greater  access  to  interest  rate  risk  management  tools  through 
+Exchange-Traded interest rate derivatives.  
+
+ 
+1.3  Benefits of Exchange-Traded Interest Rate Derivatives 
+
+Interest  rate  futures,  a  derivative  instrument  with  linear  pay-offs,  provide 
+benefits typical to any Exchange-Traded product, such as:  
+a.  Standardization  –  Through  standardization,  the  Exchanges  offer 
+the  utility  and 
+
+market  participants  a  mechanism 
+effectiveness of different positions and strategies.  
+
+for  gauging 
+
+                                                 
+1  RBI Report on Interest Rate Futures (August 2008) 
+2  “Fisher effect” implies that ceteris paribus, increase in expected inflation rate leads to an 
+
+increase in the nominal interest rate. 
+
+3  Exchange-traded Interest Rate Derivatives in India, Consultative Document, SEBI, March 2003. 
+
+Page 5 of 28 
+
+ 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+b.  Transparency  –  Transparency,  efficiency  and  accessibility 
+
+is 
+accentuated through online real time dissemination of prices available 
+for all to see and daily mark-to-market discipline. 
+
+c.  Counter-party  Risk  –  The  credit  guarantee  of  the  clearing  house 
+eliminates counter party risk thereby increasing the capital efficiency of 
+the market participants. 
+ 
+
+1.4  Constitution of the Group 
+
+With  the  expected  benefits  of  Exchange-Traded  interest  rate  futures,  it 
+was  decided  in  a  joint  meeting  of  RBI  and  SEBI  on  February  28,  2008, 
+that  an  RBI-SEBI  Standing  Technical  Committee  on  Exchange-Traded 
+Currency  and  Interest  Rate  Derivatives  would  be  constituted.  The 
+Committee  submitted  its  Report  on  Exchange-Traded  Currency  Futures 
+on May 29, 2008. 
+ 
+The  Committee  is  constituted  with  the  following  officials  from  RBI  and 
+SEBI: 
+i. 
+ 
+ii.  Shri Nagendra Parakh 
+
+Shri Manas S. Ray  
+
+-CGM, SEBI 
+
+ 
+
+ 
+
+ 
+
+-ED, SEBI 
+
+ 
+
+ 
+
+ 
+
+iii.  Dr. Sanjeevan Kapshe 
+
+iv.  Dr. K.V.Rajan   
+ 
+v.  Shri Prashant Saran*   
+
+ 
+
+ 
+
+vi.  Shri Salim Gangadharan 
+ 
+vii.  Shri Chandan Sinha   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-OSD, SEBI 
+
+-CGM,  RBI 
+
+-CGM, RBI 
+
+-CGM,  RBI 
+
+-CGM, RBI 
+
+Page 6 of 28 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+viii.  Shri H.S. Mohanty 
+
+ 
+
+-DGM, RBI 
+
+ 
+
+ 
+
+ 
+
+1.5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ix.  Shri Sujit Prasad 
+ 
+*Shri Prashant Sharan has since joined SEBI as a Whole Time Member 
+on May 18,2009 
+
+-GM, SEBI (Member-Secretary) 
+
+Terms of Reference 
+The Committee was given the following terms of reference: 
+
+ 
+
+i. 
+
+ii. 
+
+To  coordinate  the  regulatory  roles  of  RBI  and  SEBI  in  regard  to 
+trading of Currency and Interest Rate Futures on the Exchanges.  
+To suggest the eligibility norms for existing and new Exchanges for 
+Currency and Interest Rate Futures trading. 
+
+iii.  To suggest eligibility criteria for the members of such exchanges. 
+iv.  To  review  product  design,  margin  requirements  and  other  risk 
+
+mitigation measures on an ongoing basis 
+
+v.  To  suggest  surveillance  mechanism  and  dissemination  of  market 
+
+information 
+
+vi.  To consider microstructure issues, in the overall interest of financial 
+
+stability. 
+
+ 
+With  a  view  to  operationalising  the  Interest  Rate  Futures  products,  the 
+Committee  deliberated  upon  the  recommendations  of  the  Technical 
+Advisory Committee Report on Interest Rate Futures (August 2008). The 
+Report  had  primarily  focused  on  introduction  of  a  physically  settled 
+Interest Rate Futures contract on 10 year GoI coupon bearing security. It 
+had  also  recommended  retention  of  the  contract  based  on  91-day 
+Treasury  Bills  (introduced  in  2003)  with  some  modification  in  the 
+settlement price and consideration of a contract based on some suitable 
+index of money market rates. The High Level Coordination Committee for 
+
+Page 7 of 28 
+
+ 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+Financial  Markets  (HLCCFM)  has  decided  that  (1)  futures  based  on  the 
+91-day Treasury Bills may be considered later as deemed appropriate and 
+(2)  futures  based  on  the  overnight  rate  may  not  be  introduced. 
+Accordingly,  the  operational  norms  for  the  10-year  Notional  Coupon-
+bearing GoI Security Futures are being issued to the market through this 
+Report for early implementation.  
+ 
+
+1.6  Acknowledgement 
+ 
+
+The  Committee  is  grateful  for  the  guidance  provided  by  the  senior 
+management  of  both  RBI  and  SEBI.  In  particular,  the  Committee  is 
+thankful to Shri V K Sharma, Executive Director, RBI (Chairman: Working 
+Group on Interest Rate Futures) for suggesting an alternate methodology 
+for margin computation.  
+ 
+The  Committee  places  on  record  its  appreciation  of  the  contribution  by 
+Shri  Bithin  Mahanta,  Shri  Navpreet  Singh,  Ms.  Rajeswari  Rath,  Shri 
+Ashish  Kumar  Singh,  Shri  Shailesh  Pingale,  Shri  Lakshaya  Chawla  and 
+Shri Sahil Tuli of SEBI.  
+ 
+The Committee also places on record its appreciation of the contribution 
+made by Dr. Abhiman Das and Shri Puneet Pancholy of RBI in data and 
+statistical analysis.  
+
+Page 8 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+Chapter 2 
+
+ 
+
+Product Design, Margins and Position Limits for 10-Year Notional Coupon-
+bearing Government of India (GoI) Security Futures 
+
+ 
+
+ 
+
+2.1     Underlying 
+
+10-Year Notional Coupon-bearing GoI security 
+
+ 
+2.2       Coupon  
+
+2.3 
+
+The notional coupon would be 7% with semi-annual compounding. 
+ 
+Trading Hours 
+The Trading Hours would be from 9 a.m. to 5.00 p.m on all working days 
+from   Monday to Friday. 
+
+ 
+2.4  Size of the Contract 
+
+The Contract Size would be Rs. 2 lakh. 
+
+ 
+2.5  Quotation 
+
+The  Quotation  would  be  similar  to  the  quoted  price  of  the  GoI  security. 
+The day count convention for interest payments would be on the basis of a 
+360-day  year,  consisting  of  12  months  of  30  days  each  and  half  yearly 
+coupon payment.  
+ 
+Tenor of the Contract 
+The maximum maturity of the contract would be 12 months. 
+ 
+
+2.6 
+
+2.7  Available Contracts 
+
+The  Contract  Cycle  would  consist  of  four  fixed  quarterly  contracts  for 
+entire year, expiring in March, June, September and December. 
+
+ 
+
+Page 9 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+2.8  Daily Settlement Price 
+
+ 
+
+The  Daily  Settlement  Price  would  be  the  closing  price  of  the  10-year 
+Notional Coupon-bearing GoI security futures contract on the trading day. 
+(Closing  price  =  Weighted  Average  price  of  the  futures  for  last  half  an 
+hour). In the absence of last half an hour trading the theoretical price, to 
+be  determined  by  the  exchanges,  would  be  considered  as  Daily 
+Settlement  Price.  The  exchanges  will  be  required  to  disclose  the 
+model/methodology used for arriving at the theoretical price. 
+ 
+
+2.9  Settlement Mechanism 
+
+the  electronic  book  entry  system  of 
+
+The  contract  would  be  settled  by  physical  delivery  of  deliverable  grade 
+securities  using 
+the  existing 
+Depositories (NSDL and CDSL) and Public Debt Office (PDO) of the RBI. 
+The delivery of the deliverable grade securities shall take place from the 
+first  business  day  of  the  delivery  month  till  the  last  business  day  of  the 
+delivery  month.  The  owner  of  a  short  position  in  an  expiring  futures 
+contract shall hold the right to decide when to initiate delivery. However, 
+the  short  position  holder  shall  have  to  give  intimation,  to  the  Clearing 
+Corporation,  of  his  intention  to  deliver  two  business  days  prior  to  the 
+actual delivery date.   
+
+ 
+2.10     Deliverable Grade Securities  
+
+GoI securities maturing at least 7.5 years but not more than 15 years from 
+the first day of the delivery month with a minimum total outstanding stock 
+of Rs 10,000 crore.  
+ 
+
+2.11  Conversion Factor  
+
+The  Conversion  Factor  for  deliverable  grade  security  would  be  equal  to 
+the price of the deliverable security (per rupee of the principal), on the first 
+day  (calendar  day)  of  the  delivery  month,  to  yield  7%  with  semiannual 
+compounding.  
+
+Page 10 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+ 
+
+For deliveries into 10-Year Notional Coupon-bearing GoI security futures, 
+the deliverable security’s  remaining term to maturity shall be calculated in 
+complete  three-month  quarters,  always  rounded  down  to  the  nearest 
+quarter.  If,  after  rounding,  the  deliverable  security  lasts  for  an  exact 
+number of 6-month periods, the first coupon shall be assumed to be paid 
+after 6 months. If, after rounding, the deliverable security does not last for 
+an exact number of 6-month periods (i.e. there are an extra 3 months), the 
+first  coupon  would  be  assumed  to  be  paid  after  3  months  and  accrued 
+interest would be subtracted.  
+
+ 
+2.12 
+
+Invoice Price 
+Invoice  Price  of  the  respective  deliverable  grade  security  would  be  the 
+futures settlement price times a conversion factor plus accrued interest.  
+ 
+
+2.13  Last Trading Day 
+
+Seventh  business  day  preceding  the  last  business  day  of  the  delivery 
+month.   
+ 
+
+2.14  Last Delivery Day 
+
+2.15 
+
+Last business day of the delivery month. 
+ 
+Initial Margin 
+Initial  Margin  requirement  shall  be  based  on  a  worst  case  loss  of  a 
+portfolio of an individual client across various scenarios of price changes. 
+The various scenarios of price changes  would be so computed so as to 
+cover a more than 99% VaR over a one day horizon. In order to achieve 
+this, the price scan range may initially be fixed at 3.5 standard deviation4.  
+The initial margin so computed would be subject to a minimum of 2.33% of 
+the  value  of  the  futures  contract  on  the  first  day  of  trading  in  10-year 
+
+                                                 
+4 One tailed standard normal variate corresponding to 99 % confidence interval is 2.33.  However, 
+simulation on the historical data showed that 99 % of data could be covered only with 3.5 times 
+standard.deviation.   
+
+Page 11 of 28 
+
+ 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+Notional  Coupon-bearing  GoI  security  futures  and  1.6%  of  the    value  of 
+the futures contract thereafter. The  initial  margin  shall be deducted from 
+the liquid net worth of the clearing member on an online, real time basis.  
+ 
+
+2.16  Extreme Loss Margin 
+
+Extreme loss margin of 0.3% of the value of the gross open positions of 
+the futures contract shall be deducted from the liquid assets of the clearing 
+member on an on line, real time basis. 
+
+ 
+2.17  Calendar Spread Margin 
+
+Interest  rate  futures  position  at  one  maturity  hedged  by  an  offsetting 
+position at a different maturity would be treated as a calendar spread.  The 
+calendar  spread  margin  shall  be  at  a  value  of  Rs.2000/-  per  month  of 
+spread. The benefit for a calendar spread would continue till expiry of the 
+near month contract.  
+ 
+
+2.18  Model for Determining Standard Deviation 
+
+The Committee examined the results of empirical tests carried out using 
+different risk management models in the Value at Risk (VaR) framework in 
+the  10-year  GoI  security  yields.  Data  for  the  period  January  3,  2000  to 
+September  16,  2008  was  analyzed.  GARCH  (1,1)-normal  and  GARCH 
+(1,1)-GED (Generalized Auto-Regressive Conditional  Heteroskedasticity) 
+at 3 and 3.5 sigma levels were not found to perform well at 1% risk level, 
+as  the  actual  number  of  violations  were  found  to  be  statistically  much 
+higher than the expected number of violations. The EWMA (Exponentially 
+weighted  moving  average)  model  used  by  J.P.Morgan’s  Risk  Metrics 
+methodology was found to work well at 3 and 3.5 sigma levels at 5% risk 
+level and not at 1% risk level.  
+ 
+Given  the  computational  ease  of  the  EWMA  model  and  given  the 
+familiarity of the Exchanges with this particular model (it is currently being 
+
+Page 12 of 28 
+
+ 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+used  in  the  equity  derivatives  market),  the  Committee,  after  considering 
+the various aspects of the different models, decided that EWMA method 
+would be used to obtain the volatility estimate every day fixing the price 
+scan range at 3.5 standard deviation. During the first time-period on the 
+first  day  of  trading  in  10-year  Notional  Coupon-bearing  GoI  security 
+futures, the sigma would be equal to 0.8 %.  
+ 
+
+2.19  Formula for Determining Standard Deviation 
+
+The EWMA method would be used to obtain the volatility estimate every 
+day. The estimate at the end of time period t (σyt) is arrived at using the 
+volatility estimate at the end of the previous time period i.e. as at the end 
+of  t-1 time period (σyt-1), and the return (ryt) observed in the futures market 
+during the time period t. The formula would be as under:  
+ 
+(σyt)2 = λ (σyt-1)2 + (1 - λ ) (ryt)2 
+
+ 
+Where 
+ 
+λ(lambda)  is  a  parameter  which  determines  how  rapidly  volatility 
+estimates changes. The value of λ is fixed at 0.94.  
+
+i.  σyt  (sigma)  is  the  standard  deviation  of  daily  logarithmic  returns  of 
+yield of 10-year Notional Coupon-bearing GoI security futures at time 
+t. 
+ The "return" is defined as the logarithmic return: rt = ln(Yt/Yt-1) where 
+Yt  is  the    yield    of  10-year  Notional  Coupon-bearing  GoI  security 
+futures at time t.  
+
+ii. 
+
+For computing the margin, two methodologies can be considered.  
+
+Page 13 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+Methodology A.The  plus/minus  3.5  sigma  limits5  for  a  99%  VAR 
+based  on  logarithmic  returns  on  yield  of  10-year  Notional  Coupon-
+bearing  GoI  security  futures  would  have  to  be  converted  into    price 
+volatility through the following  formula : 
+
+ 
+
+σpt=D*σyt* Yt 
+
+ 
+where 
+σpt is the standard deviation of percentage change in price at time t; 
+ 
+D is Modified Duration6; 
+ 
+Y7
+at time t; and  
+ 
+σyt (sigma) is the standard deviation of daily logarithmic returns of yield 
+of 10-year Notional Coupon-bearing GoI security futures at time t. 
+
+t is the yield of 10-year Notional Coupon-bearing GoI security futures 
+
+The  percentage  margin  on  long  position  would  be  equal  to  100 
+(D*3.5σyt*  Yt)  and  the  percentage  margin  on  short  position  would  be 
+equal  to  100  (D*(-3.5σyt)*  Yt).    The  Modified  Duration  for  10-Year 
+Notional Coupon-bearing GoI security futures shall be 10.  
+
+                                                 
+5  The  one-tailed  standard  normal  variate  corresponding  to  99%  confidence  interval  is  2.33. 
+However, since 3.5 standard deviations cover 99 % of the historical data, σ  has been taken as 
+3.5 in all computations. . 
+
+6 Modified Duration = 
+
+D
+*
+my
+/
++
+
+1
+
+,  where D* (Macaulay's duration) = 
+
+Ci  is  coupon  at  time  ti,  y  is  the  annually  compounded  yield,  m  is  the  frequency  of  coupon 
+payments, B is the price of the bond. Modified duration essentially measures percentage change 
+in price due to change in yield by 100 bps. 
+7 
+its 
+
+calculated 
+
+maturity) 
+
+security 
+
+(Yield 
+
+YTM 
+
+to 
+
+n
+
+i∑
+ct
+
+i
+
+1
+=
+
+1/(
+
++
+
+my
+/
+
+)
+
+i
+
+i
+
+ 
+
+B
+
+Yield 
+n
+∑
+
+(
+
+=
+
+t
+
+1
+=
+
+of 
+C
+mY
+
+t
+/
+
+1(
+
++
+
+as
+
+B
+
+is 
+P
+mY
+/
+
+)
+
++
+
+t
+
+)
+
+1(
+
++
+
+  where Y is the YTM of the security, B is the price of the 
+
+n
+
+)
+
+security, P is the par value of the bond, n is the number of periods for coupon payment, m is the 
+frequency of coupon payments and C is the coupon payment per period. 
+
+Page 14 of 28 
+
+ 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+Methodology  B.  The  potential  price  change  corresponding  to  99% 
+VAR can be computed by multiplying the appropriate yield change by 
+the modified duration. That is,  
+
+YDP
+δ
+δ
+
+=
+
+*
+
+, 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Where,  
+
+Y
+=δ
+
+Y
+t −
+
+0Y
+
+ , and  
+
+Y
+t
+
+=
+
+σ±
+yeY
+0
+
+*
+
+t
+
+/
+
+252
+
+*
+
+z
+
+ 
+
+  
+
+Pδ  = Percentage change in price 
+
+Yδ = Change in yield 
+
+ 
+
+Yt =Yield of 10-year Notional Coupon-bearing GoI security futures at 
+time t; and  
+
+yσ =  Annualized  yield  volatility8  of  10-year  Notional  Coupon-bearing 
+GoI security futures 
+
+z  =  One-tailed  standard  normal  variate  (value  3.5  as  mentioned  in 
+footnote 5)  
+
+Thus, the percentage margin on long positions would be equal to 
+
+P
+δ
+Long
+
+=
+
+YD
+*
+0
+
+(*
+
+σ
+ye
+
+*
+
+t
+
+/
+
+252
+
+5.3*
+
+−
+
+)1
+
+ 
+
+and the percentage margin on short positions would be equal to  
+
+                                                 
+8 Annualized yield volatility is obtained by multiplying the standard deviation of daily logarithmic return 
+by square root of the number of trading days, usually taken as 252. 
+
+Page 15 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+P
+δ
+Short
+
+=
+
+YD
+*
+0
+
+(*
+
+−
+σ
+ye
+
+*
+
+t
+
+/
+
+252
+
+5.3*
+
+−
+
+)1
+
+ 
+
+ 
+
+Alternatively, the exchanges can adopt uniform margins for both short 
+and long positions, equivalent to the higher of the two values derived 
+above. 
+
+An illustration of the two methodologies discussed above is enclosed 
+at Annex A.   
+
+iii.    The  volatility  estimation  and  margin  fixation  methodology  should  be 
+clearly made known to all market participants so that they can compute 
+the margin for any given closing level of the interest rate futures price. 
+Further, the trading software itself should provide this information on a 
+real time basis on the trading workstation screen. 
+
+ 
+
+2.20  Position Limits 
+
+i.  Client  level:    The  gross  open  positions  of  the  client  across  all 
+contracts  should  not  exceed  6%  of  the  total  open  interest  or  Rs  300 
+crores  whichever  is  higher.    The  Exchange  will  disseminate  alerts 
+whenever the gross open position of the client exceeds 3% of the total 
+open interest at the end of the previous day’s trade. 
+
+ii.  Trading  Member  level:  The  gross  open  positions  of  the  trading 
+member across all contracts should not exceed 15% of the total open 
+interest or Rs. 1000 crores whichever is higher. 
+
+iii.  Clearing Member level:  No separate position limit is prescribed at the 
+level of clearing member.  However, the clearing member shall ensure 
+that his own trading position and the positions of each trading member 
+clearing through him is within the limits specified above.   
+
+iv.  FIIs  and  NRIs:  Total  gross  long  position  in  the  debt  market  and  the 
+Interest Rate Futures would not exceed the maximum permissible debt 
+market  limit  prescribed  from  time  to  time.  Short  position  in  Interest 
+
+Page 16 of 28 
+
+ 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+Rate Futures would not exceed long position in the debt market and in 
+Interest Rate Futures.  
+
+ 
+ 
+ 
+ 
+ 
+
+Page 17 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+Chapter 3 
+
+ 
+
+ 
+
+Risk Management Measures 
+
+ 
+
+3.1 
+
+Introduction 
+In exchange traded derivative contracts, the Clearing Corporation acts as 
+a central    counterparty to all trades and performs full novation. The risk to 
+the  Clearing  Corporation  can  only  be  taken  care  of  through  a  stringent 
+margining  framework.  Also,  since  derivatives  are  leveraged  instruments, 
+margins also act as a cost and discourage excessive speculation. A robust 
+risk  management  system  should  therefore,  not  only  impose  margins  on 
+the  members  of  the  Clearing  Corporation  but  also  enforce  collection  of 
+margins from the clients. 
+
+ 
+3.2       Portfolio Based Margining  
+
+The  Standard  Portfolio  Analysis  of  Risk  (SPAN)  methodology  shall  be 
+adopted to take an integrated view of the risk involved in the portfolio of 
+each individual client comprising his positions in futures contracts across 
+different  maturities.  The  client-wise  margins  would  be  grossed  across 
+various  clients  at  the  Trading  /  Clearing  Member  level.  The  proprietary 
+positions of the Trading / Clearing Member would be treated as that of a 
+client. 
+
+ 
+3.3  Real-Time Computation 
+
+The computation of worst scenario loss would have two components. The 
+first  is  the  valuation  of  the  portfolio  under  the  various  scenarios  of  price 
+changes.  At  the  second  stage,  these  scenario  contract  values  would  be 
+applied to the actual portfolio positions to compute the portfolio values and 
+the  initial  margin.  The  exchanges  shall  update  the  scenario  contract 
+values at least 6 times in the day, which may be carried out by taking the 
+closing price of the previous day at the start of trading and the prices at 
+
+Page 18 of 28 
+
+ 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+11:00 a.m., 12:30 p.m., 2:00 p.m., 3.30 p.m. and at the end of the trading 
+session. The latest available scenario contract values would be applied to 
+member/client portfolios on a real time basis. 
+
+ 
+3.4 
+
+Liquid Networth 
+The initial margin and the extreme loss margin shall be deducted from the 
+liquid  assets  of  the  clearing  member.  The  clearing  member’s  liquid  net 
+worth  after  adjusting  for  the  initial  margin  and  extreme  loss  margin 
+requirements  must  be  at  least  Rs.  50  Lakhs  at  all  points  in  time.  The 
+minimum liquid networth shall be treated as a capital cushion for days of 
+unforeseen market volatility.  
+
+ 
+ 3.5      Liquid Assets 
+
+The  liquid  assets  for  trading  in  Interest  Rate  Futures  would  have  to  be 
+provided  separately  and  maintained  with  the  Clearing  Corporation. 
+However,  the  permissible  liquid  assets,  the  applicable  haircuts  and 
+minimum  cash  equivalent  norms  would  be  mutatis  mutandis  applicable 
+from the equity/currency derivatives segment. 
+
+ 
+3.6       Mark-to-Market (MTM) Settlement 
+
+The  MTM  gains  and  losses  shall  be  settled  in  cash  before  the  start  of 
+trading on T+1 day. If MTM obligations are not collected before start of the 
+next day’s trading, the Clearing Corporation shall collect correspondingly 
+higher initial margin to cover the potential for losses over the time elapsed 
+in the collection of margins.  
+
+The daily closing price of interest rate futures contract for mark to market 
+settlement  would  be  calculated  on  the  basis  of  the  last  half  an  hour 
+weighted average price of the futures contract. In the absence of trading in 
+the  last  half  an  hour  the  theoretical  price  would  be  taken.  The  eligible 
+exchanges  shall  define  the  methodology  for  calculating  the  ‘theoretical 
+
+Page 19 of 28 
+
+ 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+price’ at the time of making an application for approval of the interest rate 
+futures contract to SEBI. The methodology for calculating the ‘theoretical 
+price’ would also be disclosed to the market.  
+
+3.7  Margin Collection and Enforcement 
+
+The  client  margins  (initial  margin,  extreme  loss  margin,  calendar  spread 
+margin and mark to market settlements) have to be compulsorily collected 
+and  reported  to  the  Exchange  by  the  members.  The  Exchange  shall 
+impose  stringent  penalty  on  members  who  do  not  collect  margins  from 
+their  clients.  The  Exchange  shall  also  conduct  regular  inspections  to 
+ensure margin collection from clients. 
+
+ 
+3.8  Safeguarding Client’s Money 
+
+The Clearing Corporation should segregate the margins deposited by the 
+Clearing  Members  for  trades  on  their  own  account  from  the  margins 
+deposited  with  it  on  client  account.  The  margins  deposited  on  client 
+account  shall  not  be  utilized  for  fulfilling  the  dues  which  a  Clearing 
+Member  may  owe  the  Clearing  Corporation  in  respect  of  trades  on  the 
+member’s own account. The client’s money is to be held in trust for client 
+purpose only. The following process is to be adopted for segregating the 
+client’s money vis-à-vis the clearing member’s money: 
+ 
+i 
+
+At  the  time  of  opening  a  position,  the  member  should  indicate 
+whether it is a client or proprietary position.  
+
+ii  Margins across the various clients of a member should be collected 
+
+on a gross basis and should not be netted off. 
+
+iii  When  a  position  is  closed,  the  member  should  indicate  whether  it 
+
+iv 
+
+was a client or his own position which is being closed. 
+In  the  case  of  default,  the  margins  paid  on  the  proprietary  position 
+would only be used by the Clearing Corporation for realizing its dues 
+from the member. 
+
+Page 20 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+3.9      Periodic Risk Evaluation Report 
+
+ 
+
+The Clearing Corporation of the Exchange shall on an ongoing basis and 
+atleast  once  in  every  six  months,  conduct  back  testing  of  the  margins 
+collected vis-à-vis the actual price changes. A copy of the study shall be 
+submitted  to  SEBI  along  with  suggestions  on  changes  to  the  risk 
+containment measures, if any.    
+
+Page 21 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+Chapter 4 
+
+ 
+
+ 
+
+Regulatory and Legal aspects 
+
+ 
+4.1 
+
+The  Interest  Rate  Derivative  contracts  shall  be  traded  on  the  Currency 
+Derivative  Segment  of  a  recognized  Stock  Exchange.  The  members 
+registered by SEBI for trading in Currency/Equity Derivative Segment shall 
+be eligible to trade in Interest Rate Derivatives also, subject to meeting the 
+Balance Sheet networth requirement of Rs 1 crore for a trading member 
+and Rs 10 crores for a clearing member. Before the start of trading, the 
+Exchange shall submit the proposal for approval of the contract to SEBI 
+giving: 
+i 
+
+The details of the proposed interest rate futures contract to be traded 
+in the exchange; 
+The economic purposes it is intended to serve; 
+Its likely contribution to market development; 
+The safeguards and the risk protection mechanisms adopted by the 
+exchange  to  ensure  market  integrity,  protection  of  investors  and 
+smooth and orderly trading; 
+The  infrastructure  of  the  exchange  and  surveillance  system  to 
+effectively monitor trading in such contracts. 
+
+ii 
+iii 
+iv 
+
+v 
+
+ 
+4.2      SEBI-RBI Coordination Mechanism 
+
+A  SEBI-RBI  constituted  committee  would  meet  periodically  to  sort  out 
+issues,  if  any,  arising  out  of  overlapping  jurisdiction  of  the  interest  rate 
+futures market. 
+
+Page 22 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+Chapter 5 
+
+ 
+
+ 
+
+Miscellaneous Issues 
+
+ 
+5.1      Banks Participation in Interest Rate Futures 
+
+It is stated in the RBI Report on Interest Rate Futures that “…the current 
+approval for banks’ participation in IRF for hedging risk in their underlying 
+investment  portfolio  of  government  securities  classified  under 
+the 
+Available for Sale (AFS) and Held for Trading (HFT) categories should be 
+extended to the interest rate risk inherent in their entire balance sheet – 
+including both on, and off, balance sheet items – synchronously with the 
+re-introduction of the IRF.” 
+
+ 
+5.2      Extending the Tenor of Short Sales  
+
+In the RBI Report on Interest Rate Futures, it has been recommended that 
+the time limit on short selling be extended so that term / tenor / maturity of 
+the short sale is co-terminus with that of the futures contract and a system 
+of transparent and rule-based pecuniary penalty for SGL bouncing be put 
+in place, in lieu of the regulatory penalty currently in force.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Page 23 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+Annex A - Illustration of margin computation  
+
+ 
+
+ 
+
+•  Product:  10-Year  Notional  Coupon-bearing  Government  of  India  (GoI) 
+Security Futures 
+ 
+•  Given a time series (January 3, 2000 to September 16, 2008) of yields of a 
+10-year Constant Maturity Security. Say, the last yield in the time series, Yt was 
+8.20%. The volatility can be calculated using EWMA method: 
+ 
+
+(σyt)2 = λ (σyt-1)2 + (1 - λ ) (ryt)2           ………………………………………..(1) 
+
+ 
+where: 
+
+(cid:131)  λ (lambda) is a parameter which determines how rapidly volatility 
+estimates changes. The value of λ is fixed at 0.94 
+(cid:131)  σyt (sigma) is the standard deviation of daily logarithmic returns of yield 
+of 10-year Notional Coupon-bearing GoI security, the "return" is defined as 
+the logarithmic return: rt = ln(Yt/Yt-1) 
+
+•  Using  formula  (1)  on  the  time  series,  the  σYt  (daily)  is  0.008,  and  σYt 
+(annualized) comes to 0.1269.  
+ 
+Methodology A: 
+
+σpt = D*σyt* Yt 
+
+ 
+
+Where: 
+
+•  σpt is the standard deviation of percentage change in price at time t 
+•  D is the modified duration; 
+•  Yt   is yield of 10-year Notional Coupon-bearing GoI security futures at time 
+
+t; and  
+
+•  σyt (sigma) is the standard deviation of daily logarithmic returns of yield of 
+
+10-year Notional Coupon-bearing GoI security futures at time t. 
+
+Page 24 of 28 
+
+ 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+The  percentage  margin  on  long  would  be    (D*  3.5  *  σyt  *  Yt)  i.e.  2.29and  the 
+percentage margin on short position would be equal to 100 (D* (-3.5*σyt) * Yt) i.e. 
+(-)  2.29. 
+ 
+Methodology B: 
+
+YDP
+δ
+δ
+
+=
+
+*
+
+,  
+
+Y
+=δ
+
+Y
+(
+t −
+
+0Y
+
+)
+
+  and 
+
+Y
+t
+
+=
+
+σ±
+yeY
+0
+
+*
+
+t
+
+/
+
+252
+
+*
+
+z
+
+ 
+
+where: 
+
+Pδ  = percentage change in price 
+Yδ = change in yield 
+
+• 
+• 
+•  Yt = yield of 10-year Notional Coupon-bearing GoI security futures at time 
+
+• 
+
+t; and  
+yσ =  annualized  yield  volatility  of  10-year  Notional  Coupon-bearing  GoI 
+security futures 
+
+•  z = one-tailed standard normal variate (value 3.5 as explained in footnotes 
+
+4/5)  
+
+Yt  = 8.20 * e  ±  0.1269*
+ 
+
+Hence, 
+ 
+ 
+The values of Yt would be 8.4327 and 7.9737. 
+ 
+
+252
+
+ 
+
+/1
+
+* 3.5 . Here t = 1 and σyt  (annualized) = 0.1269. 
+
+•  The percentage margin on long positions would be equal to 
+
+P
+δ
+Long
+
+=
+
+YD
+(*
+t
+
+−
+
+Y
+0
+
+)
+
+=
+
+YD
+*
+0
+
+(*
+
+σ
+ye
+
+*
+
+t
+
+/
+
+252
+
+5.3*
+
+−
+
+)1
+
+ i.e. (+) 2.3266 
+
+and the percentage margin on short positions would be equal to  
+
+P
+δ
+Short
+
+=
+
+YD
+(*
+t
+
+−
+
+Y
+0
+
+)
+
+=
+
+YD
+*
+0
+
+(*
+
+−
+σ
+ye
+
+*
+
+t
+
+/
+
+252
+
+5.3*
+
+−
+
+)1
+
+i.e. (-) 2.2625 
+
+Page 25 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+Higher of the two values, viz., 2.3266 i.e. 2.33 may be taken. 
+
+ 
+
+Page 26 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+
+ 
+
+ 
+
+- 
+
+- 
+
+ 
+
+ 
+
+- 
+
+- 
+
+ 
+
+ 
+
+ 
+
+- 
+
+ 
+
+Annex B - List of Committee Members 
+ 
+The above Report is submitted by;  
+ 
+i. 
+
+ 
+
+Shri Manas S. Ray  
+Executive Director,  
+SEBI  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ii.  Shri Nagendra Parakh 
+
+Chief General Manager,  
+SEBI  
+
+iii.  Dr. Sanjeevan Kapshe 
+
+Officer on Special Duty,  
+SEBI  
+
+iv.  Dr. K.V.Rajan   
+
+ 
+
+Chief General Manager,  
+RBI 
+
+v.  Shri Chandan Sinha   
+
+Chief General Manager,  
+RBI 
+
+vi.    Shri Salim Gangadharan 
+Chief General Manager, 
+RBI 
+
+vii.   Shri H.S. Mohanty 
+
+ 
+
+Deputy General Manager,  
+RBI 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 27 of 28 
+
+ 
+
+Report of the RBI-SEBI Standing Technical Committee on Exchange-Traded Interest Rate Futures 
+ 
+ 
+
+ 
+
+viii   Shri Sujit Prasad (Member Secretary) 
+        General Manager,  
+
+ 
+
+ 
+
+- 
+
+ 
+
+ 
+
+SEBI  
+
+  
+
+Page 28 of 28 
+
+

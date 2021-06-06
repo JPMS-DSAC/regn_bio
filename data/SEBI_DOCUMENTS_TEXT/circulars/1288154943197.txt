@@ -1,0 +1,1432 @@
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+CIRCULAR 
+
+CIR/MIRSD/CRA/6/2010                                                                            May 3, 2010  
+ 
+All Credit Rating Agencies Registered with SEBI 
+ 
+Dear Sirs, 
+ 
+
+Sub: Guidelines for Credit Rating Agencies 
+
+ 
+Recent  events  in  global  financial  system  have  underlined  the  pivotal  role  that  credit 
+ratings  play.  Effective  use  of  credit  ratings  by  the  users  is  crucially  dependent  upon 
+quality  and  quantity  of  disclosures  made  by  the  Credit  Rating  Agencies  (CRAs).  There 
+have  been  widespread  consultations  on  the  issue  both  globally  and  within  India  and 
+several documents have been prepared. In the wake of the above and in order to impart 
+higher credibility to the processes and procedures associated with the credit rating, it has 
+been decided, in consultation with the CRAs, to prescribe the following transparency and 
+disclosure norms for them:  
+ 
+1.      Rating Process 
+
+A CRA shall keep the following records in support of each credit rating and review / 
+surveillance thereof:   
+
+The important factors underlying the credit rating and sensitivity of such credit 
+rating to changes in these factors,  
+
+ 
+1.2  Summary  of  discussions  with  the  issuer,  its  management,  auditors  and 
+
+bankers which have a bearing on the credit rating,  
+
+1.3  Decisions  of  the  rating  committee(s),  including  voting  details  and  notes  of 
+
+dissent, if any, by any member of the rating committee, and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.1 
+
+1.4 
+
+1.5 
+
+If a quantitative model is a substantial component of the credit rating process, 
+the rationale for any material difference between the credit rating implied by 
+the model and the credit rating actually assigned. 
+
+These  records  should  be  maintained  till  five  years  after  maturity  of 
+instruments  and  be  made  available  to  auditors  and  regulatory  bodies  when 
+sought by them. 
+
+ 
+2.      Default Studies  
+
+Default studies are central to evaluating the performance of a credit rating agency 
+and whether its ratings can predict default over a period of time. In order to promote 
+transparency and to enable the market to best judge the performance of the ratings, 
+the CRA, should publish information about the historical default rates of CRA rating 
+categories  and  whether  the  default  rates  of  these  categories  have  changed  over 
+time, so that the public can understand the historical performance of each category 
+
+ 
+
+Page 1 of 15 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  if  and  how  rating  categories  have  changed,  and  be  able  to  draw  quality 
+comparisons among ratings given by different CRAs. 
+
+2.1 The default rates shall be calculated in the  following manner: 
+ 
+
+2.1.1  One Year Default Rate is the weighted average of default rates of all 
+
+possible 1 year static pools in the 5-year period. 
+
+2.2 
+
+2.1.2  Cumulative  Default  Rate:  The  cumulative  default  rate  (CDR) 
+represents the likelihood of an entity that was rated at the beginning 
+of any multi-year period defaulting at any time during the multi-year 
+period. Three-year cumulative default rate shall be computed as:  
+ 
+Three-year  CDR  for  rating  category  X  =  No.  of  issuers  which 
+defaulted  over  the  three-year  period  /  No.  of  issuers  outstanding  at 
+the beginning of the three-year period 
+
+ 
+For the above purposes, the following terms shall have the meaning as under 
+: 
+
+2.2.1  Static  Pool  :  Non-defaulted  ratings  that  were  outstanding  at  the 
+
+beginning of any period 
+
+ 
+2.2.2  Default  :  Non-payment  of  interest  or  principal  amount  in  full  on  the 
+pre-agreed date. A CRA shall recognize default at the first instance of 
+delay in servicing of interest or principal on the rated debt instrument. 
+
+ 
+2.2.3  Default  Rate:  The  number  of  defaults  among  rated  entities  in  the 
+static pool as a percentage of the total number of entities in the static 
+pool. 
+
+2.2.4  Averaging  :  All  averaging  across  static  pools  for  default  rate 
+computations must be based on the weighted average method where 
+the weights are the number of ratings in each static period 
+
+Dealing with Conflict of interest  
+
+3.1 A CRA shall formulate the policies and internal codes for dealing with the conflict 
+
+of interests. 
+
+ 
+
+   3.2     A CRA shall ensure: 
+ 
+
+3.2.1        that  its  analysts  do  not  participate  in  any  kind  of  marketing  and 
+business development including negotiations of fees with the issuer 
+whose securities are being rated,  
+that  the  employees’  involved  in  the  credit  rating  process  and  their 
+dependants do not have ownership of the shares of the issuer. 
+
+3.2.2 
+
+Page 2 of 15 
+
+ 
+
+ 
+
+ 
+
+ 
+3.  
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.2.3   prompt review of the credit ratings of the securities as and when any 
+
+of its employees joins the respective issuer.  
+
+ 
+4.    Obligations in respect of Rating of Structured Finance Products  
+ 
+
+ 
+5.  
+ 
+
+ 
+6.  
+
+ 
+
+ 
+
+4.1  A  CRA  may  undertake  rating  of  structured  finance  products,  namely, 
+instruments  /  pay-outs  resulting  from  securitization  transactions.  In  such  cases, 
+apart  from  following  all  the  applicable  requirements  in  case  of  non-structured 
+ratings, the following additional requirements shall also be complied with: 
+ 
+
+a.    A  CRA  or  its  subsidiaries  shall  not  provide  consultancy  or  advisory 
+
+services regarding the design of the structured finance instrument. 
+
+b.   The rating symbols shall clearly indicate that the ratings are for structured 
+
+finance products. 
+
+Unsolicited Credit Ratings  
+
+5.1 In case of unsolicited credit ratings, i.e. the credit ratings not arising out of the 
+agreement  between  a  CRA  and  the  issuer,  credit  rating  symbol  shall  be 
+accompanied by the word “UNSOLICITED” in the same font size.  
+ 
+5.2  A  CRA  shall  monitor  and  disclose  credit  rating  during  the  life  of  the  rated 
+securities, as if it were a solicited rating. 
+
+Disclosures 
+A CRA shall make all the disclosures stipulated below on their websites. In case of 
+listed securities, the CRA shall also make disclosures to the stock exchanges as  
+specified in the SEBI (Credit Ratings) Regulations, 1999. For ratings assigned and 
+their periodic reviews, the CRA shall issue press releases which shall also be kept 
+on  their  websites.  Where  a  specific  format  has  been  prescribed,  the  disclosures 
+shall be made in that format. 
+ 
+6.1 Rating Procedure 
+A  CRA  shall  formulate  and  disclose  its  policies,  methodology  and  procedures  in 
+detail regarding solicited and unsolicited credit ratings 
+
+6.2 Credit Rating History and Defaults –  
+A CRA shall disclose in the formats specified below 
+
+6.2.1  Details  of  new  credit  ratings  assigned  during  last  six-months 
+(Annexure I), 
+ 
+6.2.2 Movement of credit rating of all outstanding securities during the last 
+six-months: 
+
+(a)   Movement of each credit rating(Annexure II),  
+(b)    Movement  of  each  credit  rating  from  investment  grade  to  non-
+
+investment grade and vice versa (Annexure III) and 
+
+Page 3 of 15 
+
+(c)  Movement of each credit rating that has moved by more than one 
+
+notch (Annexure IV).  
+
+the 
+
+list  of  defaults  separately 
+
+ 
+6.2.3 The history of credit rating of all outstanding securities (Annexure V), 
+ 
+6.2.4  On  annual  basis, 
+for  each 
+rating category (e.g. AAA, AA, A, BBB, BB, B, C){ (Annexure VI)}. This shall 
+include the initial credit rating assigned by the CRA, month and year of initial 
+rating,  month  and  year  of  default,  last  credit  rating  assigned  by  the  CRA 
+before the issuer defaulted, comments of CRAs, if any. 
+ 
+6.2.5  On  annual  basis,  the  average  one-year  and  three-year  cumulative  
+default  rates  (based  on  weighted  average),  for  the  last  5  years, 
+separately for each following category:  
+
+(i)  each  credit  rating  category  (e.g.  AAA,  AA,  A,  BBB,  BB,  B,  C), 
+
+separately (Annexure VII),; 
+
+(ii)  structured instruments and non-structured instruments, separately 
+
+6.3  Income 
+
+(Annexure VII), 
+
+6.3.1  A  CRA  shall  disclose 
+
+the  general  nature  of 
+
+its  compensation 
+
+arrangements with the issuers. 
+
+6.3.2  A  CRA  shall  disclose,  in  case  of  accepted  ratings,  its  conflict  of 
+interest,  if  any,  including  the  details  of  relationship  –  commercial  or 
+otherwise – between the issuer whose securities are being rated / any 
+of its associate of such issuer and the CRA or its subsidiaries.  
+
+6.3.3  A CRA shall disclose annually  
+
+6.3.3.1 
+6.3.3.2 
+
+6.3.3.3 
+
+its total receipt from rating services and non-rating services, 
+issuer  wise  percentage  share  of  non-rating  income  of  the 
+CRA and its subsidiary to the total revenue of the CRA and its 
+subsidiary from that issuer, and 
+names  of  the  rated  issuers  who  along  with  their  associates 
+contribute  10%  or  more  of  total  revenue  of  the  CRA  and  its 
+subsidiaries.  
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+
+ 
+
+6.4   Structured Finance Products 
+ 
+
+6.4.1  While  publishing  the  ratings  of  structured  finance  products  and  their 
+movements,  a  CRA  apart  from  following  all  the  applicable  requirements  in 
+case  of  non-structured  ratings  shall  also  disclose  the  track  record  of  the 
+originator and details of nature of underlying assets while assigning the credit 
+rating. The track record shall include a brief description of the financials of the 
+originator, rating migrations to speculative categories and defaults. 
+
+6.4.2  A  CRA  shall  also  disclose  at  least  once  in  every  six  months,  the 
+performance of the rated pool, i.e., collection efficiency, delinquencies. A CRA 
+shall  also  provide  a  detailed  description  of  the  underlying  pools  including 
+
+Page 4 of 15 
+
+ 
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ageing, Credit enhancements such as liquidity supports, first and second loss 
+guarantee provided shall also be disclosed. 
+
+6.5 Unsolicited Credit Ratings 
+
+6.5.1 While publishing unsolicited ratings and their movements, a CRA apart 
+from  following  all  the  applicable  requirements  in  case  of  solicited  ratings 
+shall make the following disclosures: 
+
+a.  the  extent  of  participation  by  the  issuer,  its  management, 
+
+bankers and auditors in the credit rating process.   
+
+b.  the information used and its source in arriving at and reviewing 
+
+the credit rating.  
+
+6.5.2  A CRA shall disclose annually  
+
+(i)  all  the  unsolicited  ratings  carried  out  in  the  last  three 
+
+financial years (Annexure VIII); 
+
+(ii)  names of issuers, out of those mentioned in (i) above, which 
+financial  year 
+
+last 
+
+were  given  solicited  rating 
+(Annexure VIII). 
+
+in 
+
+the 
+
+ 
+
+ 
+
+6.6  Shareholding  -  A  CRA  shall  disclose  its  shareholding  pattern  as 
+prescribed  by  stock  exchanges  for  a  listed  company  under  clause  35  of 
+Listing Agreement. 
+ 
+6.7  Compliance  Status  of  IOSCO  Code  of  Conduct  -  A  CRA  shall 
+disclose the compliance status of each provision of IOSCO code of conduct.  
+
+Implementation Schedule and Reporting 
+
+The CRAs shall take necessary steps to implement this circular immediately and 
+ensure its full compliance at the latest by June 30, 2010.  
+ 
+The half-yearly disclosures stipulated above shall be made by the CRAs within 15 
+days  from  the  end  of  the  half-year  (March  /  September).  The  yearly  disclosures 
+stipulated above shall be made by the CRAs within 30 days from the end of the 
+financial year. 
+ 
+However  for  the  financial  year  2009-2010  only,  the  half  yearly  and  yearly 
+disclosures stipulated above shall be made by the CRAs by June 30, 2010. 
+
+Additional Disclosures 
+
+A CRA can make additional disclosures other than those stipulated above with the 
+prior approval of its Board. 
+
+Page 5 of 15 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+7.  
+ 
+
+ 
+8. 
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+ 
+The CRAs shall communicate to SEBI, the status of the implementation of the provisions 
+of  this  circular  by  July  15,  2010.  They  shall  also  place  the  compliance  status  of  this 
+circular before their Boards.  
+ 
+This circular is issued in exercise of the powers conferred by Section 11 (1) of Securities 
+and Exchange Board of India Act, 1992 read with the provisions of regulations 15, 16, 18, 
+19(1), 20, 24 and Code of Conduct of SEBI (Credit Rating Agencies) Regulations, 1999 to 
+protect the interest of investors in securities and to promote the development of, and to 
+regulate, the securities market.   
+
+ 
+
+ 
+Encl: as above 
+
+Yours faithfully, 
+ 
+ 
+ 
+Prasanta Mahapatra 
+Deputy General Manager 
+Tel. No: 022-26449313 
+Email id : prasantam@sebi.gov.in 
+
+ 
+
+Page 6 of 15 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+Details of new credit ratings assigned during last six-months 
+ 
+
+New Ratings assigned between Apr-Sep / Oct - Mar 
+
+ 
+ANNEXURE I 
+
+Sl. 
+No. 
+1 
+2 
+3 
+4 
+5 
+6 
+
+ 
+
+Name of the Issuer 
+
+Instrument 
+
+Issue size (Rs. Millions)  Rating 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Page 7 of 15 
+
+ 
+ANNEXURE II 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+Movement* of each credit rating  
+
+Rating Movements between Apr-Sep / Oct - Mar 
+
+Name of the 
+
+Issuer 
+
+Rating prior to 
+
+Revision 
+
+Rating Post 
+
+Revision 
+
+ 
+
+Sl. 
+No. 
+1 
+2 
+3 
+4 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+* will cover only rating changes. Reaffirmations shall be excluded 
+ 
+
+ 
+
+Page 8 of 15 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ANNEXURE III 
+
+ 
+Movement of each credit rating from investment grade to non-investment grade 
+and vice versa 
+ 
+
+Rating Movement from Investment Grade and Non-invetsment Grade  
+
+between Apr-Sep / Oct - Mar 
+
+From Investment Grade to Non-investment Grade 
+
+Sl. No.  Name of the Issuer  Rating prior to Revision Rating Post Revision
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+From Speculative Grade to Investment Grade 
+
+Sl. No.  Name of the Issuer  Rating prior to Revision Rating Post Revision
+
+1 
+2 
+3 
+4 
+
+1 
+2 
+3 
+4 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Page 9 of 15 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+Movement of each credit rating that has moved by more than one notch 
+ 
+
+Rating Movement by more than one-notch between Apr-Sep / Oct - 
+
+ 
+ANNEXURE IV 
+
+Mar 
+
+Rating prior to 
+
+Revision 
+
+Sl. 
+No. 
+1 
+2 
+3 
+4 
+
+ 
+
+Name of the 
+
+Issuer 
+
+ 
+ 
+ 
+ 
+
+Rating Post 
+
+Revision 
+
+ 
+ 
+ 
+ 
+
+Notch 
+
+Difference 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+Page 10 of 15 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ANNEXURE V 
+
+ 
+
+ 
+
+ 
+
+ 
+
+History of credit rating of all outstanding securities 
+
+ 
+
+Sl. 
+No. 
+
+1 
+2 
+3 
+4 
+
+ 
+
+Name 
+of the 
+Issuer 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Initial 
+Rating 
+
+Date 
+of 
+
+Initial 
+Rating 
+ 
+ 
+ 
+ 
+
+Table 2.3 : History of credit rating of all outstanding securities 
+
+Rating 
+after 1st 
+Revision
+
+Date of 
+
+1st 
+
+Revision
+
+Rating 
+after 2nd  
+Revision
+
+Date of 
+
+2nd 
+
+Revision 
+
+Rating 
+after 3rd  
+Revision
+
+Date of 
+
+3rd 
+
+Revision
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+…..
+
+ 
+ 
+ 
+ 
+
+ 
+
+Page 11 of 15 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+List of defaults separately for each rating category 
+ 
+
+Category-wise List of Defaults in a Financial Year – Long Term Scale 
+Name of the 
+
+Rating prior to 
+
+Issuer 
+
+Initial 
+Rating 
+
+ 
+ANNEXURE VI 
+
+Default 
+
+Date of Default 
+Recognition 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Sl. 
+No. 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+1 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Date of 
+
+Initial Rating
+
+AAA or equivalent 
+ 
+ 
+ 
+ 
+ 
+ 
+AA or equivalent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A or equivalent 
+ 
+ 
+ 
+ 
+ 
+ 
+BBB or equivalent 
+ 
+ 
+ 
+ 
+ 
+ 
+BB or equivalent 
+ 
+ 
+ 
+ 
+ 
+ 
+B or equivalent 
+ 
+ 
+ 
+ 
+ 
+ 
+C or equivalent 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Page 12 of 15 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+Category-wise List of Defaults in a Financial Year - Short Term Scale 
+Name of the 
+
+Rating prior to 
+
+Date of 
+
+Issuer 
+
+Initial 
+Rating 
+
+Initial Rating
+
+Default 
+
+P1 / A1 / PR1 / F1 or equivalent  
+
+Date of Default 
+Recognition 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+P2 / A2 / PR2 / F2 or equivalent 
+
+P3 / A3 / PR3 / F3 or equivalent 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Page 13 of 15 
+
+Sl. 
+No. 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+1 
+
+1 
+2 
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ANNEXURE VII 
+
+Average Default Rates for the last 5- Financial Year Period- Structured 
+
+Instruments 
+1-Year Default Rate 
+
+3-year Cumulative Default 
+
+Rate 
+
+Average Default Rates for the last 5- Financial Year Period - Non-Structured 
+
+Instruments 
+1-Year Default Rate 
+
+3-year Cumulative Default 
+
+Rate 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+Structured instruments 
+ 
+
+Rating Category 
+
+AAA or equivalent 
+AA or equivalent 
+A or equivalent 
+
+BBB or equivalent 
+BB or equivalent 
+B or equivalent 
+C or equivalent 
+
+ 
+ 
+Non-Structured instruments 
+ 
+
+Rating Category 
+
+AAA or equivalent 
+AA or equivalent 
+A or equivalent 
+
+BBB or equivalent 
+BB or equivalent 
+B or equivalent 
+C or equivalent 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+Page 14 of 15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+Securities and Exchange Board of India 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ANNEXURE VIII 
+
+Name of the Issuer 
+
+Rating Assigned 
+
+Financial Year 1  Financial Year 2  Financial Year 3 
+ 
+ 
+ 
+ 
+
+ 
+Unsolicited Credit Rating* 
+ 
+Sl No 
+ 
+1 
+2 
+3 
+4 
+* If in a particular financial year, a rating has subsequently been changed, then that shall 
+also be disclosed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solicited Credit Ratings assigned to those issuers mentioned in the table above in 
+the last financial year** 
+ 
+Sl No  Name of the Issuer 
+ 
+ 
+ 
+ 
+** Any subsequent revision of the rating in the same year shall also be disclosed 
+
+Rating Assigned 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+Page 15 of 15
+
+ 
+
+

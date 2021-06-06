@@ -1,0 +1,191 @@
+SIMPLIFICATION AND UNIFORMITY IN THE PROCESS OF WEEDING 
+
+OUT/ REJECTION OF APPLICATIONS IN PRIMARY MARKET 
+
+TRANSACTIONS – THROUGH USE OF  
+
+PERMANENT ACCOUNT NUMBER (PAN) 
+
+ 
+1.0 
+ 
+
+Introduction 
+
+The Hon’ble Finance Minister, in his announcement in the Union Budget for 
+
+the  year  2007-08,  has  proposed,  inter-alia,  to  make  Permanent  Account 
+
+Number (PAN) as the sole identification number for all participants in the 
+
+securities  market,  with  an  alpha-numeric  prefix  or  suffix  to  distinguish  a 
+
+particular kind of account. 
+
+ 
+
+In  the  light  of  the  aforementioned  announcement  and  in  order  to 
+
+strengthen  the  Know  Your  Client  (KYC)  norms  and  identify  every 
+
+participant in the securities market through their respective PAN, thereby 
+
+ensuring  sound  audit  trail  of  all  transactions,  SEBI  has  decided  that  PAN 
+
+would be the sole identification number for  all participants transacting in 
+
+the securities market, irrespective of the amount of transaction.  
+
+ 
+
+2.0  Objective 
+ 
+
+The  objective  of  this  paper  is  to  place  the  proposals  to  simplify  and  to 
+
+bring  about  uniformity  in  the  process  of  weeding  out/  rejection  of 
+
+applications  in  primary  market  transactions  using  PAN,  for  public 
+
+comments.   
+
+ 
+
+3.0  PAN in Primary market transactions  
+ 
+
+SEBI  has,  vide  circular  dated  November  29,  2007,  stipulated  that 
+
+applicants in public issue should disclose their PAN in the application form, 
+
+irrespective of the amount for which application/bid is made, failing which 
+
+the  application  would  be  rejected.  We  are  however  given  to  understand 
+
+that  different  practices  are  being  followed  in  this  regard.    If  PAN  is  not 
+
+mentioned  in  the  application  form  but  is  available  in  depositories’ 
+
+ 
+
+1
+
+ 
+
+database,  some  issuers  accept  such  an  application.    Conversely  even  if 
+
+PAN  is  mentioned  in  the  application  form  but  it  is  not  available  in 
+
+depositories’ database, the applications are rejected by some issuers.  
+
+An  applicant  in  a  public  issue  is  mandated  to  mention  PAN  in  the 
+
+application  form.  The  application  form  for  applying  through  non  –  ASBA 
+mode1  also  calls  for  certain  other  details  such  as  address,  bank 
+particulars, age (date of birth), status (IND, NRI, HUF), IFSC (bank) code 
+
+and  father  /  husband’s  name.    The  registrar  separately  captures  certain 
+
+fields such as the application number, syndicate member, broker and sub-
+
+broker code, bank reference number, name(s) of  applicant(s) in full, DP 
+
+ID,  Client  ID,  bid  quantity  (for  all  bid  options),  bid  price  (for  all  bid 
+
+options),  payment  details  (bank,  branch,  cheque  number),  status, 
+
+category of investor, PAN (Only Yes or No), IFSC code and age. 
+
+ 
+
+The Registrar carries on the process of identifying rejections, based on the 
+
+grounds  of  rejection  disclosed  in  the  offer  document.    The  basis  of 
+
+weeding out of multiple applications involves cross checking a number of 
+
+fields by the Registrar, such as name of the applicant, age, PAN, address 
+
+of the applicant, DP ID, Client ID, fathers/husband’s name and finally the 
+
+signatures.  
+
+ 
+4.0  Simplification  and  uniformity  in  the  process  of  weeding  out  / 
+
+rejection of applications  
+
+ 
+
+In  order  to  simplify  weeding  out  and  bring  about  uniformity  across 
+
+procedures  adopted  in  rejection  of  applications  in  primary  market 
+
+transactions,  the  following  proposals  are  being  considered  by  SEBI  for 
+
+implementation: 
+
+ 
+(i) 
+
+The  Registrar  shall  validate  PAN,  DP  ID  and  Client  ID  available  in 
+
+the application form with the said data available in the depositaries’ 
+
+                                                 
+1 Non –ASBA mode means applications other than through Applications supported by blocked amount (ASBA) 
+mode. ASBA mode is a new mode of making an application through self certified syndicate banks, wherein the 
+amount is debited from the account of applicant only upon allotment.     
+
+ 
+
+2
+
+database.  If  these  data  do  not  match,  such  application  shall  be 
+
+rejected and not be considered for allotment. 
+
+ 
+
+(ii) 
+
+Applications  made  in  public,  preferential  issue  and  in  Qualified 
+
+Institutional  Placements  (QIP)  without  mentioning  PAN  or  with 
+
+invalid or incorrect PAN shall be rejected. 
+
+ 
+
+5.0  Public Comments 
+ 
+
+The proposals contained in this paper are placed for public comments for a 
+
+period of 15 days. Comments/ suggestions may be sent through email at 
+
+the  email  address  DIL@sebi.gov.in  or  to  the  address  mentioned  below 
+
+before May 20, 2009. 
+
+ 
+
+ 
+
+Corporation Finance Department  
+
+Division of Issues and listing -1 
+
+SEBI Bhavan, Plot No: C – 4A, G Block, 
+
+Bandra Kurla Complex, 
+
+Bandra (East), 
+
+Mumbai - 400 051. 
+
+ 
+
+3
+
+

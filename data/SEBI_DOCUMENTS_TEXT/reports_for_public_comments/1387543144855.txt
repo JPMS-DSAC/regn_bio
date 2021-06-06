@@ -1,0 +1,922 @@
+Consultation paper on Infrastructure Investment Trusts 
+
+ 
+
+1.  Infrastructure is the cornerstone of development of any country. According to the 12th 
+Five Year Plan, India requires an investment in Infrastructure sector of around Rs. 65 
+lakh  crores  over  the  duration  of  2012-2017.  A  significant  boost  is  required  to  the 
+infrastructure sector in the country to help India achieve its target for the 12th Five 
+Year Plan.  
+
+2.  As  the  capital  market  regulator,  SEBI  actively  encourages  setting  of  varied 
+frameworks  for  investment  in  infrastructure  sector  so  that  lack  of  structures  for 
+financing  of  infrastructure  is  not  an  impediment  for  the  development  of  the  sector. 
+Steps taken by SEBI in the recent past towards this end include providing framework 
+for various structures such as Infrastructure Debt Fund (IDF-MF) under SEBI (Mutual 
+Funds)  Regulations,  1996,  Category  I  AIF  –  Infrastructure  Fund  under  SEBI 
+(Alternative Investment Funds) Regulations, 2012, etc.  
+
+3.  In addition, SEBI has provided special concessions for companies in infrastructure 
+sector for the purpose of issue and listing of securities under SEBI (Issue of Capital 
+and  Disclosure  Requirements)  Regulations,  2009.    SEBI  has  also  simplified  the 
+procedure for  public issue of bonds which  has  facilitated bond offerings  of  several 
+infrastructure  companies.  Additionally,  SEBI  also  has  a  framework  for  public  offer 
+and  listing  of  securitised  debt  instruments  under  SEBI  (Public  Offer  and  Listing  of 
+Securitised Debt Instruments) Regulations, 2008.  
+
+4.  SEBI  has  received  various  suggestions  for  coming  out  with  a  framework  for 
+‘Infrastructure  Investment  Trusts‘(InvITs)  in  the  country.  Based  on  suggestions 
+received, SEBI is examining a structure which would provide an additional framework 
+for investment in infrastructure in the country.  
+
+5.  Globally as well, it has been observed that several financing/refinancing structures 
+exist  which  have  provided  a  boost  to  infrastructure  sector/  specific  sub-sectors 
+including  business  trust  model  in  Singapore  and  Hong  Kong,  Master  Limited 
+Partnerships in the USA, various securitisation structures, etc.  
+
+6.  The structure for InvITs is broadly proposed to address one or more of the following 
+
+concerns: 
+
+a.  Given the challenging phase of infrastructure in the country today, InvITs are 
+financing/refinancing  of 
+
+to  provide  a  suitable  structure 
+
+for 
+
+proposed 
+infrastructure projects in the country. 
+
+b.  Several existing infrastructure projects which are under development in India 
+are delayed and ‘stressed’ on account of varied reasons including increasing 
+debt  finance  costs,  lack  of/locked  up  equity  of  private  investors  in  projects 
+precludes  them  from  an  interest  in  undertaking  new  projects,  lack  of 
+international 
+infrastructure  projects,  project 
+implementation  delays  caused  by  various  factors  like  global  economic 
+
+finance 
+
+flowing 
+
+to 
+
+Indian 
+
+ 
+
+1 
+
+slowdown,  cost  overruns,  inability  of  concessionaire 
+requirements on time, etc. InvITs, as an investment vehicle, may aid:  
+
+to  meet  funding 
+
+i.  To  provide  wider  and  long-term  re-finance  for  existing  infrastructure 
+
+projects 
+
+ii.  To  free  up  current  developer  capital  for  reinvestment  into  new 
+
+infrastructure projects 
+
+iii.  To  refinance/takeout  existing  high  cost  debt  with  long-term  low-cost 
+capital  and  help  banks  free  up/reduce  loan  exposure,  and  thereby 
+create bank headroom for  new funding requirements  
+
+c.  There  are  several  infrastructure  companies  whose  funds  are  locked  up  in 
+completed/substantially completed infrastructure projects which can otherwise 
+be used for furthering infrastructure development in the country. InvITs may 
+be  an  enabling  vehicle  for  refinancing  such  assets  as  well  as  creating  an 
+investment option which may otherwise not be possible for smaller investors.  
+d.  InvITs are proposed to be vehicles allowing for adding of projects in future in 
+the same vehicle so that investors can benefit from diversification as well as 
+growth in their portfolio.  
+
+e.  InvITs are proposed to be suitable vehicles for attracting international finance 
+
+into Indian infrastructure sector. 
+InvITs are proposed to enable the investors to hold a diversified portfolio of 
+infrastructure assets.  
+
+f. 
+
+g.  InvITs  are  also  proposed  to  bring  higher  standards  of  governance  into 
+infrastructure development and management and distribution of income from 
+assets so as to attract investor interest 
+
+7.  In  line  with  the  above,  SEBI  is  exploring  appropriate  frameworks  for  introducing 
+InvITs in the country. SEBI has received various proposals for such InvITs including 
+bringing  InvITs  as  a  Mutual  Fund,  having  a  separate  set  of  Regulations  for  InvIT, 
+bringing InvITs under REIT framework, etc.  
+
+8.  With respect to REITs, SEBI had earlier explored frameworks such as Real Estate 
+Mutual Funds (REMF), guidelines for which were issued in 2008. However, no REMF 
+scheme has been launched till now. Subsequently, SEBI had placed a consultative 
+paper  along  with  draft  REIT  Regulations  on  SEBI  website  for  public  comments  on 
+October 10, 2013. Several comments were received on the consultative paper that 
+Infrastructure  assets  may  be  included  as  a  part  of  the  REIT  framework.  However, 
+bringing Infrastructure Investment Trusts under REIT framework may not be entirely 
+suitable since: 
+
+a.  The  inherent  nature  of  infrastructure  assets  is  different  from  real  estate 
+assets.  Further,  every  sub-sector  has  its  own  unique  characteristics. 
+Infrastructure  assets,  unlike  real  estate  assets,  have  unique  characteristics 
+such as finite life in some cases (At the end of concession period, assets may 
+get transferred back to government), only right to receive cash flows and no 
+
+ 
+
+2 
+
+asset ownership (E.g. in cases of roads, the ownership of the road stays with 
+the  government  and  the  developer  only  has  right  to  receive  cash  flows), 
+involvement  of various regulatory authorities, various  aspects  of  concession 
+agreement in case of PPP projects, etc.  
+
+b.  Infrastructure  sector  requires  different 
+
+types  of  disclosures,  different 
+restrictions on underlying assets, different leverage levels, etc. as compared 
+to  REITs  considering  the  difference  between  underlying  nature  of  the 
+infrastructure assets and real estate assets for which a separate framework 
+may be more desirable. 
+
+c.  REIT  is  essentially  a  framework  for  completed  and  revenue  generating 
+assets.  Including  InvITs  under  REIT  framework  shall  mean  excluding  other 
+types of assets that may be added to the framework.  
+
+d.  The  International  Advisory  Board  of  SEBI  has  also  recommended  that 
+framework  for  Infrastructure  Investment  Trusts  may  be  kept  separate  from 
+REITs. 
+
+9.  Therefore, it is proposed that the InvITs may be treated as a separate framework as 
+compared to REITs. The other proposals are enumerated as under, including their 
+pros and cons for better comprehension of the proposals. 
+
+ 
+
+A. 						InvITs	as	Mutual	Funds	
+
+The  proposal  suggests  that  Mutual  Fund  structure  being  an  already  established 
+structure in India may be a suitable route for InvITs in the country. Framework for such 
+InvITs  may  be  through  insertion  of  a  separate  chapter  in  the  SEBI  (Mutual  Funds) 
+Regulations,  1996  or  through  separate  Regulations  called  SEBI  (InvIT  Mutual  Funds) 
+Regulations.  
+Salient features of the proposal are as under: 
+a.  Structure and registration of the InvIT 
+
+(ii) 
+
+(i)  As any other Mutual Fund, an InvIT shall be set up as a Trust under the Indian 
+Trusts  Act,  1882.  It  shall  have  parties  including  Trustee,  sponsor,  project 
+managers, independent engineers, etc.  
+The  Trust  shall  initially  apply  for  registration  with  SEBI  as  an  InvIT  and  be 
+required to fulfill eligibility criteria as specified in the proposed Regulations.  
+InvITs would acquire shares of SPVs in infrastructure projects mainly being PPP 
+projects  between  government  and  private  sector.  The  structure  may  also  be 
+expanded to include non-PPP projects.  
+
+(iii) 
+
+b.  Parties to the InvIT 
+
+(i)  Sponsor  –  The  Sponsor  of  an  InvIT  will  be  an  Infrastructure  Developer  or  a 
+special  purpose  vehicle  (SPV)  holding  a  concession  agreement.  The  Sponsor 
+shall settle an InvIT Trust and transfer the majority shareholding of the SPV into 
+the InvIT. The Sponsor will be required to maintain its commitment in an InvIT 
+
+ 
+
+3 
+
+structure, i.e. a ‘skin-in-the-game’, either through holding a minimum percentage 
+of units in the trust or with a minimum shareholding in the SPV plus units in the 
+Trust.  
+
+ 
+
+(ii)  Project  Manager  –  The  original  concessionaire  of  an  infrastructure  project 
+acquired by an InvIT will be appointed as a Project Manager by the InvIT with 
+continuing  responsibilities 
+for  achieving  project  milestones  as  originally 
+envisaged  in  the  concession  documents.  Proposed  Regulations  shall  have  a 
+provision for replacing project managers for non performance. 
+
+(iii) 
+
+Independent Engineer – An Independent Engineer shall be retained as laid down 
+in  the  existing  Concession  Agreements.    It  is  advisable  that  parties  to  the 
+concession  agreement  be  retained  as  far  as  possible.  In  case  of  change,  the 
+procedure  laid  down  in  the  concession  agreement  or,  where  applicable, 
+guidelines of the authority would need to be followed. 
+
+(iv)  Advisory Board – The InvIT Trustee will be guided by an Independent Advisory 
+Board comprising sector experts and other professionals to advise the Trustee in 
+technical aspects, oversight of project managers and in other decision making. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(v)  Authority – as relevant for the specific infrastructure sector, (e.g. NHAI for roads) 
+the  new  concession  agreement  between  Sponsor 
+
+will  be  party 
+Concessionaire, Trust, Project Manager and Authority 
+
+to 
+
+Investment Conditions and Pay-out Policy 
+(i)  Each InvIT shall  mandatorily bundle a portfolio of infrastructure projects, a mix 
+of  pre-Commercial  Operations  Date  (‘COD’)  projects  (at  least  50%  developed) 
+and post-COD projects (already generating cash flows). It is advisable to have a 
+minimum 2 or 3 such projects in an InvIT at the start.  
+
+(iv) 
+
+(iii) 
+
+(ii)  An  InvIT  set  up  by  one  developer  can  invest  in  projects not  only  from  its  own 
+group  companies  but  also  from  other  project  developers.  Two  or  more 
+developers can also jointly sponsor the creation of an InvIT. 
+To start with, an InvIT shall initially be sector/sub-sector- specific (E.g. can invest 
+only in road projects) and thus only infrastructure projects under one sector can 
+be bundled together. 
+The InvIT shall hold not less than 76% of the equity shares of the SPV. A second 
+approach to creating an InvIT, through transfer of 100% of assets from an SPV 
+to the InvIT Trust vehicle and dissolution of the SPV, could also be considered 
+for non-PPP projects of the private sector subject to investible-grade ratings by 
+RBI-notified  Rating  Agencies  and 
+the  relevant 
+authorities.  
+InvITs shall invest at least 65% of net assets of the scheme in equity shares of 
+companies in line with Equity Oriented Mutual Fund schemes.  
+
+further  discussions  with 
+
+(v) 
+
+4 
+
+c. 
+
+ 
+
+(vi) 
+
+(vii) 
+
+InvIT shall be required to distribute at least 90% of its net distributable income 
+after tax to its investors. 
+The InvIT shall be an active role in development of the underlying projects.  
+
+d.  Offer of units of the InvIT and listing of units  
+
+(i)  After  registration  with  SEBI,  an  InvIT  shall  raise  funds  by  issuing  units  to 
+investors  through  an  initial  offer  and  may  subsequently  raise  further  funds 
+through  follow-on  offers.    InvITs  shall  be  allowed  to  raise  funds  from  both 
+domestic  and  foreign  investors.  All  non-resident  investment  in  the  InvIT  units 
+would, however, be subject to a lock in period of three years. However, all non-
+resident  investors  can  trade  amongst  themselves  within  this  lock  in  period  of 
+three years.  
+
+(ii)  Part  of  the  funds  raised  by  an  InvIT  will  be  deployed  for  buying  out  minimum 
+76%  equity  shares  in  the  SPV,  with  the  balance  funds  to  be  utilised  for 
+refinancing SPV  debt.  An  InvIT  will  earn  interest  income  from  the  SPV  on  the 
+loan  provided  by  the  InvIT  which  will  form  part  of  the  InvIT’s  net  distributable 
+income to be paid out to investors.  Timelines for share transfer post closure of 
+fund raising process to be specified in the proposed regulations. 
+
+(iii)  General  procedure  for  initial/follow-on  offer,  filing  of  offer  document/follow-on 
+offer document, allotment and listing of units (if required) will be specified in the 
+proposed regulations to be drafted by SEBI. Detailed disclosures required in the 
+offer  document  /  follow-on  offer  document  shall  also  be  specified  in  the 
+regulations. 
+
+(iv)  Units  of  an  InvIT  may  be  listed  on  the  stock  exchange.  While  listing  is  not 
+mandatory, listing of MF units will allow certain taxation benefits. Once units of 
+the InvIT are listed, it shall continue to be listed on the exchange unless delisted 
+in  accordance  with  the  provisions  for  delisting  to  be  specified  in  the  proposed 
+SEBI regulations. 
+
+e.  Valuation  
+
+(i) 
+
+For  acquisition  of  shares  of  the  SPV,  valuation  would  be  based  on  the 
+Discounted  Cash  Flow  (DCF)  method.  An  InvIT  would  acquire  a  post-COD 
+project from a developer at a discount and a pre-COD project from a developer 
+at  a  deeper  discount  rate,  subject  to  negotiations  and  a shadow  book-building 
+exercise with potential investors.  
+
+(ii)  Post  acquisition  of  Infrastructure  Assets  –  To  ensure  an  accurate  valuation  of 
+underlying  InvIT  assets,  a  full  valuation  will  be  required  to  be  undertaken, 
+including  physical  inspection,  at  least  once  a  year.  Further,  a  six  monthly 
+valuation update capturing key changes in the previous 6 months would also be 
+required.  Consequently,  the  net  asset  value  (NAV)  shall  be  declared  at  least 
+once  a  year.  Provisions  to  be  specified  for  valuation  in  case  of  any  material 
+developments. 
+ 
+
+ 
+
+5 
+
+f.  Disclosure and other requirements 
+
+(i) 
+
+To  ensure  transparency  and  governance  in  an  InvIT  structure,  detailed 
+disclosure requirements shall be specified in the proposed regulations, which will 
+be not be inferior to those required under the current contractual and statutory 
+requirements  stipulated 
+(model  bidding 
+documents). 
+
+the  contractual  documents 
+
+in 
+
+(iii) 
+
+(ii)  A prospectus / offer document will mandatorily be developed by the InvIT, with 
+disclosure requirements to be as specified by SEBI in the proposed regulations. 
+Further, minimum disclosures have also been specified for the annual and half-
+yearly reports to be sent to investors. 
+The trust agreement will include the class of beneficiaries. The investors to the 
+InvIT would be the beneficiaries to the Trust. The Agreement would also include 
+detailed  provisions  setting  forth  the  purposes  of  the  InvIT  and  the  authority 
+conferred to the trustees. 
+The  Concessionaire  (the  originator),  also  appointed  as  Project  Manager  shall 
+carry  out  development  and  operations  of  the  Trust  assets  as  also    provide 
+management and collection services with respect to the receivables transferred 
+to the Trust, with these services provided under service agreements. InvIT would 
+enter into all financing agreements and other documents. If the financing is to be 
+obtained  through  the  issuance  of  securities,  a  prospectus  would  need  to  be 
+prepared and approved by SEBI. 
+
+(iv) 
+
+(v)  Safeguards  will  be  built  in  to  ensure  that  the  entity  acting  as  the  Trustee 
+accounts  for  the  rights  transferred  and  maintains  them  separate  from  other 
+assets it may hold. It will also be ensured that the assets that the InvIT holds by 
+virtue of a trust agreement are dedicated exclusively to the specific purposes of 
+the  trust,  and  that  they  are  not  available  to satisfy  other  liabilities  of  the  entity 
+acting as trustee 
+
+(vi)  Certain event-based disclosures shall also be specified. Further, the InvIT shall 
+additionally be bound by periodical disclosure requirements required under the 
+listing agreement with the exchanges 
+There will be no limits on gearing of an InvIT. However, for qualification as an 
+equity-oriented mutual fund, the deployment of funds raised by the InvIT shall, 
+overall  on  an  annual  basis,  necessarily  have  to  ensure  that  at  least  65%  is 
+deployed in the equity of the underlying assets. 
+
+(vii) 
+
+Advantages of the proposal: 
+
+(i) 
+
+(ii) 
+
+The  proposal  is  expected  to  provide  a  boost  to  refinancing  of  stressed  and 
+delayed projects in the country as well as providing exit to developers/lenders  of 
+existing  completed  projects  thereby  freeing  up  developer  capital/bank  loan 
+exposure for financing and developing new projects.  
+The  proposal  is  expected  to  attract  international  finance  in  the  infrastructure 
+sector in India. Further, the proposal, by mandating bundling of completed and 
+
+ 
+
+6 
+
+under-construction projects, shall also provide a risk-diversified portfolio for the 
+investors.  
+
+(iii)  Mutual  fund  is  an  established  structure  and  including  InvITs  as  Mutual  Funds 
+
+would enable easy association of the investors with the vehicle.  
+
+(iv)  With  other  enabling  frameworks  pertaining  to  Mutual  Funds  already  in  place 
+including  framework  for  foreign  investments,  taxation  framework,  frameworks 
+allowing institutional investors such as Banks, insurance companies and pension 
+funds to invest in Mutual Funds, etc., further amendments required in such other 
+laws would be marginal. 
+InvITs as Equity Oriented Mutual Funds will have tax efficiencies built-in for the 
+benefit of the investors. 
+
+(v) 
+
+Possible impediments in the proposal: 
+
+(i) 
+
+(ii) 
+
+The  nature  of  InvIT,  being  different  from  general  nature  of  mutual  funds, 
+conditions  applicable  to  general  mutual  funds  may  not  be  suitable  for  InvITs 
+considering different objectives, structure, nature of assets, investments, parties 
+involved, disclosures, etc.   
+The  proposed  InvIT  framework  differs  from  mutual  funds  in  terms  that  it  is 
+essentially a refinancing vehicle for existing identified infrastructure assets and 
+will be set up primarily to buy out stakes in sponsor assets. Further, InvITs also 
+differ  from  general  mutual  funds  in  aspects  such  as  investment  primarily  in 
+unlisted  SPVs,  perpetual  nature  of  vehicle,  requirement  of  less  frequent 
+valuation  and  NAV  declaration,  limited  structural  and  financial  flexibility  due  to 
+categorisation as an Equity Oriented Mutual Fund, etc.  
+
+(iii)  Mutual  Funds  are  essentially  financial  investors.  Allowing  InvITs  structured  as 
+Mutual  Funds  to  undertake  operational  and  developmental  aspects  of  the 
+projects as well as becoming a party to the concession agreement may not be in 
+line with the general nature of Mutual Funds. 
+The proposed structure mandates bundling of completed and under construction 
+projects  and  does  not  allow  for  investments  only  in  completed  and  revenue 
+generating  assets.    This  may  be  an  impediment  for  a  class  of  investors  who 
+would like to take exposure only to completed and regular revenue generating 
+infrastructure assets. 
+
+(iv) 
+
+	
+
+B. 						InvITs	under	a	separate	framework		
+
+This proposal envisages that infrastructure is a unique sector requiring special structures 
+and concessions keeping in mind the nature of assets and importance of the sector to 
+the economy. The proposal envisages a separate framework called SEBI (Infrastructure 
+Investment Trusts) Regulations (“InvIT Regulations”), with a broad structure with various 
+categories depending on the nature of underlying projects, stage of construction, type of 
+investors, etc. The proposal envisages that any pooling vehicle formed for the purpose 
+of investment in infrastructure sector may be included in the Regulations.  
+
+ 
+
+7 
+
+Salient features of the proposal are as under: 
+
+a.  Structure of the InvIT 
+
+(i) 
+
+(ii) 
+
+The InvIT shall be set up as a Trust under the provisions of the Indian Trusts Act, 
+1882. InvITs shall raise funds by way of public issue/private placement, as may 
+be applicable. The Trust shall not launch schemes.  
+The InvIT shall have parties such as trustee, sponsor and manager. Apart from 
+the manager at the InvIT level, the SPVs may have separate project managers 
+for every project (especially for PPP projects). Further, there would be a sponsor 
+for every project, together acting as co-sponsors at the InvIT level.  
+
+(iii)  Other parties which may be required under the concession agreement such as 
+independent  engineer,  etc.  may  also  be  appointed/  the  existing  person  may 
+continue.    A  revised  concession  agreement,  if  required,  may  be  entered  into 
+between the InvIT, the concessionaire (SPV), project manager (if different from 
+SPV) and any regulatory authority (E.g. NHAI for roads) as may be relevant to 
+the sector/ sub-sector.  
+If  the  underlying  projects  are  non-PPP  projects,  appropriate  conditions  would 
+accordingly be applicable.  
+
+(iv) 
+
+b.  Registration of InvIT 
+
+(i) 
+
+(ii) 
+
+The  Trust  shall  initially  apply  for  registration  with  SEBI  as  an  InvIT  in  the 
+specified  format.  SEBI,  on  being  satisfied  that  the  eligibility  conditions  are 
+satisfied, shall grant the InvIT certificate of registration.  
+The InvIT may apply for registration under either of the following 2 categories: 
+1.  Category  I  InvIT-  where  the  InvIT  may  invest  in  multiple  infrastructure 
+
+projects, whether pre or post-COD.  
+
+2.  Category  II  InvIT-  where  the  InvIT  shall  invest  only  in  1  year  post-COD 
+
+revenue generating projects  
+(SEBI may notify any other categories as it may deem fit in future) 
+
+c.  Raising of funds by the InvIT and listing of units 
+
+(i)  After registration, the InvIT shall raise funds as under: 
+
+1.  In case of Category I InvIT: 
+
+a.  It shall raise funds only from institutional investors (domestic or foreign). 
+This  is  keeping  in  mind  that  the  underlying  under-construction  projects 
+shall be risky in nature.  
+
+b.  Subscription amount by each investor shall be not less than Rs. 5 crore. 
+c.  The funds shall be raised by way of private placement.  
+d.  Category I InvIT may list its units on the recognized stock exchange, if it 
+
+so desires, subject to trading lot of Rs. 1 crore.  
+ 
+
+8 
+
+ 
+
+2.  In case of Category II InvIT: 
+
+a.  It may raise funds from any investor (domestic or foreign).  
+b.  Subscription amount by each investor shall be not less than Rs. 10 lakhs. 
+c.  The  funds  shall  be  raised  by  way  of  initial  offer  to  the  public.  Further 
+issues  may  be  by  way  of  follow-on  offers,  right  issues,  bonus  issues, 
+preferential allotments or any other route as may be prescribed by SEBI.  
+d.  Units of Category II InvITs shall be listed on a recognized stock exchange 
+
+with a trading lot of Rs. 5 lakhs. 
+
+e.  Any further issue shall be subject to the minimum subscription size of Rs. 
+
+10 lakhs. 
+
+(ii) 
+
+(iii) 
+
+(iv) 
+
+(v) 
+
+If listed, the units of the InvIT shall continue to be listed on the exchange unless 
+delisted under the Regulations. Provisions for delisting shall be specified in the 
+Regulations  and  detailed  guidelines  may  be  specified  by  separate 
+guidelines/circulars, etc.  
+For any listed InvIT, if at any point, the InvIT reaches the end of the concession 
+period for the last project under the InvIT and proposes to invest in no projects in 
+future, it shall be  required to be delisted, to be  wound up and  to surrender its 
+certificate  of  registration.  Application  for  such  delisting  shall  be  required  to  be 
+made  at  least  6  months  prior  to  expiry  of  such  concession  period.  For  any 
+unlisted InvIT, in the aforesaid case, the InvIT shall be wound up within 3 months 
+from the last date of expiry of the concession period of the last project and would 
+be required to surrender its certificate of registration.  
+For the initial offering of any InvIT, the size of the proposed projects under the 
+InvIT  shall  not  be  less  than  Rs.  1000  crore  (which  is  expected  to  ensure  that 
+initially only large projects and established players enter the market). The size 
+may  be  relaxed  in  future  as  the  market  develops.  Further,  the  minimum  issue 
+size for such InvITs (Initial issue) shall be Rs. 250 crore.  
+In case of Category II InvITs, the minimum public float post listing shall be 25% 
+(on  post-issue  basis)  to  ensure  adequate  public  participation  and  float  in  the 
+units.  
+
+(vi)  General  procedure  for  initial/follow-on  offer/private  placement,  filing  of  offer 
+document/follow-on  offer  document/placement  memorandum,  allotment  and 
+listing  of  units,  if  any  shall  be  specified  in  the  Regulations.  Detailed  minimum 
+disclosures  required  in  the  offer  document/follow-on  offer  document/placement 
+memorandum shall also be specified in the Regulations.  
+
+d.  Responsibilities of various parties to the InvIT 
+
+(i)  Responsibilities of the Trustee 
+
+1.  The Trustee shall be independent of sponsor and manager and hold the InvIT 
+assets for the benefit of the investors in accordance with the Trust Deed and 
+the proposed Regulations. The Trustee is primarily an overseeing entity. 
+
+ 
+
+9 
+
+2.  Certain  minimum  number  of  independent  directors  may  be  required  for  the 
+
+Trustee for achieving its independent nature.  
+
+(ii)  Responsibilities of the manager 
+
+1.  In InvITs, there would typically be 2 sets of managers: 
+
+a.  One  at  the  InvIT  level  who  would  assume  all  the  operational 
+responsibilities  with  respect  to  the  activity  of  the  InvIT  (hereinafter 
+referred to as ‘Manager’).  
+
+b.  Several project managers at each project level (hereinafter referred to 
+as  ‘Project  Managers’).This  may  be  the  concessionaire  SPV  itself  or 
+any  other  project  manager  as  may  be  appointed  in  accordance  with 
+the  concession  agreement.  Role  of  such  project  managers  shall  be 
+restricted to the specific project.  
+
+2.  Roles and responsibilities of the manager shall be specified in the agreement 
+entered  into  between  the  trustee  and  the  manager.  Role  of  the  project 
+managers shall typically be provided in the concession agreement/any other 
+agreement entered for the purpose.  
+
+3.  Certain  requirements  with  respect 
+
+to  experience,  minimum  networth, 
+manpower  with  sufficient  relevant  experience,  etc.  may  be  specified  for  the 
+manager in the Regulations.  
+
+from 
+
+the 
+
+4.  The manager may have an Advisory Board which may consist of independent 
+experts 
+from  regulatory  authorities, 
+representatives of major stakeholders in the projects, representatives of major 
+investors, etc. The Advisory Board would play an advisory role in managing 
+activities of the InvIT. 
+
+industry,  representatives 
+
+5.  Responsibilities of manager shall range throughout the life of the InvIT right 
+from  the  application  for  registration  to  any  other  procedural  activities  till 
+delisting/winding  up  of  the  InvIT.  Manager  shall  be  responsible  for  various 
+operational aspects including application for registration, issue and listing, if 
+any,  of  units  of  the  InvIT,  appointment  of  any  parties/agents,  overseeing  of 
+activities  of  the  project  managers,  investment  decisions  of  the  InvIT, 
+disclosures and reporting, distributions to unit holders, etc. 
+
+(iii)  Responsibilities of sponsor  
+
+1.  In case of a project, the primary promoter of the SPV (typically lead member 
+of the consortium which had bid for the project) would be the sponsor of the 
+InvIT.  In  case  of  multiple  projects,  the  respective  promoters  would  be  co-
+sponsors.  
+
+2.  The sponsor would be mandated to flip all its shares in the SPV in exchange 
+of  units  to  the  InvIT  prior  to  listing  so  that  the  sponsor  is  at  par  with  other 
+investors in the InvIT. The sponsor shall hold, at all times, at least 24% of the 
+number of units of the InvIT. In case of multiple sponsors, the aforesaid limit 
+shall apply to the combined holding of all the sponsors. This is expected to 
+
+ 
+
+10 
+
+ensure  a  ‘skin-in-the-game’  for  the  sponsor  and  ensure  commitment  of  the 
+sponsor to the project and the InvIT.  
+
+3.  Net worth and experience criteria may also be laid down for the sponsor in the 
+
+proposed Regulations.  
+
+e. 
+
+Investment conditions and distribution policy 
+(i)  All  InvIT  can  invest  only  in  infrastructure  projects.  Un-invested  portion  may, 
+however,  be  invested  in  liquid  instruments,  cash  equivalents,  government 
+securities, etc. 
+
+(ii)  Any InvIT shall invest in infrastructure projects belonging to only one sector/sub-
+
+sector.This condition may be relaxed in future as the market develops. 
+
+(iii)  Specifically  for  Category  I  and  II  InvITs,  investment  conditions  shall  apply  as 
+
+under: 
+
+1.  Category I InvITs: 
+
+a.  may invest in pre-COD/post-COD projects. 
+b.  shall invest in a minimum of at least 2 projects. 
+c.  May have additional conditions for investment as may be specified in its 
+
+offer document/placement memorandum. 
+
+2.  Category II InvITs: 
+
+a.  Shall invest only in 1 year post-COD revenue generating projects. 
+b.  Shall invest in a minimum of at least 4 projects. 
+
+To ensure regular income to the investors, the InvITs shall distribute atleast 90% 
+of  the  net  distributable  income  after  tax  of  the  InvIT  to  its  investors.  If  the 
+concession  agreement  does  not  provide  for  such  distribution,  the  same  may 
+have  to  be  modified  to  that  extent.  An  agreement  may  be  entered  into  by  the 
+InvIT  with  other  shareholders  in  the SPV  to  effect such  distribution.  This  may, 
+however,  be  relaxed  for  Category  I  InvIT,  if  required,  especially  if  all  the 
+underlying projects are incomplete. 
+
+(iv) 
+
+(v) 
+
+(vi) 
+
+InvITs  may  invest  in  the  projects  either  directly  or  through  special  purpose 
+vehicles (SPVs). Such SPVs shall not undertake any other activity other than as 
+specified in the concession agreement or in accordance with these Regulations 
+or  in  accordance  with  any  other  relevant  laws/regulations/Acts  and  any  acts 
+which are incidental to such activity.  
+In case of SPV route, The InvIT shall have control over the SPV and hold not 
+less than 51% of the shares of the SPV so that the interest of the investors of the 
+InvIT are not jeopardised. If the concession agreement does not provide for such 
+holding, then the same may have to be modified to that extent. 
+The InvIT shall invest only in projects based in India.  
+
+(vii) 
+(viii)  Other  detailed  investment  conditions  may  be  provided  in  the  proposed 
+
+Regulations.  
+
+ 
+
+11 
+
+f.  Related party transactions 
+
+(i)  All  related  party  transactions  shall  be  on  an  arms-length  basis,  in  the  best 
+interest of the investors, consistent with the strategy & investment objectives of 
+the  InvIT  and  shall  be  disclosed  to  the  investors  (and  exchanges  if  listed) 
+periodically  in  accordance  with  the  proposed  Regulations  (and  the  listing 
+agreement, if listed). 
+
+(ii)  Detailed disclosures, valuation requirements, approval from majority of investors, 
+related  party  abstaining  from  voting,  etc.  may  be  required  for  related  party 
+transactions.  However,  if  any  of  the  aforesaid  transactions  are  required  under 
+the concession agreements, copy of which is provided to all the investors, then 
+the conditions may not apply. Investors' approval may be required for the related 
+party transactions wherein the value is above a threshold. 
+
+g.  Borrowings and deferred payments 
+
+(i) 
+
+In  case  of  Category 
+borrowings/deferred payments (consolidated) of the InvIT. 
+
+there  shall  be  no 
+
+I 
+
+InvITs, 
+
+restrictions  on 
+
+(ii)  However, for Category II InvITs, keeping in mind the nature of investors and the 
+projects, the aggregate consolidated borrowings and deferred payments of the 
+InvIT  shall  be  capped  at  50%  of  the  value  of  the  InvIT  assets.  If  the  same 
+exceeds  25%,  requirement  of  credit  rating  from  a  credit  rating  agency  and 
+approval of majority of investors shall be required. 
+
+h.  Valuation of assets  
+
+(i) 
+
+(ii) 
+
+To  ensure  that  the  underlying  projects  of  InvIT  are  valued  accurately, 
+requirement of a full valuation including a physical inspection of the project shall 
+been  specified  at  least  once  a  year.  Further,  a  six  monthly  updation  in  the 
+valuation  capturing  key  changes  in  the  last  six  months  shall  be  specified  for 
+Category II InvIT. Consequently, the NAV shall be declared at least once/twice in 
+a year as may be applicable. Provisions may also be specified for valuation in 
+case of any material development.  
+The valuer shall be required to have a minimum specific experience in valuation 
+in  the  field/  have  minimum  number  of  people  with  adequate  experience  in 
+valuation in the field or both.  
+
+i.  Rights of investors 
+
+(i) 
+
+(ii) 
+
+In order to ensure safeguarding of interests of the investors, certain rights shall 
+be provided to the investors in order to empower them. The investors shall have 
+right  to  remove  the  manager,  auditor,  valuer,  seek  delisting  of  units,  apply  to 
+SEBI for change in trustee, etc. Approval of investors may be made mandatory 
+in special cases.  
+For  Category  II  InvITs,  an  annual  meeting  of  all  investors  shall  be  mandatory 
+wherein matters such as latest annual accounts, valuation reports, performance 
+of the InvIT, approval of auditors & their fees, appointment of valuer, etc. may be 
+discussed.  
+
+ 
+
+12 
+
+(iii) 
+
+In  order  to  ensure  that  a  related  party  does  not  influence  the  decision,  any 
+person who is a party to any transaction as well as associates of such person(s) 
+shall not participate in voting on the specific issue. 
+
+j.  Disclosures 
+
+(i)  Specific  minimum  disclosure  requirements  shall  be  required  under 
+
+the 
+Regulations.  The disclosure requirements shall be higher for Category II InvITs. 
+Further,  for  Category  I  InvITs  which  are  listed  on  the  stock  exchanges, 
+disclosure  requirements  would  be  higher  as  compared  to  unlisted  Category  I 
+InvITs.   
+
+(ii)  Minimum  disclosure  requirements 
+
+the  offer  document/follow-on  offer 
+document/placement  memorandum  shall  be  specified 
+the  proposed 
+Regulations. Further, minimum disclosures shall also be specified for the annual 
+and half-yearly reports to be sent to the investors.  
+
+in 
+
+in 
+
+(iii)  Certain event-based disclosures may also be specified. Further, the InvIT shall 
+additionally be bound by periodical disclosure requirements required under the 
+listing agreement with the exchanges, if its units are listed. 
+The InvIT shall continue  to be subject to any other  disclosures required under 
+the  concession  agreement  or  any  other  regulatory/statutory  requirements,  as 
+may be applicable.  
+
+(iv) 
+
+(v)  Detailed  disclosures  may  also  be  required  pertaining  to  the  concession 
+agreement,  completion  status  and  any  supporting  documents  for  the  same, 
+Credit  enhancement  (if  any),  credit  rating  (if  any),  etc.  as  also  any  other 
+disclosures that may be specific to the sub-sector.  
+
+Advantages of the proposal 
+
+The  proposal  allows  for  a  broad  framework  encompassing  multiple  possible 
+types  of  structures  for  investment  in  infrastructure  sector.  The  framework  also 
+allows for adding of future new and innovative structures as may be required. 
+The  proposal  allows  for  targeting  of  specific  incentives  by  government/ 
+regulators  for  the  infrastructure  sector  in  general  or  any  sector/sub-sector  in 
+particular.  
+The  proposal  envisages different nature  of  investments/projects  and  allows  for 
+streamlining of the investment conditions, types of investors, conditions for issue 
+of  units,  listing,  borrowings,  disclosures,  etc.  accordingly  by  segregating  such 
+structures into various categories.  
+The  proposal  allows  refinancing  of  existing  under-construction  projects  as  well 
+as  refinancing  of  completed  revenue  generating  projects  thereby  freeing  up 
+developer  capital/  bank  loan  exposure  for  investment  in  development  of  new 
+projects. The structure may also be used in future, if required, for bidding for new 
+infrastructure projects after gaining sufficient experience.  
+ 
+
+13 
+
+(i) 
+
+(ii) 
+
+(iii) 
+
+(iv) 
+
+ 
+
+Possible impediments to the proposal 
+
+(i) 
+
+(ii) 
+
+(iii) 
+
+The  proposed  InvIT,  not  being  an  established  framework,  may  require  the 
+investors to develop a deep understanding of it.  
+For InvITs to take off, amendments would be required in taxation laws as well as 
+foreign investment guidelines to allow foreign investments in InvITs. Issues with 
+respect  to  taxation  of  InvIT  including  clarity  in  taxation  aspects,  pass  through 
+status in line with global best practices, etc. would be crucial for the success of 
+InvITs in India. Sectoral Regulators may also need to issue/modify guidelines in 
+order  to  allow  insurance  companies,  pension  funds,  banks,  etc.  to  invest  in 
+InvITs.  
+The  separate  InvIT  Regulations  added  to  IDF-MF  and  Category  I  AIF-
+Infrastructure  Fund  may  result  in  confusion  in  minds  of  investor  in  terms  of 
+overlapping aspects among the frameworks. 
+
+(iv)  Having  multiple  categories  with  different  investors,  structures,  fund  raising 
+
+modes, investment conditions, etc. may be confusing.  
+
+Draft InvIT framework for Public Comments 
+
+1.  Public comments are invited on the consultative paper on the aforesaid proposals. 
+Comments may be forwarded by email to Ms. Nila Salil Khanolkar, Assistant General 
+Manager 
+(nila@sebi.gov.in)  or  Mr.  Naveen  Gupta,  Assistant  Manager 
+(naveeng@sebi.gov.in) latest by January 20, 2014. 
+2.   Comments should be given in the following format: 
+
+a.  Name of entity/ person/ intermediary 
+
+b.  Comments/ suggestions on the above proposals  
+
+c.  Any other suggestions/comments 
+
+ 
+ 
+Issued on: December 20, 2013 
+
+ 
+
+14 
+
+

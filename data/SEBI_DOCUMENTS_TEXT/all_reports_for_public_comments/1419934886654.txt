@@ -1,0 +1,664 @@
+ 
+ 
+
+ 
+
+ 
+
+Discussion Paper on “Re-classification of 
+
+Promoters as Public” 
+
+Background:  
+ 
+1.  Regulations 2(1)(za) and (zb) of SEBI (Issue of Capital and Disclosure Requirements) 
+
+ 
+
+Regulations, 2009 (hereinafter referred to as ‘ICDR Regulations’) define promoter and 
+
+promoter group as under: 
+
+ 
+
+(za)  “promoter” includes:  
+
+ 
+
+the person or persons who are in control of the issuer; 
+
+(i) 
+(ii)  the  person  or  persons  who  are  instrumental  in  the  formulation  of  a  plan  or 
+
+programme pursuant to which specified securities are offered to public; 
+
+(iii)  the person or persons named in the offer document as promoters: 
+
+ 
+
+Provided that a director or officer of the issuer or a person, if acting as such merely 
+in his professional capacity, shall not be deemed as a promoter: 
+ 
+Provided  further  that  a  financial  institution,  scheduled  bank,  foreign  institutional 
+investor and mutual fund shall not be deemed to be a promoter merely by virtue of 
+the fact that ten per cent. or more of the equity share capital of the issuer is held by 
+such person; 
+ 
+Provided  further  that  such  financial  institution,  scheduled  bank  and  foreign 
+institutional investor shall be treated as promoter for the subsidiaries or companies 
+promoted by them or for the mutual fund sponsored by them; 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+(zb) “promoter group” includes: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+the promoter; 
+
+(i) 
+(ii)  an  immediate  relative  of  the  promoter  (i.e.,  any  spouse  of  that  person,  or  any 
+
+parent, brother, sister or child of the person or of the spouse); and 
+
+(iii)  in case promoter is a body corporate: 
+
+(A)  a subsidiary or holding company of such body corporate; 
+(B)  any body corporate in which the promoter holds ten per cent. or more of 
+the equity share capital or which holds ten per cent. or more of the equity 
+share capital of the promoter; 
+
+(C)  any  body  corporate  in  which  a  group  of  individuals  or  companies  or 
+combinations  thereof  which  hold  twenty  per  cent.  or  more  of  the  equity 
+share capital in that body corporate also holds twenty per cent. or more of 
+the equity share capital of the issuer; and 
+
+(iv)  in case the promoter is an individual: 
+
+(A)  any  body  corporate  in  which  ten  per  cent.  or  more  of  the  equity  share 
+capital is held by the promoter or an immediate relative of the promoter 
+or a firm or Hindu Undivided Family in which the promoter or any one or 
+more of his immediate relative is a member; 
+
+(B)  any  body  corporate  in which  a  body  corporate  as  provided  in  (A)  above 
+
+holds ten per cent. or more, of the equity share capital; 
+
+(C)  any Hindu Undivided Family or firm in which the aggregate shareholding 
+of the promoter and his immediate relatives is equal to or more than ten 
+per cent. of the total; and 
+
+(v)  all  persons  whose  shareholding  is  aggregated  for  the  purpose  of  disclosing  in 
+
+the prospectus under the heading "shareholding of the promoter group": 
+ 
+
+ Provided  that  a  financial  institution,  scheduled  bank,  foreign  institutional  investor 
+and mutual fund shall not be deemed to be promoter group merely by virtue of the 
+fact that ten per cent. or more of the equity share capital of the issuer is held by such 
+person: 
+ 
+Provided  further  that  such  financial  institution,  scheduled  bank  and  foreign 
+institutional  investor  shall  be  treated  as  promoter  group  for  the  subsidiaries  or 
+companies promoted by them or for the mutual fund sponsored by them” 
+
+ 
+
+2.  Regulation  2(1)(s)  of  SEBI  (Substantial  Acquisition  of  Shares  and  Takeovers) 
+
+Regulations, 2011 (hereinafter referred to as ‘SAST Regulations’) defines promoter as 
+
+under: 
+
+““Promoter” has the same meaning as in the Securities and Exchange 
+Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2009 and 
+includes a member of the promoter group.” 
+ 
+
+3.  Thus,  under  the  SAST  Regulations,  promoters  are  defined  in  reference  to  ICDR 
+
+Regulations. As per ICDR Regulations, promoter also includes person/s named in the 
+
+Re-classification of Promoters as Public 
+ 
+
+Page 2 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+offer document as promoters. This may lead to a scenario of “once a promoter, always 
+
+a promoter”. 
+
+ 
+
+4.  Further, there are various disclosure requirements on the promoter/s under the said 
+
+SAST Regulations viz. on acquisition, disposal of shares, pledge, etc. Thus, timely and 
+
+accurate disclosure of promoter / promoter group is essential. 
+
+ 
+
+5.  While implementing the mandatory requirement  of minimum 25% public holding in 
+
+private  listed  companies  in  terms  of  Rule  19A  of  Securities  Contracts  (Regulation)  
+
+Rules,  1957 (hereinafter referred to as ‘SCRR’), it was observed that some companies 
+
+attempted to comply with the minimum public shareholding norm by reclassifying a 
+
+part of the promoter group entities as public. 
+
+ 
+Need for review: 
+ 
+6.  A few examples  wherein  promoters may desire  to  re-classify their holding as  public 
+
+have been explained below: 
+
+ 
+
+ 
+
+a.  ‘Group A’ was classified as the promoters of the company ‘X’.  ‘Group B’ entered 
+
+into  an  agreement  with  ‘Group  A’  and  the  company,  to  acquire  substantial 
+
+shares  of  the  company.  Later  ‘Group  A’  requested  the  company  to  terminate 
+
+the  Shareholders  Agreement  and  wanted  to  classify  themselves  as  public 
+
+shareholders.  Shareholding  Agreement  was  terminated  and  stock  exchanges 
+
+were  intimated  about  the  same.  After  obtaining  the  consent  of  shareholder 
+
+through postal ballot, the company amended the Articles of Association of the 
+
+company by removing all the special rights and privileges available to ‘Group 
+
+A’.  
+
+Whether in such a case can ‘Group A’ re-classify its holding to public category? 
+
+b.   'X'  Ltd is  a  listed company. 'A' is  the  daughter of one of the  promoters. After 
+
+marriage of 'A' with a family member of a business competitor, ‘A ‘desired to 
+
+re-classify her holding in the public category in ‘X’.  
+
+Whether ‘A’ may be permitted to re-classify herself as public shareholder? 
+
+Re-classification of Promoters as Public 
+ 
+
+Page 3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+c. 
+
+‘A’ is promoter of a company and holds 70% of the shares of the said company 
+
+along  with  his  family  members.  ‘B’  a  strategic  investor,  wants  to  have  a 
+
+controlling stake in the company and therefore enters into an agreement with 
+
+‘A’ and the  company. After the  said agreement ‘A’ would  hold 25% stake and 
+
+the  strategic  investor  would  have  50%  stake.  ‘A’  would  continue  to  be  the 
+
+Chairman of the said company. 
+
+In such a scenario, whether ‘A’ may be re-classified as public shareholder? 
+
+d.  ‘A’ and ‘B’ are family members and jointly promoted various companies. Due to 
+
+a family dispute, ‘A’ and ‘B’ decided to enter into a family separation agreement 
+
+which was registered. As part of the agreement, ‘A’ will transfer majority of its 
+
+holding in some of the companies to ‘B’ and similarly ‘B’ will transfer majority 
+
+of its holding in some other companies to ‘A’. 
+
+In  such  a  case,  ‘A’  would  desire  to  be  re-classified  as  public  shareholder  in 
+
+companies where ‘B’ would hold substantial shares and vice-versa. 
+
+Should such re-classifications be permitted? 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+e.  There is a company run by family members initially. However, the said family 
+
+members  want  to  exit  from  the  day  to  day  operations  of  the  company  and 
+
+would  hold  a  minor  stake  in  the  company.  The  said  members  would  like  to 
+
+handover  the  management  of  the  company  to  professionals  and  would  not 
+
+have any special rights in the company. 
+
+Should the holding of such family members be re-classified as public holding? 
+
+ 
+
+7.  As the present regulatory framework does not prescribe criteria for re-classification, 
+
+it  is  proposed  to  prescribe  specific  criteria  to  lend  objectivity  to  the  process  of 
+
+reclassification  of  promoters  of  listed  companies  as  public  shareholders  under 
+
+various circumstances. 
+
+ 
+Review process: 
+ 
+8.  Accordingly, the matter was discussed by the Primary Market Advisory Committee  
+
+Re-classification of Promoters as Public 
+ 
+
+Page 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+(“PMAC”) of SEBI in its meetings held on October 30, 2013, December 19, 2013 and 
+
+August 11, 2014.  
+
+ 
+
+ 
+ 
+
+ 
+
+9.  Based  on  the  deliberations/recommendations  of  PMAC,  a  policy  framework  which 
+
+details the various scenarios and conditions under which a promoter/promoter group 
+
+entity  can  be  re-classified  as  a  public  shareholder  is  proposed  in  the  subsequent 
+
+paragraphs. 
+
+ 
+Proposed Policy Framework: 
+ 
+10. An entity belonging to promoter / promoter group of listed companies may re-classify 
+
+its  shareholding  to  public  category  under  the  following  three  scenarios,  subject  to 
+
+certain conditions as stated thereafter: 
+
+ 
+
+ 
+
+ 
+
+I. 
+
+Pursuant  to  an  open  offer  under  the  SAST  Regulations  or  on  account  of  an 
+
+exemption granted by SEBI under the said Regulations. 
+
+II. 
+
+In  case  of  a  separation  agreement  -  The  said  agreement  shall  be  duly  registered 
+
+under  the  Registration  Act,  1908  or  the  material  terms  of  the  separation 
+
+agreement should be disclosed to the stock exchanges, prior to the reclassification. 
+
+III. 
+
+The  promoter  along  with  the  entire  promoter  group  to  which  the  promoter 
+
+belongs, taken together, holds less than 5% shares in the company (including any 
+
+convertibles/outstanding warrants/ADR/GDR Holding).  
+
+ 
+
+ 
+
+Open Offer 
+
+Re-
+
+classification 
+of Promoters  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Separation 
+ 
+Agreement 
+ 
+
+Share holding 
+less than 5% 
+
+Re-classification of Promoters as Public 
+ 
+
+Page 5 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Common Conditions with respect to Scenario I, II and III: 
+ 
+a.  Post  reclassification,  no  shareholding  agreement  shall  exist  and  all  past  agreements 
+
+   
+
+ 
+
+ 
+
+between  (i)  outgoing  promoter  /  promoter  group  entities  and  the  continuing 
+
+promoter / promoter group entities and (ii) outgoing entities and the company, shall 
+
+be  made  null  and  void.  In  other  words,  such  outgoing  entities  shall  have  only  such 
+
+rights  as  any  other  public  shareholder.  No  special  rights  shall  be  with  the  outgoing 
+
+entity through any formal or informal arrangements 
+
+b.  Outgoing entities shall not hold any Key Management Personnel (“KMP”) position in 
+
+the  company  and  the  other  group  or  associate  companies.  Further,  in  case  the 
+
+promoter is a corporate entity, KMP’s of such corporate promoter shall not hold any 
+
+KMP position in the company and the other group / associate companies 
+
+c.  The outgoing entities and/or company should not have been debarred from accessing 
+
+the capital market 
+
+d.  Such  outgoing  entities  shall  not  exercise,  directly  or  indirectly,  any  control  over  the 
+
+affairs of the company or any of the group / associate companies 
+
+e.  If  such  outgoing  entities  want  to  classify  themselves  as  promoters  again  in  future, 
+
+they shall be required to make an open offer to the public and  would not be eligible 
+
+for exemption from the said obligation 
+
+ 
+
+Additional conditions with respect to Scenario II and III: 
+ 
+f.  The promoter group entity / company shall give intimation to Stock Exchanges for the 
+
+re-classification  along  with  all  the  relevant  details  including  reason  for  re-
+
+classification, shareholding of the said promoter group, copy of agreements and other 
+
+relevant  documents.  The  re-classification  shall  be  permitted  after  expiry  of  1  year 
+
+from such intimation 
+
+g.  Post  the  initial  1  year,  such  promoter  group  entity  may  be  classified  as  public. 
+
+However, they shall not be considered to be part of public shareholders for another 3 
+
+years for the purpose of compliance with minimum public shareholding requirements 
+
+under Securities Contracts (Regulation) Rules, 1957 
+
+ 
+
+ 
+
+Re-classification of Promoters as Public 
+ 
+
+Page 6 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Further additional conditions with respect to Scenario III: 
+ 
+h.  Such  promoters  should  have  been  disclosed  as  promoters  since  at  least  3  financial 
+
+   
+
+ 
+
+ 
+
+years prior to the year in which the said promoter/promoter group entities desires to 
+
+re-classify its holding as public 
+
+i.  Such outgoing entities shall not fall within the definition of ‘promoter group‘ category 
+
+in respect of the continuing promoter 
+
+ 
+
+Conditions with respect to disclosure and procedures: 
+ 
+j.  As  per  the  disclosure  in  the  Offer  Document,  all  entities  falling  under  promoter  and 
+
+promoter group shall be disclosed separately on the Stock Exchange’s website along 
+
+with the specific relevant head (e.g. family member of the promoter, corporate entity 
+
+where  promoter  holds  more  than  10%,  person  in  control  of  the  issuer,  etc)  under 
+
+which  the  said  entity  has  been  disclosed.  For  existing  listed  companies,  the  said 
+
+information  should  be  submitted  to  all  the  recognized  stock  exchanges  where  the 
+
+company is listed. 
+
+k.  The  said  list  shall  be  allowed  to  be  updated  by  the  Stock  Exchange  where  the 
+
+securities  are  listed,  only  after  receipt  of  a  request  from  the  company  /  promoter 
+
+along with all relevant documentary evidences  
+
+l.  Stock  Exchanges  shall  satisfy  themselves  with  the  above  mentioned  conditions  and 
+
+only thereafter, shall allow any update to the list 
+
+m.  SEBI or Stock Exchanges shall have the right to specify any other condition on a case 
+
+to case basis 
+
+n.  SEBI may, for reasons recorded in writing, relax any of the conditions specified above, 
+
+on a case to case basis 
+
+ 
+
+Public comments: 
+ 
+11. Considering the implications of the said matter on  the market participants including 
+
+listed  companies,  promoters/promoter  group  of  the  said  companies  and  investors, 
+
+public  comments  on  the  policy  framework  proposed  above  at  paragraph  10  are 
+
+solicited.  Specific  comments/suggestions  as  per  the  format  given  below  would  be 
+
+highly appreciated: 
+
+Re-classification of Promoters as Public 
+ 
+
+Page 7 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Name of entity / person / intermediary:  
+ 
+
+ 
+
+Name of organization (if applicable): 
+ 
+
+Sr. 
+No. 
+
+ 
+
+ 
+
+ 
+
+Pertains to serial number 
+
+Proposed / 
+
+(alphabet) under 
+
+paragraph 10 
+
+suggested changes 
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12. Such  comments  may  please  be  e-mailed  on  or  before  January  16,  2015,  to 
+
+reclassification@sebi.gov.in or sent by post, to:- 
+
+Shri. Amit Tandon 
+Deputy General Manager 
+Corporation Finance Department 
+Securities and Exchange Board of India  
+SEBI Bhavan 
+Plot No. C4-A, "G" Block 
+Bandra Kurla Complex 
+Bandra (East), Mumbai - 400 051 
+Ph: +912226449373/ +912226449483 
+
+ 
+ 
+
+************ 
+
+ 
+
+ 
+ 
+
+Re-classification of Promoters as Public 
+ 
+
+Page 8 
+
+

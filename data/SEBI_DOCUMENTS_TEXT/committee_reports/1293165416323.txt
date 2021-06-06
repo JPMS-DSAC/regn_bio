@@ -1,0 +1,5345 @@
+CONFIDENTIAL
+
+APPROACH PAPER ON
+
+IMPLEMENTATION OF STRAIGHT
+
+THROUGH PROCESSING IN INDIAN
+
+MARKETS
+
+MAY 31, 2002
+
+CONFIDENTIAL
+
+CONTENTS
+
+1.  Introduction
+
+2.  The present execution and settlement model
+
+3.  Committee views
+
+4.  Steps forward
+
+ Introduction:
+
+CONFIDENTIAL
+
+As the volume of securities trading in the global marketplace has increased in the
+recent years, the need for shortening the settlement and clearance cycle as a cost
+saving and risk management discipline has become critical to the orderly conduct
+of  business.  As  a  result  many  entities  around  the  world  are  adopting  shorter
+settlement  cycles.  In  fact,  in  the  United  States  the  Securities  and  Exchange
+Commission is likely to mandate T+1 settlement by June 2004. Following the US
+markets,  it  is  expected  that  most  of  the  European  markets  too  would  move
+towards T + 1 thus heralding a new era of extremely short settlement cycles.
+
+In India too the volumes in the domestic markets have increased substantially over
+the years .  The cross border trades or more popularly known as FII trades have
+also  increased  over  a  period  of  time.  April  1,  2002  was  a  landmark  day  in  the
+Indian capital market history as we joined  the league of developed markets in the
+world  by  introduction  of  the  T  +  3  settlement  cycle  from  the  earlier  weekly
+settlement cycles. However, this implied that the increased volume of trades would
+now have to be settled in a shorter span of time.
+
+A  shorter  settlement  cycle  puts  pressure  on  the  entire  delivery  channel  post
+execution. Failed trades increase cost of transactions making the markets overall
+expensive and risky to invest. This may lead to a fall in the allocations made to our
+markets by overseas investors. For a developing capital scarce country like India,
+we need to attract as much investment as possible. For this, we need to mandate
+better  settlement  systems  in  our  markets  and  thus  move  towards  more
+automation.
+
+The current trade-processing environment is characterised by manual procedures,
+multiple  service  providers,  incompatible  databases,  lack  of  standardisation,
+excessive costs and high rate of trade failures.  There is an urgent need to create
+adaptable and flexible communication infrastructures to ensure that information is
+shared between partners and there is a smooth transition from trade initiation to
+settlement.
+
+CONFIDENTIAL
+
+Straight  Through  Processing  (STP)  aims  to  achieve  exactly  this.  With  STP,
+firms  must  automate  processes  within 
+to
+communicate  with  multiple 
+trading  partners  using  multiple  communication
+standards with ease and flexibility.
+
+themselves  and 
+
+then  be  able 
+
+The Securities Industry Association has defined STP as.
+"The  processing  of  a  trade,  whose  data  is  compliant  with  internal  and
+external  requirements,  through  systems  from  post-execution  through
+settlement without manual intervention".
+Simply  put  it  means  seamless  integration  of  trades  from  initiation  to  settlement
+without  manual  intervention.  STP  aims  at  maximum  automation  so  as  to  reduce
+human errors, increase speed of operation and reduce failed trades.
+
+Eliminating  manual  trade  entry  reduces  the  probability  of  trade  errors  while
+automating  message  creation  and  transmission  and  is  an  important  step  in
+achieving STP.
+
+Failure  to  achieve  STP  can  have  negative  consequences  like  high  trading  costs
+due  to  trade  failures  and  inefficiencies,  increased  levels  of  risk  and  exposure  to
+trade parties, reduced customer satisfaction and volume sensitivity.
+
+In  order  to  fully  achieve  STP,  the  Indian  securities  needs  to  look  at  the  entire
+trading process as a single integrated process with trade advancing through these
+steps seamlessly, efficiently and cost effectively. STP will affect every step in the
+trade life cycle from initiation to post settlement.
+
+CONFIDENTIAL
+
+SCOPE OF STP
+
+Order
+Initiation
+
+Execution
+
+Trade
+Confir
+
+Settlement
+
+Post
+settlem
+
+The benefits of STP are:
+1.  Reduced risk, fewer trade fails.
+2.  Improved operational efficiency in handling larger volumes.
+3.  Facilitates movement towards shorter settlement cycles.
+4.  Enables increased cross border trading (FII trades).
+5.  Greater transparency with clear audit trail.
+6.  Real time information to regulators foster better market surveillance.
+7.  Increases competitive advantage of our markets.
+
+Current execution and settlement systems:
+
+Before we go to examine the feasibility of STP in the Indian market and its impact,
+let us first understand the current settlement systems, how an order is processed
+and the various processes initiated by various entities related to the trade process.
+Settlement processes need streamlining if STP is to work in our markets.
+
+Lifecycle of a cross border trade deal
+
+In the present system, the fund manager places an order with the broker, who in
+turn input them into the screen based trading system of the stock exchanges. After
+the deal is confirmed, the stock exchange gives the data to the broker who prints
+contract  notes  from  his  database  for  each  client.  Thus  electronic  form  of  data  is
+converted 
+into  physical  form.  He  also  sends  an  ETC  (Electronic  Trade
+Confirmation) message to the client who may accept or reject the deal based on
+
+CONFIDENTIAL
+
+his  internal  tolerances.  The  contract  notes  are  also  faxed  to  the  fund  managers
+who input these into their system for valuation and accounting. At this time, paper
+form of data is again converted into electronic form at the fund managers level. A
+copy  of  the  contract  note  is  also  sent  to  the  local  custodian  for  his  record  who
+again enters the entire contract note into his system, again resulting in re-entry of
+the same data. The lifecycle of a cross border trade deal is depicted in Annexure
+1.
+
+The custodian at its end would match this contract note with the client instructions
+that they receive (generally through SWIFT network) and the matched trades are
+taken for settlement.
+
+As  can  be  seen  from  the  entire  cycle  above,  there  is  multiple  data  entry;  at  the
+brokers end, clients end and custodians end. The exchange also has this data in
+its  system.  It  is  this  part  of  manual  intervention  that  is  susceptible  to  errors  and
+may lead to trade fails.  India incidentally ranks very low on settlement efficiencies
+and a small study on the same is tabled below:
+
+Sources: Global Custodian & JPMorgan TradeS.T.A.R.R.
+
+Thus  to  avoid  trade  fails,  which  is  one  of  the  biggest  costs  of  trading,  it  is
+imperative that any kind of communication issue is sorted out.
+
+CONFIDENTIAL
+
+Committee views:
+
+The committee has been set up to make recommendations regarding feasibility of
+introduction of STP in the Indian market. In the first meeting itself, the committee
+decided  to  form  a  sub-group  under  the  leadership  of  Mr.  Raghavan  Puthran,
+Director NSEIL and make recommendations regarding the standards that need to
+be adopted for making STP successful. The sub-group comprising of the following
+members had several rounds of discussions -
+
+?  Citibank NA
+?  Standard Chartered Grindlays Bank
+?  National Securities Depository Ltd
+?  Central Depository Services I Ltd
+?  Bombay Stock Exchange
+?  National Stock Exchange of India Ltd
+
+They have submitted a draft of the recommended messaging standards which is
+attached alongwith.
+
+1.  Current Infrastructure and STP Opportunities:
+
+flow  between 
+
+instruction  and  message 
+
+trading  members  and  stock
+The 
+trading
+exchanges,  custodians  and  stock  exchanges/clearing  corporations, 
+members/custodians and depositories, stock exchanges/clearing corporations and
+depositories, stock exchanges/clearing corporations and clearing banks are fairly
+well automated.
+
+1.1 Funds Information Flow:
+
+The  level  of  automation  between  trading  members/custodians  and  banks  was
+discussed  and  felt  the  need  for  improved  message  flow  for  funds  settlement
+
+CONFIDENTIAL
+
+purpose.  It  was  noted  that  RBI  is  already  in  the  process  of  devising  messaging
+standards for funds flow, and all market participants may adopt and integrate with
+the messaging standards that is found suitable for their operations.
+
+1.2 Securities Information Flow:
+
+Considering  the  current  scenario  of  T+3  settlements  and  the  need  for  T+1
+confirmations, the following three activities have been identified for the purpose of
+embarking  on  straight  through  processing  (STP)  initiative,  and  felt  the  need  to
+adopt international messaging standards as a first step towards achieving STP,
+
+? 
+trade reporting by trading members to custodians
+? 
+trade confirmation by custodians to stock exchanges
+?  settlement instructions from the AMC to custodians
+
+2. Messaging Standards:
+
+It  was  felt  necessary  to  protect  existing  investments  in  infrastructure  and
+considering the various legacy systems that each of the market participant
+may follow, it was felt that adopting global messaging standards will be a
+first step in the right direction towards achieving STP.
+
+international  messaging  standards  viz. 
+
+The  various 
+ISO  15022,
+FINXML,FIX,  FPML,  OFX  etc.  were  mentioned  and  it  was  felt  that  ISO
+15022  initiative  be  adopted  as  the  messaging  standard.  XML  as  an
+emerging  technology  was  discussed  and  it  was  felt  that  ISO  15022  XML
+standards may be adopted as and when they are published.
+
+Messaging  standards  for  the  above-mentioned  transaction  flows  were
+drafted and are appended to this report.
+
+The  availability  of  global  solutions  for  STP,  transaction  flow  manager  etc.
+were discussed and it was felt that advocating the use of any of these is not
+necessary  and  will  be  best  left  to  the  needs  of  each  of  the  market
+participants.
+
+2.  Network Infrastructure:
+
+CONFIDENTIAL
+
+The  members  mentioned 
+restricting
+interconnectivity between two closed user networks could be a constraint in
+successful  implementation  of  STP.  They  requested  SEBI  to  take  up  the
+matter with the Government.
+
+the  current  DOT 
+
+that 
+
+rules 
+
+Steps Forward
+
+?  Based on a review of the above, the sub-group was of the opinion that there
+will be significant benefits by adopting STP in the above-mentioned transaction
+flows.  Draft  message  formats  have  been  recommended,  based  on  global
+messaging  standards.  However,  going  forward,  the  group  would  have  to
+finalise  this  recommendation,  as  well  as  review  and  identify  a  suitable
+communications  infrastructure,  addressing  the  varied  needs  of  all  market
+participants, as well as ensuring a cost-effective, secure setup.
+
+?  During the discussions, it was also felt that a need exists for carrying out such
+an activity for the derivatives market and it was recommended that a detailed
+study of the process flow for the derivatives market also be done.
+
+?  The group was of the view that SEBI should discuss the issue alongwith  fund
+managers  and  brokers  separately  so  that  the  views  of  a  critical  part  of  the
+whole  trade  process  may  also  be  covered.  Committee  members  were  of  the
+opinion that since it the fund manager who is a business/revenue provider as
+well  the  originator  of  the  trade,  automation  at  their  level  is  most  critical  in
+achieving  a  reasonable  level  of  STP.  Accordingly,  a  meeting  has  been
+scheduled on 10th June 2002 with brokers as well as fund managers.
+
+?  Subsequent to the above meeting, the committee would meet again and then
+decide  the  time  frame  within  which  the  recommended  standards  would  be
+made public for their comments and further course of action is decided therein.
+All  committee  members  were  of  the  opinion  that  it  would  take  atleast  six
+months from the date of establishing messaging standards for implementation
+of STP.
+
+? 
+
+It was also proposed that a pilot project about STP may be undertaken with a
+few clients of Standard Chartered Bank and Citibank to find out the operational
+bottlenecks that may arise later.
+
+CONFIDENTIAL
+
+ * * * * * * *
+
+CONFIDENTIAL
+
+Inter-connectivity between market participants’  networks  was  felt  as  an  essential
+requirement for facilitating STP. Given the large number of intermediaries that will
+be  involved  in  such  a  multi-lateral  communication  setup,  direct  WAN  to  WAN
+connectivity between participants will not be a cost-effective and feasible option.
+Given the existence of an RBI sponsored infrastructure (INFINET) one option that
+was  reviewed  by  the  group  is  to  request  RBI  to  permit  the  use  of  INFINET  to
+support  the  Capital  Markets  STP  initiative,  by  providing  a  secure  and  robust
+communications network between participants.
+
+In  the  event  that  INFINET  is  not  a  viable  option,  the  group  also  took  note  of  a
+relatively new communication infrastructure, viz. VPN, virtual private network. This
+uses  the  public  Internet  network  for  providing  a  secure  connectivity/inter-
+connectivity  infrastructure  without  comprising  on  security  issues.  Wherever
+possible  and  required  (e.g.  communication  between  trading  members  and
+custodians), the use of digital signatures is recommended.
+
+is  also 
+
+It 
+represent 
+Telecommunications to permit inter-WAN connectivity.
+
+recommended 
+
+that  SEBI 
+
+to 
+
+the  Department  of
+
+Introduction
+
+This document contains the templates to be used for messaging between entities
+in  the  capital  market.    The  Subgroup  has  mapped  the  messaging  requirements
+with the standards published by ISO15022. These were found to generally meet
+the  Indian  market  requirement.  It  may  become  necessary  to  refine  the  formats
+from  time  to  time  based  on  the  actual  usage.  Further  there  may  be  a  need  to
+add/delete message types to the existing list depending on the changing market
+practices.
+
+The templates defined cater to the following legs in the transaction chain
+?  Settlement Instruction from Fund House to Custodian (Equity / Debt)
+?  Contract Note from Broker to Custodian (Equity / Debt)
+?  Order File from Exchange to Custodian
+?  Confirmation File from Custodian to Exchange
+?  Obligation File from Exchange to Custodian
+
+Structure of the Document
+
+This document consists of
+?  A brief definition of the scope of the message
+?  Format Sequence
+? 
+? 
+
+Illustrative Examples
+Illustrative Example Explanation
+
+CONFIDENTIAL
+
+CONFIDENTIAL
+
+Format Specifications
+
+This  section  defines  the  new  specifications  that  are  used  to  express  all  data
+formats  in  the  Standards  Documentation.  These  changes  are  implemented  to
+facilitate  the  storage  and  manipulation  of  format  specifications  in  the  electronic
+form.
+
+The new specifications are as follows (the items
+
+Length Restrictions
+
+Type of Characters
+
+Optional Element Identifier
+
+nn
+nn! (*)
+nn-nn
+nn * nn
+n
+d (*)
+h
+a
+c (*)
+e (*)
+x
+y
+z
+/,word
+[….]
+
+Maximum length
+Fixed length
+Minimum and maximum length
+Maximum number of lines times maximum line length
+Digits
+Digits with a decimal comma
+Uppercase hexa decimals
+Uppercase letters
+Uppercase alphanumerics
+Space
+ISO Standards Character Set for SWIFT
+Upper case level A ISO 9735 characters
+ISO Standards Extended Character Set for SWIFT
+Character as-is or word-as-is
+Where  …  represents  any  of  the  allowed  combinations
+length/character
+
+CONFIDENTIAL
+
+Examples
+Notation
+
+Description
+Fixed 4 uppercase alphanumerics, optionally followed by a slash and up to 30 characters permitted by ISO
+standards
+Number of up to 15 digits including a decimal comma
+
+4!c[/30x]
+15d
+ISIN1e12c! Code word followed by a space and fixed 12 uppercase alphanumerics
+
+The types of characters must be understood as follows:
+n:
+d:
+
+0 1 2 3 4 5 6 7 8 9
+Digits (0 to 9) with a decimal comma. The following rules apply:
+- the integer part is mandatory and must contain at lease one digit, leading zeroes are allowed
+- a decimal comma "," must be precede the fractional part
+- the fractional part may be missing, but the decimal comma must always be present
+- neither the decimal point, space or any symbol other than the decimal comma are permitted
+- the maximum length included the decimal comma
+A B C D E F
+0 1 2 3 4 5 6 7 8 9
+A B C D E F G H I J K L M N O P Q R S T U V W  Y Z
+A B C D E F G H I J K L M N O P Q R S T U V W  Y Z
+0 1 2 3 4 5 6 7 8 9
+a b c d e f g h i j k l m  n o p q r s  t u v w x y z
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+0 1 2 3 4 5 6 7 8 9 / - ? : ( ) . , ' + { } Cr Lf Space
+Note: Although part of the character set, the curly brachers are permitted as delimiters and cannot be used
+within the text of user-to-user messages
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+0 1 2 3 4 5 6 7 8 9 . , - ( ) / = ' + : ? ! " % & * < > ; Space
+a b c d e f g h i j k l m  n o p q r s  t u v w x y z
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+0 1 2 3 4 5 6 7 8 9 . , - ( ) / = ' + : ? ! " % & * < > ; {  @ # Cr Lf Space
+
+h:
+h:
+c:
+
+x:
+
+y:
+
+z:
+
+CONFIDENTIAL
+
+NOTE
+The following adjustments need to be noted
+
+The message format recommended for confirmation to the clearinghouse (IFN580)
+is an acceptable format on SWIFT only for communication between clearers and
+Euroclear (or CEDEL). While this does not preclude its usage, if these messages
+were  to  be  transmitted  on  SWIFT  network,  a  separate  application  to  SWIFT
+requesting usage will probably be necessary.
+
+The Contract Note messaging (IFN 515) assumes that brokers will use OTR option
+for  clearinghouse  trades  on  the  NSE.  If  this  were  not  adopted,  the  process  will
+result in tedious multiple messages, which must be avoided. Therefore it must be
+made mandatory that clearinghouse trades on the NSE are conducted through the
+OTR segment.
+
+Addressing
+For purpose of addressing, the following rules will
+
+be followed
+
+?  Each message will be preceded by a header and succeeded by a trailer.
+?  The header will contain information regarding
+
+1.  The Message Type
+2.  The Sender Address
+3.  The Recipient Address
+
+?  Each of the above will be encompassed in curly braces
+?  The trailer will consist of a hyphen followed by a right curly braces " -} "
+
+Within the scope of this document, the following
+
+addresses have been used.
+
+: EXCHANGEADDR
+
+Exchange
+Fund House : CLIENTADDR
+: CUSTDNADDR
+Custodian
+Broker
+: BROKERADDR
+
+CONFIDENTIAL
+
+Message IFN 541 (Equity Scrip)
+
+CONFIDENTIAL
+
+This message is sent by the account
+
+owner to the account servicing
+
+institution (E.g. From the fund house
+
+to its custodian). The message is
+
+used to instruct the settlement of a
+
+trade (sale/purchase) against
+
+payment/free of payment. The same
+
+message will be used for both equity
+
+trades and debt trades. For purposes
+
+CONFIDENTIAL
+
+of better comprehension, each has
+
+been explained separately
+
+Format Sequence
+
+The format sequence is broadly
+
+divided into Mandatory, Optional and
+
+Repetitive Blocks.  The details of
+
+these blocks are given below
+
+Mandatory Sequence A General Information  
+Status Tag Generic Field
+Content/Options
+
+Name
+
+M
+M
+
+16R  
+20C Reference
+
+GENL
+:4!c//16x
+
+Purpose
+
+Start of Block
+To Identify the Client Trade
+Reference No.
+
+Format: (Qualifier)//(Reference
+number)
+Qualifier : "SEME"
+Reference Number: 16 Characters
+(Alphanumeric)
+
+M
+
+O
+
+23G  
+
+4!c[/4!c]
+
+98a Date/Time
+
+A or C
+
+16S  
+
+M
+End of Sequence A General Information
+
+GENL
+
+Mandatory Sequence B Trade Details
+Status Tag Generic Field
+
+Content/Options
+
+Name
+
+CONFIDENTIAL
+
+To indicate new message
+(NEWM) /cancellation (CANC)
+of earlier message
+To identify the date message
+has been prepared
+
+End of Block
+
+Format: (Qualifier)
+Qualifier: "NEWM" or "CANC"
+
+Format: (Qualifier) //(Date) (Time)
+Qualifier: “PREP”  (4 Characters)
+ Date: YYYYMMDD (8 number)
+Time: HHMMSS (6 Number)
+
+Purpose
+
+M
+O
+
+16R  
+94B Place
+
+TRADDET
+:4!c//4!c[/30x]
+
+ 
+To identify exchange
+
+----->
+M
+
+-----|
+O
+
+98C Date/Time
+
+:4!c//8!n
+
+90B Price
+
+:4!c//4!c/3!a15d
+
+ 
+
+ 
+
+To identify trade date and
+settlement date
+
+To identify the trade rate
+
+M
+
+35B  
+
+[ISIN1!e12!c]
+[4*35x]
+
+To identify the scrip
+
+O
+
+70E Narrative
+
+:4!c//10*35x
+
+To identify
+1.  Delivery Type i.e. Clearing
+
+House (CH) or Hand
+
+Format: (Qualifier)//(Place
+Code)/(Narrative)
+
+Qualifier: "TRAD"
+Place Code: "EXCH"
+Narrative:
+- "NSE" for National Stock Exchange
+- "BSE" for Bombay Stock Exchange
+
+Format: (Qualifier)//(Date)
+Qualifier: “TRAD”
+                : “SETT”
+Date: <YYYYMMDD>
+Format: (Qualifier)//(Amount Type
+Code)/(Currency Code) (Price)
+
+Qualifier: “DEAL” 
+Amount Type Code: “ACTU” 
+Characters)
+Currency Code: “INR” 
+Price: 000000000,00000 
+Decimals)
+Format: "ISIN" (ISIN Code)
+(Description of Security)
+
+ISIN Code: As defined (11 characters)
+Description of Security:
+4 Lines of 35 characters each.
+Format: (Qualifier) //(Narrative)
+Qualifier: “SPRO”  (4 Characters)
+Narrative:
+
+CONFIDENTIAL
+
+Delivery (HD)
+
+2.   Segment Type i.e. Rolling
+(DR)/ Inter FII (DI)/ Auction
+Rolling (AR)
+
+3.  Settlement Number
+
+ End of Block
+
+ 
+
+ 
+
+Line 1:  “CH “or ”  HD”
+Line 2:  “DR”  or “DI”  or “AR”
+Line 3: Settlement Number (35
+Characters)
+
+Format: (Qualifier)//(Quantity Type
+Code)/(Quantity)
+Qualifier: “SETT”  (4 Characters)
+Quantity Type Code: ”UNIT”  (4
+Characters)
+ Quantity: 000000000,00000 (9 Digits,
+5 Decimals)
+
+Format: (Qualifier) //(Account Number)
+
+Qualifier: “SAFE”  (4 Characters)
+Account Number: (35 Characters)
+
+-----|
+M
+End of Sequence B Trade Details
+
+16S  
+
+TRADDET
+
+-----> Repetitive Mandatory Sequence C Financial Instrument/Account
+Status Tag Generic Field
+
+Content/Options
+
+Purpose
+
+Name
+
+M
+M
+
+16R  
+36B Quantity of
+
+Financial
+Instrument
+
+FIAC
+:4!c//4!c/15d
+
+ Start of Block
+To identify the trade quantity
+
+----->
+M
+
+97A Account
+
+:4!c//35x
+
+To identify the safekeeping
+account using client code
+
+-----|
+M
+-----| End of Sequence C Financial Instrument/Account
+
+16S  
+
+FIAC
+
+End of Block
+
+Mandatory Sequence E Settlement Details
+Status Tag Generic Field
+
+Content/Options
+
+Name
+
+ 
+
+Purpose
+
+M
+----->
+M
+
+16R  
+
+SETDET
+
+ Start of Block
+
+22F Indicator
+
+:4!c//4!c
+
+A mandatory field to be used
+as per swift standards
+
+"TRTR//TRAD"
+
+The same needs to be hard
+coded into every message so
+as to retain compatibility to
+SWIFT
+
+-----|
+-----> Repetitive Mandatory Subsequence E1 Settlement Parties
+M
+----->
+
+ Start of Block
+
+SETPRTY
+
+16R  
+
+ 
+
+M
+
+95P Party
+
+:4!c//11c
+
+Indicates the Broker (DEAG)
+
+Format: (Qualifier)//(Name & Address)
+
+CONFIDENTIAL
+
+Qualifier: "DEAG" in case of a Sale
+
+     "REAG" in case of a
+
+Purchase
+Name & Address: 
+Code (11 Characters)
+
+ 
+
+Format: (Qualifier)//(Currency)(Amount)
+
+Qualifier:
+
+"SETT"  for settlement amount
+"EXEC" for brokerage amount
+
+Currency: "INR"
+Amount: "000000000,00000"
+
+16S  
+
+SETPRTY
+
+-----|
+M
+-----| End of Subsequence E1 Settlement Parties
+-----> Repetitive Mandatory Subsequence E3 Amounts
+M
+----->
+M
+
+:4!c//[N]3!a15d
+
+19A Amount
+
+16R  
+
+Indicates Settlement Amount
+(SETT), Brokerage (EXEC)
+
+ End of Block
+
+AMT
+
+ Start of Block
+
+-----|
+M
+-----| End of Subsequence E3 Amounts
+
+16S  
+
+AMT
+
+16S  
+
+M
+End of Sequence E Settlement Details
+
+SETDET
+
+ End of Block
+
+ 
+ End of Block
+ 
+
+CONFIDENTIAL
+
+Illustration (IFN 541)
+{IFN541}{CLIENTADDR}{CUSTDNADDR}{
+:16R:GENL
+:20C::SEME//26215001102
+:23G:NEWM
+:98A::PREP//20020502
+:16S:GENL
+:16R:TRADDET
+:94B::TRAD//EXCH/NSE
+:98A::SETT//20020507
+:98A::TRAD//20020503
+:90A::DEAL//ACTU/109,
+:35B:ISIN INE009A01021
+INFOSYS TECH LTD (EQUITY)
+:70E::SPRO//HD/DR
+:16S:TRADDET
+:16R:FIAC
+:36B::SETT//UNIT/140000,
+:97A::SAFE//CLNT_CODE
+:16S:FIAC
+:16R:SETDET
+:22F::SETR//TRAD
+:16R:SETPRTY
+:95P::DEAG//BRK_CD
+:16S:SETPRTY
+:16R:AMT
+:19A::SETT//INR30303031,
+:16S:AMT
+:16S:SETDET
+
+-}
+
+Illustrative Example Explained
+
+CONFIDENTIAL
+
+Block GENL gives
+General information
+
+Block TRADDET gives
+trade details
+
+Block FIAC gives
+Financial Instrument and
+Account details
+
+Block
+SETDET
+gives
+informatio
+n on
+Settleme
+nt details
+
+Settlement
+Party details
+
+Amount
+details
+
+:16R:GENL
+:20C::SEME//26215001102
+
+:23G:NEWM
+:98A::PREP//20020502
+:16S:GENL
+:16R:TRADDET
+:94B::TRAD//EXCH/NSE
+:98A::SETT//20020507
+:98A::TRAD//20020503
+:90A::DEAL//ACTU/109,
+:35B:ISIN INE009A01021
+Infosys Technologies Ltd (Equity
+Shares)
+:70E::SPRO//HD/DR
+
+:16S:TRADDET
+:16R:FIAC
+:36B::SETT//UNIT/140000,
+:97A::SAFE//CLNT_CODE
+:16S:FIAC
+:16R:SETDET
+:22F::SETR//TRAD
+:16R:SETPRTY
+:95P::DEAG//BRK_CD
+:16S:SETPRTY
+:16R:AMT
+:19A::SETT//INR30303031,
+:16S:AMT
+:16S:SETDET
+
+Indicates Sender’s reference, viz.
+FI/MF’s internal reference number
+Indicates it is a new message
+Message preparation date
+
+Stock exchange details
+Settlement (Value date)
+Trade Date
+Deal rate
+ISIN and name of the security.
+
+Hand delivery trade and market type
+DR
+
+Quantity in units
+Client code
+
+Trade for settlement
+
+Broker code
+
+Settlement amount
+
+Message IFN 541 (Debt Scrip)
+
+CONFIDENTIAL
+
+This message is send by the account
+
+owner to the account servicing
+
+institution (E.g. From the fund house
+
+to its custodian). The message is
+
+used to instruct the settlement of a
+
+trade (sale/purchase) against
+
+payment/free of payment. The details
+
+given below are specific to a debt
+
+trade
+
+CONFIDENTIAL
+
+Format Sequence
+
+The format sequence is broadly
+
+divided into Mandatory, Optional and
+
+Repetitive Blocks.  The details of
+
+these blocks are given below
+
+Status Tag Detailed Field Name
+Mandatory Sequence A General Information
+M
+M
+
+16R Start of Block
+20C
+
+GENL
+:4!c//16x
+
+Content/Options
+
+M
+
+O
+
+Sender's Reference
+
+23G Function of the
+
+Message
+
+4!c[/4!c]
+
+98a Preparation Date/Time A or C
+
+16S End of Block
+
+M
+GENL
+End of Sequence A General Information
+Mandatory Sequence B Trade Details
+M
+O
+
+16R Start of Block
+94B
+
+TRADDET
+:4!c/[8c]/4!c[/30x]
+
+Place of Trade
+
+Purpose
+
+ 
+To Identify the Client Trade
+Ref No.
+
+To indicate new message
+(NEWM) /cancellation (CANC)
+of earlier message
+
+To identify the date message
+has been prepared (PREP)
+
+ 
+
+ 
+To identify exchange
+
+Format: (Qualifier)//(Reference
+number)
+Qualifier : "SEME"
+Reference Number: 16
+Characters (Alphanumeric)
+Format: (Qualifier)
+Qualifier: "NEWM" or "CANC"
+
+Format: (Qualifier) //(Date) (Time)
+Qualifier: “PREP”  (4 Characters)
+ Date: YYYYMMDD (8 number)
+Time: HHMMSS (6 Number)
+
+Format: (Qualifier)//(Place
+Code)/(Narrative)
+
+CONFIDENTIAL
+
+Qualifier: "TRAD"
+Place Code: "EXCH"
+Narrative:
+- "NSE" for National Stock
+Exchange
+- "BSE" for Bombay Stock
+Exchange
+
+Format: (Qualifier)//(Date)
+Qualifier: “TRAD”
+                : “SETT”
+Characters)
+Date: <YYYYMMDD>
+Format: (Qualifier)//(Amount Type
+Code)/(Currency Code) (Price)
+
+Qualifier: “DEAL” 
+Amount Type Code: “ACTU” 
+Characters)
+Currency Code: “INR” 
+alphabets)
+Price: 000000000,00000 
+Digits,5 Decimals)
+Format: "ISIN" (ISIN Code)
+(Description of Security)
+
+ISIN Code: As defined (11
+characters)
+Description of Security:
+4 Lines of 35 characters each.
+In case the ISIN is not available,
+the description should begin with
+/XX/ followed by a bilaterally
+agreed security code/description
+
+----->
+M
+
+98a
+
+A, B or C
+
+ 
+To identify trade date (TRAD)
+and settlement date (SETT)
+
+-----|
+O
+
+90a Deal Price
+
+A or B
+
+ 
+To identify the trade rate
+
+M
+
+35B Identification of the
+Financial Instrument
+
+[ISIN1!e12!c]
+[4*35x]
+
+To identify the scrip.
+In case ISIN is not available
+/XX/ qualifier a bilaterally
+agreed code can be used
+ 
+
+Optional Subsequence B1
+Financial Instrument Attributes
+M
+
+16R Start of Block
+
+FIA
+
+ 
+Details Required For Debt
+Instruments will be provided in
+this block if ISIN is not
+available
+
+O
+
+70E Financial Instrument
+
+Attribute Narrative
+
+:4!c//10*35x
+
+CONFIDENTIAL
+
+This should provide
+information on: Loan Code,
+Face Value, Maturity Dates and
+Amts, Interest Payment Date
+and Amts, Floating Rate
+Indicator, Markup and Base,
+Put / Call Details Credit Rating
+Details
+
+Format: (Qualifier) (Narrative)
+
+Qualifier: " FIAN"
+
+Narrative: 10 lines of 35 characters
+can be used to describe the
+security
+
+FIA
+
+16S End of Block
+
+M
+ 
+End of Subsequence B1 Financial Instrument Attributes
+ 
+ 
+----->
+ 
+O
+To identify
+4.  Delivery Type i.e.
+
+:4!c//10*35x
+
+70E
+
+-----|
+M
+End of Sequence B Trade Details
+
+16S End of Block
+
+TRADDET
+
+-----> Repetitive Mandatory Sequence C Financial Instrument/Account
+M
+M
+
+16R Start of Block
+36B
+
+FIAC
+:4!c//4!c/15d
+
+ 
+To identify the trade quantity Format: (Qualifier)//(Quantity
+
+Clearing House (CH) or
+Hand Delivery (HD)
+5.   Segment Type i.e.
+
+Rolling (DR)/ Inter FII (DI)/
+Auction Rolling (AR)
+
+Settlement Number
+ 
+ End of Block
+
+ 
+
+ 
+
+Format: (Qualifier) //(Narrative)
+Qualifier: “SPRO”  (4 Characters)
+Narrative:
+Line 1:  “CH “or ”  HD”
+Line 2:  “DR”  or “DI”  or “AR”
+Line 3: Settlement Number (35
+Characters)
+
+Type Code)/(Quantity)
+Qualifier: “SETT”  (4 Characters)
+Quantity Type Code: ”UNIT”  (4
+Characters)
+ Quantity: 000000000,00000 (9
+Digits, 5 Decimals)
+
+Format: (Qualifier) //(Account
+Number)
+
+Qualifier: “SAFE”  (4 Characters)
+Account Number: (35 Characters)
+
+Quantity of Financial
+Instrument to be
+Settled
+
+----->
+M
+
+97a
+
+B or A
+
+ 
+To identify the safekeeping
+account using client code
+
+-----|
+M
+-----| End of Sequence C Financial Instrument/Account
+
+16S End of Block
+
+FIAC
+
+Mandatory Sequence E Settlement Details
+M
+SETDET
+----->
+
+16R Start of Block
+
+ 
+ 
+
+ 
+ 
+ 
+
+M
+
+22F
+
+:4!c/[8c]/4!c
+
+A mandatory field to be used
+as per swift standards
+
+"TRTR//TRAD"
+
+CONFIDENTIAL
+
+-----|
+-----> Repetitive Mandatory Subsequence E1 Settlement Parties
+M
+----->
+M
+
+16R Start of Block
+
+SETPRTY
+
+95P
+
+:4!c//11c
+
+The same needs to be hard
+coded into every message so
+as to retain compatibility to
+SWIFT
+ 
+
+ 
+
+ 
+ 
+Indicates the Broker,
+Counterparty and
+Counterparty's Custodian
+
+-----|
+----->
+O
+
+70D
+
+:4!c//6*35x
+
+ 
+ 
+Indicates the Registration
+Details (REGI) and Party
+Contact Narrative (PACO)
+
+-----|
+M
+-----| End of Subsequence E1 Settlement Parties
+
+16S End of Block
+
+SETPRTY
+
+ 
+ 
+ 
+
+-----> Repetitive Mandatory Subsequence E3 Amounts  
+ 
+M
+----->
+ 
+
+16R Start of Block
+
+AMT
+
+Format: (Qualifier)//(Narrative)
+
+Broker
+Qualifier: "DEAG" in case of a Sale
+     "REAG" in case of a Buy
+
+Narrative: 
+(11 Characters)
+
+Couterparty
+Qualifier: "BUYR" in case of a Sale
+     "SELL" in case of a Buy
+
+Narrative: 
+Exchange code (11 Characters)
+
+Custodian
+Qualifier: "DECU" in case of a Sale
+     "RECU" in case of a Buy
+
+Narrative: 
+Code (11 Characters)
+
+Format: (Qualifier) (Narrative)
+
+Qualifier:
+"REGI" - for registration details
+"PACO" - for party contact details
+
+Narrative:
+6 lines of 35 characters for details
+of registration or party contact
+information
+
+M
+
+19A
+
+:4!c//[N]3!a15d
+
+Indicates Settlement Amount
+(SETT), Brokerage (EXEC),
+Accrued Interest (ACRU)
+
+Format:
+(Qualifier)//(Currency)(Amount)
+
+CONFIDENTIAL
+
+16S End of Block
+
+-----|
+M
+AMT
+-----| End of Subsequence E3 Amounts
+M
+End of Sequence E Settlement Details
+
+16S End of Block
+
+SETDET
+
+Qualifier:
+ "SETT"  for settlement amount
+ "EXEC" for brokerage amount
+
+Currency: "INR"
+Amount: "000000000,00000"
+
+ 
+ 
+ 
+ 
+
+CONFIDENTIAL
+
+Illustration (IFN 541)
+{IFN541}{CLIENTADDR}{CUSTDNADDR}{
+
+:16R:GENL
+
+:20C::SEME//26215001102
+
+:23G:NEWM
+
+:98A::PREP//20020502
+
+:16S:GENL
+
+:16R:TRADDET
+
+:94B::TRAD//EXCH/NSE
+
+:98A::SETT//20020507
+
+:98A::TRAD//20020503
+
+:90A::DEAL//ACTU/109,
+
+:35B: 9% ICICI Ltd Bonds
+
+CONFIDENTIAL
+
+10AUG10
+
+:16R:FIA
+
+:70E::FIAN// Loan code 90010.
+
+Face Value 1000,00.
+
+Maturity 10-Aug-2010.
+
+Interest payment dates 15JAN /
+
+15 JUL. Fix rate 9 per cent
+
+:16S:FIA
+
+:70E::SPRO//HD/NR
+
+:16S:TRADDET
+
+:16R:FIAC
+
+CONFIDENTIAL
+
+:36B::SETT//UNIT/140000,
+
+:97A::SAFE//CLNT_CODE
+
+:16S:FIAC
+
+:16R:SETDET
+
+:22F::SETR//TRAD
+
+:16R:SETPRTY
+
+:95P::DEAG//BRK_CD
+
+:95P::SELL//ABC Fund
+
+:95P::DECU//PQR Custodian
+
+:70D::REGI//To be sent for
+
+registration
+
+:70C::PACO//Mr XYZ , Tel No :
+
+CONFIDENTIAL
+
+12313
+
+:16S:SETPRTY
+
+:16R:AMT
+
+:19A::SETT//INR30303031,
+
+:19A::EXEC//INR30303031,
+
+:19A::ACRU//INR30303031,
+
+:16S:AMT
+
+:16S:SETDET
+
+-}
+
+Illustrative Example Explained
+
+CONFIDENTIAL
+
+Block GENL gives General
+information
+
+Block
+TRADDET
+gives trade
+details
+
+Block FIA
+gives details
+of
+Instrument
+
+Block FIAC gives Financial
+Instrument and Account
+details
+
+Block
+SETDET
+gives
+informatio
+n on
+Settleme
+nt details
+
+Settlement
+Party details
+
+Amount
+details
+
+:16R:GENL
+:20C::SEME//26215001102
+
+:23G:NEWM
+:98A::PREP//20020502
+:16S:GENL
+:16R:TRADDET
+:94B::TRAD//EXCH/NSE
+:98A::SETT//20020507
+:98A::TRAD//20020503
+:90A::DEAL//ACTU/109,
+:35B: 9% ICICI Ltd Bonds 10AUG10
+
+:16R:FIA
+:70E::FIAN// Loan code 90010. Face
+Value 1000,00.   Maturity 10-Aug-
+2010. Interest payment dates 15JAN /
+15 JUL. Fix rate 9 per cent
+:16S:FIA
+:70E::SPRO//HD/NR
+
+:16S:TRADDET
+:16R:FIAC
+:36B::SETT//UNIT/140000,
+:97A::SAFE//CLNT_CODE
+:16S:FIAC
+:16R:SETDET
+:22F::SETR//TRAD
+:16R:SETPRTY
+:95P::DEAG//BRK_CD
+:95P::SELL//ABC Fund
+:95P::DECU//PQR Custodian
+:70D::REGI//To be sent for
+registration
+:70C::PACO//Mr XYZ , Tel No :
+12313
+:16S:SETPRTY
+:16R:AMT
+:19A::SETT//INR30303031,
+:19A::EXEC//INR30303031,
+:19A::ACRU//INR30303031,
+:16S:AMT
+:16S:SETDET
+
+Indicates Sender’s reference, viz.
+FI/MF’s internal reference number
+Indicates it is a new message
+Message preparation date
+
+Stock exchange details
+Settlement (Value date)
+Trade Date
+Deal rate
+Name of the security (ISIN if
+available)
+
+Loan code, face value, Maturity,
+interest payment details, Fix/floating
+and mark-up details, base rate
+(MIBOR, Reuters) details
+
+Hand delivery trade and ‘Without
+Recourse’  instruction
+
+Quantity in units
+Client code
+
+Trade for settlement
+
+Broker code
+Counter party
+Counter party’s custodian
+Registration instructions
+
+Party contact details
+
+Settlement amount
+Broker’s commission
+Accrued interest
+
+Message IFN 515 (Equity Scrip)
+
+CONFIDENTIAL
+
+This message is sent by an executing party to an instructing party, (E.g. Broker-
+dealer to its client or the custodian)
+
+This message is used to confirm the details of a purchase or sale executed by the
+executing party on behalf of the instructing party. It is also used to provide details
+on the payment side of the transaction.
+
+The same message will be used for
+
+both equity trades and debt trades.
+
+For purposes of better
+
+comprehension, each has been
+
+explained separately
+
+Format Sequence
+The  format  sequence  is  broadly  divided  into  Mandatory,  Optional  and  Repetitive
+Blocks.  The details of these blocks are given below.
+
+CONFIDENTIAL
+
+Message IFN 515 (Equity Scrip)
+
+The Broker sends this message to the
+
+Custodian for the trade executed by
+
+the Custodian’s client on the floor of
+
+the exchange through him.
+
+Format Sequence
+
+The  format  sequence  is  broadly  divided  into  Mandatory,  Optional  and  Repetitive
+Blocks.  The details of these blocks are given below.
+
+Mandatory Block A (General Information)
+
+Status Field
+
+Field Name
+
+M
+M
+
+16R  
+20C Reference
+
+Content and
+
+Options
+
+GENL
+:4!c//16x
+
+Remarks
+
+Start of block
+Type of CN and CN No. Format: (Qualifier)/ /(References)
+
+Qualifier: “SEME”  (4 Uppercase
+Characters)
+
+M
+
+O
+
+23G  
+
+:4!c[/4!c]
+
+To indicate new
+
+98C Date/Time
+
+:4!c//8!n6!n
+
+Preparation Date
+
+References: (Contract Type/ Contract
+Number)
+Contract Type: FORM A (6 Character
+Sets)
+Contract Number: 
+Character Sets)
+Format: (Function)
+Function: “NEW”
+Format: (Qualifier)//(Date) (Time)
+Qualifier: “PREP”  (4 Uppercase
+Characters)
+
+CONFIDENTIAL
+
+M
+
+22F Indicator
+
+:4!c//4!c
+
+Dummy (taken since
+mandatory)
+
+16S  
+
+M
+ Mandatory Block C (Confirmation details)
+----->
+
+GENL
+
+M 16R
+M 98A Date/Time
+
+ 
+
+CONFDET
+:4!c//8!n
+
+End of block
+
+Start of block
+To give details of trade
+or settlement date. It’s a
+Repetitive field
+
+-----|
+----->
+M
+
+90A Price
+
+ 
+ 
+
+:4!c//4!c/3!a15d
+
+To indicate the trade
+rate
+
+Date: YYYYMMDD (8 Digits)
+Time: HHMMSS (6 Digits)
+Format: (Qualifier) /(Indicator)
+Qualifier: ”  TRTR”  (4 Uppercase
+Characters)
+Indicator: “TRAD”  (4 Uppercase
+Characters)
+
+1. Format for Trade Date:
+(Qualifier)//(Date)
+     Qualifier: “TRAD”  (4 Uppercase
+Characters)
+     Date: ”YYYYMMDD”  (8 Digits)
+2. Format Settlement Date: (Qualifier) /
+(Date)
+     Qualifier: “TRAD”  (4 Uppercase
+Characters)
+     Date: ”YYYYMMDD”  (8 Digits)
+
+Format: (Qualifier)/ /(Amount Type Code)/
+(Currency Code) (Price)
+Qualifier: “DEAL”  (4 Uppercase
+Characters)
+Amount Type Code: “ACTU”  (4
+Uppercase Characters)
+Currency Code: “INR”  (3 Uppercase
+Alphabets)
+Price: 000000000,00000 (9 Digits, 5
+Decimals)
+[/(Narrative)]
+Qualifier: “TRAD”  (4 Uppercase
+Characters)
+Place Code: “EXCH”  (4 Uppercase
+Characters)
+Narrative: “NSE”  or “BSE”
+
+O
+
+94B Place
+
+:4!c/ /4!c[/30x]
+
+To identify the exchangeFormat:(Qualifier)/ /(Place Code)
+
+-----|
+----->
+M
+
+22a Indicator
+
+:4!c//4!c
+
+ 
+ 
+
+To indicate whether the
+trade is RVP/DVP
+
+ Format: (Qualifier) //(Indicator)
+Qualifier: “BUSE”  (4 Uppercase
+
+CONFIDENTIAL
+
+Characters)
+ Indicator: “BUYI”  or “SELL”  (4
+Uppercase Characters)
+
+Format: (Qualifier) //(Name, Pan 
+Address of client.)
+Qualifier: “BUYR”  (4 Uppercase
+Characters)
+ Name, Pan No. &Ad dress: N a me of Client!
+Pan no of Client! Ad dress of Client (150
+Character Sets)
+
+Format: (Qualifier) //(Account Number)
+Qualifier: “SAFE”  (4 Upper Characters)
+ Account Number: (35 Character Sets)
+
+Format: (Qualifier)//(Quantity Type
+Code) /(Quantity)
+Qualifier: “CONF”  (4 Uppercase
+Characters)
+Quantity Type Code: ”UNIT”  (4
+Uppercase Characters)
+ Quantity: 000000000,00000 (9 Digits, 5
+Decimals)
+Format: (Identification of Security)
+               (Description of Security)
+Identification of Security: “ISIN”
+Description of Security:  (4 lines of 35
+Characters Sets)
+
+-----|
+----->
+ Repetitive Mandatory Sub Block C1 (Confirmation Parties)
+M
+ ----->
+M
+
+CONFPRTY
+
+95A Party
+
+:4!c//4*35x
+
+16R  
+
+ 
+
+Start of block
+
+To indicate who the
+buyer (BUYR) or seller
+(SELL).
+
+-----|
+ ----->
+O
+
+97a Account
+
+:4!c//35x
+
+To identify the
+safekeeping account
+
+ 
+
+16S  
+
+-----|
+M
+-----| End of Mandatory Subsequence C1 (Confirmation Parties)
+M
+M
+
+16S  
+36B Quantity of Financial
+
+CONFPRTY
+:4!c//4!c/15d
+
+CONFPRTY
+
+End of block
+
+End of block
+To define the trade
+quantity
+
+Instrument
+
+M
+
+35B  
+
+[ISIN1!e12!c]
+[4*35x]
+
+To identify the ISIN of
+the
+s
+name.
+
+crip and company
+
+Optional Subsequence C2 (Financial Instrument Attributes)
+M
+
+16R  
+
+FIA
+
+Start of block
+
+----->
+-----|
+End of Optional Subsequence C2 (Financial Instrument Attributes)
+
+ 
+
+CONFIDENTIAL
+
+O
+
+70E Narrative
+
+:4!c//10*35x
+
+To identify
+6.  Delivery Type i.e.
+
+Clearing House (CH)
+or Hand Delivery
+(HD)
+
+7.   Segment Type i.e.
+Rolling (DR)/ Inter
+FII (DI)/ Auction
+Rolling (AR)
+
+8.  Settlement Number
+
+16S  
+
+M
+ 
+End of Sequence C (Confirmation Details)
+
+CONFDET
+
+Optional Sequence D (Settlement Details)
+
+16R  
+
+22F Indicator
+
+SETDET
+
+:4!c//4!c
+
+M
+----->
+M
+
+-----|
+
+End of block
+
+Start of block
+
+Dummy (since
+mandatory)
+
+ 
+
+ 
+
+16R  
+
+-----> Repetitive Optional Subsequence D1 (Settlement Parties)
+M
+ 
+----->
+M
+
+95a Party
+
+SETPRTY
+
+:4!c//11x
+
+Start of block
+
+To identify the counter
+party to the deal
+
+-----|
+----->
+O
+
+70a Narrative
+
+:4!c//6*35x
+
+To identify the broker
+
+ 
+
+Format: (Qualifier) //(Narrative)
+Qualifier: “TPRO”  (4 Upper Characters)
+ Narrative:
+          Line 1:  “CH “or ”  HD”
+          Line 2:   “DR”  or “DI”  or “AR”
+          Line 3: Settlement Num ber (35
+Character Sets)
+
+Format: (Qualifier) //(Indicator)
+Qualifier: “SETR”  (4 Upper Characters)
+ Indicator: “TRAD”  (4 Upper Characters)
+
+Format: (Qualifier) //(Narrative)
+
+Qualifier:
+“REAG”  for Sale or
+“DEAG”  for Purchase (4 Upper
+Characters)
+
+Narrative:
+Exchange Broker Code (11 Character
+Sets)
+
+Format: (Qualifier) //(Narrative)
+Qualifier: “PACO”  (4 Uppercase Upper
+Characters)
+Narrative: Exchange Broker code! Sebi
+Registration Num ber! Ad dress of the
+
+-----|
+M
+ -----| End of Optional Subsequence D1 (Settlement Parties)
+
+SETPRTY
+
+16S  
+
+End of block
+
+CONFIDENTIAL
+
+Broker  (210 Character Sets)
+
+16R  
+
+-----> Repetitive Optional Subsequence D3 (Amounts)
+----->
+M
+ -----|
+M
+-----| End of Optional Subsequence D3 (Amounts)
+
+16S  
+
+AMT
+
+AMT
+
+Start of block
+
+End of block
+
+M
+
+19A Amount
+
+:4!c//3!a15d
+
+To identify the
+brokerage
+
+End of Sequence D Settlement Details
+
+-----> Repetitive Optional Sequence E (Other Parties)
+
+Format: (Qualifier) //(Currency Code) (
+Amount)
+For: Gross Settlement
+Qualifier: “SETT”   (4 Upper case
+Characters)
+Narrative: “INR”  (3 Upper Letters)
+Amount: 000000000,00000 ( 9 Digits, 5
+decimals)
+
+For Brokerage:
+Qualifier: “EXEC”   (4 Upper case
+Characters)
+ Narrative: “INR”  (3 Upper Letters)
+Amount: 000000000,00000 (9 Digits, 5
+decimals)
+
+For Service Tax:
+Qualifier: “TRAX”   (4 Upper case
+Characters)
+Narrative: “INR”  (3 Upper Letters)
+Amount: 000000000,00000 (9 Digits, 5
+decimals)
+
+For Net Settlement Amount
+Qualifier: “DEAL”   (4 Upper case
+Characters)
+ Narrative: “INR”  (3 Upper Letters)
+Amount: 000000000,00000 ( 9 Digits, 5
+decimals)
+
+CONFIDENTIAL
+
+M
+
+16R  
+
+----->
+M
+
+95a Party
+
+OTHRPRTY
+
+Start of block
+
+:4!c//4*35x
+
+To identify the trade
+Ref. Number. The same
+field can be repeated
+multiple times to identify
+different order numbers
+
+-----|
+ 
+O
+
+ 
+ 
+
+20C Reference
+
+:4!c//16x
+
+To identify the Order
+number
+
+M
+
+16S  
+
+OTHRPRTY
+
+End of block
+
+Format: (Qualifier) //(Narrative)
+Qualifier:  “ALTE”  ( 4 Upper case
+Characters)
+Narrative:
+ Trade Ref. No: 00000000000000
+(15Digits)
+Trade Ref. Qty: 0000000000,0000 (9
+Digits, 5 Decimals)
+Trade Ref. Rate: 0000000000,0000 (9
+Digits, 5 Decimals)
+Date: YYYYMMDD  HHMMSS (15
+Character Sets)
+
+Format: (Qualifier) //(Reference)
+Qualifier: “PROC”  (4 Character
+Reference: 0000000000000000 (16
+Character Sets)
+
+-----| End of Sequence E Other Parties
+
+Illustration (MT515 Equity)
+
+ 
+
+{IFN515}{BROKERADDR}{CUSTDNADDR}{
+
+:16R:GENL
+
+:20C::SEME//FORM-A/1234/H
+
+:23G:NEWM
+
+CONFIDENTIAL
+
+:98A:PREP//20020502
+
+:22F::TRTR//TRAD
+
+:16S:GENL
+
+:16R:CONFDET
+
+:98A::TRAD//20020507
+
+:98A::SETT//20020503
+
+:90B::DEAL/ACTU//INR102,35
+
+:94B::TRAD//EXCH/BSE
+
+:22H::BUSE//BUYI
+
+:22H::PAYM//APMT
+
+:16R:CONFPRTY
+
+:95P::BUYR/CLIENT_NAME123
+
+:97A::SAFE//EXCH_CLIENT_CD
+
+CONFIDENTIAL
+
+:16S:CONFPRTY
+
+:36B::SETT//UNIT/15000,
+
+:35B::ISIN INE92150A123
+
+INFOSYSEQUITY
+
+:70E::TRPO//CH/DR
+
+:16S:CONFDET
+
+:16R:SETDET
+
+:22F::SETR//TRAD
+
+:16R:SETPRTY
+
+:95P::REAG//BRK_CD
+
+:70C::PACO//Contact Mr.
+
+CONFIDENTIAL
+
+Vinayak
+
+from XYZ Securities at
+
+Phone : 2830529
+
+:16S:SETPRTY
+
+:16R:AMT
+
+:19A::EXEC//INR125,25
+
+:19A::SETT//INR102350,00
+
+:16S:AMT
+
+:16S:SETDET
+
+:16R:OTHRPRTY
+
+:95Q::ATLE/200212500012
+
+CONFIDENTIAL
+
+:95Q::ATLE/200212500013
+
+:95Q::ATLE/200212500014
+
+:20C::PROC//98765
+
+:16S:OTHRPRTY
+
+-}
+
+CONFIDENTIAL
+
+:16R:GENL
+:20C::SEME//FORM-A/1234/H
+:23G:NEWM
+:98A:PREP//20020502
+
+:22F::TRTR//TRAD
+
+:16S:GENL
+:16R:CONFDET
+:98A::TRAD//20020507
+:98A::SETT//20020503
+:90B::DEAL/ACTU//INR102,35
+:94B::TRAD//EXCH/BSE
+
+:22H::BUSE//BUYI
+:22H::PAYM//APMT
+:16R:CONFPRTY
+:95P::BUYR/CLIENT_NAME123
+
+:97A::SAFE//EXCH_CLIENT_CD
+
+:16S:CONFPRTY
+:36B::SETT//UNIT/15000,
+:35B::ISIN INE92150A123
+INFOSYS
+EQUITY
+:70E::TRPO//CH/DR
+
+:16S:CONFDET
+:16R:SETDET
+:22F::SETR//TRAD
+:16R:SETPRTY
+:95P::REAG//BRK_CD
+
+:70C::PACO//Contact Mr. Vinayak from
+XYZ Securities at Phone : 2830529
+
+Type of CN and CN No.
+Indicate a new message.
+Message Preparation Date
+(YYYYMMDD)
+This is a dummy field (used since
+mandatory)
+
+Trade date and
+Settlement date (YYYYMMDD)
+Trade rate
+The exchange  is Bombay Stock
+Exchange
+The trade is a Receive Against Payment
+
+The buyer is CLIENT_NAME123
+
+The clients exchange code is
+EXCH_CLIENT_CD. Based on this, the
+custodian's system will identify the
+safekeeping account
+
+To define the trade quantity
+To identify the ISIN of the scrip and
+company name and type of security
+
+To identify Delivery type and market
+segment
+CH or HD (to indicate Delivery Type)
+DA or DI or DR (to indicate Market
+Segment)
+
+Dummy (since mandatory)
+Start of block
+To identify the broker code (receiving
+agent-REAG or delivering agent-DEAG)
+To identify the broker contact details
+
+Illustrative Example Explained
+
+Block GENL gives General
+information
+
+Block CONFPRTY
+gives information
+on Confirming
+Parties
+
+Block SETPRTY
+gives information on
+Settlement Parties
+
+Block
+CONF
+DET
+gives
+informa
+tion on
+Confirm
+ation
+Details
+
+Block
+SETDET
+gives
+informatio
+n on
+Settleme
+nt Details
+
+CONFIDENTIAL
+
+Block AMT gives
+information on
+various amounts
+
+Block OTHRPRTY is used for
+details regarding trade number
+and order numbers
+
+:16S:SETPRTY
+:16R:AMT
+:19A::EXEC//INR125,25
+:19A::SETT//INR102350,00
+:16S:AMT
+:16S:SETDET
+:16R:OTHRPRTY
+:95Q::ATLE/200212500012
+:95Q::ATLE/200212500013
+:95Q::ATLE/200212500014
+:20C::PROC//98765
+:16S:OTHRPRTY
+
+To identify the brokerage or settlement
+amount
+
+To identify the order number. The same
+field can be repeated multiple times to
+identify different 
+To identify the trade number
+
+CONFIDENTIAL
+
+Message IFN515 (For Debt Scrips)
+
+This message is sent by an executing party to an instructing party, (E.g. Broker-
+dealer to its client or the custodian)
+
+This message is used to confirm the details of a purchase or sale executed by the
+executing party on behalf of the instructing party. It is also used to provide details
+on the payment side of the transaction.
+
+Format Sequence
+The format sequence is broadly divided into Mandatory, Optional and Repetitive
+Blocks. The details of these blocks are given below.
+
+Mandatory Sequence A General Information
+Status Tag Generic Field Name
+
+Content/Options For
+
+M
+M
+
+16R  
+20C Reference
+
+GENL
+:4!c//16x
+
+Start of block
+Type of CN and CN
+No.
+
+M
+
+O
+
+23G  
+
+98a Date/Time
+
+4!c[/4!c]
+
+:4!c//8!n6!n
+
+To indicate
+new/cancellation.
+Preparation Date
+
+M
+
+22F Indicator
+
+:4!c/[8c]/4!c
+
+Dummy (taken
+since mandatory)
+
+End of Sequence A General Information
+Mandatory Sequence C Confirmation Details
+
+M
+
+16S  
+
+M
+----->
+
+16R  
+
+GENL
+
+CONFDET
+
+End of block
+
+Start of block
+
+Format: (Qualifier)/ /(References)
+Qualifier: “SEME”  (4 Uppercase
+Characters)
+References: (Contract Type/ Contract
+Number)
+Contract Type: FORM A (6 Character
+Sets)
+Contract Number: 
+Character Sets)
+
+Format: (Function)
+Function: “NEW”
+Format: (Qualifier)//(Date) (Time)
+Qualifier: “PREP”  (4 Uppercase
+Characters)
+Date: YYYYMMDD (8 Digits)
+Time: HHMMSS (6 Digits)
+Format: (Qualifier) /(Indicator)
+Qualifier: ”  TRTR”  (4 Uppercase
+Characters)
+Indicator: “TRAD”  (4 Uppercase
+Characters)
+
+M 98A Date/Time
+
+:4!c//8!n
+
+CONFIDENTIAL
+
+To give details of
+trade or settlement
+date. It’s a Repetitive
+field
+
+1. Format for Trade Date:
+(Qualifier)//(Date)
+     Qualifier: “TRAD”  (4 Uppercase
+Characters)
+     Date: ”YYYYMMDD”  (8 Digits)
+2. Format Settlement Date: (Qualifier) /
+(Date)
+     Qualifier: “TRAD”  (4 Uppercase
+Characters)
+     Date: ”YYYYMMDD”  (8 Digits)
+
+-----|
+----->
+M
+
+90A Price
+
+:4!c//4!c/3!a15d
+
+To indicate the trade
+rate
+
+-----|
+O
+
+94B Place
+
+:4!c/ /4!c[/30x]
+
+To identify the
+exchange
+
+----->
+M
+
+22a Indicator
+
+:4!c//4!c
+
+To indicate whether
+the trade is
+RVP/DVP
+
+Format: (Qualifier)/ /(Amount Type Code)/
+(Currency Code) (Price)
+Qualifier: “DEAL”  (4 Uppercase
+Characters)
+Amount Type Code: “ACTU”  (4
+Uppercase Characters
+Currency Code: “INR”  (3 Uppercase
+Alphabets)
+Price: 000000000,00000 (9 Digits, 5
+Decimals)
+Format:(Qualifier)/ /(Place Code)
+[/(Narrative)]
+Qualifier: “TRAD”  (4 Uppercase
+Characters)
+Place Code: “EXCH”  (4 Uppercase
+Characters)
+Narrative: “NSE”  or “BSE”
+
+ Format: (Qualifier) //(Indicator)
+Qualifier: “BUSE”  (4 Uppercase
+Characters)
+ Indicator: “BUYI”  or “SELL”  (4
+Uppercase Characters
+
+-----|
+-----> Repetitive Mandatory Subsequence C1 Confirmation Parties
+
+CONFPRTY
+
+Start of block
+
+16R  
+
+M
+----->
+M
+
+95A Party
+
+:4!c//4*35x
+
+To indicate who the
+buyer (BUYR) or
+seller (SELL).
+
+Format: (Qualifier) //(Name, Pan 
+Ad dress of client.)
+Qualifier: “BUYR”  (4 Uppercase
+Characters)
+
+-----|
+----->
+O
+
+97a Account
+
+:4!c//35x
+
+CONFIDENTIAL
+
+ Name , Pan No. &Address: Name of
+Client! Pan no of Client! Address of
+Client (150 Character
+
+To identify the
+safekeeping account
+
+Format: (Qualifier) //(Account
+Number)
+Qualifier: “SAFE”  (4 Upper Characters)
+ Account Number: (35 Character Sets)
+
+M
+
+16S
+
+CONFPRTY
+
+End of block
+
+-----| End of Mandatory Subsequence C1 Confirmation Parties
+M
+
+36B Quantity of Financial
+
+:4!c//4!c/15d
+
+Instrument
+
+To define the trade
+quantity
+
+M
+
+35B  
+
+[ISIN1!e12!c]
+[4*35x]
+
+To identify the ISIN
+of the scrip and
+company name and
+type of security.
+In case of GSECs,
+the RBI code would
+be indicated using
+the qualifier "XX"
+
+Optional Subsequence C2 Financial Instrument Attributes
+M
+----->
+O
+
+:4!c//[N]15d
+
+92A Rate
+
+16R  
+
+FIA
+
+Start of block
+
+To identify the
+interest rate
+
+Format: (Qualifier)//(Quantity Type
+Code) /(Quantity)
+Qualifier: “CONF”  (4 Uppercase
+Characters)
+Quantity Type Code: ”UNIT”  (4
+Uppercase Characters
+ Quantity: 000000000,00000 (9 Digits,
+5 Decimals)
+Format: (Identification of Security)
+(Description of Security)
+Identification of Security: “ISIN”
+Identification GSEC: “XX”
+Description of Security:  (4 lines of 35
+Characters Sets)
+
+Format: Qualifier//[Sign] Rate
+Qualifier: “INTR”
+Sign: + or – ( Must be present when the
+Rate is negative)
+Rate: 000000000,00000 (9 Digits,5
+Decimals)
+
+-----|
+O
+
+70E Narrative
+
+:4!c//10*35x
+
+To identify the face
+value , the MIBOR
+description, the
+coupon dates,
+maturity dates etc in
+
+Format: (Qualifier) //(Narrative)
+Qualifier: “TPRO”  (4 Upper Characters)
+Narrative:
+          Line 1: Face Value
+           Line2: MIBOR Rate
+
+CONFIDENTIAL
+
+a narrative format
+
+          Line 3: Coupon Rate
+          Line 4: Maturity Date
+
+M
+End of Optional Subsequence C2 Financial Instrument Attributes
+
+End of block
+
+16S  
+
+FIA
+
+O
+
+70E Narrative
+
+:4!c//10*35x
+
+To identify option of
+recourse NR or R for
+Without Recourse /
+With Recourse
+
+Format: Qualifier / /Narrative
+Qualifier: “TPRO”
+Narrative: “NR”- Without Recourse
+                     “R”- With Recourse
+
+16S  
+
+M
+End of Sequence C Confirmation Details
+Optional Sequence D Settlement Details
+M
+----->
+M
+
+22F Indicator
+
+16R  
+
+SETDET
+
+:4!c/[8c]/4!c
+
+CONFDET
+
+End of block
+
+Start of block
+
+Dummy (since
+mandatory)
+
+-----|
+-----> Repetitive Optional Subsequence D1 Settlement Parties
+M
+----->
+M
+
+95A Party
+
+SETPRTY
+
+:4!c//11x
+
+16R  
+
+Start of block
+
+To identify the
+parties to the deal
+(receiving agent-
+REAG
+delivering agent-
+DEAG
+counterparty - SELL
+or BUYI
+delivery custodian -
+DECU
+receiving custodian  -
+RECU)
+
+Format: (Qualifier) //(Indicator)
+Qualifier: “SETR”  (4 Upper Characters)
+ Indicator: “TRAD”  (4 Upper Characters)
+
+Format: (Qualifier) //(Narrative)
+Qualifier:
+“REAG”  for Sale (4 Upper Characters)
+or
+“DEAG”  for Purchase (4 Uppercase
+Characters)
+“DECU”  for Purchase (4 Uppercase
+Characters)
+“REAG”  for Sale   (4 Uppercase
+Characters)
+
+Narrative:
+Exchange Broker Code (11 Character
+Sets)
+
+-----|
+----->
+O
+
+70a Narrative
+
+:4!c//6*35x
+
+To identify the broker
+contact details
+
+Format: (Qualifier) //(Narrative)
+Qualifier: “PACO”  (4 Uppercase
+Characters)
+Narrative: Exchange Broker code! Sebi
+
+CONFIDENTIAL
+
+Registration Number! Address of the
+Broker  (210 Character Sets)
+
+16S  
+
+-----|
+M
+-----| End of Optional Subsequence D1 Settlement Parties
+-----> Repetitive Optional Subsequence D3 Amounts
+M
+----->
+M
+
+:4!c//[N]3!a15d
+
+19A Amount
+
+SETPRTY
+
+16R  
+
+AMT
+
+End of block
+
+Start of block
+
+To identify the
+brokerage or
+accrued interest in
+case of debt
+instruments
+
+Format: (Qualifier) //(
+Amount)
+For Brokerage:
+Qualifier: “EXEC”   (4 Upper case
+Characters)
+ Narrative: “INR”  (3 Upper Letters)
+Amount: 000000000,00000 (9 Digits, 5
+decimals)
+
+For Service Tax:
+Qualifier: “TRAX”   (4 Upper case
+Characters)
+Narrative: “INR”  (3 Upper Letters)
+Amount: 000000000,00000 (9 Digits, 5
+decimals)
+
+For Accrued Interest:
+Qualifier: “ACRU”   (4 Upper case
+Characters)
+Narrative: “INR”  (3 Upper Letters)
+Amount: 000000000,00000 (9 Digits, 5
+decimals)
+
+AMT
+
+16S  
+
+16S  
+
+-----|
+M
+-----| End of Optional Subsequence D3 Amounts
+M
+End of Sequence D Settlement Details
+-----> Repetitive Optional Sequence E Other Parties
+M
+----->
+-----|
+
+OTHRPRTY
+
+SETDET
+
+16R  
+
+End of block
+
+End of block
+
+Start of block
+
+Illustration (MT515 Debt)
+
+CONFIDENTIAL
+
+{IFN515}{BROKERADDR}{CUSTDNADDR}{
+
+:16R:GENL
+
+:20C::SEME//FORM-A/1234/H
+
+:23G:NEWM
+
+:98A:PREP//20020502
+
+:22F::TRTR//TRAD
+
+:16S:GENL
+
+:16R:CONFDET
+
+:98A::TRAD//20020507
+
+:98A::SETT//20020503
+
+:90B::DEAL/ACTU//INR102,35
+
+:94B::TRAD//EXCH/BSE
+
+CONFIDENTIAL
+
+:22H::BUSE//BUYI
+
+:22H::PAYM//APMT
+
+:16R:CONFPRTY
+
+:95P::BUYR/CLIENT_NAME123
+
+:97A::SAFE//CLIENT_CD123
+
+:16S:CONFPRTY
+
+:36B::SETT//UNIT/15000,
+
+:35B::ISIN INE005A09121
+
+ICICIFIXED INCOME
+
+:16R:FIA
+
+:92A::INTR//10,25
+
+:70E::FIAN//100000000,NSE
+
+CONFIDENTIAL
+
+MIBOR 10:30 am
+
+CPN DT/20020518
+
+MAT DT/20061231
+
+:16S:FIA
+
+:70E::TRPO//CH/NR
+
+:16S:CONFDET
+
+:16R:SETDET
+
+:22F::SETR//TRAD
+
+:16R:SETPRTY
+
+:95P::REAG//BRK_CD
+
+:95P::SELL//CNTRPRTY_CLNT
+
+CONFIDENTIAL
+
+:95P::DECU//STANDARD CHARTERED
+
+:70C::PACO//Contact Mr.
+
+Vinayak
+
+from XYZ Securities at
+
+Phone : 2830529
+
+:16S:SETPRTY
+
+:16R:AMT
+
+:19A::EXEC//INR125,25
+
+:19A::ACRU//INR122655,25
+
+:19A::SETT//INR102350,00
+
+:16S:AMT
+
+:16S:SETDET
+
+CONFIDENTIAL
+
+:16R:OTHRPRTY
+
+:95Q::ATLE/200212500012
+
+:95Q::ATLE/200212500013
+
+:95Q::ATLE/200212500014
+
+:20C::PROC//98765
+
+:16S:OTHRPRTY
+
+-}
+
+Illustrative Example Explained
+
+CONFIDENTIAL
+
+:16R:GENL
+:20C::SEME//FORM-A/1234/H
+:23G:NEWM
+:98A:PREP//20020502
+:22F::TRTR//TRAD
+:16S:GENL
+:16R:CONFDET
+:98A::TRAD//20020507
+:98A::SETT//20020503
+:90B::DEAL/ACTU//INR102,35
+:94B::TRAD//EXCH/BSE
+:22H::BUSE//BUYI
+:22H::PAYM//APMT
+:16R:CONFPRTY
+:95P::BUYR/CLIENT_NAME123
+
+:97A::SAFE//CLIENT_CD123
+
+:16S:CONFPRTY
+:36B::SETT//UNIT/15000,
+:35B::ISIN INE005A09121
+ICICI
+FIXED INCOME
+:16R:FIA
+:92A::INTR//10,25
+:70E::FIAN//100000000,
+NSE MIBOR 10:30 am
+CPN DT/20020518
+MAT DT/20061231
+:16S:FIA
+:70E::TRPO//CH/NR
+
+:16S:CONFDET
+:16R:SETDET
+:22F::SETR//TRAD
+:16R:SETPRTY
+
+Type of CN and CN No.
+New Message
+Preparation Date
+Dummy (since mandatory)
+
+Trade date and
+Settlement date (YYYYMMDD)
+Trade rate
+Exchange
+Trade is Receive Against Payment
+
+The BUYER : CLIENT_NAME123
+
+The exchange client code is
+CLIENT_CD123
+
+Trade quantity
+ISIN of the security and Company
+name and Security Type.
+
+Coupon rate
+To identify the face value , the MIBOR
+description, the coupon dates,
+maturity dates etc (in a narrative
+format)
+
+Delivery type = Clearing House
+Option of recourse= Without Recourse
+
+Dummy (since mandatory)
+
+Block GENL gives General
+information
+
+Block CONFDET
+gives information
+on Confirmation
+Details
+
+Block
+CONFPRTY
+gives details
+about the
+Confirmation
+Parties
+
+Block FIA
+gives details
+about the
+Financial
+Instrument
+
+Block SETDET
+gives information
+about the
+Settlement Details
+
+Block
+SETDET
+gives
+information
+about the
+Settlement
+Parties
+
+:95P::REAG//BRK_CD
+:95P::SELL//CNTRPRTY_CLNT
+:95P::DECU//STANDARD
+CHARTERED
+:70C::PACO//Contact Mr. Vinayak
+from XYZ Securities at Phone :
+2830529
+:16S:SETPRTY
+:16R:AMT
+:19A::EXEC//INR125,25
+:19A::ACRU//INR122655,25
+:19A::SETT//INR102350,00
+:16S:AMT
+:16S:SETDET
+:16R:OTHRPRTY
+:95Q::ATLE/200212500012
+:95Q::ATLE/200212500013
+:95Q::ATLE/200212500014
+
+:20C::PROC//98765
+:16S:OTHRPRTY
+
+CONFIDENTIAL
+
+Receiving agent-REAG
+Counterparty - SELLER
+Delivery custodian - DECU
+
+Broker contact details
+
+Brokerage (EXEC)
+Accrued interest (ACRU)
+Deal Amount (SETT)
+
+To identify the order number. The
+same field can be repeated multiple
+times to identify different order
+numbers
+To identify the trade number
+
+Block AMT
+gives details
+about
+
+Block OTHRPRTY is used for
+details regarding trade number and
+order numbers
+
+Message number IFN 580
+
+CONFIDENTIAL
+
+This message is exchanged between
+
+the Stock Exchange to the Custodian.
+
+The message is used to list the trades
+
+executed on the exchange by the
+
+custodian's clients. The exchange will
+
+expect a response from the custodian
+
+in terms of a confirmation at a trade
+
+level. The same message will be used
+
+to intimate confirmation from the
+
+custodian to the exchange at a trade
+
+level. For purpose of better
+
+comprehension the confirmation is
+
+CONFIDENTIAL
+
+described separately.
+
+Format Specification
+
+There is only one block in this message. This has a repetitive sequence each of
+which would detail information of one order. The sequence can then be repeated
+multiple times.
+
+Status Tag Field Name
+
+Content/Options
+
+Purpose
+
+O
+
+----->
+M
+
+20Transaction Reference
+
+Number
+
+23Further Identification
+
+30Settlement Date
+
+20Transaction Reference
+
+Number
+
+O
+
+M
+
+O
+O
+
+M
+
+M
+
+O
+
+21Related Reference
+
+31P Date and Place of Trade
+
+16x
+6!n[29x]
+
+Action ID / Contract No.
+
+35A Quantity of Securities
+
+3!a15d
+
+Trade Date
+Trade Quantity
+
+35B Identification of Securities [ISIN1!e12!c]
+
+[4*35x]
+
+82C Instructing Party
+
+/34x
+
+Exchange Security Symbol
+Exchange Security Series
+ 
+Exchange
+
+File name
+
+Format: (Custodian Code)(date)
+
+16x
+
+16x
+
+6!n
+
+16x
+
+To indicate the order type (BUY or
+SELL)
+
+Settlement date
+
+Order number
+
+Format: (Order Type)
+
+Order Type:
+DELAPMT - indicates Sale
+RECAPMT - indicates Purchase
+Format: (Settlement Date)
+
+Settlement Date: <YYYYMMDD>
+Format: (Order Number)
+
+16 numbers
+Format: (Action ID)/(Contract No.)
+Format: (Trade Date)
+
+Trade Date: <YYYYMMDD>
+Format: (Type)(Quantity)
+
+Type: "UNT" to indicate shares
+Quantity:
+<000000000,00000>
+Format: ISIN (Security Symbol)
+(Security Series)
+
+The above are as defined by each
+exchange.
+Format: (Exchange)
+
+CONFIDENTIAL
+
+83C Safekeeping Account
+
+/34x
+
+To identify the Client
+
+84A Clearing Correspondent
+
+[/1!a][/34x]
+
+87C Receiver/Deliverer of
+
+Securities
+
+/34x
+
+Custodian Code
+ 
+
+Broker Broker Code
+
+33T Deal Price
+
+3!a15d
+
+Weighted Average Price
+
+M
+
+O
+
+M
+
+O
+
+O
+
+77B Further Information
+
+3*35x
+
+O
+
+77D Registration Details
+
+6*35x
+
+Physical Quantity
+Demat Quantity
+CDS Quantity
+
+Delivery Mode
+Trade ID
+Transaction Code
+
+O
+
+O
+
+-----|
+
+72Sender to Receiver
+
+Information
+
+6*35x
+
+Settlement No
+
+79Narrative
+
+35*50x
+
+Settlement Group
+
+Illustration (IFN 580 - Exchange to
+
+ 
+
+Custodian)
+
+Exchange:
+"NSE" for National Stock Exchange
+"BSE" for Bombay Stock Exchange
+Format :
+
+Account: The Exchange Client code
+is to be displayed here
+Format: (Account)
+
+Account: The Exchange Custodian
+Code is to be displayed here
+Fromat: (Account)
+
+Account: The Exchange Broker
+Code is to be displayed here.
+Format: (Currency) (Price)
+
+Currency: "INR"
+Price: 000000000,00000
+Format:(Quantity)
+(Quantity)
+(Quantity)
+
+The Physical quantity, 
+quantity and 
+indicated in each line. Each value
+will be of the format
+<000000000,00000>
+Format: (Delivery Mode)
+(Trade ID)
+(Transaction Code)
+
+Delivery Mode: "B"
+Trade ID: As defined
+Transaction Code: "I"
+Format: (Settlement Number)
+
+Settlement number: As defined by
+the exchange. (Max of 35
+characters)
+Format: (Settlement Group)
+
+As defined by the exchange.
+
+CONFIDENTIAL
+
+{IFN580-1}{EXCHANGEADDR}{CUSTDNADDR}{
+
+:20:EXCHORD037DR
+
+:23:DELAPMT
+
+:30:020523
+
+:20:27481
+
+:21:6120
+
+:31P:020518
+
+:35A:UNT12000,
+
+:35B:CCIN 500209
+
+D1
+
+:82C:/BSE
+
+:83R:CUST
+
+CONFIDENTIAL
+
+:83C:MLCMESPAN257
+
+:84A:0809
+
+:87C:/0130
+
+:33T:INR3910,27
+
+:77B:0
+
+12000
+
+0
+
+:77D:DELMODE/B
+
+TRDID/0000000
+
+TRNSCODE/I
+
+:72:2002036
+
+D1
+
+CONFIDENTIAL
+
+-}
+
+Illustrative Example Explained
+
+CONFIDENTIAL
+
+File Name
+
+This block will give the details of
+the exchange orders.
+
+:20:EXCHORD037DR
+:23:DELAPMT
+:30:020523
+:20:27481
+:21:6120
+:31P:020518
+:35A:UNT12000,
+:35B:CCIN 500209
+D1
+:82C:/BSE
+:83R:CUST
+
+The block can be repeated several
+times, as many there are
+exchange orders for the day.
+
+:83C:MLCMESPAN257
+:84A:0809
+
+:87C:/0130
+:33T:INR3910,27
+
+:77B:0
+12000
+0
+:77D:DELMODE/B
+TRDID/0000000
+TRNSCODE/I
+:72:2002036
+D1
+
+File Name
+Order type
+Settlement date
+Order number
+Contract No.
+Trade Date
+Trade Quantity
+Exchange Security Symbol
+Exchange Security Series
+Exchange
+Exchange [Principal] /
+Custodian
+Exch Client Code
+Exch Client Code
+
+Exch Broker Code
+Weighted Average Price
+
+Physical Quantity
+Demat Quantity
+CDS Quantity
+Delivery mode
+Trade ID
+Transaction Code
+Sett No
+Sett Group
+
+Message Number IFN 580
+
+CONFIDENTIAL
+
+This message is exchanged between
+
+the Stock Exchange to the Custodian.
+
+The message list the trades executed
+
+on the exchange by the custodian's
+
+clients. The message will be used to
+
+intimate confirmation from the
+
+custodian to the exchange at a trade
+
+level.
+
+Format Specification
+
+There is only one block in this message. This has a repetitive sequence each of
+which would detail information of one order. The sequence can then be repeated
+multiple times.
+
+Status Tag Field Name
+
+Content/Options
+
+Purpose
+
+O
+
+20
+
+Transaction Reference
+Number
+
+CONFIDENTIAL
+
+File name
+
+Format: (Custodian Code)(date)
+
+23
+
+Further Identification
+
+30
+
+Settlement Date
+
+20
+
+Transaction Reference
+Number
+
+21
+
+Related Reference
+
+16x
+
+16x
+
+6!n
+
+16x
+
+16x
+
+ 
+Order type and Confirmation
+Flag
+
+Settlement date
+
+Order number
+
+Action ID / Contract No.
+
+----->
+M
+
+O
+
+M
+
+O
+
+O
+
+M
+
+M
+
+O
+
+M
+
+O
+
+M
+
+O
+
+O
+
+31P Date and Place of Trade
+
+6!n[29x]
+
+Trade Date
+
+35A Quantity of Securities
+
+3!a15d
+
+Trade Quantity
+
+35B Identification of Securities [ISIN1!e12!c]
+
+[4*35x]
+
+Exchange Security Symbol
+Exchange Security Series
+ 
+
+82a
+
+Instructing Party
+
+A, C, D
+
+Exchange
+
+83C Safekeeping Account
+
+/34x
+
+Exchange Client Code
+
+84A Clearing Correspondent
+
+[/1!a][/34x]
+4!a2!a2!c[3!c]
+
+Custodian Code
+ 
+
+87a
+
+Receiver/Deliverer of
+Securities
+
+A, C or D
+
+Exchange Broker Code
+
+33T Deal Price
+
+3!a15d
+
+Weighted Average Price
+
+77B Further Information
+
+3*35x
+
+Physical Quantity
+Demat Quantity
+
+Format: (Order Type)
+
+Order Type:
+DELAPMT - indicates Sale
+RECAPMT - indicates Purchase
+Format: (Settlement Date)
+
+Settlement Date: <YYYYMMDD>
+Format: (Order Number)
+
+16 numbers
+Format: (Action ID)/(Contract
+No.)
+Format: (Trade Date)
+
+Trade Date: <YYYYMMDD>
+Format: (Quantity)
+
+Format: ISIN (Security Symbol)
+(Security Series)
+
+The above are as defined by
+each exchange.
+Format: (Exchange)
+
+Exchange:
+"NSE" for National Stock
+Exchange
+"BSE" for Bombay Stock
+Exchange
+Format :
+
+Account: The Exchange Client
+code is to be displayed here
+Format: (Account)
+
+Account: The Exchange
+Custodian Code is to be
+displayed here
+Fromat: (Account)
+
+Account: The Exchange Broker
+Code is to be displayed here.
+Format: (Currency) (Price)
+
+Currency: "INR"
+Price: 000000000,00000
+Format:(Quantity)
+(Quantity)
+
+CONFIDENTIAL
+
+CDS Quantity
+
+(Quantity)
+
+O
+
+77D Registration Details
+
+6*35x
+
+Delivery Mode
+Trade ID
+Transaction Code
+
+O
+
+O
+
+-----|
+
+72Sender to Receiver
+
+Information
+
+6*35x
+
+Settlement No
+
+79Narrative
+
+35*50x
+
+Settlement Group
+
+ 
+
+The Physical quantity, 
+quantity and 
+be indicated in each line. Each
+value will be of the format
+<000000000,00000>
+Format: (Delivery Mode)
+(Trade ID)
+(Transaction Code)
+
+Delivery Mode: "B"
+Trade ID: As defined
+Transaction Code: "I"
+Format: (Settlement Number)
+
+Settlement number: As defined
+by the exchange. (Max of 35
+characters)
+Format: (Settlement Group)
+
+As defined by the exchange.
+
+Illustration (IFN 580 - Custodian to
+
+CONFIDENTIAL
+
+Exchange)
+
+{IFN580-2}{CUSTDNADDR}{EXCHANGEADDR}{
+
+:20:CUSTORD037DR
+
+:23:DELAPMT/CONFM//Y
+
+:30:020523
+
+:20:27481
+
+:21:6120
+
+:31P:020518
+
+:35A:UNT12000,
+
+:35B:CCIN 500209
+
+D1
+
+CONFIDENTIAL
+
+:82C:/BSE
+
+:83R:CUST
+
+:83C:MLCMESPAN257
+
+:84A:0809
+
+:87C:/0130
+
+:33T:INR3910,27
+
+:77B:0
+
+12000
+
+0
+
+:77D:DELMODE/B
+
+TRDID/0000000
+
+TRNSCODE/I
+
+CONFIDENTIAL
+
+:72:2002036
+
+D1
+
+-}
+
+Illustrative Example Explained
+
+File Name
+
+:20:CUSTORD037DR
+:23:DELAPMT/CONFM//Y
+
+This block will give the
+details of the exchange
+orders.
+
+The block can be
+repeated several times,
+as many there are
+exchange orders for the
+day.
+
+:30:020523
+:20:27481
+:21:6120
+:31P:020518
+:35A:UNT12000,
+:35B:CCIN 500209
+D1
+:82C:/BSE
+:83R:CUST
+
+:83C:MLCMESPAN257
+:84A:0809
+
+:87C:/0130
+:33T:INR3910,27
+
+:77B:0
+12000
+0
+:77D:DELMODE/B
+TRDID/0000000
+TRNSCODE/I
+:72:2002036
+D1
+
+CONFIDENTIAL
+
+File name
+Order type and Confirmation
+Flag
+Settlement date
+Order number
+Contract No.
+Trade Date
+Trade Quantity
+Exchange Security Symbol
+Exchange Security Series
+Exchange
+Exchange [Principal] /
+Custodian
+Exch Client Code
+Exch Client Code
+
+Exch Broker Code
+Weighted Average Price
+
+Physical Quantity
+Demat Quantity
+CDS Quantity
+Delivery mode
+Trade ID
+Transaction Code
+Sett No
+Sett Group
+
+CONFIDENTIAL
+
+Message number IFN 580
+
+This message is sent by Exchange to Custodian. In this message the Exchange
+details the obligation information for each Custodian.
+
+Format Specification
+
+There is only one block in this message. This has a repetitive sequence each of
+which would detail information of obligation for one ISIN. The sequence can then
+be repeated multiple times.
+
+Status Field Field Name
+O
+
+20Transaction Reference Number 16x
+
+Content/Options
+
+----->
+M
+
+23Further Identification
+
+16x
+
+M
+
+M
+
+O
+
+O
+
+M
+
+35A Quantity of Securities
+
+3!a15d
+
+35B Identification of Securities
+
+[ISIN1!e12!c]
+[4*35x]
+
+82C Instructing Party
+
+/34x
+
+84A Clearing Correspondent
+
+[/1!a][/34x]
+4!a2!a2!c[3!c]
+
+87C Receiver/Deliverer of
+
+Securities
+
+/34x
+
+Purpose
+
+File name
+ 
+
+Order type
+
+Trade Quantity
+
+Exchange Security Symbol
+Exchange Security Series
+ 
+
+Exchange
+
+Custodian Code
+ 
+
+Format: (Custodian
+Code)(date)
+
+Format: (Order Type)
+
+Order Type:
+DELAPMT - indicates Sale
+RECAPMT - indicates Purchase
+Format: (Quantity)
+
+Quantity: 00000000,00000
+Format: ISIN (Security
+Symbol)
+(Security Series)
+
+The above are as defined by
+each exchange.
+Format: (Exchange)
+
+Exchange:
+"NSE" for National Stock
+Exchange
+"BSE" for Bombay Stock
+Exchange
+Format: (Account)
+
+Account: The Exchange
+Custodian Code is to be
+displayed here
+Format: (Account)
+
+Exchange Broker Code
+
+Account: The Exchange Broker
+Code is to be displayed here.
+
+32M Deal Amount
+
+72Sender to Receiver
+
+Information
+
+3!a15d
+
+6*35x
+
+23Further Identification
+
+16x
+
+35A Quantity of Securities
+
+3!a15d
+
+35B Identification of Securities
+
+[ISIN1!e12!c]
+[4*35x]
+
+82C Instructing Party
+
+/34x
+
+84A Clearing Correspondent
+
+[/1!a][/34x]
+4!a2!a2!c[3!c]
+
+87C Receiver/Deliverer of
+
+Securities
+
+32M Deal Amount
+
+72Sender to Receiver
+
+Information
+
+/34x
+
+3!a15d
+
+6*35x
+
+O
+
+O
+
+-----|
+----->
+M
+
+M
+
+M
+
+O
+
+O
+
+M
+
+O
+
+O
+
+-----|
+
+CONFIDENTIAL
+
+To indicate the amount of the
+trade
+
+Settlement No
+ 
+ 
+
+Order type
+
+Trade Quantity
+
+Exchange Security Symbol
+Exchange Security Series
+ 
+
+Exchange
+
+Custodian Code
+ 
+
+Exchange Broker Code
+
+To indicate the amount of the
+trade
+
+Sett No
+ 
+
+Format: (Currency)(Amount)
+
+Currency: "INR"
+Amount: 000000000,00000
+Format: (Settlement Number)
+
+Settlement number: As
+defined by the exchange. (Max
+of 35 characters)
+
+Format: (Order Type)
+
+Order Type:
+DELAPMT - indicates Sale
+RECAPMT - indicates Purchase
+Format: (Quantity)
+
+Quantity: 00000000,00000
+Format: ISIN (Security
+Symbol)
+(Security Series)
+
+The above are as defined by
+each exchange.
+Format: (Exchange)
+
+Exchange:
+"NSE" for National Stock
+Exchange
+"BSE" for Bombay Stock
+Exchange
+Format: (Account)
+
+Account: The Exchange
+Custodian Code is to be
+displayed here
+Format: (Account)
+
+Account: The Exchange Broker
+Code is to be displayed here.
+Format: (Currency)(Amount)
+
+Currency: "INR"
+Amount: 000000000,00000
+Format: (Settlement Number)
+
+Settlement number: As
+defined by the exchange. (Max
+of 35 characters)
+
+CONFIDENTIAL
+
+Illustration (IFN 580)
+
+{IFN580-3}{EXCHANGEADDR}{CUSTDNADDR}{
+:20:EXCHOBJ037DR
+:23:DELAPMT
+:35A:UNT12000,
+:35B:CCIN 500209
+D1
+:82C:BSE
+:84A:0809
+:85A:0130
+:32M:INR1344556,67
+:72:2002036
+:23:RECAPMT
+:35A:UNT15000,
+:35B:CCIN 500209
+D1
+:82C:BSE
+:84A:0809
+:85A:0130
+:32M:INR123456,67
+:72:2002036
+-}
+
+Illustrative Example Explained
+
+CONFIDENTIAL
+
+File Name
+
+This block contains
+the gross purchase
+and gross sale details
+for a particular security
+
+This block contains
+details of the
+purchase
+
+This block contains
+details of the sale
+
+:20:EXCHOBJ037DR
+:23:DELAPMT
+:35A:UNT12000,
+:35B:CCIN 500209
+D1
+:82C:BSE
+:84A:0809
+:85A:0130
+:32M:INR1344556,67
+:72:2002036
+:23:RECAPMT
+:35A:UNT15000,
+:35B:CCIN 500209
+D1
+:82C:BSE
+:84A:0809
+:32M:INR123456,67
+:72:2002036
+
+File Name
+Trade Type
+Trade Quantity
+Security Symbol
+Security Series
+Exchange
+Custodian Code
+Broker code
+Trade Amount
+Settlement Number
+Trade Type
+Trade Quantity
+Security Symbol
+Security Series
+Exchange
+Custodian Code
+Trade Amount
+Settlement Number
+
+Message Number IFN 564
+
+CONFIDENTIAL
+
+This message is sent by the Exchange
+
+to the Custodian.  Through this
+
+message, the Exchange is forwarding
+
+different Corporate Action information
+
+to Custodians, given to them by
+
+Companies listed with them.
+
+Format Specification
+The  format  Block  is  broadly  divided  into  Mandatory,  Optional  and  Repetitive
+Blocks.  The details of these blocks are given below
+
+Mandatory Block A (General Information)
+
+ 
+
+Status Field Field Name Content/
+Options
+
+Purpose
+
+16R  
+
+GENL
+
+20C Reference
+
+:4!c//16x
+
+M
+----->
+M
+
+-----|
+
+Start of block
+ 
+
+both fields are mandatory
+CORP - indicates Corporate Action reference number,
+SEME - indicates sender's message reference number
+
+ 
+
+M
+
+23G  
+
+4!c[/4!c]
+
+----->
+M
+
+22F Indicator
+
+:4!c/[8c]/4!c
+
+CONFIDENTIAL
+
+Use any one of following
+NEWM - New Message
+REPC - Replaces previously sent confirmed message
+REPL - Replaces previously sent preliminary message
+WITH - Previously informed CA withdrawn
+CANL - Previously sent message cancelled
+
+ 
+
+both fields are mandatory
+CAEV - Corporate Action Event
+CAMV - Indicates whether event is
+
+Mandatory (MAND)or
+Voluntary (VOLU)
+
+The Values for CAEV could be -
+ACTV - Commencement of trading
+BIDS - Buy-back
+BRUP - Bankruptcy
+CONS - consent (Can be used for Ballot voting)
+CONV - Conversion of securities
+DECR - Reduction in of the share capital and face value
+DLST - Delisting of security
+DVCA - Cash dividend
+ DVSE - Stock Dividend
+MEET - General meeting
+MRGR - Merger
+NAME - Name change
+RHTS - Rights Issue
+SUSP - Trading in security Suspended
+TEND - Tender offer / open offer
+OTHE - Other
+
+-----|
+O
+M
+
+98a Date/Time
+25D Status Code
+
+A or C
+:4!c/[8c]/4!c
+
+ 
+
+Preparation Date
+PREU - Unconfirmed preliminary announcement
+PREC - Preliminary Announcement confirmed
+COMP - Complete
+
+-----> Repetitive Optional Sub Block A1 Linkages
+M
+O
+O
+
+16R  
+22F Indicator
+13A Number
+
+LINK
+:4!c/[8c]/4!c
+:4!c//3!c
+
+ 
+Start of block
+ 
+Gives link to previous announcement - 564 indicates message type
+
+Identification
+
+M
+
+20C Reference
+
+:4!c//16x
+
+Reference number of previously sent message
+
+16S  
+
+16S  
+
+M
+-----| End of Sub Block A1 Linkages
+M
+End of Block A General Information
+Mandatory Block B Underlying Securities
+M
+M
+
+16R  
+35B  
+
+GENL
+
+LINK
+
+USECU
+[ISIN1!e12!c]
+[4*35x]
+
+End of block
+ 
+End of block
+ 
+ 
+Start of block
+ISIN number, Exchange code and description of security
+
+CONFIDENTIAL
+
+ 
+
+Start of block
+Included since it is a mandatory field
+
+93a Balance
+
+ACCTINFO
+A or C
+
+16R  
+97a Account
+
+ 
+-----> Repetitive Mandatory Sub Block B2 Account Information
+M
+M
+----->
+O
+-----|
+M
+-----| End of Sub Block B2 Account Information
+M
+End of Block B Underlying Securities
+Optional Block C Intermediate Securities
+M
+
+ 
+End of block
+ 
+End of block
+ 
+ 
+
+ACCTINFO
+
+INTSEC
+
+USECU
+
+B or C
+
+16S  
+
+16S  
+
+16R  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+35B  
+
+36B Quantity of
+
+Financial
+Instrument
+
+[ISIN1!e12!c]
+[4*35x]
+:4!c//4!c/15d
+
+22F Indicator
+
+:4!c/[8c]/4!c
+
+92D Rate
+
+:4!c//15d/15d
+
+Start of block-
+This block will be used only in case of rights to indicate tradeable rights
+ISIN number, Exchange code and description of security
+ 
+Does not indicate anything - used only since mandatory
+
+ 
+
+Indicates whether rights are renouncable (RENO) or not renouncable
+(NREN)
+
+ 
+ 
+ 
+
+Indicates rights ratio as 1 is to 2
+
+90B Price
+
+:4!c//4!c/3!a15d
+
+ 
+
+98a Date/Time
+
+A or B
+
+Expiry date of rights
+
+69a Period
+
+A, B, C, D, E or F Trading period of rights
+
+M
+
+M
+
+----->
+O
+
+-----|
+ 
+----->
+O
+
+-----|
+O
+----->
+M
+-----|
+O
+
+16S  
+
+INTSEC
+
+M
+End of Block C Intermediate Securities
+Optional Block D Corporate Action Details
+M
+----->
+O
+
+98a Date/Time
+
+A, B, C or D
+
+CADETL
+
+16R  
+
+End of block
+ 
+ 
+Start of block
+ 
+
+Indicates Announcement date, Conversion date, Ex-date, Expiry date,
+Deadline to split, Meeting date, Response Deadline date, Record Date,
+Trading resume date, Trading Suspended date
+
+-----|
+ 
+----->
+O
+
+-----|
+ 
+----->
+
+69a Period
+
+Offer period
+ 
+ 
+ 
+
+A, B, C, D, E or F Will be used optionally - Indicates Conversion period / Exercise period /
+
+O
+
+92a Rate
+
+A, D, E or F
+
+Indicates gross rate for dividend, interest or ratio for rights, conversion,
+stock split etc.
+
+CONFIDENTIAL
+
+-----|
+----->
+O
+-----|
+O
+
+90a Price
+
+A or B
+
+22F Indicator
+
+:4!c/[8c]/4!c
+
+:4!c//10*35x
+
+70E Narrative
+
+----->
+O
+-----|
+M
+End of Block D Corporate Action Details
+-----> Repetitive Optional Block E Corporate Action Options
+M
+
+ 
+End of block
+ 
+
+CAOPTN
+
+CADETL
+
+16S  
+
+16R  
+
+ 
+
+Issue price for rights or Exercise price
+
+Dividend - Final (FINL) / Interim (INTE)
+
+Additional text / info can be mentioned.
+
+13A Number
+
+Identification
+
+:4!c//3!c
+
+22F Indicator
+
+:4!c/[8c]/4!c
+
+17B Flag
+35B  
+
+:4!c//1!a
+[ISIN1!e12!c]
+[4*35x]
+
+98a Date/Time
+
+A, B, C or D
+
+Start of block - This block will be used only if additional optional securities
+/ cash is to be received
+
+ 
+
+Indicates option numbers - repetitive fields
+
+ 
+
+Option to receive securities
+
+Default processing flag is taken as Y
+ISIN number, Exchange code and description of security
+ 
+
+ 
+
+Indicates Announcement date, Conversion date, Ex-date, Expiry date,
+Deadline to split, Meeting date, Response Deadline date, Record Date,
+Trading resume date, Trading Suspended date
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+O
+
+----->
+M
+-----|
+M
+O
+
+----->
+O
+
+-----|
+ 
+----->
+O
+
+-----|
+ 
+----->
+O
+
+-----|
+ 
+----->
+O
+
+69a Period
+
+A, B, C, D, E or F Will be used optionally - Indicates Conversion period (CONV) / Exercise
+
+period (IACC) / Offer period (OFFR)
+
+Indicates gross rate for dividend, interest or ratio for rights, conversion,
+stock split etc.
+
+92a Rate
+
+A, D, E or F
+
+90a Price
+
+A or B
+
+Issue price for rights or Exercise price
+
+16S  
+
+CAOPTN
+
+-----|
+M
+-----| End of Block E Corporate Action Options
+Optional Block F Additional Information
+M
+----->
+O
+
+70E Narrative
+
+:4!c//10*35x
+
+ADDINFO
+
+16R  
+
+ 
+End of block
+ 
+ 
+Start of block
+ 
+
+Additional text / info can be mentioned.
+
+CONFIDENTIAL
+
+-----|
+ 
+----->
+-----|
+ADDINFO
+M
+End of Block F Additional Information
+ 
+
+16S  
+
+ 
+
+ 
+ 
+ 
+ 
+End of block
+ 
+ 
+
+ 
+
+CONFIDENTIAL
+
+Illustration (IFN 564)
+
+{IFN564}{EXCHANGEADDR}{CUSTDNADDR}{
+:16R:GENL
+:20C::CORP//CA01001
+:20C::SEME//CA01001-01
+:23G:NEWM
+:22F::CAEV//DVCA
+:22F::CAMV//MAND
+:98A:PREP//20020502
+:25D::PROC//COMP
+:16R:LINK
+:13A::LINK//564
+:20C::PREV//NSE00235
+:16R:LINK
+:16R:GENL
+:16R:USECU
+:35B:ISIN INE015A01010
+EQRANBAXY
+RANBAXY LABORATORIES LTD
+(DEMAT SHARES)
+:16R:ACCTINFO
+:97A::DUMMY
+:16S:ACCTINFO
+:16S:USECU
+:16R:INTSEC
+:35B:ISIN INE015R01010
+RTRANBAXY
+RANBAXY LABORATORIES LTD
+RIGHTS
+:36B:QINT:1
+:22F:SELL//RENO
+:92D:RTUN/1,/2,
+:98A::EXPI//20020701
+:69A::TRDP//20020601/20020615
+:16S:INTSEC
+:16R:CADETL
+:98A::ANOU//20020516
+:98A::RDTE//20020106
+:69A//OFFR//20020106/20021506
+:92A::NEWO//1,/2,
+:90B::ISSU//ACTU/INR20
+:22F::DIVI//FINL
+:70E::ADTX//Any additional information
+that you want to mention
+:16S:CADETL
+:16R:CAOPTN
+:13A::CAON//001
+:22F::CAOP//SECU
+:17B:DFLT//Y
+:35B:ISIN INE025A01020
+EQNICHPRML
+NICHOLAS PIRAMAL
+EQUITY SHARES
+:98A::RDTE//20020106
+:69A//OFFR//20020106/20021506
+
+CONFIDENTIAL
+
+:92A::NEWO//1,/2,
+:90B::ISSU//ACTU/INR20
+:16S:CAOPTN
+:16R:ADDINFO
+:70E::ADTX//Additional
+Information if any
+:16S:ADDINFO
+-}
+
+Illustrative Example Explained
+
+:16R:GENL
+:20C::CORP//CA01001
+:20C::SEME//CA01001-01
+
+:23G:NEWM
+
+:22F::CAEV//DVCA
+:22F::CAMV//MAND
+
+:98A:PREP//20020502
+
+:25D::PROC//COMP
+
+:16R:LINK
+:13A::LINK//564
+:20C::PREV//NSE00235
+
+:16R:LINK
+:16R:GENL
+:16R:USECU
+:35B:ISIN INE015A01010
+EQRANBAXY
+RANBAXY LABORATORIES
+LTD (DEMAT SHARES)
+:16R:ACCTINFO
+:97A::DUMMY
+
+:16S:ACCTINFO
+:16S:USECU
+:16R:INTSEC
+
+Indicates Exchange’s
+internal reference
+number for CA and
+Message reference
+number
+Indicates it is a new
+message
+CA Event indicator –
+Cash dividend
+Processing flag –
+Mandatory
+Message preparation
+date
+Message gives complete
+information
+
+Indicates link to 564
+Reference link of
+previously sent message
+
+Details of Underlying
+Security
+
+Account info taken as
+‘dummy’, since
+mandatory field.
+
+Block GENL gives
+General
+information
+
+Link to
+previous
+message
+
+Underlying Securities
+Information
+
+Intermediate Securities
+details
+
+CONFIDENTIAL
+
+Details of Intermediate
+security e.g. rights.  In
+case CA like Cash
+dividend ‘INTSEC’  block
+will not appear.
+Taken since mandatory
+field.
+Rights can be  renounced
+Ratio of rights
+Expiry of rights
+Trading period of rights
+
+Announcement date
+Record date
+Offer period
+
+Ratio of rights
+Issue price
+Final Dividend (in case of
+Cash dividends)
+Additional information, if
+any.
+
+1st option (Where more
+than one security or cash
+can be received.
+
+Default flag Y
+Security description of
+security receivable.
+
+Record date
+Offer period
+
+Rights Ratio
+Issue price
+
+Additional text if any.
+
+:35B:ISIN INE015R01010
+RTRANBAXY
+RANBAXY LABORATORIES
+LTD RIGHTS
+
+:36B:QINT:1
+
+:22F:SELL//RENO
+:92D:RTUN/1,/2,
+:98A::EXPI//20020701
+:69A::TRDP//20020601/20
+020615
+:16S:INTSEC
+:16R:CADETL
+:98A::ANOU//20020516
+:98A::RDTE//20020106
+:69A//OFFR//20020106/20
+021506
+:92A::NEWO//1,/2,
+:90B::ISSU//ACTU/INR20
+:22F::DIVI//FINL
+
+:70E::ADTX//Any
+additional information that
+you want to mention
+:16S:CADETL
+:16R:CAOPTN
+:13A::CAON//001
+
+:22F::CAOP//SECU
+:17B:DFLT//Y
+:35B:ISIN INE025A01020
+EQNICHPRML
+NICHOLAS PIRAMAL
+EQUITY SHARES
+:98A::RDTE//20020106
+:69A//OFFR//20020106/20
+021506
+:92A::NEWO//1,/2,
+:90B::ISSU//ACTU/INR20
+:16S:CAOPTN
+:16R:ADDINFO
+:70E::ADTX//Additional
+Information if any
+:16S:ADDINFO
+
+Block giving details of benefits
+
+Details of Securities receivable
+
+Additional information available
+
+

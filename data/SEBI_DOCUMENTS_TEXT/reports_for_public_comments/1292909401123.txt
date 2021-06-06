@@ -1,0 +1,2499 @@
+ 
+ 
+ 
+ 
+ 
+ 
+
+REPORT OF THE SEBI  COMMITTEE 
+
+TO RE-EXAMINE THE ISSUES 
+
+RELATING TO MAPIN 
+
+INTRODUCTION 
+
+Investors' Concern 
+
+Inventory of Investors 
+
+8 
+8 
+10 
+11 
+11 
+11 
+12 
+12 
+13 
+13 
+13 
+13 
+14 
+14 
+
+Information on Associates & Linkages 
+Intermediaries  
+
+ 
+TABLE OF CONTENTS     
+                                                                                             Page No. 
+ 
+1. 
+1.1  Preamble 
+1.2  The  Developments 
+1.3  Committee for Review of MAPIN  
+1.4  Approach of the Committee  
+ 
+2.  REVIEW OF MAPIN  
+2.1  Biometrics for Creation of Unique Investor IDs  
+2.2 
+2.3  Expansion of Investor Base 
+2.4 
+2.5 
+2.6  Listed Companies (Issuers) 
+2.7 
+2.8  Selection of POS 
+2.9 
+Investor Profiles  
+2.10 Updation 
+2.11 Validation 
+2.12 Regulatory Actions 
+2.13 Conclusion 
+ 
+3.   SEARCH FOR AN ALTERNATIVE SYSTEM 
+3.1  Objectives 
+3.2  Preamble to Unique Investor ID  
+3.3  Proposed New System for Creating  Unique ID without Biometrics 
+3.4  Execution 
+ 
+4. COVERAGE AND IMPLEMENTATION OF THE NEW MAPIN SYSTEM 
+4.1 The Approach 
+4.2  Phase I: Capital market Unique ID covering Domestic Investors in Debt,  
+ 
+4.3  Phase II: Domestic Investors in Mutual Funds 
+4.4  Phase III: Intermediaries 
+4.5  Phase IV: Listed Companies (including New Issuers) 
+4.6  Phase V: Resident Personnel of Foreign institutional investors 
+4.7 
+4.8  New Features in the New Form  
+4.9  Updation 
+4.10 Data Entry/Data Capture 
+ 
+5.  OTHER MATTERS 
+5.1  Advertising/Publicity of the New System 
+5.2  Penalties for Wrong Disclosures  
+5.3  Exemptions  
+5.4  Costs 
+5.5  Scheme Name 
+5.6  Discontinuation of Fresh Registrations 
+
+Equity and Derivatives market 
+
+Integrating Existing MAPIN 
+
+4 
+4 
+4 
+6 
+7 
+
+15 
+15 
+17 
+19 
+21 
+
+22 
+22 
+
+22 
+26 
+29 
+30 
+31 
+31 
+31 
+34 
+34 
+
+35 
+35 
+36 
+36 
+36 
+36 
+36 
+
+MAPIN Committee Report                                                                                                                                          2 
+
+5.7  Constitution of a Technical Group  
+5.8  Acknowledgements 
+ 
+Annexures  
+Annexure I : Trade & Investors Data from Stock Exchanges and Depositories 
+Annexure II : Data Updation- Some Issues in the Current MAPIN system 
+Annexure III : Draft : Application Form for Natural Persons 
+ 
+
+37 
+37 
+
+38 
+41 
+44 
+
+MAPIN Committee Report                                                                                                                                          3 
+
+1. INTRODUCTION 
+ 
+1.1 Preamble 
+ 
+1.1.1  The  Central  Database  of  Securities  Market  Participants’  and 
+
+Investors’ 
+
+Identification  Numbers  (MAP IN) was set up by the Securities and Exchange Board of 
+India  (SEBI)  under  the  SEBI  (Central  Database  of  Market  Participants)  Regulations, 
+2003 (MAPIN) and was notified by SEBI on November 20, 2003.  MAPIN is proposed to 
+be  a  central  electronic  integrated  database  of  market  participants  and  investors, 
+comprising key descriptors of all persons participating in the Indian securities market. 
+ 
+1.1.2 The main objectives of MAPIN were: 
+ 
+
+a)  create a unique non-duplicable ID for all investors in order to establish an 
+audit trail for any specific transaction. In the absence of a unique investor 
+ID,  it  was  found  difficult  to  identify  a  person  when  he  operated  through 
+multiple exchanges, multiple brokers, multiple Unique Client Codes (UCCs) 
+/Depository  Participant  (DP)  acc ounts,  multiple  related  entities  and 
+sometimes  even  through  slightly  different  names  identify  investors  who 
+have taken large exposures in the market and/or who are trading through a 
+large number of different brokers, as also enable adequate risk containment 
+measures such as imposition of margins, trading or exposure limits etc.  
+
+b)  cover public disclosure of actions taken by SEBI against entities/individuals   
+participants 
+c)  develop 
+
+inventory 
+
+market 
+
+an 
+
+of 
+
+all 
+
+(issuers/intermediaries/investors). 
+
+ 
+1.2 The  Developments 
+ 
+1.2.1  Since its launch in November 2003, i.e. nearly 18 months ago, only about three 
+lakh MAPIN UINs have been issued, compared to over 70 lakh demat accounts (even 
+recognizing  multiple  demat  accounts,  the  number  would  still  be  very  large).  This is 
+because  of  considerable  opposition  to  the  MAPIN  system  entailing  fingerprinting.  It  is 
+also  because  of  lack  of  clarity  on  several  aspects  of  the  Regulations  (leading  to  a 
+couple  of  amendments  to  the  Regulations),  non-notification  of  certain  categories of 
+
+MAPIN Committee Report                                                                                                                                          4 
+
+and 
+
+non-investing 
+
+employees 
+
+non-investing 
+
+family  members 
+
+market participants and several extensions to the last date leading to people deferring 
+their plan to obtain the UIN (presently extended to 31st December, 2005). Significantly, 
+many of even the three lakh cards issued may not have been issued to investors, these 
+being 
+of 
+intermediaries/companies. 
+ 
+1.2.2 The process of information capturing for a natural person involves live scanning of 
+his  fingerprints  and  capturing  his  photograph  and  signature .  Though  several  market 
+intermediaries,  their  employees,  institutional  and  corporate  investors  (and  some 
+individual  investors  too)  have  registered  in  the  MAPIN  database,  most  individual 
+investors as well as many other market participants have resisted and have expressed 
+serious apprehensions and concerns on the biometrics-based system.  
+ 
+1.2.3  There  also  exists  confusion  regarding  many  aspects  of  usage/applicability  of 
+MAPIN: 
+
+•  SEBI  circular  of  16.7.2004  states  that  the  effective  date  for  use  of  MAPIN  is 
+2.8.2004  for  intermediaries  and  related  persons.    All  such  entities,  however, 
+have not obtained a UIN. 
+
+•  There  exists  a  grey  area  regarding  coverage  of  employees  of  intermediaries. 
+While  the  initial  Regulation  mandated  coverage  of  all  employees,  it  was 
+subseque ntly amended to include only the top three layers.  There is now a view 
+that  this  3-layer  concept  is  confusing  and  subjective.  Instead  of  this,  the 
+Regulation  should  have  listed  out  a  set  of  functions  and  any  one  who  is 
+performing these functions in full or in part should have been mandated to obtain 
+a  MAPIN.  There  is  an  alternative  suggestion  that  each  intermediary  should 
+define  the  three  layers  and  to  this,  the  CEO  of  the  intermediary  can  add  such 
+employees that he deems fit. 
+
+•  Brokers are currently insisting on MAPIN from their corporate investors. Trades 
+are, however, not being rejected in case MAPIN is not provided for corporates 
+and other mandated categories. 
+
+•  Several  brokers  are  also  currently  insisting  on  MAPIN  from  all  individual 
+investors because there is no on-line system for calculating the value of a trade 
+and  in  case  it  exceeds  Rs.  1  lakh,  the  broker  does  not  wish  to  incur  a  liability 
+/penalty from SEBI.  
+
+MAPIN Committee Report                                                                                                                                          5 
+
+•  Current application forms of IPOs have a field for MAPIN. However, applications 
+are  not  being  rejected  in  case  MAPIN  is  not  provided  even  by  the  notified 
+categories of investors. 
+
+ 
+1.3 Committee for Review of MAPIN 
+ 
+1.3.1  In order to address the various issues and concerns, SEBI, vide Press Release 
+
+No 51/2005 dated March 7, 2005, set up a Committee..The members of the Committee 
+are: 
+
+ 
+
+ 
+
+Chairman 
+Shri Jagdish Capoor  
+Former Dy. Governor of RBI and present Chairman of HDFC Bank Ltd.  
+ 
+Members 
+Shri C. B. Bhave * 
+Chairman & Managing Director, National Securities Depository Ltd., 
+ 
+Shri Prithvi Haldea  
+Managing Director, PRIME Database 
+ 
+Shri A. P. Kurian 
+Chairman, Association of Mutual Funds in India                
+ 
+Ms. Deena Mehta 
+Director, Securities Industry Association of India 
+ 
+Shri A. K. Narayan  
+President, Tamilnadu Investors Association 
+ 
+*ceased to be a Member of the Committee w.e.f. 24th May,2005  
+ 
+Shri V.S.Sundaresan, General Manager, Securities and Exchange Board 
+of India acted as Secretary to the Committee. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MAPIN Committee Report                                                                                                                                          6 
+
+1.3.2 The terms of reference of the Committee were as under: 
+
+i)  Re-examine  the  coverage  of  the  MAPIN,  i.e.  the  category  of  market 
+participants  and  investors  who  would  be  required  to  obtain  Unique 
+Identification Number (UIN)  
+
+ii)  Suggest future implementation schedule based on the coverage 
+iii)  Review the cost of obtaining the UIN for the market participants and investors 
+
+ 
+1.3.3  In a subsequent discussion with SEBI, it was clarified by SEBI  that the Committee 
+may also examine any other related matter with respect to creation of unique IDs. 
+ 
+1.4. Approach of the Committee 
+ 
+1.4.1  A detailed analysis of the current issues and procedures concerning MAPIN was 
+undertaken  by  the  Committee  over  eight  meetings.  The  Committee,  through  a  press 
+release, invited suggestions from market participants including investors. Moreover, the 
+Committee also met representatives of market participants like ANMI, DPAI, Investors 
+Grievances Forum, ASSOCHAM, FICCI and CII to understand their viewpoints. Finally, 
+presentations  were  invited  by  the  Committee  from  four  software  firms  with  a  view  to 
+better understand the uniqueness that can be achieved both by a biometrics based and 
+a non-biometrics based system.  
+ 
+
+MAPIN Committee Report                                                                                                                                          7 
+
+2. REVIEW OF MAPIN  
+ 
+2.1  Biometrics for Creation of Unique Investor IDs 
+ 
+2.1.1  Convergence of identity in India continues to be a dream. Several bodies in the 
+
+past  have  gone  ahead  and  issued  multiple  and  independent  IDs,  without  any 
+integration,  and  many  more  are  in  the  offing.  Even  in  the  capital  market,  two  efforts 
+have been made in the past to allot an ID to the investors -DP Client ID and UCC (which 
+is  in  addition  to  the  folio  numbers  assigned  to  investors  by  mutual  funds  and  by 
+companies).  However,  for  a  variety  of  reasons,  an  investor  was  permitted  to  obtain 
+multiple IDs both times -while he could obtain multiple IDs from a particular depository 
+and  also  from  the  second  depository,  he  could  obtain  multiple  UCCs  with  different 
+brokers  of  an  exchange  or  across  multiple  exchanges  and  as  such,  it  is  not  that  the 
+investors  attempted  to  defraud  the  system  to  obtain  multiple  IDs.  A  unique  ID  for 
+investors  was  once  again  considered  essential  and  hence  MAPIN  was  conceived.  It 
+may be pointed out here that in respect of companies, while the securities of all listed 
+companies  have  a  unique  ISIN  code  assigned  to  them  by  the  depositories,  all 
+registered  companies  have  a  unique  CIN  code  assigned  to  them  by  the  Ministry  of 
+Company Affairs. 
+ 
+2.1.2  Instead of using and building upon the existing information resources which would 
+have led to lesser time and costs both to the system and to the investors, a biometrics-
+based system was set up and MAPIN proceeded to establish a brand new process to 
+create unique IDs.  
+ 
+2.1.3  The  key  objective  of  biometrics  in  the  existing  MAPIN  system  is  to  arrive  at 
+uniqueness, and there is no proposal to use biometrics to enable a trade, i.e. capturing 
+transactions  in  the  capital  market  through  biometrics  (which  incidentally  shall  then 
+require  all  investors  to  have  a  physical  access  to  a  trading  terminal).  As  such,  the 
+Committee  felt  that  a  simple  biometric  identification  limited  only  to  the  capital  market 
+may not be sufficient enough to establish identity and ensure audit trail of transactions 
+of  a  particular  person.    The  argument  that  all  investors  and  associates  should  be 
+covered through biometrics because it is not possible to ascertain who would later turn 
+out to be a manipulator does not also stand to reason. 
+
+MAPIN Committee Report                                                                                                                                          8 
+
+ 
+2.1.4  It  may  be  emphasized  that  all  trades  are  done  by  human  beings,  and  not  by 
+invisibles, and each trade can even presently be traced back to the investor in at least 
+three or four ways: through his depository account, through his broker, through his PAN 
+number and through his bank account (the former two in any case being under SEBI’s 
+domain). If with all these, the erring investor cannot be traced, there is no guarantee 
+that he will be traceable with MAPIN. In any case, the biometrics-based ID c an only at 
+best  prevent  a  fraudster  from  trading  and  that  too  if  he  is  naive  enough  to  do 
+manipulative trades under his own ID; it cannot help in tracing him. 
+ 
+2.1.5  As the past has shown, fraudsters will always invent new ways of manipulation, 
+and the biometrics-based system too may end up with identities only of honest people. 
+Moreover,  if  there  is  a  concern  that  fake  identities  can  be  created  under  the non-
+biometrics based system, it should be recognized that benami entities can be created 
+under  the  biometrics-based  system  and  that  the  biometrics-based  system  is  also  not 
+error-free.  
+ 
+2.1.6 The fingerprint-based MAPIN has led to a widely prevalent view in the market that 
+every investor is believed to be a criminal unless proven otherwise. The small investor 
+is  also  being  unnecessarily  led  to  believe  that  the  market  is  dominated  by  criminals, 
+which has necessitated such a biometrics-based system. It should be recognized that 
+no  scam  has  ever  occurred  because  of  the  manipulation  by  the  small  investor,  who 
+most often is in fact the victim and not the culprit. As such, for the misdeeds of a few, 
+lakhs of investors should not be put to inconvenience and cost. Nor should the exercise 
+become so gigantic as to lose focus on the few manipulators.  
+ 
+2.1.7 Significantly, fingerprinting  is associated with identification of criminals and an act 
+of invasion of privacy. 
+ 
+2.1.8 In this regard, it may also be mentioned here that there is an increasing concern 
+about the uniqueness of biometrics-based IDs itself.  According to the noted expert on 
+biometrics, Mr. Simson Garfinkel, as extracted from his book “ Database Nation: The 
+Death of Privacy in 21st Century”… “Once a biometric is stored inside a computer, all of 
+the  security  provided  by  biometric  impression  is  lost.  A  stored biometric could easily 
+
+MAPIN Committee Report                                                                                                                                          9 
+
+have been copied from another computer, rather than being directly measured. This is 
+a  critical  distinction  to  understand  when  using  biometrics.  It  is  a  distinction  so  subtle 
+that it is frequently overlooked by the people implementing and using biometrics-based 
+systems”.  
+ 
+2.2 Investors’ Concerns 
+ 
+2.2.1  Fingerprinting:  Fingerprinting  is  perceived,  by  and  large,  as  an  invasion  of 
+privacy  and  often  associated  with  identification  of  criminals  and  thus  a  humiliating 
+experience. It also militates against a free market spirit. The Committee is not aware of 
+fingerprinting being used in any country for identification of investors.   There are also 
+concerns about the security of fingerprints data. 
+ 
+2.2.2 Multiple IDs: Investors have questioned the need of yet another capital market ID 
+besides DP Client ID and Unique Client Codes. This is in addition to the several IDs 
+that a person has-PAN, Passport Number, Bank Account Number/s, Voter Identity and 
+Driving License. 
+ 
+2.2.3 Cost:  The cost of obtaining UIN of Rs. 300 is considered high by the investors, 
+further  compounded  by  hidden  indirect  costs  like  DD  charges,  travel/conveyance 
+(multiple  visits)  etc.      It  is  also  argued  by  a  section  of  investors  that  anything  that 
+becomes  mandatory  becomes  “public  good”  and  therefore,  cannot  become  a  pure 
+commercial, profit-making operation. 
+ 
+2.2.4  Reach:  The  infrastructure  and  reach  of  Points  of  Service  (POS)  has  been 
+
+inadequate, leading to severe hardships and costs to the investors. For small investors 
+living in small towns, to take MAPIN through biometric system, they have to travel to a 
+closest  district  headquarter  and  they  have  to  wait  and  incur  costs.  Moreover,  the 
+biometric system requires presence of the persons, unlike other systems, for taking IDs. 
+This makes it practically difficult for several sections of the investing class like senior 
+citizens, physically challenged persons  etc.  
+ 
+ 
+ 
+
+MAPIN Committee Report                                                                                                                                          10 
+
+2.3 Expansion of Investor Base 
+ 
+2.3.1  While  on  one  hand,  efforts  are  being  made  to  broaden  and  deepen  the  capital 
+
+market  by  motivating  small  investors  to  invest  in  capital  market  instruments,  the 
+biometric system of generating IDs militates against this broad national objective. 
+ 
+2.4 Information on Associates & Linkages 
+ 
+2.4.1  While  MAPIN  recognized  the  need  to  capture  information  about  ‘associates’ 
+(refers to family members, employees, etc.), it sought to do so through biometrics (and 
+not  through  disclosures)  and  that  too  irrespective  of  whether  the  associates  were 
+investors  or  not.  Accordingly,  the  initial  MAPIN  UINs  were  issued  to  associates  also 
+(including  to  minor  children  who  were  not  even  investors).    However,  due  to  the 
+objections raised by the intermediaries and the consequent intervention of the Hon’ble 
+Delhi High Court, the provisions of the Regulations were modified with the result that 
+the key issue of linkages to associates (especially with the family members) got put on 
+the backburner. Thus, many MAPINs have been subsequently issued without covering 
+the associates at all-neither through biometrics nor through disclosures. This has also 
+led to a peculiar situation of having two sets of MAPIN holders. There is also another 
+problem with the data on associates -  the  present  form C is required to be submitted 
+not at the time of registration but at an unspecified later date, and many investors may 
+not even go back to this form to fulfil their obligation. 
+ 
+2.4.2 The MAPIN form also does not seek information on the applicant’s existing capital 
+market  IDs  like  DP  Client  ID  or  UCC  and  as  such,  the  database  without  these  basic 
+details may not be useful for conducting any linkages, studies or historical analysis.  
+ 
+2.5 SEBI-registered Intermediaries  
+ 
+2.5.1  The  present  approach  and  application  form  have  also  led  to  some  amount  of 
+confusion because the focus is not just on the investors. It is also on the intermediaries 
+and their employees, whether investors or not (there also exists a grey area regarding 
+coverage of employees of intermedia ries) and on creating employees’ profile database.  
+ 
+
+MAPIN Committee Report                                                                                                                                          11 
+
+2.6 Listed Companies (Issuers) 
+ 
+2.6.1  Moreover, there is further confusion as the present form aims to cover not only 
+
+the  investor  companies  but  also  listed  companies  and  promoter  companies,  whether 
+they are investors or not. Incidentally, listed companies are yet to be notified. 
+ 
+2.7 Inventory of Investors 
+ 
+2.7.1  The  objective  of  MAPIN  of  creating  an  inventory  of  all  investors  has  also  got 
+diluted due to provision of several exemption categories, including  cut-off limit for the 
+small  investors,  and  would  be  more  so  if  the  demand  for  exclusion  of  mutual  fund 
+investors  is  accepted.    Looking  at  the  present  pace  and  the  need  to  phase  out 
+exemptions, it may be several years before an all-investors database is built up. 
+ 
+2.7.2 An examination of the present dispensation exempting all investors who enter into 
+transactions of Rs. 1 lakh or less from having a MAPIN or even raising  this cut-off limit 
+to provide relief to the small investors is very alarming. The data provided by NSE and 
+BSE reveals that there are only 1.62 lakh and 0.76 lakh investors respectively whose 
+single order entry was above Rs.1 lakh (during the period January  – February 2005). 
+This means that most of the investors who have been issued  UIN  may not  fall  in  the 
+presently applicable exempted category. If the present exemption of Rs.1 lakh cut-off 
+limit was to continue, there would hardly be a need for any further registrations and only 
+a very small investing population would stand covered. If the cut-off limit was raised to 
+Rs.  5  lakhs  or  to  Rs.  10  lakhs,  the  number  of  investors  requiring  MAPIN  shall  fall 
+significantly. (see Annexure I) 
+ 
+2.7.3  Significantly,  any  cut-off  limit  shall  exclude  a  large  body  of  investors  thereby 
+preventing  creation  of  an  all-investors  database.  It  shall  also  tempt  manipulators  to 
+execute trades below the cut-off limit. On the other hand, brokers shall continue to insist 
+on  investors  on  providing  UIN  because  there  is  no  on-line  system  for  calculating  the 
+value of a trade, and in case it exceeds Rs. 1 lakh, the broker does not wish to attract a 
+penalty from SEBI for not obtaining the MAPIN ID from the investors.  
+ 
+
+MAPIN Committee Report                                                                                                                                          12 
+
+2.7.4 There has been a demand to exclude mutual fund investors from the provisions of 
+MAPIN since these are passive investors. This demand appears valid. However, such 
+exclusion shall adversely affect the creation of the all-investors database. 
+ 
+2.8 Selection of POS 
+ 
+2.8.1  There  have  also  been  questions  raised  by  several  intermediaries  about  the 
+selection process of POS and fears of losing client data, as most of the present POS 
+are market participants.  
+ 
+2.9 Investor Profiles 
+ 
+2.9.1  MAPIN  has  not  been  designed  to  generate  data  on  investors,  their  distribution 
+summaries,  their  investment  choices/  patterns  and  their  geographical  locations  nor 
+allow development of investor profiles, which may be useful to frame effective policies 
+and processes. 
+ 
+2.10 Updation 
+ 
+2.10.1 The information that has been captured by MAPIN till now is not being updated, 
+thereby  weakening  the  database.  For  example,  many  individual  investors  must  have 
+changed  addresses 
+thousands  of  employees  at 
+intermediaries must have changed jobs.  As such, these investors will not be locatable, 
+when required, at least at the address they have given at the time of registration. Due to 
+lack of guidance, investors do not even know that the onus of notifying changes rests 
+with them. The penalties on registrants for not informing changes are very huge ranging 
+from debarment from the capital market to penalties extending to up to Rs.1.00 crore, 
+and though these have till now not been enforced, the liability exists on the investors. 
+(see Annexure II)  
+ 
+2.11 Validation 
+ 
+2.11.1 Despite nearly three lakh UINs having been issued, these have not been put to 
+any use. Logically, as the stakes are high, all large investors must have obtained UIN 
+
+the  normal  course,  while 
+
+in 
+
+MAPIN Committee Report                                                                                                                                          13 
+
+is 
+
+yet 
+
+to 
+
+is 
+
+now 
+
+available 
+
+information 
+
+start).  This 
+
+by now, as the risk and cost of exclusion from the market is very high. Consequentially, 
+a majority of trades in the market is already being done by the MAPIN holders. Testing 
+of  the  database  should  have  been  done  to  validate  its  usefulness,  thereby  also 
+ensuring its acceptance. 
+ 
+2.12 Regulatory Actions 
+ 
+2.12.1  MAPIN aims to cover regulatory actions of SEBI to enable market participants to 
+check the credentials of other participants before dealing with them (The work on this 
+incidentally 
+at 
+www.watchoutinvestors.com ,  that  covers  regulatory  actions  of  not  only  SEBI  but  of 
+several other regulators and, therefore, there now seems little need for duplication of 
+efforts. 
+ 
+2.13 Conclusion 
+ 
+2.13.1  Subs tantive  concerns  of  fingerprinting,  cost  and  reach  and  the  design  of  the 
+present system    which  has  resulted/will  result  in  some  missing/outdated  information 
+would defeat the objectives .,The Committee, therefore,    is of the view that the present 
+system  should  not  be  continued.  If  continued,  it  would  require  major  modifications  to 
+meet  the  objectives  and  would  still  not  be  able  to  address  the  investors’  concerns. 
+Moreover,  if  the  exemptions  approach  is  continued,  the  present  system  will  end  up 
+covering  only  a  small  part  of  the  total  investing  population,  that  would  defeat  the 
+objective of creating an inventory of all investors.  
+ 
+
+MAPIN Committee Report                                                                                                                                          14 
+
+3.  SEARCH FOR AN ALTERNATIVE SYSTEM 
+ 
+3.1 Objectives 
+ 
+Before  deliberating  on  alternative  systems, the Committee first finalized the following 
+objectives of a unique ID, which not only cover all the objectives of the present MAPIN 
+but also meets other requirements.    
+ 
+3.1.1  Create  a  new  unique  ID  for  all  investors,  across  all  markets  (primary  market, 
+secondary  market)  and  across  all  forms  of  instruments  (equity,  debt,  derivatives  and 
+mutual funds) in order to 
+    
+
+a) Arrive at the number of investors (and investing households), their distribution 
+summary and their geographical locations and develop investor profiles in order 
+to frame effective policies and processes. It is very important to have a database 
+of  all  investors  across  all  instruments.    Today,  we  do  not  know  how  many 
+investors  does  India  have…70  lakh  or  4  crore  (as  claimed  by  different  bodies, 
+and the reality being that there are only about 70 lakh, and that too non-unique 
+depository  accounts  across  both  depositories  and  that  there  are  only  24  lakh 
+non-unique UCCs at NSE and BSE), We do not know how many of these are 
+‘small investors’. Or how many invest only in equity or only in mutual funds or 
+how many in both? It is also not known where the investors are located or what 
+is their portfolio or levels of activity or buying patterns? Almost all investors today 
+are  unprofiled  entities.    A  major  challenge  today  is  to  develop  and  deliver 
+focussed policies, products and services as also simple communication to clearly 
+identified targeted audience. This is important because without clear information 
+on  the  audience,  any  policy/service/communication  effort  shall  have  only  a 
+marginal impact, as there may be a serious mismatch between the offer and its 
+recipient’s needs.  
+ 
+b) Identify investors who have taken large exposures in the market and/or who 
+are trading through multiple brokers. 
+                         
+
+MAPIN Committee Report                                                                                                                                          15 
+
+c) Enable adequate risk containment measures such as imposition of margins, 
+trading or exposure limits etc. 
+ 
+d) Assist the government with insights on investors’ profiles for designing 
+focussed taxation policies for the capital market.  
+ 
+e) Assist in conducting opinion polls and surveys on a wide variety of issues   
+ 
+
+3.1.2 Enable SEBI’s surveillance system to identify linkages between investors in cases 
+of  concerted/unusual  trades.  The  new  unique  ID,  through  disclosures,  shall  help  to 
+establish  linkages  among  investors  and  thereby  establish  concerted  trades  within  a 
+group  of  persons  (relatives  and  associates).  It  should  be  recognized  that  most 
+manipulators  do  not  trade  any  more  in  their  own  names,  specially  after  the  dawn  of 
+electronic trading and depositories, and they would rather trade through  
+
+investment  companies/other  entities  or 
+
+i)  
+
+relatives,  associates, 
+employees  
+friends, neighbours, suppliers, customers  
+
+ii)  
+iii)   benami accounts  
+iv)   dabba accounts  
+
+ 
+
+The  links  with  i)  can  be  easily  established  and  the  new  system  is  designed  in  that 
+direction.  This  itself  shall  be  a  significant  achievement  as  that  shall,  for  reasons  of 
+convenience of the manipulators, constitute the largest segment of traders. For ii) and 
+iii),  the  new  system’s  recommendation  of  incorporation  of  bank  accounts  in  the 
+database shall help establish a trail and will assist the surveillance system to identify 
+any patterns that need to be investigated. As far as iv) is concerned, the same can be 
+tackled only through surveillance. 
+ 
+The argument that all investors and associates should be covered through biometrics 
+because it is not possible to ascertain who would later turn out to be a manipulator does 
+not stand to reason. Moreover, the present system in any case is not including linkages 
+in most cases (while the new system is proposing the same). Even for tracking down 
+market manipulators, instead of the present design that is reactive (i.e. after a fraud is 
+reported  or  a  deal  appears  suspect),  the  new  system  shall  allow  for  a  proactive 
+
+MAPIN Committee Report                                                                                                                                          16 
+
+investigation. Whenever any unusual pattern is thrown up by the system, the investor 
+IDs integrated with surveillance shall be able to identify entities and their linkages. 
+ 
+3.1.3 Enable investors to make investments and trade through a single ID. The 
+investors would find this very helpful as currently they are required to quote various 
+numbers/IDs. 
+ 
+3.1.4 Enable intermediaries to check the credentials of investors/other intermediaries  
+ 
+3.1.5 Create a database of financial professionals employed at the  intermediaries. This 
+
+database  would  assist  SEBI  in  not  only  taking  a  stock  of  the  competency  levels,  but 
+also find gaps to be filled by education/ training. 
+ 
+3.1.6  Create  a  database  of  listed  companies.  Presently,  there  is  no  consolidation  of 
+such  information and it is lying scattered at various exchanges. A consolidation would 
+not  only  be  of  help  to  SEBI  but  also  hugely  to  the  investors  and  other  market 
+participants. To begin with, this database should cover the following for each company: 
+
+•  Addresses of registered offices, head offices and plants  
+•  Office and residence addresses of all promoters and directors 
+•  Phone numbers, Fax numbers, Email IDs and website addresses  
+•  Name of Compliance Officer and contact details 
+•  Registrar/share transfer agent of the company with contact details 
+•  Capital History 
+•  All name changes of the company 
+
+ 
+
+3.2 Preamble to Unique Investor ID  
+ 
+3.2.1 The Committee is of the view that the entire orientation and approach should be a 
+positive one.  
+ 
+3.2.2  The  Committee  is  concerned  about  the  declining  participation  of  the  small 
+investors in the market and feels impediments of this kind shall only deter them further. 
+Today, anyone who wants to sell an equity share has to have a DP account for which 
+the person does not have to be physically present anywhere. The DP account is well 
+
+MAPIN Committee Report                                                                                                                                          17 
+
+accepted,  spread  all  across  the  country,  is  efficiently  organized  and  managed.  The 
+Committee,  therefore,  is  of  the  opinion  that  the  DP  system  should  be  the  base  for 
+building  a  new  ID.  The  objective  of  the  system  should  really  be  of  creating  an  all-
+investors’  database,  one  of  the  focus  areas  of  which  would  be  to  track  market 
+miscreants. 
+ 
+
+ 
+
+3.2.3 The Committee is unanimous that the capital market requires a unique ID for each 
+participant for a variety of purposes. It is mindful of the popular belief that  a fingerprint-
+based  ID  provides  a  unique  ID.  The  key  question  is  whether  the  unique  ID  for  the 
+purposes  for  which  it  is  sought  to  be  created  can  not  be  obtained  through  a  non-
+biometrics  based  system,  which  shall  also  address  the  concerns  of  huge  cost,  effort 
+and  mental  resistance  in  covering  millions  of  small  investors  and  their  associates 
+through  a  biometrics -based  ID  system,  and  also  the  huge  challenge  of  continually 
+updating such a database in an environment where most persons are not electronically 
+connected (including many IPO investors who do not have a broker). 
+ 
+3.2.4  The  review  of  existing  MAPIN  initially  led  the  Committee  to  suggest  only  some 
+modifications. However, with revelations of huge deficiencies, the Committee decided 
+to explore the possibility of an alternative new system for creating unique IDs, which will 
+address the core concern of duplicate IDs that can be issued/ obtained.  
+ 
+3.2.5 Various alternatives of creating a system to generate a unique ID were discussed 
+by the Committee. These were: 
+
+•  A biometrics-based MAPIN for all investors  
+•  A biometrics-based MAPIN for all investors and for all their associates  
+•  A biometrics-based MAPIN for all investors plus only disclosures about their 
+
+associates 
+
+•  A  biometrics-based MAPIN only for selected inve stors (for example, above 
+
+a threshold)  
+
+•  A  biometrics-based MAPIN only for selected investors (for example, above 
+
+a threshold) and for all their associates  
+
+•  A  biometrics-based MAPIN only for selected investors (for example, above 
+
+a threshold) plus only disclosures about their associates 
+
+MAPIN Committee Report                                                                                                                                          18 
+
+•  A combination of biometrics-based MAPIN for the corporate sector and the 
+intermediaries and a non-biometrics based MAPIN for small investors plus 
+only disclosures about the associates of all above 
+
+•  A  non-biometrics  based  MAPIN  for  all  market  participants,  with   only 
+
+disclosures about their associates  
+
+ 
+3.3 Proposed New System for Creating Unique ID without Biometrics 
+ 
+3.3.1  While  exploring  various  options,  the  Committee  decided  to  understand  the 
+systems presently used by the financial sector worldwide to create unique IDs. This led 
+the Committee to the dedupe software which is being extensively used for many years 
+for creating unique client IDs by the financial sector across the world as well as in India 
+for credit cards, loans etc. CIBIL is also using this software in India to aggregate data of 
+individuals  across  various  banks  and  credit  card  companies.  The  dedupe  software 
+essentially uses a combination of parameters, in one or more databases, to arrive at 
+unique identities. 
+ 
+3.3.2  The  Committee  sought  presentations  from  four  leading  software  firms  (TCS, 
+
+Mphasis,  Nucleus  and  Polaris)  who  cater  to  the  financial  sector  to  understand  the 
+feasibility of creating non-biometrics based IDs. Though all these firms were unanimous 
+that  the  biometrics-based  ID  is  truly  unique,  it  was  also  agreed  by  all  of  them  that 
+unique IDs can also be generated through the dedupe software and other related tools 
+with a very high degree of reliability. It was also pointed out that if unique IDs can be 
+created  for  corporates  without  biometrics  by  using  the  dedupe  software,  the  same  is 
+also  possible  for  individuals.  The  key,  of  course,  lies  in  the  number  of  parameters 
+available;  the  larger  the  number,  the  better  would  be  the  outcome.  As  the  present 
+captured  data does not have a comfortable number of parameters, investors would be 
+required to provide the same through a new form.  Since the key objective of biometrics 
+is to arrive at uniqueness (as compared to using biometrics to enable a trade which in 
+any cas e is not being planned as that shall then require all investors to physically visit a 
+trading terminal), the objective of uniqueness can be met without biometrics.  
+ 
+3.3.3 The risks and impact of duplicate IDs through this software are minimal and within 
+tolerable limits. Moreover, if a person does obtain a duplicate ID and deals with multiple 
+
+MAPIN Committee Report                                                                                                                                          19 
+
+brokers, the design of the surveillance system should be such as to be able to identify if 
+the same person was behind the deal/s as all deals can be tracked to his depository 
+account, his broker, his PAN number and his bank account. In any case, if a person 
+obtains  duplicate  IDs  under  the  new  system,  he  would  do  so  in  connivance  with  the 
+DPs (who are required to verify the proof of identity) and more so at the risk of making 
+wrong  disclosures  punishable  with  huge  financial  penalties  and  debarment  from  the 
+capital market. 
+ 
+3.3.4 After evaluating all options, the Committee has reached a conclusion that to meet 
+the desired objectives, a non-biometrics system is indeed feas ible.  
+ 
+3.3.5 The Committee, therefore, recommends that a new system should be introduced 
+which  is  able  to  create  an  all-investors  database  utilizing  the  existing  information 
+resources/ infrastructure, including the data already captured by the MAPIN system, in 
+an  effective,  cost-efficient,  investor-friendly,  easily  updateable  manner  and  which  can 
+also  incorporate  some  new  critical  features  including  information  on  associates.  The 
+new system should also be designed to ensure that this is the last time a capital market 
+ID shall be issued.  
+ 
+3.3.6  The  Committee  also  took  the  view  that  the  fact  that  several  UINs  have  already 
+been issued should not act as a constraint because only a small population of existing 
+investors- about three lakhs - has been allotted UINs, and, therefore, there is a need to 
+think  long  term  for  the  millions  of  present  uncovered  investors  as  well  as  those  who 
+shall keep joining the fold. The existence of the infrastructure and its costs should also 
+not  be  a  constraint.  The  Committee  proposes  that  the  database  and  infrastructure 
+already created for MAPIN should be put to maximum use in the new system.   
+ 
+3.3.7  A  potential  argument  against  the  new  system  could  be  that  it  would  require  a 
+massive exercise of getting the forms filled from millions of investors. In this regard, it 
+may be mentioned that the present MAPIN form too would be required to be filled up 
+(both the individual information as well as the linkages information) by almost the same 
+millions of investors (as only a small number of  investors have been covered till now) 
+and  would  additionally  require  the  investors  to  travel  to  the  POS.  Moreover,  even  the 
+persons who have already been issued a UIN would be required to fill the forms for not 
+
+MAPIN Committee Report                                                                                                                                          20 
+
+only obtaining updated information (which in  many cases might have by now become 
+outdated) but also to get the critical information on linkages which is presently missing 
+in a very large number of cases. 
+ 
+3.4 Execution 
+ 
+3.4.1  SEBI  should  select  a  firm  for  developing  the  dedupe  software  for  generation of 
+unique IDs. This software should then be handed over to the Implementing Agency (IA) 
+to  be  appointed  by  SEBI.  The  IA  shall  undertake  the  exercise  of  combining  the 
+databases  and  then  generating  the  new  Unique  IDs  (and  cards  with  photograph  and 
+signature of registrant) to the existing investors.  The IA shall also be entrusted with the 
+task  of  assigning  unique  IDs  to  new  investors  and  for  maintaining  and  updating  the 
+database.  
+
+MAPIN Committee Report                                                                                                                                          21 
+
+ 
+4. COVERAGE AND IMPLEMENTATION OF THE NEW MAPIN 
+SYSTEM 
+
+ 
+
+4.1 The Approach 
+ 
+4.1.1  To  arrive  at  an  effective  policy  and  implementation,  different  parameters  and 
+processes  for  the  three  categories  (issuers,  intermediaries  and  investors)  have  been 
+clearly defined. The Committee also suggests a phased implementation of the project. 
+The  new  system  also  integrates  the  existing  data  at  depositories,  mutual  funds  and 
+brokers, and further makes it integratable with the surveillance system.   
+ 
+4.2 Phase I: Capital Market Unique ID covering Domestic Investors in Debt, Equity 
+and Derivatives Market 
+ 
+4.2.1  The  new  system  is  based  on  the  reality  that  every  investor  has  an  electronic 
+account and as such, the investors’ data can be used and built upon to assign unique 
+IDs through the time-tested dedupe software.  
+ 
+4.2.2 The investors covered shall be investors, whether they are individual investors or 
+are  companies  /  entities  (including  intermediaries  and  their  employees,  companies, 
+trusts,  firms,  HUFs,  banks,  primary  dealer  etc).  This  essentially  means  that  any  one 
+who  has  a  depository  account  is  an  investor.  In  the  case  of  a  company  that  is  an 
+investor and entities like banks, primary dealers etc., the individuals who are authorized 
+to transact on behalf of the entity shall also be covered. However, a listed company, or 
+a bank or a primary dealer etc. if it does not trade in its own name and, therefore, does 
+not have a depository account, shall not be covered under this system.  
+ 
+4.2.3  Accordingly,  for  the  capital  market  investors,  the  existing  database  of  the  two 
+
+depositories shall be used as a starting point, integrating also the UCC and the extant 
+MAPIN data. The information available with the depositories as already captured from 
+the depository account opening form or as updated subsequently with the depositories 
+by  the  investors  is  available  in  electronic  form.    Significantly,  information  available 
+under  some  key  parameters  is  reliable,  as  the  depository  account  opening  form 
+
+MAPIN Committee Report                                                                                                                                          22 
+
+ensures  that  the  concerned  depository  participant  has  verified  a  person’s  identity 
+through various proofs of identity. On the other hand, because of the need to receive 
+account  statements,  ECS  credits  etc,  there  is  enough  reason  to  believe  that  the 
+information, at least for most of the active investors, is current and valid. 
+ 
+4.2.4  Such  parameters  shall  be  extracted  from  these files as have been mandatorily 
+required. However, an initial study of these parameters shows that these may not be 
+enough to be able to proceed with generation of the unique ID right away. In view of 
+this,  as  a  first  step,  an  interim  unique  file  will  be  generated  through  the  dedupe 
+software, after combining the files of the two depositories. 
+ 
+4.2.5  All  beneficiary  account  holders  shall  be  requested  to  update  their  current 
+information  as  well  as  provide  information  on  additional  mandatory  fields.  In  addition, 
+detailed  information  shall  be  sought  on  associates  as  the  Committee  recognizes  that 
+most manipulators do not trade any more in their own names, specially after the dawn 
+of  electronic  trading  and  depositories,  and  they  would  rather  trade  through  relatives, 
+associates,  investment  companies/other  entities  or  employees.  It  is,  therefore, 
+important  to  create  linkages  to  associates  in  the  system,  which  shall  be  achieved 
+through  disclosures.  The  system  shall  also  seek  information  on  the  present  capital 
+market  IDs  - DP Client IDs and UCCs. It shall also seek information on bank account 
+numbers that the investor will use for capital market operations (as these will assist in 
+better  audit  trail).  Accordingly,  a  draft  of  the  new  form  has  been  designed  (Annexure 
+III). 
+ 
+4.2.6  The  first  part  of  the  new  form  shall  have  the  key  information  pre-printed  as  is 
+
+already  obtained  in  the  new  system  through  the  combined  depositories’  databases. 
+Wherever  uniquing  is  arrived  at  with  certainty  through  the  initial  dedupe  exercise,  a 
+single  form  shall  be  printed  for  even  such  investors  who  have  several  depository 
+accounts.  The  second  part  of  the  form  shall  require  investors  to  disclose  personal 
+details-covering  both  existing  as  well  as  additional  parameters.    This  will  help  the 
+system  achieve  current  updation.  The  third  part  of  the  form  shall  require  disclosures 
+about associates (about only such associates who already have a DP Client ID and/or 
+who have already been assigned a MAPIN number under the extant system). A recent 
+photograph shall also be required to be submitted.  
+
+MAPIN Committee Report                                                                                                                                          23 
+
+ 
+4.2.7  The  new  form  shall  be  sent  by  the  IA  to  all  DPs/  brokers  asking  them  to  have 
+these  updated/filled  by  the  investors.  In  both  options,  an  investor  who  deals  with 
+multiple DPs/brokers may receive several forms. This shall be taken care of by giving 
+clear instructions on the form that an investor should fill this form only once.  
+ 
+
+ Option 1:Using DPs 
+ 
+The  benefit  of  using  DPs  is  that  an  investor  has  to  be  in  touch  with  his  DP 
+because the DP is the front-end custodian for his holdings and he receives the 
+statement of accounts from the DP and also pays various kinds of depository 
+charges  to  the  DP,  even  when  he  is  not  transacting  in  the  market  (including 
+many IPO investors).  
+ 
+Option 2: Using Brokers  
+ 
+The benefit of using brokers is that an investor is more actively in touch with 
+his  broker  than  with  his  DP  for  transacting.  However,  a  big  negative  is  that 
+there may be several investors who either do not trade at all and thus have no 
+broker  to  work  with  (including  several  IPO  investors)  or  they  deal  with  sub-
+brokers.  
+ 
+The Committee recommends using the DP network.  
+
+ 
+4.2.8  Moreover,  since  the  new  system  proposes  to  use  the  existing  infrastructure  of 
+
+DPs for interfacing with the investors for filling up the new forms, there shall be no more 
+any concerns of reach. In any case, the registrants shall be encouraged to file the form 
+electronically  through  the  net,  thereby  saving  the  system  to  that  extent  from  a  huge 
+data entry exercise. 
+
+ 
+
+4.2.9  A  deadline  shall  be  prescribed  for  the  investors  to  return  the  new  form  duly 
+completed. Only such investors who submit the form before the specified date shall be 
+allocated the new ID and the new ID shall become mandatory for trade after another 
+specified date. This will ensure that all trades in the market are done only by ID holders, 
+
+MAPIN Committee Report                                                                                                                                          24 
+
+thereby  also  allowing  the  system  to  track  them  down  when  necessary.  This  deadline 
+system shall ensure that all active investors are covered as the cost of exclusion from 
+the  market  for  them  will  be  very  high.  The  existing  investors  who  miss  the  deadline 
+would  be  allowed  to  come  into  the  system  after  payment  of  a  penalty  and  would  be 
+subjected to the same process of filling up the preprinted form. 
+ 
+ 
+4.2.10 Once the forms are received back from the investors, the combined database file 
+shall  be  updated  and  the  new  information  received  from  the  investors  (additional 
+parameters, linkages etc.) shall be created. The dedupe software shall then be used to 
+generate unique identities. Investors who are already holding MAPINs shall retain the 
+same ID number and they shall be able to use the existing card for identification. The 
+other  investors  shall  be  issued  new  ID  cards,  which  shall  also  have  their  photograph 
+and signatures. 
+ 
+4.2.11  Joint depository accounts shall not be assigned a unique ID, and the individual 
+IDs of the joint holders shall be required to be quoted in the transactions. Investors shall 
+still be allowed to have multiple DP accounts but all such accounts shall be linked to the 
+new ID number.  
+ 
+4.2.12 While transacting, only the DP Client ID shall be required, and the system shall 
+itself import the relevant MAPIN ID. As such, no change shall be required in the existing 
+depository software/system, except for provision of the fields of MAPIN ID and UCC.  
+ 
+4.2.13  All new investors would be required to fill in the MAPIN form at the same time 
+
+when they open a depository account or a trading account with a broker, thus saving 
+them from duplication of efforts. The completed MAPIN forms shall be forwarded by the 
+depository participants to the IA. As such, the MAPIN application shall be simultaneous, 
+avoiding  inconvenience  to  the  investors  and  also  save  the  system  from  additional 
+infrastructure/efforts. This new form shall be processed by the IA for allocation of the 
+unique ID. In doing so, the new database  shall first check for duplication through the 
+dedupe software, thereby easily detecting if a person is trying to obtain a duplicate ID. 
+ 
+
+MAPIN Committee Report                                                                                                                                          25 
+
+ 
+
+4.2.14  The new system is based on proof of identities and also on disclosures. While 
+adequate  care  needs  to  be  exercised  on  verifying  proof  of  identities,  heavy  penalties 
+should be prescribed for wrong disclosure which shall also act as a deterrent.  As such, 
+the incidence of duplicate IDs can be brought down to a very minimal level. If there are 
+still some cases where a  person is allocated a duplicate ID, the onus of this shall fully 
+rest with the investor as it would be made very clear that having two IDs is illegal and 
+would attract a very heavy penalty.  In any case, the number of such duplicate IDs and 
+the  consequent  damage  shall  be  insignificant,  compared  to  the  cost  and  effort  of 
+creating the biometrics-based MAPIN. 
+ 
+4.3 Phase II: Domestic Investors in Mutual Funds 
+ 
+4.3.1 The new system is based on the reality that every mutual fund investor has a folio 
+account with a mutual fund  or with its  registrar. The information with the mutual funds 
+as captured from the mutual funds application form or as updated subsequently by the 
+investors  is  available  in  electronic  form.    Because  of  the  need  to  receive  account 
+statements, ECS credits etc, there is enough reason to believe that the information, at 
+least for most of the active investors, is current and valid. The database on mutual fund 
+investors shall be developed by combining the existing electronic records of investors 
+with the mutual funds into one file and then merging it with the unique file created under 
+the depository system.  
+ 
+4.3.2  The  investors  covered  here  shall  be  investors,  whether  they  are  individual 
+investors  or  are  companies  /  entities  (including  intermediaries  and  their  employees,  
+trusts,  firms,  HUFs,  banks,  primary  dealer  etc).  This  essentially  means  that  any  one 
+who  has  a  mutual  fund  account  is  an  investor.  In  the  case  of  a  company  that  is  an 
+investor and entities like banks, primary dealers etc., the individuals who are authorized 
+to transact on behalf of the entity shall also be covered. However, a listed company, or 
+a bank or a primary dealer etc. if it does not invest in mutual funds and, therefore, does 
+not have a mutual fund account, shall not be covered under the system.  
+ 
+4.3.3 The information available with all the mutual funds shall become the starting base 
+
+for this exercise. Such parameters shall be extracted as are mandatorily required by the 
+mutual funds. The data captured in the MAPIN system till date as well as unique IDs 
+
+MAPIN Committee Report                                                                                                                                          26 
+
+created  through  the  depository  system  shall  be  integrated  with  this  file.  An  interim 
+unique file will be generated through the dedupe software, after combining the files of 
+all the mutual funds.    
+ 
+4.3.4  A  new  form  shall  be  designed.  The  first  part  of  this  form  shall  have  the  key 
+information pre-printed as is already obtained in the new system through the combined 
+mutual funds database. Wherever uniquing is arrived at with certainty through the initial 
+dedupe  exercise,  a  single  form  shall  be  printed  even  for  such  investors  who  have 
+several  mutual  fund  accounts.  The  second  part  of  the  form  shall  require  investors  to 
+disclose personal details-covering both existing as well as additional parameters.  This 
+will help the system achieve current updation. The third part of the form shall require 
+disclosures  about  associates  (about  only  such  associates  who  already  have  a  DP 
+Client  ID  and/or  who  have  already  been  assigned  a  MAPIN  number).  A  recent 
+photograph shall also be required to be submitted.  
+ 
+4.3.5 The new form shall be sent by the IA to all the mutual funds asking them to have 
+these filled and updated by the investors. Investors who wish to file this electronically 
+shall be encouraged to do so.   
+ 
+4.3.6 The form shall state that an investor shall fill up this form only once, even if he is 
+dealing with several mutual funds. If an investor has already submitted this form under 
+the capital market system, the investor would still submit the form after filling only the ID 
+number that has already been assigned to him.  
+ 
+4.3.7  A deadline shall be prescribed for investors to return this form duly completed. It 
+
+will be stated that only such investors who have submitted the form before the specified 
+date  shall  be  allocated  the  new  ID  and  that  the  new  ID  shall  be  mandatory  for  trade 
+after another specified date. This will ensure that all trades in the market are done only 
+by  MAPIN  holders,  thereby  also  allowing  the  system  to  track  them  down  when 
+necessary.  This  deadline  system  shall ensure that all active investors are covered as 
+the cost of exclusion from the market for them will be very high. The existing investors 
+who miss this deadline would be allowed to come into the system after payment of a 
+penalty  and  they  would  be  subjected  to  the  same  process  of  filling  up  the  preprinted 
+form. 
+
+MAPIN Committee Report                                                                                                                                          27 
+
+ 
+ 
+4.3.8 Once the forms are received back from the investors, the combined database file 
+
+shall  be  updated  and  the  new  information  received  from  the  investors  (additional 
+parameters,  linkages  etc.)  shall  be  created.  The  data  of  the  investors  who  have 
+indicated that they already have been assigned a capital market ID shall be segregated. 
+For  the  balance  file,  the  dedupe  software  shall  then  be  used  to  generate  unique 
+identities.  Investors  who  are  already  holding  MAPINs  shall  retain  the  same  ID  number 
+and  they  shall  be  able  to  use  the  existing  card  for  identification.  The  other  investors 
+shall be issued new ID cards which shall also have their photograph and signatures. 
+ 
+4.3.9  Joint mutual fund accounts shall not be assigned a unique ID, and the individual 
+IDs of the joint holders shall be required to be quoted in the transactions. Investors shall 
+still  be  allowed  to  have  multiple  mutual  fund  accounts  but  all  such  accounts  shall  be 
+linked to the new ID number.  
+ 
+4.3.10 While transacting, only the folio number shall be required, and the system shall 
+itself import the relevant MAPIN ID. As such, no change shall be required in the existing 
+mutual funds software/system except for provision of the field of MAPIN ID.  
+ 
+4.3.11 All new investors registering with the mutual funds after a specified date shall be 
+required to submit the new form. The new form shall be mandated to be filled at the 
+time of opening of the mutual fund account itself and the mutual fund shall be required 
+to send the completed MAPIN form to the IA. As such, the MAPIN application shall be 
+simultaneous, avoiding inconvenience to the investors and also save the system from 
+additional  infrastructure/efforts.  This  new  form  shall  be  processed  by  the  IA  for 
+allocation of the unique ID. For allocating IDs to new applicants, the new database shall 
+first  check  for  duplication  through  the  dedupe  software,  thereby  easily  detecting  if  a 
+person is trying to obtain a duplicate ID.  
+ 
+4.3.12  In order to ensure that authentic information is provided by  the registrant in the 
+form, there should be a deterrent in the form of a heavy penalty for wrong disclosures. 
+As such, the incidence of duplicate IDs can be brought down to a very minimal level. If 
+there are still some cases where a person is allocated a duplicate ID, the onus of this 
+
+MAPIN Committee Report                                                                                                                                          28 
+
+shall fully rest with the investor as it would be made very clear that having two IDs is 
+illegal  and  would  attract  a  very  heavy  penalty.    In  any  case,  the  number  of  such 
+duplicate IDs and the consequent damage shall be insignificant, compared to the cost 
+and effort of creating the biometrics-based MAPIN. 
+ 
+4.3.13  Depending  upon  the  feasibility,  the  exercise  of  assigning  unique  IDs  to  the 
+capital market investors as well as the mutual fund investors can be combined, instead 
+of one after the other. 
+ 
+4.4 Phase III: Intermediaries 
+
+ 
+4.4.1  Since  the  objective  of  creating  a  database  of  intermediaries  is  entirely  different 
+and  there  is  also  a  need  for  capturing  data  of  all  persons  employed  with  the 
+intermediaries,  all  intermediaries  as  well  as  all  their  promoters/  directors/  employees 
+shall be covered by this system, whether they are investors or not. 
+
+ 
+
+4.4.2 Accordingly, in the case of intermediaries, the following shall be the coverage: 
+
+a)  
+b)  
+
+c)  
+
+intermediary shall be assigned unique ID 
+in case the promoters are individuals, the promoters of the intermediary 
+shall be assigned unique ID, and there shall be a disclosure about their 
+associates  
+in case the promoters are companies, the promoter company and the 
+promoters and directors of the promoting company shall be assigned 
+unique ID, and there shall be a disclosure about their associates  
+
+d)   directors of the intermediary shall be assigned unique ID, and there 
+
+shall be a disclosure about their associates 
+
+e)   all employees at the intermediary shall be assigned unique ID, and there 
+
+shall be a disclosure about their associates 
+
+ 
+
+4.4.3  All  intermediaries  and  such  of  their  employees  who  already  have  a  depository 
+account or a mutual fund account would have been covered by Phase I & Phase II. The 
+intermediaries  shall  then  be  asked  to  obtain  unique  IDs  for  all  their  uncovered 
+employees/associates. 
+ 
+
+MAPIN Committee Report                                                                                                                                          29 
+
+4.4.4  To  integrate  the  data  further,  the  ISIN  codes  and  the  CIN  codes  of  the 
+intermediaries, if any, shall also be captured by the system. 
+
+ 
+
+4.4.5  The employees’ database shall be extended, through a separate form, to cover 
+the  qualifications  and  experience  of  each  employee  to  be  able  to  create  a  financial 
+professionals database. This database would assist SEBI in not only taking a stock of 
+the competency levels, but also find gaps to be filled by education/ training. 
+ 
+4.5 Phase IV: Listed Companies (including New Issuers) 
+ 
+4.5.1  In the case of listed companies, including new issuers, the following  shall be the 
+coverage, irrespective of whether they are investors or not: 
+
+a)   company shall be assigned unique ID 
+b)  
+
+in  case  the  promoters  are  individuals,  the  promoters  of  the  company 
+shall be assigned unique ID, and there shall be a disclosure about their 
+associates  
+in  case  the  promoters  are  companies,  the  promoter  company  and  the 
+promoters  and  directors  of  the  promoting  company  shall  be  assigned 
+unique ID, and there shall be a disclosure about their associates  
+
+c)  
+
+d)   directors of the listed company shall be assigned unique ID, and there 
+
+shall be a disclosure about their associates 
+
+e)   personnel  at  the  listed  company  who  are  involved  with  securities 
+transactions  shall  be  assigned  unique  ID,  and  there  shall  be  a 
+disclosure about their associates  
+
+ 
+4.5.2  All  listed  companies  and  such  of  their  entities/persons  who  already  have  a 
+depository account or a mutual fund account would have been covered by Phase I and 
+Phase  II.  The  listed  companies  shall  then  be  asked  to  obtain  unique  IDs  for  all  their 
+uncovered persons/associates.  
+ 
+4.5.3  To  integrate  the  data  further,  the  ISIN  codes  and  the  CIN  codes  of  the  listed 
+companies shall also be captured by the system. 
+ 
+
+MAPIN Committee Report                                                                                                                                          30 
+
+4.5.4 The listed companies database shall also include addresses of registered offices, 
+head offices and plants, office and residence addresses of all promoters and directors, 
+phone numbers, fax numbers, email IDs and website addresses, name of compliance 
+officer and contact details, registrar/share transfer agent of the company with contact 
+details, capital history and all name changes of the company. 
+ 
+4.6 Phase V: Resident Personnel of Foreign institutional investors 
+ 
+4.6.1  It is widely accepted that foreign investors are now playing a dominating role in 
+the Indian capital market. It is therefore imperative that these investors are also covered 
+well  by  the  new  system.  On  the  one  hand,  all  FIIs  registered  by  SEBI  should  be 
+assigned the new unique ID. This should be extended to all sub-accounts of these FIIs, 
+which is akin to having an ID for the mutual fund investors, who operate through a fund. 
+There  may  be  additionally  a  need  to  register  the  resident  personnel  of  the  FIIs.  The 
+methodology  and  forms  for  providing  IDs  to  the  FIIs,  their  sub-accounts  and  their 
+resident personnel may be appropriately designed. 
+ 
+4.7 Integrating Existing MAPIN  
+ 
+The existing MAPIN database and system will be integrated into the new system. To 
+maintain consistency, the number generation logic and format/series shall be the same 
+as in the existing MAPIN database. MAPIN IDs already issued shall continue to remain 
+valid. The name of the scheme will remain MAPIN. The new form shall be sent to all 
+existing MAPIN holders in order to obtain information from them on additional fields and 
+on associates. 
+ 
+4.8 New Features in the New Form  
+ 
+4.8.1  The  new  form  shall  incorporate  the  existing  information  as  well  as  seek 
+information  on  additional  parameters.  The  draft  of  the  new  form  is  enclosed  as 
+Annexure  III.  (This  is  only  indicative  and  the  format,  spaces  etc.  would  be  finalized 
+later).    This  form  has  presently  been  designed  only  for  Natural  Persons  - individual 
+investors as also persons at intermediaries, investing companies and listed companies. 
+This form, among others, has the following new features: 
+
+MAPIN Committee Report                                                                                                                                          31 
+
+ 
+•  Relatives and Associates 
+      Based  on  the  premise  that  many  manipulative  trades  are  done  through 
+relatives/ associates, a disclosure on such entities is proposed, but shall be 
+limited to only such entities who already, as on the date of application, have 
+the new MAPIN ID. Such relatives have been included as are defined by The 
+Companies Act and by the SEBI Insider Trading Regulations. The Committee 
+recognized  the  practical  difficulties  with  regard  to  capturing  information  on 
+date  of  birth  and  MAPIN/DP  numbers  of  some  of  the  relatives  in  the  list. 
+Hence,  SEBI  may  take  an  appropriate  view  on  the  same. Information shall 
+also  be  sought  on  the  individual’s  links/association  with  corporate  entities.   
+(Incidentally, the present MAPIN form also asks for disclosures on relatives -
+though only a few of  them- and associates and their MAPIN IDs, and not at 
+the time of application but at a later stage).  
+
+ 
+•  Promoters’ Definition  
+
+While examining the coverage of entities related to an investor, the issue of 
+promoters’ definition was  discussed  and it was noted that there are different 
+definitions  in  various  SEBI  regulations.  The  Committee  felt  that  a  re -look at 
+the promoters’ definition may be made by SEBI to make the MAPIN database 
+more relevant for the purposes of investigations. 
+
+ 
+•  Bank Account Numbers 
+      As per the present law, all payments of above Rs. 20,000 have to be made 
+by cheques only. As such, all transactions can be traced to a bank account 
+with  the  requisite  accountholder-photograph-address  proof  requirements  in 
+place.  This  has,  however,  not  been  of  much  help  in  establishing  audit 
+trails/identifying  ultimate  beneficiaries.  This  is  also  because  of  people 
+operating  multiple  accounts  within  a  bank  and  across  banks  and  many  of 
+these accounts may not even be disclosed in the Income Tax returns, though 
+these may be used for capital market operations.  
+
+ 
+      The new application form shall have disclosures of all such bank account 
+numbers  that  the  investor  shall  use  for  capital  market  operations,  including 
+
+MAPIN Committee Report                                                                                                                                          32 
+
+for  ECS,  whether  in  single  name  or  in  joint  names. Whenever the system 
+locates a payment by an investor from a bank account different from the ones 
+disclosed by him, it shall become a matter of concern and appropriate action, 
+including investigations, for this could be considered. (A sample action could 
+be  a  penalty  in  terms  of  a  percentage  of  the  amount  paid  through  such 
+accounts, where amounts involved are below a  specified limit). 
+
+ 
+      The disclosure of bank account numbers shall help the audit trail and also 
+help in tracking benami transactions. In  the  present  system,  a  person  (non-
+intermediary)  can  still  operate  100  shell  companies  or  use  100  employees, 
+each with a different MAPIN or do multiple transactions below the cut-off limit. 
+Numerous concerted transactions shall still not be traceable to that person, 
+as  the  transactions  shall  appear  to  be  from  hundreds  of  different  and 
+apparently unrelated entities. It shall take a determined effort to probe deeper 
+into the second and deeper layers of information and unravel cross holdings 
+to discover the common manipulator.  
+
+ 
+•  DP Client IDs 
+
+The new application form shall have disclosures of all DP Client IDs of the 
+investor, whether in single name or in joint names. 
+ 
+
+•  Unique Client Codes 
+
+The new application form shall have disclosures of all UCCs that an investor 
+has  been  allotted  by  various  brokers,  whether  in  single  name  or  in  joint 
+names. 
+
+ 
+4.8.2 The new form as such shall establish a link between the MAPIN ID and the other 
+existing  capital  market  IDs  -  DP  Client  ID  and  UCC-and  therefore  allow  for  historical 
+analysis and investigation when necessary. It will also lead to quoting of only one ID  - 
+the DP Client ID - in the trades. 
+ 
+
+MAPIN Committee Report                                                                                                                                          33 
+
+ 
+ 
+4.9 Updation 
+
+ 
+4.9.1 Any database is of value only if it remains continually updated and, therefore, the 
+Committee  is  proposing  a  simple,  cost-effective  updation  system.  In  the  case  of 
+investors, the obligation for updation shall rest entirely with him. The updation shall be 
+provided  by  them  to  their  DPs/brokers  on  occurrence  of  a  change  and  in  any  case 
+every  6  months  (through  an  updation  from  which  the  DP/broker  would  give  out  to  all 
+their investors) failing which his trading shall be disenabled.  
+ 
+4.9.2 An updation form shall be required to be submitted by the investor to his DP who 
+would then forward it to the IA. In the case of intermediaries and listed companies, the 
+updation form shall be submitted by them directly to the IA. The updation forms shall 
+also be available for filing on the Internet. 
+ 
+4.9.3 The photograph shall be updated every  10 years, upon which a new card shall be 
+issued. 
+ 
+4.9.4 A system can also be developed where it becomes mandatory for companies and 
+intermediaries  to  report  to  the  IA  the  details  of  undelivered  dividend  warrants ,  letters  
+etc., to enable updation of the database. 
+ 
+4.10 Data Entry/Data Capture 
+ 
+4.10.1  The  registrants  shall  be  encouraged  to  file  the  application  form  electronically 
+though the net, after providing them with a password (which shall be their DP Client ID). 
+This shall save the system from a huge data entry/ verification exercise. This provision 
+of  electronic  filing  shall  help  in  covering  all  corporates,  all  intermediaries  and  a  large 
+number of investors. Paper form, of course, shall be made available for investors who 
+are not net-enabled. 
+ 
+
+MAPIN Committee Report                                                                                                                                          34 
+
+5. OTHER MATTERS 
+ 
+5.1 Advertising/Publicity of the New System 
+ 
+5.1.1 One of the reasons why the present MAPIN has met with resistance is the lack of 
+
+investor  education  about  this  system.  Virtually  no  advertising  was  done,  neither  any 
+investor  seminars  were  conducted.  This  has  also  led  the  investors not knowing their 
+rights  and  obligations  under  the  new  system.  It  may  be  recalled  that  when  the 
+depository  system  was  launched,  it  was  supported  by  a  huge  investor  education 
+programme.  
+ 
+5.1.2  The new system should be widely advertised to make the investors familiar with 
+the  same.  Subsequently,  advertisements  relating  to  the  deadlines  should  also  be 
+released.  
+ 
+5.1.3 
+
+Investor  seminars  should  also  be  conducted  by  SEBI/IA/AMFI/stock 
+
+exchanges/investor  associations  to  educate  the  investors  about  the  new  system, 
+highlighting that the new system is in fact a huge simplification of the existing MAPIN 
+system. 
+ 
+5.1.4 A Dos and Don’ts booklet should be handed out to each investor at the time of 
+issuing him the ID card. This booklet for example, can cover the following: 
+•  Places where to quote this number and the effective date 
+•  Notifying change of address or any other particulars 
+•  Notifying dissociation with an organization 
+•  Warning  that  a  second  MAPIN  UIN  is  an  offence,  and  describe  the 
+
+penalties thereto 
+
+•  Action to be taken on loss of the MAPIN card and how to get a duplicate 
+
+card 
+
+ 
+ 
+ 
+ 
+
+MAPIN Committee Report                                                                                                                                          35 
+
+5.2 Penalties for Wrong Disclosures 
+ 
+5.2.1  The  new  system  is  based  on  proof  of  identities  and  also  on  disclosures.  While 
+
+adequate care needs be exercised on verifying proof of identities, a very heavy penalty 
+should be prescribed for wrong disclosures, which shall also act as a deterrent. 
+ 
+5.3 Exemptions 
+ 
+5.3.1  In order to create an all-investors database, the new system should not provide 
+for any exemptions –neither a cut-off limit nor by type of investors (individual/corporate) 
+or by type of instrument (equity/debt/mutual funds) or by segment (cash/derivatives) or 
+by  type  of  market  (primary/secondary)  or  by  physical  condition  (old/  physically 
+challenged/ seriously ill persons) or by location (remote area).  
+ 
+5.4 Costs 
+ 
+5.4.1 Though quotations have not been called for, it is estimated that the cost involved 
+in generating the new unique ID, maintenance of database, issuance of cards etc, shall 
+be significantly lower than the present system.  Since  the  main  objective  of  MAPIN  is 
+aimed  at  regulation  and  at  creation  of  a  single  database  of  investors,  issuers  and 
+intermediaries, the Committee is of the view that SEBI could consider bearing the cost. 
+However, if necessary, a very nominal fee may be levied on the applicant. 
+ 
+5.5 Scheme Name  
+ 
+5.5.1 The name of the new scheme shall remain MAPIN. 
+ 
+ 
+5.6 Discontinuation of Fresh Registrations 
+ 
+5.6.1  Continuing the registrations under MAPIN in its existing format may be of limited 
+use and, as such, till a final view is taken on MAPIN by SEBI, all fresh registrations and 
+the need for mandatory disclosure of UIN  may be suspended forthwith. 
+ 
+
+MAPIN Committee Report                                                                                                                                          36 
+
+ 
+5.7 Constitution of a Technical Group  
+ 
+5.7.1  Since  database  design  is  a  highly  technical  subject,  a  technical  group  may  be 
+formed by SEBI to examine the implementation feasibility, cost, logistics and schedule 
+involved in creating the suggested database. 
+ 
+5.8 Acknowledgements  
+ 
+5.7.1  The  Committee  acknowledges  the  contributions  made  by  various  fora  namely 
+
+ANMI,  DPAI,  IGF,  ASSOCHAM, FICCI and CII as well as members of the public who 
+submitted their views on the subject. The Committee places on record its appreciation 
+for  the  assistance  rendered  to  the  Committee  by  Shri  V.S.  Sundaresan,  General 
+Manager, SEBI and Shri Narendra Rawat, Asst. General Manager,SEBI. 
+ 
+ 
+ 
+ 
+
+Jagdish Capoor 
+
+Chairman 
+
+ 
+ 
+
+Prithvi Haldea                                  
+ 
+ 
+ 
+Deena Mehta 
+ 
+ 
+
+23rd June,2005 
+
+                    A.P. Kurian                                                      
+ 
+ 
+ 
+                  A.K.Narayan                                                                     
+
+Members 
+
+MAPIN Committee Report                                                                                                                                          37 
+
+ Annexure I 
+
+ 
+TRADE & INVESTORS DATA FROM STOCK EXCHANGES AND DEPOSITORIES 
+(Period Jan 2005 to February 2005) 
+  
+Capital market Segment  - NSE 
+ 
+
+ 
+
+Trade  order 
+of value of Rs 
+1 
+lakh  and 
+above 
+
+> Rs 5 lakh   > Rs 10 lakh  
+
+> Rs 15 lakh 
+
+ 
+
+ 
+
+ 
+
+32,783 
+
+15,653 
+
+10,341  
+
+ 
+
+21,944 
+
+ 
+
+8,041  
+
+ 
+
+4,318  
+
+ 
+
+ 
+
+1,41,337 
+
+1,61,777 
+
+Total  No  of  distinct 
+Unique  Client  Codes 
+(UCC)  
+Distinct  Unique  Client 
+Codes 
+of 
+individual investors.  
+  
+Capital market Segment  - BSE 
+ 
+
+(UCC) 
+
+ 
+
+Trade order of 
+value of Rs 1 
+lakh 
+and 
+above 
+
+> Rs 5 lakh  
+
+> Rs 10 lakh 
+
+> Rs 15 lakh 
+
+Total no. of distinct 
+unique client codes 
+(UCC) for the trade 
+order 
+
+Total no. of distinct 
+unique client 
+codes(UCC) of 
+individual investors for 
+the trade order. 
+
+ 
+
+ 
+
+Jan-65,276 
+
+13,280 
+
+ 
+
+ 
+
+Feb-76,583 
+
+15,738 
+
+ 
+
+ 
+
+Jan-63,716 
+
+11,604 
+
+ 
+
+ 
+
+Feb-74,998 
+
+14,014 
+
+ 
+
+6,363 
+
+ 
+
+7,738 
+
+ 
+
+4,830 
+
+ 
+
+6,140 
+
+ 
+
+4,179  
+
+ 
+
+5,174  
+
+ 
+
+2,817  
+
+ 
+
+3,731 
+
+ 
+ 
+ 
+
+MAPIN Committee Report                                                                                                                                          38 
+
+Derivatives Segment - NSE 
+ 
+
+ 
+
+Trade  order 
+of  value  of 
+Rs  1 
+lakh 
+and above  
+
+> Rs 5 lakh   > Rs 10 lakh 
+
+> Rs 15 lakh  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(UCC) 
+
+72,765 
+
+80,242 
+
+51,509 
+
+17,314 
+
+25,075 
+
+57,810 
+
+Total  No  of  distinct 
+Unique  Client  Codes 
+(UCC)  
+Distinct  Unique  Client 
+Codes 
+of 
+individual Investors.  
+ 
+The above data is on the basis of the details uploaded by the trading members in UCI data 
+base. Wherever the category of the client is not uploaded by trading member such clients are 
+considered as individual investors. 
+ 
+Segment & Category wise Unique Client Codes  
+ 
+
+22,732 
+
+13,764 
+
+Category 
+ 
+
+ 
+
+ 
+
+ 
+
+Capital Market 
+Segment-NSE 
+
+Capital Market 
+Segment-BSE 
+
+Derivatives 
+
+Segment -NSE 
+
+7,74,002  
+12,143 
+20,828 
+N.A 
+15311  
+7614 
+11041  
+8,40,939  
+
+16,80,083 
+16,891 
+43,065 
+139 
+N.A 
+N.A 
+63,070 
+18,03,248 
+
+Individual 
+Mutual Fund 
+Body Corporate  
+Non Tax Paying entity 
+HUF 
+FII 
+Others 
+Total 
+ 
+Except for FIIs & mutual funds, UCC are given by brokers. The same clients may have different UCC for 
+all  the  brokers  he  deals  with.  As  per  NSE  if  by  mistake,  a  broker  gives  a  wrong  UCC  while  entering  a 
+trade  and  later  corrects  it,  the  database  would  have  2  records  of  UCC.  These  are  error  records.  The 
+exchanges are not aware how many error records are there in the database. 
+ 
+ 
+
+7,28,504  
+1547 
+11,902 
+18 
+ 
+ 
+19,186 
+7,61,157 
+
+MAPIN Committee Report                                                                                                                                          39 
+
+Depository Accounts - Body Corporates 
+ 
+
+ 
+
+NSDL 
+
+CDSL 
+
+8087(includes FI 
+and FII) 
+681 
+
+ 
+ 
+8,786  
+
+Category 
+ 
+Body Corporate  
+
+Mutual Fund  
+Trust 
+FI 
+FII 
+Total 
+ 
+ 
+Number of Companies 
+(as on October 31, 2004) 
+  
+
+Category of Companies 
+
+Number of Companies 
+
+Companies Limited by Shares 
+
+Guarantee Companies 
+
+Unlimited Liability Companies 
+
+Website - Ministry of Companies Affairs  
+
+Total 
+Source : 
+ 
+ 
+ 
+ 
+
+59,105 
+
+1,355  
+5,571  
+154 
+2,181  
+68,366 
+
+6,61,371  
+
+3,354  
+
+496 
+
+6,65,221  
+
+MAPIN Committee Report                                                                                                                                          40 
+
+Annexure II 
+
+ 
+DATA UPDATION- SOME ISSUES IN THE CURRENT MAPIN SYSTEM 
+
+ 
+Regulation  17(1):  “Every  person  who  has  been  allotted  a  UIN  shall  intimate  the 
+changes,  if  any,  in  the  particulars  submitted by him in the application to DSP in such 
+electronic  or  other  manner  as  may  be  prescribed  by  the  Board,  within  30  days  of 
+occurrence of change.”  
+ 
+17(2):  “Every  intermediary  shall  exercise  due  diligence  to  satisfy  itself  that  its  clients, 
+have complied with regulation 17(1).” 
+ 
+The  investing  population  is  a  mobile  population.  People  change  jobs,  addresses, 
+telephone  numbers,  etc.  Until  a  system  is  put  in  place  for  continuing  updation,  the 
+database will become obsolete very fast and again tracking of persons would become 
+very difficult. Since the process of updation is not clear to most people, we are probably 
+already at a stage where the database is not uptodate. 
+ 
+The onus of notifying changes should rest with the registrant and does rest with him as 
+per the Regulations, but he should be clearly told so. The onus of informing changes is 
+also on the intermediary as per the Regulations. What systems/processes have been 
+put at the intermediaries’ end to ensure this? Also has the method of informing changes 
+been prescribed by SEBI?  
+ 
+Part  C  of  Form  B  is  for  notifying  Dissociation  and  the  onus  for  this  is  on  the 
+intermediary. There is also an onus on the individual as required under Part C of Form 
+A. Is this not duplication of efforts? 
+ 
+Also, for notifying changes, the same format of Application Form is required to be used 
+and  submitted  as  for  a  new  application  (Form  A  Part  A  and  Form  B  Part  A).  Is  the 
+person  required  to  fill  the  complete  form  all  over  again  even  if  there  is  a  change,  for 
+example, only  in  the  address  or  in  the  telephone  number?  Does  he  have  to  all  over 
+again also submit proof of identity etc? 
+ 
+
+MAPIN Committee Report                                                                                                                                          41 
+
+Regarding the penalty for not notifying changes, as per the Regulation, action will be 
+taken by SEBI under sub-section (4) of Section 11 of the SEBI  Act.  According  to  this 
+sub-section, SEBI may take any of the following measures:  
+
+a.  suspend the trading of any security ;  
+b.  restrain persons from accessing the securities market and prohibit any person 
+
+associated with securities market to buy, sell or deal in securities;  
+
+c.  suspend any office-bearer of any stock exchange or self-regulatory organization 
+
+from holding such position;  
+
+d.  impound and retain the proceeds or securities in respect of any transaction ;  
+e.  attach,  after  passing  of  an  order  on  an  application  made  for  approval,  by  the 
+Judicial Magistrate one or more bank account or accounts of any intermediary or 
+any person associated with the securities market;  
+
+f.  direct  any  intermediary  or  any  person  associated  with  the  securities  market  in 
+any manner not to dispose of or alienate an asset forming part of any transaction 
+which is under investigation. 
+and/or 
+debar the person/entity from acting in any capacity in any security market related 
+transactions  
+and/or 
+such other action as may be deemed appropriate by SEBI.  
+and 
+action  will  also  be  taken  by  SEBI  under  clause  (b)  of  Section  15A  of  the  Act 
+.According to this, if any person fails to file any return or furnish any information, 
+books  or  other  documents  within  the  time  specified  therefor  in  the  regulations, 
+fails  to  file  return  or  furnish  the  same  within  the  time  specified  therefor  in  the 
+regulations, he shall be liable to a penalty of one lakh rupees for each day during 
+which such failure continues or one crore rupees, whichever is less. 
+
+ 
+The penalties as described above are very severe.  
+ 
+The  fact  is  that  a  large  number  of  persons  may  already  be  in  default  and  face  the 
+prospects of penalties by SEBI. 
+ 
+
+MAPIN Committee Report                                                                                                                                          42 
+
+To avoid defaults in notification of changes, there should be some point of action where 
+the investor is automatically obliged to notify changes. Since the broker is electronically 
+connected, he would be the best point for the updation mechanism.  
+ 
+Since the procedure for updation is not well known, and since a large number of people 
+are  already  in  default,  SEBI  should  come  out  with  an  exemption  scheme  for  such 
+defaulters  and  make  the  requirement  for  notifying  changes  mandatory  from  a  given 
+date, after duly advertising the same. 
+ 
+ 
+
+MAPIN Committee Report                                                                                                                                          43 
+
+Draft 
+
+THE SCHEDULE 
+
+Annexure III 
+
+[See regulation 12 of SEBI [Central Database of Market Participants] Regulations, 2003] 
+
+FORM A : APPLICATION FORM  FOR NATURAL PERSONS 
+
+Each individual should submit this form only once to the DP, even in case of multiple DP accounts. 
+
+By signing these forms, the individual declares that the inform ation given herein is true and correct 
+and that the concerned authority shall be informed of any changes forthwith. 
+
+Declaration 
+
+DP ID No. 
+Name of Account Holder 
+
+PART A – PRE-PRINTED 
+
+DP Client ID No. 
+
+MAPIN UIN  
+
+Date of Birth   Day 
+
+ 
+
+ 
+
+Month 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gender  Male 
+
+Female 
+
+PART B - PERSONAL DETAILS  
+Please fill in BLOCK LETTERS  
+
+ 
+Year 
+
+Last Name 
+ 
+ 
+ 
+ 
+
+ 
+Names (Full, no initials allowed)) 
+ 
+Self 
+Father 
+Mother 
+Spouse 
+ 
+Correspondence Address 
+House No./Apt Name/Block No. 
+Road/Street/Lane 
+Area 
+City/Post/Taluka 
+ 
+Telephone: Office 
+STD Code 
+Telephone: Residence  STD Code 
+Mobile No. 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+Middle Name 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+First Name 
+ 
+ 
+ 
+ 
+
+PIN 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Telephone No. 
+Telephone No. 
+
+Email IDs 
+
+ (1) 
+
+ 
+
+ (2) 
+
+ (1) 
+
+ 
+
+ Current : 
+
+ 
+
+ 
+
+ 
+
+PAN Nos. 
+
+ 
+
+Passport Nos.   
+ 
+
+ 
+
+ 
+
+DP Client ID 
+ 
+ 
+ 
+
+ 
+
+DP ID 
+ 
+ 
+ 
+
+ (2) 
+
+ Previous : 
+
+Joint Nam e (1) if any 
+ 
+ 
+ 
+
+ 
+
+Joint Name (2), if any 
+ 
+ 
+ 
+
+ 
+Bank Account Numbers (that will be used for capital market operations) 
+Bank Account Nos.  Bank Name  9 digits MICR 
+
+Branch Address 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+No. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+UCC Nos. 
+
+Brokers Full Name  Broker ID 
+
+Joint Name (1), if any 
+
+ 
+ 
+
+ 
+ 
+I certify that the information given by me in this form is true and correct 
+Signature : 
+
+Date : 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Joint Name (1), 
+if any 
+ 
+ 
+ 
+
+Joint Name (2), 
+if any 
+ 
+ 
+ 
+
+Joint Name (2), if 
+any 
+ 
+ 
+
+MAPIN Committee Report                                                                                                                                          44 
+
+PART C : RELATIVES/ASSOCIATES  
+
+ 
+
+ 
+ 
+
+ 
+Name of the Applicant 
+DP Client ID No. 
+I notify the association between me and the entities listed here below : 
+(Please fill details of only those persons who as on the date of this application already have a MAPIN UIN and/ or 
+DP Client ID Number. 
+RELATIVES (refer to para 4.8.1 of this Report) 
+ 
+
+ 
+
+FULL NAME (No initials allowed) 
+
+First Name  Middle Name  Last Name 
+
+Date of 
+Birth  
+
+MAPIN 
+UIN  
+
+Father 
+Mother (including step-mother) 
+Sons (including step-sons) 
+Son’s wife 
+Daughters (including step-daughters) 
+Father’s father 
+Father’s mother 
+Mother’s mother 
+Mother’s father 
+Son’s sons  
+Son’s son’s wife 
+Son’s daughters 
+Son’s daughter’s husband 
+Daughter’s husband 
+Daughter’s sons  
+Daughter’s son’s wife 
+Daughter’s daughters 
+Daughter’s daughter’s husband 
+Brothers (including step -brothers) 
+Brother’s wife 
+Sisters (including step -sisters) 
+Sister’s husband 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ASSOCIATES  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+COMPANY /ENTITY FULL NAME 
+
+TYPE  OF ASSOCIATION  
+
+(e.g. Promoter/ Director/ Employee etc.) 
+
+MAPIN 
+UIN  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DP 
+Client 
+ID No. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DP 
+Client 
+ID No. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+I declare and state that the information given by me in this form is true and correct. I undertake to inform the 
+concerned authority of any changes in the information provided by me. 
+Signature : 
+
+Date : 
+
+ 
+
+Declaration 
+
+ 
+ 
+
+MAPIN Committee Report                                                                                                                                          45 
+
+

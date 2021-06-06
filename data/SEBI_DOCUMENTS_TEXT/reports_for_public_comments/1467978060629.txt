@@ -1,0 +1,992 @@
+ 
+
+Consultation paper for Disclosure of financial information in offer 
+
+document/placement memorandum and for Valuation in respect of SEBI 
+
+(Infrastructure investment trusts) Regulations, 2014 
+
+ 
+
+A.  Background 
+
+ 
+
+1.1. The SEBI (Infrastructure investment trusts) Regulations, 2014 (InvIT Regulations) 
+were notified on September 26, 2014, thereby providing a regulatory framework for 
+registration  and  regulation  of  InvITs  in  India.  The  regulations,  inter  alia,  prescribe 
+conditions for making a public offer and private placement and broad guidelines for 
+making initial and continuous disclosures including disclosures of financials of the 
+InvIT.  However,  in  order  to  enable  investors  to  make  well-informed  investment 
+decisions,  timely,  adequate  and  accurate  disclosure  of  financial  results  on  a 
+periodical basis is critical. At the same time, it is important to ensure comparability, 
+uniformity and parity in disclosures made by such entities.  
+
+1.2. InvIT  regulations  inter-alia  provide  for  broad  guidelines  for  an  InvIT  w.r.t. 
+compliance  with  accounting  norms  to  be followed  at the  time of the  initial offering 
+as  well  as  continuous  disclosures  to  be  complied  with  by  the  Infrastructure 
+investment 
+the 
+preparation of accounts, formats etc. are being discussed. 
+
+(InvITs).  However,  specific 
+
+trusts 
+
+requirements 
+
+including 
+
+1.3. In  view  of  the  same,  a  Committee  was  constituted,  consisting  of  representatives 
+from  the  Institute  of  Chartered  Accountants  of  India  and  the  industry,  with  the 
+objective  of  prescribing  accounting  and  auditing  norms  for  InvITs.  The  committee 
+worked in sub-groups and gave its recommendations on the following: 
+
+a  Guidelines for financial disclosures in offer document/placement memorandum 
+b  Continuous disclosures as per Listing Requirements  
+c  Valuation of the units of InvIT  
+d  Net Distributable Cash Flows (NDCFs) 
+
+ 
+
+1.4. A  separate  concept paper, dealing  with  the Continuous disclosures  as  per  Listing 
+Requirements  and  Net  Distributable  Cash  Flows  (NDCFs),  has  already  been 
+placed on SEBI website for public comments on June 15, 2016. 
+
+The  present  consultation  paper  proposes  a  framework  for  disclosures  in  offer 
+document/placement memorandum and for Valuation of the units of InvIT. 
+
+ 
+
+Page 1 of 16 
+
+ 
+
+ 
+
+1.5. Based  on  the  recommendation  of  the  committee,  the  following  guidelines  for 
+disclosure  of financial information  in offer  document/placement  memorandum  and 
+for Valuation of InvIT units are proposed for public comments.  
+
+1.6. Further, it may be noted that the consultation paper has been prepared  keeping in 
+mind  the  fact  that  the  InvIT  may  hold  the  infrastructure  assets  both  through  a 
+special  purpose  vehicle  (SPV)  (which  may  be  a  company  or  a  LLP)  as  well  as 
+directly.  Therefore,  depending  upon  the  structure  of  holding  of  the  infrastructure 
+assets,  the  respective  Acts  i.e.  the  Companies  Act, 2013/  LLP  Act,  2008  shall  be 
+applicable  on  such  structures,  mutatis  mutandis.  Further,  the  disclosure  of 
+consolidated  financial  statements,  as  envisaged  in  the  paper,  shall  be  applicable 
+only when the InvIT hold assets through SPV(s) as well. 
+
+B.  Financial Disclosures in Offer document/placement memorandum 
+
+2.  Financial Information of InvIT 
+
+2.1. Annual Financial Information 
+
+2.1.1. InvIT  shall  disclose  its  annual  financial  information  for  the  previous  three 
+financial years in either of the following manner depending upon the history of 
+the InvIT: 
+
+(a) 
+
+If the InvIT  has  been  in  existence for  the  last  three  completed financial 
+years,  the  historical  audited  financial  statements  of  the  InvIT  (on  both 
+standalone  as  well  as  consolidated  basis)  for  last  three  years  shall  be 
+disclosed.  
+
+(b)  However, where InvIT has been in existence for a period lesser than last 
+three  completed  financial  years  and  the  historical  audited  financial 
+statements  of  InvIT  are  not  available  for  the  entire  three  years  period, 
+then  the  audited  Combined  Financial  Statements  (as  per  para  2.1.2 
+below)  need  to  be  disclosed  for  the  periods  when  historical  audited 
+financial statements are not available. 
+
+2.1.2. Combined Financial Statements:  
+
+Where  the  InvIT  has  not  been  in  existence  for  the  relevant  period,  the  historical 
+financial  information  must  be  provided  with  the  combined  financial  performance of 
+all the InvIT assets that will form part of the proposed InvIT structure assuming as if 
+such  InvIT  structure  would  have  been  in  place  at  the  commencement  of  the 
+reported period. 
+
+ 
+
+Page 2 of 16 
+
+(a)  What forms a part of Combined Financial Statements: 
+
+All  the  assets  or  entities,  which  are  owned  by  InvIT  (including  assets  or  entities 
+proposed  to  be  owned  by  the  InvIT  prior  to  allotment  of  units  in  the  initial  offer), 
+would collectively form part of combined financial statements.  
+
+(b)  Preparation of Combined Financial Statements:  
+
+ 
+
+i. 
+
+ii. 
+
+These statements should be prepared on a combined basis and presented 
+as  if  InvIT  assets  were  a  part  of  the  InvIT  since  the  first  day  of  the  three 
+year period for which information is being presented. 
+
+The principles for preparation of Combined Financial statements should be 
+same  as  the  principles  laid  down  in  Ind  AS  110  Consolidated  Financial 
+Statements to the extent applicable. However, unlike consolidated financial 
+statements, the combined financial statements would not include the parent. 
+
+iii.  While  preparing  Combined  Financial  Statements,  transactions  between 
+
+InVIT owned entities shall be eliminated. 
+
+Further,  all  pertinent  matters,  such  as  non-controlling  interests,  foreign 
+operations, different fiscal periods, or income taxes, shall be treated in the 
+same  manner  as  in  consolidated  financial  statements,  to  the  extent 
+applicable. 
+
+iv. 
+
+In cases where one or more of the underlying InvIT assets have been held 
+by  the  sponsor/sponsor  group  for  a  period  lesser  than  the  last  three 
+completed  financial  years,  then  such  assets  may  be  reflected  in  the 
+Combined  Financial  Statements  only  from  the  date  of  holding  by  the 
+sponsor/sponsor group. 
+
+However,  if  the  financial  information  for  those  assets  is  also  available  for 
+the pre-holding period, then such assets may be reflected in the Combined 
+Financial Statements for such pre-holding period as well.  
+
+v.  Assumptions  made  in  preparation  of  the  Combined  Financial  Statements 
+
+should be disclosed in ‘Basis of Preparation’ of such statements.  
+
+vi. 
+
+The Basis of Preparation should also explain the principles of combination 
+and  elimination  of  transactions  amongst  entities  that  are  included  in  the 
+Combined Financial Statements. 
+
+ 
+
+Page 3 of 16 
+
+ 
+
+ 
+
+ 
+
+2.1.3. Accounting Standards 
+
+The annual financial information (either historical financial statements or combined 
+financial  statements)  should  be  prepared  in  accordance  with  Indian  Accounting 
+Standards (Ind AS) and/or any addendum thereto as defined in Rule 2 (1) (a) of the 
+Companies (Indian Accounting Standards) Rules, 2015. 
+
+2.1.4. Financial Statements and Line Items:  
+
+(a)  For  the  financial  information  referred  to  in  Paragraphs  2.1.1  and  2.1.2,  such 
+
+information, should include, at a minimum, the following components: 
+
+i.  Balance Sheet; 
+ii.  Statement of Profit and Loss; 
+iii.  Statement of Changes in Equity; 
+iv.  Statement of Cash Flows; 
+v.  Explanatory  notes  annexed  to,  or  forming  part  of,  any  statements  referred 
+
+above 
+ 
+
+(b)  For the financial statements listed at point (a) above, the line items should, at 
+
+minimum, include the following: 
+
+Line items for Balance Sheet: 
+
+I.  Assets 
+
+ 
+a)  Property, plant and equipment; 
+b)  Capital work-in-progress 
+c)  Investment property; 
+d)  Intangible assets; 
+e)  Financial assets  
+f) 
+g)  Other receivables; 
+h)  Cash and cash equivalents; 
+i)  Deferred tax assets; 
+j)  Assets for current tax. 
+
+Inventories; 
+
+ 
+II.  Equity and Liabilities 
+
+ 
+a)  Unit capital; 
+b)  Other payables; 
+c)  Provisions; 
+d)  Financial  liabilities  (excluding  amounts  shown  under  (b)  and  (c)), 
+
+separately disclosing liabilities owed to sponsors; 
+
+Page 4 of 16 
+
+ 
+
+ 
+
+ 
+
+e)  Liabilities for current tax; 
+f)  Deferred tax liabilities ; 
+g)  Other liabilities 
+
+ 
+Line items for statement of Profit and Loss account 
+
+I.  Incomes and gains: 
+
+ 
+a)  Revenue from operations; 
+b)  Dividend;  
+c)  Interest;  
+d)  Other income (indicating nature).  
+
+ 
+
+II.  Expenses and losses: 
+
+ 
+a)  Valuation expenses; 
+b)  Audit fees;  
+c)  Insurance & security expenses;  
+d)  Project management fees  
+e)  Depreciation on property, plant and equipment; 
+f)  Amortization of intangible assets;  
+g)  Finance Cost (Interest); 
+h)  Custodian fees;  
+i)  Registration fees;  
+j)  Repairs and maintenance in case of infrastructure asset; 
+k)  Other expenses 
+
+III.  Profit or loss for the period before income tax 
+
+ 
+
+IV.  Tax expense (current tax and deferred tax) 
+
+ 
+
+V.  Profit or loss for the period after income tax 
+
+ 
+
+VI.  Items of other comprehensive income 
+
+ 
+
+VII.  Additional line items (if applicable) 
+
+ 
+
+a)  Items that will not be reclassified to profit or loss  
+b)  Income tax relating to items that will not be reclassified to profit or loss 
+c)  Items that will be reclassified to profit or loss 
+d)  Income tax relating to items that will be reclassified to profit or loss 
+
+ 
+
+VIII.  Total comprehensive income for the period (III+IV) (Comprising profit (loss) 
+
+and Other comprehensive income for the period) 
+ 
+
+ 
+
+Page 5 of 16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Line items for the "Statement of changes in equity" 
+
+I.  Total comprehensive income for the period; 
+II.  For  each  component  of  equity,  a  reconciliation  between  the  carrying 
+amount  at  the  beginning  and  the  end  of  the  period,  separately  (as  a 
+minimum) disclosing changes resulting from:  
+
+III.  Profit or loss; 
+IV.  Other comprehensive income; 
+V.  Aggregate amount of investments by unit holders in InvIT, and dividends / 
+
+other distributions by InvIT to unit holders,  
+
+Line items for the "Cash Flow Statement”  
+
+Cash Flow Statement, shall be prepared in accordance with the requirements 
+of  Ind  AS  7-"Statement  of  Cash  Flows"  and  hence  no  line  items  would  be 
+prescribed. 
+
+(c)  Financial  statements  shall  disclose  all  ‘material’  items,  i.e.,  the  items  if  they 
+could,  individually  or  collectively,  influence  the  economic  decisions that  users 
+make on the basis of the financial statements. Materiality depends on the size 
+or  nature  of  the  item  or  a  combination  of  both,  to  be  judged  in  the  particular 
+circumstances 
+
+In addition to the consideration of ‘materiality’ as specified above, any item of 
+income  or  expenditure  which  exceeds  one  per  cent  of  the  revenue  from 
+operations or Rs.10,00,000, whichever is higher, shall be disclosed separately 
+either on the face of financial statements or in the notes. 
+ 
+
+(d)  Headings,  line  items,  sub-line  items  and  sub-totals  shall  be  presented  as  an 
+addition  or  substitution  on  the  face  of  the  financial  statements  when  such 
+presentation is relevant to an understanding of an InvIT’s financial position or 
+performance  or  to  cater  to  industry/sector-specific  disclosure  requirements  or 
+when required for compliance with the amendments to the InvIT regulations or 
+under the Indian Accounting Standards 
+
+2.1.5. Audit of Financial Information:  
+
+The financial  information  referred  to  in  Paragraphs  2.1.1  and  2.1.2  above  shall  be 
+audited and the following shall be complied in this context: 
+
+(a)  The audit should be carried out by the Auditor appointed for the InvIT as per 
+
+the InvIT regulations.  
+
+Page 6 of 16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)  In  providing  his  report,  the  Auditor  shall  follow  the  requirements  of  the 
+Guidance Note on Reports in Company Prospectuses, issued by the Institute 
+of Chartered Accountants of India, to the extent applicable.  
+
+(c)  In  particular,  the  reports  of  the  auditors  on  the  financial  statements  of  the 
+various  InvIT  assets  (whether  prepared  in  accordance  with  the  framework 
+applicable  to  such  InvIT  assets  or  the  framework  applicable  to  the  InvIT)  for 
+the  respective  periods  covered  in  the  period  of  three  years  will  have  to  be 
+taken into account and the same would be relied upon by the auditor giving the 
+final report.  
+
+(d)  The  audit  procedures  to  be  followed  in  such  case  should  be  in  line  with  the 
+procedures  stated  in  the  Standard  on  Auditing  (SA)  600,  “Using  the  Work  of 
+another  Auditor”,  to  the  extent  applicable.  The  fact  that  the  financial 
+statements audited by other auditors have been relied upon shall be disclosed 
+in the audit report. 
+
+(e)  As a part of the audit report, the auditor shall state whether: 
+
+i.  he  has  obtained  all  information  and  explanations  which,  to  the  best  of  his 
+
+knowledge and belief, were necessary for the purpose of his audit; and 
+
+ii.  the  Balance  Sheet  and  the  Statement  of  Profit  and  Loss  are  in  agreement 
+
+with the books of account of the InvIT; and 
+
+iii.  the financial statements comply with the applicable accounting standards in 
+
+his opinion 
+ 
+
+(f)  As a part of the audit report, the auditor shall give his opinion as to whether: 
+
+i.  the  Balance  Sheet  gives  a  true  and  fair  view  of  the    state  of  affairs  of  the 
+
+InvIT as at the balance sheet date;  
+
+ii.  the  statement  of  profit  and  loss  gives  a  true  and  fair  view  of  the  InvIT’s 
+
+profits or losses for the year/period ended at the balance sheet date  
+
+iii.  the cash flow statement gives a true and fair view of the cash movements of 
+
+the InvIT for the year/period ended at the balance sheet date 
+
+iv.  the  Statement  of  changes  in  equity  gives  a  true  and  fair  view  of  the 
+movement of the unit holders funds for the year/period ended at the balance 
+sheet date 
+
+ 
+
+Page 7 of 16 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+2.1.6. Additional disclosures:  
+
+ 
+
+(a)  As part of the financial information, the InvIT shall also present operating cash 
+flow from the projects (project-wise) for all the InvIT assets that are included 
+in such financial information for the previous 3 years. 
+
+(b)  The  InvIT  shall  also  disclose  Earnings  per  Unit  (EPU)  for  the  previous  3 
+years.  The  principles  for  computation  of  EPU  should  be  same  as  the 
+principles laid down in Ind AS 33 Earnings per Share, to the extent applicable. 
+
+In  cases  when  Combined  Financial  Statements  are  presented,  Earnings  per 
+Unit can be determined on the basis of the capital structure, as has been put 
+in place for the purposes of listing. In such circumstances the number of units 
+of  the  InvIT  to  be  issued  to  existing  investors  is  to  be  used.  Relevant 
+disclosures should be provided as part of the notes for the EPU computation.  
+
+(c)  In case of a capital offering subsequent to the initial offer, the market value of 
+the  units  traded  on  all  the  designated  stock exchanges  where  InvIT  is  listed 
+should be disclosed:  
+
+•  on the last date of reporting period 
+•  highest value during reporting period based on intra-day and on closing 
+
+• 
+
+price with specified date  
+lowest  value  during  reporting  period  intra-day  and  on  closing  price  with 
+specified date 
+ 
+
+2.2. 
+
+Interim Financial Information  
+
+2.2.1. If  the  date  of  draft  offer  document  /  offer  document  /  placement  memorandum  is 
+more than six months from the end of the last audited annual financial statements 
+included  in  the  draft  offer  document  /  offer  document  /  placement  memorandum, 
+then an InvIT shall also disclose audited interim financial information, in addition to 
+the annual financial information. 
+
+2.2.2. The  said  audited  interim  financial  information  should  be  for  a  period  ending  not 
+earlier  than  six  months  from  the  date  of  draft  offer  document  /  offer  document  / 
+placement memorandum. 
+
+2.2.3. The  provisions  listed  in  Paragraphs  2.1  above  would  also  extend  to  the  audited 
+
+interim financial information to the extent applicable. 
+
+ 
+
+Page 8 of 16 
+
+ 
+
+ 
+
+ 
+3.  Financial information of Manager and Sponsor(s) 
+
+ 
+
+3.1  An offer document/placement memorandum of InvIT shall include Summary of the 
+audited  consolidated  financial  statements  (including  the  Balance  Sheet  and 
+Statement of Profit and  Loss  (without  schedules))of  Manager  and Sponsor(s)  for 
+past  three  years,  prepared  in  accordance  with  Companies  (Indian  Accounting 
+Standards) Rules, 2015 and the Companies Act, 2013 (as amended from time to 
+time). 
+
+However,  if  any  of  the  manager/sponsor  is  a  foreign  entity  and  is  not  legally 
+required  to  comply  with  the  Companies  (Indian  Accounting  Standards)  Rules, 
+2015  and  the  Companies  Act,  2013  (as  amended  from  time  to  time),  then  the 
+financial  statements  of  such  entity  can  be  prepared  in  accordance  with 
+International Financial Reporting Standards (IFRS). 
+
+3.2  Further,  if  the  Manager  and/or  Sponsor  is  required  to  follow  Companies  (Indian 
+Accounting  Standards)  Rules,  2015  (as  amended  from  time  to  time)  only  for  the 
+latest  year  (for  the  latest  two  years  including  comparatives)  out  of  the  historical 
+period  of  three  years,  then  financial  information  for  the  earliest  year  should  be 
+disclosed  as  per  the  Companies  (Accounting  Standards)  Rules,  2006  (as 
+amended from time to time). 
+
+For  example,  if  financial  information  of  Manager/Sponsor  is  presented  for  the 
+financial  years  2014-15,  2015-16,  and  2016-17  and  such  Manager/Sponsor  is 
+required by Companies Act, 2013 to report under Ind AS from financial year 2016-
+17  (with  financial  year  2015-16  as  comparatives),  then  it  shall  disclose  financial 
+information for financial year 2016-17 and 2015-16 in accordance with Ind AS and 
+financial year 2014-15 as per Companies (Accounting Standards) Rules, 2006 (as 
+amended from time to time). 
+
+4.  Management Discussion and Analysis  
+
+4.1 
+
+InvIT  shall  prepare  and  disclose  Management  Discussion  and  Analysis  (MDA), 
+based on the historical financial statements and comparison shall be provided for 
+the  most  recent  financial  information  with  financial  information  of  previous  two 
+years. 
+
+4.2  MDA shall include the following line items: 
+
+•  A summary of the historical financial information containing significant items of 
+
+income and expenditure shall be given. 
+
+•  Overview of the business of the InvIT 
+
+ 
+
+Page 9 of 16 
+
+ 
+
+ 
+
+•  Factors  that  may  affect  results  of  the  operations,  key  risks  and  mitigating 
+
+factors 
+
+•  Quality of earnings and revenue streams 
+•  An  analysis  of  reasons  for  the  changes  in  significant  items  of  income  and 
+
+expenditure shall also be given, inter alia, containing the following: 
+
+(cid:1)  unusual or infrequent events or transaction; 
+(cid:1)  significant economic changes that materially affected or are likely to effect 
+
+income from continuing operations; 
+
+(cid:1)  known  trends  or  uncertainties  that  have  had  or  are  expected  to  have  a 
+
+(cid:1) 
+
+material adverse impact on revenues from continuing operations; 
+future  changes  in  relationship  between  costs  and  revenues,  in  case  of 
+events  such  as  future  increase  in  operating  costs  that  will  cause  a 
+material change are known; 
+
+(cid:1)  each major segments of the InvIT 
+(cid:1)  status of any publicly announced new business segment; 
+(cid:1) 
+(cid:1)  any significant dependence on a single or few suppliers or customers; 
+(cid:1)  Competitive conditions. 
+
+the extent to which business is seasonal; 
+
+ 
+
+5.  Projections of Revenues and Operating Cash flows 
+
+5.1  The  offer  document/placement  memorandum  shall  contain  disclosures  of  the 
+projections of revenues and operating cash flows of the InvIT, project-wise, over 
+the next three years including related assumptions. 
+
+5.2  The  projections  shall  be  disclosed  for  InvIT  assets/projects  that  are  owned  by 
+the InvIT or are proposed to be owned by InvIT prior to the allotment of units in 
+the public offer/private placement. 
+
+5.3  The following minimum notes should be disclosed as a part of the projections for 
+
+the next three years: 
+
+•  Project-wise revenue  
+•  Project-wise operating cash flows 
+•  Assumptions for projections 
+•  Any other item deemed important for better readability and understanding 
+
+ 
+
+5.4  The  aforesaid  projections,  including  assumptions,  shall  be  certified  by  the 
+
+auditor. 
+
+ 
+
+ 
+
+Page 10 of 16 
+
+ 
+6.  Payment history and Working capital available to InvIT 
+
+ 
+
+6.1 
+
+A  statement  regarding  sufficiency  of  the  working  capital  to  fulfill  the  present 
+requirements of InvIT (i.e., at least twelve months from date of listing) shall be 
+included by the Investment Manager.  
+
+In case, sufficient working capital is not available in the opinion of Investment 
+Manager, then a statement should be provided describing how it proposes to 
+provide additional working capital requirement.  
+
+6.2 
+
+A statement including history of Interest and principal payment of InvIT shall 
+be disclosed in Offer document/placement memorandum, for past three years, 
+covering all the InvIT assets forming part of the historical financial information. 
+Additionally, the following should also be disclosed: 
+
+•  The carrying amount at the beginning and at end of each year 
+•  Additional borrowings during the year 
+•  Repayments during the year 
+•  Other adjustments / settlements during the year 
+
+7.  Contingent liabilities 
+
+ 
+
+7.1 
+
+A statement of InvIT’s Contingent liabilities, if any, as on the date of the offer 
+document/placement  memorandum,  shall  be  disclosed 
+the  offer 
+document/placement memorandum. 
+
+in 
+
+7.2 
+
+Contingent liabilities should be classified, at minimum, into the following heads, 
+to the extent applicable: 
+
+(a) Claims against the trust not acknowledged as debt; 
+(b) Other money for which the trust is contingently liable; 
+(c) Any claims against InvIT pending litigation 
+(d) Other Contingent Liabilities (specify nature) 
+
+ 
+
+8.  Commitments 
+
+8.1. 
+
+A  statement  of  InvIT’s  Commitments,  if  any,  as  on  the  date  of  the  offer 
+document/placement memorandum,  shall  be  disclosed  in  the offer  document/ 
+placement memorandum. 
+
+8.2.  Commitments  should  be  classified,  at  minimum,  into  the  following  heads,  to 
+
+the extent applicable: 
+
+ 
+
+Page 11 of 16 
+
+ 
+
+(a) Estimated amount of contracts remaining to be executed on capital account 
+
+and not provided for; 
+
+(b) Uncalled liability on shares and other investments partly paid including that 
+
+ 
+
+of SPV; 
+
+(c) Other Commitments (specify nature) 
+
+ 
+
+9.  Others Disclosures 
+
+9.1. Related party transactions 
+
+9.1.1.  Without  prejudice  to  the  definition  of  related  parties  under  the  InvIT 
+Regulations  and  the  associated  compliance  and  disclosure  requirements 
+mandated  by  the  InvIT  Regulations,  the  InvIT  shall  as  also  comply  with 
+requirements of “Ind-AS 24 – Related Party Disclosures” in the preparation of 
+its  financial  information,  and  for  this  purpose,  it  shall  also  provide  relevant 
+disclosures for all related parties as defined in the InvIT Regulations. 
+
+9.1.2.  The  disclosures  related  to  Related  parties  and  Related  party  transactions 
+
+should, at minimum, include the following: 
+
+(a) Details of related party and its relationship with InvIT; 
+(b) Nature of the transaction;   
+(c) Value of the transaction;  
+(d) Summary of valuation report;  
+(e) Current yield and the impact of the acquisition/disposal on the yield of the 
+
+units of InvIT;  
+
+(f)  Material conditions or obligations in relation to the transaction;  
+(g) Rate  of  interest,  if  external  financing  has  been  obtained  for  the 
+
+transaction/acquisition; and  
+
+(h) Any fees or commissions received or to be received by any associate of 
+
+the related party in relation to the transaction. 
+ 
+
+9.2. Capitalisation statement 
+
+An InvIT shall include a Capitalisation Statement in the offer document/placement 
+memorandum, showing total debt, net worth, and the debt/equity ratios before and 
+after the completions of issue. An illustrative format of the Capitalisation Statement 
+is specified hereunder: 
+
+Particulars 
+
+Pre-issue as at  .............  As Adjusted for issue 
+
+(Amount) 
+
+ 
+
+Page 12 of 16 
+
+ 
+
+Total Debt 
+
+Unitholders’ Funds  
+Unit Capital 
+xx 
+xx 
+Reserves 
+
+xx 
+
+ 
+
+xx 
+xx 
+xx 
+xx 
+
+ 
+
+xx 
+
+ 
+
+xx 
+xx 
+xx 
+xx 
+
+Provided that in case of any change in the unit capital (since the date from which 
+the  financial  information  has  been  disclosed  in  the  Offer  document/placement 
+memorandum), a note explaining the nature of the change shall be given. 
+
+C.  Valuation of the units of the InvITs 
+
+10. Definition of the Valuer 
+
+10.1. 
+
+Regulation 2(1)(zzf) of the InvIT Regulations defines the valuer as  
+
+any person who is a "registered valuer" under section 247 of the Companies Act, 
+2013  and  who  has  been  appointed  by  the  investment  manager  to  undertake 
+valuation of the InvIT assets:  
+
+Provided that till such date on which section 247 of the Companies Act, 2013 comes 
+into  force,  valuer  shall  mean  an  independent  merchant  banker  registered  with  the 
+Board  or  an  independent  chartered  accountant  in  practice  having  a  minimum 
+experience of ten years; 
+
+10.2. 
+
+In  this  reference,  representations  were  received  that  the  definition  of  the 
+valuer as provided in the regulation may be expanded so as to allow other classes 
+of  valuers  and  members  of  other  professional  bodies  which  are  engaged  in  the 
+profession of valuation of such infrastructure assets, etc.  
+
+10.3. 
+
+Committee looked into the issue and recommended that till the time Section 
+247  of  Companies  Act,  2013  doesn't  comes  into  force.  the  draft  rules  available, 
+with reference to the definition of valuer, may be used for defining the valuer under 
+the InvIT Regulations. Thus, the proposal is to expand/modify the definition of the 
+valuer under the InvIT Regulations so that the revised definition is in line with the 
+requirements as being proposed under draft rules of The Companies Act, 2013.  
+
+The revised definition proposed shall be as under: 
+
+ 
+
+Page 13 of 16 
+
+ 
+
+“valuer”  means  the  person(s)  who  are  eligible  to  apply  to  be  a  "registered  valuer" 
+under section 247 of the Companies Act, 2013, and who has been appointed by the 
+investment manager to undertake valuation of the InvIT assets. 
+
+Provided that till such date on which section 247 of the Companies Act, 2013 comes 
+into force, valuer shall mean 
+
+(a) a chartered accountant, company secretary or cost accountant who is in whole-
+time practice, or retired member of Indian Corporate Law Service or any person 
+holding  equivalent  Indian  or  foreign  qualification  as  the  Ministry  of  Corporate 
+Affairs may recognize by an order; 
+
+ provided that such foreign qualification is acquired by Indian citizen. 
+
+(b) a Merchant Banker registered with the Securities and Exchange Board of India, 
+and who has in his employment person(s) having qualifications prescribed under 
+(a) above to carry out valuation by such qualified persons; 
+
+(c) member of the Institute of Engineers and who is in whole-time practice; 
+
+(d) member, of the Council of Architecture or the Indian Institute of Architects, and 
+
+who is in whole-time practice; 
+
+(e) A  person  or  entity  possessing  necessary  competence  and  qualification  in 
+
+valuations as may be notified by the Central Government from time to time. 
+
+Provided that persons referred to in (a), (c) and (d) and qualified person in (b) above 
+shall  have  not  less  than  five  years  continuous  experience  in  valuation  field  after 
+acquiring membership of respective institutions; 
+
+Provided  further  that  in  the  case  of  merchant  banker  the  valuation  report  shall  be 
+signed by the qualified person. 
+
+Provided  also  that  persons  referred  to  in  (a)  and  (b)  shall  be  in  respect  of 
+requirement for a “financial valuation” and the persons referred to in (c) and (d) shall 
+be  in  respect  of  requirement  for  a  “technical  valuation”  and  a  person  or  a  firm  or 
+Limited Liability Partnership or merchant banker possessing both the qualifications 
+may act in dual capacity. 
+
+Explanation: For the purposes of this Regulation, a person shall be deemed “to be 
+in  whole-time  practice”,  when  individually  or  in  partnership  or  in  limited  liability 
+partnership or in merchant banker with other persons in practice who are members 
+of other professional bodies, he, in consideration of remuneration received or to be 
+received: 
+
+Page 14 of 16 
+
+ 
+
+ 
+
+ 
+
+(i) 
+
+engages himself in the practice of valuation; or 
+
+ 
+
+(ii) 
+
+(iii) 
+
+offers to perform or performs services involving valuation of any assets with 
+the object of arriving at financial value of the asset being valued; or 
+
+renders professional services or assistance in or about matters of principle or 
+detail relating to valuation. 
+
+11. Mandatory disclosures in the valuation report (Schedule V) 
+
+11.1.  The  Schedule  V  of  the  InvIT  Regulations  prescribes  the  minimum  set  of 
+mandatory  disclosures  to  be  made  in  the  valuation  report.  In  this  reference, 
+committee  has  recommended  that  the  minimum  disclosures  in  valuation  report 
+may include following information as well, so as to provide the investors with the 
+adequate  information  about  the  valuation  and  other  aspects  of  the  underlying 
+assets of the InvITs. 
+
+11.2.  The additional set of disclosures, in addition to as prescribed under Schedule V 
+
+of InvIT Regulations,  to be made in the valuation report shall be as  under: 
+
+a.  Historical valuations made for a period of last three financial years for each 
+
+asset, as applicable 
+
+b.  Information  regarding  the  assumed  factors  while  calculating  the  valuation 
+
+such as discounting rate, tenure etc. 
+
+c.  For  each  specific  InvIT  asset,  the  following  additional  details  must  be 
+
+mentioned: 
+
+(i) List of one-time sanctions/approvals which are obtained or pending; 
+(ii) List of up to date/overdue periodic clearances; 
+(iii) Statement of assets included; 
+(iv)  Estimates  of  already  carried  as  well  as  proposed  major  repairs  and 
+improvements along with estimated time of completion; 
+(v) Revenue pendencies including local authority taxes associated with InvIT 
+asset and compounding charges, if any; 
+(vi)  On-going  and  closed  litigations  including  tax  disputes  in  relation  to  the 
+assets, if any; 
+(vii)  Vulnerability  to  natural  or  induced  hazards  that  may  not  have  been 
+covered in town planning/ building control. 
+ 
+
+11.3.  Further,  a brief summary of the valuation as per full valuation report shall also be 
+
+provided as the part of the valuation report 
+
+ 
+
+Page 15 of 16 
+
+ 
+D.  Public Comments 
+
+ 
+
+12. In  the  light  of  the  above,  public  comments  are  invited  on  the  consultation  paper. 
+Comments may be forwarded by email to invit@sebi.gov.in or may be sent by post to 
+the following address latest by July 31 2016: 
+
+Ms. Richa Agarwal 
+Deputy General Manager 
+Investment Management Department, 
+Division of Funds I  
+Securities and Exchange Board of India  
+SEBI Bhavan, Plot No. C4-A, G Block  
+Bandra Kurla Complex  
+Mumbai - 400 021  
+
+ 
+13. Comments should be given in the following format: 
+
+ 
+
+Name of entity/ person/ intermediary: _______________________ 
+
+S. No.  Pertains to Point No. 
+
+Proposed/Suggested 
+changes 
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Issued on: July 08, 2016 
+
+Page 16 of 16 
+
+ 
+
+ 
+
+

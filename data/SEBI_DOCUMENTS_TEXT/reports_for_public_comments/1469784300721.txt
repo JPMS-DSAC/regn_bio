@@ -1,0 +1,422 @@
+ 
+
+ 
+
+ 
+
+Discussion Paper on review of framework 
+
+for Institutional Trading Platform  
+
+ 
+
+1.  Background 
+1.1.  The  regulatory  framework  for  Institutional  Trading  Platform  (“ITP”)  was  put  in 
+
+place  vide  amendments  notified  to  SEBI  (Issue  of  Capital  and  Disclosure 
+
+Requirements) Regulations, 2009 (“ICDR Regulations”) on August 14, 2015. Various 
+
+enabling  amendments  to  other  SEBI  regulations  i.e.  on  Takeover,  Listing,  Delisting 
+
+and AIF were also notified. 
+
+1.2.  Subsequently, SEBI has received feedback from the market participants to make the 
+
+said  platform  more  accessible  to  the  companies.  The  Primary  Market  Advisory 
+
+Committee  (“PMAC”)  of  SEBI  has  also  deliberated  the  related  issues  and  made 
+
+certain recommendations.   
+
+1.3.  Based on the recommendations of PMAC and further discussions, certain proposals 
+
+for changes to the ITP framework are enumerated below.  
+
+ 
+
+2.  Proposals 
+2.1. Name of Chapter XC 
+
+Existing provision 
+
+The framework for  ITP is specified under chapter XC of ICDR Regulations which is 
+
+named as ‘Listing on Institutional Trading Platform’. 
+
+Proposal 
+
+The  said  chapter  may  be  renamed  as  ‘High-tech  Start-up  &  other  new  business 
+
+Platform’.  
+
+2.2. Prior-holding by QIBs 
+
+ 
+
+  Existing provision 
+
+Reg. 106Y(1) of ICDR Regulations stipulates a minimum level of prior holding by the 
+
+Qualified Institutional Buyers (“QIBs”) in the pre-issue capital of companies seeking 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+to  list  on  ITP,  i.e.  at  least  25%  in  technology  related  companies  under  Reg. 
+
+106Y(1)(a) and 50% in other companies under Reg. 106Y(1)(b).  
+
+Proposal 
+
+A.  In addition to QIBs, prior shareholding of other categories of investors may also 
+
+be considered for assessing the eligibility of companies to list on ITP. The other 
+
+categories of investors may be: 
+
+i. 
+
+Family trust or systematically important NBFCs registered with Reserve 
+
+Bank of India or intermediaries registered with SEBI, all with net-worth 
+
+of more than five hundred crore rupees, as per the last audited financial 
+
+statements; 
+
+ 
+
+ii. 
+
+Category III Foreign Portfolio Investor; 
+
+iii.  An entity meeting all the following criteria: 
+
+a.  It 
+
+is  a  pooled 
+
+investment  fund  with  minimum  assets  under 
+
+management of USD 150 million; 
+
+b.  It  is  registered  with  a  financial  sector  regulator  in  the  jurisdiction  of 
+
+which it is a resident; 
+
+c.  It  is  resident  of  a  country  whose  securities  market  regulator  is  a 
+
+signatory to the International Organization of Securities Commission’s 
+
+Multilateral Memorandum of Understanding (Appendix A Signatories) 
+
+or a signatory to Bilateral Memorandum of Understanding with SEBI;  
+
+d.  It  is  not  resident  in  a  country  identified  in  the  public  statement  of 
+
+Financial Action Task Force as:  
+
+i.  a  jurisdiction  having  a  strategic  Anti-Money  Laundering  or 
+
+Combating  the  Financing  of  Terrorism  deficiencies  to  which 
+
+counter measures apply; or  
+
+ii. a 
+
+jurisdiction  that  has  not  made  sufficient  progress 
+
+in 
+
+addressing  the  deficiencies  or  has  not  committed  to  an  action 
+
+plan developed with the Financial Action Task Force to address 
+
+the deficiencies; 
+
+ 
+
+B.  The aforesaid categories of investors may be classified as ‘institutional investors’ 
+
+and  the  existing  definition  of  institutional  investor  under  Reg.  106X(1)(b)  of 
+
+ICDR Regulations may be amended accordingly. 
+
+Review of ITP framework  
+ 
+
+Page 2 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+C.  The requirement of minimum level of prior holding shall be uniformly 25% for 
+
+any company, irrespective of the sector to which it belongs. 
+
+2.3. Cap on holding in the post-issue capital 
+
+Existing provision 
+
+Reg.  106Y(2)  of  ICDR  Regulations  stipulates  that  no  person,  individually  or 
+
+collectively with persons acting in concert, shall hold 25% or more of the post-issue 
+
+capital, as an eligibility criterion for the entity to list on ITP. 
+
+Proposal 
+
+This requirement may be done away with. 
+
+2.4. Investors in ITP 
+
+ 
+
+  Existing provision 
+
+As per Reg. 106W(3) of ICDR Regulations, ITP is accessible to institutional investors 
+
+and  non-institutional  investors  (“NIIs”),  i.e.  only  these  two  categories  of  investors 
+
+can subscribe to issuances made on ITP. 
+
+Proposal 
+
+The  provision  may  be  retained  subject  to  amending  the  definition  of  ‘institutional 
+
+investor’ as proposed earlier. 
+
+2.5. Allocation to investors 
+
+Existing provision 
+
+In terms of Reg. 106ZA(4) of ICDR Regulations, 75% of the net offer to public shall 
+
+be allocated for institutional investors and remaining 25% shall be allocated to NIIs. 
+
+Proposal 
+
+The allocation may be revised as under: 
+
+i.  Not less than 50% to institutional investors; and  
+
+ii.  Not more than 50% to NIIs. 
+
+2.6. Discretionary allotment to institutional investors 
+
+ 
+
+  Existing provision 
+
+Reg. 106ZA(8) of ICDR Regulations prescribes that in case of discretionary allotment 
+
+to institutional investors, no institutional investor shall be allotted more than 10% 
+
+of the issue size. 
+
+ 
+
+ 
+
+Review of ITP framework  
+ 
+
+Page 3 
+
+ 
+
+ 
+ 
+
+Proposal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+The ceiling on allotment to individual institutional investor may be revised upwards 
+
+from 10% to 25%.  
+
+2.7. Market making 
+
+Existing provision 
+
+There is no provision mandating market making on ITP.  
+
+Proposal 
+
+Market making may be made compulsory for a minimum period of 3 years for issue 
+
+size of less than INR 100 crores.  
+
+2.8. Lock-in of pre-issue capital 
+
+ 
+
+Existing provision 
+
+In accordance with Reg. 106ZB(1) of ICDR Regulations, the entire pre-issue capital 
+
+of  the  shareholders  shall  be  locked-in  for  a  period  of  6  months  from  the  date  of 
+
+allotment in case of listing pursuant to public issue or date of listing in case of listing 
+
+without public issue. However, the lock-in is subject to certain exemptions provided 
+
+for shares arising out of ESOPs and shares held by VCF/AIF Category I/FVCI in case 
+
+of listing pursuant to IPO.  
+
+Proposal 
+
+The lock-in of 6 months may apply uniformly to all the categories of shareholders. 
+
+2.9. Trading lot 
+
+Existing provision 
+
+In terms of Reg. 106ZC of ICDR Regulations, the minimum trading lot shall be INR 10 
+
+lakh. 
+
+Proposal 
+
+The minimum trading lot size may be lowered to INR 5 lakh. 
+
+2.10. Other provisions in Chapter XC shall remain the same. 
+
+ 
+
+3.  Public comments 
+
+Considering the implications of the said matter on the market participants including 
+
+issuers and investors, public comments are invited on the proposals contained in the 
+
+Review of ITP framework  
+ 
+
+Page 4 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+discussion  paper.  Specific  comments/suggestions  as  per  the  format  given  below 
+
+would be highly appreciated: 
+
+Name of entity / person / intermediary/ Organization: 
+
+Sr. 
+
+No. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pertains to serial 
+
+Suggestion(s) 
+
+Rationale 
+
+number under 
+
+paragraph (2) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The  comments  may  please  be  e-mailed  on  or  before  August  14,  2016,  to 
+
+capitalraising@sebi.gov.in or sent by post, to- 
+
+ 
+
+Shri. Amit Tandon 
+
+Deputy General Manager 
+Corporation Finance Department 
+Securities and Exchange Board of India  
+SEBI Bhavan 
+Plot No. C4-A, "G" Block 
+Bandra Kurla Complex 
+Bandra (East), Mumbai - 400 051 
+Ph: +91-22-26449373/ +91-22-26449483 
+ 
+ 
+
+Issued on: July 29, 2016 
+
+ 
+
+************ 
+
+Review of ITP framework  
+ 
+
+Page 5 
+
+

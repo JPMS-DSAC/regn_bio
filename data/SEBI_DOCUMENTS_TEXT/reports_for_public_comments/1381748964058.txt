@@ -1,0 +1,864 @@
+Consultation paper on draft SEBI (Settlement of Administrative and Civil 
+
+Proceedings) Regulations, 2013. 
+
+ 
+
+1. The President of India has promulgated the Securities Laws (Amendment) Second 
+
+Ordinance, 2013 on September 16, 2013 conferring explicit  powers on SEBI to settle 
+
+administrative  and  civil  proceedings  under  section  15JB  of  the  Securities  and 
+
+Exchange  Board  of  India  Act,  1992(SEBI  Act),  section  23JA  of  the  Securities 
+
+Contracts (Regulation) Act, 1956 and section 19-IA of the Depositories Act, 1996.  
+
+ 
+
+2.  The  said  Ordinance  provides  that  SEBI  may,  after  taking  into  consideration  the 
+
+nature,  gravity  and  impact  of  defaults,  agree  to  the  proposal  for  settlement,  on 
+
+payment of such sum by the defaulter or on such other terms as may determined by 
+
+SEBI in accordance with the regulations made under SEBI  Act. The said Ordinance 
+
+further provides that the settlement proceedings shall be conducted in accordance with 
+
+the  procedure  specified  in  the  regulations  made  under  SEBI  Act.  A  corresponding 
+
+provision as clause (da) has also been inserted in sub-section (2) of section 30 of SEBI 
+
+Act enabling the Board to frame regulations providing for the terms and procedure for 
+
+settlement of administrative and civil proceedings. 
+
+ 
+
+3.  In  the  light  of  the  above,  SEBI  proposes  to  frame  SEBI  (Settlement  of 
+
+Administrative  and  Civil  Proceedings)  Regulations,  2013,  a  draft  of  which  is 
+
+annexued. Public comments are invited on the said draft Regulations. Comments may 
+
+be  forwarded  by  email  to 
+
+'comments_settlementregs@sebi.gov.in'  latest  by 
+
+October 30, 2013. 
+
+ 
+
+Comments should be given in the following format: 
+
+Name of entity/ person/ intermediary: 
+
+Sr.No. 
+
+Pertains to which 
+
+Proposed/ 
+
+Rationale 
+
+regulation/sub-regulation 
+
+suggested changes 
+
+ 
+
+ 
+
+1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Issued on: October 14, 2013 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DRAFT REGULATIONS 
+
+EXTRAORDINARY 
+
+PART – III – SECTION 4 
+
+PUBLISHED BY AUTHORITY 
+
+NEW DELHI, October        , 2013 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+NOTIFICATION 
+
+Mumbai, the       October, 2013 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA (SETTLEMENT OF 
+
+ADMINISTRATIVE AND CIVIL PROCEEDINGS) REGULATIONS, 2013 
+
+ 
+
+ 
+
+ 
+
+ 
+
+No.  
+.-In exercise of the powers conferred by section 15JB of 
+the  Securities  and  Exchange  Board  of  India  Act,  1992,  section  23JA  of  the  Securities 
+Contracts (Regulation) Act, 1956 and section 19-IA of the Depositories Act, 1996 read with 
+sections  11  and  30 of  the  Securities  and  Exchange  Board  of  India Act,  1992,  the  Securities 
+and Exchange Board of India hereby makes the following regulations to provide for the terms 
+of settlement and the procedure of settlement proceedings and matters connected therewith or 
+incidental thereto, namely:—  
+
+CHAPTER I 
+
+PRELIMINARY 
+
+ 
+
+Short title and commencement. 
+1.  (1)  These  regulations  may  be  called  the  Securities  and  Exchange  Board  of  India 
+(Settlement of Administrative and Civil Proceedings) Regulations, 2013.  
+(2) They shall come into force on the date of their notification in the Gazette of India.     
+ 
+Definitions. 
+2.  (1)  In  these  regulations,  unless  the  context  otherwise  requires,  the  terms  defined  herein 
+shall  bear  the  meanings  assigned  to  them  below,  and  their  cognate  expressions  shall  be 
+construed accordingly,–           
+
+(a)  "Act" means the Securities and Exchange Board of India Act, 1992 (15 of 1992); 
+
+ 
+
+ 
+
+(b) “alleged  default”  means  an  alleged  or  probable  non-compliance  of  any  provision  of 
+
+securities laws; 
+ 
+
+(c)  "Board"  means  the  Securities  and  Exchange  Board  of  India  established  under  the 
+provisions  of  section  3  of  the  Securities  and  Exchange  Board  of  India  Act,  1992 
+(15 of 1992); 
+ 
+
+(d) "high  powered  advisory  committee"  means  a  committee  constituted  by  the  Board 
+
+under  regulation 7; 
+ 
+
+(e)  "internal committee" means a committee constituted by the Board under  regulation 8; 
+
+ 
+
+(f)  “first  time  applicant”  means  an  applicant  who  has  not  obtained  a  settlement  order 
+
+where he is a party as on the date of receipt of his application by the Board: 
+
+2 
+
+           Provided that any applicant who has filed another application under regulation 
+3 which is pending before the Board shall not be a first time applicant; 
+ 
+
+(g) "proceedings" means proceedings which have been initiated or may be initiated under 
+section 11, section 11B, section 11D, sub-section (3) of section 12 or section 15-I of 
+the    Act  or  section  12A  or  section  23-I  of  the  Securities  Contracts  (Regulation)Act, 
+1956 or section 19 or section 19H of the Depositories Act, 1996, as the case may be; 
+ 
+
+(h) "specified" means specified by the Board through circulars or guidelines;   
+
+(i)  "Tribunal" means the Securities Appellate Tribunal established under section 15K of 
+
+the Securities and Exchange Board of India Act, 1992.  
+
+ 
+(2) Words and expressions used and not defined in these regulations but defined in the Act, 
+the  Companies  Act,  1956,  the  Securities  Contracts  (Regulation)  Act,  1956  and  the 
+Depositories  Act,  1996  or  any  rules  or  regulations  made  thereunder  shall  have  the  same 
+meanings respectively assigned to them in those Acts, rules or regulations made thereunder or 
+any statutory modification or re-enactment thereto, as the case may be.   
+ 
+
+CHAPTER II 
+
+APPLICATION FOR  SETTLEMENT 
+
+ 
+
+Application.  
+3.  (1) Any person, against whom ay proceedings have been initiated or may be initiated, may 
+file an application to the Board in the Form specified in Part-A of the Schedule. 
+(2) The application made under sub-regulation (1) shall be accompanied by a non-refundable 
+application fee to be paid in the manner specified in Part-B of the Schedule. 
+(3)  The  applicant  shall  submit  the  waivers  and  undertakings  as  specified  in  Part-C  of  the 
+Schedule with the application. 
+(4) The applicant shall make one application for settlement of all the proceedings where more 
+than one proceedings arising out of the same cause of action is pending. 
+(5)  An  application  which  is  not  complete  in  all  respects  or  does  not  conform  to  the 
+requirements of these regulations shall be rejected by the Board: 
+Provided  that  an  applicant  shall  be  granted  not  more  than  one  opportunity  to  submit  a 
+rectified  application  which  conforms  to  the  requirements  of  the  these  regulations  within 
+fifteen days from the date of communication in this regard. 
+(6)  On  receipt  of  an  application  under  sub-regulation  (1),  the  Board  or  the  adjudicating 
+officer,  as  the  case  may  be,  shall  keep  the  passing  of  the  final  order  in  abeyance  in  the 
+respective proceeding, till such application is disposed of. 
+(7)  Where  the  settlement  proposal  of  an  application  is  rejected,  the  proceedings  kept  in 
+abeyance in terms of sub-regulation (6) shall revive from the stage where it was pending.  
+ 
+Limitation.  
+4. (1) No application shall be considered if it is made after sixty days from the date of service 
+of show cause notice or supplementary show cause notices, if any, issued by the Board. 
+(2)  Notwithstanding  anything  contained  in  sub-regulation  (1),  the  panel  of  whole  time 
+members constituted under sub-regulation (1) of regulation 12 may condone the delay, if it is 
+satisfied  that  there  was  sufficient  cause  for  not  filing  the  application  within  the  period 
+specified in sub-regulation (1). 
+
+ 
+
+3 
+
+(3) This regulation shall not apply in the case of proceedings pending before the Tribunal or 
+any court.   
+Explanation.-  For  the  purposes  of  this  regulation,  where  multiple  proceedings  have  been 
+initiated  for  the  same  cause  of  action,  the  application  shall  be  deemed  to  have  been  filed 
+within the limitation period, if the application filed for any one proceeding is filed within the 
+limitation period specified in this regulation.  
+
+ 
+
+CHAPTER III 
+
+SCOPE OF SETTLEMENT  
+
+ 
+
+Scope of settlement proceedings. 
+
+(a)  5. (1) No application shall be made, for settlement of any proceedings – if the 
+alleged default was committed within a period of two years from the date of 
+the last settlement order where the applicant is a party;  
+(b) if the applicant has been party to two settlement orders; 
+(c)  for  proceedings  arising out  of  non-compliance  of  the    settlement terms  of an 
+
+earlier settlement order.  
+
+(d) if the application seeking settlement of the same alleged default has been filed 
+
+earlier and withdrawn; 
+
+(e)  if  an  earlier  application  with  regard  to  the  same  alleged  default  had  been 
+
+rejected by the Board. 
+
+ 
+
+(2) The Board may not settle a proceeding if it involves any of the following alleged defaults, 
+namely,- 
+
+(a)  commission  of  insider  trading  or  communication  of  unpublished  price  sensitive 
+information in contravention of the provisions of the Act and the regulations made 
+thereunder; 
+
+(b) fraudulent and unfair trade practices including front running, which are serious and 
+which  in  the  opinion  of  the  Board,  has  a  market  wide  impact  or,  has  caused 
+substantial  losses  or  affects  the  rights  of  investors  in  securities,  especially  retail 
+investors and small shareholders: 
+
+Provided that where the applicant has made or intends to make good the losses 
+
+due to the investors, his application may be considered.  
+Explanation.-  For  the  purpose  of  this  clause,  front  running  means  usage  of  non-
+public  information  to  directly  or  indirectly,  buy  or  sell  securities  or  enter  into 
+options  or  futures  contracts,  in  advance  of  a  substantial  order,  on  an  impending 
+transaction,  in  the  same  or  related  securities  or  futures  or  options  contracts,  in 
+anticipation that when the information becomes public; the price of such securities 
+or contracts may change;  
+
+(c)  failure to make an open offer in accordance with the provisions of the Act and the 
+
+regulations made thereunder: 
+
+Provided  that  where  the  applicant  intends  to  make  the  open  offer  or  where 
+making  the  open  offer  is  found  to  be  not  beneficial  to  the  shareholders,  his 
+application may be considered; 
+
+(d) defaults  or  manipulative  practices  by  mutual  funds,  their  sponsors  or  asset 
+management  companies  that  result  in  substantial  losses  to  unitholders,  except  in 
+cases  where  the  applicant  has  compensated  the  unitholders  for  the  losses,  to  the 
+satisfaction of the Board; 
+
+(e)  failure to redress investor grievances except where the alleged default is of delayed 
+
+redressal; 
+
+ 
+
+4 
+
+(f)  failure  to  make  disclosures  required  under  the  regulations  framed  by  the  Board 
+dealing  with  issue  and  listing  of  securities,  which  in  the  opinion  of  the  Board 
+materially affect the right of the investors; 
+
+(g) raising  of  monies  by  issuance  of  securities  or  pooling  of  funds,  in  violation  of 
+
+securities laws where  the remedy is refund of such monies;   
+
+(h) non-compliance of notices and summons issued by the Board or summons issued 
+
+by the adjudicating officer; 
+
+(i)  non-compliance of an order passed by the Board or by an adjudicating officer. 
+
+  
+(3)  An  application  in  respect  of  proceedings  involving  alleged  defaults  referred  to  in  sub-
+regulation  (2)  may  be  rejected  by  the Board, without  examination  by  internal committee  or 
+high powered advisory committee.    
+(4)  Notwithstanding  anything  contained  in  this  regulation,  the  Board  may  in  the  interest  of 
+the investors and the development and regulation of securities market, consider an application 
+for settlement of the alleged defaults referred to in sub-regulation (2). 
+(5) No application shall be considered if the investigation or inspection, if any, in respect of 
+the alleged default, is not complete. 
+(6) No application under these regulations shall be considered if a criminal complaint is filed 
+by the Board under sub-section (6) of section 11C or section 24 of the Act, or section 23 or 
+23M of the Securities Contracts (Regulation) Act, 1956 or section 20 of Depositories Act, 
+
+1996.CHAPTER IV 
+
+TERMS OF SETTLEMENT 
+
+Settlement terms.  
+6.  (1)  The  settlement  terms  shall  include  settlement  amount  or  appropriate  directions  or 
+voluntary suspension of certificate of registration or closure of business or a combination of 
+settlement amount and other such action, in accordance with the guidelines specified by the 
+Board.  
+(2) Settlement amount shall be credited to the Consolidated Fund of India: 
+ 
+to the Securities and Exchange Board of India General Fund: 
+ 
+Provided  further  that  where  illegal  gains  are  disgorged  as  part  of  the  settlement 
+amount,  such  disgorged  amounts  shall  be  credited  to  the  Investor  Protection and  Education 
+Fund of the Board. 
+
+Provided that legal costs, if any, forming part of settlement amount shall be credited 
+
+ 
+
+CHAPTER V 
+
+COMMITTEES 
+
+ 
+
+High powered advisory committee. 
+7.   (1) The Board shall constitute a high powered advisory committee for the consideration 
+and recommendation of the terms of settlement.  
+(2) The high powered advisory committee shall consist of a retired Judge of a High Court and 
+three  external  experts  having  expertise  in  the  securities  market  or  for  matters  connected 
+therewith or incidental thereto. 
+(3) The quorum of the high powered advisory committee shall be three members. 
+(4)  The  term  of  the  members  of  the  high  powered  advisory  committee  shall  be  three  years 
+which shall be extendable upto a period of two years. 
+(5) The high powered advisory committee shall conduct its meetings in the manner specified 
+by the Board in this regard. 
+ 
+ 
+ 
+
+ 
+
+5 
+
+Internal committee.  
+8.  (1)  The  Board  shall  constitute  internal  committee(s)  for  assisting  the  high  powered 
+advisory committee. 
+(2) The internal committee shall comprise an officer of the Board not below the rank of Chief 
+General Manager and one Division Chief each of the division handling the case in respective 
+operations department and lagal or enforcement department of the Board.  
+(3) The internal committee shall conduct its meetings in the manner specified by the Board in 
+this regard. 
+
+Factors to be considered to arrive at the settlement terms.   
+9.  While considering the application, the internal committee and the high powered advisory 
+committee  shall  have  due  regard  to  the  objective  of  the  securities  laws,  the  interests  of 
+investors and securities market and factors including but not limited to the following:  
+
+ 
+
+(a)  whether the alleged default is intentional;  
+(b) conduct of the applicant in the investigation and disclosures made thereof;  
+(c)  the  role  played  by  the  applicant  in  case  the  alleged  default  is  done  by  a  group  of 
+
+persons 
+
+(d) nature, gravity and impact of alleged defaults;  
+(e)  whether any other proceeding against the applicant for non-compliance of securities 
+
+laws is pending or concluded; 
+
+(f)  whether there were circumstances beyond the control of the applicant; 
+(g) whether  the  alleged  default  is  technical  and/or  minor  in  nature  and  whether  it 
+
+warrants penalty; 
+
+(h) consideration of the amount of investors’ harm/loss or applicant’s gain;  
+(i)  processes  which  have  been  introduced  since the alleged  default  to  minimize  future 
+
+defaults/lapses;  
+
+(j)  compliance schedule proposed by the applicant; 
+(k) economic benefits accruing to any person from delayed or avoided compliance;  
+(l)  conditions  which  are  necessary,  to  deter  future  non-compliance  by  the  same  or 
+
+another person; 
+
+(m) satisfaction  of  claim  of  investors  regarding  payment  of  money  due  to  them  or 
+
+delivery of securities to them;  
+
+(n) compliance of the civil enforcement action by the applicant, if he is an accused in a 
+
+prosecution launched by the Board; 
+
+(o) applicant  has  undergone  any  other  regulatory  enforcement  action  for  the  same 
+
+violation;  
+
+(p) any other factors necessary in the facts and circumstances of the case.  
+
+ 
+
+CHAPTER VI 
+
+PROCEDURE OF SETTLEMENT 
+
+Proceedings before internal committee. 
+10.  (1)  The  application(s)  shall  be  referred  to  internal  committee  for  determination  of  the 
+settlement terms. 
+(2) For the purpose of determination of the settlement terms, the internal committee may:  
+
+a.  call for relevant records pertaining to the alleged default(s) in the custody of 
+
+the applicant; 
+
+b.  permit personal appearance of the applicant in the internal committee meeting: 
+
+ 
+
+6 
+
+Provided that a duly authorized representative of the applicant may be 
+permitted to make representation on behalf of the applicant upon receipt of a 
+written request from the applicant: 
+
+Provided further that the applicant or his representative shall confirm, 
+to  the  Enforcement  department,  his  attendance  in  the  internal  committee 
+meeting atleast three days prior to the scheduled date of such meeting.   
+
+c.  permit the applicant to revise settlement terms within a period not exceeding 
+
+ten working days from the date of the internal committee meeting. 
+
+(3) The internal committee shall place its proposal including the settlement terms, if any, its 
+views on the nature, gravity and impact of the alleged default and reasons for such proposal 
+before the high powered advisory committee.  
+ 
+Proceedings before high powered advisory committee.  
+11.    (1)  The  High  Powered  Advisory  Committee  shall  consider  the  following  for  making 
+recommendations to the Board on an application placed before it by the internal committee: 
+
+(a)  undertaking and waivers of the applicant; 
+(b) factors specified in regulation 9; 
+(c)  settlement terms or revised settlement terms proposed by the applicant; 
+(d) proposal of the internal committee;  
+(e)  relevant material available on record. 
+
+(2)  Prior  to  making  a  recommendation  under  sub-regulation (3),  the high  powered  advisory 
+committee  may  ask  the  applicant  to  revise  the  settlement  amount  and  refer  the  application 
+back to the internal committee. 
+(3) The high powered advisory committee vide its proceedings shall recommend to the Board 
+that  an  application  is  fit  for  passing  a  settlement  order  upon  acceptance  of  the  settlement 
+terms or the application may be rejected. 
+ 
+Action on recommendation of high powered advisory committee.  
+12. (1) The Board may by general or special order assign a panel of two whole time members 
+of the Board to consider the recommendations of the high powered advisory committee and 
+to pass settlement orders. 
+(2)  Where  the  panel  of  whole  time  members  chooses  to  accept  the  recommendation  of  the 
+high  powered  advisory  committee  to  pass  settlement  order  in  an  application,  the  applicant 
+shall  remit  the  amount  of  money  as  per  the  settlement  terms  as  communicated  by  the 
+Enforcement Department within ten days from the date of receipt of such communication. 
+(3)  Where  the  panel  of  whole  time  members  chooses  to  accept  the  recommendation  of  the 
+high powered advisory committee to reject an application, the Enforcement Department shall 
+issue a notice of such rejection to the applicant. 
+(4)Where the panel of whole time members chooses to reject the recommendation of the high 
+powered advisory committee, the panel of whole time members may: 
+      (a)  return the application to internal committee for revision of settlement amount; 
+      (b)  direct rejection of the application as per sub-regulation (3). 
+ 
+
+CHAPTER VII 
+
+SETTLEMENT ORDERS 
+
+ 
+
+Settlement orders by the adjudicating officer and the Board.  
+13.  (1)  An  adjudicating  officer  may  pass  settlement  orders  with  respect  to  proceedings 
+initiated  for  alleged  default(s)  wherein  he  is  appointed  as  the  adjudicating  officer  under 
+section 15-I of the Act or section 23-I of the Securities Contracts (Regulation) Act, 1956 or 
+
+ 
+
+7 
+
+section  19H  of  the  Depositories  Act,  1996,    by  an  order  providing  for  the  settlement  terms 
+thereof. 
+(2)  The  panel  of  the  whole  time  members  may  pass  settlement  orders  with  respect  to 
+proceedings  initiated  or  proposed  to  be  initiated  for  alleged  default(s)  other  than  the 
+proceedings referred to in sub-regulation (1), by an order providing for the settlement terms 
+thereof.(3)  The  settlement  order  under  sub-regulations  (1)  and  (2)  shall  contain,  inter  alia, 
+details of the alleged default(s) including relevant provisions of the securities laws, facts and 
+circumstances relevant to the alleged default and the settlement terms.  
+ 
+Settlement order by the Tribunal or by any court.   
+14. Where a proceeding is pending before the Tribunal or court, settlement terms arrived at 
+by  the  Board  shall  be  placed  before  such  Tribunal  or  court  for  its  consideration  and 
+appropriate orders.  
+ 
+Service of settlement order and publication. 
+15. Settlement orders under regulation 13 shall be served on the applicant and the same shall 
+be published on the website of the Board.   
+ 
+Non-compliance of settlement order. 
+16. (1) Where the applicant fails to comply with the settlement order under regulation 13 or 
+regulation 14, the Board shall revive the proceedings with respect to which settlement order 
+had been passed.     
+(2)  An  applicant  who  fails  to  comply  with  settlement  order  shall  be  proceeded  against  in 
+accordance with the provisions of the Act or the Securities Contracts(Regulation)Act, 1956 or 
+Depositories Act, 1996.  
+ 
+
+CHAPTER VIII 
+
+MISCELLANEOUS 
+
+ 
+Power to remove difficulties. 
+17. In order to remove any difficulties in the interpretation or application of the provisions of 
+these regulations, the Board shall have the power to issue directions through guidance notes 
+or circulars. 
+
+Power to specify procedures, etc.,  and issue clarifications. 
+18.  For  the  purposes  of  implementation  of  these  regulations  and  matters  incidental  thereto, 
+the  Board  may  specify  norms,  procedures,  processes  or  manners  as  specified  in  these 
+regulations, by way of circulars or guidelines.  
+ 
+Pending Applications. 
+19. Applications pending under circulars issued by the Board dated April 20, 2007 and May 
+25,  2012  shall  be  dealt  with  in  accordance  with  the  corresponding  provisions  of  these 
+regulations. 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+8 
+
+ 
+
+SCHEDULE  
+
+(See regulation 3) 
+
+ 
+
+Part-A 
+
+FORM-A 
+
+Application for Consent  
+
+(For Office use only) 
+
+Date of receipt of the application : 
+
+Application Registration Number : 
+
+(Instructions: All the particulars must be filled. Enclosures indicated as “*” are mandatory. 
+Put ‘NA’ wherever necessary.) 
+
+Before the Securities and Exchange Board of India 
+
+In the matter of ………………………….. 
+
+1. Name/Trade name of the applicant: 
+
+(a) Registration no., if applicable :  
+(b) Date of Registration, if applicable :  
+
+2. If stock broker, name of the stock exchange: 
+
+3. If sub-broker, name of stock broker with whom affiliated and name of the stock 
+
+exchange: 
+
+4. Name of the segment (Cash/derivative etc.): 
+
+5. Form of organization: corporate body/ sole proprietorship / partnership / LLP/ financial 
+
+institution (if listed co., details of listing) :  
+
+6. Names of promoters/directors/proprietors/partners: 
+
+7. Key management personnel(s) : 
+
+8. Address/correspondence address, contact no./fax no. and email(any changes in 
+
+aforesaid details shall be communicated to the Board promptly): 
+
+9. Name and contact details (including e-mail) of the contact person (s): 
+
+10. Other registration(s) with the Board, if applicable : 
+
+(a) Trade name : 
+(b) Registration type : 
+(c) Registration no. : 
+
+ 
+
+9 
+
+     11. Case(s) pending with the Board/SAT/Court (Pl. specify) : 
+
+     12. Case(s) pending under 11B/Adjudication/Enquiry/others (pl. specify): 
+
+     13. Stage at which pending: 
+
+     14. Last order in the pending proceedings (gist of the orders passed), if any : 
+
+     15. Other actions pending/taken by the Board, if any (with their status) 
+
+(a) Against the applicant 
+(b) Against its associates 
+(c) Against its key management personnel(s) : 
+(d) Against its other promoters/directors; 
+(e) Other details, if any: 
+
+ : 
+ : 
+
+ 
+
+  16. Date of show cause notice/summons/communication indicating probable cause of action, 
+
+if any, against which the settlement is sought (PLEASE ENCLOSE COPIES)*:  
+
+  17. Facts of the case, in brief: 
+
+  18. Specific charges alleged: 
+
+  19. Terms of settlement: 
+
+  20. Original documents to be enclosed:  
+
+(a) Undertakings* (as per enclosed Format). 
+(b) Authority letter/Board resolution*. 
+
+ 
+
+ 21. List of other enclosures:  
+
+(a)  A  copy  of  the  notice  to  show  cause/summons/communication/other  notices 
+indicating the probable cause of action, if any, against which the settlement is sought;  
+(b) Complete Annual Reports/ Income-tax Returns (of the applicant) / other financial 
+details for the last three  financial years and the current year*;  
+(c) In the case of brokers/sub-brokers/Mutual Funds/Venture Capital Fund/Merchant  
+Bankers/Portfolio  Managers  etc,  the  applicant  must  enclose  details  of  brokerage 
+earned/ 
+fee received during the period of default*;  
+(d) A statement showing net worth of the applicant, gross annual income before tax, 
+the    amount  of  gross  profit  made/loss  avoided,  including  the  gross  brokerage,  fees,  
+management/performance/transaction  fee,  carried  interest,  compensation,  etc,  earned 
+by  it    in  respect  of  the  said  default  (only  for  applicants  who  are  required  to  comply 
+with the networth requirements as specified by the Board or by the stock exchanges);  
+(e)Copy of PAN*;  
+(f) Any other relevant document (s)/submissions. 
+
+ (Signature of the applicant) 
+
+ 
+
+10 
+
+Verification 
+
+(Stamp/Seal) 
+
+I, ………………………………………………son/daughter/wife of (Name in block letters) 
+
+Shri  …………………………………..being  the  applicant/authorised  representative  (in  case 
+of corporate entity) of ……………………. do hereby verify and affirm on oath that I have 
+been authorised by  …………to  make this  application  and  the  contents  of paras  1  to  21  are 
+true to my personal knowledge and belief and that I have not suppressed any material facts. 
+
+(Signature of the applicant) 
+
+Date: 
+Place :  
+
+Part-B 
+
+Every  applicant  shall  pay  fees  of  five  thousand  rupees  by  a  demand  draft  in  favour  of 
+'Securities and Exchange Board of India" payable at Mumbai. 
+
+Part-C 
+
+Undertakings and Waivers  
+
+Format of Undertaking 
+
+Undertaking to be submitted alongwith the application on Rs. 200/- non-judicial stamp 
+paper-duly notarized. 
+
+Undertakings/Waivers: 
+
+I/We,  …………………,  the  applicant(s)  herein,  as  a  condition  for  making  the  enclosed 
+application to the Board for passing of appropriate settlement order, hereby declare that I/we 
+agree and undertake that: 
+
+1.  Securities  and  Exchange  Board  of  India  (SEBI)  may  enforce  any  claims  against  me/us 
+arising  from  or  relating  to  any  violation  of  the  settlement  order  passed pursuant  to  this 
+application. 
+
+2.  Nothing  in  this  settlement  order  shall  preclude  any  investor  from  pursuing  any  other 
+
+legal remedy to which the investor may be entitled against me/us. 
+
+3.  The  amount  of  settlement  including  settlement  charges/legal  expenses,  if  any,  shall  be 
+
+paid by me/us to the Board within the period as may be specified. 
+
+ 
+
+11 
+
+4.  If  I/we  fail  to  comply  with  the  settlement  order,  the  Board  may  vacate  the  settlement 
+order  at  its  sole  discretion,  after  giving  fifteen  days  notice  in  this  regard  without 
+opportunity for any hearing.  
+
+5.  For any person or entity not a party to these proceedings, Securities and Exchange Board 
+of  India  (Settlement  of  Administrative  and  Civil  Proceedings)  Regulations,  2013  does 
+not limit or create any private rights or remedies against me/us.  
+
+6.  The Order and any dispute related thereto shall be construed and enforced in accordance, 
+
+and governed by, the relevant laws: 
+
+Provided, however, that the Board may enforce any claims against me/us arising from or 
+relating to any violation of the settlement order as contained herein. 
+
+7.  The  settlement  order  passed  pursuant  to  this  application  shall  conclude  any/all 
+disciplinary action  the Board could bring against me/us for the conduct (cause of action) 
+set forth in this application.  
+
+8.  I/We  agree  that  once  the  settlement  order  is  passed  in  terms  of  the  settlement  terms 
+accepted by me, I/We shall not take any action or make or permit to be made any public 
+statement denying, directly or indirectly, any finding recorded in the settlement order or 
+creating the impression that the order is without factual basis. Nothing in this paragraph 
+however  affects  my/our  (i)  testimonial  obligations  or  (ii)  right  to  take  legal  or  factual 
+positions  in  defence  of  litigation  or  in  defence  of  a  claim  or  other  legal  proceeding  in 
+which the the Board is not a party. 
+
+9.  I/We admit the jurisdiction of the Board on the alleged default. 
+10. I/We neither admit nor deny the findings of fact and conclusions of law to be part of the 
+settlement order, and consent to enter into the settlement order as may be passed by the 
+Board/adjudicating officer as settlement of the proceedings contained in this application, 
+in lines with the settlement terms agreed by me/us. 
+
+11. I/We  understand  that  the  Board  may  issue  a  press  release  or  any  other  mode  of 
+communiqué  for  public  information  about  the  settlement  order  passed  in  these 
+proceedings or the rejection of the application and the subject matter thereof as the Board 
+may deem appropriate. 
+
+Further,  
+
+I/We shall waive my/our right of taking any legal proceedings against the Board concerning 
+any of the issues covered by the settlement order, as more particularly setout herein : 
+
+12. All hearings pursuant to the statutory provisions under which the proceeding is to be or 
+
+has been instituted; 
+
+13. The filing of proposed findings of fact and conclusions of law; 
+14. Proceedings before S or any officer; 
+15. All post-hearing procedures; and 
+16. Appeal/review before/by Tribunal/ courts. 
+17. Applicability of such provisions of the regulations or other requirements of law as may 
+be construed to prevent any officer of the Board from participating in the preparation of, 
+or  advising  the  competent  authority  as  to,  any  order,  opinion,  finding  of  fact,  or 
+conclusion of law to be entered pursuant to the application;  
+
+18. Any  right  to  claim  bias  or  prejudgment  by  the  Board  based  on  the  consideration  of  or 
+
+discussions concerning settlement of all or any part of the internal proceedings; 
+
+ 
+
+12 
+
+19. Any  plea  of  limitation  for  reopening  the  case,  if  I/we  violate/do  not  comply  with  the 
+settlement  order  subsequently, and  the  Board  shall  be free  to  take any  action  including 
+initiation of adjudication / prosecution proceedings against me/us for such violation/non-
+compliance of the settlement order. 
+
+20. Any  plea  of  limitation  for  restarting  the  case  if  the  matter  is  not  settled  by  passing  of 
+settlement order by the Board or adjudicating officer. I further undertake that in such a 
+case, the time spent during the settlement proceedings shall be excluded for computing 
+the limitation for initiating any legal proceedings against me/us.  
+
+(Signature of the applicant with stamp/seal) 
+
+before me.  
+
+ 
+
+Notary. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+13 
+
+

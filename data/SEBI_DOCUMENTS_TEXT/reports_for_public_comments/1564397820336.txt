@@ -1,0 +1,2705 @@
+ 
+
+SEBI seeks public comments on Report submitted by the 
+working group on Issues related to Proxy Advisers (PA) 
+
+1.  Background: 
+
+ 
+
+(i)  Proxy adviser is a person who provides advice to institutional investors or shareholder 
+of  a  company,  in  relation  to  exercise  of  their  rights  in  the  company  including 
+recommendations on public offer or voting recommendation on agenda items. 
+ 
+
+(ii)  SEBI regulates the activities of proxy advisors in India under SEBI (Research Analyst) 
+Regulations, 2014. Under these regulations, such entities are required to register with 
+SEBI and comply with the provisions pertaining to formation of internal policies and 
+procedures, disclosures in the reports, code of conduct, maintaining record of voting 
+recommendations etc. 
+ 
+
+(iii)  SEBI  had  formed  a  Working  Group  with  respect  to  Issues  of  Proxy  Advisors  in 
+
+November 2018. The terms of reference for the working group were as under:  
+
+a. To review the provisions pertaining to proxy advisors in SEBI (Research Analysts)   
+
+Regulations, 2014; 
+
+ b.  To  review  the  functional  areas  including  the  rights  and  obligations  of  proxy 
+
+advisors. 
+
+c.   Any other item relevant to proxy advisory industry including framework for dispute 
+
+resolution between corporates and proxy advisors. 
+
+The  working  group  has submitted  a  report to  SEBI,  providing  recommendations  on 
+various aspects of proxy adviser and also suggested that SEBI may like to obtain public 
+comments  on  the  substantive  matters  stated  in  the  report  before  any  regulatory 
+review is undertaken.  
+
+(iv) In addition to the recommendations of the working group on regulating foreign proxy 
+advisors,  as  stated  at  para  83  of  the  report,  it  is  also  proposed  that  institutional 
+investors like Foreign Portfolio Investors, Portfolio Managers, Alternative Investment 
+Funds, Real Estate Investment Trusts, and Infrastructure Investment Trusts etc. may 
+be mandated to ensure that proxy advisory firms employed by them (if any) should 
+have appropriate capacity & capability to issue proxy advice and such firm is complying 
+with code of conduct for proxy advisers as specified by SEBI. 
+ 
+
+ 
+2.  Public Comments: 
+ 
+
+Public comments are invited on the proposals contained in the report and para 1 (iv) above, 
+in the following format: 
+
+Name of entity/person/intermediary/organization: 
+Sr. No. 
+ 
+Comments/  suggestions  may  be  forwarded  by  email  to  naveens@sebi.gov.in  and 
+taruns@sebi.gov.in latest by August 18, 2019. 
+
+Comments/Suggestions  Rationale 
+ 
+
+Recommendation para 
+e.g.15, 18 etc. 
+
+ 
+
+ 
+
+ 
+General Manager  
+Division of Funds 1 
+Investment Management Department 
+Securities and Exchange Board of India  
+SEBI Bhavan, Plot No. C4-A, “G” Block, Bandra Kurla Complex 
+Bandra (East), Mumbai -400 051 
+ 
+
+Issued on: July 29, 2019 
+
+ 
+
+1. 
+
+2. 
+
+ 
+
+ 
+
+ 
+
+WORKING GROUP’S 
+
+REPORT ON ISSUES CONCERNING 
+
+PROXY ADVISORS 
+
+MAY, 2019 
+
+ 
+
+1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACKOWLEDGMENTS 
+
+The Committee expresses its gratitude to Ms. Madhabi Puri Buch, Mr. SV Muralidhar 
+
+Rao, Mr. B N Sahoo, Mr. Naveen Sharma, and Mr. Tarun Sapahia, from SEBI. Special 
+
+thanks are due to Mr Raghuvamsi Meka, Associate Finsec Law Advisors. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS 
+
+I. 
+
+Introduction .................................................................................................................................... 6 
+
+II.  Conflict of Interest, Governance and Disclosures ........................................................................... 7 
+
+III. 
+
+IV. 
+
+Infrastructure and Skills requirement ....................................................................................... 18 
+
+Voting, Fiduciary-duty and information sharing ....................................................................... 19 
+
+V. 
+
+Interaction with Corporates .......................................................................................................... 24 
+
+VI. 
+
+VII. 
+
+Setting basic industry standards ............................................................................................... 28 
+
+Cost & Competition ................................................................................................................... 33 
+
+VIII. 
+
+Additional points ....................................................................................................................... 33 
+
+IX. 
+
+Conclusion and summary .......................................................................................................... 35 
+
+ 
+
+ 
+
+ 
+
+5 
+
+ 
+
+ 
+
+I. 
+
+INTRODUCTION 
+
+1. 
+
+The term “proxy” may bring up memories of college days where a student filled in the 
+
+attendance of an absent student and sometimes took notes on his behalf. Proxy advisors 
+
+in the financial world are a relatively recent addition, commenting on the workings of 
+
+public companies, sometimes sharing notes and opinions and sometimes even standing 
+
+in for shareholders in shareholder meetings, even if virtually. More specifically, they are 
+
+entities which research and give opinions to investors, generally institutional investors, 
+
+on  how  to  vote  in  shareholder  meetings.  Proxy  advisors  typically  bring  out  publicly 
+
+disclosed standards an ideal company should follow, often exceeding the standards laid 
+
+down by law.  Internationally, proxy advisors have become  quite persuasive, and large 
+
+and institutional investors have become reliant on their research. They have also caused 
+
+some concern amongst regulators and corporates. The former because their research can 
+
+have  an  impact  on  companies’  workings,  and  may  pose  conflict  of  interest  in  certain 
+
+circumstances.  The  latter  because  their  opinions  are  often  the  cause  of  proposals  of 
+
+dominant shareholders or management being defeated.  
+
+a.  Emergence of Proxy Advisors 
+
+2. 
+
+In  the  United  States,  proxy  advisors  emerged  as  a  result  of  expectations  of  the  US 
+
+Securities and Exchange Commission  (“SEC”)  from investors to  exercise their voting 
+
+rights.  The  establishment  of  Indian  proxy  advisors  also  approximately  coincided  with 
+
+Indian  regulatory  requirements  seeking  disclosures  by  Indian  mutual  funds  on  their 
+
+voting records and stance. Similar developments  have been seen in  a few other major 
+
+markets: the UK, Australia, Korea, and France. 
+
+b.  Regulation of Proxy Advisors 
+
+3. 
+
+In  almost  every  country,  proxy  advisors  are  not  regulated.  India  is  one  of  the  few 
+
+countries  where  they  are  registered  and  regulated.  SEBI  (Research  Analysts) 
+
+Regulations,  2014  (“RA  Regulations”)  require  registration  and  provide  a  regulatory 
+
+conduct framework similar to that adopted for research analysts. This Working Group on 
+
+Proxy Advisors seeks to review the regulatory framework and suggest any changes based 
+
+on the past five years of operation of these new entities. The cross-border impact of proxy 
+
+advisors  also  raises  the  question  of  whether  international  proxy  advisors  should  be 
+
+registered and/or regulated by SEBI. 
+
+ 
+
+6 
+
+ 
+
+c. 
+
+4. 
+
+A heterogenous mix 
+
+The Working Group is aware that proxy advisors have varying business models. Even 
+
+within India, each of the three proxy advisors have very different models. They are also 
+
+quite lean in earnings/business volume. The two large international proxy advisors are 
+
+somewhat similar, but they also have materially different business models and differing 
+
+approaches to being registered. Because of the differing business models, the Working 
+
+Group is sensitive to the introduction of new regulations which may harshly impact one 
+
+proxy  advisor,  but  may  have  no  material  impact  on  the  others.  This  would  reduce 
+
+competition  and  harm  investor  interest,  and  the  Working  Group  has  tried  to  remain 
+
+agnostic to business models. 
+
+d.  Approach of this paper 
+
+5. 
+
+The Working Group has sought  comments  from  select  persons,  including  institutional 
+
+investors, experts, proxy advisors and corporates. The comments received weave a rich 
+
+tapestry of opinion and we have tried to bring out the multiple viewpoints which have 
+
+emerged, followed by the Working Group’s view on each issue.  
+
+e.  Global regulatory approach 
+
+6.  We understand that India stands apart in the world as possibly the only country which 
+
+clearly and explicitly registers all domestic proxy advisors. We have thus been cognizant 
+
+of  the  light  touch  approach  taken  by  global  regulators  in  regulating  proxy  advisors. 
+
+Similarly, we understand that one of the two large global proxy advisors has chosen to 
+
+register with  SEBI.  In the US,  three of the five proxy advisors are registered with  the 
+
+SEC under the Investment Advisors Act, 1940. 
+
+   
+
+II. 
+
+CONFLICT OF INTEREST, GOVERNANCE AND DISCLOSURES  
+
+a.  What  has  been  the  impact  of  proxy  advisors  on  corporate  governance  and 
+
+compliance? 
+
+7.  Nature of Impact: Mostly Positive 
+
+a. 
+
+Benefits  to  institutional  investors:  Institutional  investors’  managers  have  a 
+
+fiduciary  responsibility  to  vote  in  a  manner  that  is  in  the  best  interests  of  their 
+
+beneficiaries. It is an important and monumental task that happens during a very 
+
+compressed timeframe, as shareholder meetings happen based on the calendar set 
+
+ 
+
+7 
+
+ 
+
+ 
+
+by corporate law. Thus, proxy advisors help investors vote intelligently, especially 
+
+when there is a time crunch to read and analyse a lot of data.  
+
+b. 
+
+Benefits  to  global  investors:  It  is  not  always  easy  for  global  investors  to  have  a 
+
+complete understanding of all local market practices, across what may be highly 
+
+diversified  global investment  portfolios. Proxy advisors prepare research reports 
+
+that help global investors receive informed analyses and recommendations, taking 
+
+into account local as well as global good practice principles. 
+
+c. 
+
+Efficiencies  of  scale  and  non-duplication  of  effort:  Instead  of  thousands  of 
+
+institutional  investors  doing  the  same  primary  research,  there  are  efficiencies  of 
+
+scale if a handful of proxy advisors conduct the same and pass on the benefit of 
+
+costs  and  specialization  to  the  investors.  As  proxy  advisors  review  hundreds  of 
+
+companies  across  sectors,  they  are  also  able  to  provide  a  bird’s  eye  view  and  a 
+
+deeper dive into the companies being researched.  
+
+d. 
+
+Benefits to small investors: Many investors do not have the necessary resources or 
+
+time  to  follow  and  closely  analyze  all  shareholder  meeting  announcements  and 
+
+have access to all published materials on shareholder meetings, often published in 
+
+local  languages  and/or  at  short  notice.  Proxy  advisors  serve  as  “information-
+
+gatherers”  for  them,  providing  full  access  to  all  relevant  company  meeting 
+
+materials  and  disclosed  information,  as  well  as  voting  recommendations.  Many 
+
+proxy advisors do not share the detailed rationale which is reserved for their paid 
+
+institutional  investors,  while  providing  free  recommendation  to  all  investors 
+
+without charge. 
+
+e. 
+
+Better public disclosure by companies: Broadly, proxy advisors keep clients up to 
+
+date  with  corporate  governance  developments,  offering  specialist  insight.  Proxy 
+
+advisors  have  increased  shareholder  activism  and  pushed  companies  to  adopt 
+
+higher level of disclosures. It has led to higher rates of compliance with corporate 
+
+governance  codes  and  standards.  Additionally,  they  encourage  companies  to 
+
+improve  the  disclosure  of  relevant  information,  increase  issuer  and  market 
+
+awareness  of  local  and  global  best  practices  and  contribute  to  improvements  in 
+
+corporate governance in specific and governance in general. We also understand 
+
+that  some  proxy  advisors  refuse  to  accept  information  bi-laterally  from  the 
+
+companies,  a  process  which  in  fact  forces  companies  to  communicate  with  all 
+
+shareholders  without  any  preferential  treatment,  and  also  forces  companies  to 
+
+communicate in plain English rather than in financial/legal jargon. 
+
+8 
+
+ 
+
+f. 
+
+Legal  to  English  translation:  Proxy  advisors  collect  and  translate  key  materials, 
+
+translating legal and accounting jargon into plain English, and provide a consistent 
+
+structure of relevant information across all companies in all markets. This allows 
+
+shareholders to have a better understanding of the companies in which they invest 
+
+in,  resulting  in  a  positive  impact  to  the  relationship  the  company  has  with  its 
+
+shareholders.  Earlier  companies  considered  obtaining  shareholders’  approval  a 
+
+mere procedural formality, however they are now wary of the fact  that there are 
+
+entities  scrutinizing  their  resolutions,  particularly  with  the  interests  of  minority 
+
+shareholders  in  mind.  Companies  now  take  additional  care  in  drafting  their 
+
+resolutions,  though a lot of improvement in  this  regard is  yet  to  be  achieved.  In 
+
+some cases, consequent to the reports of the proxy advisors, the companies have 
+
+had to withdraw / amend resolutions put forth to the shareholders for approval due 
+
+to concerns raised by proxy advisors. In fact, some of the benefits of proxy advisors 
+
+may be invisible, as people would have altered their actions to escape the critical 
+
+analysis of proxy advisors. So, a person sitting on too many boards may opt to give 
+
+up  her  board  seat  by  withdrawing  from  the  slate  of  directors  up  for  election.  In 
+
+other words the impact of possible proxy advisor’s recommendation would have 
+
+altered behaviour even though no one will notice the impact.  
+
+8.  However,  while  academic  studies  have  shown  that  some  of  the  high-profile  defeat  of 
+
+resolutions have not been primarily caused by the recommendations of proxy advisors, 
+
+proxy advisors can certainly tip the scales in many cases.  
+
+9.  Downsides 
+
+a. 
+
+Excessive  delegation  and  alien  standards:  Many  international  institutional 
+
+investors have outsourced their voting to their custodian with directions given to 
+
+them to vote in the pattern as recommended by select proxy advisory firms. This, 
+
+goes  the  argument,  leads  to  robo-voting  without  application  of  mind.  Similarly, 
+
+companies have sometimes asserted, that the pre-occupation with pleasing proxy 
+
+advisors, leads some companies to adopt policies that may not be in their own long 
+
+term  best  interest.  There  are  also  concerns  that  international  proxy  advisors 
+
+‘import’  standards  from  foreign  markets  with  very  different  characteristics,  and 
+
+apply a one-rule-fits-all-countries approach. 
+
+b. 
+
+Traveling beyond the prescription of the law: Secondly, it is argued that when the 
+
+law asserts  a standard, proxy  advisors setting a higher standard is  inappropriate. 
+
+ 
+
+9 
+
+ 
+
+For instance, if the Companies Act, 2013, allows a director to hold directorship in 
+
+10 companies, the proxy firms which have their own ceiling, of say 7 directorships, 
+
+without referring to the experience, nature and standing of such person, would be 
+
+inappropriate.  
+
+c. 
+
+Auto-correct doesn’t work well: The final ‘charge’ is that proxy advisors are not 
+
+receptive  to  factual  errors  being  corrected,  thus  causing  outcomes  not  based  on 
+
+facts. While there have been arguments that proxy advisors are not open to factual 
+
+corrections,  we  found  factual  errors  both  rare  and  non-contentious.  The  most 
+
+contentious issues where a company strongly dis-agreed with a recommendation is 
+
+almost always an opinion formed by the proxy advisor. 
+
+Working Group’s recommendation 
+
+10.  The  Working  Group  observes  that  the  overwhelming  evidence  supports  the  positive 
+
+impact of proxy advisors. The criticisms of the workings are issues which can easily be 
+
+resolved through market forces and are part of the evolution of both proxy advisors and 
+
+investors.  
+
+b.  How to ensure independence of proxy advisors?  
+
+11. 
+
+Independence is an important aspect of proxy advisors’ credentials, not too different in 
+
+spirit from independence expected of equity research providers, audit firms, credit rating 
+
+agencies,  among  others.  However,  it  should  be  mentioned  that  the  level  of  conflict  is 
+
+substantially  lower  than  other  intermediaries  like  auditors  and  credit  rating  agencies, 
+
+where  the  company  being  scrutinised  is  itself  paying  the  intermediary.  In  the  case  of 
+
+proxy  advisors,  they  are  paid  primarily  by  institutional  investors  to  scrutinise  the 
+
+workings of companies. There are however multiple areas where proxy advisors may be 
+
+conflicted or become dependent upon sources of capital or income, which may impact 
+
+the  appearance  of  or  actual  independence.  The  three  key  areas  of  conflict  are:  i) 
+
+shareholding  in  the  proxy  advisor  by  a  listed  company  or  a  group  which  has  listed 
+
+companies;  ii)  consulting  assignments  provided  to  companies  who  may  in  turn  be 
+
+scrutinised  in  the  next  shareholder  meeting;  iii)  any  other  source  of  revenue  or 
+
+relationship (for instance inter-locking board positions) which poses a real or apparent 
+
+conflict of interest.   
+
+ 
+
+10 
+
+ 
+
+12. 
+
+In  order  to  ensure  that  a  proxy  advisor’s  voting  recommendations  and  analysis  are 
+
+disinterested, and also  carry the appearance of  disinterest,  proxy advisors should have 
+
+policies and procedures in place with respect to: 
+
+a.  Managing  and  disclosing  conflicts  of  interests:  Proxy  advisors  should  have  a 
+
+publicly  available  conflict  of  interest  policy  and  a  clear  approach  to  manage 
+
+concerns relating to their independence/other risks that may affect reports provided 
+
+to clients. Communicating their policies and procedures would enable the clients 
+
+to have enough information to evaluate sufficiency of the controls. Any material 
+
+conflicts should be clearly stated on individual research reports too. Similarly, any 
+
+press  statement  by  the  proxy  advisor  on  such  companies  should  also  have  a 
+
+disclaimer.  Proxy  advisors  should  disclose  their  policy  on  engagement  with 
+
+companies. The disclosure should also indicate the kind of circumstances in which 
+
+the proxy advisor would consider participating in the engagement.  
+
+b. 
+
+c. 
+
+d. 
+
+e. 
+
+Business Model: Disclosures regarding the business model should be made public. 
+
+Separate legal entities/units and Chinese Walls: There should be a clear separation 
+
+between  the  proxy  voting  advice  to  shareholders  and  the  advice  to  the  (listed) 
+
+companies  regarding  advisory  services  and  indices  and  governance  engagement 
+
+services.  The  entity/business  unit  providing  services  to  investors/shareholders 
+
+should be different from the one providing advisory services to a corporate client. 
+
+Wherever such services are provided there should be a clear public disclosure.  
+
+Just say no: Codes that determine when not to provide a voting recommendation. 
+
+Equity  Ownership:  Ensuring  compliance  with  the  rules  of  equity  ownership 
+
+applicable to research analysts. 
+
+f. 
+
+Board  Independence:  Board  of  proxy  advisors  should  be  independent  of  its 
+
+shareholders,  where  such  a  position  creates  a  serious  conflict  of  interest,  real  or 
+
+apparent.  
+
+g.  Methodology:  Disclosing  the  methodologies  and  processes  they  use  in  the 
+
+development  of  their  research  and  recommendations  –  in  essence  providing 
+
+justifications to their recommendations. It should include: i. the general approach 
+
+that  leads  to  the  generation  of  research;  ii.  the  information  sources  used;  iii.  the 
+
+extent to which local conditions and customs are taken into account; iv. the extent 
+
+to which custom or house voting policies or guidelines may be applied; and, v. the 
+
+systems  and  controls  deployed  to  reasonably  ensure  the  reliability  of  the  use  of 
+
+ 
+
+11 
+
+ 
+
+information  in  the  research  process,  and  the  limitations  thereof.  Further,  the 
+
+institutional/listed shareholders should be excluded from any involvement in the 
+
+preparation of the voting guidelines or recommendation reports. 
+
+h.  Communication: Proxy advisors should set parameters around the communications 
+
+they have with companies and other stakeholders. Further, proxy advisors should 
+
+have  and  disclose  their  policies  for  managing  and  responding  to  complaints, 
+
+comments or feedback about their services. In particular, where clear errors can be 
+
+identified,  as  opposed  to  differing  views/opinions,  there  needs  to  be  a  feedback 
+
+mechanism which is able to correct such clear mistakes.  
+
+13.  Restriction  on  services:  There  is  an  opinion  that  proxy  advisory  firms  should  not  be 
+
+offering any other remunerative services, including advisory services on the governance 
+
+structure, drafting of resolutions, explanatory statements, etc. and should only give voting 
+
+recommendations.  Further,  proxy  advisory  firms,  it  is  argued,  should  refrain  from 
+
+recommending on any corporates where they or their substantial shareholders directly or 
+
+indirectly  hold  more  than  certain  percentage  of  share  capital  including  network 
+
+companies.  
+
+14.  Call for a flexible approach: The other view is that each proxy advisory firm should have 
+
+the flexibility to  determine the way its specific actual or potential conflicts  of interest 
+
+should  be  handled.  Public  dissemination  of  a  firm’s  policies  and  procedures  around 
+
+conflict mitigation and management should provide all interested parties with sufficient 
+
+information  to  assess  the  adequacy  of  those  policies/procedures,  enabling  them  to 
+
+determine whether a firm can provide impartial proxy research and other services without 
+
+necessarily requiring a case-by-case evaluation of each potential conflict. This flexible 
+
+approach  is  consistent  with  how  U.S.-based  investment  advisers,  such  as  Institutional 
+
+Shareholder Services (“ISS”), is regulated by the SEC. The Investment Advisers Act of 
+
+1940 
+
+(“Advisers  Act”)  requires 
+
+registered 
+
+investment  advisers 
+
+to  establish 
+
+comprehensive compliance programs, including the implementation and enforcement of 
+
+written  policies  and  procedures  reasonably  designed  to  prevent,  detect  and  correct 
+
+violations  of  the  Advisers  Act.  This  obligation  includes  the  identification  of  potential 
+
+conflicts of interest related to the proxy adviser’s operations and the adoption of controls 
+
+reasonably designed to manage those risks. This approach enables each registered entity 
+
+to  tailor  its  compliance  program  to  the  regulatory  and  business  risks  posed  by  its 
+
+particular business activities. The issue is discussed in more detail below. 
+
+ 
+
+12 
+
+ 
+
+Working Group’s recommendation  
+
+15.  The  Working  Group  recommends  that  a  flexible  approach  is  the  better  one  where 
+
+adequate  disclosures  and  clear  methodologies  are  followed.  In  addition,  the  Working 
+
+Group believes that the disclosures stated in para 12 above should be implemented.  
+
+c. 
+
+Should  proxy  advisors  or  their  associates  be  allowed  to  earn  revenue  from  their 
+
+subsidiary companies through business consultancy, database services, etc.? 
+
+View 1 
+
+16.  Provision  of  consulting  services  affects  their  independence  and  creates  a  problematic 
+
+conflict of interest that goes against the very governance principles the proxy advisors 
+
+advocate.  By  not  providing  consulting  services  to  the  subjects  of  their  reports,  proxy 
+
+advisors  ensure  that  they  have  no  financial  incentive  to  develop  policies  or  issue 
+
+recommendations that make companies feel they need to pay for consulting services in 
+
+order to achieve a favourable outcome.  
+
+View 2 
+
+17. 
+
+It is neither appropriate nor necessary to prohibit proxy advisors or their associates from 
+
+earning  revenue  from  ancillary  business  activities.  The  key  objective  of  the  proxy 
+
+advisors is to support investors in the exercise of their share ownership (voting) rights. 
+
+Most of the services provided seek to achieve the same goal as that of the main line of 
+
+work of the proxy advisors. For instance, if a company were to approach a proxy advisor 
+
+seeking their view on how they can improve governance standards, and the company is 
+
+willing to improve various areas of its current management, the ancillary business would 
+
+support the investors’ interest rather than detract from it. A barring of ancillary services 
+
+may do more harm than good. If the consulting services in fact help a company to provide 
+
+better governance, any substantive restriction on such services would mean that the good 
+
+becomes the enemy of the better.  
+
+Working Group’s recommendation 
+
+18.  The key is to make sure that the proxy advisor takes appropriate steps to manage, mitigate 
+
+and/or disclose any potential conflicts of interest resulting from those ancillary business 
+
+activities.  There  should  be  ‘Chinese  Walls’  between  proxy  advisory  firms  and  their 
+
+consultancy firms. There should be clear procedures to disclose and handle conflicts of 
+
+interest. There should be disclosures regarding the provision of other services through 
+
+ 
+
+13 
+
+ 
+
+subsidiaries,  divisions  or  associates,  and  the  total  income  earned  by  providing  such 
+
+services where it exceeds a certain percentage, say 10%, of the revenues. 
+
+d. 
+
+Should  proxy  advisors  be  allowed  to  provide  recommendations  on  resolutions  of 
+
+companies that are promoters/major shareholders of proxy advisors, or of companies 
+
+whose promoters have partnerships with promoters of proxy advisors? 
+
+View 1 
+
+19.  There should be an absolute prohibition on making recommendations on resolutions of 
+
+companies  where  there  is  any  connection  with  shareholders/promoters  of  the  proxy 
+
+advisory  firm.  Proxy  advisory  firms  should  refrain  from  recommending  on  any 
+
+corporates where they directly or indirectly hold more than a certain percentage of the 
+
+share capital, including network companies of the proxy advisor, or on any corporates 
+
+which are the promoters/shareholders of the proxy advisors. They should not be allowed 
+
+to provide recommendations in such cases. The independence of the voting advice must 
+
+be paramount. It may also happen that proxy advisors, by virtue of such association, may 
+
+have  some  additional  vital  information  which  otherwise  is  not  available  in  the  public 
+
+domain leading to information asymmetry. 
+
+View 2  
+
+20.  A  more  disclosure  based  approach  be  taken,  where  the  proxy  advisor  has  policies  in 
+
+place,  makes  necessary  disclosures  and  takes  appropriate  steps  to  mitigate  conflict  of 
+
+interest.  
+
+Working Group’s recommendation  
+
+21.  The  proxy  advisors  should  be  allowed  to  provide  aforesaid  recommendations  if  the 
+
+relationship  is  fully  disclosed  and  all  conflicts  of  interest  are  detailed.  The 
+
+recommendation should be aligned to their standard policy and approach/ consistent with 
+
+their  stated  methodologies.  The  key  in  dealing  with  any  potential  issues  relating  to 
+
+promoters/major  shareholders,  is  to  take  appropriate  steps  to  manage,  mitigate  and/or 
+
+disclose  any  potential  issues  and  not  impose  any  absolute  prohibitions  on  such 
+
+recommendations. Where there is a conflict, the institutional investors will automatically 
+
+take that recommendation with a pinch of salt. Further regulation may be unnecessary. 
+
+ 
+
+14 
+
+ 
+
+e.  What should be the nature and placement of disclosures by proxy advisors? Whether 
+
+a generic disclaimer on their website is sufficient, or whether it should appear at every 
+
+place they comment on such companies and their affiliates? 
+
+View 1  
+
+22.  There is a view that each proxy advisory firm should have the flexibility to determine the 
+
+manner  in  which  specific  actual  or  potential  conflicts  of  interest  should  be  handled, 
+
+including  the  types  of  disclosures  made  and  the  way  those  disclosures  are  provided. 
+
+Mandated disclosure of  specific actual  or potential conflicts  could  serve to  undermine 
+
+the intent of a proxy firm’s overarching policies. It should be the responsibility of the 
+
+institutional  investor,  prior  to  appointing  a  proxy  advisor,  to  undertake  adequate  due 
+
+diligence to ensure that they are comfortable with the content of the disclosures and the 
+
+processes that are described. 
+
+View 2  
+
+23.  Generic disclaimers on the website are of limited practical value and would not meet the 
+
+spirit/  intent  of  full  and  honest  disclosure.  It  is  believed  that  enhanced  disclosure  is 
+
+necessary.  Therefore,  while  generic  disclosures  may  be  placed  on  the  websites  of  the 
+
+proxy  advisory  firms,  disclosures  regarding  conflicts  of  interest  should  appear 
+
+prominently in the respective companies’ voting recommendations. Further, a summary 
+
+of any major conflicts of interest and the relevant policy could be provided to new clients 
+
+when initially contracting with a vendor. The disclosures should appear on every specific 
+
+document  where  they  are  giving  their  advice.  Disclosures  should  especially  address 
+
+possible areas of potential conflict, and also the safeguards that have been put in place. 
+
+Glass Lewis, a US based proxy advisor, states that it has a compliance committee that 
+
+meets  quarterly  to  discuss  any  new  potential  conflicts  of  interest  that  have  arisen  and 
+
+need to be addressed and communicated to clients.  
+
+Working Group’s recommendation 
+
+24.  The Working Group’s recommends for implementing an enhanced standard of disclosure 
+
+and not merely some boilerplate on the website of the proxy advisors as detailed in the 
+
+previous para. 
+
+f. 
+
+Should  there be a comprehensive code or  minimum standards  of conduct  for proxy 
+
+advisory firms mandating them to disclose rationale for their voting recommendation: 
+
+ 
+
+15 
+
+ 
+
+Working Group’s recommendations are singular and as follows: 
+
+Reasons for recommendation 
+
+25.  Requiring  a  proxy  advisor  to  disclose  the  reasons  for  recommendations  may  be 
+
+burdensome.  The  detailed  rationale  is  usually  the  primary  bread  winner  for  the  proxy 
+
+advisor and mandating it to be made public would destroy the business model of most of 
+
+the proxy advisors.  
+
+Material based on which such recommendations have been made. 
+
+26.  Requiring a proxy advisor to disclose the material based on which recommendations have 
+
+been made may also be burdensome. Disclosures can be required only if the information 
+
+used is not from publicly available sources. Such disclosures must be made in the voting 
+
+advisory report of the relevant company only. 
+
+Guidelines, methodology or the criteria upon which their recommendations are based. 
+
+27.  There  is  a  view  that  proxy  advisors  should  explain  how  their  voting  policies  and 
+
+methodology  are  developed  and  updated.  They  should  explain  whether  and  how  they 
+
+incorporate feedback into the development of voting policies. They should disclose the 
+
+timing  of  their  policy  updates  and  policies  should  be  reviewed  on,  at  least,  an  annual 
+
+basis. 
+
+Conflicts  of  interest  and  all  relationships  they  have  with  financial  institutions  and 
+
+other companies (ownership/advice) including common boards. 
+
+28.  Conflicts of interest, including ownership, should be disclosed as described above. 
+
+All avenues of income generation 
+
+29.  Disclosing  all  avenues  of  income  generation  would  be  over-regulation,  but  a  material 
+
+revenue (say 10% plus) stream should be disclosed publicly.  
+
+Any  additional  tasks  undertaken  by  the  proxy  advisor,  such  as  providing  corporate 
+
+governance advice to companies. 
+
+30.  The Working Group  recommends that as this is part of the business  model  of various 
+
+proxy  advisors,  this  should  not  be  restricted,  but  should  be  disclosed  as  a  potential 
+
+conflict of interest, where appropriate.  
+
+Making shareholding and financial results of proxy advisory firms public. 
+
+ 
+
+16 
+
+ 
+
+31.  The general views received by the Working Group is that proxy advisors are unlisted, 
+
+and no public interest will be served by disclosing their financials. However, the details 
+
+available in public domain, for instance filings made to Registrar of Companies (“RoC”), 
+
+should also be publicly available on the website of the proxy advisor.  
+
+Past performance/assessment of past voting recommendations. 
+
+32.  Every  instance  of  recommendation  is  different  as  it  changes  with  the  nature  of  the 
+
+resolution. A blanket mapping of voting recommendations with actual voting outcomes 
+
+of the past is neither a measure of a proxy advisor’s performance nor is it a predictor of 
+
+how it will recommend in the future. 
+
+g. 
+
+The influence of proxy advisors on corporate governance makes boards of directors 
+
+overly preoccupied with ensuring favourable recommendations from proxy advisers, 
+
+by taking pre-emptive steps to ensure that their policies on governance and executive 
+
+pay will  not  trigger  a negative score when fed into  the proxy advisers’  standardized 
+
+algorithm. Does this practice require any intervention, or are market forces sufficient? 
+
+33.  The  general  consensus  is  that  no  intervention  is  necessary  and  market  forces  are 
+
+sufficient.  The  fact  that  many  companies  can  get  their  resolutions  passed  even  when 
+
+opposed  by  some  proxy  advisors  might  suggest  that  the  proxy  advisors’  power  is 
+
+overstated. Because many companies have convinced themselves that the power is real, 
+
+they feel it necessary to take pre-emptive action rather than make the case as to why a 
+
+different  approach is  appropriate in  their case.  It is  difficult  to  justify taking action to 
+
+limit their influence if that influence exists mostly in the mind of companies. 
+
+34. 
+
+It should be noted that, by design, the recommendations of proxy advisers are generally 
+
+aligned with the views of the shareholders who pay for such analysis and on whose behalf 
+
+they undertake their analysis. Boards are therefore ensuring support of shareholders when 
+
+endeavouring to meet the parameters within proxy advisers’ recommendations. This is 
+
+appropriate and aligns the interests of the shareholders with the board and management 
+
+of their companies, which are sometimes not fully aligned. Boards are answerable to their 
+
+shareholders and should be concerned about their views, even when they don’t agree with 
+
+them. 
+
+35.  The view from the feedback received seemed generally to disagree with the view that the 
+
+influence of proxy advisors on corporate governance makes boards of directors overly 
+
+preoccupied  with  ensuring  favourable  recommendations  from  proxy  advisors.  Proxy 
+
+ 
+
+17 
+
+ 
+
+voting recommendations by firms are not based on a standardized algorithm, but rather 
+
+on  established  proxy  voting  guidelines  of  the  proxy  advisor.  It  is  believed  that  proxy 
+
+advisors  are  facilitators,  possibly  influencers,  but  not  decision-makers  for  investors. 
+
+Studies have shown that over half of the clients of proxy advisors have voting guidelines 
+
+that  differ  from  the  standard  proxy  advisors  voting  guidelines.  Several  institutional 
+
+investors apply their own custom voting policies with common principles across markets, 
+
+with  regional  and  market  customisation  relating  to  market  maturity,  market  practices, 
+
+impact of issues, etc. These custom voting policies over-ride any voting recommendation 
+
+that proxy advisors may have, in case of difference. 
+
+Working Group’s recommendation 
+
+36.  The Working Group recommends that non-intervention is a better approach as companies 
+
+are taking pre-emptive steps, by way of which the governance practices are strengthened. 
+
+Generally, a proposal which aims to get shareholders’ and proxy firms’ approval will be 
+
+well drafted and backed by sufficient disclosures. So, market forces are sufficient. 
+
+III. 
+
+INFRASTRUCTURE AND SKILLS REQUIREMENT 
+
+a.  Should there be any requirement for firms to have adequate staff with sufficient 
+
+skill and experience? If so, what should be minimum experience criterion and 
+
+skill sets required. 
+
+37.  Under the RA Regulations, every proxy advisor in India is required to register with SEBI. 
+
+It is provided that the employees of proxy advisors engaged in providing proxy advisory 
+
+services shall be required to have a minimum qualification of being a graduate in any 
+
+discipline.  Further,  the  employees  of  proxy  advisors  are  required  to  fulfil  certain 
+
+certification requirements as specified by SEBI from time to time. 
+
+View 1: There should be some criteria/requirement  
+
+38.  One view was that existing requirement under the RA Regulations for a research analyst 
+
+should  be  adopted  for  the  employees  of  proxy  advisors.  The  proxy  advisors  should 
+
+disclose their operational processes and qualifications of staff. Further, the view was that 
+
+proxy advisors may be required to renew their NISM certification every two years. 
+
+View 2: There should not be any criteria/requirement: 
+
+39.  A contrary view was that there should not be any additional requirements for staff of the 
+
+proxy advisors. Each proxy advisor should have the ability to make hiring decisions as it 
+
+ 
+
+18 
+
+ 
+
+sees  fit,  while  taking  into  account  the  firm’s  overarching  requirement  to  deliver  high 
+
+quality research  and other services to its clients.  If  required, however, proxy  advisory 
+
+firms  could  disclose  the  steps  taken  to  hire  and  retain  individuals  who  have  the 
+
+qualifications  to  provide  quality  proxy  research  and  other  services.  It  is  opined  that 
+
+additional requirements will reduce competition and there may be practical difficulties 
+
+in enforcing such a model given the current realities. 
+
+Working Group’s recommendation 
+
+40.  The  Working  Group  believes  that  clients  conduct  extensive  due  diligence  when  they 
+
+review and select their proxy advisor(s), and this will ensure that the proxy advisor has 
+
+staff with sufficient skill sets. SEBI may review its certification norms and continuing 
+
+education as appropriate without over-burdening the proxy advisors. 
+
+IV. 
+
+VOTING, FIDUCIARY-DUTY AND INFORMATION SHARING 
+
+a.  Has proxy industry enabled increased voting in general meeting?  
+
+41.  While the popular view is that the proxy advisory industry has enabled increased voting 
+
+in general meeting, there are no studies to confirm that clearly. In markets such as the 
+
+UK,  there  is  some  correlation  between  the  increased  presence  of  proxy  advisors  and 
+
+increase in voting levels, but whether it is causation or correlation is still unclear. Pressure 
+
+on investors from regulators and clients to exercise their votes has had more impact on 
+
+voting  levels.  For  example,  due  to  the  mandate  by  SEBI/IRDA  to  mutual  funds  and 
+
+insurance companies, voting in general meetings has increased.  
+
+42.  Provision of electronic voting tools and translations of materials has enabled investors to 
+
+vote  in  markets  where  they  may  previously  have  been  unable  to  participate.  Proxy 
+
+advisors provide services to its institutional investor clients that assist them in making 
+
+more informed voting decisions, in managing the complex operational process of voting 
+
+their shares (proxy voting) and in tracking and reporting their voting activities as they 
+
+may require (or desire). It is accurate to say that the work of proxy advisors has helped 
+
+facilitate the ability of institutional investors to vote in general meetings and to do so on 
+
+the basis of information backed by research. 
+
+43.  The  increase  in  voting  results  directly  from  the  determination  by  investors  and  asset 
+
+owners that doing so is a critical priority. It is sparked in part by company meltdowns 
+
+throughout the globe and egregious governance practices by some companies. Investors 
+
+have become more active stewards of the assets they manage. They believe that it is their 
+
+19 
+
+ 
+
+ 
+
+core responsibility to safeguard their clients’ assets through active ownership, monitoring 
+
+and engagement with issuers. The stewardship code adopted by the UK is gaining traction 
+
+throughout the world through persuasion rather than by regulatory fiat. This is a good 
+
+move forward for the investment industry and for the corporate world. 
+
+Working Group’s views 
+
+44.  The  Working  Group  believes  the  advent  of  proxy  advisors  along  with  several  other 
+
+technological  advances  and  behavioral 
+
+improvements 
+
+in 
+
+institutional 
+
+investors 
+
+involvement have all contributed towards a more responsible investor, in turn altering 
+
+the actions of the companies for the better.   
+
+b. 
+
+Institutional investors such as mutual funds, etc. owe a fiduciary duty to their unit-
+
+holders to act in their best interest. However, the responsibility of fiduciary duty may 
+
+be undermined in case of ‘Robo-voting’ and the same needs to be examined.  
+
+45.  Using proxy advisors as a source of research to inform decisions does not undermine the 
+
+exercise of investors’ fiduciary duty. The view with respect to robo-voting, particularly 
+
+as received from institutional investors was as follows. 
+
+46.  “Robo-voting”  is  not  an  accurate  description:  The  primary  role  of  a  proxy  services 
+
+provider is to execute votes on behalf of investor clients in accordance with the specific 
+
+instructions of those clients. Proxy advisors implement client voting policies on their vote 
+
+management system so that each ballot populates with recommendations based on the 
+
+specific policies of the client, enabling clients to submit votes in a timely and efficient 
+
+manner.  Using  the  term  “robo-voting”  to  describe  how  votes  are  cast  by  institutional 
+
+investors that engage the services of a proxy advisor is an unfair characterization of the 
+
+management and oversight of the voting process by those investors. 
+
+47. 
+
+Institutional  investors  employ  a  variety  of  methods  to  oversee  the  voting  process, 
+
+beginning with their selection of a proxy advisor and continuing throughout the period 
+
+of availing the services of that proxy advisor. During the policy formulation process, an 
+
+institution  will  thoroughly  review  the  policies  of  its  proxy  advisor  to  assess  the 
+
+similarities and differences between the institution’s views on certain issues versus the 
+
+views of the proxy advisor, as noted in its house policy. In some instances, an investor 
+
+client may elect to implement the same policy as the proxy advisor for some or all of the 
+
+issues  up  for  vote.  In  other  cases,  clients  may  ask  proxy  advisors  to  assist  them  in 
+
+applying  their  own  customized  proxy  voting  guidelines.  This  is  mainly  because,  only 
+
+ 
+
+20 
+
+ 
+
+after completing an extensive due diligence process, the institution determines whether 
+
+the proxy advisor’s policy is philosophically aligned with its own policy, as well as with 
+
+the views of its investment management team, proxy committee, mutual fund board or 
+
+other decision-making bodies within its organization.  
+
+48.  The vast majority of institutional investors who engage a proxy advisor are increasingly 
+
+opting for more detailed policies, with specific views on how to address all issues that 
+
+may  come  up  on  a  proxy.  More  importantly,  in  many  instances  in  the  context  of 
+
+international proxy advisors, their views are so specific to each situation that they will 
+
+often opt for a case-by-case analysis. The pre-population of voting instructions on a ballot 
+
+strictly  adheres  to  each  client’s  specific  voting  instructions.  Importantly,  when  a 
+
+preliminary ballot is ready for review, the proxy advisor’s voting system generally alerts 
+
+each client and provides clients with all the disclosures and other information they need 
+
+at their fingertips to review and evaluate the matters up for a vote. Clients can choose to 
+
+restrict the submission of a ballot until after specified client personnel have reviewed and 
+
+approved the votes. Clients can also make (and often do make) changes to the preliminary 
+
+ballot  before  signing  off.  And,  assuming  the  voting  deadline  has  not  passed,  they  can 
+
+even  change  their  vote  and  resubmit  it.  Investors  take  their  fiduciary  responsibility  to 
+
+vote, engage with issuers, and operate as good stewards quite seriously. This is evidenced 
+
+by the fact that they regularly audit the voting to ensure their proxy advisor is processing 
+
+their ballots in accordance with their pre-established instructions. 
+
+49.  Also worth noting is the fact that the rationale for arriving at a vote decision, especially 
+
+amongst  investors,  are  often  varied,  even  if  the  vote  is  ultimately  the  same.  It  should 
+
+come as no surprise that the voting results may mirror the recommendations  issued by 
+
+proxy advisors as there are many commonly accepted governance principles used by both 
+
+investors and advisors. 
+
+50.  Stewardship Code: In the future, SEBI should make a Stewardship Code (like the UK 
+
+Stewardship Code) mandatory for all institutional shareholders, and such code should be 
+
+publicly available. This should be on a comply or explain basis. It should be drafted in 
+
+line  with  discussions  on  the  stewardship  code  conducted  in  Financial  Stability  and 
+
+Development  Council  (FSDC)  sub-committee,  where  SEBI,  IRDA,  and  PFRDA 
+
+participated. Investors should do their own research before voting, and the rationale of 
+
+such  voting  may  also  be  required  to  be  placed  on  their  website.  The  concept  of 
+
+ 
+
+21 
+
+ 
+
+Stewardship (e.g. active share ownership etc.) is becoming clear in many jurisdictions, 
+
+like the UK, Japan, and the Netherlands. 
+
+Working Group’s recommendation  
+
+51.  Based on investor feedback, the Working Group believes there is little evidence of robo-
+
+voting, and investors have and are taking their job as stewards of corporate India very 
+
+seriously. Stewardship code is recommended as a welcome addition, even if based on a 
+
+comply or explain basis for certain large investors.    
+
+c.  How can the accuracy, transparency, and efficiency of the proxy voting be improved 
+
+and what steps should regulators consider to facilitate such improvements? 
+
+52.  Suggested steps received by the Working Group which may be considered: 
+
+a. 
+
+Timely disclosure of voting deadlines:  Mandate companies to  provide complete 
+
+and timely disclosures to allow investors to make thoughtful voting decisions in 
+
+advance of voting deadlines. 
+
+b. 
+
+Increase release schedule:  If AGM notices/ materials can be released earlier, it 
+
+will  increase  the  time  available  for  issuers  to  engage  with  investors  on  any 
+
+contentious  issues.  The  Asian  Corporate  Governance  Association  (ACGA) 
+
+advocates the  release of  AGM notices 28 days before date of meeting, which is 
+
+more than the 21 days prescribed under the Companies Act, 2013. 
+
+c. 
+
+Vote  confirmation  for  various  investor  types:    Votes  for  international  asset 
+
+managers  can  pass  through  several  intermediaries  (voting  agents;  sub-custodian 
+
+banks; local agents) before being submitted. A real-time ‘vote confirmation’ from 
+
+the company’s record would be beneficial to let the investors/managers know that 
+
+the vote has been lodged, accepted and counted in the poll. 
+
+d.  Making  voting  guidelines  and  policies  public:  With  regards  to  transparency, 
+
+making voting guidelines and policies of proxy advisors should be made public. 
+
+d.  How recent technological advances can be used to enhance the voting process and the 
+
+ability of shareholders to exercise their voting rights? 
+
+53.  The current market infrastructure for voting is at times inefficient, expensive, and prone 
+
+to  errors.  Electronic  voting  has  been  a  significant  enabler.  There  is  an  opinion  that  it 
+
+would be better to  allow the existing voting process  to  continue for a few more  years 
+
+ 
+
+22 
+
+ 
+
+ 
+
+before attempting any further changes. However, others have suggested some ways to 
+
+improve it: 
+
+a. 
+
+Blockchain:  New  technologies,  such  as  blockchain,  could  be  very  effective  in 
+
+solving the traditional challenges associated with  providing accurate, timely  and 
+
+granular  vote  confirmations,  while  also  addressing  concerns  around  over/under-
+
+voting, investor anonymity and distribution costs. 
+
+b. 
+
+Live/online streaming: Online streaming of the shareholder meeting either through 
+
+any/ all of the following - transcript, audio and video, and ability to ask questions 
+
+through these channels. On the success of live streaming of AGMs, the ability to 
+
+speak at an AGM may also be provided via 2-way video conference. 
+
+c. 
+
+Real time vote confirmation: There is currently no mechanism whereby a vote for 
+
+a  specific  holding  can  be  clearly  tracked  all  the  way  through  the  voting  process 
+
+from the time the vote is cast by the investor through the time that vote is tabulated 
+
+and certified by the company through its agent. Given the growing importance of 
+
+proxy  voting,  the  process  must  be  enhanced  to  allow  proxy  voting  agents, 
+
+custodians,  third-party  intermediaries  and,  most  importantly,  shareholders  to 
+
+confirm that in fact the issuer, or its agents, have received and counted their votes 
+
+properly. 
+
+d.  Voting  kiosks  and  e-voting  awareness:  More  awareness  on  e-voting,  including 
+
+creating  of  voting  kiosks  in  cities  where  majority  of  shareholders  (in  number) 
+
+reside. Need to make retail shareholders aware of how exactly online voting can be 
+
+done.  SEBI  can  put  up  the  details  at  its  website  and  provide  a  helpline  for  the 
+
+purpose. 
+
+e.  Mobile application: One of the major changes could be introduction of a mobile 
+
+based  voting  application.  This  mobile  application  can  be  accessed  by  retail 
+
+investors which can act as a platform between the company and the shareholders. 
+
+Investors  may  access  the  following  through  the  application  -  notice  of  general 
+
+meetings  and  corporate  announcements,  research  reports  of  the  proxy  advisors, 
+
+voting  recommendations  of  the  proxy  advisors,  and  voting  results  of  the 
+
+companies. 
+
+f. 
+
+One Time Passwords (OTPs): OTPs while voting may be helpful so that voting by 
+
+unauthorized persons may be avoided. Executives who are authorized to take these 
+
+important decisions should receive OTPs to ensure accurate voting. 
+
+23 
+
+ 
+
+g. 
+
+Increase  time  available:  Look  at  ways  to  increase  the  time  available  between 
+
+notice of meeting and the cut-off time for custodians to receive shareholder votes. 
+
+Doing so, particularly during AGM season, will allow for more time for validation 
+
+and  cross-checks  with  issuers  and  better-informed  voting/decision-making  by 
+
+investors. 
+
+V. 
+
+INTERACTION WITH CORPORATES 
+
+a.  Should  the  communication  between  proxy  advisors  and  corporates  be 
+
+institutionalized  and  regulated  to  provide  proxy  advisors  with  accurate  and 
+
+correct information?  
+
+54.  Ever since proxy advisory firms commenced their business, there is an on-going debate 
+
+on  the  nature  of  interaction  they  should  be  having  with  the  corporates.  The  Working 
+
+Group has received views on institutionalization of the communication between proxy 
+
+advisors and corporates.  
+
+View 1 
+
+55.  One view is that proxy advisors should have policies and procedures to create internal 
+
+rules  around  their  relationship  and  communications  with  public  companies,  and  these 
+
+policies should be publicly disclosed. It is believed that engaging in dialogue with issuers 
+
+can help foster mutual understanding, transparency and feedback with respect to a proxy 
+
+advisor’s  policies,  methodologies  and  analysis.  Therefore,  proxy  advisors  should  be 
+
+encouraged to communicate with companies so long as limitations are established prior 
+
+to any such engagements. 
+
+View 2  
+
+56.  However,  it  is  also  noted  that  while  creating  any  guidelines  for  institutionalisation  of 
+
+communication,  it  should  be  taken  into  consideration  that  proxy  advisors  should  not 
+
+receive any information that is not available to all shareholders and/or publicly. Receipt 
+
+of  such  information  would  put  them  in  a  privileged  position  and  might  increase  their 
+
+perceived  influence.  It  goes  again  the  tenets  of  “fair  disclosure”  where  corporates  are 
+
+interacting/influencing commentary of proxy advisory firms, while not communicating 
+
+the same to investors at large. Further, proxy advisory firms will also have the risk of any 
+
+inadvertent non-public and price sensitive disclosure made by corporates. Instead, it is 
+
+believed  that  companies  should  be  encouraged  to  provide  more  complete  and  timely 
+
+disclosure of their meeting materials so that investors and proxy advisors can continue to 
+
+ 
+
+24 
+
+ 
+
+rely  on  publicly  available  information.  They  may,  at  best,  get  a  clarification  from  the 
+
+company should the need arise.  
+
+Working Group’s recommendation 
+
+57.  The Working Group recommends that communication between the proxy advisor and the 
+
+company should be made public by the company. Privileged information being shared 
+
+only  with  the  proxy  advisors  will  detract  from  improving  corporate  communication 
+
+generally, and provide undue power to the proxy advisors to become portals of privileged 
+
+information rather than the gatherers and analysts of public information. 
+
+b. 
+
+Should proxy advisors be required to invite comments and respond to feedback from 
+
+corporates? 
+
+58.  One area of apparent concern was the possibility of factual mistakes based on which a 
+
+proxy advisor makes a recommendation, that it would not have made were it to have the 
+
+correct information. Factually, it was brought to the notice of the Working Group that 
+
+factual errors (where they were pointed out) have been extremely rare and they have been 
+
+corrected. Two of the three domestic proxy advisors share the research report with the 
+
+companies  simultaneously  with  sharing  it  with  their  investor  clients,  providing 
+
+companies a chance to review and correct any factual errors. One of the three does not 
+
+share its report with the company and under its business model the company must buy 
+
+the report, the same way as its client-investors do.  
+
+59.  On the area of whether research should be shared with a company before it is shared with 
+
+the client-investors, the clear view received is that it should not be the case. There is a 
+
+concern  that  if  proxy  advisors  were  required  to  inform  corporates  of  their 
+
+recommendation before the AGM or before being released to clients: (i) investors would 
+
+be denied access to independent research; (ii) significant constraints would be placed on 
+
+the time, investors have to properly consider the analysis in order to develop informed 
+
+proxy voting decisions; and (iii) issuers could potentially determine an investor’s vote 
+
+selections (even before the investor itself knew)  given that  investors publicly disclose 
+
+their  policies.  There  is  also  a  concern  that  this  type  of  dialogue  would  exacerbate  the 
+
+lingering  misconception  that  issuers  are  primarily  concerned  with  the  views  of  proxy 
+
+advisory  firms  rather  than  with  those  of  their  shareholders.  On  receipt  of  negative 
+
+recommendations,  corporates  might  try  to  influence  proxy  advisors  in  order  to  get 
+
+favourable  recommendations.  They  may  also  undertake  efforts  to  start  a  proxy 
+
+ 
+
+25 
+
+ 
+
+solicitation, or even a proxy fight, to try to achieve a favourable outcome of the voting, 
+
+not seldom at the expense of the shareholders. 
+
+60.  However, in the name of inviting comments and responding to feedback from corporates, 
+
+there should not be continuing conversation between them, since such interaction could 
+
+adversely  impact  perceptions  of  objectivity.  In  line  with  this  understanding,  there  is  a 
+
+view that interaction should be encouraged with a rider that only factual errors should be 
+
+considered.  This  will  allow  the  corporate  views  to  be  taken  on  board.  In  case  the 
+
+interpretation of the company is different from the interpretation of the proxy advisory 
+
+firms,  one  view  was  that  the  proxy  advisors  should  publish  both  interpretations  along 
+
+with comments on why it is not in agreement with the company. The alternate view was 
+
+that  the  management/dominant  shareholder  is  free  to  express  its  opinion  on  their  own 
+
+website/media/etc. and the proxy advisor should not be forced to publish a view that they 
+
+do not subscribe to.  
+
+Working Group’s recommendation 
+
+61.  The Working Group recommends that except for factual errors, proxy advisors should 
+
+not  be  mandated  to  carry  views  which  they  don’t  subscribe  to  and  the  company  has 
+
+enough resources to publicise a differing viewpoint. 
+
+c.  How to  address  the issue of protecting  proxy  advisors  from adverse legal  action for 
+
+holding honest opinions which are dis-liked by companies or individuals.1 
+
+Legal status of the proxy advisors’ recommendations 
+
+62.  Due to the inherent nature of the work, there is bound to be a conflict between the proxy 
+
+advisors  and  companies.  Before  determining  how  to  protect  proxy  advisors,  it  is 
+
+important to establish what legal status their advice has. 
+
+63. 
+
+In Europe, for example, proxy advisors are not currently regulated directly, other than 
+
+being required to disclose certain information publicly, nor is their advice classified as 
+
+“investment advice”, which would introduce further regulatory obligations and sanctions, 
+
+and potentially increase liability and exposure to legal action if investors or companies 
+
+felt the advice was knowingly inaccurate or misleading. The same has been the case in 
+
+the US to date, though there is a discussion on reviewing that position. 
+
+                                                 
+
+1  Shri  J  N  Gupta,  member  of  the  working  group,  recused  from  deliberations  and  group’s  view  on  this 
+subject.   
+
+26 
+
+1. 
+
+1. 
+
+ 
+
+ 
+
+Protection from legal action 
+
+64.  One view the Working Group received was that the proxy advisors must, if requested by 
+
+company, send unedited response of the company concerned to all its subscribers. In case 
+
+a company is not satisfied with the response, it may write again to proxy advisors and in 
+
+case the response is  still not  acceptable, the Company  concerned may  approach SEBI 
+
+under the RA Regulations seeking SEBI’s intervention. However, mere differences based 
+
+on opinion, which are backed with authentic public data and analysis, cannot be the basis 
+
+of  any  complaint  or  litigation.  Litigation  should  not  be  initiated  merely  because  an 
+
+opinion is not favourable to the management of a company, especially if opportunity had 
+
+been given by proxy advisors to the company and same has been duly addressed.  
+
+65.  The regulator must protect the freedom of proxy advisors to express their opinion. This 
+
+is  important  for  the  future  of  corporate  governance  in  the  country,  as  corporates  with 
+
+deep  pockets  may  use  shareholder  money  to  silence  criticism.  At  the  same  time,  the 
+
+regulator must not become a mechanical defender of proxy advisors. While the Working 
+
+Group has not come across any example, any unchecked power given to proxy advisors 
+
+may result in its abuse. Thus, there should be a pressure valve for both corporates and 
+
+proxy advisors. 
+
+Working Group’s recommendation 
+
+66.  Proxy adviser is a person who provides advice to institutional investors or shareholders 
+
+of  a  company,  in  relation  to  exercise  of  their  rights  in  the  company  including 
+
+recommendations  on  public  offer  or  voting  recommendation  on  agenda  items.  These 
+
+proxy advisors are required to observe compliance of Code of Conduct specified under 
+
+SEBI (Research analyst) Regulations, 2014. Any dispute arising between Corporate and 
+
+Proxy Advisors needs to be first examined by SEBI to ascertain the non-compliance, if 
+
+any,  of  the  proposed  additional  Code  of  Conduct  for  Proxy  Advisors.  SEBI  will  give 
+
+appropriate comments in the matter wrt compliance of code of conduct by proxy advisor.  
+
+Only thereafter the person may approach the court of law. SEBI must make changes to 
+
+SEBI  (Listing  Obligations  and  Disclosure  Requirements)  Regulations,  2015  to  make 
+
+listed  companies  and  their  management  comply  with  approaching  the  panel/SEBI 
+
+process for any grievances. This provision read with Ss. 15Y and 20A of SEBI Act, 1992 
+
+should provide comfort to both proxy advisors and companies against abuse of power. It 
+
+should be kept in mind that this process is only available for egregious acts like abuse of 
+
+power or violations of basic levels of code of conduct, and is not an appellate mechanism 
+
+ 
+
+27 
+
+ 
+
+for  second  guessing  the  opinions  of  the  proxy  advisors.  Further,  the  regulator  may 
+
+consider  impleading  itself  into  any  litigation,  which  seeks  to  by-pass  the  redressal 
+
+mechanism, so that the courts can appreciate a more discerning view of the issues and 
+
+also so that SEBI can assert its exclusive jurisdiction in the matter. 
+
+VI. 
+
+SETTING BASIC INDUSTRY STANDARDS 
+
+a.  What  should  the  industry  standards  be  for  providing  recommendations  by 
+
+proxy advisors? 
+
+67.  Best Practice Principles for Shareholder Voting Research can be followed. Any standards 
+
+should  focus  on  ensuring  the  accuracy  and  integrity  of  the  reports.  There  is  also  an 
+
+opinion that the application of RA Regulations should suffice. 
+
+68.  A few points as stated by various contributors: 
+
+a. 
+
+Proxy advisors should be able to demonstrate that their reports, analyses, guidance 
+
+and/or  recommendations  are  prepared  to  a  standard  that  can  be  substantiated  as 
+
+reasonable and adequate. 
+
+b. 
+
+Proxy  advisors  should  have  systems  and  controls  in  place  so  that  they  can 
+
+reasonably ensure the reliability of the information used in the research process. 
+
+c. 
+
+Proxy  advisors  must  have  a  policy  of  responding  to  communication  from  a 
+
+company, including conflict disclosure policy. 
+
+69.  Similar to SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
+
+and SEBI (Prohibition of Insider Trading) Regulations, 2015, the RA Regulations should 
+
+provide for the following guiding principles for proxy advisory firms: 
+
+a. 
+
+Fiduciary  duties  permeate  and  govern  all  aspects  of  the  development  and 
+
+dispensation of proxy advice; 
+
+b. 
+
+Enhancing  and  promoting  shareholder  value  must  be  the  core  consideration  in 
+
+rendering proxy voting advice; 
+
+c. 
+
+The  proper  role  of  proxy  advisory  firms  is  to  provide  accurate  and  current 
+
+information  to  assist  those  with  voting  power  to  fulfil  their  fiduciary  duty  and 
+
+further  the  economic  best  interests  of  those  who  entrust  their  assets  to  portfolio 
+
+managers. 
+
+b.  How to clearly define the roles and responsibilities of proxy advisory firms? 
+
+ 
+
+28 
+
+ 
+
+70.  The  role  and  responsibility  of  proxy  advisory  firms  extends  to  collecting  all  relevant 
+
+information  in  the  public  domain  and,  after  applying  objective  criteria,  making 
+
+recommendations having regard to the regulations and the provisions of law. On a macro 
+
+basis,  fair  and  ethical  conduct  and  compliance  with  laws  must  be  the  pillars  of 
+
+responsibilities of proxy advisory firms. With respect to definition of proxy advisors, RA 
+
+Regulations cover the definition of a proxy advisory firm. 
+
+Best  Practice  Principles  for  Shareholder  Voting  Research  defines  the  roles  and 
+
+responsibilities of proxy advisors fairly well. 
+
+c. 
+
+Should proxy advisors’ reports be evaluating only compliance with law? Or can they 
+
+evaluate higher governance standards as long as they disclose the policy as well as the 
+
+law? 
+
+71.  Proxy advisor reports do not  generally assess only a  company’s compliance with law, 
+
+and  proxy  advisors  are  generally  focused  on  evaluating  higher  governance  standards. 
+
+Compliance with law is a basic expectation. Shareholders are free to make their voting 
+
+decisions based on the factors that they deem relevant and appropriate for them, including 
+
+factors and standards that exceed those proscribed by law, applicable exchange standards 
+
+or otherwise.  
+
+Working Group’s recommendation 
+
+72.  Restricting proxy advisors’ reports to reflect compliance with the law would render them 
+
+useless to investors. Besides, if compliance with the law is the only requirement, then the 
+
+very reason why shareholders retain voting rights on certain matters will be lost. As an 
+
+aside, it should be noted that while evaluating compliance with law, proxy advisory firms 
+
+must  clearly  disclose  the  legal  requirement  vis-a-vis  the  aspirational  /  higher  standard 
+
+they are suggesting. Further, where higher standards are evaluated, the policy behind it 
+
+should be disclosed. There is also an opposing view observed by the working group that 
+
+the recommendations should be based on prevailing regulations and not based on stricter 
+
+criteria as defined by the proxy advisors. The Working Group does not subscribe to the 
+
+opposing view and supports the higher standards theory. 
+
+d. 
+
+Should proxy advisors form an opinion on governance, structures, past practices and 
+
+quality related stuff, or  can they also  form an opinion on major moves  of company 
+
+such as M&A activities? 
+
+View 1  
+
+ 
+
+29 
+
+ 
+
+73.  Proxy  advisors  should  be  able  to  form  an  opinion  on  any  issues  up  for  vote  at  a 
+
+shareholder  meeting.  In  most  cases,  a  proxy  advisor’s  analysis  of  the  terms  of  a 
+
+transaction typically focuses on the process followed by the company’s board of directors 
+
+in  determining  to  enter  into  the  transaction  and  recommend  it  to  shareholders,  the 
+
+alternatives considered by the board, the analysis and advice provided to the board by its 
+
+advisors, and the quality and extent of the disclosure provided to shareholders about these 
+
+matters. While proxy advisors also report their own views of the economic terms of the 
+
+transaction,  they  do  so  by  analyzing  whether  the  terms  of  the  transaction  are  fair  to 
+
+shareholders. They report on the board’s consideration of various valuation measures that 
+
+are applicable to the company, but do not independently determine a fair price for the 
+
+company’s  securities  or  recommend  that  shareholders  take  any  particular  action  other 
+
+than voting for or against a proposal. 
+
+74.  Therefore, proxy  advisors generally shouldn’t be restricted from providing opinion on 
+
+any relevant matters. All matters that come to vote should be allowed as long as the basis 
+
+of the recommendation is explained and reports are well informed and clear.  
+
+View 2 
+
+75.  However, an alternative but strongly held minority view is that the qualification of proxy 
+
+advisor to form an opinion on the complex moves such as valuation in M&A activities is 
+
+doubtful. Assessing and advising on these other activities requires very specialised skills 
+
+and experience to advising on corporate governance. In addition, it has been asserted that 
+
+second guessing an expert, and a regulated expert like a valuer, on a share swap ratio, 
+
+would mean giving too much power to proxy advisors who are not best suited to second 
+
+guess such numbers.  
+
+Working Group’s recommendation 
+
+76.  Given the view that proxy advisors could not possibly intelligently second guess areas 
+
+such as what ought to be the share swap ratio, we sought from two of the registered proxy 
+
+advisors the last several ‘no’ votes where a proposed M&A transactions were proposed 
+
+by a company. On a review of the detailed rationale as to why the proxy advisors had 
+
+recommended a ‘no’ vote, the Working Group is of the considered view that in M&A 
+
+transactions substantial value addition can be provided through an analytical view of the 
+
+facts based on publicly available information. The actual process is not second guessing 
+
+views of experts, and the reports have been highly persuasive with cogent reasons. Based 
+
+ 
+
+30 
+
+ 
+
+on the aforesaid, the Working Group recommends that there is no reason to restrict the 
+
+areas of analysis for a proxy advisor based on the evidence available. In addition, given 
+
+the highly material nature of these corporate events which sometimes decide the life or 
+
+death of the corporate juristic entity, an analysis of the event might provide the best value 
+
+addition that proxy advisors can provide to investors. 
+
+e. 
+
+Should foreign proxy advisors be registered with SEBI to bring them at par with Indian 
+
+proxy firms? If not, how to apply the SEBI Regulations to foreign proxy advisors with 
+
+respect to their recommendations regarding voting on Indian listed companies. 
+
+77.  Currently, foreign proxy advisors need not  be directly  registered with  SEBI under the 
+
+RA Regulations. Regulation 4 of the RA Regulations provides for certain requirements 
+
+which are required to be met by foreign research analyst, i.e. to enter into an agreement 
+
+with research analyst registered with SEBI. 
+
+View 1 
+
+78.  One view received by the Working Group is that registration should be made mandatory, 
+
+as it would be equitable for the same standards to be applied to all proxy advisors making 
+
+recommendations  about  Indian  listed  companies.  However,  this  should  be  applicable 
+
+only for their operations in India/regarding Indian listed companies, and the registration 
+
+process  should  be  kept  simple  without  any  requirement  to  have  a  permanent 
+
+establishment in India. This is the approach the European Union (“EU”) has taken in the 
+
+Shareholder  Rights  Directive,  which  introduces  reporting  requirements  on  proxy 
+
+advisors. The Directive applies to all advisors that provide advice on companies listed in 
+
+the EU, even where the advisor is not based in an EU Member State. 
+
+View 2 
+
+79.  There  is  a  contrary  view  received  by  the  Working  Group,  which  states  that  requiring 
+
+proxy advisors to register with the securities regulator of each country it covers as part 
+
+of its research would not only be costly and time consuming for proxy advisors, but it 
+
+would  also  compromise  institutional  investors’  access  to  efficient,  timely,  and 
+
+independent  information.  Proxy  advisors  already  comply  with  relevant  laws  and 
+
+regulations  that  apply  to  them  and  their  specific  circumstances,  which  may  vary 
+
+depending on where they are incorporated or have local operations.  
+
+View 3 
+
+ 
+
+31 
+
+ 
+
+80.  Another view received by the working group proposes chaperoning arrangement between 
+
+foreign proxy advisor and its Indian counterpart. The said arrangement will help foreign 
+
+proxy advisors in complying with the requirements of SEBI Regulations.   
+
+View 4 
+
+81.  One more view received by the working group suggests that institutional investors can 
+
+engage only SEBI registered proxy advisors who will provide voting recommendation 
+
+on resolutions pertaining to Indian Listed Companies.  
+
+82.  Further, currently under Regulation 23(1) of the RA Regulations, it has been provided 
+
+that all provisions of Chapter II, III, IV, V and VI would apply mutatis mutandis to proxy 
+
+advisor  (except  the  limited  carve  outs  for  qualification,  certification  and  net-worth 
+
+requirements).  Considering  the  activities  of  a  research  analyst  are  not  the  same  as 
+
+activities  of  a  proxy  advisor,  and  provisions  under  the  RA  Regulations  which  are 
+
+applicable to an Indian proxy advisor may not be applicable to a foreign proxy advisor. 
+
+Working Group’s recommendation 
+
+83.  SEBI could consider providing a code of conduct under the RA Regulations which should 
+
+be followed by foreign proxy advisors as it should also apply to domestic proxy advisors. 
+
+These should be principle based and focused on broad principles of fairness, disclosure 
+
+and conflict and based on a comply or explain basis. It would be unfair to subject global 
+
+proxy advisors to regulations by 195 countries. SEBI should, of course, have broad extra-
+
+territorial powers where fraud or such serious mischief is suspected. For this no new law 
+
+is  required,  and  the  existing  multilateral  MMoU  of  IOSCO  (an  international  body  of 
+
+securities regulators) should suffice. 
+
+84.  While the Working Group believes in a light touch set of regulations, it recommends that 
+
+international  proxy  advisors  must  have  a  responsive  feedback  mechanism  and  contact 
+
+email/address for any issues investors/companies may have with its reports. Additionally, 
+
+as  all 
+
+the  recommendations  of 
+
+the  Working  Group  advocate  non-regulatory 
+
+improvements  by  way  of  disclosure,  best  practices  etc,  we  believe  the  same  can  be 
+
+complied with by the foreign proxy advisors as well in a comply or disclose framework 
+
+on  their  websites.  While  the  discussions  above  have  focused  on  the  two  large 
+
+international proxy advisors, there are many smaller players, and some may be covering 
+
+only a handful of Indian companies. Setting new standards for them may result in them 
+
+blanking out India from their coverage altogether. SEBI should be cognizant of this as it 
+
+ 
+
+32 
+
+ 
+
+will adversely impact corporate governance and any extra-territorial operation by way of 
+
+regulation, code of conduct or chaperoning arrangement (tie up with a domestic proxy 
+
+advisor) would harm Indian standards and reduce competition. The Working Group also 
+
+recommends  that  registration  and  chaperoning  should  be  avoided  for  foreign  proxy 
+
+advisors. A comply or explain code of conduct which applies to domestic proxy advisors 
+
+should apply to them as well.   
+
+VII. 
+
+COST & COMPETITION 
+
+a.  Increase  in  regulation  leads  to  increase  in  compliance  cost  and  reduces 
+
+competition. How should this be addressed? 
+
+85.  The feedback received by the Working Group suggests that while the proxy industry is 
+
+very small, the cost of compliance is already very high. Many institutional investors fear 
+
+that  regulation  is  likely  to  result  in  higher  costs  for  investors,  impede  quality  and 
+
+independence, and is likely to limit competition and impose barriers to entry of potential 
+
+new  proxy  advisory  firms.  Therefore,  the  impact  on  competition  must  be  taken  into 
+
+account  when  considering  any  increase  in  regulation.  While  prudent  regulation  is 
+
+welcome, heavy-handed regulation that impairs the utility of proxy advisors would be 
+
+unhelpful.  
+
+Working Group’s recommendation 
+
+86.  The Working Group recommends that uncomplicated principle based rules, disclosures 
+
+and  conducting  a  thoughtful  cost-benefit  analysis  of  any  proposed  changes  would 
+
+mitigate  any  unnecessary  costs  which  could  reduce  competition.  The  role  of  market 
+
+forces in addressing any potential concerns about proxy advisory firms should be kept in 
+
+mind. As the domestic proxy advisors are thinly capitalised and some are extremely lean, 
+
+any undue burden would have a deleterious impact on the industry. For instance, calls 
+
+for  capital  adequacy  requirements  can  easily  be  dismissed  as  being  irrelevant  to  the 
+
+business. We need proxy advisors to be competent, honest and efficient. There is no need 
+
+to have rich proxy advisors, and imposing additional capital requirement will be a self 
+
+goal of regulation, as it is inconsistent with the object sought to be achieved.  SEBI may 
+
+review and eliminate the current requirement of networth as it is irrelevant to the work 
+
+that proxy advisors do. 
+
+VIII. 
+
+ADDITIONAL POINTS 
+
+ 
+
+33 
+
+ 
+
+a.  Share  any  best  practices/model  code  being  followed  by  proxy  advisors  in 
+
+jurisdictions other than India. 
+
+87.  The  Best  Practice  Principles  for  Shareholder  Voting  Research  is  available  at 
+
+https://bppgrp.info/. The BPPG’s Principles are currently under review and a completed 
+
+update  is  scheduled  for  June  2019.  These  are  important  best  practices  of  institutional 
+
+shareholders globally. 
+
+b.  What  is best  possible mode for implementation of proposed changes  by the working 
+
+group?    Whether  through  amendment  in  the  law  (regulations),  through  a  code  of 
+
+conduct (annexure to the regulations) or through a voluntary best practice standard 
+
+(based on comply or explain)? 
+
+88.  Amendment  in the law: The Working Group believes that except  for one  amendment 
+
+mentioned above with respect to amending the SEBI (Listing Obligations and Disclosure 
+
+Requirements) Regulations, 2015, no additional changes in the law are required.  
+
+89.  Code of Conduct: Establishment of and adherence to a global code of conduct, coupled 
+
+with proper oversight by investors, has proven to be effective in ensuring the quality and 
+
+integrity of proxy advisory research – without adding an undue burden on investors or 
+
+inhibiting competition. 
+
+90. 
+
+It is believed that implementing changes proposed by the committee, through law would 
+
+have the disadvantage of rigidity, and the inability to make changes quickly. Even more 
+
+importantly,  additional  legal  and  compliance  burden  would  reduce  competition  in  an 
+
+arena where the nascent industry has done a commendable work with a lean model. A 
+
+principle based, comply or explain, code of conduct is a better option.  
+
+91. 
+
+It is believed that the main issues do not lie with proxy advisors. Placing them under the 
+
+existing regulatory framework and steps to improve quality/ accuracy of data and their 
+
+interpretation  would  be  helpful.  Beyond  this,  the  primary  challenges  lie  largely  with 
+
+issuers and to an extent with investors. The fact that shareholder votes have become of 
+
+some  consequence  will  only  improve  board  accountability,  shareholder  engagement, 
+
+shareholder protection and market maturity. 
+
+92.  New best practices for proxy firms and stewardship code: While the code of conduct 
+
+would set higher principles, an aspirational document called ‘best practices’ should be 
+
+evolved by the industry itself. This should not be prescribed by SEBI but be adopted by 
+
+the domestic and global proxy advisors. 
+
+34 
+
+ 
+
+ 
+
+• New/ Specific best practices for proxy advisory firms 
+
+• Stewardship Code for institutional shareholders. 
+
+c. 
+
+Any other issue on the subject for deliberation of the working group. 
+
+93. 
+
+It is important to educate the general public about the working of proxy advisors. While 
+
+only institutional shareholders currently use proxy advisors, a lot of fact collection and 
+
+views are in public domain, put out by the proxy advisors and free for retail shareholders 
+
+to use. Investor education would empower investors to use these tools and research, to 
+
+improve governance standards in India Inc. SEBI should provide a framework to proxy 
+
+advisors  to  reach  retail  investors  to  encourage  them  to  vote.  All  financial  institutions 
+
+(domestic / foreign), including FPIs, registered with SEBI must be nudged to vote. Given 
+
+that  proxy  advisory  industry  is  working  for  enhancing  governance  standard  of  listed 
+
+companies, dissemination of their reports to large number of stakeholders beyond their 
+
+clients must be encouraged.  
+
+IX. 
+
+CONCLUSION AND SUMMARY 
+
+94.  The Working Group recommends that no further mandatory regulation is required, except 
+
+for amending the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+
+2015.  The  amendment  would  provide  that  listed  companies  which  are  aggrieved  by  a 
+
+view of a proxy advisor may approach SEBI for redressal of its grievance. It may further 
+
+provide a mechanism for the same. SEBI may consider drafting a code of conduct for 
+
+proxy advisors which may include the following on a ‘comply or explain’ basis: 
+
+ 
+
+a.  Disclosure of conflict  of interest  and how it is  managed. The disclosures  should 
+
+appear on every specific document where they are giving their advice. A generic 
+
+disclosure/disclaimer on the proxy advisor’s website is inadequate and it should be 
+
+extended  to  every  place,  including  news  quotes  where  a  proxy  advisor  makes  a 
+
+statement. Disclosures should especially address possible areas of potential conflict 
+
+and also the safeguards that have been put in place. 
+
+b. 
+
+The  proxy  advisor  should  take  appropriate  steps  to  manage,  mitigate  and/or 
+
+disclose  any  potential  conflicts  of  interest  resulting  from  ancillary  business 
+
+activities. Creation of ‘Chinese Walls’ between proxy firms and their consultancy 
+
+firms. There should be clear procedures to handle conflicts of interest. 
+
+ 
+
+35 
+
+ 
+
+c.  Disclosures regarding the business model e.g. types of services provided, revenue 
+
+breakup  from  various  services,  categories  of  clients  served  and  any  specific 
+
+prohibition on services provided.  
+
+d. 
+
+The  entity/business  unit  providing  services  to  investors/shareholders  should  be 
+
+different from the one providing advisory services to a corporate client. 
+
+e.  Disclosure if consulting services are provided. 
+
+f. 
+
+Codes  that  determine  when  not  to  provide  a  voting  recommendation  should  be 
+
+clearly disclosed. 
+
+g.  Board of proxy advisors should be independent of its shareholders, where such a 
+
+position creates a serious conflict of interest, real or apparent.  
+
+h.  Disclosing the methodologies and processes they use in the development of their 
+
+research and recommendations, so there is some stated process by which the proxy 
+
+advisors act.  
+
+i. 
+
+Setting parameters around the communications they have with the companies and 
+
+other stakeholders. There should be a nudge towards making company disclosures 
+
+speak  for  themselves  rather  than  a  bi-lateral  discussion  between  a  company  and 
+
+proxy advisors. 
+
+j. 
+
+There  should  be  disclosures  regarding  the  provision  of  other  services  through 
+
+subsidiaries, division or associates, and the total income earned by providing such 
+
+services where it exceeds say 10% of revenues. 
+
+k.  Communication between the proxy advisor and the company should be promptly 
+
+made public by the company. 
+
+l. 
+
+Conflict of interest where there is substantial shareholding or inter-locking boards 
+
+can be addressed by full disclosure rather than banning proxy advisors from having 
+
+a view on such connected companies.  
+
+m.  Proxy advisors should make public on their website the following disclosures every 
+
+year ;  
+
+i)  Shareholding patter and changes during year, if any 
+
+ii) Audited Balance Sheet, Profit and loss Account and cash flow 
+
+iii)  Board  of  Directors  and  changes  during  year,  including  shareholding  of 
+
+directors and relatives with changes during the year. 
+
+iv) Litigations if any 
+
+95.  SEBI may review: 
+
+ 
+
+36 
+
+ 
+
+ 
+
+a. 
+
+Introducing a voting or stewardship code for multiple institutional investors, not 
+
+just limited to  mutual  funds, say  for all investors who own over 5% shares of  a 
+
+listed company.  
+
+b. 
+
+The  Working  Group  believes  that  clients  conduct  extensive  due  diligence  when 
+
+they review and select their proxy advisor(s), and this will ensure that the proxy 
+
+advisor has staff with sufficient skill sets. SEBI may review its certification norms 
+
+and  continuing  education  as  appropriate  without  over-burdening  the  proxy 
+
+advisors. 
+
+c. 
+
+The Working Group’s view is that except for factual errors, proxy advisors should 
+
+not be mandated to carry views which they don’t subscribe to and the company has 
+
+sufficient resources to publicise a differing viewpoint. 
+
+d. 
+
+Proxy  adviser  is  a  person  who  provides  advice  to  institutional  investors  or 
+
+shareholders of a company, in relation to exercise of their rights in the company 
+
+including recommendations on public offer or voting recommendation on agenda 
+
+items.  These  proxy  advisors  are  required  to  observe  compliance  of  Code  of 
+
+Conduct specified under SEBI (Research analyst) Regulations, 2014. Any dispute 
+
+arising between Corporate and Proxy Advisors needs to be first examined by SEBI 
+
+to ascertain the non-compliance, if any, of the proposed additional Code of Conduct 
+
+for  Proxy  Advisors.  SEBI  will  give  appropriate  comments  in  the  matter  wrt 
+
+compliance of code of conduct by proxy advisor.  Only thereafter the person may 
+
+approach the court of law. SEBI must make changes to SEBI (Listing Obligations 
+
+and  Disclosure  Requirements)  Regulations,  2015  to  make  listed  companies  and 
+
+their  management  comply  with  approaching  the  panel/SEBI  process  for  any 
+
+grievances. This provision read with Ss. 15Y and 20A of SEBI Act, 1992 should 
+
+provide comfort to both proxy advisors and companies against abuse of power. It 
+
+should be kept in mind that this process is only available for  egregious acts like 
+
+abuse  of  power  or  violations  of  basic  levels  of  code  of  conduct,  and  is  not  an 
+
+appellate  mechanism  for  second  guessing  the  opinions  of  the  proxy  advisors. 
+
+Further,  the  regulator  may  consider  impleading  itself  into  any  litigation,  which 
+
+seeks to by-pass the redressal mechanism, so that the courts can appreciate a more 
+
+discerning  view  of  the  issues  and  also  so  that  SEBI  can  assert  its  exclusive 
+
+jurisdiction in the matter. If the person is still aggrieved with comments of SEBI, 
+
+only thereafter the person may approach a court of law. SEBI must make changes 
+
+to SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 to 
+
+37 
+
+ 
+
+make  listed  companies  and  their  management  comply  with  approaching  the 
+
+panel/SEBI process for any grievances. This provision read with Ss. 15Y and 20A 
+
+of SEBI Act, 1992 should provide comfort to both proxy advisors and companies 
+
+against abuse of power. 
+
+e. 
+
+In  M&A  transactions,  substantial  value  addition  can  be  provided  through  an 
+
+analytical view of the facts based on publicly available information. 
+
+f. 
+
+Improving  the  plumbing  of  voting,  and  appropriate  advocacy,  so  that  retail 
+
+investors also actively participate in voting in shareholder meetings. A framework 
+
+may be created for proxy advisors to reach retail investors and encourage them to 
+
+vote. In order to increase the participation of retail investors in the voting process, 
+
+necessary  link  may  be  available  on  stock  exchange  website  alongside  corporate 
+
+notice issued in this regard.  
+
+g. 
+
+The Working Group believes the advent of proxy advisors along with several other 
+
+technological  advances  and  behavioral  improvements  in  institutional  investors 
+
+involvement  have  all  contributed  towards  a  more  responsible  investor,  in  turn 
+
+altering the actions of the companies for the better.  SEBI should employ the use 
+
+of  modern  technology  to  democratize  and  empower  investors  further  as  new 
+
+technologies make it easier to implement such benefits. 
+
+h. 
+
+SEBI could consider providing a code of conduct under the RA Regulations which 
+
+should be followed by foreign proxy advisors as it should also apply to domestic 
+
+proxy advisors. These should be principle based and focused on broad principles 
+
+of fairness, disclosure and conflict and based on a comply or explain basis. It would 
+
+be  unfair  to  subject  global  proxy  advisors  to  regulations  as  it  would  have  the 
+
+unintended  consequence  of  international  proxy  advisors  shunning  India.  This 
+
+would be a self goal for corporate governance in India. 
+
+SEBI  may  review  and  eliminate  the  current  requirement  of  networth  as  it  is 
+
+irrelevant to the work that proxy advisors do. 
+
+SEBI  may  consider  mandating  companies  to  provide  complete  and  timely 
+
+disclosures,  increase  release  schedule  of  AGM  notices,  and  provide  for  vote 
+
+confirmations. To increase transparency, voting guidelines and policies of proxy 
+
+i. 
+
+j. 
+
+advisors may be made public. 
+
+96.  Proxy  advisors  may  introduce  a  voluntary  best  practices  code  for  the  industry  on  a 
+
+‘comply or  explain’ basis as they develop  and evolve. The institutional  investors may 
+
+adopt  an  industry  wide  stewardship  code,  on  a  ‘comply  or  explain’  basis,  concerning 
+
+38 
+
+ 
+
+ 
+
+principles  that  the  institutional  investors  are  expected  to  follow  to  enhance  the 
+
+governance framework. 
+
+97.  We recommend that SEBI may like to obtain public comments on the substantive matters 
+
+stated in this report before any regulatory review is undertaken. 
+
+ 
+
+39 
+
+

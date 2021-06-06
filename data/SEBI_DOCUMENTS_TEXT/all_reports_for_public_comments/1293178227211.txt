@@ -1,0 +1,312 @@
+“Review of SEBI (DIP) Guidelines 2000- Proposals - Series VIII ” 
+
+“Recommendations and Suggestions made by the Primary Market Advisory 
+
+ 
+
+Committee (PMAC)” 
+
+ 
+[Comments on the recommendations and suggestions  may be sent to the Corporation 
+Finance  Department,  Division  of  Issues  &  Listing,  SEBI  or  emailed  to  Ms.Usha 
+Rangarajan,  Manager  at    ushar@sebi.gov.in,    or  Ms.  Neelam  Bhardwaj,  DGM,  at 
+neelamb@sebi.gov.in or faxed to 91-22-22045633 on or before October 14, 2004] 
+ 
+The PMAC  had  constituted  a  subgroup  (SG)  to  review  the  book  building  guidelines.   
+Among  other  issues,  the  subgroup  made  various  recommendations  pertaining  to  the 
+existing framework of book building.   
+ 
+The subgroup  report  was  also  deliberated  upon  by  PMAC. Pursuant to the same, the 
+following recommendations have been approved by the PMAC. 
+ 
+1.  Redefining allocation buckets:  
+ 
+
+At  present,  in  a  book  built  issue  Qualified  Institutional  Buyers  (QIBs),  Non 
+Institutional  Buyers  (NIBs) and Retail investors are allotted in the ratio of 50:25:25 
+respectively. It was observed from the analysis of book built  issues done by SEBI 
+that in most of the cases, the  NIBs leverage IPO financing and are the maximum 
+sellers  in  the  market  as  soon  as  the  issue  opens  for  trading..  There  was  also  a 
+possibility of bank/ NBFC financing leading to ramping up of prices on listing. 
+In order to curb excessive speculation  and also in a deliberate effort to increase 
+retail participation, the subgroup  recommends reduction in allocation to NIBs and 
+increase in allocation to retail.  The sub group recommends the following allocation 
+criteria, which has also been approved by PMAC : 
+
+ 
+(I)  Mandatory Book Building: 
+ 
+(a)  where Book Building is being used to satisfy the eligibility norms in terms of 
+
+DIP Guidelines 
+ 
+
+•  Not less than 35% to retail investors 
+•  Not more than 15% to NIBs 
+•  Not less than 50% to QIBs 
+
+•  Not less than 30% to retail investors 
+•  Not more than 10 % to NIBs 
+•  Not less than 60% to QIBs 
+
+ 
+(b)  Where Book Building is being used to satisfy Rule 19(2)(b) of SCRR 1957 
+ 
+
+ 
+
+- 1 - 
+
+ 
+(II)  Voluntary Book building (Where issuer is otherwise eligible in terms of DIP 
+
+Guidelines and is using Book Building to discover the price) 
+
+•  Not less than 35% to retail investors 
+•  Not more than 15% to NIBs 
+•  Not more than 50% to QIBs 
+
+The  above  criteria  would  normally  apply  to  the  issues,  the  exception  being 
+undersubscription.    In  the  event  of  under  subscription,  the  above  allocation 
+categories would not apply and there would be full fungibility among categories.  
+The  disclosures  in  the  offer  document  should  clearly  specify  the  manner  of 
+allocation among categories in the event of undersubscription. 
+For issues falling under category (I)(b), the allocation to NIBs and retail would be 
+30% and 10% respectively 
+
+ 
+2.  Redefining retail investor (RII) 
+ 
+
+The guidelines presently define the RII, in value terms as one who can apply for 
+shares upto a maximum amount of Rs.50,000. It is observed that the said limit is too 
+small, particularly in the context of large size book built issues. It also appears that 
+the small limit is the prime reason for several investors to make multiple applications 
+in order to satisfy their investment appetite. Also the transaction costs are relatively 
+higher for the retail investment capped at  Rs.50,000/-. 
+
+There is also a need to widen the retail investor base in general and particularly in 
+view  of  the  proposed  increase  in  allocation  to  retail.  In  this  regard,  the  SG 
+recommends that a retail investor be defined as one who can apply upto Rs.1 lac in 
+a primary issue.  This recommendation  has also been approved by PMAC. 
+
+ 
+3.  Reduction in bidding period. 
+ 
+
+ 
+
+ 
+
+ 
+
+The sub group also deliberated on the issue of the hype surrounding book building.  
+In an open book system the price/bid details received are in public.   As a result, 
+there are frequent updates in the media regarding the oversubscription lead to hype.  
+This practice could also mislead potential investors to overbid, quote higher prices 
+as well as induce an otherwise unwilling investor to bid.  The sub group opines that 
+while regulating the media reporting was not possible, certain measures could be 
+taken to address the hype and related consequences. One of the recommendation 
+of the SG, which has also been approved by PMAC, is to reduce the bidding period 
+from current 7  –  10  days  to  3-7 working days. Further to address the same issue, 
+the  SG  also  recommends  that  NSE/  BSE  should  bring  more  transparency  and 
+congruency in reporting of the bid data along with relevant details.  This aspect is 
+detailed in next point  
+
+ 
+
+- 2 - 
+
+ 
+4.  Data reporting at website of stock exchanges. 
+ 
+
+The  PMAC  approves  the  recommendation  of  the  SG that there should be uniform 
+data display on the websites of both the stock exchanges.  The Stock Exchanges 
+should  display  the  consolidated  figures  for  both the exchanges and should ensure 
+that  they  communicate  among  themselves  to  ensure  congruency  in  the  data 
+displayed.  The  first  set  of  data  that  is  displayed  about  the  book  should  be  the 
+consolidated figures of both these exchanges. Anyone further interested in knowing 
+the breakup maybe given the details on clicking further. 
+
+The data pertaining to an issue should be displayed on the site for a further period 
+of 3 days after the closure of the bids/issue. 
+
+There  should  be  a  common  book  between  NSE  &  BSE.  The  graph  should  be 
+separately  showing  the  bids  received  category  wise,  preferably  in  the  format  as 
+under :  
+
+ 
+
+ 
+
+ 
+
+QIBs 
+NIBs 
+RIs 
+
+Sr.No  Category  
+1 
+2 
+3 
+3 (a) 
+3 (b) 
+ 
+
+Cut off 
+Price bids 
+All categories  
+
+                      
+
+No of shares bid for                  
+ 
+ 
+ 
+ 
+ 
+ 
+
+% of total meant for the 
+category 
+ 
+ 
+ 
+ 
+ 
+ 
+
+•  The graph should have the title “Graphical display of bids received”   
+•  A  statement  to  the  effect  that  the  position  indicated  above  is  only  bids 
+position  and  does  not  convey  in  any  way  the  subscription  to  the issue. The 
+bids can be revised and/or withdrawn………”  
+
+•  Clarificatory Notes  like   
+-   QIB category is not required to pay any margins 
+-   NIBs and RIs have paid 100% margins while giving the bids 
+-   All the categories can revise the bids till closure of bids 
+-   QIBs  are  not  allowed  to  withdraw  their  bids  once  made  except  for  the 
+•  Statement as to how the multiple bids/ revision in bids etc are accounted for 
+
+purpose of revising the same. 
+
+in the data and graph. 
+
+ 
+
+5.  Role of discretion  
+ 
+
+The  SG  deliberated  extensively  on  the role of discretion granted to the BRLMs as 
+regards  the  allocation  to  QIBs.    In  this  regard,  the  group  observed  that,  as  per 
+existing practice, the shares are allocated to QIBs based on various parameters, like 
+prior commitment, investor quality, price aggression, earliness of bids etc.  The SG 
+explored various options viz., 
+
+ 
+
+- 3 - 
+
+•  Doing  away  with  discretion,  in  which  case  allocation  to  QIBs  would  be 
+
+proportionate or based on some objective criteria. 
+
+•  Prior  disclosures  of  parameters  in  the  document  and  reporting  of  the 
+
+allocation done to QIBs, on the request of SEBI 
+
+The  subgroup  observed  that  the  guidelines  envisage  price  discovery  by  QIBs, 
+because  of  which,  mandatory  book  building  provides  for  upto  50%  reservation  in 
+allocation  to  QIBs.    It  was  also  informed  that in case of allocation to QIBs, various 
+factors were to be considered including quality of investor, commitment to specific 
+sector, investment objectives, prior track record etc.  These factors could vary from 
+one issue to another.  As such, exhaustive disclosures of all the parameters would 
+be difficult.   In the absence of discretion, any QIB investor, irrespective of quality, 
+investment objectives etc. could get the shares allocated, which arguably may not be 
+in the best interests of the issuer, the market and the investor. The SG also observed 
+that an analysis of the recent book built issues carried out by SEBI had revealed that 
+QIBs are the most stable holders as against NIBs, who exit immediately on listing.  
+The SG opines that while on the one hand objective parameters for QIBs may not be 
+practicable, on the other hand, it is essential to ensure that the discretion granted to 
+merchant bankers, is not misused. 
+
+In  view  of  the  above,  the  SG  recommends  that  the  broad  parameters  on  which 
+allocation is made to QIBs, should be disclosed in the  offer document.  The PMAC 
+has also approved the said recommendation. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+6.  Announcement of Price Band/ Floor Price   
+ 
+
+As regards announcement of price band, PMAC opined that disclosure of price band 
+/ floor price in the Red Herring Prospectus (RHP) / application form be retained, as a 
+matter of price guidance to the investors.  This was particularly important in case of 
+an unlisted company in respect of whose shares, there is no secondary market price 
+guidance.  
+
+However  in  case  of  listed  companies,  since  price  guidance  is  available  in  form  of 
+secondary market prices, the requirement of disclosing the price band in the RHP / 
+application form may be done away with, subject to upfront disclosures in the offer 
+document regarding the following : 
+
+i.  Advising investors to be guided by the secondary market prices.  
+ii.  Due  disclosures  stating  that  the  price  band  /  floor  price  would  be 
+announce by the issuer / merchant banker, one day before the bid opens  
+
+iii.  Mode of announcement whether through advertisement etc. 
+iv. 
+
+The name of the specific news papers and websites, television channels 
+etc. wherein the said advertisement would be made. 
+
+- 4 - 
+
+ 
+7.  Deletion of redundant provisions in the book building guidelines. 
+ 
+
+The  book  building  guidelines  provide  for  75%  book  building  and  100%  book 
+building.  While 100% book building has been widely used, the 75% book building 
+has been rarely used. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The guidelines pertaining to 75% book building,  provides for issue of 75% of the net 
+offer  to  the  public    through  book  building  and  the  balance  25%  at  the  price 
+determined through book building.  This results in extension of time, as  in the first 
+instance, there is bidding period for price discovery followed by a period of time for 
+which  the  issue  is  open  to  25%  of  the  public  to  invest.    There  are  also  cost 
+implications on account of different types of forms etc. 
+
+The  subgroup  recommends  deletion  of  provisions  pertaining  to  75%  book  building 
+as well as consequential amendments. The PMAC has approved the same. 
+
+- 5 - 
+
+  
+ 
+
+ 
+
+- 6 - 
+
+

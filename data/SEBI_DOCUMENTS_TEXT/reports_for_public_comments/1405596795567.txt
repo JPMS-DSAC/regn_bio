@@ -1,0 +1,4599 @@
+Draft SEBI (Infrastructure Investment Trusts) Regulations, 2014 
+
+SEBI  had  come  out  with  a  consultation  paper  on  Infrastructure  Investment  Trusts 
+("InvITs")  on  December  20,  2013  on  which  comments  were  sought  till  January  20, 
+2014.  
+
+In the Budget for FY 2014-15, identifying the needs and requirement of Infrastructure 
+sector, Hon'ble Finance Minister announced as under: 
+
+'….As  an  innovation,  a  modified  REITS  type  structure  for  infrastructure  projects  is 
+also  being  announced  as  Infrastructure  Investment  Trusts  (InvITs),  which  would 
+have  a  similar  tax  efficient  pass  through  status,  for  PPP  and  other  infrastructure 
+projects.  These  structures  would  reduce  the  pressure  on  the  banking  system  while 
+also  making  available  fresh  equity.  I  am  confident  these  two  instruments  would 
+attract long term finance from foreign and domestic sources including the NRIs… 
+
+…  I  have provided a  conducive tax  regime  for  Infrastructure  Investment  Trusts and 
+Real  Estate  Investment  Trusts  to  be  set  up  in  accordance  with  regulations  of  the 
+Securities and Exchange Board of India..' 
+
+In  pursuance  to  the  Budget  Announcement,  Finance  Bill  for  FY2014-15  provided 
+various provisions in the Income Tax Act with respect to InvITs.  
+
+Based  on  the  comments  received  on  the  consultative  paper  and  the  Budget 
+announcement,  a  separate  regulatory  framework  under  draft  SEBI  (Infrastructure 
+Investment  Trusts)  Regulations,  2014  (referred  to  as  "Regulations"  hereafter)  is 
+being proposed for introducing InvITs in India.  
+
+Salient features of the draft Regulations are as under: 
+
+1.  InvITs are proposed to provide a suitable structure for financing/refinancing of 
+
+infrastructure projects in the country.  
+
+2.  Infrastructure  is  as  defined  by  Cabinet  Committee  on  Infrastructure  vide 
+Notification of Ministry of Finance dated March 1, 2012 and shall include any 
+amendments/additions made thereof.  
+
+3.  InVITs shall invest in infrastructure projects, either directly or through SPV. In 
+
+case of PPP projects, such investments shall only be through SPV.  
+
+4.  An InvIT which proposes to invest atleast 80% of the value of the assets in the 
+completed  and  revenue  generating  Infrastructure  assets,  shall  raise  funds 
+only through public issue of units and minimum subscription size and trading 
+lot for such InvIT shall be Rs five lakhs. Rest 20% may be invested in under 
+construction  infrastructure  projects  (subject  to  maximum  of  10%)  and  other 
+permissible investments. 
+
+5.  An InvIT which proposes to invest more than 10% of the value of their assets 
+in  under  construction  infrastructure  projects  shall  necessarily  raise  funds 
+through  private  placement  from  Qualified  Institutional  Buyers  and  body 
+corporate and the minimum investment and trading lot for such InvITs shall be 
+of  Rs.  1  crore.  Such  InvITs  shall  mandatorily  invest  in  not  less  than  one 
+completed  and  revenue  generating  project  and  not  less  than  one  pre-COD 
+project.  
+
+6.  Listing  shall  be  mandatory  for  both  publicly  offered  and  privately  placed 
+
+InvITs. 
+
+7.  An InvIT prior to making an offer of units, either through public issue or private 
+placement,  may  have  Strategic  Investors  such  as  banks,  international 
+multilateral  financial  institutions,  FPIs  including  sovereign  wealth  funds,  etc.,  
+which together invest not less than 5% of the size of the InvIT or such amount 
+as may be specified by the Board. 
+
+8.  An  InvIT  shall  be  a  trust  with  parties  such  as  Sponsor(s),  Investment 
+
+Manager, Trustee and Project Manager(s). 
+
+9.  A trustee of InvIT can either be: 
+
+a.  a Debenture Trustee registered with SEBI and not an associate of the 
+
+sponsor(s)/investment manager; or 
+
+b.  an associate of  the  sponsor/investment manager  having  not  less  than 
+50% of its directors as independent and not related parties to the InvIT; 
+
+However,  a  trustee  of  InvIT  cannot  be  trustee  to  another  InvIT  or  an 
+Alternative Investment Fund engaged in infrastructure sector. 
+
+10. The  proposed  holding  of  an  InvIT  in  the  underlying  assets  shall  be  not  less 
+than Rs 500 crore and the offer size of the InvIT shall not be less then Rs 250 
+crore at the time of initial offer of units. 
+
+11. The aggregate  consolidated borrowing  of  the  InvIT  and  the  underlying  SPVs 
+shall  never  exceed  49%  of  the  value  of  InvIT  assets.  However,  this  may 
+exclude any debt infused by the InvIT in the underlying SPV. Further, for any 
+borrowing  exceeding  25%  of  the  value  of  InvIT  assets,  requirement  of  credit 
+rating and unit holders approval has been made mandatory. 
+
+ 
+ 
+
+ 
+
+Draft regulations are enclosed for public comments. Comments may be forwarded by 
+email  to  Ms.  Nila  Salil  Khanolkar,  Assistant  General  Manager  (nila@sebi.gov.in)  or 
+Mr.  Naveen  Gupta,  Assistant  Manager  (naveeng@sebi.gov.in)  latest  by  July  24, 
+2014. 
+
+ Comments should be given in the following format: 
+
+Name of entity/ person/ intermediary: 
+Sr.
+No 
+
+Pertains  to  which  Regulation  /sub 
+regulation  
+
+ 
+
+ 
+
+ 
+
+Issued on: July 17, 2014 
+
+Proposed/ 
+suggested 
+changes 
+ 
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DRAFT REGULATIONS 
+
+ 
+
+THE GAZETTE OF INDIA  
+
+EXTRAORDINARY 
+
+PART – III – SECTION 4 
+
+PUBLISHED BY AUTHORITY 
+
+NEW DELHI, _______       , 2014 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+NOTIFICATION 
+
+Mumbai, the     th   _______, 2014 
+
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+(INFRASTRUCTURE INVESTMENT TRUSTS) REGULATIONS, 2014 
+
+ 
+
+In exercise of the powers conferred by Section 30 read with Section 11 
+and  12  of  the  Securities  and  Exchange  Board  of  India  Act,  1992  (15  of  1992),  for 
+laying  a  framework  for  Infrastructure  Investment  Trusts  and  registration  and 
+regulation  thereof,  the  Securities  and  Exchange  Board  of  India  hereby,  makes  the 
+following regulations, namely, — 
+
+CHAPTER I 
+
+PRELIMINARY 
+
+Short  title  and 
+commencement 
+
+1. 
+
+ (1) These  regulations  may  be  called  the  Securities  and 
+Exchange  Board  of  India  (Infrastructure  Investment 
+Trusts) Regulations, 2014. 
+
+(2) These  regulations  shall  come  into  force  on  the  date  of 
+
+their notification in the Gazette of India. 
+
+Definitions 
+
+2. 
+
+ (1)  In  these  regulations,  unless  the  context  otherwise 
+requires,  the  terms  defined  herein  shall  bear  the 
+meanings  assigned  to  them  below,  and  their  cognate 
+
+expressions shall be construed accordingly,–   
+
+(a) ―Act‖  means  the  Securities  and  Exchange  Board  of 
+
+India Act, 1992 (15 of 1992); 
+
+(b) ―Associate‖ of any person includes: 
+
+(i)  any  person  controlled,  directly  or  indirectly,  by 
+
+the said person;  
+
+(ii)  any  person  who  controls,  directly  or  indirectly, 
+
+the said person,  
+
+(iii) any  entity  or  person  under  common  control 
+
+with the said person;  
+
+(iv) where the said person is a company or a body 
+corporate, any person(s) who is designated as 
+promoter(s)  of  the  company/body  corporate 
+and  any  other  company/body  corporate  with 
+the same promoter(s); 
+
+(v) where  the  said  person  is  an  individual,  any 
+
+relative of the individual;  
+
+(vi) where the said person is a company or a body 
+
+corporate or an LLP, its group companies;  
+
+(vii)  companies/LLPs 
+
+under 
+
+the 
+
+same 
+
+management;  
+
+(viii)  where  the  said  person  is  an  InvIT,  related 
+
+parties to the InvIT; 
+
+(ix) any  company  or  LLP  or  body  corporate  in 
+which  the  person  or  its  director(s)/partner(s) 
+hold,  either  individually  or  collectively,  more 
+than fifteen percent of its paid-up equity share 
+capital or partnership interest, as the case may 
+be; 
+
+(c) "Board" means the Securities and Exchange Board of 
+
+India established under section 3 of the Act; 
+
+(d) ―body corporate‖ shall have  the meaning assigned to 
+it  in  or  under  sub-section  (11)  of  section  2  of  the 
+Companies Act, 2013; 
+
+(e) ―Bonus  issue‖  means  additional  units  allotted  to  the 
+unit  holders  as  on  the  record  date  fixed  for  the  said 
+purpose, without any cost to the unit holder; 
+
+(f)   ―certificate‖ means a certificate of registration granted 
+
+under these regulations; 
+
+(g) "change  in  control"  in  relation  to  a  company,  LLP  or 
+
+body corporate, means: 
+
+(i)  In  case  of  a  company  or  body  corporate, 
+change  in  control  within  the  meaning  of  sub-
+section (27) of Section 2 of the Companies Act, 
+2013; 
+
+(ii)  in  any  other  case,  change  in  the  controlling 
+
+interest. 
+
+Explanation.─  For  the  purpose  of  sub-clause  (ii),  the 
+expression  ―controlling  interest‖  means  an  interest, 
+whether  direct  or  indirect,  to  the  extent  of  more  than 
+fifty percent of voting rights or interest; 
+
+(h)  ―company‖ means a company as defined under sub-
+section (20) of section 2 of the Companies Act, 2013. 
+
+(i)  "Completed  and  revenue  generating  project"  means 
+an Infrastructure Project , which prior to the date of its 
+acquisition  by,  or 
+Infrastructure 
+Investment Trust, satisfies the following conditions: 
+
+transfer 
+
+to, 
+
+the 
+
+relevant  project  agreement 
+
+(i)  the  Infrastructure  Project  has  achieved  the 
+commercial  operation  date  as  defined  under 
+the 
+including 
+concession  agreement,  power  purchase 
+agreement or any other agreement of a similar 
+nature  entered  into  in relation to the  operation 
+of a project or any agreement entered into with 
+the lenders; 
+
+(ii)  the  Infrastructure  Project  has  received  all  the 
+for 
+
+requisite  approvals  and  certifications 
+commencing operations;    
+
+(iii) the assets underlying the Infrastructure Project 
+have  been  capitalised  in  the books  of  account 
+of 
+the 
+Infrastructure Investment Trust; and  
+
+the  special  purpose  vehicle  of 
+
+(iv) the  Infrastructure  Project  has  been  generating 
+revenue  from  operations  for  a  period  of  not 
+less than one year;        
+
+(j)   ―Concession  agreement‖  means  an  agreement 
+entered  into  by  a  person  with  a  concessioning 
+
+authority  for  the  purpose  of  implementation  of  the 
+project as provided in the agreement; 
+
+(k)  ―Concessioning  authority‖  shall  mean  the  public 
+
+sector concessioning authority in PPP projects; 
+
+(l)   ―Credit  Rating  Agency‖  shall  mean  a  Credit  Rating 
+the 
+
+the  Board  under 
+Agency 
+SEBI(Credit Rating Agencies) Regulations, 1999; 
+
+registered  with 
+
+(m)―Custodian‖  means  a  person  registered  with  the 
+Board  under  the  SEBI  (Custodian  of  Securities) 
+Regulations, 1996; 
+
+(n) ―Designated  stock  exchange‖  means  a  recognised 
+stock exchange in which units of an InvIT are listed or 
+proposed  to  be  listed  and  which  is  chosen  by  the 
+InvIT as a designated stock exchange for the purpose 
+of  a  particular  issue  of  the  units  of  the  InvIT  under 
+these regulations: 
+
+Provided  that  where  one  or  more  of  such  stock 
+exchanges  have  nationwide  trading  terminals,  the 
+InvIT  shall  choose  one  of  them  as  the  designated 
+stock exchange: 
+
+Provided  further  that  the  InvIT  may  choose  a 
+different  recognised  stock  exchange  as  a  designated 
+stock  exchange  for  any  subsequent  issue  of  units  of 
+the InvIT under these regulations. 
+
+(o) "Eligible 
+
+infrastructure 
+
+an 
+Infrastructure  Project  which,  prior  to  the  date  of  its 
+acquisition  by,  or 
+Infrastructure 
+Investment Trust, satisfies the following conditions: 
+
+project"  means 
+
+transfer 
+
+to, 
+
+the 
+
+(i)  For PPP projects: 
+
+(1) 
+
+(2) 
+
+the Infrastructure Project is completed and 
+revenue generating , or 
+
+the  Infrastructure  Project  is  a  pre-COD 
+project; 
+
+(ii)  In Non-PPP projects, the Infrastructure Project 
+has  received  all  the  requisite  approvals  and 
+certifications  for  commencing  construction  of 
+the  project  and  has  been  rated  by  a  credit 
+rating agency; 
+
+(p)  ―Follow–on  Offer‖  means  offer  of  units  of  a  an  InvIT 
+
+to the public for subscription and includes an offer for 
+sale  of  InvIT  units  by  an  existing  unit  holder  to  the 
+public; 
+
+(q) ―Follow-on  Offer  Document‖  means  any  offer 
+document  by  which  follow-on  offer  is  made  to  the 
+public by an InvIT; 
+
+(r)   ―Form‖  means  any  of  the  forms  set  out  in  the 
+
+Schedule I of these Regulations. 
+
+(s) ―Infrastructure‖  includes  all  infrastructure  sub-sectors 
+as  defined  by  Cabinet  Committee  on  Infrastructure 
+vide Notification of Ministry of Finance dated March 1, 
+2012  and  shall  include  any  amendments/additions 
+made thereof; 
+
+(t)  "Infrastructure  project"  means  any  project 
+
+in 
+
+infrastructure sector; 
+
+Provided that any project which has either or both of 
+the following attributes shall not be considered as an 
+infrastructure  project 
+this 
+regulation:  
+
+the  purposes  of 
+
+for 
+
+(i)  the revenues/profits generated from the project 
+are treated as rental or leasehold income from 
+an  accounting  perspective  in  the  books  of  the 
+company executing such project or are liable to 
+be 
+the  applicable 
+accounting standards or practices;  
+
+treated  as  such  under 
+
+(ii)  the immovable assets related to the project are 
+not  treated  as  fixed  assets,  but  as  investment 
+properties  from  an  accounting  perspective  in 
+the  books  of  the  company  executing  such 
+project  or  are  liable  to  be  treated  as  such 
+under  the  applicable  accounting  standards  or 
+practices. 
+
+Explanation:  For  the  purpose  of  this  regulation,  in 
+case of assets such as hospitals or hotels: 
+
+(1) leasing of land or building on which such hospital 
+or  hotel  is  located  shall  not  be  considered  as  an 
+infrastructure  project  for  the  purposes  of  these 
+Regulations; 
+
+(2) if  revenues  are  generated  from  operation  and 
+management of a hospital or hotel, then the same 
+
+shall be considered as Infrastructure Project under 
+these Regulations; 
+
+(u)  ―Initial  Offer‖  means  the  first  offer  of  units  of  an 
+unlisted  InvIT  to  the  public  for  subscription  and 
+includes  an  offer  for  sale  of  the  InvIT  units  by  any 
+existing unit holder in the unlisted InvIT to the public; 
+
+(v) ―Initial  Offer  document‖  means  an  offer  document  by 
+
+which initial offer is made to the public by an InvIT; 
+
+(w)  ―inspecting authority‖ means any one or more person 
+appointed by the Board  to exercise powers conferred 
+under Chapter V of these Regulations; 
+
+(x) ―Investment  Management  Agreement‖  means  an 
+agreement  between  the  Trustee  and  the  Investment 
+Manager  which 
+roles  and 
+responsibilities  of  the  Investment  Manager  towards 
+the  InvIT  including  as  specified  in  Regulation  10  of 
+these Regulations; 
+
+lays  down 
+
+the 
+
+(y) ―InvIT‖ or 'Infrastructure Investment Trust' means any 
+person registered as a Infrastructure Investment Trust 
+under these Regulations; 
+
+(z)  ―InvIT  assets‖  means  assets  owned  by  the  InvIT 
+whether directly or through a Special Purpose Vehicle 
+and  includes  all  rights,  interests  and  benefits  arising 
+from and incidental to ownership of such assets;  
+
+(aa) 
+
+―Lead member‖ means the lead member of the 
+Concessionaire  SPV  for  PPP  projects  as  defined  in 
+the Project Documents; 
+
+(bb) 
+
+ ―Listed InvIT‖ means an InvIT whose units are 
+
+listed on a recognized stock exchange; 
+
+(cc) 
+
+"LLP" means a Limited Liability Partnership as 
+defined  under  The  Limited  Liability  Partnership  Act, 
+2008.  
+
+(dd) 
+
+―Investment  Manager‖  means  a  company  or 
+LLP  or  body  corporate  which  manages  assets  and 
+investments  of  the  InvIT  and  undertakes  activities  of 
+the InvIT as specified under Regulation 10; 
+
+(ee) "Net  Asset  Value‖  means  the  value  of  the  InvIT 
+divided  by  the  number  of  outstanding  units  as  on  a 
+particular date;  
+
+(ff) ―net  worth‖  in  relation  to  a  company  or  a  body 
+corporate shall have  the meaning assigned to it in or 
+under sub-section (57) of section 2 of the Companies 
+Act, 2013;.  
+
+(gg) ―Non-PPP  project‖  means  an  infrastructure  project 
+
+that is not a PPP project; 
+
+(hh) "Offer document" means any document described or 
+issued  as  an  offer  document  including  any  notice, 
+circular,  advertisement  or  other  document  inviting 
+offers from the public for the subscription or purchase 
+of  units  of  the  publicly  offered  InvIT  and  includes 
+initial  offer  document,  follow-on  offer  document  and 
+any other offer document as may be specified by the 
+Board; 
+
+(ii)  ―Parties to the InvIT‖ shall include the sponsor(s), re-
+designated  sponsor(s),  Investment  Manager,  Project 
+Manager and the Trustee 
+
+(jj)  ―Placement  Memorandum‖  means  any  document(s) 
+through which private placement of units of the InvIT 
+is made to selected persons; 
+
+(kk)  ―PPP  project‖  means  an 
+
+infrastructure  project 
+undertaken  on  a  Private-Public  Partnership  basis 
+between  a  public  concessioning  authority  and  a 
+private  SPV  concessionaire  selected  on  the  basis  of 
+open competitive bidding; 
+
+(ll)  ―Pre-COD  project‖  means  an  infrastructure  project 
+
+which : 
+
+the 
+
+including 
+
+(i)  has  not  achieved  commercial  operation  date 
+as  defined  under 
+relevant  project 
+agreements 
+the 
+concession 
+agreement, power purchase agreement or any 
+other  agreement  of  a  similar  nature  entered 
+into  in  relation  to  the  operation  of  a  project  or 
+any  agreement  entered  into  with  the  lenders; 
+and 
+
+(ii)  has: 
+
+(1) 
+
+achieved  completion  of  at  least 
+the 
+50%  of 
+infrastructure  project  as  certified  by  an 
+independent  engineer  of  such 
+that 
+
+the  construction  of 
+
+project; or 
+
+(2) 
+
+expended  not  less  than  50%  of 
+the  total  capital  cost  set  forth  in  the 
+financial package of the relevant project 
+agreement. 
+
+(mm)  ―preferential  issue‖  means  an  issue  of  units  by  a 
+listed  InvIT to any  select  person  or  group  of  persons 
+on a private placement basis and does not include an 
+offer  of  units  made  through  a  public  issue,  rights 
+issue, bonus issue or qualified institutions placement; 
+
+(nn)  ―Project Manager‖ means the person designated as 
+the  Project  Manager  by  the  InvIT  responsible  for 
+achieving  execution of  the  project  as  specified under 
+Regulation  11  and  in  case  of  PPP  projects,  shall 
+mean  the  entity  responsible  for  such  execution  and 
+achievement of project milestones in accordance with 
+the  concession  agreement  or  any  other  relevant 
+project document; 
+
+(oo)  ―Public‖ for the purposes of  offer and listing of units 
+means  any  person  other  than  related  party  of  the 
+InvIT  or  any  person  as  may  be  specified  by  the 
+Board. 
+
+Provided that in case any related party to the InvIT is 
+a  Qualified  Institutional  Buyer,  such  person  shall  be 
+included under the term 'public'; 
+
+(pp)  ―Public  issue‖  means  issue  of  units  by  a  publicly 
+offered  InvIT  to  the  public  and  includes  initial  offer 
+and follow-on offer; 
+
+(qq) ―Qualified 
+
+Institutional  Buyer‖  shall  have 
+
+the 
+meaning  assigned  to  it  under  clause  (zd)  of  sub-
+regulation  (1)  of  Regulation  2  of  the  SEBI  (Issue  Of 
+Capital  And  Disclosure  Requirements)  Regulations, 
+2009; 
+
+(rr) ―Qualified  Institutions Placement‖  means  allotment  of 
+units  by  a  listed  InvIT  to  qualified  institutional  buyers 
+on  private  placement  basis 
+these 
+regulations; 
+
+terms  of 
+
+in 
+
+(ss)   ―Recognised  stock  exchange‖  means  any  stock 
+exchange which is recognised under section 4 of the 
+Securities  Contracts  (Regulation)  Act,  1956  (42  of 
+
+1956); 
+
+(tt) "Re-designated  sponsor"  means  any  person(s)  who 
+has/have assumed the responsibility of the sponsor(s) 
+as  provided  under  Regulation  12  from  the  person(s) 
+designated as sponsor  
+
+(uu)   ―Related parties of the InvIT‖ shall include: 
+
+(i)  Parties to the InvIT; 
+
+(ii)  Any  unit  holder  holding,  directly  or  indirectly, 
+
+more than 20% of the units of the InvIT; 
+
+(iii) Associates,  promoters,  directors  and  partners 
+
+of the persons mentioned at (i) and (ii) above; 
+
+(vv)  ―Rights  issue‖  means  an  offer  of  units  by  a  listed 
+InvIT to the unit holders of the InvIT as on the record 
+date fixed for the said purpose; 
+
+(ww)  ―Right-of-first-Refusal‖  or  "ROFR"  of  an 
+
+InvIT 
+means  the  right  given  to  the  InvIT  by  a  person  to 
+enter  into  a  transaction  with  it  before  the  person  is 
+entitled to enter that transaction with any other party; 
+
+(xx)  "Special  Purpose  Vehicle"  means  any  company  or 
+
+LLP: 
+
+(i)   in  which  the  InvIT  holds  or  proposes  to  hold 
+controlling  interest  and  not  less  than  51%  of 
+the equity share capital or interest; and 
+
+(ii)  which  holds  not  less  than  90%  of  its  assets 
+directly  in  infrastructure  projects  and  does  not 
+invest in other Special Purpose Vehicles; and 
+
+(iii) which  is  not  be  engaged  in  any  other  activity 
+other than activities pertaining to and incidental 
+to the underlying infrastructure projects; 
+
+(yy)  ―sponsor‖  means  company(ies)  or  LLP(s)  or  body 
+corporate(s) who set(s) up the InvIT and assigned as 
+such at the time of application made to the Board and 
+in case of PPP projects, shall mean the lead member 
+of the concessionaire SPV; 
+
+(zz)  ‗Strategic Investor‘ means;  
+
+(i)  an  Infrastructure  Finance  Company  registered 
+with  Reserve  Bank  of  India  as  a  Non  Banking 
+Financial Company; 
+
+(ii)  a Scheduled Commercial Bank;  
+
+(iii) International Multilateral Financial Institution;  
+(iv) Systemically  Important  Non  Banking  Financial 
+Companies  registered  with  Reserve  Bank  of 
+India;  
+
+(v) Foreign Portfolio Investor; 
+
+who together invest not less than 5% of the total offer 
+size of the InvIT or such amount as may be specified 
+by the Board from time to time.  
+
+(aaa)  ―Trustee‖  means  a  person  who  holds  the  InvIT 
+assets  in  trust  for  the  benefit  of  the  unit  holders,  in 
+accordance with these regulations; 
+
+(bbb) 
+
+―Unit‖ means beneficial interest of the InvIT; 
+
+(ccc) ―Unit holder‖ means any person who owns units of 
+
+the InvIT; 
+
+(ddd) ―Valuer‖  means  any  person  who  is  a  "registered 
+valuer"  under  Section  247  of  the  Companies  Act, 
+2013 and who has been appointed by the Investment 
+Manager to undertake valuation of the InvIT assets; 
+
+(eee) "Value  of  the  InvIT"  means  value    of  the  InvIT  as 
+assessed  by  the  valuer  based  on  the  infrastructure 
+and other assets owned by the InvIT, whether directly 
+or through SPV excluding any debt/liabilities thereof; 
+
+(2)  The  words  and  expressions  used  and  not  defined  in 
+these  regulations  but  defined  in  the  Act,  the  Securities 
+Contracts  (Regulation)  Act,  1956,  (42  of  1956),  the 
+Companies  Act,  2013  (18  of  2013),  or  any  rules  or 
+regulations  made  thereunder  shall  have  the  same 
+meanings  respectively  assigned  to  them  in  those  Acts, 
+rules  or  regulations  made  thereunder  or  any  statutory 
+modification  or  re-enactment  thereto,  as  the  case  may 
+be. 
+
+CHAPTER II 
+
+REGISTRATION OF INFRASTRUCTURE INVESTMENT TRUSTS 
+
+Registration 
+of        
+Infrastructure 
+Investment 
+Trusts 
+
+3. 
+
+ (1)  No  person  shall  carry  out  any  activity  of  an  InvIT  
+unless  it  is  registered  with  the  Board  under  these 
+regulations;  
+
+that 
+
+to 
+Provided 
+Infrastructure  Debt  Fund  Schemes  of  Mutual  Funds 
+and  Category  I  and  II  Alternative  Investment  Funds 
+
+this  clause  shall  not  apply 
+
+engaged in the infrastructure sector registered with the 
+Board  under  the  SEBI  (Mutual  Funds)  Regulations, 
+1996  or  SEBI 
+(Alternative 
+Investment  Funds) 
+Regulations, 2012 respectively. 
+
+(2)  An  application  for  grant  of  certificate  of  registration 
+under  sub-regulation  (1)  shall  be  made,  on  behalf  of 
+the Trust  by the Trustee in Form A as specified in the 
+Schedule 
+regulations  and  shall  be 
+accompanied  by  a  non-refundable  application  fee  of 
+such  amount  and  in  the  manner  as  specified  in 
+Schedule II to these regulations;  
+
+these 
+
+I 
+
+to 
+
+(3)  The  Board  may,  in  order  to  protect  the  interests  of 
+investors,  appoint  any  person  to  take  charge  of 
+records,  documents  of  the  applicant  and  for  this 
+purpose,  also  determine  the  terms  and  conditions  of 
+such an appointment; 
+
+(4)  The  Board  shall  take  into  account  requirements  as 
+specified  in  these  regulations  for  the  purpose  of 
+considering grant of registration; 
+
+Eligibility 
+Criteria.  
+
+4. 
+
+ 
+
+4 (1)  For  the  purpose  of  the  grant  of  certificate  to  an 
+applicant, the Board shall consider any matter which it 
+deems  relevant  to  the  activities  as  an  Infrastructure 
+Investment Trust; 
+
+(2)  Without  prejudice  to  the  generality  of  the  foregoing 
+
+provisions, the Board shall consider whether: 
+
+(a) Whether the applicant is a Trust and the instrument of 
+trust  is  in  the  form  of  a  deed  duly  registered  in  India 
+under the provisions of the Registration Act, 1908; 
+
+(b) Whether  the  Trust  Deed  has  its  main  objective  as 
+undertaking  activity  of  InvIT  in  accordance  with  these 
+Regulations  and 
+the 
+Trustee  in  accordance  with  Regulation  9  of  these 
+Regulations; 
+
+responsibilities  of 
+
+includes 
+
+(c) Whether persons have been designated as sponsor(s), 
+these 
+Investment  Manager  and  Trustee  under 
+Regulations and all such persons are separate entities; 
+
+(d) With respect to sponsor(s):  
+
+(i)  Whether the sponsor has: 
+
+(1) 
+
+a net worth of not less than Rs. 10 
+
+crore  if  it  is  a  body  corporate  or  a 
+company; or 
+
+(2) 
+
+net  tangible  assets  of  value  not 
+less  than  Rs  10  crore  in  case  it  is  a 
+Limited Liability Partnership;  
+
+Provided  that  in  case  of  PPP  projects, 
+the  net  worth/net  tangible  assets  shall 
+be  as  defined  in  the  eligibility  criteria  of 
+the project documents; 
+
+(ii)  Whether  the  sponsor  or  its  subsidiary  or  its 
+holding  company  has  a  sound  track  record  in 
+development 
+fund 
+management in the infrastructure sector;  
+
+infrastructure 
+
+of 
+
+or 
+
+Explanation:  For  the  purpose  of  this  clause, 
+‗sound  track  record‘  means  experience  of  at 
+least  5  years  and  where  the  sponsor  is  a 
+developer,  at  least  2  projects  of  the  sponsor 
+have achieved financial closure. 
+
+(e) Whether the Investment Manager has: 
+
+(i)  has  a  net  worth  of  not  less  than  Rs.  5  crore  if 
+the Investment Manager is a body corporate or 
+a  company  or  net  tangible  assets  of  value  not 
+less  than  Rs  5  crore  in  case  the  Investment 
+Manager is a Limited Liability Partnership; and  
+
+(ii)  not  less  than  5  years  experience  in  fund 
+management/  advisory  services/development 
+in the infrastructure sector; and 
+
+(iii) not less than 2 employees who have at least 5 
+years  experience  each,  in  fund  management/ 
+advisory 
+the 
+infrastructure sector; 
+
+services/development 
+
+in 
+
+(iv) not less than one employee who has at least 5 
+years  experience  in  the  relevant  sub-sector(s) 
+in which the InvIT has invested or proposes to 
+invest;  
+
+(v) an  office  in  India  from  where  the  operations 
+pertaining  to  the  InvIT  is  proposed  to  be 
+conducted; and 
+
+(vi) entered 
+
+into  an 
+
+investment  management 
+
+agreement with the Trustee; 
+
+(a) Whether  a  project  implementation  agreement  has 
+been  entered  into  between  the  Project  Manager,  the 
+concessionaire SPV and the Trustee acting on behalf 
+of  the  InvIT  which  sets  out  obligations  of  the  Project 
+Manager with respect to execution of the project; 
+
+Provided  that 
+in  case  of  PPP  projects,  such 
+obligations shall be in accordance with the concession 
+agreement  or  any  such  agreement  entered  into  with 
+the concessioning authority. 
+
+(f)  Whether the Trustee: 
+
+(i)  is either: 
+
+(1) 
+
+registered  with 
+
+the  Board  under 
+SEBI(Debenture Trustees) Regulations, 1993 
+and 
+the 
+sponsor(s)/Investment Manager; or 
+
+associate 
+
+an 
+
+is 
+
+not 
+
+of 
+
+(2) 
+
+if the Trustee is an associate company of 
+the  sponsor/Investment  Manager,  has  not 
+less than 50% of its directors as independent 
+and not related parties to the InvIT; 
+
+(ii)  is not Trustee of another InvIT or an Alternative 
+infrastructure 
+
+in 
+
+Investment  Fund  engaged 
+sector; 
+
+(g)  Whether with respect to units of the InvIT: 
+
+(i)  no  unit  holder  of  the  InvIT  enjoys  preferential 
+voting  or  any  other  rights  over  another  unit 
+holder; 
+
+(ii)  there are no multiple classes of units of InvITs; 
+
+(h)  Whether  the  applicant  has  clearly  described  at  the 
+time  of  registration,  details  pertaining  to  proposed 
+activities of the InvIT;  
+
+(i)  Whether 
+
+the  applicant,  sponsor(s), 
+
+Investment 
+Manager,  Project  Manager(s)  and  Trustee  are  fit  and 
+proper  persons  based  on  the  criteria  as  specified  in 
+Schedule  II  of  the  Securities  and  Exchange  Board  of 
+India (Intermediaries) Regulations, 2008; 
+
+(j)  Whether  any  previous  application 
+
+for  grant  of 
+certificate made by the applicant or any related  party 
+
+has been rejected by the Board;  
+
+(k)  Whether any disciplinary action has been taken by the 
+Board  or  any  other  regulatory  authority  against  the 
+applicant  or  parties  to  the  InvIT  or  their  associates 
+under  any  Act  or  the  Regulations/guidelines  made 
+thereunder; 
+
+Furnishing  of 
+further 
+information, 
+clarification 
+and  personal 
+representation 
+
+ 
+
+Procedure  for 
+grant 
+of 
+certificate 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. 
+
+ 
+
+(1) The Board may require the applicant to furnish any such 
+5 
+information  or  clarification  as  may  be  required  by  it  for 
+the purpose of processing of the application. 
+
+(2) The  Board,  if  it  so  desires,  may  ask  the  applicant  or  its 
+authorized  representative(s)  to  appear  before  the  Board 
+for  personal  representation  in  connection  with  the  grant 
+of certificate. 
+
+6. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(1) The Board on being satisfied that the applicant fulfils, the 
+6 
+requirements  specified 
+in  Regulation  4  shall  send 
+intimation to  the  applicant and  on  receipt  of  the  payment 
+of  registration  fees  as  specified  in  Schedule  II,  grant 
+certificate of registration; 
+
+Provided  that  the  Board  may  grant  in-principle  approval 
+to the applicants, where it deems fit and on satisfaction of 
+all  requirements  as  specified  in  Regulation  4,  shall  grant 
+final registration to the applicant. 
+
+(2) The Board  shall, on receipt of the registration fees, grant 
+
+a certificate of registration in Form B under Schedule I. 
+
+Conditions  of 
+certificate 
+
+7. 
+
+7 The certificate granted under regulation 6 shall, inter-alia, be 
+
+subject to the following conditions:-   
+
+(a) the  InvIT  shall  abide  by  the  provisions  of  the  Act  and 
+
+these regulations;  
+
+(b) the  InvIT  shall  forthwith  inform  the  Board  in  writing,  if 
+any  information  or  particulars  previously  submitted  to 
+the  Board  are  found  to  be  false  or  misleading  in  any 
+material particular or if there is any material change in 
+the information already submitted; 
+
+(c) The InvIT and parties to the InvIT shall satisfy with the 
+
+conditions specified in Regulation 4 at all times; 
+
+(d) The  InvIT  and  parties  to  the  InvIT  shall  comply,  at  all 
+times,  with  the  Code  of  conduct  as  specified  in  the 
+Schedule VI, wherever applicable; 
+
+8. 
+
+Procedure 
+where 
+registration is 
+refused 
+
+8 (1) After  considering  an  application  made  under  Regulation 
+3,  if the  Board  is  of  the  opinion  that  a  certificate  should 
+not  be  granted  to  the  applicant,  it  may  reject  the 
+application  after  giving 
+the  applicant  a  reasonable 
+opportunity of being heard. 
+
+(2) The  decision  of  the  Board  to  reject  the  application  shall 
+be  communicated  to  the  applicant  within  thirty  days  of 
+such decision. 
+
+ 
+
+CHAPTER III 
+
+RIGHTS AND RESPONSIBILITIES OF PARTIES TO THE InvIT, VALUER AND 
+
+AUDITOR 
+
+and 
+Rights 
+Responsibilities 
+of Trustee 
+
+9. 
+
+ (1) The Trustee shall hold the InvIT assets in the name of the 
+InvIT for the benefit of the unit holders in accordance with 
+the Trust Deed and these Regulations;  
+
+(2) The  Trustee  shall  enter  into  the  investment  management 
+agreement with the  Investment  Manager on behalf of the 
+InvIT which shall include responsibilities of the Investment 
+Manager as specified under Regulation 10; 
+
+(3) The  Trustee  shall  oversee  activities  of  the  Investment 
+Manager in the interest of the unit holders, ensure that the 
+Investment Manager complies with Regulation 10 of these 
+Regulations  and  shall  obtain  compliance  certificate  from 
+the Investment Manager every quarter for the purpose;   
+
+(1) The  Trustee  shall  oversee  activities  of 
+
+the  Project 
+Manager other that relating with revenue streams from the 
+projects  with 
+these 
+Regulations and the project management agreement and 
+shall  obtain  compliance  certificate 
+the  Project 
+Manager, in the form as may be prescribed, on a quarterly 
+basis; 
+
+to  compliance  with 
+
+respect 
+
+from 
+
+(4) The  Trustee  shall  ensure  that  the  Investment  Manager 
+undertakes  the  reporting  and  disclosures  in  accordance 
+with  these  Regulations  and  in  case  of  any  delay  or 
+discrepancy,  require  the  Investment  Manager  to  rectify 
+the same on an urgent basis; 
+
+(5) The  Trustee  shall  review  the  transactions  carried  out 
+between  the  Investment  Manager  and  its  associates  and 
+
+where  the  Investment  Manager  has  advised  that  there 
+may  be  a  conflict  of  interest,  shall  obtain  confirmation 
+from  the  auditor  that  such  transaction  is  on  arm's  length 
+basis; 
+
+(6) The  Trustee  shall  periodically  review  the  status  of  unit 
+holders' complaints and their redressal undertaken by the 
+Investment Manager; 
+
+(7) The  Trustee  shall  ensure  that  the  Investment  Manager 
+declares  and  makes  the  distributions  in  accordance  with 
+Regulation 18;  
+
+(8) The  Trustee  may  require  the  Investment  Manager  to  set 
+up such systems and procedures and submit such reports 
+to  the  Trustees,  as  may  be  necessary  for  effective 
+monitoring of the functioning of the InvIT; 
+
+(9) The Trustee shall ensure that subscription amount is kept 
+in  a  separate  bank  account  in  name  of  the  InvIT  and  is 
+only  utilized  for  adjustment  against  allotment  of  units  or 
+refund  of  money  to  the  applicants  till  the  time  such  units 
+are listed; 
+
+(10) The  Trustee  shall  ensure  that  the  remuneration  of  the 
+valuer  is  not  be  linked  to  or  based  on  the  value  of  the 
+assets being valued; 
+
+(11)  The Trustee shall: 
+
+(a) ensure  that  the  Investment  Manager  convenes 
+meetings  of  the  unit  holders  in  accordance  with 
+these Regulations;  
+
+(b) oversee the voting by unit holders; 
+
+(c) maintain  records  pertaining  to  the  meetings  in 
+these 
+
+accordance  with  Regulation  26  of 
+Regulations; 
+
+(12)  The Trustee shall ensure that the Investment Manager 
+convenes  meetings  of  all  unit  holders  of  the  InvITs  not 
+less  than  once  every  year  and  the  time  between  such 
+meetings shall not exceed 15 months; 
+
+(13)  The  Trustee  may  take  up  with  the  Board  or  with  the 
+designated  stock  exchange,  as  may  be  applicable,  any 
+issue  which  has  been  approved  in  any  meeting  of  unit 
+holders, if the issue requires such action; 
+
+(14) 
+
+In  case  of  any  change  in  Investment  Manager  due  to 
+
+removal or otherwise: 
+
+(a) Prior  to  such  change,  the  Trustee  shall  obtain 
+approval  from  unit  holders  in  accordance  with 
+Regulation  22  of  these  Regulations  and  approval 
+from the Board; 
+
+(b) The  Trustee  shall  appoint  the  new  Investment 
+the  date  of 
+
+Manager  within  3  months 
+termination of the earlier Investment Manager; 
+
+from 
+
+(c) The previous Investment Manager shall continue to 
+act  as  such  at  the  discretion  of  Trustee  till  such 
+time as new Investment Manager is appointed.  
+
+(d) The  Trustee  shall  ensure  that  the  new  Investment 
+Manager  shall  stand  substituted  as  a  party  in  all 
+the  documents  to  which  the  earlier  Investment 
+Manager was a party.  
+
+(e) The  Trustee  shall  ensure 
+
+the  earlier 
+Investment  Manager  continues  to  be  liable  for  all 
+its 
+commissions 
+notwithstanding such termination. 
+
+acts 
+
+that 
+
+of 
+
+omissions 
+
+and 
+
+(15) 
+
+In  case  of  any  change  in  the  Project  Manager  due  to 
+
+removal or otherwise: 
+
+(a) The Trustee shall appoint the new Project Manager 
+within 3 months from the date of termination of the 
+earlier Project Manager; 
+
+(b) The Trustee shall, either suo moto or based on the 
+advice  of  the  concessioning  authority  appoint  an 
+administrator  in  connection  with  a  infrastructure 
+Project(s) for such term and on such conditions as 
+it deems fit; 
+
+(c) The previous Project Manager shall continue to act 
+as such at the discretion of Trustee till such time as 
+new Project Manager is appointed; 
+
+(d) All costs and expenses in this regard will be borne 
+
+by the new Project Manager; 
+
+(e) The  Trustee  shall  ensure  that  the  new  Project 
+Manager  shall  stand  substituted  as  a  party  in  all 
+the  documents 
+the  earlier  Project 
+Manager was a party; 
+
+to  which 
+
+(f)  The  Trustee  shall  ensure  that  the  earlier  Project 
+
+Manager  continues  to  be  liable  for  all  its  acts  of 
+omissions  and  commissions  for  the  period  during 
+which 
+the  Project  Manager, 
+notwithstanding such termination. 
+
+it  served  as 
+
+(16)  The  Trustee  shall  obtain  prior  approval  from  the    unit 
+holders 
+these 
+Regulations  and  from  the  Board  in  case  of  change  in 
+control of the  Investment Manager;  
+
+in  accordance  with  regulation  22  of 
+
+(17) 
+
+In case of change in control of the Project Manager in a 
+PPP project, the Trustee shall ensure that written consent 
+of the concessioning authority is obtained in terms of the 
+concession  agreement  prior  to  such  change,  where 
+applicable; 
+
+(18)  The  Trustee  shall  not  invest  in  units  of  the  InvIT  in 
+
+which it is designated as the Trustee;  
+
+(19)  The Trustee shall ensure that the activity of the InvIT is 
+being  operated  in  accordance  with  the  provisions  of  the 
+Trust  Deed, 
+the  Offer 
+Document/Placement  Memorandum 
+any 
+discrepancy is noticed, shall inform the same to the Board 
+immediately in writing; 
+
+these  Regulations  and 
+
+and 
+
+if 
+
+(20)  The Trustee shall immediately inform the Board in case 
+any  action  which  is  detrimental  to  the  interest  of  the  unit 
+holders is observed;  
+
+10. 
+
+Rights 
+and 
+Responsibilities 
+of 
+Investment 
+Manager 
+
+ (1) The  Investment  Manager  shall  make  the  investment 
+decisions  with  respect  to  the  underlying  assets/  projects 
+of the InvIT including any further investment or divestment 
+of the assets;  
+
+(2) The  Investment  Manager  shall  oversee  activities  of  the 
+Project Manager with respect to revenue streams from the 
+projects  and  the  project  management  agreement  and 
+shall  obtain  compliance  certificate 
+the  Project 
+Manager, in the form as may be prescribed, on a quarterly 
+basis; 
+
+from 
+
+(3) The 
+
+Investment  Manager  shall  ensure 
+
+the 
+infrastructure  assets  of  the  InvIT/SPV  have  proper  legal 
+titles,  as  may  be  applicable,  and  that  all  the  material 
+contracts  entered  into  on  behalf  of  InvIT/SPV  are  legal, 
+valid,  binding  and  enforceable  by  and  on  behalf  of  the 
+InvIT/SPV.  
+
+that 
+
+(4) The 
+
+Investment  Manager  shall  ensure 
+
+the 
+investments made by the InvIT are in accordance with the 
+investment conditions specified in  Regulation 18 of these 
+Regulations  and  in  accordance  with  the  investment 
+strategy of the InvIT;  
+
+that 
+
+(5) The  Investment  Manager,  in  consultation  with  Trustee, 
+shall  appoint  the  valuer(s),  auditor,  registrar  and  transfer 
+agent,  merchant  banker,  custodian  and  any  other 
+intermediary/service  provider/agent  as may  be  applicable 
+with respect to activities pertaining to the InvIT in a timely 
+manner and in accordance with these Regulations; 
+
+(6) The  Investment  Manager  shall  appoint  an  auditor  for  a 
+
+period of not more than 5 consecutive years; 
+
+Provided that the auditor, not being an individual, may be 
+reappointed  for  a  period  of  another  5  consecutive  years, 
+subject to approval of unit-holders in the annual meeting in 
+accordance with Regulation 22 of these Regulations.  
+
+(7) The  Investment  Manager  shall  arrange  for  adequate 
+
+insurance coverage for the assets of the InvIT; 
+
+Provided  that  this shall not apply  in case the assets are 
+required to be insured by any other person by way of any 
+agreement  including  a  concession  agreement  or  under 
+any  Act/  regulations/guidelines  of  any  concessioning 
+authority/government/local body. 
+
+(8) The 
+
+Investment  Manager  shall  ensure 
+
+it  has 
+adequate  infrastructure  and  sufficient  key  personnel  with 
+adequate  experience  and  qualification 
+to  undertake 
+management of the InvIT at all times;  
+
+that 
+
+(9) The  Investment  Manager  shall  be  responsible  for  all 
+activities pertaining to issue of units and listing of units of 
+the InvIT including: 
+
+(a) filing of placement memorandum  with the Board; 
+
+(b) filing  the  draft  and  final  offer  document  with  the 
+Board  and  the  exchanges  within  the  prescribed 
+time period; 
+
+(c) Dealing  with  all  matters  up  to  allotment  of  units  to 
+
+the unit holders; 
+
+(d) Obtaining 
+
+in-principle 
+
+approval 
+
+from 
+
+the 
+
+Designated Stock Exchanges; 
+
+(e) Dealing with all matters relating to issue and listing 
+of the units of the InvIT as specified under Chapter 
+IV of these Regulations and any guidelines as may 
+be issued by the Board in this regard; 
+
+(10)  The  Investment  Manager shall ensure that disclosures 
+made  in  the  offer  document/placement  memorandum 
+represent a true and fair view and are in accordance with 
+these  Regulations  and  guidelines/circulars 
+issued 
+thereunder; 
+
+(11)  The  Investment  Manager  shall  declare  and  make 
+distributions  to  the  unit  holders  in  accordance  with  sub-
+regulation (6) of regulation 18 of these Regulations; 
+
+(12)  The  Investment  Manager  shall  review  the  transactions 
+carried  out  between 
+its 
+associates  and  where  the  Project  Manager  has  advised 
+that  there  may  be  a  conflict  of  interest,  shall  obtain 
+confirmation  from  the  auditor  that  such  transaction  is  on 
+arm's length basis; 
+
+the  Project  Manager  and 
+
+(13)  The  Investment  Manager  shall  ensure  adequate  and 
+timely  redressal  of  all  unit  holders'  grievances  pertaining 
+to activities of the InvIT; 
+
+(14)  The   
+
+Investment  Manager  shall  ensure 
+
+the 
+disclosures/reporting  to  the  unit  holders,  Board,  Trustees 
+and  designated  stock  exchanges,  as  may  be  applicable, 
+are  adequate,  timely  and  in  accordance  with  these 
+Regulations and guidelines/circulars issued thereunder; 
+
+that 
+
+to 
+
+(15)  The  Investment  Manager  shall  provide  to  the  Board 
+and 
+the  Designated  Stock  Exchanges,  where 
+applicable, any such information as may be sought by the 
+Board  or  the  Designated  Stock  Exchanges  pertaining  to 
+the activity of the InvIT; 
+
+(16)  The 
+
+Investment  Manager  shall  ensure 
+
+the 
+valuation  of  the  InvIT  assets  is  done  by  the  valuer(s)  in 
+accordance with regulation 21 of these Regulations; 
+
+that 
+
+(17)  The Investment Manager shall submit to the Trustee: 
+
+(a) quarterly  reports  on  the  activities  of  the  InvIT 
+including receipts for all funds received by it and for 
+all  payments  made,  position  on  compliance  with 
+these 
+including 
+compliance  with  regulations  18,19  and  20,  etc., 
+
+Regulations, 
+
+specifically 
+
+performance  report,  status  of  development  of 
+under-construction  projects,  within  30  days  of  end 
+of such quarter;  
+
+(b) valuation 
+
+reports  as 
+
+these 
+Regulations  within  15  days  of  the  receipt  of  the 
+valuation report from the valuer; 
+
+required  under 
+
+(c) decision to acquire or sell or develop or bid for any 
+  or  expand  existing  completed 
+
+asset/project 
+assets/projects along with rationale for the same; 
+
+(d) details  of  any  action  which  requires  approval  from 
+the  unit  holders  as  maybe  required  under  the 
+Regulations; 
+
+(e) details  of  any  other  material  issues  including 
+change  in  its directors,  change in  its shareholding, 
+any  legal  proceedings  that  may  have  a  significant 
+bearing  on  the  activity  of  the  InvIT,  etc.  within 
+seven working days of such action; 
+
+(18) 
+
+In  case  the  Investment  Manager  fails  to  timely  submit 
+to the Trustee information/reports as specified under sub-
+regulation  (17)  above  or  sub-regulation  (8)  of  Regulation 
+(9), the Trustee shall intimate the same to the Board and 
+the Board may take action, as it deems fit.  
+
+(19)  The Investment Manager shall coordinate with Trustee, 
+as  may  be  necessary,  with  respect  to  operations  of  the 
+InvIT; 
+
+(20)  The Investment Manager shall ensure computation and 
+declaration  of  NAV  of  the  InvIT  based  on  the  valuation 
+done by the valuer not later than 15 days from the date of 
+valuation; 
+
+(21)  The Investment Manager shall ensure that the audit of 
+accounts of the InvIT by the auditor is done not less than 
+not  less  than  twice  every  year  and  such  report  is 
+submitted  within  45  days  of  end  of  financial  year  ending 
+March/  half-year  ending  September  to  the  Designated 
+Stock Exchanges; 
+
+(22)  The  Investment  Manager  may  appoint  a  custodian  in 
+order  to  provide  such  custodial  services  as  may  be 
+authorised by the Trustees; 
+
+(23)  The Investment Manager shall place before its Board of 
+Directors a report on activity and performance of the InvIT 
+
+Responsibilities 
+of 
+Project 
+Manager 
+
+11. 
+
+at least once every quarter within 30 days of end of such 
+quarter; 
+
+(24)  The 
+
+Investment  Manager 
+
+shall  designate  an 
+employee/director as the compliance officer for monitoring 
+of compliance with these Regulations and circulars issued 
+thereunder  and  intimating  the  Board  in  case  of  any 
+violation; 
+
+(25)  The Investment Manager shall ensure that all activities 
+of  the  intermediaries/agents/service  providers  appointed 
+by the manager are in accordance with these Regulations 
+and circulars issued thereunder;  
+
+the 
+
+InvIT  assets 
+
+ (1) The  Project  Manager  shall  undertake  operations  and 
+management  of 
+including  making 
+arrangements  for  the  appropriate  maintenance,  as  may 
+be  applicable,  either  directly  or  through  the  appointment 
+and  supervision  of  appropriate  agents  and  as  required 
+under  any  project  agreement  including  a  concession 
+agreement in the case of a PPP project ;  
+
+(2) If  the  InvIT  invests  in  under  construction  projects,  the 
+
+Project Manager : 
+
+(a) Shall undertake the operations and management of 
+the  projects,  either  directly  or  through  appropriate 
+agents; 
+
+(b) Shall  oversee 
+
+the  progress  of  development, 
+approval  status  and  other  aspects  of  the  project 
+upto  its  completion,  in  case  of  appointment  of 
+agents for the purpose of execution; 
+
+(3) The  Project  Manager  may  ensure  revision  of 
+
+the 
+concession  agreement,  if  required  for  the  purpose  of 
+compliance with provisions of these Regulations;  
+
+(4) The  Project  Manager  shall  undertake  all  obligations  in 
+the 
+respect  of  achieving 
+infrastructure  project,  wherever  applicable,  project 
+implementation, 
+and 
+management of such infrastructure project in terms of the 
+project management agreement; 
+
+completion  of 
+
+maintenance 
+
+timely 
+
+operation, 
+
+Rights 
+and 
+Responsibilities 
+of sponsor(s) 
+
+12. 
+
+ (1) The  sponsor(s)  shall  set  up  the  InvIT  and  appoint  the 
+
+Trustee of the InvIT; 
+
+(2) In case of any proposed purchase of shares/interest in an 
+
+SPV  or  ownership  of  infrastructure  project  by  the  InvIT, 
+the  sponsor(s)  shall  transfer  or  undertake  to  transfer  to 
+the  InvIT,  its/their  entire  shareholding/interest  in  the  SPV 
+or  ownership  of  the  infrastructure  projects,  subject  to  a 
+binding agreement and adequate disclosures in the Offer 
+Document/placement  memorandum,  prior  to  allotment  of 
+units of the InvIT; 
+
+Provided  that  this  shall  not  apply  to  the  extent  of  any 
+mandatory  holding  of  shares/interest  in  the  SPV  by  the 
+sponsor(s)  as  per  any  Act/regulations/guidelines  of 
+government/regulatory authority.   
+
+(3) With  respect  to  holding  of  units  in  the 
+
+InvIT,  the 
+sponsor(s)  together  shall  hold  not  less  than  25%  of  the 
+total  units  of  the  InvIT  after  initial  issue  of  units  on  post-
+issue basis for a period of not less than 3 years from the 
+date of the listing of such units; 
+
+(4) If  the  sponsor(s)  proposes  to  sell  its  units  below  the  limit 
+
+specified in sub-regulation (3) above: 
+
+(a) Such  units  shall  be  sold  only  after  a  period  of  3 
+
+years from the date of listing of the units;  
+
+(b) Prior  to  sale  of  such  units,  the  sponsor(s)  shall 
+arrange  for  another  person(s)/entity(ies)  to  act  as 
+the re-designated sponsor(s) having a net worth of 
+not less than rupees 20 crore; 
+
+Provided  that  such  units  may  also  be  sold  to  an 
+existing sponsor.  
+
+(c) The  proposed  buyer(s)  shall  provide  option  to  exit 
+to the unit holders in accordance with guidelines as 
+may be specified;  
+
+(5) If  re-designated  sponsor(s)  propose(s)  to  sell  its/their 
+units  to  any  another  person,  conditions  specified  under 
+clauses (b) and (c) of sub-regulation (4) shall be complied 
+with; 
+
+Rights 
+and 
+Responsibilities 
+of the valuer and 
+auditor 
+
+13. 
+
+ (1) All valuers shall comply with the following conditions at all 
+
+times: 
+
+(a) The valuer shall ensure that the valuation of the  InvIT 
+assets  is  impartial,  true  and  fair  and  is  in  accordance 
+with regulation 21 of these Regulations; 
+
+(b) The  valuer  shall  ensure  adequate  and  robust  internal 
+
+controls to ensure the integrity of its valuation reports; 
+
+(c) The  valuer  shall  ensure  that  it  has  sufficient  key 
+personnel  with  adequate  experience  and  qualification 
+to perform valuations at all times;  
+
+(d) The  valuer(s)  shall  ensure  that 
+
+it  has  sufficient 
+financial  resources  at  its  disposal  to  enable  it  to 
+conduct its business effectively and meet its liabilities; 
+
+(e) The  valuer(s)  and  any  of  its  employees  involved  in 
+valuing  of  the  assets  of  the  InvIT,  shall  not  invest  in 
+units of the  InvIT or in the assets being valued till the 
+time  such  person  is  designated  as  valuer  of  such 
+InvIT; 
+
+that 
+
+this  clause  shall  not  apply 
+
+Provided 
+to 
+investments in units of the  InvIT or investments in the 
+assets  being  valued  that  has  been  made  by  such 
+person  prior  to  being  designated  as  the  valuer  of  the 
+InvIT  subject  to  adequate  disclosures  made  by  the 
+valuer  in  the  agreement  signed  between  valuer  and 
+Investment Manager and the valuation report; 
+
+(f)  The  valuer(s)    shall  conduct  valuation  of  the  InvIT 
+assets  with  transparency  and  fairness  and  shall 
+render, at all times, high standards of service, exercise 
+due  diligence,  ensure  proper  care  and  exercise 
+independent professional judgment; 
+
+(g) The valuer(s)  shall act with independence, objectivity 
+
+and impartiality in performing the valuation; 
+
+(h) The valuer shall discharge its duties towards the InvIT 
+in  an  efficient  and  competent  manner,  utilizing  its 
+knowledge, skills and experience in best possible way 
+to complete given assignment; 
+
+(i)  The valuer shall not accept remuneration, in any form, 
+for performing a valuation of the InvIT assets from any 
+person  other 
+its  authorized 
+representative; 
+
+InvIT  or 
+
+than 
+
+the 
+
+(j)  The  valuer  shall  before  accepting  any  assignment, 
+disclose  to  the  InvIT  the  existence  of  any  direct  or 
+indirect  consideration  which  the  valuer  may  have  in 
+respect of such assignment;  
+
+(k) The  valuer  shall  disclose  to  the  InvIT  any  pending 
+business transactions, contracts under negotiation and 
+
+other  arrangements  with  the  Investment  Manager  or 
+any other party whom the InvIT is contracting with and 
+any  other  factors  that  may  interfere  with  the  valuer‘s 
+ability 
+independent  and  professional 
+valuation of the assets; 
+
+to  give  an 
+
+(l)  The valuer shall verify all critical information relevant to 
+the  valuation,  supplied  by  the  InvIT  or  any  other 
+person, 
+or 
+confirmation from an independent source;  
+
+qualification 
+
+including 
+
+appropriate 
+
+(m)The  valuer  shall  not  make 
+
+false,  misleading  or 
+
+exaggerated claims in order to secure assignments; 
+
+(n) The  valuer  shall  not  provide  misleading  valuation, 
+information  or  by 
+
+either  by  providing 
+incorrect 
+withholding relevant information; 
+
+(o) The  valuer  shall  not  accept  an  assignment  which 
+
+interferes with its ability to do fair valuation; 
+
+(p) The  valuer  shall,  prior  to  performing  a  valuation,  will 
+acquaint  itself  in  terms  of  all  laws/regulations  relevant 
+to such valuation. 
+
+(2) The auditor shall comply with the following conditions at all 
+
+times: 
+
+(a) The Auditor shall conduct audit of the accounts of the 
+InvIT and draft the audit report based on the accounts 
+examined  by  him  and  after  taking  into  account  the 
+relevant accounting and auditing standards, as may be 
+applicable ;  
+
+(b) The  Auditor  shall,  to  the  best  of  his  information  and 
+knowledge,  ensure  that  the  accounts  and  financial 
+statements of the InvIT give a true and fair view of the 
+state of the affairs as at the end of the period and profit 
+or  loss  and  cash  flow  for  the  period  and  such  other 
+matters as may be specified; 
+
+(c) The Auditor shall have a right of access at all times to 
+the  books  of  accounts  and  vouchers  pertaining  to 
+activities of the InvIT; 
+
+(d) The  Auditor  shall  have  a  right  to  require  such 
+information  and  explanation  pertaining  to  activities  of 
+the  InvIT  as  he  may  consider  necessary  for  the 
+performance  of  his  duties  as  auditor 
+the 
+employees  of  InvIT  or  parties  to  the  InvIT  or  SPV  or 
+
+from 
+
+any other person in possession of such information. 
+
+ 
+
+CHAPTER IV 
+
+OFFER OF UNITS OF InvIT AND LISTING OF UNITS 
+
+ 
+
+Issue  of  units  and 
+allotment 
+
+14. 
+
+ (1) No  initial  offer  of  units  by  an  InvIT  shall  be  made 
+
+unless: 
+
+(a) The  InvIT  is  registered  with  the  Board  under 
+
+these Regulations; 
+
+(b) the value of the proposed holding of the InvIT 
+in  the  underlying  assets  is  not  less  than  [Rs. 
+500 crore]; 
+
+(c) the offer size is not less than Rs. 250 crore; 
+
+(2) If  the  InvIT  invests/  proposes  to  invest  in  under-
+construction  projects,  value  of  which  is  more  than 
+10%  of  the  value  of  the  InvIT  assets,  it  shall  raise 
+funds: 
+
+(a) by  way  of  private  placement  only  through  a 
+
+placement memorandum; 
+
+(b) from  Qualified  Institutional  Buyers  and  body 
+
+corporate only, whether Indian or foreign; 
+
+Provided  that  in  case  of  foreign  investors, 
+such investment shall be subject to guidelines 
+as  may  be  specified  by  RBI  and 
+the 
+government from time to time. 
+
+(c) with minimum investment from any investor of 
+
+rupees one crore; 
+
+(d) from  not  less  than  5  and  not  more  than  1000 
+
+investors; 
+
+the  draft  placement  memorandum 
+
+(3) The  InvIT  as  specified  in  sub-regulation  (2)  above 
+shall  file 
+for 
+undertaking private placement of units with the Board 
+along  with  the  application  for  registration  and  the 
+Board  may  communicate  its  comments,  to  such 
+applicant which shall be incorporated by the applicant 
+in  placement  memorandum  prior 
+to  grant  of 
+registration; 
+
+(4) With respect to InvITs that hold not less than 80% of 
+its  assets  in  completed  and  revenue  generating 
+
+infrastructure projects: 
+
+(a) Initial  issue  of  units  shall  be  by  way  of  initial 
+
+offer only; 
+
+(b) Any subsequent issue of units after initial offer 
+may  be  by  way  of  follow-on  offer,  preferential 
+allotment,  qualified 
+institutional  placement, 
+rights 
+issue  or  any  other 
+mechanism as may be specified by the Board 
+in the manner stipulated thereunder; 
+
+issue,  bonus 
+
+(c) Minimum  subscription  from  any  investor  in 
+initial  and  follow-on  offer  shall  be  rupees  five 
+lakhs; 
+
+(d) The  value  of the units  proposed  to  be offered 
+to  the  public  in  initial  offer  shall  not  be  less 
+than 25% of the value of the InvIT;  
+
+(e) Prior  to  initial  offer  and  follow-on  offer,  the 
+Investment  Manager  shall  file  the  draft  offer 
+document  with 
+stock 
+exchange(s)  and  the  Board  not  less  than    21 
+working  days  before  filing  the    final  offer 
+document  with 
+stock 
+exchange; 
+
+designated 
+
+designated 
+
+the 
+
+the 
+
+(f)  Such  draft  offer  document  shall  be  hosted  by 
+the  Designated  Stock  Exchanges  on  their 
+websites for public comments for a period not 
+less than 10 days;  
+
+(g) The Board may communicate its comments to 
+the Investment Manager and, in the interest of 
+investors,  may 
+Investment 
+Manager to carry out such modifications in the 
+draft offer document as it deems fit;  
+
+require 
+
+the 
+
+(h) The  Trustee  shall  ensure  that  all  comments 
+from the public or from the Board received on 
+the  draft  offer  document  are  suitably 
+addressed/incorporated prior to the filing of the 
+final offer document with the Designated Stock 
+Exchanges; 
+
+(i)  In case no modifications are suggested by the 
+Board  in  the  draft  offer  document  within  21 
+working  days  from  the  date of filing,  the  InvIT 
+
+may  issue  the  final  offer  document  to  the 
+public; 
+
+(j)  The  draft  and  final  offer  document  shall  be 
+accompanied  by  a  Due  Diligence  Certificate 
+signed  by  the  Investment  manager  and  lead 
+merchant banker certifying the;  
+
+(k) The  final  Offer  Document  shall  be  filed  with 
+the  Designated  Stock  Exchanges  and  the 
+Board  not  less  than  five  working  days  before 
+opening  of  the  offer  and  such  filing  with  the 
+Board  shall  be  accompanied  by  filing  fees  as 
+specified under Schedule II; 
+
+(l)  The  InvIT  may  undertake  the  initial  offer  or 
+follow-on  offer  within  6  months  from  the  date 
+of last issuance of observations by the Board, 
+if any and if no observations have been issued 
+by the Board, within 6 months from the date of 
+filing  of 
+the 
+Designated Stock Exchanges; 
+
+final  offer  document  with 
+
+(m)The InvIT may invite for subscriptions and allot 
+units  to  any  person,  whether  resident  or 
+foreign; 
+
+Provided  that  in  case  of  foreign  investors, 
+such  investment  shall be  subject to  guidelines 
+as  may  be  specified  by  RBI  and 
+the 
+government from time to time. 
+
+(n) The  application 
+
+for  subscription  shall  be 
+accompanied  by  a  statement  containing  the 
+abridged  version  of 
+the  offer  document 
+detailing  the  risk  factors  and  summary  of  the 
+terms of issue; 
+
+(o) Initial  offer  and  follow-on  offer  shall  not  be 
+open for subscription for a period of more than 
+30 days; 
+
+(p) In  case  of  over-subscriptions,  the  InvIT  shall 
+allot units to the applicants on  a proportionate 
+basis  rounded  off  to  the  nearest  integer 
+subject  to  minimum  subscription  amount  per 
+subscriber as specified in clause (c) above;  
+
+(q) The InvIT shall allot units /refund money within 
+
+10 working days from the date of closing of the 
+issue; 
+
+(r)  The 
+
+InvIT  shall 
+
+issue  units 
+
+in  only 
+
+in 
+
+dematerialized form to all the applicants; 
+
+(s) The  determination  of  price  of  InvIT  units  may 
+be  through  the  book  building  or  any  other 
+process  in  accordance  with  the  guidelines 
+issued  by  the  Board,  in  the  manner  specified 
+thereof; 
+
+(t)  The InvIT shall refund money to the applicants 
+
+in case: 
+
+(i) 
+
+it collects subscription of amount less 
+than 75% of the issue size as specified 
+final  offer  document,  where 
+in 
+money  shall  be 
+to  all 
+applicants; 
+
+refunded 
+
+the 
+
+(ii) 
+
+the  moneys  received  is  in  excess  of 
+the  extent  of  over-subscription  as 
+specified  in  the  final  offer  document, 
+where  money  shall  be  refunded  to 
+applicants 
+the 
+oversubscription; 
+
+the  extent  of 
+
+to 
+
+Provided  that  right  to  retain  such  over 
+subscription  cannot  exceed  25%  of  the 
+issue size.  
+
+(iii)  the  number  of  subscribers  to  the 
+initial  offer  forming  part  of  the  public  is 
+less  than  20,  where  money  shall  be 
+refunded to all applicants; 
+
+(u) If  the  Investment  Manager  fails  to  allot  or  list 
+the  units  within  the  specified  time,  then  the 
+Investment  Manager  shall  pay  interest  to  the 
+unit  holders  @15%  per  annum,  till  such 
+allotment/ listing and such interest shall be not 
+be  recovered  in  the  form  of  fees  or  any  other 
+form  payable  to  the  Investment  Manager  by 
+the InvIT; 
+
+(5) If  the  InvIT  fails  to  undertake  any  offer  of  its  units, 
+whether by way of public issue or private placement, 
+within  3  years  from  the  date  of  registration  with  the 
+
+Board,  it  shall  surrender  its  certificate  of  registration 
+to the Board and cease to operate as an InvIT. 
+
+Provided  that  the  Board,  if  it  deems  fit,  may 
+extend the period by another one year; 
+
+Provided  further  that  the  InvIT  may  later  re-
+apply for registration, if it so desires. 
+
+(6) The 
+
+specify 
+
+by 
+
+Board  may 
+
+of 
+guidelines/circulars  any  other  requirements,  as  it 
+deems  fit,  requirements  pertaining  to  issue  and 
+allotment  of  units  by  an  InvIT,  whether  by  way  of 
+public issue or private placement. 
+
+issue 
+
+15. 
+
+Offer 
+document/placement 
+memorandum 
+and 
+advertisements 
+
+ (1) The  offer  document/placement  memorandum  of  the 
+InvIT  shall  contain  material, 
+true,  correct  and 
+adequate disclosures to enable the investors to make 
+an informed decision.  
+
+(2) Without  prejudice  to  the  generality  of  sub-regulation 
+(1),  the  offer  document/  placement  memorandum 
+shall: 
+
+(i)  not  be  misleading  or  contain  any  untrue 
+
+statements or mis-statements; 
+
+(ii)  not  provide  any  guaranteed  returns  to  the 
+
+investors  
+
+(iii) include  such  other  disclosures  as  may  be 
+
+specified by the Board; 
+
+(3) The  offer  document  shall  include  all  information  as 
+
+specified under Schedule III to these Regulations;  
+
+(4) The  placement  memorandum  shall  contain  all 
+material  information  about  the  InvIT,  parties  to  the 
+InvIT,  fees  and  all  other  expenses  proposed  to  be 
+charged, tenure of the InvIT, investment strategy, risk 
+management  tools  and  parameters  employed,  key 
+service  providers,  conflict  of  interest and  procedures 
+to  identify  and  address  them,  disciplinary  history  of 
+the  sponsor(s),  Investment  Manager,  Trustee  and 
+their  associates,  the  terms  and  conditions  on  which 
+the  Investment  Manager  offers  investment  services, 
+its  affiliations  with  other  intermediaries,  manner  of 
+winding up of the InvIT and such other information as 
+may  be  necessary  for  the  investor  to  take  an 
+
+informed decision on whether to invest in the InvIT; 
+
+(5) No advertisement shall be issued  pertaining to issue 
+InvIT  which  undertakes  private 
+
+of  units  by  an 
+placement of its units; 
+
+(6) With respect to advertisements pertaining to the offer 
+
+of units by an InvIT under public offer of its units: 
+
+(i)  Such  advertisement  material  shall  not  be 
+misleading  and  shall  not  contain  anything 
+extraneous 
+the  offer 
+document; 
+
+the  contents  of 
+
+to 
+
+(ii)  if an advertisement contains highlights, it shall 
+also contain risk factors with equal importance 
+in all aspects including print size; 
+
+(iii) The  advertisements  shall  be  in  accordance 
+with  any  guidelines  as  may  be  prescribed  by 
+the Board in this regard; 
+
+Listing  and  trading 
+of units 
+
+16. 
+
+ (1) Units  of  InvITs,  whether  publicly  issued  or  privately 
+listed  on  a  recognized  stock 
+
+placed,  shall  be 
+exchange; 
+
+(2) The listing of the units shall be in accordance with the 
+listing agreement entered into between the InvIT and 
+the Designated Stock Exchanges;  
+
+(3) The  units  of  the  InvIT  listed  in  the  designated  stock 
+exchanges  shall  be  traded,  cleared  and  settled  in 
+accordance  with  the  bye-laws  of  designated  stock 
+exchanges,  Depositories  Act  and  such  conditions  as 
+may be specified by the Board. 
+
+(4) The  InvIT  shall  not  redeem  units  to  the  unit  holders 
+other  than  by  way  of  a  buyback  in  accordance  with 
+the guidelines as may be specified by the Board or at 
+the time of delisting of units; 
+
+(5) The  units  shall  be  listed  on  the  Designated  Stock 
+Exchanges  unless  delisted  under  regulation  17  of 
+these Regulations;  
+
+(6) The  minimum  public  holding  for  the  units  of  the 
+publicly issued InvIT shall be 25% of the total number 
+of outstanding units, at all times, failing which action 
+may be taken as may be specified by the Board and 
+by 
+including 
+
+the  Designated  Stock  Exchanges 
+
+delisting  of  units  under  regulation  17  of  these 
+Regulations; 
+
+(7) The  minimum  number  of  unit  holders  in  an  InvIT 
+
+other than the sponsor(s): 
+
+(a) in  case  of  privately  placed  InvIT,  shall  be  5, 
+each holding not more than 25% of the units of 
+the InvIT; 
+
+(b) forming part of public shall be 20, each holding 
+
+not more than 25% of the units of the InvIT; 
+
+at all times, failing which action may be taken as may 
+be  specified  by  the  Board  and  by  the  Designated 
+Stock  Exchanges  including  delisting  of  units  under 
+regulation 17 of these Regulations; 
+
+(8) With respect to listing of privately placed units: 
+
+(a) its  units  shall  be  mandatorily  listed  on  the 
+designated stock exchange(s) no later than 30 
+working days from the date of final closing; 
+
+(b) Trading  lot  for  the  purpose  of  trading  of  units 
+on  the  designated  stock  exchange  shall  be 
+rupees one crore; 
+
+(9) With respect to listing of publicly offered units: 
+
+(a) its  units  shall  be  mandatorily  listed  on  the 
+designated stock exchange(s) no later than 12 
+working  days  from  the  date  of  closure  of  the 
+initial offer; 
+
+Provided  that  this  sub-regulation  shall  not 
+apply  if  the  initial  offer  does  not  satisfy  the 
+minimum  subscription  requirements  or  the 
+minimum  number  of  subscribers  under 
+clauses  (c)  and  (t)(iii)  of  sub-regulation  (4)  of 
+regulation 14; 
+
+(b) Trading  lot  for  the  purpose  of  trading  of  units 
+on  the  designated  stock  exchange  shall  be 
+rupees five lakhs; 
+
+(10)  Any person other than the sponsor(s) holding units 
+of the InvIT prior to initial offer shall hold the units for 
+a  period  of  not  less  than  one  year  from  the  date  of 
+listing of the units; 
+
+(11)  The Board and Designated Stock Exchanges may 
+
+specify  any  other  requirements  pertaining  to  listing 
+and  trading  of  units  of  the 
+InvIT  by  issue  of 
+guidelines/circulars  or  in  any  other  form,  as  deemed 
+fit; 
+
+Delisting of units and 
+winding  up  of 
+the 
+InvIT 
+
+17. 
+
+ (1) The  Trustee  shall  apply  for  delisting  of    units  of  the 
+the  designated  stock 
+
+the  Board  and 
+
+to 
+
+InvIT 
+exchanges if:  
+
+(a) the public float falls below the specified limit under 
+sub-regulation  (6)  of  Regulation  16  of  these 
+Regulations; 
+
+(b) the number of unit holders of the InvIT falls below 
+the  limit  as  specified  under  sub-regulation  (7)  of 
+Regulation 16; 
+
+(c) if  there  are  no  projects/assets    remaining  under 
+the  InvIT  for  not  more  than  six  months  and  InvIT 
+proposes to invest in no projects in future; 
+
+(d) the  Board  or  the  Designated  Stock  Exchanges 
+require  such  delisting  for  violation  of  the  listing 
+agreement or these Regulations or the Act;  
+
+(e) the  sponsor(s)/Investment  Manager 
+
+requests 
+such  delisting  and  such  request  has  been 
+approved  by  unit  holders  in  accordance  with 
+regulation 22 of these Regulations; 
+
+(f)  unit holders apply for such delisting in accordance 
+
+with regulation 22 of these Regulations; 
+
+(g) the  Board  or  the  Designated  Stock  Exchanges 
+require  such  delisting  in  the  interest  of  the  unit 
+holders; 
+
+Provided that if clause (a) or (b) is breached, the 
+Trustee  may  provide  6  months  to  the  Investment 
+Manager  to  rectify  the  same,  failing  which  shall 
+apply for such delisting.  
+
+Provided that in case of PPP projects, such delisting 
+shall be subject to relevant clauses in the Concession 
+Agreement;  
+
+(2) The Board and the Designated Stock Exchanges may 
+consider  such  application for  delisting for  approval  or 
+rejection  as  may  be  appropriate  in  the  interest  of  the 
+
+unit holders; 
+
+(3) The  Board  may,  instead  of  delisting  of  the  units,  if  it 
+deems  fit,    provide  additional  time  to  the  InvIT  or 
+parties to the InvIT to comply with the Regulations; 
+
+(4) The Board may  reject the application of delisting and 
+take  any  other  action,  as  it  deems  fit,  under  these 
+Regulations  or  the  Act  for  violation  of  the  listing 
+agreement or these Regulations or the Act. 
+
+(5) The procedure for delisting of units of InvIT shall be in 
+accordance  with 
+in 
+accordance  with  procedure  as  may  be  specified  by 
+the  Board  and  by  the  Designated  Stock  Exchanges 
+from time to time; 
+
+listing  agreement  and 
+
+the 
+
+(6) After delisting of its units, the InvIT shall surrender its 
+certificate  of  registration  to  the  Board  and  shall  no 
+longer undertake activity of an InvIT; 
+
+(7) The InvIT and parties to the InvIT shall continue to be 
+liable for  all  their  acts of  omissions  and  commissions 
+notwithstanding surrender of registration to the Board. 
+
+ 
+
+CHAPTER V 
+
+INVESTMENT CONDITIONS, RELATED PARTY TRANSACTIONS, BORROWING 
+
+AND VALUATION OF ASSETS  
+
+18. 
+
+Investment 
+Conditions and 
+Dividend 
+policy 
+
+ (1) The  Investment  by  an  InvIT  shall  only  be  in  Special 
+Purpose  Vehicles  or  eligible  infrastructure  projects  or 
+securities  in  India  in  accordance  with  these  Regulations 
+and  the  investment  strategy  as  detailed  in  the  Offer 
+Document/Placement Memorandum; 
+
+(2) In case of PPP projects, the InvIT shall mandatorily invest 
+
+in the infrastructure projects through SPV; 
+
+(3) The  InvIT  may  invest  in  eligible  infrastructure  projects 
+through Special Purpose Vehicles subject to the following: 
+
+(a) No  other  shareholder  or  partner  of  the  Special 
+Purpose Vehicle shall have any rights that prevents 
+the  InvIT  from  complying  with  the  provisions  of 
+these  Regulations  and  an  agreement  shall  be 
+entered into with such shareholders/partners to that 
+effect  prior  to  investment  in  the  Special  Purpose 
+
+Vehicle; 
+
+(b) In case the Special Purpose Vehicle is a company, 
+the  Investment  manager,  in  consultation  with  the 
+Trustee,  shall  appoint not  less than  one authorized 
+the  Board  of  such  Special 
+representative  on 
+Purpose  Vehicles 
+such 
+representative  attends  all  Board  meetings  of  the 
+SPV; 
+
+ensure 
+
+and 
+
+that 
+
+in  consultation  with 
+
+(c) In case the Special Purpose Vehicle is an LLP, the 
+Investment  manager, 
+the 
+Trustee,  appoint  not  less  than  one  authorized 
+representative as designated partner to the LLP on 
+behalf  of 
+that  such 
+representative  attends  all  meetings  of 
+the 
+designated partners of SPV;  
+
+InvIT  and  ensure 
+
+the 
+
+(d) The  Investment  Manager  shall  ensure  that  the  in 
+every  meeting  including  annual  general  meeting  of 
+the SPV, the voting of the InvIT is exercised; 
+
+(4) In case of InvIT as specified under Regulation 14(2): 
+
+(a) the InvIT shall mandatorily hold: 
+
+(i)  not  less  than  one  eligible  infrastructure 
+project  which  is  completed  and  revenue 
+generating; and  
+
+(ii)  not  less  than  one  eligible  infrastructure 
+
+project which is pre-COD project; 
+
+(b) the  InvIT  shall  invest  only  in  eligible  infrastructure 
+projects  or  securities  of  companies  or  partnership 
+interests of LLPs in infrastructure sector. 
+
+Provided  that  un-invested  funds  may  be  invested 
+in liquid funds/government securities/money market 
+instruments/cash equivalents. 
+
+Explanation:  Companies  or  LLPs  in  infrastructure 
+sector  shall  mean  those  companies  or  LLPs  which 
+derive  not  less  than  80%  of  their  operating  income 
+from 
+the  audited 
+accounts of the previous financial year; 
+
+infrastructure  sector  as  per 
+
+(5) In case of InvITs as specified under Regulation 14(4): 
+
+(a) Not  less  than  80%  of  the  value  of  the  assets  shall 
+be  invested  in  completed  and  revenue  generating 
+
+infrastructure projects subject to the following; 
+
+(i) 
+
+If  the  investment  has  been  made  through 
+a  Special  Purpose  Vehicle,  whether  by  way 
+of equity or debt or equity linked instruments 
+or partnership interest, only the proportion of 
+direct  investments  in  eligible  infrastructure 
+projects  by  such  Special  Purpose  Vehicles 
+shall be considered under this sub-regulation 
+and  the  remaining  portion  shall  be  included 
+under clause (b) under. 
+
+(ii) 
+
+If  any  project  is  implemented  in  stages, 
+the  part  of 
+the  project  which  can  be 
+categorised  as  completed  and 
+revenue 
+generating project shall be considered under 
+this sub-regulation and the remaining portion 
+shall be included under clause (b) under. 
+
+(b) Not  more  than  20% of  value  of  the assets  shall  be 
+
+invested: 
+
+(i) 
+
+in under-construction eligible infrastructure 
+projects,  whether  directly  or  through  Special 
+Purpose Vehicles; 
+
+Provided  that  investment  in  such  assets 
+shall  not  exceed  10%  of  the  value  of  the 
+assets of the InvIT. 
+
+(ii)  Listed  or  unlisted  debt  of  companies  or 
+
+body corporate in infrastructure sector; 
+
+Provided  that  this  shall  not  include  any 
+investment made in debt of the SPV; 
+
+(iii)  Equity  shares  of  companies  listed  on  a 
+recognized  stock  exchange  in  India  which 
+derive  not  less  than  80%  of  their  operating 
+income  from  infrastructure  sector  as  per  the 
+audited  accounts  of  the  previous  financial 
+year; 
+
+(iv)  Government securities; 
+
+(v)  Money  market  instruments,  liquid  mutual 
+
+funds or Cash equivalents; 
+
+(c) If  the  conditions  specified  in  clauses  (a)  and  (b) 
+above  are  breached  on  account  of  market 
+
+the  price  of 
+
+the  underlying 
+movements  of 
+assets/securities,  the  Investment  Manager  shall 
+inform the same to the Trustee and ensure that the 
+conditions as  specified  above are  satisfied within  6 
+months of such breach.  
+
+Provided  that  the  period  may  be  extended  to  1 
+year  subject 
+in 
+accordance  with  Regulation  22  of 
+these 
+Regulations; 
+
+to  approval 
+
+from 
+
+investors 
+
+(6) With  respect  to  distributions  made  by  the  InvIT  and  the 
+
+SPV: 
+
+(a) Not less than 90% of net distributable income after 
+tax  of  the  SPV  shall  be  distributed  to  the  InvIT  in 
+proportion of its holding in the SPV; 
+
+(b) Not less than 90% of net distributable income after 
+tax  of  the  InvIT  shall  be  distributed  to  the  unit 
+holders; 
+
+(c) Such  distributions  shall  be  declared  and  made  not 
+less than once every quarter in every financial year 
+in case of publicly offered InvITs and not less once 
+every  six  months  in  case of privately  placed  InvITs 
+and  shall  be  made  not  later  than  15  days  from  the 
+date of such declaration; 
+
+(d) Subject  to  clause  (c)  above,  such  distribution  shall 
+be  as  per  the  dates  and  in  the  manner  as 
+mentioned 
+in 
+the  Offer  Document/Placement 
+Memorandum; 
+
+(7) If  any  infrastructure  asset  is  sold  by  the  InvIT/SPV  or  in 
+case  of  a  PPP  project,  if  the  equity  shares  in  the  SPV  is 
+sold by the InvIT: 
+
+(a) if the InvIT/SPV proposes to re-invest gains, if any, 
+into  another  infrastructure  asset,  it  shall  not  be 
+required  to  distribute  any  gains  from  such  sale  to 
+the InvIT/ to the investors; 
+
+(b) If  the  InvIT/SPV  proposes  not  to  invest  the  gains 
+made into any other  infrastructure asset, it shall be 
+require  to  distribute  the  same  in  accordance  with 
+sub-regulation (6) above; 
+
+(8) If  the  distributions  are  not  made  within  15  days  of 
+declaration, then the Investment Manager shall be liable to  
+
+pay  interest  to  the  unit  holders  @15%  per  annum  till  the 
+distribution is made and and such interest shall be not be 
+recovered in the form of fees or any other form payable to 
+the Investment Manager by the InvIT; 
+
+(9) An InvIT shall invest in at least 2 infrastructure projects; 
+
+(10)  An InvIT shall not invest in units of other InvITs; 
+
+(11)  An InvIT shall hold an infrastructure asset for a period of 
+not  less  than  3  years  from  the  date  of  purchase  of  such 
+asset by the InvIT, directly or through SPV; 
+
+Provided  that  this  shall  not  apply  to  investment  in 
+securities of  companies  in  infrastructure  sector  other than 
+Special Purpose Vehicles. 
+
+(12) 
+
+In case of any co-investment with any person(s) in any 
+
+transaction:  
+
+(a) the investment by the other person(s) shall not be at 
+
+terms more favourable than those to the InvIT; 
+
+(b) the  investment  shall  not  provide  any  rights  to  the 
+person(s)  which  shall  prevent 
+from 
+complying with the provisions of these Regulations; 
+
+InvIT 
+
+the 
+
+Related  Party 
+transactions 
+
+19. 
+
+(c) the agreement with such person(s) shall include the 
+minimum percentage of distributable profits that will 
+be distributed and entitlement of the InvIT to receive 
+not  less  than  pro  rata  distributions  and  mode  for 
+resolution  of  any  disputes  between  the  InvIT  and 
+the other person(s); 
+
+(13)  No schemes shall be launched under the InvIT;  
+
+(14)  The  Board  may  specify  any  additional  conditions  for 
+
+investments by the InvIT as deemed fit; 
+
+ (1) All  related  party  transactions  shall  be  on  an  arms-length 
+basis in accordance with relevant accounting standards, in 
+the  best  interest  of  the  unit  holders,  consistent  with  the 
+strategy & investment objectives of the InvIT; 
+
+(2) All related party transactions of an InvIT shall be disclosed: 
+
+(a) in the offer document/placement memorandum with 
+respect  to  any  such  transactions  entered  into  prior 
+to  the  offer  of  units  and  any  such  proposed 
+transactions subsequent to the offer; 
+
+(b) to 
+
+the  Designated  Stock  Exchanges  and  unit 
+
+holders  periodically  in  accordance  with  the  listing 
+agreement and these Regulations; and 
+
+(3) With  respect  to  related  party  transactions  with  respect  to 
+
+publicly offered InvITs entered into after initial offer, if: 
+
+(a) the  total  value  of  all  the  related  party  transactions, 
+in  a  financial  year,  pertaining  to  acquisition/sale  of 
+assets or investments into securities exceeds 5% of 
+the value of InvIT; or 
+
+(b) the  value  of  the  funds  borrowed  from  related 
+parties, in a financial year, exceeds 5% of the total 
+consolidated borrowings of the InvIT; 
+
+approval  from  the  unit  holders  shall  be  obtained  prior  to 
+entering  into  any  such  subsequent  transaction  with  any 
+related  party  in  accordance  with  Regulation  22  of  these 
+Regulations. 
+
+(4) Transaction  between  two  or  more  of  the  InvITs  with  a 
+common  Investment  Manager  or  sponsor,  transactions 
+between  such  InvITs  shall  be  deemed  to be  related  party 
+transactions  for  each  of  the  InvITs  and  provisions  of 
+regulation (19) shall apply.  
+
+that 
+
+Provided 
+the 
+Investment  Managers/sponsors  of  the  InvITs  are  different 
+entities but are associates.  
+
+this  clause  shall  also  apply 
+
+if 
+
+(5) With respect to any related party transaction, details of any 
+fees/commissions 
+received  by  any 
+person/entity  which  is  an  associate  of  the  related  party 
+pursuant to such transaction shall be adequately disclosed 
+to the Designated Stock Exchanges; 
+
+received/to  be 
+
+(6) Where  any  of  the  related  parties  has  an  interest  in  a 
+business  which  competes  or  is  likely  to  compete,  either 
+directly  or  indirectly,  with  the  activities  of  the  InvIT,  the 
+following  details  shall  be  disclosed 
+the  Offer 
+Document/placement memorandum: 
+
+in 
+
+(a) details  of 
+
+the  such  business 
+
+including  an 
+explanation as to how such business shall compete 
+with the InvIT; 
+
+(b) a declaration that the related party shall perform its 
+duty  in  relation  to  the  InvIT  independent  of  its 
+related business; 
+
+(c) declaration  as  to  whether  any  acquisition  of  such 
+business  by  the  InvIT  is  intended  and  if  so,  details 
+of the same thereof;  
+
+Borrowings 
+and 
+payments 
+
+deferred 
+
+20. 
+
+ (1) The  aggregate  consolidated  borrowings  and  deferred 
+payments of the InvIT shall never exceed 49% of the value 
+of the InvIT assets; 
+
+(2) If  the  aggregate  consolidated  borrowings  and  deferred 
+payments  of  the  InvIT  exceed  25%  of  the  value  of  the 
+InvIT assets, for any further borrowing: 
+
+(a) credit  rating  shall  be  obtained  from  a  credit  rating 
+
+agency registered with the Board; and 
+
+(b) approval  of  unit  holders  shall  be  obtained  in  the 
+manner  as  specified  in  regulation  22  of  these 
+Regulations; 
+
+(3) If  the  conditions  specified  in  sub-regulations  above  are 
+breached on account of market movements of the price of 
+the  underlying  assets/securities,  the  Investment  Manager 
+shall  inform  the  same  to  the  Trustee  and  ensure  that  the 
+conditions as specified above are satisfied within 6 months 
+of such breach. 
+
+Valuation 
+assets 
+
+of 
+
+21. 
+
+ (1) The  valuer  shall  not  be  an  associate  of 
+
+the 
+sponsor(s)/Investment Manager/Trustee and shall have not 
+less 
+in  valuation  of 
+infrastructure assets; 
+
+than  5  years  of  experience 
+
+(2) Full  valuation  includes  a  detailed  valuation  of  all  assets  of 
+the  InvIT  by  the  valuer  including  physical  inspection  of 
+every infrastructure project by the valuer; 
+
+(3) Full  valuation  report  shall  include  minimum  of  the  clauses 
+
+as specified in Schedule V to these Regulations; 
+
+(4)  A  full  valuation  shall  be  conducted  by  the  valuer  not  less 
+
+than once every financial year; 
+
+Provided that such full valuation shall be conducted at the 
+end of the financial year ending March within not more than 
+two months from the date of end of such year; 
+
+(5) A  half  yearly  valuation  of  the  assets  of  the  InvIT  shall  be 
+conducted by the valuer for the half-year ending September 
+for  a  publicly  offered  InvIT  for  incorporating  any  key 
+changes  in  the  previous  six  months  and  such  half  yearly 
+
+valuation  report  shall  be  undertaken  within  not  more  than 
+one month from the date of end of such half year;  
+
+(6) Valuation reports received by the Investment Manager shall 
+be submitted by the Investment Manager to the Designated 
+Stock  Exchanges  within  15  days  from  the  receipt  of  such 
+valuation reports; 
+
+(7) Prior to any issue of units by offered InvIT other than bonus 
+issue,  the  valuer  shall  undertake  full  valuation  of  all  the 
+InvIT assets and include the same in the Offer Document; 
+
+Provided that such valuation report shall not be more than 
+6 months old at the time of such offer; 
+
+(8) For  any  transaction  of  purchase  or  sale  of  infrastructure 
+projects,  whether  directly  or  through  SPVs  for  publicly 
+offered InvITs; 
+
+(a) A 
+
+full  valuation  of 
+
+the  specific  project  shall  be 
+
+undertaken by the valuer; 
+
+(b) In  case  of  a  purchase  transaction,  the  asset  shall  not 
+be  purchased  at  a  value  greater  than  110%  of  the 
+value of the asset as assessed by the valuer; 
+
+(c) In case of a sale transaction, the asset shall not be sold 
+at  a value less than 90% of the value of the  asset  as 
+assessed by the valuer; 
+
+(9) No valuer shall undertake valuation of the same project for 
+
+more than four years consecutively; 
+
+(10) Any  valuation  undertaken  by  any  valuer  shall  abide  by 
+international  valuation  standards  and  valuation  standards 
+as  may  be  specified by  Institute of  Chartered  Accountants 
+of  India  (ICAI)  for  valuation  of  infrastructure  assets  or  as 
+may be specified; 
+
+Provided  that  in  case  of  any  conflict,  standards  specified 
+by ICAI shall prevail.  
+
+(11) In  case  of  any  material  development  that  may  have  an 
+impact  on  the  valuation  of  the  assets  of  the  InvIT,  then 
+Investment Manager of a publicly offered InvIT shall require 
+the  valuer  to  undertake  full  valuation  of  the  infrastructure 
+project  under  consideration  within  not  more  than  two 
+months from the date of such event and disclose the same 
+to the Trustee and the Designated Stock Exchanges within 
+15 days of such valuation; 
+
+(12)  The  valuer  shall  not  value  any  assets  in  which  it  has 
+either  been  involved  with  the  acquisition  or  disposition  of 
+that  asset  to  either  a  vendor  or  purchaser  associated  with 
+the InvIT within the last 12 months;  
+
+ 
+
+ 
+
+CHAPTER VI 
+
+RIGHTS OF UNIT HOLDERS, GENERAL OBLIGATIONS, DISCLOSURES AND 
+
+REPORTING  
+
+Rights  of  unit 
+holders 
+including 
+meetings 
+
+22. 
+
+ (1) The  unit  holder  shall  have 
+
+the 
+
+income/distributions  as  provided 
+Document/Placement Memorandum;  
+
+rights 
+in 
+
+for 
+
+to 
+receive 
+the  Offer 
+
+(2) With  respect  to  any  issue  requiring  approval  of  the  unit 
+
+holders: 
+
+the 
+
+(a) A resolution shall be passed when the votes cast in 
+resolution  exceed  a  certain 
+favour  of 
+percentage,  as  specified  hereunder,  of  the  votes 
+cast  against  in  the  resolution  by  unit  holders,  so 
+entitled and voting; 
+
+(b) The  voting  may  also  be  done  by  postal  ballot  or 
+
+electronic mode; 
+
+(c) A  notice  of  not  less  than  21  clear  days  shall  be 
+
+provided to the unit holders; 
+
+(d) Voting by any person who is a related party in such 
+transaction as well as associates of such person(s) 
+shall not be considered on the specific issue; 
+
+(e) Investment manager shall be responsible for all the 
+activities pertaining to conducting of meeting of the 
+unit holder, subject to overseeing by the Trustee.  
+
+in 
+
+issues  pertaining 
+
+to 
+
+that 
+
+the 
+Provided 
+Investment Manager such as change in Investment 
+Manager 
+Investment 
+Manager  or  change  in  control  of  the  Investment 
+Manager,  Trustee  shall  convene  and  handle  all 
+activities pertaining to conduct of the meetings.  
+
+including  removal  of 
+
+the 
+
+Provided  further  that  in  issues  pertaining  to  the 
+Trustee such as change in the Trustee, the Trustee 
+shall  not  be  involved  in  any  manner  in  the  conduct 
+
+of the meeting.  
+
+(3) With respect to publicly offered InvITs: 
+
+(a) an  annual  meeting  of  all  unit  holders  shall  be  held 
+not less than once a year within 120 days  from the 
+end  of  financial  year  and  the  time  between  two 
+meetings shall not exceed 15 months; 
+
+(b) With respect to such annual meeting: 
+
+(i)  Any information that is required to be disclosed 
+to  the  unit  holders  and  any  issue  that,  in  the 
+ordinary  course  of  business,  may 
+require 
+approval  of  the  unit  holders  may  be  taken  up  in 
+the meeting including: 
+
+(1) Placing  of 
+
+latest  annual  accounts  and 
+the  unit 
+
+InvIT  with 
+
+performance  of 
+holders; 
+
+the 
+
+(2) Approval of auditor and fees of such auditor, 
+
+as may be required; 
+
+(3) Placing  of  latest  valuation  reports  with  the 
+
+unit holders; 
+
+(4) Appointment of valuer, as may be required; 
+
+(5) Any other issue as may be required; 
+
+(ii) For any issue taken up in such meetings which 
+require approval from the unit holders, votes cast 
+in  favour  of  the  resolution  shall  not  be  less  than  
+one  and  a  half  times  the  votes  cast  against  the 
+resolution; 
+
+(4) Approval from unit holders shall be required in case of: 
+
+(a) Any  approval  from  unit  holders  required  under 
+
+regulation 18 and 19 of these Regulations; 
+
+(b) Any  borrowing  in  excess  of  specified  limit  as 
+required  under  sub-regulation  2  of  regulation  20  of 
+these Regulations; 
+
+(c) Any  issue  of  units  after  initial  offer  by  a  publicly 
+
+offered InvIT, in whatever form; 
+
+(d) Any issue, in the ordinary course of business, which 
+in  the opinion  of  the  sponsor(s)/Trustee/Investment 
+Manager,  is  material  and  requires  approval  of  the 
+
+unit holders, if any; 
+
+(e) Any  issue  for  which  the  Board  or  the  Designated 
+Stock  Exchanges  requires  such  approval  as  it 
+deems fit; 
+
+(5) For  such  cases  as  specified  in  sub-regulation  (4)  above, 
+votes cast in favour of the resolution shall not be less than  
+one and half times the votes cast against the resolution; 
+
+(6) Approval from unit holders shall also be required in special 
+
+cases as under: 
+
+(a) Any  change 
+
+in 
+
+including 
+removal  of  the  Investment  Manager  or  change  in 
+control of the Investment Manager; 
+
+Investment  Manager 
+
+(b) Any change in investment strategy of the InvIT; 
+
+(c) In  case 
+
+the  sponsor(s)/Investment  Manager 
+
+propose to seek delisting of units of the InvIT  
+
+(d) If the value of the units held by a person along with 
+its  associates  other  than  the  sponsor(s)  and  its 
+associates exceed 50% of the value of outstanding 
+InvIT  units,  approval  may  be  sought  prior  to 
+acquiring any further units; 
+
+(e) Any  issue,  not  in  the  ordinary  course  of  business, 
+which  in  the  opinion  of  the  sponsor(s)/  Investment 
+Manager/Trustee  requires  approval  of 
+the  unit 
+holders; 
+
+(f)  Any  issue  for  which  the  Board  or  the  Designated 
+Stock  Exchanges  requires  such  approval  as  it 
+deems fit; 
+
+(g) Any  issue  taken  up  on  request  of  the  unit  holders  
+
+including: 
+
+(i)  Removal  of  the  Investment  Manager  and 
+appointment  of  another  Investment  Manager 
+to the InvIT; 
+
+(ii)  Removal  of 
+
+the  auditor  and  seek 
+
+appointment of another auditor to the InvIT; 
+
+(iii)  Removal of the valuer and appointment of 
+
+another valuer to the InvIT; 
+
+(iv)  Delisting  of  an  InvIT  if  the  unit  holders 
+have  sufficient  reason  to  believe  that  such 
+
+delisting  would  act  in  the  interest  of  the  unit 
+holders; 
+
+(v)  Any  issue  which  the  unit  holders  have 
+sufficient 
+that  acts 
+detrimental to the interest of the unit holders;  
+
+to  believe 
+
+reason 
+
+(vi)  Application to the Board for change in the 
+Trustee  if  the  unit  holders  have  sufficient 
+reason to believe that acts of such Trustee is 
+detrimental to the interest of the unit holders;  
+
+(7) For  such  special  cases  as  specified  in  sub-regulation  (6) 
+above,  votes  cast  in  favour  of  the  resolution  shall  not  be 
+less than  three times the votes cast against the resolution; 
+
+(8) With  respect  to  the  right(s)  of  the  unit  holders  under 
+
+clauses (g) of sub-regulation (6) above, 
+
+(a) Not  less  than  60%  of  the  unit  holders  by  value, 
+other than any party related to the transactions and 
+its associates, shall apply, in writing, to the Trustee 
+for the purpose.  
+
+(b) On  receipt  of  such  application,  the  Trustee  shall 
+take  up  the  issue  with  the  Investment  Manager  for 
+voting 
+these 
+Regulations; 
+
+the  manner  as  specified 
+
+in 
+
+in 
+
+Disclosures 
+
+23. 
+
+(c) With respect to sub-clause (vi), not less than 60% of 
+the  unit  holders  by  value  shall  apply,  in  writing,  to 
+the Trustee for the purpose; 
+
+ (1) A privately placed InvIT shall ensure that the disclosures in 
+the  placement  memorandum  are  in  accordance  with  the 
+sub-regulation  (4)  of  regulation  15  to  these  Regulations 
+and any guidelines issued by the Board in this regard; 
+
+(2) A publicly offered InvIT shall ensure that the disclosures in 
+the offer document are in accordance with the Schedule III 
+to  these  Regulations  and  any  guidelines  issued  by  the 
+Board in this regard; 
+
+(3) The  Investment  Manager  of  all  InvITs  shall  submit  an 
+annual  report  to  all  unit  holders  electronically  or  by 
+physical  copies  and  additionally  to  the  Designated  Stock 
+Exchanges  with  respect  to  activities  of  the  InvIT,  not  less 
+than 3 months from the end of the financial year; 
+
+(4) The  Investment  Manager  of  shall  submit  a  half-yearly 
+
+report  to  the  Designated  Stock  Exchange  not  less  than  1 
+month  from  the  end  of  the  every  half  year  ending  March 
+and September; 
+
+(5) Such  annual  and  half  yearly  reports  shall  contain 
+disclosures  as  specified  under  Schedule  IV  to  these 
+Regulations; 
+
+(6) The  Investment Manager shall disclose to the Designated 
+Stock  Exchanges  any  information  having  bearing  on  the 
+operation/performance  of  the  InvIT  as  well  as  price 
+sensitive information which includes but is not restricted to 
+the following: 
+
+(a) Investment in any new project; 
+
+(b) Divestment of any project; 
+
+(c) Additional  borrowing,  at  level  of  SPV  or  the  InvIT, 
+
+exceeding 5% of the value of the InvIT assets ; 
+
+(d) Additional issue of units by the InvIT; 
+
+(e) Details  of  any  credit  rating  obtained  by  the  InvIT 
+
+and any change in such rating; 
+
+(f)  Any  issue  which  requires  approval  of  the  unit 
+
+holders; 
+
+(g) Any  legal  proceedings  which  may  have  significant 
+
+bearing on the functioning of the InvIT; 
+
+(h) Notices and results of meetings of unit holders,  
+
+(i)  Any 
+
+instance  of  non-compliance  with 
+
+these 
+Regulations including any breach of limits specified 
+under the Regulations; 
+
+(j)  Any  material  issue  that  in  the  opinion  of  the 
+Investment Manager/Trustee needs to be disclosed 
+to the unit holders; 
+
+(7) The  InvIT  shall  also  submit  such  information  to  the 
+designated  stock  exchanges  and  unit  holders  on  a 
+periodical  basis  as  may  be  required  under  the  listing 
+agreement; 
+
+(8) The InvIT shall disclose such information to the designated 
+stock  exchanges,  unit  holders  and  the  Board  as  may  be 
+specified  by 
+the  manner  prescribed 
+thereunder; 
+
+the  Board, 
+
+in 
+
+(9) The InVIT shall also provide disclosures/reports specific to 
+
+Submission  of 
+reports  to  the 
+Board 
+
+24. 
+
+Power 
+for information 
+
+to  call 
+
+25. 
+
+sector/sub-sector in which the InvIT has invested/proposes 
+to invest as may be specified by the Board, in the manner 
+prescribed thereunder; 
+
+The Board may at any time call upon the InvIT or parties to the 
+ 
+InvIT  to  file  such  reports,  as  the  Board  may  desire,  with 
+respect to the activities relating to the InvIT. 
+
+ (1) The  Board  may  at  any  time  call  for  any  information  from 
+the  InvIT  or  parties  to  the  InvIT  or  any  unit  holder  or  any 
+other person with respect to any matter relating to activity 
+of the InvIT. 
+
+(2) Where any information is called for under sub  - regulation 
+(1),  it  shall  be  furnished  within  the  time  specified  by  the 
+Board. 
+
+Maintenance  of 
+Records 
+
+26. 
+
+ (1) The Investment Manager shall maintain records pertaining 
+to the activity of the InvIT, as may be applicable, including: 
+
+(a) All 
+
+the 
+
+investments/divestments  of 
+
+InvIT  and 
+documents  supporting  the  same  including  rationale 
+for such investments/divestments; 
+
+(b) Agreements  entered  into  by  the  InvIT  or  on  behalf 
+
+of the InvIT; 
+
+(c) Documents  relating  to  appointment  of  persons  as 
+
+specified in Regulation10 (5); 
+
+(d) Insurance policies for infrastructure assets; 
+
+(e) Investment Management Agreement; 
+
+(f)  Registered Trust Deed; 
+
+(g) Documents pertaining to application to the Board for 
+
+registration as an InvIT; 
+
+(h) Documents  pertaining  to  issue  and  listing  of  units 
+including  placement  memorandum,  draft  and  final 
+offer document, in-principle approval by Designated 
+the 
+Stock  Exchanges, 
+Designated 
+Exchanges, 
+of 
+subscriptions, allotment of units, etc. 
+
+listing  agreement  with 
+details 
+
+Stock 
+
+(i)  Distributions declared and made to the unit holders; 
+
+(j)  Disclosures  and  periodical  reporting  made  to  the 
+Trustee,  Board,  unit holders and  to the  Designated 
+Stock  Exchanges  including  annual  reports,  half 
+
+yearly reports, etc.; 
+
+(k) Valuation 
+valuation; 
+
+reports 
+
+including  methodology  of 
+
+(l)  Books of accounts and financial statements; 
+
+(m)Audit reports; 
+
+(n) Reports  relating  to  activities  of  the  InvIT  placed 
+before  the  Board  of  Directors  of  the  Investment 
+Manager; 
+
+(o) Unit  holders'  grievances  and  actions  taken  thereof 
+including  copies  of  correspondences  with  the  unit 
+holder and the Board, if any; 
+
+(p) Any other material documents; 
+
+(2) The  Trustee  shall  maintain  records,  wherever  applicable, 
+
+pertaining to: 
+
+(a) Certificate of registration granted by the Board  
+
+(b) Titles of the infrastructure assets; 
+
+Provided  that  where  the  original  title  documents 
+are  deposited  with  the  Lender/Security  Trustee  in 
+respect  of  any  loan  /  debt,  in  which  case  the 
+Trustee  shall  maintain  copies  of  such 
+title 
+documents; 
+
+(c) Notices  and  agenda  send  to  unit  holders  for 
+
+meetings held; 
+
+(d) Minutes  of 
+
+such  meeting  and 
+
+resolutions 
+
+undertaken therein; 
+
+(e) Periodical  reports  and  disclosures  received  by  the 
+
+Trustee from the Investment Manager; 
+
+(f)  Disclosures,  periodically  or  otherwise,  made  to  the 
+Board,  unit  holders  and  to  the  Designated  Stock 
+Exchanges; 
+
+(g) Any other material documents; 
+
+(3) The  aforesaid  records  may  be  maintained  in  physical  or 
+
+electronic form; 
+
+(a) Provided  that  where  records  are  required  to  be 
+duly  signed  and  are  maintained  in  the  electronic 
+form, such records shall be digitally signed.  
+
+ 
+
+(b) Any other material documents;  
+
+CHAPTER V 
+
+INSPECTION 
+
+ The  Board  may suo-motu  or  upon  receipt  of  information  or 
+complaint  appoint  one  or  more  persons  as  inspecting  officers 
+to undertake inspection of the books of accounts, records and 
+documents  relating  to  activity  of  the  InvIT  for  any  of  the 
+following reasons, namely: -   
+
+(a) to  ensure 
+
+that 
+
+the  books  of  account,  records  and 
+documents are being maintained by the  InvIT or parties to 
+the InvIT in the manner specified in these regulations;   
+
+(b) to  inspect  into  complaints  received  from  unit  holders, 
+clients or any other person, on any matter having a bearing 
+on the activities of the InvIT;   
+
+(c) to  ascertain  whether  the  provisions  of  the  Act  and  these 
+regulations  are  being  complied  with  by  the  InvIT  and 
+parties to the InvIT; and   
+
+(d) to  inspect  suo-motu  into  the  affairs  of  the  InvIT,  in  the 
+interest  of  the  securities  market  or  in  the  interest  of 
+investors. 
+
+Boards right to 
+inspect  
+
+27. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Notice 
+inspection  
+
+before 
+
+28. 
+
+ 
+
+ (1)  Before  ordering  an  inspection  under  regulation  27,  the 
+Board  shall  give  not  less  than  ten  days  notice  to  the 
+Trustee of the InvIT.   
+
+(2)    Notwithstanding  anything  contained  in  sub-regulation  (1), 
+where  the  Board  is  satisfied  that  in  the  interest  of  the 
+investors  no  such  notice  should  be  given,  it  may,  by  an 
+order  in  writing,  direct  that  the  inspection  of  the  affairs  of 
+the InvIT be taken up without such notice.   
+
+(3)  During the course of an inspection, the InvIT against whom 
+the inspection is being carried out and parties to the  InvIT 
+shall be bound to discharge their obligations as provided in 
+regulation 29.   
+
+29. 
+
+Obligation 
+of 
+InvIT,  parties  to 
+InvIT  and 
+the 
+any 
+other 
+associate 
+persons 
+inspection  
+
+on 
+
+ (1) It  shall  be  the  duty  of  every  InvIT  in  respect  of  whom  an 
+inspection  has  been  ordered  under  the  regulation  27  and 
+parties to the InvIT and any other associate person who is 
+in possession of relevant information pertaining to conduct 
+and affairs of such  InvIT, including representative of  InvIT, 
+if  any,  to  produce  to  the  Inspecting  Officer  such  books, 
+accounts  and  other  documents  in  his  custody  or  control 
+
+ 
+
+and  furnish  him  with  such  statements  and  information  as 
+the said Officer may require for the purposes of inspection.   
+
+(2) It  shall  be  the  duty  of  every  InvIT  and  parties  to  the  InvIT 
+and  any  other  associate  person  who  is  in  possession  of 
+relevant information pertaining to conduct and affairs of the 
+InvIT  to  give  to  the  Inspecting  Officer  all  such  assistance 
+and shall extend all such co-operation as may be required 
+in  connection  with  the  inspection  and  shall  furnish  such 
+information  sought  by  the  inspecting  officer  in  connection 
+with the inspection.   
+
+(3) The Inspecting Officer shall, for the purposes of inspection, 
+have  power  to  examine  on  oath  and  record  the  statement 
+of  any  employees  and  directors  of  the  InvIT/parties  to  the 
+InvIT  or  any  person  responsible  for  or  connected  with  the 
+activities  of  InvIT  or  any  other  associated  person  having 
+relevant information pertaining to such InvIT. 
+
+(4) The Inspecting Officer shall, for the purposes of inspection, 
+have  power  to  obtain  authenticated  copies  of  documents, 
+books, accounts of InvIT, from any person having control or 
+custody of such documents, books or accounts.  
+
+Submission  of 
+Report 
+the 
+Board  
+
+to 
+
+30. 
+
+inspecting  officer  shall,  as  soon  as  possible,  on 
+ The 
+completion of the inspection submit an inspection report to the 
+Board. 
+
+ 
+
+Provided that if directed to do so by the Board, he may submit 
+an interim report.   
+
+Communication 
+of  findings  etc. 
+to the InvIT 
+
+31. 
+
+ 
+
+ The Board may after consideration of the inspection report and 
+after  giving  reasonable  opportunity  of hearing  to  the  InvITs  or 
+parties to the  InvIT  or its  representatives  or any  such person, 
+issue such directions as it deems fit in the interest of securities 
+market or the investors in the nature of;  
+
+(a) requiring  the  InvIT  to  delist  its  units  from  the  stock 
+
+exchanges and surrender its certificate of registration; 
+
+(b) requiring the InvIT to wind up; 
+
+(c) requiring the InvIT to sell its assets; 
+
+(d) requiring  the  InvIT  or  parties  to  the  InvIT  to  take  such 
+
+action as may be in the interest of the investors; 
+
+(e) prohibiting  the  InvIT  or  parties  to  the  InvIT  from 
+operating  in  the  capital  market  or  from  accessing  the 
+
+capital market for a specified period.  
+
+CHAPTER VI 
+
+PROCEDURE FOR ACTION IN CASE OF DEFAULT 
+
+Liability 
+for 
+action  in  case 
+of default. 
+
+32. 
+
+ 
+
+(1) An InvIT or parties to the InvIT or any other person involved 
+in  the  activity  of  the  InvIT  who  contravenes  any  of  the 
+provisions  of  the  Act  or  these  regulations  or  notifications, 
+guidelines,  circulars,  instructions,  etc.  issued  thereunder  by 
+the  Board  shall  be  liable  for  one  or  more  actions  specified 
+therein  including  any  action  provided  under  the  Securities 
+and  Exchange  Board  of  India  (Intermediaries)  Regulations, 
+2008.  
+
+(2) Sub-regulation  (1)  shall  not  prejudice  the  operation  of 
+sections 11, 11B, 11D or 24 or Chapter VIA of the Act or of 
+any other law for the time being in force. 
+
+CHAPTER VII 
+
+MISCELLANEOUS 
+
+Power  of 
+the 
+Board  to  issue 
+clarifications. 
+
+33. 
+
+ In  order  to  remove  any  difficulties  in  the  application  or 
+interpretation  of  these  regulations,  the  Board  may  issue 
+clarifications  and  guidelines 
+the  manner  as  may  be 
+appropriate. 
+
+in 
+
+34. 
+
+Others 
+Infrastructure 
+Investment 
+Trusts 
+
+Delegation 
+powers 
+
+of 
+
+35. 
+
+ 
+
+ 
+
+ 
+
+Infrastructure 
+ The  Board  may 
+Investment Trusts other than the InvITs falling in the categories 
+specified in these regulations; 
+
+framework 
+
+lay  down 
+
+for 
+
+ The  powers  exercisable  by  the  Board  under these  regulations 
+shall  also  be  exercisable  by  any  officer  of  the  Board  to  whom 
+such powers are delegated by the Board by means of an order 
+made under section 19 of the Securities and Exchange Board 
+of India Act, 1992 (15 of 1992).  
+
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+
+CHAIRMAN 
+
+ 
+
+SCHEDULE I 
+
+[see Regulation 3(2) ] 
+
+FORMS 
+
+FORM A 
+
+ 
+
+Securities  and  Exchange  Board  of  India  (Infrastructure  Investment  Trusts) 
+Regulations, 2014 
+
+Application for grant of certificate 
+
+ 
+
+(To be finalized) 
+
+ 
+
+                                           
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FORM B 
+
+Securities and Exchange Board of India 
+
+(Infrastructure Investment Trusts) Regulations, 2014 
+
+[See regulation 6(2)] 
+
+Certificate of registration as a Infrastructure Investment Trust  
+
+I.  In  exercise  of  the  powers  conferred  by  sub-section  (1)  of  section  12  of  the 
+Securities  and  Exchange  Board  of  India  Act,  1992  (15  of  1992),  read  with  the 
+regulations made there under, the Board hereby grants a certificate of registration to  
+
+_______________________________________________________________  
+
+as  an  Infrastructure  Investment  Trust  subject  to  the  conditions  specified  in  the  Act 
+and in the regulations made thereunder.  
+
+ 
+
+II. The Registration Number of the Infrastructure Investment Trust is: 
+
+_____________.  
+
+ 
+
+Date :  
+
+Place :  
+
+ 
+
+ 
+
+ 
+
+ 
+
+By Order  
+
+Sd/-  
+
+For and on behalf of  
+
+Securities and Exchange Board of India 
+
+SCHEDULE II 
+
+Securities and Exchange Board of India (Infrastructure Investment 
+
+Trusts) Regulations, 2014 
+
+ 
+
+[See Regulation 3(2), 6(1) and 14(4)(k)] 
+
+ 
+
+ 
+
+FEES 
+
+1.  Every  applicant  shall  pay  non-refundable  application  fees  of  one  lakh 
+
+rupees along with the application for grant of certificate of registration. 
+ 
+
+2.  Every applicant shall pay as non-refundable registration fees a sum of ten 
+lakh  rupees  at  the  time  of  grant  of  certificate  by  the  Board  within  fifteen 
+days from the date of receipt of intimation from the Board. 
+ 
+
+3.  A publicly offered InvIT shall pay non-refundable filing fees of 0.05% of the 
+
+total issue size at the time of filing of final offer document with the Board. 
+ 
+
+4.  A  privately  placed  InVIT  shall  pay  a  non-refundable fees  of 0.05%  of  the 
+
+total funds raised within 30 days from the date of final closing. 
+ 
+
+5.  Such  application,  registration  and  filing  fees  shall  be  paid  by  way  of  a 
+demand draft in favor of 'Securities and Exchange Board of India' payable 
+at Mumbai or at respective regional or local office, as may be required. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCHEDULE III 
+
+[See Regulations 14, 15, 19, 21 and 23] 
+
+MANDATORY  DISCLOSURES  IN  OFFER  DOCUMENT/FOLLOW  ON  OFFER 
+DOCUMENT 
+
+1.  Introduction 
+
+a.  Name  of 
+
+the 
+
+InvIT,  registered  office  address,  correspondence 
+
+address, contact person (s), contact details and email id of the InvIT 
+
+b.  Place and date of creation of the InvIT 
+c.  Registration number and date of the InvIT with SEBI  
+
+2.  Details  of  sponsor(s),  Investment  Manager,  Project  Manager,  Trustee 
+
+and other parties 
+
+a.  Sponsor (s)  
+
+(In case of multiple sponsors, provide details for every sponsor) 
+
+i.  Name, 
+
+registered  addresses,  correspondence  addresses, 
+
+Contact person (s), contact details, email id 
+
+ii.  Background  of 
+
+the  sponsor 
+
+including  activities  being 
+
+undertaken by the sponsor with respect to infrastructure. 
+
+iii.  Holding/ proposed holding by sponsor in the InvIT 
+
+b.  Investment Manager and Project Manager 
+
+i.  Background  of  the  investment/Project  Manager  including  past 
+experience  in  management/advisory  services/development  in 
+infrastructure sector 
+
+ii.  Brief 
+
+functions, 
+
+duties 
+
+and 
+
+responsibilities 
+
+of 
+
+the 
+
+investment/Project Manager 
+
+iii.  Brief  profiles  of  directors  of  the  Investment  Manager  and  units 
+
+held or proposed to held by them in the InvIT, if any 
+
+c.  Trustee 
+
+i.  Background of the Trustee including details of registration with 
+
+SEBI in case Trustee is a debenture Trustee 
+
+ii.  Names  and  profiles  of  the  Board  of  Directors  with  specific 
+
+details of which of the directors are independent 
+
+iii.  Functions, duties and responsibilities of the Trustee 
+
+d.  Other parties 
+
+i.  Names,  details  and  functions  of  other  key  parties/entities 
+involved  in  the  structure  of  the  InvIT  including  key  terms  of 
+
+agreement with such parties, background and experience, brief 
+functions, duties and responsibilities, Policy of appointment and 
+removal, etc. 
+
+ 
+
+3.  Brief background of the InvIT 
+
+a.  Glossary of terms/abbreviations 
+b.  Structure and description of the InvIT 
+c.  Details  of  any  arrangements  pertaining  to  underlying  InvIT  assets, 
+
+entered into with various parties prior to the issue; 
+
+d.  Holding  structure  of  the  InvIT  prior  to  the  issue  including  breakup  of 
+the units held by parties to the InvIT and any other unit holder holding 
+greater than 5% of the units of the InvIT prior to such issue;  
+
+e.  Proposed holding structure by the aforesaid parties post-issue; 
+f.  Fee and expenses charged/chargeable to the unit holders by various 
+parties  including  fees  charged/proposed  to  be  charged  by  the 
+Investment  Manager,  valuer,  auditor,  Trustees  and  any  other  third 
+party and shall also include any set-up costs; 
+
+g.  Details of any Credit rating(s) obtained 
+
+4.  Terms of the issue 
+
+a.  Terms  of  the  offer  including  number  of  units,  price,  issue  opening 
+date,  issue  closing  date,  terms  and  conditions  and  any  other 
+information  as  may  be  required  for  the  investor  to  make  an  informed 
+decision. 
+
+b.  Policy  of  distributions  to  the  unit  holders  including  method  of 
+
+calculation and the frequency for distribution 
+
+c.  Listing of units 
+
+i.  Names of designated stock exchanges 
+ii.  Timelines for listing 
+iii.  Declaration  that  prior  in-principle  approval  obtained  from  the 
+
+designated stock exchanges 
+
+d.  Commitment received from strategic investors, if any. 
+
+5.  Market overview  
+
+a.  General market overview of the infrastructure sector 
+b.  Overview  of  the  sub-sector  in  which  the  InvIT  has  invested/proposes 
+
+to invest. 
+
+6.  Description of the assets under the InvIT 
+
+a.  General consolidated details of all assets of the InvIT 
+
+i.  Breakup/proposed  breakup  of  InvIT  assets  in  terms  of  Reg 
+
+18(5)(a) and (b) 
+
+ii.  Details  of  proposed  structure  of  investment  by  the  InvIT  in 
+
+infrastructure projects. 
+
+iii.  Details  of 
+
+the  SPVs 
+
+through  which 
+
+the  projects  are 
+held/proposed  to  be  held  including  capital  structure,  holding 
+pattern, holding of InvIT in the SPV, rights of InvIT in the SPV, 
+etc.  pre-issue  (current)  and  post-issue(proposed).  Also, details 
+of key terms of debt and other instruments in the SPV shall be 
+disclosed.  
+
+iv.  In case the projects are held/proposed to be held directly by the 
+InvIT,  details  of  holding  of  all  the  owners  of  the  projects 
+including % of ownership, rights of InvIT vis-à-vis other owners, 
+etc. pre-issue (current) and post-issue(proposed). 
+
+v.  Status of lender consent with respect to underlying projects and 
+amendment in lender agreement, if any pursuant to acquisition 
+of the assets by InvIT. 
+
+vi.  Confirmation  of  adequate  Insurance  of  all  the  infrastructure 
+
+assets by the Trustee 
+ 
+
+b.  Project-wise  details of  infrastructure  assets  held/proposed  to  be 
+
+held by the InvIT 
+
+i.  Name, location, pictures and other details of the project. 
+ii.  Structure of ownership of the project by the InvIT 
+iii.  Special features of the infrastructure projects, if any  
+iv.  Description  of  key  agreements  and  restrictions  relevant  to  the 
+terms  of  concession  agreement,  power 
+
+project  such  as 
+purchase agreements, etc. 
+
+v.  Life  of  the  asset  (both  contractually  and  physical  life  requiring 
+maintenance,  replacement)  and  right  available  to  extend  this 
+life 
+
+vi.  Summary of Land diligence  
+vii.  Technical reports specific to the sub-sector such as traffic data 
+
+report, wind/solar report, etc. 
+
+viii.  Month-wise revenue since COD of the project till date 
+
+ 
+
+c.  For  under-construction  projects,  the  following  additional  disclosures 
+
+shall be made project-wise: 
+
+i.  Stage  of  development/construction  along  with  %  of  completed 
+
+development/construction as at the end of the year 
+
+ii.  Progress of development 
+iii.  Expected completion  
+
+iv.  Status  of  approval/assessment 
+
+from  various  authorities 
+
+including statutory assessment & environment considerations  
+
+v.  Key risks involved in delay 
+
+7.  Business Details and Strategy 
+
+a.  Investment strategy 
+
+  Description of investment strategy of the InvIT  
+  Description  of  ROFR  by  the  sponsor,  if  any  with  respect  to  any 
+future assets including valuation methodology for future acquisitions 
+from Sponsors in such cases 
+
+  Capital and risk management strategy 
+
+b.  Use of proceeds: 
+
+  purpose of the issue; 
+ 
+
+Issue Expenses 
+
+8.  Leverage 
+
+a.  Capital structure of the InvIT assets including any borrowings/deferred 
+payments with respect to the InvIT assets prior to the issue and post-
+issue (Standalone and consolidated) 
+
+b.  Borrowing policy   
+
+9.  Related party transactions 
+
+a.  Procedure for dealing with related party transactions 
+b.  Details  of  any  related  party  transactions  undertaken  prior  to  the  offer 
+
+as well as any such transactions proposed in the future.  
+
+10. Valuation 
+
+a.  Summary of valuation as per the latest full valuation report 
+b.  Valuation methodology  
+c.  Frequency of valuation and declaration of NAV 
+
+11. Financials 
+
+a.  Operating  cash  flow  from  the  projects  (project-wise)  under  the  InvIT 
+
+for the previous 3 years;  
+
+b.  Summary of the financial statements of the InvIT, Investment Manager 
+
+and sponsor for the previous 3 years, as  applicable  
+
+c.  Management‘s  Discussion  and  Analysis  of  factors  by  directors  of  the 
+Investment  Manager  affecting  financial  condition  and  results  of 
+operations 
+
+d.  Projections of revenue and operating cash flows by InvIT, project-wise 
+over next three years including assumptions details as certified by the 
+auditor 
+
+e.  Details on payment history and working capital 
+
+f.  Contingent liabilities as on date 
+
+12. Rights of Unit Holders  
+
+a.  Rights of unit holders  
+b.  Proposed  disclosures  to  the  unit  holders  either  directly  or  by  public 
+
+dissemination on the designated stock exchange website 
+
+c.  Frequency and manner of meetings of unit holders 
+
+13. Title and approval disclosures, litigations and regulatory actions  
+
+a.  Title  disclosure  of  the  projects  including  any  material  litigations 
+
+pertaining to the projects; 
+
+b.  Regulatory authorities involved and status of approvals with respect to 
+the  underlying  projects  and  approvals  periodically  required  for  the 
+project  as  per  any  Act/rules/regulations/guidelines  by 
+the 
+government/regulatory authority 
+
+c.  Brief  description  of  the  material  litigations  and  regulatory  actions, 
+InvIT,  sponsor(s), 
+
+whether  completed  or  pending,  against 
+Investment Manager, Trustee, or any of their associates, if any 
+
+the 
+
+14. Risk factors 
+
+15. Brief details on taxation and regulatory aspects to enable the investors 
+
+to make an informed decision 
+
+16. Other general information 
+
+Policy of appointment of auditor and auditing standards to be followed 
+
+17. Sector specific information 
+
+Any  information  pertaining  to  the  sector/sub-sector  that  may  be  relevant  for 
+an investor to invest in units of the InvIT 
+
+18. Supporting Documents 
+
+a.  Full Valuation Report 
+b.  Auditors Report 
+c.  Any other such report 
+
+19. Such  other  information  as  is  material  and  appropriate  to  enable  the 
+
+investors to make an informed decision 
+
+20. Declarations 
+
+ 
+
+SCHEDULE IV 
+
+[See Regulation 23(5)] 
+
+MANDATORY DISCLOSURES 
+
+ 
+
+Mandatory Disclosures in the Annual Report 
+
+(A privately placed InvIT may only disclose the items, as may be applicable to its 
+
+structure and activities) 
+
+1.  Brief  Investment  Manager's  report  of  activities  of  the  InvIT  and  summary  of  the 
+
+audited consolidated financial statements for the year of the InvIT 
+
+2.  Management discussion and analysis by the directors of the Investment Manager 
+
+on activities of the InvIT during the year, forecasts and future course of action. 
+
+3.  Brief details of all the assets of the InvIT, project-wise.  
+
+4.  Details of revenue during the year, project-wise from the underlying projects. 
+
+5.  Brief  summary  of  the  valuation  as  per  full  valuation  report  as  at  the  end  of  the 
+
+year 
+
+6.  Any  information/report  pertaining  to  the  specific  sector/sub-sector  that  may  be 
+
+relevant for an investor to invest in units of the InvIT 
+
+7.  Details of changes during the year pertaining to: 
+
+a.  Addition  and  divestment  of  assets  including  the  identity  of  the  buyers  or 
+for  such 
+
+sellers,  purchase/sale  prices  and  brief  details  of  valuation 
+transactions. 
+
+b.  Valuation of assets and NAV (as per the full valuation reports) 
+
+c.  Borrowings/ repayment of borrowings(standalone and consolidated) 
+
+d.  Credit rating 
+
+e.  Sponsor,  Investment  Manager,  Trustee,  valuer,  directors  of  Investment 
+
+Manager, directors of the Trustee/Investment Manager/sponsor, etc. 
+
+f.  Clauses  in  trust  deed,  investment  management  agreement  or  any  other 
+
+agreement entered into pertaining to activities of InvIT. 
+
+g.  Any  regulatory  changes  that  has  impacted/may  impact  cash  flows  of  the 
+
+underlying projects 
+
+h.  Change in material contracts or any new risk in performance of  any contract 
+
+pertaining to the InvIT 
+
+i.  Any legal proceedings which may have significant bearing on the activities or 
+
+revenues/cash flows of the InvIT 
+
+j.  Any other material change during the year. 
+
+8.  Revenue of the InvIT for the last 5 years, project-wise. 
+
+9.  Update on development of under-construction projects, if any. 
+
+10. Details  of  outstanding  borrowings  and  deferred  payments  of  InvIT including  any 
+credit rating(s), debt maturity profile, gearing ratios of the InvIT on a consolidated 
+and standalone basis as at the end of the year. 
+
+11. The total operating expenses of the InvIT along with detailed break-up, including 
+all  fees  and  charges  paid  to  the  Investment  Manager    and  any  other  parties,  if 
+any during the year. 
+
+12. Past  performance  of  the  InvIT  with  respect  to  unit  price,  distributions  made  and 
+
+yield for the last 5 years, as applicable. 
+
+13. Unit price quoted on the exchange at the beginning and end of the financial year, 
+the highest and lowest unit price and the average daily volume traded  during the 
+financial year. 
+
+14. Details of all related party transactions during the year with details of transactions 
+
+value of which exceeds 5% of value of the InvIT. 
+
+15. Details of issue and buyback of units during the year, if any 
+
+16. Brief report on corporate governance  
+
+17. Brief  details  of  material  litigations  and  regulatory  actions,  whether  completed  or 
+pending,  against  the  InvIT,  sponsor(s),  Investment  Manager,  Trustee  or  any  of 
+their associates, if any, as at the end of the year. 
+
+18. Risk factors  
+
+19. Information of the contact person of the InvIT 
+
+ 
+
+Mandatory annexure to the annual report 
+
+1.  Full valuation report 
+2.  Auditor's report 
+
+ 
+
+ 
+
+Mandatory disclosures in the Half-yearly report 
+
+(A privately placed InvIT may only disclose the items, as may be applicable to its 
+
+structure and activities) 
+
+1.  All  details  as  provided  above  (other  than  clause  (2)  and  mandatory  annexures) 
+for  annual  report  for  the  previous  half-year  or  as  at  the  end  of  the  half-year  as 
+applicable; 
+
+2.  Audited financial statements for the half year; (Standalone and consolidated) 
+
+3.  Updated  valuation  report  by  the  valuer  taking  into  account  any  material 
+
+developments during the previous half-year; 
+
+4.  Any other material events during the half-year; 
+
+ 
+
+ 
+
+SCHEDULE V 
+
+[See Regulation 21(3)] 
+
+MANDATORY MINIMUM DISCLOSURES IN FULL VALUATION REPORT 
+
+The full valuation report shall include as a minimum of following:  
+
+a.  Name and brief details of the valuer along with details of registration under the 
+
+Companies Act, 2013 
+
+b.  all material details in relation to the basis of valuation;  
+
+c.  Description  and  explanation  of  the  valuation  methodologies  adopted  including 
+assumptions  used,  justification  of  the  assumptions,  explanation  of  the  rationale 
+for choosing the particular valuation method if more than one method is or could 
+have been adopted, etc.   
+
+d.  overall structure and condition of the relevant market including an analysis of the 
+
+supply-demand situation, the market trend and investment activities;  
+
+e.  Any  information/report  pertaining  to  the  specific  sector/sub-sector  that  may  be 
+
+relevant for valuation of the assets; 
+
+f.  For every project, the following details shall be mentioned,:  
+
+i.  Details of the project including whether the transaction is a related party 
+
+transaction; 
+
+ii.  Latest pictures of the project 
+
+iii.  the existing use of the project; 
+
+iv.  the nature of the interest the InvIT holds/proposes to hold in the project, 
+
+percentage of interest of the InvIT in the project 
+
+v.  Date of inspection and date of valuation 
+
+vi.  Qualifications and assumptions 
+
+vii.  Method used for valuation  
+
+viii.  Valuation standards adopted  
+
+ix.  Extent of valuer's investigations and nature and source of data to be relied 
+
+upon 
+
+x.  Purchase price of the project by the InvIT(for existing projects of the InvIT) 
+
+xi.  Valuation of the project in the previous 3 years; (for existing projects of the 
+
+InvIT) 
+
+xii.  Detailed valuation of the project as calculated by the valuer;  
+
+g.  any other matters which may affect the project or its value;  
+
+h.  a declaration by the valuer that: 
+
+i.  the valuer is competent to undertake the valuation;  
+
+ii.  the  valuer  is  independent  and  has  prepared  the  report  on  a  fair  and 
+
+unbiased basis;  
+
+iii.  the  valuer  has  valued  the  projects  based  on  the  valuation  standards  as 
+
+specified under sub-regulation 10 of regulation 21 of these Regulations;  
+
+ 
+
+SCHEDULE VI 
+
+[See Regulation 7(d)] 
+
+ 
+
+CODE OF CONDUCT FOR InvIT AND PARTIES TO THE InvIT 
+
+1.  InvIT  and  parties  to  the  InvIT  shall  conduct  all  affairs  of  the  InvIT  in  the 
+
+interest of all the unit-holders of the InvIT.   
+
+2.  InvIT  and  parties  to  the  InvIT  shall  make  adequate,  accurate,  explicit  and 
+timely  disclosure  of  relevant  material  information  to  all  unit  holders, 
+exchanges and the Board in accordance with these Regulations and as may 
+be specified by the stock exchanges from time to time.  
+
+3.  InvIT and parties to the InvIT shall try to avoid conflicts of interest, as far as 
+possible, in managing the affairs of the InvIT and keep the interest of all unit 
+holders paramount in all matters. In case such events cannot be avoided, it 
+shall  be  ensured  that  appropriate  disclosures  are  made  to  the  unit-holders 
+and they are fairly treated.  
+
+4.  The  InvIT  and  parties to  the  InvIT  shall  ensure  that  the fees  charged  to  the 
+unit-holders  by  the  respective  persons  shall  be  fair  and  reasonable  in  the 
+circumstances and shall be characterized by good faith  
+
+5.  Investment  manager  shall  carry  out  the  business  of  the  InvIT  and  invest  in 
+accordance with the investment objectives stated in the offer document and 
+take investment decisions solely in the interest of unit holders.   
+
+6.  InvIT  and  parties  to  the  InvIT  shall  not  use  any  unethical  means  to  sell, 
+market or induce any person to buy their InvITs and the Investment Manager 
+shall  be  responsible  for  including  such  prohibited  acts  in  the  agreement 
+entered  to  with  a  third  party  who  may  be  appointed  by  the  Investment 
+Manager for the purpose.   
+
+7.  InvIT  and  parties  to  the  InvIT  shall  maintain  high  standards  of  integrity  and 
+
+fairness in all their dealings and in the conduct of their business,  
+
+8.  InvIT  and  parties  to  the  InvIT  shall  render  at  all  times  high  standards  of 
+service,  exercise  due  diligence,  ensure  proper  care  and  exercise 
+independent professional judgment.  
+
+9.  InvIT  and  parties  to  the  InvIT  shall  not  make  any  exaggerated  statement, 
+their 
+
+whether 
+either 
+qualifications/capabilities/experience/ achievements.  
+
+about 
+
+oral 
+
+or 
+
+written, 
+
+ 
+
+

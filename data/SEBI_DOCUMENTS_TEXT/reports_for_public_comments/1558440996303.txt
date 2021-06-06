@@ -1,0 +1,542 @@
+ 
+
+1.  Objective 
+
+Discussion Paper   
+
+Review of Rights Issue Process 
+
+ 
+
+1.1. The objective of this discussion paper is to seek comments / views from the public and 
+
+market intermediaries on Review of Rights Issue Process. 
+
+2.  Background 
+
+2.1. Securities market, including the primary markets, is dynamic and needs to keep pace with 
+the  evolving  economic  and  technological  environment.  Accordingly,  there  has  been  a 
+significant change in the regulatory framework governing the primary markets, particularly 
+initial public offerings, thereby making the product timelines and processes efficient.  
+
+2.2. While  SEBI  has  enabled  rights  issue  through  the  fast  track  route,  subject  to  certain 
+conditions, cutting down significantly on the timelines, SEBI is further exploring ways to 
+make the rights issue process more efficient. Issuers perceive a higher exposure to price 
+risk  due  to  current  rights  issue  process  while  investors  expect  allotment  and  listing 
+timelines to be shortened. The current process of trading of rights entitlement, which is 
+settled physically with low liquidity, is also needed to be addressed.  
+
+2.3. This  discussion  paper  evaluates  means  to  (i)  reduce  time  between  announcement  of 
+terms  of  the  issue  and  issue  closing  thereby  reducing  price  risks,  and  (ii)  make  the 
+application  and  allotment  process  more  efficient  by  using  the  banking  and  depository 
+infrastructure and provide issuers with an efficient mechanism for raising funds, and to 
+streamline the process, reduce post issue timeline for rights issues and methodologies 
+associated with rights issue fund raising process.  
+
+3.  Issue  
+
+3.1. A current rights issue process, through the fast track route, typically takes about  55-58 
+days from the time the Company decides to launch the rights issue till listing. This timeline 
+(excluding  the  period  taken  for  completing  the  letter  of  offer  and  any  statutory  and 
+regulatory approvals) has three broad components: 
+
+3.1.1.  26 days from the notice of the Board Meeting to the opening of the Rights Issue 
+
+3.1.2.  Issue Period of at least 15 days and not more than 30 days from the opening of 
+the Rights Issue to the closing of the Rights Issue – this is a requirements under the 
+Companies Act 2013  
+
+3.1.3.  12 working days [~15 days] for allotment and listing 
+
+Discussion Paper on review of Rights Issue Process 
+
+Page 1 of 7 
+
+The key activities and timeline in the current process are as follows: 
+Key Activities 1 
+
+Timeline  Regulatory Requirements 
+
+Regulation 
+
+Board Meeting to decide record 
+date and Issue Price 
+
+T 
+
+Price to be decided before record 
+date 
+
+ICDR 
+
+ 
+
+Ex-rights trading starts (1 day before 
+Record Date) 
+
+T+10 
+
+- 
+
+T+11 
+
+7 clear working days gap from 
+Board meeting 
+
+T+12 
+
+- 
+
+T+19 
+
+•  Takes 7-8 days  
+• 
+
+3 days before Issue opening 
+
+Companies 
+Act  
+
+ 
+
+LODR 
+
+ 
+
+Record date 
+
+Dispatch Starts 
+
+Dispatch Completion 
+
+ 
+ 
+
+ 
+
+Dispatch confirmation advertisement 
+
+T+20 
+
+3 days prior to Issue opening 
+
+ICDR 
+
+Issue Opening 
+
+Issue Closing 
+
+T+23 
+
+- 
+
+T+37 
+
+Issue to be kept open for 
+minimum 15 days 
+
+ 
+
+ICDR and 
+Companies 
+Act 
+
+Basis of Allotment 
+
+Allotment of Shares 
+
+T+51  ~12 days for due to physical forms   
+
+T+52 
+
+- 
+
+ 
+
+Listing and trading 
+1
+ Activities listed above relates to period other than preparation, diligence and SEBI review period 
+for draft LOF  
+
+T+55 
+
+- 
+
+ 
+
+3.2. During  the  period  specified  in  3.1.1  and  3.1.2  above,  the  issuer  company  and  the 
+shareholders  of  the  Company  are  exposed  to  price  risk.  It  can  be  observed  from  past 
+transactions that once the rights issue price and terms are announced, the stock price or 
+the  company  and  the  rights  issue  price  begin  to  converge,  leaving  little  incentive  to 
+shareholders to benefit from the rights issue price, which is typically at a discount to the 
+trading price at the time of announcement.  Also chances of macro events impacting stock 
+performance of companies, from the time issue price is announced are high, given current 
+rights issue timelines.  
+
+3.3. Further, while in IPOs, with the introduction of UPI based payments coupled with ABSA 
+facility, it is proposed that allotment and trading is completed in 3 working days from issue 
+closure,  in  a rights  issue,  allotment  and trading  processes take  up  to  12 working  days 
+from  issue  closure.  This  is  largely  on  account  of  physical  verification  of  forms  and 
+requests  that  deal  with  renunciation,  consequently  allowing  non  ASBA  payments  for 
+renouncees.  
+
+3.4. Given the above timelines, there is a need to reduce the timelines both in the pre issue 
+opening phase and after issue closure such that the issuer and shareholders benefit from 
+process efficiencies.  
+
+Discussion Paper on review of Rights Issue Process 
+
+Page 2 of 7 
+
+ 
+
+ 
+
+4.  Proposal 
+
+ 
+
+4.1. Reduction  in  period  of  notice  for  Record  Date:  Regulation  42  of  the  SEBI  (LODR) 
+Regulations 2015 requires companies to give 7 clear working days (i.e. excluding date of 
+notice and record date) for setting a record date. Regulation 73(1) of ICDR requires issue 
+price to be determined before determining record date. Both these regulations combined 
+together require issuer to set issue price when board of the company decides record date. 
+Record date, due to requirement of 7 clear working days’ notice, assuming no holidays 
+other than weekend, in practice works out to period of 11 to 13 days.  
+
+Suggestion: To reduce the notice period under Regulation 42 of LODR to 3 clear working 
+days (instead of 7 clear working days), and the requirement to determine issue price prior 
+to record date may continue.   
+
+Rationale:  Three  clear  working  days’  notice  would  actually  result  in  dissemination  of 
+information to shareholders and other investors at least 4 days before record date and at 
+least 3 days before share starts trading on an ex-rights basis. It, therefore, gives enough 
+time for shareholders and investors to trade in the shares.  Notice of 3 clear working days 
+would enable execution and settlement of any trades consequent to decision on terms of 
+the rights issue.  
+
+Board Meeting to decide Record date and Issue Price 
+
+Ex-rights trading starts (1 day before Record Date) 
+
+Record date 
+
+ 
+
+T 
+
+T+3 
+
+T+4 
+
+4.2. Replacing  the  requirement  to  publish  a  newspaper  advertisement  confirming 
+completion of dispatch with giving intimation to the stock exchanges: Regulation 
+84  of  the  SEBI  ICDR  Regulations  requires  issuer  to  publish  an  advertisement  in 
+newspapers  confirming  completion  of  dispatch  of  the  letter  of  offer  and  composite 
+application  forms  to  shareholders  of  the  company,  at  least  3  days  before  the  date  of 
+opening  the  issue.  Further,  Section  62  of  the  Companies  Act,  2013  prescribes  that 
+dispatch has to be completed 3 days before issue opening. In addition, the companies 
+shall be required to send emails to shareholders whose email addresses are available 
+with depositories, informing them about the dispatch completion. 
+
+Suggestion: The Companies Act, 2013 requires companies to complete dispatch of the 
+letters of offer and composite application forms to shareholders of the company 3 days 
+before issue opening. Since this requirement has to be complied with and there are other 
+process changes suggested that will ensure shareholders are aware of the rights issue, 
+this requirement of publishing advertisement may be done away with. It is suggested that 
+issuers may intimate stock exchanges before issue opening about dispatch completion, 
+
+Discussion Paper on review of Rights Issue Process 
+
+Page 3 of 7 
+
+ 
+
+ 
+
+which would be notified to shareholders/ investors through the corporate announcements 
+module on the exchange websites. 
+
+Rationale:  A  public  advertisement  process  adds  time  and  cost  to  the  rights  issue 
+process.  All  material  information  is  communicated  to  shareholders/  investors  through 
+stock exchange announcements. In addition, companies often use electronic means to 
+communicate  with  their shareholders,  on  an  ongoing  basis.  Hence, the  requirement to 
+give  a  newspaper  advertisement  can  be  replaced  with  requirement  to  intimate  the 
+shareholders  through  the  stock  exchanges  and  through  email  where  such  details  are 
+available.  
+
+4.3. Moving  to  electronic  modes  of  receiving  entitlements,  processing,  payment  and 
+settlement  in  a  Rights  Issue:  Currently  rights  entitlements  (“RE”)  are  intimated  to 
+shareholders through composite application form (“CAF”). Registrar overprints RE in the 
+CAF based on rights ratio post the record date and dispatches the same to shareholders. 
+This  process  of  printing and  dispatch  currently  takes     ~7  days  or  more depending  on 
+number of shareholders. Shareholders can use the CAF for either applying in the issue 
+or  renouncing  the  entire  entitlements  or  request  registrar  for  split  forms  if  partial 
+renouncement  is  required.  Further  RE  can  be  traded  on  the  exchanges,  however  the 
+settlement is physical. 
+
+Further, renouncer or renounces, in the current process, cannot apply through ASBA as 
+the registrar needs to verify validity of renouncement by verifying the CAF. Application by 
+a  renouncee  requires  payment  through  bank  and  not  ASBA.  As  a  result,  post  issue 
+process  stretches  up  to  13-15  days  till  allotment  and  17  days  till  listing,  within  the  12 
+working days’ limit prescribed in the regulations for rights issues.  
+
+Suggestion: In order to address these issues, certain process changes are suggested. 
+
+a.  Dematerialization of entitlements under a separate ISIN - rights entitlements (“RE”) 
+
+shall be credited to shareholders’ demat account only. 
+
+b.  Shareholder  can  use  such  dematerialized  RE  for  applying  in  the  rights  issue  or 
+renouncement, either full or in part. The need to request of split forms would be 
+done away with. 
+
+c.  Based  on  communication  in  the  exchange  notification  for  dispatch  completion, 
+shareholders holding shares in physical form would be required to provide details 
+of  their  demat  account  to  the  Registrar  at  least  7  days  before  issue  closing. 
+Registrars would credit the entitlements to the Demat account of such shareholder 
+within 2 days of receipt of information. 
+
+d.  Overprinting of CAFs would not be required and application form in a format similar 
+to current IPO form would be used. Such blank forms would be also available on 
+the website of exchanges. 
+
+e.  Shareholders and renouncees would fill up the form/use online application facility 
+provided by ASBA banks. Investors would need to indicate in the form the number 
+
+Discussion Paper on review of Rights Issue Process 
+
+Page 4 of 7 
+
+ 
+
+ 
+
+of  shares  they  intends  to  apply  for,  based  on  entitlements  and  any  additional 
+quantity.   
+
+f.  All  investors  would  be  required  to  mandatorily  use  ASBA  as  payment  mode, 
+
+whether shareholders/ renouncers or renouncees.  
+
+g.  Post the closure of the issue, the ISIN for the rights renunciation will be temporarily 
+
+suspended. This would ensure that no trading/transfer is permitted thereafter. 
+
+h.  Registrar would receive application details from the Stock Exchange.  Facility for 
+correction  of  bid  data  on  T+1  i.e.  next  working  day  after  issue  closing  may  be 
+provided. 
+
+i.  Registrar would use the application file provided by exchanges, along with details 
+of  actual  RE  available  in  the  demat  account  of  all  the  applicants  and  details  of 
+amount blocked in the ASBA accounts. After the basis of allotment is approved, 
+shares shall be credited to the demat account of the applicants.  
+
+j.  Post  allotment,  the  ISIN  for  REs  would  be  cancelled.  Company  shall  thereafter 
+
+k. 
+
+obtain listing and trading permission. 
+In  cases  where  promoter/  promoter  group  conducts  an  inter-se  transfer  of 
+renunciation,  the trading  platform  of the  stock  exchange  can  provide  this facility 
+through a separate window, pursuant to a request. This would ensure that flexibility 
+provided for inter-se transfer between promoters and promoter group can be met.  
+l.  Stock exchanges may permit trading of rights entitlements and such facility would 
+be available to ensure that renouncees will be able to participate in the rights issue.  
+m.  No  withdrawal  of  applications  will  be  permitted  for  any  shareholder  after  issue 
+
+closure. 
+
+n.  Fractional entitlements currently are rounded down, but preference for allotment 
+of one share is given if such shareholder makes application for additional shares. 
+Registrar shall follow existing process in this regard under the new process. 
+
+o.  In certain cases, due to the rights entitlement ratio decided by the company, the 
+entitlement of shareholder may be less than one share. In such cases, shareholder 
+receives CAF with zero entitlement but is eligible to apply in the current process. 
+In the proposed system also, similar process would be adopted. 
+
+Rationale:  Electronic  credit  and  trading  of  rights  renunciation  will  make  the  process  of 
+renunciation  more  transparent  and  efficient.  Payment  through  ASBA  facility  is  investor 
+friendly  and  enables  faster  completion  of  the  post  issue  process.  As  a  result  of  these 
+measures, post issue timeline would be reduced by 11 days. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Discussion Paper on review of Rights Issue Process 
+
+Page 5 of 7 
+
+ 
+A.  Proposed Process & Timeline: 
+
+ 
+
+A process diagram of the proposed flow is given below: 
+ 
+
+ 
+
+ 
+
+ 
+It is expected that if the above changes are carried forth, the new timeline will be as 
+follows: 
+ 
+
+Existing 
+
+Key Activities 
+
+Proposed 
+
+T 
+
+T+10 
+
+T+11 
+
+T+12 
+
+T+19 
+
+T+20 
+
+NA 
+
+T+23 
+
+T+37 
+
+T+51 
+
+T+52 
+
+T+55 
+
+Board Meeting to decide Record date and Issue Price 
+
+Ex-rights trading starts (1 day before Record Date) 
+
+Record date 
+
+Dispatch Starts 
+
+Dispatch Completion 
+
+Dispatch confirmation advertisement 
+
+T 
+
+T+3 
+
+T+4 
+
+T+5 
+
+T+6 
+
+NA 
+
+Company  intimates  stock  exchange  confirming  dispatch 
+completion  for  dissemination  to  public  [and  sends  emails  to 
+shareholders confirming dispatch completion.] 
+
+Before issue 
+
+opening 
+
+Issue Opening 
+
+Issue Closing* 
+
+Basis of Allotment 
+
+Allotment of Shares 
+
+Listing and trading 
+
+T+9 
+
+T+23 
+
+T+27 
+
+T+28 
+
+T+31 
+
+*Issue Open Period in the table above is considered as 15 days, which is the minimum 
+period under the Companies Act, 1956 
+ 
+The process indicated above can be used for securities other than equity shares offered 
+on rights basis to the shareholders also.  
+ 
+ 
+
+Discussion Paper on review of Rights Issue Process 
+
+Page 6 of 7 
+
+ 
+5.  Public comments  
+
+ 
+
+5.1. Considering the implications of the said matter on the market participants including listed 
+companies,  market  intermediaries  and  investors,  public  comments  on  the  policy 
+framework proposed above are solicited. The comments on above, may be sent by email 
+or through post, in the format below: 
+
+Name of entity / person : 
+
+Contact Number & Email Address : 
+
+Sr. No. 
+
+Reference  Para  of  the 
+discussion paper 
+
+Suggestion/ 
+Comments 
+
+Rationale 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+While sending email, kindly mention the subject as "Comments on discussion paper 
+for Review of Rights Issue Process".  
+
+The comments may be sent by email to rightsissue@sebi.gov.in  or  sent  by  post  at the 
+following address latest by June 21, 2019: 
+ 
+Ms. Amy Menon 
+Deputy General Manager 
+Corporation Finance Department 
+Securities and Exchange Board of India 
+SEBI Bhavan 
+Plot No. C4-A, "G" Block 
+Bandra Kurla Complex 
+Bandra (East), Mumbai - 400 051 
+Ph.: +91-22-26449584 
+ 
+Issued on:  May 21, 2019 
+
+Discussion Paper on review of Rights Issue Process 
+
+Page 7 of 7 
+
+

@@ -1,0 +1,2363 @@
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+ 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market 
+
+Objective  
+
+in India 
+
+1.  To  solicit  the  comments/views  from  stakeholders  including  on  issues  related  to 
+
+trading  in  derivatives,  participant’s  profile,  product  mix,  stock  eligibility,  leverage 
+
+related  matters  and  product  suitability  framework  to  further  strengthen  the 
+
+framework in line with the emerging trends and global best practices.  
+
+ 
+
+Introduction 
+
+2.  Derivatives market in India has been growing rapidly in recent years. Orderly growth,  
+
+development  and  alignment  of  both  cash  and  derivatives  markets  is  important. 
+
+Keeping this objective in mind, the discussion paper has been prepared to undertake 
+
+an assessment of the derivatives market in India so as to evaluate whether there is a 
+
+need to further strengthen the regulatory framework for derivatives in India.  
+
+ 
+
+Background  
+
+3.  SEBI constituted a committee under the chairmanship of Dr. L. C. Gupta in November 
+
+1996 to "develop appropriate regulatory framework for derivatives trading in India". 
+
+In  March  1998,  the  L.  C.  Gupta  Committee  (LCGC)  submitted  its  report 
+
+recommending the introduction of derivatives market in a phased manner beginning 
+
+with the introduction of index futures.  
+
+ 
+
+4.  In  addition  to  the  above,  SEBI  had  also  constituted  Derivative  Market  Review 
+
+Committee under the Chairmanship of Prof M Rammohan Rao to review development 
+
+of the derivatives market and suggest future course of action.  The committee inter-
+
+alia recommended to widen the range of products such as option contracts with longer 
+
+life  or  tenure,  creation  of  Volatility  index  &  F&O  contacts  on  it,  options  of  futures, 
+
+exchange  traded  currency  contracts  and  mini  contracts  on  equity  indices.  The 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+1 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+committee had also made recommendations on operational issues such as revision of 
+
+eligibility  criteria  for  introduction  of  F&O  on  stocks  &  upward  revision  on  position 
+
+limits etc.   
+
+ 
+
+Relevant extracts of L C Gupta Committee 
+
+ 
+
+5.  The  Committee  strongly favours  the  introduction  of  financial  derivatives in order  to 
+
+provide the facility for hedging in the most cost-efficient way against market risk. This 
+
+is an important economic purpose. At the same time, it recognizes that in order to make 
+
+hedging  possible,  the  market  should  also  have  speculators  who  are  prepared  to  be 
+
+counter-parties  to  hedgers.  A  derivatives  market  wholly  or  mostly  consisting  of 
+
+speculators is unlikely to be a sound economic   institution. A soundly based derivatives 
+
+market requires the presence of both hedgers and speculators. 
+
+ 
+
+6.  The Committee is of the opinion that the entry requirements for brokers/dealers for 
+
+derivatives market have to be more stringent than for the cash market. These include 
+
+not only capital adequacy requirements but also knowledge requirements in the form 
+
+of mandatory passing of a certification programme by the brokers/dealers and the sales 
+
+persons. An important regulatory aspect of derivatives trading is the strict regulation 
+
+of sales practices. 
+
+ 
+
+7.  The objective of SEBI is to make both derivatives market and cash market fair, efficient 
+
+and transparent. Economically, it is important to realise that equity cash market and 
+
+equity derivatives market are of one piece. Their sound development is inter-related 
+
+closely. 
+
+ 
+
+8.  The  Committee  recognises  that  an  efficient  cash  market  is  required  for  an  efficient 
+
+futures  market.  The  Committee  also  recognises  the  danger  that  if  the  cash  market 
+
+behaviour is erratic or does not reflect fundamentals, a futures market, based on such 
+
+a cash market, will fail to give a correct indication of future prices and its usefulness for 
+
+price discovery will be reduced. 
+
+ 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+2 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+9.  With regard to participation of individual investors it is pertinent to mention here that 
+
+L C Gupta committee in its report has given emphasis on Regulation of Sales Practices 
+
+and Disclosures for Derivatives. The committee has observed following:   
+
+ 
+
+“The  Committee  has  identified  broker-client  relationship  and  sales  practices  for 
+
+derivatives  as  needing  special  regulatory  focus.  The  potential  risk  involved  in 
+
+speculating (as opposed to hedging) with derivatives is not understood widely. In the 
+
+case of pricing of complex derivatives contracts, there is a real danger of unethical sales 
+
+practices. Clients may be fooled or induced to buy unsuitable derivatives contracts at 
+
+unfair prices and without properly understanding the risks involved”. 
+
+ 
+
+Products available for trading in derivative segment 
+
+10. Accordingly BSE and NSE were permitted to introduce trading in derivatives on June 
+
+09, 2000 with launch of Equity Index futures followed by Index options. Subsequently, 
+
+Futures  &  Options  on  Individual  stocks  were  permitted  in  2001.  Currently,  the 
+
+following  products  are  available  for  trading  in  the  equity  derivative  segment  of 
+
+exchanges; 
+
+ 
+
+ 
+
+ 
+
+Table No 1 
+
+Products 
+
+Settlement type 
+
+Index Futures 
+
+Cash Settled  
+
+Index Options 
+
+Cash Settled (European style) 
+
+Stock Futures 
+
+Cash/Physical Settled 
+
+Stock Options 
+
+Cash/Physical Settled (European style)  
+
+11. Stock  Exchanges  were  provided  flexibility  to  offer  cash  settled  or  physically  settled 
+
+products  and  were  allowed  to  offer  either  European  style  or  American  style  stock 
+
+options  contracts.  Exchanges  (BSE  &  NSE)  have  introduced  European  style  option 
+
+contracts.   
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+3 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+12. Presently,  minimum  contract  size  in  equity  derivatives  segment  is  Rs.  5  lakhs. 
+
+Therefore the lot size for derivatives contracts in equity derivatives segment is fixed in 
+
+such a manner that the contract value of the derivative on the day of review is within 
+
+Rs. 5 lakhs and Rs. 10 lakhs.  
+
+ 
+
+13. SEBI  has prescribed  eligibility criteria for introduction of derivatives on stocks and 
+
+indices. The eligibility criteria inter-alia includes the following: 
+
+ 
+
+a)  A stock to be part of Top 500 stocks in terms of average daily market capitalization 
+
+and average daily traded value in the previous six months on a rolling basis,  
+
+b)  The stock’s median quarter-sigma order size over the last six months shall be not 
+
+less than Rupees 10 Lakh and  
+
+c)  The market wide position limit (MWPL) in the stock shall not be less than Rupees 
+
+300 crores etc.   
+
+ 
+
+14. Below mentioned pie-chart depicts the share of turnover of various products available 
+
+under the equity derivatives segment for FY 2016-17: 
+
+ 
+
+Chart No.1 
+
+Index Options
+
+77.14%
+
+Source NSE 
+
+Stock Futures
+
+11.79%
+
+Index Futures
+
+4.60%
+
+Stock Options
+
+6.47%
+
+ 
+
+Note: Significant trading in Nifty Futures takes place on SGX. Refer section 21. 
+
+ 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+4 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+15. For the FY 2016-17, it is seen that Equity derivatives turnover is largely dominated by 
+
+index  options  which  contributed  77.14%  to  the  total  turnover,  followed  by  Stock 
+
+Futures at 11.79%, Stock Options at 6.47% and Index Futures at 4.60%. 
+
+ 
+
+16. Index  options  and  stock  options  dominate  trading  in  the  derivatives  segment  by 
+
+accounting for 83.61% of total trading in derivative segment. The possible reasons for 
+
+greater trading interest in the options could be that the Security Transaction tax (STT) 
+
+on  options is chargeable  on  option  premium value  & thus  could  be  lower  in term of 
+
+value than that of futures where it is chargeable on notional value and also the trading 
+
+in  options  enable  market  participant’s  to  deploy  various  trading  strategies  to  earn 
+
+upfront premium that may be used to off-set losses or enhance gains in their trading 
+
+position in futures or in cash market.  
+
+ 
+
+ 
+
+Growth in Derivatives market in India  
+
+17. The  following  table  shows  the  trend  in  volumes  in  equity  cash  segment  and  equity 
+
+derivative segment at BSE and NSE: 
+
+ 
+
+Table No. 2 
+
+Financial 
+
+Market 
+
+Turnover 
+
+in 
+
+Turnover  in  Equity 
+
+Ratio:  Turnover 
+
+Year(FY) 
+
+Capitalisation 
+
+Equity 
+
+cash 
+
+Derivatives 
+
+in 
+
+Equity 
+
+of 
+
+the 
+
+segment 
+
+segment 
+
+derivatives 
+
+/ 
+
+Exchange 
+
+(BSE) 
+
+2004-05 
+
+2005-06 
+
+2006-07 
+
+2007-08 
+
+16,98,428 
+
+30,22,191 
+
+35,45,041 
+
+51,38,015 
+
+(Rs. Crores) 
+
+(Notional Values) 
+
+Equity cash 
+
+(Rs. Crores) 
+
+ 
+
+16,58,787 
+
+25,46,982 
+
+23,85,641 
+
+48,24,174 
+
+29,01,474 
+
+73,56,242 
+
+51,29,893 
+
+1,30,90,478 
+
+1.54 
+
+2.02 
+
+2.54 
+
+2.55 
+
+5 | P a g e  
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+Financial 
+
+Market 
+
+Turnover 
+
+in 
+
+Turnover  in  Equity 
+
+Ratio:  Turnover 
+
+Year(FY) 
+
+Capitalisation 
+
+Equity 
+
+cash 
+
+Derivatives 
+
+in 
+
+Equity 
+
+of 
+
+the 
+
+segment 
+
+segment 
+
+derivatives 
+
+/ 
+
+Exchange 
+
+(BSE) 
+
+2008-09 
+
+2009-10 
+
+2010-11 
+
+2011-12 
+
+2012-13 
+
+2013-14 
+
+2014-15 
+
+2015-16 
+
+2016-17 
+
+30,86,076 
+
+61,65,620 
+
+68,39,084 
+
+62,14,9112 
+
+63,87,887 
+
+74,15,296 
+
+1,01,49,290 
+
+94,75,328 
+
+1,21,54,525 
+
+(Rs. Crores) 
+
+(Notional Values) 
+
+Equity cash 
+
+(Rs. Crores) 
+
+ 
+
+38,52,097 
+
+1,10,10,482 
+
+55,16,833 
+
+1,76,63,665 
+
+46,82,439 
+
+2,92,48,375 
+
+34,78,391 
+
+3,21,58,208 
+
+32,57,053 
+
+3,86,96,523 
+
+33,30,152 
+
+4,74,30,842 
+
+51,84,500 
+
+7,59,69,194 
+
+49,77,072 
+
+6,93,00,842 
+
+60,54,174 
+
+9,43,77,241 
+
+2.86 
+
+3.20 
+
+6.25 
+
+9.25 
+
+11.88 
+
+14.24 
+
+14.65 
+
+13.92 
+
+15.59 
+
+Cash market turnover and equity derivatives turnover include the total turnover at NSE & BSE.  
+
+ 
+
+18. It is observed from Table No. 2 above that between the period FY 2004-05 to FY 2016-
+
+17, the compounded annual growth rate (CAGR) for turnover in cash market has been 
+
+11.39%, whereas CAGR for turnover in equity derivatives has been 35.10%. The market 
+
+capitalization of listed companies (BSE) has grown has been 17.82% CAGR during this 
+
+period. It is also observed that the ratio of turnover of equity derivatives to equity cash 
+
+has increased from 1.54 to 15.59 during the aforesaid period. 
+
+ 
+
+19. The  increase  in  the  turnover  over  the  years  may  be  attributed  to  various  reasons 
+
+including  the  higher  index  levels  and  increase  in  stock  prices  resulting  in  growth  of 
+
+notional  turnover,  reduced  STT  on  equity  futures  from  0.017%  to  0.01%  and 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+6 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+introduction  of  commodity  transaction  tax  at  0.01%  on  non-agricultural  commodity 
+
+futures in the Budget 2013 etc.  
+
+ 
+
+20. Over the years more than 95% of equity derivative trading in India happens on NSE. In 
+
+this context, feedback has been received from market participants regarding derivative 
+
+trading in mid-cap indices, exchange-wise position limits and to allow inter-operability 
+
+of  Clearing  Corporations  (CCs)  to  allow  market  participants  to  consolidate  clearing 
+
+with a CC of their choice to achieve economies of scale and efficiency gains. 
+
+ 
+
+21. Futures  and  options  on  Indian  Indices  (mainly  NIFTY  &  SENSEX)  are  available  for 
+
+trading in other jurisdictions. Table No. 3 shows the name of the jurisdictions where 
+
+derivative contracts on such Indices are available.  
+
+ 
+
+Table No.3 
+
+Exchange  
+
+International Stock exchange on which Indian 
+
+NSE 
+
+BSE 
+
+ 
+
+ 
+
+Index / indices are traded 
+
+Singapore Exchange Ltd. (SGX) 
+
+Osaka Exchange Inc. (OSE) 
+Chicago Mercantile Exchange Inc. (CME) 
+
+London Stock Exchange 
+
+Hong Kong Exchange and Clearing Ltd 
+BM & BOVESPA SA, Brazil 
+
+Johannesburg Stock Exchange, SA 
+
+Public Joint Stocks Company MICEX RTS, Moscow  
+
+The Korea Exchange Incorporated 
+
+ Dubai Gold & Commodities Exchange, Dubai 
+
+  Source: NSE & BSE 
+
+ 
+
+22. The SGX S&P CNX Nifty index future is one of the highly traded derivatives contract 
+
+on the Nifty. The Singapore Stock Exchange started trading Nifty futures in September 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+7 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+ 
+
+2000, three months  after they were launched on NSE. Month-wise turnover in NSE 
+
+NIFTY Futures and Options and SGX NIFTY Futures and Options is given in Table No. 
+
+4 below:  
+
+       Table No. 4 for the year 2016-17 
+
+Month 
+
+Nifty Futures  
+
+Nifty Options - Notional Turnover 
+
+NSE 
+
+SGX 
+
+NSE 
+
+NSE 
+
+SGX 
+
+NSE 
+
+Turnover  
+
+Turnover  
+
+Market 
+
+Turnover  
+
+Turnover  
+
+Market 
+
+(Rs 
+
+(Rs 
+
+Share (%) 
+
+(Rs 
+
+(RS Crores) 
+
+Crores) 
+
+Crores) 
+
+Crores) 
+
+Share 
+
+(%) 
+
+Apr-16 
+
+  2,20,791  
+
+ 1,78,072  
+
+55.4% 
+
+35,66,314  
+
+          565  
+
+100.0% 
+
+May-16 
+
+  2,75,662  
+
+ 2,04,118  
+
+57.5% 
+
+42,35,370  
+
+       1,851  
+
+100.0% 
+
+Jun-16 
+
+  2,64,310  
+
+ 1,98,923  
+
+57.1% 
+
+37,33,629  
+
+       1,429  
+
+100.0% 
+
+Jul-16 
+
+  2,04,709  
+
+ 1,77,874  
+
+53.5% 
+
+30,20,394  
+
+          743  
+
+100.0% 
+
+Aug-16 
+
+  2,55,707  
+
+ 2,13,536  
+
+54.5% 
+
+33,30,661  
+
+       2,438  
+
+99.9% 
+
+Sep-16 
+
+  2,30,831  
+
+ 2,21,035  
+
+51.1% 
+
+31,92,692  
+
+       3,736  
+
+99.9% 
+
+Oct-16 
+
+  1,94,384  
+
+ 1,99,434  
+
+49.4% 
+
+28,06,048  
+
+          916  
+
+100.0% 
+
+Nov-16 
+
+  2,71,903  
+
+ 2,21,925  
+
+55.1% 
+
+37,57,529  
+
+          584  
+
+100.0% 
+
+Dec-16 
+
+  2,03,206  
+
+ 1,69,592  
+
+54.5% 
+
+31,72,874  
+
+       1,191  
+
+100.0% 
+
+Jan-17 
+
+  1,87,600  
+
+ 1,68,122  
+
+52.7% 
+
+26,66,564  
+
+       1,109  
+
+100.0% 
+
+Feb-17 
+
+  1,98,973  
+
+ 1,82,520  
+
+52.2% 
+
+29,21,308  
+
+          977  
+
+100.0% 
+
+Mar-17 
+
+  2,17,219  
+
+ 2,18,506  
+
+49.9% 
+
+28,82,720  
+
+       1,867  
+
+99.9% 
+
+FY 16-17 
+
+27,25,293   23,53,655  
+
+53.7%  3,92,86,102  
+
+     17,407  
+
+100.0% 
+
+For converting SGX volumes in to Rupee terms – SGX No of Contracts * 2 * Average Nifty Value for 
+
+the month * Average USD-INR RBI reference rate for the month.  
+
+ 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+8 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+Participant’s profile:  
+
+23. Equity  Derivatives  market  has  a  combination  of  participants  from  the  Institutional 
+
+investors, Stock brokers trading on own account (Proprietary trades), Corporates and 
+
+other  investors.  Table  No.5  shows  the  client  category-wise  turnover  contribution  in 
+
+Equity Derivatives for the  FY 16-17: 
+
+ 
+
+     Table No 5:  
+
+ 
+
+Broad Category  Equity  Derivatives 
+
+Client Category 
+
+Equity 
+
+Turnover 
+
+Contribution (%) 
+
+Derivatives 
+
+Turnover 
+
+Contribution (%) 
+
+Foreign 
+
+Portfolio 
+
+13.75% 
+
+Institutions 
+
+14.15% 
+
+Domestic  Financial 
+
+Investors (FPIs) 
+
+Mutual Funds 
+
+Institutions (DFIs) 
+
+Banks 
+
+Insurance Companies 
+
+Proprietary Trades  
+
+42.07%  Proprietary Trades  
+
+Individual Investors 
+
+Corporates 
+
+Partnership firms 
+
+HUFs 
+
+Others 
+
+NRIs 
+
+Non  Institutional 
+
+Non Proprietary 
+
+43.78% 
+
+    Source: NSE 
+
+Product wise profiling of investors: 
+
+0.40% 
+
+0.00% 
+
+0.00% 
+
+0.00% 
+
+42.07% 
+
+25.67% 
+
+8.25% 
+
+8.22% 
+
+1.41% 
+
+0.19% 
+
+0.05% 
+
+24.  The  data  regarding  participants  of  the  market  are  further  sliced  to  analyse  their 
+
+product-wise participation. The following graph displays product wise segregation of 
+
+participants in the derivative market.  
+
+ 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+9 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+Chart No.2 
+
+Product wise participant’s profile       
+
+60.00%
+
+50.00%
+
+40.00%
+
+30.00%
+
+20.00%
+
+10.00%
+
+0.00%
+
+-10.00%
+
+Index Futures
+
+Stock Futures
+
+Index Options
+
+Stock Options
+
+Non Institutional Non Proprietary (%)
+
+Proprietary (%)
+
+Foreign Institutional Investors (%)
+
+Domestic Institutional Investors (%)
+
+ 
+
+Source NSE 
+
+ 
+
+25. The analysis of profile of the participants in the equity derivative segment reveal the 
+
+following; 
+
+ 
+
+  The proprietary trades i.e., trading by stock  brokers on their proprietary account 
+
+dominate trading in Index options. The proprietary trades contribute between 45% 
+
+-55% of total trading volume in index options. Non Institutional Non Proprietary 
+
+category  which  includes  individual  investors  and  proprietary  category  together 
+
+contributed around 85% of the total trading volume in index options.  
+
+  In  case  of  stock  options,  both  proprietary  trades  and  non-institutional  non-
+
+proprietary   contributed for around 80% of trading stock options. 
+
+  One  possible  reason  for  the  active  trading  by  proprietary  trades  in  derivatives 
+
+especially  options  could  be  upfront  income  in  the  form  of  option  premium  on 
+
+writing of options.   
+
+  It  is  observed  that  non-institutional  non-proprietary  investors  which  include 
+
+individual  investors  contribute  the  highest  volume  in  futures  (index  as  well  as 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+10 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+stock).  (It  is observed  from  Table  No  5  and  Chart  No  2  that  Individual  investors 
+
+accounts  for  58%  of  trading  by  non-institutional  non-proprietary  category.)  The 
+
+possible reasons for such trading preference could be that futures are less complex 
+
+than options and also Individual investors familiarity with trading in index futures 
+
+and stock futures.   
+
+  It  is  observed  that  Foreign  Investors  contribute  between  15%-20%  in  the  total 
+
+volume across all product categories available in equity derivatives segment. The 
+
+FPIs  are  present  in  all  types  of  product  categories  to  hedge  their  underlying 
+
+exposure and they may not be taking speculative positions. 
+
+  Further,  low  FPIs  participation  could  also  be  because  of  trading  of  futures  and 
+
+options  on  major  indices  in  foreign  markets  such  as  Singapore,  Hong  Kong  and 
+
+Dubai etc. 
+
+  Domestic institutional investors are not active in derivatives and their turnover is 
+
+negligible  in  the  derivative  segment.  The  lower  trading  interest  by  the  domestic 
+
+institutions  such  as  mutual  funds  could  be  attributed  to  certain  regulatory 
+
+restrictions  viz  not  allowed  to  write  option  contracts  and  exposure  to  option 
+
+premium paid must not exceed 20% of the net assets of the scheme etc. 
+
+ 
+
+26. It is observed from Table No. 5 and Chart No 2 that Individual Investors contributed 
+
+for 25.67% of total turnover and these investors constitute 58% in the category of non-
+
+institution non-proprietary trading which dominates trades in index futures and stock 
+
+futures. Therefore it could be inferred that individual investors are present across all 
+
+types of derivative products and their trading  may be concentrated in index futures, 
+
+stock future and stock options.  
+
+ 
+
+27. As  evaluated  from  the  data,  individual  investors  are  present  across  all  product 
+
+categories including products such as index option/stock options which are inherently 
+
+more complex and are thus more risky, particularly selling of options. 
+
+ 
+
+28. The  participation  of  individual  investors  and  their  contribution  in  the  derivative 
+
+segment has been shown in the Table No 6 below:   
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+11 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+ 
+
+Table No. 6 
+
+Calendar 
+
+No of Individual 
+
+Contribution of Individuals in 
+
+Year 
+
+Investors (in Lakhs) 
+
+equity derivative  as a % of  total 
+
+turnover in equity derivative 
+
+segment 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+2016 
+
+2017* 
+
+10.60 
+
+9.22 
+
+7.61 
+
+6.84 
+
+6.87 
+
+7.28 
+
+7.26 
+
+5.70 
+
+33.88 
+
+30.33 
+
+29.32 
+
+26.32 
+
+26.83 
+
+26.99 
+
+28.50 
+
+29.71 
+
+*Till May 2017 (Source:NSE) 
+
+ 
+
+29. It is seen from the Table No 6 above that the contribution of individual investors to the 
+
+total turnover in the equity derivative segment remained in the range of 26% to 33%. 
+
+However, taking into account the increase in turnover in the equity derivative segment 
+
+and  the number of investors trading in equity derivative segment it can be  inferred 
+
+that trading turnover in the equity derivative segment per investor has increased.  
+
+ 
+
+30. In order to ascertain trading behavior of such investors, the trading activity of these 
+
+investors in the cash segment has been taken as a proxy. The profiling is done on the 
+
+basis of trading activity of individual investors in cash segment. The Table No 7 below 
+
+display  categorization  by  cash  market  trading  of  above  individual  investors  during 
+
+2016-17:  
+
+ 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+12 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+  Table No. 7: Individual investors:-Comparative trading pattern of Cash and derivative 
+
+segment 
+
+Cash  Market  turnover 
+
+Percentage 
+
+of 
+
+Percentage 
+
+of 
+
+Percentage  of 
+
+of 
+
+Individual 
+
+Individual Investors 
+
+turnover  to  total 
+
+turnover  by 
+
+Investors 
+
+to  total  Individual 
+
+turnover 
+
+by 
+
+individual 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(A) 
+
+Above Rs. 1 Crore 
+
+ 
+
+Between Rs. 50 Lakhs and 
+
+Rs. 1 Crore 
+
+Between Rs. 10 Lakhs and 
+
+Rs. 50 Lakhs 
+
+Between  Rs.  2  Lakh  and 
+
+Rs. 10 Lakhs 
+
+Below Rs. 2 lakhs 
+
+ 
+
+Not traded  
+
+ 
+
+  Source: NSE 
+
+Investors  traded  in 
+
+Individual 
+
+investor 
+
+in 
+
+Derivatives. 
+
+Investors 
+
+in 
+
+derivative  to 
+
+ 
+
+ 
+
+(B) 
+
+Derivative 
+
+Segment. 
+
+ 
+
+( C) 
+
+total 
+
+investors 
+
+in 
+
+derivatives. 
+
+( D)= 
+
+(C)*25.67 ($)  
+
+55.90 
+
+14.34 
+
+7.30 
+
+13.50 
+
+7.50 
+
+5.90 
+
+9.90 
+
+1.87 
+
+3.48 
+
+1.92 
+
+1.51 
+
+2.54 
+
+22.80 
+
+8.50 
+
+20.40 
+
+16.50 
+
+17.40 
+
+14.40 
+
+($)Contribution of Turnover by Individual investors in the Equity Derivative Segment.  
+
+ 
+
+31. It is observed from Table No 7 that; 
+
+ 
+
+  Investors with trades of less than equal to Rs.10 lakhs accounts for about 6% of the 
+
+total derivative trading by individual investor, of these investors not traded in cash 
+
+market accounts for 2.5% of total derivative trading by individual investor. 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+13 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+  Approximately 68% of total Individual Investors traded in the derivative segment 
+
+are falling in the category of trades greater than Rs.2 lakhs in cash segment. These 
+
+Individual Investors account for more than 84% of turnover in Derivative Segment 
+
+in the Individual Investor category.   
+
+  Number of Individual Investors traded in the derivative segment are scattered in 
+
+terms of their turnover in cash segment. 
+
+  Individual investors traded for value greater than Rs.10 lakhs in cash segment have 
+
+around 77% of concentration in turnover in derivative segment (in the category of 
+
+Individual Investors).  
+
+  Approximately  23%  of  individual  investors  who  have  traded  in  the  equity 
+
+derivatives have a cash market turnover of less than Rs.10 lakhs.  
+
+  Around 14% of Individual Investors who have contributed approximately 10% of 
+
+the turnover of equity derivatives segment have not traded in the cash segment. 
+
+Such trading could be speculative in nature. 
+
+  More  than  50%  trading  in  the  derivative  segment  in  the  category  of  Individual 
+
+Investors is concentrated by investors who have greater than Rs.1 crore exposure 
+
+in cash market. 
+
+ 
+
+32. Derivatives products by nature are complex instruments. The valuation of derivatives 
+
+such  as  options  depends  on  many  variables  and  option  writers  are  exposed  to 
+
+significant  risk  if  that  do  not  have  corresponding  position.  Therefore it  is  important 
+
+that investors have a good understanding of derivatives and the ability to absorb the 
+
+risk of their position. Indian market does not have the concept of product suitability 
+
+framework. Investors may not have adequate understanding and financial capability to 
+
+withstand  risk  posed  by  complex  derivative  instruments.  It  may  be  pertinent  to 
+
+mention that L C Gupta committee in its report has also given emphasis on Regulation 
+
+of Sales Practices and Disclosures for Derivatives. 
+
+ 
+
+ 
+
+ 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+14 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+Comparison of Turnover ratios across foreign markets vis-a vis India market   
+
+ 
+     Table No.8 
+
+Years  
+
+Ratio: Turnover in 
+
+Ratio: Turnover in Equity 
+
+Equity derivatives / 
+
+Equity cash 
+
+derivatives / Equity cash 
+(Based on Notional Value) 
+
+ (Based on Premium 
+Value) 
+
+2012-13 
+
+2013-14 
+
+2014-15 
+
+2015-16 
+
+2016-17 
+
+      Source: BSE & NSE 
+ 
+
+2.33 
+
+2.19 
+
+2.54 
+
+2.47 
+
+2.58 
+
+11.88 
+
+14.24 
+
+14.65 
+
+13.92 
+
+15.59 
+
+33. It may be observed that the ratio of notional turnover in equity derivatives to equity 
+
+cash segment was 1.54 for the FY 2004-05. The same ratio increased to 15.59 for the 
+
+FY  2016-17.  The  ratio  of  turnover  in  equity  derivatives  segment  after  taking  into 
+
+account the premiums paid for option contracts to turnover in cash segment for the 
+
+period from FY 2012-13 to FY 2016-17 are given below in Table No.10.      
+
+ 
+
+34. The  ratio  of  turnover  in  equity  derivatives  to  turnover  in  equity  cash  market  across 
+
+various countries are given below;  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+15 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+Table No. 9 
+
+ Jurisdiction 
+
+Ratio: F&O/Cash 
+
+(Notional) 
+
+ 
+
+Australian Securities Exchange 
+
+Hong Kong Exchanges and Clearing 
+
+Japan Exchange Group Inc. 
+
+Korea Exchange 
+
+BME Spanish Exchanges 
+
+Euronext 
+
+Moscow Exchange 
+
+India 
+
+2.32 
+
+7.23 
+
+1.90 
+
+24.05 
+
+1.13 
+
+1.87 
+
+3.92 
+
+15.59 
+
+Source: World Federation of Exchanges (WFE) Monthly Statistics- Calendar Year 2016  
+
+Note: US market statistics are not readily due to large shares of Electronic Communication Network (ECN), Dark 
+
+pools etc.  
+
+ 
+
+35. The ratio of turnover in equity derivatives segment after taking into account only the 
+
+premiums paid for option contracts to turnover in equity cash segment for the Calendar 
+
+year 2015 are given below;  
+
+ 
+
+Table No. 10 
+
+Jurisdiction 
+
+Ratio: F&O/Cash 
+
+(premium) 
+
+South Korea 
+
+China (*) 
+
+India 
+
+2.23 
+
+1.55* 
+
+2.53 
+
+Source WFE IOMA 2015 survey (premium data is available only in case of few jurisdictions who 
+
+has reported the data for the year 2015. (*) In China only stock index futures are available 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+16 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+36. It is observed from the above Table No.9 that the ratio of turnover in equity derivatives 
+
+to  turnover  in  equity  cash  market  in  India  is  high  and  second  only  to  South  Korea. 
+
+Comparative  turnover  on  the  basis  of  option  premium  in  other  foreign  markets  as 
+
+stated  in  the  Table  No.10  above  indicate  that  the  turnover  ratio  in  India  is  also 
+
+somewhat higher than that of foreign markets.   
+
+ 
+
+Factors governing trading behaviour in derivatives   
+
+ 
+
+I.  Margin required for trading in Derivatives 
+
+ 
+
+37. Margin  for  equity  derivatives  is  computed  on  a  portfolio  based  approach  using  a 
+
+software called - SPAN (Standard Portfolio Analysis of Risk). SPAN uses different types 
+
+of scenarios to calculate margins. The minimum margin percentage on index futures is 
+
+5% and on the stock futures is 7.5% which are scaled up by look ahead period.  
+
+ 
+
+38. In  case  clients  have  off-setting  positions  such  as  Index  futures/stock  futures  and 
+
+constituent stock/stock futures, then cross margin benefit is provided wherein margin 
+
+requirement is reduced due to off-setting nature of the positions.  Further, margins are 
+
+levied  at  the  exchange/clearing  corporation  level.  No  adjustment  in  margins  is 
+
+permitted for taking off-setting positions in two different exchanges.   
+
+ 
+
+39. In cash segment, no adjustment in margins is allowed on off-setting positions. 
+
+ 
+
+ 
+
+II.  Securities Transaction Tax (STT) framework in India 
+
+ 
+
+40. Securities  Transaction  Tax  (STT)  is  levied  on  the  transactions  done  in  the  equity 
+
+derivatives segment of the stock exchanges. STT came into effect from October 1, 2004. 
+
+Table No. 11 below shows the changes in STT rates applicable to transactions in cash 
+
+segment and equity derivatives segment since its introduction. 
+
+ 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+17 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+Table No. 11: STT Rates 
+
+Date 
+
+Cash 
+
+Cash  Non 
+
+Equity 
+
+Options 
+
+Option 
+
+Exercised 
+
+Deliverable 
+
+Deliverable 
+
+Futures 
+
+Notional 
+
+Premiu
+
+Options 
+
+(Buy 
+
+and 
+
+(Sell) 
+
+(Sell) 
+
+Amount 
+
+m (Sell) 
+
+on 
+
+Sell) 
+
+(Sell) 
+
+1-Oct-04 
+
+0.075 
+
+0.015 
+
+0.01 
+
+0.017 
+
+1-Jun-05 
+
+0.10 
+
+0.020 
+
+0.0133 
+
+0.017 
+
+1-Jun-06 
+
+0.125 
+
+0.025 
+
+0.017 
+
+0.017 
+
+Notional 
+
+(buyer) 
+
+- 
+
+- 
+
+- 
+
+0.01 
+
+0.0133 
+
+0.017 
+
+1-Jun-08 
+
+0.125 
+
+0.025 
+
+0.017 
+
+1-Jun-13 
+
+0.10 
+
+0.025 
+
+0.01 
+
+1-Jun-16 
+
+0.10 
+
+0.025 
+
+0.01 
+
+- 
+
+- 
+
+- 
+
+0.017 
+
+0.125 
+
+0.017 
+
+0.125 
+
+0.05 
+
+0.125 
+
+Source: NSE 
+
+ 
+
+41. From the above Table, the following observations are made: 
+
+ 
+
+  In Cash segment, the STT rate is higher for delivery based transactions than non-
+
+delivery transactions; 
+
+  STT  in  Options  was  levied  on  the  seller  of  options  on  the  notional  value  of  the 
+
+contract (strike price plus premium). However, with effect from June 1, 2008, STT 
+
+is being levied only on the premium amount.  
+
+  STT is levied at 0.05% on the option premium on the seller of the option whereas 
+
+on exercise of the option, STT is levied at 0.125% on the notional value of the option 
+
+on the buyer of the option.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+18 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+Observations: 
+
+  
+
+42. From the data that have been placed in the preceding Tables, the following is observed: 
+
+ 
+
+  Between  the  period  from  FY  2004-05  to  2016-17,  the  growth  in  the  turnover  of 
+
+equity derivatives segment outpaced the growth in turnover of cash segment. The 
+
+ratio of notional turnover in equity derivatives to equity cash segment increased 
+
+from 1.54 for the FY 2004-05 to 15.59 for the FY 2016-17. However, in case the 
+
+option  turnover  is  based  on  premium  value,  the  ratio  of  cash  to  derivatives  is 
+
+somewhat in line with international trend.  
+
+  There is significant concentration of volumes in terms of products, exchange and 
+
+investor category. 
+
+  In terms of indices NIFTY futures is highly traded and volumes are almost divided 
+
+between domestic and SGX Nifty futures indicating overseas interest in the NIFTY 
+
+futures.  
+
+  Options dominate trading in the derivatives segment by accounting for 83.61% of 
+
+total trading in derivative segment.  
+
+  Proprietary trades and Individual investors contribute 43% and 26% respectively 
+
+of the total volume of the equity derivatives in India.  
+
+  Around 14% of Individual Investors who have contributed approximately 2.5% of 
+
+the  total  turnover  of  equity  derivatives  segment  have  not  traded  in  the  cash 
+
+segment.  More  than  50%  trading  in  the  derivative  segment  in  the  category  of 
+
+Individual Investors is contributed by investors who have greater than Rs.1 Crore 
+
+exposure in cash market; 
+
+  Large number of individual investors are active in derivative segment. Going by 
+
+their trading pattern in cash segment, it is observed that these investors may or 
+
+may not have  adequate financial capability to withstand risks posed by complex 
+
+derivative instruments. In the absence of a product suitability framework, this may 
+
+not be in the interest of securities market.    
+
+ 
+
+ 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+19 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+SEBI Initiatives  
+
+ 
+
+ 
+
+43.  SEBI  has  taken  steps  to  develop  the  cash  market  by  initiating  measures  such  as 
+
+introduction  of  new  products,  redesigning  existing  products,  conducting  investor 
+
+awareness initiative, etc.  SEBI has revised the Margin Trading facility by rationalising 
+
+initial margin requirements in cash market, permitting stocks as collateral for availing 
+
+funding from stock brokers, etc.  
+
+ 
+
+44. Similarly to enhance the liquidity in the in the Securities Lending and Borrowing (SLB) 
+
+mechanism the framework has been revised to make it more suited to the needs of the 
+
+market participants. SEBI has received many suggestions to further improve the SLB 
+
+framework.  SEBI  is  examining  the  suggestions  with  view  to  improve  the  SLB 
+
+mechanism. 
+
+ 
+
+Feasibility of Product Suitability for trading in derivatives  
+
+ 
+
+45. Though  the  observations  of  L  C  Gupta  Committee  regarding  Regulation  of  Sales 
+
+Practices  and  Disclosures  for  Derivatives  in  India  were  made  at  the  time  of  the 
+
+introduction of derivative trading in India, are still relevant. SEBI Investor Survey 2015 
+
+brought  out  the  risk  perceptions  of  investors  with  regard  to  the  various  financial 
+
+instruments. In the said report, it is observed that 31% of investor’s responded consider 
+
+bonds/debenture more risky that equity and mutual funds. Further, 57% respondents 
+
+believe that bonds/debentures are unsafe. Thus there is need to have focused investor 
+
+awareness with regard to financial instruments particularly derivative products.  
+
+ 
+
+46. Derivatives are complex products and there are many variables which are required to 
+
+be considered for valuation of the derivative contracts. Under the current framework, 
+
+the  trading  members  are  required  to  have  qualified  approved  user  and  sales  person 
+
+who have passed a Certification programme approved by SEBI to operate in derivative 
+
+market. However, a concept of product suitability framework for clients as prevalent in 
+
+other jurisdictions is not present in India.   
+
+ 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+20 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+
+ 
+
+Matters for discussion 
+
+ 
+
+i. Ratio of turnover in derivatives to turnover in cash market is around 15 times. To 
+
+what extent the drivers of this ratio in India are comparable with drivers in other 
+
+markets. 
+
+ 
+
+ii.  What  are  the  global  best  practices  and  experience  in  international  markets  to 
+
+align cash and derivative markets. 
+
+ 
+
+iii.  Considering the participants’ profile, what measures would be required to create 
+
+balanced participation in equity derivatives market. 
+
+ 
+
+iv.  Taking  into  account  trading  of  individual  investors  in  derivatives,  especially 
+
+options,  is  there  a  need  to  introduce  a  product  suitability  framework  in  our 
+
+market.  
+
+ 
+
+v. Considering participants’ profile, product mix and leverage in equity derivatives, 
+
+what could be the guiding principles for setting minimum contract size and open 
+
+position limits for equity derivatives. 
+
+ 
+
+vi.  Whether there is a need to review existing criteria for introduction of derivatives 
+
+on stocks or derivatives on indices.     
+
+ 
+
+vii.  Taking in to account the margin levied in the derivative segment and consequent 
+
+leverage, is the present margin framework adequate. Is there a need to review 
+
+trading and risk management framework for derivatives.      
+
+ 
+
+viii. Whether there are any inefficiencies in the market that needs to be addressed. 
+
+ 
+
+ix. Whether there is any regulatory arbitrage that needs to be addressed. 
+
+ 
+
+ 
+
+ 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+21 | P a g e  
+
+¼ããÀ¦ããè¾ã ¹ãÆãä¦ã¼ãîãä¦ã ‚ããõÀ ãäÌããä¶ã½ã¾ã ºããñ¡ 
+
+Securities and Exchange Board of India
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+47. Comments/ suggestions may be provided in the format given below:-  
+
+ 
+
+Name of entity / person / intermediary/ Organization 
+
+Sr. No. 
+
+ 
+
+ 
+
+Issues 
+
+ 
+
+Suggestions  
+
+Rationale 
+
+ 
+
+ 
+
+Comments may please be emailed on or before August 10, 2017 to vishalp@sebi.gov.in or 
+
+sent by post, to:-  
+
+ 
+
+ 
+
+Vishal M Padole 
+Assistant General Manager 
+Division of Policy, Market Regulation Department 
+Securities and Exchange Board of India  
+SEBI Bhavan, Plot No. C4-A, "G" Block, 
+Bandra Kurla Complex, Bandra (East),  
+Mumbai - 400 051  
+
+ 
+
+ 
+
+**************** 
+
+Discussion Paper on Growth and Development of Equity Derivatives Market in India 
+
+22 | P a g e  
+
+

@@ -1,0 +1,253 @@
+ 
+
+  
+
+ 
+
+CIRCULAR 
+
+ 
+ 
+
+ 
+
+SEBI/HO/MRD/DOP1/CIR/P/2019/24                  
+
+ 
+
+      January 31, 2019  
+
+To 
+ 
+All Recognized Stock Exchanges, Clearing Corporations and Depositories 
+ 
+Dear Sir/ Madam 
+ 
+Reporting  for  Artificial 
+Intelligence  (AI)  and  Machine  Learning  (ML) 
+applications  and  systems  offered  and  used  by  Market  Infrastructure 
+Institutions (MIIs) 
+ 
+
+ 
+
+Background 
+
+1.  SEBI is conducting a survey and creating an inventory of the AI / ML landscape 
+in the Indian financial markets to gain an in-depth understanding of the adoption 
+of such technologies in the markets and to ensure preparedness for any AI / 
+ML policies that may arise in the future. 
+
+ 
+
+Scope definition 
+
+2.  Any set of applications / software / programs / executable / systems (computer 
+systems)  –  cumulatively  called  application  and  systems,  to  carry  out 
+compliance  operations  /  activities,  where  AI  /  ML  is  used  for  compliance  or 
+management  purposes,  is  included  in  the  scope  of  this  circular.  In  order  to 
+make the scope of this circular inclusive of various AI and ML technologies in 
+use, the scope also covers Fin-Tech and Reg-Tech initiatives undertaken by 
+MIIs that involves AI and ML. 
+
+3.  Technologies that are considered to be categorized as AI and ML technologies 
+
+in the scope of this circular, are explained in Annexure A. 
+
+ 
+Regulatory requirements 
+
+4.  All MIIs shall fill in the AI / ML reporting form (Annexure B) in respect of the AI 
+or ML based applications or systems as defined in Annexure A offered or used 
+by them, and submit the same in soft copy only at AI_MII_SE@sebi.gov.in (for 
+ 
+
+Page 1 of 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/  AI_MII_DEP@sebi.gov.in 
+
+Stock  Exchanges) 
+/ 
+AI_MII_CC@sebi.gov.in  (for  Clearing  Corporations)  to  SEBI  on  a  quarterly 
+basis within 15 days of the expiry of the quarter, with effect from quarter ending 
+March 31, 2019. 
+
+(for  Depositories) 
+
+5.  This  circular  is  issued  in  exercise  of  the powers  conferred  under  Section  
+11(1)  of the  Securities  and  Exchange  Board  of  India  Act  1992,  read  with  
+Section  10  of  the Securities  Contracts  (Regulation)  Act,  1956  to  protect  
+the interests  of  investors  in securities and to promote the development of, and 
+to regulate the securities market. 
+
+6.  This   circular   is   available   on   SEBI   website   at   www.sebi.gov.in at “Legal 
+
+Framework→Circulars”. 
+
+ 
+Yours faithfully 
+ 
+  
+(Amit Tandon) 
+Deputy General Manager 
+Market Regulation Department   
+email: amitt@sebi.gov.in  
+ 
+
+ 
+
+ 
+
+Page 2 of 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annexure A – Systems deemed to be based on AI and ML technology 
+ 
+Applications  and  Systems  belonging  but  not  limited  to  following  categories  or  a 
+combination of these:  
+ 
+
+1.  Natural Language Processing (NLP), sentiment analysis or text mining systems that gather 
+intelligence from unstructured data. – In this case, Voice to text, text to intelligence systems 
+in any natural language will be considered in scope.  Eg: robo chat bots, big data intelligence 
+gathering systems. 
+
+2.  Neural Networks or a modified form of it. – In this case, any systems that uses a number of 
+nodes  (physical  or  software  simulated  nodes)  mimicking  natural  neural  networks  of  any 
+scale, so  as to carry out learning from previous  firing of the nodes  will be considered in 
+scope. Eg: Recurrent Neural networks and Deep learning Neural Networks 
+
+3.  Machine learning through supervised, unsupervised learning or a combination of both. – In 
+this case, any application or systems that carry out knowledge representation to form  a 
+knowledge base of domain, by learning and creating its outputs with real world input data 
+and deciding future outputs based upon the knowledge base. Eg: System based on Decision 
+tree, random forest,  K mean, Markov decision process, Gradient boosting Algorithms. 
+
+4.  A  system  that  uses  statistical  heuristics  method  instead  of  procedural  algorithms  or  the 
+system  /  application  applies  clustering  or  categorization  algorithms  to  categorize  data 
+without a predefined set of categories 
+
+5.  A  system  that  uses  a  feedback  mechanism  to  improve  its  parameters  and  bases  it 
+
+subsequent execution steps on these parameters. 
+
+6.  A system that does knowledge representation and maintains a knowledge base. 
+
+ 
+
+ 
+
+ 
+
+Page 3 of 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annexure B - Form to report on AI and ML technologies – to be submitted quarterly 
+ 
+
+S/N  Head 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+
+Entity SEBI registration number 
+Registered entity category 
+Entity name 
+Entity PAN no. 
+Application / System name 
+Date used from 
+Type of area  where AI or ML is used 
+(order  execution  /  Surveillance  / 
+compliance  /  others).  In  case  of 
+others, please specify. 
+What  is  the  name  of  the  Tool  / 
+Technology  that  is  categorized  as  AI 
+and  ML  system  /  Application  and 
+submissions  are  declared  vide  this 
+response 
+How  was  the  AI  or  ML  project 
+implemented 
+
+Are  the  key  controls  and  control 
+points in your AI or ML application or 
+systems in accordance with circular(s) 
+of SEBI that mandate/s cyber security 
+control requirements 
+Is the AI / ML system included in the 
+system audit 
+Describe the application / system and 
+how it uses AI / ML 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+Value 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<free text field> 
+
+<Internally / through solution provider / 
+Jointly  with  a  solution  provider  or  third 
+party> 
+<free text field> 
+
+<Yes / No> 
+
+<free text field> 
+
+<free text field> 
+
+13  What  safeguards  are 
+
+in  place  to 
+prevent abnormal behavior of the AI 
+or ML application / System 
+
+ 
+
+ 
+
+Page 4 of 4 
+
+ 
+
+

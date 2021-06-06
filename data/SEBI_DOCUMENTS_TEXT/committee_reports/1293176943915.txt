@@ -1,0 +1,1335 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+REPORT OF THE REVIEW COMMITTEE ON SEBI 
+
+(UNDERWRITERS) RULES AND REGULATIONS, 1993 
+
+ 
+ 
+ 
+
+UNDER THE CHAIRMANSHIP OF  
+
+ 
+
+SHRI VALLABH BHANSALI 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+October 2002 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+PREFACE 
+ 
+The  SEBI  (Underwriters)  Rules  and  Regulations,  1993  deals  primarily  with  issues  such  as 
+registration,  capital  adequacy,  obligation  and  responsibilities  of  the  underwriters.  The 
+provisions  of  SEBI  (Underwriters)  Rules  and  Regulations,  1993  (“Regulations”)  were 
+notified on October 8, 1993.  
+ 
+Scope of Underwriting  
+ 
+Underwriting  services  have  been  traditionally  provided  by  financial  institutions,  banks, 
+brokers who are members of stock exchanges, merchant bankers, mutual funds and persons 
+with adequate financial capacity, appropriate standing and experience. As per rule 3(1) of the 
+Securities  and  Exchange  Board  of  India  (Underwriters)  Rules,  1993  no  person  can  act  as 
+underwriter  unless  he  holds  a  certificate  granted  by  SEBI  under  the  Securities  and 
+Exchanges Board of India (Underwriters) Regulations, 1993. Rule 3(2) exempts every stock 
+broker  or  merchant  banker  holding  a  valid  certificate  of  registration  under  section  12  of 
+Securities  and  Exchange  Board  of  India  Act,  1992  to  obtain  separate  certificate  for 
+underwriting. As per rule 4(b) of the Securities and Exchange Board of India (Underwriters) 
+Rules, 1993, an underwriter is required to enter into a valid agreement with the issuer entity 
+and  the  said  agreement  among  other  things  should  define  the  allocation  of  duties  and 
+responsibilities between him and the issuer entity.  
+ 
+Background 
+ 
+The provisions of the Regulation have by and large served well in fulfilling its object and 
+purpose. However the rapid evolution in the domestic capital market over the past few years 
+and its integration with world markets has given rise to new challenges. It was realised that in 
+order to make the Regulations more efficient and effective, it was necessary to take a fresh 
+look  at  the  Regulations  and  undertake  a  dispassionate,  well-informed  review  of  the 
+provisions of the Regulations. 
+ 
+
+________________________________________________________________________ 
+October 2002 
+1 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+Securities and Exchange Board of India (SEBI), with a view to addressing these concerns, 
+constituted a Committee. The terms of reference of the Committee are:- 
+ 
+(cid:190) To review the working of the Regulations 
+(cid:190) To consider suitable suggestions in the Regulations, in the light of experience gained so 
+
+far and in view of the changes in capital market and practices. 
+
+ 
+The Committee comprised of the following members: - 
+ 
+Mr Vallabh Bhansali, Director, Enam Financial Consultants Pvt Ltd – Chairman 
+Mr Vimal Bhutani, Vice President, SBI Capital Markets Ltd 
+Mr B. Madhuprasad, MD, Keynote Corporate Services Ltd 
+Ms Dipti Neelakantan, Executive Director, J M Morgan Stanley Pvt. Ltd.  
+Mr Vishwavir Ahuja, CEO, Bank of America 
+Mr T. R. Ramaswami, CEO, AMBI 
+ 
+SEBI was represented by: 
+Mr Amit Kapoor 
+ 
+The Committee discussed and  considered  several  issues, which  were  raised  before  it.  The 
+Committee  debated  on  the  market  conditions  and  the  environment  prevailing  during  the 
+days of Controller of Capital Issue (CCI) as also during the time when the Regulations were 
+drafted and the dynamic changes that have since taken place. The Committee reviewed the 
+role of underwriters and the underwriting practices adopted during evolution of the capital 
+markets. The Committee also dwelled upon the likely changes in capital market in the near 
+future, its consequent pressures on underwriting and aligning underwriting practices with 
+market developments. An underwritten issue today does not denote weakness requiring 
+an underwriting support. On the contrary it adds to the issue's strength. It shows that there 
+are  intermediaries  who  after  assessing  the  risks  have  decided  to  back  the  issue.  The 
+Committee believes that its suggestions would contribute greatly to the capital market. It is 
+with this objective in mind that the Committee has made the following recommendations. 
+ 
+
+________________________________________________________________________ 
+October 2002 
+2 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+The recommendations are categorised under different headings as under: 
+ 
+
+1.  Definition of “Underwriting” 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.1  Underwriting, as per rule 2(g) of the Regulations, is defined to mean “an agreement 
+with or without conditions to subscribe to the securities of a body corporate when 
+the existing shareholders of such body corporate or the public do not subscribe to 
+the securities offered to them”.  
+
+1.2  It was felt that the entire definition needed an overhaul since it fell short of practical 
+need. The existing definition restricts underwriting to “subscription to securities”. It 
+also restricts the underwriting to issues by a body corporate and excludes “offer for 
+sale” from its definition.  
+
+1.3  In practice, an underwriter need not always subscribe himself. He may also procure 
+subscription from a third party. Such arrangement with third party is not captured in 
+the current definition.  
+
+ 
+1.4  Section  76  of  the Companies Act  too recognizes  that  commission  may  be  paid  in 
+consideration  of  subscribing  /  procuring  subscription.  The  model  underwriting 
+agreement  prescribed  by  SEBI  also 
+to 
+underwrite/procure subscription. 
+
+records  underwriter’s  agreement 
+
+The Committee recommends that  
+
+ 
+
+S.1.  The existing definition of “underwriting” may be extended to include 
+
+“subscribe / procure subscription”. The suggestion will bring the existing 
+
+definition in line with Companies Act and model underwriting agreement. 
+
+The definition may read as follows: 
+
+ 
+
+________________________________________________________________________ 
+October 2002 
+3 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+“an agreement to subscribe to or procure subscription for securities, issued 
+
+or offered for sale, remaining unsubscribed. Underwriting includes sub-
+
+underwriting” 
+
+ 
+S.2.  The same definition may also be adopted in SEBI’s Disclosure and Investor 
+
+Protection (DIP) Guidelines, 2000.  
+
+ 
+
+S.3  The words “subscribe / procure subscription” may be replaced for the word 
+
+“subscribe” in regulation 14(iii) of the Regulations.  
+
+ 
+ 
+2.  Capital Adequacy requirement 
+
+ 
+
+ 
+
+ 
+
+2.1  The  existing  capital  adequacy  prescribed  by  regulation  7(1)  of  the  Regulations 
+
+requires minimum net worth of Rs 20 lacs.  
+
+2.2  The capital adequacy for the underwriter was prescribed on October 8, 1993. Since 
+then the capital markets have evolved and matured to a great extent. The minimum 
+net  worth  requirements  of  almost  all  financial  intermediaries  including  merchant 
+bankers and brokers has increased substantially in last few years.  
+
+________________________________________________________________________ 
+October 2002 
+4 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+2.3  Minimum net worth for a merchant banker has gone up from Rs 100 lacs to Rs 500 
+lacs, while for a broker on The Stock Exchange Mumbai (BSE) it is Rs 50 lacs and 
+on National Stock Exchange (NSE) it is Rs 200 lacs. The method of computation of 
+net worth for each category is distinct from each other as shown in Annexure “A”. 
+
+ 
+2.4  It is the ability of the underwriter to satisfy his commitment, which shall make the 
+capital  market  a  safer  place  and  increase  in  minimum  net  worth  is  a  step  in  that 
+direction. A higher floor shall ensure committed and quality underwriters. 
+
+ 
+2.5  Underwriting  being  a  financial  risk,  it  is  imperative  for  an  underwriter  to  have 
+
+adequate net worth to finance the risk.    
+
+ 
+
+The Committee recommends that  
+
+ 
+
+ 
+
+ 
+
+S.4.  The minimum net worth requirement for underwriters may be increased to 
+
+Rs 100 lacs. The underwriting capability of merchant bankers, brokers and 
+
+entities registered with other regulators will be subject to satisfaction of 
+
+norms prescribed herein. 
+
+ 
+
+S.5.  Underwriters shall submit to the lead manager a certificate from a chartered 
+
+accountant certifying its net worth and fructified outstanding obligations 
+every time it seeks underwriting. 
+
+ 
+ 
+3.  Computation of net worth 
+ 
+3.1  The current definition of net worth as per explanation to regulation 7 includes paid 
+
+up capital and free reserves.  
+
+3.2  It is felt that the current definition is not explicit and specific.  
+
+________________________________________________________________________ 
+October 2002 
+5 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+3.3  For  the  purposes  of  underwriting,  the  liquidity  of  the  underwriter  at  any  point  of 
+time is more critical than net worth as on a particular date. The current definition 
+does not give adequate weightage to tangible and liquid assets of the underwriters.  
+
+3.4  Options  such  as  computing  net  tangible  asset  or  obtaining  certificate  of  liquidity 
+
+from auditors are available. 
+
+3.5  SEBI  has  prescribed  a  method  of  computing  net  worth  for  brokers  on  BSE  as 
+reproduced in Annexure A. NSE also prescribes a method of computing net worth. 
+Since this method is already tested in and adopted by the market, it may be extended 
+for underwriters subject to suitable changes.  
+
+The Committee recommends that  
+
+S.6.  The definition of net worth may be tightened and computed more explicitly 
+
+as follows: 
+Net worth =  Capital + Free Reserves  
+
+ 
+
+Less: Non-allowable assets viz., 
+
+(a)  Fixed assets 
+
+(b)  Unlisted securities 
+
+(c)  Bad deliveries 
+
+(d)  Doubtful debts and advances  
+
+(e)  Prepaid expenses, losses 
+
+(f)  Intangible assets 
+
+(g)  30% of value of marketable securities and 30% of value 
+
+of pledged securities net of outstanding liability   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+________________________________________________________________________ 
+October 2002 
+6 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+4.  Limit on underwriting obligations 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.1  The  current  limit  of  maximum  20  times  net  worth  as  per  regulation  15(2)  of 
+Regulations  was  believed  to  be  high  in  view  of  the  fact  that  net  worth  was  not 
+explicitly defined.  
+
+4.2  It was recognised that capital adequacy requirements of financial intermediaries has 
+
+been consistently revised upwards in last few years.  
+
+4.3  It  was  also  appreciated  that  underwriters  with  higher  networth  would  be  able  to 
+arrange financing in a more efficient manner than those with a low networth. On the 
+other hand, underwriters with low net worth and higher multiple stand a greater risk 
+of default.  
+
+4.4  Therefore, proposal to introduce slabs for limits on underwriting obligations based 
+
+on net worth of the underwriter was found appropriate. 
+
+ 
+
+The Committee recommends that  
+
+S.7.  The leverage should be linked to net worth. The following slabs may be 
+
+adopted for determining the leverage for underwriters. 
+
+Net worth   
+
+ 
+
+  Multiple of net worth 
+
+Between Rs 1 cr to Rs 5 crs  
+
+Greater than Rs 5 crs  
+
+ 
+
+ 
+
+ 
+
+10  
+
+20 
+
+ 
+
+ 
+ 
+ 
+ 
+
+________________________________________________________________________ 
+October 2002 
+7 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+5.  Subscription in case of devolvement 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.1  The existing limit of 30 days for subscription/procuring subscription by underwriter 
+as per model agreement is at a variance with limit of 45 days as per regulation 15(3) 
+of the Regulations. 
+
+5.2  Besides, both the limits are antiquated in the current environment when allotment in 
+fixed price issue gets done within 30 days from issue closure and in book building 
+within 15 days from bid closure. There is a need to review the existing time frame. 
+
+5.3  However, the revised time frame has to also take into the account the time required 
+for the registrar to the issue to co-ordinate with the bankers to the issue in order to 
+determine  the  extent  of  under-subscription  and  the  underwriters’  obligation.  The 
+figures are then to be authenticated by an auditor before notices can be sent out to 
+the underwriters. After receiving the notices, the underwriters should be allowed a 
+fair period of time to fund subscription or procure subscription. 
+
+5.4  In the current environment, an investor is free to withdraw his subscription to the 
+issue  before  allotment.  There  could  be  instances  when  the  investor  decides  to 
+withdraw from the issue due to devolvement on the underwriters. In such cases the 
+underwriter  is  exposed  to  a  larger  financial  risk  for  no  fault  of  his.  The  investors 
+should be allowed to withdraw only in case of material developments which put their 
+investment at risk. In all other cases investors having subscribed to the issue should 
+not be permitted to withdraw after a particular milestone. 
+
+5.5  Similar  principle  has  been  adopted  in  the  latest  amendments  to  Securities  and 
+Exchange  Board  of  India  (Substantial  Acquisition  of  Shares  and  Takeovers) 
+Regulations,  1997  wherein  the  shareholder  may  withdraw  acceptance  tendered  by 
+him  upto  three  working  days  prior  to  the  date  of  closure  of  the  offer  and  not 
+thereafter.  
+
+5.6  In a book building issue, underwriting is done once the price is discovered and bids 
+allocated.  It  is  essentially  done  to  insure  against  defaults  from  bidders.  Syndicate 
+
+________________________________________________________________________ 
+October 2002 
+8 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+members are responsible for ensuring that the amount allocated to each is subscribed 
+in  full.  However  this  amount  may  differ  from  what  is  underwritten  by  them 
+individually. As a result, there could arise possibilities where although the syndicate 
+member  is  responsible  for  default  in  payment  by  his  investor,  the  underwriting 
+commission is paid to another member of the syndicate. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.7  The merchant banker’s role in collecting devolvement proceeds was reviewed. It was 
+felt  that  although  underwriting  is  a  contract  between  the  Issuer  Company  and 
+underwriters,  the  issuer  company  relies  on  the  lead  manager  for  appointment  and 
+performance of underwriters. In such a situation, the lead manager should to the best 
+of its capability facilitate collection of devolvement proceeds. It was also discussed 
+whether  lead  manager  should  co-ordinate  the  dispatch  of  devolvement  notices  to 
+underwriters and the subsequent follow up for collection of devolvement proceeds.  
+
+The Committee recommends that  
+
+S.8.  For fixed price issue, the issuer company shall communicate devolvement 
+
+details to the underwriter by giving a preliminary notice within 7 days of 
+
+issue closure followed by final notice with the auditors certificate within 18 
+
+days of issue closure. Thereafter the underwriter shall subscribe / procure 
+
+subscription within 7 days of the final notice from the issuer company. 
+
+ 
+
+S.9.  Application once made in a fixed price issue may not be withdrawn after 
+
+issue closure. Bids once made in a book building issue may not be 
+
+withdrawn after bid closure.  
+
+S.10. The earliest closing date may be done away with. The issue may remain 
+
+open for minimum 3 days and maximum 10 days except where otherwise 
+
+specifically prescribed by SEBI. 
+
+S.11. In a book building issue the syndicate member shall underwrite all shares 
+
+allocated to bidders who have bid through him, receive underwriting 
+
+________________________________________________________________________ 
+October 2002 
+9 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+commission on such bids and get devolved shares, if any. Alternately if the 
+
+syndicate member is given underwriting which is different from the bids 
+
+allocated to bidders who have bid through him, that syndicate member’s 
+
+obligation shall be restricted to the amount underwritten by him. The 
+
+syndicate member who has procured the bid shall retain the brokerage. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+S.12. Lead managers (as mentioned in inter-se allocation of responsibilities) shall 
+
+be given the responsibility of determining devolvement obligations, sending 
+
+devolvement  notices  to  the  underwriters,  facilitating  collection  of 
+
+devolvement proceeds.  
+
+6.  Fees to Underwriter 
+
+6.1  Currently underwriting commission is paid to the underwriters much after the issue 
+
+closure and listing permissions are obtained.  
+
+6.2  There is no obligation on the issuer company to expedite the release of commission 
+to underwriters. The earliest obligation is while making an application to the regional 
+stock  exchange  for  release  of  its  1%  deposit  after  four  months  from  the  date  of 
+listing permission.  
+
+6.3  The commission/brokerage cannot be paid before listing permission, where one of 
+the objects to the issue is to meet issue expenses since the funds in the issue account 
+cannot be utilized unless the securities are listed on all stock exchanges where listing 
+is sought. 
+
+ 
+6.4  Neither  can  the  underwriting  commission  be  netted  off  against  devolvement 
+proceeds due to restriction mentioned above. Thus there is a need to put onus on 
+the issuer company to expedite the commission / brokerage payment.  
+
+________________________________________________________________________ 
+October 2002 
+10 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+The Committee recommends that  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+S.13. Brokerage may be paid to the underwriter on the amount subscribed / 
+
+procured by him against his devolvement obligation.  
+
+ 
+
+S.14. The commission and brokerage may be paid after obtaining listing 
+
+approvals from stock exchanges but before obtaining trading permission.  
+
+ 
+
+S.15. Stock exchanges may insist on certificate from lead manager or auditor for 
+
+payment of commission / brokerage before granting trading permission 
+
+approval. 
+
+7.  Registration criteria and registration fees 
+
+7.1  According  to  rule  3(1)  of  the  Regulations,  no  person  shall  act  as  an  underwriter 
+
+unless he holds a certificate granted by SEBI under the Regulations. 
+
+7.2  One of the criteria for considering application for registration as underwriter, as per 
+regulation  6  and  Form  A  of  the  Regulations,  is  necessary  infrastructure  and  past 
+experience in underwriting. However, adequate infrastructure and experience are not 
+clearly defined. Neither do these criteria ensure commitment towards underwriting. 
+It is believed that underwriting involves a financial risk where adequate net worth is 
+critical rather than adequate infrastructure and experience. 
+
+7.3  Most of the underwriters today are already registered with SEBI for some activity or 
+the other. They may be merchant bankers, stock brokers, mutual funds etc. They are 
+already regulated by SEBI for their actions under different regulations. Seeking one 
+more registration for the same entity, as an underwriter, adds to the administrative 
+burden of SEBI. Such separate registration may be avoided. 
+
+7.4  There could be few underwriters such as banks, financial institutions etc who may 
+not be registered and regulated by SEBI. However they are registered and regulated 
+by some other regulators for e.g. RBI in case of banks and institutions. In such cases 
+
+________________________________________________________________________ 
+October 2002 
+11 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+the  respective  regulator  could  monitor  the  underwriting  activities  as  part  of  its 
+regular  monitoring  of  various  other  activities  and  if  required  report  its  findings  to 
+SEBI  for  necessary  action.  Thus  registration  with  any  regulator  would  be  an 
+eligibility criteria but the underwriter will be governed by the Regulations. In case of 
+any  default  by  the  underwriter,  the  lead  managers  will  report  the  same  to  SEBI 
+through the issue monitoring reports. Thus the ability for action against underwriters 
+continues with SEBI.  
+
+The Committee recommends that  
+ 
+S.16. Net worth may remain as the only criterion for underwriting.  
+
+ 
+
+S.17. No separate registration may be prescribed for underwriters. Instead 
+
+intermediaries already regulated by SEBI, Stock Exchanges, RBI or other 
+
+regulators may be automatically allowed to undertake underwriting. 
+
+ 
+
+S.18. There may be no separate registration and renewal fee for an underwriter 
+
+ 
+8.  Code of Conduct 
+
+8.1  The existing code of conduct as per regulation 13 and schedule III of the Regulation 
+
+is generic.  
+
+8.2  As  proposed  in  point  7,  there  may  be  different  regulators  monitoring  the 
+performance of underwriters. Under the circumstances a separate code of conduct 
+for underwriters may not be required since such regulators will have their own code 
+of conduct which will apply to the underwriters. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+________________________________________________________________________ 
+October 2002 
+12 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+The Committee recommends that  
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+S.19. There should be no separate code of conduct for underwriters. Instead a 
+
+common code of conduct for all financial intermediaries may be suitably 
+
+drafted and adopted.  
+
+9.  Model underwriting agreement 
+
+9.1  The existing model underwriting agreement as per SEBI Circular RUW Circular No 
+
+1 (93-94) dt 19/11/93 is applicable only for fixed priced issues.  
+
+9.2  Certain provisions of the aforesaid model underwriting agreement too have outlived 
+
+its utility.  
+
+9.3  There is a need to review and strengthen the model underwriting agreement for fixed 
+
+priced issues. 
+
+9.4  There is a need to adopt a model underwriting agreement for book built issues. The 
+warranties and covenants adopted for underwriting agreement for book built issue 
+may also be introduced for fixed price issue.  
+
+The Committee recommends that  
+
+S.20. The existing model underwriting agreement for fixed priced issues may be 
+
+revised as follows: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i.  In Para 3, the words “acknowledgement card” may be replaced by the 
+
+words “observation letter” 
+
+ii.  In Para 3, the following sentence may be added; 
+
+________________________________________________________________________ 
+October 2002 
+13 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+“The Company shall convey to the underwriter, electronically or 
+
+otherwise, the changes including those arising out of observations of 
+
+SEBI and provide for a reasonable period of time for the underwriter to 
+
+convey his acknowledgement” 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iii.  In Para 6, “21” may be replaced by “10” 
+
+iv.  In Para 8, following may be added; 
+
+ 
+
+“Provided the sub-underwriting arrangement is communicated to the 
+
+issuer / lead manager before issue closure” 
+
+ 
+
+v.  Clause ii.a of para 10 may be deleted 
+
+vi.  In Para 11(a), “30” may be replaced by “18” 
+ 
+In Para 11(c), “30” may be replaced by “7” 
+
+vii.  Para 12 may read as follows; 
+
+“Right  to  receive  underwriting  commission  –  Subject  to  the 
+
+Underwriter fulfilling his underwriting commitment, he shall be 
+
+entitled to receive commission in respect of the full underwriting 
+
+obligation undertaken by him at the rates set out in clause 13 
+
+hereunder.” 
+
+viii. Brokerage shall be paid on amount subscribed / procured by the 
+
+underwriter against the devolvement. 
+
+ix.  Para 13(2) may read as follows; 
+
+“The underwriting commission / brokerage shall be payable by the 
+
+Company after obtaining listing permission of the securities from the 
+
+stock  exchanges  but  before  obtaining  trading  permission.  The 
+
+Company shall bear the applicable service tax, if any, leviable on the 
+
+underwriting  commission.  The  obligation  to  pay  underwriting 
+
+________________________________________________________________________ 
+October 2002 
+14 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+commission  shall  arise  only  upon  the  underwriter  fulfilling  his 
+
+underwriting commitment” 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x.  In Para 16(ii), the names of the following cities may be added viz., 
+
+Bangalore, Hyderabad, Ahmedabad and Pune. 
+
+xi.  Suitable  representations,  warranties  and  covenants  may  be 
+
+incorporated to protect the interest of the parties to the Agreement. 
+
+A model underwriting agreement for book-building issues may be drafted to 
+
+incorporate the following points: 
+
+a.  Agreement shall be between the issuer company on one part and Book 
+
+Running  Lead Manager,  Co-Book  Running  Lead Manager  and 
+
+syndicate members on the other part 
+
+b.  Details of book-building i.e. whether 100% of the net offer to the public 
+
+through book building process or 75% of the net offer to the public 
+
+through book building process and 25% of the net offer to the public at 
+
+the price determined through book building 
+
+c.  Definitions of key terms such as Lead Underwriter, Underwriter, Bid, 
+
+Bid Amount, Bid opening/closing date, Bidder, Bidding period, 
+
+Confirmation Allocation Note, Escrow account of company/syndicate, 
+
+Escrow agreement, Pay-in period, Qualified Institutional Buyers, Red 
+
+Herring Prospectus, Syndicate agreement may be included 
+
+d.  The  syndicate  member  shall  underwrite  all  shares  allocated  to  bidders 
+who  have  bid  through  him,  receive  underwriting  commission  on  such 
+bids and get devolved shares, if any. Alternately if the syndicate member 
+is  given  underwriting  which  is  different  from  the  bids  allocated  to 
+bidders who have bid through him, that syndicate member’s obligation 
+
+________________________________________________________________________ 
+October 2002 
+15 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+shall  be  restricted  to  the  amount  underwritten  by  him.  The  syndicate 
+member who has procured the bid shall retain the brokerage. 
+
+ 
+
+e.  Obligation of and recourse available to the lead underwriter in case of 
+
+default by underwriter or syndicate member 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+f.  Covenants   
+
+The company and the underwriters will not make any verbal or written 
+
+representations in connection with the offering other than those 
+
+representations  made  pursuant  to  terms  and  conditions  in  the 
+
+underwriting agreement 
+
+g.  Procedure for effecting discharge of underwriting obligations. The 
+
+milestones for discharging obligations may be clearly specified in 
+
+terms of number of days. 
+
+h.  Recourse available to the company if the lead underwriter fails to 
+
+discharge its obligation. 
+
+i.  Fees and commissions  including brokerage payable on amount 
+
+subscribed / procured by the underwriter on devolvement. 
+
+j.  Conditions to underwriter’s obligations 
+
+i.  No  material  /  adverse  development  including  regulatory 
+
+changes after executing the agreement which affects the 
+
+marketability of the issue unless conveyed to the underwriter 
+and accepted by him. (This provision will protect the interests of 
+the  underwriters.  In  case  of  dispute  of  whether  the  information  is 
+material/adverse, SEBI may have the last word on the same and its 
+views will be binding on the company and the underwriter) 
+
+________________________________________________________________________ 
+October 2002 
+16 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+ii.  Certificate  from  the  company  of  no  material/adverse 
+
+development since the date of the underwriting agreement 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+k.  Details of determination of issue price, allocation of bids and pay-n 
+
+period 
+
+l.  Representations and warranties by company, lead underwriter and 
+
+underwriter 
+
+m.  Indemnity 
+
+n.  Termination 
+
+o.  Jurisdiction 
+
+p.  Arbitration 
+
+ 
+
+ 
+
+ 
+
+10. Mandatory underwriting 
+
+There  has  been  some  debate  about  ‘safety  net’/  ‘hard  underwriting’  being  made 
+mandatory as one of the most practical methods to boost the primary capital market.  
+The following is noteworthy in this regard: 
+
+1) 
+
+During the CCI regime hard underwriting was compulsory.  Even after free 
+pricing  was  introduced  under  SEBI  regulations,  hard  underwriting  was 
+mandatory for the first few years. 
+
+2) 
+
+Traditionally, hard underwriting was mandatory for two important reasons: 
+
+- 
+
+it made entry in the capital market safe for the issuer. 
+
+________________________________________________________________________ 
+October 2002 
+17 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+ 
+3) 
+
+4) 
+
+- 
+
+the prospective investors, retail as well as wholesale, felt safe that the 
+underwriters had evaluated the issue and were backing the issue with 
+financial commitment. 
+
+‘Book  Built’  issues  also  have  underwriting.    However  under  the  Book 
+Building  route  underwriting  covers  only  the  ‘payment  risk’  rather  than 
+‘subscription risk’. 
+
+Qualified Institutional Buyers (QIB) make the investment decision based on 
+‘confidence’ rather than underwriting provided by the so called underwriter. 
+
+Retail  investors,  under  the  current  guidelines  of  SEBI  get  the  price  and 
+volume guidance from the QIB participation. 
+
+There is no fall back option for the issuer to get the funds as there is no “last 
+resort”. The issuer has to withdraw the issue in case of inadequate demand. 
+
+If  an  underwritten  issue  fails  and  the  underwriters  are  unable  to  meet  the 
+obligations, it disturbs the market. Similarly if a non-underwritten issue fails 
+and the application money returned, it too disturbs the market. Issuers are 
+driven  by  commercial  exigencies  and  considerations  to  determine  whether 
+the issue should be underwritten or not. 
+ 
+Neither ‘hard’ underwriting nor ‘soft’ underwriting have proved reliable guide 
+of the post listing market price and therefore both of them fail to be a ‘safety 
+net’. 
+
+Equity  prices  are  influenced  by  complex  and  large  number  of  factors  and 
+therefore ‘safety net’ insurance is very difficult to provide, particularly for the 
+short-term. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+________________________________________________________________________ 
+October 2002 
+18 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+5) 
+
+ 
+
+6) 
+
+7) 
+
+ 
+8) 
+
+What is the aggregate capability of the participants to underwrite large and 
+small issues, including many issues at the same time, on an ongoing basis is a 
+moot point.  
+
+In  the  past,  the  term  lending  financial  institutions  and  banks  acted  as  the 
+biggest underwriters because underwriting support was generally a part of the 
+project finance provided by them. In the post ‘liberalisation’ era, not all such 
+entities have either the financial ability or capital market expertise to do large 
+underwriting. Banks also have some restrictions due to limits imposed by the 
+Reserve Bank of India. 
+
+What is relevant is the capability of the equity-oriented institutions such as 
+Life Insurance Corporation, General Insurance Corporation and subsidiaries, 
+New Insurance Companies, Mutual Funds etc. These institutions are active 
+participants in the book-built issues and by earning underwriting commission 
+can bring down their cost of acquisition. This should make them enthusiastic 
+about underwriting. 
+
+Hard underwriting, as practiced traditionally, makes it difficult to adjust the 
+price  to  the  prevailing  market  conditions.  Improvement  is  needed  on  this 
+front, which with modern day technology should not be difficult. 
+
+It  was  seen  in  the  past  that  not  all  issuers  were  able  to  collect  the 
+devolvement proceeds. In many cases, only ‘application / allotment money’ 
+was  paid  and  the  issuer  was  left  shortchanged.  With  better  enforcement 
+environment that is emerging, escaping underwriting liability should become 
+difficult thus making underwriting more meaningful. 
+
+Typically only a few underwriters manage the bulk of the ‘Book Built’ issues. 
+Since underwriting can be a steady business for the prudent (like Insurance 
+companies), it can attract more participants.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+________________________________________________________________________ 
+October 2002 
+19 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+The Committee would like to thank the individuals and institutions that responded to 
+the Committee’s request for their views and comments. The Committee also wishes to 
+express its grateful thanks to Shri G.N. Bajpai, Chairman of SEBI for constituting the 
+Committee  and  giving  the  members  full  freedom  in  fixing  its  terms  of  reference  and 
+deliberations.  
+
+ 
+
+________________________________________________________________________ 
+October 2002 
+20 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+ANNEXURE “A”: METHOD FOR COMPUTATION OF NET WORTH 
+ 
+For Merchant Bankers [as per SEBI(Merchant Bankers) Regulations, 1992] 
+ 
+Net worth means paid up capital plus free reserves 
+ 
+
+For stock brokers on BSE [as per SEBI’s letter No. SMD/SED/9012/93 dated May 
+
+14, 1993] 
+
+ 
+Paid-up Capital  
+Add: Free Reserves  
+Less: Non-allowable assets viz., 
+A. 
+B. 
+C. 
+D. 
+E. 
+F. 
+ 
+
+Fixed assets including land and building 
+Receivables which are due and outstanding for more than three months 
+Value of the Exchange card 
+Doubtful debts / advances  
+Pledged securities  
+Preliminary exp. To the extent not written off 
+
+For stock brokers on NSE 
+
+Method I 
+
+Items 
+
+Goodwill,  Intangible  assets,  Patents, 
+Trademarks  and  designs,  Value  of 
+other  stock  exchange  card,  Deposit 
+with  other  stock  exchange,  Debit 
+Balance in P&L A/c 
+
+Treatment for Net Worth computation 
+
+Not 
+to  be 
+computation 
+
+considered 
+
+for  Net  Worth 
+
+________________________________________________________________________ 
+October 2002 
+21 
+
+Report of the Underwriting Committee 
+______________________________________________________________________________________ 
+
+Treatment for Net Worth computation 
+
+To be considered at book value per statement of 
+Assets & Liabilities/Balance Sheet 
+
+ 
+Items 
+
+and 
+
+partly 
+
+Land,  Buildings,  Leasehold,  Plant  and 
+Machinery,  Furniture  and  Fittings, 
+Development  of  Property,  Vehicles, 
+Computers  (Hardware  and  Software), 
+Government/Trust 
+Securities, 
+Debentures  or  Bonds,  Shares  (Fully 
+paid-up 
+paid-up), 
+Shares/Debentures  and  Bonds  of 
+Subsidiary 
+Immovable 
+properties,  Investments  in  capital  of 
+partnership 
+Security 
+Deposit, NSE VSAT & UPS Deposit, 
+Stock-in-trade, 
+Sundry  Debtors, 
+Provision for bad debts, Cash on hand, 
+Fixed  deposit  with  bank,  Bank 
+balances, Deposit with MTNL 
+OR 
+
+firms,  NSE 
+
+companies, 
+
+Method II 
+By valuation of their assets on the following basis: 
+ 
+A. 
+B. 
+C. 
+D. 
+E. 
+F. 
+G. 
+
+Listed (Quoted) investments in the name of the applicant (at market values)  
+Margin of 30% on market value of listed (quoted) Investments 
+Net value of listed Investments (A) – (B) 
+Investments in unlisted (unquoted) companies 
+Margin of 50% on (D) 
+Net value of unlisted Investments (D) – (E) 
+Other Investments (at cost) like PPF, NSC at current Value, Statutory deposits with 
+the Exchange, Deposits with registered NBFCs, Bank  FDs 
+Total Net Investments (C) + (F) + (G) 
+Market Value of Land & Building component of the Fixed Assets  
+Margin on I at 50% 
+Net value of such fixed assets (I – J) 
+Debtors not exceeding 3 months + Cash & Bank balance 
+Current Liabilities 
+Long term liabilities 
+Net worth (H + K + L) – (M + N) 
+
+H. 
+I. 
+J. 
+K. 
+L. 
+M. 
+N. 
+O. 
+
+________________________________________________________________________ 
+October 2002 
+22 
+
+

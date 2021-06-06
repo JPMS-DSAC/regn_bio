@@ -1,0 +1,1834 @@
+ 
+
+Discussion paper on  
+
+Short Selling and Securities Lending and Borrowing 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Executive Summary  
+
+I.  Short selling  – the sale of a security that the seller does not own  – is one of the long-standing 
+market practices, which has often been the subject of considerable debate and divergent views 
+in most of the securities market across the world. The votaries of short selling consider it as a 
+desirable and an essential feature of a securities market. The critics of short selling on the other 
+hand are convinced that short selling, directly or indirectly, poses potential risks and can easily 
+destabilise the market. In an efficient futures market, the relationship between spot price and 
+futures price of the underlying asset is governed by cash-and-carry arbitrage and reverse cash-
+and-carry arbitrage. The latter requires that traders should be able to sell the underlying security 
+short unless of course there are enough number of traders who own the security and are able to 
+sell it cash to take advantage of too low a futures price (Paragraphs 1.1 and 1.2). 
+
+ 
+II.  It  is  noteworthy  though,  that  despite  the  conflicting  schools  of  thought,  securities  market 
+regulators  in  most  countries  and  in  particular,  in  all  developed  securities  markets,  recognise 
+short selling as a legitimate investment activity. Such jurisdictions also have an active market 
+for equity derivatives which includes stock futures. Some of the jurisdictions even recognise the 
+usefulness of naked short sales in certain circumstances and instead of prohibiting short  sales; 
+the regulators have permitted it to take place within a regulated framework.. The International 
+Organisation of Securities Commissions (IOSCO) has also reviewed short selling and securities 
+lending  practices  across  markets  and  has  recommended  transparency  of  short  selling, rather 
+than prohibit it (Paragraph 1.3). 
+ 
+
+III. A vibrant securities market should necessarily provide for lending and borrowing of securities. 
+Securities markets all over the world, mostly, have an active market for securities lending and 
+borrowing  scheme,  which  besides  complimenting  short  selling  in  securities  also  enable  the 
+investors to earn returns on their idle securities (Paragraph 1.4). Vibrant securities lending and 
+borrowing  scheme  is,  therefore,  considered  necessary  to  provide  sufficient  impetus  for short 
+selling (Paragraph 5.7). 
+ 
+
+IV. Presently,  there  is  no  prohibition  on  short  selling  by  retail  investors.  The  “Institutional 
+investors” viz. the mutual funds and the Foreign Institutional Investors (FIIs) registered with 
+SEBI, banks and insurance companies are expressly prohibited under the respective regulations 
+from short selling and are mandatorily required to settle on the basis of deliveries of securities 
+owned  and  held  by  them.  As  they  are  to  settle  by  deliveries,  no  margin  was  levied  on  the 
+transactions of institutional investors (Paragraph 3.1). 
+ 
+
+V.  While  international  securities  market  regulators  have  recognised  that  short  selling  can 
+exacerbate market falls and lead to manipulative activities, most of the jurisdictions have also 
+recognised short selling as a legitimate investment activity that has contributed significantly to 
+market  liquidity.  International  securities  market  regulators  have,  therefore,  permitted  short 
+selling with adequate safeguards to prevent any abusive/manipulative market practices. Similar 
+issues may arise in the Indian context also. Genuine short selling could exacerbate price decline 
+but that by itself may not be construed as a manipulative activity unless there are evidences of 
+market misconduct. However, abusive short selling practices to manipulate the price of a stock 
+will  continue  to  be  treated  as  market  misconduct  and  attract  appropriate  regulatory  action. 
+(Paragraph 5.1). 
+ 
+
+ 
+
+ 
+
+VI.  The FSA is of the view that short selling is not in itself manipulative. Rather, [FSA] sees it as a 
+valid  investment  practice  that,  in  essence,  represents  the  opposite  of  taking  a  long  position. 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+ i  
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+However,  short  selling,  like  any  other  form  of  trading,  may  be  manipulative when misused 
+(Paragraph 4.1.12). 
+ 
+
+VII.  In  the  Indian  securities  market,  “short  selling”  may  be  defined  as  selling  a  stock  which  the 
+
+seller does not own at the time of trade (Paragraph 5.2). 
+ 
+
+VIII. Because  of  the  regulatory  restrictions  in  the  Indian  markets  which  have  enabled  only  retail 
+investors to short sell, there is no level playing field between various classes of investors. There 
+was  a  need  to  bridge  this  gap  and  provide  equal  leveraging  opportunities  for  all  classes  of 
+investors. The present regulatory restrictions which allow only the retail investors to short sell 
+should be removed to enable a level playing field for all classes of investors. In other words, the 
+institutional investors who are currently prohibited should be permitted to short sell (Paragraph 
+5.3). 
+ 
+
+IX. In the Indian context, naked short sales would not be permitted. All investors would be required 
+to mandatorily honour their obligation of delivering the securities at the time of settlement. No 
+institutional investor shall be allowed to do day- trading i.e., square off their transactions intra-
+day.  In  other  words,  all  transactions  would  be  grossed  for  institutional  investors  at  the 
+custodians’ level, and the institutions would be required to fulfil their obligations on a gross 
+basis. The custodians, however, would continue to settle their deliveries on a net basis with the 
+stock exchanges (Paragraphs 5.4 and 5.5). 
+ 
+
+X.  The  stock  exchanges  should  frame  a  uniform  penalty  structure  and  take  appropriate  action 
+against the brokers for failure to deliver securities at the time of settlement which would act as 
+a sufficient deterrent against naked short selling.  (Paragraph 5.6). 
+ 
+
+XI.  As regards the stocks in which short selling may be permitted, to begin with, short selling may 
+be  permitted  only  in  those  stocks  in  which  derivative  products  are  available  (Paragraph 
+5.8).The lending and borrowing may also be, initially, restricted only in those stocks in which 
+derivative products are available (Paragraph 8.4). 
+ 
+
+XII.  The institutional investors would be obligated to disclose upfront at the time of placement of 
+order  whether  the  transaction  is  a  short  sale  and  demonstrate  their  ability  to  borrow  to  the 
+satisfaction of the broker. However, the retail investors would be permitted to make a similar 
+disclosure before the end of the trading hours on the transaction day. (Paragraph 5.9) 
+ 
+
+XIII. All  stock  brokers  should  be  mandated  to  maintain  sufficient  documentation  regarding  the 
+ability  of  their  clients  to  borrow  and  deliver  the  securities  at  the  time  of  settlement  so  as  to 
+ensure sound audit trail. Such information and documents should be readily available during 
+inspections  by  the  stock  exchanges  and  SEBI.  In  respect  of  institutional  transactions,  the 
+brokers must satisfy themselves that the institutional clients have made sufficient arrangement 
+for borrowing securities before executing the order for short sale.(Paragraph 5.10)  
+ 
+
+XIV. The data on scrip-wise short position is of significance, and, therefore, needed to be disclosed 
+in the public domain. The brokers shall be mandated  to collect the details on scrip-wise short 
+sell positions, collate the data and upload it to the stock exchanges before the commencement 
+of  trading  on  the  following  trading  day.  The  stock  exchanges  will  then  consolidate  such 
+information  and  disseminate  the  same  on  their  websites  for  the  information  of  the  public  to 
+begin  with,  only  after  the  close  of  market  hours  of  the  next  trading  day.  Ideally,  such 
+information  should  be  disclosed  before  the  commencement  of  the  market  hours  on  the  next 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+ ii  
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+trading day.  However,  this  will  not  be  immediately  possible  as  the  brokers  will  be  able  to 
+provide this information to the exchanges only by the beginning of the next day. In the course 
+of  time,  however,  after  gaining  sufficient  experience  and  once  the  system  stabilises,  this 
+requirement may be reviewed to enable disclosure of such information by the exchanges before 
+the commencement of the market hours on the next trading day (Paragraph 5.11). 
+ 
+
+XV.  The  transactions  executed  by  all  institutional  investors  may  be  margined  similar  to  the 
+transactions  executed  by  the  retail  investors.  The  institutional  investors  should  also  have  the 
+same flexibilities as regards the manner and type of collateral, similar to retail investors, subject 
+to other applicable regulations (Paragraph 5.12). 
+ 
+
+XVI.  A  vibrant  securities  lending  and  borrowing  scheme  is,  therefore,  considered  necessary  to 
+provide  sufficient  impetus  for  covered  short  selling.  (Paragraph  5.7)  In  this  context,  the 
+securities lending scheme of 1997 (SLS, 1997) was inoperative and was not active in the Indian 
+securities market.  
+ 
+
+XVII.  Pursuant  to  the  recommendations  of  the  erstwhile  SMAC  in  2003,  SEBI  had  specified  the 
+operational modalities for Clearing Corporation/House of the stock exchanges to borrow and 
+lend  securities  for  the  limited  purpose  of  handling  settlement  shortages.  However,  the  stock 
+exchanges are in the process of putting in place, the  necessary systems for dispensing off the 
+auction mechanism and are, therefore, yet to operationalise the process of securities lending and 
+borrowing for handling settlement shortages (Paragraphs 6.4 and 6.5) 
+ 
+
+XVIII.  While the present scheme of lending and borrowing securities in the Indian securities market by 
+the  clearing  corporation/house  (CC/CH)  of  the  stock  exchanges  for  handling  settlement 
+shortages addresses the need for lending and borrowing in a limited way, there is no scope for 
+investors to capitalize on the demand for their securities in the market and thus, earn a return on 
+the same by lending such securities. The scope of the existing securities lending and borrowing 
+scheme  must  be  widened  into  a  full-fledged  lending  and  borrowing  scheme  enabling 
+participation of all classes of investors, including retail investors. (Paragraph 6.7).  
+ 
+
+XIX.  While  introduction  of  such  a  scheme  was  necessary  in  the  present  context  of  the  market,  a 
+
+phased and cautious approach would be appropriate in the initial stages. (Paragraph 6.7).  
+ 
+
+XX.  World over, securities lending and borrowing transactions were, by and large, over-the-counter 
+(OTC) contractual obligations executed between lenders and borrowers. It was also observed 
+that  international  securities  market  regulators  do  not  directly  regulate  the  lending  and 
+borrowing  transactions.  In  various  international  markets,  entities  like  the  custodians  and 
+depositories run the lending and borrowing scheme and have their own screens for meeting the 
+demand and supply of securities from their clients (Paragraphs 7.1). 
+ 
+
+XXI.  The  introduction  of  a  full-fledged  securities  lending  and  borrowing  scheme  should  be 
+simultaneous  with  the  introduction  of  short  selling  by  the  institutional  investors. (Paragraph 
+5.7). 
+ 
+
+XXII.  The  CC/CH  of  the  exchanges  should  act  as  Approved  Intermediaries  (AIs)  for  the  limited 
+purpose  of  lending/borrowing  securities  for  meeting  settlement  shortages  and  the  stock 
+exchanges should go ahead with the operationalisation of the close-out procedure for handling 
+settlement  shortages  and  dispense  of  the  auction  mechanism.  Apart  from  the  lending  and 
+borrowing of securities by CC/CH for settlement shortages, a full fledged securities lending and 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+ iii  
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+borrowing  scheme  should  be  introduced  by  SEBI/Stock  exchanges  through  the  AIs  route. 
+(Paragraphs 8.2 and 8.3).  
+ 
+
+XXIII.  A  cautious  approach  should  be  adopted,  while  permitting  entities  to  act  as  AIs  for  securities 
+lending  and  borrowing  scheme.  In  the  first  stage,  only  custodians,  Banks  and  FIs  may  be 
+registered as AIs for the purpose of lending and borrowing of securities. The securities lending 
+and borrowing should be, initially, restricted only in those stocks in which derivative products 
+are available. (Paragraph 8.4). 
+
+ 
+XXIV.  The  lending  and  borrowing  transactions  may  be  executed  on  an  automated,  screen-based 
+platform which offers the demand and supply of securities for lending/borrowing on a real-time 
+basis  along  with  the  facility  of  matching  the  demand  with  the  supply.  Any  trading 
+member/investor  who  wishes  to  borrow  securities  may  borrow  the  same  through the screen 
+provided by the exchanges. The stock exchanges should undertake the risk management of such 
+lending/borrowing transactions and the CC/CH should guarantee the return of the securities by 
+the  borrower  to  the  lender  by  being  the  central  counter  party  and  should,  thus,  provide 
+guarantee for counter-party risk. The stock exchanges would jointly work out and put in place 
+uniform modalities for securities lending and borrowing which will also include the manner in 
+which the securities borrowed will be returned to the lender and as the manner in which the 
+exchanges will provide the guarantee. (Paragraphs 8.5 and 8.6). 
+ 
+
+XXV.  With  a  view  to  align  the  agreements  between  the  various  parties  to  a  lending/borrowing 
+transaction,  such  transactions  could  be  formalized  in  terms  of  robust  lending  and  borrowing 
+agreements  on  the  lines  of  the  model  agreements  provided  by  the  Pan-Asian  Securities 
+Lender’s Association (PASLA) which obligate the borrowers to return the securities to the AI 
+and  agreements  between  the  AI  and  the  lender  which  enable  the  AI  to  allot  the  lender’ 
+securities to the borrowers at a screen determined price (Paragraph 8.7). 
+ 
+ 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+ iv  
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+1.1 
+
+ 
+1.2 
+
+ 
+1.3 
+
+ 
+1.4 
+
+ 
+1.5 
+
+Section I 
+
+Background 
+
+ 
+
+ 
+ 
+
+Short selling  – the sale of a security that the seller does not own  – is one of the long-
+standing market practices, which has often been the subject of considerable debate and 
+divergent views in most of the securities market across the world. The votaries of short 
+selling consider it as a desirable and an essential feature of a securities market, not 
+only to provide liquidity, but also to help price corrections in over valued stocks.  In 
+their  view,  the  restrictions  on  short  selling  distort  efficient  price  discovery,  gives 
+promoters the unfettered freedom to manipulate prices, and favours manipulators than 
+rational  investors.  They  argue  that  in  a  declining  market,  short  covering  of  positions 
+opened at the beginning of the downturn, arrests the declining trend. They also bring a 
+body of academic literature in strong support of their case for short sales. Further, in an 
+efficient  futures  market,  the  relationship  between  spot  price  and  futures  price  of  the 
+underlying  asset  is  governed  by  cash-and-carry  arbitrage  and  reverse  cash-and-carry 
+arbitrage. The latter requires that traders should be able to sell the underlying security 
+short unless of course there are enough number of traders who own the security and are 
+able to sell it cash to take advantage of too low a futures price. 
+
+The critics of short selling on the other hand are convinced that short selling, directly 
+or indirectly, poses potential risks and can easily destabilise the market. They believe 
+that short selling can quite facilely exacerbate declining trend in share prices, increase 
+share  price  volatility,  and  force  the  price  of  individual  stocks  down  to  levels  which 
+might not otherwise be reached. They also argue that declining trend in the share prices 
+of  a  company,  can  even  impact  its  fund  raising  capability  and  undermine  the 
+commercial confidence of the company. In a bear market in particular, short selling can 
+contribute to  disorderly trading, give rise to heightened short-term price volatility and 
+could be used in manipulative trading strategies.  
+
+It  is  noteworthy  though,  that  despite  the  conflicting  schools  of  thought,  securities 
+market  regulators  in  most  countries  and  in  particular,  in  all  developed  securities 
+markets, recognise short selling as a legitimate investment activity. Such jurisdictions 
+also have an active market for equity derivatives which includes stock futures. Some of 
+the  jurisdictions  even  recognise  the  usefulness  of  naked  short  sales  in  certain 
+circumstances and instead of prohibiting short sales; the regulators have permitted it 
+to  take  place  within  a  regulated  framework.  The  International  Organisation  of 
+Securities Commissions (IOSCO) has also reviewed short selling and securities lending 
+practices across markets and has recommended transparency of short selling, rather 
+than prohibit it. 
+
+Another feature common to most major securities markets is lending and borrowing of 
+securities. A vibrant market for securities lending and borrowing not only compliments 
+short selling in securities, but also enables the investors to earn returns on their idle 
+securities.  
+
+SEBI  reviews  its  regulatory  policies  periodically.  The  policy  on  short  sales  and 
+securities  lending  and  borrowing  were  last  reviewed  by  the  Secondary  Market 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+1 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+ 
+1.6 
+
+ 
+1.7 
+
+ 
+1.8 
+
+2.1 
+
+ 
+
+3.1 
+
+Advisory  Committee  (SMAC)  in  2003.  In  view  of  the  further  developments  taking 
+place in the market structure since then, in terms of institutionalisation of the market, 
+participation of the retail investors, enhanced participation by the foreign institutional 
+investors,  expansion  of  the  derivatives  market,  another  review  was  considered 
+necessary. Accordingly when the SMAC was reconstituted under the Chairmanship of 
+Professor P.G. Apte, Director of the Indian Institute of Management, Bangalore, SEBI 
+had sought the views of the SMAC, on the twin subjects of short selling and securities 
+lending and borrowing.  
+
+This Discussion Paper is based on the deliberations of the Secondary Market Advisory 
+Committee.  It  reviews  the  present  policy  on  short  selling  and  securities  lending  and 
+borrowing  in  India,  examines  the  international  practices  and  how  securities  market 
+regulators  in  other  countries  have  viewed  these  and  assesses  the  relevant  issues  of 
+regulatory concern in the context of market confidence and investor protection. 
+
+SEBI has been following a policy of extensive public consultation and debate before 
+formulating and implementing any new regulation. In accordance with this policy, this 
+Discussion  Paper  of  the  SMAC  is  being  made  available  on  SEBI’s  web  site  at 
+www.sebi.gov.in for public comments.  
+
+All comments on this Discussion Paper should reach SEBI at the following address by  
+or  may  be sent by e mail to  shortsales-slb@sebi.gov.in by  Friday,  the  20th January 
+2006. 
+
+Mr. V.S. Sundaresan, General Manager, 
+Securities and Exchange Board of India 
+29th Floor, World Trade Centre, Centre 1 
+Cuffe Parade, Mumbai 400005 
+ 
+ 
+
+Section II 
+
+Structure of the Paper 
+
+ 
+
+ 
+
+In Section III, we examine the evolution of present policy and practice of short selling 
+in India. In Section IV, we consider the international practices and regulatory position 
+on short selling. In Section V, we deliberate on the issues related to short sales and give 
+recommendations. In  Section  VI,  we  discuss  the  present  regulation  and  practice  of 
+securities lending and borrowing in India and  the need for review. In Section VII, we 
+discuss the polic ies followed by international securities market regulators on securities 
+lending and borrowing. In Section VIII, we examine the various options for introducing 
+securities lending and borrowing and recommend the revised regulatory framework. 
+
+Section III 
+
+Present Practice and Regulatory Policy on Short Sales in the Indian 
+
+Securities Market 
+
+At  present,  there  is  no  prohibition  on  short  selling  by  retail  investors.  The 
+“Institutional investors” viz. the Foreign Institutional Investors (FIIs) and the  mutual 
+funds registered with SEBI, banks and insurance companies are expressly prohibited 
+under  the  respective  regulations  or  statutes  from  short  selling  and  are  mandatorily 
+required to settle on the basis of deliveries of securities owned and held by them. As 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+2 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+  
+3.2 
+
+ 
+3.3 
+
+ 
+3.4 
+
+they are required to settle by deliveries, no margin was levied on the transactions of the 
+institutional investors. 
+
+For  example,  regulation  15(3)(a)  of  the  SEBI  (Foreign  Institutional  Investors) 
+Regulations,  1995  provides  that  “The  Foreign  Institutional  Investor  shall  transact 
+business only on the basis of taking and giving deliveries of securities bought and sold 
+and shall not engage in short selling of securities”.  Similarly  for the Mutual Funds, 
+regulation 45 of the SEBI (Mutual Funds) Regulations, 1996, provides that “The funds 
+of a scheme shall not in any manner be used in option trading or in short selling or 
+carry  forward  transactions:  provided  that  mutual  funds  shall  enter  into  derivatives 
+transactions in a recognised stock exchange  for the purpose of hedging and portfolio 
+balancing  in  accordance  with  the  guidelines  issued  by  the  Board”.   As  far  as  the 
+Insurance  Companies 
+circular  No. 
+IRDA/CIR/INV/062/Jan/05 dated January 17, 2005 has provided that the stock market 
+transactions of all the insurers have to result in delivery. The NRIs intending to trade on 
+the  stock  exchanges  in  India,  are  required to  comply with  the  requirement  of  the 
+Portfolio  Investment  Scheme  (PIS)  which  requires  in  terms  of  Schedule  3  to 
+Notification No FEMA 20/2000-RB dated 3rd May 2000, that the NRI investors to take 
+delivery of the shares purchased and give delivery of the shares sold by them.  These 
+restrictions  have  been  historically  in  place,  because  it  was  considered  prudent  and 
+desirable  that  in  the  initial  stages  of  market  development  when  the  stock  exchanges 
+followed  account  period  settlement  of  ranging  from  14  to  7  days  and  had  different 
+settlement cycles, the long term investors, rather than speculators and delivery based 
+trades needed to be encouraged;  
+
+concerned, 
+
+the 
+
+are 
+
+IRDA 
+
+vide 
+
+At present there is also no distinction  between  naked  and  covered  short  sales  in any 
+regulation  or  any  statute  governing  the  securities  market.  In  the  absence  of  any 
+officially  approved  securities  lending  and  borrowing  mechanism  being  in  place  at 
+present, it cannot be said with certainty the extent to which individual investors short 
+sell,  in  a  settlement.  Naked  short  sales  would  show  up  as  settlement  shortages.  But 
+there  may  be  other  valid  reasons  for  settlement  shortages  as  well.    But  settlement 
+shortages at the stock exchanges under the conditions of rolling settlement have  itself 
+been  very  low  (in  the  region  of  0.4%  of  the  settlement  turnover)  and  shortages  are 
+completed by the exchanges through auctions without any difficulty. In the absence of 
+any  analysis  on  settlement  shortages  therefore,  it  would  be  difficult  to  reach  any 
+definite conclusion on the extent of naked short sales in the market at present. While 
+the auction itself is a penalty for failure to deliver securities, the stock exchanges also 
+have a system of levying additional penalties to act as deterrent for those brokers who 
+frequently fail to deliver. As a result, there are no unsettled outstanding positions and 
+naked short sales even if it takes place have not posed any threat to market stability. 
+
+The  issue  of  short  sales  was  first  deliberated  by  SEBI  in  1996  when  SEBI  had 
+constituted  a  Committee  under  the  chairmanship  of  Shri  B  D  Shah,  Chairman  GIC. 
+Any  discussion  on  short  sales  should  begin  with  the  definition  of  short  sale.  
+Accordingly, the B D Shah Committee, had defined short sale as “selling of the shares 
+without having the physical possession of the shares unless it is either for squaring-up 
+of an earlier purchase in the same settlement of the same stock exchange or against the 
+pending deliveries from the same stock exchange pertaining to previous settlements”.  
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+3 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+ 
+3.5 
+
+ 
+3.6 
+
+ 
+3.7 
+
+ 
+
+ 
+3.8 
+
+ 
+3.9 
+
+Pursuant to the recommendations of the  B D Shah Committee, in order to address the 
+issue  of  the  lack  of  transparency  then  existing  in  the  stock  exchanges,  all  member 
+brokers  of  stock  exchanges  were  required  to  submit  their  scrip-wise  net  short  sale 
+position to the exchange at the end of each trading day in respect of 60 actively traded 
+scrips with effect from November 29, 1996. Subsequently, the disclosure was extended 
+to include the net long positions also. 
+
+Thereafter, as a response to the market volatility in 1998, SEBI had temporarily banned 
+short sales from June 17, 1998 and required that the net outstanding sale position at the 
+end  of  any  trading  day  in  each  security  must  result  in  delivery.  This  restriction  was 
+withdrawn subsequently. 
+
+Ban on short sales was reintroduced in March 2001, following extreme conditions of 
+market volatility. SEBI advised the stock exchanges that all sales transactions effective 
+from  March  8,  2001  shall  be  backed  by  delivery  unless  a  sale  transactions  was 
+preceded  by  a  purchase  position  of  at  least  an  equivalent  amount  in  the  name  of  the 
+same client in the same or any other exchange. This was applicable to the proprietary 
+trading  by  members  as  well  as  all  for  scrips  in  which  other  deferral products were 
+available.  With  the  introduction  of  the  rolling  settlement  in  414  scrips  from  July  2, 
+2001, and discontinuation of all deferral products, SEBI withdrew the restrictions on 
+short sales with effect from July 2, 2001. 
+
+That  the  issue  of  short  sales  and  the  need  for  clear  policy  in  this  regard  was  also 
+highlighted in  Para  no.  9.158  of  the  report  of  the Joint Parliamentary Committee on 
+Stock  Market  Scam  and  matters  relating  thereto  (JPC).  In  its  report  submitted  in 
+December  2002,  the  JPC  had  observed  “……that  SEBI  must  look  into  these  issues 
+seriously and expeditiously formulate a clear policy taking all aspects into account.” 
+that SEBI should expeditiously formulate a clear policy in this regard.  
+
+In the light of the above, the issue of short  sale was again reviewed by the SMAC in 
+2003. The SMAC had then noted that in the context of the changes in the market micro 
+structure  that  was  brought  about  through  the  introduction  of  rolling  settlement, 
+shortening  of  settlement  cycle  to  T+2  and  the  availability  of  derivatives  products  as 
+well  as  the  absence  of  deferral  products,  the  recommendation  of  the  B.D.  Shah 
+Committee, including the definition of short selling as above, may no longer be valid. It 
+was also of the view that it would not be meaningful  any longer to track short sales at 
+the time of sale, as the gap between the trade and settlement has narrowed substantially. 
+Besides, it was equally not feasible to ascertain at the time of sale if one is selling short, 
+as millions of transactions are effected everyday. 
+
+The SMAC had  then also noted that in the US, the  then existing  regulations allowed 
+relatively  unrestricted  short  selling  in  an  advancing  market  while  preventing  short 
+sellers  from  accelerating  a  declining  market.  The  regulation  used  tick-test, a formula 
+for defining price for permissible as well as non-permissible short-selling. The defined 
+price automatically takes into account the prevailing market condition. It permits short 
+selling  at    (i)  a  price  above  the  price  at  which  the  immediately preceding sale was 
+effected (plus tick), or (ii) the last sale price if it is higher than the last different price 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+4 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+(zero  plus  tick).  Every  short-sale transaction  needed  to  be  disclosed  upfront  to  the 
+dealing broker who is held responsible for ensuring that the transaction does not violate 
+the tick test.  All this meant that short-selling cannot take place surreptitiously in US. 
+Further,  regulation  did  not  require  the  regulators  to  prove  short-seller’s  intent  or 
+motive. But the SMAC  had also noted that tick test could only work in a quote driven 
+system  as  in  the  US  which  relies  on  the  market  maker,  and  not  on  an  order  driven 
+market as in India.  
+
+ 
+3.10  The SMAC was, therefore, then of the view that a more prudent approach in the Indian 
+context  would  be  to  define  short sales as  “failure to deliver securities at the time of 
+settlement” and monitor short sales at the time of delivery.  Accordingly, the erstwhile 
+SMAC recommended in 2003, that short sales be defined as failure to deliver securities 
+at the time of settlement and that it should be monitored at the time of delivery in the 
+settlement.  It  also  recommended  that  short  sales  should  be  regulated  by  putting  in 
+place a sound and efficient securities lending and borrowing mechanism which would 
+entail  borrowing  of  securities  by  the  clearing  corporation  /  house  for  meeting 
+settlement shortfalls.  
+
+Section IV  
+
+International practices in Short Selling 
+
+ 
+
+ 
+
+ 
+
+4.1 
+
+Policy on short sales adopted by the Financial Services Authority (FSA) of UK  
+(Source : FSA website www.fsa.org ) 
+
+ 
+4.1.1  The issue of short sales has been extensively debated in the UK. In October 2002, the 
+FSA  had  brought  out  a  Discussion  Paper  No.  17  on  the  subject  of  “Short  Selling”, 
+which articulated the views of FSA on the subject. 
+
+ 
+4.1.2  On  “the  utility  of  short  selling”  the  FSA  is  in  favour  of  allowing  short  selling  as 
+traditionally  it  has  benefited  the  market  by  “accelerating  price  corrections  in 
+overvalued securities or accommodate[ing] abnormal buying pressure which would 
+otherwise over inflate a security’s price”.  FSA  considers  this  function  may  be  even 
+more important in a market increasingly dominated by large, longer-term investors and 
+index funds.  
+
+ 
+4.1.3  Similarly, FSA also considers that “short selling also benefits the market as a support 
+for trading that corrects pricing anomalies. Without the opportunity for arbitrageurs to 
+lock in a profit by going short of the ‘overvalued’ instrument at the same time as going 
+long of the ‘undervalued’ instrument, the efficiency of the price correcting process is 
+correspondingly greatly reduced”.  
+
+ 
+4.1.4  FSA  has  also  cited  “a  third,  more  practical,  benefit  of  short  selling  has  been  that 
+market making and intermediary liquidity provision has traditionally played a central 
+part  in  the  UK  market  structure.  Any  attempt  to  restrict  the  freedom  of  liquidity 
+providers to go short would, in effect, have made that role impossible. Applied in full, it 
+would,  for  example,  have  prevented  market  makers  satisfying  customer  buy  orders 
+except out of inventory”.  
+
+ 
+4.1.5  According  to  FSA,  “any effective restriction on cash market hedging through short 
+sales  would  potentially  increase  the  costs  of  risk  management  and  would  seriously 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+5 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+constrain  the  use  of  derivatives.  The  efficient  working  of  the  market  in  ‘downside 
+protection’, whether through the use of put options, or equivalent instruments, depends 
+on the ability of the sellers of the protection to hedge their exposures by opening a 
+matching short position elsewhere, often in the underlying cash securities”.  
+
+In conclusion FSA is of the view that “in facilitating all the above trading strategies, 
+short selling adds to pricing efficiency by bringing additional trading opportunities and 
+liquidity  to  the  market  in  general”.  Hence FSA sees “no case for prohibiting short 
+selling – indeed no major financial market does so – nor for introducing constraints for 
+the purpose of deterring use of the practice”. 
+
+ 
+4.1.7  FSA also recognises “that [short selling] may also bring some potential risks. This is 
+why  a  number  of  countries  consider  it  necessary,  in  their specific environment and 
+circumstances, to impose various controls on short selling”. In broad terms, FSA has 
+assessed the “potential risks of short sales” as follows:- 
+
+“First, there is a set of market risks that arise from the way in which short sales 
+add  weight  to  the  supply  of  long  sale  orders  in  the  market.  This  does  not 
+automatically  lead  to  disorderly  or  manipulative  trading,  but  may  increase  the 
+potential for both. Short selling may also increase short-term volatility in share 
+prices. A further  market risk may arise from any settlement disruption for ‘naked’ 
+shorts and any consequent failure to deliver.  
+  
+Second, there are potential risks within the chain of the short selling process. These 
+relate to the settlement process and efficient risk management in the operation of 
+the securities lending market”. 
+
+ 
+
+ 
+4.1.6 
+
+ 
+4.1.8  The FSA also assessed that the causes of potential risk of disorderly trading. According 
+to  FSA,  the  risk  of  disorderly  trading  “arises,  for  example,  essentially  from  the 
+incremental weight of sell orders generated by short sales overwhelming current buy-
+side interest and causing an accelerated fall in a share’s price and an increase in price 
+volatility in the short term. The particular concern here is that this can happen very 
+quickly, leaving little or no time for potential buyers to assess the new position and take 
+action that might otherwise stabilise the price and dampen volatility”.  
+
+ 
+4.1.9  FSA noted that a number of foreign jurisdictions addressed this specific issue through 
+the use of ‘tick’ rules, whose basic purpose was to prevent a short sale being made at a 
+price below the last traded price and aimed at reduction of the speed of a downtrend by 
+preventing  short  sellers  using  sequential  trades  to  clear  current  buying  interest  at 
+progressively  lower prices. The UK Exchanges did not adopt the tick rules even when 
+it  was  a  quote  driven  market  operated  by  market  makers  or  nor  following  the 
+introduction  and  expansion  of  order  book  trading.  Besides the  FSA had also “some 
+concerns  about  ‘tick’  rules,  particularly  about  the  potential  complexity  of  creating 
+exemptions to those rules, since short selling rules may require exemptions for certain 
+market participants. Even more importantly, we have not seen a strong case showing 
+that  tick  rules  curb  share  pric e volatility or soften market declines. For example, at 
+least as far as this year is concerned, countries operating tick rules, such as the US, 
+have not seen less steep market falls or significantly reduced volatility than the UK”.  
+
+ 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+6 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+4.1.10  On  the  issue  of  “market  manipulation”,  FSA  recognised  that  there  was  a  “strong 
+perception in some quarters that short selling is an essentially manipulative activity, 
+used largely to drive down prices”.  But  FSA  also  regarded  that  “significant part of 
+short selling in today’s markets is driven by a variety of trading strategies that have 
+nothing to do with what is commonly known as the ‘bear raid’”.  
+
+ 
+4.1.11  FSA is of the view “that short selling is not in itself manipulative. Rather, [FSA] sees it 
+as a valid investment practice that, in essence, represents the opposite of taking a long 
+position. However, short selling, like any other form of trading, may be manipulative 
+when  misused.  Where  it  occurs  in  relation  to  any  investment  traded  on  a  UK 
+Recognised Investment Exchange or OFEX, abusive short selling, just like any other 
+form of market abuse, is caught under the market abuse regime and the Code of Market 
+Conduct”.  
+
+ 
+4.1.12  FSA has outlined some of the conditions under which short selling undertaken, whether 
+or not in collusion with other short sellers, for the purpose of positioning the price of a 
+security at a distorted level would amount to market abuse. For example, if an investor, 
+or  a  group  of  investors,  holds  a  short  position  in  a  particular  security  and  then 
+circulates false or misleading information, e.g. possibly in the form of a rumour, about 
+the issuer of that security to depress the price of the security in order to profit from the 
+short position, he would likely be in breach of the market abuse regime. This regime 
+carries unlimited fines in UK.  
+
+ 
+4.1.13  FSA is of the view that the present regime provides sufficient tools for dealing with 
+abusive short selling and, where FSA has hard evidence of market abuse, FSA will be 
+prepared to investigate.  
+
+ 
+4.1.14  On the concerns that ‘naked’ short sellers may cause disruption in settlements the FSA 
+had noted that “a number of countries set certain requirements such as short sellers 
+must  borrow  securities  ahead  of  the  sale  or  have  arrangements  in  place  that  will 
+enable  them  to  make  delivery  of  the  securities”.  This  was  not  required  in  UK  as 
+according  to  FSA,  the  Recognised  Investment  Exchanges  and  Recognised  Clearing 
+Houses “have rules on settlement which ensure that it is orderly and timely and that 
+rights  to  benefits  (for  example,  dividends)  are  protected  throughout  the  settlement 
+process. These rules also impose penalties in some instances for frequent non-delivery, 
+and provide for buying-in the securities in question when delivery is delayed. Overall 
+settlement performance in the UK is good and where settlement failures do occur the 
+Recognised 
+Investment  Exchanges  and  Recognised  Clearing  Houses  have 
+arrangements to deal with them”. 
+
+ 
+4.1.15  FSA was not convinced that market confidence would benefit from direct controls on 
+short selling, although they did recognised that short selling is a matter of concern to 
+some issuers and market users. According to FSA, this concern appears to derive, at 
+least in part, from the opacity that surrounds short sales. FSA believes that short sales 
+may contain potentially important  information which, if public, would tend to enable 
+other  market  users  to  make  better  informed  investment  decisions.  Hence  FSA 
+supported disclosure was a key factor in facilitating efficient markets, otherwise “some 
+market  participants  have  information  on  short  positions  and  stock  borrowing  figures, 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+7 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+while others do not, leaving those with the information in a privileged position”. FSA is 
+of  the  view  “that  short  sales  do  contain  information  of  value  to  other  market  users. 
+While we accept that the motivation behind short sales varies, many sales (other than 
+pure arbitrage sales) do in some respects reflect a view that a security is intrinsically 
+overvalued,  even  when  that  view  is  based  more  on  relative  than  absolute  over-
+valuation. It also recognises that the fact that a short sale must, by definition, lead to a 
+purchase of an equivalent number of the same securities makes it technically different 
+from other transactions in a way that may be of material significance to other market 
+users’ investment decisions”. 
+
+ 
+4.1.16  While advocating greater disclosures  the  FSA felt  “that  to  be  useful,  the  benefits  of 
+disclosure  must  outweigh  any  disadvantages.  On  this  point,  there  may  be  strong 
+limitations on what is achieved by greater transparency on a cost benefit basis”.  
+
+ 
+4.1.17  It is interesting to note that the feed back received by FSA on the Discussion Paper for 
+
+most part confirmed the views of FSA.  
+
+ 
+4.1.18  In  the  final  analysis,  FSA  therefore  recognises  that  short  selling  is  a  legitimate 
+investment activity that plays an important role in supporting efficient markets and that 
+significant changes to the existing regulatory regime were not warranted. FSA is also of 
+the  view  that  there  is  no  case  for  prohibiting  or  introducing  artificial  constraints  on 
+short  selling.  However,  it  recognised  that  increased  transparency  surrounding  short 
+selling would be helpful, as long as the information provided would be useful and its 
+benefits would outweigh any disadvantages, i.e. that it should be useful; should not be 
+overly  burdensome 
+to  produce;  and  should  not  unduly  breach  commercial 
+confidentiality.  
+
+ 
+4.1.19  FSA favored the publication by CREST Co of data on settlement failures in individual 
+securities, which according to FSA would be helpful information to the market and will 
+indicate  settlement  pressure  building  in  particular  securities.  FSA  also  considered 
+measures  to  notify  market  participants  and  warn  investors  in  circumstances  where 
+settlement problems are building in particular illiquid securities, as notifying the market 
+may  alleviate  some  pressure  on  the  securities  in  question.  Warning  investors  will 
+enable  them  to  make  informed  decisions  about  whether  or  not  to  buy  securities 
+experiencing high levels of settlement failure. 
+
+ 
+
+Box I : A comparative study of the global market practices in short selling 
+
+ 
+
+(cid:216)  Securities  market  regulators  world-wide  have,  by  and  large,  while  recognizing  the 
+potential risks of short selling have considered it as a legitimate investment activity and 
+permitted  short  selling  transactions  in  their  respective  jurisdiction  subject  to  certain 
+conditions;  However,  short  selling  transactions  that  are  executed  with  the  objective  of 
+price manipulation or distortion is seen as an abusive market practice. 
+
+  
+(cid:216)  Most markets do not impose any restrictions on short selling and allow it for any security. 
+
+There are others in which short selling is allowed in designated securities. 
+
+ 
+(cid:216)  The UK FSA recognises that short selling in bear market conditions and during high levels 
+of  market  volatility  but,  nevertheless,  considers  short  selling  as  a  legitimate  professional 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+8 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+ 
+
+investment  activity  which  plays  an  important  role  in  supporting  efficient  markets.  (refer 
+paragraph 4.1) 
+
+ 
+(cid:216)  The US SEC has recently done away with the age old down tick rule first adopted in 1938 
+and introduced– Regulation SHO as a pilot project for the entire market for 1 year.  (refer 
+paragraph 4.2) 
+
+ 
+(cid:216)  The  SEC  is  of  the  view  that  although  the vast majority of short sales are legal, abusive 
+
+short sale practices are illegal. 
+
+ 
+(cid:216) 
+
+It is not uncommon that trades remain unsettled on the stock exchanges in the  US. The 
+SEC  recognises  a  tolerance  level  of  unsettled  trades  for  five  consecutive  settlements, 
+before taking action under SHO. 
+
+ 
+(cid:216)  Many  emerging  markets  like  Hong  Kong,  Korea,  Japan,  Singapore  e.t.c.  have  also 
+permitted  short  selling  in  their  jurisdictions  on  certain  designated  securities  subject  to 
+disclosure  of  such  transactions  and  tick  rules  which  prohibit  short  selling  transactions 
+during a falling market. (refer paragraph 4.3) 
+
+ 
+(cid:216)  Certain  jurisdictions  prohibit  short  selling  during  specific  corporate  activities  like 
+
+acquisitions/takeovers, new issuances,  strategic policy announcements e.t.c. 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+9 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+Policy on short sales adopted by the Securities Exchange Commission of US  
+(Source: SEC website www.sec.gov.) 
+
+In the US, the SEC since January 2005,  has done away with the age old down tick rule 
+first  adopted  by  the  SEC  in  1938,  and  has  put  in  place,  Regulation  SHO  which 
+establishes  two  requirements  called  "locate"  and  "close-out"  to  address  problems 
+associated with failures to  deliver, including potentially abusive "naked" short selling. 
+The  “locate”  requires  a  broker-dealer  to  have  reasonable  grounds  to  believe  that  the 
+security can be borrowed so that it can be delivered on the date delivery is due before 
+effecting  a  short  sale  order  in  any  equity  security.  (This  "locate"  must  be  made  and 
+documented prior to effecting the short sale) while the "close-out" requirement imposes 
+additional delivery requirements on broker-dealers for securities in which there are a 
+relatively  substantial  number  of  extended  delivery  failures  at  a  registered  clearing 
+agency ("threshold securities").  
+
+ 
+4.2.2  Regulation SHO defines a short sale as the sale of a stock that the investor does not 
+own (or that he will borrow for delivery). The SEC noted that short sellers believe the 
+price of the stock will fall, or are seeking to hedge against potential price volatility in 
+securities that they own. If the price of the stock drops, short sellers buy the stock at the 
+lower price and make a profit. If the price of the stock rises, short sellers will incur a 
+loss.  Short  selling  is  used  for  many  purposes,  including  to  profit  from  an  expected 
+downward  price  movement,  to  provide  liquidity  in  response  to  unanticipated  buyer 
+demand,  or  to  hedge  the  risk  of  a  long  position  in  the  same  security  or  a  related 
+security.  
+
+ 
+4.2.3 
+
+ 
+
+ 
+
+4.2 
+
+ 
+
+4.2.1 
+
+It is not uncommon that trades remain unsettled on the stock exchanges in the US. The 
+SEC recognises a tolerance level of unsettled trades for five consecutive settlements, 
+before  taking  action  under  SHO.  The  new  requirements  have  been  introduced  in  the 
+wake of controversies arising from trades remaining unsettled in the Depositories Trust 
+& Clearing Corp. (DTCC) for several settlements as a result of naked short sales and 
+failed settlements and circulation of counterfeit shares in a number of listed securities 
+of small cap and in “pink sheet” companies. According to DTCC’s estimates on a daily 
+basis nearly 24,000 transactions of value $ 6bn (as a % of total trades, it is 1.5% of 
+dollar  volume)  fail  to  deliver  for  more  than  13  settlements.  Such  securities  are 
+classified as threshold securities by SEC under the new SHO regulation (source: DTCC 
+web site) 
+
+ 
+4.2.4  The SEC is of the view that although the vast majority of short sales are legal, abusive 
+short sale practices are illegal. For example, it is prohibited for any person to engage in 
+a series of transactions in order to create actual or apparent active trading in a security 
+or to depress the price of a security for the purpose of inducing the purchase or sale of 
+the security by others.  Thus, short sales effected to manipulate the price of a stock are 
+prohibited. 
+
+ 
+4.2.5  Regulation  SHO  defines  "naked"  short  sale  as  a  sale  in  which  the  seller  does  not 
+borrow or arrange to borrow the securities in time to make delivery to the buyer within 
+the standard three-day settlement period. As a result, the seller fails to deliver securities 
+to the buyer when delivery is due is known as a "failure to deliver" or "fail." It also 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+10 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+notes that failure to deliver may result from either a short or a long sale. There may be 
+legitimate reasons for a failure to deliver. For example, human or mechanical errors or 
+processing  delays  can  result  from  transferring  securities  in  physical  certificate  rather 
+than book-entry form, thus causing a failure to deliver on a long sale within the normal 
+three-day  settlement  period.  A  fail  may  also  result  from  naked  short  selling.  For 
+example,  market  makers  who  sell  short  thinly  traded,  illiquid  stock  in  response  to 
+customer  demand  may  encounter  difficulty  in  obtaining  securities  when  the  time  for 
+delivery arrives. Hence, naked short selling is not necessarily a violation of the federal 
+securities laws or the SEC’s rules. 
+
+ 
+4.2.6  The  SEC  recognises  that  in  certain  circumstances,  naked  short  selling  contributes  to 
+market  liquidity.  For  example,  broker-dealers  who  make  a  market  in  a  security 
+generally stand ready to buy and sell the security on a regular and continuous basis at a 
+publicly  quoted  price,  even  when  there  are  no  other  buyers  or  sellers.  Thus,  market 
+makers must sell a security to a buyer even when there are temporary shortages of that 
+security available in the market. This may occur, for example, if there is a sudden surge 
+in  buying  interest  in  that  security,  or  if  few  investors  are  selling  the  security  at  that 
+time.  
+
+ 
+4.3 
+
+ 
+
+ 
+
+ 
+5.1 
+
+ 
+
+5.2 
+
+Policy on short sales adopted by the Hong Kong Securities and Futures Commission 
+(Source : HKSFC website www.sfc.hk/sfc/) 
+
+In  Hong  Kong,  short  selling  has  been  permitted  in  certain  designated  securities, like 
+those  that  were  part  of  the  benchmark  indices  or  those  in  which  futures  and  options 
+have been made available, in which the seller has the unconditional right to vest the 
+security  in  the  purchaser  by  virtue  of  securities  borrowing  and  lending  agreement  or 
+has confirmation from the counterparty that the counterparty has the security available 
+to lend to him. Further, the tick rule has been specified, i.e., it cannot be effected below 
+the best current ask price. At the time of inputting the order, the HKSFC requires  the 
+investors to communicate to the broker dealers that it is a short selling transaction. 
+
+Section V 
+
+Deliberations and Recommendations of the SMAC on short selling 
+
+The  Committee  noted  that  while  international  securities  market  regulators  have 
+recognised that short selling can exacerbate market falls and may lead to manipulative 
+activities, short selling has not been prohibited. Indeed most of the jurisdictions have 
+recognised  short  selling  as  a  legitimate  investment  activity  that  has  contributed 
+significantly  to  market  liquidity.  International  securities  market  regulators  have, 
+therefore,  permitted  short  selling  with  adequate  safeguards 
+to  prevent  any 
+abusive/manipulative market practices. The Committee recognised that  similar issues 
+may  arise  in  the  Indian  context  also.  Genuine  short  selling  could  exacerbate  price 
+decline, but that by itself may not be construed as a manipulative activity  unless there 
+are also  evidences  of  market  misconduct.  However,  the  Committee felt  that  abusive 
+short selling practices to manipulate the price of a stock will continue to be treated as 
+market misconduct and attract appropriate regulatory action.  
+
+Definition of short sales 
+The SMAC noted that  the  commonly  used  definition  of  short  sales  in  international 
+jurisdictions and in finance literature is “sale of a stock by an investor which he does 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+11 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+ 
+
+5.3 
+
+ 
+
+5.4 
+
+5.5 
+
+ 
+
+5.6 
+
+not own”. It also noted that in market parlance the world over, “naked short sale” is “a 
+transaction in which the seller neither owns nor borrows the securities in time to make 
+delivery  to  the  buyer  within  the  settlement  period” and  as  a  result  fails  to  deliver 
+securities when required. In other words, naked short sales results in failure to deliver,  
+while a “covered short sale” is understood as a transaction in which the seller may or 
+may not have securities at the time of sale, but have made arrangements for borrowing 
+securities  prior  to  sale  and  honours  the  obligation  of  delivery  at  settlement.  The 
+Committee  recommended that in the Indian context, “short selling” may be defined as 
+selling a stock which the seller does not own at the time of trade. 
+
+Short selling by institutional investors 
+The  Committee  took  note  of  the  policy  and  practices  in  short  sales  in  various 
+jurisdictions and was of the view that it would be necessary to enunciate a clear policy 
+on short sales which would be in sync with the present stage of market developments 
+and the regulatory reforms in India. The Committee, therefore, recommended that the 
+present regulatory restrictions which allow only the retail investors to short sell should 
+be removed to enable a level playing field for all classes of investors. In other words, 
+the institutional investors who are currently prohibited should be permitted to short 
+sell.  
+
+Covered Vs. naked short sales 
+The Committee noted that most of the international securities market regulators  have 
+prohibited naked short selling and required the client to have documentary evidence of 
+borrowing/tie-up  with  lenders  before  executing  the  sale  transaction.  The Committee 
+was  of  the  view  that  while  the  investors  may  be  permitted  to  do  short  selling, 
+settlements  should  take  place  only  on  delivery  basis..  In  case  of  failure  to  settle,  the 
+stock exchanges should levy stringent financial penalties which  would act as deterrent 
+for  naked  short  sales.  The  Committee  noted  that  this  was  in  consonance  with 
+international  regulatory  practice.  The  Committee,  therefore,  recommended  that  in the 
+Indian securities market, naked short selling should not be permitted and accordingly, 
+all investors would be required to mandatorily honour the obligation of delivering the 
+securities at the time of settlement.   
+ 
+Prohibition of day-trading by institutional investors 
+The Committee was however of the view that even if  short sales are permitted for the 
+institutional  investors,  they  should  not  indulge  in  day  trading.  The  Committee, 
+therefore,  recommended  that  no  institutional  investors  shall  be  allowed  to  do  day 
+trading  i.e.,  square  off  their  transactions  intra-day.  In other words, all transactions 
+would be grossed for institutional investors at the custodians’ level, and the institutions 
+would be required to fulfill their obligations on a gross basis. The custodians, however, 
+would continue to settle their deliveries on a net basis with the stock exchanges. 
+
+Penalty structure for naked short selling 
+The Committee felt that  the stock exchanges  should  be  required  to  closely  monitor 
+settlement shortages to check the reasons therefor, such as, genuine shortages, naked 
+short sales, etc. and impose stiff penalties to act as deterrent for naked short sales. The 
+Committee, therefore, recommended that the stock exchanges should frame a uniform 
+penalty structure and take appropriate action against the brokers for failure to deliver 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+12 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+ 
+
+5.7 
+
+ 
+
+5.8 
+
+ 
+
+5.9 
+
+securities at  the  time  of  settlement  which would act as a  sufficient deterrent against 
+naked short selling.   
+
+Need for securities lending and borrowing 
+The  Committee  noted  that  the  securities  markets  in  which  short  selling  is  freely 
+allowed also has a vibrant securities lending and borrowing scheme. In the absence of 
+vibrant  market  for  securities  lending  and  borrowing,  short  selling  may  not  work 
+effectively.  The  Committee,  therefore,  recommended  that  in  the  Indian  securities 
+market, a securities lending and borrowing scheme must be put in place to provide the 
+necessary impetus for short selling. The introduction of a full-fledged securities lending 
+and borrowing scheme should be simultaneous with the introduction of short selling by 
+the institutional investors. 
+
+Designated stocks 
+The Committee noted that  while many  international  jurisdictions permit short sales in 
+any security, certain jurisdictions permit short sales only in designated securities which 
+include  securities  in  which  derivatives  products  were  available,  those  which were 
+constituents of the major market indices etc. The underlying principle for the restriction 
+seems to be to ensure that market participants do not misuse short selling to distort the 
+prices of illiquid stocks which are normally more prone to volatility and manipulation. 
+The Committee also noted that so far SEBI has been following a phased approach when 
+introducing any new policy. Such a phased approach has been useful. The Committee 
+therefore, recommended that to begin with, short selling may be permitted only in those 
+stocks in which derivative products  are available. The Committee also recommended 
+that the list of stocks that are eligible for short selling transactions may be reviewed by 
+SEBI from time to time. 
+
+Designation of a “short” transaction  
+The Committee noted that securities market regulators world-wide have mandated that 
+the clients designate a transaction as a short sales at the time of placement of order. In 
+the  Indian  context,  since  the retail investors are allowed to  square-off their positions 
+intra-day and the institutional investors are prohibited from day-trading, the Committee 
+felt  the  need  to  have  a  differential  reporting  mechanism  between  the  retail  and 
+institutional  investors.  The  Committee,  therefore,  recommended  that  the institutional 
+investors  would  be  obligated  to  disclose  upfront  at  the  time  of  placement  of  order 
+whether the transaction is a short sale and demonstrate their ability to borrow to the 
+satisfaction of the broker. However, the retail investors would be permitted to make a 
+similar disclosure before the end of the trading hours on the transaction day.  
+ 
+Documentation of the short selling transactions by the brokers 
+
+5.10  The  Committee  re-iterated  the  need  to  have  sufficient  audit  trail  of  short  selling 
+transactions. The Committee also noted that internationally where covered short  sales 
+are  permitted,  the  clients  are  required  to  make  prior  arrangements  for  borrowing 
+securities before effecting short sales. The Committee therefore, recommended that all 
+stock brokers should be mandated to maintain sufficient documentation regarding the 
+ability of their clients to borrow and deliver the securities at the time of settlement so 
+as  to  ensure  sound  audit  trail.  Such  information  and  documents  should  be  readily 
+available  during  inspections  by  the  stock  exchanges  and  SEBI.  In  respect  of 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+13 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+ 
+
+ 
+
+institutional  transactions,  the  brokers  must  satisfy  themselves  that  the  institutional 
+clients have made sufficient arrangement for borrowing securities before executing the 
+order for short sale.  
+
+Disclosure of details regarding short selling transactions 
+
+5.11  As regards  disclosure of  transaction  as  “short”  at  the  time  of  order  entry  and  the 
+dissemination of short position in each stock at the end of the day, the Committee felt 
+that it would be desirable to identify a transaction as a short sale at the time of trade 
+itself. However, the stock exchanges were of the view that it would not be practically 
+possible to identify a transaction as short on a real time basis at the time of trade and 
+disseminate the same to the market, as it would entail enormous stress on their systems. 
+But information on short sales should be disclosed to the market. However, considering 
+the significance of the data on scrip-wise short position and the need for the availability 
+of the data in the public domain, the Committee, recommended that the brokers shall be 
+mandated to collect the details on scrip-wise short sell positions, collate the  data and 
+upload it to the stock exchanges before the commencement of trading on the following 
+trading  day.  The  stock  exchanges  will  then  consolidate  such  information  and 
+disseminate the same on their websites for the information of the public to begin with 
+only after the close of market hours on the next trading day. Ideally, such information 
+should be disclosed before the commencement of the market hours on the next trading 
+day.  However,  this  will  not  be  immediately  possible  as  the  brokers  will  be  able  to 
+provide this information to the exchanges only by the beginning of the next day. In the 
+course  of  time,  however,  after  gaining  sufficient  experience  and  once  the  system 
+stabilises, this requirement may be reviewed to enable disclosure of such information 
+by the exchanges before the commencement of the market hours on the next trading 
+day.  
+
+Margining of institutional trades 
+
+5.12  On the related issue of margining of institutional trades, the Committee was of the view 
+that the issue of margining the institutional trades should not be treated independently 
+from  the  issue  of  short  selling,  since  permitting  short  selling  without  margining  the 
+institutional  trades  would  amount  to  providing  additional  leverage  to  institutional 
+investors.  It  was  also  discussed  as  to  whether  institutional  trades  could  be  margined 
+only  with  respect  to  those  stocks  in  which  short  selling  is  permitted.  However, this 
+would result in segregation of the market. The Committee was of the view that instead 
+of  a  piece-meal  basis,  there  was  a  need  to  take  a  holistic  view  in  the  matter.  The 
+Committee,  therefore,  recommended  that  transactions  executed  by  all  institutional 
+investors  should  be  margined  similar  to  the  transactions  executed  by  the  retail 
+investors.  In  any  case,  the  institutional  transactions  are  margined  in  the  derivative 
+market and now even in the primary market. The Committee also recommended that the 
+institutional investors should also have the same flexibilities as regards the manner and 
+type of collateral, similar to retail investors, subject to other applicable regulations. 
+
+ 
+Section VI 
+
+ 
+6.1 
+
+Securities Lending Scheme, 1997 
+
+Present  Practice  and  Regulatory  Policy  on  Securities  Lending  and 
+Borrowing in the Indian Securities Market 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+14 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+ 
+
+ 
+
+6.2 
+
+SEBI vide circular dated May 07, 1997 specified the “Securities Lending Scheme of 
+1997  (SLS,  1997)”.  The  Scheme  of  1997  laid  down  the  modalities  for  lending  and 
+borrowing  of  securities  through  an  Approved  Intermediary  (AI).  A  lender,  under  an 
+agreement with the AI can lend his securities to the AI with the guarantee that the AI 
+shall return the equivalent securities of the same class and type. A borrower can also 
+borrow from the AI on the specified terms of the AI and shall also return the equivalent 
+securities  of  the  same  class  and  type.  The  AI  is  the  complete  interface  between  the 
+borrower and the lender.  The salient features of the SLS, 1997 are outlined in the table 
+below.  
+
+Box II : Salient Features of the Securities Lending Scheme, 1997 (refer paragraph 6.1) 
+
+ 
+(cid:216)  The lender enters into an agreement with an approved intermediary (AI) registered with SEBI 
+for  depositing  the  securities  for  the  purpose  of  lending.  The  borrower  shall  enter  into  an 
+agreement with the AI for the purpose of borrowing of securities. The AI liaises between the 
+lender and the borrower. 
+
+ 
+(cid:216)  The AI shall guarantee the return of the equivalent securities of the same type and class to the 
+lender along with the corporate benefits accrued on them during the tenure of the borrowing. In 
+case of failure of the borrower to return the securities, the AI shall be liable for making good 
+the loss caused to the lender. 
+
+ 
+(cid:216)  The AI retains the securities deposited by the lender in his custody as a trustee and shall lend 
+
+the securities deposited by the lender to the borrower from time to time. 
+
+ 
+(cid:216)  The  title  of  the  securities  lent  to  the  borrower  shall  vest  with  the  borrower  and  the  borrower 
+shall be entitled to deal with or dispose of the securities borrowed in any manner whatsoever.  
+
+ 
+(cid:216)  The agreement between the lender and the AI and the borrower and the AI, shall provide for 
+the  period  of  depositing/lending  of  securities,  charges  or  fees  for  depositing/lending  and 
+borrowing, collateral securities for borrowing e.t.c. 
+
+ 
+(cid:216)  The AI shall be entitled to receive fees for lending from the borrower and collateral securities 
+in  the  form  of  cash,  bank  guarantee,  Government  securities,  certificate  of  deposits,  other 
+securities e.t.c. 
+
+ 
+(cid:216) 
+
+In the event of failure to return the securities, the borrower shall become a defaulter and the AI 
+has the right to liquidate the collateral, in order to purchase equivalent securities of the same 
+class from the market, for returning the securities to the lender. The AI shall be entitled to take 
+any action as deemed appropriate against the defaulting borrower to make good his loss, if any.  
+
+ 
+(cid:216)  The  AI  shall  notify  defaults  by  any  borrower  to  the  Board,  the  concerned  stock 
+exchange and the concerned authorities for initiation of appropriate action against the 
+defaulter. 
+
+Based  on  the  features  of  the  scheme,  Ministry  of  Finance,  Department  of  Revenue 
+(Central Board of Direct Taxes (CBDT) vide their circular No. 751 dated February 10, 
+1997 clarified that the transactions of lending of shares or any other securities under the 
+Securities Lending Scheme would not result in “transfer” for the purpose of attracting 
+the provision relating to the capital gains under the Income Tax Act.  
+
+ 
+Secondary Market Advisory Committee of SEBI 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+ 
+
+ 
+15 
+ 
+ 
+
+ 
+
+6.3 
+
+ 
+6.4 
+
+ 
+6.5 
+
+ 
+6.6 
+
+ 
+ 
+6.7 
+
+However, the SLS, 1997  is presently inoperative and  there is no market for securities 
+lending  and  borrowing  in  the  true  sense.  The  erstwhile  Secondary Market Advisory 
+Committee (SMAC)  had  reviewed  the  matter  of  securities  lending  and  borrowing  in 
+2003 and 2004. The SMAC had then noted the observation of the JPC in this regard, 
+especially in relation to deferral products.  
+
+The erstwhile SMAC had  recommended  that  only  clearing  corporations  and  clearing 
+houses should be allowed to lend and borrow securities to meet settlement shortages. 
+Such borrowing would in other words help meet delivery requirement even for naked 
+short sales.  Pursuant  to  the  recommendations of the SMAC in 2003 and 2004, SEBI 
+vide circulars dated March 19, 2004 and March 4, 2005 had provided the operational 
+modalities  for  Clearing  Corporation/House  to  borrow  and  lend  securities  for  the 
+limited  purpose  of  handling  settlement  shortages.  Accordingly,  no  entity  other  than 
+Clearing  Corporation/Clearing  House  has  been 
+registered  as  an  Approved 
+Intermediaries  (AIs)  and  borrow  and  lend  securities  under  the  scheme.  NSCCL,  the 
+clearing  corporation  of  NSE  and  BOISL,  the  clearing  house  of  BSE  have  been 
+registered  as  AIs  for  the  purpose  of  borrowing  and  lending  securities  to  handle 
+settlement  shortages.  NSCCL  and  BOISL  have  tied  up  with  the  depositories  to 
+operationalise the securities lending and borrowing scheme. Individual investors would 
+be  able  to  lend  their  idle  securities.  Pursuant  to  identification  of  securities  shortages 
+after  pay-in,  the  depositories  would  communicate  the  list  of  members  who  have  an 
+intention to lend securities to the clearing corporation/house. Based on the requirement 
+of  securities,  the  clearing  corporation/house  would  match  the  extent  of  settlement 
+shortages  with  the  availability  of  securities,  borrow  the  securities  on  behalf  of  the 
+default members, allot the same to the lenders on a random basis and communicate the 
+same back to the depositories. 
+
+The BSE and NSE are in the process of putting in place the necessary systems and are 
+expected to discontinue the auction mechanism and handle the settlement shortages by 
+borrowing  and  lending  securities.  In  case  the  clearing  corporation/house is unable to 
+borrow,  the  transaction  would  be  closed  out.  This  mechanism  has  not  yet  been 
+implemented by the Clearing Corporation/House of the stock exchanges. 
+
+While recommending the above, the erstwhile SMAC also noted that given the past 
+excesses  of  the  ALBM  and  BLESS,  it  was  not  in  favour  of  any  exchange  traded 
+securities  lending and borrowing  scheme except for meeting settlement shortages. It 
+also noted introduction of a full fledged SLB scheme may be examined based on the 
+experience  derived  from  the  limited  lending  and  borrowing  for  meeting  settlement 
+shortages. The SMAC then was of the view that extreme caution should be exercised in 
+allowing a liberal securities lending scheme. 
+
+Need for further review 
+While the present scheme of lending and borrowing securities in the Indian securities 
+market  by  the  clearing  corporation/house  of  the  stock  exchanges  for  handling 
+settlement shortages addresses the need for lending and borrowing in a limited way, 
+there is no scope for investors to capitalize on the demand for their securities in the 
+market and thus, earn a return  by  lending such securities. Hence,  the  scope of the 
+existing securities lending and borrowing scheme must be widened into a full-fledged 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+16 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+ 
+
+ 
+
+7.1 
+
+ 
+
+ 
+
+lending  and  borrowing  scheme  enabling  participation  of  all  classes  of  investors, 
+including  retail  investors.  Further,  a  full  fledged  securities  lending  and  borrowing 
+scheme  is  a  significant  regulatory  reform  in  any  securities  market  to  facilitate other 
+market reforms like physical settlement in the derivatives markets. Besides lending and 
+borrowing of securities is necessary for covering short positions in the market. Without 
+lending and borrowing, the policy on short sales cannot be implemented and physical 
+settlement  of  stock  derivatives  cannot  also  take  place.  In  the  light  of  the  aforesaid 
+factors,  the  issue  of  reviewing  the  regulatory  policy  on  securities  lending  and 
+borrowing was taken up for deliberation by the  present Committee. The Committee is 
+however of the view that  while introduction of such a scheme was necessary in the 
+present context of the market, a phased and cautious approach would be appropriate in 
+the initial stages.  
+
+Section VII 
+
+International practices in securities lending and borrowing 
+
+In most markets, the  securities lending and borrowing transactions are by and large, 
+over-the-counter  (OTC)  contractual  obligations  executed  between  lenders  and 
+borrowers and securities  market  regulators  do  not  directly  regulate  the  lending and 
+borrowing  transactions. The  schemes  for  securities  lending  and  borrowing  are  by 
+entities like the custodians and depositories who have their own screens for meeting the 
+demand and supply of securities from their clients. For example the State Street, Bank 
+of  New  York,  Depositories  Trust  &  Clearing  Corp.  (DTCC),  CrestCo,  Korean 
+Securities Depository Association (KSDA) run the securities lending and borrowing for 
+their  clients  who  register  with  them  through  the  electronic  trading  screen  which 
+matches the demand and supply for the designated securities. 
+
+Box III :  A comparative study of the global market practices in securities lending 
+
+and borrowing 
+
+ 
+
+(cid:216) 
+
+Internationally, SLB is an OTC market functioning based on bi-lateral contractual agreements 
+between the participants; The transactions are, by and large, privately negotiated transactions 
+which  are  conducted  “over-the-counter”  outside  the  centralized  trading  platform.  Pan Asian 
+Securities  Lender’s  Association  (PASLA)  has  provided  globally  accepted  model  standard 
+agreements for this purpose 
+
+ 
+(cid:216)  Securities market regulators world -wide are not generally seen to be directly involved in 
+
+regulation of securities lending transactions 
+
+ 
+(cid:216)  Periodical  reports  on  the  lending  and  borrowing  transactions  are  submitted  to  entities  like 
+
+central banks, clearing corporations, depositories, revenue authorities etc. 
+
+ 
+(cid:216) 
+
+In  some  emerging  market  jurisdictions  like  Hong  Kong,  Korea,  Singapore  e.t.c.,  the 
+depositories and custodians provide an electronic platform for execution of securities lending 
+and borrowing transactions. 
+
+ 
+
+Section VIII  Deliberations and recommendations of the SMAC on securities lending 
+
+and borrowing 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+
+ 
+ 
+
+ 
+17 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+8.1 
+
+ 
+
+8.2 
+
+ 
+
+8.3 
+
+ 
+8.4 
+
+8.5 
+
+In the light of the foregoing discussions the SMAC was of the view that there was clear 
+need  for  introduction  of  a  full  fledged  lending  and  borrowing  scheme  in  the  Indian 
+securities market beyond what was recommended earlier. Having agreed upon the need 
+for full fledged securities lending and borrowing scheme,  the Committee took note of 
+the  aforesaid  international  practices  in  this  regard  and  deliberated  on  the  various 
+operational modalities that may be feasible for recommending a regulatory framework 
+for the lending and borrowing scheme for the Indian securities market.  
+
+Lending  and  borrowing  of  securities  by  clearing  corporation/house  for  meeting 
+settlement shortages 
+On the issue of Clearing Corporation/House (CC/CH) of the stock exchanges lending 
+and borrowing securities for the limited purpose of handling settlement shortages, the 
+Committee noted that though the CC/CH have been registered with SEBI as AIs for the 
+limited  purpose  of  lending/borrowing  securities  for  meeting  settlement  shortages,  the 
+same  has  not  yet  been  operationalised.  The Committee,  felt that  the  scheme should 
+continue  and emphasized  that  the clearing corporation/house of the stock exchanges 
+should act as AIs for the limited purpose of lending/borrowing securities for meeting 
+settlement  shortages  and  the  stock  exchanges  should  go  immediately implement  the 
+close-out  procedure  for  handling  settlement  shortages  and  dispense  of  the  auction 
+mechanism.      
+
+Need for a full fledged securities lending and borrowing scheme through the AI route 
+The  Committee  was  of  the  view  that  the  lending  and  borrowing  by  the  CC/CH only 
+served  a  limited  purpose  and  a full fledged lending and borrowing scheme that was 
+open for all  market participants was necessary  for the Indian securities market. The 
+Committee  therefore  recommended  that  apart  from  the  lending  and  borrowing  of 
+securities  by  CC/CH  for  settlement  shortages,  a  full  fledged  securities  lending  and 
+borrowing  scheme  should  be  introduced  by  SEBI  along  with  the  Stock exchanges 
+through the Approved Intermediaries (AIs) route .  
+
+The Committee however preferred a cautious approach  while permitting entities to act 
+as  AIs  for  securities  lending  and  borrowing  scheme.  The  Committee,  therefore, 
+recommended that in the first stage, only custodians, Banks and FIs may be registered 
+as  AIs  for  the  purpose  of  lending  and  borrowing  of  securities.  Since  it  has  been 
+proposed  to  permit  short  selling  in  certain  specific  securities,  the  Committee 
+recommended that securities  lending and borrowing may also be, initially, restricted 
+only in those stocks in which derivative products are available. 
+ 
+Execution of lending and borrowing transaction 
+The lending and borrowing transactions are internationally executed pre-dominantly an 
+OTC  market,  or  in  house  by  the  global  custodians  or  depositories.  But  such OTC 
+markets  suffer  from  lack  of  transparency  and  thus  do  not  address  the  need  for 
+centralized dissemination of  information of such  lending  and borrowing transactions. 
+The Committee was, therefore, of the  view that  in  order  that  it would be desirable to 
+allow securities lending and borrowing through  an  automated,  screen-based platform 
+which would electronically match the demand and supply of securities. This would be 
+transparent and enable an audit trail of transactions in the process of securities lending 
+and  borrowing,  besides  giving  the  advantages  of  speedier execution,  and  fair and 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+18 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+ 
+
+8.6 
+
+ 
+
+8.7 
+
+ 
+
+8.8 
+
+ 
+
+automated  discovery  of  prices.  The  Committee,  therefore,  recommended  that  the 
+lending and borrowing transactions may be executed on an  automated, screen-based 
+platform  which  enables real time  matching  of the demand  and  supply. Any trading 
+member/investor who wishes to borrow securities may borrow the securities through 
+the screen.  
+
+Risk management and settlement of lending and borrowing transactions 
+The NSE and BSE have  suggested that they may be given the opportunity to provide 
+this  separate  trading  platform  considering  their  proven  expertise  in  automating  the 
+transactions  in  the  normal  market.  If the  securities  lending and borrowing was to  be 
+done through the  stock exchanges it would be necessary to define their role. The risk 
+management  and  settlement  of  lending  and  borrowing  transactions  was  equally 
+important.  While  agreeing  with  the  proposal  of  the  stock  exchanges,  the  Committee 
+recommended that the settlement of the lending and borrowing transactions executed 
+through the separate platform should be done independent of the settlement of normal 
+market  transactions  and  should  not  be  aggregated  or  mixed  with  the  normal  market 
+settlement. The Committee also recommended that the Stock exchanges shall undertake 
+the  risk  management  of  such  lending/borrowing  transactions.  As  a  part  of  the  risk 
+management,  the  clearing  corporation/house  should  guarantee  the  return  of  the 
+securities by the borrower to the lender by being the central counter party and shall, 
+thus, provide guarantee for counter-party risk.  The Committee further  recommended 
+that the stock exchanges would jointly work out and put in place uniform modalities for 
+securities  lending  and  borrowing  which  will  also  include  the  manner  in  which  the 
+securities  borrowed  will  be  returned  to  the  lender  and  the  manner  in  which  the 
+exchanges will provide the guarantee. 
+
+Standardization of lending & borrowing agreements 
+The Committee noted that international experience shows that securities markets which 
+had  an  active  securities  lending  and  borrowing  scheme,  had  also  framed  their 
+agreements  between  the  various  parties  which  were  similar  or  variants  of  model 
+agreements provided by the Pan Asian Securities Lender’s Association (PASLA). With 
+a  view  to  align  the  model  agreements  in  the  Indian  securities  market  with  the 
+internationally accepted standards,  the  Committee recommended that the  lending and 
+borrowing transactions could be formalized in terms of robust lending and borrowing 
+agreements on the lines of the model agreements provided by  PASLA which obligate 
+the borrowers to return the securities to the AI and agreements between the AI and the 
+lender which enable the AI to allot the lender’ securities to the borrowers at a screen 
+determined price. 
+
+Disclosure of lending and borrowing transactions 
+The Committee felt that adequate disclosure of the lending and borrowing transactions 
+to the market was necessary to  gauge  the  demand  and  supply  of  the  securities  and 
+enable the investors to  make suitable investment decisions.  The Committee, therefore, 
+recommended  that  the  stock  exchanges  shall  disseminate  the  information  on  such 
+lending and borrowing transactions to the general public.  
+
+Tax exemptions for the lending & borrowing transactions 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+19 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+ 
+
+8.9 
+
+ 
+
+8.10 
+
+ 
+
+The Committee noted that in the case of SEBI’s first scheme on securities lending and 
+borrowing  introduced  in  1997, the  transactions executed under the scheme were not 
+treated  as  “transfer  of  securities”  and  were  exempted  from  taxation.  The  Committee 
+recommended that such tax exemptions should be made available for the transactions 
+executed under the revised scheme also. The Committee, therefore, urged SEBI to take 
+up the matter of tax exemption with CBDT. 
+
+Amendments to necessary Regulations 
+The  Committee  also  noted  that  SEBI  may  need  to  amend  the  SEBI  (Custodians) 
+Regulations, 1996 suitably so as to recognise the role of custodians as AIs under the 
+securities  lending  and  borrowing  scheme  and  enable  them  to  lend  and  borrow 
+securities as per the aforesaid regulatory framework. 
+
+********** 
+
+Secondary Market Advisory Committee of SEBI 
+ 
+
+ 
+ 
+
+ 
+20 
+ 
+ 
+
+Discussion Paper on Short Selling and  
+Securities Lending and Borrowing  
+
+

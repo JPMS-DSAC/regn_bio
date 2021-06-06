@@ -1,0 +1,1372 @@
+“Review of SEBI (DIP) Guidelines 2000- Proposals - Series II”
+
+1.  This discussion paper, entitled “review of SEBI (DIP) Guidelines 2000- Proposals
+– Series II”  contains the recommendations made by the Primary Market Advisory
+Committee (PMAC) of SEBI, which was set by SEBI to advise SEBI on matters
+relating the primary market. The recommendations cover the eligibility norms for
+public/rights  issues  of  securities,  both  through  IPOs  and  further  offerings  and
+other incidental matters. This paper does not reflect the views of SEBI, nor has
+SEBI formed an opinion on these recommendations. The paper is being hosted on
+the  website  for  the  purpose  of  eliciting  public  comments.  SEBI  would  take
+cognizance  of  the  public  comments  received,  before  taking  a  final  view  on  the
+issues mentioned in the paper.
+
+2.  Comments  on  the  recommendations  may  be  sent  to  the  Primary  Market
+to  Ms.  Sangeeta  Uchil,  AGM,  at
+at
+
+Department,  SEBI  or 
+Sangeetau@sebi.gov.in 
+neelamb@sebi.gov.in or faxed to 91-22-22045633 on or before April 05, 2003.
+
+emailed 
+or  Ms.  Neelam 
+
+Bhardwaj,  DGM, 
+
+ 
+
+Page 1 of 25
+
+REPORT OF THE GROUP TO REVIEW ELIGIBILITY NORMS FOR PUBLIC
+
+AND RIGHTS ISSUES SET UP BY PRIMARY MARKET ADVISORY
+
+COMMITTEE (PMAC)
+
+BACKGROUND
+
+The PMAC had set up a sub-group to review the present eligibility norms and suggest
+changes,  if  any.  The  sub-group  submitted  the  report  to  PMAC,  which  accepted  the
+recommendations,  with  some  modifications.  The  modified  report  is  reproduced  in  the
+following pages.
+
+Page 2 of 25
+
+PREAMBLE
+
+1.  After abolition of the CCI Act, SEBI issued its first set of DIP Guidelines in June,
+1992 to usher in the era of free pricing in the primary market. Ever since, SEBI has
+endeavored  to  maintain  the  “currency”  of  the  guidelines  to  keep  pace  with  the
+developments  in  the  market,  increasing  sophistication  of  the  issuer  companies  and
+exposure to best international practices.
+
+2.  Initially,  new  companies  were  allowed  to  issue  their  shares  only  at  par  i.e  at  face
+value of Rs 10/- while companies having operational history were allowed to freely
+price  their  shares.    As  a  large  number  of  companies  flooded  the  market  with  poor/
+mediocre  issues,  SEBI  revised  the  Eligibility  Norms  in  1996.  To  ensure  that  only
+companies  with  an  established  track  record,  as  against  just  being  in  incorporated
+existence,  are  allowed  to  charge  a  premium,  SEBI  prescribed  a  3-year  dividend
+payment  track  record  as  a  precondition  to  charge  a  premium.  For  new  companies,
+SEBI mandated that these should have at least 10% equity or debt participation from
+a bank before they could make an IPO. Stringent as these conditions were, SEBI in
+1999, among other things, relaxed the 3- year dividend track record and changed it to
+a 3-year profitability record.
+
+3.  Over a period of time, the concept of “par”  was deemed to be redundant in the era of
+free pricing. As such, SEBI decided to allow all companies to freely price their issues.
+SEBI  also  allowed  companies  which  were  not  satisfying  the  3-year  profitability
+record to make an IPO provided the issue is through a book building process and at
+least 60% of the issue is subscribed to by QIBs.
+
+4.  Thus,  the  definition  of  operational  history,  track  record  of  company  and  other
+parameters  of  Eligibility  Norms  have  undergone  many  changes  over  the  10-year
+history of SEBI.
+
+5.  The extant Eligibility Norms are placed at Annexure 1.
+
+TERMS OF REFERENCE
+6.  The Group was constituted in order to review the Eligibility Norms with a view to
+rationalising the same as also to strengthen them so as to ensure that while raising of
+capital  through  public  issues  is  facilitated  for  good  companies,  the  incidence  of
+undeserving companies to access the market is restricted.
+
+7.  In keeping with the need to constantly upgrade the regulations, the Group has sought
+to  rationalise  and  strengthen  the  existing  Eligibility  Norms  and  introduce  new
+requirements, wherever necessary, so as to ensure:
+i. 
+ii. 
+iii. 
+
+better quality of issuer companies,
+consequent increase in secondary market trading, and
+restrictions on sub-standard issuers through objective criteria.
+
+Page 3 of 25
+
+DELIBERATIONS OF THE GROUP
+
+8.  The Group agreed with the present disclosure-based philosophy of SEBI and was of
+the view that anyone with full and complete disclosure should be allowed to access
+the primary market. The Group, however, deliberated on ways and means to upgrade
+the guidelines so as to ensure quality of issues.
+
+IPOs OF EQUITY
+9.0  The primary concern of SEBI and of the Group was to review the Eligibility Norms
+for companies approaching the market for the first time i.e. initial public offerings
+by unlisted companies. This concern was justified on several counts:
+
+i. 
+
+ii. 
+
+iii. 
+
+Information  about  unlisted  closely  held  companies  (unlike  listed  companies
+which  are  required  to  make  full  and  adequate  disclosures  on  a  continuing
+basis), is rarely available in the public domain. Hence, the prospectus is often
+the  only  document  on  which  the  investor  is  expected  to  take  an  informed
+decision.
+
+SEBI’s policy is disclosure - based and hence it expects the investors to rely
+on their own examination of the issuer/issue and thereafter decide on investing
+in the issue. To this extent, attempts are made to provide complete disclosure
+in the offer document. However, SEBI tries to ensure that lay investors are not
+exposed to unnecessary risks at the hands of ‘fly-by-night’  operators and has
+accordingly  prescribed  Eligibility  Norms  in  order  to  minimise  risks  on  this
+count.
+
+At  the  same  time,  there  is  a  concern  in  some  quarters  that  the  Eligibility
+Norms  for  IPOs  are  not  ‘market-oriented’  and  thus,  along  with  the  general
+economic  downturn  coupled  with  investors  apathy,  have  resulted  in  a
+significant  fall  in  the  number  of  equity  IPOs,  as  can  be  seen  from  the
+following table. Phase I relates to pre-SEBI DIP Guidelines. Phase II covers
+issues made under the initial set of DIP Guidelines. Phase III covers the period
+after  Malegam  Committee  in  1996  came  out  with  very  stringent  eligibility
+norms. In Phase III, except for the year 1999-2000 and 2000-2001 which saw
+some  renewed  activity  courtesy  entirely  the  boom  in  the  IT  sector,  the  IPO
+market was very small. In Phase IV, the IPO market has become almost non-
+existent.
+
+YEAR 
+
+       NO. OF IPOs 
+
+ISSUE AMOUNT
+
+___________________ _______________     ________________
+
+(Rs. Crore)
+
+Phase I
+1989-1990 
+1990-1991 
+
+158 
+109 
+
+504
+632
+
+Page 4 of 25
+
+1991-1992 
+
+Phase II
+1992-1993 
+1993-1994 
+1994-1995 
+1995-1996 
+1996-1997 
+
+Phase III
+1997-1998 
+1998-1999 
+1999-2000 
+2000-2001 
+
+Phase IV
+2001-2002 
+2002-2003
+(April-November)
+
+158 
+
+467 
+693 
+1231 
+1350 
+715 
+
+51 
+18 
+52 
+114 
+
+6 
+
+4
+
+724
+
+3673
+7650
+9919
+5260
+4346
+
+883
+379
+2594
+2474
+
+1082
+
+983
+
+iv. 
+
+Right issues are made to the existing shareholders, who are considered to be
+adequately informed about the company.
+
+9.1  In view of the above, the Group decided to first concentrate on the Eligibility Norms
+
+for unlisted companies, with special emphasis on IPOs of equity.
+
+9.2  The  ICAI  representative  suggested  that  SEBI  should  debar  issues  of  dubious
+promoters.  While  the  other  members  broadly  concurred,  they  pointed  out  to  the
+difficulty  in  drawing  up  a  list  of  criteria/  conditions  that  would  be  objective  and
+comprehensive enough to define dubious promoters. It was informed that this issue
+of  debarring  issuers  with  dubious  credentials  has  already  been  considered  in  the
+Malegam  Committee  which  has  proposed  formation  of  a  panel  for  deciding  as  to
+whether  the  persons/companies  with  dubious  track  record  should  be  allowed  to
+come  out  with  an  issue  and  if  not,  how  should  SEBI  stop  such  issues  without
+inviting criticism regarding selective bias.
+
+9.3 The representative of ICAI also dissented with the Group in respect of the following
+
+aspects of the SEBI (DIP) Guidelines:
+1. Requirement of due diligence to be done by merchant bankers
+2. Debarring of issues
+3. Free pricing guidelines of SEBI
+
+9.4  The  dissent  note  in  this  regard  is  placed  at  Annexure  2.  The  views  of  the  other
+
+members of the Group on these issues are also given therein.
+
+Page 5 of 25
+
+REVIEW OF THE PRESENT ELIGIBILITY NORMS
+
+9.5 The present Eligibility Norms for an IPO of equity are summarized below:
+
+?  A company meeting the track record/profitability criteria can come with an issue
+through fixed price or book built route provided that the size of the issue is not
+more than 5 times of its pre issue net worth
+
+?  However, a company which is not fulfilling the track record-profitability criteria
+or where the issue size is more than 5 times its pre-issue networth can make an
+issue provided the same is through book building route with 60% of the issue to
+be mandatorily subscribed by QIBs.
+
+9.6  The Group deliberated on the following aspects of the existing eligibility norms and
+
+concurred that there is a:
+
+1.  need to strengthen the existing norms by stipulating higher net worth/ re-defining
+
+net worth.
+
+2.  need  to  identify  other  eligibility  parameters  viz  post  issue  capital,  minimum
+
+public float, market capitalization, net tangible assets etc
+
+3.  need to provide for alternate mechanisms to enable IPOs of companies which do
+
+not fulfill the profitability track record criteria.
+
+9.7  While doing this, the Group examined the eligibility norms existing in various other
+countries  like  Australia,  USA  and  Hong  Kong.  The  underlying  principle  in  the
+discussion  was  that  while  there  was  a  need  to  encourage  more  companies  to
+approach the primary market by providing a wider platform of entry points, there
+was simultaneously a need to ensure that the Eligibility Norms also act as deterrents
+to fraudulent companies.
+
+9.8  The  Group  deliberated  extensively  on  the  validity  of  the  existing  criteria  of
+
+profitability track record. It observed that
+a)  profitability as an eligibility criterion induces fraudulent companies to resort to
+“creative accounting”  in order to show “profits”  while  many  do  not  show  the
+impact of the notes to accounts on their profitability.
+
+b)  there is no way of guaranteeing profitability post listing. In fact share prices of
+most  of  the  companies  with  a  pre-issue  profitable  track  record  have  fallen
+significantly below their offer prices.
+
+c)  as the regulation can not provide a relationship between amount of profit earned
+and  the  premium  charged  on  the  issue  price,  there  have  been  instances  of
+companies charging very high premium during buoyant times, despite miniscule
+profits and as such the profitability track record loses significance.
+
+d)  Investment  in  equity  is  done  substantially  on  future  expectations  and  a
+company’s past record and future potential is ideally captured in its issue price.
+e)  A profitability track record conversely brings in complacency in the investor as
+
+he automatically believes that the issue is above a threshold.
+
+Page 6 of 25
+
+f) 
+
+there exists a large population of companies, many funded by venture capital,
+who are either currently in losses or have not had 3 years of profitability but are
+good prospects.
+
+g)  the  Eligibility  Norms  of  several  other  countries  rarely  prescribe  profits  as  a
+
+criteria, and the greater emphasis is on liquidity.
+
+h)  a loss-making company can become profitable with fresh infusion of funds and
+therefore should not be denied the opportunity of raising money to turn around.
+
+9.9    As  a  major  departure  from  the  past,  the  Group  decided  to  replace  the  existing
+
+profitability criteria with other parameters, which are described below.
+
+9.10  As  a  major  alternative,  the  Group  suggested  the  criteria  of  Net  Tangible  Assets
+(NTA). It was agreed that tangible existence of a company, for a reasonable period,
+is  a  good  eligibility  norm,  as  it  would  also  eliminate  fly  by  night  operators.  The
+Group  also  deliberated  at  length  on  the  current  net  worth  requirement  and  also
+whether the same can be replaced/augmented by “net tangible assets”  (NTA). This
+criterion came into focus while reviewing the eligibility norms in other countries.
+The Group was of the view that SEBI should consider this as an additional criterion
+for eligibility, particularly in view of the fact that while net worth ensures a base
+size  of  operations  for  the  company,  the  NTA  criteria  shall  further  ensure  the
+physical  existence  of  the  company  over  a  longer  term  and  also  ensure  that  the
+company is engaged in a genuine business activity.
+
+9.11  Regarding  definition  of  NTA,  it  was  noted  that  the  Indian  Accounting  Standards
+define  “intangible  assets”  and  it  was,  therefore,  agreed  that  all  assets  except
+intangible assets may be considered for this purpose.
+
+9.12  While  debating  this  issue,  some  of  the  members  were  concerned  that  a  company
+may have excess cash in its books and the same would be deemed as an “asset”  for
+the purposes of calculating NTA. Hence, it was suggested that not more than 50%
+of a company’s NTA may be held in monetary assets, provided that if more than
+50%  is  held  in  monetary  assets,  the  company  should  have  firm  commitments  to
+deploy such excess monetary assets in its business/project.
+
+9.13  The  Group  also  discussed  the  dilemma  of  those  companies  in  the  small-medium
+enterprise category that do not fulfil  the  track  record  criteria  and  also  because  of
+their issues being of smaller size are unable to attract QIBs whose primary concern
+is a large float. The Group discussed as to whether an alternative can be provided to
+mandatory  book  building  for  companies  without  a  track  record.  The  following
+criteria were considered:
+
+i. 
+
+Minimum operating history of company for a suitable period to ensure that
+the company does not turn out to be a ‘fly- by- night’  operator.
+ii. 
+Minimum post issue capital so as to ensure a minimum size of operations.
+iii.  Minimum public float so as to ensure adequate liquidity in the scrip, post
+
+listing.
+
+Page 7 of 25
+
+iv. 
+
+Any  other  criteria/deterrent  so  as  to  prevent  potential  “vanishing
+companies”  as also dubious companies which change their names.
+
+RECOMMENDATIONS OF THE GROUP
+
+9.14 After deliberations and also analysis of the past data, including market capitalization
+of  issuer  companies  and  number  of  applicants  in  the  issues  (Annexure  3)  and
+keeping  in  mind  the  underlying  principle,  the  Group  recommends  the  following
+main Eligibility Norms for IPOs:
+
+(A) ELIGIBILITY NORMS FOR INITIAL PUBLIC OFFERING OF EQUITY
+
+9.15.1  A company can make an IPO, subject to the following:
+
+(a) As on date of filing of the draft offer document with SEBI, the company
+shall  have  Net  Tangible  Assets  of  at  least  Rs.  3  crore  in  each  of  the
+preceding 2 full years (of 12 months each), of which not more than 50% is
+held  in  monetary  assets,  (provided  that  if  more  than  50%  are  held  in
+monetary assets, the company should have firm commitments to deploy
+such excess monetary assets in its business/project.). (To ensure verifiable
+existence of the company).
+
+AND
+
+(b) The company shall have a Net Worth of at least Rs. 1 crore in each of the
+preceding 2 full years (of 12 months each) (To ensure a minimum worth of
+the company)
+
+AND
+
+(c) In case the issuer company has changed its name within the last one year,
+atleast  50%  of  the  revenue  for  the  preceding  1  full  year  shall  be
+accounted for by the activity suggested by the new name. (To ensure that
+the  company  does  not  change  its  name  with  the  sole  purpose  of  its  new
+name  reflecting  the  latest  “sunrise  sector”  without  actually  having  any
+operations in that area)
+
+AND
+
+(d)  The  issue  size  shall  not  exceed  5  times  the  pre-  issue  net  worth  of  the
+company.  (To  prevent  the  company  from  raising  unmanageably  large
+amounts)
+
+Page 8 of 25
+
+9.15.2    In case ANY of the criteria (a, b, c & d) specified at 12.14.1 above is not met,
+
+the  company can make an IPO, subject to the following:
+
+(I)(a)The issue shall be made only through the book-building process, with at
+least 40% of the issue size allotted to the Qualified Institutional Buyers
+(QIBs),  failing  which  the  full  subscription  monies  shall  be  refunded.
+(Participation of QIBs lends credibility to the issue.) (60% brought down to
+40% in view of the present reluctance of the thinly-numbered QIBs to invest
+in IPOs as also to encourage greater retail participation).
+
+Or
+
+(b) The “project” should have at least 15% participation by  FIs/scheduled
+commercial  banks,  of  which  at 
+least  10%  should  come  from  the
+appraiser(s). (Participation by FIs/ banks lends credibility to the issue)
+
+AND
+
+(II)(a)The minimum post-issue face value capital of the company shall be Rs.
+10 crore (To ensure that for these types of companies, there is a reasonable
+size of listed capital to ensure liquidity.)
+
+Or
+
+(b) There shall be a compulsory market-making for at least 2 years from
+the date of listing of the shares. (To ensure continuous liquidity.)
+
+9.15.3   In addition to the criteria specified at (1) & (2) above, the company shall also
+satisfy  the  criteria  of  having  at  least  1000  allottees  in  its  issue  (to  ensure
+public character and wider holding).
+
+[For the above,
+
+A.  NTA shall mean and include all assets of a company other than intangible assets,
+not eligible to be recognized as assets, as defined in terms of Accounting Standard
+on Intangible Assets (AS-26) provided that for this purpose Net Tangible Assets
+would exclude Monetary Assets as defined by AS26.
+
+B.  Net Worth shall mean … …..
+
+(See Annexure 4 for views of ICAI on calculation of Net Tangible Assets and Net
+Worth)]
+
+Page 9 of 25
+
+(B) ELIGIBILITY NORMS FOR ISSUES OF EQUITY SHARES OTHER THAN
+
+IPOS
+
+10.1  The Group also deliberated upon the Eligibility Norms for equity issues other than
+
+IPOs.
+
+10.2   The Group recommends the following:
+
+1.  There  shall  not  be  any  entry  restrictions  on  any  further  issue,  whether
+public  or  rights,  by  an  already  listed  company,  except  in  the  following
+circumstances:
+
+a.  In  case  the  issue  size  in  a  further  public  issue  is  more  than  5  times  the
+pre-issue net worth, the issuer company shall be required to comply with
+the eligibility criteria specified at A (1) or (2) above.
+
+b.  In case there is a change in the name of the issuer company within the last
+1 year (reckoned from the date of filing of the offer document) and the
+revenue accounted for by the activity suggested by the new name is less
+than  50%  of  its  total  revenue  in  the  preceding  1  full-year  period,  the
+issuer company shall be required to comply with the criteria specified at
+(A) (2) above.
+
+10.3  The  aforesaid  Eligibility  Norms  shall  also  apply  to  Offers  for  Sale  made  by
+
+unlisted companies, to the extent applicable.
+
+(C) ELIGIBILITY NORMS FOR ISSUES OF INSTRUMENTS OTHER THAN
+
+EQUITY SHARES
+
+11.1  The  Group  noted  that  the  existing  Eligibility  Norms  are  applicable  uniformly  to
+issuance  of  equity  shares,  instruments  convertible  into  equity  at  a  later  date,  and
+non-convertible instruments.
+
+11.2 The Group recommends that its recommendations pertaining to equity shares
+
+should apply mutatis mutandis to all convertible instruments.
+
+11.3 In  the  case  of  issuance  of  debt  instruments,  the  Group  recommends  that  the
+following  norms  should  also  be  stipulated.  These  are  in  addition  to  the
+provisions already present in the Guidelines:
+
+1.  The  issue  of  debt  instrument  should  receive  at  least  an  “investment
+
+grade” rating.
+
+2.  The company should have 2 credit ratings, irrespective of the issue size.
+
+Page 10 of 25
+
+3.  The company should not be in the list of willful defaulter of RBI, as on
+
+date of filing draft offer document with SEBI.
+
+4.  The company should not be in default of any public debentures in terms
+
+of either interest or principal.
+
+5.  The debentures should be fully secured.
+
+11.4 In terms of number of allottees, the Group recommends 50 allottees (as against
+
+1000 in case of equity issues).
+
+11.5 The Group discussed Clause 8.2.1(b) of the Guideline and was of the opinion that
+promoters’  contribution  of  20%  of  the  project  cost  to  be  brought  in  the  form  of
+equity is a very onerous requirement and perhaps explains why no issue has come
+under  these  guidelines.    The  Group  argued  that  this  requirement  is  advisable  in
+IPOs of equity in order to ensure a minimum level of promoters’  commitment in the
+company for a continuing period, since investment in equity IPOs is made primarily
+on the basis of the promoters’  strength  and  on  his  contribution  to  the  company’s
+future performance. It was pointed out that the promoter can exit the company only
+in case an acquirer buys out his stake in terms of the provisions of SEBI Takeover
+Regulations. In contrast, investment in debt is seldom based on the promoters’  track
+record. It is based on the ratings of the debentures, security creation etc. and hence
+promoters’  contribution is not relevant in debenture issues.
+
+11.6 The  Group,  therefore,  recommends  that  the  requirement  of  20%  promoters’
+
+contribution in the case of debt issues be deleted.
+
+11.7 However, the Group conceded that in the absence of promoters’  stake and its lock-
+in, the rights of the debenture holders in case the promoter was to sell his equity
+stake  in  the  company  could  be  adversely  affected.  The  Group    feels  that  in  such
+cases, the debenture trustees should be required to play a proactive role. The Group
+suggests  that  promoters  be  asked  to  subscribe  to  at  least  25%  of  the  debentures
+issued  through  the  offer  document  locked-in  for  1  year  or  till  the  sale  of  the
+company, whichever is later, with a view to ensure promoters commitment in the
+same instrument. The Group also recommends that this issue may be referred to
+the Takeover Department for further deliberations.
+
+11.8  Regarding  Clause  8.2.1(c)  i.e  continuous  disclosures  in  terms  of  listing
+agreement,  the  Group  recommends  that  the  continuing  disclosures  may  be
+filed with EDIFAR.
+
+11.9 The Group recommends that Clause 8.2.1(d)  i.e prior consent of NCD holders
+for change in shareholding pattern, capital structure etc may be deleted as this
+would be contrary to the Companies Act provisions.
+
+11.10The Group recommends deleting Clause 8.2.1(e) i.e no partly paid up shares
+and no outstanding convertibles for an IPO subject to certain safeguards, as
+discussed below under the head : “ Chapter II of the DIP guidelines”.
+
+Page 11 of 25
+
+OTHER RELATED ISSUES
+
+12. The Group deliberated on the following other related issues:
+
+Chapter II of DIP Guidelines
+
+13.1 As on date, rights issues not exceeding Rs.50 lacs are exempted from the provisions
+
+of SEBI (DIP) Guidelines.
+
+13.2 The Group felt that while SEBI may not need to give observations on rights issues
+of  up  to  Rs.  50  lacs  of  an  already  listed  company,  it  is  desirable  that  even  such
+companies prepare the letter of offer in accordance with the disclosure requirements
+prescribed  in  the  SEBI  (DIP)  Guidelines,  2000  and  file  the  same  with  SEBI  for
+information.
+
+13.3 The Group also considered whether the existing limit may be increased from Rs. 50
+lacs to Rs 2 crores.  However, the Group recommends retaining Rs 50 lacs limit.
+
+13.4 Group also recommends that even in respect of rights issues of upto Rs.50 lacs ,
+the offer document must be prepared in compliance with SEBI DIP Guidelines
+and filed with SEBI for information  purpose only and put on SEBI Website
+(Clause 2.1.2)
+
+13.5 Group recommends that Clause 2.1.4 should specify that the company should
+have  made  an  application  for  listing  and  also  obtained  in-principle  listing
+approval from the stock exchanges, which is to be submitted to SEBI within 15
+days  of  submission  of  draft  offer  document  to  SEBI.  (This  requirement  is
+presently in Clause 5.6.2. It was felt that this should appear in the chapter on
+eligibility norms)
+
+13.6  The Group recommends that in Clause 2.1.5, “a” may be replaced by “all” as
+
+the company is required to enter into agreements with all depositories.
+
+13.7 The Group was of the view that the current definition of “QIBs” may be expanded as
+the  actual  participation  comes  only  from  very  few  of  the  entities  included  therein
+presently.
+
+13.8 The Group recommends that the following may be added to the list of QIBs:
+
+i.  Pension funds, provident funds, superannuation funds and gratuity funds.
+
+(With minimum corpus under management of Rs. 25 crores)
+
+ii.  Port trusts (With minimum corpus under management of Rs. 25 crores)
+iii. Portfolio  managers  registered  with  SEBI  (With  minimum  corpus  under
+
+management of Rs. 25 crores)
+
+iv. Insurance companies registered with IRDA
+
+Page 12 of 25
+
+13.9 Regarding Explanation 1(ii) to  Clause 2.2.2 regarding restating of accounts of
+erstwhile  partnership  firm,  the  Group  recommends  that  this  should  be
+applicable  to    entities  arising  out  of  reorganisation  of  any  type  of  entity
+whether sole proprietorship, partnership firm or a combination of companies.
+
+13.10  Regarding clause 2.4.1 (iii) dealing with appraisal of infrastructure issues by PFIs,
+the Group  noted that the appraisal is allowed to be done by only 4 organisations, of
+which  ICICI  Ltd.  is  now  a  bank  and  hence  no  longer  eligible.  The  Group
+recommends  that  banks  be  also  allowed  to  carry  out  appraisal  and  participation.
+However, in order to restrict this to only such banks which have the expertise of
+appraisal,  the  Group  recommends  that  only  such  banks  as  fall  in  the  list  of
+scheduled  commercial  banks  as  defined  by  RBI  be  allowed  to  appraise  and
+participate in such projects.
+
+13.11 Regarding Clause 2.6 and 2.7 (IPO not allowed pending outstanding warrants and
+partly paid shares), the Group feels that some of the companies, especially those in
+the software or  infotech sector frequently enter into agreements with other entities
+wherein  they  allot  convertible  instruments  to  these  entities.  The  instruments  are
+converted  at  a  future  date,  depending  upon  the  performance  of  the  company  or
+achievement of pre-agreed/predefined milestones e.g. placement of orders of certain
+value or achievement of certain turnover etc. Such agreements are very common in
+these sectors and it becomes difficult for such companies to undo these allotments
+prior to their IPO. Hence, the Group recommends that this restriction (IPO not
+allowed  pending  outstanding  warrants  and  partly  paid  shares)  should  be
+removed,  with  necessary  safeguards,  to  ensure  that  genuine  commercial
+transaction are not required to be unwound on account of IPO. The safeguards
+like existence of a formal agreement delineating this requirement, instruments are
+held by persons other than promoters, may be stipulated.
+
+Chapter X of DIP Guidelines
+
+14.1 
+
+ Modify/delete Clause 10.2.1 in view of the recent changes in the Companies
+Act,  which  require  appointment  of  trustees  for  all  issues  of  debentures.
+(Section 117B of the Companies Act)
+
+14.2  Modify Clause 10.2.5 to prescribe a suitable asset cover for the debentures to
+ensure  100%  security  for  the  debentures.  Also,  the  clause  should  state
+“issuer’s bankers” and not “their bankers”.
+
+14.3  Delete/ modify Clause 10.3 regarding DRR as the same has been adequately
+
+prescribed under Section 117 of the Companies act, 1956.
+
+14.4  Modify  Clause  10.2.6  (a)  and  (b)  to  cast  an  obligation  on  the  trustees  to
+collect  the  report  from  the  lead  bank/agency,  as  lead  bank/agency  is
+presently not answerable to the trustees.
+
+Page 13 of 25
+
+14.5  Delete Clause 10.2.6 (d) (talks about prohibition for making debenture issues
+
+for investing in group companies etc).
+
+14.6 
+
+In  Clause  10.2.4(a)  replace  “new”  by  “all”.  Dividend  distribution  by  all
+companies should require approval of a debenture trustee. SEBI should also
+examine whether this clause can be replaced with a direction that a company
+cannot declare any dividend in case of “default” in payment of interest and
+redemption proceeds. (“Default” can be suitably defined e.g. any outstanding
+for more than 6 months.)
+
+14.7  Delete Clause 10.2.4 (c).
+
+14.8  Delete Clause 10.6.3 as it is redundant as requirements regarding creation of
+security, period available for creating the security and assorted requirements
+are  provided  in  the  Companies  Act.  Moreover,  the  company  cannot  utilize
+the monies out of the issue in case of non creation of security.
+
+14.9  State explicitly in the Guidelines that unsecured debentures cannot be issued.
+
+14.10  Restate  Clause  10.7  as  per  the  suggestion  made  by  the  Debentures  Trustee
+
+Committee.
+
+15. 
+
+The Group also recommends that the words “at the time of filing draft offer
+document with the Board” in clause 4.14.2 (ii), be replaced by “at the time of
+opening of the issue”.
+
+? ?
+
+In  addition  to  the  recommendations  made  in  the  report,  the  Primary  market  advisory
+Committee recommended that :
+
+16.1 The QIB requirement may be diluted to 40% across all book building issues,
+not  only  in  case  of  mandatory  book  building.  The  existing  SEBI  guidelines
+require  mandatory  participation  from  QIBs  to  the  extent  of  60%  in  case  of
+companies not fulfilling the eligibility criteria.
+
+16.2 Even in case of companies which fulfill the eligibility criteria and wish to make the
+issue  through  book  building  mechanism,  the  companies  are  required  to  allocate
+25% to retail investors and 15% to non-institutional investors, thereby leaving 60%
+available  for  allocation  to  QIBs.  The  committee  felt  that  this  should  be  brought
+down to 40% on account of the following :
+
+a.  A  larger  part  of  the  issue  would  then  be  available  to  retail  and  non-
+
+institutional investors, and
+
+b.  40% participation by QIBs would be sufficient indication of their interest in
+
+the issue and also for price discovery.
+
+Page 14 of 25
+
+17.1  SEBI may consider allowing the existence of “partly paid shares”-called and
+
+unpaid but not uncalled.
+
+17.2  SEBI  guidelines  state  that  “No  company  shall  make  a  public  or  rights  issue  of
+equity share or any security convertible at later date into equity share, unless all the
+existing  partly  paid-up  shares  have    been    fully  paid  or  forfeited  in  a  manner
+specified in clause 8.6.2.”
+
+17.3  The committee felt that the company may be allowed to come out with a further
+issue  with  outstanding  partly  paid  shares,  where  it  has  issued  the  call  notice
+but  the  shareholders  have  not  paid.  In  such  cases,  the  company  should  not  be
+restrained  on  account  of  non-action  on  the  part  of  the  shareholders.  Moreover,
+forfeiture of such shares may take time. Hence, the company may  proceed with its
+issue related plans, pending final action on unpaid calls.
+
+Page 15 of 25
+
+EXISTING ELIGIBILITY NORMS
+
+ANNEXURE 1
+
+IPO of equity
+
+2.2.1 An unlisted company shall make a public issue of any equity shares or any security
+         convertible into equity shares at a later date subject to the following: -
+
+ i.  It has a pre-issue networth of not less than Rs.1 crore in three (3) out of preceding five
+(5) years,
+     with a minimum networth to be met during immediately preceding two (2) years; and
+ ii. It has a track record of distributable profits in terms of section 205 of the Companies
+Act, 1956,
+     For at least three (3) out of immediately preceding five (5) years.
+
+Provided  that  the  issue  size  (i.e.  offer  through  offer  document  +  firm  allotment  +
+promoters’  contribution through the offer document) does not  exceed five (5) times its
+pre-issue networth as per the last available audited accounts, either at the time of filing
+draft offer document with the Board or
+at the time of opening of the issue.
+
+2.2.2  An unlisted company can make a public issue of equity shares or any  security
+convertible  into  equity  shares  at  a  later  date,  only  through  the  book-building
+process if ,
+
+i. it does not comply with the conditions specified in clause 2.2.1 above, or,
+ii.its proposed issue size exceeds five times its pre-issue networth as per the last available
+audited accounts either at the time of filing draft offer document with the Board or at the
+time of opening of the issue
+
+Provided that sixty percent (60%) of the issue size shall be allotted to the Qualified
+Institutional Buyers (QIBs), failing which the full subscription monies shall be refunded.
+
+Offer for sale
+2.2.3.1 A company, whose equity shares or any security convertible at later date into
+equity shares are offered through an offer for sale, shall comply with the provisions of
+Clause 2.2.
+
+Issue by listed company
+2.3.1 A listed company shall be eligible to make a public issue of equity shares or any
+security convertible at later date into equity share.
+
+Provided  that  the  issue  size  (i.e.  offer  through  offer  document  +  firm  allotment  +
+promoters’  contribution through the offer document) does not exceed five (5)   times its
+
+Page 16 of 25
+
+pre-issue networth as per the last available audited accounts either at the  time of filing
+draft offer document with  the Board or at the time of opening of the  issue.
+
+2.3.2 A listed company which does not fulfil the condition given in the proviso to clause
+2.3.1  above,  shall  be  eligible  to  make  a  public  issue  only  through  the  book  building
+process.
+
+Provided  that  sixty  percent  (60%)  of  the  issue  size  shall  be  allotted  to  the  Qualified
+Institutional buyers (QIBs), failing which the full subscription monies shall be refunded.
+
+IPO of debt
+In addition to fulfilling the requirements as at clause 2.2 (as applicable) the company
+shall comply with the following:
+
+[8.2 Public issue and listing of non-convertible debt securities (hereinafter referred to as
+NCDS)  and  Debt  Securities  convertible  into  equity  after  allotment  (hereinafter
+referred to as  DSCE).
+
+8.2.1  An  unlisted  company  making  a  public  issue  of  NCDS  may,  subject  to  other
+applicable  provisions  of  these  guidelines,  make  a  public  issue  and  make  an
+application for listing its  NCDS in the Stock Exchange/s without making a prior
+public issue of equity and listing thereof, if the following conditions are fulfilled:
+
+a)  The NCDS shall carry a credit rating not below investment grade at-least from one
+Credit Rating Agency registered with the Board.  Where the issue size of the NCDS is
+Rs. 100 crores or more, such rating shall be obtained from at least two Credit Rating
+Agencies.
+
+b)  The promoter's contribution of atleast 20% of the project cost i.e. objects proposed to
+be inter alia financed through the issue shall be brought in the form of equity.  Where
+the promoters contribution exceeds Rs. 100 crores, the promoters shall bring in Rs.
+100  crores  before  the  opening  of  the  public  issue  and  the  remaining  promoters'
+contribution shall be brought in on pro rata basis, before calls on the NCDS are made.
+The  promoters'  contribution  of  20%  of  equity  shall  be  locked  in  for  a  period  of  3
+years from the date of allotment in the public issue of NCDS.
+
+c)  The  issuer  company  shall  agree  to  comply  with  the  requirements  of  continuing
+disclosures as specified under the listing agreement to be entered into with concerned
+stock exchanges as is applicable for listing of equity shares.
+
+d)  The issuer company shall agree to obtain prior consent of the holders of the NCDS
+through special resolution to be passed at the general meeting of the NCDS holders
+for change in terms of issue, change in capital structure and change in shareholding
+pattern.
+
+e)  There shall be no partly paid up shares/other securities at the time of filing of draft
+
+offer document with the Board.
+
+f)  The issuer company may come out with a public issue of equity/security convertible
+into equity after allotment during the currency of the NCDS or thereafter, only after
+
+Page 17 of 25
+
+complying  with  the  guidelines  applicable  for  an  initial  public  offering  of  such
+securities.
+
+g)  The equity held by the promoters or others at the time of issue of NCDS may be listed
+only  when  an  initial  public  offer  of  equity/securities  convertible  into  equity  after
+allotment is made after complying with the applicable provisions of these Guidelines.
+
+8.2.2  A  Municipal  Corporation  which  has  no  share  capital  may  be  subject  to  the
+provisions of sub-clauses (a), (b) and (c) of Clause 8.2.1, make a public issue of
+NCDS and list the same on the stock exchange/s.
+
+8.2.3    An  unlisted  company  making  a  public  issue  of  DSCE  may,  subject  to  other
+applicable  provisions  of  these  guidelines  make  a  public  issue  and  make  an
+application for listing on the stock exchanges without making a prior public issue
+of its equity and listing thereof, if the following conditions are fulfilled:
+
+a)  The  provisions  of  clauses  (a)  to  (e)  of  clause  8.2.1  shall  be  mutatis  mutandis
+
+complied with.
+
+b)  An issuer company making an initial public offer of DSCE may come out with a
+subsequent public issue of equity/security convertible into equity after allotment
+during  the  currency  of  the  DSCE  only  after  complying  with  the  guidelines
+applicable for an initial public offering of such securities.
+
+Provided  that  the  provisions  of  Clause  2.6  shall  not  be  applicable  for  an  Initial
+Public  Offer  of  such  securities  if  the  floor  price  for  conversion  of  DSCE  is
+determined and disclosed in the offer document for issue of DSCE.
+
+c)  The equity held by the promoters and others may be listed along with the listing
+of equity in initial public offering of equity/security convertible into equity after
+allotment or at the time of listing if equity arising on conversion of the  DSCE .
+
+d)  If the  equity shares held by the promoters  is proposed to be listed on conversion
+of  DSCE,  it  shall  be  ensured  that    the  number  of  equity  shares  allotted  to  the
+public (after  excluding the allotment of equity shares to holders of DSCE issued
+on  firm  allotment/reservation  basis)  as  a  percentage  of  the  total  paid  up  equity
+capital  after  conversion  and  listing  of  the  promoters  equity,  is  not  less  than  the
+percentage  specified  in  clause  (b)  of  sub-rule  (2)  of  Rule  19  of  Securities
+Contracts (Regulations) Rules, 1957.
+
+8.2.5 The lead merchant banker can mention a price band of 20% (cap in the coupon rate/
+price  band  should  not  be  more  than  20%  of  the  floor  coupon  rate/price)  in  the
+offer  document  filed  with  the  Board  and  the  specific  coupon  rate/price  can  be
+determined  by  an  issuer  in  consultation  with  the  lead  manager  at  a  later  date
+before filing of the offer document with the RoC/s.
+
+Page 18 of 25
+
+DISSENT NOTE OF ICAI
+
+ANNEXURE 2
+
+1.     FILING OF OFFER DOCUMENT
+
+A.  The present system of filing of offer document only through an eligible Merchant
+Banker  has  not  served  appropriately.  Even  Securities  and  Exchange  Commission
+USA  is  examining  very  actively  that  various  functions  combined  in  Merchant
+Bankers creates a conflict of interest. The Merchant Banker or lead manager or co-
+lead manager and advisors to the issue involved in the marketing of a public issue on
+behalf of the promoters should not be undertaking –
+
+(a)  research
+(b)  due diligence
+(c) 
+
+filing or sponsoring a public issue.
+
+The company should be free to opt for any Merchant Banker or Investment Banker to
+market the public issue which should not be involved with the due diligence or other
+fiduciary relationship with the company in any manner.
+
+B.  The  responsibility  to  undertake  detailed  disclosures  after  detailed  examination  of
+books  of  accounts,  visit  to  establishments,  proposed  site,  examination  of  records,
+documents  and  other  supporting  papers,  information  and  explanation  and  due
+diligence  can  be  undertaken  by  a  merchant  banker  or  a  law  firm  or  a  firm  of
+Chartered Accountants.
+
+C.  The  Securities  and  Exchange  Board  of  India  may  obtain  a  panel  of  Chartered
+Accountant  firms  from  ICAI  as  per  norms  as  may  be  decided  by  SEBI  in
+consultation with ICAI for appointment of Independent firm of Auditors.
+
+D.  The Independent firm of Auditors should not only vary and certify financial figures
+as required now but can also undertake verification / certification of full contents of
+the prospectus / offer document.
+
+E.  The  due  diligence  and  certification  that  all  norms  laid  down  by  SEBI  has  been
+complied  with  should  be  issued  by  the  Merchant  Banker  or  a  Law  firm  or  a
+Chartered Accountant firm.
+
+F.  The  aforesaid  due  diligence  agency  may  be  appointed  by  SEBI  out  of  an
+
+independent panel or selected by the company out of 3 names short-listed by SEBI.
+
+2.  COMPANIES BARRED NOT TO ISSUE SECURITY
+
+A.  This paragraph may contain a proviso as follows :
+
+Page 19 of 25
+
+Provided further that the SEBI Board or a panel appointed by them may, lay down
+such  parameters  as  would  disentitle  the  Companies  from  accessing  the  Capital
+Market in the interest of investors in general or public interest.
+
+Provided  further  that  the  panel  so  appointed  would,  as  assisted  by  SEBI
+Secretariat  or  professionals  retained  on  outsource  basis  for  this  purpose,  may
+review  the  prospectus  filed  by  the  companies  for  accessing  capital  market  and
+may disapprove companies which do not meet the SEBI norms or parameters as
+laid down or such other reasons, as may be recorded in writing, based on which
+the companies are debarred from accessing the capital market.
+
+The order of the panel would be appealable to the Board or to Securities Appellate
+Tribunal.
+
+B.  A list of circumstances or parameters as per which the companies be barred from
+
+accessing capital market  is given below :
+
+SEBI Guidelines to prohibit undesirable promoters and companies, can include:
+
+i)  Company or promoter or Directors or management found / responsible for :
+
+a)  Criminal prosecution with imprisonment above  … …..  years  /  months  or
+fine above Rs. … … ….  Lakhs any time during last 5 years by a court and
+is confirmed at second appellate level;
+
+b)   Categorised as willful defaulter or responsible for siphoning of funds, or
+
+diversion of funds,  by their banks or RBI ;
+
+c)  Defaulted in any of the Company  in :
+
+(i)  repayment of debentures for more than 1 year ;
+(ii) repayment of Fixed deposit
+(iii) payment of dividend duly declared & passed
+(iv) redemption of preference shares ;
+(v) SSI dues for more than 1 year ;
+(vi) Loans payable to any bank, Financial Institution or NBFC or any
+
+multilateral or bilateral funding agencies
+
+d)  is director / has been director or promoter or in management control of any
+such  companies  or  companies  who  are  under  compulsory  winding  up  /
+settled dues with secured and / or unsecured creditors
+
+e)  failed  to  file  for  more  than  3  years  returns  under  Income  Tax  Act,
+
+Companies Act
+
+f)  responsible for insider trading, manipulation of market.
+
+Page 20 of 25
+
+3.  Para 2.1.4 Application for listing.
+
+SEBI should prescribe broad parameters and scope of Stock Exchanges monitoring.
+This should also provide that the post issue size of the issue or market cap or other
+conditions  should  be  prescribed  in  a  manner  that  SSI  Companies  and  SMEs
+Companies  are  able  to  access  the  capital  market  subject  to  SEBI  guidelines  and
+parameters.
+
+4.  GUIDELINES FOR ISSUING SHARES AT PREMIUM
+
+The  norms  identified  in  the  meeting  held  on  24th  September  2002  may  be  adopted
+with following provisions:
+
+(ii) 
+
+In  case  of  shares  to  be  issued  at  a  premium  the  following  additional
+conditions are to be met :
+
+a. 
+
+b. 
+
+Shares at premium can be issued only by profit making companies for
+at least 2 years out of at least 3 years with a minimum profit of Rs. 1
+crore or 20% of pre-issue capital (excluding only issue size).
+The  profitability  track  record  should  justify  at  least  one-third  of  the
+proposed  premium  amount  based  on  valuation  as  per  any  of  the
+following methods:-
+
+i)  Profit Earning Capacity Value based on existing earnings or
+
+ii) Intrinsic Value or
+
+iii)  Average Market Value during last 6 months
+
+iv) Discounted Cash Flow Method.
+
+VIEWS OF OTHER GROUP MEMBERS ON THE ABOVE
+Regarding  SEBI  adopting  a  merit  -based  approval  and  judging  the  quality  of  issues
+approaching the market, the members were of the opinion that investing in equity issues
+was  the  riskiest  form  of  investment  and  investors  should  rely  on  their  own  judgment
+instead  of  expecting  SEBI  to  sit  in  judgment  on  every  issue.    Moreover,  it  was  not
+feasible  to  develop  any  set  of  guidelines  which  will  ensure  that  only  very  good  issues
+enter the market. The members overwhelmingly agreed with the present disclosure-based
+philosophy of SEBI and were of the view that any entity should be allowed to access the
+primary market with full and complete disclosure.
+
+Page 21 of 25
+
+Regarding debarring issues of dubious promoters, the Group’s  view  is  contained  in  the
+main report.
+
+Regarding  due  diligence  for  issues  not  to  be  handled  by  the  merchant  banker  lead
+managing  the  issue    on  the  ground  the  merchant  banker  may  not  be  able  to  do  an
+impartial job in view of the fact that his remuneration depends on the company, and the
+same be conducted by an independent entity, not appointed by the company, the members
+strongly dissented with this view as they were of the opinion that the obligation cast by
+SEBI on the merchant banker was stringent enough in terms of checks and balances and
+moreover, a single point responsibility for both diligence and marketing is essential. The
+members  also  pointed  out  that  due  diligence  internationally  is  done  by  the  merchant
+banker and that appointing a second body for diligence would also increase the time and
+cost of the issue.
+
+Regarding the premium allowed to be charged to be based on some formula, the members
+rejected this outright based on the premise that price is a matter of consideration of the
+market/ investors and not the regulator.
+
+Page 22 of 25
+
+Post-Issue Market Capitalization of Companies
+
+ANNEXURE 3
+
+PERIO
+
+D
+
+< 3
+
+3 TO 5
+
+5 TO
+10
+
+10 TO
+
+25 TO
+
+______
+
+_______
+
+_______
+
+25
+
+_
+
+50
+
+_
+
+50 TO
+100
+
+_
+
+ 
+
+ 
+
+1
+
+3
+
+-
+
+-
+
+8
+
+33
+
+2
+
+-
+
+13
+
+49
+
+2
+
+-
+
+6
+
+7
+
+-
+
+-
+
+6
+
+2
+
+-
+
+-
+
+(in Rs.
+crore)
+
+>100
+
+______
+
+22
+
+21
+
+2
+
+1
+
+ 
+
+-
+
+-
+
+-
+
+-
+
+ 
+
+1999-
+2000
+2000-
+2001
+2001-
+2002
+2002-
+2003
+
+YEARS
+
+3-4
+lacs
+
+1999-2000
+2000-2001
+2001-2002
+2002-
+2003*
+TOTAL
+* April – August
+
+ Data on number of Valid Applications in Public Issue
+
+1-3
+lacs
+20
+3
+1
+-
+
+50000-
+1 lac
+
+11
+-
+-
+-
+
+25000-
+50000
+9
+4
+1
+-
+
+10000-
+25000
+7
+-
+-
+1
+
+5000-
+10000
+6
+15
+-
+-
+
+1000-
+5000
+
+-
+73
+2
+-
+
+24
+
+11
+
+14
+
+8
+
+21
+
+75
+
+<1000 TOTAL
+
+1
+11
+2
+-
+
+14
+
+56
+115
+6
+2
+
+179
+
+2
+-
+-
+1
+
+3
+
+Page 23 of 25
+
+VIEWS OF ICAI ON CALCULATION OF NET TANGIBLE ASSETS
+
+ANNEXURE 4
+
+C.  Net Tangible Assets as well as Net Worth or Profits of a company would be
+determined  as  per  Accounting  Standards  and  guidance  notes  issued  by  the
+Institute of Chartered Accountants of India. While computing Net Tangible
+Assets and Net Worth of the Company,  the following shall be  given effect to
+:
+
+i) 
+
+ii) 
+
+iii) 
+
+iv) 
+
+v) 
+
+Consider the impact of audit qualifications including those which
+could be quantified by the company by reasonable effort;
+
+Consider  the  impact  of  non-adherence  to  Accounting  Standards
+and  Guidance  Notes  issued  by  the  Institute  as  well  as  generally
+accepted accounting principles in India.
+
+Exclude ascertained liabilities other than those which are disputed
+up to                          second appellate level and are pending
+disposal,  which  in  the  opinion  of  the  Company  and  the  due
+diligence  agency  are  not  expected  to  arise  and  need  not  to  be
+provided;
+
+Exclude  provisioning  required  for  Non  Performing  Assets  as  per
+guidelines  issued  by  RBI  for  Banks  and  NBFCs  or  by  any  other
+relevant authority for others from time to time.
+
+Exclude intangible assets, which should not be recognised as assets
+in terms of AS26.
+
+vi) 
+
+Investments are to be valued in accordance with AS13.
+
+vii)  Deposits  with  stock  exchanges  and  value  of  the  card  of  a  stock
+exchange and all other assets are to be recognized at carrying cost
+subject to Accounting Standard on Impairment of Assets (AS28).
+
+viii)  No benefit of increase in value of assets beyond cost is to be given
+unless  the  same  is  permitted  to  be  recognized  in  terms  of
+Accounting Standards and Guidance Notes issued by ICAI as may
+be  applicable  to  an  enterprise.  The  fair  value  or  market  value
+concept  is  not  recognized  by  Indian  as  well  as  International
+Accounting Standards issued by ICAI.
+
+Page 24 of 25
+
+ix) 
+
+x) 
+
+xi) 
+
+xii) 
+
+To  evaluate  Net  Worth  and  Net  Tangible  Assets  as  per
+consolidated  financial  statements  in  terms  of  AS21,  AS23  and
+AS27.
+
+To not to exclude pledged assets from Net Worth, as pledging of
+assets  do  not  affect  Net  Worth  unless  ascertaining  liabilities
+arising there from are not considered in the financial statements.
+
+To  exclude  bad  and  doubtful  debts  and  advances  in  terms  of
+Generally Accepted Accounting Principles in India.
+
+To  exclude  the 
+impact  of  unusual  accounting  practice  or
+impermissible financial engineering or accounting jugglery as may
+be identified by auditors or any other relevant authority.
+
+Page 25 of 25
+
+

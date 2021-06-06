@@ -1,0 +1,4141 @@
+ MINISTRY OF FINANCE 
+
+CAPITAL MARKETS DIVISION   
+
+Report of the Committee  
+
+on Comprehensive 
+
+Regulation for Credit Rating 
+
+Agencies  
+
+ 
+
+ 
+
+December 2009 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 2 
+
+ 
+
+Preface 
+
+This Report is in response to the direction given by the  High Level Coordination Committee on 
+
+Financial Markets  to reflect on the inter regulatory issues emanating from the activities of Credit Rating 
+
+Agencies.    Accordingly,  the  Committee  was  set  up    with    representation  from  all  the  financial  sector 
+
+regulators.  Since the mandate of the Committee included a long term assessment of the performance of 
+
+the credit rating agencies in India,  a separate research report was prepared by the National Institute of 
+
+Securities Market (NISM).  The Committee is grateful to Prof. Sethu, OSD In-charge of NISM and Prof. 
+
+Sunder  Ram  Korivi    and  other  Team  Members  for    producing  a  quality    report  on  the  long  term  
+
+performance of the CRAs in a short time.  
+
+2. 
+
+The  Committee  had  four  meetings.    In  addition  the  Committee  interacted  extensively  with  the 
+
+CEOs  of  all  the  five  SEBI  registered  Credit  Rating  Agencies  in  a  meeting  besides  obtaining    written 
+
+inputs.  We acknowledge  their valuable contributions. 
+
+3. 
+
+Every  Member  of  the  Committee,  including  those  who  left  before  completing  the  Report  on 
+
+account  of  their  demitting the  office,  contributed  significantly  in  the  preparation  of  this Report.   Apart 
+
+from extensive discussions, all of them have given inputs in writing on the various issues analysed in the 
+
+Report.  I would also like to commend  the contribution of Shri Anupam Mitra, Deputy Director in the 
+
+Capital Markets Division in the preparation of the Report. 
+
+                                                          
+
+New Delhi. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+21 December, 2009.                                                 
+
+ 
+
+ 
+
+ 
+
+                    (Dr. K.P. Krishnan) 
+
+ Joint Secretary ( Capital Markets & 
+
+Chairman of the Committee) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 3 
+
+ 
+
+ 
+
+Composition of the Committee  
+
+Chairman 
+
+ 
+
+ 
+
+Dr. K.P. Krishnan 
+
+Joint Secretary (Capital markets), Ministry of Finance  
+
+Members 
+
+ 
+
+Mr. M.S Ray1 
+
+Securities and Exchange Board of India 
+
+Mr. P. R. Ravimohan2  Reserve Bank of India  
+
+Mr. S.N. Jayasimhan 
+
+Insurance and Regulatory Development Authority 
+
+Ms. Meena Chaturvedi3  Pension Fund Regulatory Development Authority  
+
+Member Secretary  
+
+ 
+
+Mr. C.K.G Nair 
+
+Director (Primary Markets), Capital Markets Division  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                      
+1 Subsequently substituted by Mr. P. K. Nagpal 
+
+2 Subsequently substituted by Ms. Ranjana Sahajwala 
+
+3 Subsequently substituted by Mr.Praveen Tiwari 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Contents  
+
+                      Preface  
+
+ 
+
+Members  
+
+Contents  
+
+List of Tables & Figures 
+
+List of Annexures  
+
+Terms of Reference 
+
+Executive Summary 
+
+ 
+
+ 
+
+ 
+
+1 
+
+2 
+
+3 
+
+ 
+
+ 
+
+4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Systemic Importance of Rating and Rating Agencies 
+
+3.1  
+
+3.2 
+
+Introduction 
+
+Role and Rationale 
+
+Functions and Approaches of CRAs  
+
+4.1 
+
+4.2  
+
+4.3 
+
+4.4 
+
+4.5 
+
+4.6 
+
+4.7 
+
+What does credit rating convey? 
+
+Rating related products and activities. 
+
+Non-rating related activities 
+
+The rating process 
+
+Analytical framework used by CRAs 
+
+Limitations of credit ratings. 
+
+Whither credit rating agencies? 
+
+5 
+
+Regulatory Framework for CRAs 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.1 
+
+5.2 
+
+5.3 
+
+5.4 
+
+SEBI Regulations 
+
+SEBI Code of Conduct 
+
+Provisions relating to conflict of interest 
+
+Multiplicity of regulators 
+
+Page 
+
+3 
+
+4 
+
+5 
+
+7 
+
+8 
+
+9 
+
+10 
+
+12 
+
+12 
+
+13 
+
+17 
+
+17 
+
+17 
+
+18 
+
+18 
+
+19 
+
+21 
+
+22 
+
+24 
+
+24 
+
+25 
+
+26 
+
+27 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 5 
+
+ 
+
+ 
+
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.5 
+
+International Regulations 
+
+Regulatory concerns about CRA business model  
+
+6.1 
+
+6.2 
+
+6.3 
+
+6.4 
+
+Regulatory concern 
+
+How  do  CRAs  address  regulatory 
+concern ? 
+
+Pros & cons of „issuer pays and model‟ 
+
+Pros  &  cons  of  alternatives  to  „issuer 
+pays and model‟ 
+
+7 
+
+Recommendations 
+
+ 
+
+ 
+
+ 
+
+7.1 
+
+7.2 
+
+Annexures 
+
+Deliberations of the Committee 
+
+Recommendations 
+
+28 
+
+30 
+
+30 
+
+32 
+
+33 
+
+35 
+
+40 
+
+40 
+
+40 
+
+47 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 6 
+
+ 
+
+ 
+
+List of Tables & Figures 
+
+Sl.No. 
+
+Table 
+
+Page No. 
+
+CRAs registered with SEBI 
+
+Illustration of capital-saving 
+potential by banks on a loan of 
+Rs.1000 million  
+Analytics behind credit rating 
+
+Products / instruments 
+needing mandatory rating 
+before issuance 
+
+Regulatory prescription of use 
+of ratings for investment 
+purposes 
+
+Products that are not 
+mandated or covered 
+
+13 
+
+15 
+
+20 
+
+27 
+
+28 
+
+28 
+
+3.1 
+
+3.2 
+
+4.1 
+
+5.1 
+
+5.2 
+
+5.3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+Page 7 
+
+ 
+
+List of Annexures 
+
+S.No. 
+
+Annexure 
+
+Page No. 
+
+Ratings symbols for various instruments used by 
+CRAs in India. 
+
+SEBI Regulation for CRAs 
+
+SEBI Code of Conduct for CRAs 
+
+IOSCO Code of Conduct fundamentals for CRA 
+
+47 
+
+49 
+
+75 
+
+77 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 8 
+
+ 
+
+ 
+
+Chapter 1  
+
+Terms of Reference 
+
+1.  Examining scope of activities of Credit Rating Agencies and their systemic importance. Is Credit 
+
+rating just an opinion or the opinion ? 
+
+2.  Addressing ‗conflict of interest‘ inherent in Credit Rating Agencies‘ business model. 
+
+3.  A lead regulator model for Credit Rating Agencies. 
+
+4.  How greater transparency can address some of the concerns of CRAs? 
+
+ 
+
+5.  A voluntary norm of good governance of Credit Rating Agencies. 
+
+6.  Pros and cons of ‗Issuer pays model‘ with analysis of alternative models.  
+
+7.  Ways and means to avoid regulatory overlaps. 
+
+8. 
+
+ Self Regulatory Organisation (SRO) for CRAs. 
+
+9.  The Committee has entrusted National Institute of Securities Markets (NISM)  to do a long term 
+
+study on the soundness and robustness of CRA predictions since they started operations in India.  The 
+
+terms of reference of the NISM study are as follows: 
+
+I.  Assessment  of  the  performance  of  CRAs    in  India  in  terms  of  parameters  like    default  and 
+
+transition data 
+
+II.  How much information asymmetry is bridged by CRAs  
+
+III.  How far CRAs assessment helps financial regulation 
+
+IV.  Accountability , corporate governance issues of CRAs  
+
+V.  Disclosures of methodologies of rating 
+
+VI. 
+
+Rating of complex products like structured obligation 
+
+VII.  Uniformity or otherwise in definition and rating nomenclature of CRAs in India 
+
+******** 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 9 
+
+ 
+
+ 
+
+Chapter 2 
+
+Executive Summary    
+
+The High level Coordination Committee on Financial Matters (HLCCFM)  in its meeting held on 
+
+11th January 2008,  inter alia, decided that ―the legal and policy framework for regulating the activities  of 
+
+CRAs   should be revisited  in order to take a larger view  of the  entire policy with  respect to banking , 
+
+insurance and securities market.‖  
+
+Credit rating agencies play an important role in assessing risk and its location and distribution in 
+
+the financial system. By facilitating investment decisions  they can help investors in achieving a balance in 
+
+the risk return profile and at the same time assist firms in accessing capital at low cost. CRAs  can thus 
+
+potentially  help  to  allocate  capital  efficiently  across  all  sectors  of  the  economy  by  pricing  risk 
+
+appropriately. However, in view of the fact that CRAs  that rate capital market instruments are regulated 
+
+by SEBI4 and that entities regulated by other regulators (IRDA, PFRDA and RBI) predominantly use the 
+
+ratings,  it  was  felt  necessary  to  institute  a  comprehensive  review  of  the  registration,  regulatory  and 
+
+supervisory  regime  for  CRAs.    The  major  motivation  for  the  exercise  was  to  look  at  inter  regulatory 
+
+coordination  so  that  all  interested  stake  holders    have  an  institutional  mechanism  for  providing  inputs-
+
+feed  back  to  ensure  realisation  of  the  objective  behind  the  regulation  of  CRAs.  Adding  a  further 
+
+dimension to this enquiry, the sub prime crisis has attracted considerable adverse attention worldwide on 
+
+the role of CRAs enhancing the need for this review.  
+
+Given  that  rating  is  only  an  opinion,  albeit  a  very  influential  one,  and  regulation  of  gatekeeper 
+
+business models is a border line ethical – regulatory issue, the committee has examined wide ranging steps 
+
+to improve the functioning and accountability of CRAs including the suggestion that in the medium run 
+
+regulators may move away from the mandatory rating practice at least in the capital market5. Based on the 
+
+examination of the CRA business models, current regulatory activities, global experiments and the Indian 
+
+context,  this  report  aims  to  lay  out  a  broad  framework  for  strengthening  the  existing  regulatory 
+
+                                                      
+4  Some  other  rating  agencies  that  do  not  operate  in  the  capital  market  (example  Infomerics,  MCRIL,  ONICRA, 
+SMERA) are simply registered companies under the Companies Act.  There is a need for some registration and over 
+sight mechanism for them as well. 
+
+5  As  recommended  by  Basel  II  external  ratings  are  required  for    calibrating  regulatory  capital  requirement.  In  the 
+standardised approach for credit risk and market risk, the risk weight   of bank exposures are aligned to   the external  
+ratings  of  the  exposures.  Even  in  the  advanced  approach  external  ratings  will  be  used  by  banks  for  comparing  their  
+own internal assessments with those of external CRAs. 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 10 
+
+ 
+
+architecture  for  CRAs  in  India  and  incorporates  the  Committees‘  vision  for  new  arrangements  and 
+
+practical steps required in this direction. 
+
+The  Committee  have  examined  the  issues  desired  by  HLCCFM    in  detail.    The  report  is 
+
+structured as follows:  
+
+Chapter one lists out the broad Terms of Reference of this report.   
+
+Chapter two provides a brief summary of the report. 
+
+Chapter three looks at the evolution of credit rating agencies as well as the conceptual  role and 
+
+rationale of rating and rating agencies.  
+
+ 
+
+Chapter  four  discusses  the  activities  performed  by  credit  rating  agencies  including  non  rating 
+
+related activities. This chapter also examines the analytical framework used by CRAs and the limitations 
+
+of credit ratings.  
+
+ 
+
+The current regulatory framework of CRAs in India is outlined in chapter five. In particular, this 
+
+chapter discusses the extant SEBI regulations and Code of Conduct for CRAs. This chapter also brings 
+
+out the inter regulatory (rating related) issues. 
+
+In the wake of the recent financial crisis the business models of CRAs have come under scanner. 
+
+Chapter six deals with these and the regulatory concerns arising from the ‗issuer pays‘ business model. It 
+
+also explores the pros and cons of alternative models.  
+
+ 
+
+The  recommendations  of  the  Committee  are  contained  in  Chapter  seven.  The  committee  feels 
+
+that prima facie there is no immediate concern about the operations and activities of CRAs in India even 
+
+in the context of the recent financial crisis. However there is a need to strengthen the existing regulations 
+
+by learning the appropriate lessons from the current crisis.  The committee has taken note of international 
+
+action in this regard and inter alia recommend that there may be greater disclosures regarding materially 
+
+significant revenues received from a particular issuer/ non rating business like advisory services. A lead 
+
+regulator  model  for  CRAs  may  also  be  explored.    The  committee  has  also  strongly  recommended 
+
+voluntary compliance with existing and emerging regulations like IOSCO Code.  
+
+The committee had commissioned a study on historical analysis of soundness and robustness of 
+
+CRA  predictions  in  India.  Notwithstanding  the  fact  that  the  rated  universe  is  small  in  India    the  study 
+
+brings out the relative fragility of the rating methodology as reflected in the transition data which shows 
+
+high degree of ratings migration. 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 11 
+
+ 
+
+ 
+
+Chapter 3 
+
+Systemic Importance of Rating and Rating Agencies 
+
+3.1  
+
+Introduction  
+
+The  institution  of  credit  rating  as  a  mechanism  for  addressing  the  considerable  degree  of  
+
+information  asymmetry  in  the  financial  markets  has  travelled  a  long  way  from  the  times  of  the  US  rail 
+
+road companies in the mid-19th century.  The need for an independent rating agency capable of assessing 
+
+creditworthiness of borrowers was felt when corporates started mobilizing resources directly from savers 
+
+instead of accessing it through banks which hitherto assumed the credit risk in such cases.  The history of 
+
+systematic  credit  rating,  however,  is  a  century  old  beginning  with  rating  of  US  railroad  bonds  by  John 
+
+Moody in 1909.  During this one century of growth and adaptation, CRAs progressed from rating simple 
+
+debt products to rating complex derivatives to national economies and  altered their business models to 
+
+cover a range of activities/products. There are three major credit rating agencies operating internationally- 
+
+Fitch,  Standard  and  Poor‘s,  Moody‘s  Investor  Services:  between  them  they  share  the    bulk  of  the  $5 
+
+billion rating business globally relegating other 60 plus local/regional players into just competitive fringes.
+
+ 
+
+ 
+
+In India, credit ratings started with the setting up of The Credit Rating Information Services of 
+
+India (now CRISIL Limited) in 1987. CRISIL was promoted by premier financial institutions like ICICI, 
+
+HDFC, UTI, SBI, LIC and Asian Development Bank.  Now CRISIL is an S&P company with a majority 
+
+shareholding.    Apart  from  CRISIL  four  more  rating  agencies  have  been  registered  by  SEBI  in  India. 
+
+These are ICRA, promoted by IFCI and now controlled by Moody‘s, CARE promoted by IDBI, Fitch 
+
+India  a 100% subsidiary of Fitch, and a new born Brickworks. In India, CRAs that rate capital market 
+
+instruments    are  governed  by  Securities  and  Exchange  Board  of  India  (Credit  Rating  Agencies) 
+
+Regulations, 1999. The regulation provides detailed requirements that a rating agency needs to fulfil to be 
+
+registered with SEBI.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 12 
+
+ 
+
+ 
+
+ 
+
+Table  3.1 : CRAs registered with SEBI. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name  of  the 
+CRA 
+
+Year 
+commencement 
+Operations 
+
+of 
+of 
+
+CRISIL 
+
+ICRA  
+
+CARE 
+
+1988 
+
+1991 
+
+1993 
+
+Fitch India 
+
+1996 
+
+Brickworks 
+
+2008 
+
+In  India,  revenues  of  the  three  big  rating  agencies,  CRISIL,  ICRA  and  CARE  have  shown  an 
+
+upward trend given the increase in the usage of ratings over time.  
+
+ 
+
+3.2  
+
+Role and Rationale  
+
+A  credit  rating  is  technically  an  ‗opinion‘  on  the  relative  degree  of  risk  associated  with  timely 
+
+payment of interest and principal on a debt instrument.  It is an ‗informed‘ indication of the likelihood of 
+
+default of an issuer on a debt instrument, relative to the respective likelihoods of default of other issuers 
+
+in  the  market.  It  is  therefore  an  independent,  easy-to-use  measure  of  relative  credit  risk.    Given  the 
+
+universal  reliance  on  rating,  and  hence  the  power  of  the  opinion,  credit  rating  is  expected  to  increase  the 
+
+efficiency of the market by reducing information asymmetry and lowering costs for both borrowers and 
+
+lenders.  
+
+A  simple  alphanumeric  symbol  is  normally  used  to  convey  a  credit  rating.  Ordinarily  the 
+
+company which issues the debt instrument is not rated. It is the instrument which is rated by the  rating 
+
+agency. But the issuer company which has issued the debt instrument gets strength and credibility with 
+
+the  grade  of  rating  awarded  to  the  credit  instrument  it  intends  to  issue  to  the  public  for  raising  funds. 
+
+Though  the  purpose  of  rating  is  to  rate  instruments,  a  general  perception  may  be  gathered  that  the 
+
+organisation issue a highly rated instrument is also sound and a highly rated entity. Thus, credit rating is a 
+
+mechanism  whereby  an  independent  third  party  makes  an  assessment,  based  on  different  sources  of 
+
+information on the credit quality of the assessed.  
+
+Ministry of Finance, Capital Markets Division   
+
+Page 13 
+
+ 
+
+Given  the systemic  superstructure  position  that  the  CRAs  have  come  to occupy  as  information  and 
+
+insight  gate  keepers,  they  play  an  important  role  in  the  of  modern  capital  markets.  Their  importance  to 
+
+various stakeholders is as follows. 
+
+Investors  
+
+  
+
+CRAs  typically  opine  on  the  credit  risk  of  issuers  of  securities  and  their  financial  obligations. 
+
+Given the vast amount of information available to investors today- some of it valuable, some of it not – 
+
+CRAs can play a useful role in helping investors and others sift through this information, and analyze the 
+
+credit risks they face when lending to a particular borrower or when purchasing an issuer‘s debt and debt 
+
+like securities. CRAs also provide investors with rating reports, giving detailed information and analytical 
+
+judgements  on  the  issuer‘s  business  and  financial  risk  profile.  This  assists  investors  in  taking  more 
+
+informed investment decisions, calibrated to their own risk-return preferences.  
+
+Securitised instruments are among the most complex instruments in the debt market. Securitised 
+
+instruments  backed  by  retail  assets  are  classified  as  ‗Highly  Complex‘  by  some  Indian  rating  agencies. 
+
+Given the inherent complexity in these instruments, an independent assessment of the risks involved in 
+
+the  instruments  by  a  credit  rating  agency  acts  as  an  important  input  to  an  investor‘s  decision-making. 
+
+Unlike most corporate bonds, where an investor can independently assess a borrower‘s creditworthiness, 
+
+in a securitisation transaction there will normally be little or no information in the public domain for an 
+
+investor  to  carry out such  an  assessment.  Understanding  the  nuances  of  different pools  and  analysis  of 
+
+the  past  behaviour  of  asset  classes  are  areas  where  CRAs  can  play  an  important  role.  Tracking    the 
+
+performance  of  the  transaction  and  the  corresponding  impact  on  the  riskiness  of  the  instruments  is  a 
+
+feature where CRAs play an important monitoring role.  These aspects have also been recognised by Indian 
+
+regulators.  As  required  by  Basel  capital  accord  risk  weights  are  assigned  to  all  rated  rated  and  unrated  
+
+bank exposures. 
+
+Issuers  
+
+Issuers rely on credit ratings as an important tool to access investors and also to reach a wider 
+
+investor  base  than  they  otherwise  could.    In  most  cases,  successful  placement  of  a  significant  bond 
+
+issuance  needs  at  least  one  rating  from  a  recognised  CRA;  without  a  rating,  the  issue  may  be 
+
+undersubscribed or the price offered by investors may not be appropriate. Further, they enable issuers to 
+
+price  their  issues  competitively.  In  financial  markets,  the  price  of  debt  is  determined  primarily  by  the 
+
+rating of the debt issue. 
+
+Banks/ Bank loan rating 
+
+Although credit rating is not mandatory under Basel II, banks are likely to save capital if they get 
+
+their loan rated. If a bank chooses to keep some of its loans unrated, it may have to provide, as per extant 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 14 
+
+ 
+
+RBI instructions, a risk weight of 100 per cent for credit risk on such loans. As provided under Basel II, 
+
+supervisors  may  increase  the  standard  risk  weight  for  unrated  claims  where  a  higher  risk  weight  is 
+
+warranted by the overall default experience in their jurisdiction. Further, as part of the supervisory review 
+
+process, the supervisor may also consider whether the credit quality of corporate claims held by individual 
+
+banks should warrant a standard risk weight higher than 100%. 
+
+In terms of RBI instructions on the 'New Capital Adequacy Framework (Basel II)' issued in April 
+
+2007, banks were required to initially assign a risk weight of 100 per cent in respect of unrated claims on 
+
+corporates with the caveat that such claims would be assigned higher risk weights over time.  
+
+To begin with, for the financial year 2008-09, all fresh sanctions or renewals in respect of unrated 
+
+claims on corporates in excess of Rs.50 crore were to attract a risk weight of 150 per cent, and with effect 
+
+from April 1, 2009, all fresh sanctions or renewals in respect of unrated claims on corporates in excess of 
+
+Rs.  10  crore  were  to  attract  a  risk  weight  of  150  per  cent.  This  higher  risk  weight  of  150  per  cent  for 
+
+unrated  corporate  claims  was  equivalent  to  the  risk  weight  to  be  assigned  to  exposures  rated  ‗BB  and 
+
+below‘.   
+
+However,  in  November  2008,  as  a  counter  cyclical  measure,  RBI  relaxed  the  regulatory 
+
+prescription of 150 percent risk weight for unrated claims. Accordingly, all unrated claims on corporates, 
+
+irrespective  of  the  amount  currently  attract  a  uniform  risk  weight  of  100  percent.  This  relaxation  is 
+
+temporary and will be reviewed at an appropriate time. 
+
+On  the  other  hand,  by  getting  loans  rated,  a  bank  can save  capital  on  loans  in  the  better  rated 
+
+categories, as shown in the illustration below.  
+
+Table  3.2: Illustration of capital-saving potential by banks on a loan of Rs.1000 Million 
+
+Rating 
+
+Basel I 
+
+Basel II (Standardised Approach for credit risk) 
+
+Risk 
+weight 
+
+100% 
+
+100% 
+
+100% 
+
+100% 
+
+and 
+
+100% 
+
+  
+
+AAA 
+
+AA 
+
+A 
+
+BBB 
+
+BB 
+below 
+
+Capital 
+required1 
+(Rs. mn) 
+
+90 
+
+90 
+
+90 
+
+90 
+
+90 
+
+Risk 
+weight 
+
+20% 
+
+30% 
+
+50% 
+
+100% 
+
+Capital 
+required  
+(Rs. mn) 
+
+Capital 
+saved 
+(Rs. mn) 
+
+18 
+
+27 
+
+45 
+
+90 
+
+72 
+
+63 
+
+45 
+
+0 
+
+150% 
+
+135 
+
+(45) 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 15 
+
+ 
+
+Unrated 
+
+100% 
+
+90 
+
+100% 
+
+90 
+
+0 
+
+1 Capital required is computed as Loan Amount x Risk Weight x 9% 
+
+A  large  number  of  Indian  companies,  hitherto  unrated  by  rating  agencies,  have  now  come 
+
+forward  to  get  their  bank  facilities  rated.  Basel-II  norms  hold  significant  potential  for  further 
+
+development of the domestic debt markets, by introducing into the public domain easily accessible credit 
+
+information  about  a  large  pool  of  mid-sized  companies.  This  will  not  only  allow  these  companies  to 
+
+explore  alternative  sources  of  funds,  but,  through  greater  visibility,  also  facilitate  healthy  competition 
+
+among fund providers. For banks and other investors, it creates an information base that can be used for 
+
+efficient  portfolio  selection.  The  acceptance  of  credit  ratings  by  the  investor  community  has  led  to 
+
+investors  showing  increasing  interest  in  the  bank  loan  rating  portfolio.  Investors  have  also  begun  to 
+
+consider  offering  a  suite  of  market-linked  borrowing  products  (including  non-convertible  debentures, 
+
+commercial paper, and MIBOR-linked short-term debt instruments) to rated mid-sized companies.  
+
+ 
+
+Regulators  
+
+Regulators—typically  banking  regulators  and  capital  market  regulators—use  credit  ratings,  or 
+
+permit ratings to be used, for regulatory purposes. For example, under the Basel II capital framework of 
+
+the Basel Committee on Banking Supervision, banking regulators can accredit credit rating agencies based 
+
+on specified criteria. The ratings assigned by these accredited External Credit Assessment Institutions or 
+
+ECAIs are used to  assign risk  weights  to various bank exposures in calculating capital charge for credit 
+
+risk.  Further, some regulators (such as IRDA and PFRDA) have incorporated ratings into the investment 
+
+guidelines  for  the  entities  they  regulate.    Rating  thus  provides  an  additional  layer  of  comfort  to  the 
+
+regulators in their assessment of product risks and overall systemic risks. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 16 
+
+ 
+
+ 
+
+Chapter 4 
+
+Functions and Approaches of Credit Rating Agencies 
+
+4.1 
+
+What does credit rating convey? 
+
+A  credit  rating  is  an  ‗opinion‘  on  the    creditworthiness  or  the  relative  degree  of  risk  of  timely 
+
+payment of interest and principal on a debt instrument. Most rating agencies adopt some variation of this 
+
+definition  for  their  credit  ratings.  The  ratings  are  a  comment  on  the  relative  likelihood  of  default  in 
+
+comparison to other rated instruments. In other words, a rating indicates the probability of default of the 
+
+rated  instrument  and    therefore  provides  a  benchmark  for  measuring  and  pricing  credit  risk.  .A  credit 
+
+rating  compresses  an  enormous  amount  of  diverse  information  into  a  single  rating  symbol.  A  simple 
+
+alphanumeric symbol, such as ‗AAA‘ or ‗P2+‘, is normally used to convey a credit rating.  Currently rating 
+
+agencies have standardised rating nomenclatures for long term ratings, short term instruments, medium 
+
+term ratings, fixed deposits, corporate/issuer credit rating, long and short term debt fund portfolios, IPO 
+
+grading etc.  The rating symbols for the various instruments used by the five rating agencies in India are 
+
+given at Annexure 1. 
+
+4.2 
+
+Rating related products and activities 
+
+ CRAs in India rate a large number of financial products:  
+
+1.  Bonds/ debentures- [the main product]  
+
+2.  Commercial paper  
+
+3.  Structured finance products 
+
+4.  Bank loans 
+
+5.  Fixed deposits and bank certificate of deposits 
+
+6.  Mutual fund debt schemes 
+
+7.  Initial Public Offers (IPOs) 
+
+CRAs also undertake customised credit research of a number of borrowers in a credit portfolio, for 
+
+the  use  of  the  lender.  CRAs  use  their  understanding  of  companies‘  business  and  operations  and  their 
+
+expertise in building frameworks for relative evaluation, which are then applied to arrive at performance 
+
+grading. For example developer gradings are carried out to assess the ability of the developers to execute 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 17 
+
+ 
+
+projects on a timely basis and promised quality while maritime institute gradings are carried out to assess 
+
+quality of education imparted to the students vis a vis DGS (Directorate General of Shipping) objectives. 
+
+4.3   Non-rating related activities 
+
+CRAs often undertake a variety of non rating related activities. These include the following: 
+
+1.  Economy and Company Research:  Some  Indian  CRAs  have  set  up  research  arms  to 
+
+complement their rating activities. These arms carry out research on the economy, industries and 
+
+specific  companies,  and  make  the  same  available  to  external  subscribers  for  a  fee.  In  addition, 
+
+they  disseminate  opinions  on  the  performance  of  the  economy  or  specific  industries,  available 
+
+through releases to the media. The research would also be used internally by the rating agencies 
+
+for  arriving  at  their  rating  opinions.  SEBI  permits  CRAs  to  carry  out  this  activity  subject  to 
+
+relevant firewalls. 
+
+2.  Risk consulting:  With  the  application  of  Basel  II  regulations  for  banks,  there  is  considerable 
+
+demand  for  tools  and  products  that  will  allow  banks  to  compute  their  capital  adequacy  ratios 
+
+under the revised guidelines. The risk consulting groups of credit rating agencies would leverage 
+
+the agencies‘ understanding of credit risk to develop and provide the tools and data that banks 
+
+would  require.  The  products  in  this  area  include  tools  for  internal  ratings,  operational  risk 
+
+evaluation, and overall capital calculation.  
+
+3.  Funds research:  Some  CRAs  have  diversified  from  mutual  fund  ratings  into  mutual  fund 
+
+research.  The  services  that  are  available  under  this  head  include  fund  rankings,  performance 
+
+attribution  tools  (to  help  users  understand  the  reasons  for  funds‘  performance),  desktop  tools, 
+
+and fixed income research. 
+
+4.  Advisory services:  CRAs  offer  various  kinds  of  advisory  services,  usually  through  dedicated 
+
+advisory  arms.  Most  of  this  is  in  the  nature  of  developing  policy  frameworks,  bid  process 
+
+management,  public  private  partnership  consulting,  and  creating  an  enabling  environment  for 
+
+business in India and globally. 
+
+5.  Knowledge Process Outsourcing:  Some  Indian  CRAs  (CRISIL  and  ICRA)  have  KPO  arms 
+
+that  leverage  their  analytical  skills  and  other  process  and  manpower  capabilities.  These  arms 
+
+provide  services  to  the  CRAs‘  affiliates  in  developed  markets,  and  also  to  other  clients  outside 
+
+India. 
+
+4.4 
+
+The rating process  
+
+Rating  is  a  multilayered  decision  making  process.  The  process  of  rating  starts  with  a  rating 
+
+request from the issuer, and the signing of a rating agreement. The rating agreement has important clauses 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 18 
+
+ 
+
+like  confidentiality,  agreement  by  the  issuer  to  share  information  with  the  CRA  for  the  purpose  of 
+
+assigning the rating and thereafter on an ongoing basis when the rating is under surveillance. The rating 
+
+agency  undertakes  discussion  with  the  management  of  the  issuing  entity.  Discussions  during  a 
+
+management meeting are wide-ranging, covering competitive position, strategy, financial policy, historical 
+
+performance,  and  near-  and  long-term  financial  and  business  outlook.  Discussions  with  company 
+
+managements help rating analysts evaluate management capability and risk appetite, which is an important 
+
+aspect of the evaluation. After discussion with the issuer's management, a report is prepared detailing the 
+
+analyst  team‘s  assessment  of  the  business  risk,  financial  risk,  and  management  risk  associated  with  the 
+
+issuer.  The  report  is  then  presented  to  the  rating  committee.  This  is  the  only  aspect  of  the  process  in 
+
+which  the  issuer  does  not  directly  participate.  Drawing  on  the  knowledge  and  expertise  of  the 
+
+participants, the rating committee determines the rating. The process is an attempt to ensure objectivity 
+
+of the rating,  since  the  decision  results  from  the collective thinking of a group of experts analysing the  
+
+risks    pertaining    to    the    issuer    vis-a-vis  its  competitors  in  the  industry  and  markets  in  which  they  
+
+operate. On finalisation of a rating at the rating committee meeting, the rating decision is communicated 
+
+to the issuer. As the decision to get an initial rating is at the issuer's discretion (except, in India, for public 
+
+issues of debt), the global best practice is to allow the issuer to decide whether to accept the rating. If the 
+
+issuer  disagrees  with  the  rating,  it  can  also  appeal  for  a  fresh  look  at  the  rating  assigned.  The  rating 
+
+committee  then  discusses  the  information  submitted;  it  may  or  may  not  decide  to  modify  the  rating, 
+
+depending on the facts of the case. If the rating is not changed and the issuer continues to disagree with 
+
+the rating, it can choose not to accept the rating, which then does not get published. 
+
+4.5 
+
+Analytical framework used by CRAs  
+
+A  credit  rating  is  an  opinion  on  the  relative  credit  risk  (or  default  risk)  associated  with  the 
+
+instrument being rated, where a failure to pay even one rupee of the committed debt service payments on 
+
+the due dates would constitute a default. For most instruments, the process involves estimating the cash 
+
+generation capacity of the issuer through operations (primary cash flows) in relation to its requirements 
+
+for  servicing  debt  obligations  over  the  tenure  of  the  instrument.  The  analysis  is  based  on  information 
+
+obtained  from  the  issuer,  and  on  an  understanding  of  the  business  environment  in  which  the  issuer 
+
+operates; it is carried out within the framework of the rating agency‘s criteria. 
+
+The analytical framework involves the analysis of business risk, technology risk, operational risk, 
+
+industry  risk,  market  risk,  financial  risk  and  management  risk.  Business  risk  analysis  covers  industry 
+
+analysis,  operating  efficiency,  market  position  of  the  company  whereas  financial  risk  covers  accounting 
+
+quality, existing financial position, cash flows and financial flexibility. Under management risk analysis an 
+
+assessment is made of the competence and risk appetite of the management. 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 19 
+
+ 
+
+ 
+
+A sample ratings analytical framework is shown in the chart below: 
+
+ 
+
+Chart 4.1: Analytics behind credit rating  
+
+ 
+
+Source: CRISIL Ratings  
+
+In addition to the basic framework, rating agencies also have detailed criteria/methodologies for 
+
+various industries which take into account the specific features of that industry.  
+
+The CRA might also look at the sufficiency of other means of servicing debt in case the primary  
+
+cash flows are insufficient: for instance, in a securitised instrument, the credit enhancement and structure 
+
+will be examined, while in case of a guaranteed bond the credit strength of the guarantor could drive the 
+
+rating. 
+
+The quality of ratings is also affected by the timeliness of adjustment of the ratings.  The issue is 
+
+whether  there  should  be  aggressive  rating  changes  –  such  as  downgrading  a  rating  by  several  notches 
+
+immediately  in  reaction  to  adverse  news  rather  than  responding  to  a  fundamental    change  in 
+
+creditworthiness.    CRAs  need  to  balance  between  the  dual  objectives  of  accuracy  of  ratings  and  their 
+
+stability.  In other words, the point is whether ratings should reflect changes in default risk even if they 
+
+are likely to be reversed within  a very short period of time – whether ratings should focus on the long 
+
+term or should they fluctuate with near term performance?   
+
+Ministry of Finance, Capital Markets Division   
+
+Page 20 
+
+ 
+
+Financial RiskStand-alone creditriskManagementRiskBusiness RiskIndustry RiskMarket PositionOperatingEfficiencyProject RiskParent supportFinal credit qualityCRAs are known to be using Through The Cycle (TTC) methodology and Point In Time (PIT) 
+
+approach  for  assigning  credit  ratings.    TTC  methodology  has  two  aspects:  a  focus  on  the  permanent 
+
+component of default risk and rating change policy.  This methodology disregards short term fluctuations 
+
+in  default  risk.    It  filters  out  the  temporary  component  of  default  risk  and  retains  only  the  permanent, 
+
+long term and structural component.  Only substantial changes in the permanent component of default 
+
+risk lead to rating migrations.  In contrast, PIT approach ensures change in credit rating immediately as 
+
+the  fortunes  change  irrespective  of  the  cause.    The  basic  difference  between  these  two  approaches 
+
+perhaps lies on the relative weight that is assigned to the temporary and permanent components of credit 
+
+quality. The relative weights are influenced by the time horizons for which the rating is valid.  For a one 
+
+year horizon, the temporary component may get more weightage  than for longer time horizon.   
+
+4.6 
+
+Limitations of credit ratings  
+
+Specifically, a credit rating, in the words of the CRAs, is: 
+
+  Not a recommendation to buy, hold or sell any shares, bonds, debentures or other instruments 
+
+issued by the rated entity, or derivatives thereof. A rating is one of the many inputs that is used 
+
+by investors to make an investment decision.  
+
+  Not Intended to measure many other factors that debt investors must consider in relation to risk 
+
+- such as yield offered, liquidity risk, pre-payment risk, interest rate risk, taxation aspects, risk of 
+
+secondary market loss, exchange loss risk, etc.   
+
+  Not  a  general-purpose  credit  or  performance  evaluation  of  the  rated  entity,  unless  otherwise 
+
+specified. The rating is usually specific to the instrument and is not the rating of the issuer.  
+
+  Not an opinion on associate, affiliate or group companies of the rated entity, or on promoters, 
+
+directors or officers of the rated entity. 
+
+  Not a statutory or non-statutory audit of the rated entity 
+
+  Not an indication of compliance or otherwise with legal or statutory requirements 
+
+  Not a guarantee against default of the rated instrument. Even the highest-rated instrument faces 
+
+some  risk  of  default,  although  the  risks  associated  with  this  are  lower  than  lower-rated 
+
+instruments. 
+
+Credit Ratings are typically ordinal in nature – for example we know that a rating of BB has a higher 
+
+likelihood  of  default  than  BBB,  but  we  do  not  know  how  much  higher.    It  is  not  until  each  rating  is 
+
+assigned  a  probability  of  default  that  we  can  say  how  much  more  risky  a  BB  rated  instrument  is  thus 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 21 
+
+ 
+
+making  the  system  cardinal.    Cardinality  is  more  useful  for  pricing  an  instrument.  Translation  of  credit 
+
+ratings to default probabilities is, however, not a straight forward task.   
+
+Some of the serious limitations of credit rating are its backward looking nature (depends on past data) 
+
+which in a dynamic market framework can have serious consequences including accentuating a systemic 
+
+crisis  like  the  current  global  crisis,  and  its  failure  and  unwillingness  to  capture/cover  market  risks. 
+
+Estimating  market  risk  can  potentially  make  the  rating  exercise  forward  looking,  could  avoid  sudden, 
+
+multiple  downgrades  and reduce  the  pro-cyclicality  of  rating.    A  really  informed forward  looking  rating 
+
+could  potentially  also  capture  tail  risks  and  forewarn  the  system  to  help  take  systemic  steps  well  in 
+
+advance to avoid panic and knee-jerk reactions. If rating is to straddle the high ground it aspires to hold 
+
+rating exercise has to achieve this dynamism to really help measure all the risks of the market, rather than 
+
+sticking to a partial methodology of expressing an opinion on a few aspects of the product they rate.  No 
+
+product can be usefully rated in a vacuum, isolated from the caprices of the market as a whole. 
+
+4.7 
+
+Whither Credit Rating Agencies ? 
+
+The informational value of credit rating and informational effect of credit ratings are matters of 
+
+continuing  debate.  The  central  issue  is  whether  institutions  of  credit  rating  are  in  a  better  position  to 
+
+decipher the default risk present in  financial instruments than the financial markets. Empirical evidence 
+
+from some countries have suggested that  markets do this information processing better than credit rating 
+
+institutions.  Academic  studies  argue  that    by  looking  at  the  market  price  it  would  be  easy  to  infer  an 
+
+effective    credit  rating  of  each  instrument.    Since  market  prices  are  available  at    near  zero  cost  ,  there 
+
+would appear to be no role for credit rating. 
+
+The rationale for credit rating  may be expressed on the following counts: 
+
+1. 
+
+If markets do not trade a particular instrument actively , then there is an informational challenge. 
+
+In general impact cost  on the market is lowered when more is publicly known about the securities being 
+
+traded. In such cases a ―good‖ credit rating (for eg.  one which forecasts the interest rate at which bonds 
+
+are traded  on the secondary market. If issue A   is rated above B then markets should demand a lower 
+
+interest from A than B) helps reduce informational asymmetry and enhance liquidity in the market. 
+
+2. 
+
+Suppose a company wants to do a primary market issue of bonds/ equity.  At the time of issue, 
+
+in the absence of trading , the default risk may not be clearly known to the market. This could generate  a 
+
+phenomenon like IPO underpricing. Hence it is optimal  for the issuer to obtain  a credit rating so as to  
+
+place the bonds / equity at a superior price. 
+
+3. 
+
+International obligations like Basel 2 require prudential provisioning of capital on the basis of risk 
+
+weights  attached  to  assets.  Computation  of  capital  required  to  be  maintained  by  banks  then  requires 
+
+rating of its assets. 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 22 
+
+ 
+
+In  practice,  by  nudging  more  trades  to  the  exchange  platform  the  problem  of  informational 
+
+challenge can be addressed. Till such time greater disclosure of reliable information can help the market in 
+
+pricing the issue. Recent financial crisis has shown that ratings provided by credit rating agencies despite 
+
+access to non public information have been faulty.  
+
+ However where market asymmetries are strong and financial literacy low, sound credit rating can 
+
+continue to bridge the information gap considerably.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 23 
+
+ 
+
+Chapter 5 
+
+The regulatory framework for CRAs  
+
+5.1 
+
+SEBI Regulations  
+
+The  Securities  and  Exchange  Board  of  India  (Credit  Rating  Agencies)  Regulations,  1999 
+
+empower  SEBI  to  regulate CRAs  operating  in  India.  In  fact,  SEBI  was  one  of  the  first  few  regulators, 
+
+globally, to put in place an effective and comprehensive regulation for CRAs. In contrast, the US market 
+
+saw CRA regulations only recently (in 2007), and the European Union is still in the process of framing its 
+
+regulations.  SEBI‘s  CRA  regulations  have  been  used  as  model  by  other  regulators  in  the  emerging 
+
+economies.  In  terms  of  the  SEBI  Regulations,  a  CRA  has  been  defined  as  a  body  corporate  which  is 
+
+engaged in or proposes to be engaged in, the business of rating of securities offered by way of public or 
+
+rights issue. The term ―securities‖ has been defined under the Securities Contract (Regulation) Act, 1956. 
+
+SEBI  has  also  prescribed  a  Code  of  Conduct  to  be  followed  by  the  rating  agencies  in  the  CRA 
+
+Regulations.    However,  SEBI  administers  the  activities  of  CRAs  with  respect  to  their  role  in  securities 
+
+market only. 
+
+SEBI regulation for CRAs has been designed to ensure the following: 
+
+-  Credible players enter this business (through stringent entry norms and eligibility criteria ) 
+
+-  CRAs operate in a manner that enables them to issue objective and fair opinions (through well-
+
+defined general obligations for CRAs) 
+
+-  There is widespread investor access to ratings (through a clearly articulated rating dissemination 
+
+process). 
+
+-  The applicant should be registered as a company under the Companies Act, 1956 and possess a 
+
+minimum network of Rs.5 crore.   
+
+The  following  are  some  of  the  General  Obligations  specified  in  the  CRA  regulations.  CRAs  are 
+
+amongst  the  very  few  market  intermediaries  for  which  such  detailed  operating  guidelines  have  been 
+
+prescribed under the regulations. The detailed SEBI regulations for CRAs are given in Annexure 2. 
+
+  Code of Conduct stipulated by SEBI 
+
+  Agreement with the client  
+
+  Monitoring of ratings  
+
+  Procedure for review of rating  
+
+Ministry of Finance, Capital Markets Division   
+
+Page 24 
+
+ 
+
+ 
+
+Internal procedures to be framed by the CRA 
+
+  Disclosure of Rating Definitions and Rationale by the CRA 
+
+  Submission of information to the Board  
+
+  Compliance with circulars etc., issued by the Board 
+
+  Appointment of Compliance Officer  
+
+  Maintenance of Books of Accounts records, etc.  
+
+  Confidentiality  
+
+  Rating process  
+
+These regulations cover issues with respect to confidentiality of information and disclosure with 
+
+respect  to  the  rationale  of  the  rating  being  assigned.  Several  other  provisions  exist,  like  the  regulator‘s 
+
+right to inspect a CRA. An important feature of the regulation is that CRAs are prohibited from rating 
+
+their promoters and associates.  
+
+5.2 
+
+SEBI Code of conduct  
+
+SEBI‘s  code  of  conduct  for  CRAs  addresses  some  of  the  basic  issues  relating  to  conflicts  of 
+
+interest. The Code of Conduct is designed to ensure transparent and independent functioning of CRAs.  
+
+Some of the salient provisions of the Code of Conduct are: 
+
+ 
+
+ 
+
+A CRA shall make all efforts to protect the interests of investors. 
+
+A  CRA  shall  at  all  times  exercise  due  diligence,  ensure  proper  care  and  exercise 
+
+independent professional judgment in order to achieve and maintain objectivity and independence in the 
+
+rating process. 
+
+ 
+
+A  CRA  shall  have  in  place  a  rating  process  that  reflects  consistent  and  international 
+
+rating standards. 
+
+ 
+
+A  CRA  shall  keep  track  of  all  important  changes  relating  to  the  client  companies  and 
+
+shall  develop  efficient  and  responsive  systems  to  yield  timely  and  accurate  ratings. Further  a  CRA  shall 
+
+also monitor closely all relevant factors that might affect the creditworthiness of the issuers. 
+
+ 
+
+ 
+
+A CRA shall disclose its rating methodology to clients, users and the public. 
+
+A CRA shall not make any exaggerated statement, whether oral or written, to the client 
+
+either about its qualification or its capability to render certain services or its achievements with regard to 
+
+the services rendered to other clients. 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 25 
+
+ 
+
+The complete SEBI Code of Conduct may be seen at Annexure 3. 
+
+5.3 
+
+Provisions relating to conflict of interest 
+
+Credibility is the cornerstone of acceptability of credit rating services in the market. SEBI has 
+
+prescribed certain provisions in the Code of Conduct  to ensure credible rating  devoid of conflict of 
+
+interest. The important ones are as follows.  
+
+  A CRA shall, wherever necessary, disclose to the clients, possible sources of conflict of 
+
+duties  and  interests,  which could  impair  its  ability  to  make  fair,  objective  and  unbiased 
+
+ratings. Further it shall ensure that no conflict of interest exists among any member of its 
+
+rating committee participating in the rating analysis, and that of its client. 
+
+  A  CRA  or  any  of  its  employees  shall  not  render,  directly  or  indirectly,  any  investment 
+
+advice about any security in the publicly accessible media. 
+
+  A CRA shall not offer fee-based services to the rated entities, beyond credit ratings and 
+
+research. 
+
+  A CRA shall maintain an arm‘s length relationship between its credit rating activity and 
+
+any other activity. 
+
+  A  CRA  shall  develop  its  own  internal  code  of  conduct  for  governing  its  internal 
+
+operations and laying down its standards of appropriate conduct for its employees and 
+
+officers in the carrying out of their duties within the CRA and as a part of the industry. 
+
+Such  a  code  may  extend  to  the  maintenance  of  professional  excellence  and  standards, 
+
+integrity,  confidentiality,  objectivity,  avoidance  of  conflict  of  interests,  disclosure  of 
+
+shareholdings  and  interests,  etc.  Such  a  code  shall  also  provide  for  procedures  and 
+
+guidelines in relation to the establishment and conduct of rating committees and duties 
+
+of the officers and employees serving on such committees. 
+
+Despite  maintaining  a  Chinese  Wall  between  advisory  services  and  rating  services  criticism 
+
+persists as rating and non-rating entities have common ownership and top management. Recognising the 
+
+merit  in  such  criticism,  CARE‘s  Board  decided  to  discontinue  its  advisory  service  business  and  their 
+
+activities are confined to only credit rating and research activities. 
+
+CRAs in general maintain that while non rating services do pose conflict of interest challenges on 
+
+one hand, revenues from other services reduce dependence on rating service revenues  thereby enabling 
+
+them to maintain objectivity and independence.  
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 26 
+
+ 
+
+5.4   Multiplicity of regulators 
+
+A  significant  portion  of  CRAs‘  revenues  are  from  products  that  come  under  the  purview  of 
+
+SEBI.  However,  there  are  rating  agency  products  that  are  regulated  by  RBI  (such  as  bank  loans,  fixed 
+
+deposits,  and  commercial  paper).  RBI  carried  out  a  detailed  and  rigorous  evaluation  of  Indian  CRAs 
+
+before granting them External Credit Assessment Institution status for rating of bank loans under Basel 
+
+II.  Further, some regulators (such as IRDA and PFRDA) have incorporated ratings into the investment 
+
+guidelines  for  the  entities they  regulate.  The  list  of  various  products,  and  the relevant  regulators,  are  as 
+
+noted below:     
+
+Table  5.1 Products / Instruments requiring mandatory rating before issuance 
+
+Instrument 
+
+Sl. 
+No 
+
+Public / Rights/ Listed issue of bonds  
+
+IPO Grading 
+
+Capital protection oriented funds 
+
+Collective Investment Schemes of plantation 
+companies 
+
+Commercial Paper 
+
+Bank loans 
+
+Security Receipts 
+
+Regulator 
+
+SEBI 
+
+SEBI 
+
+SEBI 
+
+SEBI 
+
+RBI 
+
+RBI (Basel II capital computation for banks) 
+
+RBI (For NAV declaration) 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Securitised instruments (Pass Through Certificates) 
+
+RBI ((Basel II capital computation for banks) 
+
+Fixed Deposits by NBFCs & HFCs 
+
+RBI 
+
+10 
+
+LPG/SKO Rating 
+
+Ministry of Petroleum and Natural Gas 
+
+12  Maritime Grading 
+
+Directorate General of Shipping (for some 
+courses) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 27 
+
+ 
+
+Table  5.2 Regulatory prescription of use of ratings for investment purposes  
+
+S. No 
+
+Product 
+
+Regulator 
+
+Banks‘ investments in unrated non-SLR portfolio  RBI 
+
+Investments by Insurance companies 
+
+IRDA 
+
+Provident Fund investments  
+
+Government of India   
+
+1 
+
+2 
+
+3 
+
+ 
+
+Table 5.3  Products that are not mandated or covered  
+
+Performance gradings (non financial instruments 
+
+Ratings (Financial instruments) 
+
+Real Estate Developer/Project rating 
+
+Privately-placed bonds and debentures 
+
+Broker grading 
+
+Governance and Value Creation ratings 
+
+MFI Grading (encouraged by SIDBI, Nabard) 
+
+Short term debt/Fixed deposits invested by 
+non-banks and bank CD‘s 
+
+Bond Fund ratings (except Capital protection-
+oriented funds) 
+
+Financial strength ratings for insurance 
+companies 
+
+NSIC rating for SSI/SME ratings (encouraged by NSIC) 
+
+Contractor gradings 
+
+ 
+
+5.5 
+
+International Regulations  
+
+ 
+
+ 
+
+IOSCO  has  formulated  a  Code  of  Conduct  Fundamentals  for  the  working  of  CRAs.  The  revised 
+
+IOSCO Code of Conduct Fundamentals for CRAs is given at Annexure 4. The Code Fundamentals are 
+
+designed  to  apply  to  any  CRA  and  any  person  employed  by  a  CRA  in  either  in  full  time  or  part  time 
+
+capacity. The Code of Conduct focuses on transparency and disclosure in relation to CRA methodologies, 
+
+conflicts  of  interest,  use  of  information,  performance  and  duties  to  the  issuers  and  public,  the  role  of 
+
+CRA in structured finance transactions etc.  It does not dictate business models or governance but rather 
+
+seeks  to  provide  the  market  with  information  to  judge  and  assess  CRA  activities,  performance  and 
+
+reliability.  The IOSCO Code of Conduct broadly covers the following areas; 
+
+  Quality and integrity of the rating process – This includes the measures to ensure quality of the rating 
+
+process and monitoring and updating by the CRAs. 
+
+  CRA‘s independence and avoidance of conflicts of interest – The procedures and policies to ensure 
+
+the same. 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 28 
+
+ 
+
+  CRA‘s responsibilities to the investing public and issuers – These address issues such as  transparency 
+
+and timeliness of ratings disclosure  and  the treatment of confidential information.  
+
+  Disclosure  of  the  code  of  conduct  and  communication  with  market  participants  –  This  requires 
+
+CRAs  to  disclose  to  the  public,  inter  alia,  its  code  of  conduct,  how  the  code  of  conduct  is  in 
+
+accordance  with  the  IOSCO  Principles  regarding  the  activities  of  Credit  Rating  Agencies  and  the 
+
+IOSCO Code of Conduct Fundamentals for Credit Rating Agencies and in case of deviation, reasons 
+
+for the same. 
+
+ 
+
+It is observed that all SEBI regulated CRAs in India have framed their internal code of conduct, 
+
+which have provisions, inter alia, of conflict of interest management, avoidance and disclosures of conflict 
+
+of interest situations etc. and such provisions prescribed are by and large in accordance with the IOSCO 
+
+Code of Conduct Fundamentals for CRAs. The internal code of conduct formulated by the CRAs is in 
+
+addition to the Code of Conduct prescribed under the SEBI(CRA) Regulations – 1999.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 29 
+
+ 
+
+Chapter 6 
+
+Regulatory concerns about CRA business models 
+
+6.1  
+
+ Regulatory concern 
+
+International 
+
+Internationally in view of the inadequacies observed in the functioning of CRAs, particularly in 
+
+the  wake  of  the  sub-prime  financial  crisis,  there  is  a  growing  concern  among  the  regulators  about  the 
+
+potential gap between expectation and realisation- between reliance on credit ratings and the reliability of 
+
+such ratings. The concern emanates from the fact that inaccurate credit ratings could disturb the market 
+
+allocation incentives, cost structures and competition. In view of the multiple activities performed by the 
+
+rating agencies and the  complexity of certain instruments for which the CRAs render their service, there 
+
+are  apprehensions  about  regulatory  arbitrage,  non-maintenance  of  arm‘s  length  distance,  porosity  of 
+
+Chinese Walls, inappropriate conflict management etc  arising out of the activities of the rating agencies.  
+
+In  short  there  is  real  regulatory  (and  market)  apprehension  that  the  self-regulation  model  of  conflict 
+
+regulation has failed substantively in the CRA realm and that the model of multiple businesses of CRAs is 
+
+riddled  with  inherent  conflict  that  cannot  be  solved  with  internal  Chinese  walls  and  codes  of  conduct 
+
+alone.  The  ‗gate-keepers‘  commercial  aspirations  appear  to  be  too  high  so  that  they  have  become  just 
+
+enterprises driven by the profit / revenue only agenda  like other market intermediaries, rather than the 
+
+ethos of institutions. 
+
+CRAs  have  been  highly  criticized  for  understating  the  risk  involved  with  instruments  like 
+
+Mortgage  Backed  Securities  (MBS).  CRAs  have  given  investment  grade  ratings  to  securitization 
+
+transactions viz. Collateralized Debt Obligations (CDOs) and MBS based on sub prime mortgage loans. 
+
+Higher ratings were justified by the rating agencies by citing various credit enhancements, including over 
+
+collateralization (i.e pledging collateral in excess of the debt issues). In the USA, CRAs had failed to warn 
+
+the public of imminent bankruptcies in case of  Enron and WorldCom, as well as the recent sub-prime 
+
+loan  crisis.  It  is  alleged  that  the  lenient  standards  adopted  by  rating  agencies  for    MBS  segment  could 
+
+possibly be because the rating fees were twice as high for the mortgage-backed bonds as for the corporate 
+
+bonds. It is also possible that the dealers regularly sought the inputs from the CRAs when creating new 
+
+issues,  which  effectively  put  the  rating  agencies  in  a  position  to  influence  the  size  of  the  market  from 
+
+which  they  drew  lucrative  revenues.  At  the  same  time,  the  dealers  were  shopping  around  for  ratings, 
+
+inviting  a  ―race  to  the  bottom‖,  leading  to  inflated  ratings.  Mortgage-backed  bonds  being  a  relatively 
+
+recent  innovation,  assessments  of  creditworthiness  by the  rating  agencies  ended  up  relying  on  data  and 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 30 
+
+ 
+
+techniques provided by the dealers.  But these were all reflections of the underlying conflicts arising from 
+
+their business models-the opportunity to help structure and rate millions of complex derivative products 
+
+just magnified it, exposing both the conflicts and capabilities of the CRAs. 
+
+India  
+
+In India CRAs rate money market instruments and also play an important role in the pension and 
+
+insurance  sector.    For  example,  in  the  context  of  implementation  of  the  Basel  II  Framework  in  India, 
+
+from March 2008, for the capital adequacy regime of the banks, it has been decided to adopt, initially, the 
+
+Standardized Approach for determining the capital charge for the credit risk inherent in the operations of 
+
+banks. The Standardized Approach relies almost entirely on the ratings assigned by the CRAs, accredited 
+
+for  the  purpose  by  the  RBI.  These  ratings  are  mapped  into  the  corresponding  regulatory  risk  weights 
+
+applicable to the credit risk exposures on the counterparties, which form the basis of computation of the 
+
+capital  adequacy  ratio  of  the  banks.  Besides,  the  capital  charge  for  specific  risk  under  the  Market  Risk 
+
+Framework for interest rate-related instruments is also governed by the ratings assigned by the CRAs to 
+
+the instrument concerned. Similarly IRDA and PFRDA recognize the ratings approved by rating agencies  
+
+for prescribing their investment guidelines. SEBI regulates the CRA activities from the securities market 
+
+point of view. Thus activities performed by CRAs which fall under the jurisdiction of   other regulators 
+
+should also be governed by appropriate guidelines and principles relevant to them.  
+
+Following are potentially the major regulatory concerns of the Indian regulators. It must be noted 
+
+that some of these are generic to the industry. 
+
+1.  Regulatory arbitrage resulting from activities of CRAs being governed/ used by various 
+
+regulators. 
+
+2.  Inadequacy of existing methodologies  adopted by CRAs  for structured products given 
+
+their  complexity,  multiple  tranches  and  their  susceptibility  to  rapid,  multiple-notch 
+
+downgrades which are pro-cyclical. 
+
+3. 
+
+ A  basic  conflict  of  interest  which  is  partly  inherent,  since  the  sponsor/issuer  of  new 
+
+instruments pays the CRA for being rated.  
+
+4.  A  general  lack  of  accountability  as  CRAs  do not  have  a  legal  duty  of  accuracy  and  are 
+
+often protected from liability in case of inaccurate ratings.  
+
+5.  CRAs sometimes provide ancillary services in addition to credit ratings. The issuer may 
+
+use the incentive of providing the CRA with more ancillary business in order to obtain 
+
+higher  ratings.  There  is  a  clear  conflict  of  interest  in  offering  advisory  services  or 
+
+consulting services to entities rated by the CRA. 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 31 
+
+ 
+
+6.  Oligopolistic  nature  of  the  rating  industry  because  of  natural  barriers  or  propriety 
+
+barriers of entry leading to lack of competition. 
+
+6.2 
+
+How do CRAs address regulatory concerns? 
+
+The following are the major areas of concern: 
+
+1.  Issuer pay model 
+
+2.  Inter agency coordination and regulatory arbitrage 
+
+3.  Conflict of interests 
+
+4.  Regulatory issues 
+
+a.  Accountability 
+
+b.  Methodology 
+
+c.  Other services 
+
+d. 
+
+Industry structure 
+
+Investor  over-  reliance  on  credit  ratings  has  been  long  recognised  as  undesirable,  although  by 
+
+embedding  ratings  in  various  regulations  some  authorities  have  inadvertently  encouraged  their  overuse.  
+
+For  example  the  longstanding  use  of  credit  ratings  to  screen  eligible  collateral  for  various  central  bank 
+
+liquidity backstop facilities is viewed as encouraging ―rating shopping‖6.  Regulations relating to pension 
+
+fund  holdings,  for  example,  typically  restrict  fixed-income  investment  to  those  with  investment-grade 
+
+ratings  (i.e.  BBB  and  higher).    Furthermore,  although  the  differentiation  of  structured  credit  ratings  is 
+
+welcome, the ratings remain based on one-dimensional metrics (default probabilities or expected losses) 
+
+that fail to capture all of the risk dimensions peculiar to tranched products7.  Currently rating for complex 
+
+products like structured obligations are indicated by using special symbols.  It also highlights the need for 
+
+greater awareness generation.   
+
+CRAs  follow  a  reputational  model.    Users  will  approach  CRAs    for ratings  only  if  its  opinions 
+
+carry creditability with investors whom the issuers are trying to signal.  Ratings which undergo frequent 
+
+downgrades may not inspire confidence of the market.  This incentivizes CRAs to maintain high quality 
+
+of ratings.Rules, regulations, statutes as well as compliance with international covenants ensure that CRAs 
+
+behave  in  a  transparent  manner.    Misdemeanour  can  be  punished  through  tight  regulations. Regulatory 
+
+arbitrage can be resolved by following lead regulatory model or greater inter agency coordination. 
+
+                                                      
+6 Rating shopping involves selection of the rating agencies that will assign the highest rating to their particular issues while this has been 
+identified as a potential problem, it has been difficult to prove that it was actual happening.  Evidences accumulating that rating shopping 
+was rampant during the period leading up to the crisis.  (Global Financial Stability Report, October 2009,  IMF, Washington DC) 
+
+7 Global Financial Stability Report, October 2009,  IMF, Washington DC, pages 82-83, 96-97. 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 32 
+
+ 
+
+ 
+
+CRAs argue that advisory or consulting services are offered by different legal entities with whom 
+
+physical,  organizational  and  functional  separation  is  maintained.  CRISIL  and  ICRA  have  separated  the 
+
+advisory  business  into  separate  companies,  managed  by  separate  teams  with  separate  organisation 
+
+structures.  
+
+CARE  though  until  recently  carried  out  this  business  as  part  of  its  rating  business,  has  now 
+
+decided to exit advisory business. With respect to individuals, CRAs ensure that common directors do not 
+
+attend rating committee meeting and disclosures to that effect are made. Further analyst compensation is 
+
+not linked to rating fees. Each rating by the CRA passes though a multi-layer process and there is a team 
+
+approach  to  avoid  individual  bias.  Rating  fees  are  not  linked  to  issue  success  or  rating  level  and  are 
+
+decided  upfront  and  there  is  separation  of  business  development  and  analytical  teams.  Another  leading 
+
+CRA  stated  that  in  order  to  avoid  conflicts  of  interest,  their  advisory  and  consulting  services  division  
+
+have  been  spun off  into  a separate  company  and  has  its  own  independent management, staff  rules  and 
+
+personnel policies.  
+
+The  SEBI  CRA  Regulations  state  that  a  CRA  cannot  rate  an  entity  with  common  chairman, 
+
+directors, or employee of credit rating agency or its  rating committee. A CRA can rate a company with 
+
+which it shares an independent director, but the existence of the common independent director and the 
+
+fact that he or she did not participate in the rating process needs to be disclosed. 
+
+The entry requirements into the Credit Rating industry is stringent  but does not act as a barrier 
+
+to entry of new funds. 
+
+6.3 
+
+Pros and Cons of 'issuer pays model' 
+
+Under ‗issuer-pays-model‘ the entity that issues the security also pays the rating agency for the rating. 
+
+Quality/ accuracy of ratings: 
+
+Conceptually,  the  issuer-pays  model  may  appear  to  imply  an  inherent  bias  which    may  lead  to 
+
+CRAs  assigning  higher-than-warranted  ratings  to  issues  they  rate.  CRAs  have  argued  that  they  have 
+
+several checks and balances and robust operating guidelines and procedures to ensure that the quality of 
+
+ratings  is  high  and  objective.  One  example  of  this  is  separation  of  business  development,  analytical, 
+
+criteria,  and  quality  teams.  CRAs    point  to  a  long-term  track  record  of  default  and  transition  statistics 
+
+which demonstrate that higher ratings are consistently more stable and have a lower probability of default 
+
+than lower ones. Specifically it is argued that 
+
+i) Ratings are ordinal; that is the higher the rating, the lower are the observed default levels. 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 33 
+
+ 
+
+ii)  Ratings  have  been  assigned  across  the  entire  rating  scale,  with  no  bias  in  their  distribution  towards 
+
+higher  ratings,  which  would  be  the  pattern  expected  had  the  CRAs  been  influenced  by  the  issuer-pays 
+
+model. 
+
+iii) Rating actions are distributed across both upgrades and downgrades, which is also a different pattern 
+
+from the one expected where the issuer-pays model might influence the decision to upgrade rather than 
+
+downgrade and also work to prevent downgrades. 
+
+CRAs have a strong incentive to maintain the highest quality of rating, since issuers will approach a CRA 
+
+for  ratings  only  if  its  opinions  carry  credibility  with  investors  whom  they  are  trying  to  access. 
+
+Nevertheless, there are questions about whether all CRAs adopt uniformly high governance and process 
+
+standards.  
+
+Widespread availability of ratings: 
+
+This  is  the  strength  of  the  issuer-pays  model.  The  goal  of  ratings  is  to  reduce  information 
+
+asymmetry. Because issuers/borrowers pay for ratings, the market and lenders significantly benefit from 
+
+the  wide  availability  of  credit  ratings.  Today,  all  ratings  and  rating  changes  are  available  to  the  entire 
+
+market  --  including  retail  investors  --  free  of  charge,  as  they  are  widely  disseminated  by  rating  agency 
+
+websites  and  the  media.  An  investor  can  compare  the  ratings  of  a  wide  array  of  instruments  before 
+
+making  an  investment  decision,  and  can  continuously  evaluate  the  relative  creditworthiness  of  a  wide 
+
+range of issuers and borrowers. 
+
+• 
+
+Other features of the issuer-pays model: 
+
+Access to information enhances quality of analysis 
+
+The issuer-pays model provides CRAs access to company managements on a regular basis. CRAs 
+
+submit that this allows them to provide superior quality and depth of analysis to the market, which would 
+
+be difficult under public information-based and model-driven approaches. The CRA‘s contract with the 
+
+issuer/borrower  places  an  obligation  on  the  issuer‘s  management  to  cooperate  in  sharing  information, 
+
+which  is  critical  for  maintaining  continuous  surveillance  on  rated  credits.  Because  the  issuer‘s 
+
+management  has  commissioned  the rating  exercise,  its  level  of  engagement  in  providing  information to 
+
+the CRA is high. Issuer managements often provide CRAs insights into future strategy that might not be 
+
+in the public domain. Moreover, interactions also help rating agencies evaluate management capabilities 
+
+better.  For  rating  structured  finance  issuances,  the  question  assumes  even  greater  criticality,  since  it  is 
+
+virtually  impossible  to  rate  these  instruments  without  access  to  information  from  the  originator  of  the 
+
+underlying assets.  
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 34 
+
+ 
+
+Cost of ratings is kept low 
+
+Currently,  rating  fees  are  the  smallest  element  in  the  cost  of  raising  money.  With  large  and 
+
+frequent issuers of debt, rating agencies typically work on the basis of fee caps (negotiated lump-sum fees 
+
+as  opposed  to  issue-by-issue  or  loan-by-loan  pricing).  Not  only  does  this  keep  rating  fees  low,  it  also 
+
+results in smaller issuers being, in effect, subsidised by larger ones.  
+
+6.4 
+
+Pros and Cons of alternatives to 'issuer pays model' 
+
+Besides ‗Issuer Pays Model‘, the three other potential commercial models for rating agencies are: 
+
+1. 
+
+2. 
+
+3. 
+
+Investor pays  
+
+Government/regulator pays 
+
+Exchange pays model 
+
+6.4.1  The investor-pays model 
+
+Under ‗investor-pays-model‘ the user of the ratings pays for the ratings. 
+
+• 
+
+  
+
+Quality/accuracy of ratings: 
+
+According to CRAs this model does not eliminate the conflict of interest- it only shifts the source 
+
+of conflict from issuer to investors. Under the investor-pays model, CRAs could give lower ratings than 
+
+indicated  by  the  actual  credit  quality  of  the  rated  debt,  so  that  investors  would  get  a  higher  yield  than 
+
+warranted.  Pressures from investors to avoid rating downgrades would increase considerably under the 
+
+investor-pays model, since downgrades result in mark-to-market losses on rated securities. In fact, even 
+
+under the current issuer-pays model, CRAs face a high level of pressure from investors to not downgrade 
+
+ratings. In particular, it is possible that a large investor who has  a large exposure  on an issuer  would like 
+
+to  have a more favourable rating  for that issuer. On the other hand, a short seller would prefer if the 
+
+rating is lowered. Internationally, the experience with the investor-pays models has not been successful. 
+
+Nevertheless, the potential conflicts seem substantially less severe than for the ―issuer pays‖ model. One 
+
+example  of  a  rating  agency  that  operates  today  on  the  basis  of  subscription  by  investors  is  Egan-Jones 
+
+Ratings; it is now recognised by the US SEC, but its coverage and impact have been low. 
+
+ 
+
+Widespread availability of ratings: 
+
+The investor-pays model is weak on this count.  If investors pay for ratings, only investors who 
+
+pay  will  get  access  to  ratings.  The  goal  of  reduced  information  asymmetry  is  therefore  compromised 
+
+under this model. Investors would also not be able to benchmark the quality of their investments against 
+
+other  companies,  since  they  may  not  be  willing  to  pay  for  ratings  of  companies  in  which  they  do  not 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 35 
+
+ 
+
+invest. This model also favours large investors who can afford to pay for ratings. The biggest losers are 
+
+the smaller institutional investors and the retail investors, who would have had free access to all ratings 
+
+under the issuer-pays model or the Government/regulator pays model (discussed later).  
+
+ 
+
+Other advantages and limitations of the investor-pays model: 
+
+Greater responsiveness to investor concerns 
+
+Under the investor-pays model CRAs could be more responsive to investor concerns and further 
+
+the  investor  protection  agenda  as  they  would  be  positioned  as  quasi-investor  representatives.  Also,  an 
+
+investor  paying  for  a  specific  rating  could  demand  customised  analysis  from  the  rating  agency  which  is 
+
+attuned to their goals or organisational requirements.  
+
+Investor is not known at the time of assigning ratings  
+
+Issuers/borrowers  intending  to  raise  money  approach  CRAs  for  an  independent  evaluation, 
+
+based  on  which  they  approach  prospective  investors.  This  means  that  typically,  when  the  rating  is 
+
+assigned, the investor is not known. If the investor were to commission and pay for ratings, it would lead 
+
+to huge inefficiencies and practical problems in the fund-raising programmes of issuers/borrowers.   
+
+Bias against smaller issuers/borrowers 
+
+The problem of investors not being known can be addressed by rating agencies assigning ratings 
+
+suo-moto to large/frequent issuers and borrowers; investors can later pay for this on a subscription basis. 
+
+However,  this system  creates  a strong  bias  against  smaller  issuers  which  would  not get  rating  coverage, 
+
+and their funding programmes could be severely impaired. Suo-moto ratings also suffer the disadvantage of 
+
+not getting a meaningful interaction with the management to make an assessment about them and their 
+
+strategy. In fact, this is the main reason why rating agencies that operate on the investor-pays model have 
+
+limited coverage and impact. 
+
+Costs of ratings would increase 
+
+Investors  would  choose  to  pay  for  ratings  of  those  companies  that  they  are  interested  in,  and 
+
+even here, only for rating specific issuances by a particular company. The benefits of fee caps as described 
+
+above would be lost and the overall rating costs could go up. From the point of view of investors, it will 
+
+increase    information  asymmetry    as  ratings  opinion  will  be  available    only  with  a  few  large  investors 
+
+which is detrimental to the liquidity and  development of  the market. 
+
+Limited access to information could affect quality of analysis 
+
+If investors were to pay for ratings, issuers would not be  contractually bound to provide rating 
+
+agencies  access  to  information  and  regular  management  interactions.  This  is  important  if  the  rating 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 36 
+
+ 
+
+agency has to carry out surveillance on an ongoing basis. Moreover, regular meetings with management 
+
+and insights on company strategy enable rating agencies to make a thorough evaluation of management 
+
+capabilities and risk appetite.  It is hard to envisage the same level of access, information and sharing of 
+
+insights as exists under the issuer-pays model. Further this may also involve  rating of the same issue by 
+
+multiple agencies  resulting in the issuer  being required to meet and share information  with all agencies. 
+
+The Reserve Bank of India, under Basel II guidelines, has stipulated that even though ratings are 
+
+used  by  the  banks  for  determining  their  capital  requirements,  the  ratings  should  be  solicited  by  the 
+
+companies themselves, and not by the banks.  
+
+6.4.2  
+
+ The Government/regulator-pays model 
+
+In this model the Government funds the rating costs. 
+
+• 
+
+Quality/accuracy of ratings: 
+
+Conceptually, this model would carry less inherent bias, since in most cases there is no incentive 
+
+to  provide  either  higher-than-warranted  or  lower-than-warranted  ratings.  The  one  exception  that  could 
+
+arise  would  be  in  case  of  public  sector  enterprises;  the  perception  could  be  that  the  government  could 
+
+influence rating outcomes in this case. 
+
+• 
+
+Widespread availability of ratings: 
+
+This  can  also  be  easily  ensured  under  the  government/regulator  pays  model  as  they  could 
+
+stipulate  that  rating  agencies  make  all  ratings  and  rating  changes  freely  available  on  their  websites  and 
+
+disseminate them through the media as happens currently. 
+
+• 
+
+Other positive and negative aspects of the Government/regulator pays model: 
+
+Control over/guidance of rating agencies becomes simpler 
+
+If Government/regulators pay for ratings, it becomes easier to monitor and control the activities 
+
+of rating agencies 
+
+Moral hazard: Rating opinions being seen as being endorsed by the Government 
+
+This is a major limitation of the Government/regulator pays model. Investors and markets could 
+
+see the opinions provided by rating agencies as having government endorsement. This carries the serious 
+
+risk  of  expectation  of  Government  support  in  the  event  of  default  by  a  rated  entity.  This  risk  is  larger 
+
+than it may seem as evident in recent actions across the globe. 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 37 
+
+ 
+
+Use of public money for companies and institutional investors who can afford to pay for ratings 
+
+It is questionable whether paying for ratings is the best use of public funds as compared to other 
+
+objectives  like  improving  financial  literacy  and  small  investor  protection.  Both  issuers  and  institutional 
+
+investors can well afford to pay for ratings. As explained above, under the issuer-pays model, the small 
+
+retail investor too benefits as ratings are freely available in the public domain. India has emerged as the 
+
+second-largest rating market, with the widespread acceptance of rating by the regulators and the markets. 
+
+The budget for supporting this industry could be quite substantial.  
+
+Limited access to companies could affect quality of analysis 
+
+If Government/regulators pay the rating agencies, issuers would not be contractually bound to 
+
+provide  rating  agencies  access  to  information,  and  regular  management  interactions,  which  could  affect 
+
+the quality of analysis.  
+
+Several practical problems in implementation 
+
+The challenge under the Government/regulator pays model is: how would the choice of rating 
+
+agency  for  a  rating  a  specific  issuer/company  be  made,  and  by  whom?  How  would  the  rating  fees  be 
+
+decided?  If  a  company  desiring  to  raise  money  approaches  the  regulator  to  request  that  a  rating  be 
+
+commissioned, would they also specify which rating agency they would prefer? This in effect, would make 
+
+it an issuer-driven choice. Would companies or issues be allocated on a random basis amongst all rating 
+
+agencies?  This  would  lead  to  huge  inefficiencies  and  the  costs  of  ratings  would  increase  from  a  system 
+
+perspective.  Adequate  safeguards  also  need  to  be  put  in  to  ensure  that  the  oversight  of  the  work 
+
+allocation to the rating agencies remains objective, lest any subversion of rating outcomes take place as a 
+
+result of undue influence. 
+
+These  measures  could  also  breed  complacency  amongst  CRAs,  who  will  begin  to  see  it  as  a 
+
+steady assured business, rather than the current situation of fending for themselves. For example, if the 
+
+selection  of  rating  agencies  is  done  on  a  random  basis,  then  rating  agencies  will  have  no  incentive  to 
+
+produce the most analytical rigorous, independent, objective rating on a timely basis which will provide 
+
+best insights for investors. 
+
+6.4.3  
+
+ The Exchange-pays model 
+
+Under this model the exchanges pay for the ratings and recover the cost through an additional 
+
+trading fee. 
+
+The major advantage of this model is that the investors would be paying for the rating thereby 
+
+eliminating the conflict of interest inherent in 'issuer pays model'  and at the same time the rating agencies 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 38 
+
+ 
+
+would  not  be  influenced  either  by  the  rated  company  or  the  investors.  The  major  disadvantage  of  this 
+
+model is that this model can work only for securities that are listed. 
+
+The  above  discussion  indicates  why  the  issuer-pays  model  has  prevailed  over  other  possible 
+
+alternative models. Recent regulatory initiatives in the United States and Europe aim to address the issue 
+
+of conflict of interest presented by this model, but do not recommend a move to any other model. What 
+
+they recognise is that rating agencies should be subject to scrutiny to ensure that conflicts of interest do 
+
+not  influence  rating  decisions.  Their  recommendations  to  manage  this  conflict  include  greater 
+
+transparency and disclosures, and better governance practices to ensure independence. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 39 
+
+ 
+
+Chapter 7 
+
+Recommendations  
+
+7.1 
+
+Deliberations of the Committee 
+
+The  Committee had four  meetings  in  which  extensive deliberations  on  the  various  issues  on  CRAs 
+
+were made.  It also held an exclusive meeting with the senior management of all the five CRAs operating 
+
+in India.  The Committee is also privy to and benefited from the substantial and substantive documents 
+
+provided by the CRAs, SEBI, RBI, IRDA and PFRDA, apart from the regulations and recent efforts by 
+
+other  jurisdictions such  as the  US,  EU  and  IOSCO.  In  the  light  of these  deliberations,  documents  and 
+
+emerging themes in global academic and policy circles the Committee raises the following questions: 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+If the CRAs are agencies providing just a view/opinion on the likely default of some financial 
+
+instruments, should that opinion be made mandatory? 
+
+Is  such  an  opinion  the  result  of  methodologically  robust  research  capable  of  making  near-
+
+certain judgement on the direction of the market? 
+
+Is the CRA business model, with overwhelming commercial aspirations, capable of  providing 
+
+unbiased  opinion  for  larger  public  interest,  even  under  self  imposed  code  and  regulatory 
+
+oversight ? Or are CRAs performing their gate-keeper role with the expected fiduciary zeal? 
+
+ Should regulators use opinions of CRAs for regulatory purposes? 
+
+ 
+
+7.2 
+
+Recommendations 
+
+The  recommendations  are  based  on  India‘s  own  experience  with  the  CRAs  till  now.  India  has 
+
+been  proactive  in  introducing  effective  and  comprehensive  regulations  for  CRAs  as  early  as  1999.    In 
+
+contrast, the US market saw substantial regulations only recently in 2007, and the European Union is still 
+
+in  the  process  of  framing  its  regulations.  SEBI‘s  CRA  regulations  have  been  used  as  a  model  by  other 
+
+regulators in emerging economies. SEBI‘s code of conduct for CRAs addresses some of the basic issues 
+
+relating to conflicts of interest. The Code of Conduct is designed to ensure transparent and independent 
+
+functioning of CRAs. These regulations have been  reasonably effective in ensuring that credible players 
+
+operate in the industry and there is widespread investor access to ratings. Nevertheless, given the recent 
+
+global experiences and emerging trends in regulation there is undoubtedly a case for a re-look at the CRA 
+
+business models and strengthening of regulations.  
+
+Since  answers  to  the  questions  raised  in  Para  7.1    are  ‗no‘  or  ‗uncertain‘  as  well  as  the  CRA 
+
+assertion  that  rating    is  only  an  opinion  mandatory  rating  may  need  to be  relooked  at.    Regulators  also 
+
+need to enhance their due diligence and investors need to strengthen their own information processing 
+
+systems.  Moreover,  market  participants  need  some  time    for  such  a  migration  to  the  world  of  no 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 40 
+
+ 
+
+mandatory  rating,  particularly  because  of  the  low  levels  of  financial  literacy.  Accordingly    all  regulators  
+
+felt  that  rating  is  an  essential  tool  in  the  current  context.    The  Committee  therefore  recommends  a 
+
+number  of  steps  for  enhancing  the  transparency  of  the  functioning  of  the  CRAs  through  greater 
+
+disclosure requirements, reducing the conflict of interest in their business models and in improving their 
+
+rating  methodology  and  process.  These  recommendations  will  also  provide  another  window  of 
+
+opportunity, both to the CRAs to show their capability to assimilate and absorb their fiduciary role as well 
+
+as for the policy makers to see how these work which will help charting the future policy trajectory itself. 
+
+The  recommendations  below  are  designed  to  strengthen  provisions  related  to  conflicts  of  interest,  and 
+
+improve transparency, disclosures and accountability.    
+
+ 
+
+1. 
+
+A lead regulator model for Credit Rating Agencies 
+
+As discussed before, SEBI‘s jurisdiction over the CRAs is with respect to their activities in Securities 
+
+market  and  dealings  of  CRAs  specifically  in  instruments  categorized  as  ―securities‖  as  defined  under 
+
+Securities Contract (Regulation) Act, 1956 and does not cover the activities governed by other Regulators. 
+
+Credit  rating  is  regulated  by  SEBI  as  the  primary  users  of  credit  rating  are  the  investors  in  securities 
+
+markets.    SEBI  is  also  entrusted  with the  mandate  of protecting  the  interests  of  investors.    In  practice, 
+
+credit  rating  is  much  more  used  by  other  regulators  where  rating  advisory  is  often  a  part  of  the 
+
+regulations.    SEBI  needs  to  factor  in  those  users  and  regulators  whose  use  impacts  a  larger  group  of 
+
+investors.    Therefore,  prior  to  formulating  any  regulation  SEBI    needs  to  consult  other  regulators.  
+
+Inspection  should  be  conducted  jointly  with  other  regulators.  SEBI  should  also  have  a  mechanism  of 
+
+getting periodic feed back from other regulators. A question arises whether the existing SEBI Regulations 
+
+are adequate to cover the issues and concerns put forth by other Regulators. Given that CRA Regulations 
+
+already exist, it may be better to recast the existing  Regulations by adding / modifying specific provisions 
+
+to encompass the concerns of other Regulators, rather than building a new framework from scratch. It is 
+
+proposed  that  a  lead  regulator  model  for  credit  rating  agencies  be  followed.  Under  this  model,  SEBI 
+
+would  be  the  lead  regulator  and  all  entities  carrying  out  the  activity  of  credit  rating  would  need  to  be 
+
+registered  with  SEBI.  The  CRAs  so  registered  with  SEBI  would  be  required  to  acquire  further 
+
+accreditation  with  other  regulators  (RBI,  IRDA,  PFRDA  etc.)  if  felt  necessary  by  them,  for  rating 
+
+products  that  come  in  the  regulatory  domain  of  the  other  regulators.  The  respective  regulators  may 
+
+independently frame guidelines in respect of the activities coming under their purview  to help  decide on 
+
+the  skill  set  requirements  of  the  CRAs.    Inspections  of  CRAs  should  be  carried  out  by  only  one  team, 
+
+which  should  have  representations  from  all  concerned  Regulators  to  oversee  the  area  of  activities 
+
+governed by such Regulators. 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 41 
+
+ 
+
+2. 
+
+Restricting the scope of usage of the term” credit rating”  
+
+Currently,  there  are  five  CRAs  registered  with  SEBI.  However,  it  is  understood  that  there  are 
+
+other agencies such as ONICRA, SMERA etc.  which also claim to provide rating services (mainly in SSI 
+
+assessment,  Small  and  Medium  enterprise  rating,  individual  credit  assessment  etc.)  though  not  in 
+
+securities. In view of the lead regulator model that is proposed and the need for increased inter-regulatory 
+
+coordination as described above, it is proposed to restrict the scope of usage of the term‖ credit rating‖ 
+
+through appropriate legislation. It is proposed that  
+
+  No  entity   shall bear  a  name    having  the  words  ―credit  rating‖  unless  it  is  registered  as  a  CRA 
+
+with SEBI 
+ 
+
+  All existing CRAs shall incorporate the word ―credit rating‖ in their names  
+
+ 
+
+  For other entities, an appropriate  legislative/ regulatory framework will be thought of. 
+
+ 
+3.  
+
+ 
+
+Greater  due  diligence by  the Regulators 
+
+Given the concerns with the  rating based approach regulators and stakeholders need to exercise  
+
+greater  due  diligence  in  accepting  ‗  rating‘  mechanically.  Accordingly,  they  should  upgrade    the  skills/ 
+
+capabilities for greater due diligence. 
+
+ 
+
+4. 
+
+Disclosure of other activities carried out by CRAs or their subsidiaries 
+
+Currently,  the  Regulations  mandate  that  a  CRA  shall  not  offer  fee-based  services  to  the  rated 
+
+entities, beyond credit ratings and research. The Regulations also mandate that a credit rating agency shall 
+
+maintain  an  arm‘s  length  relationship  between  its  credit  rating  activity  and  /  or  any  other  activity.  In 
+
+practice,  CRAs  float  subsidiary  companies  for  undertaking  other  activities  such  as  consulting,  software 
+
+development,  knowledge  process  outsourcing,  research  etc.  Accordingly,  it  is  proposed  that  while 
+
+disclosing the rating / rating rationale to the general public through stock exchange/press release/web-
+
+site, a  CRA shall disclose sources of conflicts of interest including  
+
+a.  Details  of  fees  collected  by  the  CRA  from  the  issuer/its  subsidiary    due  to  the  current  rating 
+
+assignment/previous rating assignment during the last 3 years 
+
+b.  Details  of  fees  collected  by the  CRA/its subsidiary  from  the same  issuer/its subsidiary    due  to 
+
+activities  other than rating during the last 3 years. 
+
+c.  Disclosure of  the amount of money received by the promoters of the CRA due to any financial 
+
+transaction  with  the  issuer  in  the  last  3  years  including  a  brief  description  of  the  said  financial 
+
+transaction. 
+
+CRAs  should  not  be  allowed  to  enter  into  any  business  that  may  directly  or  indirectly  have 
+
+conflict of interest with the job of rating.  Internal Chinese Walls are porus mechanisms to prevent such 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 42 
+
+ 
+
+conflict  of  interest  as  such  other  businesses  such  as  consultancy  and  advisory  services  should  not  be 
+
+undertaken by CRAs.   
+
+5. 
+
+Resolving the conflict of interest inherent in the “issuer pays model'‟ 
+
+It  has  been  alleged  that  this  model  in  which  the  entity  issuing  debt  pays  the  rating  agency 
+
+compromises  the  quality  of  analysis  and  ratings  assigned  by  the  agencies.    The  other  alternatives  are 
+
+‗investor  pays  model‘  and  ‗regulator  pays  model‘.      The  pros  and  cons  of  these  models  have  been 
+
+discussed  in  the  last  chapter.    Globally  the  'issuer  pays  model'  is  followed  by  CRAs.    Considering  that 
+
+other models are not desirable/ feasible, as they lead to greater problems it is recommended to continue 
+
+with the ―issuer pays‖ model. However, greater transparency to the public regarding disclosure of conflict 
+
+of interest, disclosure of fees received as described above would go some way to address these concerns.  
+
+6. 
+
+ Norms for governance of CRAs 
+
+Currently, the Code of Conduct prescribed in the SEBI (CRA) Regulations stipulates, inter –alia, 
+
+that a credit rating agency shall ensure that good corporate policies and corporate governance practices  
+
+are  in  place.  CRAs  are  also  required  to  develop  their  own  internal  code  of  conduct  for  governing  its 
+
+internal operations and laying down its standards of appropriate conduct for its employees and officers in 
+
+carrying out of their duties within the credit rating agency and as a part of the industry. Such a code may 
+
+extend to the maintenance of professional excellence and standards, integrity, confidentiality, objectivity, 
+
+avoidance  of  conflict  of  interests,  disclosure  of  shareholdings  and  interests,  etc.  Such  a  code  shall  also 
+
+provide for procedures and guidelines in relation to the establishment and conduct of rating committees 
+
+and duties of the officers and employees serving on such committees.  
+
+Currently,  some  of  the  registered  CRAs  are  listed  on  Indian  stock  exchanges  and are  therefore 
+
+subject  to  compliance  requirements  of  Clause  49  of  the  Listing  Agreement,  which  stipulates  norms  for 
+
+corporate governance. However, some other CRAs are not listed and therefore are not subject to those 
+
+norms.    
+
+7. 
+
+Requirement of process and compliance audit 
+
+The Regulations currently do not mandate any process and compliance audit of CRA operations. 
+
+It  is  proposed  that  a  half  yearly  internal  audit  of  CRAs  be  made  mandatory  for  all  CRAs.  The  internal 
+
+audit shall examine and certify whether all the requirements stipulated in the CRA Regulations and other 
+
+regulations/guidelines  stipulated  by  other  regulators  (RBI/IRDA  etc)  are  being  followed  by  the  rating 
+
+agencies. A committee comprised of members of Board of Directors will oversee action taken. 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 43 
+
+ 
+
+8. 
+
+Constitution of a Standing Committee 
+
+A  Standing  Committee  comprising  representatives  from  various  regulators  be  constituted  for 
+
+matters relating to CRAs.  The Standing Committee by SEBI  will take up and examine issues relating to 
+
+CRAs and thereafter bring inter regulatory matter to the HLCCFM.  
+
+9.  
+
+Diversified ownership 
+
+While SEBI‘s extant regulatory framework for the credit rating agencies tries to address the issues 
+
+relating  to  conflict  of  interests  in  their  operations,  it  does  not  stipulate  any  restrictions  regarding  the 
+
+ownership pattern of the rating agencies with a view to achieving a diversified ownership. Earnings driven 
+
+pressures,  makes  a  case  for  diversified  ownership.    Diversified  ownership  will  also  take  care  of  likely 
+
+abuse  of  dominant  ownership.  On  the  other  hand  too  diffused  an  ownership  pattern  could  lead    to 
+
+inadequate  management  leadership.  Regulations  should  ideally  try  to  bring  people  who  have  long  term 
+
+stake in the well-being and efficient function of the financial market as promoters.  However there is no 
+
+evidence to show that  ownership  issues  have led to problems with rating. 
+
+For the present it is proposed that the SEBI (CRA) Regulations may be suitably amended so that 
+
+any  change  in  status  or  constitution  in  CRAs  resulting  in  change  of  control,  change  in  managing 
+
+director/whole time directors etc.  would require the prior approval of SEBI. If evidence of concentrated 
+
+ownership leads to abuse, the issue of diversified ownership needs to be revisited.   
+
+ 
+Disclosure of compliance with IOSCO Code  
+
+10. 
+ 
+
+The  IOSCO  Code  requires  that  a  CRA  should  disclose  to  the  public  its  code  of  conduct  and 
+
+describe  how  the  provisions  of  its  code  of  conduct  fully  implement  the  provisions  of  the  IOSCO 
+
+Principles  regarding  the  activities  of  Credit  Rating  Agencies  and  the  IOSCO  Code  of  Conduct 
+
+Fundamentals  for  Credit  Rating  Agencies.  If  a  CRA‘s  code  of  conduct  deviates  from  the  IOSCO 
+
+provisions,  the  CRA  should  explain  where  and  why  these  deviations  exist,  and  how  any  deviations 
+
+nonetheless achieve the objectives contained in the IOSCO provisions. IOSCO has submitted a report on 
+
+the role of Credit Rating Agencies in Structured Finance markets in May 2008 and have suggested various 
+
+measures  for  implementation  by  the  CRAs.  It  is  proposed  to  insert  an  appropriate  clause  in  the  SEBI 
+
+(CRA) Regulations to make it mandatory for CRAs to disclose on their web-sites their code of conduct 
+
+and how it complies with the IOSCO Code and in case of any deviation, the CRAs may furnish reasons 
+
+for the same. 
+
+ 
+ 
+ 
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 44 
+
+ 
+
+11.   Disclosure of default and transition studies 
+ 
+
+In order for the public to judge the general efficiency of the CRA, they be mandated to disclose the 
+
+default  and  transition  statistics.  This  disclosure  should  also  include  the  methodology  used  for  this 
+
+computation.  The  report  shall  point  out  all  instances  wherein  the  issuer  had  defaulted  even  when  the 
+
+latest rating of the instrument issued by the issuer indicated investment grade rating.  
+
+12. 
+
+Unsolicited ratings 
+
+CRAs  in  some  countries  have  come  under  criticism  for  issuing  unsolicited  ratings.    Anecdotal 
+
+evidence  from  newspaper  reports  reveal  that  some  CRAs  have  indulged  in  ‗notching‘  –  lowering  their 
+
+ratings or refusing to rate securities issued by certain asset pools unless a substantial part of the assets was 
+
+also rated by them. It appears that there is no consensus on this point among CRAs in India.   Currently 
+
+CRAs  in  India  do  not  provide  unsolicited  ratings.    According  to  some  CRAs  any  unsolicited  rating 
+
+exercise  will  not  have  the  benefit  of  inputs  obtained  with  the  cooperation  of  Management  and  to  that 
+
+extent it will be incomplete.  The output of such an incomplete exercise cannot be compared with that 
+
+obtained from solicited ratings.  In contrast others consider unsolicited ratings to be an important tool by 
+
+which new rating agencies can develop their business model.  According to them unsolicited ratings  can 
+
+combat ‗rating shopping‘.  On balance it is recommended that if unsolicited rating is to be allowed such 
+
+ratings may be issued with appropriate disclosure indicating whether issuer has participated in the rating 
+
+process  or  only  public  information  disclosed  by  the  issuer,  including  its  audited  financial  statements, 
+
+strategic objective and investor presentation have been used in the assessment.   
+
+ 
+Greater caution in use of ratings  
+
+13. 
+ 
+
+Market participants on their part need to reassess the extent to which their  procedures  rely on 
+
+ratings and consider whether this is appropriate. Over reliance on ratings by market participants have to 
+
+be  avoided.  Firms  using  the  ratings  should  use  stress  testing  to  assess    the  impact  of  a  significant 
+
+reduction of  credit rating in their portfolio rapidly. 
+
+ 
+
+14.  
+ 
+
+Other suggested areas where SEBI(CRA ) Regulations can be strengthened 
+
+(i)   
+
+All  registered  rating  agencies  may  be  required  to  disclose  publicly  on  their  websites  their 
+
+shareholding pattern and the names of the owners 
+
+(ii)  
+
+A CRA or its subsidiary should not be allowed to carry out consultancy or advisory services, such 
+
+as making proposals or recommendations, either formal or informal, regarding the design of a structured 
+
+finance instrument and also rate the product. In general, a CRA should desist from directly or indirectly 
+
+being involved with anything that compromises with  the integrity of the rating.  
+
+Ministry of Finance, Capital Markets Division   
+
+Page 45 
+
+ 
+
+(iii) 
+
+The  CRAs  should  clearly  differentiate  the  ratings  for  structured  products,  improve  their 
+
+disclosure  of  rating  methodologies,  and  assess  the  quality  of  information  provided  by  the  originators, 
+
+arrangers and the issuers of such structured products. It may be made mandatory that the CRAs make a 
+
+clear distinction between credit ratings of structured finance instruments and other credit ratings.  
+
+(iv)  
+
+For the purpose of integrity, it is proposed that the CRA may disclose the general nature of its 
+
+compensation arrangements with the rated entities. 
+
+(v) 
+
+ The CRAs should publish sufficient information about the assumptions underlying their rating 
+
+methodologies.  
+
+(vi)  
+
+The extant provisions of the CRA Regulations do not obligate the CRA to announce publicly if it 
+
+had  discontinued  to  rate  an  issuer  or  obligation.  Similarly,  there  is  no  provision  requiring  the  CRA  to 
+
+indicate the date when the rating was last updated and the fact that the rating is no longer being updated. 
+
+This  provision  may  be  of  importance  considering  the  fact  that  the  issuer  may  at  any  time  like  to 
+
+unsubscribe to the services of the Rating agency owing to any business decision or otherwise. Where the 
+
+issuer no more procures the services of CRA, the CRA should be required to disseminate the information 
+
+as to stoppage of its services, also assigning the reasons for the same.  
+
+(vii)  
+
+Rating  agencies  need  to  retain  their  internal  records  including  non  public  information  and 
+
+working papers which were used to form the basis of the credit rating issued.  The rationale for deviation 
+
+from models or out of model adjustments need to be properly documented in the records.  The actions 
+
+and  the  decisions  of  the  rating  committee,  including  vote  tallies  if  any,  also  needs  to  be  properly 
+
+documented.  Proper documentation of committee attendees is also required.  If a quantitative model is a 
+
+substantial  component  of  the  credit  rating  process  the  rationale  for  any  material  difference  between  the 
+
+credit rating implied by the model and the final credit rating issued needs to be recorded.  There  should be 
+
+proper  internal  written  procedure  documenting  the  steps  required  for  surveillance.    CRAs  should  have 
+
+comprehensive written surveillance procedure.  All appropriate surveillance record should be maintained.  
+
+CRAs should disclose how frequently credit ratings are  reviewed,  whether different criteria or  models are 
+
+used for rating surveillance than for determining initial rating. 
+
+(viii) 
+
+There should be established policies to restrict analysts from participating in  fee discussions with 
+
+issuer.  These policies are  designed to separate  those individuals who sit and negotiate fees from those  
+
+employees who rate the issue, in order to mitigate the possibility or  perception that a rating agency would 
+
+link its ratings with the fees.   
+
+(ix) 
+
+Employee involvement in the rating  process should not come into  conflict with  ownership of 
+
+equity etc. Employee code of conduct should take care of it. 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 46 
+
+********* 
+
+ 
+
+COMPARATIVE RATING SYMBOLS FOR LONG TERM RATINGS 
+
+ANNEXURE 1  
+
+ 
+
+RATINGS 
+
+ 
+
+CRISIL 
+
+CARE  
+
+ICRA  
+
+FITCH  
+
+BRICKWORKS  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Highest degree of safety with regard to timely payment of financial obligations  
+
+AAA 
+
+High degree of safety with regard to timely payment of financial obligations. 
+
+AA 
+
+CARE 
+AAA 
+
+CARE 
+AA 
+
+LAAA 
+
+AAA(Ind)  BWR AAA 
+
+LAA 
+
+AA(Ind) 
+
+BWR AA 
+
+Adequate  degree  of  safety  with  regard  to  timely  payment  of  financial  obligations.  . 
+However, changes in circumstances can adversely affect such issues more than those 
+in the higher rating categories.  
+
+A 
+
+CARE A 
+
+LA 
+
+A(Ind) 
+
+BWR A 
+
+Moderate  safety  with  regard  to  timely  payment  of  financial  obligations  for  the 
+present; changing circumstances are more likely to lead to a weakened capacity to pay 
+interest and repay principal. 
+
+BBB 
+
+CARE 
+BBB 
+
+LBBB 
+
+BBB(Ind)  BWR BBB 
+
+ Inadequate safety with regard to timely payment of financial obligations; less likely 
+to default in the immediate future.  
+
+BB 
+
+CARE BB  LBB 
+
+BB(Ind) 
+
+BWR BB 
+
+Greater  likelihood  of  default;  while  currently  financial  obligations  are  met,  adverse 
+business or  economic  conditions  would  lead  to  lack  of ability  or  willingness to  pay 
+interest or principal. 
+
+B 
+
+CARE B 
+
+LB 
+
+B(Ind) 
+
+BWR B 
+
+Vulnerable  to  default;  timely  payment  of  financial  obligations  is  possible  only  if 
+favourable circumstances continue.  
+
+C 
+
+CARE C 
+
+LC 
+
+CCC(Ind), 
+CC(Ind), 
+
+BWR C 
+
+In default or are expected to default on scheduled payment dates. Such instruments 
+are extremely speculative and returns from these instruments may be realised only on 
+reorganisation or liquidation. 
+
+D 
+
+CARE D 
+
+LD 
+
+C(Ind) 
+
+DDD(Ind
+), 
+DD(Ind), 
+D(Ind) 
+
+BWR D 
+
+Instruments rated 'N.M' have factors present in them, which render the rating outstanding 
+meaningless. These include reorganisation or liquidation of the issuer, the obligation is under 
+dispute in a court of law or before a statutory authority etc. 
+ 
+
+NM 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CRAs  may apply '+' (plus) or '-' (minus) signs for ratings from 'AA' to 'C' to reflect comparative standing within the category. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 48 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+Page 50 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 51 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 52 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+Page 53 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+ 
+
+Page 54 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 55 
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 56 
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+ 
+
+Page 57 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+ 
+Page 58 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 59 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+ 
+Page 60 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 61 
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+ 
+
+Page 62 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 63 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+ 
+
+Page 64 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 65 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 66 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+ 
+
+Page 67 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 68 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 69 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+ 
+
+Page 70 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 71 
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+Page 72 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+Page 73 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 74 
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 75 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+ 
+
+Page 76 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 77 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+ 
+
+ 
+
+Page 78 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 79 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 80 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+ 
+Page 81 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 82 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 83 
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 84 
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 85 
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 86 
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 87 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 88 
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 89 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+ 
+
+ 
+Page 90 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 91 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ministry of Finance, Capital Markets Division   
+
+Page 92 
+
+ 
+
+

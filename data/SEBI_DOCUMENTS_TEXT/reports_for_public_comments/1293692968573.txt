@@ -1,0 +1,4153 @@
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+Report of the Committee  
+
+on  
+ 
+ 
+
+'Review of Ownership and  
+
+Governance of Market Infrastructure Institutions'  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+
+November 2010 
+
+ 
+
+1 
+
+ 
+
+Securities and Exchange Board of India 
+
+Contents 
+
+ 
+ 
+ 
+CHAPTER 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+                  Page. No 
+
+Background  ………………………………………………………...   3 
+
+Introduction  ……………………………………………………… ..   6 
+
+Ownership norms  ……………………………………………...     33 
+
+Governance norms  ……………………………………………… ..  51 
+
+Measures for conflicts resolution  ………………………………..   57 
+
+Other issues  ……………………………………………………….    61 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+ 
+
+ 
+ 
+
+Annexures  
+
+A   -  Sample Questionnaire  
+
+B   -  Number of responses received  
+
+ 
+
+  C  -  Shareholding restrictions in select countries 
+
+D   -  Details of shareholding in select countries 
+
+E   -  Abbreviations 
+
+Endnotes  
+
+2 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+Background 
+
+ 
+The Securities and Exchange Board of India constituted a Committee under the 
+Chairmanship of Dr. Bimal Jalan, (Former Governor, Reserve Bank of India) to 
+examine  issues  arising  from  the  ownership  and  governance  of  Market 
+Infrastructure Institutions (MIIs). The other members of the Committee were: 
+
+a.  Dr.  K.P.  Krishnan,  Joint  Secretary,  Ministry  of  Finance  Secretary  (till 
+June  30,  2010),  Secretary,  Economic  Advisory  Council  to  the  Prime 
+Minister  of India (from July 1, 2010) 
+
+b.  Shri. Kishor Chaukar, Managing Director, Tata Industries 
+c.  Shri. Uday Kotak, Managing Director, Kotak Mahindra Bank Ltd 
+d.  Prof. G. Sethu, Officer on Special Duty, National Institute of Securities 
+
+Markets   
+
+e.  Dr. K. M. Abraham, Whole Time Member, SEBI 
+f.  Shri J.N. Gupta, Executive Director, SEBI (Member Secretary). 
+
+ 
+Under  the  terms  of  reference,  the  Committee  needed  to  review  and  make 
+recommendations on the following issues: 
+
+a.  Ownership structure of stock exchanges and clearing corporations 
+b.  Board composition of stock exchanges and clearing corporations 
+c.  Listing and governance of stock exchanges and clearing corporations 
+d.  Balance  between  regulatory  and  business  functions  of  stock  exchanges 
+
+and clearing corporations, with reference to their ‘for profit’ status 
+
+e.  Relationship between stock exchanges and clearing corporations 
+f.  Relationship between stock exchanges and technology providers, and 
+g.  Competition policy for stock exchanges and clearing corporations 
+
+ 
+
+ 
+
+3 
+
+ 
+
+Securities and Exchange Board of India 
+
+Since  Depositories  form  an  important  part  of  securities  market  infrastructure, 
+subsequently, Depositories were included under the scope of the Committee. 
+ 
+Methodology 
+The committee examined the overall evolution of Indian markets over the years 
+and  noted  that  Indian  markets  have  progressed  and  responded  to  its  specific 
+needs and socio–economic demands; in addition, there has been a commensurate 
+development  in  the  regulatory  framework  in  line  with  this  evolution.  The 
+committee  noted  that  each  market  has  its  unique  characteristics  and  Indian 
+markets are no exception and they too have undergone significant changes over 
+the  years.  This  process  has  also  encompassed  changes  inter-alia  in  ownership 
+and  governance  norms  of  the  MIIs.  However,  the  committee  recognised  that 
+participation  and  contribution  from  all  stakeholders  has  almost  invariably 
+preceded any successful change. 
+ 
+Therefore, the Committee decided to adopt a consultative approach to have the 
+benefit  of  views  of  all  the  stakeholders,  viz.  market  infrastructure  institutions 
+(MII), market participants, shareholders of MIIs, industry associations, investors 
+and  general  public,  on  the  relevant  issues.  Accordingly,  a  consultative    sub-
+committee was formed which sought comments of stakeholders by sending them 
+a  questionnaire  (Annexure  –  A  to  this  report).    This  questionnaire  was  also 
+placed on SEBI’s website.  
+ 
+Subsequently,  this  sub-committee  also  held  discussions  with  representatives  of 
+NSE, BSE, MCX-SX, NSDL, CDSL, ANMI, BSE Broker Forum, DPAI, LIC, UBS, 
+Deloitte, Financial Technologies and others. The consolidated views of the MIIs 
+and  various  stakeholders  were  placed  for  deliberation  before  the  Committee.  
+The responses received have been tabulated and placed at Annexure – B to this 
+report.  
+
+ 
+
+4 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+In  addition,  the  Committee  also  examined  the  global  experience  concerning 
+ownership and governance norms of MIIs. Several papers published by World 
+Bank, IOSCO and other such institutions were studied.  
+ 
+This  report  brings  out  the  recommendations  of  the  Committee.  The  committee 
+while framing its recommendations, has taken into account the views expressed 
+by  different  stakeholders,  MIIs  as  well  as  the  Indian  experience  and  global 
+experience concerning the working of the MIIs.  
+ 
+The committee recommends that the report may be placed on SEBI’s website for 
+public  comments  and  take  the  comments  received  into  account  before 
+implementing the recommendations. 
+ 
+ 
+
+ 
+
+5 
+
+ 
+
+Securities and Exchange Board of India 
+
+Chapter   I 
+
+Introduction 
+
+ 
+1.1.  STABILITY VERSUS GROWTH – THE PERENNIAL DEBATE 
+The  financial  crisis  over  the  last  three  years  impacted  world  economies  in 
+varying degrees and forced them to act in different ways to meet the challenges 
+that  emerged.  Since  then,  almost  all  world  economies  in  some  manner,  have 
+subjected  their  historically  settled  views  on  financial  stability  to  a  rigorous  re-
+examination.  In the process, many of them have critically revisited the role of 
+important  financial  institutions  and  the  risks  arising  to  the  economy  from  the 
+operations  of  such  institutions.    Consequently,  public  policy  on  important 
+financial institutions has refocused around the realization that: 
+
+a.  There are financial institutions and markets, which have systemic impact 
+
+across their local economies and often beyond that. 
+
+b.  If  the  failure  or  malfunction  of  such  institutions  is  not  contained,  it  can 
+engender  widespread  distress,  either  through  its  direct  impact  or  as  a 
+trigger for broader contagion. 
+
+c.  Such contagion will impact the financial system primarily, however, it can 
+
+have significant impact on the real economy as well. 
+
+ 
+The  Committee  has  taken  into  account  these  lessons  learnt  since  the  financial 
+crisis  and  recognises  that  in  the  evolutionary  process  characterizing  a  growing 
+market,  changes  are  inevitable;  however,  these  changes  should  not  cause 
+instability.    Broadly,  the  point  of  view  adopted  by  the  Committee  is  that,  any 
+change  in  the  financial  regulatory  approach  to  a  structure  or  functioning  of 
+institutions  such  as  stock  exchanges,  clearing  corporations  and  depositories 
+should be introduced in a calibrated manner.   At the same time, the Committee 
+recognises  that  conditions  conducive  to  innovation  in  these  institutions  are 
+
+ 
+
+6 
+
+ 
+
+Securities and Exchange Board of India 
+
+necessary for the growth of an economy like India.  Therefore, the governance 
+and ownership norms for such institutions need to be tailored carefully so that 
+on the one hand, it ensures safety and reliability of markets, and on the other, 
+MIIs retain their ability to innovate on the products, processes and the range of 
+services they offer. 
+ 
+1.2.  MARKET INFRASTRUCTURE INSTITUTIONS 
+Stock exchanges, depositories and clearing corporations are collectively referred 
+to  as  securities  Market  Infrastructure  Institutions  (MIIs).  Literally,  the  term 
+‘infrastructure’  would  mean  the  basic,  underlying  framework  or  features  of  a 
+system; and the term ‘market infrastructure’ denotes such fundamental facilities 
+and  systems  serving  this  market.  The  primary  purpose  of  securities  /capital 
+market  is  to  enable  allocation/reallocation  of  capital/financial  resources.  This 
+movement  helps  optimal  use  of  money  in  the  economy  and  fosters  economic 
+development. Well-functioning MIIs have a net positive effect on society like any 
+other infrastructure institutions. 
+ 
+The committee posed a question to itself whether these institutions can be called 
+Market  Infrastructure  Institutions.  Broadly,  there  are  no  set  parameters  drawn 
+up  to  define  an  infrastructure  institution  and  the  same  holds  true  for 
+infrastructure institutions in the context of the securities markets.   However, the 
+research on attributes of infrastructure institutions yields distinct considerations 
+that set apart an infrastructure institution from others.   
+ 
+The  key  attributes  of  an  infrastructure  institution1  are  listed  below.  These 
+attributes are not mutually exclusive. Often, there can be a significant degree of 
+overlap between the attributes.   
+ 
+
+ 
+
+7 
+
+ 
+
+Securities and Exchange Board of India 
+
+1.  Essential 
+
+facility  doctrine:  A  commonly  accepted  attribute  of 
+infrastructure  institutions  is  that  the  goods  or  services  they  produce  are 
+essential  in  some  manner.  A  legal  doctrine  has  been  evolved  under  US 
+anti-trust law called the “essential facility doctrine”. The key thrust of this 
+doctrine  is  that  a  monopolistic  operator  of  an  essential  facility  may  be 
+obliged to provide access to a competitor.  
+ 
+Under the Indian Competition Act, 20022, it has been recognised that any 
+application of the essential facilities doctrine should satisfy the following: 
+(cid:131)  The facility must be controlled by a dominant firm in the relevant 
+
+market 
+
+(cid:131)  Competing  enterprises/persons  should  lack  a  realistic  ability  to 
+
+reproduce the facility 
+
+(cid:131)  Access  to  the  facility  is  necessary  in  order  to  compete  in  the 
+
+relevant market; and 
+It must be feasible to provide access to the facility. 
+
+(cid:131) 
+
+ 
+ 
+
+2.  Networks:  Externalities,  Switching  Costs  and  Standards:  An 
+infrastructure  institution  is  often  thought  to  be  or  to  provide  a  network. 
+Four key characteristics of network industries have been identified3 which 
+distinguish them from other types of markets: 
+
+(cid:131)  consumption externalities 
+(cid:131)  switching costs and lock-in 
+(cid:131)  complementarity, compatibility and standards and  
+(cid:131)  significant economies of scale in production  
+
+ 
+
+ 
+
+Infrastructure  institutions  may  enjoy  market  power  because  of  different 
+network effects.  The dependence of customer demand on the choices of 
+
+8 
+
+ 
+
+Securities and Exchange Board of India 
+
+other  customers 
+is  known  as  “participation”,  “consumption”  or 
+sometimes a “network” externality.  A positive consumption externality is 
+an  advantage  that  an  incumbent  firm  has  over  potential  competitors  for 
+providing a network and is a benefit that accrues to the users of such a 
+network, which is dependent on the condition that other participants are 
+already using the same network.  
+ 
+As  seen  from  the  related  literature4,  switching  costs  and  product 
+standards  can  also  affect  the  economies  of  networks.    Switching  costs 
+affect  price  competition  in  two  opposing  ways.  First,  if  consumers  are 
+already  locked  into  using  a  specific  product,  firms  may  raise  prices 
+knowing  that  consumers  will  not  switch  unless  the  price  difference 
+exceeds the switching cost to a competing brand. Second, if consumers are 
+not locked in, brand-producing firms will compete intensively by offering 
+discounts  and  complimentary  products  and  services  in  order  to  attract 
+consumers who later on will be locked in the technology.  
+ 
+
+ 
+
+3.  Economies of Scale:  Infrastructure institutions often exhibit economies of 
+scale. These occur when the average cost of producing a good or service 
+decline  with  the  number  of  units  produced.  A  common  reason  for  the 
+existence of economies of scale is the presence of fixed costs of production 
+or marketing.  
+
+In  theory,  the  presence  of  high  fixed  costs  of  production  may  make  it 
+impossible for any new entrant to cater to  a market and cover its long-run 
+average  costs  while  providing  competition  to  existing  players.  Other 
+effects  are  more  common  with  high  fixed  costs  of  production.  One  is  a 
+scale monopoly, in which a single incumbent firm is able to cover its costs 
+and  is  not  threatened  by  new  entry  because  the  market  is  too  small  to 
+
+9 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+support  two  firms.  Another  is  a  concentrated  or  oligopolistic  market, 
+where the market is able to support two or three firms.  
+ 
+If  competition  is  effective,  however,  it  may  drive  average  pricing  below 
+the  long  run  average  costs,  leading  to  one  or  more  firms  exiting  the 
+market.  The  eventual  outcome  may  thus  be  competitively  inefficient,  as 
+the continuing exit of firms may result in a monopoly. Even though it may 
+appear that, while industries with high fixed costs and low variable costs 
+may  be  competitively  efficient,  even  if  there  are  only  two  or  three 
+competing  firms,  the  most  likely  outcome  would  still  be  competitive 
+inefficiency. 
+
+ 
+4.  Sunk  Costs:  Infrastructure  institutions  are  often  characterized  by  the 
+presence of sunk costs. Such costs are expenses, which a firm needs to incur 
+to enter a market, but cannot recover if it leaves the market. Sunk costs are 
+barriers  to  exit  and  prevent  “hit  and  run”  entrants  who  exploit  any 
+inefficiency present, and then leave the market when such inefficiency has 
+been exploited. 
+
+5.  “Natural” Monopoly: Infrastructure institutions are frequently referred to 
+as being, or operating, natural monopolies. This term has historically been 
+used to describe situations where it was believed that only one firm was 
+able  to  operate  in  a  specific  market,  with  the  implication  that  any  such 
+firm  should  be  subject  to  special  regulatory  arrangements.  The  most 
+common  reason  for  the  perceived  existence  of  a  natural  monopoly  was 
+that  it  was  uneconomic  to  replicate  expensive  infrastructure,  given  the 
+presence of economies of scale.  
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+The word “natural” in the phrase “natural monopoly” is misleading, as it 
+implies that a particular structure of the relevant industry is natural and 
+inevitable.   This has frequently been shown to be not true.  Economies of 
+scale need not give rise to monopolies inevitably.  A competitor may be 
+able to enter the relevant market and force the incumbent firm to exit; the 
+threat  of  potential  entry  too  can  impose  a  significant  competitive 
+discipline. Technological developments also have allowed competition to 
+threaten many monopolies previously considered “natural”.  
+
+ 
+Stock  exchanges  and  clearing  corporations  are  subject  to  significant  network 
+externalities.      In  case  of  stock  exchanges,  ‘liquidity  begets  liquidity’  is  a  well-
+known fact.  The probability of an order being executed is higher in a liquid stock 
+exchange. Moreover, the bid-ask spread will be lesser which will result in a lesser 
+impact cost for a transaction executed on a liquid stock exchange. Similarly, the 
+benefits  of  netting  will  result  in  lesser  margins  and  collateral  requirements  for 
+clearing members transacting through larger clearing corporations. Other factors 
+that increase market power for MIIs are economies of scale and law/regulation 
+that deny access to new entities, switching costs, etc.  
+ 
+The  observations  above  also  seem  to  suggest  that  a  single  trading  system, 
+clearing corporation and depository is likely to gain and keep market power in 
+the provision of services in any one market.     
+ 
+1.3.  MIIs AS SYSTEMICALLY IMPORTANT INSTITUTIONS 
+MIIs are systemically important institutions in any economy. In India, this can be 
+observed from the phenomenal growth of these institutions in terms of market 
+capitalization  of  listed  companies,  amount  of  capital  raised  and  number  of 
+investor accounts with brokers and depositories and value of assets held in the 
+depositories’ account. Market capitalization of listed companies in the securities 
+
+ 
+
+11
+
+ 
+
+Securities and Exchange Board of India 
+
+market has grown many folds as compared to growth in non-food bank credit 
+(which  is  taken  as  an  indicator  of  economic  growth)  in  last  decade.  MIIs 
+constitute  the  nucleus  of  capital  allocation  system  and  are  indispensable  for 
+economic growth. They are therefore, ‘vital economic infrastructure’. The recent 
+financial  crisis  has  shown  the  importance  of  financial  institutions  to  economic 
+stability.  Unlike  typical  financial  institutions,  the  number  of  stock  exchanges  / 
+depositories / clearing corporations in an economy is limited due to the nature of 
+its business, although catering to the entire marketplace. Any failure of such an 
+MII could lead to even bigger cataclysmic collapses that may result in an overall 
+economic downfall that could potentially extend beyond the boundaries of the 
+securities  market/country.  Therefore,  such  MIIs  are  considered  systemically 
+important institutions.  
+
+ 
+
+1.4.  MIIs AS PRODUCERS OF PUBLIC GOOD 
+The price signals produced by the MIIs partake of the character of public good as 
+these  are  something  that  must  be  provided  and  accessible  to  every  one  and 
+cannot be withheld from anyone who seeks it.  Therefore, essentially, the three 
+MIIs  in  the  securities  holding-trading-clearing-settlement  chain  are  engaged  in 
+the  business  of  producing  a  valuable  public  good  for  society,  which  are 
+essentially  the  price  signals  produced  by  a  transparent  and  efficient  market 
+mechanism.    The  product  that  flows  from  the  coordinated  functioning  of  the 
+three MIIs is at the core of modern financial systems. They are the vital to the 
+functioning of the market.  
+ 
+The prices discovered through the operation of these MIIs have to be fair, failing 
+which, they will result in the expropriation of unjust profits by any one side of 
+the  transaction.    Corporates  and  Investment  Funds  use  these  price  signals  to 
+value  their  investments  and  mark  them  to  market.  The  Net  Asset  Value  of  a 
+Mutual Fund, which guides investments and redemptions by investors, directly 
+
+ 
+
+12
+
+ 
+
+Securities and Exchange Board of India 
+
+reads off the prices discovered.  The valuation of securities collaterals pledged in 
+most modern day credit based finance is inextricably linked to the public good 
+that these MIIs produce.  
+ 
+These are but a few of the numerous ways in which the efficient functioning of 
+these  institutions  underpins  a  modern  financial  market.  These  institutions, 
+though recognised for providing the markets with the necessary infrastructure, 
+cannot be treated mechanically merely as suppliers of ‘infrastructure’, however, 
+they  are  to  be  viewed  more  as  institutions  which  are  suppliers  of  an 
+indispensable public good for modern society.  Needless to say, the ‘public good’ 
+product that is supplied collectively by the MIIs is exclusively dependent on the 
+quality and integrity of the process that accompanies the production of the same. 
+Hence,  to  ensure  dependability  of  the  process  to  the  fullest  extent  possible, 
+certain  degree  of  regulatory  powers  have  to  necessarily  reside  in  each  of  the 
+MIIs, albeit in varying degrees.  Therefore, the Committee is of the view that it is 
+not possible to sever the regulatory role of the MIIs from their more obvious role 
+of serving as providers of infrastructure of the market.  
+ 
+Having  observed  this,  it  will  be  useful,  in  this  context,  to  examine  the 
+characteristics  and  function  of  each  class  of  MII  first,  before  taking  up  the 
+governance and ownership structures appropriate to them. 
+ 
+1.5.   STOCK EXCHANGE 
+Stock  exchanges  provide  transaction  facility  to  investors  and  thus  discover  the 
+price  of  securities  traded  on  them.  Prices  provide  the  signal  for  efficient 
+allocation  of  financial  resources  across  corporations.  In  this  sense,  the  role  of 
+stock  exchanges  in  efficient  allocation  of  resource  in  the  economy  is  of  great 
+significance. 
+ 
+
+ 
+
+13
+
+ 
+
+Securities and Exchange Board of India 
+
+A  “stock  exchange”  under  the  Securities  Contracts  (Regulation)  Act,  1956 
+(hereinafter referred to as ‘SCRA’) means: 
+
+(a)  “any body of individuals, whether incorporated or not, constituted before 
+
+corporatisation and demutualisation under sections 4A and 4B, or 
+
+(b)  a  body  corporate  incorporated  under  the  Companies  Act,  1956  whether 
+under a scheme of corporatisation and demutualisation or otherwise, for the 
+purpose  of  assisting,  regulating  or  controlling  the  business  of  buying, 
+selling or dealing in securities. “ 
+ 
+
+Traditionally, under the open outcry system, a stock exchange was understood to 
+be  a  place  where  buyers  and  sellers  met  in  order  to  buy/sell  securities.  Over 
+time,  technology  has  replaced  the  open  outcry  system  and  automated  trade 
+engines execute trades based on a price time priority or any other algorithm. To 
+trade  through  a  stock  exchange,  the  investor  has  to  become  a  client  of  a 
+registered trading member of a particular stock exchange. Stock exchanges have 
+been  entrusted  with  various  regulatory  responsibilities  for  ensuring  market 
+integrity and for protecting the interest of investors.   Stock exchanges therefore 
+cannot be seen only as providers of electronic platforms for executing trades.  
+ 
+A stock exchange apart from providing electronic platforms for executing trades 
+performs a number of other functions such as: 
+
+(cid:131) 
+
+regulation 
+
+issuer 
+dissemination of information)  
+
+(listing,  monitoring 
+
+listing 
+
+compliances, 
+
+(cid:131)  member  regulation  (registration  of  members,  inspection  and 
+
+(cid:131) 
+
+(cid:131) 
+
+enforcement action)  
+trading  regulation  (setting  and  enforcing  trading  rules,  market 
+surveillance) and 
+investor  protection 
+investor protection fund)  
+
+(dispute  resolution,  grievance  redressal, 
+
+ 
+
+14
+
+ 
+
+Securities and Exchange Board of India 
+
+(cid:131)  product design 
+
+ 
+
+Stock  exchanges  also  undertake  support  functions  such  as  training  and 
+education, technology solutions, data/information services and index services.  
+ 
+Evolution 
+Stock exchanges in India have a history of more than 160 years and have evolved 
+over  a  long  period.  The  first  and  oldest  stock  exchange  in  Asia  was  set  up  in 
+1850s, as the records reveal, by indigenous brokers under a Banyan tree which 
+later on in 1875 became what is known today as Bombay Stock Exchange (BSE). 
+National  Stock  Exchange  of  India  Ltd.  (NSE)  was  recognised  in  the  year  1993.  
+Recently, two stock exchanges – MCX Stock Exchange Limited (MCX-SX) (2008) 
+and United Stock Exchange of India Limited (USE) (2010) have been recognised 
+and have been permitted for trading in currency derivatives.  In addition, there 
+are 17 regional stock exchanges that have negligible or no trading, at present.  
+ 
+The governance of stock exchanges has also undergone significant changes over 
+time.  Except  for  NSE,  OTCEI,  MCX-SX  and  USE,  all  other  stock  exchanges  in 
+India were initially set up as associations of persons. These four stock exchanges 
+were set up ab initio as companies with limited liability. During the period 2000-
+06,  stock  exchanges  worldwide  underwent  a  process  of  corporatisation  and 
+demutualisation. Mutual stock exchanges that were owned by its members were 
+restructured  in  order  to  reduce  the  trading  member’s  influence  over  the 
+management  of  the  stock  exchange  and  open  up  stock  exchanges  to  greater 
+public  ownership.  It  was  felt  that  diversified  public  ownership  is  the  way 
+forward. These mutual stock exchanges were formed as associations of persons, 
+wherein the membership card bestowed both ownership and trading rights on 
+the  brokers;  the  brokers  because  of  their  ownership  rights  invariably  exercised 
+control over the management of the stock exchanges too.  The stock exchanges 
+
+ 
+
+15
+
+ 
+
+Securities and Exchange Board of India 
+
+were in dire need of professional and independent management. The corporate 
+structure was therefore chosen because it is intrinsically a form that allows wider 
+participation of shareholders, is backed by an established legal framework under 
+the Companies Act, 1956 and above all enables a clear-cut three-way segregation 
+of ownership, management and trading rights.  
+ 
+The  SCRA  was  amended  in  the  year  2004  for  mandating  corporatisation  and 
+demutualisation of stock exchanges in India. The Securities Contracts (Manner of 
+Increasing and Maintaining Public Shareholding in Recognised Stock Exchanges) 
+Regulations,  2006  (referred  to  as  ‘MIMPS’  hereinafter)  was  notified,  wherein, 
+shareholding  limits  were  inter  alia,  prescribed  in  order  to  ensure  diversified 
+ownership (including public shareholding) of stock exchanges, and the manner 
+in which such diversification has to be achieved were also laid down.  
+ 
+MIMPS prescribed representation of various participants on the board of stock 
+exchanges and restricted the collective representation of trading members on the 
+board of a stock exchange upto a maximum of 25%.   
+ 
+1.6.  CLEARING CORPORATION 
+As per the draft5 Rules, “’clearing corporation’ means a company incorporated 
+under the Companies Act, 1956 (1 of 1956) for the purpose of-  
+
+(i) 
+(ii) 
+(iii) 
+
+the periodical settlement of contracts and differences there under;  
+the delivery of, and payment for, securities;  
+any other matter incidental to, or connected with, such transfer and 
+recognised as a clearing corporation under these rules. “ 
+
+ 
+A  clearing  corporation  performs  the  functions  of  clearing  and  settlement  of 
+trades  that  are  executed  on  the  stock  exchange  platform.  Settlement  of  trades 
+involves  ensuring  that  the  net  obligations  that  have  been  determined  at  the 
+
+ 
+
+16
+
+ 
+
+Securities and Exchange Board of India 
+
+clearing member level (a clearing member clears and settles trades on behalf of 
+self and other trading members) are settled. As per the terms of the transaction 
+executed  on  the  stock  exchange,  the  clearing  corporation  interposes  itself 
+between  the  buyer  and  the  seller  and  undertakes  to  fulfill  the  obligations  on 
+behalf  of  the  counterparties  to  the  transaction.  For  ensuring  settlement,  the 
+clearing  corporation  adopts  stringent  risk  management  practices  to  ensure 
+settlement  of  obligations.  The  risk  management  function  aims  to  reduce  the 
+chances of default during settlement. However, no system howsoever robust it 
+may be, is fail proof. By its role, even if there is failure/default  by any member  
+to meet its liability, the clearing corporation has to meet its liability to all others. 
+In such an eventuality, it  makes pay-out of funds on behalf of the defaulter (in 
+case of funds shortage) and obtains securities through auction buy-in (in case of 
+securities  shortage).  Thus  ensuring  that  the  system  does  not  have  any 
+counterparty risk. 
+ 
+A  well  functioning  clearing  corporation  is  the  most  important  element  of  risk 
+management  in  the  securities  markets.  The  regulatory  responsibilities  of  a 
+clearing corporation include: 
+
+(cid:131)  settlement guarantee/ novation 
+(cid:131)  sound risk management 
+(cid:131)  member  regulation  (registration  of  members,  inspection  and 
+
+enforcement action)  
+
+Evolution 
+Under the open outcry system, the stock exchange was a place where buyers and 
+sellers used to negotiate the terms of trade and the transactions were bilaterally 
+settled between the parties to the trade. With the emergence of technology and 
+sound  risk  management  measures,  multilateral  clearing  and  settlement  and 
+guaranteeing  of  trades  is  now  carried  out  by  the  clearing  corporation/clearing 
+
+ 
+
+17
+
+ 
+
+Securities and Exchange Board of India 
+
+house,  while  the  stock  exchange  provides  electronic,  anonymous,  order  driven 
+platforms for execution of trades.    
+ 
+Presently  clearing  and  settlement  for  trades  executed  on  stock  exchanges  is 
+undertaken either by a clearing house or by a clearing corporation. Sound risk 
+management  practices  have  been  adopted  by  both  clearing  houses  (of 
+functioning stock exchanges) and clearing corporations in India. However, since 
+the clearing corporation/ clearing house guarantees the settlement of the trades, 
+its net worth can also be utilized in the event of insufficiency of funds during a 
+default.  In  extreme  scenarios,  the  impact  on  the  networth  could  be  very  high. 
+Such depletion of networth may call for infusion of new capital or otherwise may 
+lead to winding down of the entity. In such an event, if the clearing function is 
+vested with a separate independent entity, it can facilitate usage of its net worth 
+in extreme scenarios without having an adverse impact on the stock exchange. 
+Whereas, in case it is part of the stock exchange, the net worth of stock exchange 
+is directly and automatically impacted under such extreme scenarios of default. 
+This will affect normal operation/functioning of stock exchange.  If the clearing 
+corporation  is  a  separate  legal  entity,  the  risk  to  the  capital  of  the  clearing 
+corporation  will  be  segregated  and  will  not  spillover  to  the  stock  exchange, 
+which appears to be a distinct improvement over the clearing house model.  
+ 
+Traditionally,  stock  exchanges  in  India  set  up  their  own  clearing  houses  for 
+clearing  and  settlement  of  their  trades.    NSE  and  MCX-SX  have  set  up 
+independent  entities  for  clearing  their  trades.  BSE  has  also  recently  set  up  an 
+independent  entity  for  clearing  and  settlement  of  certain  classes  of  securities 
+traded at BSE and clears and settles for USE too.  
+ 
+ The  SCRA  was  amended  in  2004  for  providing  for  recognition  of  clearing 
+corporations.  The  Securities  Contracts  (Regulation)  Rules,  1957  (hereinafter 
+
+ 
+
+18
+
+ 
+
+Securities and Exchange Board of India 
+
+referred to as ‘SCRR’) are in the process of being amended. Comprehensive legal 
+framework in being put in place for prescribing the eligibility criteria, procedure 
+for  recognition,  terms  of  recognition,  membership  conditions,  etc  for  clearing 
+corporations.  
+ 
+1.7.  DEPOSITORY 
+A "Depository" is an entity facilitating holding securities in electronic form and 
+enables transfer of securities by book entry. It interacts with its clients through a 
+`Depository  Participant',  with  whom  the  client  is  required  to  open  a  demat 
+account.  The  main  objective  of  depository  is  to  provide  maintenance  of 
+ownership  or  transfer  records  of  securities  in  an  electronic  book  entry  form 
+resulting  in  paper-less  trading  rather  than  paper-based  trading  and  to  ensure 
+transferability of securities with speed, accuracy and safety.   
+ 
+As  per  the  Depositories  Act,  1996,  a  “’depository’  means  a  company  formed  and 
+registered  under  the  Companies  Act,  1956  and  which  has  been  granted  a  certificate  of 
+registration under sub-section (1A) of section 12 of the Securities and Exchange Board of 
+India Act, 1992 (15 of 1992);” 
+ 
+A depository performs the following regulatory functions; 
+
+(cid:131)  depository  participants’  regulation 
+
+(registration, 
+
+inspection  and 
+
+enforcement action)  
+
+(cid:131)  admission of securities, dematerialisation, rematerialisation  
+(cid:131)  maintenance  of  register  of  beneficial  owners,  record  keeping  /  book 
+
+entry of transfers  
+investor protection (dispute resolution and grievance redressal) 
+
+(cid:131) 
+
+Evolution 
+Limitations  and  problems  associated  with  paper  based  ownership  of  securities 
+and settlement necessitated setting up of depositories. The paper based trading 
+
+ 
+
+19
+
+ 
+
+Securities and Exchange Board of India 
+
+system was neither investor friendly nor scalable and was riddled with problems 
+of  bad  deliveries,  delays,  forgery  and  failure  of  settlements  occasionally. 
+Movement of large volume of papers required longer settlement cycles and was 
+not cost effective. 
+ 
+The enactment of the Depositories Act, 1996 paved the way for the establishment 
+of depositories for the purpose of electronic record of ownership. Following the 
+notification  of  the  SEBI  (Depositories  and  Participants)  Regulations,  1996, 
+National Securities Depository Ltd (NSDL), a company sponsored by the NSE, 
+IDBI and UTI was granted a certificate of registration as a depository on June 7, 
+1996.    Central  Depository  Services  (India)  Ltd  (CDSL),  the  second  depository, 
+which  was  promoted  by  BSE  along  with  financial  institutions  and  banks,  was 
+granted certificate of registration on August 19, 1998.  Inter-depository transfer 
+through on-line connectivity between CDSL and NSDL was established in 1999. 
+With  the  introduction  of  the  depository  system,  problems  associated  with  the 
+paper based trading and settlement system were resolved and it paved way to 
+growth  in  the  securities  market  and  was  a  step  forward  in  making  the  market 
+place safe and secure. 
+ 
+1.8.  APPROACH  
+Functionally,  MIIs  provide  the  basic  network  of  equipment,  facility,  system  or 
+services for the securities market, hence, MIIs are seen as “public utilities”.  As 
+regards  ownership  of  MIIs,  all  of  them  are  privately  owned  and  structured  as 
+companies with limited liability. Although MIIs are seen as public utilities, most 
+MIIs  are  profit-oriented.    In  addition,  being  in  direct  proximity  to  the  market, 
+MIIs are treated as ‘first-level’ regulators and have been vested with regulatory 
+responsibilities by various statutes. Countries differ in the manner in which they 
+view  MIIs  in  their  jurisdictions.    Many  jurisdictions  across  the  world  see  these 
+MIIs  as  regulatory  institutions,  which  have  to  be  economically  viable  as  well.  
+
+ 
+
+20
+
+ 
+
+Securities and Exchange Board of India 
+
+Other  jurisdictions  that  see  them  more  as  commercial  entities,  also  exercise  an 
+incidental regulatory role.  It would appear that these differences are rooted in 
+the  history  of  the  evolution  of  individual  securities  markets,  the  governance 
+mechanisms,  the  levels  of  transparency  and  integrity  that  a  jurisdiction  has 
+inherited  historically  and  the  evolution  of  legislative  action  and  jurisprudence 
+pertinent  to  institutions.  These  differences  are  more  discernible  in  the  case  of 
+stock exchanges and clearing corporations and less so in the case of depositories.   
+ 
+While the Committee agrees that the MIIs are economic entities that have to be 
+capable of sustaining themselves, the core facets to MIIs are as follows:  
+
+1.  In general, MIIs are in the nature of public utilities.   
+2.  All of them are vested with regulatory responsibilities, in varying degrees. 
+3.  They have systemic importance to the economy. 
+
+ 
+The three attributes listed above have differing and sometimes conflicting goals. 
+As  a public  utility, an  MII  becomes  an  organization 
+that  maintains 
+the infrastructure  (the  trading  avenues  and  platforms  and  other  services 
+incidental to this) for a public service (running a market for securities trading). 
+Clearly6,  the  goals  of  profit  maximization  for  an  MII  and  that  of  welfare 
+maximization  for  the  public  (in  this  case,  the  investors  that  make  up  the 
+securities market) may not always run parallel and the MII may be tempted to 
+charge prices well in excess of costs from its users.  Moreover, at least in the short 
+run,  the  regulatory  goals  may  be  in  conflict  with  the  economic  interests  7  of  a 
+stock  exchange.    As  it  may,  in  many  instances,  be  required  to  discipline  its 
+members  and  issuers  who  are  the  source  of  its  income.    However,  in  the  long 
+run, it may actually be economically prudent for the MII if it establishes itself as a 
+provider of safe and reliable market place.  
+ 
+
+ 
+
+21
+
+ 
+
+Securities and Exchange Board of India 
+
+A concern has been expressed that post-demutualization, stock exchanges have 
+become  for-profit  companies  and  have  therefore,  become  free  to  pursue  their 
+economic interest objectives and hence, their focus on regulatory activities have 
+been diluted. However, this view does not go uncontested as there are persons 
+who  believe  that  the  demutualization  of  a  stock  exchange  is  not  necessarily 
+incompatible with self-regulation.  The ability of the stock exchange to meet the 
+standards  set  for  it  and  deliver  key  regulatory  and  public  interest  objectives 
+depends  on  a  range  of  factors  including  the  overall  regulatory  framework,  the 
+stock exchange’s obligations under the law, the formulation, administration and 
+enforcement of its listing and trading rules, its formal and informal arrangements 
+with  the  statutory  regulator,  its  management  structure,  the  de  facto  versus  de 
+jure  control  within  it,  the  transparency  of  its  decision  making  processes,  its 
+allocation of resources for particular regulatory functions and the experience and 
+quality of its staff.  In addition, the capacity and the willingness of the statutory 
+regulator to perform its supervisory role are key to the success of the regulatory 
+framework8.  
+ 
+Nevertheless,  the  multiple  roles  played  by  the  stock  exchange  could  pose 
+conflicts of interests in its operations. Regulators across the globe have adopted 
+different methods9 to address these conflicts.  
+(i) 
+
+Government  (Statutory)  Model:  Regulation  is  performed  by  a  public 
+authority. Formal SROs do not exist. Stock exchanges are responsible for 
+very  limited  supervision  of  their  markets.  Examples:  UK(FSA),  France 
+(AMF). 
+Limited  Exchange  SRO  Model:  A  public  authority  is  the  primary 
+regulator;  it  relies  on  stock  exchange(s)  to  perform  certain  regulatory 
+functions tied to the operation of its market. The function of regulating 
+its members is not performed by the stock exchange. The stock exchange 
+
+(ii) 
+
+ 
+
+22
+
+ 
+
+Securities and Exchange Board of India 
+
+only performs surveillance functions.  Examples: Hong Kong, Singapore, 
+Dubai, Sweden. 
+Strong  Exchange  SRO  Model:  A  public  authority  is  the  primary 
+regulator,  it  relies  on  Exchange(s)  to  perform  extensive  regulatory 
+functions that extend beyond its market operations, including regulating 
+member’s  business  conduct.  Examples:  US  (CME),  Australia  (ASX), 
+Japan (TSE, OSE), Malaysia (Bursa Malaysia). 
+Independent SRO Model: A public authority is the primary regulator, it 
+relies extensively on an independent SRO (a member organization that is 
+not  a  market  operator)  to  perform  extensive  regulatory  functions. 
+Examples:  US  (FINRA&  NFA),  Canada  (IDA  &  MFDA),  Japan  (JSDA), 
+Columbia (AMV). 
+
+(iii) 
+
+(iv) 
+
+ 
+
+These  four  models  represent  various  points  along  a  continuum.  The  specific 
+choice  is  governed  by  several  factors  including  the  size  of  the  market  and  the 
+history of development of markets and financial institutions.  
+ 
+India has adopted the strong exchange SRO model. It is premature to think of the 
+‘independent SRO model’ in the Indian context given its evolution over a period 
+to  its  present  state;  the  government  model  may  not  be  entirely  possible  in  the 
+Indian context considering the size of the market. However, due to the potential 
+conflict of interest in the strong exchange SRO model, the Committee is of the 
+view  that  SEBI  must  take  a  more  active  role  in  setting  a  level  playing  field 
+with regard to fees, entry, etc. of members of MIIs.  
+ 
+1.9.  DESIRABLE FEATURES OF MIIs 
+Market  outcomes  that  are  desirable  should  be  the  guiding  parameters  for 
+formulating the ownership and governance norms for MIIs.  The discussion in 
+
+ 
+
+23
+
+ 
+
+Securities and Exchange Board of India 
+
+the preceding paragraphs leads one to believe that the following outcomes are 
+desirable: 
+
+1.  National interest and economic security should be safeguarded 
+2.  The  MIIs  should  serve  as  elements  of vital economic infrastructure for 
+
+efficient resource allocation in the economy 
+
+3.  MIIs should serve as instruments of managing market risks and to the 
+
+extent possible prevent market failure 
+
+4.  There should be desire/motivation/incentives for the operators of MII 
+to support orderly market development that provides long term market 
+stability 
+
+5.  The  MIIs  should  reduce  the  regulatory  burden  of  the  market  by 
+
+effectively supporting the market regulator 
+
+6.  The systems adopted by the MII should provide transparency and equal 
+
+access to its participants.  
+
+In line with the approach outlined above on the nature of MIIs, the Committee 
+feels that in the current state of market development in India, following are the 
+appropriate features of a well functioning MII: 
+ 
+
+(i) 
+
+Self-financing: A well managed MII should be capable of financing itself 
+and providing for its sustenance in the near future. 
+
+(ii)  Make  reasonable  profits:  The  MII  should  endeavor  to  generate 
+reasonable  profits  in  order  to  be  self-sustaining.  The  MII  should  levy 
+reasonable  charges  on  its  users  without  abusing  its  dominant  or 
+regulatory position. 
+
+(iii)  Regulatory  function:  The  MII  should  be  capable  of  undertaking 
+adequate level of regulatory activities in an unbiased manner. The MII 
+should  not  shy  away  from  investing  adequately  in  its  regulatory 
+activities. The MII must establish itself as a fair and strong regulator and 
+
+ 
+
+24
+
+ 
+
+Securities and Exchange Board of India 
+
+(iv) 
+
+earn  the  trust  and  goodwill  of  the  marketplace  so  that  it  is  actually 
+profitable for the MII to be a good regulator in its domain of business.  
+Settlement  guarantee  fund/investor  protection  fund:  The  MII  should 
+provide  adequate  safety  to  the  market  place  by  having  a  sufficiently 
+capitalized  settlement  guarantee  fund/investor  protection  fund.  This 
+fund  should  be  adequate  to  meet  perceived  contingencies  and  “black 
+swan” events. 
+
+(vi) 
+
+(v)  Net  worth:  The  MII  should  be  a  well-capitalized  entity  so  that  the  net 
+worth  of  the  MII  is  available  as  a  last  resort  to  meet  exigencies  and 
+ensure that it is able to remain as a going concern.  
+Professional  standards  and  competitive  practices:  The  MII  must 
+maintain  the  same  professional  standards  in  all  its  dealings  including 
+dealings  with  its  competitors,  its  technology  providers  and  related 
+entities. It must be able to maintain its integrity by being unbiased while 
+dealing with all such entities. 
+
+(vii)  Transparency:  The  MII  should  maintain  utmost  transparency  in  its 
+operations. The MII on its website should at least make disclosures that 
+are mandated for a listed company.  
+
+(viii)  Technology:  All  the  three  MIIs  are  heavily  dependent  on  technology. 
+The  MII  should  be  willing  to  invest  in  technology  for  increasing 
+efficiency, reach and economies of scale. 
+
+ 
+1.10. CONCERNS 
+The regulatory framework for the securities market in India has evolved over the 
+years.    However,  in  this  progression,  the  markets  have  seen  two  events  of 
+significant market failure.  Parliament has intervened in both these instances to 
+constitute a Joint Parliamentary Committees (JPC) to look into various aspects, 
+regulatory  and  otherwise.    The  recommendations  of  these  committees  have 
+contributed  to  further  strengthening  the  regulatory  framework  associated  with 
+
+ 
+
+25
+
+ 
+
+Securities and Exchange Board of India 
+
+securities markets.  Certain fundamental issues need to be revisited in the light of 
+existing  market  scenario  to  ensure  that  the  regulatory  framework  keeps  pace 
+with the challenges posed by developments of securities markets. 
+ 
+
+1.  Need for strategic investors/owners in the MIIs:  
+
+There  is  no  established  opinion  in  the  literature  to  arrive  at  what 
+would  be  the  optimum  number  of  each  class  of  MII  in  a  given 
+securities  market.  However,  as  mentioned  before,  MIIs  share 
+several  characteristics  of  ‘natural  monopolies’.      Hence,  it  is  very 
+important to create enabling conditions that allow new entrants to 
+enter  the  market,  albeit,  after  satisfying  regulatory  preconditions.   
+At present, the shareholding rights are restricted to 5% for a single 
+entity and extended to 15% for specific classes of institutions.  This 
+was done to obviate the possibility of concentration of ownership in 
+a few hands. The cap on shareholding (at 5 and 15 %) has led to a 
+situation where a single entity may not be interested in furthering 
+the growth of the stock exchange because of its limited ownership 
+interest in the stock exchange. Due to relatively low shareholding 
+limit,  the 
+incentive  (in  terms  of  management  control  and 
+commercial benefit) that is available to a single investor may not be 
+sufficient for it to devote the requisite time and energy to further 
+the operational interests of the stock exchange.  Consequently, this 
+could hinder the growth of the securities market.  At the same time, 
+the need to encourage strategic investors has to be balanced against 
+the need for ensuring the profit maximization behavior of the MII 
+or any shareholder does not jeopardize the safety of the market. 
+
+2.  MIIs as ‘for profit’ organizations: 
+
+As elaborated earlier, the role of the MII as a public utility and ‘first 
+level’  regulator  may  sometimes  not  be  in  harmony  with  its 
+
+ 
+
+26
+
+ 
+
+Securities and Exchange Board of India 
+
+of 
+
+for 
+
+expectation 
+
+long  periods, 
+
+economic  interests  of  maximizing  its  profits.  On  the  contrary,  the 
+motivation  of  the  owners  of  MIIs  should  be  to  make  only 
+reasonable  profits.  Motivation  should  arise  from  the  desire  to 
+establish  the  market  infrastructure  and  run  it  in  a  clean,  efficient 
+fashion.  This  calls  for  credible  players,  willingness  to  remain 
+invested 
+reasonable 
+dividends/returns, inclination to reinvest excess profits in the MII 
+with a view to provide a safety net to the market to meet even the 
+most adverse market disturbance. It is also necessary to ensure that 
+no  shareholder  dominates  the  MII  in  terms  of  ownership  or 
+management  control.  There  should  be  predominance  of  desire  on 
+the part of the shareholders of an MII to play an institutional role 
+rather than seeking commercial gains in the short/long run.  Given 
+the importance of the MIIs as components of social infrastructure, 
+national 
+specifying 
+should  be 
+ownership/management control. 
+ 
+Recently,  new  products  such  as  currency  derivatives  and  interest 
+rate  derivatives  have  increased  the  number  of  players  in  the  MII 
+space and the competition among these players. In an increasingly 
+competitive environment, stock exchanges may even be tempted to 
+misuse  their  regulatory  powers  while  regulating/dealing  with  its 
+competitors (when the competitor is registered as its member or is a  
+potential  technology  provider,  etc),  under-invest  in  regulatory 
+activities,  use  its  regulatory  income  for  unrelated  commercial 
+purposes10,  etc.  The  question  under  consideration  is  whether  the 
+governance  structure  of  the  MII  needs  to  be  altered  for  ensuring 
+that it serves the purpose for which it was created. 
+
+interest 
+
+safeguarded 
+
+in 
+
+ 
+
+ 
+
+27
+
+ 
+
+Securities and Exchange Board of India 
+
+Further,  the  following  developments  also  raise  questions  on  the 
+suitability of the existing organizational structure:-  
+
+(cid:131)  new market structures involving alliances of stock exchanges,  
+(cid:131)  outsourcing of clearing and settlement,  
+(cid:131)  proposals to bring OTC transactions on to the stock exchange 
+
+platform,   
+
+(cid:131)  stock  exchanges  setting  up  technology  and  other  related 
+
+businesses 
+
+3.  Separation of clearing function of a Stock Exchange and entrusting it to an 
+
+independent clearing corporation: 
+
+It  is  to  be  examined  whether  the  close  relationship  between  the 
+stock  exchange  and  clearing  corporation  is  an  issue.  Other 
+questions related to a clearing corporation are its eligibility criteria 
+such as net worth requirements.  
+
+4.  Self listing by a stock exchange and possible conflicts of interest: 
+
+Privately held stock exchanges seek to be listed in order to provide 
+an  exit  route  to  its  shareholders.    However,  listing  of  stock 
+exchange gives rise to a host of other issues, the most pertinent one 
+being  the  issue  of  who  would  be  responsible  for  monitoring  the 
+listing  compliances.  The  committee  deliberated  on  the  issue  as  to 
+whether an MII be allowed to list in view of the inherent conflict of 
+interest. 
+
+5.  Likelihood of unfair practices in allowing selective access to price sensitive 
+
+data to market participants and stock exchange resources: 
+
+The present board composition for stock exchanges permits up to 
+25% of the board of the stock exchange to be represented by trading 
+members.  At  least  25%  of  the  board  is  to  be  comprised  of  public 
+interest  directors  (PID)  and  the  balance  is  to  be  represented  by 
+shareholder  directors.    The  trading  members  on  the  board  of  the 
+
+ 
+
+28
+
+ 
+
+Securities and Exchange Board of India 
+
+stock  exchange  are  in  a  privileged  position  as  compared  to  other 
+trading members and may gain access to confidential information, 
+which is not available to others. The Committee deliberated on the 
+governing board structure prescribed for stock exchanges and felt 
+that it needs to be reviewed.   
+
+6.  Management compensation and accountability of senior management: 
+
+There  is  a  general  belief  that  among  others,  the  compensation 
+practices  at  financial  institutions  was  one  of  the  factors  that 
+contributed  to  the  global  financial  crisis.  Certain  compensation 
+related  incentive  structures  encouraged  excessive  risk  taking, 
+particularly those of senior management, without adequate regard 
+to the resultant longer-term risks on the institutions.  This incentive 
+structure  had  the  effect  of  privatizing  profits  while  socializing 
+losses. This excessive risk-taking left institutions with lower levels 
+of resources to absorb losses as risks actually devolved.   It has to be 
+examined  in  the  context  of  MIIs  as  to  whether  the  incentive 
+structures for key management personnel needs to be regulated by 
+specifying certain broad parameters / guidelines.  
+ 
+1.11. ISSUES 
+Based on the above concerns, the Committee has identified the following issues 
+for deliberation with respect to the ownership and governance norms for MIIs:- 
+
+ 
+1.  What is a stock exchange? Does the definition of stock exchange need any 
+
+modification? 
+
+2.  Do  the  present  ownership  restrictions  on  MIIs  need  review?  Do  FII/FDI 
+
+norms on ownership in an MII need to be reviewed? 
+
+ 
+
+29
+
+ 
+
+Securities and Exchange Board of India 
+
+3.  Which is a better model for ownership? – (a) Diversified ownership (as in 
+the case of stock exchanges) or (b) anchor/strategic investor approach (as in 
+the case of depositories)  
+
+a.  In case (b) is suitable for MIIs, what classes of entities can be permitted 
+
+to be anchor investors?  
+
+b.  Should there be lock-in stipulations for anchor investor?  
+c.  What are the conflicts arising out of private entities becoming anchor 
+
+investors? 
+
+4. 
+
+ Does the present Board composition (including manner of appointment of 
+the Board) prescribed by SEBI for stock exchanges need a review? Should 
+the same be extended to other MIIs?  
+
+5.  Trading Members on the Board of the Stock Exchange can potentially have 
+access  to  confidential  information  with  respect  to  trading  information 
+pertaining to other members as well as sensitive information. Should there 
+be any trading member representation on the Board of the Stock Exchange, 
+or alternatively, can they be put on a separate Advisory Board to the main 
+Board?  
+
+6.  What should be the organizational structure for an MII that is suitable for 
+fulfilling  the  objectives  of  an  MII  including  its  regulatory  goals?  Can  the 
+conflicts of interest be eliminated through specific stipulations of structure 
+and governance of MIIs? (For e.g., erection of Chinese wall between the two 
+functions  or  hiving  it  off  to  a  subsidiary  or  transferring  to  a  regulatory 
+body)? 
+
+7.  What other businesses should an MII be allowed to perform? Can they set 
+up another MII with 100% shareholding? What kind of non-MII businesses 
+can they perform? Can they set up related businesses such as independent 
+software vendors?  
+In  the  light  of  the  recent  global  financial  crisis  and  the  debate  on 
+management  compensation,  is  there  a  case  for  enunciating  principles  for 
+
+8. 
+
+ 
+
+30
+
+ 
+
+Securities and Exchange Board of India 
+
+management  compensation  of  MIIs?  What  should  the  management  be 
+accountable for – profitability, regulatory efficiency, etc.? 
+
+9.  What should be the process of appointment of senior management in MIIs? 
+
+What other safeguards are to be put in the management structure?  
+
+10.  What will be an optimal number of MIIs for the Indian Securities Market? 
+
+What should be entry and exit norms applicable to MIIs?  
+
+11.  There are twin dangers for all MIIs – ‘regulatory race to the bottom in the 
+face of competition’ or ‘becoming too big to fail’. What safeguards can be 
+built to prevent the same?   
+
+12.  Are  there  any  regulatory  issues  arising  out  of  competition  such  as 
+discrimination by an MII against a competing MII or any intermediary or 
+technology provider that needs to be regulated? What should be the norms 
+to  regulate  the  relationship  of  MII  with  technology  providers  and 
+intermediaries? 
+
+13.  To  what  extent  should  commercial  functions  of  an  MII  be  regulated? 
+Specifically,  should  charges  and  fees  levied  by  MIIs  be  regulated  in  a 
+competitive environment? Is there a case for capping the charges on a ‘cost 
+plus’ basis and/or for capping distribution of profits?  
+
+14.  Whether listing of an MII should be permitted? If so, what would be best 
+model  that  may  be  permitted  –  self-listing,  cross  listing  or  dual  listing? 
+What are the alternatives to achieve these objectives? Are there any issues 
+arising out of listing of a subsidiary of the MII on the same MII? 
+
+15.  Should clearing corporations be subsidiaries of stock exchanges or should 
+they  be  completely  separate  entities?  What  should  be  the  ownership 
+restrictions for clearing corporations?  
+
+16.  What should be net worth requirement for a clearing corporation?  
+17. 
+
+Is it desirable to allow Stock Exchanges, by virtue of being a sponsor of the 
+depository  to  own  more  than  50%  of  the  ownership  of  Depositories,  thus 
+
+ 
+
+31
+
+ 
+
+Securities and Exchange Board of India 
+
+leading  to  a  situation  where  the  depository  becomes  a  subsidiary/  group 
+company of the Stock Exchange?  
+
+ 
+1.12. STRUCTURE OF THE REPORT 
+The above issues have been grouped under the following chapters in this report:- 
+I.  Ownership  norms:  This  chapter  reviews  the  existing  ownership  norms 
+including  foreign  participation  in  stock  exchanges  and  depositories  and 
+also proposes norms for clearing corporations. 
+
+II.  Governance norms: The board composition for the three MIIs is examined 
+
+in this Chapter. 
+
+III.  Measures  for  conflicts  resolution:  This  chapter  deals  with  appointment 
+and compensation for senior management, measures to ensure autonomy 
+of regulatory departments and requirements for a compliance officer. 
+
+IV.  Other  issues:  This  chapter  deals  with  listing  of  MIIs,  net  worth 
+requirements , requirement on MIIs to generate only reasonable profits , 
+related  businesses  that  can  be  entered  into  by  MIIs,  replacement  of 
+MIMPS Regulations and powers to SEBI in matters relating to MIIs.     
+
+ 
+In each of the following chapters, the three MIIs are dealt with separately so that 
+issues  can  be  examined  in  context  to  the  specific  nuances  of  each  MII.  The 
+recommendations  of  the  Committee  on  each  issue  are  stated  at  the  end  of  the 
+relevant section.  
+
+ 
+
+32
+
+ 
+
+Securities and Exchange Board of India 
+
+Chapter   II 
+
+Ownership norms 
+
+2.1  MARKET STRUCTURE  
+A  discussion  on  ownership  norms  for  MIIs  has  necessarily  to  be  placed  in  the 
+backdrop of the broad market structure that determines the inter-MIIs linkages 
+in terms of their ownership and control.   
+ 
+Generally  two  types  of  market  structures  are  observed  i.e.,  vertical  silos  or 
+horizontal integration. Silo models imply vertical integration across the trading 
+and  post-trading  value  chain  (trading  systems,  clearing  houses  and  central 
+depositories). Historically, in most markets, this has been the case in the initial 
+stages of their evolution.  This was so because the stock exchanges took the first 
+steps in building post-trade infrastructures to replace bilateral and paper based 
+settlement arrangements for formalized and multilateral clearing and settlement 
+schemes.  Horizontal models in most cases, have been the result of the merger of 
+institutions  providing  the  same  layer  of  services  in  the  trade  value  chain  (e.g. 
+trade matching, clearing, settlement, central depository). The distinctive feature 
+is that they are designed to interact with multiple providers of trade and post-
+trade services11.  
+ 
+Competition between stock exchanges may be precluded if potential new entrant 
+stock exchanges and trading systems are restricted from having the same access 
+to  clearing  and  settlement  facilities  as  incumbent  stock  exchanges.  This  may 
+occur  if  competition  for  the  provisions  of  clearing  or  settlement  services  is 
+limited or non-existent and the incumbent stock exchange operates a vertical silo, 
+in which it owns the clearing corporation and the depository.  If an incumbent 
+stock exchange operates a vertical silo, but competition at both the clearing and 
+
+ 
+
+33
+
+ 
+
+Securities and Exchange Board of India 
+
+settlement  level  is  viable,  then  a  new  entrant  stock  exchange  has  the  option  of 
+creating  its  own  vertical  silo  with  a  clearing  corporation  and  a  depository  or 
+alternatively  seek  the  services  of  a  clearing  corporation  and  depository  other 
+than  those  owned  by  the  incumbent  stock  exchange.    If  an  incumbent  stock 
+exchange  operates  a  vertical  silo  and  the  provision  of  clearing  and  settlement 
+services is not competitive, it may choose to be restrictive in offering access to its 
+clearing  corporation  and  depository  to  a  competing  stock  exchange  thereby 
+hindering competition at the trading level12. 
+ 
+However, the question as to whether a vertically integrated stock exchange will 
+seek  to  restrict  access  to  its  clearing  corporation  to  another  stock  exchange  is 
+debatable. A major concern expressed by many market participants is that in a 
+world  where  outsourced  clearing  is  becoming  increasingly  common,  there  is  a 
+real  fear  that  a  clearing  corporation  may  be  biased  toward  its  dominant  stock 
+exchange  customers.  This  concern  is  arguably  greater  for  those  clearing 
+corporations that remain captive to one major stock exchange or group of stock 
+exchanges  but  provide  outsourced  clearing  on  a  selective  basis  to  outsiders.  A 
+captive  clearing  corporation,  for  example,  might  be  tempted  to  approve  new 
+contracts  much  faster  for  its  primary  stock  exchange  affiliate  than  for  its 
+outsourcing  customers.  This  would  suggest  that  there  is  merit  in  encouraging 
+setting up of a fully independent clearing corporation that caters to more than 
+one stock exchange13.  
+ 
+In practice, however, the concerns expressed above have not manifested in any 
+significant  manner  as  seen  from  several  instances  in  the  securities  markets  in 
+different jurisdictions.14  It has also been argued15 that if one were to assume that 
+execution  is  potentially  highly  competitive  and  if  clearing  were  a  natural 
+monopoly,  then  the  monopoly  clearing  entity  would  encourage  competition  in 
+execution  rather  than  insist  that  market  users  use  the  trading  system  of  the 
+
+ 
+
+34
+
+ 
+
+Securities and Exchange Board of India 
+
+associated  stock  exchange.  If  other  execution  venues  are  more  efficient  and  if 
+competition  between  them  drives  down  the  price  of  execution  services,  the 
+clearing  monopolist  would  be  better  off  not  integrating  execution  and  clearing 
+and instead allowing customers to obtain execution services from the lowest-cost 
+provider.  
+ 
+Vertical integration – the combination of both clearing and execution activities in 
+a single firm as a vertical silo – eliminates double markups and can be a means to 
+economize  on  transaction  costs16.    Thus,  typically,  fundamental  economic 
+considerations appear to that make vertical integration a more prevalent route in 
+comparison  to  the  alternative  of  trading  and  post-trading  services  being 
+provided by separate for-profit entities. 
+ 
+In  India,  vertical  silos  have  so  far  emerged  in  both  clearing  and  depository 
+services. NSE has a 100% owned subsidiary NSCCL for clearing and settlement 
+services.  NSE  also  holds  25%  in  NSDL.  Similarly,  BSE  has  a  clearinghouse  for 
+clearing and settlement of its products. It has also set up an independent 100% 
+owned  clearing  corporation,  ICCL,  for  clearing  and  settlement  of  some  of  its 
+segments. BSE has 54% shareholding in CDSL. However, this arrangement has 
+not  precluded  access  to  the  respective  depositories.  Inter-connectivity  between 
+NSDL  and  CDSL  has  been  achieved  in  1999,  albeit  through  regulatory 
+intervention.  MCX-SX has also set up a 100% owned subsidiary MCX-SX’CCL 
+for  clearing  and  settlement.    However,  USE,  the  latest  stock  exchange  in  the 
+securities  market,  has  outsourced  clearing  and  settlement  to  ICCL.    BSE  holds 
+15% of the paid up equity capital of USE .  
+ 
+From  the  above,  it  is  evident  that  both  trade  execution  and  post-trade  services 
+have  proven  to  be  competitively  viable  in  the  Indian  scenario17.    Moreover, 
+outsourcing of clearing and settlement is also gradually emerging in the Indian 
+
+ 
+
+35
+
+ 
+
+Securities and Exchange Board of India 
+
+market.    It  appears  that  there  is  no  pressing  need  to  alter  the  exiting  market 
+structure  of  arrangement  between  stock  exchanges,  clearing  corporation  and 
+depository solely to address the issue of competition. 
+ 
+The ownership requirements of each MII are examined below. 
+ 
+2.2 
+STOCK EXCHANGES: The ownership requirements for stock exchanges 
+were  notified  by  Government  of  India  vide  SCR  (Manner  of  Increasing  and 
+Maintaining  Public  Shareholding)  Regulations,  2006  (“MIMPS”).  The  following 
+limits are applicable as per the MIMPS Regulations:- 
+ 
+
+Category 
+
+Maximum Permitted Holding 
+
+Person resident in India – individual 
+limit 
+Stock exchange, depository, clearing 
+corporation, banking company and a 
+public  financial  institution  defined 
+under Sec. 4 A of the Companies Act 
+195618 
+Persons  residing  outside  India  – 
+individual limit 
+Limit  on  cumulative  holding  by 
+trading members 
+Persons  residing  outside  India  – 
+cumulative limit 
+
+5% 
+
+15% 
+
+5% 
+
+49% 
+
+through 
+
+the  FDI 
+
+49%, subject further to the following:- 
+a)  26% 
+approval) 
+b)  23%  for  FII’s    (No  initial  allotment 
+through an IPO/FPO)  
+ 
+
+(via  FIPB 
+
+• 
+If  the  stock  exchanges  are  not 
+listed,  acquisition  by  FII  is  permitted 
+through off market transactions but not 
+through initial allotment. 
+• 
+If  the  stock  exchange  is  listed, 
+acquisition  by  FII  is  permitted  only 
+through on market. 
+
+ 
+
+ 
+
+36
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+Annexure – C & Annexure –D of this report depict the ownership restrictions in 
+select countries and details of ownership of stock exchanges in select countries, 
+respectively.  It  is  seen  that  the  existing  shareholding  restrictions  in  India 
+generally are similar to that of most other countries. However, from the tables in 
+Annexure  –D,  it  is  seen  that  in  most  of  the other  stock  exchanges,  at  least  one 
+shareholder has been permitted to hold more than 15% but less than 30% of the 
+equity share capital.  
+ 
+Imposing restrictions on ownership is one of the ways of exercising regulatory 
+control over a stock exchange.  Dispersed ownership structure has been adopted 
+for stock exchanges so that no single entity becomes a dominant shareholder in 
+an entity that is entrusted with vital economic and regulatory functions. It has 
+been felt that for public policy reasons19, it is desirable to encourage widespread 
+ownership,  encompassing  both  institutional  and  retail  investors.  This  helps  to 
+reduce  the  likelihood  of  decisions  being  made  in  the  interests  of  any  one 
+particular segment of the market. 
+ 
+However,  there  have  also  been  contrary  views  expressed  in  this  regard. 
+Demutualization was aimed at allowing a stock exchange to operate as an entity 
+in  its  own  right  –  rather  than  as  an  extension  of  its  members/users  business. 
+Ownership and control in the stock exchange of the trading members has been 
+restricted  severely.    This  in  a  sense  has  shifted  the  governance  fulcrum  away 
+from the trading members to the shareholders and public interest directors. But 
+some observers20 have noted that limiting the maximum permissible holding by 
+other entities (to limits as low as 5 percent of share capital of that stock exchange) 
+might have led to the lack of interest on the part of shareholders to take adequate 
+interest  in  the  management  and  governance  of  the  stock  exchanges.  Thus  the 
+limits  on  shareholding  of  a  stock  exchange,  could  defeat  the  purpose  of 
+
+ 
+
+37
+
+ 
+
+Securities and Exchange Board of India 
+
+demutualization. Indeed, in the case of some stock exchanges, it appears that in 
+spite  of  demutualising,  they  have  been  unable  to  shake  the  conflicts  between 
+members who have different interests.  
+ 
+It has also been suggested21 that there are number of factors that could influence 
+a stock exchange to seek to limit diversified ownership, including: 
+ 
+
+(i)  Very  widely  dispersed  ownership,  where  investors  are  more  likely  than 
+not, to suffer from “rational apathy” in their decision-making, which may 
+possibly have adverse consequences on occasions when a requisite level of 
+extant  shareholders  is  needed,  for  example,  where  a  change  to  a  stock 
+exchange’s constitution is required, and  
+
+ 
+
+(ii)  Relatively  large  shareholder  bases  are  likely  to  impose  significant  on-
+going  costs  on  stock  exchange  which  arise  from  the  need  to  service  
+shareholders,  for  example,  by  providing  them  with  annual  reports, 
+general meeting venues and so on;  
+
+ 
+On  examining  the  above  arguments,  the  Committee  is  of  the  opinion  that  the 
+concept of dispersed ownership is to be favored for the well functioning of the 
+stock exchanges.  However, institutions fulfilling stringent eligibility criteria may 
+be permitted to hold a higher percentage of shareholding in stock exchanges. In 
+India,  the  shareholding  restrictions  prescribed  under  MIMPs  were  increased 
+from 5% to 15% for certain class of investors in 2008. The question now under 
+consideration is whether a further step in that direction is warranted. This issue 
+is being considered mainly because there may be certain shareholders fulfilling 
+stringent eligibility, fit and proper criteria, who take an interest in the working of 
+the  stock  exchange,  and  may  be  interested  to  obtain  higher  shareholding. 
+Further, possibly there is still scope for new stock exchanges to be set up in India, 
+
+ 
+
+38
+
+ 
+
+Securities and Exchange Board of India 
+
+given the huge expected potential of its markets.  It is desirable to ensure that fair 
+competition  is  available  to  avoid  perverse  monopoly.  At  the  same  time,  the 
+Committee is of the opinion that the optimal number of stock exchanges required 
+in India cannot be arrived at with any degree of precision. Moreover, entry of a 
+large number of stock exchanges will fragment liquidity to such an extent that 
+this might stifle growth and innovation in the process.  Also, too frequent exits of 
+stock  exchanges  will  jeopardize  the  interests  of  the  investors  and  disrupt  the 
+stability of the markets themselves.  Further, technology has altered the market 
+place so much that need for multiple stock exchanges has been reduced largely.  
+ 
+The concept of anchor investors is not alien to Indian securities market, as it has 
+been introduced by SEBI on July 9, 2009, in public issues, to help the issuer to 
+raise  funds.    The  Committee  therefore  proposes  to  support  the  concept  of 
+‘Anchor Institutional Investor’ who will take the lead role of setting up a stock 
+exchange. However, the implementation of the above proposal should not result 
+in the dilution of dispersed ownership norms for stock exchanges. Therefore, it is 
+suggested that there should be a cap on the maximum shareholding held by all 
+anchor institutional investors put together. In addition, the anchor institutional 
+investor should bring down his shareholding within a prescribed period. 
+ 
+At present, the MIMPS Regulations permit the following entities to hold up to 
+15%, after seeking prior approval from SEBI:- 
+ 
+
+(i) 
+
+Stock Exchange 
+
+(ii)  Depository 
+
+(iii)  Clearing corporation 
+
+ 
+
+39
+
+ 
+
+Securities and Exchange Board of India 
+
+(iv) 
+
+(v) 
+
+(vi) 
+
+Banking  company  as  defined  under  clause  (c)  of  section  5  of  the 
+Banking Regulation Act, 1949 
+
+Insurance company as defined under sub-section (8) of section 2 of the 
+Insurance Act, 1938  
+
+Public financial institution defined under section 4A of the Companies 
+Act, 1956 
+
+Of  the  above  entities,  well-capitalized  public  financial  institutions  and  banks 
+may only be permitted to be anchor institutional investors for stock exchanges. 
+While in Section 5.5 of the report the Committee has proposed the replacement of 
+the MIMPS Regulations by a comprehensive set of regulations on the ownership 
+and governance of stock exchange, the following changes are recommended to 
+the  current  set  of  provisions  of  the  MIMPS  Regulations  applicable  to  stock 
+exchanges:- 
+ 
+
+I.  ANCHOR INSTITUTIONAL INVESTOR (AII) 
+
+a)  Domestic institutions registered in India having a net worth of  ` 1000 
+
+crores or more and falling under the category of: 
+
+(i) 
+
+Public  Financial  institutions  defined  under  section  4A  of  the 
+Companies Act, 1956 and with national jurisdiction,  
+
+(ii)  Banking company as defined under clause (c) of section 5 of the 
+
+Banking Regulation Act, 1949 
+
+may  be  permitted  to  be  anchor  institutional  investors  for  stock 
+exchanges for a period of 10 years from the date of recognition as an AII 
+of the exchange. 
+ 
+
+ 
+
+40
+
+ 
+
+Securities and Exchange Board of India 
+
+b)  Public  financial  institutions  and  banking  companies  fulfilling  the 
+conditions  prescribed  under  (a)  above  can  be  anchor  institutional 
+investors even if their subsidiary/ associates have trading interests. 
+
+ 
+c)  A  single  anchor  institutional  investor  may  be  permitted  to  hold  up  to 
+24% of the total equity capital of an exchange, along with persons acting 
+in concert.  
+
+d)  Every anchor institutional investor will have to bring down its holding 
+to 15% or less in ten years from the time it is recognised as an anchor. 
+During  the  allowed  holding  period  of  ten  years,  if  an  AII  desires  to 
+offload the stake to another eligible AII, the holding period for new AII 
+would be deemed to have commenced from the date when original AII 
+acquired shares and became AII.  In summary, the total holding period 
+allowed  will  be  only  10  years  for  the  initial  AII  and  its  subsequent 
+AII’s.    SEBI  may  extend  such  period  in  case  the  AII  makes  an 
+application  for  the  extension  in  time  and  the  same  is  a  fit  case  for 
+extension.  
+
+ 
+e)  Anchor  Institutional  Investor  for  new  stock  exchanges:  At  the  time  of 
+filing  the  application  for  recognition  as  a  stock  exchange,  anchor 
+institutional  investors  shall  be  identified,  by  the  entity  seeking 
+recognition, from amongst the shareholders holding more than 15% and 
+up to 24% of the equity capital of the exchange.  
+
+f)  Anchor Institutional Investor for existing stock exchanges: Entities at (a) 
+above desirous of holding more than 15% and up to 24% for becoming 
+anchor institutional investors in a recognised stock exchange will have 
+to make an application to SEBI for the same after getting the approval of 
+
+41
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+the  shareholders  in  the  AGM  of  the  stock  exchange  through  a  special 
+resolution. 
+
+ 
+g)  All anchor institutional investors put together shall not hold more than 
+
+49% of the total equity capital of an exchange. 
+
+h)  The present procedure of obtaining ‘fit and proper’ approval from SEBI, 
+
+for entities holding more than 5% shall continue. 
+
+ 
+
+II.  OWNERSHIP AND CONTROL OF AN MII IN ANOTHER CLASS OF 
+
+MII 
+
+In the securities market in India, the evolution of vertical silos with stock 
+exchanges  holding  stakes  in  clearing  corporation  and  depositories  has 
+become  quite  prevalent.    The  Committee  is  of  the  view  that  clearing 
+corporations and depositories perform specialized post-trade services.  It is 
+ideal for these MIIs (clearing corporations and depositories) to function as 
+public  utilities  and  focus  on  improving  the  safety  of  the  market  and 
+reducing the costs to users. The Committee is of the view that on account of 
+the discussions in section 2.1 above, there is no need to permit a clearing 
+corporation or depository to invest in other class of MIIs. Hence, clearing 
+corporations and depositories may not be allowed to invest in other class 
+of MIIs .  
+
+42
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+To  sum  up,  the  model  proposed  for  restriction  on  shareholding  of  stock 
+exchanges is as follows:- 
+ 
+
+ 
+
+ 
+
+ANCHOR INSTITUTIONAL 
+
+Upto 5% 
+
+>5% and upto 15% 
+
+person 
+
+Any 
+both 
+resident  in  India  and 
+outside 
+India 
+including those having 
+trading interests 
+
+a.  Stock Exchange 
+b.  Banking company  
+c.  Insurance company  
+d.  Public 
+
+financial 
+institution defined under 
+section 
+the 
+Companies Act, 1956 
+
+4A 
+
+of 
+
+is 
+
+proposed 
+
+ 
+that 
+(It 
+depositories  and 
+clearing 
+corporations  shall  not  be 
+allowed  to  invest  in  stock 
+exchanges) 
+
+INVESTOR 
+
+>15% and upto 24% 
+
+Domestic  institutions22    having  a  net 
+worth  of  `  1000  crores  or  more  and 
+falling under the category of; 
+a.  Public  Financial  institutions  defined 
+under  section  4A  of  the  Companies 
+Act, 
+1956 
+and  with  national 
+jurisdiction, 
+
+b.  Banking  company  as  defined  under 
+clause (c) of section 5 of the Banking 
+Regulation Act, 1949 
+
+institutional 
+
+ 
+All  anchor 
+investors  put 
+together may not hold more than 49% of 
+the total equity capital of an exchange. 
+ 
+Every  anchor  institutional  investor  will 
+have to bring down its holding to 15% in 
+ten years from the time it is recognised as 
+an anchor. 
+ 
+
+ 
+The  category  based  restrictions  for  trading  members,  FII,  FDI  and  cumulative 
+foreign holding will continue as before.  
+ 
+
+ 
+
+43
+
+ 
+
+Securities and Exchange Board of India 
+
+2.3 
+CLEARING CORPORATIONS: Clearing corporations / clearing houses  
+are the most important link for orderly settlement and risk containment. A single 
+independent  clearing  corporation  is  ideal  for  obtaining  the  benefits  of  netting 
+and for position monitoring purposes as well. However, it would also increase 
+the  systemic  risk  in  the  market.  A  mid-way  would  be  to  have  multiple 
+independent clearing corporations, which are connected to each other and to the 
+exchanges  and  depositories.  This  would  necessitate  interoperability  among 
+clearing corporations.  As established by the example of depositories in India, a 
+majority  holding  by  a  stock  exchange  does  not  preclude  successful  linkages 
+between the depositories. Moreover, from a market power perspective, a single 
+clearing corporation may levy excessive charges on its users.  
+ 
+As  regards  ownership  issues,  while  stock  exchanges  are  required  to  increase 
+penetration  and  turnover,  the  business  of  a  clearing  corporation  is  only  a 
+function of the turnover at the exchange(s). The primary objective of a clearing 
+corporation  is  to  ensure  orderly  settlement  of  trades  and  to  safeguard  the 
+security and stability of the settlement system.  Keeping in mind the pivotal role 
+of clearing corporations in settling the trades and risk management of the stock 
+markets,  it  would  be  detrimental  to  place  the  commercial  objectives  of  the 
+shareholders of the clearing corporation in the forefront. Therefore, while private 
+participation is permitted for stock exchanges, it is felt that clearing corporations 
+being at the core of the settlement system must continue to be promoted by stock 
+exchange(s),  whose  interest  would  also  be  to  ensure  orderly  clearing  and 
+settlement  of  trades  executed  on  their  platforms.    Moreover,  the  processes  of 
+trade matching, margining, clearing and settlement are so interlinked with each 
+other that separating the entities may lead to an increase in legal and operational 
+risks.   
+ 
+
+ 
+
+44
+
+ 
+
+Securities and Exchange Board of India 
+
+One view that has been held by some experts in this field is that stock exchanges 
+and  clearing  corporations  should  be  completely  separated.    This  view  would 
+entail that stock exchanges thereafter should be freed without any restrictions on 
+their  ownership.    It  has  also  been  argued  in  this  context  that  the  surveillance 
+functions of SEBI as the regulator should be strengthened further instead of the 
+regulator  having  to  depend  on  the  surveillance  mechanisms  of  the  stock 
+exchange.  The Committee noticed a few difficulties with these arguments.  It has 
+to  be  first  recognised  that  on  a  value  chain  consideration,  from  the  trading 
+transaction to clearing and all the way to settlement of the trades, the most risky 
+element  (and  therefore,  the  highest  in  value  as  a  proportion  of  the  total 
+transaction  costs)  would  have  to  be  attached  to  the  clearing  and  settlement 
+function.   Shorn of the clearing and settlement function, the stock exchange is 
+merely  a  provider  of  an  electronic  trading  platform.    Hence,  the  first  difficulty 
+that the Committee sees in this arrangement is that clearing corporations being at 
+the  core  of  the  clearing  and  settlement  function  of  the  exchange,  such  a 
+separation  between  the  stock  exchange  and  clearing  corporation  would  simply 
+shift  the  debate  of  ownership  and  governance  to  the  level  of  clearing 
+corporations,  without  achieving  commensurate  benefits  to  the  marketplace.  
+Secondly,  divesting  the  stock  exchanges  of  their  surveillance  function  and 
+treating them on the same level as any other financial intermediary, would mean 
+that  the  market  loses  the  benefit  of  a  second  layer  of  surveillance.    Thirdly, 
+entrusting the stock exchanges with a surveillance (regulatory) function means 
+that  surveillance  begins  right  at  the  interface  between  the  client  (through  the 
+broker)  and  the  trading  and  settlement  system  –  clearly  a  sounder  basis  for  a 
+well-regulated marketplace.  Finally, when any regulatory role is attached to a 
+profit  making  public  utility  like  the  stock  exchange,  despite  the  conflicts  of 
+interests we have referred to herein, it confers a certain status to it as a defender 
+of the market thereby making the market more secure for the investor.  Hence, 
+the Committee is not in favor of a complete separation of the clearing corporation 
+
+ 
+
+45
+
+ 
+
+Securities and Exchange Board of India 
+
+from  the  stock  exchange.  The  Committee  favours  a  situation  where  stock 
+exchanges have a significant relationship with the clearing corporation as anchor 
+investors. 
+ 
+The Committee therefore, recommends that at least 51% of the paid-up equity 
+capital of the clearing corporation should be held by one or more recognised 
+stock exchanges.  
+ 
+2.4  DEPOSITORIES:  In  the  case  of  depositories,  the  concept  of  anchor 
+investors has already been adopted. Such investor(s) are called as sponsors in the 
+context  of  depositories.  “Sponsor”,  as  per  the  SEBI  (Depositories  and 
+Participants) Regulations, 1996, means “any person or persons who, acting alone or 
+in combination with another proposes to establish a depository and undertakes to perform 
+the obligations of a sponsor under these regulations.” 
+ 
+Presently, sponsors belonging to any of the following categories, are required to 
+hold  at  least  51%  of  the  equity  share  capital  in  the  depository,  either  alone  or 
+together:-  
+
+(i) 
+
+(ii) 
+
+(iii) 
+
+(iv) 
+
+(v) 
+
+A  public  financial  institution  as  defined  in  section  4A  of  the 
+Companies Act, 1956 (1 of 1956);  
+
+a  bank  included  for  the  time  being  in  the  Second  Schedule  to  the 
+Reserve Bank of India Act, 1934 (2 of 1934);  
+
+a  foreign  bank  operating  in  India  with  the  approval  of  the  Reserve 
+Bank of India; 
+
+a  recognised  stock  exchange  within  the  meaning  of  clause  (j)  of 
+section  2  of  the  Securities  Contracts  (Regulation)  Act,  1956  (42  of 
+1956);  
+
+a body corporate engaged in providing financial services where not 
+less than seventy-five per cent of the equity capital is held by any of 
+
+ 
+
+46
+
+ 
+
+Securities and Exchange Board of India 
+
+(vi) 
+
+the institutions mentioned in sub-clause (i), (ii), (iii) or (iv) jointly or 
+severally;  
+
+a  body  corporate  constituted  or  recognised  under  any  law  for  the 
+time  being  in  force  in  a  foreign  country  for  providing  custodial, 
+clearing or settlement services in the securities market and approved 
+by the Central Government;  
+
+(vii) 
+
+an  institution  engaged  in  providing  financial  services  established 
+outside India and approved by the Central Government; or 
+
+(viii) 
+
+ the applicant is a fit and proper person. 
+
+ 
+
+Besides  sponsors,  no  person  whether  resident  in  India  or  not,  including 
+depository  participants,  are  allowed  to  hold  more  than  5%  of  the  equity  share 
+capital in the depositories.  
+
+ 
+
+The higher shareholding (of at least 51%) by sponsors, including stock exchanges 
+in depositories was permitted in the initial stages for facilitating the setting up of 
+depositories.  Therefore,  currently,  when  two  depositories  have  successfully 
+established themselves, it is felt that the independence of depositories has to be 
+ensured by reducing the holding of stock exchanges in depositories. Moreover, 
+depositories in India perform only record keeping activity, unlike some Central 
+Securities  Depositories  (CSDs)  abroad  that  undertake  both  settlement  and 
+electronic record keeping of securities. The activities performed by depositories 
+in  India  are  therefore,  not  entwined  with  the  stock  exchange  (unlike  that  of 
+clearing  corporations).  Most  importantly,  the  Committee  recognises  that  stock 
+exchanges  and  depositories  both  have  a  surveillance  and  regulatory 
+function.  Each, in its own way serves as a surveillance layer in the market.  The 
+Committee has been apprised of the fact that SEBI as the market regulator often 
+uses records of depositories for its surveillance function, independent of the data 
+
+ 
+
+47
+
+ 
+
+Securities and Exchange Board of India 
+
+  For  obvious  reasons,  one  surveillance 
+collected  from  stock  exchanges. 
+mechanism  desirably  should  not  be 
+in  control  of  another  surveillance 
+mechanism.  While,  in  the  context  of  just  two  depositories  and  three  or  four 
+exchanges  in  India,  this  problem  may  not  appear  grave  in  line.  However,  the 
+Committee is of the opinion that the integrity of the surveillance mechanism in 
+each  entity  should  be  maintained  and  in  the  process  insulate  the  market  from 
+systemic risks to the extent possible. The Committee therefore, feels that a stock 
+exchange should not be allowed to take a position of control in a depository. It is 
+recommended  that  the  holding  of  stock  exchanges  in  depositories  may  be 
+restricted to a maximum of 24%.  
+ 
+Further, the sponsors shall be subject to a ‘fit and proper’ approval from SEBI 
+in  the  manner  similar  to  the  shareholders  of  stock  exchanges  holding  more 
+than 5%.  
+ 
+2.5 
+FOREIGN  PARTICIPATION:  At  present,  the  combined  holding  of  all 
+persons residing outside India in the equity share capital of an MII is capped at 
+49% subject to the following: 
+
+(cid:131)  The combined holding through FDI and FII routes are capped at 26% 
+
+and 23%, respectively. 
+
+(cid:131)  FIIs  can  acquire  the  equity  shares  of  an  MII  only  through  the 
+
+secondary market.  
+
+(cid:131)  An FII cannot have representation on the board of an MII. 
+(cid:131)  No person outside India, either individually or with persons acting in 
+concert with him can hold more than 5% of the equity share capital of 
+an MII. 
+
+ 
+The Government has clarified that with respect to exchanges that are not listed, 
+FII  purchase  of  shares  of  such  exchanges  can  only  be  through  transactions 
+
+ 
+
+48
+
+ 
+
+Securities and Exchange Board of India 
+
+outside of the exchange provided it is not an initial allotment and that however, 
+if  the  exchange  is  listed,  transactions  by  FIIs  should  be  done  on  the  exchange 
+alone.  Therefore, technically, it would follow that an FII cannot be a part of the 
+group that applies for a new exchange but immediately after SEBI approves the 
+exchange, the FII can take ownership up to 5% through a direct purchase from 
+any  one  of  the  promoters  of  the  exchange.    It  is  felt  that  there  is  no  ostensible 
+justification for retaining this distinction. It may also be noted that all MIIs are at 
+present unlisted and the question of FIIs purchasing shares of stock exchanges 
+through a stock exchange transaction does not arise.  
+ 
+Therefore,  it  is  recommended  that  in  the  case  of  all  MIIs,  an  FII  should  be 
+allowed  to  acquire  the  shares  through  off  market  transactions  including 
+through  initial  allotment,  as  allowed  for  other  shareholder,  subject  to  the 
+limits  specified  by  the  Government  from  time  to  time.  The  same  may  be 
+suggested to the Government by SEBI.  
+ 
+2.6  ALL  EXPOSURES  TO  BE  COUNTED: 
+  The  shareholding  limits 
+described  above  shall  be  inclusive  of  all  exposures  (both  on  and  off  the 
+balance  sheet)  of  the  shareholder  to  the  MII.    The  Committee  feels  that  it 
+would  be  counter  intuitive  to  prescribe  shareholding  limits  and  allow 
+participation of a shareholder through other means as a creditor or holder of 
+other  instruments  issued  by  the  MII.      In  other  words,  the  maximum 
+permissible  limit  will  be  computed  based  on  the  equity  share  capital  of  the 
+MII and in case the entity (along with persons acting in concert) has any other 
+direct or indirect exposure in the MII,  such exposure in value terms shall be 
+included while determining the total exposure of the shareholder to the MII.  
+This would help maintain a transparent and cleaner separation of ownership 
+and governance – an essential consideration for avoiding conflicts of interests 
+referred to above. 
+
+ 
+
+49
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+2.7 
+TIME FOR COMPLIANCE: New stock exchanges must comply with the 
+ownership restrictions ab initio. Similarly, the ownership restrictions for clearing 
+corporations are in line with market practice, therefore, they must comply with 
+the same ab initio. In case of existing depositories, stock exchanges may be given 
+a time limit of 3 years for reducing their holding in depositories to 24%.  
+
+ 
+
+50
+
+ 
+
+Securities and Exchange Board of India 
+
+Chapter   III 
+
+Governance norms  
+
+An institution’s board of directors plays a central role in its governance. In the 
+case of MIIs, the board decides on important aspects such as: 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+Investments in critical functions such as surveillance, risk management, 
+up-gradation of systems for exchange/depository operations, testing of 
+disaster recovery sites, etc 
+
+Nomination/  selection  of  Public 
+directors  
+
+Interest  Directors/Independent 
+
+Some of the directors may be part of the selection committee that selects 
+key personnel, including the ED of the Exchange/Depository. 
+
+Tightening  of  norms  such  as  imposition  and  collection  of  margins, 
+member/ depository participant compliance, and resolution of investor 
+grievances,  which  may  lead  to  deployment  of  more  resources  by  the 
+member/ depository participant. 
+
+Surveillance matters such as shifting of scrips from Trade for Trade to 
+Normal Segment, relaxation of filters, etc 
+
+such 
+
+as 
+
+security  deposit 
+
+from 
+Financial  matters 
+members/depository 
+upon 
+members/depository  participants,  investments  and  deployment  of 
+surplus funds in property/building/ land. 
+
+collected 
+levied 
+
+participants, 
+
+charges 
+
+Matters  pertaining  to  inspection,  selection  of  members/  depository 
+participants for the same.  
+
+Investor related issues such as increasing arbitration centers, increasing 
+manpower for redressal of investor grievances, etc    
+
+ 
+
+51
+
+ 
+
+Securities and Exchange Board of India 
+
+9. 
+
+Penalty structure, collection of penalty etc 
+
+10.  Appointment/  composition  of  various  executive  committees,  statutory 
+
+committees, including the arbitration panel   
+
+11.  Amending rules/byelaws/regulations of the MII 
+
+ 
+By  being  on  the  board  of  an  MII,  the  directors  can  potentially  influence  the 
+decisions of the board and in extreme circumstances may even prevent the MII 
+from fulfilling the primary objectives for which it was created.  
+ 
+3.1.  BOARD  COMPOSITION  FOR  STOCK  EXCHANGES:  Pursuant  to 
+corporatisation  and  demutualisation,  SEBI,  has  prescribed  that  in  the  case  of 
+stock  exchanges,  not  more  than  25%  of  the  board  can  be  composed  of  trading 
+member  directors,  a  minimum  of  25%  is  to  be  comprised  of  public  interest 
+directors and balance should consist of shareholder directors. 
+ 
+Trading  members  on  the  board  of  a  stock  exchange  are  privy  to  confidential 
+information.  This therefore can give rise to conflict of interest when the entity 
+regulated  by  the  stock  exchange  is  also  on  the  board  of  the  stock  exchange. 
+Conflict of interest also arises when shareholders with commercial motives form 
+a majority in an entity which also has regulatory functions to perform.  
+ 
+Moreover, 
+to  dispersed  shareholding 
+requirements or where the shareholders consist of mainly public sector financial 
+institutions, the board may end up being a little more than a ‘rubber stamp’ for 
+management’s decisions. 
+ 
+Internationally,  the  appointment  of  independent  directors  (previously  public 
+interest  directors)23  to  the  board  of  a  market  infrastructure  institutions  SRO  is 
+
+institutions  which  are  subject 
+
+in 
+
+ 
+
+52
+
+ 
+
+Securities and Exchange Board of India 
+
+undertaken typically to ensure that the board responds to inherent conflicts that 
+is  a  consequence  of  the  entity  pursuing  both  private  and  public  interests 
+simultaneously.  In  order  to  effect  this,  such  directors  need  to  be  independent 
+both of the market infrastructure institution on whose board they sit and also of 
+other  relevant  parties,  including  participants  using  the  facilities  of  the  market 
+infrastructure  institution  and  issuers  listed  or  whose  stock  is  traded  on  the 
+exchange.24 More number of PIDs on the Board of the exchange would enable the 
+PIDs to have a stronger voice in the governance of exchanges.  
+ 
+It is therefore, recommended that no trading /clearing member (irrespective of 
+exchange where he operates) shall be allowed on the board of any of the stock 
+exchange and the number of public interest directors on the board of a stock 
+exchange shall at least be equal to the number of shareholder directors without 
+trading/ clearing  interest. The appointment of the Chairperson of the Board 
+shall be with prior approval of SEBI. Terms and conditions of appointment of 
+Chairperson should be subject to SEBI’s approval. The sitting fees payable to 
+the PIDs shall be as per the Companies Act, 1956. They shall not be paid any 
+commission or any other remuneration.  
+ 
+The committee feels that trading members bring rich practical experience and 
+the  same  should  be  utilized  in  a  manner  which  doesn’t  conflict  with 
+governance.  Therefore  in  order  to  utilize  the  experience  and  expertise  of 
+trading  members  in  the  securities  market,  an  advisory  committee  shall  be 
+constituted  by  the  board  of  the  stock  exchange,  comprising  of  trading 
+members. Trading members shall not be permitted participation in any other 
+committee  of  the  exchange.  The  advisory  committee  to  the  board  may  deal 
+with non-regulatory, operational matters such as product design, technology, 
+etc. The board of the exchange shall consult the advisory committee on these 
+issues.  The  Chairman  of  the  board  shall  head  the  advisory  committee.  The 
+
+ 
+
+53
+
+ 
+
+Securities and Exchange Board of India 
+
+advisory  committee  shall  meet  a  minimum  of  4  times  a  year.  The 
+recommendations of the advisory committee shall necessarily be placed before 
+the ensuing meeting of the board of the exchange and shall be disclosed on 
+exchange’s website.  
+
+ 
+
+3.2.  BOARD  COMPOSITION  FOR  CLEARING  CORPORATIONS:  The 
+existing board structure at NSCCL, ICCL and MCX-SX’CCL are as follows:- 
+ 
+
+NSCCL 
+
+Chairman – 1 
+MD/CEO – 1 
+Other  non  executive 
+directors – 5 
+
+ICCL 
+MD/CEO - 2  
+Independent 
+directors – 2 
+BSE 
+officers – 3 
+
+executive 
+
+MCX-SX ‘CCL 
+
+Shareholder  directors  -  3 
+Independent  directors  -  3 
+Executive director   - 1 
+
+ 
+ As of now, there is no directive for board composition of clearing corporations. 
+It may be because few outside experts are available given the complex nature of 
+activities performed by clearing corporations. As G30 recommends, clearing and 
+settlement  institutions  may  seek  to  appoint  senior  managers  from  their  users 
+who have proven managerial experience, wide industry expertise, an ability to 
+assess complex situations and make key strategic decisions. 25 
+ 
+In order to utilise the expertise of clearing members, it is recommended that the 
+model adopted for stock exchanges may be extended to clearing corporations as 
+well.  It is therefore recommended that the number of public interest directors 
+on the board of a clearing corporation shall at least be equal to the number of 
+shareholder  directors  without  trading/clearing  interest.  Further,  an  advisory 
+committee  shall  be  constituted  by  the  board  of  the  clearing  corporation, 
+comprising  mainly  of  clearing  members.  Clearing  members  shall  not  be 
+
+ 
+
+54
+
+ 
+
+Securities and Exchange Board of India 
+
+permitted  participation  in  any  other  committee  of  the  clearing  corporation. 
+The  advisory  committee  to  the  board  shall  deal  with  non-regulatory, 
+operational  matters  such  as  procedure  related  to  clearing  and  settlement, 
+technology,  etc.  The  board  of  the  clearing  corporation  shall  consult  the 
+advisory committee on these issues. The Chairman of the board shall head the 
+advisory committee. The advisory committee shall meet a minimum of 4 times 
+a year. The recommendations of the advisory committee shall be placed before 
+the  ensuing  meeting  of  the  board  of  the  clearing  corporation  and  shall  be 
+disclosed on clearing corporation’s website.  
+ 
+3.3.  BOARD  COMPOSITION  FOR  DEPOSITORIES:  The  existing  board 
+structure at NSDL and CDSL are as follows:- 
+ 
+
+NSDL 
+
+CDSL 
+
+Independent Directors – 5 
+Shareholder directors – 5 
+MD/CEO – 1 
+
+Independent directors – 2 
+Shareholder directors – 5 
+Whole-time directors – 1 
+
+ 
+Both  internationally  and  in  India,  the  board  structure  for  depositories  is  not 
+subject to stringent norms as compared to those of stock exchanges. It has been 
+felt that the conflicts of interests faced by depositories are not same as those faced 
+by  stock  exchanges.  Moreover,  only 
+institutions/banks/stock 
+exchanges, etc. can be sponsors of a depository and these are mostly nominated 
+as shareholder directors.   
+ 
+However,  in  order  to  ensure  that  depositories  are  also  subjected  to  sound 
+corporate governance norms, it is recommended that the board composition in 
+depositories  should  be  the  same  as  prescribed  for  listed  companies  under 
+clause 49 of the listing agreement.  
+
+financial 
+
+ 
+
+55
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+3.4.  DISCLOSURES  BY  BOARD  MEMBERS:  All  transactions  in  securities 
+of the board members of the MII and their family have to be disclosed to the 
+board of the MII. 
+ 
+3.5. 
+EMPLOYEE(S) ON THE BOARD OF THE MII: The MD/CEO of the MII 
+shall be ex-officio member on the board of the MII. The MD/CEO shall not be 
+included  in  either  the  category  of  public  interest  directors  or  shareholder 
+directors.  In case the MII wishes to appoint any other official on its Board in 
+addition  to  the  MD/CEO,  the  same  shall  be  subject  to  the  approval  of 
+shareholders and SEBI, in that order. The additional official shall be counted 
+in the category of shareholder directors.  
+ 
+3.6.  TIME  FOR  COMPLIANCE:  All  MIIs  may  be  given  time  until  the  next 
+AGM for implementing the recommendations on board composition. In case the 
+next AGM falls within three months, the recommendations shall be implemented 
+before the subsequent AGM. 
+
+ 
+
+56
+
+ 
+
+Securities and Exchange Board of India 
+
+Chapter   IV 
+
+Measures for conflicts resolution 
+
+SEBI  has  so  far  restricted  the  trading  member  representation  on  the  board  of 
+stock  exchanges  and  has  prescribed  the  minimum  number  of  public  interest 
+directors  on  the  board  as  a  means  of  reducing  the  conflicts  of  interests  in  the 
+governance of stock exchanges.  These governance arrangements are intended to 
+ensure that decisions taken by the board have the benefit of unbiased advice and 
+to  prevent  the  concentration  of  decision-making  power  in  a  few  hands.  
+However, it must also be realized that conflicts of interests may also permeate to 
+the  lower  levels  of  hierarchy  in  an  MII,  which  may  impair  the  regulatory 
+efficiency of the organization.  
+ 
+Internationally, as a best practice, stock exchanges have chosen to segregate the 
+regulatory  functions  from  their  commercial  functions  and  have  put  in  place 
+measures  to  ensure  autonomy  to  the  regulatory  departments.  The  degree  of 
+separation  ranges  from  outsourcing  the  regulatory  function  to  an  independent 
+SRO, hiving off those departments to a separate subsidiary and putting in place 
+measures  such  as  ‘Chinese  walls’  between  the  commercial  and  regulatory 
+departments.  
+ 
+Ideally,  from  a  regulatory  perspective,  it  is  felt  that  it  is  important  to  have 
+complete  segregation  of  commercial  activities  from  the  regulatory  activities. 
+However,  it  is  not  an  easy  task  to  identify  cases  where  commercial  and 
+regulatory functions are joined or overlapping. Especially in the case of conflicts 
+that  arise  due  to  competition,  the  commercial  activities  are  sometimes  so 
+commingled with the regulatory function that they are difficult to separate into 
+watertight compartments.  For instance, the competitor may not register himself 
+
+ 
+
+57
+
+ 
+
+Securities and Exchange Board of India 
+
+as  a  member  of  the  exchange;  instead,  the  competitor  may  even  be  a  technical 
+provider, in which case such measures may fail.   
+ 
+The following measures are therefore, suggested as means to address some of the 
+conflicts arising from commercial and regulatory activities of an MII: 
+ 
+4.1.  MECHANISM  TO  ENSURE  AUTONOMY  OF  REGULATORY 
+DEPARTMENTS:  In  order  to  ensure  that  regulatory  functions  are  carried  out 
+satisfactorily, it is recommended that;  
+
+The  senior  executives  heading  risk  management,  surveillance,  listing, 
+registration,  compliance,  inspection,  enforcement,  arbitration,  default,  etc. 
+shall report directly to an independent committee of the board consisting of a 
+majority of public interest directors and also to the MD/CEO (dual reporting).  
+
+ 
+
+The remuneration of such executives, including the annual increment indexed 
+for inflation, should be a fixed sum without any variable component linked to 
+the commercial performance of the MII. Further, the compensation should not 
+include  any  form  of  equity  /  equity  linked  or  stock  options  in  the  MII.  It 
+should also be ensured that the remuneration is determined after giving due 
+regard  to  the  average  levels  of  compensation  given  to  employees  in  similar 
+rank. The remuneration package will be subject to review of the remuneration 
+committee/management compensation committee.  
+ 
+The initial appointment of the above employees shall be for a fixed tenure, as 
+may be decided by the independent committee. In case any action against such 
+senior executives is taken, it should be subject to appeal to the independent 
+committee, up to two years after being relieved from such department.  
+ 
+
+ 
+
+58
+
+ 
+
+Securities and Exchange Board of India 
+
+Chinese  walls  in  terms  of  work  area,  infrastructure,  personnel  etc,  shall  be 
+maintained  between  the  regulatory  and  commercial  departments.  The 
+definition  and  details  regarding  ‘Chinese  walls’  shall  be  as  per  SEBI 
+(Prohibition  of  Insider  Trading)  Regulations,  1992.  The  MII  should  have  an 
+internal  manual  covering  the  management  of  conflicts  for  both  commercial 
+and regulatory functions of the MII, supported by comprehensive training and 
+awareness.  Further,  the  entire  conflict  management  framework  should 
+periodically  be  reviewed  and  be  strengthened  based  on  the  observations  of 
+such review.  
+ 
+4.2.  APPOINTMENT OF MD/CEO: At present, the appointment of MD/CEO 
+of  a  stock  exchange  is  subject  to  approval  by  SEBI;  however,  the  terms  and 
+conditions, including remuneration of such MD/CEO are decided by the board 
+of  the  stock  exchange.  No  such  requirements  have  been  prescribed  for 
+depositories.  The  present  procedure  for  appointment  of  MD/CEO  of  a  stock 
+exchange  shall  continue  and  the  same  shall  be  extended  to  the  MD/CEO  of 
+clearing  corporations  and  depositories.  SEBI  shall  ensure  that  the  CEO  is 
+appointed for a reasonable tenure, say between 3-5 years.  
+ 
+4.3.  COMPENSATION  OF  KEY  MANAGEMENT  PERSONNEL:  The 
+compensation of key management personnel, including the MD/CEO/ED and 
+others as may be identified by the board, should be decided by a remuneration 
+committee/management compensation committee appointed by the board.  It 
+should also be ensured that the remuneration is determined after giving due 
+regard  to  the  industry  standards  for  the  same.  The  remuneration  of  such 
+executives, including the annual increment indexed for inflation, should be a 
+fixed  sum  without  any  variable  component  linked  to  the  commercial 
+performance  of  the  MII.    Further,  the  compensation  should  not  include  any 
+form of equity / equity linked or stock options in the MII. 
+ 
+
+ 
+
+59
+
+ 
+
+Securities and Exchange Board of India 
+
+4.4.  APPOINTMENT  OF  COMPLIANCE  OFFICER:  The  Committee  noted 
+that  SEBI  has  mandated  various  registered  intermediaries  to  appoint  a 
+compliance  officer  to  ensure  that  the  intermediary  complies  with  the  rules, 
+regulations, circulars and directives of SEBI. Similar requirements have also been 
+mandated for depositories.  
+ 
+It is recommended that appointment of compliance officer shall be mandatory 
+for stock exchanges and clearing corporations. The compliance officer shall be 
+responsible  for  monitoring  the  compliance  of  the  Act,  rules  and  regulations, 
+notifications,  guidelines,  instructions  etc.  issued  by  SEBI  or  the  Central 
+Government  and  for  redressal  of  investor's  grievances.  The  compliance  officer 
+shall  immediately  and  independently  report  to  SEBI  any  instance  of  non-
+compliance observed. 
+
+ 
+
+60
+
+ 
+
+Securities and Exchange Board of India 
+
+Chapter V 
+
+Other issues 
+
+ 
+5.1. 
+LISTING: Listing of an MII brings with it advantages and disadvantages.  
+On one hand, listing of an MII provides an exit route to its shareholders, bringing 
+transparency and better governance to the functioning of the MII. However, on 
+the other hand, listing may also usher in more conflict of interests for the stock 
+exchange,  since  monitoring  its  own  listing  related  compliances  or  that  of  a 
+related/competing MII will be an issue. 
+ 
+On  balance,  shareholders  of  an  MII  need  to  be  long-term  investors  who  are 
+sufficiently motivated to take a keen interest in the functioning of the MII and to 
+contribute  to  its  growth  by  providing  the  necessary  value  addition  in  terms  of 
+technology, market/product design, managerial inputs, etc.  An MII should not 
+become  a  vehicle  for  attracting  speculative  investments.    Further,  MIIs  being 
+public institutions, any downward movement in its share prices may lead to a 
+loss  of  credibility  and  this  may  be  detrimental  to  the  market  as  a  whole.  
+Therefore,  the  Committee  is  not  in  favor  of  permitting  listing  of  MIIs.  
+However, the disclosures and corporate governance requirements of the listing 
+agreement  applicable  to  listed  companies  shall  be  made  applicable  to  MIIs 
+too. The information required to be disclosed shall be posted on the website of 
+the MII.  
+ 
+Further,  if  there  is  an  entity,  which  chooses  to  get  itself  listed  on  a  stock 
+exchange  and  is  substantially  owned  (i.e.  24%  or  more  of  equity  capital)  by 
+that stock exchange or by an MII in which that stock exchange holds shares, 
+then such entity shall seek prior approval from SEBI before listing.  
+ 
+
+ 
+
+61
+
+ 
+
+Securities and Exchange Board of India 
+
+5.2.  NET  WORTH  REQUIREMENTS:  MIIs  by  their  very  nature  necessitate 
+huge,  long-term,  sunk  investments.  Hence,  net  worth  is  one  of  the  important 
+eligibility  criteria  for  setting  up  an  MII.  It  is  required  for  meeting  the  initial 
+capital  required  towards  infrastructure  and  ensures  that  only  serious  players 
+enter this arena.  
+ 
+SEBI  has  already  prescribed  a  net  worth  requirement  of  `  100  crores  for 
+depositories.  Further,  SEBI  Board  in  its  meeting  held  on  December  22,  2009, 
+stipulated  a  net  worth  requirement  of  `  100  crores  for  setting  up  a  new  stock 
+exchange, while a net worth requirement of ` 100 crores is being contemplated 
+for  clearing  corporations.    The  committee  deliberated  and  recommended  the 
+following: 
+ 
+5.2.1. 
+Stock  Exchanges:  Stock  exchanges  shall  be  required  to  have  a  net 
+worth of ` 100 crores at all times. From the date of notification of the net worth 
+requirement,  exchanges  not  meeting  the  said  net  worth  requirement,  i.e., 
+exchanges not having nationwide trading terminals / as may be decided by SEBI 
+may be given a period of 10 years to comply with the same.  While computing 
+the  net  worth,  investments  in  MIIs  can  be  included,  whereas,  all  other  non-
+core investments in related, unrelated/other business shall be excluded.   
+ 
+5.2.2. 
+Depositories: The present net worth requirement of ` 100 crores for 
+depositories  may  be  retained.  However,  all  other  investments  in  related, 
+unrelated/other business shall be excluded while computing the net worth.   
+ 
+5.2.3. 
+Clearing Corporations: A Clearing Corporation provides clearing and 
+settlement to the trades executed on a stock exchange by becoming the counter 
+party for every buy and sell transaction. It provides novation and guarantees the 
+settlement  of  every  trade.  While  in  the  equity  segment,  the  guarantee  extends 
+
+ 
+
+62
+
+ 
+
+Securities and Exchange Board of India 
+
+only  for  a  few  days  over  the  settlement  period,  in  the  derivatives  segment,  it 
+extends for months and even years (as in the case of long term options).  
+ 
+In the event of a major default, if the clearing corporation is unable to meet its 
+obligations,  it  could  even  lead  to  a  systemic  collapse  of  the  financial  market. 
+Keeping in view the clearing and settlement function, a need is felt to prescribe a 
+higher  net  worth  requirement  for  clearing  corporations,  as  compared  to  stock 
+exchanges  and  depositories.    The  Committee  is  of  the  view  that  net  worth 
+requirement  of  `  100  crores  for  a  clearing  corporation  is  inadequate.  It  is 
+recommended that the net worth requirement for a Clearing Corporation may 
+be fixed at ` 300 crores. The clearing corporation shall meet relevant networth 
+criteria on an ongoing basis.   
+ 
+It is also suggested that while initially a clearing corporation may be permitted to 
+be set up with a net worth of ` 100 crores, they may be required to increase it to ` 
+300  crores  within  a  period  of  3  years  (or  any  other  time  limit  as  may  be 
+prescribed by SEBI). Further, in order that such a net worth is available, in a 
+worst case scenario, it is suggested that it may be maintained in the form of 
+liquid  assets  at  all  times.    Liquid  assets  would  be  those  assets  that  are 
+permitted  to  be  deposited  by  a  stockbroker  in  a  stock  exchange  (clearing 
+corporation)  towards  margin  obligations.  Until  such  time  the  clearing 
+corporation achieves the prescribed net worth, it shall not be permitted to pay 
+any dividend to its shareholders.  
+ 
+5.3.  MIIs TO GENERATE ONLY REASONABLE PROFITS: The MII being a 
+public utility should endeavor to earn only reasonable profits at par with average 
+earnings of the corporate sector in India. Therefore, it is recommended that a cap 
+may be fixed on the maximum return that can be earned by MII on its net worth 
+and  can  be  distributed  /  allocated  to  the  shareholders  of  MII  out  of  the  total 
+
+ 
+
+63
+
+ 
+
+Securities and Exchange Board of India 
+
+returns  earned  by  MII.    Any  return/profits  above  such  maximum  attributable 
+amount  would  be  transferred  to  IPF  or  SGF  as  the  case  may  be  and  the  same 
+would  not  form  part  of  shareholders  funds/  net  worth  for  the  purposes  of 
+determining returns and book value of the shares. This would strengthen the MII 
+to withstand shocks, make them robust and may lead to reduction of the charges 
+levied  by  MIIs  on  the  users.    The  cap  may  be  fixed  by  SEBI  after  taking  into 
+consideration ‘risk free return’ based on the yield on a 10 year GOI bond and a 
+‘risk  premium’  to  account  for  the  risks  faced  by  MIIs  including    equity  risk 
+premium and  liquidity risk due to non listing of MIIs.  It should also take into 
+account differential tax rate applicable to unlisted entities as the Committee has 
+recommended that the MIIs should not be permitted to list.  
+ 
+It  is  therefore,  recommended  that  maximum  profit  available  for  distribution  / 
+allocation to shareholders which can be utilized for payment of dividends and 
+for appropriation to general reserves, balances of profit & loss account should be 
+capped  at  a  certain  percentage  of  annual  return  on  net  worth  of  the  previous 
+year. This cap will be determined by SEBI based on factors enumerated above. 
+Net  worth  for  this  purpose  would  mean  paid-up  capital,  balance  of  general 
+reserves, profit & loss account and share premium account.  The MII will be free 
+to  pay  dividend  to  shareholders  out  of  profit  earned  or  out  of  free 
+reserves/balance  of  profit  and  loss  account  and  share  premium  account  in 
+accordance  with  Company’s  act  1956.    Any  profit  earned  over  and  above  the 
+prescribed return on net worth shall be transferred to IPF or SGF as the case may 
+be and shall not be available for distribution to shareholders nor will it become 
+part of shareholder’s funds.  The ceiling on rate of return in all cases will be on 
+profits  after  providing  for  taxes.    The  rate  of  return  may  be  reset  by  SEBI 
+considering the change in risk free rate of return, inflation etc. 
+
+ 
+ 
+
+ 
+
+64
+
+ 
+
+Securities and Exchange Board of India 
+
+RELATED  BUSINESS  OF  MIIs:  The  SEBI  (Depositories  and 
+
+5.4. 
+Participants) Regulations, 1996, provides that;  
+“the depository shall not carry on any activity other than that of a depository unless the 
+activity is incidental to the activity of the depository: 
+provided that a depository may carry out such activity not incidental to its activities as a 
+depository,  as  may  be  assigned  to  the  depository,  by  the  Central  Government  or  by  a 
+regulator in the financial sector, through the establishment of Strategic Business Unit(s) 
+specific  to  each  activity  with  the  prior  approval  of  the  Board  and  subject  to  such 
+conditions  as  may  be  prescribed  by  the  Board,  including  transfer  of  such  activity  to  a 
+separate company within such time as may be specified by the Board, having regard to the 
+matters  which  are  relevant  to  the  efficient  and  orderly  function  of  the  depository  as 
+mentioned in regulation 13.  
+Explanation  –  For  the  purposes  of  this  clause,  a  strategic  Business  Unit  shall  be  an 
+organizational unit of a company with its own mission, objectives and business strategy 
+that is given the responsibility to serve the particular demands of one business area with 
+appropriate technological, financial and other segregations.” 
+ 
+It is felt that the risks of taking up activities that are not incidental or those that 
+are unrelated to the activities of the MII must be segregated to a separate legal 
+entity or as may be permitted by SEBI. Such restrictions shall be made applicable 
+to all MIIs.   
+ 
+Further, when a related business of an MII delivers a service to another MII, it 
+should be ensured that there is equal, unrestricted, transparent and fair access 
+to all without any bias towards its affiliated entity.   SEBI should step in to 
+investigate complaints in this regard and fasten liability on the MII who owns 
+the related business.  SEBI should even go as far as prohibiting an MII from 
+using  services  supplied  by  its  related  business,  should  it  detect  any 
+discriminatory practices. Further, all commercial arrangements such as listing 
+
+ 
+
+65
+
+ 
+
+Securities and Exchange Board of India 
+
+of  international  indices,  etc.  which  provide  for  exclusive  rights  should  be 
+subject  to  prior  approval  of  SEBI.    SEBI  may  grant  its  approval  for  such 
+exclusivity  for  a  limited  period  on  a  case-to-case  basis,  after  examining  the 
+proposal. 
+ 
+5.5.  REPLACEMENT  OF  SCR(MIMPS)  REGULATIONS:  The  MIMPS 
+Regulations were notified at the time of corporatisation and demutualisation and 
+Regulation 3 of the MIMPS Regulations reads as under:-  
+ 
+“These  Regulations  shall  be  applicable  to  all  recognised  stock  exchanges  in  respect  of 
+which the scheme of corporatisation and demutualisation has been approved by the Board 
+under section 4B of the Act.”  
+ 
+In  order  to  make  the  chapters  on  ownership  norms  applicable  to  other  Stock 
+Exchange, SEBI has issued separate notifications to those stock exchanges (NSE 
+and  OTCEI)  which  did  not  undergo  a  process  of  corporatisation  and 
+demutualisation. Further, for new stock exchanges, SEBI has adopted the practice 
+of  imposing  the  compliance  with  MIMPS  Regulations  as  a  condition  while 
+granting recognition.  
+ 
+Moreover, the MIMPS Regulations were framed with the objective of increasing 
+the  public  shareholding  in  the  stock  exchanges.  With  all  the  exchanges  having 
+increased their public holding to meet the prescribed limit, the Committee feels 
+that  the  MIMPS  Regulations  have  served  their  purpose.  It  is  therefore, 
+recommended  that  a  new  regulations  may  replace  the  MIMPS  Regulations  for 
+regulating  ‘Ownership  and  Governance  Regulations  for  Stock  Exchanges  and 
+Clearing  Corporations’  and  consequent amendments  (as  required)  may  also  be 
+carried out. The concept of ‘persons acting in concert’ also needs to be separately 
+defined  in  the  new  Regulations  for  the  purpose  of  ownership  norms.    The 
+
+ 
+
+66
+
+ 
+
+Securities and Exchange Board of India 
+
+existing Regulations for depositories may continue and be suitably amended to 
+give effect to the recommendations of the Committee. 
+
+ 
+5.6. 
+EXIT  NORMS:  The  exit  norms  for  stock  exchanges  have  already  been 
+prescribed by SEBI; it may be examined by SEBI in light or recommendation of 
+this report whether these norms needs to be reviewed. Exit norms may also be 
+prescribed for clearing corporations and depositories to provide for orderly exit 
+of these important institutions. 
+ 
+5.7. 
+POWERS TO SEBI IN MATTERS RELATING TO MIIs: The Committee 
+noted that SEBI has powers to regulate the MIIs. However, it felt that powers of 
+SEBI needs to be further augmented since it has to discharge the responsibility of 
+regulating MIIs by way of direct supervision and monitoring of their activities. 
+The  Committee  reviewed  Section  3(1)  of  the  Securities  Contracts  (Regulation)  Act, 
+1956, which reads as under: 
+ 
+ “Any stock exchange, which is desirous of being recognised for the purposes of this Act, 
+may make an application in the prescribed manner to the Central Government.” 
+
+ 
+
+The Committee was of the view that SEBI must be invested with more powers 
+for  accepting/rejecting  applications  for  recognition  of  stock  exchanges.  The 
+Committee  therefore,  recommends  that  the  above  provision  may  be  rephrased 
+explicitly  to  the  effect  that  unless  and  until  SEBI  grants  recognition,  an  entity 
+cannot call itself a stock exchange.   SEBI should have the discretion to limit the 
+number  of  MIIs  operating  in  the  market,  in  the  interest  of  the  market  and  in 
+public interest.  It is pertinent to note that this would be similar to the treatment 
+afforded by the Reserve Bank with respect to new banks. 
+ 
+
+ 
+
+67
+
+ 
+
+Securities and Exchange Board of India 
+
+Further, the SC(R)R prescribes the procedure for seeking recognition, period for 
+recognition,  form  of  application  for  recognition,  etc.  for  stock  exchanges.  The 
+Committee  is  of  the  view  that  detailed  requirements  for  clearing  corporations 
+should be prescribed by SEBI under its own regulations, so that it is in a position 
+to  regulate  effectively  and  carry  out  amendments  in  a  timely  manner  to  keep 
+pace with the needs of the market.   SEBI may undertake this exercise and take it 
+up  with  the  Ministry  of  Finance.    A  similar  exercise  may  be  undertaken  with 
+regard to stock exchanges as well.  
+ 
+5.8 
+REVIEW AFTER FIVE YEARS: Finally, the Committee recommends that 
+the working of the MII should be reviewed again by SEBI after five years, once 
+the  suggestion  made  by  this  committee  is  implemented.  The  stock  market  is 
+evolving  and  a  review  may  be  inevitable  in  the  light  of  the  new  technological 
+developments, introduction of new products, growth of financial markets, trade 
+and capital flows and global integration.  
+ 
+In light of the above, it would be desirable to keep a close watch on the working 
+of the MII so that the gains from well-tuned markets result in the growth of the 
+real economy and maintenance of financial stability.  
+
+ 
+
+68
+
+ 
+
+Securities and Exchange Board of India 
+
+Annexure –A 
+
+Sample Questionnaire 
+
+ 
+
+Part –A 
+
+ 
+
+(Applicable to all three categories of MIIs) 
+
+ 
+
+ 
+Functions 
+
+ 
+
+1.  Do  you  view  MIIs  largely  as  commercial,  public  utility  or  regulatory 
+institutions? What kind of ownership and governance norms would enable 
+MIIs in discharging the functions for which they were created? 
+
+ 
+2.  What  should  be  the  regulatory  function  of  MIIs  in  terms  of  regulating  its 
+
+members/ market/ participants/users, etc? 
+
+3.  Which  are  the  functional  areas  that  could  be  solely  demarcated  as  falling 
+under  regulator’s  supervision  vis-à-vis  those  that  falling  under  the  MIIs’ 
+purview?  
+
+4.  Do  MIIs  typically  perform  the  functions  of  a  SRO  as  recognised 
+internationally?  Do  you  see  any  potential  conflict  of  interest  between  the 
+regulatory function and the commercial interest of MIIs? Can the conflict of 
+interest  be  eliminated  through  specific  stipulations  on  structure  and 
+governance  of  MIIs?  (For  e.g.  erection  of  Chinese  wall  between  the  two 
+functions  or  hiving  it  off  to  a  subsidiary  or  transferring  to  a  regulatory 
+body)? 
+
+ 
+
+69
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+5.  What  other  businesses  should  a  MII  be  allowed  to  do?  Can  they  set  up 
+another MII with 100% shareholding? What kind of non-MII businesses can 
+they  perform?  Can  they  set  up  related  businesses  such  as  independent 
+software vendors?  
+
+ 
+Ownership and governance 
+ 
+
+6.  How do you place MIIs in India vis-à-vis their international counterparts? 
+What  are  the  major  differences  in  ownership/governance  between  Indian 
+MIIs and their international counterparts? What is your recommendation? 
+
+7.  Does the present ownership restrictions on MIIs need review?  
+
+ 
+
+8.  Which is a better model for ownership? – (a) Diversified ownership (as in 
+the case of stock exchanges) or (b) anchor/strategic investor approach (as in 
+the case of depositories).  
+
+a.  In case (b) is suitable for MIIs, what classes of entities can be permitted to 
+
+be anchor investors?  
+
+b.  Should there be lock-in restrictions for anchor investor?  
+c.  What  are  conflicts  arising  out  of  private  entities  becoming  anchor 
+
+investors? Please recommend measures to address them. 
+
+  
+
+9.  Should  the  shares  of  MIIs  be  with  differential  voting  rights  so  that  the 
+
+control is separated from economic interest?   
+
+ 
+10. In  the  light  of  the  recent  global  financial  crisis,  and  the  debate  on 
+management  compensation,  is  there  a  case  for  enunciating  principles  for 
+management  compensation  of  MIIs?  Should  the  fixation  of  management 
+compensation  be  entrusted  to  an  independent  Appointments  Committee 
+
+70
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+which  reports  to  the  Board  of  the  MII  and/or  to  the  Regulator?    What 
+should  the  management  be  accountable  for  –  profitability,  regulatory 
+efficiency, etc? Please specify. 
+
+ 
+11. What  should  be  process  of  appointment  of  Senior  Management  in  MIIs? 
+Should  the  regulator  be  involved  in  it?  Can  this  task  be  entrusted  to  an 
+independent  Selection  Committee  which  reports  to  the  Board  of  the  MII 
+and/or  to  the  Regulator?  What  other  safeguards  are  to  be  put  in  the 
+management  framework?  Can  there  be  an  independent  risk  management 
+Committee (please identify other such sensitive areas) reporting directly to 
+the Board of the MII and/or to the Regulator?  
+
+ 
+
+Market structure for MIIs 
+
+ 
+
+12. Do you perceive an optimal number of MIIs (Number of stock exchanges; 
+number  of  depositories;  number  of  clearing  corporations),  for  the  Indian 
+Securities Market, taking into account the present status as well as growth 
+possibilities in the future? 
+
+13. What should be entry and exit norms applicable to MIIs? 
+
+14.  Are  there  any  regulatory  issues  arising  out  of  competition  such  as 
+discrimination  by  a  MII  against  a  competing  MII  or  any  intermediary  or 
+technology provider, that needs to be regulated? What should be the norms 
+to 
+technology  providers  and 
+intermediaries? 
+
+relationship  of  MII  with 
+
+regulate 
+
+71
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+15. To  what  extent  should  commercial  functions  of  a  MII  be  regulated? 
+Specifically,  should  charges  and  fees  levied  by  MIIs  be  regulated  in  a 
+competitive environment?  
+
+ 
+
+16. Is  there  a  case  for  capping  the  charges  on  a  ‘cost  plus’  basis  and/or  for 
+
+capping distribution of profits?  
+
+ 
+
+17. There are twin dangers for all MIIs – ‘regulatory race to the bottom in the 
+face of competition’ or ‘becoming too big to fail’. What safeguards can be 
+built to prevent the same. In the case of clearing corporations, are rigorous 
+‘stress tests’ adequate to address the same? 
+
+ 
+Listing 
+ 
+
+18. What is the primary objective of listing a MII? What are the alternatives to 
+
+achieve these objectives (transparency being one of the objectives)?  
+
+Part - B  
+
+(Only for Stock Exchanges) 
+
+1.  Should separate requirements be put in place for QIBs participating in the 
+primary issue of stock exchanges and should they be granted positions on 
+the Boards of Exchanges?  
+
+2.  Should foreign stock exchanges be permitted to hold upto 15% or more of 
+
+the equity shares in the Indian stock exchanges?  
+
+72
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+3.  Whether the current limit for FII in stock exchanges need a review? What 
+should  be  the  manner  of  participation  of  FIIs  in  the  equity  of  stock 
+exchange? 
+
+4.  Should  FIIs  also  be  permitted  to  participate  in  IPO  or  FPO  of  stock 
+
+exchanges?   
+
+ 
+5.  What are the issues arising out of the listing of shares of a stock exchange on 
+
+itself?  
+
+6.  What are the issues arising out of an MII which has a substantial stake in a 
+
+stock exchange listing on the same stock exchange? 
+
+7.  Should  dual  listing  (including  listing  of  shares  of  the  stock  exchange  on 
+
+itself) of shares may be considered?  
+
+8.  Whether cross listing is desirable? 
+
+In  respect  of  the  above  queries  on  listing,  suggestions/comments  may  be 
+provided  after  considering  the  various  models  viz:  committee  model, 
+company model26 etc used internationally to address the issue of ‘conflict of 
+interest’.     
+ 
+
+9.  SEBI  broadly  prescribes  the  Board  composition  in  the  case  of  stock 
+exchanges.  Currently there is a restriction on the extent of representation by 
+trading members on the Board (maximum 25%). The PIDs (minimum 25%) 
+are empanelled by SEBI. The balance are shareholder directors. 
+
+73
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+a.  Does the present Board composition (including manner of appointment of 
+the Board) prescribed by SEBI for stock exchanges need a review? If yes, 
+how should separation of members, owners and management of MIIs be 
+ensured  to  avoid  conflicts  of  interest  and  also  ensure  independence  of 
+Board? 
+
+b.  Further, should the same be extended to other MIIs?  
+
+10. Trading Members on the Board of the Exchange can potentially have access 
+to confidential information in respect  of trading information pertaining to 
+other members as well as sensitive information. In light of the above, 
+
+a.  Please elucidate your view on the role of trading members on the Board of 
+
+the Exchange.   
+
+b.  Should there be any trading member representation on the Board of the 
+Exchange or alternatively, can they be put on a separate Advisory Board 
+to the main Board? 
+
+c.  Should  safeguards  similar  to  Insider  trading  rules  be  prescribed  for 
+
+trading members on the Board of the Exchange?  
+
+d.  What  should  be  the  extent  of  participation  of  trading  members  on  the 
+
+various committees of the Exchanges? 
+ 
+
+ 
+
+ 
+
+ 
+
+Part – C 
+
+(Only for Clearing Corporations) 
+ 
+
+1.  Should clearing corporations be subsidiaries of exchanges or a completely 
+separate  entity?  What  should  be  the  ownership  restrictions  for  clearing 
+corporations? Which model is preferred and why?  
+
+2.  Is  there  a  case  for  stipulating  the  same  networth  requirement  for  clearing 
+corporation and exchanges and depositories (i.e., ` 100 crores) or is there a 
+
+74
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+case for it to be higher? Alternatively, a minimum amount of ` 100 crores 
+may  be  prescribed  plus  an  additional  multiplier  based  on  the  number  of 
+exchanges or volumes or products that are cleared and settled through the 
+clearing corporation. If the second alternative is preferred, kindly suggest a 
+suitable formula for determining the same.  
+
+ 
+
+Part – D 
+
+(Only for Depositories) 
+
+1.  Is  it  desirable  to  allow  Exchanges,  (who  are  in  a  related  business)  to  own 
+more  than  50%  of  the  ownership  of  Depositories,  by  virtue  of  being  a 
+sponsor  of  the  depository  in  effect  leading  to  the  depository  becoming  a 
+subsidiary/ group company of the Exchange?  
+
+ 
+
+75
+
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+Annexure – B 
+ 
+
+Number of responses received 
+
+Stock Exchanges  
+
+Depositories 
+
+Associations 
+
+ 
+
+Nation‐wide 
+
+Regional 
+
+Of regional stock 
+exchanges 
+
+Depository 
+Participants 
+
+Brokers 
+
+Of Industry bodies 
+
+Intermediaries (including foreign institutional 
+investors) 
+  
+
+Consultancy firm/academic body 
+
+Individuals 
+
+Investor association  
+
+Domestic institutional investor  
+
+Shareholder of MII 
+
+Total 
+
+ 
+
+3 
+
+2 
+
+2 
+
+1 
+
+1 
+
+3 
+
+2 
+
+4 
+
+2 
+
+6 
+
+1 
+
+1 
+
+1 
+
+29 
+
+ 
+
+76
+
+ 
+
+Securities and Exchange Board of India 
+
+ Annexure – C 
+
+Shareholding Restrictions in select countries27 
+
+Country 
+
+Exchange/ 
+Exchange 
+Operator 
+
+Australia  SFE28 
+
+ 
+
+Shareholder 
+disclosure 
+
+requirement* 
+5% 
+
+Shareholder 
+ownership 
+restriction 
+
+15% 
+
+Notification/ disclosure of 
+change 
+in ownership* 
+Written notice when a person has, 
+or ceases to have, 15%. 
+Written notice when a person has, 
+or ceases to have, 15%. 
+Notice and approval by regulator 
+to own more than 10%. 
+The Bourse shall inform the AMF 
+immediately if it becomes aware 
+that any person owns or exercises 
+control, either directly or 
+indirectly, over more than 10% of 
+any class or series of voting shares 
+of the Bourse and shall take the 
+necessary steps to immediately 
+remedy the situation. 
+Disclosure to regulator when 
+thresholds reached. 
+
+After notification of thresholds, 
+regulator has discretion to 
+prohibit acquisition. 
+Disclose where increase or 
+decrease is across a whole 
+percentage (e.g. 6%, 7%, etc.). 
+Persons acting in concert cannot 
+hold more than 15%. 
+
+15% 
+
+10% 
+10% 
+
+ASX 
+
+5% 
+
+TSX Group 
+Bourse de 
+Montréal 
+
+5% 
+The Bourse 
+shall submit to 
+the AMF a list 
+of its 
+shareholders 
+on a semi- 
+annual basis 
+
+10% 
+
+Fitness and 
+propriety 
+
+Euronext Paris 
+Additional 
+requirements 
+apply under 
+Dutch law to 
+EuronextNV, 
+the Dutch 
+holding 
+company 
+listed 
+on Euronext 
+Paris. 
+
+ 
+Canada 
+
+France 
+
+Hong 
+Kong 
+
+India 
+
+ 
+
+Germany  Deutsche 
+
+Borse 
+
+5% (first 
+threshold) 
+
+HKEx 
+
+5% 
+
+10% 
+
+5% 
+
+BSE Limited  More than 5%  5% 
+
+ 
+ 
+ 
+ 
+
+77
+
+ 
+
+Securities and Exchange Board of India 
+
+Country 
+
+Italy 
+
+Exchange/ 
+Exchange 
+Operator 
+
+Borsa Italiana  5% 
+
+Shareholder 
+disclosure 
+
+requirement* 
+
+Japan 
+
+Malaysia 
+
+Mexico 
+
+TSE, OSE, 
+NSE, Jasdaq 
+
+Bursa 
+Malaysia 
+Mexican Stock 
+Exchange 
+
+5% 
+
+5% 
+
+10% 
+
+Singapore  SGX 
+
+5% 
+
+Shareholder 
+ownership 
+restriction 
+
+fitness and 
+propriety 
+requirements 
+
+20% 
+
+5% 
+
+10%; foreign investors 
+that have government 
+powers; or individuals 
+that directly or 
+indirectly possess more 
+than 10% of a financial 
+institutions equity. 
+5% 
+
+Notification/ disclosure of change 
+in ownership* 
+
+Notification to regulator of 5% 
+threshold reached 
+
+Person who retains shares in 
+excess of 20% require approval of 
+regulator29; notification if 5% 
+ownership. 
+Approval by Minister of Finance to 
+own 5% or more. 
+N/A 
+
+A substantial shareholder (5%) 
+must advise the listed entity and 
+the exchange of change in 
+percentage or it ceases to be a 
+substantial shareholder. 
+Notified at certain thresholds 
+above 
+1%. 
+Notification of all changes 
+affecting governance. 
+
+Exchanges have different standards 
+that have been approved by the 
+SEC. 
+If the exchange is a publicly-traded 
+company, shareholders also must 
+file amendments to initial 
+disclosure reports filed with the 
+Commission under Section 13(d) 
+of the Exchange Act.30 
+
+Spain 
+
+BME 
+
+U.K. 
+
+U.S. 
+
+All listed 
+exchanges 
+
+CHX, ISE, 
+Nasdaq, NSX, 
+NYSE Group 
+(NYSE and 
+NYSE 
+Arca,Inc.) 
+Phlx 
+
+1% (significant 
+shareholding) 
+Not required by 
+law. Restrictions 
+would be likely 
+to contravene UK 
+listing rules. 
+Exchanges have 
+different 
+standards that 
+have been 
+approved by the 
+SEC. 
+
+1% (first 
+threshold) 
+3% (and 
+additional 1% 
+increments) 
+
+Exchanges have different 
+standards that have been 
+approved by the SEC. 
+If the exchange is a  
+publicly- traded company, a 
+shareholder that owns more 
+than 5% of any class of 
+equity securities must 
+file a disclosure report with
+the  U.S.  Securities  and 
+Exchange Commission 
+pursuant to Section 13(d) 
+of the Exchange Act. 
+
+ 
+* Please note that, in some jurisdictions, the disclosure requirements may not be specific to 
+exchanges but may apply generally to all listed companies. 
+
+ 
+
+78
+
+ 
+
+Securities and Exchange Board of India 
+
+Details of shareholding in select countries31 
+
+Annexure – D 
+
+Bursa Malaysia 
+
+Top 10 Shareholders 
+Capita Market Development Fund 
+Miniser of Finance Incorporate 
+Citigroup Nominees (Asing) Sdn Bhd 
+Exempt AN for Mellon Bank (ABNAMRO 
+mellon) 
+CIMSEC Nominees (Tempatan) Sdn 
+Bhd Minister of Finance Incorporated 
+(ESOS Pool Account) 
+Kumpulan Wang Persaraan 
+(Diperbadankan) 
+Employees Provident Fund Board 
+Valuecap Sdn Bhd 
+Lembaga Tambung Angkatan Tentara 
+HSBC Nominees (Asing) Sdn Bhd 
+TNTC for Saudi Arabian Monetary 
+Agency 
+Citigroup Nominees (Asing) Sdn Bhd 
+Exempt AN for Mellon Bank (Mellon) 
+Total 
+
+Top 10 Shareholders 
+Sel Holdings Pte Ltd 
+DBS Nominee Pte Ltd 
+Citibank Nominees Singapore Pte Ltd 
+HSBC (Singapore) Nominees Pte Ltd 
+Nomura Singapore Limited 
+DBSN Services Pte Ltd 
+United Overseas Bank Nominees Pte Ltd 
+Raffles Nominees Pte. Ltd. 
+DB Nominees (S) Pte Ltd 
+Philip Securities Pte Ltd. 
+Total 
+
+Singapore Exchange Limited 
+
+% of total 
+
+18.58 
+14.30 
+
+5.00 
+
+4.75 
+
+4.17 
+3.73 
+2.98 
+1.43 
+
+1.36 
+
+1.18 
+57.48 
+
+% of total 
+
+23.51 
+17.63 
+9.89 
+5.50 
+4.99 
+4.29 
+3.10 
+2.68 
+2.68 
+0.71 
+74.98 
+
+79
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+Tokyo Stock Exchange 
+
+Top 10 Shareholders 
+Govt. & Local Govt. 
+Financial Institutions 
+City & Regional Banks 
+Trust Banks 
+Life Insurance Cos. 
+Non-Life Insurance Cos. 
+Other Finances Inst. 
+Securities Companies 
+Business Corporations 
+Foreigners 
+Individuals 
+Total 
+
+Australia Stock Exchange 
+
+Top 10 Shareholders 
+HSBC Custody Nominees (Australia) 
+Limited 
+National Nominees Limited 
+
+JP Morgan Nominees Australia Limited 
+Citicorp Nominees Pty Limited 
+RBC Dexia Investor Services Australia 
+Nominees Pty Limitex 
+ANZ Nominees Limited 
+UBS Nominees Pty Limited 
+Cogent Nominees Pty Limited 
+Bond Street Custodians Limited 
+UBS Wealth Management Australia 
+Nominees Pty Limited 
+Total 
+
+NYSE EURONEXT 
+
+Name 
+Legg Mason Capital Management, Inc. 
+Barclays Global Investors, N.A. 
+State Street Global Advisors (USA) 
+Horizon Assets Management, Inc. 
+Vanguard Gropu, Inc. 
+General Atlantic LLC 
+Aronson + Johnson + Ortiz, L.P. 
+Fred Alger Management, Inc. 
+Legg Mason Value Trust, Inc. 
+Atticus Capital, L.P. 
+
+% of total 
+0.00 
+0.28 
+0.05 
+0.11 
+0.06 
+0.01 
+0.06 
+0.18 
+1.89 
+0.68 
+96.68 
+100.00 
+
+% of total 
+
+12.28 
+9.03 
+
+7.56 
+4.92 
+
+3.33 
+2.78 
+2.54 
+2.21 
+1.43 
+
+0.97 
+47.05 
+
+3.84 
+3.71 
+3.51 
+3.16 
+2.67 
+2.21 
+1.81 
+1.62 
+1.39 
+1.38 
+
+% age 
+
+80
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+NASDAQ OMX GROUP 
+
+Name 
+ 
+Borse Dubai, Ltd. 
+Horizon Assets Management, Inc 
+Wellington Management Company, LLP 
+Clearbridge Advisors 
+Barclays Global Investors, N.A. 
+Vanguard Group, Inc. 
+State Street Global Advisors (US) 
+Alliance Bernstein l.P. 
+BNP Paribas Assets Management S.A.S. 
+Aletheia Research and Management, Inc. 
+
+% age 
+
+29.87 
+5.67 
+4.38 
+4.28 
+3.80 
+3.63 
+2.60 
+1.57 
+1.52 
+1.47 
+
+LONDON STOCK EXCHANGE 
+
+Name 
+Borse Dubai Limited 
+Qatar Investment Authority 
+Horizon Asset Management Inc. 
+Unicredito Italiana SPA 
+Intesa Sanpalo SPA 
+Kinetic Asset Management Inc 
+
+% age 
+
+20.60 
+15.10 
+7.20 
+6.00 
+5.30 
+3.10 
+
+81
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Securities and Exchange Board of India 
+
+Annexure – E 
+ 
+
+ 
+
+Abbreviations 
+ 
+Annual General Meeting (AGM) 
+Association of National Exchange Members of India (ANMI)  
+Australian Securities Exchange (ASX) 
+Autorité des marchés financiers (AMF) 
+Bombay Stock Exchange Limited (BSE) 
+Central Depository Services (India) Limited (CDSL) 
+Central Securities Depositories (CSDs) 
+Chicago Mercantile Exchange (CME) 
+Chief Executive Officer (CEO) 
+Depository Participants Association of India (DPAI)  
+Executive Director (ED) 
+Federation of Indian Stock Exchanges (FISE) 
+Financial Services Authority (FSA) 
+Follow-on Public Offer (FPO) 
+Foreign Direct Investment (FDI) 
+Foreign Institutional Investor (FII) 
+Foreign Investment Promotion Board (FIPB) 
+Indian Clearing Corporation Limited (ICCL) 
+Industrial Development Bank of India (IDBI)  
+Initial Public Offer (IPO) 
+Investment Dealers Association (IDA) 
+Japan Securities Dealers Association (JSDA) 
+Life Insurance Corporation of India (LIC) 
+Managing Director (MD) 
+Market Infrastructure Institution (MII) 
+
+ 
+
+82
+
+ 
+
+Securities and Exchange Board of India 
+
+MCX Stock Exchange Limited (MCX-SX) 
+MCX-SX Clearing Corporation Limited (MCX-SX’CCL) 
+Ministry of Finance (MoF) 
+Mutual Fund Dealers Association (MFDA) 
+National Association of Securities Dealers (NASD) 
+National Futures Association (NFA) 
+National Securities Clearing Corporation Limited (NSCCL) 
+National Securities Depository Limited (NSDL) 
+National Stock Exchange of India Limited (NSE) 
+Osaka Securities Exchange (OSE) 
+OTC Exchange of India (OTCEI) 
+Public Interest Director (PID) 
+Qualified Institutional Buyers (QIBs) 
+Securities and Exchange Board of India (SEBI) 
+Securities Contracts (Manner of Increasing and Maintaining Public Shareholding 
+in Recognised Stock Exchanges) Regulations, 2006 (MIMPS) 
+Securities Contracts (Regulation) Act, 1956 (SCRA)   
+Securities Contracts (Regulation) Rules, 1957 (SCRR) 
+Self Regulatory Organisation (SRO) 
+Tokyo Stock Exchange (TSE) 
+Unit Trust of India (UTI)  
+United Stock Exchange of India Limited (USE) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+83
+
+ 
+
+Securities and Exchange Board of India 
+
+                                                                                                                                                 
+1 From the Indian Competition Act, 2002 and from “The Governance of Financial Market Infrastructure”, 
+Ruben Lee, January 2010 
+2 http://www.competition-commission-india.nic.in/advocacy/Booklet_AbuseOfDominance11032008.pdf 
+3 Shy (2001) 
+4 Shy (2001) 
+5 Rules are yet to be notified.  
+6 Agenda note for SEBI Board meeting Agenda note for SEBI Board meeting held on December 22, 2009 
+available on www.sebi.gov.in  
+7 OICU-IOSCO Report on ‘Regulatory issues arising out of Exchange evolution’, November 2006 
+8 Demutualisation of Exchanges – The conflicts of Interest (Hong Kong), by William Pearson, 2001 
+9 World Bank Note: India: Role of Self-Regulatory Organizations in Securities Market Regulation, June 
+2007  
+10 OICU-IOSCO Report on ‘Regulatory issues arising out of Exchange evolution’, November 2006 
+11  World  Bank  Discussion  paper  titled,  ‘Institutional  Organization  of  Securities  Clearing  Houses:  Finding  the 
+Balance between Diverse Industry Objectives and Public Policies’ dated August, 2009 
+12 “The Governance of Financial Market Infrastructure”, Ruben Lee, January 2010 
+13 ‘Clearing: A Risk Assessment’, by Christopher L. Culp, Futures Industry Magazine, July/August 2002 
+14 Deutsche Börse has aggressively pursued an integration strategy in which its own exchanges clear and 
+settle  through  clearing  organizations  owned  and  operated  by  Deutsche  Börse.  This  does  not  mean  that 
+Deutsche Börse clearing affiliates eschew clearing for hire. On the contrary, Clearstream International is 
+still a dominant settlement agent for cross-border cash market transactions conducted outside the Deutsche 
+Börse organization - ‘Clearing: A Risk Assessment’, by Christopher L. Culp, Futures Industry Magazine, 
+July/August 2002 
+15 “Clearing up misconceptions on clearing”, Craig Pirong, Regulation Fall 2008 
+16 “Clearing up misconceptions on clearing”, Craig Pirong, Regulation Fall 2008 
+17  As  per  the  World  Bank  Discussion  paper  titled,  ‘Institutional  Organization  of  Securities  Clearing  Houses: 
+Finding the Balance between Diverse Industry Objectives and Public Policies’ dated August, 2009, India is the 
+only  case  with  several  clearing  houses  for  the  same  assets  (for  private  securities)  among  the 
+group that includes developed market and the largest emerging markets.  
+18  The  limit  was  increased  from  5%  to  15%  to  the  specified  entities  vide  amendment  dated 
+December 23, 2008 
+19  From  “The  Structures  of  a  Demutualized  Exchange”  by  David  Holthouse,  National  Manager, 
+International Affairs, Australian Stock Exchange 
+20  IMF  working  paper,  “Demutualization  of  Securities  Exchanges:  A  Regulatory  Perspective:,  Jenniffer 
+Elloitt, 09/18/02 
+21  From  “The  Structures  of  a  Demutualized  Exchange”  by  David  Holthouse,  National  Manager, 
+International Affairs, Australian Stock Exchange 
+22 Institutions regiestered in India 
+23For  demutualised  exchanges,  especially  listed  companies,  the  concept  of  public  directors  has 
+been  supplanted  by  independent  directors  in  most  jurisdictions.  This  is  more  suitable  for  a 
+business  corporation  as  the  concept  of  a  “public  director” is  arguably  foreign  to  a  commercial 
+company where directors represent the shareholders. But Hong Kong, Singapore and India have 
+
+ 
+
+84
+
+ 
+
+Securities and Exchange Board of India 
+
+                                                                                                                                                 
+retained the category of public interest directors appointed by Government or the regulator even 
+after  demutualisation  and  listing;  in  recognition  of  the  Exchanges’  express  public  interest 
+obligations  -  World  Bank  Note:  India:  Role  of  Self-Regulatory  Organizations  in  Securities  Market 
+Regulation, June 2007  
+24 “The Governance of Financial Market Infrastructure”, Ruben Lee, January 2010 
+25 “The Governance of Financial Market Infrastructure”, Ruben Lee, January 2010 
+26  For  details  regarding  various  models,  please  refer  to  Annexure  V  of  the  agenda  note    available  at 
+http://www.sebi.gov.in/boardmeetings/129/corpgovern.html 
+27  Table  taken  from  OICU-IOSCO  Report  on  ‘Regulatory  issues  arising  out  of  Exchange  evolution’, 
+November 2006 
+28 ASX and SFE merged, effective July 25, 2006 and ASX obtained the necessary approval to acquire all of 
+the issued capital of SFE. 
+29 Holding 20% or more will be, in principle, prohibited in Japan when the 2006 law amendment is in force in 2007. 
+30  If  the  exchange  is  a  publicly-traded  company,  the  rules  and  regulations  of  the  U.S.  Securities  and 
+Exchange Commission require a shareholder of the exchange who owns more than 5% of a class of equity 
+security to promptly file with the U.S. Securities and Exchange Commission notice of any material 
+increase  or  decrease  in  the  percentage  of  the  class  beneficially  owned,  unless  at  the  time  of  the 
+initial filing the shareholder satisfied certain passive investor requirements, in which case the shareholder 
+only would need to file annually (unless such shareholder's ownership increases to more than 10% of the 
+class of securities outstanding). 
+31 Agenda note for SEBI Board meeting Agenda note for SEBI Board meeting held on December 22, 2009 
+available on www.sebi.gov.in  
+
+ 
+
+85
+
+ 
+
+

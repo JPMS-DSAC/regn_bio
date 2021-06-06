@@ -1,0 +1,732 @@
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+ 
+
+ 
+
+Consultation Paper on permitting Mutual Funds and Portfolio Managers to 
+
+participate in Commodity Derivatives Market 
+
+ 
+ 
+
+1.  Objective: 
+
+ 
+1.1. The  objective  of  the  consultation  paper is to  seek comments /  views  from  
+the    public  on  the  proposal  of  permitting  Mutual  Funds  (MFs)  and  Portfolio 
+Managers (PMs), who are authorized under an agreement to invest on behalf of 
+their  clients,  for  participation  in  exchange  traded  commodity  derivatives  and  to 
+determine an ideal regulatory framework for the proposal. 
+ 
+
+2.  Background: 
+
+ 
+2.1. The  Indian  Commodity  Derivatives  Market  has  been  running  without  any 
+institutional participation thereby lacking the desired liquidity and depth, which is 
+one  of  the  key  elements  for  the  efficient  price  discovery  and  price  risk 
+management.  In  past,  various  committees  have  recommended  for  participation 
+of institutional investors in the commodity derivatives markets, which would help 
+in  improving  the  quality  of  price  discovery,  thereby  leading  to  better  price  risk 
+management.  
+ 
+
+2.2. SEBI  constituted  an  advisory  committee  known  as  Commodity  Derivatives 
+Advisory  Committee  (CDAC)  to  advise  SEBI  for  effective  regulation  and 
+development  of  the  commodity  derivatives  market.  CDAC  has  advised  that  the 
+commodity derivatives market should be opened up to institutional  participation 
+i.e. both domestic as well as international in a phased manner.  
+
+ 
+
+2.3. Recently, SEBI has permitted Category-III Alternative Investment Funds (AIF), to 
+
+participate in the Commodity Derivatives Market. 
+
+ 
+
+2.4. SEBI has also held series of meetings with various stakeholders to discuss the 
+issues  relating  to  participation  by  MFs  and  PMs  in  the  Commodity  Derivatives 
+Market.  
+
+ 
+
+3.  Commodities as an Asset Class: 
+
+ 
+
+3.1. Commodity derivatives provide a new asset class to the investors, thereby may 
+benefit  them  with  effective  portfolio  diversification.  Adding  commodities  in  the 
+portfolio would typically increase some risk, but the overall risk adjusted return of 
+the portfolio may improve. 
+ 
+
+3.2. Addition of commodities to a hybrid portfolio can lower the overall volatility of the 
+portfolio,  since  historically  returns  from  commodities  have  not  been  highly 
+
+ 
+
+Page 1 of 7 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+correlated  with  returns  from  equities  and  fixed  income  asset  classes  as 
+highlighted in Table under Para ‘4.1’ below. 
+ 
+
+ 
+
+3.3. A  substantial  number  of  investors  (including  retail  investors)  are  not  able  to 
+directly access the Commodity Derivatives Market due to lack of knowledge and 
+expertise.  MFs  and  PMs  can  act  as  conduits  to  commodities  markets  for  such 
+investors.  
+
+ 
+
+3.4. Taking 
+
+into  account 
+
+the 
+recommendations of CDAC and feedback received from various stakeholders, it 
+may  be  considered  to  allow  participation  of  Mutual  Funds  and  Portfolio 
+Managers in the Commodity Derivatives Market. 
+
+the  aforementioned  benefits  and  based  on 
+
+ 
+
+ 
+
+4.  Correlation Matrix:  
+
+ 
+4.1. The  Correlation  Matrix  between  spot  and  future  prices  of  various  commodities 
+
+for the period Jan, 2011 to Sep, 2017 is given as under: 
+
+NIFTY 
+Index 
+
+Correlation Matrix (Jan 2011 to Sept 2017) 
+i-
+COMDEX 
+
+Copper 
+Spot 
+
+Crude 
+Spot 
+
+Gold 
+Spot 
+
+Gold 
+Futures 
+
+Crude 
+Futures 
+
+Copper 
+Futures 
+
+1 
+
+  
+
+  
+
+iCOMDEX 
+
+-0.84 
+
+1 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+-0.27 
+
+0.3 
+
+1 
+
+  
+
+-0.69 
+
+0.92  0.26 
+
+1 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+NIFTY 
+Index 
+
+Gold Spot 
+Crude 
+Spot 
+Copper 
+Spot 
+Gold 
+Futures 
+Crude 
+Futures 
+Copper 
+Futures 
+
+-0.53 
+
+0.82  0.32 
+
+0.81 
+
+1 
+
+  
+
+-0.26 
+
+0.28  0.98 
+
+0.2 
+
+0.28 
+
+1 
+
+  
+
+-0.7 
+
+0.92  0.27 
+
+1 
+
+0.81 
+
+0.2 
+
+1 
+
+  
+
+-0.54 
+
+0.82  0.32 
+
+0.81 
+
+0.99 
+
+0.28 
+
+0.81 
+
+1 
+
+ 
+Source: Bloomberg 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Page 2 of 7 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+ 
+5.  Mutual Funds 
+
+ 
+5.1. Introduction: 
+ 
+
+5.1.1. Mutual  funds  are  investment  vehicles  which  pool  money  from  investors  by 
+issuing  units  to  them  and  invest  the  money  thus  collected  in  asset  classes 
+and securities in accordance with the investment objectives as disclosed in 
+scheme  offer  documents  of  various  schemes.  In  India,  MF  schemes 
+generally invest in equity or debt instruments of companies, govt. securities, 
+money market instruments, etc.  
+
+ 
+
+5.1.2. In addition to the above, there are specific schemes such as Gold Exchange 
+Traded Funds (ETFs) which invest in gold or gold related instruments  (gold 
+related  instruments  includes  gold  deposit  scheme/  gold  monetization 
+scheme)  and  Gold  Fund  of  Funds  (FoF)  schemes  which  invests  mainly  in 
+units of Gold ETFs.  
+
+ 
+
+5.1.3. At  present,  except  Gold  ETFs  there  are  no  other  category  of  mutual  fund 
+
+schemes having exposure to Commodities market. 
+
+ 
+
+5.1.4. Operation  of  MFs  in  India  are  being  governed  and  regulated  by  SEBI 
+(Mutual  Funds)  Regulations,  1996  and  various  circulars  and  guidelines 
+issued there under from time to time. 
+
+ 
+
+5.2. Existing Provisions & Schemes: 
+ 
+
+5.2.1. Regulation 43(1) of SEBI (Mutual Funds) Regulations, 1996 allows a mutual 
+fund  to  invest  moneys  collected  under  any  of  its  schemes  in  various 
+instruments  including  ‘Securities’  as  defined  under  Securities  Contracts 
+(Regulation) Act 1956. 
+ 
+
+5.2.2. ‘Derivatives’  are  already  covered  under  ‘Securities’  definition  as  per 
+Securities  Contracts  (Regulation)  Act  1956  and  definition  of  ‘Derivatives’ 
+includes ‘Commodity Derivatives’.  
+
+ 
+
+5.2.3. As  per  Securities  Contracts  (Regulation)  (Stock  Exchanges  and  Clearing 
+Corporations)  Regulations,  2012,  a  Commodity    Derivatives    Exchange  
+means    a  recognized    stock    exchange    which  assists,    regulates    or  
+controls    the    business    of    buying,    selling    or    dealing  only  in  commodity 
+derivatives. 
+
+ 
+
+5.2.4. Existing  regulatory  provisions  applicable  for  mutual  funds,  allows  mutual 
+funds  to  launch  only  one  kind  of  commodity  mutual  fund  scheme  i.e.  Gold 
+ETFs  which  invest  in  gold  and  gold  related  instruments.  Gold  related 
+instruments  include  gold  deposit  scheme  and  gold  monetization  scheme. 
+
+ 
+
+Page 3 of 7 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+There  are  few  Gold  Fund  of  Fund  schemes  investing  only  in  units  of  Gold 
+ETFs.  Gold  ETFs  are  required  to  invest  at  least  95%  of  the  asset  under 
+management in gold and gold related instruments. As on 31st October, 2017 
+the total asset size of Gold ETF is around Rs. 5,017 cr. (i.e. around 0.23% of 
+the total industry Asset under Management (AUM)) with 3,55,085 folios. 
+
+ 
+
+5.3. Matters for consideration: 
+
+5.3.1.  Whether MFs can be permitted to participate in commodity derivatives? 
+ 
+5.3.2.  What  can  be  the  appropriate  route  through  which  Mutual  Funds  may 
+participate in commodity derivatives? In this respect, whether the following 
+routes can be considered:  
+
+ 
+
+5.3.2.1.  Through  separate  dedicated  schemes  (a  new  scheme)  based  on 
+
+commodity derivatives: 
+
+ 
+
+5.3.2.1.1.  ETFs  based  on  Commodity  Derivatives:  Can  dedicated  ETFs 
+be  considered  on  certain  commodities  or  a  basket  of 
+commodities as permitted by SEBI from time to time? 
+
+ 
+
+5.3.2.1.2.  Open-Ended Schemes (Passive/Active) based on Commodity 
+Derivatives:  Can  open  ended  schemes  be  considered  which 
+intend  to  invest  majority  of  the  AUM  in  exchange  traded 
+commodity  derivatives  as  permitted  by  SEBI  from  time  to 
+time? Such scheme could be launched either as an index fund 
+or could be actively managed. 
+
+ 
+
+5.3.2.1.3.  Commodity  Arbitrage  Funds:  Can  commodity  arbitrage  funds 
+be  considered,  where  the  scheme  intends  to  benefit from  the 
+arbitrage  opportunity  available  between  cash  and  derivatives 
+market  in  commodities  as  permitted  by  SEBI  from  time  to 
+time? 
+
+ 
+
+5.3.2.1.4.  Any other Category of Schemes. 
+
+ 
+
+5.3.2.2.  Through investing part of the AUM (of the existing/ new schemes) in 
+
+Commodity Derivatives: 
+
+ 
+
+5.3.2.2.1.  Hybrid Schemes / Multi-Asset Scheme: Can MFs be permitted 
+to  invest  certain  percentage  of  the  AUM  of  existing  hybrid/ 
+multi-asset schemes in commodity derivatives?  
+
+ 
+
+5.3.2.2.2.  Gold  ETFs:  Can  MFs,  in  case  of  existing  Gold  ETFs,  be 
+permitted to invest in exchange traded  commodity  derivatives 
+
+Page 4 of 7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+with gold as underlying as part of gold related instruments to a 
+certain extent? 
+
+ 
+
+ 
+
+5.3.2.2.3.  Gold Fund of Fund (FoF) Schemes: Can MFs, in case of Gold 
+Fund  of  Fund  Schemes,  be  permitted  to  invest  certain 
+percentage of the AUM in Commodity Derivatives? 
+
+ 
+5.3.3.  It  may  be  noted  that  while  investing  in  commodity  derivatives,  the 
+cumulative  gross  exposure  through  equity,  debt  and  derivative  positions 
+(including  commodity  derivatives)  should  not  exceed  100%  of  the  net 
+assets of the scheme. 
+
+5.3.4.  Whether  there  is  a  need  for  investment  restrictions  to  be  placed  on  MF 
+
+schemes which invest only in commodity futures? 
+ 
+E.g.  whether  for  portfolio  diversification  in  a  particular  scheme,  the  MFs 
+can be permitted to invest in exchange traded commodity derivatives, not 
+more than  ten percent  of  the  net  Asset  under  Management  (AUM)  of  the 
+scheme in one underlying commodity. 
+
+ 
+5.3.5.  Any  other  concerns  or  suggestions  relating  to  participation  of  MFs  in 
+
+exchange traded commodity derivatives. 
+
+ 
+6.  Portfolio Managers 
+
+ 
+
+6.1. Introduction 
+
+ 
+6.1.1.  Portfolio Managers provide a customized service of advising or managing 
+the  portfolio  of  securities  or  funds  of  their  clients.  Such  services  are 
+provided  pursuant  to  an  agreement  between  the  client  and  the  Portfolio 
+Manager, which governs the nature and scope of the services. 
+
+ 
+
+6.1.2.  PMs provide the following services: 
+ 
+
+6.1.2.1.  Discretionary Portfolio Management Services 
+
+ 
+
+6.1.2.2.  Non-Discretionary Portfolio Management Services 
+
+ 
+
+6.1.2.3.  Advisory Services 
+
+ 
+
+6.1.3.  PMs  are  required  to  segregate  the  securities  of  all  their  clients  availing 
+
+Discretionary and Non-Discretionary Portfolio Management Services. 
+ 
+ 
+ 
+
+ 
+
+Page 5 of 7 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+Securities and Exchange Board of India 
+
+ 
+
+ 
+
+ 
+
+6.2. Existing Provisions 
+
+ 
+6.2.1.  ‘Derivatives’  are  already  covered  under  definition  of  ‘Securities’  as  per 
+Securities  Contracts  (Regulation)  Act  1956  and  ‘Commodity  Derivatives’ 
+have  been  covered  under  the  definition  of  ‘Derivatives’  vide  Finance  Act 
+2015.  
+
+ 
+
+6.2.2.  Regulation 16(3) of SEBI (Portfolio Managers) Regulations, 1993 allows a 
+Portfolio  Manager  to  invest  funds  of  clients  in  money  market  instruments 
+or  derivatives  or  as  specified  in  the  contract.  However,  SEBI,  vide  its 
+circular dated September 27, 2016 in line with the stipulation by erstwhile 
+FMC, stated that PMS would not be permissible in Commodity Derivatives 
+Market. 
+
+ 
+
+6.3. Proposal 
+
+ 
+6.3.1.  In view of the benefits that investing in commodity derivatives may provide, 
+it  is  proposed  to  rationalize  the  SEBI  (Portfolio  Managers)  Regulations, 
+1993  and  SEBI  Circulars  to  enable  participation  by  PMs  in  Commodity 
+Derivatives  market.  Further,  during  the  deliberation  with  stakeholders,  it 
+was suggested that: 
+
+ 
+
+6.3.1.1.  Leveraging of  portfolio may be permitted in respect of investment in 
+
+derivatives, which is presently not permitted. 
+
+ 
+
+6.3.1.2.  Investing in high value commodity derivative contracts from individual 
+clients’ accounts can lead to concentration risk. Therefore, pooling of 
+investments may be permitted in respect of transactions in exchange 
+traded commodity derivatives, which is presently not permitted. 
+
+ 
+
+6.4. Matters for consideration: 
+
+ 
+
+6.4.1.  Whether  PMs  can  be  permitted  to  participate  in  commodity  derivatives 
+
+market? 
+ 
+
+6.4.2.  Whether PMs can be permitted to leverage the portfolio of their clients for 
+
+investing in commodity derivatives? If yes, then: 
+
+6.4.2.1.  What can be the optimum extent of leveraging? 
+
+ 
+
+6.4.2.2.  What mechanisms can be put in place to safeguard the interests of 
+
+clients? 
+
+ 
+
+6.4.2.3.  What  disclosures  can  be  included  in  the  Disclosure  Document  to 
+
+adequately disclose the enhanced risk of portfolio leveraging? 
+
+ 
+
+Page 6 of 7 
+
+ 
+
+ 
+
+ 
+
+¼ããÀ¦ããè¾ã   ¹ãÆãä¦ã¼ãîãä¦ã   ‚ããõÀ   ãäÌããä¶ã½ã¾ã   ºããñ¡Ã 
+
+ 
+
+ 
+6.4.3.  Whether  PMs  can  be  permitted  to  pool  the  investments  in  commodity 
+
+ 
+
+Securities and Exchange Board of India 
+
+ 
+
+derivatives? If yes, then: 
+
+ 
+
+6.4.3.1.  Who should maintain such pool? 
+
+ 
+
+6.4.3.2.  What mechanisms can be put in place to safeguard the interests of 
+
+clients? 
+
+ 
+
+6.4.3.3.  What  disclosures  can  be  included  in  the  Disclosure  Document  to 
+adequately  disclose  the  enhanced  risk  caused  by  pooling  of 
+commodity derivatives? 
+
+ 
+
+6.4.4.  In  case,  portfolio  leveraging  and  pooling  of  commodity  derivatives  is 
+permitted, should the participation in Commodity Derivatives be restricted 
+only to the clients beyond a certain threshold? 
+
+ 
+
+6.4.5.  Any other concern / suggestion regarding participation of PMs in exchange 
+
+traded commodity derivatives. 
+
+ 
+
+7.  Public Comments: 
+
+ 
+7.1. Comments  from  public  are  invited  on  the  proposal  contained  in  this  paper 
+specifically as brought out under Para 5.3 and 6.4. The comments should reach 
+SEBI latest by December 31, 2017. 
+ 
+The  comments 
+to 
+mfcomments@sebi.gov.in    and  the  comments  regarding  Portfolio  Managers 
+may be sent to pms@sebi.gov.in. 
+ 
+
+regarding  Mutual  Funds  may  be  sent  by  email 
+
+7.2. Comments/ suggestions may kindly be provided in the format given below: 
+
+ 
+Name of the Entity/ Person: 
+
+Sl. No.  Reference para of the consultation 
+
+Suggestions 
+
+Rational 
+
+ 
+
+paper 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 7 of 7 
+
+ 
+
+

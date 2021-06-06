@@ -1,0 +1,156 @@
+
+ 
+Nov 19, 2014
+
+PR No.:  
+130/2014
+
+
+The SEBI Board met in Mumbai today and took the following decisions:
+ 
+(I)  SEBI  (Prohibition of Insider Trading) Regulations, 2014
+(1)       Two decades had passed since the SEBI (Prohibition of Insider Trading) Regulations, 1992 were notified which was framed to deter the practice of insider trading in the securities of listed companies. Since then there had been several amendments to the regulations and judicial paradigm through case laws had also evolved in India. To ensure that the regulatory framework dealing with insider trading in India is further strengthened, SEBI sought review of the extant Insider Trading regulatory regime and constituted a committee under Chairmanship of Hon’ble Justice N. K. Sodhi. 
+(2)       Board in its meeting deliberated on the Justice Sodhi Committee Report and public comments received thereon. The Board has approved a new regulation in place of the existing regulations.
+(3)       The new regulations strengthen the legal and enforcement framework, align Indian regime with international practices, provide clarity with respect to the definitions and concepts, and facilitate legitimate business transactions. The salient features of the regulations are as under:-
+(A) STRENGTHENING THE LEGAL AND ENFORCEMENT FRAMEWORK
+            (i) The definition of Insider has been made wider by including persons connected on the basis of being in any contractual, fiduciary or employment relationship that allows such person access to unpublished price sensitive information (UPSI). However directors, employees and all other persons in the deeming category covered under 1992 regulations would continue to be covered. Insider will also include a person who is in possession or has access to UPSI. Now, immediate relatives will be presumed to be connected persons, with a right to rebut the presumption. In 1992 regulations, definition of connected person was largely position based.  
+            (ii) In the case of connected persons the onus of establishing, that they were not in possession of UPSI, shall be on such connected persons.
+            (iii)  Clear prohibition on communication of unpublished price sensitive information (UPSI) has been provided except legitimate purposes, performance of duties or discharge of legal obligations.
+            (iv)  Considering every investor's interest in securities market, advance disclosure of UPSI at least 2 days prior to trading has been made mandatory in case of permitted communication of UPSI.
+            (v)  UPSI has been defined as information not generally available and which may impact the price. The definition of UPSI has been strengthened by providing a test to identify price sensitive information, aligning it with listing agreement and providing platform of disclosure. Earlier, the definition of price sensitive information had reference to company only; now it has reference to both a company and securities.
+            (vi)  Generally Available Information will be the information that is accessible to the public on a non-discriminatory platform which would ordinarily be stock exchange platform.
+            (vii) Companies by law would be entitled to require third-party connected persons to disclose their trading and holdings in securities of the company.
+            (viii) In line with Companies Act, 2013, prohibition on derivative trading by directors and KMPs on securities of the company has been provided.
+ 
+(B) ALIGNING INSIDER TRADING NORMS WITH INTERNATIONAL PRACTICES 
+            (i) The requirement of communication of UPSI in the case of legitimate business transaction has been recognized in law and a carve-out with safeguards has been provided. [Reference to A (iii) and (iv) above]
+            (ii) Disclosure of UPSI in public domain has been made mandatory before trading, so as to rule out asymmetry of information in the market, as prevalent in other jurisdictions. [Reference to A (iv) above]
+            (iii) A provision of Trading Plans on the lines of U.S. has been introduced for insiders with necessary safeguards. Such a plan has to be for bona fide transactions and has to be disclosed on stock exchange platform in advance.
+(C) CLARITY IN THE DEFINITIONS AND CONCEPTS 
+            (i) With important provisions, clarificatory notes have been inserted in the regulations itself.
+            (ii) Clarity has been brought to the definition of UPSI by aligning it with listing agreement and making the definition inclusive.
+            (iii) To provide clarity, Generally Available Information has been defined as information that is accessible to public on a non-discriminatory platform such as stock exchange. [Reference to A (vi) above] 
+            (iv) Clarity about timing of disclosure of UPSI has been provided and the trading window norms have been made uniform to other connected persons.
+(D) FACILITATING LEGITIMATE BUSINESS TRANSACTIONS
+            (i) To facilitate legitimate business transactions, unpublished price sensitive information (UPSI) can be communicated with safeguards. [reference to A (iii) & (iv) above]
+            (ii) Insiders who are liable to possess UPSI all round the year would have the option to formulate pre-scheduled trading plans. Trading plans would, however, to be disclosed on the stock exchanges and have to be strictly adhered to. Trading plans shall be available for bona fide transactions. 
+            (iii) Principle based Code of Fair Disclosure and Code of Conduct has been prescribed. 
+            (iv) In given cases, certain circumstances which can be demonstrated by an insider to prove his innocence have been provided.
+            (v) Repeated disclosures have been removed so as to ease compliance burden and to align with Takeover Code. Disclosure of any change of 2% for persons holding more than 5% shares or voting rights has been removed as they are prescribed under Takeover Code.
+ 
+ 
+(II)        Conversion of Listing Agreements into Regulations - SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2014
+ 
+(1)       The SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2014 (Listing Regulations), inter-alia, will be comprehensive Regulation in respect of various types of listed securities. This  Regulation would consolidate and streamline the provisions of existing listing agreements thereby ensuring better enforceability. This  Regulation would be applicable for the following type of securities:-
+(i)         Specified Securities (includes equity and convertibles) - Listed on Main     Board and SME Platform 
+(ii)        Non-convertible Debt Securities
+(iii)       Non-Convertible Redeemable Preference Shares  (NCRPS)
+(iv)       Indian Depository Receipts
+(v)        Securitised Debt Instruments
+(vi)       Units issued by Mutual Fund Schemes
+ 
+(2)       While the common obligations applicable to all listed entities  have been enumerated at the beginning of the Listing Regulations,  obligations which are applicable to specific type of securities have been laid down in separate chapters.
+ 
+(3)       The Listing Regulations have been sub-divided into  three parts viz.,(a)  substantive provisions incorporated in the main body of Regulations; (b) procedural requirements in the form of Schedules to the Regulations; and (c) various formats / forms of disclosures to be specified by SEBI through circular(s). Some of the important new provisions in the Listing Regulations include ::
+ 
+  (i)       The overarching principles for making disclosures & obligations.
+ 
+  (ii)      Mandatory filing on Stock Exchanges  through electronic platform. 
+ 
+  (iii)     Mandatory appointment of Company Secretary as compliance officer except for  units of Mutual Funds listed on Stock Exchanges.
+ 
+(iv)       Introduction of enabling provision for Annual Information Memorandum. 
+ 
+(v)        Mandatory registration in SCORES by all listed entities for redressal of investor grievances.
+ 
+(vi)       Mandatory for listed entities to co-operate with intermediaries registered with SEBI.  
+ 
+(vii)      Converged provisions for specified securities (equity segment) listed on Main Board and SME Platform with necessary  carve-outs for SMEs. 
+ 
+(viii)     Applicability of certain equity segment provisions, such as, submission of Form B (audit reports containing modified opinion), transfer and transmission of securities, etc.  to entities which have listed their Debt Securities and/or NCRPS.
+ 
+(ix)       Necessity to execute a  shortened version of Listing Agreement  within six months of notification of these regulations.
+ 
+(4)       In addition to the above, a number of changes which are in the nature of either providing clarity or maintaining consistency or removal of redundancies have been carried out in the Listing Regulations.  Such changes include removal of dichotomy regarding utilization of issue proceeds, manner of dealing with unclaimed shares, aligning connected provisions pertaining to disclosures on website and issuing advertisements,  disclosures  in Annual Report, documents and information to be provided to holders of securities, terms and structure of securities, and operational modalities in manner of review of audit reports with modified opinion, etc.
+ 
+(5)       There were certain provisions in the listing agreements related to issuance of securities and not in the nature of continuous obligations, such as, 1% security deposit, allotment, refund, payment of interest on account of delay in allotment / non-allotment, etc. They have been now incorporated in respective regulations, viz., ICDR Regulations, ILDS Regulations, etc. Similarly, requirements which are in the nature of continuous disclosure and obligations have been shifted and now incorporated in the Listing Regulations.
+ 
+(III) Amendment to SEBI (Delisting of Equity Shares) Regulations, 2009
+As a part of SEBI's constant endeavour to review the existing regulatory framework to align with the changing market realities, the following changes to SEBI (Delisting of Equity Shares) Regulations, 2009 have been approved:
+ 
+(i)         The delisting shall be considered successful only when (A) the shareholding of the acquirer together with the shares tendered by public shareholders reaches 90% of the total share capital  of the company and (B) if atleast 25% of the number of public shareholders, holding shares in dematerialised  mode as on the date of the Board meeting which approves the delisting proposal,  tender in the reverse book building process.
+ 
+(ii)        The offer price determined through Reverse  Book Building  shall be the price at which the shareholding of the promoter, after including the shareholding of the public shareholders who have tendered their shares, reaches the threshold limit of 90%.
+ 
+(iii)       The promoter/ promoter  group shall be prohibited from making a delisting offer if any entity belonging to the said group has sold shares of the company during a period of six months prior to the date of the Board meeting which approves the delisting proposal.
+ 
+(iv)       Use of Stock Exchange platform for offers made under Delisting, Buy Back and Takeover Regulations.
+ 
+(v)        The Board of the company shall approve the proposal for delisting only after satisfying itself that delisting is in the interest of shareholders and that the company is in compliance with applicable securities laws.  The Board of the company shall appoint a Merchant Banker on behalf of the company and the promoter for the said purpose and for compliance with the Delisting Regulations.
+ 
+(vi)       Companies whose paid up capital does not exceed Rs.10 crores and net worth does not exceed Rs.25 crores as on the last day of the previous financial year  are exempted from following the Reverse Book Building process. The exemption would be available only if  (a) there was no trading in the shares of the company in the last one year from the date of the board resolution authorizing the company to go for delisting and (b) trading of shares of the company has not been suspended for any non-compliance during the same period.
+ 
+(vii)      Timelines for completing the delisting process has been reduced from 137 calendar days (approx 117 working days) to 76 working days.
+ 
+(viii)     Option to the acquirer to delist the shares of the company directly through Delisting  Regulations pursuant to triggering Takeover Regulations has been provided.  However, if the delisting attempt fails, the acquirer would be required to complete the mandatory open offer process under the Takeover Regulations and pay interest @ 10% p.a. for the delayed open offer.
+ 
+(ix)       SEBI may, for reasons recorded in writing, relax the strict enforcement of any requirement of the provisions of the Delisting Regulations or exempt from compliance, in line with the provisions existing in ICDR and Takeover Regulations.
+ 
+(IV)  Amendment in SEBI (Mutual Funds) Regulations, 1996
+ 
+SEBI Board has approved a proposal permitting AMCs who are yet to meet with the revised networth requirement of Rs. 50 crore, to launch a maximum of two schemes per year till the time such AMCs meet with the net worth requirements. Such permission would be considered on a case to case basis, depending on such AMCs demonstrating that serious efforts are being made by them to meet the networth requirements within the prescribed timelines.  
+ 
+(V)  Risk based supervision of market intermediaries 
+ 
+The Board took note of the recommendations viz. simple, formalized and risk based supervision approach for the market intermediaries as suggested by M/s. Oliver Wyman, the Consultant appointed by SEBI to study and make recommendations, inter-alia with the objective of designing best practice regulatory approach, and the report of the internal taskforce of SEBI formed to implement the  recommendations.
+ 
+Based on above, SEBI is in the process of formalizing its risk based approach towards supervision of market intermediaries which will be in alignment with the global best practices. The system will be implemented in a phased manner.
+ 
+(VI)  Granting Single Registration to Depository Participants 
+ 
+With a view to further simplify the registration requirements for Depository Participants (DPs), the Board has approved the policy of granting single registration for the application of initial registration as well as the permanent registration for operating with both the Depositories. Currently, the Depository participants are required to obtain separate registration for both the depositories. Further the applicants are granted initial registration for five years and then permanent registrations. 
+ 
+As per the new policy SEBI would process the registration application only for the first time initial or permanent registration, as the case may be,  through one depository and subsequent permissions to act as a DP of other depository, shall be granted by the concerned Depository after complying with the prescribed requirements. Thus, there will be a single SEBI registration for DP to operate in both the Depositories in India.
+ 
+This initiative will streamline and simplify the registration process and will reduce the regulatory burden and save the cost and time of the applicants.
+The Board took note of other measures taken by SEBI in the last two years to simplify the process of registration and to reduce the regulatory burden.  Some of these measures include doing away with segment-wise registration for brokers,  removing the requirement of separate registration with different stock exchanges and allowing one time registration instead of yearly approval.
+(VII)  Recommendations of the Depository System Review Committee (DSRC)
+ 
+SEBI had constituted an expert committee, the Depository System Review Committee to inter-alia review and assess the depository system on the basis of CPSS-IOSCO principles so as to benchmark with global best practices and suggest areas for improvement.
+ 
+The committee gave its interim recommendations in the area of IT governance,  oversight and inspection framework which were accepted and implemented by SEBI.
+ 
+The committee submitted its final report to SEBI in August 2014. The recommendations of the committee in the final report inter-alia are on risk management, financial inclusion and expanding the reach of depository services, Investor Protection Fund of the depositories, outsourcing policy and IT Infrastructure.
+ 
+The Board after deliberations accepted the recommendations given in the final report.
+ 
+(VIII) Notice for settlement of certain administrative and civil proceedings
+ 
+SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2014 (Regulations) enables settlement of administrative and civil proceedings under the SEBI Act, 1992, the Securities Contracts (Regulation) Act, 1956 and the Depositories Act, 1996.
+ 
+As per the extant practice, settlement of administrative and civil proceedings commences generally after issuance of a formal show cause notice. However, this does not bar any person from suo motu approaching SEBI for settlement, if he is aware of the probable SEBI action. The relevant provisions of the securities laws, i.e., section 15JB of SEBI Act, section 23JA of the Securities Contracts (Regulation) Act, 1956 and section 19-IA of the Depositories Act, 1996 and corresponding regulation 3 of the Regulations entitle a person to approach SEBI even before the initiation of the enforcement proceedings:
+ 
+This being so, it is noted that the extant practice of providing the first opportunity to settle administrative and civil proceedings only post show cause notice stage results in delay in conclusion of proceedings and resultant wastage of resources. SEBI, has, therefore, decided that in minor violations intimation will be sent about the impending enforcement action to the concerned parties upon approval of the said actions by the competent authority and before a show cause notice is issued. This would enable parties to seek settlement of proceedings or make voluntary submissions even prior to receipt of a detailed show cause notice. If any party avails such an opportunity to respond to such a notice, the proposed proceedings may be settled(unless rejected) or discontinued on the basis of the submissions of the noticee (if any).
+ 
+The notice of impending enforcement proceedings which will be treated as a show cause notice under regulation 4 of the Regulations, contain the charges and relevant extracts of findings of investigation/inspection. Such notices would only cover minor violations specified under Chapter VI and Column 2 of Table XII of Chapter VII of Schedule II of the Regulations. In these cases, procedure for settlement as specified in the Regulations will be followed.
+ 
+(IX)  Re-classification of Promoters as Public 
+ 
+The  Board approved the proposal to initiate public consultation process on re-classification of promoters on the basis of  the discussion paper placed before it.
+ 
+(X)  Issuance of partly paid shares and warrants by Indian companies
+
+The  Board approved the proposal to initiate public consultation process regarding issuance of partly paid shares and warrants by Indian companies on the basis of  the discussion paper placed before it.
+ 
+(XI)  Use of Secondary Market infrastructure for public issuance (“e-IPO”)
+ 
+The  Board approved the proposal to frame suitable regulations for using Secondary Market infrastructure for public issuance (“e-IPO”)  after going through the public consultation process.
+ 
+(XII)  Imposing restrictions on wilful defaulters - Amendments to Regulations framed under SEBI Act, 1992  
+
+The  Board approved the proposal to review the policy in respect of restricting an issuer company / its promoter / directors, categorized as wilful defaulter, from raising capital after going through the public consultation process.
+ 
+(XIII) Amendments in Securities and Exchange Board of India (Foreign Venture Capital Investors) Regulations, 2000
+ 
+The FVCI Regulations till now did not allow investments in NBFCs except Equipment Leasing and Hire Purchase Companies. To encourage investments in infrastructure, the Board approved amendments in FVCI Regulations to allow FVCIs to invest in NBFC-CIC (Core Investment Companies), as defined by RBI.
+
